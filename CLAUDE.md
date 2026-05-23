@@ -15,8 +15,10 @@
 
 **SCAFFOLD PRONTO E NO GITHUB.** O molde foi copiado e adaptado (categorias dinâmicas + filtro de nicho + rebrand). Repo público: **github.com/ManoelSilvaNeto/radar-globalnote**. CI (GitHub Actions) **verde**: testes (33) + pipeline + build passam; **Deploy ainda SKIPPED** (faltam os secrets do Cloudflare). Pipeline validado: 621→57 artigos do nicho, 22 clusters.
 
+**⭐ RETOMAR AQUI (2026-05-24) — decisão pendente da chave Gemini:** a conta Google do dono atingiu o **limite de projetos** (não cria projeto novo; excluídos só liberam após 30 dias). Recomendei **ativar billing (paid tier)** no "Gemini Project" existente → 1 chave pra fábrica toda, sem briga de cota, e **melhora o noticias** (hoje degrada após ~20-25 resumos/dia). ~US$3-8/mês por site, com teto de gasto. Criar *chave* em projeto existente é permitido. Alternativa R$0: chave numa 2ª conta Google. **Decisão fica pra amanhã.**
+
 **FALTA pra ir a produção (próximos passos):**
-1. Cadastrar 3 secrets no repo (o dono fornece): `GEMINI_API_KEY` (chave NOVA, projeto Google separado), `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` (mesmos valores do noticias).
+1. Definir a chave Gemini (ver acima) e cadastrar 3 secrets no repo (o dono fornece): `GEMINI_API_KEY`, `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` (mesmos valores do noticias).
 2. Disparar o workflow → pipeline com IA (categorias dinâmicas de verdade) + deploy → cria o Pages `radar` → site em `radar.pages.dev`.
 3. Dono adiciona CNAME `radar` no registro.br → `radar.pages.dev` + custom domain no Pages.
 4. Propagação: GSC, Bing, Google News, Bluesky/Mastodon (contas novas), Newsletter (Buttondown novo). SEM Telegram.
