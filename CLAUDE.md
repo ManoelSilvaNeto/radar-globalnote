@@ -13,7 +13,13 @@
 
 ## ⏳ Estado atual (2026-05-23)
 
-Decisões fechadas (ver `DECISOES.md` nesta pasta). **O código do Radar AINDA NÃO foi iniciado** — o próximo passo é **copiar o molde** do GlobalNoticias pra cá e adaptar. Esta pasta hoje só tem `DECISOES.md` e este `CLAUDE.md`.
+**SCAFFOLD PRONTO E NO GITHUB.** O molde foi copiado e adaptado (categorias dinâmicas + filtro de nicho + rebrand). Repo público: **github.com/ManoelSilvaNeto/radar-globalnote**. CI (GitHub Actions) **verde**: testes (33) + pipeline + build passam; **Deploy ainda SKIPPED** (faltam os secrets do Cloudflare). Pipeline validado: 621→57 artigos do nicho, 22 clusters.
+
+**FALTA pra ir a produção (próximos passos):**
+1. Cadastrar 3 secrets no repo (o dono fornece): `GEMINI_API_KEY` (chave NOVA, projeto Google separado), `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` (mesmos valores do noticias).
+2. Disparar o workflow → pipeline com IA (categorias dinâmicas de verdade) + deploy → cria o Pages `radar` → site em `radar.pages.dev`.
+3. Dono adiciona CNAME `radar` no registro.br → `radar.pages.dev` + custom domain no Pages.
+4. Propagação: GSC, Bing, Google News, Bluesky/Mastodon (contas novas), Newsletter (Buttondown novo). SEM Telegram.
 
 ## Decisões fechadas
 
