@@ -1,0 +1,168 @@
+---
+import type { Story } from '../lib/types';
+import { formatDateTime } from '../lib/format';
+import { storySlug } from '../lib/story';
+
+interface Props {
+  story: Story;
+  featured?: boolean;
+}
+
+const { story, featured = false } = Astro.props;
+const primary = story.sources[0];
+const badge = story.categoria;
+const when = formatDateTime(story.updatedAt);
+// Link estável da notícia: a página própria dela (/noticia/<slug>), que carrega
+// o og:image da própria história — compartilhamento vai com a foto certa.
+const shareUrl = new URL(`/noticia/${storySlug(story)}/`, Astro.site!).href;
+// Atalho direto do WhatsApp (botão extra visível só no PC, onde o menu nativo de
+// compartilhar não existe). No celular o botão "Compartilhar" já lista o WhatsApp.
+const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(`${story.titulo} ${shareUrl}`)}`;
+---
+
+<article id={story.clusterId} class="scroll-mt-28 border-b border-neutral-200 py-5 dark:border-neutral-800">
+  <div class="flex items-center gap-2 text-xs">
+    {badge && <a href={`/${story.categoriaSlug}`} class="font-medium uppercase tracking-wide text-sky-700 hover:underline dark:text-sky-400">{badge}</a>}
+    {when && <time class="text-neutral-500" datetime={story.updatedAt}>{when}</time>}
+  </div>
+
+  <div class="mt-2 flex gap-4">
+    <div class="min-w-0 flex-1">
+      <h2 class:list={['font-serif font-bold leading-snug', featured ? 'text-2xl sm:text-3xl' : 'text-lg']}>
+        <a
+          href={primary?.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="hover:text-sky-700 hover:underline dark:hover:text-sky-400"
+        >
+          {story.titulo}
+        </a>
+      </h2>
+
+      {
+        featured && story.imageUrl && (
+          <img
+            src={story.imageUrl}
+            alt=""
+            loading="lazy"
+            decoding="async"
+            referrerpolicy="no-referrer"
+            onerror="this.remove()"
+            class="mt-3 aspect-video w-full rounded-lg object-cover"
+          />
+        )
+      }
+
+      <p class:list={['mt-2 text-neutral-700 dark:text-neutral-300', featured ? 'text-base' : 'text-sm']}>{story.resumo}</p>
+
+      {
+        story.porQueImporta && (
+          <p class="mt-3 border-l-2 border-sky-500 pl-3 text-sm text-neutral-600 dark:text-neutral-400">
+            <span class="font-semibold text-neutral-800 dark:text-neutral-200">Por que importa:</span> {story.porQueImporta}
+          </p>
+        )
+      }
+
+      <div class="mt-3 flex items-start justify-between gap-3">
+        <div class="flex flex-wrap items-center gap-2 text-xs">
+          <span class="text-neutral-400">Fontes:</span>
+          {
+            story.sources.map((s) => (
+              <a
+                href={s.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="rounded-full bg-neutral-100 px-2 py-0.5 text-neutral-600 hover:bg-neutral-200 hover:text-neutral-900 dark:bg-neutral-800 dark:text-neutral-300 dark:hover:bg-neutral-700"
+              >
+                {s.name}
+              </a>
+            ))
+          }
+        </div>
+
+        <div class="flex shrink-0 items-center gap-1">
+          <a
+            href={whatsappUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Compartilhar no WhatsApp"
+            class="hidden items-center gap-1 rounded-full px-2 py-0.5 text-xs text-green-600 hover:bg-green-50 sm:inline-flex dark:text-green-500 dark:hover:bg-green-950/40"
+          >
+            <svg viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5" aria-hidden="true">
+              <path d="M.057 24l1.687-6.163a11.867 11.867 0 01-1.587-5.945C.16 5.335 5.495 0 12.05 0a11.817 11.817 0 018.413 3.488 11.824 11.824 0 013.48 8.414c-.003 6.557-5.338 11.892-11.893 11.892a11.9 11.9 0 01-5.688-1.448L.057 24zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884a9.86 9.86 0 001.51 5.26l-.999 3.648 3.978-.607zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z" />
+            </svg>
+            <span>WhatsApp</span>
+          </a>
+
+          <button
+            type="button"
+            data-share
+            data-share-url={shareUrl}
+            data-share-title={story.titulo}
+            aria-label="Compartilhar esta notícia"
+            class="inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-xs text-neutral-500 hover:bg-neutral-100 hover:text-sky-700 dark:hover:bg-neutral-800 dark:hover:text-sky-400"
+          >
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-3.5 w-3.5" aria-hidden="true">
+              <circle cx="18" cy="5" r="3" />
+              <circle cx="6" cy="12" r="3" />
+              <circle cx="18" cy="19" r="3" />
+              <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" />
+              <line x1="15.41" y1="6.51" x2="8.59" y2="10.49" />
+            </svg>
+            <span class="share-label">Compartilhar</span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    {/* Miniatura lateral só no PC (escondida no celular: texto-first). A manchete usa a foto grande acima. */}
+    {
+      !featured && story.imageUrl && (
+        <img
+          src={story.imageUrl}
+          alt=""
+          loading="lazy"
+          decoding="async"
+          referrerpolicy="no-referrer"
+          onerror="this.remove()"
+          class="hidden h-24 w-32 shrink-0 rounded-md object-cover sm:block"
+        />
+      )
+    }
+  </div>
+</article>
+
+<script>
+  // Um listener delegado pra todos os cards (o Astro empacota este script uma vez).
+  // Celular: abre a folha de compartilhamento nativa (WhatsApp, etc.). PC/sem
+  // suporte: copia o link e dá um feedback rápido no botão.
+  document.addEventListener('click', async (event) => {
+    const btn = (event.target as HTMLElement).closest<HTMLButtonElement>('[data-share]');
+    if (!btn) return;
+    const url = btn.dataset.shareUrl ?? '';
+    const title = btn.dataset.shareTitle ?? '';
+
+    if (navigator.share) {
+      try {
+        await navigator.share({ title, url });
+      } catch {
+        /* usuário cancelou */
+      }
+      return;
+    }
+
+    try {
+      await navigator.clipboard.writeText(url);
+      const label = btn.querySelector('.share-label');
+      if (label) {
+        const original = label.textContent;
+        label.textContent = 'Link copiado!';
+        setTimeout(() => {
+          label.textContent = original;
+        }, 2000);
+      }
+    } catch {
+      /* sem permissão de área de transferência */
+    }
+  });
+</script>
