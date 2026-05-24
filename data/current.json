@@ -1,15 +1,15 @@
 {
   "date": "2026-05-24",
-  "generatedAt": "2026-05-24T11:35:51.839Z",
+  "generatedAt": "2026-05-24T11:42:08.095Z",
   "home": [
     {
       "clusterId": "a41026ae796e2c29",
       "slug": "76556089b07f336d",
-      "titulo": "Explosão de gás em mina de carvão deixa ao menos 90 mortos na China",
-      "resumo": "Explosão de mina de carvão deixa mortos na China Uma explosão de gás em uma mina de carvão deixou ao menos 90 mortos na província de Shanxi, no norte da China, na noite desta sexta-feira (22). A explosão ocorreu na mina de carvão de Liushenyu, no condado de Qinyuan, com 247 trabalhadores em serviço no subsolo, informou a agência de notícias estatal Xinhua. Nove trabalhadores ainda estão desaparecidos e mais de 120 foram hospitalizados. Esse é o acidente de mineração mais mortal no país ao menos desde 2009. O presidente da China, Xi Jinping, pediu às autoridades que \"não poupem esforços\" nos…",
-      "porQueImporta": "",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "titulo": "Explosões em trem e mina de carvão causam mortes e feridos no Paquistão e na China",
+      "resumo": "Um atentado com bomba atingiu um trem que transportava militares e suas famílias em Quetta, Paquistão, resultando em pelo menos 24 mortos e mais de 70 feridos. Na China, uma explosão de gás na mina de carvão de Liushenyu, em Shanxi, deixou pelo menos 90 mortos, nove desaparecidos e mais de 120 feridos. Ambos os incidentes ocorreram em contextos de transporte e mineração, setores críticos para a segurança pública.",
+      "porQueImporta": "Esses eventos destacam riscos graves em infraestruturas essenciais e a necessidade de reforçar medidas de segurança e prevenção.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
       "sources": [
         {
           "name": "G1",
@@ -177,17 +177,17 @@
   ],
   "categorias": [
     {
-      "slug": "geral",
-      "label": "Geral",
+      "slug": "explosao",
+      "label": "Explosão",
       "stories": [
         {
           "clusterId": "a41026ae796e2c29",
           "slug": "76556089b07f336d",
-          "titulo": "Explosão de gás em mina de carvão deixa ao menos 90 mortos na China",
-          "resumo": "Explosão de mina de carvão deixa mortos na China Uma explosão de gás em uma mina de carvão deixou ao menos 90 mortos na província de Shanxi, no norte da China, na noite desta sexta-feira (22). A explosão ocorreu na mina de carvão de Liushenyu, no condado de Qinyuan, com 247 trabalhadores em serviço no subsolo, informou a agência de notícias estatal Xinhua. Nove trabalhadores ainda estão desaparecidos e mais de 120 foram hospitalizados. Esse é o acidente de mineração mais mortal no país ao menos desde 2009. O presidente da China, Xi Jinping, pediu às autoridades que \"não poupem esforços\" nos…",
-          "porQueImporta": "",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "titulo": "Explosões em trem e mina de carvão causam mortes e feridos no Paquistão e na China",
+          "resumo": "Um atentado com bomba atingiu um trem que transportava militares e suas famílias em Quetta, Paquistão, resultando em pelo menos 24 mortos e mais de 70 feridos. Na China, uma explosão de gás na mina de carvão de Liushenyu, em Shanxi, deixou pelo menos 90 mortos, nove desaparecidos e mais de 120 feridos. Ambos os incidentes ocorreram em contextos de transporte e mineração, setores críticos para a segurança pública.",
+          "porQueImporta": "Esses eventos destacam riscos graves em infraestruturas essenciais e a necessidade de reforçar medidas de segurança e prevenção.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
           "sources": [
             {
               "name": "G1",
@@ -201,6 +201,46 @@
           "updatedAt": "2026-05-24T09:25:56.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/510m5lidAHTT1lNUzZK7J7QbBPs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/8/plAFy3S4KB2elf9ZAbVg/2026-05-24t052859z-1502008175-rc2gflaytt4i-rtrmadp-3-pakistan-blast.jpg"
         },
+        {
+          "clusterId": "2768b11741e2df8b",
+          "slug": "350d62429e6754fb",
+          "titulo": "Rússia ataca Kiev com mísseis hipersônicos e drones",
+          "resumo": "Na madrugada de domingo, a Rússia lançou um ataque em Kiev com 600 drones e 90 mísseis, incluindo o míssil hipersônico Oreshnik. A Força Aérea da Ucrânia relatou a destruição ou neutralização de 549 drones e 55 mísseis. O ataque atingiu áreas próximas a prédios governamentais, residenciais e escolas, resultando em pelo menos quatro mortes.",
+          "porQueImporta": "O ataque demonstra a escalada de hostilidades e o uso de armamentos avançados.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/24/russia-usa-missil-hipersonico-oreshnik-em-ataque-massivo-contra-kiev-diz-zelensky.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T08:34:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PlVFtil-OAzYPknoulddF-7Ral8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/voriW4QreWIDj5ITBLfw/2026-05-24t063959z-1761579952-rc2gflas3jek-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+        },
+        {
+          "clusterId": "2a968012e9862477",
+          "slug": "d145b46f4d15536c",
+          "titulo": "40 mil pessoas recebem ordens de evacuação por vazamento em tanque químico na Califórnia",
+          "resumo": "Cerca de 40 mil residentes de Garden Grove, na Califórnia, foram ordenados a evacuar após um tanque de 22.700 a 26.500 litros contendo metacrilato de metila começar a liberar vapores. O tanque, localizado em uma fábrica de plásticos aeroespaciais, corre risco de explosão. As autoridades emitiram as ordens de evacuação na sexta-feira, 22 de abril. O vazamento iniciou na quinta-feira, 21 de abril.",
+          "porQueImporta": "O vazamento de um líquido inflamável em grande escala representa risco de explosão e exposição a vapores tóxicos, colocando em perigo a saúde e segurança da população local.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/23/40-mil-pessoas-recebem-ordens-de-evacuacao-por-vazamento-em-tanque-quimico-na-california.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-23T10:06:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-Iunj9eO-anNBdYUdoDCoD-oB9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/y/0mpSugRdeOSnVAA3cXwA/2026-05-23t011355z-786029805-rc2helakr6ef-rtrmadp-3-california-chemical-garden-grove.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
         {
           "clusterId": "415e4caa5a506f76",
           "slug": "64d0ed66b7b99802",
@@ -250,23 +290,6 @@
             }
           ],
           "updatedAt": "2026-05-24T07:00:51.000Z"
-        },
-        {
-          "clusterId": "fac2e40d5812104e",
-          "slug": "c5420b3b650de4db",
-          "titulo": "VÍDEO: Homem é resgatado de incêndio em ilha, que pode ter sido causado por sinalizador usado por ele para pedir socorro",
-          "resumo": "Marinheiro de 67 anos é resgatado durante incêndio em ilha Um marinheiro de 67 anos foi resgatado, na manhã desta sexta-feira (22), pela Guarda Costeira dos Estados Unidos após passar a noite isolado na Ilha de Santa Rosa, enquanto um grande incêndio florestal avançava pela região. O homem estava em um veleiro que bateu contra rochas na ilha, localizada no Parque Nacional das Ilhas do Canal, na costa sul da Califórnia. Segundo a Guarda Costeira dos Estados Unidos, o resgate aconteceu na manhã de sexta-feira (15), após equipes localizarem o marinheiro na ilha e enviarem um nadador de resgate…",
-          "porQueImporta": "",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/22/marinheiro-naufrago-de-67-anos-e-resgatado-durante-incendio-em-ilha-nos-eua.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-22T13:55:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WcGZNd2b9KNtnFcuADYhaLvJCTA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/E/1WFY9sTOSCdjqZzgm9Tw/2026-05-21t045549z-361163751-rc2edlacwfov-rtrmadp-3-california-wildfires-island-redimensionado-para-1200x1597.jpeg"
         }
       ]
     },
@@ -367,42 +390,25 @@
       ]
     },
     {
-      "slug": "explosao",
-      "label": "Explosão",
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
       "stories": [
         {
-          "clusterId": "2768b11741e2df8b",
-          "slug": "350d62429e6754fb",
-          "titulo": "Rússia ataca Kiev com mísseis hipersônicos e drones",
-          "resumo": "Na madrugada de domingo, a Rússia lançou um ataque em Kiev com 600 drones e 90 mísseis, incluindo o míssil hipersônico Oreshnik. A Força Aérea da Ucrânia relatou a destruição ou neutralização de 549 drones e 55 mísseis. O ataque atingiu áreas próximas a prédios governamentais, residenciais e escolas, resultando em pelo menos quatro mortes.",
-          "porQueImporta": "O ataque demonstra a escalada de hostilidades e o uso de armamentos avançados.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "fac2e40d5812104e",
+          "slug": "c5420b3b650de4db",
+          "titulo": "Marinheiro de 67 anos resgatado após incêndio na Ilha de Santa Rosa",
+          "resumo": "Um marinheiro de 67 anos foi resgatado pela Guarda Costeira dos Estados Unidos na manhã de sexta-feira, 22, depois de ficar isolado na Ilha de Santa Rosa durante um incêndio florestal. O homem estava em um veleiro que colidiu com rochas na ilha, localizada no Parque Nacional das Ilhas do Canal, na costa sul da Califórnia. As equipes de resgate localizaram o marinheiro e enviaram um nadador para a operação. O incêndio avançava pela região enquanto o resgate ocorria.",
+          "porQueImporta": "O caso destaca os riscos de incêndios florestais em áreas remotas e a importância de respostas rápidas da Guarda Costeira.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/24/russia-usa-missil-hipersonico-oreshnik-em-ataque-massivo-contra-kiev-diz-zelensky.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/22/marinheiro-naufrago-de-67-anos-e-resgatado-durante-incendio-em-ilha-nos-eua.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T08:34:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PlVFtil-OAzYPknoulddF-7Ral8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/voriW4QreWIDj5ITBLfw/2026-05-24t063959z-1761579952-rc2gflas3jek-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
-        },
-        {
-          "clusterId": "2a968012e9862477",
-          "slug": "d145b46f4d15536c",
-          "titulo": "40 mil pessoas recebem ordens de evacuação por vazamento em tanque químico na Califórnia",
-          "resumo": "Cerca de 40 mil residentes de Garden Grove, na Califórnia, foram ordenados a evacuar após um tanque de 22.700 a 26.500 litros contendo metacrilato de metila começar a liberar vapores. O tanque, localizado em uma fábrica de plásticos aeroespaciais, corre risco de explosão. As autoridades emitiram as ordens de evacuação na sexta-feira, 22 de abril. O vazamento iniciou na quinta-feira, 21 de abril.",
-          "porQueImporta": "O vazamento de um líquido inflamável em grande escala representa risco de explosão e exposição a vapores tóxicos, colocando em perigo a saúde e segurança da população local.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/23/40-mil-pessoas-recebem-ordens-de-evacuacao-por-vazamento-em-tanque-quimico-na-california.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-23T10:06:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-Iunj9eO-anNBdYUdoDCoD-oB9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/y/0mpSugRdeOSnVAA3cXwA/2026-05-23t011355z-786029805-rc2helakr6ef-rtrmadp-3-california-chemical-garden-grove.jpg"
+          "updatedAt": "2026-05-22T13:55:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WcGZNd2b9KNtnFcuADYhaLvJCTA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/E/1WFY9sTOSCdjqZzgm9Tw/2026-05-21t045549z-361163751-rc2edlacwfov-rtrmadp-3-california-wildfires-island-redimensionado-para-1200x1597.jpeg"
         }
       ]
     }
