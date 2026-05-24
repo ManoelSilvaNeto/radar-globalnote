@@ -17,12 +17,12 @@
 
 **✅ IA MIGRADA DO GEMINI → GROQ (2026-05-24) E VALIDADA EM PRODUÇÃO.** Resolve o impasse da chave: a conta Google do dono atingiu o **limite de projetos** e não criava chave Gemini nova. Trocamos para **Groq (free tier, sem cartão)** — folga absurda pra ~22/dia do Radar e pra **fábrica inteira na MESMA chave**, sem depender do Google. `pipeline/summarize.ts` usa `GroqSummarizer` via `fetch` (API compatível com OpenAI); `@google/genai` removido. Secret = `GROQ_API_KEY` (já cadastrado no repo). **Modelo padrão `openai/gpt-oss-20b` com structured outputs ESTRITOS (`json_schema`) — JSON garantido por constrained decoding.** ⚠️ Aprendizado: começamos com `llama-3.3-70b-versatile` + `json_object`, mas a Groq retornava 400 "Failed to generate JSON" intermitente (1 de 12 passou). Modelos que suportam schema estrito: `openai/gpt-oss-20b` / `gpt-oss-120b`. Parsing tolerante (`parseJsonObject`) cobre o resto.
 
-**⭐ RETOMAR AQUI:** falta só o dono **gerar a chave grátis em console.groq.com** e cadastrar os 3 secrets no repo (passo 1 abaixo). Sem briga de cota e sem decisão pendente.
+**🚀 SITE NO AR (2026-05-24): https://radar-wly.pages.dev** — deploy feito, HTTP 200, IA gerando resumos (cache=22 IA=2 fallback=0, 6 categorias dinâmicas). Os **3 secrets estão cadastrados** (`GROQ_API_KEY`, `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`). ⚠️ O subdomínio ficou **`radar-wly.pages.dev`** (o `radar.pages.dev` já estava tomado por outra conta) — é esse o alvo do CNAME. Account ID Cloudflare: `e8cf1a217ad1957c7fd9ee29db14daaf`.
 
-**FALTA pra ir a produção (próximos passos):**
-1. Gerar a chave Groq (console.groq.com, grátis) e cadastrar 3 secrets no repo (o dono fornece): `GROQ_API_KEY`, `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` (estes dois = mesmos valores do noticias).
-2. Disparar o workflow → pipeline com IA (categorias dinâmicas de verdade) + deploy → cria o Pages `radar` → site em `radar.pages.dev`.
-3. Dono adiciona CNAME `radar` no registro.br → `radar.pages.dev` + custom domain no Pages.
+**⭐ RETOMAR AQUI — falta só o DOMÍNIO + propagação:**
+1. ~~Secrets~~ ✅ feito (GROQ + Cloudflare token/account).
+2. ~~Deploy~~ ✅ feito — Pages `radar` criado, site em `radar-wly.pages.dev`.
+3. **Domínio `radar.globalnote.com.br`:** (a) no Cloudflare Pages → projeto `radar` → Custom domains → adicionar `radar.globalnote.com.br`; (b) no registro.br → CNAME `radar` → **`radar-wly.pages.dev`** (atenção: `-wly`, não `radar.pages.dev`).
 4. Propagação: GSC, Bing, Google News, Bluesky/Mastodon (contas novas), Newsletter (Buttondown novo). SEM Telegram.
 
 ## Decisões fechadas
