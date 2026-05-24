@@ -11,14 +11,16 @@
 
 **MOLDE de referência (copiar dele):** `~/Projetos/GlobalNoticias/` — projeto pronto, em produção. O Radar reusa toda a arquitetura dele.
 
-## ⏳ Estado atual (2026-05-23)
+## ⏳ Estado atual (2026-05-24)
 
 **SCAFFOLD PRONTO E NO GITHUB.** O molde foi copiado e adaptado (categorias dinâmicas + filtro de nicho + rebrand). Repo público: **github.com/ManoelSilvaNeto/radar-globalnote**. CI (GitHub Actions) **verde**: testes (33) + pipeline + build passam; **Deploy ainda SKIPPED** (faltam os secrets do Cloudflare). Pipeline validado: 621→57 artigos do nicho, 22 clusters.
 
-**⭐ RETOMAR AQUI (2026-05-24) — decisão pendente da chave Gemini:** a conta Google do dono atingiu o **limite de projetos** (não cria projeto novo; excluídos só liberam após 30 dias). Recomendei **ativar billing (paid tier)** no "Gemini Project" existente → 1 chave pra fábrica toda, sem briga de cota, e **melhora o noticias** (hoje degrada após ~20-25 resumos/dia). ~US$3-8/mês por site, com teto de gasto. Criar *chave* em projeto existente é permitido. Alternativa R$0: chave numa 2ª conta Google. **Decisão fica pra amanhã.**
+**✅ IA MIGRADA DO GEMINI → GROQ (2026-05-24).** Resolve o impasse da chave: a conta Google do dono atingiu o **limite de projetos** e não criava chave Gemini nova. Trocamos para **Groq (free tier, sem cartão)** — 1 chave free aguenta **14.400 req/dia** (Llama 3.1 8B) / ~1.000/dia (Llama 3.3 70B), folga absurda pra ~22/dia do Radar e pra **fábrica inteira na MESMA chave**, sem depender do Google. `pipeline/summarize.ts` agora usa `GroqSummarizer` via `fetch` (API compatível com OpenAI, JSON mode); `@google/genai` removido. Secret passou a ser `GROQ_API_KEY`. Testes (33) + build verdes localmente. Modelo padrão `llama-3.3-70b-versatile` (override por `GROQ_MODEL`).
+
+**⭐ RETOMAR AQUI:** falta só o dono **gerar a chave grátis em console.groq.com** e cadastrar os 3 secrets no repo (passo 1 abaixo). Sem briga de cota e sem decisão pendente.
 
 **FALTA pra ir a produção (próximos passos):**
-1. Definir a chave Gemini (ver acima) e cadastrar 3 secrets no repo (o dono fornece): `GEMINI_API_KEY`, `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` (mesmos valores do noticias).
+1. Gerar a chave Groq (console.groq.com, grátis) e cadastrar 3 secrets no repo (o dono fornece): `GROQ_API_KEY`, `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` (estes dois = mesmos valores do noticias).
 2. Disparar o workflow → pipeline com IA (categorias dinâmicas de verdade) + deploy → cria o Pages `radar` → site em `radar.pages.dev`.
 3. Dono adiciona CNAME `radar` no registro.br → `radar.pages.dev` + custom domain no Pages.
 4. Propagação: GSC, Bing, Google News, Bluesky/Mastodon (contas novas), Newsletter (Buttondown novo). SEM Telegram.
@@ -31,7 +33,7 @@
 - **B1 — categorias DINÂMICAS:** NADA de lista fixa. A IA classifica cada notícia (no MESMO call do resumo, sem custo extra de cota) numa categoria tirada do conteúdo (ex: "Enchentes", "Acidente aéreo", "Incêndio florestal"). O site mostra **só as categorias presentes na edição**, ordenadas por volume. Os `/tema` (já existentes no molde) continuam emergentes.
 - **Fontes:** feeds gerais/regionais **+ filtro por palavras-chave do nicho** (enchente, deslizamento, acidente, colisão, capotamento, incêndio, explosão, queda de avião, naufrágio, soterramento, vazamento…) + especializadas (Defesa Civil, INMET, CENIPA, Corpo de Bombeiros, PRF — as que tiverem RSS). **Adicionar um estágio de FILTRO no pipeline** (o molde não filtra).
 - **B2 — regional/proximidade:** ADIADO (melhoria futura). NÃO implementar agora.
-- **Gemini:** chave NOVA em **projeto Google separado** (a cota free é ~20–25 resumos/dia POR PROJETO; compartilhar com o noticias degrada os dois). Pedir ao dono na hora dos secrets.
+- **IA = Groq (free tier)** ✅ — decidido em 2026-05-24, substitui o Gemini (a conta Google bateu o limite de projetos). 1 chave free cobre ~14,4k req/dia (8B) / ~1k/dia (70B) → serve o Radar e **toda a fábrica na mesma chave**, sem depender do Google. Modelo padrão `llama-3.3-70b-versatile`. Pedir `GROQ_API_KEY` ao dono na hora dos secrets. (O molde GlobalNotícias ainda usa Gemini — migrar quando conveniente.)
 - **Infra:** repo GitHub `radar-globalnote` (público, conta ManoelSilvaNeto); Cloudflare Pages project `radar` (mesma conta — reusa `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID`, valores que o dono precisa fornecer p/ o repo novo); domínio `radar.globalnote.com.br` (CNAME no registro.br → `radar.pages.dev`, o dono adiciona após o 1º deploy).
 - **Propagação:** igual ao noticias — sitemap, **IndexNow (gerar CHAVE NOVA)**, robots, RSS, Search Console, Bing, Google News; Bluesky + Mastodon (contas NOVAS do Radar) + Newsletter (Buttondown novo). **SEM TELEGRAM** (decisão do dono — remover do social.ts/workflow).
 
@@ -55,7 +57,7 @@
 
 ## Aprendizados herdados do molde (valem aqui)
 
-- **Gemini:** modelo `gemini-2.5-flash` (o 2.0-flash NÃO tem cota free). Throttle, retry e disjuntor já existem no `summarize.ts`. Cota ~20–25 resumos/dia por projeto, reseta ~07:00 UTC.
+- **IA (Groq):** modelo padrão `llama-3.3-70b-versatile` (override por `GROQ_MODEL`; `llama-3.1-8b-instant` dá mais cota/dia). API compatível com OpenAI via `fetch` + JSON mode. Throttle (`GROQ_THROTTLE_MS`, default 2500ms ≈ 24/min), retry e disjuntor já existem no `summarize.ts`. Free tier: ~30 req/min e 14,4k/dia (8B) — reseta à meia-noite UTC. (Histórico: o molde nasceu com Gemini `gemini-2.5-flash`.)
 - **Cache de resumos:** chave = URL do artigo-âncora (mais antigo do cluster), estável entre runs. O `slug` da página `/noticia/<slug>` reusa essa chave.
 - **CI:** o **2º `git push` do job** não herda a credencial do checkout → usar `x-access-token:${GITHUB_TOKEN}` (ver workflow do molde, passo do estado social).
 - **Deploy:** Cloudflare Pages via wrangler no workflow (cria o projeto no 1º run). IndexNow pinga Bing/Yandex pós-deploy.

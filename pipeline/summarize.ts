@@ -1,4 +1,4 @@
-// Resumo dos clusters do topo via Gemini Flash, atrás de uma interface trocável
+// Resumo dos clusters do topo via Groq (Llama), atrás de uma interface trocável
 // (Summarizer). Cache pela IDENTIDADE da história (URL do artigo-âncora, o mais
 // antigo): a história mantém a chave mesmo ganhando novos membros, então um resumo
 // já feito é reaproveitado entre runs e a cobertura de IA acumula. Resiliente: IA
@@ -6,12 +6,11 @@
 // RSS. O build nunca quebra por causa da IA.
 
 import { createHash } from 'node:crypto';
-import { GoogleGenAI, Type } from '@google/genai';
 import type { Cluster, Summary, CachedSummary } from '../src/lib/types';
 import { FALLBACK_CATEGORIA } from '../src/lib/categories';
 import { normalizeUrl } from './url';
 
-// ── Interface trocável (plano B: Groq, Claude Haiku, etc.) ────────────────────
+// ── Interface trocável (plano B: Gemini, Claude Haiku, etc.) ──────────────────
 export type SummarizeInput = {
   artigos: { source: string; title: string; description: string }[];
 };
@@ -70,7 +69,7 @@ function sanitize(s: Summary): Summary {
   };
 }
 
-// ── Cliente Gemini ────────────────────────────────────────────────────────────
+// ── Cliente Groq (API compatível com OpenAI) ─────────────────────────────────
 const SYSTEM_INSTRUCTION = [
   'Você é um editor de um portal de DESASTRES E ACIDENTES (desastres naturais e causados',
   'pelo homem; acidentes de trânsito, aéreos, domésticos, industriais, etc.) que escreve',
@@ -106,7 +105,7 @@ function buildPrompt(input: SummarizeInput): string {
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
-// Extrai o status HTTP de um erro do SDK (ApiError tem .status; senão lê do texto).
+// Extrai o status HTTP de um erro (a resposta da API traz .status; senão lê do texto).
 export function errorStatus(err: unknown): number | null {
   const e = err as { status?: number; code?: number; message?: string };
   if (typeof e?.status === 'number') return e.status;
@@ -124,12 +123,14 @@ export function isQuotaError(err: unknown): boolean {
 const TRANSIENT = new Set([429, 500, 503]);
 const RETRY_BACKOFF_MS = [5_000, 12_000];
 
-export class GeminiSummarizer implements Summarizer {
-  private ai: GoogleGenAI;
+const GROQ_ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
+
+export class GroqSummarizer implements Summarizer {
+  private apiKey: string;
   private model: string;
 
-  constructor(apiKey: string, model = process.env.GEMINI_MODEL ?? 'gemini-2.5-flash') {
-    this.ai = new GoogleGenAI({ apiKey });
+  constructor(apiKey: string, model = process.env.GROQ_MODEL ?? 'llama-3.3-70b-versatile') {
+    this.apiKey = apiKey;
     this.model = model;
   }
 
@@ -149,39 +150,51 @@ export class GeminiSummarizer implements Summarizer {
   }
 
   private async callOnce(input: SummarizeInput): Promise<Summary> {
-    const response = await this.ai.models.generateContent({
-      model: this.model,
-      contents: buildPrompt(input),
-      config: {
-        systemInstruction: SYSTEM_INSTRUCTION,
-        temperature: 0.3,
-        responseMimeType: 'application/json',
-        responseSchema: {
-          type: Type.OBJECT,
-          properties: {
-            titulo: { type: Type.STRING },
-            resumo: { type: Type.STRING },
-            porQueImporta: { type: Type.STRING },
-            categoria: { type: Type.STRING },
-          },
-          required: ['titulo', 'resumo', 'porQueImporta', 'categoria'],
-        },
+    // JSON mode da Groq: exige a palavra "json" no prompt (já consta) e devolve um
+    // objeto JSON puro em message.content. Schema é descrito no próprio prompt.
+    const res = await fetch(GROQ_ENDPOINT, {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${this.apiKey}`,
+        'Content-Type': 'application/json',
       },
+      body: JSON.stringify({
+        model: this.model,
+        temperature: 0.3,
+        max_tokens: 1024,
+        response_format: { type: 'json_object' },
+        messages: [
+          { role: 'system', content: SYSTEM_INSTRUCTION },
+          { role: 'user', content: buildPrompt(input) },
+        ],
+      }),
     });
-    const text = response.text;
+
+    if (!res.ok) {
+      const body = await res.text().catch(() => '');
+      // Propaga o status HTTP p/ a lógica de retry/disjuntor (429/500/503).
+      throw Object.assign(new Error(`Groq ${res.status}: ${body.slice(0, 200)}`), {
+        status: res.status,
+      });
+    }
+
+    const data = (await res.json()) as {
+      choices?: { message?: { content?: string } }[];
+    };
+    const text = data.choices?.[0]?.message?.content;
     if (!text) throw new Error('resposta vazia da IA');
     return JSON.parse(text) as Summary;
   }
 }
 
-// Cria o resumidor a partir do ambiente. Sem GEMINI_API_KEY → null (usa fallback).
+// Cria o resumidor a partir do ambiente. Sem GROQ_API_KEY → null (usa fallback).
 export function summarizerFromEnv(): Summarizer | null {
-  const apiKey = process.env.GEMINI_API_KEY?.trim();
+  const apiKey = process.env.GROQ_API_KEY?.trim();
   if (!apiKey) {
-    console.warn('GEMINI_API_KEY ausente — resumos via fallback (descrição do RSS).');
+    console.warn('GROQ_API_KEY ausente — resumos via fallback (descrição do RSS).');
     return null;
   }
-  return new GeminiSummarizer(apiKey);
+  return new GroqSummarizer(apiKey);
 }
 
 // ── Orquestração: cache + IA + fallback ───────────────────────────────────────
@@ -198,8 +211,9 @@ export type SummarizeResult = {
   stats: SummarizeStats;
 };
 
-// Espaçamento entre chamadas à IA p/ respeitar o RPM do free tier.
-const THROTTLE_MS = Number(process.env.GEMINI_THROTTLE_MS ?? 6000);
+// Espaçamento entre chamadas à IA p/ respeitar o RPM do free tier da Groq
+// (~30 req/min → 2500ms ≈ 24/min, com margem).
+const THROTTLE_MS = Number(process.env.GROQ_THROTTLE_MS ?? 2500);
 // Após N falhas de quota (429) seguidas, desiste da IA no resto do run (fallback
 // rápido) — evita um run eterno quando a cota do dia acabou.
 const QUOTA_BREAKER = 4;

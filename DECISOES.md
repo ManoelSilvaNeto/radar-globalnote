@@ -34,7 +34,14 @@
 
 ---
 
-## C. Inteligência (Gemini) — ATENÇÃO à cota
+## C. Inteligência (IA) — ATENÇÃO à cota
+
+> **⚠️ ATUALIZADO 2026-05-24 — TROCAMOS GEMINI → GROQ.** A conta Google bateu o limite de
+> projetos e não dava pra criar chave Gemini nova. Migramos para **Groq (free tier, sem
+> cartão)**: 1 chave free aguenta ~14,4k req/dia (Llama 3.1 8B) / ~1k/dia (Llama 3.3 70B) —
+> folga pro Radar (~22/dia) e pra **fábrica inteira na mesma chave**, sem depender do Google.
+> Secret = `GROQ_API_KEY`; modelo padrão `llama-3.3-70b-versatile`. O texto abaixo é o
+> histórico do brainstorm original (Gemini) e fica como registro.
 
 A chave do noticias tem **~20–25 resumos grátis/dia, por PROJETO Google**. Se o Radar usar a **mesma chave**, os dois sites **dividem** essa cota e **pioram juntos**.
 - (REC) você cria uma **nova chave Gemini em outro projeto Google** (grátis) só pro Radar → cota independente.
@@ -76,7 +83,7 @@ A chave do noticias tem **~20–25 resumos grátis/dia, por PROJETO Google**. Se
 1. Criar `~/Projetos/Radar/` clonando o molde do noticias.
 2. Trocar conteúdo: categorias (B1), fontes + filtro de palavras-chave (B2), nome/tagline (A1/A2), ícone (A3).
 3. Repo + 1º deploy no Cloudflare (D1/D2) → te dou o `radar.pages.dev` pra você apontar o domínio (D4).
-4. Secrets (Gemini novo C, Cloudflare reusado) → cron começa a rodar.
+4. Secrets (`GROQ_API_KEY` novo, Cloudflare reusado) → cron começa a rodar.
 5. Propagação (E) conforme você for criando as contas.
 
 ---
@@ -85,7 +92,7 @@ A chave do noticias tem **~20–25 resumos grátis/dia, por PROJETO Google**. Se
 - **Nome:** GlobalNote Radar · **Tagline:** (REC) · **Ícone:** o G.
 - **B1 — categorias DINÂMICAS pela IA** (saem do conteúdo, sem lista chumbada). ✅ confirmado.
 - **B2 — regional/proximidade: ADIADO** → **melhoria futura** (não entra agora).
-- **Gemini:** chave NOVA (projeto separado).
+- **IA:** ~~Gemini (chave nova)~~ → **Groq (free tier)** — trocado em 2026-05-24 (Google bateu limite de projetos). `GROQ_API_KEY`, modelo `llama-3.3-70b-versatile`.
 - **Infra:** repo `radar-globalnote`, Pages `radar`, pasta **`~/Projetos/GlobalRadar/`**, domínio `radar.globalnote.com.br`.
 - **Propagação:** igual ao noticias, SEM Telegram.
 
