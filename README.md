@@ -19,9 +19,9 @@ cron 4h ─> GitHub Actions ─> pipeline (coleta → cluster → rank → resum
 
 - **Sem servidor sempre-ligado e sem banco**: a persistência é JSON versionado no
   próprio repositório (`data/`).
-- **IA atrás de uma interface trocável** (`Summarizer`): hoje Groq (Llama 3.3 70B); dá
-  pra trocar por Gemini/Claude. Sem `GROQ_API_KEY`, cai num resumo de fallback (descrição
-  do RSS) e o build nunca quebra.
+- **IA atrás de uma interface trocável** (`Summarizer`): hoje Groq (`openai/gpt-oss-20b`,
+  com structured outputs estritos); dá pra trocar por Gemini/Claude. Sem `GROQ_API_KEY`,
+  cai num resumo de fallback (descrição do RSS) e o build nunca quebra.
 
 ## Stack
 

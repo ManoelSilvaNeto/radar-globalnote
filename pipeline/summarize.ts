@@ -100,6 +100,9 @@ function buildPrompt(input: SummarizeInput): string {
     '  "Acidente de trânsito", "Acidente aéreo", "Naufrágio", "Explosão", "Seca",',
     '  "Tempestade"). Reaproveite rótulos comuns em vez de inventar variações. Se não',
     '  se encaixar em desastre/acidente, use "Geral".',
+    '',
+    'Responda APENAS com um único objeto JSON válido (as 4 chaves acima), sem nenhum',
+    'texto antes ou depois e sem blocos de código markdown.',
   ].join('\n');
 }
 
@@ -125,13 +128,51 @@ const RETRY_BACKOFF_MS = [5_000, 12_000];
 
 const GROQ_ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
 
+// Modelos da Groq com structured outputs ESTRITOS: o JSON é garantido pelo schema
+// (constrained decoding) → o modelo não consegue devolver JSON inválido. Os demais
+// caem no json_object (best-effort) + parse tolerante.
+const STRICT_SCHEMA_MODELS = new Set(['openai/gpt-oss-20b', 'openai/gpt-oss-120b']);
+
+const RESUMO_SCHEMA = {
+  type: 'object',
+  additionalProperties: false,
+  properties: {
+    titulo: { type: 'string' },
+    resumo: { type: 'string' },
+    porQueImporta: { type: 'string' },
+    categoria: { type: 'string' },
+  },
+  required: ['titulo', 'resumo', 'porQueImporta', 'categoria'],
+} as const;
+
+// Parse tolerante: tira cercas markdown e recorta do 1º "{" ao último "}" antes do
+// JSON.parse (cobre o caso de o modelo embrulhar o objeto em texto/```json).
+export function parseJsonObject(text: string): unknown {
+  const cleaned = text.replace(/```(?:json)?/gi, '').trim();
+  const start = cleaned.indexOf('{');
+  const end = cleaned.lastIndexOf('}');
+  const slice = start >= 0 && end > start ? cleaned.slice(start, end + 1) : cleaned;
+  return JSON.parse(slice);
+}
+
 export class GroqSummarizer implements Summarizer {
   private apiKey: string;
   private model: string;
 
-  constructor(apiKey: string, model = process.env.GROQ_MODEL ?? 'llama-3.3-70b-versatile') {
+  constructor(apiKey: string, model = process.env.GROQ_MODEL ?? 'openai/gpt-oss-20b') {
     this.apiKey = apiKey;
     this.model = model;
+  }
+
+  // Structured outputs estritos quando o modelo suporta; senão json_object.
+  private responseFormat(): Record<string, unknown> {
+    if (STRICT_SCHEMA_MODELS.has(this.model)) {
+      return {
+        type: 'json_schema',
+        json_schema: { name: 'resumo', strict: true, schema: RESUMO_SCHEMA },
+      };
+    }
+    return { type: 'json_object' };
   }
 
   async summarize(input: SummarizeInput): Promise<Summary> {
@@ -150,8 +191,6 @@ export class GroqSummarizer implements Summarizer {
   }
 
   private async callOnce(input: SummarizeInput): Promise<Summary> {
-    // JSON mode da Groq: exige a palavra "json" no prompt (já consta) e devolve um
-    // objeto JSON puro em message.content. Schema é descrito no próprio prompt.
     const res = await fetch(GROQ_ENDPOINT, {
       method: 'POST',
       headers: {
@@ -162,7 +201,7 @@ export class GroqSummarizer implements Summarizer {
         model: this.model,
         temperature: 0.3,
         max_tokens: 1024,
-        response_format: { type: 'json_object' },
+        response_format: this.responseFormat(),
         messages: [
           { role: 'system', content: SYSTEM_INSTRUCTION },
           { role: 'user', content: buildPrompt(input) },
@@ -183,7 +222,7 @@ export class GroqSummarizer implements Summarizer {
     };
     const text = data.choices?.[0]?.message?.content;
     if (!text) throw new Error('resposta vazia da IA');
-    return JSON.parse(text) as Summary;
+    return parseJsonObject(text) as Summary;
   }
 }
 
