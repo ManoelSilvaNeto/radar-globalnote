@@ -30,7 +30,10 @@
    - **a. Google Search Console** ✅ **feito (2026-05-24)** — propriedade `https://radar.globalnote.com.br` (tipo "prefixo do URL") verificada por **Arquivo HTML** (`public/google82243445ca744e73.html`, NÃO remover) + **sitemap `sitemap-index.xml` enviado**. ⚠️ **Aprendizado p/ a fábrica:** o Cloudflare Pages faz clean-URL e redireciona `/arquivo.html` → `/arquivo` (308), mas o verificador do Google **segue o redirect** e valida normal (o corpo no destino é 200 e correto). Não precisa workaround.
    - **b. Bing Webmaster** ✅ **feito (2026-05-24)** — `radar.globalnote.com.br` importado do GSC (já verificado + sitemap herdado). IndexNow já pinga o Bing a cada deploy.
    - **c. Google News / Publisher Center** ✅ **feito (2026-05-24)** — publicação "GlobalNote Radar" criada/reivindicada (`https://radar.globalnote.com.br`), em revisão assíncrona do Google. ⚠️ Desde a **atualização de março/2025** o Google Notícias **gera as páginas de publicação automaticamente** assim que o site está indexado — o Publisher Center virou só controle de marca (logo etc.), não é bloqueante. (Logo quadrado opcional em `public/logo.png` 1000×1000.)
-   - **d. Bluesky** ✅ **feito (2026-05-24)** — conta nova `radarbr.bsky.social` (e-mail alias `ti+radarbr@…`). Secrets `BLUESKY_HANDLE` + `BLUESKY_APP_PASSWORD` cadastrados via `gh`. Testado em run manual: `Bluesky: HTTP 200`, post no ar com card + hashtags de nicho (`#acidente #brasil`). Posta sozinho a cada edição. **Mastodon** ⏳ ainda pendente (contas independentes; `MASTODON_INSTANCE` + `MASTODON_TOKEN`).
+   - **d. Bluesky + Mastodon** ✅ **feito (2026-05-24)** — contas novas:
+     - **Bluesky** `radarbr.bsky.social` (alias `ti+radarbr@…`) — secrets `BLUESKY_HANDLE` + `BLUESKY_APP_PASSWORD`.
+     - **Mastodon** `@radarbr@mastodon.social` (alias `ti+radarmasto@…`, app "Globalnote Radar" scope `write`) — secrets `MASTODON_INSTANCE` (`https://mastodon.social`) + `MASTODON_TOKEN`.
+     - Todos cadastrados via `gh secret set`. Testado em runs manuais: ambos `HTTP 200`, posts no ar com link + hashtags de nicho (`#acidente #brasil`). **As 2 redes postam sozinhas a cada edição** (mesma história nas duas; dedup em `data/social.json`).
    - **e. Newsletter (Buttondown)** ⏳ — conta nova; dono passa o usuário → setar `NEWSLETTER.buttondownUser` em `src/lib/site.ts`.
    - **SEM Telegram.**
 
