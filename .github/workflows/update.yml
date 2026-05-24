@@ -2,7 +2,9 @@ name: Atualizar e publicar
 
 on:
   schedule:
-    - cron: '0 */4 * * *' # a cada 4h (UTC)
+    # Defasado 30min do GlobalNotícias (que roda em :00) p/ não competirem pela
+    # MESMA chave Groq — o rate limit da Groq é por conta/organização, não por chave.
+    - cron: '30 */4 * * *' # a cada 4h (UTC), nos minutos :30
   workflow_dispatch: {}
   push:
     branches: [main]
