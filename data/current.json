@@ -1,420 +1,336 @@
 {
   "date": "2026-05-24",
-  "generatedAt": "2026-05-24T17:32:56.036Z",
+  "generatedAt": "2026-05-24T21:31:44.439Z",
   "home": [
     {
-      "clusterId": "1d8f1609e19f4d90",
-      "slug": "76556089b07f336d",
-      "titulo": "Explosões em trem e mina de carvão causam mortes e feridos no Paquistão e na China",
-      "resumo": "Um atentado com bomba atingiu um trem que transportava militares e suas famílias em Quetta, Paquistão, resultando em pelo menos 24 mortos e mais de 70 feridos. Na China, uma explosão de gás na mina de carvão de Liushenyu, em Shanxi, deixou pelo menos 90 mortos, nove desaparecidos e mais de 120 feridos. Ambos os incidentes ocorreram em contextos de transporte e mineração, setores críticos para a segurança pública.",
-      "porQueImporta": "Esses eventos destacam riscos graves em infraestruturas essenciais e a necessidade de reforçar medidas de segurança e prevenção.",
+      "clusterId": "162d20f5693a540c",
+      "slug": "df7f7dd9048659df",
+      "titulo": "Acidente entre ônibus e carreta na BR-251 causa 8 mortes e bloqueio de 70 km",
+      "resumo": "Um ônibus e uma carreta colidiram na manhã de domingo na BR-251, em Santa Cruz de Salinas, Minas Gerais, incendiando os veículos e deixando oito mortos e nove feridos. O choque gerou um congestionamento de aproximadamente 70 km, com a rodovia interdita por mais de 10 horas. Os bombeiros conseguiram liberar o trânsito por volta das 16h, mas o fluxo ainda era lento no trecho. As ferragens retorcidas dificultaram o acesso às vítimas, complicando a perícia.",
+      "porQueImporta": "O acidente resultou em múltiplas fatalidades e paralisação de uma importante via de transporte, impactando a mobilidade e a segurança viária na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/acidente-em-mg-causou-fila-de-70-km-e-travou-br-251-por-10h"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/br-251-e-liberada-apos-acidente-entre-onibus-e-carreta-em-minas-gerais/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/24/apos-acidente-com-oito-mortos-br-251-e-liberada-no-norte-de-mg.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/batida-frontal-entre-onibus-e-caminhao-deixa-pelo-menos-8-mortos-em-mg/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/colisao-entre-onibus-e-caminhao-mata-8-pessoas-na-br-251-em-mg/"
+        }
+      ],
+      "updatedAt": "2026-05-24T21:05:19.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/4942705668150464137_3x2.jpg"
+    },
+    {
+      "clusterId": "a907829cf75d4dc3",
+      "slug": "d145b46f4d15536c",
+      "titulo": "40 mil pessoas recebem ordens de evacuação por vazamento em tanque químico na Califórnia",
+      "resumo": "Cerca de 40 mil residentes de Garden Grove, na Califórnia, foram ordenados a evacuar após um tanque de 22.700 a 26.500 litros contendo metacrilato de metila começar a liberar vapores. O tanque, localizado em uma fábrica de plásticos aeroespaciais, corre risco de explosão. As autoridades emitiram as ordens de evacuação na sexta-feira, 22 de abril. O vazamento iniciou na quinta-feira, 21 de abril.",
+      "porQueImporta": "O vazamento de um líquido inflamável em grande escala representa risco de explosão e exposição a vapores tóxicos, colocando em perigo a saúde e segurança da população local.",
       "categoria": "Explosão",
       "categoriaSlug": "explosao",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/video-chamas-consomem-veiculos-em-acidente-que-deixou-8-mortos-em-mg/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/explosao-em-trem-militar-no-paquistao-deixa-24-mortos/"
+          "url": "https://www.cnnbrasil.com.br/internacional/california-busca-nova-solucao-para-risco-de-explosao-de-tanque-quimico/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/05/23/explosao-de-gas-em-mina-de-carvao-deixa-mortos-na-china.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/05/23/40-mil-pessoas-recebem-ordens-de-evacuacao-por-vazamento-em-tanque-quimico-na-california.ghtml"
         }
       ],
-      "updatedAt": "2026-05-24T16:48:17.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/290cfef0-574a-11f1-934b-4138723911fd.jpg.webp"
+      "updatedAt": "2026-05-24T19:11:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-Iunj9eO-anNBdYUdoDCoD-oB9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/y/0mpSugRdeOSnVAA3cXwA/2026-05-23t011355z-786029805-rc2helakr6ef-rtrmadp-3-california-chemical-garden-grove.jpg"
     },
     {
-      "clusterId": "035b5299d07fa988",
-      "slug": "57a1a2092f6af077",
-      "titulo": "Acidentes de trânsito em três estados deixam mortes e feridos",
-      "resumo": "Na BR-251, em Santa Cruz de Salinas, Minas Gerais, colisão frontal entre ônibus e caminhão deixou oito mortos e veículos em chamas, interdições totais da rodovia. No Piauí, colisão frontal entre dois carros na zona rural de São Raimundo Nonato resultou em três óbitos. Em Manaus, na Avenida Margarita, um carro na contramão colidiu de frente com outro, causando uma morte e três feridos.",
-      "porQueImporta": "Esses acidentes evidenciam riscos de segurança viária em diferentes regiões do país.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-brasil/colisao-entre-onibus-e-caminhao-mata-8-pessoas-na-br-251-em-mg/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/05/24/colisao-carros-zona-rural-sao-raimundo-nonato.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T17:02:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/-koPCiks4UM9XWTvAcihX2tY9MQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/J/VdAVYASIG4jZ4VB5zCug/whatsapp-image-2024-05-12-at-11.33.18.jpeg"
-    },
-    {
-      "clusterId": "fc49dd139254f96f",
-      "slug": "33e26a8ef49536fe",
-      "titulo": "Menina de 3 anos morre após cair do 4º andar de prédio em Campinas",
-      "resumo": "Uma menina de 3 anos caiu do quarto andar de um prédio residencial em Campinas, SP, em 18 de maio. A queda ocorreu por uma janela sem tela de proteção no banheiro. Ela foi internada no Hospital PUC-Campinas e faleceu após quatro dias de internação. O acidente foi registrado no boletim de ocorrência atualizado em 23 de maio.",
-      "porQueImporta": "O caso destaca a importância de medidas de segurança em residências para prevenir acidentes infantis.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/05/24/menina-morre-apos-cair-de-cavalo-ser-arrastada-e-pisoteada-em-rio-preto.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T17:14:53.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bPTCgPrUyG4ls4Kd4x2MRdlkTdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Z/niA89iSDuohLz4TJmbGg/hospital.png"
-    },
-    {
-      "clusterId": "7f8a61a5b7aa3acb",
-      "slug": "83908a0390e6ef26",
-      "titulo": "Vários acidentes de trânsito resultam em mortes no litoral e interior de São Paulo e Mato Grosso",
-      "resumo": "Na madrugada de domingo, um pedestre foi atropelado por dois carros na Rodovia Padre Manoel da Nóbrega, em Itanhaém, e morreu. Na mesma manhã, uma mulher morreu quando seu Honda Civic capotou e bateu em um muro na Rodovia Deputado Laércio Corte, em Limeira. Em Tangará da Serra, Mato Grosso, um jovem de 22 anos morreu após seu carro bater na traseira de uma carreta, pegar fogo e explodir. No mesmo dia, um cabo da Polícia Militar faleceu em um acidente envolvendo duas motocicletas e um carro na BR-020, em Caucaia. Todos os incidentes ocorreram em rodovias e resultaram em fatalidades.",
-      "porQueImporta": "Esses acidentes destacam a necessidade de reforço nas medidas de segurança viária e fiscalização nas rodovias brasileiras.",
+      "clusterId": "cc3c0249433a138c",
+      "slug": "02648081deb8b94b",
+      "titulo": "Acidente com veículo da comitiva do governador de Sergipe deixa três feridos na SE-270",
+      "resumo": "Um veículo da comitiva do governador de Sergipe, Fábio Mitidieri, colidiu na rodovia SE-270, entre Lagarto e Salgado, no trecho de deslocamento para Indiaroba. O acidente ocorreu na tarde de domingo, 24 de maio. Três pessoas ficaram feridas, todas com quadro verde, indicando lesões leves. As vítimas foram atendidas e encaminhadas ao hospital.",
+      "porQueImporta": "O incidente envolve a comitiva do governador, destacando a necessidade de segurança nas estradas estaduais.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/05/24/pedestre-morre-apos-ser-atropelado-por-dois-carros-em-rodovia-no-litoral-de-sp.ghtml"
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/05/24/acidente-com-veiculo-da-comitiva-do-governador-de-sergipe-deixa-tres-feridos-na-se-270.ghtml"
         }
       ],
-      "updatedAt": "2026-05-24T17:10:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Uw9fOmQKRlX-gWb9dfOvCrMuOz8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/J/wPYl8GQDKYBGiY0CTZQA/edig1-2026-05-24t134232.983.png"
+      "updatedAt": "2026-05-24T21:15:07.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1hr42_UM5Ny4HuXXrdaNJGW7LYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/z/2xG5AhTNW6ClAYOqGPYw/governador.jpg"
     },
     {
-      "clusterId": "9b71dcd7584ddeb9",
-      "slug": "14a26cb3b405b938",
-      "titulo": "Acidente de ônibus em Minas Gerais deixa 10 feridos, incluindo bebê de colo",
-      "resumo": "Um ônibus de transporte coletivo colidiu com um caminhão em Minas Gerais, resultando em 10 feridos. Entre os feridos, um bebê de colo foi encontrado no veículo. Bombeiros confirmaram a presença do bebê no coletivo. O número de vítimas feridas aumentou em relação ao relato inicial.",
-      "porQueImporta": "O incidente destaca a importância da segurança no transporte coletivo e a necessidade de atenção especial a crianças em ambientes de risco.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "553fb5aac9010377",
+      "slug": "b6fdffb2f1fa6b7f",
+      "titulo": "Sacada desaba sobre ponto de ônibus, deixando três feridos",
+      "resumo": "Uma sacada na Estrada do M'Boi Mirim, zona sul da capital, desabou sobre um ponto de ônibus, ferindo três pessoas. O engenheiro técnico avaliou a estrutura e a Defesa Civil interditou parcialmente três edificações próximas. O incidente ocorreu em meio a obras de reforma na região. As autoridades continuam investigando as causas do colapso.",
+      "porQueImporta": "O colapso pode indicar falhas estruturais em construções urbanas, representando risco à segurança pública.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/ferragens-retorcidas-dificultam-acesso-as-vitimas-em-acidente-em-mg/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/feridas-sacada-desabar-ponto-onibus"
         }
       ],
-      "updatedAt": "2026-05-24T16:51:39.000Z"
+      "updatedAt": "2026-05-24T21:15:03.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/sacada-desabada.jpg"
     },
     {
-      "clusterId": "83616b32f7af0db4",
-      "slug": "f94608a52045a0d0",
-      "titulo": "Morte de 83 bovinos em Mato Grosso do Sul durante onda de frio",
-      "resumo": "Durante a onda de frio em Mato Grosso do Sul, mais de 80 bovinos morreram em cinco propriedades. As temperaturas chegaram a menos de 7°C, com sensação térmica próxima de 0°C. A Agência Estadual de Defesa Sanitária Animal e Vegetal (Iagro) está investigando os casos. O evento alerta produtores rurais e autoridades sanitárias sobre riscos de hipotermia e falta de abrigo em períodos de frio extremo.",
-      "porQueImporta": "O episódio destaca a vulnerabilidade de animais de criação a condições climáticas extremas e a necessidade de medidas preventivas.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/05/24/hipotermia-e-falta-de-abrigo-o-que-explica-a-morte-de-mais-de-80-bovinos-durante-onda-de-frio-em-ms.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T16:38:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Zkra7xtTH6vTq9OoPvKwL7uC88o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/w/YJXwfXSnSj609vep4lFQ/bovinos-frio.jpg"
-    },
-    {
-      "clusterId": "728597c183250758",
-      "slug": "b58bbb07bad6acfd",
-      "titulo": "Buraco sob RN-233 preocupa moradores, mas DER descarta risco de desabamento",
-      "resumo": "Um buraco aberto sob a RN-233, próximo ao km 35 entre Caraúbas e Apodi, gera preocupação entre moradores locais. O Departamento de Estradas de Rodagem (DER-RN) realizou vistoria e descartou a possibilidade de desabamento da pista. Imagens de moradores mostram parte da estrutura comprometida sob a rodovia. A situação permanece monitorada pela DER.",
-      "porQueImporta": "O risco de desabamento pode afetar a segurança e a mobilidade dos usuários da rodovia.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/05/24/buraco-sob-rn-233-preocupa-moradores-mas-der-descarta-risco-de-desabamento.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T15:55:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1PZvkxn75aGHrtuAhqr8wngLJjA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/EQKvX5SKCwlNTjHVN3aA/buraco1.jpeg"
-    },
-    {
-      "clusterId": "c786dd057cb36819",
-      "slug": "da6cc1a32b372d74",
-      "titulo": "Acidente na MGC-122 causa morte e feridos",
-      "resumo": "Um acidente envolvendo dois veículos na MGC-122, em Mato Verde, resultou em uma morte e duas pessoas feridas. A colisão foi registrada pelas autoridades locais e acionou o Corpo de Bombeiros. O incidente destaca a necessidade de atenção às condições da via e ao comportamento dos motoristas.",
-      "porQueImporta": "O evento evidencia riscos de segurança viária na região e pode influenciar medidas de prevenção e fiscalização.",
+      "clusterId": "23cf62a7f3e846d3",
+      "slug": "f248382748555731",
+      "titulo": "Acidente de trator em represa e perda de membro em colisão na BR-010",
+      "resumo": "Em Almas, Tocantins, o operador de máquinas agrícolas Gustavo dos Santos, de 27 anos, morreu após acidente com trator na represa, sendo encontrado por mergulhadores. Em Palmas, a estudante de Nutrição Jhenyfer Camilly Alves dos Santos, de 22 anos, perdeu um pé em colisão na BR-010, enquanto seu marido sofreu fraturas e permanece internado. Em ambos os casos, as investigações continuam para confirmar detalhes e causas.",
+      "porQueImporta": "Os incidentes destacam riscos de acidentes em atividades rurais e de trânsito, exigindo atenção à segurança e investigação adequada.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/24/cassacao-de-prefeita-prisao-de-advogado-suspeito-de-golpes-e-acidente-veja-as-mais-lidas-da-semana.ghtml"
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/05/24/quem-e-o-jovem-encontrado-morto-em-represa-apos-acidente-com-trator.ghtml"
         }
       ],
-      "updatedAt": "2026-05-24T15:53:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/iWB76skjLjQ8gf4pUcpb7im3U_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/D/jB6NTdQ8W8IpfDda3HNQ/122.jpeg"
+      "updatedAt": "2026-05-24T21:11:32.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/y4txLcL44mDeBM1LZE8LnfWTvvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/h/P3AJrvQAaGgpCIO0JMZA/gustavo.png"
     },
     {
-      "clusterId": "2b846adbf2339ba2",
-      "slug": "7114472863652048",
-      "titulo": "Jovem de 18 anos morre em acidente de trânsito na zona norte de Sorocaba",
-      "resumo": "Giovanni Fioravanti, estudante de engenharia de controle e automação na Unesp, morreu em um acidente na Rua João Ribeiro de Barros, em Sorocaba, no dia 23 de maio. O jovem tinha 18 anos, era premiado na Olimpíada Brasileira de Foguetes e realizava trabalho social em escola pública.",
-      "porQueImporta": "O caso destaca a vulnerabilidade de jovens em trânsito e a importância de medidas de segurança viária.",
+      "clusterId": "423b821dfb8e19c8",
+      "slug": "4a38fe24585356d2",
+      "titulo": "Incêndio destrói sobrado em Uberlândia e controla incêndio em padaria em Nova Friburgo",
+      "resumo": "Em Uberlândia, um incêndio consumiu um sobrado na Rua Conrado de Brito, exigindo a mobilização de três viaturas e nove militares do Corpo de Bombeiros, que utilizaram cerca de 300 litros de água para controlar as chamas. Em Nova Friburgo, um princípio de incêndio ocorreu em uma padaria no bairro Olaria, sendo contido em menos de uma hora, sem feridos. Em ambos os casos, as equipes de emergência agiram rapidamente para evitar maiores danos.",
+      "porQueImporta": "Os incidentes destacam a importância da pronta resposta dos bombeiros para proteger propriedades e garantir a segurança da comunidade.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/05/24/incendio-destroi-sobrado-no-bairro-umuarama-em-uberlandia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-24T20:45:20.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Pl3XMj3qVeCfmm-FQv9viswwsos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/1/o5bgkwTLyZWrWe1OvfbA/incendio-uberlandia.jpeg"
+    },
+    {
+      "clusterId": "ddfe7e5b6d1fd5f8",
+      "slug": "10892cf77d42c175",
+      "titulo": "Motociclista morre em batida frontal com carro em rodovia de Bariri",
+      "resumo": "Um motociclista de 51 anos morreu após colidir de frente com um carro na rodovia Deputado Leônidas Pacheco Ferreira (SP-304), em Bariri, no início da manhã de domingo. O motorista e a passageira do carro não ficaram feridos. O motociclista morreu no local do acidente.",
+      "porQueImporta": "O incidente destaca a gravidade de colisões frontais em rodovias e a necessidade de atenção ao dirigir.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/05/24/jovem-que-morreu-em-acidente-na-zona-norte-de-sorocaba-era-estudante-premiado-e-fazia-trabalho-social-em-escola-publica.ghtml"
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/05/24/motociclista-morre-em-batida-frontal-com-carro-em-rodovia-de-bariri.ghtml"
         }
       ],
-      "updatedAt": "2026-05-24T15:37:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IF77F9A0pScwjX5dKz4hkdNZkwU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/srE4x2TRKBrdNdzUaaug/whatsapp-image-2026-05-24-at-11.47.02.jpeg"
+      "updatedAt": "2026-05-24T20:21:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/G-fgolCo1-BwQ_K65SSh4ifRxH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/QXIAoyRPmslXHAyKQvKA/leonidas.jpg"
     },
     {
-      "clusterId": "ec9a4f745b773629",
-      "slug": "8cabbe3ac5a4dab3",
-      "titulo": "João Fonseca estreia em Roland Garros contra Luka Pavlovic",
-      "resumo": "O tenista brasileiro João Fonseca disputou sua primeira partida em um Grand Slam francês na abertura de Roland Garros, enfrentando o sérvio Luka Pavlovic na primeira rodada do simples. A partida ocorreu no dia 24 de maio de 2024. Fonseca buscou consolidar sua presença no circuito mundial, enquanto Pavlovic representou a experiência internacional. O resultado ainda não foi divulgado.",
-      "porQueImporta": "A estreia de um atleta brasileiro em um Grand Slam destaca a presença do país no tênis internacional.",
+      "clusterId": "e9d4a1b91500fd47",
+      "slug": "3373146d0f12b282",
+      "titulo": "Vocalista da Scalene sofre ferimento na cabeça após queda em show",
+      "resumo": "Durante a apresentação da banda Scalene no Porão do Rock, o vocalista Gustavo Bertoni sofreu uma queda que resultou em ferimento na cabeça. O acidente ocorreu no palco, enquanto a banda estava em atividade. Não há relatos de outras lesões graves. A banda continuou a apresentação após o incidente.",
+      "porQueImporta": "O incidente destaca a importância de medidas de segurança em eventos musicais.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/celebridades/vocalista-da-scalene-sofre-ferimento-na-cabeca-apos-queda-em-show"
+        }
+      ],
+      "updatedAt": "2026-05-24T20:01:34.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/scalene.jpg"
+    },
+    {
+      "clusterId": "21d53514eb57df52",
+      "slug": "b0e90e72e4497298",
+      "titulo": "Sem Itália na Copa, Kimi Antonelli está dividido entre Brasil e Argentina",
+      "resumo": "Jovem líder da temporada da Fórmula 1 diz que ausência do seu país \"é um desastre\"",
+      "porQueImporta": "",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-encara-pavlovic-em-roland-garros-acompanhe-ao-vivo/"
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sem-italia-na-copa-kimi-antonelli-esta-dividido-entre-brasil-e-argentina/"
         }
       ],
-      "updatedAt": "2026-05-24T15:16:05.000Z"
+      "updatedAt": "2026-05-24T20:00:07.000Z"
+    },
+    {
+      "clusterId": "8d66e2e0f5323245",
+      "slug": "978306ddab65c6ef",
+      "titulo": "Idosa de 80 anos morre após ser atropelada por moto em Teresina",
+      "resumo": "Uma idosa de 80 anos foi atropelada por uma motocicleta enquanto atravessava a Rua Batalha, em Teresina, no dia 23 de maio. O motociclista conduzia no sentido oeste‑leste da rua. A vítima recebeu atendimento do SAMU, mas faleceu no trajeto para o hospital. O acidente ocorreu na zona norte da cidade, no bairro Real Copagre.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção e fiscalização no trânsito urbano para proteger pedestres vulneráveis.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/05/24/idosa-morre-atropelada.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-24T19:52:54.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/XcvKRg7JMts-tai5Il3Q21FwvMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/7/jc8EWKQA2FF4JXHTqwAw/edicao-imagens-g1-1-.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "fc49dd139254f96f",
-          "slug": "33e26a8ef49536fe",
-          "titulo": "Menina de 3 anos morre após cair do 4º andar de prédio em Campinas",
-          "resumo": "Uma menina de 3 anos caiu do quarto andar de um prédio residencial em Campinas, SP, em 18 de maio. A queda ocorreu por uma janela sem tela de proteção no banheiro. Ela foi internada no Hospital PUC-Campinas e faleceu após quatro dias de internação. O acidente foi registrado no boletim de ocorrência atualizado em 23 de maio.",
-          "porQueImporta": "O caso destaca a importância de medidas de segurança em residências para prevenir acidentes infantis.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/05/24/menina-morre-apos-cair-de-cavalo-ser-arrastada-e-pisoteada-em-rio-preto.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-24T17:14:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bPTCgPrUyG4ls4Kd4x2MRdlkTdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Z/niA89iSDuohLz4TJmbGg/hospital.png"
-        },
-        {
-          "clusterId": "83616b32f7af0db4",
-          "slug": "f94608a52045a0d0",
-          "titulo": "Morte de 83 bovinos em Mato Grosso do Sul durante onda de frio",
-          "resumo": "Durante a onda de frio em Mato Grosso do Sul, mais de 80 bovinos morreram em cinco propriedades. As temperaturas chegaram a menos de 7°C, com sensação térmica próxima de 0°C. A Agência Estadual de Defesa Sanitária Animal e Vegetal (Iagro) está investigando os casos. O evento alerta produtores rurais e autoridades sanitárias sobre riscos de hipotermia e falta de abrigo em períodos de frio extremo.",
-          "porQueImporta": "O episódio destaca a vulnerabilidade de animais de criação a condições climáticas extremas e a necessidade de medidas preventivas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/05/24/hipotermia-e-falta-de-abrigo-o-que-explica-a-morte-de-mais-de-80-bovinos-durante-onda-de-frio-em-ms.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-24T16:38:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Zkra7xtTH6vTq9OoPvKwL7uC88o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/w/YJXwfXSnSj609vep4lFQ/bovinos-frio.jpg"
-        },
-        {
-          "clusterId": "728597c183250758",
-          "slug": "b58bbb07bad6acfd",
-          "titulo": "Buraco sob RN-233 preocupa moradores, mas DER descarta risco de desabamento",
-          "resumo": "Um buraco aberto sob a RN-233, próximo ao km 35 entre Caraúbas e Apodi, gera preocupação entre moradores locais. O Departamento de Estradas de Rodagem (DER-RN) realizou vistoria e descartou a possibilidade de desabamento da pista. Imagens de moradores mostram parte da estrutura comprometida sob a rodovia. A situação permanece monitorada pela DER.",
-          "porQueImporta": "O risco de desabamento pode afetar a segurança e a mobilidade dos usuários da rodovia.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/05/24/buraco-sob-rn-233-preocupa-moradores-mas-der-descarta-risco-de-desabamento.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-24T15:55:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1PZvkxn75aGHrtuAhqr8wngLJjA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/EQKvX5SKCwlNTjHVN3aA/buraco1.jpeg"
-        },
-        {
-          "clusterId": "ec9a4f745b773629",
-          "slug": "8cabbe3ac5a4dab3",
-          "titulo": "João Fonseca estreia em Roland Garros contra Luka Pavlovic",
-          "resumo": "O tenista brasileiro João Fonseca disputou sua primeira partida em um Grand Slam francês na abertura de Roland Garros, enfrentando o sérvio Luka Pavlovic na primeira rodada do simples. A partida ocorreu no dia 24 de maio de 2024. Fonseca buscou consolidar sua presença no circuito mundial, enquanto Pavlovic representou a experiência internacional. O resultado ainda não foi divulgado.",
-          "porQueImporta": "A estreia de um atleta brasileiro em um Grand Slam destaca a presença do país no tênis internacional.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-encara-pavlovic-em-roland-garros-acompanhe-ao-vivo/"
-            }
-          ],
-          "updatedAt": "2026-05-24T15:16:05.000Z"
-        },
-        {
-          "clusterId": "0fc39d384d19dcc3",
-          "slug": "9a2298d0db121129",
-          "titulo": "Pesquisas revelam novo cenário político após vazamento de áudios entre Flávio Bolsonaro e dono do Banco Master",
-          "resumo": "Pesquisas recentes indicam que Lula pode ganhar vantagem nas próximas eleições, enquanto Flávio Bolsonaro enfrenta pressão. O vazamento de áudios entre o candidato e o proprietário do Banco Master trouxe novas informações que alteraram o cenário político. As pesquisas refletem mudanças nas preferências dos eleitores, com Lula mostrando maior apoio. O debate político intensifica-se à medida que os dados são analisados.",
-          "porQueImporta": "O resultado pode influenciar a dinâmica das eleições presidenciais.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/politica/a-menos-de-5-meses-da-eleicao-lulinha-pesa-para-lula-vorcaro-para-flavio/"
-            }
-          ],
-          "updatedAt": "2026-05-24T15:00:12.000Z"
-        },
-        {
-          "clusterId": "94f5651ce218e050",
-          "slug": "2eb7239c27f27202",
-          "titulo": "Prefeitura de Zacarias condenada a indenizar mulher perfurada por agulha descartada irregularmente",
-          "resumo": "A 1ª Vara de Buritama condenou a Prefeitura de Zacarias a pagar R$ 10 mil em danos morais a uma mulher perfurada por uma agulha descartada de forma irregular por uma farmácia municipal. A decisão foi mantida pela 8ª Câmara de Direito Público do Tribunal de Justiça de São Paulo. A vítima pode recorrer da sentença.",
-          "porQueImporta": "O caso destaca a responsabilidade da administração pública na gestão de resíduos de saúde e a necessidade de cumprimento de normas de descarte.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/05/24/prefeitura-de-zacarias-e-condenada-a-indenizar-mulher-perfurada-por-agulha-descartada-de-forma-irregular.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-24T14:23:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/qJFIoGfsC5rYGd-Pfr5Z4UEQoaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/A/Fr3HtaRXuMTtBSTK7fog/design-sem-nome-2026-05-23t175918.891.jpg"
-        },
-        {
-          "clusterId": "9c6b6a46f771d668",
-          "slug": "c6be14a4e3f997b2",
-          "titulo": "Morte de jovem fisiculturista pode estar ligada ao uso de hormônios anabolizantes",
-          "resumo": "O fisiculturista e influenciador Gabriel Ganley, de 22 anos, faleceu em circunstâncias ainda investigadas. A investigação aponta o uso de insulina como anabolizante como possível fator contribuidor para a morte. Não há confirmação definitiva, mas a hipótese tem sido considerada pelos investigadores. A morte destaca riscos associados ao uso de substâncias ilícitas no esporte.",
-          "porQueImporta": "Ilustra os perigos do uso de hormônios anabolizantes em atletas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/saude/insulina-como-anabolizante-o-que-pode-estar-por-tras-da-morte-de-um-jovem-fisiculturista/"
-            }
-          ],
-          "updatedAt": "2026-05-24T14:14:41.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/bbzinho.jpg?quality=70&strip=info"
-        }
-      ]
-    },
     {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "035b5299d07fa988",
-          "slug": "57a1a2092f6af077",
-          "titulo": "Acidentes de trânsito em três estados deixam mortes e feridos",
-          "resumo": "Na BR-251, em Santa Cruz de Salinas, Minas Gerais, colisão frontal entre ônibus e caminhão deixou oito mortos e veículos em chamas, interdições totais da rodovia. No Piauí, colisão frontal entre dois carros na zona rural de São Raimundo Nonato resultou em três óbitos. Em Manaus, na Avenida Margarita, um carro na contramão colidiu de frente com outro, causando uma morte e três feridos.",
-          "porQueImporta": "Esses acidentes evidenciam riscos de segurança viária em diferentes regiões do país.",
+          "clusterId": "162d20f5693a540c",
+          "slug": "df7f7dd9048659df",
+          "titulo": "Acidente entre ônibus e carreta na BR-251 causa 8 mortes e bloqueio de 70 km",
+          "resumo": "Um ônibus e uma carreta colidiram na manhã de domingo na BR-251, em Santa Cruz de Salinas, Minas Gerais, incendiando os veículos e deixando oito mortos e nove feridos. O choque gerou um congestionamento de aproximadamente 70 km, com a rodovia interdita por mais de 10 horas. Os bombeiros conseguiram liberar o trânsito por volta das 16h, mas o fluxo ainda era lento no trecho. As ferragens retorcidas dificultaram o acesso às vítimas, complicando a perícia.",
+          "porQueImporta": "O acidente resultou em múltiplas fatalidades e paralisação de uma importante via de transporte, impactando a mobilidade e a segurança viária na região.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-brasil/colisao-entre-onibus-e-caminhao-mata-8-pessoas-na-br-251-em-mg/"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/acidente-em-mg-causou-fila-de-70-km-e-travou-br-251-por-10h"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/br-251-e-liberada-apos-acidente-entre-onibus-e-carreta-em-minas-gerais/"
             },
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/05/24/colisao-carros-zona-rural-sao-raimundo-nonato.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/24/apos-acidente-com-oito-mortos-br-251-e-liberada-no-norte-de-mg.ghtml"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/batida-frontal-entre-onibus-e-caminhao-deixa-pelo-menos-8-mortos-em-mg/"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/colisao-entre-onibus-e-caminhao-mata-8-pessoas-na-br-251-em-mg/"
             }
           ],
-          "updatedAt": "2026-05-24T17:02:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-koPCiks4UM9XWTvAcihX2tY9MQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/J/VdAVYASIG4jZ4VB5zCug/whatsapp-image-2024-05-12-at-11.33.18.jpeg"
+          "updatedAt": "2026-05-24T21:05:19.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/05/4942705668150464137_3x2.jpg"
         },
         {
-          "clusterId": "7f8a61a5b7aa3acb",
-          "slug": "83908a0390e6ef26",
-          "titulo": "Vários acidentes de trânsito resultam em mortes no litoral e interior de São Paulo e Mato Grosso",
-          "resumo": "Na madrugada de domingo, um pedestre foi atropelado por dois carros na Rodovia Padre Manoel da Nóbrega, em Itanhaém, e morreu. Na mesma manhã, uma mulher morreu quando seu Honda Civic capotou e bateu em um muro na Rodovia Deputado Laércio Corte, em Limeira. Em Tangará da Serra, Mato Grosso, um jovem de 22 anos morreu após seu carro bater na traseira de uma carreta, pegar fogo e explodir. No mesmo dia, um cabo da Polícia Militar faleceu em um acidente envolvendo duas motocicletas e um carro na BR-020, em Caucaia. Todos os incidentes ocorreram em rodovias e resultaram em fatalidades.",
-          "porQueImporta": "Esses acidentes destacam a necessidade de reforço nas medidas de segurança viária e fiscalização nas rodovias brasileiras.",
+          "clusterId": "cc3c0249433a138c",
+          "slug": "02648081deb8b94b",
+          "titulo": "Acidente com veículo da comitiva do governador de Sergipe deixa três feridos na SE-270",
+          "resumo": "Um veículo da comitiva do governador de Sergipe, Fábio Mitidieri, colidiu na rodovia SE-270, entre Lagarto e Salgado, no trecho de deslocamento para Indiaroba. O acidente ocorreu na tarde de domingo, 24 de maio. Três pessoas ficaram feridas, todas com quadro verde, indicando lesões leves. As vítimas foram atendidas e encaminhadas ao hospital.",
+          "porQueImporta": "O incidente envolve a comitiva do governador, destacando a necessidade de segurança nas estradas estaduais.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/05/24/pedestre-morre-apos-ser-atropelado-por-dois-carros-em-rodovia-no-litoral-de-sp.ghtml"
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/05/24/acidente-com-veiculo-da-comitiva-do-governador-de-sergipe-deixa-tres-feridos-na-se-270.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T17:10:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Uw9fOmQKRlX-gWb9dfOvCrMuOz8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/J/wPYl8GQDKYBGiY0CTZQA/edig1-2026-05-24t134232.983.png"
+          "updatedAt": "2026-05-24T21:15:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1hr42_UM5Ny4HuXXrdaNJGW7LYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/z/2xG5AhTNW6ClAYOqGPYw/governador.jpg"
         },
         {
-          "clusterId": "9b71dcd7584ddeb9",
-          "slug": "14a26cb3b405b938",
-          "titulo": "Acidente de ônibus em Minas Gerais deixa 10 feridos, incluindo bebê de colo",
-          "resumo": "Um ônibus de transporte coletivo colidiu com um caminhão em Minas Gerais, resultando em 10 feridos. Entre os feridos, um bebê de colo foi encontrado no veículo. Bombeiros confirmaram a presença do bebê no coletivo. O número de vítimas feridas aumentou em relação ao relato inicial.",
-          "porQueImporta": "O incidente destaca a importância da segurança no transporte coletivo e a necessidade de atenção especial a crianças em ambientes de risco.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/ferragens-retorcidas-dificultam-acesso-as-vitimas-em-acidente-em-mg/"
-            }
-          ],
-          "updatedAt": "2026-05-24T16:51:39.000Z"
-        },
-        {
-          "clusterId": "c786dd057cb36819",
-          "slug": "da6cc1a32b372d74",
-          "titulo": "Acidente na MGC-122 causa morte e feridos",
-          "resumo": "Um acidente envolvendo dois veículos na MGC-122, em Mato Verde, resultou em uma morte e duas pessoas feridas. A colisão foi registrada pelas autoridades locais e acionou o Corpo de Bombeiros. O incidente destaca a necessidade de atenção às condições da via e ao comportamento dos motoristas.",
-          "porQueImporta": "O evento evidencia riscos de segurança viária na região e pode influenciar medidas de prevenção e fiscalização.",
+          "clusterId": "23cf62a7f3e846d3",
+          "slug": "f248382748555731",
+          "titulo": "Acidente de trator em represa e perda de membro em colisão na BR-010",
+          "resumo": "Em Almas, Tocantins, o operador de máquinas agrícolas Gustavo dos Santos, de 27 anos, morreu após acidente com trator na represa, sendo encontrado por mergulhadores. Em Palmas, a estudante de Nutrição Jhenyfer Camilly Alves dos Santos, de 22 anos, perdeu um pé em colisão na BR-010, enquanto seu marido sofreu fraturas e permanece internado. Em ambos os casos, as investigações continuam para confirmar detalhes e causas.",
+          "porQueImporta": "Os incidentes destacam riscos de acidentes em atividades rurais e de trânsito, exigindo atenção à segurança e investigação adequada.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/24/cassacao-de-prefeita-prisao-de-advogado-suspeito-de-golpes-e-acidente-veja-as-mais-lidas-da-semana.ghtml"
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/05/24/quem-e-o-jovem-encontrado-morto-em-represa-apos-acidente-com-trator.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T15:53:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/iWB76skjLjQ8gf4pUcpb7im3U_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/D/jB6NTdQ8W8IpfDda3HNQ/122.jpeg"
+          "updatedAt": "2026-05-24T21:11:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/y4txLcL44mDeBM1LZE8LnfWTvvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/h/P3AJrvQAaGgpCIO0JMZA/gustavo.png"
         },
         {
-          "clusterId": "2b846adbf2339ba2",
-          "slug": "7114472863652048",
-          "titulo": "Jovem de 18 anos morre em acidente de trânsito na zona norte de Sorocaba",
-          "resumo": "Giovanni Fioravanti, estudante de engenharia de controle e automação na Unesp, morreu em um acidente na Rua João Ribeiro de Barros, em Sorocaba, no dia 23 de maio. O jovem tinha 18 anos, era premiado na Olimpíada Brasileira de Foguetes e realizava trabalho social em escola pública.",
-          "porQueImporta": "O caso destaca a vulnerabilidade de jovens em trânsito e a importância de medidas de segurança viária.",
+          "clusterId": "ddfe7e5b6d1fd5f8",
+          "slug": "10892cf77d42c175",
+          "titulo": "Motociclista morre em batida frontal com carro em rodovia de Bariri",
+          "resumo": "Um motociclista de 51 anos morreu após colidir de frente com um carro na rodovia Deputado Leônidas Pacheco Ferreira (SP-304), em Bariri, no início da manhã de domingo. O motorista e a passageira do carro não ficaram feridos. O motociclista morreu no local do acidente.",
+          "porQueImporta": "O incidente destaca a gravidade de colisões frontais em rodovias e a necessidade de atenção ao dirigir.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/05/24/jovem-que-morreu-em-acidente-na-zona-norte-de-sorocaba-era-estudante-premiado-e-fazia-trabalho-social-em-escola-publica.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/05/24/motociclista-morre-em-batida-frontal-com-carro-em-rodovia-de-bariri.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T15:37:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/IF77F9A0pScwjX5dKz4hkdNZkwU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/srE4x2TRKBrdNdzUaaug/whatsapp-image-2026-05-24-at-11.47.02.jpeg"
+          "updatedAt": "2026-05-24T20:21:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/G-fgolCo1-BwQ_K65SSh4ifRxH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/QXIAoyRPmslXHAyKQvKA/leonidas.jpg"
         },
         {
-          "clusterId": "3cc01019870516e7",
-          "slug": "63df8a7855a21182",
-          "titulo": "Motorista bêbado quase atropela policiais e bate em ambulância no PR",
-          "resumo": "Um motorista de 18 anos perdeu o controle na PR-170 em Pinhão, quase atropelou policiais e colidiu com uma ambulância que atendia uma pedestre atropelada. O condutor fugiu, mas foi detido quatro quilômetros depois. Ele estava embriagado. Nenhum socorrista se feriu, mas a pedestre não resistiu.",
-          "porQueImporta": "O caso evidencia riscos de condução sob efeito de álcool e a vulnerabilidade de profissionais de emergência em cena de acidentes.",
+          "clusterId": "8d66e2e0f5323245",
+          "slug": "978306ddab65c6ef",
+          "titulo": "Idosa de 80 anos morre após ser atropelada por moto em Teresina",
+          "resumo": "Uma idosa de 80 anos foi atropelada por uma motocicleta enquanto atravessava a Rua Batalha, em Teresina, no dia 23 de maio. O motociclista conduzia no sentido oeste‑leste da rua. A vítima recebeu atendimento do SAMU, mas faleceu no trajeto para o hospital. O acidente ocorreu na zona norte da cidade, no bairro Real Copagre.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção e fiscalização no trânsito urbano para proteger pedestres vulneráveis.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/05/24/motorista-bebado-quase-atropela-policiais-no-pr-bate-em-ambulancia-durante-atendimento-a-pedestre-atropelada-e-tenta-fugir-mas-e-pego.ghtml"
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/05/24/idosa-morre-atropelada.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T15:02:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Z-CaC2BHcm0D9TrBdunahE72heY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/v/V63fnYT62hqI1HRLARsw/g1-19-.png"
+          "updatedAt": "2026-05-24T19:52:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XcvKRg7JMts-tai5Il3Q21FwvMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/7/jc8EWKQA2FF4JXHTqwAw/edicao-imagens-g1-1-.jpg"
+        },
+        {
+          "clusterId": "d59e9d32cab8b756",
+          "slug": "b4c6b1305df68619",
+          "titulo": "Dona de bar dá a vida para salvar bebê em acidente com caminhão em Anápolis",
+          "resumo": "Um caminhão desgovernado atingiu um bar em Anápolis, Goiás, matando quatro pessoas. A proprietária, de 42 anos, sacrificou-se para salvar o bebê de 4 meses da melhor amiga, que também morreu no acidente. O incidente ocorreu no bairro Copacabana na quinta-feira (21).",
+          "porQueImporta": "O caso destaca o risco de acidentes de trânsito em áreas urbanas e a heroica ação de um cidadão.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/05/24/dona-de-bar-deu-a-vida-para-salvar-bebe-da-melhor-amiga-em-acidente-com-caminhao-desgovernado.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T18:42:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Gwk0p8-qTmiY0pjE2NYx85gbCgA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/c/sMJmCrTdaQ5YOlE0P2Mg/imagens-g1-17-.jpg"
+        },
+        {
+          "clusterId": "5427c7266354fffa",
+          "slug": "42ee54ffc888917a",
+          "titulo": "Policiais do DOF sofrem acidente na MS-379 em Dourados",
+          "resumo": "Quatro policiais militares do Departamento de Operações de Fronteira (DOF) tiveram um acidente de trânsito na manhã de domingo, 24 de maio, na rodovia MS-379, em Dourados. O veículo envolvido foi um carro de passeio. Todos os policiais foram socorridos e levados ao Hospital da Vida, onde passaram por exames, mas nenhum precisou de cirurgia até o momento. As causas do acidente ainda não foram divulgadas.",
+          "porQueImporta": "O incidente envolve forças de segurança e pode afetar a continuidade das operações de fronteira na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/05/24/policiais-do-dof-sofrem-acidente-na-ms-379-em-dourados.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T18:26:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/G98f_22Yzml995yuMloRdNrMBi4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/y/vGa8iqRmGH2cp83Y3cDg/carro-dof.jpg"
         }
       ]
     },
@@ -423,45 +339,42 @@
       "label": "Explosão",
       "stories": [
         {
-          "clusterId": "1d8f1609e19f4d90",
-          "slug": "76556089b07f336d",
-          "titulo": "Explosões em trem e mina de carvão causam mortes e feridos no Paquistão e na China",
-          "resumo": "Um atentado com bomba atingiu um trem que transportava militares e suas famílias em Quetta, Paquistão, resultando em pelo menos 24 mortos e mais de 70 feridos. Na China, uma explosão de gás na mina de carvão de Liushenyu, em Shanxi, deixou pelo menos 90 mortos, nove desaparecidos e mais de 120 feridos. Ambos os incidentes ocorreram em contextos de transporte e mineração, setores críticos para a segurança pública.",
-          "porQueImporta": "Esses eventos destacam riscos graves em infraestruturas essenciais e a necessidade de reforçar medidas de segurança e prevenção.",
+          "clusterId": "a907829cf75d4dc3",
+          "slug": "d145b46f4d15536c",
+          "titulo": "40 mil pessoas recebem ordens de evacuação por vazamento em tanque químico na Califórnia",
+          "resumo": "Cerca de 40 mil residentes de Garden Grove, na Califórnia, foram ordenados a evacuar após um tanque de 22.700 a 26.500 litros contendo metacrilato de metila começar a liberar vapores. O tanque, localizado em uma fábrica de plásticos aeroespaciais, corre risco de explosão. As autoridades emitiram as ordens de evacuação na sexta-feira, 22 de abril. O vazamento iniciou na quinta-feira, 21 de abril.",
+          "porQueImporta": "O vazamento de um líquido inflamável em grande escala representa risco de explosão e exposição a vapores tóxicos, colocando em perigo a saúde e segurança da população local.",
           "categoria": "Explosão",
           "categoriaSlug": "explosao",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/video-chamas-consomem-veiculos-em-acidente-que-deixou-8-mortos-em-mg/"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/explosao-em-trem-militar-no-paquistao-deixa-24-mortos/"
+              "url": "https://www.cnnbrasil.com.br/internacional/california-busca-nova-solucao-para-risco-de-explosao-de-tanque-quimico/"
             },
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/23/explosao-de-gas-em-mina-de-carvao-deixa-mortos-na-china.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/23/40-mil-pessoas-recebem-ordens-de-evacuacao-por-vazamento-em-tanque-quimico-na-california.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T16:48:17.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/290cfef0-574a-11f1-934b-4138723911fd.jpg.webp"
+          "updatedAt": "2026-05-24T19:11:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-Iunj9eO-anNBdYUdoDCoD-oB9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/y/0mpSugRdeOSnVAA3cXwA/2026-05-23t011355z-786029805-rc2helakr6ef-rtrmadp-3-california-chemical-garden-grove.jpg"
         },
         {
-          "clusterId": "bfd759d32bbe3c88",
-          "slug": "5be543c6d99a0593",
-          "titulo": "Polícia investiga membro do Comando Vermelho por explosão em escola de Belford Roxo",
-          "resumo": "A Polícia Civil abriu investigação sobre um suposto membro do Comando Vermelho que teria participado da fabricação de um artefato explosivo em uma escola na cidade de Belford Roxo, no Rio de Janeiro. O suspeito, já preso em operação contra o tráfico na Baixada Fluminense, é acusado de ter contribuído para a explosão que causou danos ao prédio escolar. A investigação busca confirmar a participação do indivíduo e identificar outros envolvidos na produção do explosivo. A polícia ainda não divulgou detalhes sobre os danos causados pela explosão.",
-          "porQueImporta": "A explosão em estabelecimento educacional representa risco à segurança pública e pode indicar a presença de grupos criminosos em áreas escolares.",
+          "clusterId": "a7bdc610feab0428",
+          "slug": "9c8e49508e33e94a",
+          "titulo": "Explosão de cilindro de ar deixa empresário gravemente ferido em Paranaguá",
+          "resumo": "Um cilindro de ar explodiu durante um processo caseiro de produção de cerveja em Paranaguá, litoral do Paraná, no bairro Parque Agari. O acidente ocorreu no final da manhã de domingo, 24 de maio, e resultou em ferimentos graves a um empresário de 40 anos. O Corpo de Bombeiros foi acionado após vizinho ouvir a explosão. Ainda não há informações sobre a causa do acidente.",
+          "porQueImporta": "O incidente destaca riscos de processos industriais caseiros e a necessidade de segurança adequada.",
           "categoria": "Explosão",
           "categoriaSlug": "explosao",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-membro-do-cv-por-explosao-em-escola-de-belford-roxo-rj/"
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/parana/noticia/2026/05/24/explosao-cilindro-producao-de-cerveja-parana.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T14:29:00.000Z"
+          "updatedAt": "2026-05-24T18:21:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/4XfqfJhfNxLE7ueMtNep0e8bWHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/3/VsvYuYTduN5LRP7MmZ2Q/explosa132.png"
         },
         {
           "clusterId": "2768b11741e2df8b",
@@ -481,21 +394,150 @@
           "imageUrl": "https://s2-g1.glbimg.com/PlVFtil-OAzYPknoulddF-7Ral8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/voriW4QreWIDj5ITBLfw/2026-05-24t063959z-1761579952-rc2gflas3jek-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
         },
         {
-          "clusterId": "2a968012e9862477",
-          "slug": "d145b46f4d15536c",
-          "titulo": "40 mil pessoas recebem ordens de evacuação por vazamento em tanque químico na Califórnia",
-          "resumo": "Cerca de 40 mil residentes de Garden Grove, na Califórnia, foram ordenados a evacuar após um tanque de 22.700 a 26.500 litros contendo metacrilato de metila começar a liberar vapores. O tanque, localizado em uma fábrica de plásticos aeroespaciais, corre risco de explosão. As autoridades emitiram as ordens de evacuação na sexta-feira, 22 de abril. O vazamento iniciou na quinta-feira, 21 de abril.",
-          "porQueImporta": "O vazamento de um líquido inflamável em grande escala representa risco de explosão e exposição a vapores tóxicos, colocando em perigo a saúde e segurança da população local.",
+          "clusterId": "37943f786bc0da52",
+          "slug": "76556089b07f336d",
+          "titulo": "Explosões em trem e mina de carvão causam mortes e feridos no Paquistão e na China",
+          "resumo": "Um atentado com bomba atingiu um trem que transportava militares e suas famílias em Quetta, Paquistão, resultando em pelo menos 24 mortos e mais de 70 feridos. Na China, uma explosão de gás na mina de carvão de Liushenyu, em Shanxi, deixou pelo menos 90 mortos, nove desaparecidos e mais de 120 feridos. Ambos os incidentes ocorreram em contextos de transporte e mineração, setores críticos para a segurança pública.",
+          "porQueImporta": "Esses eventos destacam riscos graves em infraestruturas essenciais e a necessidade de reforçar medidas de segurança e prevenção.",
           "categoria": "Explosão",
           "categoriaSlug": "explosao",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/23/40-mil-pessoas-recebem-ordens-de-evacuacao-por-vazamento-em-tanque-quimico-na-california.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/23/explosao-de-gas-em-mina-de-carvao-deixa-mortos-na-china.ghtml"
             }
           ],
-          "updatedAt": "2026-05-23T10:06:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-Iunj9eO-anNBdYUdoDCoD-oB9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/y/0mpSugRdeOSnVAA3cXwA/2026-05-23t011355z-786029805-rc2helakr6ef-rtrmadp-3-california-chemical-garden-grove.jpg"
+          "updatedAt": "2026-05-23T09:22:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wQQ-cyEjo7-VuI9UF2LxFXIpEcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/v/eBtkUjQdSzyIdzgLL7rA/2026-05-23t063602z-1444527846-rc2uelad8ohy-rtrmadp-3-china-coal-mine-accident.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "21d53514eb57df52",
+          "slug": "b0e90e72e4497298",
+          "titulo": "Sem Itália na Copa, Kimi Antonelli está dividido entre Brasil e Argentina",
+          "resumo": "Jovem líder da temporada da Fórmula 1 diz que ausência do seu país \"é um desastre\"",
+          "porQueImporta": "",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sem-italia-na-copa-kimi-antonelli-esta-dividido-entre-brasil-e-argentina/"
+            }
+          ],
+          "updatedAt": "2026-05-24T20:00:07.000Z"
+        },
+        {
+          "clusterId": "692247ca721dddba",
+          "slug": "977e7c17f14c8887",
+          "titulo": "Filho morre soterrado após túmulo do pai desabar em cemitério de MT",
+          "resumo": "Adilson Gonçalves dos Santos, de 36 anos, morreu enquanto reformava o túmulo do pai no cemitério de Alto Paraguai, a 219 km de Cuiabá. A estrutura do jazigo desabou sobre ele quando ele entrou para cortar concreto com ferramenta elétrica. O incidente ocorreu na tarde de sexta-feira, 23. A prefeitura local não respondeu às solicitações de informação.",
+          "porQueImporta": "O caso destaca riscos de acidentes em atividades de reforma em locais de cemitério.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/05/24/homem-morre-soterrado-enquanto-reformava-o-tumulo-do-pai-em-cemiterio-de-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T17:58:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6EPrafOMujHKQmZKnVfCOEKrddo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/O/8oOvpETwKAOw9rh7jbSg/videos-g1-2026-05-24t134215.920.jpg"
+        },
+        {
+          "clusterId": "004d97dcfad78ad8",
+          "slug": "42cdbb63604050fc",
+          "titulo": "Dino Prizmic enfrenta João Fonseca na segunda rodada de Roland Garros",
+          "resumo": "O tenista brasileiro João Fonseca, 19 anos, terá que enfrentar o adversário croata Dino Prizmic na segunda rodada do Grand Slam da França. Prizmic já demonstrou boa forma em torneios anteriores e é considerado um forte concorrente. A partida será decisiva para a classificação de Fonseca no torneio.",
+          "porQueImporta": "O resultado pode definir a continuidade de Fonseca na competição e influenciar sua posição na classificação mundial.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/tenis/quem-e-dino-prizmic-adversario-de-joao-fonseca-em-roland-garros/"
+            }
+          ],
+          "updatedAt": "2026-05-24T17:42:34.000Z"
+        },
+        {
+          "clusterId": "83616b32f7af0db4",
+          "slug": "f94608a52045a0d0",
+          "titulo": "Morte de 83 bovinos em Mato Grosso do Sul durante onda de frio",
+          "resumo": "Durante a onda de frio em Mato Grosso do Sul, mais de 80 bovinos morreram em cinco propriedades. As temperaturas chegaram a menos de 7°C, com sensação térmica próxima de 0°C. A Agência Estadual de Defesa Sanitária Animal e Vegetal (Iagro) está investigando os casos. O evento alerta produtores rurais e autoridades sanitárias sobre riscos de hipotermia e falta de abrigo em períodos de frio extremo.",
+          "porQueImporta": "O episódio destaca a vulnerabilidade de animais de criação a condições climáticas extremas e a necessidade de medidas preventivas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/05/24/hipotermia-e-falta-de-abrigo-o-que-explica-a-morte-de-mais-de-80-bovinos-durante-onda-de-frio-em-ms.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T16:38:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Zkra7xtTH6vTq9OoPvKwL7uC88o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/w/YJXwfXSnSj609vep4lFQ/bovinos-frio.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "553fb5aac9010377",
+          "slug": "b6fdffb2f1fa6b7f",
+          "titulo": "Sacada desaba sobre ponto de ônibus, deixando três feridos",
+          "resumo": "Uma sacada na Estrada do M'Boi Mirim, zona sul da capital, desabou sobre um ponto de ônibus, ferindo três pessoas. O engenheiro técnico avaliou a estrutura e a Defesa Civil interditou parcialmente três edificações próximas. O incidente ocorreu em meio a obras de reforma na região. As autoridades continuam investigando as causas do colapso.",
+          "porQueImporta": "O colapso pode indicar falhas estruturais em construções urbanas, representando risco à segurança pública.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/feridas-sacada-desabar-ponto-onibus"
+            }
+          ],
+          "updatedAt": "2026-05-24T21:15:03.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/05/sacada-desabada.jpg"
+        },
+        {
+          "clusterId": "e9d4a1b91500fd47",
+          "slug": "3373146d0f12b282",
+          "titulo": "Vocalista da Scalene sofre ferimento na cabeça após queda em show",
+          "resumo": "Durante a apresentação da banda Scalene no Porão do Rock, o vocalista Gustavo Bertoni sofreu uma queda que resultou em ferimento na cabeça. O acidente ocorreu no palco, enquanto a banda estava em atividade. Não há relatos de outras lesões graves. A banda continuou a apresentação após o incidente.",
+          "porQueImporta": "O incidente destaca a importância de medidas de segurança em eventos musicais.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/celebridades/vocalista-da-scalene-sofre-ferimento-na-cabeca-apos-queda-em-show"
+            }
+          ],
+          "updatedAt": "2026-05-24T20:01:34.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/05/scalene.jpg"
+        },
+        {
+          "clusterId": "d4d9ea661a3a0e17",
+          "slug": "4503c3873f6f41d6",
+          "titulo": "Menina de 6 anos morre após cair de cavalo em Guapiaçu",
+          "resumo": "Uma menina de 6 anos morreu depois de cair de um cavalo em um sítio de Guapiaçu, SP, no sábado (23). O acidente ocorreu por volta das 17h, e a criança foi arrastada e pisoteada pelo animal. Equipes de resgate prestaram primeiros socorros no local e a vítima foi encaminhada em estado gravíssimo ao Hospital de Base de Rio Preto.",
+          "porQueImporta": "O incidente destaca os riscos de acidentes com animais em ambientes rurais.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/05/24/menina-morre-apos-cair-de-cavalo-ser-arrastada-e-pisoteada-em-rio-preto.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T17:14:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bPTCgPrUyG4ls4Kd4x2MRdlkTdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Z/niA89iSDuohLz4TJmbGg/hospital.png"
         }
       ]
     },
@@ -504,21 +546,21 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "a64cc74978f01fd1",
-          "slug": "36fb65af578e52a0",
-          "titulo": "Ônibus de Rio Branco pega fogo na Estrada do Calafate",
-          "resumo": "Um ônibus de transporte coletivo de Rio Branco pegou fogo na Estrada do Calafate, enquanto seguia do Calafate ao Centro. O motorista percebeu cheiro de queimado e fumaça nas áreas do painel, motor e assoalho. O veículo transportava cinco passageiros e o motorista, e ninguém ficou ferido.",
-          "porQueImporta": "O incidente destaca a importância da manutenção e segurança em veículos de transporte público.",
+          "clusterId": "423b821dfb8e19c8",
+          "slug": "4a38fe24585356d2",
+          "titulo": "Incêndio destrói sobrado em Uberlândia e controla incêndio em padaria em Nova Friburgo",
+          "resumo": "Em Uberlândia, um incêndio consumiu um sobrado na Rua Conrado de Brito, exigindo a mobilização de três viaturas e nove militares do Corpo de Bombeiros, que utilizaram cerca de 300 litros de água para controlar as chamas. Em Nova Friburgo, um princípio de incêndio ocorreu em uma padaria no bairro Olaria, sendo contido em menos de uma hora, sem feridos. Em ambos os casos, as equipes de emergência agiram rapidamente para evitar maiores danos.",
+          "porQueImporta": "Os incidentes destacam a importância da pronta resposta dos bombeiros para proteger propriedades e garantir a segurança da comunidade.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/05/24/video-onibus-com-passageiros-a-bordo-pega-fogo-em-rio-branco-ninguem-ficou-ferido.ghtml"
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/05/24/incendio-destroi-sobrado-no-bairro-umuarama-em-uberlandia.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T15:09:10.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dz8hx09ihPtC-haiJH8Y78okg5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/w/1BxTO5QHWmmRVxXnlyKA/midia-de-distribuicao-g1-2026-05-24t093041.985.png"
+          "updatedAt": "2026-05-24T20:45:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Pl3XMj3qVeCfmm-FQv9viswwsos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/1/o5bgkwTLyZWrWe1OvfbA/incendio-uberlandia.jpeg"
         }
       ]
     },
@@ -527,43 +569,21 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "4b8dece1563b2853",
-          "slug": "07c608671f5df6c4",
-          "titulo": "Tornado atinge Grande Ilha e causa destruição",
-          "resumo": "Um tornado atingiu a Grande Ilha, causando destruição em residências e veículos. Em meio ao caos, uma criança foi morta em uma emboscada, e os agressores de uma mulher foram identificados no Maranhão. O incidente ocorreu na manhã de 17 de maio, envolvendo incêndio em restaurante e outras ocorrências na região.",
-          "porQueImporta": "O evento demonstra a vulnerabilidade da região a fenômenos meteorológicos extremos e a violência urbana.",
+          "clusterId": "80c9a72e711e2aa5",
+          "slug": "b58f060de3c5950c",
+          "titulo": "Alerta laranja de chuvas intensas em Salvador e 17 cidades da Bahia",
+          "resumo": "O Instituto Nacional de Meteorologia emitiu alerta laranja para chuvas intensas em Salvador e 17 outras cidades baianas, válido até 23h59 de domingo. Espera-se precipitação de até 100 mm ao longo do dia. O alerta prevê risco de corte de energia, alagamentos e outras consequências.",
+          "porQueImporta": "A previsão de chuvas fortes pode causar transtornos urbanos e riscos à segurança pública.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/05/24/vc-viu-principio-de-tornado-causa-estragos-na-grande-ilha-crianca-morre-em-emboscada-e-agressores-de-mulher-sao-identificados-no-ma.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/05/24/cidades-da-bahia-estao-em-alerta-para-chuvas.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T14:08:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/2TCsuVHVoYIHj_ViApYLjWV-Ytw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/L/IAxz0LQwA9UaPkzQJ32Q/montagens-1920-x-1080-px-2026-05-24t110531.198.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "desabamento",
-      "label": "Desabamento",
-      "stories": [
-        {
-          "clusterId": "f4398b40a251e510",
-          "slug": "a42c24676c31d6dd",
-          "titulo": "Idoso de 65 anos morre após desabamento de prédio nas Filipinas",
-          "resumo": "Um edifício em Manila desabou, resultando na morte de um idoso de 65 anos. Autoridades registraram 21 pessoas como desaparecidas após a queda. O incidente ocorreu em um prédio residencial. As autoridades continuam investigando as causas do desabamento.",
-          "porQueImporta": "O caso destaca a necessidade de fiscalização de segurança em construções nas Filipinas.",
-          "categoria": "Desabamento",
-          "categoriaSlug": "desabamento",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/idoso-de-65-anos-morre-apos-desabamento-de-predio-nas-filipinas/"
-            }
-          ],
-          "updatedAt": "2026-05-24T13:31:42.000Z"
+          "updatedAt": "2026-05-24T18:39:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/osRVOGPvF2DrFB3bsaR1r2LpEXA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/x/82J7AmQR2jUZ8wRuMyGg/whatsapp-image-2025-11-20-at-16.45.05.jpg"
         }
       ]
     }
