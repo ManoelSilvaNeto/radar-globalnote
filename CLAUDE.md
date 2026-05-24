@@ -19,12 +19,14 @@
 
 **🚀 SITE NO AR (2026-05-24): https://radar-wly.pages.dev** — deploy feito, HTTP 200, IA gerando resumos (cache=22 IA=2 fallback=0, 6 categorias dinâmicas). Os **3 secrets estão cadastrados** (`GROQ_API_KEY`, `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`). ⚠️ O subdomínio ficou **`radar-wly.pages.dev`** (o `radar.pages.dev` já estava tomado por outra conta) — é esse o alvo do CNAME. Account ID Cloudflare: `e8cf1a217ad1957c7fd9ee29db14daaf`.
 
-**⭐ RETOMAR AQUI — falta só 1 passo manual do dono (CNAME) + propagação:**
+**🌐 DOMÍNIO PRÓPRIO NO AR (2026-05-24, 22:13 UTC): https://radar.globalnote.com.br** — CNAME `radar` → `radar-wly.pages.dev.` adicionado pelo dono no registro.br (zona DNS gerenciada pelo próprio registro.br, NS `*.sec.dns.br` — não usa NS da Cloudflare; mesmo padrão do `noticias`). Cloudflare validou e emitiu SSL sozinha (cert Google Trust Services, emitido 21:12 GMT). Verificado: HTTP 200, SSL ok, `<title>` correto. **Infra 100% concluída.**
+
+**⭐ RETOMAR AQUI — só falta a PROPAGAÇÃO (etapa 5), tudo dependente de o dono criar contas novas do Radar:**
 1. ~~Secrets~~ ✅ feito (GROQ + Cloudflare token/account, validados).
 2. ~~Deploy~~ ✅ feito — Pages `radar` criado, site no ar em `radar-wly.pages.dev`.
-3. ~~Custom domain no Pages~~ ✅ feito via API — `radar.globalnote.com.br` adicionado ao projeto `radar` (status `initializing`, valida quando o DNS apontar).
-4. **⏳ DONO: adicionar o CNAME no registro.br** (painel do `globalnote.com.br` → Zona DNS): `CNAME` nome **`radar`** → destino **`radar-wly.pages.dev`** (atenção: `-wly`, não `radar.pages.dev`). Depois a Cloudflare valida e emite SSL sozinha. → Quando feito, dá pra confirmar o status via API (`GET /accounts/<acc>/pages/projects/radar/domains`) e testar `https://radar.globalnote.com.br`.
-5. **Propagação** (depende de o dono criar contas): GSC, Bing, Google News, Bluesky/Mastodon (contas novas do Radar), Newsletter (Buttondown novo). **SEM Telegram.**
+3. ~~Custom domain no Pages~~ ✅ feito via API — `radar.globalnote.com.br` adicionado ao projeto `radar`.
+4. ~~CNAME no registro.br~~ ✅ **feito pelo dono — domínio no ar com SSL** (ver acima).
+5. **⏳ Propagação** (depende de o dono criar contas): GSC, Bing, Google News, Bluesky/Mastodon (contas novas do Radar), Newsletter (Buttondown novo). **SEM Telegram.**
 
 **Contexto da fábrica (2026-05-24):** o **GlobalNotícias também foi migrado pro Groq** (mesmo padrão, schema de 3 campos, em produção). Os dois portais usam a **MESMA chave Groq** (rate limit é por conta, não por chave) → crons **defasados**: Notícias `0 */4`, Radar `30 */4`. Pendência do dono não-bloqueante: estava com instabilidade no e-mail/login do Claude; chave Groq foi colada no chat → pode rotacionar em console.groq.com se quiser (é só me passar a nova que eu atualizo os 2 secrets).
 
