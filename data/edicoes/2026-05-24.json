@@ -1,13 +1,13 @@
 {
   "date": "2026-05-24",
-  "generatedAt": "2026-05-24T16:22:48.561Z",
+  "generatedAt": "2026-05-24T16:40:41.054Z",
   "home": [
     {
-      "clusterId": "2455e5bc10d1cc4a",
-      "slug": "0341e35b9eb7e0f6",
-      "titulo": "Acidentes envolvendo caminhonetes, ônibus e carreta causam fatalidades e feridos em três rodovias",
-      "resumo": "Três colisões distintas ocorreram na madrugada de domingo (24/5). Na SHIS QI 5, uma caminhonete colidiu com um carro, ferindo o motorista que foi levado consciente ao hospital. Na BR-386, km 427, uma caminhonete L200 colidiu frontalmente com um ônibus, resultando na morte de um motorista de 61 anos e ferindo duas pessoas. Na BR-251, km 230, uma carreta bateu em um ônibus, incendiando ambos os veículos e deixando cinco mortos e cinco feridos.",
-      "porQueImporta": "Esses acidentes evidenciam a necessidade de reforço nas medidas de segurança viária e fiscalização em rodovias.",
+      "clusterId": "5f58c4875b33bb09",
+      "slug": "f9860dd6052ad8dc",
+      "titulo": "Acidente entre ônibus e carreta deixa ao menos oito mortos na BR-251",
+      "resumo": "Um ônibus colidiu frontalmente com uma carreta na BR-251, em Santa Cruz de Salinas, Minas Gerais, resultando em incêndio e pelo menos oito mortes entre os ocupantes do ônibus. A carreta não registrou vítimas fatais. O número de vítimas pode ser atualizado à medida que as investigações avançam.",
+      "porQueImporta": "O acidente destaca a necessidade de reforço na segurança viária e na fiscalização de veículos de carga em rodovias.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
@@ -47,6 +47,22 @@
       ],
       "updatedAt": "2026-05-24T14:15:22.000Z",
       "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/290cfef0-574a-11f1-934b-4138723911fd.jpg.webp"
+    },
+    {
+      "clusterId": "4a056d10941ea105",
+      "slug": "14a26cb3b405b938",
+      "titulo": "Acidente de ônibus em Minas Gerais deixa 10 feridos, incluindo bebê de colo",
+      "resumo": "Um ônibus de transporte coletivo colidiu com um caminhão em Minas Gerais, resultando em 10 feridos. Entre os feridos, um bebê de colo foi encontrado no veículo. Bombeiros confirmaram a presença do bebê no coletivo. O número de vítimas feridas aumentou em relação ao relato inicial.",
+      "porQueImporta": "O incidente destaca a importância da segurança no transporte coletivo e a necessidade de atenção especial a crianças em ambientes de risco.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/bebe-de-colo-esta-entre-vitimas-fatais-de-acidente-em-minas-gerais/"
+        }
+      ],
+      "updatedAt": "2026-05-24T16:29:42.000Z"
     },
     {
       "clusterId": "728597c183250758",
@@ -165,22 +181,6 @@
       ],
       "updatedAt": "2026-05-24T15:02:02.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/Z-CaC2BHcm0D9TrBdunahE72heY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/v/V63fnYT62hqI1HRLARsw/g1-19-.png"
-    },
-    {
-      "clusterId": "0fc39d384d19dcc3",
-      "slug": "9a2298d0db121129",
-      "titulo": "Pesquisas revelam novo cenário político após vazamento de áudios entre Flávio Bolsonaro e dono do Banco Master",
-      "resumo": "Pesquisas recentes indicam que Lula pode ganhar vantagem nas próximas eleições, enquanto Flávio Bolsonaro enfrenta pressão. O vazamento de áudios entre o candidato e o proprietário do Banco Master trouxe novas informações que alteraram o cenário político. As pesquisas refletem mudanças nas preferências dos eleitores, com Lula mostrando maior apoio. O debate político intensifica-se à medida que os dados são analisados.",
-      "porQueImporta": "O resultado pode influenciar a dinâmica das eleições presidenciais.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/a-menos-de-5-meses-da-eleicao-lulinha-pesa-para-lula-vorcaro-para-flavio/"
-        }
-      ],
-      "updatedAt": "2026-05-24T15:00:12.000Z"
     }
   ],
   "categorias": [
@@ -329,11 +329,11 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "2455e5bc10d1cc4a",
-          "slug": "0341e35b9eb7e0f6",
-          "titulo": "Acidentes envolvendo caminhonetes, ônibus e carreta causam fatalidades e feridos em três rodovias",
-          "resumo": "Três colisões distintas ocorreram na madrugada de domingo (24/5). Na SHIS QI 5, uma caminhonete colidiu com um carro, ferindo o motorista que foi levado consciente ao hospital. Na BR-386, km 427, uma caminhonete L200 colidiu frontalmente com um ônibus, resultando na morte de um motorista de 61 anos e ferindo duas pessoas. Na BR-251, km 230, uma carreta bateu em um ônibus, incendiando ambos os veículos e deixando cinco mortos e cinco feridos.",
-          "porQueImporta": "Esses acidentes evidenciam a necessidade de reforço nas medidas de segurança viária e fiscalização em rodovias.",
+          "clusterId": "5f58c4875b33bb09",
+          "slug": "f9860dd6052ad8dc",
+          "titulo": "Acidente entre ônibus e carreta deixa ao menos oito mortos na BR-251",
+          "resumo": "Um ônibus colidiu frontalmente com uma carreta na BR-251, em Santa Cruz de Salinas, Minas Gerais, resultando em incêndio e pelo menos oito mortes entre os ocupantes do ônibus. A carreta não registrou vítimas fatais. O número de vítimas pode ser atualizado à medida que as investigações avançam.",
+          "porQueImporta": "O acidente destaca a necessidade de reforço na segurança viária e na fiscalização de veículos de carga em rodovias.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
@@ -352,6 +352,22 @@
           ],
           "updatedAt": "2026-05-24T15:59:01.000Z",
           "imageUrl": "https://images.metroimg.com/2026/05/acidente-251.jpg"
+        },
+        {
+          "clusterId": "4a056d10941ea105",
+          "slug": "14a26cb3b405b938",
+          "titulo": "Acidente de ônibus em Minas Gerais deixa 10 feridos, incluindo bebê de colo",
+          "resumo": "Um ônibus de transporte coletivo colidiu com um caminhão em Minas Gerais, resultando em 10 feridos. Entre os feridos, um bebê de colo foi encontrado no veículo. Bombeiros confirmaram a presença do bebê no coletivo. O número de vítimas feridas aumentou em relação ao relato inicial.",
+          "porQueImporta": "O incidente destaca a importância da segurança no transporte coletivo e a necessidade de atenção especial a crianças em ambientes de risco.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/bebe-de-colo-esta-entre-vitimas-fatais-de-acidente-em-minas-gerais/"
+            }
+          ],
+          "updatedAt": "2026-05-24T16:29:42.000Z"
         },
         {
           "clusterId": "c786dd057cb36819",
