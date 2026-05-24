@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generatedAt": "2026-05-24T11:26:21.548Z",
+  "generatedAt": "2026-05-24T11:30:46.775Z",
   "home": [
     {
       "clusterId": "a41026ae796e2c29",
@@ -110,11 +110,11 @@
     {
       "clusterId": "f3e8f18bedc3ab2d",
       "slug": "0fe4cfd998f68096",
-      "titulo": "Quando foi o último 'super' El Niño? Entenda por que o intervalo entre os eventos extremos vem encurtando",
-      "resumo": "Inundações causadas pelo fenômeno El Niño de 2016-2017 no Peru afetaram 1,9 milhão de pessoas Sandro Chambergo/AP Nem os cientistas concordam totalmente sobre quando foi que o último “super” El Niño aconteceu. Para parte deles, o fenômeno mais recente desse porte foi o de 2015-2016, considerado o mais intenso já registrado na era moderna. Já outros pesquisadores incluem também o episódio de 2023-2024, que chegou muito perto do limite usado para classificar os eventos mais extremos. 📱Baixe o app do g1 para ver notícias em tempo real e de graça No caso de 2015-2016, o aquecimento das águas do…",
+      "titulo": "Ocorrencia de El Nino",
+      "resumo": "O fenômeno El Niño é um evento climático que pode causar inundações e outros desastres naturais. O último",
       "porQueImporta": "",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "categoria": "Seca",
+      "categoriaSlug": "seca",
       "sources": [
         {
           "name": "G1",
@@ -286,23 +286,6 @@
           "imageUrl": "https://s2-g1.glbimg.com/PlVFtil-OAzYPknoulddF-7Ral8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/voriW4QreWIDj5ITBLfw/2026-05-24t063959z-1761579952-rc2gflas3jek-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
         },
         {
-          "clusterId": "f3e8f18bedc3ab2d",
-          "slug": "0fe4cfd998f68096",
-          "titulo": "Quando foi o último 'super' El Niño? Entenda por que o intervalo entre os eventos extremos vem encurtando",
-          "resumo": "Inundações causadas pelo fenômeno El Niño de 2016-2017 no Peru afetaram 1,9 milhão de pessoas Sandro Chambergo/AP Nem os cientistas concordam totalmente sobre quando foi que o último “super” El Niño aconteceu. Para parte deles, o fenômeno mais recente desse porte foi o de 2015-2016, considerado o mais intenso já registrado na era moderna. Já outros pesquisadores incluem também o episódio de 2023-2024, que chegou muito perto do limite usado para classificar os eventos mais extremos. 📱Baixe o app do g1 para ver notícias em tempo real e de graça No caso de 2015-2016, o aquecimento das águas do…",
-          "porQueImporta": "",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/05/24/quando-foi-o-ultimo-super-el-nino.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-24T07:01:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jZkweIfUYovKiV_wnMDfnK2VTjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/D/DrVsZXTqiwIThXrbTf1Q/cdg20240514009.jpg"
-        },
-        {
           "clusterId": "5902f019d948a261",
           "slug": "87c4e81647e9f277",
           "titulo": "Homem preso por atropelar de propósito três pessoas passou a 'noite inteira bebendo', diz delegado",
@@ -385,6 +368,29 @@
           ],
           "updatedAt": "2026-05-22T13:55:04.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/WcGZNd2b9KNtnFcuADYhaLvJCTA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/E/1WFY9sTOSCdjqZzgm9Tw/2026-05-21t045549z-361163751-rc2edlacwfov-rtrmadp-3-california-wildfires-island-redimensionado-para-1200x1597.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "seca",
+      "label": "Seca",
+      "stories": [
+        {
+          "clusterId": "f3e8f18bedc3ab2d",
+          "slug": "0fe4cfd998f68096",
+          "titulo": "Ocorrencia de El Nino",
+          "resumo": "O fenômeno El Niño é um evento climático que pode causar inundações e outros desastres naturais. O último",
+          "porQueImporta": "",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/05/24/quando-foi-o-ultimo-super-el-nino.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T07:01:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jZkweIfUYovKiV_wnMDfnK2VTjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/D/DrVsZXTqiwIThXrbTf1Q/cdg20240514009.jpg"
         }
       ]
     }
