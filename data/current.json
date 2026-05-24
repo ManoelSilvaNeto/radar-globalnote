@@ -1,9 +1,9 @@
 {
   "date": "2026-05-24",
-  "generatedAt": "2026-05-24T22:52:53.536Z",
+  "generatedAt": "2026-05-24T23:40:06.080Z",
   "home": [
     {
-      "clusterId": "d6d3334f01d83df0",
+      "clusterId": "af08bd8e9aa35a61",
       "slug": "f6e7fa5206e7ae79",
       "titulo": "Acidente entre ônibus e carreta deixa oito mortos na BR-251",
       "resumo": "Na madrugada de domingo, 24 de maio, um ônibus e uma carreta colidiram na BR-251, em Santa Cruz de Salinas, Minas Gerais, provocando incêndio nos veículos. O acidente resultou em oito óbitos e nove feridos, com vítimas presas entre as ferragens. O trânsito ficou interditado por mais de 11 horas, com congestionamento de até 70 km. A rodovia foi liberada por volta das 16h, mas o fluxo ainda era lento.",
@@ -11,6 +11,10 @@
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/corpos-carbonizados-de-vitimas-da-br-251-serao-identificados-em-bh"
+        },
         {
           "name": "G1",
           "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/24/desespero-de-escutar-os-gritos-sem-poder-fazer-nada-diz-caminhoneiro-que-ajudou-vitimas-na-br-251.ghtml"
@@ -24,8 +28,8 @@
           "url": "https://veja.abril.com.br/brasil/batida-frontal-entre-onibus-e-caminhao-deixa-pelo-menos-8-mortos-em-mg/"
         }
       ],
-      "updatedAt": "2026-05-24T22:13:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/A-_mIouPFPyMdmnhtoe2RkGTW2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/U/LDJQibSPaHG4CfCnvgaw/1200x675-69-.png"
+      "updatedAt": "2026-05-24T22:41:56.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/4942705668150464122_3x2.jpg"
     },
     {
       "clusterId": "a907829cf75d4dc3",
@@ -49,6 +53,40 @@
       "imageUrl": "https://s2-g1.glbimg.com/-Iunj9eO-anNBdYUdoDCoD-oB9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/y/0mpSugRdeOSnVAA3cXwA/2026-05-23t011355z-786029805-rc2helakr6ef-rtrmadp-3-california-chemical-garden-grove.jpg"
     },
     {
+      "clusterId": "b2325c3381494856",
+      "slug": "10892cf77d42c175",
+      "titulo": "Motociclista morre em batida frontal com carro em rodovia de Bariri",
+      "resumo": "Um motociclista de 51 anos morreu após colidir de frente com um carro na rodovia Deputado Leônidas Pacheco Ferreira (SP-304), em Bariri, no início da manhã de domingo. O motorista e a passageira do carro não ficaram feridos. O motociclista morreu no local do acidente.",
+      "porQueImporta": "O incidente destaca a gravidade de colisões frontais em rodovias e a necessidade de atenção ao dirigir.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/24/acidente-em-riachao-do-jacuipe.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-24T23:07:20.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/T237x1Rs4WnV9s6GXMnMzCe3Ivw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/9/tBR3EBQBKAnyR6CB3rIw/acidente-riachao-de-jacuipe.jpg"
+    },
+    {
+      "clusterId": "9c7a3ecb47542a8a",
+      "slug": "5d1557fed6a82b8d",
+      "titulo": "Parapentista sobrevive após colisão com avião durante voo",
+      "resumo": "Um parapentista austríaco sobreviveu a colisão com um avião durante voo. O impacto danificou o equipamento, mas a atleta acionou o paraquedas reserva a tempo. Ela não sofreu ferimentos graves. O incidente foi registrado em vídeo.",
+      "porQueImporta": "Ilustra riscos de colisões aéreas em áreas de voo de parapente.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/parapentista-sobrevive-apos-colisao-com-aviao-durante-voo"
+        }
+      ],
+      "updatedAt": "2026-05-24T22:50:02.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/parapentista-atingida-por-aviao.jpg"
+    },
+    {
       "clusterId": "5b97f2bff083832f",
       "slug": "4352191c25cd9004",
       "titulo": "Ciclistas forçam abertura de bloqueio de segurança na Ciclovia Tim Maia",
@@ -66,11 +104,28 @@
       "imageUrl": "https://s2-g1.glbimg.com/XelA6jYkFAsRO1RXuk37F7t5wZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/V/XgJiqRT5epa4dfrAVeBQ/ciclistas3.jpeg"
     },
     {
-      "clusterId": "b81791fc61be3024",
-      "slug": "40c48935aec13697",
-      "titulo": "Idosa morre e cinco ficam feridos após acidente na SP-132 em Pindamonhangaba",
-      "resumo": "Uma idosa de 65 anos e cinco outras pessoas ficaram feridas após colisão frontal entre dois carros na SP-132, km 63, em Pindamonhangaba, às 21h. O acidente ocorreu quando um motorista perdeu o controle e invadiu a pista contrária. O Serviço de Atendimento Móvel de Urgência foi acionado e as vítimas foram encaminhadas ao hospital.",
-      "porQueImporta": "O acidente resultou em uma fatalidade e múltiplas lesões, destacando riscos de condução em vias estaduais.",
+      "clusterId": "09aacfccdf71b50d",
+      "slug": "3b07bf7f74a37a3a",
+      "titulo": "Piloto americana evita tragédia aérea ao comandar voo de 148 passageiros",
+      "resumo": "A piloto Tammie Jo Shults, com experiência em caça, assumiu o controle de um Boeing 737 que estava em rota de pouso quando o piloto original abandonou o avião. Ela conduziu o avião até a pista, evitando um acidente com 148 passageiros a bordo. O incidente ocorreu em 2021, em que o avião estava em voo de Chicago para Seattle. A ação de Shults foi reconhecida como um ato de coragem e habilidade.",
+      "porQueImporta": "Demonstrou a importância da formação e da prontidão de pilotos em situações de emergência.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c99l582vev3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-05-24T22:32:06.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0456/live/9f64c560-37f6-11f1-a445-59df4d41808f.jpg"
+    },
+    {
+      "clusterId": "f88253256e9e24c2",
+      "slug": "f29a3cc0d2b37924",
+      "titulo": "Acidentes em rodovias de SP, SE e RS resultam em mortes e feridos",
+      "resumo": "Três acidentes de trânsito ocorreram em rodovias brasileiras: na SP-132, em Pindamonhangaba, uma idosa de 65 anos morreu e cinco pessoas ficaram feridas; na SE-270, em Lagarto, três pessoas ficaram feridas após colisão envolvendo veículo da comitiva do governador; na RS-324, em Casca, dois motoristas morreram e um ficou gravemente ferido. Em todos os casos, os veículos colidiram frontalmente e as vítimas foram atendidas pelos serviços de emergência.",
+      "porQueImporta": "Os acidentes evidenciam riscos de segurança viária em diferentes regiões do país.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
@@ -81,23 +136,6 @@
       ],
       "updatedAt": "2026-05-24T22:22:37.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/1hr42_UM5Ny4HuXXrdaNJGW7LYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/z/2xG5AhTNW6ClAYOqGPYw/governador.jpg"
-    },
-    {
-      "clusterId": "553fb5aac9010377",
-      "slug": "b6fdffb2f1fa6b7f",
-      "titulo": "Sacada desaba sobre ponto de ônibus, deixando três feridos",
-      "resumo": "Uma sacada na Estrada do M'Boi Mirim, zona sul da capital, desabou sobre um ponto de ônibus, ferindo três pessoas. O engenheiro técnico avaliou a estrutura e a Defesa Civil interditou parcialmente três edificações próximas. O incidente ocorreu em meio a obras de reforma na região. As autoridades continuam investigando as causas do colapso.",
-      "porQueImporta": "O colapso pode indicar falhas estruturais em construções urbanas, representando risco à segurança pública.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/feridas-sacada-desabar-ponto-onibus"
-        }
-      ],
-      "updatedAt": "2026-05-24T21:15:03.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/05/sacada-desabada.jpg"
     },
     {
       "clusterId": "23cf62a7f3e846d3",
@@ -134,23 +172,6 @@
       "imageUrl": "https://s2-g1.glbimg.com/Pl3XMj3qVeCfmm-FQv9viswwsos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/1/o5bgkwTLyZWrWe1OvfbA/incendio-uberlandia.jpeg"
     },
     {
-      "clusterId": "ddfe7e5b6d1fd5f8",
-      "slug": "10892cf77d42c175",
-      "titulo": "Motociclista morre em batida frontal com carro em rodovia de Bariri",
-      "resumo": "Um motociclista de 51 anos morreu após colidir de frente com um carro na rodovia Deputado Leônidas Pacheco Ferreira (SP-304), em Bariri, no início da manhã de domingo. O motorista e a passageira do carro não ficaram feridos. O motociclista morreu no local do acidente.",
-      "porQueImporta": "O incidente destaca a gravidade de colisões frontais em rodovias e a necessidade de atenção ao dirigir.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/05/24/motociclista-morre-em-batida-frontal-com-carro-em-rodovia-de-bariri.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T20:21:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/G-fgolCo1-BwQ_K65SSh4ifRxH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/QXIAoyRPmslXHAyKQvKA/leonidas.jpg"
-    },
-    {
       "clusterId": "21d53514eb57df52",
       "slug": "b0e90e72e4497298",
       "titulo": "Kimi Antonelli dividido entre Brasil e Argentina após ausência do país na Copa",
@@ -165,23 +186,6 @@
         }
       ],
       "updatedAt": "2026-05-24T20:00:07.000Z"
-    },
-    {
-      "clusterId": "8d66e2e0f5323245",
-      "slug": "978306ddab65c6ef",
-      "titulo": "Idosa de 80 anos morre após ser atropelada por moto em Teresina",
-      "resumo": "Uma idosa de 80 anos foi atropelada por uma motocicleta enquanto atravessava a Rua Batalha, em Teresina, no dia 23 de maio. O motociclista conduzia no sentido oeste‑leste da rua. A vítima recebeu atendimento do SAMU, mas faleceu no trajeto para o hospital. O acidente ocorreu na zona norte da cidade, no bairro Real Copagre.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção e fiscalização no trânsito urbano para proteger pedestres vulneráveis.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/05/24/idosa-morre-atropelada.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T19:52:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/XcvKRg7JMts-tai5Il3Q21FwvMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/7/jc8EWKQA2FF4JXHTqwAw/edicao-imagens-g1-1-.jpg"
     }
   ],
   "categorias": [
@@ -190,7 +194,7 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "d6d3334f01d83df0",
+          "clusterId": "af08bd8e9aa35a61",
           "slug": "f6e7fa5206e7ae79",
           "titulo": "Acidente entre ônibus e carreta deixa oito mortos na BR-251",
           "resumo": "Na madrugada de domingo, 24 de maio, um ônibus e uma carreta colidiram na BR-251, em Santa Cruz de Salinas, Minas Gerais, provocando incêndio nos veículos. O acidente resultou em oito óbitos e nove feridos, com vítimas presas entre as ferragens. O trânsito ficou interditado por mais de 11 horas, com congestionamento de até 70 km. A rodovia foi liberada por volta das 16h, mas o fluxo ainda era lento.",
@@ -198,6 +202,10 @@
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/corpos-carbonizados-de-vitimas-da-br-251-serao-identificados-em-bh"
+            },
             {
               "name": "G1",
               "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/24/desespero-de-escutar-os-gritos-sem-poder-fazer-nada-diz-caminhoneiro-que-ajudou-vitimas-na-br-251.ghtml"
@@ -211,8 +219,25 @@
               "url": "https://veja.abril.com.br/brasil/batida-frontal-entre-onibus-e-caminhao-deixa-pelo-menos-8-mortos-em-mg/"
             }
           ],
-          "updatedAt": "2026-05-24T22:13:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/A-_mIouPFPyMdmnhtoe2RkGTW2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/U/LDJQibSPaHG4CfCnvgaw/1200x675-69-.png"
+          "updatedAt": "2026-05-24T22:41:56.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/05/4942705668150464122_3x2.jpg"
+        },
+        {
+          "clusterId": "b2325c3381494856",
+          "slug": "10892cf77d42c175",
+          "titulo": "Motociclista morre em batida frontal com carro em rodovia de Bariri",
+          "resumo": "Um motociclista de 51 anos morreu após colidir de frente com um carro na rodovia Deputado Leônidas Pacheco Ferreira (SP-304), em Bariri, no início da manhã de domingo. O motorista e a passageira do carro não ficaram feridos. O motociclista morreu no local do acidente.",
+          "porQueImporta": "O incidente destaca a gravidade de colisões frontais em rodovias e a necessidade de atenção ao dirigir.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/24/acidente-em-riachao-do-jacuipe.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T23:07:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/T237x1Rs4WnV9s6GXMnMzCe3Ivw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/9/tBR3EBQBKAnyR6CB3rIw/acidente-riachao-de-jacuipe.jpg"
         },
         {
           "clusterId": "5b97f2bff083832f",
@@ -232,11 +257,11 @@
           "imageUrl": "https://s2-g1.glbimg.com/XelA6jYkFAsRO1RXuk37F7t5wZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/V/XgJiqRT5epa4dfrAVeBQ/ciclistas3.jpeg"
         },
         {
-          "clusterId": "b81791fc61be3024",
-          "slug": "40c48935aec13697",
-          "titulo": "Idosa morre e cinco ficam feridos após acidente na SP-132 em Pindamonhangaba",
-          "resumo": "Uma idosa de 65 anos e cinco outras pessoas ficaram feridas após colisão frontal entre dois carros na SP-132, km 63, em Pindamonhangaba, às 21h. O acidente ocorreu quando um motorista perdeu o controle e invadiu a pista contrária. O Serviço de Atendimento Móvel de Urgência foi acionado e as vítimas foram encaminhadas ao hospital.",
-          "porQueImporta": "O acidente resultou em uma fatalidade e múltiplas lesões, destacando riscos de condução em vias estaduais.",
+          "clusterId": "f88253256e9e24c2",
+          "slug": "f29a3cc0d2b37924",
+          "titulo": "Acidentes em rodovias de SP, SE e RS resultam em mortes e feridos",
+          "resumo": "Três acidentes de trânsito ocorreram em rodovias brasileiras: na SP-132, em Pindamonhangaba, uma idosa de 65 anos morreu e cinco pessoas ficaram feridas; na SE-270, em Lagarto, três pessoas ficaram feridas após colisão envolvendo veículo da comitiva do governador; na RS-324, em Casca, dois motoristas morreram e um ficou gravemente ferido. Em todos os casos, os veículos colidiram frontalmente e as vítimas foram atendidas pelos serviços de emergência.",
+          "porQueImporta": "Os acidentes evidenciam riscos de segurança viária em diferentes regiões do país.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
@@ -264,23 +289,6 @@
           ],
           "updatedAt": "2026-05-24T21:11:32.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/y4txLcL44mDeBM1LZE8LnfWTvvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/h/P3AJrvQAaGgpCIO0JMZA/gustavo.png"
-        },
-        {
-          "clusterId": "ddfe7e5b6d1fd5f8",
-          "slug": "10892cf77d42c175",
-          "titulo": "Motociclista morre em batida frontal com carro em rodovia de Bariri",
-          "resumo": "Um motociclista de 51 anos morreu após colidir de frente com um carro na rodovia Deputado Leônidas Pacheco Ferreira (SP-304), em Bariri, no início da manhã de domingo. O motorista e a passageira do carro não ficaram feridos. O motociclista morreu no local do acidente.",
-          "porQueImporta": "O incidente destaca a gravidade de colisões frontais em rodovias e a necessidade de atenção ao dirigir.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/05/24/motociclista-morre-em-batida-frontal-com-carro-em-rodovia-de-bariri.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-24T20:21:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/G-fgolCo1-BwQ_K65SSh4ifRxH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/QXIAoyRPmslXHAyKQvKA/leonidas.jpg"
         },
         {
           "clusterId": "8d66e2e0f5323245",
@@ -414,64 +422,42 @@
       ]
     },
     {
-      "slug": "geral",
-      "label": "Geral",
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "21d53514eb57df52",
-          "slug": "b0e90e72e4497298",
-          "titulo": "Kimi Antonelli dividido entre Brasil e Argentina após ausência do país na Copa",
-          "resumo": "O piloto brasileiro Kimi Antonelli, líder da temporada de Fórmula 1, expressou frustração com a ausência do Brasil na Copa do Mundo, chamando a situação de um desastre. Antonelli revelou que está dividido entre apoiar o Brasil e a Argentina, pois o evento esportivo é importante para ambos os países. Ele destacou que a falta de representação nacional na competição afeta o moral dos torcedores e do próprio país. A declaração do piloto gerou repercussões nas redes sociais e na mídia esportiva.",
-          "porQueImporta": "A declaração de um atleta de alto nível ressalta a importância da presença nacional em eventos esportivos internacionais.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sem-italia-na-copa-kimi-antonelli-esta-dividido-entre-brasil-e-argentina/"
-            }
-          ],
-          "updatedAt": "2026-05-24T20:00:07.000Z"
-        },
-        {
-          "clusterId": "692247ca721dddba",
-          "slug": "977e7c17f14c8887",
-          "titulo": "Filho morre soterrado após túmulo do pai desabar em cemitério de MT",
-          "resumo": "Adilson Gonçalves dos Santos, de 36 anos, morreu enquanto reformava o túmulo do pai no cemitério de Alto Paraguai, a 219 km de Cuiabá. A estrutura do jazigo desabou sobre ele quando ele entrou para cortar concreto com ferramenta elétrica. O incidente ocorreu na tarde de sexta-feira, 23. A prefeitura local não respondeu às solicitações de informação.",
-          "porQueImporta": "O caso destaca riscos de acidentes em atividades de reforma em locais de cemitério.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/05/24/homem-morre-soterrado-enquanto-reformava-o-tumulo-do-pai-em-cemiterio-de-mt.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-24T17:58:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6EPrafOMujHKQmZKnVfCOEKrddo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/O/8oOvpETwKAOw9rh7jbSg/videos-g1-2026-05-24t134215.920.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
-        {
-          "clusterId": "553fb5aac9010377",
-          "slug": "b6fdffb2f1fa6b7f",
-          "titulo": "Sacada desaba sobre ponto de ônibus, deixando três feridos",
-          "resumo": "Uma sacada na Estrada do M'Boi Mirim, zona sul da capital, desabou sobre um ponto de ônibus, ferindo três pessoas. O engenheiro técnico avaliou a estrutura e a Defesa Civil interditou parcialmente três edificações próximas. O incidente ocorreu em meio a obras de reforma na região. As autoridades continuam investigando as causas do colapso.",
-          "porQueImporta": "O colapso pode indicar falhas estruturais em construções urbanas, representando risco à segurança pública.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
+          "clusterId": "9c7a3ecb47542a8a",
+          "slug": "5d1557fed6a82b8d",
+          "titulo": "Parapentista sobrevive após colisão com avião durante voo",
+          "resumo": "Um parapentista austríaco sobreviveu a colisão com um avião durante voo. O impacto danificou o equipamento, mas a atleta acionou o paraquedas reserva a tempo. Ela não sofreu ferimentos graves. O incidente foi registrado em vídeo.",
+          "porQueImporta": "Ilustra riscos de colisões aéreas em áreas de voo de parapente.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/feridas-sacada-desabar-ponto-onibus"
+              "url": "https://www.metropoles.com/mundo/parapentista-sobrevive-apos-colisao-com-aviao-durante-voo"
             }
           ],
-          "updatedAt": "2026-05-24T21:15:03.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/05/sacada-desabada.jpg"
+          "updatedAt": "2026-05-24T22:50:02.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/05/parapentista-atingida-por-aviao.jpg"
+        },
+        {
+          "clusterId": "09aacfccdf71b50d",
+          "slug": "3b07bf7f74a37a3a",
+          "titulo": "Piloto americana evita tragédia aérea ao comandar voo de 148 passageiros",
+          "resumo": "A piloto Tammie Jo Shults, com experiência em caça, assumiu o controle de um Boeing 737 que estava em rota de pouso quando o piloto original abandonou o avião. Ela conduziu o avião até a pista, evitando um acidente com 148 passageiros a bordo. O incidente ocorreu em 2021, em que o avião estava em voo de Chicago para Seattle. A ação de Shults foi reconhecida como um ato de coragem e habilidade.",
+          "porQueImporta": "Demonstrou a importância da formação e da prontidão de pilotos em situações de emergência.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c99l582vev3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-05-24T22:32:06.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0456/live/9f64c560-37f6-11f1-a445-59df4d41808f.jpg"
         }
       ]
     },
@@ -495,6 +481,28 @@
           ],
           "updatedAt": "2026-05-24T20:45:20.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/Pl3XMj3qVeCfmm-FQv9viswwsos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/1/o5bgkwTLyZWrWe1OvfbA/incendio-uberlandia.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "21d53514eb57df52",
+          "slug": "b0e90e72e4497298",
+          "titulo": "Kimi Antonelli dividido entre Brasil e Argentina após ausência do país na Copa",
+          "resumo": "O piloto brasileiro Kimi Antonelli, líder da temporada de Fórmula 1, expressou frustração com a ausência do Brasil na Copa do Mundo, chamando a situação de um desastre. Antonelli revelou que está dividido entre apoiar o Brasil e a Argentina, pois o evento esportivo é importante para ambos os países. Ele destacou que a falta de representação nacional na competição afeta o moral dos torcedores e do próprio país. A declaração do piloto gerou repercussões nas redes sociais e na mídia esportiva.",
+          "porQueImporta": "A declaração de um atleta de alto nível ressalta a importância da presença nacional em eventos esportivos internacionais.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sem-italia-na-copa-kimi-antonelli-esta-dividido-entre-brasil-e-argentina/"
+            }
+          ],
+          "updatedAt": "2026-05-24T20:00:07.000Z"
         }
       ]
     },
