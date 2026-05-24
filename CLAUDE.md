@@ -26,7 +26,13 @@
 2. ~~Deploy~~ ✅ feito — Pages `radar` criado, site no ar em `radar-wly.pages.dev`.
 3. ~~Custom domain no Pages~~ ✅ feito via API — `radar.globalnote.com.br` adicionado ao projeto `radar`.
 4. ~~CNAME no registro.br~~ ✅ **feito pelo dono — domínio no ar com SSL** (ver acima).
-5. **⏳ Propagação** (depende de o dono criar contas): GSC, Bing, Google News, Bluesky/Mastodon (contas novas do Radar), Newsletter (Buttondown novo). **SEM Telegram.**
+5. **⏳ Propagação** (depende de o dono criar contas):
+   - **a. Google Search Console** ✅ **feito (2026-05-24)** — propriedade `https://radar.globalnote.com.br` (tipo "prefixo do URL") verificada por **Arquivo HTML** (`public/google82243445ca744e73.html`, NÃO remover) + **sitemap `sitemap-index.xml` enviado**. ⚠️ **Aprendizado p/ a fábrica:** o Cloudflare Pages faz clean-URL e redireciona `/arquivo.html` → `/arquivo` (308), mas o verificador do Google **segue o redirect** e valida normal (o corpo no destino é 200 e correto). Não precisa workaround.
+   - **b. Bing Webmaster** ⏳ — importar do GSC (1 clique) ou verificar. IndexNow já pinga o Bing.
+   - **c. Google News / Publisher Center** ⏳ — criar publicação e adicionar o site.
+   - **d. Bluesky + Mastodon** ⏳ — contas NOVAS do Radar; dono passa handle/app-password → cadastrar secrets; `social.ts` posta sozinho.
+   - **e. Newsletter (Buttondown)** ⏳ — conta nova; dono passa o usuário → setar `NEWSLETTER.buttondownUser` em `src/lib/site.ts`.
+   - **SEM Telegram.**
 
 **Contexto da fábrica (2026-05-24):** o **GlobalNotícias também foi migrado pro Groq** (mesmo padrão, schema de 3 campos, em produção). Os dois portais usam a **MESMA chave Groq** (rate limit é por conta, não por chave) → crons **defasados**: Notícias `0 */4`, Radar `30 */4`. Pendência do dono não-bloqueante: estava com instabilidade no e-mail/login do Claude; chave Groq foi colada no chat → pode rotacionar em console.groq.com se quiser (é só me passar a nova que eu atualizo os 2 secrets).
 
