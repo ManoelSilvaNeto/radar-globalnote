@@ -1,9 +1,30 @@
 {
   "date": "2026-05-24",
-  "generatedAt": "2026-05-24T11:45:50.670Z",
+  "generatedAt": "2026-05-24T13:42:00.862Z",
   "home": [
     {
-      "clusterId": "a41026ae796e2c29",
+      "clusterId": "16201970fc3380ab",
+      "slug": "0341e35b9eb7e0f6",
+      "titulo": "Acidentes envolvendo caminhonetes, ônibus e carreta causam fatalidades e feridos em três rodovias",
+      "resumo": "Três colisões distintas ocorreram na madrugada de domingo (24/5). Na SHIS QI 5, uma caminhonete colidiu com um carro, ferindo o motorista que foi levado consciente ao hospital. Na BR-386, km 427, uma caminhonete L200 colidiu frontalmente com um ônibus, resultando na morte de um motorista de 61 anos e ferindo duas pessoas. Na BR-251, km 230, uma carreta bateu em um ônibus, incendiando ambos os veículos e deixando cinco mortos e cinco feridos.",
+      "porQueImporta": "Esses acidentes evidenciam a necessidade de reforço nas medidas de segurança viária e fiscalização em rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/acidente-entre-caminhonete-e-carro-deixa-motorista-ferido-no-lago-sul"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/24/motorista-morre-em-acidente-entre-caminhonete-e-onibus-na-br-386-no-rs-duas-pessoas-ficam-feridas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-24T12:42:43.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/batida-lago-sul.jpeg"
+    },
+    {
+      "clusterId": "6ed8aa05cae69faf",
       "slug": "76556089b07f336d",
       "titulo": "Explosões em trem e mina de carvão causam mortes e feridos no Paquistão e na China",
       "resumo": "Um atentado com bomba atingiu um trem que transportava militares e suas famílias em Quetta, Paquistão, resultando em pelo menos 24 mortos e mais de 70 feridos. Na China, uma explosão de gás na mina de carvão de Liushenyu, em Shanxi, deixou pelo menos 90 mortos, nove desaparecidos e mais de 120 feridos. Ambos os incidentes ocorreram em contextos de transporte e mineração, setores críticos para a segurança pública.",
@@ -12,235 +33,225 @@
       "categoriaSlug": "explosao",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/05/24/ataque-a-bomba-contra-trem-deixa-pelo-menos-24-mortos-no-paquistao.ghtml"
-        },
-        {
           "name": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/internacional/explosao-de-bomba-no-paquistao-deixa-mais-de-30-feridos/"
-        }
-      ],
-      "updatedAt": "2026-05-24T09:25:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/510m5lidAHTT1lNUzZK7J7QbBPs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/8/plAFy3S4KB2elf9ZAbVg/2026-05-24t052859z-1502008175-rc2gflaytt4i-rtrmadp-3-pakistan-blast.jpg"
-    },
-    {
-      "clusterId": "415e4caa5a506f76",
-      "slug": "64d0ed66b7b99802",
-      "titulo": "Público lota Centro de SP no 1º dia da Virada Cultural",
-      "resumo": "No primeiro dia da Virada Cultural 2026, mais de 1.2 mil atrações foram apresentadas em 22 palcos no Centro de São Paulo. Milhares de pessoas, apesar de chuva fina e temperatura de 16°C, compareceram ao Vale do Anhangabaú, onde cantavam em coro músicas em espanhol. O público estava preparado com guarda-chuvas e capas, e a previsão de chuva forte e frio intenso não impediu a participação. A noite contou com a presença de artistas do Pará dominando a madrugada.",
-      "porQueImporta": "A Virada Cultural é um marco cultural que atrai grande público e influencia a economia local.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
+        },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/24/sob-chuva-e-frio-de-16oc-publico-lota-centro-de-sp-no-1o-dia-da-virada-cultural-cultura-do-para-domina-madrugada.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/05/23/explosao-de-gas-em-mina-de-carvao-deixa-mortos-na-china.ghtml"
         }
       ],
-      "updatedAt": "2026-05-24T10:21:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Zu_OPlYrFazHN9LFi3xq3zjwrkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/hSkxXpRKWvBEu2Ql1l2w/whatsapp-image-2026-05-24-at-05.37.54.jpeg"
+      "updatedAt": "2026-05-24T07:28:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wQQ-cyEjo7-VuI9UF2LxFXIpEcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/v/eBtkUjQdSzyIdzgLL7rA/2026-05-23t063602z-1444527846-rc2uelad8ohy-rtrmadp-3-china-coal-mine-accident.jpg"
     },
     {
-      "clusterId": "c1745dc69b1e95de",
-      "slug": "bca86232295d8b50",
-      "titulo": "Risco de El Niño alerta para aumento de seca e calor na Amazônia",
-      "resumo": "O fenômeno El Niño tem 80% de chance de se formar até o fim de 2026. A sua ocorrência pode intensificar a seca e o calor na Amazônia. Isso pode aumentar o risco de incêndios e de eventos extremos no bioma. A previsão reforça a necessidade de monitoramento e preparação das comunidades locais.",
-      "porQueImporta": "O aumento de seca e calor pode agravar a vulnerabilidade ambiental e social da região amazônica.",
-      "categoria": "Seca",
-      "categoriaSlug": "seca",
+      "clusterId": "9f4af6672f68dd6f",
+      "slug": "8671fe6eee0be10c",
+      "titulo": "Estudo aponta lacunas críticas na gestão de risco de deslizamentos",
+      "resumo": "Um estudo revelou que a maioria dos municípios suscetíveis a deslizamentos não possui os instrumentos necessários para lidar com o problema. A pesquisa destaca a falta de planejamento, monitoramento e recursos adequados para prevenção e resposta a esses eventos. Os autores alertam para a necessidade de fortalecer a gestão de risco em todo o território nacional.",
+      "porQueImporta": "A deficiência na gestão de risco aumenta a vulnerabilidade da população a deslizamentos, potencializando perdas humanas e materiais.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
       "sources": [
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-sustentavel/risco-de-el-nino-alerta-para-aumento-de-seca-e-calor-na-amazonia/"
+          "url": "https://www.poder360.com.br/poder-brasil/estudo-aponta-lacunas-criticas-na-gestao-de-risco-de-deslizamentos/"
         }
       ],
-      "updatedAt": "2026-05-24T10:00:45.000Z"
+      "updatedAt": "2026-05-24T13:40:53.000Z"
     },
     {
-      "clusterId": "bb433b581fd2ffb4",
-      "slug": "a7c9335c50a3c634",
-      "titulo": "Jovem se torna 'neta de aluguel' após perda da avó",
-      "resumo": "Carol Ingrid Fonseca Rondon, 29 anos, transformou o luto pela morte da avó em uma atividade de apoio a idosos, oferecendo companhia, ajuda com tecnologia e tarefas do dia a dia na Baixada Santista. Ela se autodenomina 'neta de aluguel' e cobra valores que variam de R$ 45 a R$ 1.500, dependendo da demanda. O projeto visa ressignificar a dor e criar uma fonte de renda para quem cuida de idosos.",
-      "porQueImporta": "A iniciativa mostra como o luto pode ser canalizado em ações sociais que beneficiam a comunidade.",
+      "clusterId": "c2104c6d170f8def",
+      "slug": "0ea9ef971312adcb",
+      "titulo": "Brasília amanhece com céu nublado e chuvas isoladas",
+      "resumo": "O Distrito Federal iniciou o domingo com céu encoberto e chuvas isoladas, segundo o Inmet. A temperatura máxima prevista foi de 24 °C, com ventos fracos a moderados em toda a região. A mudança climática foi causada por um ciclone extratropical que também pode provocar chuvas em outras partes do país.",
+      "porQueImporta": "O clima pode afetar o tráfego e as atividades diárias na capital.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/24/df-amanhece-com-ceu-encoberto-e-chuvas-isoladas-neste-domingo-24.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-24T13:26:51.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ndh3_4LVei9pPA0KILm9bSBuWFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/m/6oLj2PTEWmErlbLJt8Ag/vento-df.gif"
+    },
+    {
+      "clusterId": "c87dfb2d9cc8ac71",
+      "slug": "492af6bf92e4b03e",
+      "titulo": "Tremor de magnitude 2,8 registrado no sul do Tocantins",
+      "resumo": "Um tremor de magnitude 2,8 foi registrado entre Cariri do Tocantins e Gurupi na madrugada de 21 de maio. O sismo não gerou relatos de danos ou perturbações entre os moradores. A Rede Sismográfica Brasileira (RSBR) informou que tremores de baixa magnitude são relativamente comuns e ocorrem quase todas as semanas em diferentes regiões do país. O Observatório Sismológico da Universidade de Brasília analisou o evento.",
+      "porQueImporta": "O registro confirma a frequência de sismos de baixa magnitude no interior do Tocantins, reforçando a necessidade de monitoramento contínuo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/05/24/jovem-comeca-a-trabalhar-como-neta-de-aluguel-apos-perder-a-avo-ressignificar-a-dor.ghtml"
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/05/24/tremor-de-magnitude-28-registrado-no-interior-do-to-e-relativamente-comum-no-pais-diz-rsbr.ghtml"
         }
       ],
-      "updatedAt": "2026-05-24T09:11:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ou9Dl6giMKqHcwvdxlbhR2IzL7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/T/MswyNoRlyTKKOwYlJigA/neta-aluguel.jpg"
+      "updatedAt": "2026-05-24T13:11:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/2AJ8SzoIahb6ck2es1c_5daeSZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/o/PhvPWiSyuFdAKvZADprA/modelo-foto-fundo-borrado-58-.png"
     },
     {
-      "clusterId": "c85a81f212e72a1e",
-      "slug": "2d9a0294067bb3fc",
-      "titulo": "Vice-prefeito de Lages sofre acidente ao fugir da polícia",
-      "resumo": "O vice-prefeito Jair Junior foi hospitalizado após bater frontalmente em um caminhão na BR-116 enquanto tentava fugir do cumprimento de um mandado de prisão. O mandado foi expedido após a sua condenação por violência doméstica, que ocorreu horas antes do acidente. Ele havia sido preso em flagrante em 22 de março de 2025, mas foi solto após audiência de custódia. O episódio mostra a sequência de polêmicas envolvendo o político desde que assumiu o cargo em 2025.",
-      "porQueImporta": "O caso evidencia a relação entre condutas pessoais e a responsabilidade pública de um político.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/05/24/agressao-acidente-fuga-linha-tempo-condenacao-vice-prefeito-lages.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T09:00:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PtpYtImffVW49gsVXQ5_NGLqbZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/6/AxdrHkTB2drNCsMnZh0g/fotojet.jpg"
-    },
-    {
-      "clusterId": "2768b11741e2df8b",
-      "slug": "350d62429e6754fb",
-      "titulo": "Rússia ataca Kiev com mísseis hipersônicos e drones",
-      "resumo": "Na madrugada de domingo, a Rússia lançou um ataque em Kiev com 600 drones e 90 mísseis, incluindo o míssil hipersônico Oreshnik. A Força Aérea da Ucrânia relatou a destruição ou neutralização de 549 drones e 55 mísseis. O ataque atingiu áreas próximas a prédios governamentais, residenciais e escolas, resultando em pelo menos quatro mortes.",
-      "porQueImporta": "O ataque demonstra a escalada de hostilidades e o uso de armamentos avançados.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/05/24/russia-usa-missil-hipersonico-oreshnik-em-ataque-massivo-contra-kiev-diz-zelensky.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T08:34:53.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PlVFtil-OAzYPknoulddF-7Ral8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/voriW4QreWIDj5ITBLfw/2026-05-24t063959z-1761579952-rc2gflas3jek-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
-    },
-    {
-      "clusterId": "f3e8f18bedc3ab2d",
-      "slug": "0fe4cfd998f68096",
-      "titulo": "Ocorrencia de El Nino",
-      "resumo": "O fenômeno El Niño é um evento climático que pode causar inundações e outros desastres naturais. O último",
-      "porQueImporta": "",
-      "categoria": "Seca",
-      "categoriaSlug": "seca",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/05/24/quando-foi-o-ultimo-super-el-nino.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T07:01:47.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jZkweIfUYovKiV_wnMDfnK2VTjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/D/DrVsZXTqiwIThXrbTf1Q/cdg20240514009.jpg"
-    },
-    {
-      "clusterId": "5902f019d948a261",
-      "slug": "87c4e81647e9f277",
-      "titulo": "Homem preso por atropelar propositalmente três pessoas após briga em saída de festa no Ceará",
-      "resumo": "Um homem de 31 anos foi preso por atropelar propositalmente três pessoas após uma briga na saída de uma festa em Juazeiro do Norte. Ele havia bebido durante toda a noite antes do crime. Uma das vítimas, Airton Ferreira Rocha Neto, de 33 anos, morreu no local, enquanto outra ficou gravemente ferida. O incidente ocorreu no Bairro Lagoa Seca e está sendo investigado pela polícia.",
-      "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito provocados por álcool e violência, resultando em fatalidade e lesões graves.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/24/homem-preso-por-atropelar-de-proposito-tres-pessoas-passou-a-noite-inteira-bebendo-diz-delegado.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T07:01:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/DREXYmzOMqM-jT0G28azK2KbsgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/W/JavWEAR52xBCyaOg5tTg/atropela-jua-3.jpg"
-    },
-    {
-      "clusterId": "c50858762cc01043",
-      "slug": "63daf375349089a0",
-      "titulo": "Marinha dos EUA gasta milhões em exibições de jatos",
-      "resumo": "A Marinha dos Estados Unidos investe milhões de dólares em demonstrações de aeronaves de combate. Apesar de acidentes e altos custos, o Pentágono considera as exibições essenciais para relações públicas e recrutamento. Os shows são realizados em eventos públicos e militares, atraindo atenção de potenciais recrutas e parceiros internacionais. O programa continua a ser defendido como ferramenta estratégica de comunicação.",
-      "porQueImporta": "Esses gastos refletem a importância da imagem e do recrutamento na estratégia militar americana.",
+      "clusterId": "ebff703094a8286a",
+      "slug": "fa9fdd18cadf386b",
+      "titulo": "Casal de São Carlos vira caçadores de pelúcias em máquinas de shoppings",
+      "resumo": "Aryane de Souza e Cristiano Lenierson Jolo, de São Carlos, começaram a capturar pelúcias em máquinas de shoppings para clientes que pagam apostas. A atividade, que se tornou viral nas redes sociais, envolve a busca por bichos de pelúcia de diferentes tamanhos. A iniciativa surgiu de forma espontânea durante uma visita à Basílica de Nossa Senhora da Aparecida. O casal atraiu atenção nacional por sua habilidade e criatividade na caça de pelúcias.",
+      "porQueImporta": "O caso demonstra como atividades criativas podem gerar engajamento e monetização em espaços comerciais.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/05/24/video-casal-viraliza-com-habilidade-para-cacar-bichos-de-pelucia-em-maquinas-no-interior-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-24T12:45:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/CnGAXfV4lluXkPTg3ktUARrY9tA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/f1MadSRGeupez9uJA0FQ/caca-pelucias.png"
+    },
+    {
+      "clusterId": "faae5a8a6e763de5",
+      "slug": "86edd1a590bc9920",
+      "titulo": "Carro invade contramão e causa colisão fatal na Rodovia SP-425",
+      "resumo": "Um veículo trafegava no sentido contrário na Rodovia Assis Chateaubriand (SP-425) em Martinópolis e invadiu a pista, provocando uma colisão frontal com outro carro. O impacto deixou ambos os veículos imobilizados no acostamento. Um dos ocupantes morreu no local. A Polícia Militar Rodoviária registrou o acidente na madrugada de domingo.",
+      "porQueImporta": "Acidentes de trânsito com invasão de contramão aumentam risco de fatalidades e congestionamentos em rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/05/24/colisao-apos-carro-invadir-a-contramao-deixa-um-morto-em-rodovia-de-martinopolis.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-24T12:37:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/C1ZWuNnsV8l2KH9tKRCrJ-eq7kQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/q/oxMb6ySh61kAinB17Mug/a65b358e-6ab6-4f99-94f4-bc5579f953e3.jpg"
+    },
+    {
+      "clusterId": "b48102295da50bad",
+      "slug": "d830be081ba5a268",
+      "titulo": "Virginia Fonseca planeja participar da Copa do Mundo após término com Vini Jr",
+      "resumo": "A influenciadora Virginia Fonseca confirmou que participará da Copa do Mundo, mesmo depois de encerrar seu relacionamento com Vini Jr. Ela pretende aproveitar o evento para se divertir e apoiar a seleção brasileira. A decisão foi divulgada em entrevista à Veja. O foco da cobertura foi a escolha da atleta em se concentrar no esporte e na sua carreira de influenciadora.",
+      "porQueImporta": "Mostra a continuidade de sua presença pública e o interesse em eventos esportivos de grande escala.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/coluna/veja-gente/o-que-virginia-fonseca-vai-fazer-na-copa-do-mundo/"
+        }
+      ],
+      "updatedAt": "2026-05-24T12:00:24.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/IMG_0431.jpeg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "877e63453cbe7910",
+      "slug": "c63f90c586de62a4",
+      "titulo": "Políticos acusados de falta de escrúpulos em caso de Morro abaixo",
+      "resumo": "A reportagem aponta que a falta de escrúpulos de vários políticos expõe a erosão moral do país, com destaque para a figura de Flávio Bolsonaro. A análise sugere que a conduta desses políticos contribuiu para a situação do Morro abaixo. O caso destaca a responsabilidade política em situações de risco. A matéria enfatiza a necessidade de ética e transparência no governo.",
+      "porQueImporta": "Ilustra como a conduta política pode agravar desastres naturais e afetar a confiança pública.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/blog-do-noblat/artigos/morro-abaixo-por-mary-zaidan"
+        }
+      ],
+      "updatedAt": "2026-05-24T12:00:12.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/flavio-eduardo-bolsonaro.jpeg"
+    },
+    {
+      "clusterId": "a5211818a7b0ec84",
+      "slug": "d58a8abbd4dcd381",
+      "titulo": "Nordeste entra em alerta de perigo para chuva intensa neste domingo",
+      "resumo": "O Instituto Nacional de Meteorologia (INMET) emitiu alerta de perigo para áreas da Bahia, prevendo até 100 mm de chuva em 24 horas. Ventos de até 100 km/h foram previstos, aumentando o risco de alagamentos e queda de energia. A medida visa informar a população sobre condições climáticas adversas. O alerta foi divulgado para a região Nordeste do Brasil.",
+      "porQueImporta": "A previsão de chuvas intensas pode causar alagamentos e interrupções de energia, afetando a vida cotidiana e a infraestrutura local.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/por-que-a-marinha-dos-eua-gasta-milhoes-com-exibicoes-de-jatos/"
+          "url": "https://www.cnnbrasil.com.br/nacional/nordeste/nordeste-entra-em-alerta-de-perigo-para-chuva-intensa-neste-domingo-24/"
         }
       ],
-      "updatedAt": "2026-05-24T07:00:51.000Z"
-    },
-    {
-      "clusterId": "ef21db6873f894aa",
-      "slug": "eb4e2850d64b16ba",
-      "titulo": "Motorista de caminhão ajoelha e reza ao lado do corpo da vítima no RS",
-      "resumo": "No dia 16 de abril, um caminhoneiro de 74 anos esteve envolvido em um acidente na BR-158, em Cruz Alta, que resultou na morte de André Mimbacas Saccol, 47 anos. O motorista permaneceu em um posto de gasolina próximo ao local, aguardando a chegada da polícia e de um guincho para retirar seu veículo. Ele foi fotografado ajoelhado e rezando ao lado do corpo da vítima, o que chamou a atenção do público. A ocorrência foi registrada pelas autoridades de segurança e pelo serviço de socorro.",
-      "porQueImporta": "O caso destaca a importância da resposta rápida de autoridades e serviços de socorro em acidentes de trânsito.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/24/motorista-que-fez-oracao-ao-lado-do-corpo-apos-acidente-no-rs-esperou-em-posto-de-gasolina-por-guincho-e-policia-diz-testemunha.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-24T03:00:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Ez8lUeQkac0R3HFUzltkpNtrqrw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/3/wLEh9YT9GXQPtBxMjj8A/g1-19-.jpg"
+      "updatedAt": "2026-05-24T11:53:33.000Z"
     }
   ],
   "categorias": [
     {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "a41026ae796e2c29",
-          "slug": "76556089b07f336d",
-          "titulo": "Explosões em trem e mina de carvão causam mortes e feridos no Paquistão e na China",
-          "resumo": "Um atentado com bomba atingiu um trem que transportava militares e suas famílias em Quetta, Paquistão, resultando em pelo menos 24 mortos e mais de 70 feridos. Na China, uma explosão de gás na mina de carvão de Liushenyu, em Shanxi, deixou pelo menos 90 mortos, nove desaparecidos e mais de 120 feridos. Ambos os incidentes ocorreram em contextos de transporte e mineração, setores críticos para a segurança pública.",
-          "porQueImporta": "Esses eventos destacam riscos graves em infraestruturas essenciais e a necessidade de reforçar medidas de segurança e prevenção.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/24/ataque-a-bomba-contra-trem-deixa-pelo-menos-24-mortos-no-paquistao.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/explosao-de-bomba-no-paquistao-deixa-mais-de-30-feridos/"
-            }
-          ],
-          "updatedAt": "2026-05-24T09:25:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/510m5lidAHTT1lNUzZK7J7QbBPs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/8/plAFy3S4KB2elf9ZAbVg/2026-05-24t052859z-1502008175-rc2gflaytt4i-rtrmadp-3-pakistan-blast.jpg"
-        },
-        {
-          "clusterId": "2768b11741e2df8b",
-          "slug": "350d62429e6754fb",
-          "titulo": "Rússia ataca Kiev com mísseis hipersônicos e drones",
-          "resumo": "Na madrugada de domingo, a Rússia lançou um ataque em Kiev com 600 drones e 90 mísseis, incluindo o míssil hipersônico Oreshnik. A Força Aérea da Ucrânia relatou a destruição ou neutralização de 549 drones e 55 mísseis. O ataque atingiu áreas próximas a prédios governamentais, residenciais e escolas, resultando em pelo menos quatro mortes.",
-          "porQueImporta": "O ataque demonstra a escalada de hostilidades e o uso de armamentos avançados.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/24/russia-usa-missil-hipersonico-oreshnik-em-ataque-massivo-contra-kiev-diz-zelensky.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-24T08:34:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PlVFtil-OAzYPknoulddF-7Ral8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/voriW4QreWIDj5ITBLfw/2026-05-24t063959z-1761579952-rc2gflas3jek-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
-        },
-        {
-          "clusterId": "2a968012e9862477",
-          "slug": "d145b46f4d15536c",
-          "titulo": "40 mil pessoas recebem ordens de evacuação por vazamento em tanque químico na Califórnia",
-          "resumo": "Cerca de 40 mil residentes de Garden Grove, na Califórnia, foram ordenados a evacuar após um tanque de 22.700 a 26.500 litros contendo metacrilato de metila começar a liberar vapores. O tanque, localizado em uma fábrica de plásticos aeroespaciais, corre risco de explosão. As autoridades emitiram as ordens de evacuação na sexta-feira, 22 de abril. O vazamento iniciou na quinta-feira, 21 de abril.",
-          "porQueImporta": "O vazamento de um líquido inflamável em grande escala representa risco de explosão e exposição a vapores tóxicos, colocando em perigo a saúde e segurança da população local.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/23/40-mil-pessoas-recebem-ordens-de-evacuacao-por-vazamento-em-tanque-quimico-na-california.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-23T10:06:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-Iunj9eO-anNBdYUdoDCoD-oB9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/y/0mpSugRdeOSnVAA3cXwA/2026-05-23t011355z-786029805-rc2helakr6ef-rtrmadp-3-california-chemical-garden-grove.jpg"
-        }
-      ]
-    },
-    {
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "c87dfb2d9cc8ac71",
+          "slug": "492af6bf92e4b03e",
+          "titulo": "Tremor de magnitude 2,8 registrado no sul do Tocantins",
+          "resumo": "Um tremor de magnitude 2,8 foi registrado entre Cariri do Tocantins e Gurupi na madrugada de 21 de maio. O sismo não gerou relatos de danos ou perturbações entre os moradores. A Rede Sismográfica Brasileira (RSBR) informou que tremores de baixa magnitude são relativamente comuns e ocorrem quase todas as semanas em diferentes regiões do país. O Observatório Sismológico da Universidade de Brasília analisou o evento.",
+          "porQueImporta": "O registro confirma a frequência de sismos de baixa magnitude no interior do Tocantins, reforçando a necessidade de monitoramento contínuo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/05/24/tremor-de-magnitude-28-registrado-no-interior-do-to-e-relativamente-comum-no-pais-diz-rsbr.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T13:11:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2AJ8SzoIahb6ck2es1c_5daeSZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/o/PhvPWiSyuFdAKvZADprA/modelo-foto-fundo-borrado-58-.png"
+        },
+        {
+          "clusterId": "ebff703094a8286a",
+          "slug": "fa9fdd18cadf386b",
+          "titulo": "Casal de São Carlos vira caçadores de pelúcias em máquinas de shoppings",
+          "resumo": "Aryane de Souza e Cristiano Lenierson Jolo, de São Carlos, começaram a capturar pelúcias em máquinas de shoppings para clientes que pagam apostas. A atividade, que se tornou viral nas redes sociais, envolve a busca por bichos de pelúcia de diferentes tamanhos. A iniciativa surgiu de forma espontânea durante uma visita à Basílica de Nossa Senhora da Aparecida. O casal atraiu atenção nacional por sua habilidade e criatividade na caça de pelúcias.",
+          "porQueImporta": "O caso demonstra como atividades criativas podem gerar engajamento e monetização em espaços comerciais.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/05/24/video-casal-viraliza-com-habilidade-para-cacar-bichos-de-pelucia-em-maquinas-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T12:45:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CnGAXfV4lluXkPTg3ktUARrY9tA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/f1MadSRGeupez9uJA0FQ/caca-pelucias.png"
+        },
+        {
+          "clusterId": "b48102295da50bad",
+          "slug": "d830be081ba5a268",
+          "titulo": "Virginia Fonseca planeja participar da Copa do Mundo após término com Vini Jr",
+          "resumo": "A influenciadora Virginia Fonseca confirmou que participará da Copa do Mundo, mesmo depois de encerrar seu relacionamento com Vini Jr. Ela pretende aproveitar o evento para se divertir e apoiar a seleção brasileira. A decisão foi divulgada em entrevista à Veja. O foco da cobertura foi a escolha da atleta em se concentrar no esporte e na sua carreira de influenciadora.",
+          "porQueImporta": "Mostra a continuidade de sua presença pública e o interesse em eventos esportivos de grande escala.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/coluna/veja-gente/o-que-virginia-fonseca-vai-fazer-na-copa-do-mundo/"
+            }
+          ],
+          "updatedAt": "2026-05-24T12:00:24.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/IMG_0431.jpeg?quality=70&strip=info"
+        },
+        {
+          "clusterId": "877e63453cbe7910",
+          "slug": "c63f90c586de62a4",
+          "titulo": "Políticos acusados de falta de escrúpulos em caso de Morro abaixo",
+          "resumo": "A reportagem aponta que a falta de escrúpulos de vários políticos expõe a erosão moral do país, com destaque para a figura de Flávio Bolsonaro. A análise sugere que a conduta desses políticos contribuiu para a situação do Morro abaixo. O caso destaca a responsabilidade política em situações de risco. A matéria enfatiza a necessidade de ética e transparência no governo.",
+          "porQueImporta": "Ilustra como a conduta política pode agravar desastres naturais e afetar a confiança pública.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/blog-do-noblat/artigos/morro-abaixo-por-mary-zaidan"
+            }
+          ],
+          "updatedAt": "2026-05-24T12:00:12.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/05/flavio-eduardo-bolsonaro.jpeg"
+        },
         {
           "clusterId": "415e4caa5a506f76",
           "slug": "64d0ed66b7b99802",
@@ -298,6 +309,44 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
+          "clusterId": "16201970fc3380ab",
+          "slug": "0341e35b9eb7e0f6",
+          "titulo": "Acidentes envolvendo caminhonetes, ônibus e carreta causam fatalidades e feridos em três rodovias",
+          "resumo": "Três colisões distintas ocorreram na madrugada de domingo (24/5). Na SHIS QI 5, uma caminhonete colidiu com um carro, ferindo o motorista que foi levado consciente ao hospital. Na BR-386, km 427, uma caminhonete L200 colidiu frontalmente com um ônibus, resultando na morte de um motorista de 61 anos e ferindo duas pessoas. Na BR-251, km 230, uma carreta bateu em um ônibus, incendiando ambos os veículos e deixando cinco mortos e cinco feridos.",
+          "porQueImporta": "Esses acidentes evidenciam a necessidade de reforço nas medidas de segurança viária e fiscalização em rodovias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/acidente-entre-caminhonete-e-carro-deixa-motorista-ferido-no-lago-sul"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/24/motorista-morre-em-acidente-entre-caminhonete-e-onibus-na-br-386-no-rs-duas-pessoas-ficam-feridas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T12:42:43.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/05/batida-lago-sul.jpeg"
+        },
+        {
+          "clusterId": "faae5a8a6e763de5",
+          "slug": "86edd1a590bc9920",
+          "titulo": "Carro invade contramão e causa colisão fatal na Rodovia SP-425",
+          "resumo": "Um veículo trafegava no sentido contrário na Rodovia Assis Chateaubriand (SP-425) em Martinópolis e invadiu a pista, provocando uma colisão frontal com outro carro. O impacto deixou ambos os veículos imobilizados no acostamento. Um dos ocupantes morreu no local. A Polícia Militar Rodoviária registrou o acidente na madrugada de domingo.",
+          "porQueImporta": "Acidentes de trânsito com invasão de contramão aumentam risco de fatalidades e congestionamentos em rodovias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/05/24/colisao-apos-carro-invadir-a-contramao-deixa-um-morto-em-rodovia-de-martinopolis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T12:37:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/C1ZWuNnsV8l2KH9tKRCrJ-eq7kQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/q/oxMb6ySh61kAinB17Mug/a65b358e-6ab6-4f99-94f4-bc5579f953e3.jpg"
+        },
+        {
           "clusterId": "c85a81f212e72a1e",
           "slug": "2d9a0294067bb3fc",
           "titulo": "Vice-prefeito de Lages sofre acidente ao fugir da polícia",
@@ -313,40 +362,128 @@
           ],
           "updatedAt": "2026-05-24T09:00:56.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/PtpYtImffVW49gsVXQ5_NGLqbZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/6/AxdrHkTB2drNCsMnZh0g/fotojet.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "6ed8aa05cae69faf",
+          "slug": "76556089b07f336d",
+          "titulo": "Explosões em trem e mina de carvão causam mortes e feridos no Paquistão e na China",
+          "resumo": "Um atentado com bomba atingiu um trem que transportava militares e suas famílias em Quetta, Paquistão, resultando em pelo menos 24 mortos e mais de 70 feridos. Na China, uma explosão de gás na mina de carvão de Liushenyu, em Shanxi, deixou pelo menos 90 mortos, nove desaparecidos e mais de 120 feridos. Ambos os incidentes ocorreram em contextos de transporte e mineração, setores críticos para a segurança pública.",
+          "porQueImporta": "Esses eventos destacam riscos graves em infraestruturas essenciais e a necessidade de reforçar medidas de segurança e prevenção.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/explosao-de-bomba-no-paquistao-deixa-mais-de-30-feridos/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/23/explosao-de-gas-em-mina-de-carvao-deixa-mortos-na-china.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T07:28:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wQQ-cyEjo7-VuI9UF2LxFXIpEcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/v/eBtkUjQdSzyIdzgLL7rA/2026-05-23t063602z-1444527846-rc2uelad8ohy-rtrmadp-3-china-coal-mine-accident.jpg"
         },
         {
-          "clusterId": "5902f019d948a261",
-          "slug": "87c4e81647e9f277",
-          "titulo": "Homem preso por atropelar propositalmente três pessoas após briga em saída de festa no Ceará",
-          "resumo": "Um homem de 31 anos foi preso por atropelar propositalmente três pessoas após uma briga na saída de uma festa em Juazeiro do Norte. Ele havia bebido durante toda a noite antes do crime. Uma das vítimas, Airton Ferreira Rocha Neto, de 33 anos, morreu no local, enquanto outra ficou gravemente ferida. O incidente ocorreu no Bairro Lagoa Seca e está sendo investigado pela polícia.",
-          "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito provocados por álcool e violência, resultando em fatalidade e lesões graves.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "2768b11741e2df8b",
+          "slug": "350d62429e6754fb",
+          "titulo": "Rússia ataca Kiev com mísseis hipersônicos e drones",
+          "resumo": "Na madrugada de domingo, a Rússia lançou um ataque em Kiev com 600 drones e 90 mísseis, incluindo o míssil hipersônico Oreshnik. A Força Aérea da Ucrânia relatou a destruição ou neutralização de 549 drones e 55 mísseis. O ataque atingiu áreas próximas a prédios governamentais, residenciais e escolas, resultando em pelo menos quatro mortes.",
+          "porQueImporta": "O ataque demonstra a escalada de hostilidades e o uso de armamentos avançados.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/05/24/homem-preso-por-atropelar-de-proposito-tres-pessoas-passou-a-noite-inteira-bebendo-diz-delegado.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/24/russia-usa-missil-hipersonico-oreshnik-em-ataque-massivo-contra-kiev-diz-zelensky.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T07:01:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DREXYmzOMqM-jT0G28azK2KbsgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/W/JavWEAR52xBCyaOg5tTg/atropela-jua-3.jpg"
+          "updatedAt": "2026-05-24T08:34:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PlVFtil-OAzYPknoulddF-7Ral8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/voriW4QreWIDj5ITBLfw/2026-05-24t063959z-1761579952-rc2gflas3jek-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
         },
         {
-          "clusterId": "ef21db6873f894aa",
-          "slug": "eb4e2850d64b16ba",
-          "titulo": "Motorista de caminhão ajoelha e reza ao lado do corpo da vítima no RS",
-          "resumo": "No dia 16 de abril, um caminhoneiro de 74 anos esteve envolvido em um acidente na BR-158, em Cruz Alta, que resultou na morte de André Mimbacas Saccol, 47 anos. O motorista permaneceu em um posto de gasolina próximo ao local, aguardando a chegada da polícia e de um guincho para retirar seu veículo. Ele foi fotografado ajoelhado e rezando ao lado do corpo da vítima, o que chamou a atenção do público. A ocorrência foi registrada pelas autoridades de segurança e pelo serviço de socorro.",
-          "porQueImporta": "O caso destaca a importância da resposta rápida de autoridades e serviços de socorro em acidentes de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "2a968012e9862477",
+          "slug": "d145b46f4d15536c",
+          "titulo": "40 mil pessoas recebem ordens de evacuação por vazamento em tanque químico na Califórnia",
+          "resumo": "Cerca de 40 mil residentes de Garden Grove, na Califórnia, foram ordenados a evacuar após um tanque de 22.700 a 26.500 litros contendo metacrilato de metila começar a liberar vapores. O tanque, localizado em uma fábrica de plásticos aeroespaciais, corre risco de explosão. As autoridades emitiram as ordens de evacuação na sexta-feira, 22 de abril. O vazamento iniciou na quinta-feira, 21 de abril.",
+          "porQueImporta": "O vazamento de um líquido inflamável em grande escala representa risco de explosão e exposição a vapores tóxicos, colocando em perigo a saúde e segurança da população local.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/24/motorista-que-fez-oracao-ao-lado-do-corpo-apos-acidente-no-rs-esperou-em-posto-de-gasolina-por-guincho-e-policia-diz-testemunha.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/23/40-mil-pessoas-recebem-ordens-de-evacuacao-por-vazamento-em-tanque-quimico-na-california.ghtml"
             }
           ],
-          "updatedAt": "2026-05-24T03:00:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Ez8lUeQkac0R3HFUzltkpNtrqrw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/3/wLEh9YT9GXQPtBxMjj8A/g1-19-.jpg"
+          "updatedAt": "2026-05-23T10:06:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-Iunj9eO-anNBdYUdoDCoD-oB9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/y/0mpSugRdeOSnVAA3cXwA/2026-05-23t011355z-786029805-rc2helakr6ef-rtrmadp-3-california-chemical-garden-grove.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "c2104c6d170f8def",
+          "slug": "0ea9ef971312adcb",
+          "titulo": "Brasília amanhece com céu nublado e chuvas isoladas",
+          "resumo": "O Distrito Federal iniciou o domingo com céu encoberto e chuvas isoladas, segundo o Inmet. A temperatura máxima prevista foi de 24 °C, com ventos fracos a moderados em toda a região. A mudança climática foi causada por um ciclone extratropical que também pode provocar chuvas em outras partes do país.",
+          "porQueImporta": "O clima pode afetar o tráfego e as atividades diárias na capital.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/24/df-amanhece-com-ceu-encoberto-e-chuvas-isoladas-neste-domingo-24.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-24T13:26:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ndh3_4LVei9pPA0KILm9bSBuWFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/m/6oLj2PTEWmErlbLJt8Ag/vento-df.gif"
+        },
+        {
+          "clusterId": "a5211818a7b0ec84",
+          "slug": "d58a8abbd4dcd381",
+          "titulo": "Nordeste entra em alerta de perigo para chuva intensa neste domingo",
+          "resumo": "O Instituto Nacional de Meteorologia (INMET) emitiu alerta de perigo para áreas da Bahia, prevendo até 100 mm de chuva em 24 horas. Ventos de até 100 km/h foram previstos, aumentando o risco de alagamentos e queda de energia. A medida visa informar a população sobre condições climáticas adversas. O alerta foi divulgado para a região Nordeste do Brasil.",
+          "porQueImporta": "A previsão de chuvas intensas pode causar alagamentos e interrupções de energia, afetando a vida cotidiana e a infraestrutura local.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/nordeste/nordeste-entra-em-alerta-de-perigo-para-chuva-intensa-neste-domingo-24/"
+            }
+          ],
+          "updatedAt": "2026-05-24T11:53:33.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "9f4af6672f68dd6f",
+          "slug": "8671fe6eee0be10c",
+          "titulo": "Estudo aponta lacunas críticas na gestão de risco de deslizamentos",
+          "resumo": "Um estudo revelou que a maioria dos municípios suscetíveis a deslizamentos não possui os instrumentos necessários para lidar com o problema. A pesquisa destaca a falta de planejamento, monitoramento e recursos adequados para prevenção e resposta a esses eventos. Os autores alertam para a necessidade de fortalecer a gestão de risco em todo o território nacional.",
+          "porQueImporta": "A deficiência na gestão de risco aumenta a vulnerabilidade da população a deslizamentos, potencializando perdas humanas e materiais.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/estudo-aponta-lacunas-criticas-na-gestao-de-risco-de-deslizamentos/"
+            }
+          ],
+          "updatedAt": "2026-05-24T13:40:53.000Z"
         }
       ]
     },
@@ -354,22 +491,6 @@
       "slug": "seca",
       "label": "Seca",
       "stories": [
-        {
-          "clusterId": "c1745dc69b1e95de",
-          "slug": "bca86232295d8b50",
-          "titulo": "Risco de El Niño alerta para aumento de seca e calor na Amazônia",
-          "resumo": "O fenômeno El Niño tem 80% de chance de se formar até o fim de 2026. A sua ocorrência pode intensificar a seca e o calor na Amazônia. Isso pode aumentar o risco de incêndios e de eventos extremos no bioma. A previsão reforça a necessidade de monitoramento e preparação das comunidades locais.",
-          "porQueImporta": "O aumento de seca e calor pode agravar a vulnerabilidade ambiental e social da região amazônica.",
-          "categoria": "Seca",
-          "categoriaSlug": "seca",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-sustentavel/risco-de-el-nino-alerta-para-aumento-de-seca-e-calor-na-amazonia/"
-            }
-          ],
-          "updatedAt": "2026-05-24T10:00:45.000Z"
-        },
         {
           "clusterId": "f3e8f18bedc3ab2d",
           "slug": "0fe4cfd998f68096",
