@@ -13,17 +13,20 @@
 
 ## ⏳ Estado atual (2026-05-24)
 
-**SCAFFOLD PRONTO E NO GITHUB.** O molde foi copiado e adaptado (categorias dinâmicas + filtro de nicho + rebrand). Repo público: **github.com/ManoelSilvaNeto/radar-globalnote**. CI (GitHub Actions) **verde**: testes (33) + pipeline + build passam; **Deploy ainda SKIPPED** (faltam os secrets do Cloudflare). Pipeline validado: 621→57 artigos do nicho, 22 clusters.
+**SCAFFOLD PRONTO, NO GITHUB E PUBLICADO.** O molde foi copiado e adaptado (categorias dinâmicas + filtro de nicho + rebrand). Repo público: **github.com/ManoelSilvaNeto/radar-globalnote**. CI (GitHub Actions) **verde** e **deploy ativo na Cloudflare Pages**. Pipeline validado: ~540→45 artigos do nicho, ~12 clusters/run.
 
 **✅ IA MIGRADA DO GEMINI → GROQ (2026-05-24) E VALIDADA EM PRODUÇÃO.** Resolve o impasse da chave: a conta Google do dono atingiu o **limite de projetos** e não criava chave Gemini nova. Trocamos para **Groq (free tier, sem cartão)** — folga absurda pra ~22/dia do Radar e pra **fábrica inteira na MESMA chave**, sem depender do Google. `pipeline/summarize.ts` usa `GroqSummarizer` via `fetch` (API compatível com OpenAI); `@google/genai` removido. Secret = `GROQ_API_KEY` (já cadastrado no repo). **Modelo padrão `openai/gpt-oss-20b` com structured outputs ESTRITOS (`json_schema`) — JSON garantido por constrained decoding.** ⚠️ Aprendizado: começamos com `llama-3.3-70b-versatile` + `json_object`, mas a Groq retornava 400 "Failed to generate JSON" intermitente (1 de 12 passou). Modelos que suportam schema estrito: `openai/gpt-oss-20b` / `gpt-oss-120b`. Parsing tolerante (`parseJsonObject`) cobre o resto.
 
 **🚀 SITE NO AR (2026-05-24): https://radar-wly.pages.dev** — deploy feito, HTTP 200, IA gerando resumos (cache=22 IA=2 fallback=0, 6 categorias dinâmicas). Os **3 secrets estão cadastrados** (`GROQ_API_KEY`, `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`). ⚠️ O subdomínio ficou **`radar-wly.pages.dev`** (o `radar.pages.dev` já estava tomado por outra conta) — é esse o alvo do CNAME. Account ID Cloudflare: `e8cf1a217ad1957c7fd9ee29db14daaf`.
 
-**⭐ RETOMAR AQUI — falta só o DOMÍNIO + propagação:**
-1. ~~Secrets~~ ✅ feito (GROQ + Cloudflare token/account).
-2. ~~Deploy~~ ✅ feito — Pages `radar` criado, site em `radar-wly.pages.dev`.
-3. **Domínio `radar.globalnote.com.br`:** (a) no Cloudflare Pages → projeto `radar` → Custom domains → adicionar `radar.globalnote.com.br`; (b) no registro.br → CNAME `radar` → **`radar-wly.pages.dev`** (atenção: `-wly`, não `radar.pages.dev`).
-4. Propagação: GSC, Bing, Google News, Bluesky/Mastodon (contas novas), Newsletter (Buttondown novo). SEM Telegram.
+**⭐ RETOMAR AQUI — falta só 1 passo manual do dono (CNAME) + propagação:**
+1. ~~Secrets~~ ✅ feito (GROQ + Cloudflare token/account, validados).
+2. ~~Deploy~~ ✅ feito — Pages `radar` criado, site no ar em `radar-wly.pages.dev`.
+3. ~~Custom domain no Pages~~ ✅ feito via API — `radar.globalnote.com.br` adicionado ao projeto `radar` (status `initializing`, valida quando o DNS apontar).
+4. **⏳ DONO: adicionar o CNAME no registro.br** (painel do `globalnote.com.br` → Zona DNS): `CNAME` nome **`radar`** → destino **`radar-wly.pages.dev`** (atenção: `-wly`, não `radar.pages.dev`). Depois a Cloudflare valida e emite SSL sozinha. → Quando feito, dá pra confirmar o status via API (`GET /accounts/<acc>/pages/projects/radar/domains`) e testar `https://radar.globalnote.com.br`.
+5. **Propagação** (depende de o dono criar contas): GSC, Bing, Google News, Bluesky/Mastodon (contas novas do Radar), Newsletter (Buttondown novo). **SEM Telegram.**
+
+**Contexto da fábrica (2026-05-24):** o **GlobalNotícias também foi migrado pro Groq** (mesmo padrão, schema de 3 campos, em produção). Os dois portais usam a **MESMA chave Groq** (rate limit é por conta, não por chave) → crons **defasados**: Notícias `0 */4`, Radar `30 */4`. Pendência do dono não-bloqueante: estava com instabilidade no e-mail/login do Claude; chave Groq foi colada no chat → pode rotacionar em console.groq.com se quiser (é só me passar a nova que eu atualizo os 2 secrets).
 
 ## Decisões fechadas
 
