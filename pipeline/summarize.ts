@@ -191,22 +191,29 @@ export class GroqSummarizer implements Summarizer {
   }
 
   private async callOnce(input: SummarizeInput): Promise<Summary> {
+    const body: Record<string, unknown> = {
+      model: this.model,
+      temperature: 0.3,
+      // Folga p/ o JSON. Em modelos de reasoning (gpt-oss) os tokens de raciocínio
+      // contam aqui; com max baixo o JSON era truncado → 400 "Failed to generate JSON".
+      max_completion_tokens: 4096,
+      response_format: this.responseFormat(),
+      messages: [
+        { role: 'system', content: SYSTEM_INSTRUCTION },
+        { role: 'user', content: buildPrompt(input) },
+      ],
+    };
+    // Resumir não exige raciocínio pesado: 'low' reduz tokens de reasoning (mais
+    // rápido e deixa espaço pro JSON). Só os gpt-oss aceitam este parâmetro.
+    if (STRICT_SCHEMA_MODELS.has(this.model)) body.reasoning_effort = 'low';
+
     const res = await fetch(GROQ_ENDPOINT, {
       method: 'POST',
       headers: {
         Authorization: `Bearer ${this.apiKey}`,
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({
-        model: this.model,
-        temperature: 0.3,
-        max_tokens: 1024,
-        response_format: this.responseFormat(),
-        messages: [
-          { role: 'system', content: SYSTEM_INSTRUCTION },
-          { role: 'user', content: buildPrompt(input) },
-        ],
-      }),
+      body: JSON.stringify(body),
     });
 
     if (!res.ok) {
