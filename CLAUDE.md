@@ -39,6 +39,8 @@
 
 **✅✅✅ ETAPA 5 COMPLETA (2026-05-25) — PROJETO 100% NO AR.** Infra + indexação (GSC/Bing/Google News) + redes (Bluesky/Mastodon auto-post) + newsletter, tudo concluído. O Radar roda sozinho: cron a cada 4h (`30 */4`) gera edição, faz deploy, pinga IndexNow e posta nas redes. **Nada pendente que dependa de código.** Próximos passos só seriam melhorias futuras (ex.: B2 regional/proximidade, adiado) ou replicar o padrão pra próximos portais da fábrica (games, religião, viagens…).
 
+**📊 Cloudflare Web Analytics ATIVO (2026-05-25)** — `TOKEN='3ac33991998f4920b842976be335da09'` em `src/components/Analytics.astro` (site `radar.globalnote.com.br` criado no painel CF Web Analytics). Beacon confirmado no HTML de produção. Token é público (vai no HTML). Painel: dash.cloudflare.com → Analytics & Logs → Web Analytics. (Mesmo padrão do molde, que usa snippet JS manual — não a auto-analytics do Pages.)
+
 **Contexto da fábrica (2026-05-24):** o **GlobalNotícias também foi migrado pro Groq** (mesmo padrão, schema de 3 campos, em produção). Os dois portais usam a **MESMA chave Groq** (rate limit é por conta, não por chave) → crons **defasados**: Notícias `0 */4`, Radar `30 */4`. Pendência do dono não-bloqueante: estava com instabilidade no e-mail/login do Claude; chave Groq foi colada no chat → pode rotacionar em console.groq.com se quiser (é só me passar a nova que eu atualizo os 2 secrets).
 
 ## Decisões fechadas
