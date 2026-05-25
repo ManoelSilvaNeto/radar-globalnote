@@ -21,7 +21,7 @@
 
 **🌐 DOMÍNIO PRÓPRIO NO AR (2026-05-24, 22:13 UTC): https://radar.globalnote.com.br** — CNAME `radar` → `radar-wly.pages.dev.` adicionado pelo dono no registro.br (zona DNS gerenciada pelo próprio registro.br, NS `*.sec.dns.br` — não usa NS da Cloudflare; mesmo padrão do `noticias`). Cloudflare validou e emitiu SSL sozinha (cert Google Trust Services, emitido 21:12 GMT). Verificado: HTTP 200, SSL ok, `<title>` correto. **Infra 100% concluída.**
 
-**⭐ RETOMAR AQUI — só falta a PROPAGAÇÃO (etapa 5), tudo dependente de o dono criar contas novas do Radar:**
+**⭐ PROPAGAÇÃO (etapa 5) — CONCLUÍDA. Histórico dos 5 canais abaixo:**
 1. ~~Secrets~~ ✅ feito (GROQ + Cloudflare token/account, validados).
 2. ~~Deploy~~ ✅ feito — Pages `radar` criado, site no ar em `radar-wly.pages.dev`.
 3. ~~Custom domain no Pages~~ ✅ feito via API — `radar.globalnote.com.br` adicionado ao projeto `radar`.
@@ -34,8 +34,10 @@
      - **Bluesky** `radarbr.bsky.social` (alias `ti+radarbr@…`) — secrets `BLUESKY_HANDLE` + `BLUESKY_APP_PASSWORD`.
      - **Mastodon** `@radarbr@mastodon.social` (alias `ti+radarmasto@…`, app "Globalnote Radar" scope `write`) — secrets `MASTODON_INSTANCE` (`https://mastodon.social`) + `MASTODON_TOKEN`.
      - Todos cadastrados via `gh secret set`. Testado em runs manuais: ambos `HTTP 200`, posts no ar com link + hashtags de nicho (`#acidente #brasil`). **As 2 redes postam sozinhas a cada edição** (mesma história nas duas; dedup em `data/social.json`).
-   - **e. Newsletter (Buttondown)** ⏳ — conta nova; dono passa o usuário → setar `NEWSLETTER.buttondownUser` em `src/lib/site.ts`.
+   - **e. Newsletter (Buttondown)** ✅ **feito (2026-05-25)** — conta nova `radarbr` (e-mail `mvsilvaneto@hotmail.com`, display "Manoel Neto"). `NEWSLETTER.buttondownUser='radarbr'` em `src/lib/site.ts` → bloco "Receba as notícias por e-mail" no ar (`embed-subscribe/radarbr`). Plano free, sem cartão, sem secret (só username público). ⚠️ Dono deve confirmar o e-mail da conta Buttondown p/ inscritos conseguirem confirmar inscrição.
    - **SEM Telegram.**
+
+**✅✅✅ ETAPA 5 COMPLETA (2026-05-25) — PROJETO 100% NO AR.** Infra + indexação (GSC/Bing/Google News) + redes (Bluesky/Mastodon auto-post) + newsletter, tudo concluído. O Radar roda sozinho: cron a cada 4h (`30 */4`) gera edição, faz deploy, pinga IndexNow e posta nas redes. **Nada pendente que dependa de código.** Próximos passos só seriam melhorias futuras (ex.: B2 regional/proximidade, adiado) ou replicar o padrão pra próximos portais da fábrica (games, religião, viagens…).
 
 **Contexto da fábrica (2026-05-24):** o **GlobalNotícias também foi migrado pro Groq** (mesmo padrão, schema de 3 campos, em produção). Os dois portais usam a **MESMA chave Groq** (rate limit é por conta, não por chave) → crons **defasados**: Notícias `0 */4`, Radar `30 */4`. Pendência do dono não-bloqueante: estava com instabilidade no e-mail/login do Claude; chave Groq foi colada no chat → pode rotacionar em console.groq.com se quiser (é só me passar a nova que eu atualizo os 2 secrets).
 
