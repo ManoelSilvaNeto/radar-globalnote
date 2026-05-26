@@ -69,6 +69,16 @@ const GENERIC = new Set([
   // Outros genéricos amplos demais pra virar hub útil
   'onda', // "Onda" sozinho — multi-word "Onda de calor" passa por phenomena detection
   'europa', 'asia', 'africa', 'oceania', 'america', 'mundo', 'globo',
+  // Pessoas no trânsito (genéricas — quase toda matéria do nicho)
+  'motociclista', 'motociclistas', 'ciclista', 'ciclistas',
+  'pedestre', 'pedestres', 'passageiro', 'passageiros',
+  // Gentílicos (adjetivo de origem — quase sempre genérico em manchetes)
+  'brasileiro', 'brasileira', 'brasileiros', 'brasileiras',
+  'paulista', 'paulistano', 'carioca', 'mineiro', 'gaucho', 'baiano',
+  'cearense', 'pernambucano', 'paranaense', 'catarinense',
+  'sergipano', 'alagoano', 'maranhense', 'piauiense', 'paraibano',
+  'capixaba', 'goiano', 'amazonense', 'paraense', 'brasiliense',
+  'fluminense', 'rondoniense', 'roraimense', 'tocantinense', 'acreano',
 ]);
 
 // Fenômenos meteorológicos e climáticos comuns — geralmente vêm em LOWERCASE
