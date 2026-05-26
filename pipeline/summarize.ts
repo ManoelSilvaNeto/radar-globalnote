@@ -56,6 +56,10 @@ function toInput(cluster: Cluster): SummarizeInput {
 }
 
 // Resumo provisório sem IA: pega o artigo com a descrição mais rica.
+// porQueImporta nunca é vazio — Bug #6 exige "tudo ou nada" no template; pra
+// fallbacks sem IA usamos um texto genérico mas honesto que sinaliza que a
+// apuração ainda não consolidou.
+export const FALLBACK_POR_QUE_IMPORTA = 'Apuração em andamento — confira as fontes citadas para o panorama completo.';
 export function fallbackSummary(cluster: Cluster): Summary {
   const rep = [...cluster.articles].sort(
     (a, b) => (b.description?.length ?? 0) - (a.description?.length ?? 0),
@@ -63,19 +67,29 @@ export function fallbackSummary(cluster: Cluster): Summary {
   return {
     titulo: rep?.title ?? 'Sem título',
     resumo: rep?.description || rep?.title || '',
-    porQueImporta: '',
+    porQueImporta: FALLBACK_POR_QUE_IMPORTA,
     categoria: FALLBACK_CATEGORIA,
   };
 }
 
+// Bug #6: porQueImporta agora é obrigatório (mín 15 chars úteis). O template
+// mostrava o bloco condicionalmente, gerando inconsistência editorial. IA outputs
+// sem porQueImporta substancial vão pro caminho de fallback (que produz texto
+// genérico mas presente).
+const POR_QUE_IMPORTA_MIN = 15;
+
 function sanitize(s: Summary): Summary {
   const titulo = (s.titulo ?? '').trim();
   const resumo = (s.resumo ?? '').trim();
+  const porQueImporta = (s.porQueImporta ?? '').trim();
   if (!titulo || !resumo) throw new Error('resumo da IA incompleto');
+  if (porQueImporta.length < POR_QUE_IMPORTA_MIN) {
+    throw new Error(`porQueImporta ausente ou muito curto (${porQueImporta.length} chars)`);
+  }
   return {
     titulo,
     resumo,
-    porQueImporta: (s.porQueImporta ?? '').trim(),
+    porQueImporta,
     categoria: (s.categoria ?? '').trim() || FALLBACK_CATEGORIA,
   };
 }
@@ -377,11 +391,16 @@ export async function summarizeClusters(
     let cached: CachedSummary | undefined = rawCached;
     if (rawCached) {
       const halls = hallucinatedNames(rawCached.titulo, cluster.articles);
+      const pq = (rawCached.porQueImporta ?? '').trim();
       if (halls.length > 0) {
         console.warn(`  ⚠ cache invalidado por alucinação (${cluster.id}): ${halls.join(', ')}`);
         cached = undefined;
       } else if (dateInconsistency(rawCached, cluster.latestAt)) {
         console.warn(`  ⚠ cache invalidado por data inconsistente (${cluster.id})`);
+        cached = undefined;
+      } else if (pq.length < POR_QUE_IMPORTA_MIN) {
+        // Bug #6: cache de antes do fix podia ter porQueImporta vazio.
+        console.warn(`  ⚠ cache invalidado por porQueImporta vazio (${cluster.id})`);
         cached = undefined;
       }
     }

@@ -173,6 +173,35 @@ describe('summarizeClusters', () => {
     expect(summaries.get('c1')?.titulo).toBe(goodSummary.titulo);
   });
 
+  // Bug #6: porQueImporta sempre presente.
+  it('rejeita output fresco da IA sem porQueImporta (Bug #6)', async () => {
+    const c = cluster('c1', [article('https://a.com/1', 'G1')]);
+    const incompleto: Summary = { ...SUMMARY, porQueImporta: '' };
+    const summarizer: Summarizer = { summarize: vi.fn().mockResolvedValue(incompleto) };
+
+    const { summaries, cache, stats } = await summarizeClusters([c], summarizer, {}, NOW, 0);
+
+    expect(stats.generated).toBe(0);
+    expect(stats.fallback).toBe(1);
+    expect(cache).toEqual({}); // não cacheia
+    // Fallback tem porQueImporta sintético — nunca vazio.
+    expect(summaries.get('c1')?.porQueImporta.length).toBeGreaterThan(0);
+  });
+
+  it('invalida cache com porQueImporta vazio (cache de antes do fix)', async () => {
+    const c = cluster('c1', [article('https://a.com/1', 'G1')]);
+    const badCache: Record<string, CachedSummary> = {
+      [cacheKey(c)]: { ...SUMMARY, porQueImporta: '', cachedAt: '2026-05-20T06:00:00.000Z' },
+    };
+    const summarizer: Summarizer = { summarize: vi.fn().mockResolvedValue(SUMMARY) };
+
+    const { stats } = await summarizeClusters([c], summarizer, badCache, NOW, 0);
+
+    expect(summarizer.summarize).toHaveBeenCalledTimes(1); // cache inválido → IA chamada
+    expect(stats.fromCache).toBe(0);
+    expect(stats.generated).toBe(1);
+  });
+
   it('aceita o cache quando os nomes do título estão nas fontes', async () => {
     const c = cluster('c1', [
       article('https://a.com/1', 'G1', 'Enchente atinge Petrópolis com chuvas fortes', 'Cidade de Petrópolis amanheceu alagada'),
