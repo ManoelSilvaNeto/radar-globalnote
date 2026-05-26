@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { matchesNiche, filterNiche, clusterHasDamageSignal } from './niche';
+import { matchesNiche, filterNiche, clusterHasDamageSignal, clusterIsStandaloneNiche } from './niche';
 import type { Article } from '../src/lib/types';
 
 function art(title: string, description = ''): Article {
@@ -101,5 +101,20 @@ describe('clusterHasDamageSignal', () => {
         art('Cobertura do evento', 'Programação estende-se até domingo'),
       ]),
     ).toBe(false);
+  });
+});
+
+describe('clusterIsStandaloneNiche', () => {
+  it('reconhece termo standalone em qualquer artigo do cluster', () => {
+    expect(
+      clusterIsStandaloneNiche([
+        art('Municípios recebem verba pós-evento', 'Ações emergenciais após enchente'),
+      ]),
+    ).toBe(true);
+    expect(clusterIsStandaloneNiche([art('Deslizamento em estrada')])).toBe(true);
+  });
+
+  it('retorna false quando não há termo standalone', () => {
+    expect(clusterIsStandaloneNiche([art('Acidente sem feridos', 'Carro tombou na BR')])).toBe(false);
   });
 });

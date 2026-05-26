@@ -93,3 +93,15 @@ export function clusterHasDamageSignal(articles: Article[]): boolean {
     .join(' ');
   return DAMAGE_SIGNALS.some((s) => hay.includes(s));
 }
+
+// Cluster bate em alguma palavra do nicho STANDALONE (evento inequívoco). Se sim,
+// está em-escopo pela própria natureza do termo — não precisa de damage signal.
+// Usado pelo gate pra evitar descartar histórias legítimas sobre enchente/
+// deslizamento/etc. quando a IA não categorizou (caiu em "Geral") e o cluster
+// não tem morto/ferido explícito (ex: notícia sobre AJUDA financeira pós-evento).
+export function clusterIsStandaloneNiche(articles: Article[]): boolean {
+  const hay = articles
+    .map((a) => norm(`${a.title} ${a.description}`))
+    .join(' ');
+  return STANDALONE_NICHE.some((k) => hay.includes(k));
+}

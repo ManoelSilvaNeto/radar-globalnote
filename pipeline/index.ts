@@ -4,7 +4,7 @@
 
 import { resolve } from 'node:path';
 import { fetchAllSources } from './fetch';
-import { clusterHasDamageSignal, filterNiche } from './niche';
+import { clusterHasDamageSignal, clusterIsStandaloneNiche, filterNiche } from './niche';
 import { clusterArticles, normalizePt } from './cluster';
 import { topForHome, POOL_SIZE } from './rank';
 import { summarizeClusters, summarizerFromEnv } from './summarize';
@@ -41,17 +41,20 @@ async function main(): Promise<void> {
   );
 
   // 5.5. gate de escopo (Bug #2): "Geral" é o catch-all que a IA usa quando não
-  // sabe classificar. Mas o filtro do nicho pode deixar passar matéria que só
-  // MENCIONA "acidente"/"tragédia" no sentido figurado (corrupção, política
-  // metaforicamente "trágica", etc). Descartamos clusters cujo summary é "Geral"
-  // E cujo conteúdo não tem nenhum sinal concreto de dano. Isso afeta também os
-  // clusters de fallback (sem IA), que sempre vêm como "Geral".
+  // sabe classificar. Sem este gate, política/judicial que vazou pelo filtro
+  // do nicho (via "acidente" metafórico ou incidental) entra no portal.
+  // Regra: cluster com categoria=Geral passa SE tem damage signal OU palavra
+  // STANDALONE do nicho (enchente/deslizamento/queda de avião…). Caso
+  // contrário, descarta. Stories de fallback (sem IA) também caem como "Geral"
+  // — a verificação de standalone preserva os legítimos (ex: "ações
+  // emergenciais após enchente" sem morto explícito).
   const scopedPool = pool.filter((c) => {
     const s = summaries.get(c.id);
     if (!s || s.categoria !== FALLBACK_CATEGORIA) return true;
     if (clusterHasDamageSignal(c.articles)) return true;
+    if (clusterIsStandaloneNiche(c.articles)) return true;
     console.warn(
-      `  ⚠ fora-do-nicho descartado (categoria=Geral, sem sinal de dano): "${c.articles[0]?.title.slice(0, 80) ?? c.id}"`,
+      `  ⚠ fora-do-nicho descartado (categoria=Geral, sem dano/standalone): "${c.articles[0]?.title.slice(0, 80) ?? c.id}"`,
     );
     return false;
   });
