@@ -1,7 +1,17 @@
-// Formatação de datas em PT-BR, sempre no fuso de Brasília (o site é estático,
-// então datas são absolutas — relativo ficaria desatualizado).
+// Formatação de datas em PT-BR, sempre no fuso de Brasília. O site é estático,
+// então datas SSR são absolutas. O selo de freshness (Bug #8) é a exceção:
+// emite valor absoluto no SSR e tem JS que substitui por relativo no client.
 
 const TZ = 'America/Sao_Paulo';
+
+// "às 14h30" — fallback SSR pro selo de freshness. JS substitui por "há X" no load.
+export function formatTimeBR(iso: string): string {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '';
+  return 'às ' + new Intl.DateTimeFormat('pt-BR', { timeZone: TZ, hour: '2-digit', minute: '2-digit' })
+    .format(d)
+    .replace(':', 'h');
+}
 
 // "20 de mai • 14h30"
 export function formatDateTime(iso: string): string {

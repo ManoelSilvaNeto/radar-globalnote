@@ -6,7 +6,7 @@ import AdSlot from '../components/AdSlot.astro';
 import Newsletter from '../components/Newsletter.astro';
 import { currentEdition, hasContent } from '../lib/data';
 import { topics } from '../lib/topics';
-import { formatDateFull } from '../lib/format';
+import { formatDateFull, formatTimeBR } from '../lib/format';
 import { SITE } from '../lib/site';
 import { itemListJsonLd, websiteJsonLd } from '../lib/seo';
 
@@ -30,8 +30,49 @@ const ogImage = edition.home.find((s) => s.imageUrl)?.imageUrl;
       <h1 class="font-serif text-3xl font-bold tracking-tight">{SITE.name}</h1>
       <p class="mt-1 text-neutral-600 dark:text-neutral-400">{SITE.tagline}</p>
       {filled && <p class="mt-1 text-sm text-neutral-500">Edição de {formatDateFull(edition.date)}</p>}
+      {
+        filled && (
+          <p class="mt-1 inline-flex items-center gap-1.5 text-xs text-neutral-500">
+            <span class="relative inline-flex h-2 w-2 shrink-0" aria-hidden="true">
+              <span class="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-400 opacity-75" />
+              <span class="relative inline-flex h-2 w-2 rounded-full bg-green-500" />
+            </span>
+            <span>
+              Atualizado <time datetime={edition.generatedAt} data-relative-time>{formatTimeBR(edition.generatedAt)}</time>
+            </span>
+          </p>
+        )
+      }
     </div>
   </header>
+
+  <script>
+    // Bug #8: selo de freshness. SSR emite "às HH:MM" (absoluto, sempre válido).
+    // Aqui no load substituímos por relativo ("há X min", "há X h") via Intl, e
+    // re-renderizamos a cada 60s pra dar sinal de vida enquanto o usuário fica
+    // na página. Mantém o datetime original no atributo pra acessibilidade.
+    (() => {
+      const els = document.querySelectorAll<HTMLTimeElement>('time[data-relative-time]');
+      if (!els.length) return;
+      const rtf = new Intl.RelativeTimeFormat('pt-BR', { numeric: 'auto' });
+      const fmt = (iso: string): string => {
+        const diffSec = (new Date(iso).getTime() - Date.now()) / 1000;
+        const abs = Math.abs(diffSec);
+        if (abs < 45) return 'agora há pouco';
+        if (abs < 3600) return rtf.format(Math.round(diffSec / 60), 'minute');
+        if (abs < 86400) return rtf.format(Math.round(diffSec / 3600), 'hour');
+        return rtf.format(Math.round(diffSec / 86400), 'day');
+      };
+      const update = () => {
+        for (const el of els) {
+          const iso = el.getAttribute('datetime');
+          if (iso) el.textContent = fmt(iso);
+        }
+      };
+      update();
+      setInterval(update, 60_000);
+    })();
+  </script>
 
   {
     !filled ? (
