@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { normalizeUrl, articleId, stripHtml, toArticle, dedupeByUrl } from './fetch';
+import { normalizeUrl, articleId, stripCaption, stripHtml, toArticle, dedupeByUrl } from './fetch';
 import type { Article, Source } from '../src/lib/types';
 
 const source: Source = { name: 'G1', url: 'https://g1.globo.com/rss/g1/' };
@@ -37,6 +37,52 @@ describe('stripHtml', () => {
     expect(out).not.toMatch(/[<>]/);
     expect(out).toContain('&');
     expect(out).not.toContain('x()');
+  });
+});
+
+// Bug #4: descriptions de RSS BR vinham com legenda de foto + crédito coladas
+// ao corpo. As 3 fixtures abaixo são casos REAIS do brief.
+describe('stripCaption', () => {
+  it('remove legenda + sigla institucional (PRF)', () => {
+    const txt = 'Base alvo dos criminosos PRF Dois homens foram detidos em operação realizada nesta segunda-feira em uma rodovia federal no Mato Grosso. A ação durou cerca de 3 horas.';
+    expect(stripCaption(txt)).toBe(
+      'Dois homens foram detidos em operação realizada nesta segunda-feira em uma rodovia federal no Mato Grosso. A ação durou cerca de 3 horas.',
+    );
+  });
+
+  it('remove legenda + crédito "Arquivo pessoal"', () => {
+    const txt = 'Homem precisou ser socorrido Arquivo pessoal Um trabalhador da construção civil sofreu queda de altura considerável nesta manhã na zona leste da cidade.';
+    expect(stripCaption(txt)).toBe(
+      'Um trabalhador da construção civil sofreu queda de altura considerável nesta manhã na zona leste da cidade.',
+    );
+  });
+
+  it('remove legenda longa + crédito "Nome Sobrenome/Outlet"', () => {
+    const txt = 'O veículo foi encontrado às margens da rodovia após sair da pista e capotar Kelvin Ramirez/Só Notícias Um motorista identificado como João Pereira foi achado morto dentro do carro carbonizado.';
+    expect(stripCaption(txt)).toBe(
+      'Um motorista identificado como João Pereira foi achado morto dentro do carro carbonizado.',
+    );
+  });
+
+  it('preserva text que NÃO tem padrão de legenda', () => {
+    const txt = 'A defesa civil informou que três famílias foram desabrigadas após o deslizamento de terra ocorrido na manhã desta segunda-feira no bairro Petrópolis em Belém.';
+    expect(stripCaption(txt)).toBe(txt);
+  });
+
+  it('não remove quando o "crédito" aparece no meio do corpo, não no prefixo', () => {
+    // "PRF" aparece em contexto natural — não há legenda ANTES com texto curto.
+    const txt = 'PRF prende suspeitos em ação coordenada com a polícia federal nesta manhã em rodovia federal em Mato Grosso. A operação durou três horas.';
+    expect(stripCaption(txt)).toBe(txt);
+  });
+
+  it('não remove se a "legenda" for mais longa que o corpo', () => {
+    const txt = 'Texto que parece legenda mas continua por muito tempo descrevendo coisas Arquivo pessoal corpo curto.';
+    expect(stripCaption(txt)).toBe(txt);
+  });
+
+  it('passa por texto curto sem mexer', () => {
+    expect(stripCaption('Texto curto')).toBe('Texto curto');
+    expect(stripCaption('')).toBe('');
   });
 });
 

@@ -64,6 +64,43 @@ function truncate(text: string, max: number): string {
   return (lastSpace > max * 0.6 ? cut.slice(0, lastSpace) : cut).trim() + '…';
 }
 
+// Bug #4: descriptions de RSS BR muitas vezes começam com legenda de foto +
+// crédito coladas ao corpo (ex: "Base alvo dos criminosos PRF Dois homens foram
+// detidos..."). A IA acaba usando esse lixo como início do resumo. Aqui detecta
+// um conjunto de padrões de crédito de foto no PREFIXO da description e remove
+// tudo até o crédito, deixando o corpo limpo. Conservador: só corta se a parte
+// removida é curta E o corpo restante é o dominante (>caption, ≥40 chars).
+const CAPTION_END_PATTERNS: RegExp[] = [
+  // "Arquivo pessoal", "Divulgação", "Reprodução" (com ou sem /outlet)
+  /\s+(?:Arquivo pessoal|Divulgação|Reprodução(?:\/[A-Za-zÀ-ÿ\s]{1,30})?)\s+(?=[A-ZÀ-Ý][a-zà-ÿ])/u,
+  // "Foto: <pessoa/outlet>" ou "Crédito: ..."
+  /\s+(?:Foto|Crédito|Credito|Imagem):\s+[A-Za-zÀ-ÿ\s\/]{2,40}?\s+(?=[A-ZÀ-Ý][a-zà-ÿ])/u,
+  // Siglas institucionais conhecidas (PRF, PMERJ, CBM…)
+  /\s+(?:PRF|PMERJ|PRE|PMSP|PCSP|PMRJ|PCMG|PCBA|PCDF|GCM|PF|CBMERJ|CBM|INMET|CENIPA|SAMU|Defesa Civil)\s+(?=[A-ZÀ-Ý][a-zà-ÿ])/u,
+  // Nome próprio (1-3 palavras) / Outlet — "Kelvin Ramirez/Só Notícias"
+  /\s+[A-ZÀ-Ý][a-zà-ÿ]+(?:\s+[A-ZÀ-Ý][a-zà-ÿ]+){0,2}\/[A-ZÀ-Ý][A-Za-zÀ-ÿ]+(?:\s+[A-ZÀ-Ý][A-Za-zÀ-ÿ]+){0,3}\s+(?=[A-ZÀ-Ý][a-zà-ÿ])/u,
+];
+
+export function stripCaption(text: string): string {
+  if (!text || text.length < 50) return text;
+  for (const re of CAPTION_END_PATTERNS) {
+    const m = text.match(re);
+    if (!m || m.index === undefined) continue;
+    const matchStart = m.index;
+    const matchEnd = matchStart + m[0].length;
+    // Legenda fica no início; se o marcador apareceu depois de 120 chars, é
+    // provável que seja parte do corpo, não uma legenda.
+    if (matchStart > 120) continue;
+    const caption = text.slice(0, matchStart);
+    const body = text.slice(matchEnd).trim();
+    if (caption.length < 5) continue; // pouco antes do marcador: provavelmente corpo
+    if (body.length < 40) continue; // sobrou pouco: marcador no fim, não no início
+    if (caption.length >= body.length) continue; // corpo deve dominar
+    return body;
+  }
+  return text;
+}
+
 function looksLikeImage(url: string | undefined): boolean {
   return !!url && /\.(jpe?g|png|webp|gif|avif)(\?|$)/i.test(url);
 }
@@ -98,7 +135,7 @@ export function toArticle(item: FeedItem, source: Source, fetchedAt = new Date()
   if (!url || !title) return null;
 
   const rawDesc = item.contentSnippet ?? item.summary ?? item.content ?? item.title ?? '';
-  const description = truncate(stripHtml(rawDesc), MAX_DESCRIPTION);
+  const description = truncate(stripCaption(stripHtml(rawDesc)), MAX_DESCRIPTION);
 
   return {
     id: articleId(url),
