@@ -18,17 +18,69 @@ export const INDEX_MIN = 4; // mínimo p/ entrar no índice do Google (senão no
 const CONNECTORS = new Set(['de', 'da', 'do', 'das', 'dos', 'e', 'em', 'no', 'na', 'nos', 'nas', 'a', 'o', 'ao', 'aos']);
 
 // Termos capitalizados comuns demais p/ virarem hub (gerariam página genérica/fina).
+// Bug #7: ampliado significativamente — antes vinha "Acidente", "Motorista",
+// "VÍDEO" como tema; agora filtra esses + dezenas de outros termos genéricos
+// do nicho de desastres/acidentes que apareciam por serem início de frase.
 const GENERIC = new Set([
+  // Estado / governo
   'brasil', 'governo', 'pais', 'presidente', 'ministro', 'ministra', 'ministerio',
   'policia', 'justica', 'congresso', 'camara', 'senado', 'estado', 'cidade',
+  'governador', 'governadora', 'prefeito', 'prefeita', 'autoridades',
+  // Conectores / marcadores discursivos
   'para', 'pela', 'pelo', 'pelos', 'pelas', 'ante', 'entre', 'desde', 'sem', 'sob',
   'apos', 'veja', 'entenda', 'saiba', 'como', 'onde', 'quando', 'porque', 'isso', 'isto',
   'este', 'esta', 'esse', 'essa', 'novo', 'nova', 'novos', 'novas', 'hoje', 'ontem', 'amanha',
   'mais', 'menos', 'agora', 'ainda', 'tudo', 'nada', 'sobre', 'contra', 'durante',
+  // Datas
   'janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho', 'julho', 'agosto',
   'setembro', 'outubro', 'novembro', 'dezembro',
   'segunda', 'terca', 'quarta', 'quinta', 'sexta', 'sabado', 'domingo',
+  // Tipos genéricos de evento (cobertos pelas próprias categorias do site)
+  'acidente', 'acidentes', 'colisao', 'capotamento', 'atropelamento',
+  'engavetamento', 'incidente', 'ocorrencia', 'caso', 'casos',
+  'enchente', 'enchentes', 'alagamento', 'alagamentos',
+  'deslizamento', 'deslizamentos', 'desabamento', 'desmoronamento',
+  'terremoto', 'tsunami', 'tempestade', 'temporal', 'granizo', 'vendaval',
+  'incendio', 'incendios', 'queimada', 'queimadas',
+  'explosao', 'vazamento', 'contaminacao',
+  'naufragio', 'descarrilamento',
+  'desastre', 'desastres', 'tragedia', 'tragedias',
+  // Pessoas genéricas
+  'motorista', 'motoristas', 'condutor', 'condutora',
+  'vitima', 'vitimas', 'morto', 'mortos', 'morta', 'mortas',
+  'ferido', 'feridos', 'ferida', 'feridas',
+  'homem', 'homens', 'mulher', 'mulheres', 'crianca', 'criancas',
+  'idoso', 'idosos', 'jovem', 'jovens', 'pessoa', 'pessoas',
+  'trabalhador', 'trabalhadores', 'familia', 'familias',
+  'morador', 'moradores', 'morre', 'morreu', 'morrer',
+  // Veículos genéricos
+  'veiculo', 'veiculos', 'carro', 'carros', 'caminhao', 'caminhoes',
+  'onibus', 'moto', 'motos', 'motocicleta', 'motocicletas',
+  'aviao', 'avioes', 'helicoptero', 'aeronave', 'navio', 'barco',
+  'trem', 'metro',
+  // Lugares genéricos (não-distintivos — quando aparecem com nome próprio viram multi-word, OK)
+  'rodovia', 'rua', 'avenida', 'estrada', 'bairro', 'regiao',
+  'area', 'local', 'centro', 'periferia', 'capital', 'interior',
+  // Marcadores editoriais (VÍDEO, FOTO, AO VIVO etc → ruído quando picked up como tema)
+  'video', 'videos', 'foto', 'fotos', 'imagem', 'imagens',
+  'audio', 'audios', 'exclusivo', 'urgente', 'ultima',
+  // Serviços de emergência (sem especificador — "PRF" sozinho seria útil; "bombeiros" sozinho é genérico)
+  'bombeiros', 'samu',
 ]);
+
+// Fenômenos meteorológicos e climáticos comuns — geralmente vêm em LOWERCASE
+// no texto ("onda de calor", "el niño"), então o extrator de runs capitalizados
+// não os pega. Detecção por substring direta no título.
+const PHENOMENA_KEYWORDS: { match: string; label: string }[] = [
+  { match: 'onda de calor', label: 'Onda de calor' },
+  { match: 'onda de frio', label: 'Onda de frio' },
+  { match: 'frente fria', label: 'Frente fria' },
+  { match: 'el nino', label: 'El Niño' },
+  { match: 'la nina', label: 'La Niña' },
+  { match: 'ciclone bomba', label: 'Ciclone bomba' },
+  { match: 'rio atmosferico', label: 'Rio atmosférico' },
+  { match: 'super el nino', label: 'Super El Niño' },
+];
 
 export const slugifyTopic = (s: string): string =>
   s
@@ -38,7 +90,9 @@ export const slugifyTopic = (s: string): string =>
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
 
-const isProper = (tok: string): boolean => /^[A-ZÀ-Ý][A-Za-zÀ-ÿ'’.-]+$/.test(tok);
+// isProper aceita dígitos depois da 1ª letra pra capturar siglas tipo BR-251,
+// BR-163, MG-010. Não casa com tokens que começam com dígito ("2026" não vira tema).
+const isProper = (tok: string): boolean => /^[A-ZÀ-Ý][A-Za-zÀ-ÿ0-9'’.-]*$/.test(tok);
 const norm = (tok: string): string => slugifyTopic(tok);
 
 // Extrai frases-nome próprias do título (runs de palavras capitalizadas, permitindo
@@ -80,18 +134,33 @@ function isValidTopic(phrase: string): boolean {
 
 export type Topic = { slug: string; label: string; stories: Story[]; indexable: boolean };
 
+// Detecta fenômenos meteorológicos no título por substring após normalizar
+// (NFD + lowercase). Retorna pares [slug, label] pra incorporar como candidatos.
+function phenomenaIn(title: string): { cand: string; label: string }[] {
+  const norm = title.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  const out: { cand: string; label: string }[] = [];
+  for (const { match, label } of PHENOMENA_KEYWORDS) {
+    if (norm.includes(match)) out.push({ cand: label, label });
+  }
+  return out;
+}
+
 function build(): Topic[] {
   const acc = new Map<string, { label: string; stories: Map<string, Story> }>();
   for (const story of allStories) {
     const seenInStory = new Set<string>();
-    for (const cand of candidatesFrom(story.titulo)) {
+    // Candidatos por extração de runs capitalizados.
+    const candidates = candidatesFrom(story.titulo).map((cand) => ({ cand, label: cand }));
+    // + fenômenos meteorológicos detectados por substring.
+    candidates.push(...phenomenaIn(story.titulo));
+    for (const { cand, label } of candidates) {
       if (!isValidTopic(cand)) continue;
       const key = slugifyTopic(cand);
       if (seenInStory.has(key)) continue;
       seenInStory.add(key);
-      const entry = acc.get(key) ?? { label: cand, stories: new Map<string, Story>() };
+      const entry = acc.get(key) ?? { label, stories: new Map<string, Story>() };
       // rótulo: prefere a forma de superfície mais longa (mais específica)
-      if (cand.length > entry.label.length) entry.label = cand;
+      if (label.length > entry.label.length) entry.label = label;
       entry.stories.set(storySlug(story), story);
       acc.set(key, entry);
     }
