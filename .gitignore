@@ -28,3 +28,6 @@ pnpm-debug.log*
 
 # screenshots soltos da configuração (podem conter Account ID etc.) — não publicar
 /*.png
+
+# Claude Code local config
+.claude/settings.local.json
