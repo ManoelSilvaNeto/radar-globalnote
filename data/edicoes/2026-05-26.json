@@ -1,34 +1,97 @@
 {
   "date": "2026-05-26",
-  "generatedAt": "2026-05-26T04:46:30.102Z",
+  "generatedAt": "2026-05-26T12:52:53.873Z",
   "home": [
     {
-      "clusterId": "87c122e82f700a8f",
-      "slug": "f901416a1133a51e",
-      "titulo": "Incêndio destrói igreja centenária em Flores da Cunha",
-      "resumo": "Um incêndio consumiu a Igreja Matriz, construída em 1912, em Flores da Cunha, RS. O fogo começou no teto, que estava em manutenção, e derrubou o telhado, destruindo quase toda a estrutura interna. Restaram apenas as paredes externas, o altar principal e alguns fragmentos. Equipes de bombeiros atenderam o local, mas não houve feridos.",
-      "porQueImporta": "A perda de um patrimônio histórico de 112 anos afeta a memória e identidade da comunidade local.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "ffe044b7e31e8b88",
+      "slug": "d394b71e39d46532",
+      "titulo": "Trem colide com ônibus escolar na Bélgica",
+      "resumo": "Um trem colidiu com um ônibus escolar em Buggenhout, na região de Flandres, em uma passagem de nível, resultando em quatro mortes. As vítimas fatais foram dois adolescentes com necessidades especiais, o motorista do ônibus e um monitor. O acidente ocorreu a 23 km de Bruxelas.",
+      "porQueImporta": "O incidente destaca riscos de segurança em passagens de nível e a necessidade de medidas preventivas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/26/video-veja-como-ficou-igreja-centenaria-que-foi-destruida-por-incendio-no-rs.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/igreja-centenaria-no-rs-e-destruida-por-grande-incendio"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/trem-atinge-onibus-escolar-com-criancas-na-belgica-e-deixa-pelo-menos-quatro-mortos/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/igreja-centenaria-e-consumida-por-incendio-no-rio-grande-do-sul/"
+          "url": "https://www.cnnbrasil.com.br/internacional/colisao-entre-trem-e-onibus-escolar-na-belgica-deixa-diversos-mortos/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/05/26/colisao-entre-onibus-escolar-e-trem-na-belgica-deixa-varias-vitimas.ghtml"
         }
       ],
-      "updatedAt": "2026-05-26T03:00:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/C5VnPQMTqXXk4LUZA5kwr32qCPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/hAc6zUTGu04ZUwgLwoww/g1-34-.png"
+      "updatedAt": "2026-05-26T11:54:33.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/AFP__20260526__B42K26A__v1__HighRes__BelgiumTransportAccident.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "ad24ccbff5f9ab09",
+      "clusterId": "cac5a7b4d1bb0c74",
+      "slug": "1dfa737b10cd5373",
+      "titulo": "Acidente na BR-251 envolvendo carreta, ônibus e caminhões resulta em mortes",
+      "resumo": "Na BR-251, em Padre Carvalho, um choque entre uma carreta e um caminhão gerou engavetamento que envolveu outro caminhão e um ônibus. O impacto causou a morte de seis pessoas, incluindo um casal idoso e duas crianças de Salvador. Não há registro de vítimas adicionais e danos materiais foram limitados.",
+      "porQueImporta": "O acidente destaca a necessidade de fiscalização e segurança viária em rodovias de grande tráfego.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/26/uma-pessoa-morre-apos-acidente-envolvendo-dois-caminhoes-carreta-e-onibus-na-br-251-em-padre-carvalho.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/seis-baianos-morrem-em-acidente-entre-carreta-e-onibus-na-br-251"
+        }
+      ],
+      "updatedAt": "2026-05-26T12:30:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/IUeo4uLPs4y6x9dfQWf7tZ6Et2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/L/UvktFrR5SNXjr1LYZybQ/caminhao89.jpeg"
+    },
+    {
+      "clusterId": "4d2edd6465d54fb2",
+      "slug": "22172d4a61af5077",
+      "titulo": "Explosão em mina de carvão na China causa 82 mortes e quase 130 feridos",
+      "resumo": "Uma explosão de gás ocorreu na sexta-feira (22) em uma mina de carvão na China, matando 82 trabalhadores e ferindo quase 130. O local tinha 247 empregados em serviço no subsolo no momento do incidente. Câmeras de vigilância registraram a explosão e a rápida propagação de fumaça nos corredores.",
+      "porQueImporta": "O acidente destaca os riscos de segurança nas operações de mineração e a necessidade de medidas preventivas mais rigorosas.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/arsesp-comeca-fiscalizar-obras-apos-explosao-que-deixou-2-mortos-no-jaguare/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/fantastico/noticia/2026/05/25/explosao-em-mina-na-china-o-que-pode-ter-causado-tragedia-que-deixou-82-mortos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-26T12:26:16.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YeWXVGf0tiVNMqVWjdi4xmSmqNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/H/QesqvoS0a58bux7GmhwA/globo-canal-5-20260524-2000-frame-134204.jpeg"
+    },
+    {
+      "clusterId": "dea784753b7f137c",
+      "slug": "49e5fe2fea26180a",
+      "titulo": "Sete homens presos em caverna no Laos após enchente",
+      "resumo": "Um grupo de sete moradores entrou em uma caverna na província de Xaysomboun, no Laos, em busca de ouro. Chuvas fortes causaram uma inundação repentina que bloqueou a saída, deixando-os presos há cinco dias. Operações de resgate foram iniciadas pela equipe tailandesa e por socorristas locais. As autoridades continuam tentando localizar e libertar os desaparecidos.",
+      "porQueImporta": "A situação destaca riscos de atividades de busca por recursos em áreas remotas e a vulnerabilidade a eventos climáticos extremos.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/veja-socorristas-entram-em-caverna-no-laos-em-busca-de-homens-presos/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/05/25/sete-pessoas-estao-presas-em-caverna-no-laos-ha-cinco-dias.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-26T11:58:27.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/6COgMw0QOCg8bZ5mF1PY-kG9tKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/f/rLbFaRTjWgwnax3r9g1A/705320697-1428896125950713-2175952686222692983-n.jpg"
+    },
+    {
+      "clusterId": "06d799e5d2707df7",
       "slug": "ced00ff0538a02ff",
       "titulo": "Terremoto de magnitude 6,9 no norte do Chile é sentido em São Paulo",
       "resumo": "Um terremoto de magnitude 6,9 atingiu o norte do Chile, a cerca de 31 km de Calama, às 18h52 (horário de Brasília). A profundidade foi de 101,3 km. Moradores de São Paulo relataram sentir o tremor em diversos bairros, inclusive em um apartamento no Jaguaré e no Shopping Interlagos. A Defesa Civil e o Corpo de Bombeiros não registraram ocorrências relacionadas ao tremor.",
@@ -37,157 +100,100 @@
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/moradores-de-sao-paulo-sentem-tremor-apos-terremoto-no-chile/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/entenda-por-que-predios-de-sao-paulo-tremeram-apos-terremoto-no-chile/"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/25/moradores-de-sao-paulo-sentem-tremor-apos-terremoto-no-chile.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/terremoto-no-chile-e-sentido-em-sao-paulo-moradores-relatam-tremor/"
         }
       ],
-      "updatedAt": "2026-05-26T01:52:06.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/GettyImages-1032284034.jpg?quality=70&strip=info"
+      "updatedAt": "2026-05-26T11:04:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/NOpCApF_ruFcMCNKU1cQgmYSlWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/7/i4biANTuia6whA4bJ1ew/captura-de-tela-2026-05-25-192931.png"
     },
     {
-      "clusterId": "18f483ef7ff4f131",
-      "slug": "ed50f897a02fead9",
-      "titulo": "Césio-137: militares são promovidos por bravura após quase 4 décadas",
-      "resumo": "Reconhecimento ocorreu depois que os 4 militares entraram com ações requerendo a promoção pela atuação no acidente com o Césio-137",
-      "porQueImporta": "",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/cesio-137-militares-promovidos-por-bravura"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/go/militares-atuantes-no-acidente-com-cesio-137-sao-promovidos-por-bravura/"
-        }
-      ],
-      "updatedAt": "2026-05-26T03:25:38.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/03/emergencia-radioativa_cesio-137_demolicao-do-ferro-velho_creditos-internacional-atomic-energy-agenc.jpg"
-    },
-    {
-      "clusterId": "262c2fd12bf9be4e",
-      "slug": "7eee4e19e317fc1b",
-      "titulo": "Seis pessoas morrem em incêndio em casa na Rússia",
-      "resumo": "Um incêndio atingiu uma residência na região de Omsk, na Sibéria, resultando na morte de seis pessoas, incluindo quatro crianças. A agência de notícias TASS informou que as autoridades locais confirmaram o número de vítimas. O incidente ocorreu a cerca de 2.200 km a leste de Moscou. A ocorrência está em atualização.",
-      "porQueImporta": "O acidente destaca a vulnerabilidade de habitações em regiões remotas e a necessidade de medidas de segurança contra incêndios.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/05/26/pessoas-morrem-em-incendio-na-russia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-26T04:21:32.000Z"
-    },
-    {
-      "clusterId": "8cab6626ff8de0b6",
-      "slug": "589cd8a8a0e946df",
-      "titulo": "Investigação aponta ausência de frenagem em atropelamento que matou filha de diplomatas no Rio",
-      "resumo": "A Polícia Civil concluiu que não havia marcas de frenagem na pista onde a van atropelou Mariana Tanaka Abdul Hak, de 20 anos, em Ipanema, no dia 16. O motorista alegou ter tentado parar o veículo, mas afirmou que a direção travou e o carro saiu da pista. Novas imagens de câmeras de segurança estão sendo analisadas para reconstruir a dinâmica do acidente.",
-      "porQueImporta": "O caso envolve a morte de uma jovem diplomata, gerando atenção sobre segurança viária e responsabilidade dos condutores.",
+      "clusterId": "57c2c3fc721c1635",
+      "slug": "606a7129f8d4240d",
+      "titulo": "Carreta sem freio bate em prédio da Prefeitura de Nortelândia",
+      "resumo": "Uma carreta sem freio colidiu com o edifício da Prefeitura de Nortelândia, em Mato Grosso. O impacto causou danos estruturais, mas não houve feridos. A Polícia Civil de Mato Grosso abriu investigação para averiguar as causas do acidente. O incidente destaca a importância de manutenção adequada de veículos de carga.",
+      "porQueImporta": "O acidente demonstra risco à segurança de edifícios públicos e a necessidade de fiscalização de veículos de transporte.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/26/investigacao-aponta-ausencia-de-frenagem-em-atropelamento-que-matou-filha-de-diplomatas-no-rio.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/carreta-sem-freio-bate-em-predio-da-prefeitura-de-nortelandia-em-mt"
         }
       ],
-      "updatedAt": "2026-05-26T03:01:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/c1movMzR94v1RD80wng7qhSWB9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/1/yNNikmTPu5uziTcoVyfA/19acidente.jpg"
+      "updatedAt": "2026-05-26T12:24:56.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/carreta-sem-freio-bate-contra-predio-da-prefeitura-de-nortelandia.jpg"
     },
     {
-      "clusterId": "38e77d39a5f59e18",
-      "slug": "b8e6d07726098dfd",
-      "titulo": "Dino cobra de governos plano contra queimadas por causa do El Niño",
-      "resumo": "Fenômeno climático já é quase certo para 2026 e pode causar incêndios florestais na região da Amazônia Legal e do Pantanal",
-      "porQueImporta": "",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-justica/dino-cobra-de-governos-plano-contra-queimadas-por-causa-do-el-nino/"
-        }
-      ],
-      "updatedAt": "2026-05-26T02:19:14.000Z"
-    },
-    {
-      "clusterId": "78139237f8fdd498",
-      "slug": "a96f5e4b2287f283",
-      "titulo": "Granizo atinge duas cidades do Rio Grande do Sul",
-      "resumo": "Na segunda-feira (25), granizo atingiu Nova Palma, no Centro do RS, e Sananduva, no Norte, onde o temporal também causou alagamentos e danos a imóveis. Em Nova Palma, o fenômeno durou apenas três minutos, mas deixou os campos cobertos de gelo semelhante a bolas de pingue-pongue. A Defesa Civil relatou que não houve feridos. Em Sananduva, a chuva torrencial provocou alagamentos e prejuízos materiais.",
-      "porQueImporta": "O evento demonstra a intensidade e a rapidez com que fenômenos meteorológicos extremos podem afetar comunidades rurais e urbanas.",
+      "clusterId": "7c9398a9a091a12c",
+      "slug": "c8097f435a3544b8",
+      "titulo": "INMET emite alertas de chuva e tempestade em várias cidades do Brasil",
+      "resumo": "O Instituto Nacional de Meteorologia (INMET) divulgou alertas amarelos de chuva e tempestade para 45 cidades de Alagoas, 12 municípios do interior de Pernambuco e 24 cidades do Sul do Rio e Costa Verde. As previsões indicam chuvas entre 20 e 30 mm por hora, podendo chegar a 50 mm por dia, com baixo risco de alagamentos e pequenos deslizamentos. Os alertas são válidos até 23h59 do dia 26 de maio e podem ser renovados.",
+      "porQueImporta": "Os alertas informam a população sobre condições meteorológicas adversas, permitindo precauções e evitando riscos de inundações e deslizamentos.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/25/chuva-de-granizo-de-3-minutos-atinge-campo-e-deixa-area-coberta-de-gelo-no-rs.ghtml"
+          "url": "https://g1.globo.com/al/alagoas/noticia/2026/05/26/inmet-emite-alerta-e-preve-chuvas-em-45-cidades-de-alagoas-veja-as-cidades.ghtml"
         }
       ],
-      "updatedAt": "2026-05-26T01:51:05.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Q5LlGR3kwHSwuD7cyWqv-ZEqfJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Y/oW9wyHRHmTLtDeV615Bw/g1-2026-05-25t235103.936.png"
+      "updatedAt": "2026-05-26T12:24:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/R9zJCMNxZ2rtleyl0al0TYXKds4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/4/UDf2zXRo2V9ZUvDBzLeA/rua-fica-alagada-na-grota-do-neno-apos-fortes-chuvas-em-maceio.jpg"
     },
     {
-      "clusterId": "b616f07ee1a3bbf3",
-      "slug": "9f1c7216ebed601e",
-      "titulo": "MPF pede revisão de alterações no Comitê de Riscos e Desastres de Belém",
-      "resumo": "O Ministério Público Federal recomendou que a Prefeitura de Belém revise, em até 30 dias, as mudanças na composição do Comitê Gestor de Riscos e Desastres (CGRD). A solicitação segue a aprovação, em 20 de maio, de um projeto de lei que reestruturou o colegiado, revogando a Lei nº 10.087/2024. O MPF destaca a necessidade de reincluir instituições de pesquisa científica, como a Universidade Federal do Pará, no comitê.",
-      "porQueImporta": "Garantir a participação de entidades científicas fortalece a capacidade de gestão de riscos e desastres na cidade.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/para/noticia/2026/05/25/mpf-recomenda-que-prefeitura-de-belem-revise-mudancas-em-comite-de-riscos-e-desastres.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-26T01:00:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/I-GXILTkEOAVkQDT4Otn4vGDNZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/O6KtCTS5q5A5eKBZyC0g/curio.jpg"
-    },
-    {
-      "clusterId": "54b1b64a283383d9",
-      "slug": "6f94789dbb8e7da5",
-      "titulo": "Vídeo: motorista atropela motociclista em acidente na zona Norte de SP",
-      "resumo": "Condutor do carro foi submetido a exame de embriaguez; caso foi registrado como lesão corporal culposa na direção de veículo automotor no 13º DP (Casa Verde)",
-      "porQueImporta": "",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "3b16a4324eb588b2",
+      "slug": "01ab9cf60a7e2de7",
+      "titulo": "Carro cai de ponte na China e é arrastado por fortes enchentes",
+      "resumo": "Um veículo caiu da ponte na China quando não conseguiu dar ré devido a falha mecânica. O carro foi arrastado pelas fortes enchentes que atingiram a região. A queda ocorreu durante condições de chuva intensa que provocaram inundações. A situação foi relatada pela mídia chinesa.",
+      "porQueImporta": "O incidente destaca riscos de falhas mecânicas em condições de enchente, afetando a segurança viária.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-motorista-atropela-motociclista-em-acidente-na-zona-norte-de-sp/"
+          "url": "https://www.cnnbrasil.com.br/internacional/video-carro-cai-de-ponte-na-china-e-e-arrastado-por-fortes-enchentes/"
         }
       ],
-      "updatedAt": "2026-05-26T00:52:27.000Z"
+      "updatedAt": "2026-05-26T12:23:05.000Z"
     },
     {
-      "clusterId": "7b00c469723de4d9",
-      "slug": "3fe7264c3cc56a12",
-      "titulo": "'Ela deu a vida por nós', diz filho de casal que morreu em acidente de ônibus no Norte de MG",
-      "resumo": "Polícia Civil começa a identificar vítimas do acidente na BR-251, no Norte de Minas O filho do casal que morreu após o ônibus em que viajavam bater de frente com uma carreta e pegar fogo na madrugada de domingo (24), na BR-251, em Santa Cruz de Salinas, no Norte de Minas, relembrou com emoção os últimos momentos ao lado dos pais. Rogério de Jesus Dias definiu a mãe, Marinalva de Jesus Dias, de 62 anos, como alguém que “daria a vida” pela família. “Ela fazia o que não podia pra dar pra nós as coisas e nunca esqueceu de nós, criou nós, ela dava a vida por nós\", comentou Rogério. O casal Leôncio…",
+      "clusterId": "c3018b8e59b657da",
+      "slug": "b91d0542d759ea7c",
+      "titulo": "Acidente na RJ-106 gera congestionamento de motos em Cabo Frio",
+      "resumo": "Um acidente entre um carro e um caminhão na RJ-106, km 123, em Cabo Frio, deixou uma mulher ferida e bloqueou os dois sentidos da rodovia. O choque parcial do caminhão causou grande congestionamento de motocicletas e veículos. A interdição provocou reflexos no trânsito local. A polícia registrou o acidente por volta das 14h33.",
+      "porQueImporta": "O incidente interrompeu o tráfego na principal via de acesso à Região dos Lagos, afetando a mobilidade da região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/05/26/video-mostra-grande-congestionamento-de-motos-apos-acidente-na-rj-106-em-cabo-frio.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-26T12:22:10.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/AzZupX4Z5C8yq9LG6PdqdtoXnQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/0/xxA9PLRhu9ZbxmJoA1mQ/congestionamento-de-motos.jpg"
+    },
+    {
+      "clusterId": "ad1c3c33f7233a68",
+      "slug": "066ed5b8fa427d7f",
+      "titulo": "Câmera flagra ônibus batendo em sobrado em SP e pessoas correndo para prestar socorro; oito ficaram feridos",
+      "resumo": "Câmera registra colisão de ônibus contra muro que deixou 8 feridos na Zona Oeste de SP Uma câmera de segurança na Rua Denis Chaudet, na Zona Oeste de São Paulo, registrou o momento em que um ônibus municipal colidiu e destruiu a fachada de um sobrado na região do Jardim Jaqueline, na manhã desta terça-feira (26) (veja vídeo acima). Na gravação, é possível ver que algumas pessoas e veículos passavam pela via quando o coletivo se chocou contra a residência e provocou um estrondo. \"Eita p... C... Vamos ver se tem alguém pra ajudar, machucou!\", gritou um homem que testemunhou o acidente.…",
       "porQueImporta": "",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/05/25/ela-deu-a-vida-por-nos-comenta-filho-de-casal-que-morreu-em-acidente-de-onibus-no-norte-de-mg.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/26/camera-flagra-onibus-batendo-em-sobrado-em-sp-e-pessoas-correndo-para-prestar-socorro-oito-ficaram-feridos.ghtml"
         }
       ],
-      "updatedAt": "2026-05-25T23:54:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/egNpQTe0YiGTaITL758oGf4wjjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/L/VuMwwCTwySWlAzU2420Q/design-sem-nome-70-.jpg"
+      "updatedAt": "2026-05-26T12:16:24.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/C8ASzL0eHnWVX915dsRpsVF2LdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/q/408rPmRGS8Ay82UGm2rA/whatsapp-image-2026-05-26-at-07.50.17.jpeg"
     }
   ],
   "categorias": [
@@ -196,7 +202,7 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "ad24ccbff5f9ab09",
+          "clusterId": "06d799e5d2707df7",
           "slug": "ced00ff0538a02ff",
           "titulo": "Terremoto de magnitude 6,9 no norte do Chile é sentido em São Paulo",
           "resumo": "Um terremoto de magnitude 6,9 atingiu o norte do Chile, a cerca de 31 km de Calama, às 18h52 (horário de Brasília). A profundidade foi de 101,3 km. Moradores de São Paulo relataram sentir o tremor em diversos bairros, inclusive em um apartamento no Jaguaré e no Shopping Interlagos. A Defesa Civil e o Corpo de Bombeiros não registraram ocorrências relacionadas ao tremor.",
@@ -205,175 +211,251 @@
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/moradores-de-sao-paulo-sentem-tremor-apos-terremoto-no-chile/"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/entenda-por-que-predios-de-sao-paulo-tremeram-apos-terremoto-no-chile/"
             },
             {
               "name": "G1",
               "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/25/moradores-de-sao-paulo-sentem-tremor-apos-terremoto-no-chile.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/terremoto-no-chile-e-sentido-em-sao-paulo-moradores-relatam-tremor/"
             }
           ],
-          "updatedAt": "2026-05-26T01:52:06.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/GettyImages-1032284034.jpg?quality=70&strip=info"
+          "updatedAt": "2026-05-26T11:04:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/NOpCApF_ruFcMCNKU1cQgmYSlWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/7/i4biANTuia6whA4bJ1ew/captura-de-tela-2026-05-25-192931.png"
         },
         {
-          "clusterId": "18f483ef7ff4f131",
-          "slug": "ed50f897a02fead9",
-          "titulo": "Césio-137: militares são promovidos por bravura após quase 4 décadas",
-          "resumo": "Reconhecimento ocorreu depois que os 4 militares entraram com ações requerendo a promoção pela atuação no acidente com o Césio-137",
+          "clusterId": "ad1c3c33f7233a68",
+          "slug": "066ed5b8fa427d7f",
+          "titulo": "Câmera flagra ônibus batendo em sobrado em SP e pessoas correndo para prestar socorro; oito ficaram feridos",
+          "resumo": "Câmera registra colisão de ônibus contra muro que deixou 8 feridos na Zona Oeste de SP Uma câmera de segurança na Rua Denis Chaudet, na Zona Oeste de São Paulo, registrou o momento em que um ônibus municipal colidiu e destruiu a fachada de um sobrado na região do Jardim Jaqueline, na manhã desta terça-feira (26) (veja vídeo acima). Na gravação, é possível ver que algumas pessoas e veículos passavam pela via quando o coletivo se chocou contra a residência e provocou um estrondo. \"Eita p... C... Vamos ver se tem alguém pra ajudar, machucou!\", gritou um homem que testemunhou o acidente.…",
+          "porQueImporta": "",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/26/camera-flagra-onibus-batendo-em-sobrado-em-sp-e-pessoas-correndo-para-prestar-socorro-oito-ficaram-feridos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T12:16:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/C8ASzL0eHnWVX915dsRpsVF2LdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/q/408rPmRGS8Ay82UGm2rA/whatsapp-image-2026-05-26-at-07.50.17.jpeg"
+        },
+        {
+          "clusterId": "022df4dc67e24b2c",
+          "slug": "fb384d9b3dc85305",
+          "titulo": "Filho de ex-BBBs Paula e Breno fica ferido em acidente doméstico",
+          "resumo": "Theo, filho de Paula Amorim e Breno Simões, ficou ferido após o box de vidro explodir e precisou de atendimento médico",
           "porQueImporta": "",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/cesio-137-militares-promovidos-por-bravura"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/go/militares-atuantes-no-acidente-com-cesio-137-sao-promovidos-por-bravura/"
+              "url": "https://www.metropoles.com/celebridades/filho-de-ex-bbbs-paula-e-breno-sofre-acidente-domestico-e-fica-ferido"
             }
           ],
-          "updatedAt": "2026-05-26T03:25:38.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/03/emergencia-radioativa_cesio-137_demolicao-do-ferro-velho_creditos-internacional-atomic-energy-agenc.jpg"
+          "updatedAt": "2026-05-26T12:14:40.000Z",
+          "imageUrl": "https://images.metroimg.com/2024/03/11183906/Paula-Amorim-Breno-Simoes-e-Theo.jpg"
         },
         {
-          "clusterId": "38e77d39a5f59e18",
-          "slug": "b8e6d07726098dfd",
-          "titulo": "Dino cobra de governos plano contra queimadas por causa do El Niño",
-          "resumo": "Fenômeno climático já é quase certo para 2026 e pode causar incêndios florestais na região da Amazônia Legal e do Pantanal",
-          "porQueImporta": "",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-justica/dino-cobra-de-governos-plano-contra-queimadas-por-causa-do-el-nino/"
-            }
-          ],
-          "updatedAt": "2026-05-26T02:19:14.000Z"
-        },
-        {
-          "clusterId": "b616f07ee1a3bbf3",
-          "slug": "9f1c7216ebed601e",
-          "titulo": "MPF pede revisão de alterações no Comitê de Riscos e Desastres de Belém",
-          "resumo": "O Ministério Público Federal recomendou que a Prefeitura de Belém revise, em até 30 dias, as mudanças na composição do Comitê Gestor de Riscos e Desastres (CGRD). A solicitação segue a aprovação, em 20 de maio, de um projeto de lei que reestruturou o colegiado, revogando a Lei nº 10.087/2024. O MPF destaca a necessidade de reincluir instituições de pesquisa científica, como a Universidade Federal do Pará, no comitê.",
-          "porQueImporta": "Garantir a participação de entidades científicas fortalece a capacidade de gestão de riscos e desastres na cidade.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/05/25/mpf-recomenda-que-prefeitura-de-belem-revise-mudancas-em-comite-de-riscos-e-desastres.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-26T01:00:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/I-GXILTkEOAVkQDT4Otn4vGDNZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/O6KtCTS5q5A5eKBZyC0g/curio.jpg"
-        },
-        {
-          "clusterId": "54b1b64a283383d9",
-          "slug": "6f94789dbb8e7da5",
-          "titulo": "Vídeo: motorista atropela motociclista em acidente na zona Norte de SP",
-          "resumo": "Condutor do carro foi submetido a exame de embriaguez; caso foi registrado como lesão corporal culposa na direção de veículo automotor no 13º DP (Casa Verde)",
+          "clusterId": "878d60c391e7d7a3",
+          "slug": "8336f284118f3172",
+          "titulo": "João Fonseca x Dino Prizmic: horário e onde assistir a Roland Garros",
+          "resumo": "Brasileiro de 19 anos enfrenta adversário croata na segunda rodada do Aberto da França",
           "porQueImporta": "",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-motorista-atropela-motociclista-em-acidente-na-zona-norte-de-sp/"
+              "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-x-dino-prizmic-horario-e-onde-assistir-a-roland-garros/"
             }
           ],
-          "updatedAt": "2026-05-26T00:52:27.000Z"
+          "updatedAt": "2026-05-26T12:13:37.000Z"
         },
         {
-          "clusterId": "7b00c469723de4d9",
-          "slug": "3fe7264c3cc56a12",
-          "titulo": "'Ela deu a vida por nós', diz filho de casal que morreu em acidente de ônibus no Norte de MG",
-          "resumo": "Polícia Civil começa a identificar vítimas do acidente na BR-251, no Norte de Minas O filho do casal que morreu após o ônibus em que viajavam bater de frente com uma carreta e pegar fogo na madrugada de domingo (24), na BR-251, em Santa Cruz de Salinas, no Norte de Minas, relembrou com emoção os últimos momentos ao lado dos pais. Rogério de Jesus Dias definiu a mãe, Marinalva de Jesus Dias, de 62 anos, como alguém que “daria a vida” pela família. “Ela fazia o que não podia pra dar pra nós as coisas e nunca esqueceu de nós, criou nós, ela dava a vida por nós\", comentou Rogério. O casal Leôncio…",
+          "clusterId": "f886ce0084287c06",
+          "slug": "1341c861c31f5679",
+          "titulo": "Surfista brasileiro passa por cirurgia após ser atingido no coração por peixe-espada na Costa Rica",
+          "resumo": "Surfista Fabiano Duarte Costa foi atingido por um peixe-espada no coração Reprodução/Instagram O surfista Fabiano Duarte Costa, de 42 anos, foi atingido no coração por um peixe-espada durante uma sessão de surfe na Costa Rica. O acidente aconteceu na quinta-feira (21), e familiares e amigos têm compartilhado relatos sobre o caso nas redes sociais nos últimos dias. \"O Fabiano é um guerreiro, já passou pela primeira cirurgia e está lutando bravamente na UTI\", disse seu primo Pedro Duarte em uma publicação nas redes sociais nesta segunda-feira (26). ✅ Siga o canal de notícias internacionais do…",
           "porQueImporta": "",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/05/25/ela-deu-a-vida-por-nos-comenta-filho-de-casal-que-morreu-em-acidente-de-onibus-no-norte-de-mg.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/26/surfista-brasileiro-e-atingido-por-peixe-espada-no-coracao-na-costa-rica.ghtml"
             }
           ],
-          "updatedAt": "2026-05-25T23:54:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/egNpQTe0YiGTaITL758oGf4wjjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/L/VuMwwCTwySWlAzU2420Q/design-sem-nome-70-.jpg"
+          "updatedAt": "2026-05-26T11:59:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/R3qVXYmD8mqAVZwN9hwn3EE5hU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/N/nSpfadSHa9y3dlW7Kglw/101399465-1088772681496976-5285405454745206784-n.jpg"
         },
         {
-          "clusterId": "95c200d15adaed0e",
-          "slug": "33bf1210d987a352",
-          "titulo": "Cadela morre após ser atropelada na calçada de casa em Imperatriz; VÍDEO",
-          "resumo": "Polícia apura morte de cadela atropelada na calçada de casa em Imperatriz Uma cadela morreu após ser atropelada na calçada de uma casa, nesse domingo (24), no bairro Santa Rita, em Imperatriz. Os tutores registraram boletim de ocorrência e afirmam que o atropelamento foi intencional. Imagens de câmeras de segurança mostram o momento em que um veículo se aproxima dos dois cachorros, que estavam na calçada. Um dos animais conseguiu escapar, mas Sky foi atingida e morreu no local. Os tutores registraram um boletim de ocorrência nesta segunda-feira (25). Eles disseram que não conhecem quem…",
+          "clusterId": "4e4f4875d6463ac3",
+          "slug": "431a783e29c7d4e4",
+          "titulo": "Ciclone extratropical e frente fria provocam temporais no Sul do país",
+          "resumo": "Sistema se forma na costa da região nesta terça (26), provoca temporais isolados e marca mudança no padrão do tempo em várias áreas do país",
+          "porQueImporta": "",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/ciclone-extratropical-e-frente-fria-provocam-temporais-no-sul-do-pais/"
+            }
+          ],
+          "updatedAt": "2026-05-26T11:53:39.000Z"
+        },
+        {
+          "clusterId": "5dc193a1e26cf134",
+          "slug": "932faf63c45b1d4b",
+          "titulo": "Depois de nova operação da PF, cúpula do PL avalia que candidatura de Cláudio Castro ao Senado naufragou de vez",
+          "resumo": "Cláudio Castro é alvo de operação da PF contra aportes de R$3 bilhões em fundos do Banco M Depois da nova fase da \"Operação Compliance Zero\", tendo como alvo o ex-governador do Rio, a cúpula do PL avalia que a candidatura de Cláudio Castro ao Senado naufragou de vez. Oficialmente, o partido ainda não vai dar como morta a candidatura, mas nos bastidores o entendimento é que ele mesmo precisa entender que não há mais chances de ele sair candidato ao Senado. Na operação desta terça-feira (26) da PF, foi revelado que o governo do Rio, por meio de seus órgãos como o RioPrevidência, investiu R$ 3…",
           "porQueImporta": "",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/05/25/cadela-morre-apos-ser-atropelada-na-calcada-de-casa-em-imperatriz-video.ghtml"
+              "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/05/26/depois-de-nova-operacao-da-pf-cupula-do-pl-avalia-que-candidatura-de-claudio-castro-ao-senado-naufragou-de-vez.ghtml"
             }
           ],
-          "updatedAt": "2026-05-25T23:50:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bsQu_nAjSmXC2Wsb9A1cXJuWMec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/E/EFB7XFTAS2mBEc3D0H8A/montagens-1920-x-1080-px-13-.png"
+          "updatedAt": "2026-05-26T11:49:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ztvNSZUFZrnoby9jpgBlHMnaZkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/9/bKN0dGSOanwblPKszvfg/operacao-pf-cc.jpeg"
         },
         {
-          "clusterId": "2a99e960222d68a8",
-          "slug": "c13b23f8c623b290",
-          "titulo": "Queda de árvore interdita trecho de pista ao lado do Dique do Tororó e deixa feridos em Salvador",
-          "resumo": "Árvore cai na Avenida Vasco da Gama, na altura do Dique do Tororó A queda de uma árvore provocou a interdição de um trecho da Avenida Vasco da Gama e deixou três pessoas feridas, na noite desta segunda-feira (25), em Salvador. Conforme apurou a TV Bahia com a Superintendência de Trânsito (Transalvador), o acidente aconteceu na altura de uma rede de fast food, ao lado do Dique do Tororó, no sentido Avenida Bonocô. Os feridos estavam em um carro e uma motocicleta que passavam pelo local no momento da queda. Eles foram socorridos por bombeiros militares e encaminhados para o Hospital Geral do…",
+          "clusterId": "99243b69ad10c32a",
+          "slug": "800d49f560abf326",
+          "titulo": "VÍDEO: Caminhão boiadeiro pega fogo na MA-008, entre Paulo Ramos e Marajá do Sena",
+          "resumo": "Caminhão boiadeiro pega fogo na MA-008, entre Paulo Ramos e Marajá do Sena Um caminhão boiadeiro pegou fogo enquanto subia uma ladeira na rodovia MA-008, no trecho entre os municípios de Paulo Ramos e Marajá do Sena. De acordo com os registros, o caminhão estava carregado com gado no momento do incidente (Veja o vídeo acima). Imagens gravadas por motoristas que passavam pela estrada mostram o veículo tomado por fumaça no meio da rodovia. Segundo a Sinfra, o incêndio teria sido provocado por uma falha elétrica no caminhão, iniciada durante a subida da ladeira. 📲 Clique aqui e se inscreva no…",
           "porQueImporta": "",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/05/25/queda-arvore-em-salvador.ghtml"
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/05/26/video-caminhao-boiadeiro-pega-fogo-na-ma-008-entre-paulo-ramos-e-maraja-do-sena.ghtml"
             }
           ],
-          "updatedAt": "2026-05-25T23:43:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3kQb9fcVyvTLbcmB6v42zu4za5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/d/iCF2Z6TJA5leviAZBJkA/whatsapp-image-2026-05-25-at-21.44.39.jpg"
+          "updatedAt": "2026-05-26T11:36:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XZBdpoVYWQ_Vc4fsWIx94uY8WvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/a/9s4OxfQRWkIY9ZIsiuZg/montagens-1920-x-1080-px-2026-05-26t083431.838.jpg"
         },
         {
-          "clusterId": "f26b382cf1f36ec2",
-          "slug": "d62bbc6d813c4f29",
-          "titulo": "Homem pede carona, furta caminhonete e capota veículo durante fuga no Piauí, diz polícia",
-          "resumo": "Homem pede carona, furta caminhonete e capota veículo durante fuga no Piauí, diz polícia Um homem foi preso suspeito de furtar uma caminhonete após pedir carona ao dono do veículo e provocar um acidente no Sul do Piauí. O caso aconteceu no domingo (24), na BR-235, próximo ao município de Santa Filomena. Segundo a Polícia Militar, o homem viajava com o proprietário da caminhonete, depois de pedir carona na estrada. Quando o motorista parou às margens da rodovia para pagar um conserto, o suspeito aproveitou a situação para ocupar a direção e fugir. ✅ Siga o canal do g1 Piauí no WhatsApp Após…",
+          "clusterId": "45f0ab7cf226f86b",
+          "slug": "0e99782bb256df69",
+          "titulo": "Duas pessoas são atropeladas na Rodovia Raposo Tavares em Salto Grande; uma delas morreu",
+          "resumo": "Atropelamento de ciclistas deixa um morto e outro ferido na Rodovia Raposo Tavares Uma pessoa morreu e outra ficou gravemente ferida após serem atropeladas no km 394 da Rodovia Raposo Tavares (SP-270), na madrugada desta terça-feira (26), em Salto Grande (SP). De acordo com a Agência de Transporte do Estado de São Paulo (Artesp), um operador da concessionária que administra a rodovia trafegava no sentido leste quando avistou uma bicicleta e duas pessoas caídas no acostamento. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp Uma pessoa morreu e outra ficou gravemente ferida após serem…",
           "porQueImporta": "",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/05/25/homem-pede-carona-furta-caminhonete-e-capota-veiculo.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/05/26/duas-pessoas-sao-atropeladas-na-rodovia-raposo-tavares-em-salto-grande-uma-delas-morreu.ghtml"
             }
           ],
-          "updatedAt": "2026-05-25T23:19:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Jc4oKrngKhcKRov8Y8v4X-ueIEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/D/hRAArtS6GacAAYqby1Kw/edicao-imagens-g1-20-.jpg"
+          "updatedAt": "2026-05-26T11:30:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VC22vwyDNxrFeTDYQ7yZSBpUxz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/U/rk6kxfQTSUDBAZGaVndw/artesp.jpg"
         },
         {
-          "clusterId": "fc54450e74b58fca",
-          "slug": "9a7743a4a5a335b7",
-          "titulo": "Polícia pede internação de adolescentes suspeitos de ataques com fogos de artifício em MG",
-          "resumo": "Polícia identifica suspeito de disparar fogos de artifício em atletas na Pampulha A Polícia Civil concluiu a investigação sobre os ataques com fogos de artifício contra pessoas em Belo Horizonte e Contagem, na Grande BH. Dois adolescentes, de 15 anos, admitiram os disparos e, por serem menores de idade, deverão responder por ato infracional análogo ao crime de explosão. A delegada responsável pelo caso também solicitou a internação dos jovens no sistema socioeducativo. O pedido ainda será analisado pela Justiça. ✅ Clique aqui para seguir o canal do g1 Minas no WhatsApp De acordo com a Polícia…",
+          "clusterId": "8cc3cb97b71c3d7e",
+          "slug": "628f3c2b2af400c1",
+          "titulo": "De música de Zé Felipe para Virginia a bolo de mais de 3 metros: veja detalhes da festa de luxo de Maria Alice",
+          "resumo": "Veja detalhes da festa de luxo de Maria Alice Um momento romântico entre Virginia Fonseca e Zé Felipe e um bolo gigante de mais de 3 metros, inspirado na Minnie, marcaram a celebração de 5 anos de Maria Alice, primogênita do ex-casal, nesta segunda-feira (25). A megafesta luxuosa aconteceu na Casa VF Eventos, em Goiânia, e reuniu familiares e amigos em uma estrutura que incluiu decoração temática inspirada na Disney e um espetáculo com queima de fogos que iluminou o céu da capital. ✅ Clique e siga o canal do g1 GO no WhatsApp Nas redes sociais, Zé Felipe compartilhou um vídeo em que aparece…",
           "porQueImporta": "",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/05/25/policia-pede-internacao-de-adolescentes-suspeitos-de-ataques-com-fogos-de-artificio-em-mg.ghtml"
+              "url": "https://g1.globo.com/go/goias/noticia/2026/05/26/de-musica-de-ze-felipe-para-virginia-a-bolo-de-mais-de-3-metros-veja-detalhes-da-festa-de-luxo-de-maria-alice.ghtml"
             }
           ],
-          "updatedAt": "2026-05-25T22:54:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rs4hdLQfHx_zBESFKspZLcnO4Gc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/t/MCkt1yRtA6wVpZmoNXcA/ezgif-1b4c49001695afb9.gif"
+          "updatedAt": "2026-05-26T11:20:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yJCHpE0unCz_T78-vxuxlWp1O4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/r/S5jrEPRIqOZ2r90eDQCw/whatsapp-image-2026-05-26-at-08.24.11.jpeg"
+        },
+        {
+          "clusterId": "8841d350bb7c513b",
+          "slug": "a7fcaac65745abd3",
+          "titulo": "Motociclista atropela pedestre e trânsito fica complicado na avenida Beira-Mar, em Vitória",
+          "resumo": "Homem foi atropelado por uma moto e socorrido pelo Samu em Vitória, Espírito Santo Ari Melo/TV Gazeta Um pedestre foi atropelado por uma motocicleta na Avenida Marechal Mascarenhas de Moraes, conhecida como Avenida Beira-Mar, no bairro Jesus de Nazareth, em Vitória, na manhã desta terça-feira (26). O acidente aconteceu às 7h e provocou aumento do trânsito na região. Às 8h, aplicativos de navegação mostravam congestionamento de pelo menos 1 km ao longo da via. 📲 Clique aqui para seguir o canal do g1 ES no WhatsApp A vítima foi socorrida pelo Serviço Móvel de Atendimento de Urgência (Samu/192)…",
+          "porQueImporta": "",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/05/26/motociclista-atropela-pedestre-e-transito-fica-complicado-na-avenida-beira-mar-em-vitoria.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T11:18:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rjGr2oS44D4NA4W55Ecdh5I3bLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/P/r6gAz1Q3m7nToQvm0aNQ/thumb-fotos-8-.jpg"
+        },
+        {
+          "clusterId": "5bcadc7580abb704",
+          "slug": "8484e257a1cd30f4",
+          "titulo": "Homem mata companheira a facadas e morre após bater carro de frente com caminhão na BR-116",
+          "resumo": "Homem matou a esposa e morreu após bater em um caminhão na BR-116 Redes sociais Uma mulher foi assassinada com golpes de faca pelo companheiro dentro de casa, em Medina, no Vale do Jequitinhonha, nesta segunda-feira (25). Após o crime, o suspeito morreu em um acidente de trânsito na BR-116, e a suspeita é de que ele tenha cometido suicídio. Uma equipe da Polícia Militar foi até a residência do casal após receber informações de que havia ocorrido um feminicídio. Ao chegar ao local, os militares encontraram a vítima ferida na área interna da casa. Uma equipe do Samu foi acionada e constatou o…",
+          "porQueImporta": "",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/26/homem-mata-companheira-a-facadas-e-morre-apos-bater-carro-de-frente-com-caminhao-na-br-116.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T11:17:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fLvMTTJLipPQO3whVg49U84D-4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/GWqmgeRpmRPf3DZGw2jw/carro8-1-.jpeg"
+        },
+        {
+          "clusterId": "d2db6dc316f763be",
+          "slug": "5fe010a79d887c1a",
+          "titulo": "Moto aquática atinge banhistas e deixa dois feridos no rio Corda, no MA; condutor é preso",
+          "resumo": "Moto aquática atinge banhistas e deixa dois feridos em rio no Maranhão Duas pessoas ficaram feridas após serem atingidas por uma moto aquática no rio Corda, em Barra do Corda, no sul do Maranhão, na tarde de domingo (24). O condutor do veículo foi preso após o acidente. Vídeos gravados por banhistas mostram o momento em que duas motos aquáticas se aproximam (veja acima). Nas imagens, é possível ver um grupo de pessoas no rio quando o piloto de uma delas atinge os banhistas. 📲 Clique aqui e se inscreva no canal do g1 Maranhão no WhatsApp De acordo com a Polícia Militar do Maranhão (PMMA), a…",
+          "porQueImporta": "",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/regiao-sul/noticia/2026/05/26/moto-aquatica-atinge-banhistas-e-deixa-dois-feridos-no-rio-corda-no-ma-condutor-e-preso.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T11:06:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JF3RDQIygw4dYthSC_KS9cloQCI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/a/DD4WjGReOH2GB56m9bLg/montagens-1920-x-1080-px-11-.jpg"
+        },
+        {
+          "clusterId": "9045e872c22fc73f",
+          "slug": "05a5fac1378f4c0b",
+          "titulo": "Depois de tempestade com gelo do tamanho de bolas de pingue-pongue, RS ainda tem risco de queda de granizo",
+          "resumo": "Chuva de granizo de 3 minutos deixa campo 'esbranquiçado' no RS Queda de granizo atingiu cidades gaúchas na segunda-feira (25). O fenômeno foi registrado em Nova Palma, no Centro do estado, e em Sananduva, no Norte, onde um temporal provocou alagamentos e danos a imóveis. 📲 Acesse o canal do g1 RS no WhatsApp Para esta terça-feira (26), o Instituto Nacional de Meteorologia (Inmet) emitiu um alerta amarelo, que indica perigo potencial para chuva com acumulados de até 50 mm, ventos de até 60 km/h e queda de granizo. A Climatempo Meteorologia explica que a instabilidade é consequência de uma…",
+          "porQueImporta": "",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/26/depois-de-tempestade-com-gelo-do-tamanho-de-bolas-de-pingue-pongue-rs-ainda-tem-risco-de-queda-de-granizo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T11:00:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/r4f-bKw9P0InQhfRes-YysM8Ta8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/fulIp5S3KmHAXB1cZsXA/g1-1-.jpg"
+        },
+        {
+          "clusterId": "bbfcd08d9aba7bd2",
+          "slug": "99454547066bcd92",
+          "titulo": "Duas pessoas morreram e quatro ficaram feridas em desabamento de viaduto na capital da Coreia do Sul",
+          "resumo": "Um trecho de um viaduto em demolição em Seul, capital da Coreia do Sul, desabou nesta terça-feira (26). Duas pessoas morreram e outras quatro ficaram feridas. Imagens de televisão mostraram equipes de emergência realizando operações de busca e resgate enquanto um longo segmento da estrutura permanecia colapsado sobre a rua abaixo, próximo a uma passagem ferroviária no centro de Seul. Trabalhadores haviam detectado sinais de instabilidade na estrutura durante a noite e suspenderam a demolição na manhã de terça-feira para uma inspeção de segurança, disse um funcionário da prefeitura de Seul. O…",
+          "porQueImporta": "",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/26/mortes-feridos-desabamento-viaduto-seul-coreia-do-sul.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T08:06:16.000Z"
         },
         {
           "clusterId": "cf06264d75bc3ff6",
@@ -391,23 +473,6 @@
           ],
           "updatedAt": "2026-05-25T14:09:32.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/Wyk_1yRGQfLAQmFHLfR9vQGSrwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/X/pugjcXTUK64cpt1azMEA/parapente.gif"
-        },
-        {
-          "clusterId": "7a12813b5bcfce1d",
-          "slug": "49e5fe2fea26180a",
-          "titulo": "Sete pessoas estão presas em caverna no Laos há cinco dias após enchente; veja fotos das operações de resgate",
-          "resumo": "Representante da equipe de resgate da Tailândia na caverno no Laos onde sete pessoas estão presas Reprodução/Thailand Rescue Diver Sete pessoas estão presas há cinco dias em uma caverna no Laos, país no Sudeste Asiático, após uma enchente bloquear a saída do local. O grupo entrou na caverna na quarta-feira (20), supostamente para “procurar ouro”, mas fortes chuvas provocaram uma inundação repentina, segundo a imprensa local. A caverna fica em uma área remota da cidade de Long Gian, na província de Xaysomboun, e se estende profundamente sob a terra. Autoridades acreditam que os desaparecidos…",
-          "porQueImporta": "",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/25/sete-pessoas-estao-presas-em-caverna-no-laos-ha-cinco-dias.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-25T13:18:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6COgMw0QOCg8bZ5mF1PY-kG9tKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/f/rLbFaRTjWgwnax3r9g1A/705320697-1428896125950713-2175952686222692983-n.jpg"
         },
         {
           "clusterId": "77b212dc4436d389",
@@ -442,23 +507,185 @@
           ],
           "updatedAt": "2026-05-24T23:45:48.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/VpnNkHU7cQXk659SiZAh62zaf1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/S/o/AmbnexThWOfZFvn4GIFQ/000-1j14zm-philippe-lopez-afp.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "ffe044b7e31e8b88",
+          "slug": "d394b71e39d46532",
+          "titulo": "Trem colide com ônibus escolar na Bélgica",
+          "resumo": "Um trem colidiu com um ônibus escolar em Buggenhout, na região de Flandres, em uma passagem de nível, resultando em quatro mortes. As vítimas fatais foram dois adolescentes com necessidades especiais, o motorista do ônibus e um monitor. O acidente ocorreu a 23 km de Bruxelas.",
+          "porQueImporta": "O incidente destaca riscos de segurança em passagens de nível e a necessidade de medidas preventivas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/mundo/trem-atinge-onibus-escolar-com-criancas-na-belgica-e-deixa-pelo-menos-quatro-mortos/"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/colisao-entre-trem-e-onibus-escolar-na-belgica-deixa-diversos-mortos/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/26/colisao-entre-onibus-escolar-e-trem-na-belgica-deixa-varias-vitimas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T11:54:33.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/AFP__20260526__B42K26A__v1__HighRes__BelgiumTransportAccident.jpg?quality=70&strip=info"
         },
         {
-          "clusterId": "2768b11741e2df8b",
-          "slug": "350d62429e6754fb",
-          "titulo": "Rússia realiza ataque massivo em Kiev com mísseis hipersônicos e drones",
-          "resumo": "Na madrugada de 24 de março, a Rússia lançou 90 mísseis, incluindo o hipersônico Oreshnik, e 600 drones de ataque contra Kiev, atingindo áreas governamentais, residenciais e escolares. A Força Aérea ucraniana relatou a destruição ou neutralização de 549 drones e 55 mísseis. O ataque causou ao menos quatro mortes e deixou prédios em chamas.",
-          "porQueImporta": "Demonstrou a escalada de violência e a capacidade de ataque da Rússia contra a capital ucraniana.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "cac5a7b4d1bb0c74",
+          "slug": "1dfa737b10cd5373",
+          "titulo": "Acidente na BR-251 envolvendo carreta, ônibus e caminhões resulta em mortes",
+          "resumo": "Na BR-251, em Padre Carvalho, um choque entre uma carreta e um caminhão gerou engavetamento que envolveu outro caminhão e um ônibus. O impacto causou a morte de seis pessoas, incluindo um casal idoso e duas crianças de Salvador. Não há registro de vítimas adicionais e danos materiais foram limitados.",
+          "porQueImporta": "O acidente destaca a necessidade de fiscalização e segurança viária em rodovias de grande tráfego.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/24/russia-usa-missil-hipersonico-oreshnik-em-ataque-massivo-contra-kiev-diz-zelensky.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/26/uma-pessoa-morre-apos-acidente-envolvendo-dois-caminhoes-carreta-e-onibus-na-br-251-em-padre-carvalho.ghtml"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/seis-baianos-morrem-em-acidente-entre-carreta-e-onibus-na-br-251"
             }
           ],
-          "updatedAt": "2026-05-24T08:34:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PlVFtil-OAzYPknoulddF-7Ral8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/voriW4QreWIDj5ITBLfw/2026-05-24t063959z-1761579952-rc2gflas3jek-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+          "updatedAt": "2026-05-26T12:30:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/IUeo4uLPs4y6x9dfQWf7tZ6Et2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/L/UvktFrR5SNXjr1LYZybQ/caminhao89.jpeg"
+        },
+        {
+          "clusterId": "57c2c3fc721c1635",
+          "slug": "606a7129f8d4240d",
+          "titulo": "Carreta sem freio bate em prédio da Prefeitura de Nortelândia",
+          "resumo": "Uma carreta sem freio colidiu com o edifício da Prefeitura de Nortelândia, em Mato Grosso. O impacto causou danos estruturais, mas não houve feridos. A Polícia Civil de Mato Grosso abriu investigação para averiguar as causas do acidente. O incidente destaca a importância de manutenção adequada de veículos de carga.",
+          "porQueImporta": "O acidente demonstra risco à segurança de edifícios públicos e a necessidade de fiscalização de veículos de transporte.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/carreta-sem-freio-bate-em-predio-da-prefeitura-de-nortelandia-em-mt"
+            }
+          ],
+          "updatedAt": "2026-05-26T12:24:56.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/05/carreta-sem-freio-bate-contra-predio-da-prefeitura-de-nortelandia.jpg"
+        },
+        {
+          "clusterId": "3b16a4324eb588b2",
+          "slug": "01ab9cf60a7e2de7",
+          "titulo": "Carro cai de ponte na China e é arrastado por fortes enchentes",
+          "resumo": "Um veículo caiu da ponte na China quando não conseguiu dar ré devido a falha mecânica. O carro foi arrastado pelas fortes enchentes que atingiram a região. A queda ocorreu durante condições de chuva intensa que provocaram inundações. A situação foi relatada pela mídia chinesa.",
+          "porQueImporta": "O incidente destaca riscos de falhas mecânicas em condições de enchente, afetando a segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/video-carro-cai-de-ponte-na-china-e-e-arrastado-por-fortes-enchentes/"
+            }
+          ],
+          "updatedAt": "2026-05-26T12:23:05.000Z"
+        },
+        {
+          "clusterId": "c3018b8e59b657da",
+          "slug": "b91d0542d759ea7c",
+          "titulo": "Acidente na RJ-106 gera congestionamento de motos em Cabo Frio",
+          "resumo": "Um acidente entre um carro e um caminhão na RJ-106, km 123, em Cabo Frio, deixou uma mulher ferida e bloqueou os dois sentidos da rodovia. O choque parcial do caminhão causou grande congestionamento de motocicletas e veículos. A interdição provocou reflexos no trânsito local. A polícia registrou o acidente por volta das 14h33.",
+          "porQueImporta": "O incidente interrompeu o tráfego na principal via de acesso à Região dos Lagos, afetando a mobilidade da região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/05/26/video-mostra-grande-congestionamento-de-motos-apos-acidente-na-rj-106-em-cabo-frio.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T12:22:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/AzZupX4Z5C8yq9LG6PdqdtoXnQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/0/xxA9PLRhu9ZbxmJoA1mQ/congestionamento-de-motos.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "4d2edd6465d54fb2",
+          "slug": "22172d4a61af5077",
+          "titulo": "Explosão em mina de carvão na China causa 82 mortes e quase 130 feridos",
+          "resumo": "Uma explosão de gás ocorreu na sexta-feira (22) em uma mina de carvão na China, matando 82 trabalhadores e ferindo quase 130. O local tinha 247 empregados em serviço no subsolo no momento do incidente. Câmeras de vigilância registraram a explosão e a rápida propagação de fumaça nos corredores.",
+          "porQueImporta": "O acidente destaca os riscos de segurança nas operações de mineração e a necessidade de medidas preventivas mais rigorosas.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/arsesp-comeca-fiscalizar-obras-apos-explosao-que-deixou-2-mortos-no-jaguare/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/fantastico/noticia/2026/05/25/explosao-em-mina-na-china-o-que-pode-ter-causado-tragedia-que-deixou-82-mortos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T12:26:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YeWXVGf0tiVNMqVWjdi4xmSmqNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/H/QesqvoS0a58bux7GmhwA/globo-canal-5-20260524-2000-frame-134204.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "dea784753b7f137c",
+          "slug": "49e5fe2fea26180a",
+          "titulo": "Sete homens presos em caverna no Laos após enchente",
+          "resumo": "Um grupo de sete moradores entrou em uma caverna na província de Xaysomboun, no Laos, em busca de ouro. Chuvas fortes causaram uma inundação repentina que bloqueou a saída, deixando-os presos há cinco dias. Operações de resgate foram iniciadas pela equipe tailandesa e por socorristas locais. As autoridades continuam tentando localizar e libertar os desaparecidos.",
+          "porQueImporta": "A situação destaca riscos de atividades de busca por recursos em áreas remotas e a vulnerabilidade a eventos climáticos extremos.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/veja-socorristas-entram-em-caverna-no-laos-em-busca-de-homens-presos/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/25/sete-pessoas-estao-presas-em-caverna-no-laos-ha-cinco-dias.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T11:58:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6COgMw0QOCg8bZ5mF1PY-kG9tKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/f/rLbFaRTjWgwnax3r9g1A/705320697-1428896125950713-2175952686222692983-n.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "7c9398a9a091a12c",
+          "slug": "c8097f435a3544b8",
+          "titulo": "INMET emite alertas de chuva e tempestade em várias cidades do Brasil",
+          "resumo": "O Instituto Nacional de Meteorologia (INMET) divulgou alertas amarelos de chuva e tempestade para 45 cidades de Alagoas, 12 municípios do interior de Pernambuco e 24 cidades do Sul do Rio e Costa Verde. As previsões indicam chuvas entre 20 e 30 mm por hora, podendo chegar a 50 mm por dia, com baixo risco de alagamentos e pequenos deslizamentos. Os alertas são válidos até 23h59 do dia 26 de maio e podem ser renovados.",
+          "porQueImporta": "Os alertas informam a população sobre condições meteorológicas adversas, permitindo precauções e evitando riscos de inundações e deslizamentos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/al/alagoas/noticia/2026/05/26/inmet-emite-alerta-e-preve-chuvas-em-45-cidades-de-alagoas-veja-as-cidades.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T12:24:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/R9zJCMNxZ2rtleyl0al0TYXKds4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/4/UDf2zXRo2V9ZUvDBzLeA/rua-fica-alagada-na-grota-do-neno-apos-fortes-chuvas-em-maceio.jpg"
         }
       ]
     },
@@ -466,31 +693,6 @@
       "slug": "incendio",
       "label": "Incêndio",
       "stories": [
-        {
-          "clusterId": "87c122e82f700a8f",
-          "slug": "f901416a1133a51e",
-          "titulo": "Incêndio destrói igreja centenária em Flores da Cunha",
-          "resumo": "Um incêndio consumiu a Igreja Matriz, construída em 1912, em Flores da Cunha, RS. O fogo começou no teto, que estava em manutenção, e derrubou o telhado, destruindo quase toda a estrutura interna. Restaram apenas as paredes externas, o altar principal e alguns fragmentos. Equipes de bombeiros atenderam o local, mas não houve feridos.",
-          "porQueImporta": "A perda de um patrimônio histórico de 112 anos afeta a memória e identidade da comunidade local.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/26/video-veja-como-ficou-igreja-centenaria-que-foi-destruida-por-incendio-no-rs.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/igreja-centenaria-no-rs-e-destruida-por-grande-incendio"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/igreja-centenaria-e-consumida-por-incendio-no-rio-grande-do-sul/"
-            }
-          ],
-          "updatedAt": "2026-05-26T03:00:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/C5VnPQMTqXXk4LUZA5kwr32qCPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/hAc6zUTGu04ZUwgLwoww/g1-34-.png"
-        },
         {
           "clusterId": "262c2fd12bf9be4e",
           "slug": "7eee4e19e317fc1b",
@@ -510,57 +712,11 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "8cab6626ff8de0b6",
-          "slug": "589cd8a8a0e946df",
-          "titulo": "Investigação aponta ausência de frenagem em atropelamento que matou filha de diplomatas no Rio",
-          "resumo": "A Polícia Civil concluiu que não havia marcas de frenagem na pista onde a van atropelou Mariana Tanaka Abdul Hak, de 20 anos, em Ipanema, no dia 16. O motorista alegou ter tentado parar o veículo, mas afirmou que a direção travou e o carro saiu da pista. Novas imagens de câmeras de segurança estão sendo analisadas para reconstruir a dinâmica do acidente.",
-          "porQueImporta": "O caso envolve a morte de uma jovem diplomata, gerando atenção sobre segurança viária e responsabilidade dos condutores.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/26/investigacao-aponta-ausencia-de-frenagem-em-atropelamento-que-matou-filha-de-diplomatas-no-rio.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-26T03:01:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/c1movMzR94v1RD80wng7qhSWB9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/1/yNNikmTPu5uziTcoVyfA/19acidente.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "78139237f8fdd498",
-          "slug": "a96f5e4b2287f283",
-          "titulo": "Granizo atinge duas cidades do Rio Grande do Sul",
-          "resumo": "Na segunda-feira (25), granizo atingiu Nova Palma, no Centro do RS, e Sananduva, no Norte, onde o temporal também causou alagamentos e danos a imóveis. Em Nova Palma, o fenômeno durou apenas três minutos, mas deixou os campos cobertos de gelo semelhante a bolas de pingue-pongue. A Defesa Civil relatou que não houve feridos. Em Sananduva, a chuva torrencial provocou alagamentos e prejuízos materiais.",
-          "porQueImporta": "O evento demonstra a intensidade e a rapidez com que fenômenos meteorológicos extremos podem afetar comunidades rurais e urbanas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/25/chuva-de-granizo-de-3-minutos-atinge-campo-e-deixa-area-coberta-de-gelo-no-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-26T01:51:05.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Q5LlGR3kwHSwuD7cyWqv-ZEqfJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Y/oW9wyHRHmTLtDeV615Bw/g1-2026-05-25t235103.936.png"
-        }
-      ]
-    },
-    {
       "slug": "acidente-de-trabalho",
       "label": "Acidente de trabalho",
       "stories": [
         {
-          "clusterId": "3f505d782c34498c",
+          "clusterId": "d9b32912357e317a",
           "slug": "b6aaabf0825ce909",
           "titulo": "Acidente em plataforma da Petronas deixa três mortos na Malásia",
           "resumo": "Três trabalhadores da Petronas morreram e um ficou ferido após cair no mar durante manutenção em uma embarcação flutuante de armazenamento e transferência (FSO). A queda teria ocorrido quando a corda de segurança se soltou enquanto eles descem em um bote. O incidente aconteceu no fim da tarde de domingo, 24 de março, na Malásia.",
@@ -570,57 +726,11 @@
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/05/25/acidente-com-tres-carros-deixa-homem-ferido-na-rj-106-em-cabo-frio.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/25/acidente-em-plataforma-de-petroleo-da-petronas-deixa-tres-mortos-na-malasia.ghtml"
             }
           ],
-          "updatedAt": "2026-05-25T23:07:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/f-io93QD4K0aPzmDDL9nwJhuSVw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/QU16IHSqil9LD0KuxLrQ/batida.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "fa3f2c5338690c7c",
-          "slug": "22172d4a61af5077",
-          "titulo": "Explosão em mina de carvão na China causa 82 mortes e quase 130 feridos",
-          "resumo": "Uma explosão de gás ocorreu na sexta-feira (22) em uma mina de carvão na China, matando 82 trabalhadores e ferindo quase 130. O local tinha 247 empregados em serviço no subsolo no momento do incidente. Câmeras de vigilância registraram a explosão e a rápida propagação de fumaça nos corredores.",
-          "porQueImporta": "O acidente destaca os riscos de segurança nas operações de mineração e a necessidade de medidas preventivas mais rigorosas.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/fantastico/noticia/2026/05/25/explosao-em-mina-na-china-o-que-pode-ter-causado-tragedia-que-deixou-82-mortos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-25T13:16:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YeWXVGf0tiVNMqVWjdi4xmSmqNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/H/QesqvoS0a58bux7GmhwA/globo-canal-5-20260524-2000-frame-134204.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "09aacfccdf71b50d",
-          "slug": "3b07bf7f74a37a3a",
-          "titulo": "Piloto americana evita tragédia aérea ao comandar voo de 148 passageiros",
-          "resumo": "A piloto Tammie Jo Shults, com experiência em caça, assumiu o controle de um Boeing 737 que estava em rota de pouso quando o piloto original abandonou o avião. Ela conduziu o avião até a pista, evitando um acidente com 148 passageiros a bordo. O incidente ocorreu em 2021, em que o avião estava em voo de Chicago para Seattle. A ação de Shults foi reconhecida como um ato de coragem e habilidade.",
-          "porQueImporta": "Demonstrou a importância da formação e da prontidão de pilotos em situações de emergência.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c99l582vev3o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-05-24T22:32:06.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0456/live/9f64c560-37f6-11f1-a445-59df4d41808f.jpg"
+          "updatedAt": "2026-05-25T05:36:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GF0VPHVNGwnwZPSQNW5UwZt5rc0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/H/MJo5mwSvyt9ZOSxkKjiw/lng-cargo-canada.jpg"
         }
       ]
     }
