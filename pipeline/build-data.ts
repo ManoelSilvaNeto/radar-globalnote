@@ -71,14 +71,29 @@ export function groupByCategoria(stories: Story[]): CategoriaSecao[] {
   return [...bySlug.values()].sort((a, b) => b.stories.length - a.stories.length);
 }
 
+// Se o destaque do home (stories[0]) não tem imagem mas algum dos próximos N
+// tem, promove o primeiro com imagem para o topo. O destaque tem foto grande
+// no card e fica visualmente fraco sem ela; perder 1 posição de ranking entre
+// o top-10 é um trade-off pequeno comparado ao impacto visual da home.
+export function promoteImagedToFeatured(stories: Story[]): Story[] {
+  if (stories.length === 0 || stories[0]!.imageUrl) return stories;
+  const idx = stories.findIndex((s) => s.imageUrl);
+  if (idx <= 0) return stories;
+  const out = [...stories];
+  const [imaged] = out.splice(idx, 1);
+  out.unshift(imaged!);
+  return out;
+}
+
 // Monta a edição a partir do pool de clusters rankeados (já em ordem de score).
-// home = os primeiros; categorias = agrupamento dinâmico de todo o pool.
+// home = os primeiros (com destaque promovido se necessário); categorias = todo o pool.
 export function buildEdition(pool: Cluster[], summaries: Map<string, Summary>, now: Date): Edition {
   const stories = pool.map((c) => toStory(c, summaries.get(c.id) ?? fallbackSummary(c)));
+  const home = promoteImagedToFeatured(stories.slice(0, HOME_SIZE));
   return {
     date: brDate(now),
     generatedAt: now.toISOString(),
-    home: stories.slice(0, HOME_SIZE),
+    home,
     categorias: groupByCategoria(stories),
   };
 }

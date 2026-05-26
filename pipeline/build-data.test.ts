@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { toStory, buildEdition, groupByCategoria, pruneCache, brDate } from './build-data';
+import { toStory, buildEdition, groupByCategoria, promoteImagedToFeatured, pruneCache, brDate } from './build-data';
 import type { Article, Cluster, CachedSummary, Summary } from '../src/lib/types';
 
 function article(url: string, source: string, imageUrl?: string): Article {
@@ -106,6 +106,34 @@ describe('buildEdition', () => {
     expect(edition.categorias).toHaveLength(1);
     expect(edition.categorias[0]!.label).toBe('Geral'); // fallback → categoria "Geral"
     expect(edition.categorias[0]!.stories).toHaveLength(1);
+  });
+});
+
+describe('promoteImagedToFeatured', () => {
+  function story(id: string, imageUrl?: string): ReturnType<typeof toStory> {
+    return toStory(cluster(id, [article(`https://a.com/${id}`, 'G1', imageUrl)]), SUMMARY);
+  }
+
+  it('mantém a ordem quando o destaque já tem imagem', () => {
+    const a = story('a', 'https://img/a.jpg');
+    const b = story('b');
+    const out = promoteImagedToFeatured([a, b]);
+    expect(out.map((s) => s.clusterId)).toEqual(['a', 'b']);
+  });
+
+  it('promove o primeiro com imagem pro topo quando o destaque não tem', () => {
+    const a = story('a'); // sem imagem
+    const b = story('b'); // sem imagem
+    const c = story('c', 'https://img/c.jpg'); // tem imagem
+    const out = promoteImagedToFeatured([a, b, c]);
+    expect(out.map((s) => s.clusterId)).toEqual(['c', 'a', 'b']);
+  });
+
+  it('mantém a ordem quando nenhum tem imagem', () => {
+    const a = story('a');
+    const b = story('b');
+    const out = promoteImagedToFeatured([a, b]);
+    expect(out.map((s) => s.clusterId)).toEqual(['a', 'b']);
   });
 });
 
