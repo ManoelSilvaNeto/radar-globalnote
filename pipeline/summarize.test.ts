@@ -111,4 +111,26 @@ describe('summarizeClusters', () => {
     expect(stats.fallback).toBe(6);
     expect(stats.generated).toBe(0);
   });
+
+  it('respeita o orçamento de IA por run (GROQ_BUDGET_PER_RUN)', async () => {
+    // 12 clusters, orçamento 3 → 3 sucessos da IA + 9 fallbacks, sem 429.
+    process.env.GROQ_BUDGET_PER_RUN = '3';
+    try {
+      vi.resetModules();
+      const { summarizeClusters: freshSummarize } = await import('./summarize');
+      const clusters = Array.from({ length: 12 }, (_, i) =>
+        cluster(`c${i}`, [article(`https://a.com/${i}`, 'G1')]),
+      );
+      const summarizer: Summarizer = { summarize: vi.fn().mockResolvedValue(SUMMARY) };
+
+      const { stats } = await freshSummarize(clusters, summarizer, {}, NOW, 0);
+
+      expect(summarizer.summarize).toHaveBeenCalledTimes(3);
+      expect(stats.generated).toBe(3);
+      expect(stats.fallback).toBe(9);
+    } finally {
+      delete process.env.GROQ_BUDGET_PER_RUN;
+      vi.resetModules();
+    }
+  });
 });

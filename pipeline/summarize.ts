@@ -263,6 +263,13 @@ const THROTTLE_MS = Number(process.env.GROQ_THROTTLE_MS ?? 2500);
 // Após N falhas de quota (429) seguidas, desiste da IA no resto do run (fallback
 // rápido) — evita um run eterno quando a cota do dia acabou.
 const QUOTA_BREAKER = 4;
+// Quantos resumos NOVOS de IA por run (cache hits não contam). Acima disso, os
+// clusters restantes caem em fallback/reuso. Protege o TPD (tokens-per-day) do free
+// tier da Groq: com cache pequeno, sem teto o run consumia ~12 chamadas e estourava
+// o orçamento diário no meio do dia. Como `pool` já vem ranqueado por score, o
+// orçamento gasta a IA nas histórias mais importantes. Conforme o cache amadurece,
+// o teto vira inerte (a maioria das histórias resolve por cache).
+const IA_BUDGET_PER_RUN = Number(process.env.GROQ_BUDGET_PER_RUN ?? 8);
 // Idade máxima de um resumo cacheado p/ servir SEM re-chamar a IA. Dentro do TTL,
 // a história é um cache hit; vencido, tenta refrescar (cota permitindo) e, se a IA
 // estiver fora, reusa o resumo antigo mesmo assim (melhor que RSS cru).
@@ -283,6 +290,7 @@ export async function summarizeClusters(
   let iaCalls = 0;
   let quotaFails = 0;
   let breakerOpen = false;
+  let budgetLogged = false;
 
   for (const cluster of clusters) {
     const key = cacheKey(cluster);
@@ -298,24 +306,33 @@ export async function summarizeClusters(
 
     // Sem cache fresco: tenta a IA (refresca o resumo vencido ou cria um novo).
     if (summarizer && !breakerOpen) {
-      if (iaCalls > 0 && throttleMs > 0) await sleep(throttleMs);
-      iaCalls++;
-      try {
-        const summary = sanitize(await summarizer.summarize(toInput(cluster)));
-        summaries.set(cluster.id, summary);
-        nextCache[key] = { ...summary, cachedAt: now.toISOString() };
-        stats.generated++;
-        quotaFails = 0;
-        continue;
-      } catch (err) {
-        if (isQuotaError(err)) {
-          quotaFails++;
-          if (quotaFails >= QUOTA_BREAKER) {
-            breakerOpen = true;
-            console.warn('  quota da IA esgotada — usando fallback no restante deste run.');
-          }
+      if (iaCalls >= IA_BUDGET_PER_RUN) {
+        if (!budgetLogged) {
+          console.warn(
+            `  orçamento de IA do run esgotado (${IA_BUDGET_PER_RUN} chamadas) — fallback/reuso no restante.`,
+          );
+          budgetLogged = true;
         }
-        console.warn(`  resumo IA falhou (${cluster.id}): ${String(err).slice(0, 100)} — fallback`);
+      } else {
+        if (iaCalls > 0 && throttleMs > 0) await sleep(throttleMs);
+        iaCalls++;
+        try {
+          const summary = sanitize(await summarizer.summarize(toInput(cluster)));
+          summaries.set(cluster.id, summary);
+          nextCache[key] = { ...summary, cachedAt: now.toISOString() };
+          stats.generated++;
+          quotaFails = 0;
+          continue;
+        } catch (err) {
+          if (isQuotaError(err)) {
+            quotaFails++;
+            if (quotaFails >= QUOTA_BREAKER) {
+              breakerOpen = true;
+              console.warn('  quota da IA esgotada — usando fallback no restante deste run.');
+            }
+          }
+          console.warn(`  resumo IA falhou (${cluster.id}): ${String(err).slice(0, 100)} — fallback`);
+        }
       }
     }
 
