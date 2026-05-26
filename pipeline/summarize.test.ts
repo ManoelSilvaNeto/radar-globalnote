@@ -1,5 +1,5 @@
 import { describe, it, expect, vi } from 'vitest';
-import { cacheKey, fallbackSummary, summarizeClusters, type Summarizer } from './summarize';
+import { cacheKey, fallbackSummary, hallucinatedNames, summarizeClusters, type Summarizer } from './summarize';
 import type { Article, Cluster, CachedSummary, Summary } from '../src/lib/types';
 
 function article(url: string, source: string, title = 'Título', description = 'Descrição longa do artigo.'): Article {
@@ -18,7 +18,10 @@ function cluster(id: string, articles: Article[]): Cluster {
   return { id, articles, latestAt: '2026-05-20T11:00:00.000Z', sourceCount: new Set(articles.map((a) => a.source)).size };
 }
 
-const SUMMARY: Summary = { titulo: 'Resumo IA', resumo: 'Frase um. Frase dois.', porQueImporta: 'Importa porque sim.', categoria: 'Acidente' };
+// titulo sem entidades nomeadas (palavras minúsculas após a 1ª) — o validador do
+// Bug #3 trataria "IA" como sigla e flaggaria como alucinação se o artigo de
+// teste não contivesse "ia". Mantém os testes de cache/orçamento sem ruído.
+const SUMMARY: Summary = { titulo: 'Resumo neutro da história', resumo: 'Frase um. Frase dois.', porQueImporta: 'Importa porque sim.', categoria: 'Acidente' };
 const NOW = new Date('2026-05-20T12:00:00.000Z');
 
 describe('cacheKey', () => {
@@ -132,5 +135,93 @@ describe('summarizeClusters', () => {
       delete process.env.GROQ_BUDGET_PER_RUN;
       vi.resetModules();
     }
+  });
+
+  // Bug #3: alucinação de nomes próprios.
+  it('rejeita output fresco da IA com nome inventado e cai no fallback', async () => {
+    const c = cluster('c1', [
+      article('https://a.com/1', 'G1', 'Áudio mostra Flávio Bolsonaro falando com Vorcaro'),
+    ]);
+    const halu: Summary = { ...SUMMARY, titulo: 'Áudio de Flávio Marqueteiro chama Vorcaro' };
+    const summarizer: Summarizer = { summarize: vi.fn().mockResolvedValue(halu) };
+
+    const { summaries, cache, stats } = await summarizeClusters([c], summarizer, {}, NOW, 0);
+
+    // Rejeitado → cai em fallback (título do artigo). NÃO é cacheado.
+    expect(stats.generated).toBe(0);
+    expect(stats.fallback).toBe(1);
+    expect(cache).toEqual({});
+    expect(summaries.get('c1')?.titulo).not.toBe(halu.titulo);
+  });
+
+  it('invalida cache antigo com alucinação e chama a IA de novo', async () => {
+    const c = cluster('c1', [
+      article('https://a.com/1', 'G1', 'Áudio mostra Flávio Bolsonaro falando com Vorcaro'),
+    ]);
+    // Cache fresco mas com nome inventado ("Marqueteiro" não está no artigo).
+    const badCache: Record<string, CachedSummary> = {
+      [cacheKey(c)]: { ...SUMMARY, titulo: 'Áudio de Flávio Marqueteiro', cachedAt: '2026-05-20T06:00:00.000Z' },
+    };
+    const goodSummary: Summary = { ...SUMMARY, titulo: 'Áudio mostra conversa entre os assessores' };
+    const summarizer: Summarizer = { summarize: vi.fn().mockResolvedValue(goodSummary) };
+
+    const { summaries, stats } = await summarizeClusters([c], summarizer, badCache, NOW, 0);
+
+    expect(summarizer.summarize).toHaveBeenCalledTimes(1); // cache inválido → IA chamada
+    expect(stats.fromCache).toBe(0);
+    expect(stats.generated).toBe(1);
+    expect(summaries.get('c1')?.titulo).toBe(goodSummary.titulo);
+  });
+
+  it('aceita o cache quando os nomes do título estão nas fontes', async () => {
+    const c = cluster('c1', [
+      article('https://a.com/1', 'G1', 'Enchente atinge Petrópolis com chuvas fortes', 'Cidade de Petrópolis amanheceu alagada'),
+    ]);
+    const cached: Record<string, CachedSummary> = {
+      [cacheKey(c)]: { ...SUMMARY, titulo: 'Chuvas em Petrópolis deixam moradores desabrigados', cachedAt: '2026-05-20T06:00:00.000Z' },
+    };
+    const summarizer: Summarizer = { summarize: vi.fn() };
+
+    const { stats } = await summarizeClusters([c], summarizer, cached, NOW, 0);
+
+    expect(summarizer.summarize).not.toHaveBeenCalled();
+    expect(stats.fromCache).toBe(1);
+  });
+});
+
+describe('hallucinatedNames', () => {
+  function art(title: string, description = ''): Article {
+    return {
+      id: title,
+      url: 'https://x',
+      source: 'G1',
+      title,
+      description,
+      publishedAt: '2026-05-20T00:00:00.000Z',
+      fetchedAt: '2026-05-20T00:00:00.000Z',
+    };
+  }
+
+  it('flagga nome próprio ausente das fontes', () => {
+    const sources = [art('Áudio mostra Flávio Bolsonaro conversando com Vorcaro')];
+    const bad = hallucinatedNames('Áudio de Flávio Marqueteiro chama Vorcaro de irmão', sources);
+    expect(bad).toContain('marqueteiro');
+    expect(bad).not.toContain('flavio');
+    expect(bad).not.toContain('vorcaro');
+  });
+
+  it('aceita título cujos nomes aparecem nas fontes', () => {
+    const sources = [art('Enchente atinge Petrópolis e deixa famílias desabrigadas')];
+    expect(hallucinatedNames('Chuvas em Petrópolis causam estragos', sources)).toEqual([]);
+  });
+
+  it('aceita título sem entidades nomeadas', () => {
+    const sources = [art('Caminhão tomba em rodovia federal')];
+    expect(hallucinatedNames('Veículo capota em rodovia sem feridos', sources)).toEqual([]);
+  });
+
+  it('busca também na description (não só no title) das fontes', () => {
+    const sources = [art('Acidente em rodovia', 'O motorista, identificado como João Silva, perdeu o controle')];
+    expect(hallucinatedNames('Acidente envolve João Silva', sources)).toEqual([]);
   });
 });

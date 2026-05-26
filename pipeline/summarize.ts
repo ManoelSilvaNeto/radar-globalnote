@@ -6,8 +6,9 @@
 // RSS. O build nunca quebra por causa da IA.
 
 import { createHash } from 'node:crypto';
-import type { Cluster, Summary, CachedSummary } from '../src/lib/types';
+import type { Article, Cluster, Summary, CachedSummary } from '../src/lib/types';
 import { FALLBACK_CATEGORIA } from '../src/lib/categories';
+import { namedEntities } from './cluster';
 import { normalizeUrl } from './url';
 
 // ── Interface trocável (plano B: Gemini, Claude Haiku, etc.) ──────────────────
@@ -79,6 +80,26 @@ function sanitize(s: Summary): Summary {
   };
 }
 
+// Bug #3: detecta nomes próprios no título gerado que NÃO aparecem em nenhuma das
+// fontes. A IA tem tendência a completar/inventar entidades (ex: "Flávio Marqueteiro"
+// quando a fonte diz só "Flávio Bolsonaro"). A validação extrai entidades do título
+// e exige que cada uma exista literalmente (após normalização) em pelo menos uma
+// fonte. Retorna as alucinadas (ou [] se OK).
+export function hallucinatedNames(title: string, articles: Article[]): string[] {
+  const corpus = articles
+    .map((a) => `${a.title} ${a.description}`)
+    .join(' ')
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase();
+  const out: string[] = [];
+  for (const ent of namedEntities(title)) {
+    // entidades já vêm normalizadas (lowercase, sem acento) do namedEntities.
+    if (!corpus.includes(ent)) out.push(ent);
+  }
+  return out;
+}
+
 // ── Cliente Groq (API compatível com OpenAI) ─────────────────────────────────
 const SYSTEM_INSTRUCTION = [
   'Você é um editor de um portal de DESASTRES E ACIDENTES (desastres naturais e causados',
@@ -88,8 +109,14 @@ const SYSTEM_INSTRUCTION = [
   '1. Escreva com SUAS palavras; nunca copie frases das fontes.',
   '2. Tom estritamente factual: sem opinião, juízo de valor ou adjetivação editorial.',
   '3. Não invente fatos, nomes ou números — use apenas o que está nas fontes.',
-  '4. Se houver incerteza ou divergência entre as fontes, sinalize isso.',
-  '5. Português do Brasil, claro e direto.',
+  '4. NOMES PRÓPRIOS são caso especial: use APENAS nomes que aparecem LITERALMENTE',
+  '   em alguma fonte. NÃO complete sobrenomes (ex: se a fonte diz só "Flávio", não',
+  '   escreva "Flávio Bolsonaro"). NÃO "corrija" grafias. NÃO invente apelidos nem',
+  '   profissões ao lado do nome ("Flávio Marqueteiro"). Em dúvida, use pronome ou',
+  '   descrição funcional: "o réu", "o suspeito", "o motorista", "o assessor", "a',
+  '   vítima", "a empresa", "as autoridades".',
+  '5. Se houver incerteza ou divergência entre as fontes, sinalize isso.',
+  '6. Português do Brasil, claro e direto.',
 ].join('\n');
 
 function buildPrompt(input: SummarizeInput): string {
@@ -304,7 +331,21 @@ export async function summarizeClusters(
 
   for (const cluster of clusters) {
     const key = cacheKey(cluster);
-    const cached = nextCache[key];
+    const rawCached = nextCache[key];
+    // Bug #3: aceita o cache só se o título não contém entidades alucinadas
+    // (nomes que não estão em nenhuma fonte do cluster atual). Cache de runs
+    // anteriores ao fix do prompt pode trazer títulos ruins (ex: "Flávio
+    // Marqueteiro" quando o original diz "Flávio Bolsonaro") — invalida e
+    // tenta a IA de novo. Como cacheKey é estável pela URL âncora, a âncora
+    // está sempre no cluster atual, então a validação é segura.
+    let cached: CachedSummary | undefined = rawCached;
+    if (rawCached) {
+      const halls = hallucinatedNames(rawCached.titulo, cluster.articles);
+      if (halls.length > 0) {
+        console.warn(`  ⚠ cache invalidado por alucinação (${cluster.id}): ${halls.join(', ')}`);
+        cached = undefined;
+      }
+    }
 
     // Cache hit fresco (dentro do TTL): reusa sem chamar a IA.
     if (cached && hoursSince(cached.cachedAt, now) <= TTL_HOURS) {
@@ -328,11 +369,20 @@ export async function summarizeClusters(
         iaCalls++;
         try {
           const summary = sanitize(await summarizer.summarize(toInput(cluster)));
-          summaries.set(cluster.id, summary);
-          nextCache[key] = { ...summary, cachedAt: now.toISOString() };
-          stats.generated++;
-          quotaFails = 0;
-          continue;
+          // Bug #3: rejeita o output fresco se introduziu nome inventado.
+          // Cai pro caminho de fallback/stale-cache abaixo, sem cachear.
+          const halls = hallucinatedNames(summary.titulo, cluster.articles);
+          if (halls.length > 0) {
+            console.warn(
+              `  ⚠ título com alucinação rejeitado (${cluster.id}): ${halls.join(', ')} — fallback`,
+            );
+          } else {
+            summaries.set(cluster.id, summary);
+            nextCache[key] = { ...summary, cachedAt: now.toISOString() };
+            stats.generated++;
+            quotaFails = 0;
+            continue;
+          }
         } catch (err) {
           if (isQuotaError(err)) {
             quotaFails++;
@@ -346,9 +396,10 @@ export async function summarizeClusters(
       }
     }
 
-    // IA fora e existe um resumo antigo (TTL vencido): mostra o resumo de IA
-    // anterior em vez de regredir pra descrição crua do RSS. cachedAt fica como
-    // está, então o próximo run tenta refrescá-lo de novo.
+    // IA fora e existe um resumo antigo VÁLIDO (TTL vencido, sem alucinação):
+    // reusa em vez de regredir pra descrição crua do RSS. cachedAt fica como
+    // está, então o próximo run tenta refrescá-lo de novo. Cache com alucinação
+    // já foi limpo acima (cached === undefined nesse caso).
     if (cached) {
       const { cachedAt: _cachedAt, ...summary } = cached;
       summaries.set(cluster.id, summary);
@@ -356,7 +407,8 @@ export async function summarizeClusters(
       continue;
     }
 
-    // Nada em cache: fallback. NÃO é cacheado — o próximo run tenta a IA de novo.
+    // Nada em cache (ou cache invalidado): fallback. NÃO é cacheado — o próximo
+    // run tenta a IA de novo.
     summaries.set(cluster.id, fallbackSummary(cluster));
     stats.fallback++;
   }
