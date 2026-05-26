@@ -66,6 +66,9 @@ const GENERIC = new Set([
   'audio', 'audios', 'exclusivo', 'urgente', 'ultima',
   // Serviços de emergência (sem especificador — "PRF" sozinho seria útil; "bombeiros" sozinho é genérico)
   'bombeiros', 'samu',
+  // Outros genéricos amplos demais pra virar hub útil
+  'onda', // "Onda" sozinho — multi-word "Onda de calor" passa por phenomena detection
+  'europa', 'asia', 'africa', 'oceania', 'america', 'mundo', 'globo',
 ]);
 
 // Fenômenos meteorológicos e climáticos comuns — geralmente vêm em LOWERCASE
