@@ -12,11 +12,7 @@ import { itemListJsonLd, websiteJsonLd } from '../lib/seo';
 
 const edition = currentEdition;
 const filled = hasContent(edition);
-// Topics já passaram pelo MIN_STORIES (3+) ao serem construídos em topics.ts.
-// O home mostra TODOS — os de 3 stories levam pra páginas noindex (SEO seguro),
-// mas a UX da home fica completa em vez de esconder a seção quando ainda não
-// houver 4+ stories pra cada tema.
-const hotTopics = topics.slice(0, 24);
+const hotTopics = topics.filter((t) => t.indexable).slice(0, 24);
 const siteUrl = new URL('/', Astro.site!).href;
 const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
 const jsonLd = [websiteJsonLd(siteUrl), itemListJsonLd(edition.home, pageUrl)];
