@@ -6,9 +6,15 @@
 import { createHash } from 'node:crypto';
 import type { Article, Cluster } from '../src/lib/types';
 
-export const DEFAULT_THRESHOLD = 0.22; // cosseno mínimo p/ juntar (ajustável)
+export const DEFAULT_THRESHOLD = 0.30; // cosseno mínimo p/ juntar (subiu de 0.22 em 2026-05-26 — Bug #1)
 export const DEFAULT_WINDOW_HOURS = 48;
 const TITLE_WEIGHT = 3; // título conta mais que a descrição
+
+// Cosseno acima deste valor é forte o bastante pra ignorar a guarda de entidades.
+// Abaixo, e se ambos os lados tiverem entidades nomeadas, exigimos overlap.
+// Solta a regra quando algum lado é genérico (sem entidades) — clustering só por
+// texto é OK aí; o risco de mistura cross-event é menor.
+const HIGH_COSINE = 0.50;
 
 // Stopwords PT-BR (pronomes, preposições, artigos, verbos auxiliares comuns).
 const STOPWORDS = new Set(
@@ -32,6 +38,32 @@ export function normalizePt(text: string): string[] {
     .replace(/[^a-z0-9\s]/g, ' ')
     .split(/\s+/)
     .filter((t) => t.length > 2 && !STOPWORDS.has(t));
+}
+
+// Entidades nomeadas do título — usadas como guarda contra agrupamento espúrio
+// (Bug #1: notícias de eventos diferentes acabavam no mesmo cluster por overlap
+// léxico ralo, e o resumo cacheado pela URL âncora ficava desencontrado das fontes
+// visíveis). A heurística: pula a primeira palavra (quase sempre capitalizada por
+// estar no início), e mantém o resto se for sigla/abrev (`MG`, `BR-251`, `PRF`) ou
+// capitalizada com 4+ caracteres (`Bélgica`, `Polícia`, `Civil`, `Pantanal`).
+// Resultado é normalizado (lowercase, sem acento) pra comparação.
+export function namedEntities(title: string): Set<string> {
+  const out = new Set<string>();
+  const tokens = title.replace(/[.,;:!?()"“”]+/g, '').split(/\s+/).filter(Boolean);
+  for (let i = 0; i < tokens.length; i++) {
+    if (i === 0) continue; // 1ª palavra: capitalização ambígua (início de frase)
+    const t = tokens[i];
+    const isAbbrev = /^[A-ZÀ-Ý][A-Z0-9À-Ý\-]+$/.test(t);
+    const isProperLong = /^[A-ZÀ-Ý]/.test(t) && t.length >= 4;
+    if (!isAbbrev && !isProperLong) continue;
+    out.add(t.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase());
+  }
+  return out;
+}
+
+function intersects<T>(a: Set<T>, b: Set<T>): boolean {
+  for (const x of a) if (b.has(x)) return true;
+  return false;
 }
 
 type Vec = Map<string, number>;
@@ -105,6 +137,18 @@ export function clusterArticles(articles: Article[], opts: ClusterOptions = {}):
       if (sim >= bestSim) {
         bestSim = sim;
         best = g;
+      }
+    }
+    // Guarda contra agrupamento espúrio: se ambos os lados têm entidades nomeadas
+    // e elas não se intersectam, exige cosseno alto (>= HIGH_COSINE) pra mesclar.
+    // Justificativa: cosseno moderado + entidades disjuntas = histórias diferentes
+    // que só compartilham vocabulário genérico ("acidente", "morre", "ônibus").
+    if (best && bestSim < HIGH_COSINE) {
+      const articleEnts = namedEntities(article.title);
+      const groupEnts = new Set<string>();
+      for (const m of best.members) for (const e of namedEntities(m.title)) groupEnts.add(e);
+      if (articleEnts.size > 0 && groupEnts.size > 0 && !intersects(articleEnts, groupEnts)) {
+        best = null;
       }
     }
     if (best) {

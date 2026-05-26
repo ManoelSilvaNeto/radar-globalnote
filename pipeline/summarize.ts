@@ -19,17 +19,27 @@ export interface Summarizer {
   summarize(input: SummarizeInput): Promise<Summary>;
 }
 
-// Chave de cache = identidade da história: a URL normalizada do artigo-âncora (o
-// mais antigo = origem da história). Estável enquanto a história se desenvolve e
-// ganha novos membros, então o resumo já feito é reaproveitado entre runs em vez
-// de re-resumir a cada coleta. Empate de data (ou sem data) → menor URL.
-export function cacheKey(cluster: Pick<Cluster, 'articles'>): string {
-  const anchor = [...cluster.articles].sort((a, b) => {
+// Artigo-âncora de um cluster: o MAIS ANTIGO (origem da história), com empate de
+// data resolvido pela menor URL normalizada. Determinístico e estável enquanto o
+// cluster se desenvolve. Display do site usa essa âncora pra ficar alinhado com o
+// resumo cacheado (Bug #1: sources/imagem/link da semente NÃO batiam com o
+// resumo, que é cacheado pela URL âncora).
+export function clusterAnchor<T extends { articles: { url: string; publishedAt: string }[] }>(
+  cluster: T,
+): T['articles'][number] | undefined {
+  return [...cluster.articles].sort((a, b) => {
     const ta = Date.parse(a.publishedAt) || Number.POSITIVE_INFINITY;
     const tb = Date.parse(b.publishedAt) || Number.POSITIVE_INFINITY;
     if (ta !== tb) return ta - tb;
     return normalizeUrl(a.url).localeCompare(normalizeUrl(b.url));
   })[0];
+}
+
+// Chave de cache = identidade da história: a URL normalizada do artigo-âncora.
+// Estável enquanto a história ganha novos membros — o resumo já feito é
+// reaproveitado entre runs em vez de re-resumir a cada coleta.
+export function cacheKey(cluster: Pick<Cluster, 'articles'>): string {
+  const anchor = clusterAnchor(cluster);
   const anchorUrl = anchor ? normalizeUrl(anchor.url) : '';
   return createHash('sha1').update(anchorUrl).digest('hex').slice(0, 16);
 }

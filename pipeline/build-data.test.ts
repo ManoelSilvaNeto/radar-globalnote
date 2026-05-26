@@ -47,6 +47,40 @@ describe('toStory', () => {
     expect(so.slug).toBeTruthy();
     expect(so.slug).toBe(sn.slug); // mesma âncora → mesmo slug → mesma URL /noticia/<slug>
   });
+
+  // Bug #1: sources[0]/imagem vinham da semente (mais recente), mas o resumo
+  // é cacheado pela URL âncora (mais antiga). Resultado: display desencontrado
+  // do cache. Fix: sources e imagem vêm da âncora.
+  it('alinha sources[0] e imagem com a âncora (artigo mais antigo) — Bug #1', () => {
+    const seed = {
+      ...article('https://recent.com/2', 'CNN Brasil', 'https://img/seed.jpg'),
+      publishedAt: '2026-05-20T15:00:00.000Z',
+    };
+    const anchor = {
+      ...article('https://anchor.com/1', 'G1', 'https://img/anchor.jpg'),
+      publishedAt: '2026-05-20T10:00:00.000Z',
+    };
+    // Ordem dos articles no cluster: semente primeiro (como o pipeline real gera).
+    const c = cluster('c1', [seed, anchor]);
+    const story = toStory(c, SUMMARY);
+    expect(story.sources[0]).toEqual({ name: 'G1', url: 'https://anchor.com/1' });
+    expect(story.sources[1]).toEqual({ name: 'CNN Brasil', url: 'https://recent.com/2' });
+    expect(story.imageUrl).toBe('https://img/anchor.jpg');
+  });
+
+  it('cai pra imagem de outro artigo quando a âncora não tem imagem', () => {
+    const seed = {
+      ...article('https://recent.com/2', 'CNN Brasil', 'https://img/seed.jpg'),
+      publishedAt: '2026-05-20T15:00:00.000Z',
+    };
+    const anchorNoImg = {
+      ...article('https://anchor.com/1', 'G1'), // sem imagem
+      publishedAt: '2026-05-20T10:00:00.000Z',
+    };
+    const c = cluster('c1', [seed, anchorNoImg]);
+    const story = toStory(c, SUMMARY);
+    expect(story.imageUrl).toBe('https://img/seed.jpg'); // fallback
+  });
 });
 
 describe('groupByCategoria', () => {

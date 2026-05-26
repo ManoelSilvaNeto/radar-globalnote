@@ -7,7 +7,7 @@ import { join } from 'node:path';
 import type { Cluster, Edition, CategoriaSecao, State, Story, Summary, CachedSummary } from '../src/lib/types';
 import { categoriaSlug, FALLBACK_CATEGORIA } from '../src/lib/categories';
 import { HOME_SIZE } from './rank';
-import { cacheKey, fallbackSummary } from './summarize';
+import { cacheKey, clusterAnchor, fallbackSummary } from './summarize';
 
 const CACHE_WINDOW_HOURS = 72;
 
@@ -21,12 +21,16 @@ export function brDate(now: Date): string {
   }).format(now);
 }
 
-// Fontes da história: uma entrada por fonte distinta, na ordem dos artigos
-// (o mais recente primeiro, já que o cluster é semeado pela recência).
+// Fontes da história: uma entrada por fonte distinta. ÂNCORA primeiro (o artigo
+// mais antigo do cluster — o mesmo que define `cacheKey` e portanto o resumo),
+// depois o resto na ordem dos artigos. Isso garante que `sources[0]`, a imagem e
+// o link no card batem com o resumo cacheado, evitando o desalinho do Bug #1.
 function storySources(cluster: Cluster): { name: string; url: string }[] {
+  const anchor = clusterAnchor(cluster);
+  const ordered = anchor ? [anchor, ...cluster.articles.filter((a) => a !== anchor)] : cluster.articles;
   const seen = new Set<string>();
   const out: { name: string; url: string }[] = [];
-  for (const a of cluster.articles) {
+  for (const a of ordered) {
     if (seen.has(a.source)) continue;
     seen.add(a.source);
     out.push({ name: a.source, url: a.url });
@@ -47,7 +51,10 @@ export function toStory(cluster: Cluster, summary: Summary): Story {
     sources: storySources(cluster),
     updatedAt: cluster.latestAt,
   };
-  const imageUrl = cluster.articles.find((a) => a.imageUrl)?.imageUrl;
+  // Imagem: prefere a da âncora (alinhamento com o resumo cacheado); se a âncora
+  // não tem imagem, cai pra qualquer outro artigo que tenha.
+  const anchor = clusterAnchor(cluster);
+  const imageUrl = anchor?.imageUrl ?? cluster.articles.find((a) => a.imageUrl)?.imageUrl;
   if (imageUrl) story.imageUrl = imageUrl;
   return story;
 }

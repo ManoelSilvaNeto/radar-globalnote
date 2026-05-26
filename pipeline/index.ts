@@ -5,7 +5,7 @@
 import { resolve } from 'node:path';
 import { fetchAllSources } from './fetch';
 import { filterNiche } from './niche';
-import { clusterArticles } from './cluster';
+import { clusterArticles, normalizePt } from './cluster';
 import { topForHome, POOL_SIZE } from './rank';
 import { summarizeClusters, summarizerFromEnv } from './summarize';
 import { buildEdition, pruneCache, readState, writeData } from './build-data';
@@ -44,6 +44,25 @@ async function main(): Promise<void> {
   if (edition.home.length === 0) {
     console.warn('edição vazia (nada após o filtro do nicho?) — mantendo a última edição. Nada gravado.');
     return;
+  }
+
+  // 6.5. sanity check pós-build (Bug #1): o título consolidado deve falar do
+  // MESMO evento que pelo menos um artigo do cluster. Se nenhum artigo do
+  // cluster compartilha termo significativo com o título, é sinal de cluster
+  // espúrio (resumo cacheado de outra história ficou desalinhado das fontes).
+  // Não filtra — só loga. Se o log ficar vazio em produção, o fix está OK.
+  for (const story of edition.home) {
+    const cluster = pool.find((c) => c.id === story.clusterId);
+    if (!cluster) continue;
+    const titleTerms = new Set(normalizePt(story.titulo));
+    if (titleTerms.size === 0) continue;
+    const aligned = cluster.articles.some((a) => {
+      const at = normalizePt(a.title);
+      return at.some((t) => titleTerms.has(t));
+    });
+    if (!aligned) {
+      console.warn(`  ⚠ desalinho: "${story.titulo}" — nenhum artigo do cluster compartilha termo`);
+    }
   }
 
   // 7. gravação (current + snapshot do dia + state com cache podado)
