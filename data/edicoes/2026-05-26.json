@@ -1,6 +1,6 @@
 {
   "date": "2026-05-26",
-  "generatedAt": "2026-05-26T19:03:32.066Z",
+  "generatedAt": "2026-05-26T19:05:58.322Z",
   "home": [
     {
       "clusterId": "6091b1677af2ad8e",
@@ -27,10 +27,10 @@
       "clusterId": "1c4223e294da01b7",
       "slug": "a6e18d74ce7b5830",
       "titulo": "Incêndio atinge prédio no Centro do Rio",
-      "resumo": "Bombeiros foram acionados às 15h08 para combater fogo no alto de um edifício na Rua Alexandre Mackenzie, 20, no Centro do Rio. O prédio fica próximo a uma subestação de energia da Light e a um estacionamento. Até o momento, não há informações sobre feridos.",
-      "porQueImporta": "O incêndio pode afetar a infraestrutura urbana e a segurança dos moradores e trabalhadores da região.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "resumo": "Incêndio atinge prédio no Centro do Rio Bombeiros do Quartel Central foram acionados às 15h08 desta terça-feira (26) para combater um incêndio no alto de um edifício na Rua Alexandre Mackenzie, número 20, no Centro do Rio. O imóvel fica ao lado de uma subestação de energia da Light e de um estacionamento. Até a última atualização desta reportagem, não havia informações sobre feridos. Bombeiros do Quartel Central foram acionados às 15h08 desta terça-feira (26)",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
@@ -179,6 +179,22 @@
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "1c4223e294da01b7",
+          "slug": "a6e18d74ce7b5830",
+          "titulo": "Incêndio atinge prédio no Centro do Rio",
+          "resumo": "Incêndio atinge prédio no Centro do Rio Bombeiros do Quartel Central foram acionados às 15h08 desta terça-feira (26) para combater um incêndio no alto de um edifício na Rua Alexandre Mackenzie, número 20, no Centro do Rio. O imóvel fica ao lado de uma subestação de energia da Light e de um estacionamento. Até a última atualização desta reportagem, não havia informações sobre feridos. Bombeiros do Quartel Central foram acionados às 15h08 desta terça-feira (26)",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/26/incendio-atinge-predio-no-centro-do-rio.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T18:49:37.000Z"
+        },
         {
           "clusterId": "fd6ff00dde88922f",
           "slug": "9771eac732afb30c",
@@ -452,44 +468,6 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "1c4223e294da01b7",
-          "slug": "a6e18d74ce7b5830",
-          "titulo": "Incêndio atinge prédio no Centro do Rio",
-          "resumo": "Bombeiros foram acionados às 15h08 para combater fogo no alto de um edifício na Rua Alexandre Mackenzie, 20, no Centro do Rio. O prédio fica próximo a uma subestação de energia da Light e a um estacionamento. Até o momento, não há informações sobre feridos.",
-          "porQueImporta": "O incêndio pode afetar a infraestrutura urbana e a segurança dos moradores e trabalhadores da região.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/26/incendio-atinge-predio-no-centro-do-rio.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-26T18:49:37.000Z"
-        },
-        {
-          "clusterId": "262c2fd12bf9be4e",
-          "slug": "7eee4e19e317fc1b",
-          "titulo": "Seis pessoas morrem em incêndio em casa na Rússia",
-          "resumo": "Um incêndio atingiu uma residência na região de Omsk, na Sibéria, resultando na morte de seis pessoas, incluindo quatro crianças. A agência de notícias TASS informou que as autoridades locais confirmaram o número de vítimas. O incidente ocorreu a cerca de 2.200 km a leste de Moscou. A ocorrência está em atualização.",
-          "porQueImporta": "O acidente destaca a vulnerabilidade de habitações em regiões remotas e a necessidade de medidas de segurança contra incêndios.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/05/26/pessoas-morrem-em-incendio-na-russia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-05-26T04:21:32.000Z"
-        }
-      ]
-    },
-    {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
@@ -552,6 +530,28 @@
           ],
           "updatedAt": "2026-05-26T18:54:19.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/R3qVXYmD8mqAVZwN9hwn3EE5hU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/N/nSpfadSHa9y3dlW7Kglw/101399465-1088772681496976-5285405454745206784-n.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "262c2fd12bf9be4e",
+          "slug": "7eee4e19e317fc1b",
+          "titulo": "Seis pessoas morrem em incêndio em casa na Rússia",
+          "resumo": "Um incêndio atingiu uma residência na região de Omsk, na Sibéria, resultando na morte de seis pessoas, incluindo quatro crianças. A agência de notícias TASS informou que as autoridades locais confirmaram o número de vítimas. O incidente ocorreu a cerca de 2.200 km a leste de Moscou. A ocorrência está em atualização.",
+          "porQueImporta": "O acidente destaca a vulnerabilidade de habitações em regiões remotas e a necessidade de medidas de segurança contra incêndios.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/05/26/pessoas-morrem-em-incendio-na-russia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-05-26T04:21:32.000Z"
         }
       ]
     },
