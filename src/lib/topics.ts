@@ -11,7 +11,7 @@ import type { Story } from './types';
 import { allStories } from './data';
 import { storySlug } from './story';
 
-export const MIN_STORIES = 3; // mínimo p/ existir a página-tema
+export const MIN_STORIES = 2; // mínimo p/ existir a página-tema (Bug #7: baixado de 3 → 2 pra surfacar entidades específicas mais cedo)
 export const INDEX_MIN = 4; // mínimo p/ entrar no índice do Google (senão noindex,follow)
 
 // Conectores: podem ligar partes de um nome próprio, mas não valem como tema sozinhos.
