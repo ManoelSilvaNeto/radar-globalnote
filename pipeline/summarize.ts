@@ -80,6 +80,37 @@ function sanitize(s: Summary): Summary {
   };
 }
 
+// Bug #5: a IA às vezes cita datas literais incoerentes (ex: resumo diz
+// "24 de março" enquanto a fonte é de 25 de maio). Detecta menções de mês em
+// PT-BR no título/resumo/porQueImporta e compara com o mês de cluster.latestAt.
+// Permite: mesmo mês, mês anterior (recent past), 1-2 meses no futuro (forecast).
+// Flagga: 2+ meses no passado (datas históricas/erros de cópia).
+const MONTHS_PT_NORM = [
+  'janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho',
+  'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro',
+] as const;
+const MONTH_TOKEN_RE = new RegExp(`\\b(${MONTHS_PT_NORM.join('|')})\\b`, 'g');
+// diff = (pubMonth - mentionedMonth + 12) % 12. Allowed window:
+//   0 = mesmo mês; 1 = mês anterior; 10–11 = 1–2 meses no futuro.
+const ALLOWED_MONTH_DIFFS = new Set([0, 1, 10, 11]);
+
+export function dateInconsistency(s: Summary, latestAt: string): boolean {
+  const pubDate = new Date(latestAt);
+  if (Number.isNaN(pubDate.getTime())) return false;
+  const pubMonth = pubDate.getUTCMonth();
+  const text = `${s.titulo} ${s.resumo} ${s.porQueImporta}`
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase();
+  for (const match of text.matchAll(MONTH_TOKEN_RE)) {
+    const idx = MONTHS_PT_NORM.indexOf(match[1] as (typeof MONTHS_PT_NORM)[number]);
+    if (idx === -1) continue;
+    const diff = (pubMonth - idx + 12) % 12;
+    if (!ALLOWED_MONTH_DIFFS.has(diff)) return true;
+  }
+  return false;
+}
+
 // Bug #3: detecta nomes próprios no título gerado que NÃO aparecem em nenhuma das
 // fontes. A IA tem tendência a completar/inventar entidades (ex: "Flávio Marqueteiro"
 // quando a fonte diz só "Flávio Bolsonaro"). A validação extrai entidades do título
@@ -115,8 +146,13 @@ const SYSTEM_INSTRUCTION = [
   '   profissões ao lado do nome ("Flávio Marqueteiro"). Em dúvida, use pronome ou',
   '   descrição funcional: "o réu", "o suspeito", "o motorista", "o assessor", "a',
   '   vítima", "a empresa", "as autoridades".',
-  '5. Se houver incerteza ou divergência entre as fontes, sinalize isso.',
-  '6. Português do Brasil, claro e direto.',
+  '5. DATAS: cite datas APENAS se aparecerem EXPLICITAMENTE em alguma fonte E',
+  '   forem coerentes com a data atual da matéria. Prefira referências relativas',
+  '   ("hoje", "ontem", "esta semana", "no último final de semana"). NÃO invente',
+  '   dia da semana. Se a data parecer antiga (>30 dias atrás) ou inconsistente,',
+  '   OMITA — provavelmente é contexto histórico ou erro da fonte.',
+  '6. Se houver incerteza ou divergência entre as fontes, sinalize isso.',
+  '7. Português do Brasil, claro e direto.',
 ].join('\n');
 
 function buildPrompt(input: SummarizeInput): string {
@@ -344,6 +380,9 @@ export async function summarizeClusters(
       if (halls.length > 0) {
         console.warn(`  ⚠ cache invalidado por alucinação (${cluster.id}): ${halls.join(', ')}`);
         cached = undefined;
+      } else if (dateInconsistency(rawCached, cluster.latestAt)) {
+        console.warn(`  ⚠ cache invalidado por data inconsistente (${cluster.id})`);
+        cached = undefined;
       }
     }
 
@@ -369,13 +408,16 @@ export async function summarizeClusters(
         iaCalls++;
         try {
           const summary = sanitize(await summarizer.summarize(toInput(cluster)));
-          // Bug #3: rejeita o output fresco se introduziu nome inventado.
-          // Cai pro caminho de fallback/stale-cache abaixo, sem cachear.
+          // Bug #3 + #5: rejeita o output fresco se introduziu nome inventado
+          // ou citou data fora da janela coerente. Cai pro caminho de
+          // fallback/stale-cache abaixo, sem cachear.
           const halls = hallucinatedNames(summary.titulo, cluster.articles);
           if (halls.length > 0) {
             console.warn(
               `  ⚠ título com alucinação rejeitado (${cluster.id}): ${halls.join(', ')} — fallback`,
             );
+          } else if (dateInconsistency(summary, cluster.latestAt)) {
+            console.warn(`  ⚠ data inconsistente no resumo rejeitada (${cluster.id}) — fallback`);
           } else {
             summaries.set(cluster.id, summary);
             nextCache[key] = { ...summary, cachedAt: now.toISOString() };

@@ -1,5 +1,5 @@
 import { describe, it, expect, vi } from 'vitest';
-import { cacheKey, fallbackSummary, hallucinatedNames, summarizeClusters, type Summarizer } from './summarize';
+import { cacheKey, dateInconsistency, fallbackSummary, hallucinatedNames, summarizeClusters, type Summarizer } from './summarize';
 import type { Article, Cluster, CachedSummary, Summary } from '../src/lib/types';
 
 function article(url: string, source: string, title = 'Título', description = 'Descrição longa do artigo.'): Article {
@@ -186,6 +186,51 @@ describe('summarizeClusters', () => {
 
     expect(summarizer.summarize).not.toHaveBeenCalled();
     expect(stats.fromCache).toBe(1);
+  });
+});
+
+describe('dateInconsistency', () => {
+  function s(titulo: string, resumo = '', porQueImporta = ''): Summary {
+    return { titulo, resumo, porQueImporta, categoria: 'Acidente' };
+  }
+  const PUB_MAY = '2026-05-25T12:00:00.000Z';
+
+  it('flagga "24 de março" em matéria publicada em 25 de maio (caso do brief)', () => {
+    expect(
+      dateInconsistency(
+        s(
+          'Petronas reporta vazamento na Malásia',
+          'A empresa relatou o evento no fim da tarde de domingo, 24 de março, em sua plataforma.',
+        ),
+        PUB_MAY,
+      ),
+    ).toBe(true);
+  });
+
+  it('aceita citação do MESMO mês da publicação', () => {
+    expect(dateInconsistency(s('Vazamento', 'Aconteceu em maio na plataforma.'), PUB_MAY)).toBe(false);
+  });
+
+  it('aceita citação do MÊS ANTERIOR (recent past)', () => {
+    expect(dateInconsistency(s('Vazamento', 'Em abril, a empresa já havia identificado.'), PUB_MAY)).toBe(false);
+  });
+
+  it('aceita citação de mês 1-2 à frente (previsão de evento)', () => {
+    expect(dateInconsistency(s('Frente fria', 'Deve chegar em junho à região Sul.'), PUB_MAY)).toBe(false);
+    expect(dateInconsistency(s('Operação', 'Está prevista para julho.'), PUB_MAY)).toBe(false);
+  });
+
+  it('flagga citação de meses antigos (>2 meses no passado)', () => {
+    expect(dateInconsistency(s('Caso antigo', 'Em fevereiro foram registradas...'), PUB_MAY)).toBe(true);
+    expect(dateInconsistency(s('Tragédia', 'Em janeiro houve...'), PUB_MAY)).toBe(true);
+  });
+
+  it('aceita summary sem menção de mês', () => {
+    expect(dateInconsistency(s('Acidente em rodovia', 'Veículo capotou na manhã desta segunda.'), PUB_MAY)).toBe(false);
+  });
+
+  it('lida com latestAt inválido sem quebrar', () => {
+    expect(dateInconsistency(s('título', 'em fevereiro'), 'data-zoada')).toBe(false);
   });
 });
 
