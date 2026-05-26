@@ -45,6 +45,20 @@
 
 **🪫 Cap de IA por run (2026-05-26):** descoberto que o **Radar isolado estoura o TPD da conta dedicada** quando o cache ainda está pequeno (~22 clusters, ~18% cache hit no início = ~12 chamadas IA novas por run × 6 runs/dia ≈ 60+ chamadas de ~5k tokens = bem acima do TPD free tier). Adicionado `IA_BUDGET_PER_RUN` em `pipeline/summarize.ts`: limita resumos NOVOS a 8/run (cache hits não contam). Override por env `GROQ_BUDGET_PER_RUN` (variable do repo, não secret). Como `pool` já vem ranqueado por score, o orçamento gasta IA nas histórias mais importantes. Conforme o cache amadurece (~64% do Notícias após semanas), o teto vira inerte. Se ainda assim estourar, abaixar pra 6.
 
+**🧹 Sprint de fixes do brief (2026-05-26, à tarde):** o dono mandou `BRIEF_RADAR_FIXES.md` na raiz com 8 bugs priorizados; todos foram corrigidos numa sessão. 13 commits, 80 testes (era 34). Sumário do que mudou:
+- **Bug #1 (cluster.ts + build-data.ts + summarize.ts):** threshold cosine 0.22→0.30, guarda de entidades nomeadas (rejeita join se entidades disjuntas e cosseno < HIGH_COSINE), sources/imagem agora vêm da âncora (não da semente) → display sempre alinhado com o resumo cacheado.
+- **Bug #2 (niche.ts + index.ts):** niche em 2 camadas (STANDALONE passa sozinho; AMBIGUOUS exige DAMAGE_SIGNAL) + gate pós-IA descarta clusters "Geral" sem dano nem palavra standalone.
+- **Bug #3 (summarize.ts):** regra de prompt + `hallucinatedNames()` rejeita títulos com entidade que não está nas fontes; cache hit com alucinação é invalidado.
+- **Bug #4 (fetch.ts):** `stripCaption()` remove "Arquivo pessoal / Divulgação / PRF / Nome/Outlet" coladas no início da description.
+- **Bug #5 (summarize.ts):** `dateInconsistency()` rejeita resumos com menção de mês fora da janela {mesmo, anterior, 1-2 à frente} de `cluster.latestAt`.
+- **Bug #6 (summarize.ts):** `porQueImporta` agora é obrigatório (mín 15 chars); fallbackSummary tem texto sintético honesto em vez de string vazia.
+- **Bug #7 (topics.ts):** GENERIC expandido de ~50 pra ~160 termos (eventos genéricos, pessoas, veículos, gentílicos, marcadores editoriais); isProper aceita dígitos (BR-251); detecção de fenômenos por substring ("onda de calor", "El Niño"); MIN_STORIES 3→2.
+- **Bug #8 (index.astro + format.ts):** selo "Atualizado há X min/h" com bolinha verde pulsante; SSR mostra "às HH:MM", JS substitui por relativo via Intl.RelativeTimeFormat.
+
+**Padrão emergente — validações em `summarizeClusters`:** as 3 invariantes editoriais (#3, #5, #6) seguem o mesmo shape — cache hit validado→invalida+IA; fresh validado→rejeita+fallback; log estruturado. Reusar pra próximas regras.
+
+**Pendência observada:** após todas as validações, runs ficam com `IA=0/8` recorrente — cap apertado + invalidações de cache estão sufocando a IA. **Quando o fallback LLM destravar, prioridade revisar o cap (provavelmente subir pra 12-14).**
+
 **🔁 Fallback LLM dinâmico (DESENHADO + ADIADO 2026-05-26):** plano de adicionar Gemini como provedor primário e Groq como fallback (`ChainSummarizer` em `summarize.ts`) pra multiplicar a quota efetiva e elevar `IA_BUDGET_PER_RUN` pra ~14-16. **Adiado no mesmo dia** porque criar chave Gemini exige conta Google nova com SMS-verification e o número de celular do dono já saturou a cota de SMS do Google. Caminhos quando destravar: (a) chip novo, (b) trocar pra provedor sem telefone — **Cerebras Cloud** é o mais natural (mesma família Llama/Qwen do Groq, signup só com e-mail), também válidos: OpenRouter, Together, DeepSeek, Mistral. **Sem urgência** — o cap=8 atual entrega home top-10 100% com IA; fallback bruto só aparece na cauda menos relevante. Skill `factory-portal-onboarding` em `~/.claude/skills/` já documenta o processo pra retomar.
 
 ## Decisões fechadas
