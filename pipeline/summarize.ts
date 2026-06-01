@@ -242,18 +242,30 @@ export function parseJsonObject(text: string): unknown {
   return JSON.parse(slice);
 }
 
-export class GroqSummarizer implements Summarizer {
-  private apiKey: string;
-  private model: string;
+// Provedor OpenAI-compatível genérico (Groq, Cerebras, …): mesmo corpo de request,
+// muda só o endpoint, a chave, o modelo e se o modelo aceita schema estrito /
+// reasoning_effort. Subclasses só preenchem essa config.
+export type ProviderConfig = {
+  label: string; // 'groq' / 'cerebras' — aparece nos logs
+  endpoint: string;
+  apiKey: string;
+  model: string;
+  strictSchema: boolean; // manda response_format json_schema (constrained decoding)
+  reasoningEffort: boolean; // manda reasoning_effort: 'low' (família gpt-oss)
+};
 
-  constructor(apiKey: string, model = process.env.GROQ_MODEL ?? 'openai/gpt-oss-20b') {
-    this.apiKey = apiKey;
-    this.model = model;
+export class OpenAICompatSummarizer implements Summarizer {
+  readonly label: string;
+  protected cfg: ProviderConfig;
+
+  constructor(cfg: ProviderConfig) {
+    this.cfg = cfg;
+    this.label = cfg.label;
   }
 
   // Structured outputs estritos quando o modelo suporta; senão json_object.
   private responseFormat(): Record<string, unknown> {
-    if (STRICT_SCHEMA_MODELS.has(this.model)) {
+    if (this.cfg.strictSchema) {
       return {
         type: 'json_schema',
         json_schema: { name: 'resumo', strict: true, schema: RESUMO_SCHEMA },
@@ -279,7 +291,7 @@ export class GroqSummarizer implements Summarizer {
 
   private async callOnce(input: SummarizeInput): Promise<Summary> {
     const body: Record<string, unknown> = {
-      model: this.model,
+      model: this.cfg.model,
       temperature: 0.3,
       // Folga p/ o JSON. Em modelos de reasoning (gpt-oss) os tokens de raciocínio
       // contam aqui; com max baixo o JSON era truncado → 400 "Failed to generate JSON".
@@ -292,21 +304,21 @@ export class GroqSummarizer implements Summarizer {
     };
     // Resumir não exige raciocínio pesado: 'low' reduz tokens de reasoning (mais
     // rápido e deixa espaço pro JSON). Só os gpt-oss aceitam este parâmetro.
-    if (STRICT_SCHEMA_MODELS.has(this.model)) body.reasoning_effort = 'low';
+    if (this.cfg.reasoningEffort) body.reasoning_effort = 'low';
 
-    const res = await fetch(GROQ_ENDPOINT, {
+    const res = await fetch(this.cfg.endpoint, {
       method: 'POST',
       headers: {
-        Authorization: `Bearer ${this.apiKey}`,
+        Authorization: `Bearer ${this.cfg.apiKey}`,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(body),
     });
 
     if (!res.ok) {
-      const body = await res.text().catch(() => '');
+      const errBody = await res.text().catch(() => '');
       // Propaga o status HTTP p/ a lógica de retry/disjuntor (429/500/503).
-      throw Object.assign(new Error(`Groq ${res.status}: ${body.slice(0, 200)}`), {
+      throw Object.assign(new Error(`${this.cfg.label} ${res.status}: ${errBody.slice(0, 200)}`), {
         status: res.status,
       });
     }
@@ -315,19 +327,97 @@ export class GroqSummarizer implements Summarizer {
       choices?: { message?: { content?: string } }[];
     };
     const text = data.choices?.[0]?.message?.content;
-    if (!text) throw new Error('resposta vazia da IA');
+    if (!text) throw new Error(`resposta vazia da IA (${this.cfg.label})`);
     return parseJsonObject(text) as Summary;
   }
 }
 
-// Cria o resumidor a partir do ambiente. Sem GROQ_API_KEY → null (usa fallback).
+export class GroqSummarizer extends OpenAICompatSummarizer {
+  constructor(apiKey: string, model = process.env.GROQ_MODEL ?? 'openai/gpt-oss-20b') {
+    super({
+      label: 'groq',
+      endpoint: GROQ_ENDPOINT,
+      apiKey,
+      model,
+      strictSchema: STRICT_SCHEMA_MODELS.has(model),
+      reasoningEffort: STRICT_SCHEMA_MODELS.has(model),
+    });
+  }
+}
+
+const CEREBRAS_ENDPOINT = 'https://api.cerebras.ai/v1/chat/completions';
+// Cerebras hospeda gpt-oss-120b com structured outputs estritos (json_schema) +
+// reasoning_effort — mesma garantia de JSON do Groq. IDs SEM o prefixo 'openai/'.
+const CEREBRAS_STRICT_MODELS = new Set(['gpt-oss-120b', 'gpt-oss-20b']);
+
+export class CerebrasSummarizer extends OpenAICompatSummarizer {
+  constructor(apiKey: string, model = process.env.CEREBRAS_MODEL ?? 'gpt-oss-120b') {
+    super({
+      label: 'cerebras',
+      endpoint: CEREBRAS_ENDPOINT,
+      apiKey,
+      model,
+      strictSchema: CEREBRAS_STRICT_MODELS.has(model),
+      reasoningEffort: CEREBRAS_STRICT_MODELS.has(model),
+    });
+  }
+}
+
+// Encadeia provedores: tenta o primário; em 429 (cota) ou falha, cai pro próximo.
+// Quando um provedor devolve 429, é marcado como esgotado e PULADO no resto do run
+// (a cota não volta em segundos) — economiza throttle/tentativa nas chamadas
+// seguintes. Multiplica a quota efetiva: gasta o Groq até o 429, depois o Cerebras.
+export class ChainSummarizer implements Summarizer {
+  private providers: OpenAICompatSummarizer[];
+  private exhausted = new Set<string>();
+
+  constructor(providers: OpenAICompatSummarizer[]) {
+    this.providers = providers;
+  }
+
+  async summarize(input: SummarizeInput): Promise<Summary> {
+    // Pula os já esgotados neste run; se todos esgotaram, tenta todos de novo
+    // (deixa o disjuntor do summarizeClusters decidir quando parar de vez).
+    const live = this.providers.filter((p) => !this.exhausted.has(p.label));
+    const chain = live.length > 0 ? live : this.providers;
+    let lastErr: unknown = new Error('nenhum provedor de IA disponível');
+    for (const p of chain) {
+      try {
+        return await p.summarize(input);
+      } catch (err) {
+        lastErr = err;
+        if (isQuotaError(err)) {
+          this.exhausted.add(p.label);
+          console.warn(`  provedor ${p.label} sem cota (429) — caindo pro próximo.`);
+        } else {
+          console.warn(
+            `  provedor ${p.label} falhou (${String(err).slice(0, 80)}) — caindo pro próximo.`,
+          );
+        }
+      }
+    }
+    throw lastErr; // todos falharam → propaga (429 aciona o disjuntor lá em cima)
+  }
+}
+
+// Cria o resumidor a partir do ambiente. Encadeia os provedores configurados
+// (Groq primário, Cerebras fallback). Sem nenhuma chave → null (usa fallback RSS).
 export function summarizerFromEnv(): Summarizer | null {
-  const apiKey = process.env.GROQ_API_KEY?.trim();
-  if (!apiKey) {
-    console.warn('GROQ_API_KEY ausente — resumos via fallback (descrição do RSS).');
+  const providers: OpenAICompatSummarizer[] = [];
+  const groqKey = process.env.GROQ_API_KEY?.trim();
+  if (groqKey) providers.push(new GroqSummarizer(groqKey));
+  const cerebrasKey = process.env.CEREBRAS_API_KEY?.trim();
+  if (cerebrasKey) providers.push(new CerebrasSummarizer(cerebrasKey));
+
+  if (providers.length === 0) {
+    console.warn(
+      'Sem GROQ_API_KEY nem CEREBRAS_API_KEY — resumos via fallback (descrição do RSS).',
+    );
     return null;
   }
-  return new GroqSummarizer(apiKey);
+  if (providers.length === 1) return providers[0]!;
+  console.log(`IA encadeada: ${providers.map((p) => p.label).join(' → ')}`);
+  return new ChainSummarizer(providers);
 }
 
 // ── Orquestração: cache + IA + fallback ───────────────────────────────────────
@@ -356,7 +446,12 @@ const QUOTA_BREAKER = 4;
 // o orçamento diário no meio do dia. Como `pool` já vem ranqueado por score, o
 // orçamento gasta a IA nas histórias mais importantes. Conforme o cache amadurece,
 // o teto vira inerte (a maioria das histórias resolve por cache).
-const IA_BUDGET_PER_RUN = Number(process.env.GROQ_BUDGET_PER_RUN ?? 8);
+// Com 2 provedores (Groq + Cerebras) a quota efetiva multiplica → o teto sobe pra
+// 14 (cobre os ~22 clusters quase inteiros). Com só o Groq, mantém 8 p/ proteger o
+// TPD do free tier. Override explícito por GROQ_BUDGET_PER_RUN sempre vence.
+const IA_BUDGET_PER_RUN = Number(
+  process.env.GROQ_BUDGET_PER_RUN ?? (process.env.CEREBRAS_API_KEY?.trim() ? 14 : 8),
+);
 // Idade máxima de um resumo cacheado p/ servir SEM re-chamar a IA. Dentro do TTL,
 // a história é um cache hit; vencido, tenta refrescar (cota permitindo) e, se a IA
 // estiver fora, reusa o resumo antigo mesmo assim (melhor que RSS cru).
