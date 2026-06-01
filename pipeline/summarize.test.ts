@@ -1,5 +1,6 @@
 import { describe, it, expect, vi } from 'vitest';
-import { cacheKey, dateInconsistency, fallbackSummary, hallucinatedNames, summarizeClusters, type Summarizer } from './summarize';
+import { cacheKey, ChainSummarizer, dateInconsistency, fallbackSummary, hallucinatedNames, summarizeClusters, type Summarizer } from './summarize';
+import type { OpenAICompatSummarizer } from './summarize';
 import type { Article, Cluster, CachedSummary, Summary } from '../src/lib/types';
 
 function article(url: string, source: string, title = 'Título', description = 'Descrição longa do artigo.'): Article {
@@ -297,5 +298,49 @@ describe('hallucinatedNames', () => {
   it('busca também na description (não só no title) das fontes', () => {
     const sources = [art('Acidente em rodovia', 'O motorista, identificado como João Silva, perdeu o controle')];
     expect(hallucinatedNames('Acidente envolve João Silva', sources)).toEqual([]);
+  });
+});
+
+describe('ChainSummarizer', () => {
+  const INPUT = { title: 't', sources: [{ source: 'G1', title: 't', description: 'd' }] };
+  // Provedor falso com o shape mínimo que o ChainSummarizer usa (label + summarize).
+  function provider(label: string, summarize: (i: unknown) => Promise<Summary>) {
+    return { label, summarize: vi.fn(summarize) } as unknown as OpenAICompatSummarizer;
+  }
+  const quota = () => Object.assign(new Error('groq 429: rate limit'), { status: 429 });
+
+  it('usa o primário e não toca no fallback quando ele responde', async () => {
+    const p1 = provider('groq', async () => SUMMARY);
+    const p2 = provider('cerebras', async () => SUMMARY);
+    const chain = new ChainSummarizer([p1, p2]);
+    await expect(chain.summarize(INPUT as never)).resolves.toEqual(SUMMARY);
+    expect(p1.summarize).toHaveBeenCalledTimes(1);
+    expect(p2.summarize).not.toHaveBeenCalled();
+  });
+
+  it('cai pro fallback em 429 e PULA o primário esgotado na chamada seguinte', async () => {
+    const p1 = provider('groq', async () => { throw quota(); });
+    const p2 = provider('cerebras', async () => SUMMARY);
+    const chain = new ChainSummarizer([p1, p2]);
+    await expect(chain.summarize(INPUT as never)).resolves.toEqual(SUMMARY);
+    await expect(chain.summarize(INPUT as never)).resolves.toEqual(SUMMARY);
+    expect(p1.summarize).toHaveBeenCalledTimes(1); // só na 1ª; depois fica de fora
+    expect(p2.summarize).toHaveBeenCalledTimes(2);
+  });
+
+  it('cai pro próximo também em erro não-quota (sem marcar esgotado)', async () => {
+    const p1 = provider('groq', async () => { throw new Error('500 boom'); });
+    const p2 = provider('cerebras', async () => SUMMARY);
+    const chain = new ChainSummarizer([p1, p2]);
+    await expect(chain.summarize(INPUT as never)).resolves.toEqual(SUMMARY);
+    await chain.summarize(INPUT as never);
+    expect(p1.summarize).toHaveBeenCalledTimes(2); // erro genérico não esgota
+  });
+
+  it('propaga o erro quando todos os provedores falham', async () => {
+    const p1 = provider('groq', async () => { throw quota(); });
+    const p2 = provider('cerebras', async () => { throw quota(); });
+    const chain = new ChainSummarizer([p1, p2]);
+    await expect(chain.summarize(INPUT as never)).rejects.toThrow();
   });
 });
