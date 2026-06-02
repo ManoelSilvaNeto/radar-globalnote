@@ -7,7 +7,7 @@ interface Props {
   limit?: number;
 }
 
-const { categoria, limit = 4 } = Astro.props;
+const { categoria, limit = 3 } = Astro.props;
 const shown = categoria.stories.slice(0, limit);
 ---
 
@@ -18,7 +18,9 @@ const shown = categoria.stories.slice(0, limit);
         <h2 class="font-serif text-xl font-bold">{categoria.label}</h2>
         <a href={`/${categoria.slug}`} class="text-sm text-sky-700 hover:underline dark:text-sky-400">ver tudo →</a>
       </div>
-      {shown.map((story) => <StoryCard story={story} />)}
+      <div class="mt-4 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {shown.map((story) => <StoryCard story={story} />)}
+      </div>
     </section>
   )
 }
