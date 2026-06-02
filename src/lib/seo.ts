@@ -42,8 +42,10 @@ export function newsArticleJsonLd(
     '@type': 'NewsArticle',
     headline: story.titulo.slice(0, 110), // Google ignora headline > 110 chars
     description: story.resumo,
+    inLanguage: 'pt-BR',
     datePublished: story.updatedAt,
     dateModified: story.updatedAt,
+    ...(story.categoria ? { articleSection: story.categoria } : {}),
     ...(story.imageUrl ? { image: [story.imageUrl] } : {}),
     url: pageUrl,
     mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
