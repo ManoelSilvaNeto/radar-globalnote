@@ -100,6 +100,16 @@ describe('editorialCorpus / editorialHallucinations', () => {
     );
     expect(halls).toEqual([]);
   });
+
+  it('ignora plural de termo genérico, código de rodovia e nome de estado', () => {
+    const corpus = editorialCorpus([story()]);
+    const halls = editorialHallucinations(
+      'Balanço do dia',
+      ['Os Incidentes na BR-230 e em Minas Gerais reforçam o padrão de ocorrências.'],
+      corpus,
+    );
+    expect(halls).toEqual([]);
+  });
 });
 
 describe('validateEditorial', () => {

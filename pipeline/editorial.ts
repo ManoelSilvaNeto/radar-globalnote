@@ -133,20 +133,47 @@ const EDITORIAL_GENERIC = new Set([
   'defesa', 'corpo', 'guarda', 'rodoviaria', 'rodoviario', 'marinha', 'aeronautica',
   'exercito', 'forcas', 'seguranca', 'publica', 'publico', 'saude', 'transito',
   'transportes', 'infraestrutura', 'meteorologia', 'meteorologico', 'protecao',
+  // Regiões / direções (referência geográfica genérica, não nome próprio inventado)
+  'norte', 'sul', 'leste', 'oeste', 'nordeste', 'noroeste', 'sudeste', 'sudoeste',
+  'litoral', 'sertao', 'pantanal', 'amazonia',
+  // Coletivos / serviços genéricos comuns na prosa analítica
+  'populacao', 'comunidade', 'comunidades', 'equipe', 'equipes', 'servico', 'servicos',
+  'emergencia', 'emergencias', 'orgaos', 'orgao', 'agentes', 'socorristas',
+  // Estados/UFs do Brasil (conjunto FECHADO — uma análise agregada cita estados
+  // mesmo quando a manchete do dia só nomeia a cidade; tokens dos nomes compostos
+  // entram separados, ex.: "Minas Gerais" → minas + gerais).
+  'acre', 'alagoas', 'amapa', 'amazonas', 'bahia', 'ceara', 'espirito', 'santo',
+  'goias', 'maranhao', 'mato', 'grosso', 'minas', 'gerais', 'para', 'paraiba',
+  'parana', 'pernambuco', 'piaui', 'grande', 'santa', 'catarina', 'paulo',
+  'rondonia', 'roraima', 'tocantins', 'sergipe', 'distrito', 'brasilia',
 ]);
+
+// `ent` (normalizado: lowercase, sem acento) é um termo "comum" que NÃO conta como
+// nome próprio inventado? Cobre genéricos, plurais de genéricos (a lista guarda o
+// singular: "incidentes"→"incidente") e códigos com dígito (rodovias "BR-230",
+// "MG-050"; números nunca são nome fabricado).
+function isCommonTerm(ent: string): boolean {
+  if (GENERIC.has(ent) || EDITORIAL_GENERIC.has(ent)) return true;
+  if (/\d/.test(ent)) return true; // códigos/rodovias/números
+  if (ent.endsWith('s')) {
+    const sing = ent.slice(0, -1);
+    if (GENERIC.has(sing) || EDITORIAL_GENERIC.has(sing)) return true;
+  }
+  return false;
+}
 
 // Entidades nomeadas citadas na peça que NÃO aparecem no corpus da edição (mesma
 // heurística do Bug #3 do resumo, aplicada ao título + cada parágrafo). [] = OK.
-// Termos GENÉRICOS (palavras comuns capitalizadas — "País", "Região", "Governo",
-// gentílicos, dias/meses…) e qualificadores institucionais são ignorados: num texto
-// analítico mais longo eles aparecem naturalmente e NÃO são invenção de fato. Sem
-// esse filtro a trava rejeitava quase toda peça (o resumo, por ser curto, não
-// esbarrava nisso). O que sobra são nomes próprios de fato ausentes do material.
+// Termos comuns (genéricos, plurais de genéricos, códigos numéricos, qualificadores
+// institucionais, regiões) são ignorados: num texto analítico mais longo eles
+// aparecem naturalmente e NÃO são invenção de fato. Sem esse filtro a trava
+// rejeitava quase toda peça (o resumo, por ser curto, não esbarrava nisso). O que
+// sobra são nomes próprios de fato ausentes do material (ex.: "Joaquim Nogueira").
 export function editorialHallucinations(titulo: string, paragrafos: string[], corpus: string): string[] {
   const out = new Set<string>();
   for (const text of [titulo, ...paragrafos]) {
     for (const ent of namedEntities(text)) {
-      if (!corpus.includes(ent) && !GENERIC.has(ent) && !EDITORIAL_GENERIC.has(ent)) out.add(ent);
+      if (!corpus.includes(ent) && !isCommonTerm(ent)) out.add(ent);
     }
   }
   return [...out];
