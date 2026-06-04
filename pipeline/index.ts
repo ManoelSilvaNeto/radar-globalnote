@@ -10,6 +10,7 @@ import { topForHome, POOL_SIZE } from './rank';
 import { summarizeClusters, summarizerFromEnv } from './summarize';
 import { buildEdition, pruneCache, readState, writeData } from './build-data';
 import { maybeWriteEditorial } from './editorial';
+import { maybeWriteTemaIntros } from './tema-intros';
 import { FALLBACK_CATEGORIA } from '../src/lib/categories';
 
 const DATA_DIR = resolve(process.cwd(), 'data');
@@ -100,6 +101,14 @@ async function main(): Promise<void> {
     await maybeWriteEditorial(edition, DATA_DIR, now);
   } catch (err) {
     console.warn('[editorial] falhou (não crítico):', String(err).slice(0, 140));
+  }
+
+  // 9. intros originais das páginas-tema (best-effort, evergreen, backfill gradual).
+  // Mesma filosofia do editorial: conteúdo próprio p/ SEO/AdSense, nunca derruba a run.
+  try {
+    await maybeWriteTemaIntros(edition, DATA_DIR, now);
+  } catch (err) {
+    console.warn('[tema-intros] falhou (não crítico):', String(err).slice(0, 140));
   }
 
   console.log(
