@@ -67,6 +67,26 @@ export type Edition = {
   categorias: CategoriaSecao[];
 };
 
+// Referência interna a uma história citada por uma peça editorial (link p/ /noticia/<slug>).
+export type EditorialRef = {
+  slug: string;
+  titulo: string;
+  categoria: string;
+};
+
+// Peça editorial "Panorama do dia": análise original gerada pela IA a partir das
+// notícias JÁ resumidas e validadas da edição (não republica fonte; sintetiza
+// padrões do dia). 1 por dia — `date` é também o slug da rota /editorial/<date>.
+// Persistida em data/editorial/<date>.json e arquivada (acumula conteúdo original).
+export type Editorial = {
+  date: string; // AAAA-MM-DD (= slug da rota)
+  generatedAt: string; // ISO 8601
+  titulo: string;
+  linhaFina: string; // "dek"/subtítulo de 1 frase
+  paragrafos: string[]; // corpo da análise (parágrafos originais, PT-BR)
+  destaques: EditorialRef[]; // notícias da edição citadas (links internos)
+};
+
 // Resumo em cache, com carimbo de quando entrou (pra poda da janela).
 export type CachedSummary = Summary & { cachedAt: string };
 
