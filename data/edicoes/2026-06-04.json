@@ -1,324 +1,216 @@
 {
   "date": "2026-06-04",
-  "generatedAt": "2026-06-04T18:35:35.260Z",
+  "generatedAt": "2026-06-04T22:07:03.334Z",
   "home": [
     {
-      "clusterId": "95871635de5bbf9e",
-      "slug": "b0034f9aa0511916",
-      "titulo": "Mulher morre em acidente envolvendo motocicleta e automóvel na Rodovia dos Bandeirantes em Jundiaí",
-      "resumo": "Na manhã de quinta-feira, uma colisão entre uma motocicleta e um carro ocorreu no quilômetro 58 da Rodovia Bandeirantes, sentido interior, em Jundiaí. A passageira da moto foi socorrida em estado grave e teve o óbito confirmado às 12h. O condutor do carro sofreu ferimentos leves. O acidente foi registrado por volta das 11h.",
-      "porQueImporta": "O fato evidencia a necessidade de atenção e segurança nas rodovias estaduais",
+      "clusterId": "b3b35b2c79cffe50",
+      "slug": "3dc6cb68d8180f48",
+      "titulo": "Trem de pouso de avião colapsa e deixa feridos na Alemanha",
+      "resumo": "Um avião teve o trem de pouso colapsado durante a aterrissagem na Alemanha por volta das 12h45, horário local. O incidente resultou em feridos entre os ocupantes da aeronave. A companhia aérea emitiu comunicado oficial confirmando o acidente.",
+      "porQueImporta": "O caso evidencia riscos operacionais em voos comerciais e a necessidade de inspeções de segurança",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/trem-de-pouso-de-aviao-colapsa-e-deixa-feridos-na-alemanha"
+        }
+      ],
+      "updatedAt": "2026-06-04T22:00:33.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/aviao-alemanha.jpg"
+    },
+    {
+      "clusterId": "30da94e9f5ab3245",
+      "slug": "e201cbb9405317d8",
+      "titulo": "Quatro mortos em acidente entre dois carros na BR-235 em Areia Branca",
+      "resumo": "Um choque entre dois veículos de passeio na BR-235, em Areia Branca, resultou na morte de quatro homens que viajavam juntos. Dois dos falecidos eram irmãos e os outros dois eram pai e filho, todos dentro do mesmo carro. As vítimas eram conhecidos entre si, mas não pertenciam à mesma família. O acidente ocorreu na quinta-feira, segundo informações da Prefeitura.",
+      "porQueImporta": "O incidente evidencia riscos de tráfego em rodovias estaduais e o impacto de acidentes fatais nas comunidades locais.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/04/mulher-morre-em-acidente-envolvendo-motocicleta-e-automovel-na-rodovia-dos-bandeirantes-em-jundiai.ghtml"
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/04/pai-e-filho-e-irmaos-saiba-quem-sao-as-vitimas-de-acidente-na-br-235-em-areia-branca.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T18:15:23.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/R63LW70v9TP4yP31MdFkkq0FmEg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/j/WhEFSEQNyWM9ZaOjGNUA/1285fdb0-8d36-4ecd-abb5-f7231ce8ae9b.jpg"
+      "updatedAt": "2026-06-04T21:47:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/2QjfAY98Fxmvce5_dZkGLTtYZ30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/4/fqD5HBQhuRshyCMkYfUg/imagem-g1-4-.jpg"
     },
     {
-      "clusterId": "f81e5a92e6291353",
-      "slug": "94d974b7d341cac1",
-      "titulo": "Motorista embriagado é preso após causar morte de motoboy em Ribeirão Preto",
-      "resumo": "Na noite de quarta-feira, um motorista de 48 anos foi detido após colidir com um motociclista no cruzamento das ruas Mato Grosso e Japurá, no bairro Ipiranga, em Ribeirão Preto. A vítima, um motoboy, morreu no local. O condutor apresentava sinais de embriaguez e tentou fugir, mas foi localizado pela Polícia Militar.",
-      "porQueImporta": "O caso evidencia os perigos de conduzir veículo sob efeito de álcool e a necessidade de fiscalização no trânsito",
+      "clusterId": "d300a64d570475b6",
+      "slug": "53149b6da3f402cb",
+      "titulo": "Mulher morre ao cair de moto no Sul do Piauí no dia de aniversário",
+      "resumo": "Uma mulher de 37 anos perdeu o controle da motocicleta que conduzia na zona rural de Bocaina, no Sul do Piauí, e caiu, vindo a falecer. O acidente ocorreu na tarde de quinta-feira, data em que completava 37 anos. Testemunhas relataram que a vítima havia ingerido bebida alcoólica antes do acidente e não utilizava capacete. A identidade da vítima não foi divulgada pelas autoridades.",
+      "porQueImporta": "O caso evidencia riscos de condução sob efeito de álcool e a importância do uso de equipamentos de proteção nas vias rurais.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/04/motorista-embriagado-e-preso-apos-causar-batida-que-matou-motoboy-em-ribeirao-preto-sp.ghtml"
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/04/mulher-morre-acidente-piaui.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T18:07:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ER-lcUo0qQdyTE0dg9V7UVls9L0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/7/peucrjQV23W0E875pqhw/acidente-japura.jpg"
+      "updatedAt": "2026-06-04T21:23:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UgzVq028VonSlGHau6-RBUKR4-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/i/AtnYBjTVW4mAQ0eABUvw/edicao-imagens-g1-43-.png"
     },
     {
-      "clusterId": "5bbe6ae6e14c6793",
-      "slug": "13a5353d15cfc790",
-      "titulo": "Acidente deixa quatro mortos e três feridos na BR-235 em Areia Branca",
-      "resumo": "Na tarde de quinta-feira, dois carros colidiram frontalmente na BR-235, no município de Areia Branca. O acidente resultou em quatro óbitos e três pessoas feridas. Segundo a Polícia Rodoviária Federal, as vítimas incluíam uma mulher com duas crianças socorridas pelo marido e quatro homens no outro veículo. As autoridades ainda não divulgaram detalhes sobre a dinâmica da colisão.",
-      "porQueImporta": "O evento evidencia a necessidade de atenção e medidas de segurança nas rodovias federais brasileiras",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/04/acidente-deixa-quatro-pessoas-mortas-e-tres-feridas-na-br-235-em-areia-branca.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T17:57:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6ZN-EMjNQU8LvB5WWq8pKR4zVtA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/u/n2dHS7RQObS0DhdEozEQ/imagem-g1-3-.jpg"
-    },
-    {
-      "clusterId": "39dbcfc478bc973b",
-      "slug": "ab46127bb19423f4",
-      "titulo": "Filhotes são resgatados por bombeiros em incêndio de vegetação em Feijó, Acre",
-      "resumo": "Na quarta-feira, duas semanas após o início do incêndio, bombeiros foram acionados pelos moradores do bairro Pelé Campos, em Feijó, para combater chamas em um terreno baldio. Durante a operação, encontraram dois filhotes de cachorro assustados e impossibilitados de sair da área em que o fogo se alastrava. Os animais foram retirados com segurança pelas equipes de resgate. O Corpo de Bombeiros informou que os filhotes vivem próximo à zona afetada.",
-      "porQueImporta": "O resgate demonstra a atuação das equipes de emergência em situações de incêndio e a proteção de animais domésticos vulneráveis.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/06/04/filhotes-de-cachorro-sao-resgatados-por-bombeiros-durante-incendio-em-vegetacao-no-acre-video.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T17:43:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/in0vp5kWCGOkAwIFaCUYHvMyIlk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/s/86rw60TTCKpVv4JWDYsg/midia-de-distribuicao-g1-34-.png"
-    },
-    {
-      "clusterId": "587605c42916dbdf",
-      "slug": "075685dc4f8b6865",
-      "titulo": "Homem em situação de rua morre afogado em lago no interior de SP",
-      "resumo": "Um homem em situação de rua, com idade estimada entre 30 e 40 anos, foi encontrado morto por afogamento no lago do Parque Ecológico de Matão, interior de São Paulo, na manhã desta quinta-feira. A identidade da vítima ainda não foi confirmada. Bombeiros realizaram o resgate e o corpo foi encaminhado ao Instituto Médico Legal. A ocorrência foi registrada como afogamento acidental.",
-      "porQueImporta": "O caso evidencia riscos de segurança para pessoas em situação de rua em áreas públicas aquáticas",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/04/homem-em-situacao-de-rua-morre-afogado-em-lago-no-interior-de-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T17:30:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bY_PVSNWx7Uv4w03yq2kkuY5IZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/A/QpAcguS8G5yqcgZGCJDA/afogamento-lagoa-matao.jpeg"
-    },
-    {
-      "clusterId": "0d69c695cc5ace95",
-      "slug": "0b9729fa18e09fcb",
-      "titulo": "Jovem e padrasto são encontrados carbonizados em casa em Araguaína",
-      "resumo": "Corpos de Ivano Vaz Cunha, 49, e Laiane Cardoso Noleto, 19, foram encontrados carbonizados em uma residência no setor Lago Azul I, em Araguaína, na quarta-feira por volta das 17h14. As vítimas estavam sem roupas na parte inferior do corpo e no local foi localizado um galão com vestígios de gasolina. O incêndio se concentrou em um quarto, segundo os bombeiros. A Polícia Militar está investigando o caso.",
-      "porQueImporta": "O fato evidencia uma ocorrência de morte violenta e possível crime envolvendo incêndio doméstico.",
+      "clusterId": "2647ef6e7894f8c6",
+      "slug": "25dff862afec9863",
+      "titulo": "Incêndio em apartamento de condomínio em Lucas do Rio Verde causado por máquina de lavar",
+      "resumo": "Uma máquina de lavar roupas pegou fogo e provocou um incêndio em um apartamento térreo no bairro Bandeirantes II, em Lucas do Rio Verde, na tarde de quarta-feira. As equipes do Corpo de Bombeiros encontraram o local tomado por fumaça densa e combateram as chamas. Não houve feridos. As investigações apontam curto-circuito no equipamento como provável causa.",
+      "porQueImporta": "O caso alerta para riscos de curtos-circuitos em eletrodomésticos residenciais",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/04/jovem-encontrada-carbonizada-com-o-padrasto-estava-sem-parte-das-roupas-diz-pm.ghtml"
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/04/maquina-de-lavar-pega-fogo-e-provoca-incendio-em-apartamento-de-condominio-em-mt.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T17:07:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/32f_OgkmczUZTbme_yXJJSLgom4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/QC7xijQmmTLY7tNIGxxw/foto-e-montagem-vertical-88-.png"
+      "updatedAt": "2026-06-04T21:14:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/cMaACP1rCqRPXIYUlr05hrtyNIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/q/9AZp2IRiqQd09vsBxJFQ/videos-g1-18-.jpg"
     },
     {
-      "clusterId": "ad2e11bc3b2cf55d",
-      "slug": "d35f639444791b35",
-      "titulo": "Pé humano encontrado na BR-010 ainda sem identificação",
-      "resumo": "Um pé em estado de decomposição foi localizado às margens da BR-010, em Palmas, no dia 20 de maio. A Polícia Militar foi acionada e o objeto foi encaminhado ao Instituto Médico Legal. Até o momento, as autoridades não confirmaram a identidade do corpo, embora investiguem possível vínculo com a jovem de 22 anos que morreu após perder um membro em acidente de trânsito na mesma rodovia. A análise para confirmar a identidade ainda está em curso.",
-      "porQueImporta": "A identificação do corpo é essencial para a família da vítima e para a apuração das circunstâncias do acidente.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/04/pe-encontrado-em-rodovia-que-pode-ser-de-estudante-morta-em-acidente-segue-sem-identificacao-ha-15-dias.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T16:12:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vnRRXFQ016sr6oW8xwQj51WmRZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/B/h8EE8FR4OoKhhimm6Xsg/jhenyferr.png"
-    },
-    {
-      "clusterId": "1e709805e41744c5",
-      "slug": "4d24fbb3bc0c3873",
-      "titulo": "Motociclista morre e passageira fica ferida em acidente na BR-262 em Domingos Martins",
-      "resumo": "Por volta das 9h, uma motocicleta que seguia de Viana para Domingos Martins perdeu o controle em curva molhada e invadiu a contramão, colidindo frontalmente com um caminhão no km 42 da rodovia. O condutor da moto morreu e a passageira ficou gravemente ferida. O acidente foi registrado pela Polícia Rodoviária Federal.",
-      "porQueImporta": "O caso evidencia os perigos de condução em vias escorregadias durante chuvas intensas",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/04/motociclista-morre-e-passageira-fica-ferida-apos-colisao-com-caminhao-na-br-262-em-domingos-martins.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T16:06:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kq_PP0tJcLkX4nEzOVICRyptOJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/H/BcSTB1TZK99TXEWSveVA/whatsapp-image-2026-06-04-at-12.22.17-1-.jpeg"
-    },
-    {
-      "clusterId": "37d9000d1bfdb560",
-      "slug": "5c548ca3412b5f89",
-      "titulo": "Inmet emite alerta amarelo de chuvas para 34 municípios de Alagoas durante feriado prolongado",
-      "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta amarelo com previsão de precipitação entre 20 e 30 milímetros por hora, podendo chegar a 50 milímetros por dia, para 34 cidades de Alagoas. O aviso começou às 8h55 desta quinta-feira e permanece válido até as 23h59 de domingo. O órgão alerta para risco de alagamentos em áreas vulneráveis, embora classifique o risco como baixo.",
-      "porQueImporta": "A população deve se preparar para possíveis inundações durante o feriado, reduzindo impactos nas áreas de risco.",
+      "clusterId": "6e8ba2f3a7d6f2ec",
+      "slug": "4b355eea96b6d33f",
+      "titulo": "Ressaca destrói trecho de calçadão da Praia Campista em Macaé",
+      "resumo": "Na manhã desta quinta-feira, uma forte ressaca provocou o colapso de parte do calçadão da Praia Campista, no Norte Fluminense. A Prefeitura isolou o trecho danificado e não houve registro de feridos. A onda também interrompeu a circulação de pedestres e ciclistas na Avenida Atlântica e na ciclovia da orla.",
+      "porQueImporta": "A interrupção afeta o deslocamento de moradores e turistas na região costeira",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/al/alagoas/noticia/2026/06/04/inmete-divulga-alerta-de-chuvas-para-34-cidades-alagoanas-durante-feriado-prolongado-veja-lista.ghtml"
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/06/04/ressaca-destroi-trecho-de-calcadao-da-praia-campista-em-macae-video.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T16:02:07.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/8zbylKy6zQ6qTnpbbb2FqHpuUlk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/X/8/BT1e1iRuKEZfuzmyGmdw/whatsapp-image-2021-08-03-at-13.32.53.jpeg"
+      "updatedAt": "2026-06-04T21:10:18.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/XuH24rpNGOQP85K10U7qEO5V36E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/h/hAP7ZAQ5KssDDPYsaIFA/campista.jpg"
     },
     {
-      "clusterId": "a1559b9dc2709e20",
-      "slug": "eb0c70a0216099ba",
-      "titulo": "Van tomba e deixa oito feridos na PI-113 em José de Freitas",
-      "resumo": "Uma van capotou na rodovia PI-113, na zona rural de José de Freitas, por volta das 12h desta quinta-feira. O veículo transportava passageiros que sofreram ferimentos leves e foram encaminhados ao hospital. O motorista informou que seguia em direção a Batalha (PI) quando perdeu o controle. O trecho da rodovia está em obras de recuperação de asfalto.",
-      "porQueImporta": "O acidente evidencia a vulnerabilidade de veículos em vias em manutenção, aumentando o risco para os usuários.",
+      "clusterId": "056c9d549dfcc705",
+      "slug": "5e49c956d94e9dd0",
+      "titulo": "Motociclista de 28 anos morre atropelado por motorista de caminhão sem habilitação em Belo Horizonte",
+      "resumo": "Um motociclista de 28 anos foi atingido por um caminhão no bairro Nova Suíça, na Região Oeste de Belo Horizonte, na tarde de quinta-feira. A polícia informou que o motorista do caminhão, de 25 anos, não possuía carteira de habilitação e avançou a placa de parada obrigatória. O motociclista, identificado como Clayton Cleber Campos Silva, trabalhava como motoboy e morreu no local. O condutor foi preso em flagrante.",
+      "porQueImporta": "O caso evidencia riscos de trânsito envolvendo veículos conduzidos por motoristas não habilitados.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/04/van-tomba-passageiros.ghtml"
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/04/motociclista-morre-atropelado-por-motorista-de-caminhao-inabilitado-em-bh-video-mostra-acidente.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T15:47:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Ux7vae2AYG9a9R3LYcsmF9kXwnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/L/sBLLXZQj2xJD8Gn6cUvA/whatsapp-image-2026-06-04-at-12.36.17-pm.jpeg"
+      "updatedAt": "2026-06-04T21:07:10.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zX0RJGxjpWtJrNCJRi8FlVmtwHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/B/wYX97QSLCBciddi83zuw/whatsapp-image-2026-06-04-at-15.56.19.jpeg"
+    },
+    {
+      "clusterId": "3b33a4764144bb44",
+      "slug": "c6f9cd3b0268d458",
+      "titulo": "Bombeiros salvam cachorro arrastado por correnteza em Roraima",
+      "resumo": "Um cachorro foi levado pela correnteza ao tentar atravessar um rio na comunidade indígena Jacamim, em Bonfim, ao norte de Roraima. Na quarta‑feira (3), os bombeiros da Defesa Civil, tenente Marcell Reis e sargento João Henrique Costa Silva, retiraram o animal debaixo da ponte. Eles estavam na comunidade realizando a travessia de moradores no rio desde 23 de maio.",
+      "porQueImporta": "A ação demonstra a atuação dos serviços de emergência em situações de risco, mesmo envolvendo animais",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/04/video-bombeiros-salvam-cachorro-arrastado-por-correnteza-em-rr.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-04T20:18:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/dKWwIaHOggILx21Te0FhmHFugO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/l/eOqgAxR0GJqWzlCvS7OA/ponte-3-.jpg"
+    },
+    {
+      "clusterId": "288d7dcafe900c56",
+      "slug": "77f22f7b3bd0b330",
+      "titulo": "Obra contra alagamentos na rua Haia deve ser feita até abril de 2027, em Uberlândia",
+      "resumo": "Trecho da Rua Haia, próximo ao Parque do Sabiá Reprodução: TV Integração A empresa contratada pela Prefeitura de Uberlândia para fazer as obras de drenagem pluvial da rua Haia, em Uberlândia, terá até abril de 2027 para concluir a obra. O objetivo é resolver os problemas recorrentes de alagamento no local. O extrato do documento foi publicado no Diário Oficial do Município de quarta-feira (3). Segundo a Prefeitura de Uberlândia, uma nova galeria será construída no trecho para distribuir a água que se acumula vinda de outras regiões do bairro Tibery. A estrutura vai captar e conduzir a vazão…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/04/obra-contra-alagamentos-na-rua-haia-deve-ser-feita-ate-abril-de-2027-em-uberlandia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-04T20:06:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-tMmdsIpFIknhk1_TIerj5RmRwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/5/eVA56WT8C9xXh2Z9WBbg/rua-haia.png"
+    },
+    {
+      "clusterId": "772b66a9d67f1920",
+      "slug": "a962112dce59fde2",
+      "titulo": "Incêndio em casa de repouso no Sri Lanka deixa 12 mortos e 8 feridos",
+      "resumo": "Um incêndio começou na noite de 3 de junho em uma casa de repouso na cidade de Anguruwatota, Sri Lanka. O fogo resultou na morte de 12 residentes e deixou oito feridos, enquanto 51 pessoas foram resgatadas. O diretor do estabelecimento foi detido sob suspeita de negligência. A polícia continua investigando as causas do incidente.",
+      "porQueImporta": "O caso evidencia vulnerabilidades em locais de assistência a idosos e a necessidade de medidas de segurança contra incêndios.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/04/incendio-casa-repouso-sri-lanka-mortos-feridos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-04T08:58:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/kdo8FMRS5osHulPfcE6Qn7v6X-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/L/NY3wI3SsOMr2Gz9lBBXA/afp-20260604-b4xu9ut-v1-midres-srilankaaccidentfire.jpg"
+    },
+    {
+      "clusterId": "2b22ba6fbd06da83",
+      "slug": "d274689c3de2fdd7",
+      "titulo": "Trump rompe trégua com Lula e provoca tempestade política no Brasil",
+      "resumo": "O presidente dos Estados Unidos anunciou novas tarifas e classificou facções brasileiras de \"terroristas\", rompendo a trégua estabelecida com Lula. A medida causou reação imediata no Brasil, gerando debate político antes das eleições. Lula afirmou ter sido pego de surpresa pelas propostas. A imprensa internacional destacou a escalada das tensões comerciais e diplomáticas.",
+      "porQueImporta": "A decisão pode afetar relações comerciais e a estabilidade política brasileira antes das eleições.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/04/trump-rompe-tregua-com-lula-e-causa-tempestade-no-brasil-o-que-disse-a-imprensa-internacional-sobre-tarifas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-04T03:01:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/kj-Cix1mQfFRzhk4VqPJhX0OO58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/TeHHtqSMa1SGA8y1mlFg/afp-20260507-b27z9qh-v1-midres-776494682.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "95871635de5bbf9e",
-          "slug": "b0034f9aa0511916",
-          "titulo": "Mulher morre em acidente envolvendo motocicleta e automóvel na Rodovia dos Bandeirantes em Jundiaí",
-          "resumo": "Na manhã de quinta-feira, uma colisão entre uma motocicleta e um carro ocorreu no quilômetro 58 da Rodovia Bandeirantes, sentido interior, em Jundiaí. A passageira da moto foi socorrida em estado grave e teve o óbito confirmado às 12h. O condutor do carro sofreu ferimentos leves. O acidente foi registrado por volta das 11h.",
-          "porQueImporta": "O fato evidencia a necessidade de atenção e segurança nas rodovias estaduais",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/04/mulher-morre-em-acidente-envolvendo-motocicleta-e-automovel-na-rodovia-dos-bandeirantes-em-jundiai.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T18:15:23.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/R63LW70v9TP4yP31MdFkkq0FmEg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/j/WhEFSEQNyWM9ZaOjGNUA/1285fdb0-8d36-4ecd-abb5-f7231ce8ae9b.jpg"
-        },
-        {
-          "clusterId": "f81e5a92e6291353",
-          "slug": "94d974b7d341cac1",
-          "titulo": "Motorista embriagado é preso após causar morte de motoboy em Ribeirão Preto",
-          "resumo": "Na noite de quarta-feira, um motorista de 48 anos foi detido após colidir com um motociclista no cruzamento das ruas Mato Grosso e Japurá, no bairro Ipiranga, em Ribeirão Preto. A vítima, um motoboy, morreu no local. O condutor apresentava sinais de embriaguez e tentou fugir, mas foi localizado pela Polícia Militar.",
-          "porQueImporta": "O caso evidencia os perigos de conduzir veículo sob efeito de álcool e a necessidade de fiscalização no trânsito",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/04/motorista-embriagado-e-preso-apos-causar-batida-que-matou-motoboy-em-ribeirao-preto-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T18:07:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ER-lcUo0qQdyTE0dg9V7UVls9L0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/7/peucrjQV23W0E875pqhw/acidente-japura.jpg"
-        },
-        {
-          "clusterId": "5bbe6ae6e14c6793",
-          "slug": "13a5353d15cfc790",
-          "titulo": "Acidente deixa quatro mortos e três feridos na BR-235 em Areia Branca",
-          "resumo": "Na tarde de quinta-feira, dois carros colidiram frontalmente na BR-235, no município de Areia Branca. O acidente resultou em quatro óbitos e três pessoas feridas. Segundo a Polícia Rodoviária Federal, as vítimas incluíam uma mulher com duas crianças socorridas pelo marido e quatro homens no outro veículo. As autoridades ainda não divulgaram detalhes sobre a dinâmica da colisão.",
-          "porQueImporta": "O evento evidencia a necessidade de atenção e medidas de segurança nas rodovias federais brasileiras",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/04/acidente-deixa-quatro-pessoas-mortas-e-tres-feridas-na-br-235-em-areia-branca.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T17:57:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6ZN-EMjNQU8LvB5WWq8pKR4zVtA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/u/n2dHS7RQObS0DhdEozEQ/imagem-g1-3-.jpg"
-        },
-        {
-          "clusterId": "ad2e11bc3b2cf55d",
-          "slug": "d35f639444791b35",
-          "titulo": "Pé humano encontrado na BR-010 ainda sem identificação",
-          "resumo": "Um pé em estado de decomposição foi localizado às margens da BR-010, em Palmas, no dia 20 de maio. A Polícia Militar foi acionada e o objeto foi encaminhado ao Instituto Médico Legal. Até o momento, as autoridades não confirmaram a identidade do corpo, embora investiguem possível vínculo com a jovem de 22 anos que morreu após perder um membro em acidente de trânsito na mesma rodovia. A análise para confirmar a identidade ainda está em curso.",
-          "porQueImporta": "A identificação do corpo é essencial para a família da vítima e para a apuração das circunstâncias do acidente.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/04/pe-encontrado-em-rodovia-que-pode-ser-de-estudante-morta-em-acidente-segue-sem-identificacao-ha-15-dias.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T16:12:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vnRRXFQ016sr6oW8xwQj51WmRZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/B/h8EE8FR4OoKhhimm6Xsg/jhenyferr.png"
-        },
-        {
-          "clusterId": "1e709805e41744c5",
-          "slug": "4d24fbb3bc0c3873",
-          "titulo": "Motociclista morre e passageira fica ferida em acidente na BR-262 em Domingos Martins",
-          "resumo": "Por volta das 9h, uma motocicleta que seguia de Viana para Domingos Martins perdeu o controle em curva molhada e invadiu a contramão, colidindo frontalmente com um caminhão no km 42 da rodovia. O condutor da moto morreu e a passageira ficou gravemente ferida. O acidente foi registrado pela Polícia Rodoviária Federal.",
-          "porQueImporta": "O caso evidencia os perigos de condução em vias escorregadias durante chuvas intensas",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/04/motociclista-morre-e-passageira-fica-ferida-apos-colisao-com-caminhao-na-br-262-em-domingos-martins.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T16:06:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kq_PP0tJcLkX4nEzOVICRyptOJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/H/BcSTB1TZK99TXEWSveVA/whatsapp-image-2026-06-04-at-12.22.17-1-.jpeg"
-        },
-        {
-          "clusterId": "a1559b9dc2709e20",
-          "slug": "eb0c70a0216099ba",
-          "titulo": "Van tomba e deixa oito feridos na PI-113 em José de Freitas",
-          "resumo": "Uma van capotou na rodovia PI-113, na zona rural de José de Freitas, por volta das 12h desta quinta-feira. O veículo transportava passageiros que sofreram ferimentos leves e foram encaminhados ao hospital. O motorista informou que seguia em direção a Batalha (PI) quando perdeu o controle. O trecho da rodovia está em obras de recuperação de asfalto.",
-          "porQueImporta": "O acidente evidencia a vulnerabilidade de veículos em vias em manutenção, aumentando o risco para os usuários.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/04/van-tomba-passageiros.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T15:47:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Ux7vae2AYG9a9R3LYcsmF9kXwnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/L/sBLLXZQj2xJD8Gn6cUvA/whatsapp-image-2026-06-04-at-12.36.17-pm.jpeg"
-        },
-        {
-          "clusterId": "922f381605310b56",
-          "slug": "c7d9f989474c3a73",
-          "titulo": "Drone atinge ônibus de turismo em Donetsk e deixa oito mortos",
-          "resumo": "Um drone atingiu um ônibus de turismo que circulava entre Moscou e Simferopol, na região de Donetsk, controlada pela Rússia, na quarta‑feira. O ataque provocou a explosão do veículo, resultando em oito mortos e 11 feridos. Segundo o chefe regional Denis Pushilin, 53 passageiros estavam inscritos para a viagem. O incidente foi registrado por câmeras de vigilância.",
-          "porQueImporta": "O ataque evidencia a extensão do conflito na região e gera preocupação com a segurança de civis em áreas de ocupação",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/03/drone-atinge-onibus-de-viagem-e-deixa-mortos-em-area-da-ucrania-controlada-pela-russia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T04:32:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gazaLjjQx3JwHYzc8ejvr7uvBcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/wVt5JZRA2Ubf86BQRxBA/drone.gif"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "587605c42916dbdf",
-          "slug": "075685dc4f8b6865",
-          "titulo": "Homem em situação de rua morre afogado em lago no interior de SP",
-          "resumo": "Um homem em situação de rua, com idade estimada entre 30 e 40 anos, foi encontrado morto por afogamento no lago do Parque Ecológico de Matão, interior de São Paulo, na manhã desta quinta-feira. A identidade da vítima ainda não foi confirmada. Bombeiros realizaram o resgate e o corpo foi encaminhado ao Instituto Médico Legal. A ocorrência foi registrada como afogamento acidental.",
-          "porQueImporta": "O caso evidencia riscos de segurança para pessoas em situação de rua em áreas públicas aquáticas",
+          "clusterId": "3b33a4764144bb44",
+          "slug": "c6f9cd3b0268d458",
+          "titulo": "Bombeiros salvam cachorro arrastado por correnteza em Roraima",
+          "resumo": "Um cachorro foi levado pela correnteza ao tentar atravessar um rio na comunidade indígena Jacamim, em Bonfim, ao norte de Roraima. Na quarta‑feira (3), os bombeiros da Defesa Civil, tenente Marcell Reis e sargento João Henrique Costa Silva, retiraram o animal debaixo da ponte. Eles estavam na comunidade realizando a travessia de moradores no rio desde 23 de maio.",
+          "porQueImporta": "A ação demonstra a atuação dos serviços de emergência em situações de risco, mesmo envolvendo animais",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/04/homem-em-situacao-de-rua-morre-afogado-em-lago-no-interior-de-sp.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/04/video-bombeiros-salvam-cachorro-arrastado-por-correnteza-em-rr.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T17:30:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bY_PVSNWx7Uv4w03yq2kkuY5IZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/A/QpAcguS8G5yqcgZGCJDA/afogamento-lagoa-matao.jpeg"
+          "updatedAt": "2026-06-04T20:18:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dKWwIaHOggILx21Te0FhmHFugO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/l/eOqgAxR0GJqWzlCvS7OA/ponte-3-.jpg"
+        },
+        {
+          "clusterId": "288d7dcafe900c56",
+          "slug": "77f22f7b3bd0b330",
+          "titulo": "Obra contra alagamentos na rua Haia deve ser feita até abril de 2027, em Uberlândia",
+          "resumo": "Trecho da Rua Haia, próximo ao Parque do Sabiá Reprodução: TV Integração A empresa contratada pela Prefeitura de Uberlândia para fazer as obras de drenagem pluvial da rua Haia, em Uberlândia, terá até abril de 2027 para concluir a obra. O objetivo é resolver os problemas recorrentes de alagamento no local. O extrato do documento foi publicado no Diário Oficial do Município de quarta-feira (3). Segundo a Prefeitura de Uberlândia, uma nova galeria será construída no trecho para distribuir a água que se acumula vinda de outras regiões do bairro Tibery. A estrutura vai captar e conduzir a vazão…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/04/obra-contra-alagamentos-na-rua-haia-deve-ser-feita-ate-abril-de-2027-em-uberlandia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T20:06:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-tMmdsIpFIknhk1_TIerj5RmRwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/5/eVA56WT8C9xXh2Z9WBbg/rua-haia.png"
         },
         {
           "clusterId": "2b22ba6fbd06da83",
@@ -340,9 +232,9 @@
         {
           "clusterId": "d0f41b54984e965b",
           "slug": "c03c99b9e0af3302",
-          "titulo": "Espanha registra maior número de mortes relacionadas ao calor em maio",
-          "resumo": "Em maio de 2026, o sistema de monitoramento diário de mortalidade da Espanha contabilizou 101 óbitos atribuídos a altas temperaturas, o maior número registrado para o mês desde o início dos registros em 2015. A informação foi divulgada pelo Ministério da Saúde na quarta-feira (3).",
-          "porQueImporta": "O aumento de mortes evidencia os riscos sanitários associados a ondas de calor intensas.",
+          "titulo": "Espanha registra maior número de mortes por calor em maio desde 2015",
+          "resumo": "O Ministério da Saúde da Espanha divulgou que, em maio de 2026, foram registradas 101 mortes atribuídas a altas temperaturas, o maior número para esse mês desde o início dos registros em 2015. O dado provém do sistema de monitoramento diário de mortalidade do país. A informação foi anunciada nesta quarta-feira (3).",
+          "porQueImporta": "O aumento de mortes relacionadas ao calor evidencia riscos de saúde pública em períodos de ondas de calor.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -374,25 +266,99 @@
       ]
     },
     {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "30da94e9f5ab3245",
+          "slug": "e201cbb9405317d8",
+          "titulo": "Quatro mortos em acidente entre dois carros na BR-235 em Areia Branca",
+          "resumo": "Um choque entre dois veículos de passeio na BR-235, em Areia Branca, resultou na morte de quatro homens que viajavam juntos. Dois dos falecidos eram irmãos e os outros dois eram pai e filho, todos dentro do mesmo carro. As vítimas eram conhecidos entre si, mas não pertenciam à mesma família. O acidente ocorreu na quinta-feira, segundo informações da Prefeitura.",
+          "porQueImporta": "O incidente evidencia riscos de tráfego em rodovias estaduais e o impacto de acidentes fatais nas comunidades locais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/04/pai-e-filho-e-irmaos-saiba-quem-sao-as-vitimas-de-acidente-na-br-235-em-areia-branca.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T21:47:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2QjfAY98Fxmvce5_dZkGLTtYZ30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/4/fqD5HBQhuRshyCMkYfUg/imagem-g1-4-.jpg"
+        },
+        {
+          "clusterId": "d300a64d570475b6",
+          "slug": "53149b6da3f402cb",
+          "titulo": "Mulher morre ao cair de moto no Sul do Piauí no dia de aniversário",
+          "resumo": "Uma mulher de 37 anos perdeu o controle da motocicleta que conduzia na zona rural de Bocaina, no Sul do Piauí, e caiu, vindo a falecer. O acidente ocorreu na tarde de quinta-feira, data em que completava 37 anos. Testemunhas relataram que a vítima havia ingerido bebida alcoólica antes do acidente e não utilizava capacete. A identidade da vítima não foi divulgada pelas autoridades.",
+          "porQueImporta": "O caso evidencia riscos de condução sob efeito de álcool e a importância do uso de equipamentos de proteção nas vias rurais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/04/mulher-morre-acidente-piaui.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T21:23:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UgzVq028VonSlGHau6-RBUKR4-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/i/AtnYBjTVW4mAQ0eABUvw/edicao-imagens-g1-43-.png"
+        },
+        {
+          "clusterId": "056c9d549dfcc705",
+          "slug": "5e49c956d94e9dd0",
+          "titulo": "Motociclista de 28 anos morre atropelado por motorista de caminhão sem habilitação em Belo Horizonte",
+          "resumo": "Um motociclista de 28 anos foi atingido por um caminhão no bairro Nova Suíça, na Região Oeste de Belo Horizonte, na tarde de quinta-feira. A polícia informou que o motorista do caminhão, de 25 anos, não possuía carteira de habilitação e avançou a placa de parada obrigatória. O motociclista, identificado como Clayton Cleber Campos Silva, trabalhava como motoboy e morreu no local. O condutor foi preso em flagrante.",
+          "porQueImporta": "O caso evidencia riscos de trânsito envolvendo veículos conduzidos por motoristas não habilitados.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/04/motociclista-morre-atropelado-por-motorista-de-caminhao-inabilitado-em-bh-video-mostra-acidente.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T21:07:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zX0RJGxjpWtJrNCJRi8FlVmtwHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/B/wYX97QSLCBciddi83zuw/whatsapp-image-2026-06-04-at-15.56.19.jpeg"
+        },
+        {
+          "clusterId": "922f381605310b56",
+          "slug": "c7d9f989474c3a73",
+          "titulo": "Drone atinge ônibus de turismo em Donetsk e deixa oito mortos",
+          "resumo": "Um drone atingiu um ônibus de turismo que circulava entre Moscou e Simferopol, na região de Donetsk, controlada pela Rússia, na quarta‑feira. O ataque provocou a explosão do veículo, resultando em oito mortos e 11 feridos. Segundo o chefe regional Denis Pushilin, 53 passageiros estavam inscritos para a viagem. O incidente foi registrado por câmeras de vigilância.",
+          "porQueImporta": "O ataque evidencia a extensão do conflito na região e gera preocupação com a segurança de civis em áreas de ocupação",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/03/drone-atinge-onibus-de-viagem-e-deixa-mortos-em-area-da-ucrania-controlada-pela-russia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-03T04:32:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gazaLjjQx3JwHYzc8ejvr7uvBcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/wVt5JZRA2Ubf86BQRxBA/drone.gif"
+        }
+      ]
+    },
+    {
       "slug": "incendio",
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "0d69c695cc5ace95",
-          "slug": "0b9729fa18e09fcb",
-          "titulo": "Jovem e padrasto são encontrados carbonizados em casa em Araguaína",
-          "resumo": "Corpos de Ivano Vaz Cunha, 49, e Laiane Cardoso Noleto, 19, foram encontrados carbonizados em uma residência no setor Lago Azul I, em Araguaína, na quarta-feira por volta das 17h14. As vítimas estavam sem roupas na parte inferior do corpo e no local foi localizado um galão com vestígios de gasolina. O incêndio se concentrou em um quarto, segundo os bombeiros. A Polícia Militar está investigando o caso.",
-          "porQueImporta": "O fato evidencia uma ocorrência de morte violenta e possível crime envolvendo incêndio doméstico.",
+          "clusterId": "2647ef6e7894f8c6",
+          "slug": "25dff862afec9863",
+          "titulo": "Incêndio em apartamento de condomínio em Lucas do Rio Verde causado por máquina de lavar",
+          "resumo": "Uma máquina de lavar roupas pegou fogo e provocou um incêndio em um apartamento térreo no bairro Bandeirantes II, em Lucas do Rio Verde, na tarde de quarta-feira. As equipes do Corpo de Bombeiros encontraram o local tomado por fumaça densa e combateram as chamas. Não houve feridos. As investigações apontam curto-circuito no equipamento como provável causa.",
+          "porQueImporta": "O caso alerta para riscos de curtos-circuitos em eletrodomésticos residenciais",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/04/jovem-encontrada-carbonizada-com-o-padrasto-estava-sem-parte-das-roupas-diz-pm.ghtml"
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/04/maquina-de-lavar-pega-fogo-e-provoca-incendio-em-apartamento-de-condominio-em-mt.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T17:07:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/32f_OgkmczUZTbme_yXJJSLgom4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/QC7xijQmmTLY7tNIGxxw/foto-e-montagem-vertical-88-.png"
+          "updatedAt": "2026-06-04T21:14:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/cMaACP1rCqRPXIYUlr05hrtyNIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/q/9AZp2IRiqQd09vsBxJFQ/videos-g1-18-.jpg"
         },
         {
           "clusterId": "772b66a9d67f1920",
@@ -431,25 +397,42 @@
       ]
     },
     {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "39dbcfc478bc973b",
-          "slug": "ab46127bb19423f4",
-          "titulo": "Filhotes são resgatados por bombeiros em incêndio de vegetação em Feijó, Acre",
-          "resumo": "Na quarta-feira, duas semanas após o início do incêndio, bombeiros foram acionados pelos moradores do bairro Pelé Campos, em Feijó, para combater chamas em um terreno baldio. Durante a operação, encontraram dois filhotes de cachorro assustados e impossibilitados de sair da área em que o fogo se alastrava. Os animais foram retirados com segurança pelas equipes de resgate. O Corpo de Bombeiros informou que os filhotes vivem próximo à zona afetada.",
-          "porQueImporta": "O resgate demonstra a atuação das equipes de emergência em situações de incêndio e a proteção de animais domésticos vulneráveis.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
+          "clusterId": "b3b35b2c79cffe50",
+          "slug": "3dc6cb68d8180f48",
+          "titulo": "Trem de pouso de avião colapsa e deixa feridos na Alemanha",
+          "resumo": "Um avião teve o trem de pouso colapsado durante a aterrissagem na Alemanha por volta das 12h45, horário local. O incidente resultou em feridos entre os ocupantes da aeronave. A companhia aérea emitiu comunicado oficial confirmando o acidente.",
+          "porQueImporta": "O caso evidencia riscos operacionais em voos comerciais e a necessidade de inspeções de segurança",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/trem-de-pouso-de-aviao-colapsa-e-deixa-feridos-na-alemanha"
+            }
+          ],
+          "updatedAt": "2026-06-04T22:00:33.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/aviao-alemanha.jpg"
+        },
+        {
+          "clusterId": "b372014c99f3edca",
+          "slug": "d02f51cd8a89d825",
+          "titulo": "Helicóptero militar cai no sudoeste da Inglaterra",
+          "resumo": "Um helicóptero da Marinha Real caiu em um campo na região de Sourton Down, em Devon, próximo ao cruzamento das rodovias A30 e A386. A polícia local tratou o caso como incidente em andamento e mobilizou equipes de emergência. O Ministério da Defesa confirmou a pertença da aeronave às Forças Armadas britânicas.",
+          "porQueImporta": "O acidente envolve uma aeronave militar e pode afetar operações de voo na região",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/04/filhotes-de-cachorro-sao-resgatados-por-bombeiros-durante-incendio-em-vegetacao-no-acre-video.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/03/helicoptero-militar-marinha-real.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T17:43:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/in0vp5kWCGOkAwIFaCUYHvMyIlk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/s/86rw60TTCKpVv4JWDYsg/midia-de-distribuicao-g1-34-.png"
+          "updatedAt": "2026-06-03T08:58:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6eXlboygKyFHVcN1mjOFZQiNMuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/i/AKhRGaRbSJkFAY9YHYaw/51f15d70-5f24-11f1-9da4-8b99067aa239.png.webp"
         }
       ]
     },
@@ -458,21 +441,21 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "37d9000d1bfdb560",
-          "slug": "5c548ca3412b5f89",
-          "titulo": "Inmet emite alerta amarelo de chuvas para 34 municípios de Alagoas durante feriado prolongado",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta amarelo com previsão de precipitação entre 20 e 30 milímetros por hora, podendo chegar a 50 milímetros por dia, para 34 cidades de Alagoas. O aviso começou às 8h55 desta quinta-feira e permanece válido até as 23h59 de domingo. O órgão alerta para risco de alagamentos em áreas vulneráveis, embora classifique o risco como baixo.",
-          "porQueImporta": "A população deve se preparar para possíveis inundações durante o feriado, reduzindo impactos nas áreas de risco.",
+          "clusterId": "6e8ba2f3a7d6f2ec",
+          "slug": "4b355eea96b6d33f",
+          "titulo": "Ressaca destrói trecho de calçadão da Praia Campista em Macaé",
+          "resumo": "Na manhã desta quinta-feira, uma forte ressaca provocou o colapso de parte do calçadão da Praia Campista, no Norte Fluminense. A Prefeitura isolou o trecho danificado e não houve registro de feridos. A onda também interrompeu a circulação de pedestres e ciclistas na Avenida Atlântica e na ciclovia da orla.",
+          "porQueImporta": "A interrupção afeta o deslocamento de moradores e turistas na região costeira",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/al/alagoas/noticia/2026/06/04/inmete-divulga-alerta-de-chuvas-para-34-cidades-alagoanas-durante-feriado-prolongado-veja-lista.ghtml"
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/06/04/ressaca-destroi-trecho-de-calcadao-da-praia-campista-em-macae-video.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T16:02:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/8zbylKy6zQ6qTnpbbb2FqHpuUlk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/X/8/BT1e1iRuKEZfuzmyGmdw/whatsapp-image-2021-08-03-at-13.32.53.jpeg"
+          "updatedAt": "2026-06-04T21:10:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XuH24rpNGOQP85K10U7qEO5V36E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/h/hAP7ZAQ5KssDDPYsaIFA/campista.jpg"
         }
       ]
     },
@@ -496,29 +479,6 @@
           ],
           "updatedAt": "2026-06-04T00:09:59.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/u9CK6hJn3BBjxEU2XSJfwLTc_hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/a/XPNON6RCeek9HiBny3cA/2026-06-03t111452z-1958224717-rc2amlaewev8-rtrmadp-3-iran-crisis-gulf-kuwait.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "b372014c99f3edca",
-          "slug": "d02f51cd8a89d825",
-          "titulo": "Helicóptero militar cai no sudoeste da Inglaterra",
-          "resumo": "Um helicóptero da Marinha Real caiu em um campo na região de Sourton Down, em Devon, próximo ao cruzamento das rodovias A30 e A386. A polícia local tratou o caso como incidente em andamento e mobilizou equipes de emergência. O Ministério da Defesa confirmou a pertença da aeronave às Forças Armadas britânicas.",
-          "porQueImporta": "O acidente envolve uma aeronave militar e pode afetar operações de voo na região",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/03/helicoptero-militar-marinha-real.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T08:58:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6eXlboygKyFHVcN1mjOFZQiNMuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/i/AKhRGaRbSJkFAY9YHYaw/51f15d70-5f24-11f1-9da4-8b99067aa239.png.webp"
         }
       ]
     }
