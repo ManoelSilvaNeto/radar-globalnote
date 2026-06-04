@@ -90,6 +90,16 @@ describe('editorialCorpus / editorialHallucinations', () => {
     );
     expect(halls).toContain('macapa');
   });
+
+  it('ignora palavras genéricas capitalizadas (País, Região, Governo) ausentes do corpus', () => {
+    const corpus = editorialCorpus([story()]);
+    const halls = editorialHallucinations(
+      'Panorama do dia',
+      ['No País, o Governo e a Defesa Civil acompanham a Região afetada pelas chuvas.'],
+      corpus,
+    );
+    expect(halls).toEqual([]);
+  });
 });
 
 describe('validateEditorial', () => {

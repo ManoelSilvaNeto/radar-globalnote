@@ -19,6 +19,7 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import type { Edition, Editorial, EditorialRef, Story } from '../src/lib/types';
+import { GENERIC } from '../src/lib/generic-terms';
 import { namedEntities } from './cluster';
 import {
   dateInconsistency,
@@ -122,13 +123,30 @@ export function editorialCorpus(stories: Story[]): string {
     .toLowerCase();
 }
 
+// Qualificadores administrativos/institucionais comuns na prosa do nicho ("Defesa
+// Civil", "Polícia Federal", "Corpo de Bombeiros", "Guarda Municipal"…). NÃO entram
+// na GENERIC compartilhada de propósito: lá eles bloqueariam páginas-tema legítimas
+// (ex.: /tema/prf). Aqui servem só pra trava do editorial não confundir referência
+// institucional genérica com nome próprio inventado.
+const EDITORIAL_GENERIC = new Set([
+  'civil', 'militar', 'federal', 'estadual', 'municipal', 'nacional', 'regional',
+  'defesa', 'corpo', 'guarda', 'rodoviaria', 'rodoviario', 'marinha', 'aeronautica',
+  'exercito', 'forcas', 'seguranca', 'publica', 'publico', 'saude', 'transito',
+  'transportes', 'infraestrutura', 'meteorologia', 'meteorologico', 'protecao',
+]);
+
 // Entidades nomeadas citadas na peça que NÃO aparecem no corpus da edição (mesma
 // heurística do Bug #3 do resumo, aplicada ao título + cada parágrafo). [] = OK.
+// Termos GENÉRICOS (palavras comuns capitalizadas — "País", "Região", "Governo",
+// gentílicos, dias/meses…) e qualificadores institucionais são ignorados: num texto
+// analítico mais longo eles aparecem naturalmente e NÃO são invenção de fato. Sem
+// esse filtro a trava rejeitava quase toda peça (o resumo, por ser curto, não
+// esbarrava nisso). O que sobra são nomes próprios de fato ausentes do material.
 export function editorialHallucinations(titulo: string, paragrafos: string[], corpus: string): string[] {
   const out = new Set<string>();
   for (const text of [titulo, ...paragrafos]) {
     for (const ent of namedEntities(text)) {
-      if (!corpus.includes(ent)) out.add(ent);
+      if (!corpus.includes(ent) && !GENERIC.has(ent) && !EDITORIAL_GENERIC.has(ent)) out.add(ent);
     }
   }
   return [...out];
