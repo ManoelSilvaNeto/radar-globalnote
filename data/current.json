@@ -1,182 +1,380 @@
 {
   "date": "2026-06-04",
-  "generatedAt": "2026-06-04T05:24:22.530Z",
+  "generatedAt": "2026-06-04T11:34:36.069Z",
   "home": [
     {
-      "clusterId": "2b22ba6fbd06da83",
-      "slug": "d274689c3de2fdd7",
-      "titulo": "Trump rompe trégua com Lula e provoca tempestade política no Brasil",
-      "resumo": "O presidente dos Estados Unidos anunciou novas tarifas e classificou facções brasileiras de \"terroristas\", rompendo a trégua estabelecida com Lula. A medida causou reação imediata no Brasil, gerando debate político antes das eleições. Lula afirmou ter sido pego de surpresa pelas propostas. A imprensa internacional destacou a escalada das tensões comerciais e diplomáticas.",
-      "porQueImporta": "A decisão pode afetar relações comerciais e a estabilidade política brasileira antes das eleições.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "16910e5a541e409a",
+      "slug": "a1ba3ea9647707b3",
+      "titulo": "Explosão em apartamento de Copacabana provoca incêndio e ferimento",
+      "resumo": "Uma explosão ocorreu no 1º andar de um prédio na Rua Barata Ribeiro, em Copacabana, e desencadeou um incêndio. O impacto arremessou objetos como colchão e janela para fora do imóvel. Um homem ficou ferido e os moradores ficaram assustados com o incidente. A origem da explosão ainda está sendo investigada.",
+      "porQueImporta": "O evento representa risco à segurança dos moradores e pode indicar falhas em sistemas de segurança residencial.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/04/trump-rompe-tregua-com-lula-e-causa-tempestade-no-brasil-o-que-disse-a-imprensa-internacional-sobre-tarifas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T03:01:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kj-Cix1mQfFRzhk4VqPJhX0OO58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/TeHHtqSMa1SGA8y1mlFg/afp-20260507-b27z9qh-v1-midres-776494682.jpg"
-    },
-    {
-      "clusterId": "f3f5f26849a81c4c",
-      "slug": "be6639a21ac4736b",
-      "titulo": "ONGs pedem pressa na votação de PL que visa reduzir mortes de animais",
-      "resumo": "Um projeto de lei que busca reduzir mortes de animais silvestres nas estradas está aguardando avanço no Senado. Organizações não governamentais solicitaram que o Senado dê prioridade à votação, alegando urgência na proteção da fauna. O texto propõe medidas para diminuir atropelamentos e melhorar a fiscalização de veículos. A iniciativa tem sido acompanhada por especialistas em conservação e órgãos de trânsito.",
-      "porQueImporta": "A proposta visa proteger a fauna silvestre e reduzir impactos ambientais causados por atropelamentos.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/06/04/explosao-em-copacabana.ghtml"
+        },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ongs-pedem-pressa-em-votacao-de-pl-contra-atropelamento-de-animais/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/explosao-incendio-apartamento-copacabana"
         }
       ],
-      "updatedAt": "2026-06-04T03:28:21.000Z"
+      "updatedAt": "2026-06-04T11:19:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/RtOdRiiQAJQK0LGvq-V3rVyUbJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/5/ALHDfDQhKeiMoLv6r4tw/bdrj-limpo-20260604-0545-frame-111567.jpeg"
     },
     {
-      "clusterId": "ce6b9ff476c4b465",
-      "slug": "26779c2b452a97b1",
-      "titulo": "Adolescente que sobreviveu ao acidente entre van e caminhão brincava com uma das vítimas",
-      "resumo": "Um acidente entre uma van escolar e um caminhão em Córrego do Ouro deixou cinco adolescentes mortos e outras três feridas. A estudante Valentina Pereira Tavares, de 12 anos, estava brincando com duas amigas quando o impacto ocorreu. Uma das amigas, Emanuella Augusta, sobreviveu e permanece internada em estado grave, enquanto Izadora Monteiro, outra amiga, foi uma das vítimas fatais.",
-      "porQueImporta": "O caso destaca os riscos de acidentes de trânsito envolvendo veículos escolares e a necessidade de medidas de segurança para proteger jovens passageiros.",
+      "clusterId": "b2ee7dac81c0ce65",
+      "slug": "7612b7dce453478e",
+      "titulo": "Acidente entre caminhão, carreta e carro deixa um morto na Rodovia Fernão Dias",
+      "resumo": "Na manhã de quinta-feira, um acidente envolvendo um caminhão, uma carreta e um carro ocorreu no km 532 da BR-381, entre Igarapé e Itatiaiuçu, na Região Central de Minas Gerais. O motorista do caminhão, que transportava madeira, ficou preso às ferragens e morreu no local. O Corpo de Bombeiros registrou o incidente por volta das 5h30 e o médico da concessionária confirmou a morte. O acidente foi documentado em vídeo e divulgado nas redes sociais.",
+      "porQueImporta": "O incidente destaca os riscos de tráfego em rodovias de grande porte e a necessidade de atenção redobrada em horários de pico.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/go/goias/noticia/2026/06/04/adolescente-que-sobreviveu-ao-acidente-entre-van-e-caminhao-brincava-com-uma-das-cinco-vitimas-no-momento-da-batida-diz-mae.ghtml"
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/04/acidente-entre-caminhao-carreta-e-carro-deixa-um-morto-na-rodovia-fernao-dias-na-grande-bh-video.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T03:00:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Zud25NTxlaGuWJo3ZkF5Ma7Ptf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/Jln4UhTbS9JkAx2h1kRA/valentina-de-12-anos-e-uma-das-sobreviventes-do-acidente-com-van-que-matou-cinco-adolescentes..jpg"
+      "updatedAt": "2026-06-04T11:18:13.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/oXWSBax1U_8a1G-HgfWMq_0B48c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/n/7txmwgRGmFdv4Ldwsy5Q/carretas.png"
     },
     {
-      "clusterId": "bb407d85c7138392",
-      "slug": "ba4bf4289b7a766d",
-      "titulo": "Dois corpos carbonizados encontrados em casa em Araguaína",
-      "resumo": "Um homem de 50 anos e uma mulher de 19 anos foram encontrados mortos dentro de uma casa no setor Lago Azul, em Araguaína, após um incêndio. Os corpos estavam carbonizados no interior de um quarto, com o homem sobre uma cama e a mulher sob os destroços de um guarda-roupa. O Corpo de Bombeiros iniciou o combate às chamas ao chegar ao local.",
-      "porQueImporta": "O incidente destaca a gravidade de incêndios residenciais e a necessidade de medidas de prevenção e resposta rápida.",
+      "clusterId": "1b2168d78d92571e",
+      "slug": "0235b4c01a8dc05f",
+      "titulo": "Incêndio em apartamento de Pouso Alegre deixa seis feridos",
+      "resumo": "Um incêndio atingiu um apartamento no primeiro pavimento de um prédio na Rua Geraldineli Garcia, em Pouso Alegre, MG, no início da noite. Seis pessoas ficaram feridas, incluindo duas crianças de 2 anos. Todos os feridos foram encaminhados ao Hospital das Clínicas Samuel Libânio. A ocorrência foi registrada pelo Corpo de Bombeiros por volta das 21h35.",
+      "porQueImporta": "O incidente destaca a necessidade de medidas de segurança contra incêndios em residências.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/03/dois-corpos-sao-encontrados-carbonizados-dentro-de-casa-em-araguaina.ghtml"
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/04/ocorrencias-bombeiros-sul-de-minas.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T01:29:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/41eEoex0Z5vPryZtcUS-omOZQTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/R/tN323FR5mf8Us6wr0aDQ/modelo-foto-fundo-borrado-90-.png"
+      "updatedAt": "2026-06-04T11:17:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-sakBFf78C9C9EZD9_8Xinc3ezI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/N/89h4OnQTCmn2B75aSBcw/incendio-pouso.jpg"
     },
     {
-      "clusterId": "a94512bb4b963e93",
-      "slug": "99ca7488f9fefc2e",
-      "titulo": "Incêndio destrói parte do restaurante Tulum Beach Club em Barra Grande",
-      "resumo": "Um incêndio atingiu parte do restaurante Tulum Beach Club na noite de quarta-feira, 3, no distrito turístico de Barra Grande, em Maraú, Bahia. O estabelecimento, construído em madeira, sofreu danos principalmente em um dos lados. Não há registro de feridos. Vizinhos ajudaram a combater as chamas.",
-      "porQueImporta": "O incidente afetou um local de turismo, podendo impactar a economia local e a segurança de visitantes.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/03/incendio-em-area-turistica-na-bahia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T00:37:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/l6MRgA4XUMl-3ThT1B1gyky7IvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/A/izihz8SaGCnfEqDQvfyQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-06-03t212154.210.jpg"
-    },
-    {
-      "clusterId": "54bf075c83cd84b2",
-      "slug": "cc4540692b5890f7",
-      "titulo": "Ônibus desgovernado atropela pedestres e derruba muro de escola no Ceará",
-      "resumo": "Um ônibus escolar desgovernado atropelou pedestres e derrubou o muro da escola Presidente Geisel Polivalente, em Juazeiro do Norte. Três pessoas ficaram feridas, incluindo uma aluna, uma professora e um vendedor de salada de frutas. O número exato de vítimas não foi informado pelas autoridades. O acidente ocorreu nesta quarta-feira.",
-      "porQueImporta": "O incidente destaca riscos de segurança no transporte escolar e pode impactar a comunidade escolar local.",
+      "clusterId": "2c0656f01c3cfcb1",
+      "slug": "f9134244d49b4212",
+      "titulo": "Mãe de 63 anos morre e filha fica ferida em acidente entre moto e carro na BR-407, Piauí",
+      "resumo": "Na noite de quarta-feira, uma moto colidiu com um carro na BR-407, em Picos (PI). A condutora da moto, Valdenoura da Silva, de 63 anos, morreu no local. A filha, que também pilotava a moto, sofreu ferimentos leves e foi encaminhada ao hospital. Testemunhas relataram que a moto entrou na rodovia no sentido de Geminiano e foi atingida na traseira pelo carro que seguia no mesmo sentido.",
+      "porQueImporta": "O acidente evidencia a vulnerabilidade de motociclistas em rodovias estaduais",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/06/03/onibus-desgovernado-atropela-pessoas-e-derruba-muro-de-escola-aluna-professora-e-vendedor-ficam-feridos.ghtml"
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/04/mae-filha-acidente.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T00:11:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/7nqHA4apVFdwsIN3IX03dGRviIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/U/F7hVCDTmS1W6BX01HobA/foto-acidente-juazeiro.jpg"
+      "updatedAt": "2026-06-04T11:12:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/yxscqE_K1QdU0A8GJugDUIA1_Mk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/j/eQbam5Rmq6PyPVtcgoXg/acidente-prf-2-1-.jpg"
     },
     {
-      "clusterId": "ab37ce751cf2562f",
-      "slug": "53aa8a675a81fa2a",
-      "titulo": "Aeroporto do Kuwait é atingido por drone iraniano",
-      "resumo": "Ataque com drone e mísseis iranianos atingiu o Aeroporto Internacional do Kuwait, causando incêndio e ferindo dezenas de pessoas. Os voos foram suspensos e instalações diplomáticas foram danificadas. O incidente ocorre em meio a tensões regionais que já mantêm o Estreito de Ormuz quase fechado.",
-      "porQueImporta": "O ataque pode aumentar a instabilidade no comércio marítimo e elevar os preços do petróleo.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/03/video-aeroporto-no-kuwait-e-atingido-pro-drone-do-ira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T00:09:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/u9CK6hJn3BBjxEU2XSJfwLTc_hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/a/XPNON6RCeek9HiBny3cA/2026-06-03t111452z-1958224717-rc2amlaewev8-rtrmadp-3-iran-crisis-gulf-kuwait.jpg"
-    },
-    {
-      "clusterId": "cefb227b18074404",
-      "slug": "d805b3717d4aecd2",
-      "titulo": "Chega a 18 o número de municípios em situação de emergência pela cheia dos rios no Amazonas",
-      "resumo": "A Defesa Civil do Estado divulgou que 18 municípios do Amazonas estão em situação de emergência devido às cheias dos rios. Mais de 186 mil pessoas foram afetadas pelas inundações em diferentes regiões. Os municípios mais recentes a entrar na lista foram Barreirinha e Jutaí. Os níveis atuais dos rios nas duas localidades não foram divulgados.",
-      "porQueImporta": "As cheias aumentam o risco de desastres e exigem mobilização de recursos de socorro.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/03/aumenta-para-16-o-numero-de-municipios-em-situacao-de-emergencia-pela-cheia-no-amazonas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T00:05:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/khauC7PVakHp_5HDOKsxx59S6WA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/y/KXTZaVQ4q8DQrgHjTPGg/captura-de-tela-2026-02-10-075022.jpg"
-    },
-    {
-      "clusterId": "7b7efcad05beb66b",
-      "slug": "4c183c4e977bd4f2",
-      "titulo": "Homem morre após colisão entre ônibus BRT e bicicleta elétrica no Recreio",
-      "resumo": "Um homem de cerca de 30 anos morreu na noite de quarta-feira, por volta das 18h33, quando seu bicicleta elétrica foi atingida por um ônibus BRT próximo à Estação Notre-Dame, no Recreio. Bombeiros foram acionados, mas o homem não resistiu. Imagens mostram a bicicleta embaixo do ônibus. O incidente reforça o debate sobre a regulamentação das bicicletas elétricas no trânsito do Rio.",
-      "porQueImporta": "O acidente destaca a necessidade de regras claras para bicicletas elétricas em vias públicas.",
+      "clusterId": "31305ac1074660b0",
+      "slug": "25b7ed6694f1316f",
+      "titulo": "Motorista morre após colisão de carreta com defensa metálica na rodovia SP-255 em Taquarituba",
+      "resumo": "Uma carreta bitrem que transportava adubo colidiu com placas de sinalização e a defensa metálica no quilômetro 324 da rodovia Eduardo Saigh (SP-255) em Taquarituba, no sentido norte. O motorista perdeu o controle, a carga se espalhou e o veículo tombou parcialmente sobre a pista. O condutor morreu no local. A ocorrência foi confirmada pela Agência de Transporte do Estado de São Paulo (Artesp).",
+      "porQueImporta": "A fatalidade evidencia os riscos de acidentes com veículos de grande porte em rodovias estaduais",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/03/homem-morre-apos-colisao-entre-onibus-brt-e-bicicleta-eletrica-na-zona-sudoeste-do-rio.ghtml"
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/04/motorista-morre-apos-colidir-carreta-contra-defensa-metalica-na-rodovia-sp-255-em-taquarituba.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T00:01:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CrTP1X2IOBsEX4PRnRShaKNAyXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/3/8HwyJiQTqLQC2QJZYoUQ/imagem-cortada-91-.jpg"
+      "updatedAt": "2026-06-04T10:54:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/h1sgETbrg3PctQd6UFmxm4b4PO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/1/nzqWtbTzaHrkApUpxe5A/0d487ac3-f12f-48ff-b8e6-b174d1b8af88.jpg"
     },
     {
-      "clusterId": "cc400bcb0a28fe15",
-      "slug": "fa5975e17ffe2cb3",
-      "titulo": "Lancha se solta de carretilha e invade estacionamento de supermercado em Macapá",
-      "resumo": "Na tarde de quarta-feira, por volta das 17h30, uma lancha que era transportada em uma carretilha se soltou da trava de segurança e invadiu o estacionamento de um supermercado no bairro Alvorada, zona sul de Macapá. O incidente ocorreu em horário de grande movimento na rodovia Duca Serra. Uma pessoa ficou ferida e foi encaminhada ao Hospital de Emergências.",
-      "porQueImporta": "O acidente evidencia riscos associados ao transporte de embarcações em áreas urbanas movimentadas",
+      "clusterId": "706fdc0c4417d31a",
+      "slug": "a1180373a23b6c62",
+      "titulo": "Mototaxista morre após colisão com ônibus em Feira de Santana",
+      "resumo": "Um motociclista de 30 anos, identificado como Jonas Pereira Lima da Silva, morreu ao colidir com um ônibus municipal na Avenida Marechal Floriano, em Feira de Santana, na manhã de quinta-feira. O acidente ocorreu por volta das 6h30, enquanto o motorista seguia para o trabalho. As pessoas a bordo do ônibus não ficaram feridas. A vítima completaria 31 anos no dia seguinte.",
+      "porQueImporta": "O caso evidencia os riscos de deslocamento urbano para trabalhadores de aplicativos e a necessidade de melhorias na segurança viária.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/03/video-lancha-se-solta-de-carretilha-e-invade-estacionamento-de-supermercado-no-amapa.ghtml"
+          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/04/motociclista-morre-apos-bater-em-onibus-em-feira-de-santana.ghtml"
         }
       ],
-      "updatedAt": "2026-06-03T23:54:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/3ByGRDiFa1P4ObxYsmf5GbSocHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Z/iVdkH2QeW5bFOBdqJnTg/aleixo-g1-34-.jpg"
+      "updatedAt": "2026-06-04T10:47:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/uTj-dCt06u-azIkM5AX1lSI6QVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/O/ifHqaESyus3KBzKMdMdg/whatsapp-image-2026-06-04-at-07.48.06.jpeg"
+    },
+    {
+      "clusterId": "d6ebd574f2eae46f",
+      "slug": "f24cd8c1444d4ee3",
+      "titulo": "Van sem autorização para transporte escolar colide com caminhão na GO-518 e deixa cinco estudantes mortos",
+      "resumo": "Na noite de segunda-feira, uma van que transportava 12 alunos de Córrego do Ouro a Sanclerlândia colidiu na traseira com um caminhão na rodovia GO-518. O acidente resultou na morte de cinco estudantes de colégio militar. Segundo a Agência Goiana de Regulação, a van não possuía autorização para realizar transporte escolar intermunicipal. As autoridades investigam as circunstâncias da colisão.",
+      "porQueImporta": "O caso evidencia falhas na fiscalização de veículos de transporte escolar e tem impacto direto na segurança de estudantes.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/go/goias/noticia/2026/06/04/van-que-levava-cinco-estudantes-que-morreram-em-acidente-com-caminhao-na-go-518-nao-tinha-autorizacao-para-fazer-transporte-escolar-diz-agr.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-04T10:27:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/8gNBGfhmL4u6UN9dod9TB9AVl7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/x/VWoopKTBmPtHyqjlbVgw/padrao-foto-texto-g1-2026-06-02t065936.336.jpg"
+    },
+    {
+      "clusterId": "61e61fd260d7ecf2",
+      "slug": "63e0611c197a1aed",
+      "titulo": "Feriadão de Corpus Christi será de muito frio e chuva na Bahia, alerta Inmet; confira previsão",
+      "resumo": "Alerta meteorológico: chuva forte causa alagamentos em Salvador O feriadão de Corpus Christi será de chuva e frio na maior parte da Bahia. O Instituto Nacional de Meteorologia (Inmet) emitiu alerta acumulado de chuva para Salvador e o litoral norte, enquanto o as regiões sul, oeste e sudoeste estão com aviso de declínio de temperatura. Conforme informado pelo instituto, as chuvas devem atingir Salvador, as cidades da Região Metropolitana e parte do sul do estado até a sexta-feira (5). Ao todo, 131 municípios estão com o alerta amarelo. (Confira a lista completa ao fim da reportagem) 🟡 São…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/04/confira-previsao-do-tempo-para-o-feriado-na-bahia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-04T09:51:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/osRVOGPvF2DrFB3bsaR1r2LpEXA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/x/82J7AmQR2jUZ8wRuMyGg/whatsapp-image-2025-11-20-at-16.45.05.jpg"
+    },
+    {
+      "clusterId": "c8aaf31a1c0fa906",
+      "slug": "6843cf317c4f92d5",
+      "titulo": "Acidente na BR-277 bloqueia pista em Campo Largo",
+      "resumo": "Um caminhão bateu na traseira de outro na subida da Serra de São Luiz do Purunã, no km 134 da BR-277, em Campo Largo. O acidente ocorreu por volta das 3h, causando ferimentos leves nos motoristas. Às 6h45, a fila já somava mais de 10 km de congestionamento.",
+      "porQueImporta": "O bloqueio prolongou o trânsito na região metropolitana de Curitiba, afetando a mobilidade local.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/parana/noticia/2026/06/04/acidente-br-277-campo-largo-sentido-interior.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-04T09:49:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/BnUMYJ1jB3ZqdKjV9BF8blMvXEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/V/69iViyTZW2rpc6Ah3cFg/whatsapp-image-2026-06-04-at-06.49.27.jpeg"
+    },
+    {
+      "clusterId": "570509f450e5449a",
+      "slug": "6b3571417458f5c2",
+      "titulo": "Triplo homicídio no RS: polícia indiciou produtor rural",
+      "resumo": "Na quarta-feira (3), a Polícia Civil concluiu a investigação sobre o triplo homicídio ocorrido em Santa Cruz do Sul, RS, no dia 22 de maio. O suspeito, produtor rural, foi preso preventivamente e indiciado por três homicídios qualificados. As vítimas eram pai, filho e sobrinho da mesma família.",
+      "porQueImporta": "O caso destaca a atuação policial em crimes familiares graves no interior do Rio Grande do Sul.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/04/triplo-homicidio-no-rs-policia-indicia-produtor-rural-suspeito-de-matar-pai-filho-e-sobrinho-apos-sofrer-acidente-com-carro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-04T09:37:04.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ma7F7v4XZ_o2VHBgWl6_wBDqOBc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/M/f95UxvRGSTJ77hWucTsw/g1-14-.jpg"
     }
   ],
   "categorias": [
     {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "b2ee7dac81c0ce65",
+          "slug": "7612b7dce453478e",
+          "titulo": "Acidente entre caminhão, carreta e carro deixa um morto na Rodovia Fernão Dias",
+          "resumo": "Na manhã de quinta-feira, um acidente envolvendo um caminhão, uma carreta e um carro ocorreu no km 532 da BR-381, entre Igarapé e Itatiaiuçu, na Região Central de Minas Gerais. O motorista do caminhão, que transportava madeira, ficou preso às ferragens e morreu no local. O Corpo de Bombeiros registrou o incidente por volta das 5h30 e o médico da concessionária confirmou a morte. O acidente foi documentado em vídeo e divulgado nas redes sociais.",
+          "porQueImporta": "O incidente destaca os riscos de tráfego em rodovias de grande porte e a necessidade de atenção redobrada em horários de pico.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/04/acidente-entre-caminhao-carreta-e-carro-deixa-um-morto-na-rodovia-fernao-dias-na-grande-bh-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T11:18:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/oXWSBax1U_8a1G-HgfWMq_0B48c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/n/7txmwgRGmFdv4Ldwsy5Q/carretas.png"
+        },
+        {
+          "clusterId": "2c0656f01c3cfcb1",
+          "slug": "f9134244d49b4212",
+          "titulo": "Mãe de 63 anos morre e filha fica ferida em acidente entre moto e carro na BR-407, Piauí",
+          "resumo": "Na noite de quarta-feira, uma moto colidiu com um carro na BR-407, em Picos (PI). A condutora da moto, Valdenoura da Silva, de 63 anos, morreu no local. A filha, que também pilotava a moto, sofreu ferimentos leves e foi encaminhada ao hospital. Testemunhas relataram que a moto entrou na rodovia no sentido de Geminiano e foi atingida na traseira pelo carro que seguia no mesmo sentido.",
+          "porQueImporta": "O acidente evidencia a vulnerabilidade de motociclistas em rodovias estaduais",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/04/mae-filha-acidente.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T11:12:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yxscqE_K1QdU0A8GJugDUIA1_Mk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/j/eQbam5Rmq6PyPVtcgoXg/acidente-prf-2-1-.jpg"
+        },
+        {
+          "clusterId": "31305ac1074660b0",
+          "slug": "25b7ed6694f1316f",
+          "titulo": "Motorista morre após colisão de carreta com defensa metálica na rodovia SP-255 em Taquarituba",
+          "resumo": "Uma carreta bitrem que transportava adubo colidiu com placas de sinalização e a defensa metálica no quilômetro 324 da rodovia Eduardo Saigh (SP-255) em Taquarituba, no sentido norte. O motorista perdeu o controle, a carga se espalhou e o veículo tombou parcialmente sobre a pista. O condutor morreu no local. A ocorrência foi confirmada pela Agência de Transporte do Estado de São Paulo (Artesp).",
+          "porQueImporta": "A fatalidade evidencia os riscos de acidentes com veículos de grande porte em rodovias estaduais",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/04/motorista-morre-apos-colidir-carreta-contra-defensa-metalica-na-rodovia-sp-255-em-taquarituba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T10:54:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/h1sgETbrg3PctQd6UFmxm4b4PO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/1/nzqWtbTzaHrkApUpxe5A/0d487ac3-f12f-48ff-b8e6-b174d1b8af88.jpg"
+        },
+        {
+          "clusterId": "706fdc0c4417d31a",
+          "slug": "a1180373a23b6c62",
+          "titulo": "Mototaxista morre após colisão com ônibus em Feira de Santana",
+          "resumo": "Um motociclista de 30 anos, identificado como Jonas Pereira Lima da Silva, morreu ao colidir com um ônibus municipal na Avenida Marechal Floriano, em Feira de Santana, na manhã de quinta-feira. O acidente ocorreu por volta das 6h30, enquanto o motorista seguia para o trabalho. As pessoas a bordo do ônibus não ficaram feridas. A vítima completaria 31 anos no dia seguinte.",
+          "porQueImporta": "O caso evidencia os riscos de deslocamento urbano para trabalhadores de aplicativos e a necessidade de melhorias na segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/04/motociclista-morre-apos-bater-em-onibus-em-feira-de-santana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T10:47:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uTj-dCt06u-azIkM5AX1lSI6QVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/O/ifHqaESyus3KBzKMdMdg/whatsapp-image-2026-06-04-at-07.48.06.jpeg"
+        },
+        {
+          "clusterId": "d6ebd574f2eae46f",
+          "slug": "f24cd8c1444d4ee3",
+          "titulo": "Van sem autorização para transporte escolar colide com caminhão na GO-518 e deixa cinco estudantes mortos",
+          "resumo": "Na noite de segunda-feira, uma van que transportava 12 alunos de Córrego do Ouro a Sanclerlândia colidiu na traseira com um caminhão na rodovia GO-518. O acidente resultou na morte de cinco estudantes de colégio militar. Segundo a Agência Goiana de Regulação, a van não possuía autorização para realizar transporte escolar intermunicipal. As autoridades investigam as circunstâncias da colisão.",
+          "porQueImporta": "O caso evidencia falhas na fiscalização de veículos de transporte escolar e tem impacto direto na segurança de estudantes.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/06/04/van-que-levava-cinco-estudantes-que-morreram-em-acidente-com-caminhao-na-go-518-nao-tinha-autorizacao-para-fazer-transporte-escolar-diz-agr.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T10:27:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8gNBGfhmL4u6UN9dod9TB9AVl7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/x/VWoopKTBmPtHyqjlbVgw/padrao-foto-texto-g1-2026-06-02t065936.336.jpg"
+        },
+        {
+          "clusterId": "c8aaf31a1c0fa906",
+          "slug": "6843cf317c4f92d5",
+          "titulo": "Acidente na BR-277 bloqueia pista em Campo Largo",
+          "resumo": "Um caminhão bateu na traseira de outro na subida da Serra de São Luiz do Purunã, no km 134 da BR-277, em Campo Largo. O acidente ocorreu por volta das 3h, causando ferimentos leves nos motoristas. Às 6h45, a fila já somava mais de 10 km de congestionamento.",
+          "porQueImporta": "O bloqueio prolongou o trânsito na região metropolitana de Curitiba, afetando a mobilidade local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/parana/noticia/2026/06/04/acidente-br-277-campo-largo-sentido-interior.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T09:49:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/BnUMYJ1jB3ZqdKjV9BF8blMvXEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/V/69iViyTZW2rpc6Ah3cFg/whatsapp-image-2026-06-04-at-06.49.27.jpeg"
+        },
+        {
+          "clusterId": "46b802222c80a88e",
+          "slug": "138f6b63ebd84801",
+          "titulo": "Caminhoneiro negado liberdade após atropelar estudante",
+          "resumo": "A Justiça de Jacupiranga negou a liberdade do caminhoneiro Matheus Henrique Poly Garcia, que foi filmado bebendo antes de atropelar e matar a estudante Joyce Muraoka, de 19 anos, em 5 de maio na rodovia que liga o município a Eldorado. O acidente também feriu um homem de 45 anos. O vídeo mostra o caminhoneiro dirigindo após consumir bebida alcoólica.",
+          "porQueImporta": "O caso evidencia a gravidade de dirigir sob influência de álcool e a atuação da Justiça em casos de homicídio culposo.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/04/caminhoneiro-filmado-bebendo-antes-de-atropelar-e-matar-estudante-tem-liberdade-negada-pela-justica.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T09:15:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/K-4xjBDVcFObE3ywuCKgY-GsD10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/Y/9sjjGBSySJibcyCDLTrw/acidente-estudante.jpg"
+        },
+        {
+          "clusterId": "922f381605310b56",
+          "slug": "c7d9f989474c3a73",
+          "titulo": "Drone atinge ônibus de viagem em Donetsk e mata oito pessoas",
+          "resumo": "Um drone atingiu um ônibus de viagem em Donetsk, região da Ucrânia controlada pela Rússia, na quarta-feira. O ataque provocou a morte de oito passageiros e deixou outros onze feridos. Segundo autoridades regionais, 53 pessoas estavam inscritas para viajar no veículo, que seguia entre Moscou e Simferopol. O incidente ocorreu enquanto o ônibus parava para embarcar passageiros no assentamento local.",
+          "porQueImporta": "O ataque evidencia a vulnerabilidade de civis em áreas de conflito ativo",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/03/drone-atinge-onibus-de-viagem-e-deixa-mortos-em-area-da-ucrania-controlada-pela-russia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-03T04:32:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gazaLjjQx3JwHYzc8ejvr7uvBcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/wVt5JZRA2Ubf86BQRxBA/drone.gif"
+        }
+      ]
+    },
+    {
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "61e61fd260d7ecf2",
+          "slug": "63e0611c197a1aed",
+          "titulo": "Feriadão de Corpus Christi será de muito frio e chuva na Bahia, alerta Inmet; confira previsão",
+          "resumo": "Alerta meteorológico: chuva forte causa alagamentos em Salvador O feriadão de Corpus Christi será de chuva e frio na maior parte da Bahia. O Instituto Nacional de Meteorologia (Inmet) emitiu alerta acumulado de chuva para Salvador e o litoral norte, enquanto o as regiões sul, oeste e sudoeste estão com aviso de declínio de temperatura. Conforme informado pelo instituto, as chuvas devem atingir Salvador, as cidades da Região Metropolitana e parte do sul do estado até a sexta-feira (5). Ao todo, 131 municípios estão com o alerta amarelo. (Confira a lista completa ao fim da reportagem) 🟡 São…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/04/confira-previsao-do-tempo-para-o-feriado-na-bahia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T09:51:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/osRVOGPvF2DrFB3bsaR1r2LpEXA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/x/82J7AmQR2jUZ8wRuMyGg/whatsapp-image-2025-11-20-at-16.45.05.jpg"
+        },
+        {
+          "clusterId": "570509f450e5449a",
+          "slug": "6b3571417458f5c2",
+          "titulo": "Triplo homicídio no RS: polícia indiciou produtor rural",
+          "resumo": "Na quarta-feira (3), a Polícia Civil concluiu a investigação sobre o triplo homicídio ocorrido em Santa Cruz do Sul, RS, no dia 22 de maio. O suspeito, produtor rural, foi preso preventivamente e indiciado por três homicídios qualificados. As vítimas eram pai, filho e sobrinho da mesma família.",
+          "porQueImporta": "O caso destaca a atuação policial em crimes familiares graves no interior do Rio Grande do Sul.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/04/triplo-homicidio-no-rs-policia-indicia-produtor-rural-suspeito-de-matar-pai-filho-e-sobrinho-apos-sofrer-acidente-com-carro.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T09:37:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ma7F7v4XZ_o2VHBgWl6_wBDqOBc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/M/f95UxvRGSTJ77hWucTsw/g1-14-.jpg"
+        },
+        {
+          "clusterId": "df0c91fd8757e1e8",
+          "slug": "4adc2126270456d7",
+          "titulo": "Mãe e filha que caminharam grávidas até abrigo após tragédia das chuvas dão à luz e tentam reconstruir a vida em Juiz de Fora",
+          "resumo": "Tainara Tomé Correia Valadão com os filhos e a sobrinha em abrigo logo após as chuvas em Juiz de Fora Luiza Sudré/g1 Tainara Tomé Correia Valadão, de 32 anos, estava grávida de oito meses quando precisou deixar às pressas a casa onde morava, ameaçada por um deslizamento de terra após as fortes chuvas que atingiram Juiz de Fora em fevereiro. Ao lado da filha de 14 anos, também grávida, ela percorreu cerca de 30 minutos a pé até um abrigo, acompanhada dos outros três filhos, de 12, 10 e 8 anos. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp Mais de três meses depois da…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/04/mae-e-filha-que-caminharam-gravidas-ate-abrigo-apos-tragedia-das-chuvas-dao-a-luz-e-tentam-reconstruir-a-vida-em-juiz-de-fora.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-04T08:00:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/05N6c4-Ner1XKkh3dmBEcGGu6yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/o/47V4EYSGKqo0pKAXfLiQ/tainara-tome-correia-valadao-2.jpg"
+        },
         {
           "clusterId": "f3f5f26849a81c4c",
           "slug": "be6639a21ac4736b",
@@ -209,57 +407,6 @@
           ],
           "updatedAt": "2026-06-04T03:01:02.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/kj-Cix1mQfFRzhk4VqPJhX0OO58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/TeHHtqSMa1SGA8y1mlFg/afp-20260507-b27z9qh-v1-midres-776494682.jpg"
-        },
-        {
-          "clusterId": "7066db013246c1e7",
-          "slug": "b15405e856cd4234",
-          "titulo": "Irmãos são presos suspeitos de homicídio durante operação no norte da Bahia",
-          "resumo": "Dois irmãos foram presos suspeitos do homicídio de um homem em Queimadas, cidade do norte da Bahia, durante uma operação policial nesta quarta-feira (3). Os mandados de prisão foram cumpridos durante a Operação Consanguíneos, deflagrada pela Polícia Civil. Segundo a polícia, os irmãos têm 59 e 54 anos. Eles são suspeitos de envolvimento na morte de Josemar da Costa Almeida, vítima de disparos de arma de fogo na cidade, no dia 20 de março deste ano. Além dos mandados de prisão, a operação também cumpriu quatro mandados de busca e apreensão em endereços ligados aos investigados. Em um endereço…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/03/suspeitos-sao-presos-em-queimadas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T23:42:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ak3PbkBd5GM_cawpcSoS7E2U_y8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/H/bslB9XRb6bNbuBhvsBfA/operacao-queimadas.jpg"
-        },
-        {
-          "clusterId": "3e2d53f13148cd23",
-          "slug": "92e32a84db8616e2",
-          "titulo": "Cachorros são resgatados de imóvel em condições precárias em Feira de Santana",
-          "resumo": "Na quarta-feira, a Polícia Civil resgatou treze cães que viviam em um imóvel no bairro Tomba, em Feira de Santana, com acúmulo de fezes, urina, infestação de pulgas e risco de afogamento. A ação ocorreu após denúncias de maus‑tratos e constatou condições incompatíveis com o bem‑estar dos animais. Os cães foram encaminhados para cuidados veterinários.",
-          "porQueImporta": "O caso evidencia a necessidade de fiscalização e proteção de animais em situação de abandono",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/03/cachorros-em-situacao-de-abandono-sao-resgatados-em-feira-de-santana.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T22:59:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6yDStTS1GSu8WZxUzJyiXWif56s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/f/b2JReBTl2u9Va45eol1g/texto-do-seu-paragrafo-59-.png"
-        },
-        {
-          "clusterId": "8350ed360150f6f6",
-          "slug": "23b0125a96cf3743",
-          "titulo": "Vala 'engole' carros em trecho de antigo trilho de trem e surpreende motoristas em Campo Grande",
-          "resumo": "Trilho de trem que “engole carros” faz mais uma vítima Um carro caiu em uma vala na manhã desta quarta-feira (3) na Rua Doutor Werneck, no bairro Vila Albuquerque, em Campo Grande. O local é um antigo trecho de linha de trem que hoje é usado como atalho por moradores e já causou pelo menos quatro acidentes com veículos desde abril. Veja o vídeo acima. Segundo apurado pela reportagem, a passagem é improvisada e bastante usada por quem mora na região para encurtar caminho. O problema é que há muito lixo jogado no local, o que atrapalha a visão de quem passa e faz com que motoristas não percebam…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/03/vala-engole-carros-em-trecho-de-antigo-trilho-de-trem-e-surpreende-motoristas-em-campo-grande.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T22:53:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/uZlD4NvuWcmXIvhhexUjXSIw_P0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/6/dJAHACTsaU2KMTKPm0ew/carros-vala.jpg"
         },
         {
           "clusterId": "d0f41b54984e965b",
@@ -298,184 +445,42 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "ce6b9ff476c4b465",
-          "slug": "26779c2b452a97b1",
-          "titulo": "Adolescente que sobreviveu ao acidente entre van e caminhão brincava com uma das vítimas",
-          "resumo": "Um acidente entre uma van escolar e um caminhão em Córrego do Ouro deixou cinco adolescentes mortos e outras três feridas. A estudante Valentina Pereira Tavares, de 12 anos, estava brincando com duas amigas quando o impacto ocorreu. Uma das amigas, Emanuella Augusta, sobreviveu e permanece internada em estado grave, enquanto Izadora Monteiro, outra amiga, foi uma das vítimas fatais.",
-          "porQueImporta": "O caso destaca os riscos de acidentes de trânsito envolvendo veículos escolares e a necessidade de medidas de segurança para proteger jovens passageiros.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/06/04/adolescente-que-sobreviveu-ao-acidente-entre-van-e-caminhao-brincava-com-uma-das-cinco-vitimas-no-momento-da-batida-diz-mae.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T03:00:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Zud25NTxlaGuWJo3ZkF5Ma7Ptf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/Jln4UhTbS9JkAx2h1kRA/valentina-de-12-anos-e-uma-das-sobreviventes-do-acidente-com-van-que-matou-cinco-adolescentes..jpg"
-        },
-        {
-          "clusterId": "54bf075c83cd84b2",
-          "slug": "cc4540692b5890f7",
-          "titulo": "Ônibus desgovernado atropela pedestres e derruba muro de escola no Ceará",
-          "resumo": "Um ônibus escolar desgovernado atropelou pedestres e derrubou o muro da escola Presidente Geisel Polivalente, em Juazeiro do Norte. Três pessoas ficaram feridas, incluindo uma aluna, uma professora e um vendedor de salada de frutas. O número exato de vítimas não foi informado pelas autoridades. O acidente ocorreu nesta quarta-feira.",
-          "porQueImporta": "O incidente destaca riscos de segurança no transporte escolar e pode impactar a comunidade escolar local.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/06/03/onibus-desgovernado-atropela-pessoas-e-derruba-muro-de-escola-aluna-professora-e-vendedor-ficam-feridos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T00:11:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7nqHA4apVFdwsIN3IX03dGRviIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/U/F7hVCDTmS1W6BX01HobA/foto-acidente-juazeiro.jpg"
-        },
-        {
-          "clusterId": "7b7efcad05beb66b",
-          "slug": "4c183c4e977bd4f2",
-          "titulo": "Homem morre após colisão entre ônibus BRT e bicicleta elétrica no Recreio",
-          "resumo": "Um homem de cerca de 30 anos morreu na noite de quarta-feira, por volta das 18h33, quando seu bicicleta elétrica foi atingida por um ônibus BRT próximo à Estação Notre-Dame, no Recreio. Bombeiros foram acionados, mas o homem não resistiu. Imagens mostram a bicicleta embaixo do ônibus. O incidente reforça o debate sobre a regulamentação das bicicletas elétricas no trânsito do Rio.",
-          "porQueImporta": "O acidente destaca a necessidade de regras claras para bicicletas elétricas em vias públicas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/03/homem-morre-apos-colisao-entre-onibus-brt-e-bicicleta-eletrica-na-zona-sudoeste-do-rio.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T00:01:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CrTP1X2IOBsEX4PRnRShaKNAyXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/3/8HwyJiQTqLQC2QJZYoUQ/imagem-cortada-91-.jpg"
-        },
-        {
-          "clusterId": "cc400bcb0a28fe15",
-          "slug": "fa5975e17ffe2cb3",
-          "titulo": "Lancha se solta de carretilha e invade estacionamento de supermercado em Macapá",
-          "resumo": "Na tarde de quarta-feira, por volta das 17h30, uma lancha que era transportada em uma carretilha se soltou da trava de segurança e invadiu o estacionamento de um supermercado no bairro Alvorada, zona sul de Macapá. O incidente ocorreu em horário de grande movimento na rodovia Duca Serra. Uma pessoa ficou ferida e foi encaminhada ao Hospital de Emergências.",
-          "porQueImporta": "O acidente evidencia riscos associados ao transporte de embarcações em áreas urbanas movimentadas",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/03/video-lancha-se-solta-de-carretilha-e-invade-estacionamento-de-supermercado-no-amapa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T23:54:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3ByGRDiFa1P4ObxYsmf5GbSocHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Z/iVdkH2QeW5bFOBdqJnTg/aleixo-g1-34-.jpg"
-        },
-        {
-          "clusterId": "9231360e3183d017",
-          "slug": "f52f8dc71f1bcfea",
-          "titulo": "Polícia Civil identifica suspeito de morte de jovem atingido por linha com cerol em Campinas",
-          "resumo": "A Polícia Civil de Campinas identificou o suspeito que teria provocado a morte de Patrick Santos, de 18 anos, ao ser atingido no pescoço por uma linha com cerol. O suspeito foi localizado a partir de depoimentos de testemunhas e imagens de câmeras de segurança, prestou depoimento na delegacia e foi liberado. Ele admitiu que soltava pipa e utilizava a linha com cerol no momento do acidente.",
-          "porQueImporta": "O caso evidencia os riscos das linhas com cerol e a necessidade de investigação para prevenir novas vítimas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/03/policia-civil-identifica-suspeito-de-provocar-morte-de-jovem-atingido-por-linha-com-cerol-em-campinas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T23:36:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1qjyNAj5sGGZyRgu3GZiIhldmnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/I/yjX2SKRqO8YtIE1mAsRQ/copia-de-area-1-20-.png"
-        },
-        {
-          "clusterId": "ed987b0c4c80695d",
-          "slug": "0289f38c4cd4a8d9",
-          "titulo": "Caminhonete que caiu no Rio Acre é retirada após mais de um mês",
-          "resumo": "Uma caminhonete que havia caído no Rio Acre foi recuperada nesta quarta-feira em meio à vazante do manancial. A operação contou com a participação conjunta do Corpo de Bombeiros e da Defesa Civil de Rio Branco, que utilizou uma retroescavadeira para remover o veículo. As imagens mostram o automóvel sem danos aparentes à carcaça e um dos militares tentando abrir a porta durante a retirada.",
-          "porQueImporta": "A recuperação evidencia a capacidade de resposta das autoridades frente a incidentes que podem gerar riscos ambientais e de segurança",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/03/em-meio-a-vazante-caminhonete-que-caiu-no-rio-acre-e-encontrada-apos-mais-de-um-mes.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T23:24:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/E59M68ICe185dQm4rg2wkYhtt8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/F/S1m6DDSaCiMZMHdeyYcg/midia-de-distribuicao-g1-2026-06-03t180340.456.jpg"
-        },
-        {
-          "clusterId": "922f381605310b56",
-          "slug": "c7d9f989474c3a73",
-          "titulo": "Drone atinge ônibus de viagem em Donetsk e mata oito pessoas",
-          "resumo": "Um drone atingiu um ônibus de viagem em Donetsk, região da Ucrânia controlada pela Rússia, na quarta-feira. O ataque provocou a morte de oito passageiros e deixou outros onze feridos. Segundo autoridades regionais, 53 pessoas estavam inscritas para viajar no veículo, que seguia entre Moscou e Simferopol. O incidente ocorreu enquanto o ônibus parava para embarcar passageiros no assentamento local.",
-          "porQueImporta": "O ataque evidencia a vulnerabilidade de civis em áreas de conflito ativo",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/03/drone-atinge-onibus-de-viagem-e-deixa-mortos-em-area-da-ucrania-controlada-pela-russia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T04:32:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gazaLjjQx3JwHYzc8ejvr7uvBcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/wVt5JZRA2Ubf86BQRxBA/drone.gif"
-        }
-      ]
-    },
-    {
       "slug": "incendio",
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "bb407d85c7138392",
-          "slug": "ba4bf4289b7a766d",
-          "titulo": "Dois corpos carbonizados encontrados em casa em Araguaína",
-          "resumo": "Um homem de 50 anos e uma mulher de 19 anos foram encontrados mortos dentro de uma casa no setor Lago Azul, em Araguaína, após um incêndio. Os corpos estavam carbonizados no interior de um quarto, com o homem sobre uma cama e a mulher sob os destroços de um guarda-roupa. O Corpo de Bombeiros iniciou o combate às chamas ao chegar ao local.",
-          "porQueImporta": "O incidente destaca a gravidade de incêndios residenciais e a necessidade de medidas de prevenção e resposta rápida.",
+          "clusterId": "1b2168d78d92571e",
+          "slug": "0235b4c01a8dc05f",
+          "titulo": "Incêndio em apartamento de Pouso Alegre deixa seis feridos",
+          "resumo": "Um incêndio atingiu um apartamento no primeiro pavimento de um prédio na Rua Geraldineli Garcia, em Pouso Alegre, MG, no início da noite. Seis pessoas ficaram feridas, incluindo duas crianças de 2 anos. Todos os feridos foram encaminhados ao Hospital das Clínicas Samuel Libânio. A ocorrência foi registrada pelo Corpo de Bombeiros por volta das 21h35.",
+          "porQueImporta": "O incidente destaca a necessidade de medidas de segurança contra incêndios em residências.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/03/dois-corpos-sao-encontrados-carbonizados-dentro-de-casa-em-araguaina.ghtml"
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/04/ocorrencias-bombeiros-sul-de-minas.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T01:29:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/41eEoex0Z5vPryZtcUS-omOZQTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/R/tN323FR5mf8Us6wr0aDQ/modelo-foto-fundo-borrado-90-.png"
+          "updatedAt": "2026-06-04T11:17:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-sakBFf78C9C9EZD9_8Xinc3ezI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/N/89h4OnQTCmn2B75aSBcw/incendio-pouso.jpg"
         },
         {
-          "clusterId": "a94512bb4b963e93",
-          "slug": "99ca7488f9fefc2e",
-          "titulo": "Incêndio destrói parte do restaurante Tulum Beach Club em Barra Grande",
-          "resumo": "Um incêndio atingiu parte do restaurante Tulum Beach Club na noite de quarta-feira, 3, no distrito turístico de Barra Grande, em Maraú, Bahia. O estabelecimento, construído em madeira, sofreu danos principalmente em um dos lados. Não há registro de feridos. Vizinhos ajudaram a combater as chamas.",
-          "porQueImporta": "O incidente afetou um local de turismo, podendo impactar a economia local e a segurança de visitantes.",
+          "clusterId": "772b66a9d67f1920",
+          "slug": "a962112dce59fde2",
+          "titulo": "Incêndio em casa de repouso no Sri Lanka deixa 12 mortos e 8 feridos",
+          "resumo": "Um incêndio começou na noite de 3 de junho em uma casa de repouso na cidade de Anguruwatota, Sri Lanka. O fogo resultou na morte de 12 residentes e deixou oito feridos, enquanto 51 pessoas foram resgatadas. O diretor do estabelecimento foi detido sob suspeita de negligência. A polícia continua investigando as causas do incidente.",
+          "porQueImporta": "O caso evidencia vulnerabilidades em locais de assistência a idosos e a necessidade de medidas de segurança contra incêndios.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/03/incendio-em-area-turistica-na-bahia.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/04/incendio-casa-repouso-sri-lanka-mortos-feridos.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T00:37:59.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/l6MRgA4XUMl-3ThT1B1gyky7IvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/A/izihz8SaGCnfEqDQvfyQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-06-03t212154.210.jpg"
-        },
-        {
-          "clusterId": "a7973dc727773b87",
-          "slug": "47632fc5fb940ee5",
-          "titulo": "Incêndio em depósito na Grande São Luís é controlado",
-          "resumo": "Um incêndio atingiu um depósito no Araçagi, em São José de Ribamar, na Região Metropolitana de São Luís, e foi controlado na noite de quarta-feira. Não houve vítimas registradas. As equipes de bombeiros permanecem no local para fazer o rescaldo e monitorar pequenos focos. Uma loja ao lado sofreu danos na parte frontal, que ainda serão avaliados.",
-          "porQueImporta": "O controle do incêndio evita a propagação para áreas vizinhas e garante a segurança da comunidade local",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/03/incendio-em-deposito-e-controlado-mas-bombeiros-seguem-no-rescaldo-na-grande-ilha.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T23:36:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/GGUaHxLAKUHFvSyDw-bV4U6e_Oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/h/B1M5Y9Q0GwtcIuucmg5A/whatsapp-image-2026-06-03-at-16.29.39.jpeg"
+          "updatedAt": "2026-06-04T08:58:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kdo8FMRS5osHulPfcE6Qn7v6X-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/L/NY3wI3SsOMr2Gz9lBBXA/afp-20260604-b4xu9ut-v1-midres-srilankaaccidentfire.jpg"
         },
         {
           "clusterId": "ed063a7d8df8e8a2",
@@ -537,25 +542,52 @@
       ]
     },
     {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "16910e5a541e409a",
+          "slug": "a1ba3ea9647707b3",
+          "titulo": "Explosão em apartamento de Copacabana provoca incêndio e ferimento",
+          "resumo": "Uma explosão ocorreu no 1º andar de um prédio na Rua Barata Ribeiro, em Copacabana, e desencadeou um incêndio. O impacto arremessou objetos como colchão e janela para fora do imóvel. Um homem ficou ferido e os moradores ficaram assustados com o incidente. A origem da explosão ainda está sendo investigada.",
+          "porQueImporta": "O evento representa risco à segurança dos moradores e pode indicar falhas em sistemas de segurança residencial.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/06/04/explosao-em-copacabana.ghtml"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/explosao-incendio-apartamento-copacabana"
+            }
+          ],
+          "updatedAt": "2026-06-04T11:19:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RtOdRiiQAJQK0LGvq-V3rVyUbJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/5/ALHDfDQhKeiMoLv6r4tw/bdrj-limpo-20260604-0545-frame-111567.jpeg"
+        }
+      ]
+    },
+    {
       "slug": "enchente",
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "cefb227b18074404",
-          "slug": "d805b3717d4aecd2",
-          "titulo": "Chega a 18 o número de municípios em situação de emergência pela cheia dos rios no Amazonas",
-          "resumo": "A Defesa Civil do Estado divulgou que 18 municípios do Amazonas estão em situação de emergência devido às cheias dos rios. Mais de 186 mil pessoas foram afetadas pelas inundações em diferentes regiões. Os municípios mais recentes a entrar na lista foram Barreirinha e Jutaí. Os níveis atuais dos rios nas duas localidades não foram divulgados.",
-          "porQueImporta": "As cheias aumentam o risco de desastres e exigem mobilização de recursos de socorro.",
+          "clusterId": "3f5c0ed3071a48b9",
+          "slug": "92ffb6421ba6e6af",
+          "titulo": "Fortes chuvas impactam cerca de 49 mil pessoas em Roraima",
+          "resumo": "A Defesa Civil estima que aproximadamente 49 mil pessoas foram afetadas por chuvas intensas em sete municípios de Roraima. As comunidades indígenas de Normandia e Uiramutã são as mais atingidas, com 46 aldeias isoladas devido a alagamentos de estradas. As precipitações danificaram pontes, estradas e rodovias, interrompendo o abastecimento de água potável e energia elétrica, além de prejudicar a produção rural.",
+          "porQueImporta": "A situação evidencia vulnerabilidades em áreas indígenas e a necessidade de resposta emergencial para restabelecer serviços básicos.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/03/aumenta-para-16-o-numero-de-municipios-em-situacao-de-emergencia-pela-cheia-no-amazonas.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/04/roraima-tem-49-mil-pessoas-impactadas-por-fortes-chuvas-estima-defesa-civil.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T00:05:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/khauC7PVakHp_5HDOKsxx59S6WA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/y/KXTZaVQ4q8DQrgHjTPGg/captura-de-tela-2026-02-10-075022.jpg"
+          "updatedAt": "2026-06-04T09:01:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Dzp8o5nr32ijj1b-0-WRp0DRpxM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/P/2SfsIRSsmsNkfQ9RhFIQ/cambaru.png"
         }
       ]
     }
