@@ -31,3 +31,6 @@ pnpm-debug.log*
 
 # Claude Code local config
 .claude/settings.local.json
+
+# stub criado por pnpm v11 local (CI usa pnpm v10, que lê o package.json) — não publicar
+pnpm-workspace.yaml
