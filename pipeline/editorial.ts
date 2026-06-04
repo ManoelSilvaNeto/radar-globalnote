@@ -199,15 +199,20 @@ const TEMPERATURE = 0.4; // um pouco acima do resumo: prosa menos robótica, ain
 // Gera (e valida) a peça a partir da edição. `providers` na ordem de preferência;
 // em 429/erro, cai pro próximo. Retorna null se a IA falhar ou a validação reprovar
 // (nesse caso nada é gravado — melhor não ter editorial do que ter um ruim).
+// `diag` (opcional) recebe uma linha por provedor com o resultado, p/ o status file.
 export async function generateEditorial(
   edition: Edition,
   providers: OpenAICompatSummarizer[],
   now: Date,
   maxStories: number,
   destaquesLimit: number,
+  diag: string[] = [],
 ): Promise<Editorial | null> {
   const stories = edition.home.slice(0, Math.max(1, maxStories));
-  if (stories.length === 0) return null;
+  if (stories.length === 0) {
+    diag.push('edição sem histórias');
+    return null;
+  }
 
   const prompt = buildEditorialPrompt(stories, edition);
   for (const p of providers) {
@@ -221,8 +226,10 @@ export async function generateEditorial(
       const v = validateEditorial(raw, stories, now);
       if (!v.ok) {
         console.warn(`  ⚠ editorial reprovado (${p.label}): ${v.reason}`);
+        diag.push(`${p.label}: reprovado — ${v.reason}`);
         continue; // tenta o próximo provedor (pode ser um lapso do modelo)
       }
+      diag.push(`${p.label}: ok`);
       return {
         date: edition.date,
         generatedAt: now.toISOString(),
@@ -232,8 +239,9 @@ export async function generateEditorial(
         destaques: composeDestaques(stories, destaquesLimit),
       };
     } catch (err) {
-      const tag = isQuotaError(err) ? 'sem cota (429)' : String(err).slice(0, 80);
+      const tag = isQuotaError(err) ? 'sem cota (429)' : String(err).slice(0, 120);
       console.warn(`  editorial: provedor ${p.label} falhou (${tag}) — próximo.`);
+      diag.push(`${p.label}: erro — ${tag}`);
     }
   }
   return null;
@@ -262,6 +270,23 @@ async function fileExists(path: string): Promise<boolean> {
   }
 }
 
+// Status da última tentativa (observabilidade): gravado SEMPRE, fora do dir
+// data/editorial/ (p/ o glob *.json do site não tratá-lo como peça). Diz por que
+// um dia teve ou não teve editorial — diagnóstico sem precisar do log do Actions.
+type EditorialStatus = {
+  ranAt: string;
+  editionDate: string;
+  hourUtc: number;
+  outcome: 'generated' | 'skipped' | 'no-providers' | 'not-generated';
+  reason: string;
+  providers: string[];
+  attempts: string[];
+};
+
+async function writeStatus(dataDir: string, status: EditorialStatus): Promise<void> {
+  await writeFile(join(dataDir, 'editorial-status.json'), JSON.stringify(status, null, 2) + '\n');
+}
+
 // Ponto de entrada chamado pelo pipeline (best-effort, nunca derruba a run).
 export async function maybeWriteEditorial(edition: Edition, dataDir: string, now: Date): Promise<void> {
   const dir = join(dataDir, 'editorial');
@@ -271,27 +296,39 @@ export async function maybeWriteEditorial(edition: Edition, dataDir: string, now
   const genHour = Number(process.env.EDITORIAL_GEN_HOUR_UTC ?? 11);
   const maxStories = Number(process.env.EDITORIAL_MAX_STORIES ?? 10);
   const destaques = Number(process.env.EDITORIAL_DESTAQUES ?? 6);
+  const hourUtc = now.getUTCHours();
+  const base = { ranAt: now.toISOString(), editionDate: edition.date, hourUtc };
 
-  const decision = decideGenerate({
-    exists: await fileExists(path),
-    hourUtc: now.getUTCHours(),
-    genHour,
-    force,
-  });
+  const decision = decideGenerate({ exists: await fileExists(path), hourUtc, genHour, force });
   if (!decision.generate) {
     console.log(`[editorial] ${decision.reason} — pulando.`);
+    // Não sobrescreve o status quando o editorial do dia JÁ existe (preserva o
+    // "generated" da run que o criou); só registra skips por janela/força.
+    if (!decision.reason.includes('já existe')) {
+      await writeStatus(dataDir, { ...base, outcome: 'skipped', reason: decision.reason, providers: [], attempts: [] });
+    }
     return;
   }
 
   const providers = providersFromEnv();
   if (providers.length === 0) {
     console.log('[editorial] sem chave de IA — pulando.');
+    await writeStatus(dataDir, { ...base, outcome: 'no-providers', reason: 'sem GROQ/CEREBRAS', providers: [], attempts: [] });
     return;
   }
+  const providerLabels = providers.map((p) => p.label);
 
-  const editorial = await generateEditorial(edition, providers, now, maxStories, destaques);
+  const attempts: string[] = [];
+  const editorial = await generateEditorial(edition, providers, now, maxStories, destaques, attempts);
   if (!editorial) {
     console.warn('[editorial] não gerado (IA fora ou validação reprovou) — re-tenta no próximo run.');
+    await writeStatus(dataDir, {
+      ...base,
+      outcome: 'not-generated',
+      reason: 'IA fora ou validação reprovou',
+      providers: providerLabels,
+      attempts,
+    });
     return;
   }
 
@@ -302,5 +339,12 @@ export async function maybeWriteEditorial(edition: Edition, dataDir: string, now
 
   await mkdir(dir, { recursive: true });
   await writeFile(path, JSON.stringify(editorial, null, 2) + '\n');
+  await writeStatus(dataDir, {
+    ...base,
+    outcome: 'generated',
+    reason: `"${editorial.titulo}" (${editorial.paragrafos.length} parágrafos)`,
+    providers: providerLabels,
+    attempts,
+  });
   console.log(`[editorial] gravado: ${edition.date} — "${editorial.titulo}" (${editorial.paragrafos.length} parágrafos)`);
 }
