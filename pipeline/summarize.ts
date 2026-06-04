@@ -254,6 +254,15 @@ export type ProviderConfig = {
   reasoningEffort: boolean; // manda reasoning_effort: 'low' (família gpt-oss)
 };
 
+// Opções de uma completação: schema estrito (constrained decoding) quando o modelo
+// suporta, e folgas de tokens/temperatura específicas (o editorial precisa de mais).
+export type CompletionOpts = {
+  schema: Record<string, unknown>;
+  schemaName: string;
+  maxTokens?: number;
+  temperature?: number;
+};
+
 export class OpenAICompatSummarizer implements Summarizer {
   readonly label: string;
   protected cfg: ProviderConfig;
@@ -264,20 +273,18 @@ export class OpenAICompatSummarizer implements Summarizer {
   }
 
   // Structured outputs estritos quando o modelo suporta; senão json_object.
-  private responseFormat(): Record<string, unknown> {
+  private responseFormat(schemaName: string, schema: Record<string, unknown>): Record<string, unknown> {
     if (this.cfg.strictSchema) {
-      return {
-        type: 'json_schema',
-        json_schema: { name: 'resumo', strict: true, schema: RESUMO_SCHEMA },
-      };
+      return { type: 'json_schema', json_schema: { name: schemaName, strict: true, schema } };
     }
     return { type: 'json_object' };
   }
 
-  async summarize(input: SummarizeInput): Promise<Summary> {
+  // Re-tenta transientes (429/500/503) com backoff; demais erros propagam.
+  private async withRetry<T>(fn: () => Promise<T>): Promise<T> {
     for (let attempt = 0; ; attempt++) {
       try {
-        return await this.callOnce(input);
+        return await fn();
       } catch (err) {
         const status = errorStatus(err);
         if (status !== null && TRANSIENT.has(status) && attempt < RETRY_BACKOFF_MS.length) {
@@ -289,17 +296,33 @@ export class OpenAICompatSummarizer implements Summarizer {
     }
   }
 
-  private async callOnce(input: SummarizeInput): Promise<Summary> {
+  // Completação JSON genérica (resumo de cluster e editorial usam a mesma máquina de
+  // request/parse/retry — muda só o prompt e o schema). Devolve o objeto já parseado.
+  async completeJson<T>(system: string, user: string, opts: CompletionOpts): Promise<T> {
+    return this.withRetry(async () => {
+      const text = await this.rawCompletion(system, user, opts);
+      return parseJsonObject(text) as T;
+    });
+  }
+
+  async summarize(input: SummarizeInput): Promise<Summary> {
+    return this.completeJson<Summary>(SYSTEM_INSTRUCTION, buildPrompt(input), {
+      schema: RESUMO_SCHEMA,
+      schemaName: 'resumo',
+    });
+  }
+
+  private async rawCompletion(system: string, user: string, opts: CompletionOpts): Promise<string> {
     const body: Record<string, unknown> = {
       model: this.cfg.model,
-      temperature: 0.3,
+      temperature: opts.temperature ?? 0.3,
       // Folga p/ o JSON. Em modelos de reasoning (gpt-oss) os tokens de raciocínio
       // contam aqui; com max baixo o JSON era truncado → 400 "Failed to generate JSON".
-      max_completion_tokens: 4096,
-      response_format: this.responseFormat(),
+      max_completion_tokens: opts.maxTokens ?? 4096,
+      response_format: this.responseFormat(opts.schemaName, opts.schema),
       messages: [
-        { role: 'system', content: SYSTEM_INSTRUCTION },
-        { role: 'user', content: buildPrompt(input) },
+        { role: 'system', content: system },
+        { role: 'user', content: user },
       ],
     };
     // Resumir não exige raciocínio pesado: 'low' reduz tokens de reasoning (mais
@@ -328,7 +351,7 @@ export class OpenAICompatSummarizer implements Summarizer {
     };
     const text = data.choices?.[0]?.message?.content;
     if (!text) throw new Error(`resposta vazia da IA (${this.cfg.label})`);
-    return parseJsonObject(text) as Summary;
+    return text;
   }
 }
 
@@ -400,14 +423,22 @@ export class ChainSummarizer implements Summarizer {
   }
 }
 
-// Cria o resumidor a partir do ambiente. Encadeia os provedores configurados
-// (Groq primário, Cerebras fallback). Sem nenhuma chave → null (usa fallback RSS).
-export function summarizerFromEnv(): Summarizer | null {
+// Provedores de IA configurados no ambiente, na ordem de preferência (Groq
+// primário, Cerebras fallback). Vazio = nenhuma chave. Reusado pelo resumo
+// (encadeado) e pelo editorial (que itera a lista por conta própria).
+export function providersFromEnv(): OpenAICompatSummarizer[] {
   const providers: OpenAICompatSummarizer[] = [];
   const groqKey = process.env.GROQ_API_KEY?.trim();
   if (groqKey) providers.push(new GroqSummarizer(groqKey));
   const cerebrasKey = process.env.CEREBRAS_API_KEY?.trim();
   if (cerebrasKey) providers.push(new CerebrasSummarizer(cerebrasKey));
+  return providers;
+}
+
+// Cria o resumidor a partir do ambiente. Encadeia os provedores configurados
+// (Groq primário, Cerebras fallback). Sem nenhuma chave → null (usa fallback RSS).
+export function summarizerFromEnv(): Summarizer | null {
+  const providers = providersFromEnv();
 
   if (providers.length === 0) {
     console.warn(
