@@ -1,339 +1,322 @@
 {
   "date": "2026-06-05",
-  "generatedAt": "2026-06-05T04:59:21.510Z",
+  "generatedAt": "2026-06-05T11:44:08.648Z",
   "home": [
     {
-      "clusterId": "adaa0e57c53451e0",
-      "slug": "9400d15d23a80497",
-      "titulo": "Incêndio mata jovem e padrasto em Araguaína",
-      "resumo": "Um incêndio em uma residência em Araguaína, Tocantins, resultou na morte carbonizada de Laiane Cardoso Noleto, de 19 anos, e de seu padrasto, Ivano Vaz Cunha, de 49 anos. O Corpo de Bombeiros localizou os corpos no interior de um quarto após uma explosão ser ouvida por testemunhas. A Polícia Civil está investigando o caso.",
-      "porQueImporta": "O incidente destaca a necessidade de segurança em residências e a importância de investigação de incêndios com explosões.",
+      "clusterId": "1bb3f71c36815a49",
+      "slug": "bc00ecb9a631eef2",
+      "titulo": "Acidente na GO-206 mata vereador, esposa e filho em Goiás",
+      "resumo": "Na noite de quinta-feira, o vereador Shaylon Rodrigo Ribeiro, de Cachoeira Alta, e sua família morreram em colisão na GO-206, em Quirinópolis. O veículo, um Toyota Corolla, bateu de frente com um caminhão na saída do município em direção a Caçu. O Corpo de Bombeiros confirmou a morte dos três ocupantes.",
+      "porQueImporta": "O falecimento de um político local destaca a gravidade de acidentes de trânsito na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/go/goias/noticia/2026/06/05/vereador-mulher-e-filho-morrem-em-acidente-na-go-206-em-goias.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/tragedia-na-rodovia-acidente-mata-vereador-mulher-e-filho-em-goias"
+        }
+      ],
+      "updatedAt": "2026-06-05T11:33:16.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/F_8Vi-dil0XQZ5EPtFORqHmPxQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/H/HlJovkS8qLbzIMDUylsA/pesca-em-goias-tem-novas-regras-3-.jpg"
+    },
+    {
+      "clusterId": "58e4f39fb0b21f8c",
+      "slug": "b645edf6ea424466",
+      "titulo": "Inmet e Defesa Civil emitem alertas para queda de temperatura no DF",
+      "resumo": "O Inmet e a Defesa Civil divulgaram alertas sobre queda de temperatura no Distrito Federal. Os avisos indicam que o frio pode atingir níveis de risco para a saúde da população. As autoridades recomendam precauções para evitar complicações. A situação foi comunicada em meio à expectativa de temperaturas mais baixas.",
+      "porQueImporta": "A queda de temperatura pode representar risco à saúde pública, exigindo atenção e medidas preventivas.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/inmet-e-defesa-civil-emitem-alertas-para-queda-de-temperatura-no-df"
+        }
+      ],
+      "updatedAt": "2026-06-05T11:35:35.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/inmet-alerta-frio.jpg"
+    },
+    {
+      "clusterId": "6566d542ed5a0cee",
+      "slug": "921823dcaac37902",
+      "titulo": "Paciente morre após ambulância perder controle e bater em poste",
+      "resumo": "Uma ambulância que transportava uma paciente idosa perdeu o controle e bateu em um poste na madrugada de sexta-feira, 5, na Mooca, Zona Leste de São Paulo. O impacto destruiu a frente do veículo e quebrou o para-brisa, que caiu na calçada. A paciente sofreu parada cardiorrespiratória e faleceu. Três demais ocupantes ficaram feridos.",
+      "porQueImporta": "O acidente destaca riscos de transporte de pacientes em ambulâncias e a necessidade de reforço em segurança veicular.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/05/paciente-morre-apos-ambulancia-perder-o-controle-e-bater-em-poste-outras-tres-pessoas-ficaram-feridas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-05T11:33:14.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/oWtTkjgbZImgPmQB8-zfw_6F9ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/T/6lKpWURFahj8AfDFGULg/paciente-morre-apos-ambulancia-perder-o-controle-e-bater-em-poste.jpg"
+    },
+    {
+      "clusterId": "1a769ae728e3bd16",
+      "slug": "5bc105523de33796",
+      "titulo": "Criança de 4 anos morre após cair do segundo andar de hotel em SC",
+      "resumo": "Uma criança de quatro anos morreu depois de cair do segundo andar do Hotel Steinhausen, em Blumenau, Santa Catarina. O acidente ocorreu em um hotel de hospedagem. As polícias civil e científica foram acionadas para investigar as circunstâncias do ocorrido.",
+      "porQueImporta": "O incidente destaca a necessidade de segurança em estabelecimentos de hospedagem e a proteção de crianças em ambientes públicos.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/crianca-de-4-anos-morre-apos-cair-do-segundo-andar-de-hotel-em-sc"
+        }
+      ],
+      "updatedAt": "2026-06-05T11:32:35.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/crianca.jpg"
+    },
+    {
+      "clusterId": "e9201f8c84e808ff",
+      "slug": "52d5b58155727bdc",
+      "titulo": "Operação de reflutuação tenta recuperar navio histórico afundado no Porto de Santos",
+      "resumo": "O navio Professor Besnard, importante na pesquisa científica brasileira, foi afundado há quase três meses no Porto de Santos. Na quarta-feira (3), mergulhadores e equipamentos de sucção foram usados para remover toneladas de água e tentar trazer o navio de volta à superfície. A operação busca preservar a estrutura original, que sofreu danos após anos de estagnação.",
+      "porQueImporta": "O navio é símbolo da ciência nacional e sua recuperação pode preservar um importante patrimônio histórico.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/05/navio-historico-passa-por-operacao-de-reflutuacao-apos-naufragio-no-porto-de-santos-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-05T11:30:33.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/kvhGZLTw72nf06_s_0eY-82dcOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/1/Ks9r1CSrGwbuKzH1hV8g/navio-besnard-1-.jpg"
+    },
+    {
+      "clusterId": "5c7b531ddda937f2",
+      "slug": "8b0bd628c48309ee",
+      "titulo": "Motociclista morre após colisão com carro na Rodovia Santos Dumont",
+      "resumo": "Um motociclista foi atingido na traseira por um carro na Rodovia Santos Dumont, em Indaiatuba, na madrugada de sexta-feira. O impacto fez o carro capotar e a motocicleta tombar na pista. Equipes de resgate confirmaram a morte do motociclista. O motorista do carro sofreu fraturas nos membros superiores e permanece internado.",
+      "porQueImporta": "O acidente resultou em fatalidade e destaca riscos de colisões traseiras em rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/05/motociclista-morre-apos-ter-moto-atingida-por-carro-na-santos-dumont-em-indaiatuba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-05T11:18:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/WEpU09YdpLcSbQhE2lnxLzYyHQQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/9/82htKtS12viO3K15BvBA/paulo-bernardino-7-.jpeg"
+    },
+    {
+      "clusterId": "a7045983f14e5e0e",
+      "slug": "e8c3fa274c131d77",
+      "titulo": "Caminhão com carga de panificação pega fogo na estrada de acesso a Davinópolis, MA",
+      "resumo": "Um caminhão que transportava produtos de panificação incendiou-se na tarde de quinta-feira na rodovia de acesso a Davinópolis, na região tocantina do Maranhão. As chamas atingiram a carga, a vegetação ao longo da via e parte da rede elétrica. As equipes do Corpo de Bombeiros Militar do Maranhão chegaram ao local já com a maior parte da estrutura do veículo consumida pelo fogo. Não houve feridos.",
+      "porQueImporta": "O incidente evidencia riscos de incêndio em transportes de carga e pode gerar interrupções na circulação e danos à infraestrutura local.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/04/ela-tinha-um-futuro-pela-frente-lamenta-primo-de-jovem-encontrada-carbonizada-com-o-padrasto.ghtml"
+          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/05/caminhao-com-carga-de-panificacao-pega-fogo-em-davinopolis-no-ma.ghtml"
         }
       ],
-      "updatedAt": "2026-06-05T01:03:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/32f_OgkmczUZTbme_yXJJSLgom4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/QC7xijQmmTLY7tNIGxxw/foto-e-montagem-vertical-88-.png"
+      "updatedAt": "2026-06-05T11:18:07.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zG8T1ZJseHdqoRJc8kWNEx2ZsxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/G/kdf8fWS4uHQFNhqBtXDQ/montagens-1920-x-1080-px-21-.jpg"
     },
     {
-      "clusterId": "665fd0033593b28c",
-      "slug": "380cff6f2d1fab13",
-      "titulo": "Obra da Sabesp provoca vazamento de gás no centro de SP",
-      "resumo": "Durante a execução de uma manutenção emergencial na rede de água na Rua Dr. Teodoro Baima, um encanamento foi atingido, resultando em vazamento de gás. A companhia informou o incidente e as equipes foram acionadas para conter a situação.",
-      "porQueImporta": "O vazamento de gás pode representar risco imediato à saúde e segurança dos moradores e transeuntes da região central.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
+      "clusterId": "10935c4e3cd04f80",
+      "slug": "3ca6e5cf2acc2cc5",
+      "titulo": "BH registra menor temperatura do ano pelo segundo dia consecutivo",
+      "resumo": "A Defesa Civil de Belo Horizonte registrou nesta sexta-feira (5) a mínima de 10,6°C na região Oeste da cidade. A temperatura ficou abaixo do recorde anotado no dia anterior, marcando o menor valor do ano por dois dias seguidos.",
+      "porQueImporta": "Temperaturas extremas podem impactar a saúde da população e a demanda por serviços públicos",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/vazamento-de-gas-centro-sp"
+          "url": "https://www.metropoles.com/minas-gerais/bh-registra-menor-temperatura-do-ano-pelo-segundo-dia-seguido"
         }
       ],
-      "updatedAt": "2026-06-05T01:01:58.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/sabesp-2.jpg"
+      "updatedAt": "2026-06-05T11:06:39.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/c719fe68-2a22-4b82-a3bd-3a87e2d05955.jpg"
     },
     {
-      "clusterId": "121de9ae6d5d0267",
-      "slug": "89878b60db0da195",
-      "titulo": "Vítima de acidente entre van e caminhonete morre em hospital da Bahia",
-      "resumo": "Uma vítima do choque entre uma van e uma caminhonete na BR-242, em Itaberaba (BA), faleceu enquanto estava internada no Hospital Regional Piemonte do Paraguaçu. A falecida foi identificada como Célia Mendonça Rezende, moradora de Iraquara. O acidente deixou 16 pessoas feridas. A informação foi confirmada pela Secretaria de Saúde do Estado da Bahia.",
-      "porQueImporta": "O caso evidencia a gravidade de acidentes de trânsito na região e o número elevado de feridos.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/04/vitima-de-acidente-entre-van-e-caminhonete-morre-em-hospital-da-bahia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-05T00:43:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4d3IBzkS34YDIR6vqS3Rg-ovHm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/9QTyXBQKeWhJVWkzXHgg/morte-vitima-acidente-itaberaba.jpg"
-    },
-    {
-      "clusterId": "15f1019725e5192f",
-      "slug": "5694b0dce2a260a6",
-      "titulo": "Ponte Frei Paolino Baldassari é interditada no Acre por risco de erosão",
-      "resumo": "A ponte Frei Paolino Baldassari, em Sena Madureira, Acre, foi interditada nesta quinta-feira após o Corpo de Bombeiros detectar o fenômeno de erosão conhecido como \"terra caídas\" nas margens do Rio Iaco. A estrutura, inaugurada há cerca de dois anos e meio, havia sido construída com investimento de R$ 36 milhões. O Departamento de Estradas de Rodagem, Infraestrutura Hidroviária e Aeroportuária (Deracre) informou que o solo instável representava risco e o tráfego foi suspenso.",
-      "porQueImporta": "A interdição afeta o transporte local e evidencia a vulnerabilidade de obras de infraestrutura a processos naturais.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/06/04/ponte-que-custou-r-36-milhoes-e-interditada-pouco-mais-de-2-anos-apos-inauguracao-no-acre.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-05T00:20:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/xqFHrkEV3JcBm875il18-EfQInw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/u/LbC4WgQTe4zy4bmSqVaw/midia-de-distribuicao-g1-2026-06-04t190520.954.jpg"
-    },
-    {
-      "clusterId": "9761b61e5777fdf7",
-      "slug": "bf6dc4b1117711b8",
-      "titulo": "Defesa Civil registra mais de 100 ocorrências de ameaças de deslizamento e desabamento em Salvador",
-      "resumo": "A Defesa Civil de Salvador registrou mais de 100 ocorrências relacionadas à chuva, incluindo ameaças de desabamentos e deslizamentos de terra. Na quarta-feira, um deslizamento atingiu a casa de uma família no bairro do Pirajá, deixando a família desabrigada, mas sem feridos. As autoridades monitoram o risco de novos deslizamentos na cidade.",
-      "porQueImporta": "A situação evidencia risco de desabamentos em áreas urbanas durante chuvas intensas, exigindo atenção das autoridades e da população.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/04/chuvas-em-salvador.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-05T00:04:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/aJDrarLxEjI4JvMyOnTv03H6PRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/9/WhbYgGStGCLwWVoIyJvg/deslizamento-piraja-salvador.jpg"
-    },
-    {
-      "clusterId": "261f8f216bc07f3c",
-      "slug": "6c1729dc081e32a6",
-      "titulo": "Acidente envolvendo motocicleta e dois carros deixa um morto na BR-153",
-      "resumo": "Na tarde de quinta-feira, um homem que conduzia uma motocicleta morreu após colidir com dois carros na BR-153, próximo a Guaraí, no norte do Tocantins. A Polícia Rodoviária Federal registrou a ocorrência por volta das 15h e enviou equipes para sinalizar o local e organizar o trânsito. Até o momento, a identidade da vítima não foi divulgada.",
-      "porQueImporta": "O acidente evidencia riscos nas rodovias federais e a necessidade de atenção dos motoristas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/04/acidente-envolvendo-motocicleta-e-dois-carros-deixa-um-morto-na-br-153.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T23:34:40.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1aK_DCHpUkkIGcOneJAgm-ANTXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/q/X2dUAKS32ylXEGYhKnzw/modelo-foto-fundo-borrado-91-.png"
-    },
-    {
-      "clusterId": "6394bef888f4907f",
-      "slug": "d36403e1ed854aa8",
-      "titulo": "Duas pessoas morrem em acidente entre carreta e carros na BR-101 em Linhares",
-      "resumo": "Na noite de quinta-feira, duas pessoas perderam a vida em um choque entre uma carreta e dois carros de passeio no km 164 da BR-101, em Bebedouro, Linhares, no norte do Espírito Santo. O acidente ocorreu por volta das 18h30 e provocou a interdição parcial da rodovia para socorro e ação policial, gerando congestionamento nos dois sentidos. As autoridades de trânsito foram acionadas para atender a ocorrência.",
-      "porQueImporta": "O acidente resultou em fatalidades e impactou o tráfego em uma importante rodovia estadual.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/06/04/acidente-entre-carreta-e-dois-carros-deixa-mortos-e-feridos-na-br-101-em-linhares.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-04T23:09:57.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lmxXX9YxijLoXzyN7ENej2zcU3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/y/VSManJSViu4H4gpxZBJg/whatsapp-image-2026-06-04-at-20.10.18.jpeg"
-    },
-    {
-      "clusterId": "01ebd23ecf3b9ce1",
-      "slug": "b2ccd3532c6d6843",
-      "titulo": "Igreja tradicional reabre após dois anos interditada por temporal e emociona fiéis em Rio Preto: 'Voltamos para casa'",
-      "resumo": "Depois de quase dois anos e meio de espera, os fiéis da Igreja da Redentora voltaram a ocupar os bancos da tradicional paróquia de São José do Rio Preto (SP) nesta quinta-feira (4), feriado de Corpus Christi. A reabertura do templo, que estava interditado desde dezembro de 2023 após ser destelhado por um forte temporal, foi marcada por uma missa lotada e por momentos de emoção entre os frequentadores. 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Com missa lotada, Igreja da Redentora reabre nesta quinta (4), em São José do Rio Preto (SP), após dois anos em obras por causa de…",
+      "clusterId": "66274745aa71d4fc",
+      "slug": "fc5fba02305b0b47",
+      "titulo": "Caminhão carregado com material de construção perde controle e sobe mureta da Linha Amarela",
+      "resumo": "Caminhão carregado com material de construção perde controle e sobe mureta da Linha Amarela Um motorista de caminhão perdeu o controle do veículo, subiu a mureta e ficou preso entre as duas estruturas de proteção da Linha Amarela. Um poste foi derrubado pelo choque. O acidente aconteceu na altura da Abolição na manhã desta sexta-feira (5). O trânsito era lento nos dois sentidos da via às 7h45. Nenhum dos ocupantes do veículo ficou ferido com gravidade. 📱Baixe o app do g1 para ver notícias do RJ em tempo real e de graça Caminhão sobe mureta da Linha Amarela Charles Junior/ TV Globo Equipes da…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/04/igreja-tradicional-reabre-apos-dois-anos-interditada-por-temporal-e-emociona-fieis-em-rio-preto-voltamos-para-casa.ghtml"
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/06/05/caminhao-carregado-com-material-de-construcao-perde-controle-e-sobe-mureta-da-linha-amarela.ghtml"
         }
       ],
-      "updatedAt": "2026-06-04T22:39:48.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/fUYtWcOfuO8EQLGElcd6RkIdO2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/k/CnShcgQgaglb3LZjKI4Q/redentora4.jpeg"
+      "updatedAt": "2026-06-05T10:56:47.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/t02-0Hw3ADW_gJsRMVhqVoQi-ig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/a/1LWg16SeaTA0wpNL2BBw/bdrj-acidente1-2-.jpeg"
     },
     {
-      "clusterId": "335ea45ecdb13a9a",
-      "slug": "2f24026e55cb562d",
-      "titulo": "Mãe e filhote de macaco bugio são resgatados com sinais de descarga elétrica em Alta Floresta do Oeste (RO)",
-      "resumo": "Moradores encontraram uma macaca bugio e seu filhote em área rural de Alta Floresta do Oeste (RO) apresentando sinais de choque elétrico. O Batalhão de Polícia Ambiental foi acionado e realizou o resgate dos animais. Eles foram encaminhados para atendimento veterinário. A ocorrência foi registrada como possível acidente com descarga elétrica.",
-      "porQueImporta": "O caso evidencia riscos de choque elétrico para a fauna silvestre em áreas rurais",
+      "clusterId": "cbb74aedd33b804a",
+      "slug": "b07028b5cf6119ae",
+      "titulo": "Rua do Centro segue interditada por vazamento de gás em obra da Sabesp",
+      "resumo": "Um encanamento de gás na Rua do Centro, na República, foi atingido durante manutenção emergencial da rede de água da Sabesp. O vazamento de gás foi controlado e não houve vítimas. A via permanece interditada para a realização de reparos.",
+      "porQueImporta": "A interdição afeta o tráfego e a mobilidade de quem circula na região central da cidade",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/04/mae-e-filhote-de-macaco-bugio-sao-resgatados-com-sinais-de-descarga-eletrica-em-ro.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/rua-interditada-vazamento-gas-sabesp"
         }
       ],
-      "updatedAt": "2026-06-04T22:28:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/nL3SIYKtkiY_Hl85DTfeLd_Y0vU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/E/T0nDs1SuibZq8kAZ9jRQ/whatsapp-image-2026-06-03-at-10.28.46.jpeg"
-    },
-    {
-      "clusterId": "a0dd6c3aa7a6a34c",
-      "slug": "eec395211dcb6b32",
-      "titulo": "Explosão em Copacabana revela local de refino de drogas; veja vídeo",
-      "resumo": "Policiais militares apreenderam grande quantidade de drogas em um apartamento localizado na zona Sul do Rio; um homem está internado sob custódia",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/explosao-em-copacabana-revela-local-de-refino-de-drogas-veja-video/"
-        }
-      ],
-      "updatedAt": "2026-06-04T22:18:17.000Z"
+      "updatedAt": "2026-06-05T10:55:34.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/vazamento.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "121de9ae6d5d0267",
-          "slug": "89878b60db0da195",
-          "titulo": "Vítima de acidente entre van e caminhonete morre em hospital da Bahia",
-          "resumo": "Uma vítima do choque entre uma van e uma caminhonete na BR-242, em Itaberaba (BA), faleceu enquanto estava internada no Hospital Regional Piemonte do Paraguaçu. A falecida foi identificada como Célia Mendonça Rezende, moradora de Iraquara. O acidente deixou 16 pessoas feridas. A informação foi confirmada pela Secretaria de Saúde do Estado da Bahia.",
-          "porQueImporta": "O caso evidencia a gravidade de acidentes de trânsito na região e o número elevado de feridos.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/04/vitima-de-acidente-entre-van-e-caminhonete-morre-em-hospital-da-bahia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-05T00:43:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4d3IBzkS34YDIR6vqS3Rg-ovHm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/9QTyXBQKeWhJVWkzXHgg/morte-vitima-acidente-itaberaba.jpg"
-        },
-        {
-          "clusterId": "261f8f216bc07f3c",
-          "slug": "6c1729dc081e32a6",
-          "titulo": "Acidente envolvendo motocicleta e dois carros deixa um morto na BR-153",
-          "resumo": "Na tarde de quinta-feira, um homem que conduzia uma motocicleta morreu após colidir com dois carros na BR-153, próximo a Guaraí, no norte do Tocantins. A Polícia Rodoviária Federal registrou a ocorrência por volta das 15h e enviou equipes para sinalizar o local e organizar o trânsito. Até o momento, a identidade da vítima não foi divulgada.",
-          "porQueImporta": "O acidente evidencia riscos nas rodovias federais e a necessidade de atenção dos motoristas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/04/acidente-envolvendo-motocicleta-e-dois-carros-deixa-um-morto-na-br-153.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T23:34:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1aK_DCHpUkkIGcOneJAgm-ANTXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/q/X2dUAKS32ylXEGYhKnzw/modelo-foto-fundo-borrado-91-.png"
-        },
-        {
-          "clusterId": "6394bef888f4907f",
-          "slug": "d36403e1ed854aa8",
-          "titulo": "Duas pessoas morrem em acidente entre carreta e carros na BR-101 em Linhares",
-          "resumo": "Na noite de quinta-feira, duas pessoas perderam a vida em um choque entre uma carreta e dois carros de passeio no km 164 da BR-101, em Bebedouro, Linhares, no norte do Espírito Santo. O acidente ocorreu por volta das 18h30 e provocou a interdição parcial da rodovia para socorro e ação policial, gerando congestionamento nos dois sentidos. As autoridades de trânsito foram acionadas para atender a ocorrência.",
-          "porQueImporta": "O acidente resultou em fatalidades e impactou o tráfego em uma importante rodovia estadual.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/06/04/acidente-entre-carreta-e-dois-carros-deixa-mortos-e-feridos-na-br-101-em-linhares.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T23:09:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lmxXX9YxijLoXzyN7ENej2zcU3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/y/VSManJSViu4H4gpxZBJg/whatsapp-image-2026-06-04-at-20.10.18.jpeg"
-        },
-        {
-          "clusterId": "4235db59c6a6e252",
-          "slug": "3718721e9cb118c5",
-          "titulo": "Motorista detido por dirigir embriagado após acidente na ponte Juscelino Kubitschek em Teresina",
-          "resumo": "Um motorista perdeu o controle do veículo e colidiu com a cabeceira da ponte Juscelino Kubitschek, em Teresina, na quinta‑feira. Em seguida, o carro foi atingido na lateral por outro automóvel. A polícia rodoviária federal deteve o condutor por embriaguez ao volante. Não houve feridos, mas parte da pista ficou interditada.",
-          "porQueImporta": "A ocorrência evidencia riscos de condução sob efeito de álcool e gera interrupção do tráfego local",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/04/acidente-ponte-teresina.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T22:13:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0T69XuxGMxwiV8V0FQYjr1wowOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Z/aDYqgWQRAI7rIq87Vf5Q/edicao-imagens-g1-44-.png"
-        },
-        {
-          "clusterId": "d3fc5a93875f633e",
-          "slug": "57634e86eb6e278b",
-          "titulo": "Cavalo morre após ser atropelado por caminhão em Piracicaba",
-          "resumo": "Um cavalo morreu depois de ser atropelado por um caminhão na Rodovia Cornélio Pires (SP-127), em Piracicaba, SP, na tarde de quinta-feira (4). O acidente foi registrado às 13h19, no km 41, e a equipe de inspeção constatou o animal caído na pista e o caminhão parado no acostamento. Não há confirmação sobre o estado de saúde do motorista.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção e segurança nas rodovias para evitar acidentes envolvendo animais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/04/cavalo-morre-atropelado-caminhao-piracicaba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T22:11:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bTJrHOI3sichEaiNPOq_m4MAh-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/S/ATeNCaTGCkWtJhB2xDSw/design-sem-nome-9-.jpg"
-        },
-        {
-          "clusterId": "ae6e2e4f039c46f4",
-          "slug": "75bc37bcec0afbfe",
-          "titulo": "Acidente na Rodovia Anhanguera deixa um morto em Jundiaí",
-          "resumo": "Um automóvel colidiu com a traseira de uma carreta parada no acostamento da Rodovia Anhanguera, no quilômetro 50, em Jundiaí. O acidente ocorreu na tarde de quinta-feira. A colisão resultou na morte de uma pessoa. O Centro de Controle Operacional da concessionária informou o incidente.",
-          "porQueImporta": "O acidente destaca a importância da atenção ao tráfego em rodovias e os riscos associados a veículos estacionados no acostamento.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/04/acidente-com-veiculo-parado-na-rodovia-anhanguera-deixa-um-morto-em-jundiai.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-04T22:03:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zQRxMGzylBtuRI8Yoj0j2seW4eU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/c/eky6hsQ8G6DyBwOPdFoQ/6bcd2789-5d17-414b-90f6-218fdefd035d.jpg"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "01ebd23ecf3b9ce1",
-          "slug": "b2ccd3532c6d6843",
-          "titulo": "Igreja tradicional reabre após dois anos interditada por temporal e emociona fiéis em Rio Preto: 'Voltamos para casa'",
-          "resumo": "Depois de quase dois anos e meio de espera, os fiéis da Igreja da Redentora voltaram a ocupar os bancos da tradicional paróquia de São José do Rio Preto (SP) nesta quinta-feira (4), feriado de Corpus Christi. A reabertura do templo, que estava interditado desde dezembro de 2023 após ser destelhado por um forte temporal, foi marcada por uma missa lotada e por momentos de emoção entre os frequentadores. 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Com missa lotada, Igreja da Redentora reabre nesta quinta (4), em São José do Rio Preto (SP), após dois anos em obras por causa de…",
+          "clusterId": "58e4f39fb0b21f8c",
+          "slug": "b645edf6ea424466",
+          "titulo": "Inmet e Defesa Civil emitem alertas para queda de temperatura no DF",
+          "resumo": "O Inmet e a Defesa Civil divulgaram alertas sobre queda de temperatura no Distrito Federal. Os avisos indicam que o frio pode atingir níveis de risco para a saúde da população. As autoridades recomendam precauções para evitar complicações. A situação foi comunicada em meio à expectativa de temperaturas mais baixas.",
+          "porQueImporta": "A queda de temperatura pode representar risco à saúde pública, exigindo atenção e medidas preventivas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/inmet-e-defesa-civil-emitem-alertas-para-queda-de-temperatura-no-df"
+            }
+          ],
+          "updatedAt": "2026-06-05T11:35:35.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/inmet-alerta-frio.jpg"
+        },
+        {
+          "clusterId": "10935c4e3cd04f80",
+          "slug": "3ca6e5cf2acc2cc5",
+          "titulo": "BH registra menor temperatura do ano pelo segundo dia consecutivo",
+          "resumo": "A Defesa Civil de Belo Horizonte registrou nesta sexta-feira (5) a mínima de 10,6°C na região Oeste da cidade. A temperatura ficou abaixo do recorde anotado no dia anterior, marcando o menor valor do ano por dois dias seguidos.",
+          "porQueImporta": "Temperaturas extremas podem impactar a saúde da população e a demanda por serviços públicos",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/bh-registra-menor-temperatura-do-ano-pelo-segundo-dia-seguido"
+            }
+          ],
+          "updatedAt": "2026-06-05T11:06:39.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/c719fe68-2a22-4b82-a3bd-3a87e2d05955.jpg"
+        },
+        {
+          "clusterId": "66274745aa71d4fc",
+          "slug": "fc5fba02305b0b47",
+          "titulo": "Caminhão carregado com material de construção perde controle e sobe mureta da Linha Amarela",
+          "resumo": "Caminhão carregado com material de construção perde controle e sobe mureta da Linha Amarela Um motorista de caminhão perdeu o controle do veículo, subiu a mureta e ficou preso entre as duas estruturas de proteção da Linha Amarela. Um poste foi derrubado pelo choque. O acidente aconteceu na altura da Abolição na manhã desta sexta-feira (5). O trânsito era lento nos dois sentidos da via às 7h45. Nenhum dos ocupantes do veículo ficou ferido com gravidade. 📱Baixe o app do g1 para ver notícias do RJ em tempo real e de graça Caminhão sobe mureta da Linha Amarela Charles Junior/ TV Globo Equipes da…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/04/igreja-tradicional-reabre-apos-dois-anos-interditada-por-temporal-e-emociona-fieis-em-rio-preto-voltamos-para-casa.ghtml"
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/06/05/caminhao-carregado-com-material-de-construcao-perde-controle-e-sobe-mureta-da-linha-amarela.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T22:39:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fUYtWcOfuO8EQLGElcd6RkIdO2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/k/CnShcgQgaglb3LZjKI4Q/redentora4.jpeg"
+          "updatedAt": "2026-06-05T10:56:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/t02-0Hw3ADW_gJsRMVhqVoQi-ig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/a/1LWg16SeaTA0wpNL2BBw/bdrj-acidente1-2-.jpeg"
         },
         {
-          "clusterId": "335ea45ecdb13a9a",
-          "slug": "2f24026e55cb562d",
-          "titulo": "Mãe e filhote de macaco bugio são resgatados com sinais de descarga elétrica em Alta Floresta do Oeste (RO)",
-          "resumo": "Moradores encontraram uma macaca bugio e seu filhote em área rural de Alta Floresta do Oeste (RO) apresentando sinais de choque elétrico. O Batalhão de Polícia Ambiental foi acionado e realizou o resgate dos animais. Eles foram encaminhados para atendimento veterinário. A ocorrência foi registrada como possível acidente com descarga elétrica.",
-          "porQueImporta": "O caso evidencia riscos de choque elétrico para a fauna silvestre em áreas rurais",
+          "clusterId": "cbb74aedd33b804a",
+          "slug": "b07028b5cf6119ae",
+          "titulo": "Rua do Centro segue interditada por vazamento de gás em obra da Sabesp",
+          "resumo": "Um encanamento de gás na Rua do Centro, na República, foi atingido durante manutenção emergencial da rede de água da Sabesp. O vazamento de gás foi controlado e não houve vítimas. A via permanece interditada para a realização de reparos.",
+          "porQueImporta": "A interdição afeta o tráfego e a mobilidade de quem circula na região central da cidade",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/rua-interditada-vazamento-gas-sabesp"
+            }
+          ],
+          "updatedAt": "2026-06-05T10:55:34.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/vazamento.jpg"
+        },
+        {
+          "clusterId": "04e87e016ceb3247",
+          "slug": "4d848d83bf7325eb",
+          "titulo": "Menino de 4 anos morre após queda de janela em Blumenau",
+          "resumo": "Um menino de quatro anos morreu ao cair da janela do segundo andar de um residencial em Blumenau na quinta-feira. Segundo a Polícia Militar, a criança se desequilibrou enquanto tentava observar um pássaro. O garoto era filho de Everson Aguiar, auxiliar‑técnico do Metropolitado. O clube do Metropolitano divulgou foto da criança e enviou mensagens de apoio à família.",
+          "porQueImporta": "O caso evidencia a vulnerabilidade de crianças a acidentes domésticos graves",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/04/mae-e-filhote-de-macaco-bugio-sao-resgatados-com-sinais-de-descarga-eletrica-em-ro.ghtml"
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/05/menino-4-anos-morre-cai-janela-hotel-blumenau.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T22:28:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/nL3SIYKtkiY_Hl85DTfeLd_Y0vU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/E/T0nDs1SuibZq8kAZ9jRQ/whatsapp-image-2026-06-03-at-10.28.46.jpeg"
+          "updatedAt": "2026-06-05T10:48:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wjZIsyR8KQeF_CwRrHL3bx21IO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/y/ViR9FwTfKg6AtR7XsUeA/menino-de-4-anos-cai-da-janela-de-hotel-e-morre-em-blumenau.jpeg"
         },
         {
-          "clusterId": "a0dd6c3aa7a6a34c",
-          "slug": "eec395211dcb6b32",
-          "titulo": "Explosão em Copacabana revela local de refino de drogas; veja vídeo",
-          "resumo": "Policiais militares apreenderam grande quantidade de drogas em um apartamento localizado na zona Sul do Rio; um homem está internado sob custódia",
+          "clusterId": "0cf4b95b2039357e",
+          "slug": "5fba8f4fa1c80376",
+          "titulo": "Interior de SP vira rota para transporte ilegal de vinhos importados sem documentação",
+          "resumo": "A Polícia Militar Rodoviária apreendeu mais de 2,5 mil garrafas de vinho importado sem nota fiscal nas rodovias da região de Itapetininga, SP, neste ano. Em Angatuba, foram confiscadas mais de 1,2 mil garrafas em uma ocorrência e, dias depois, outras 1.140 unidades na mesma cidade. Os casos refletem um aumento na frequência de transporte ilegal de bebidas alcoólicas na região.",
+          "porQueImporta": "A prática representa violação fiscal e risco à saúde pública ao comercializar produtos sem controle de origem",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/05/interior-de-sp-vira-rota-para-transporte-ilegal-de-vinhos-importados-sem-documentacao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-05T10:25:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/S4clbetLZ59wawUz_8xTcWHm5YM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/H/fkm653SIOnaY9s4GWp5Q/whatsapp-image-2026-05-24-at-15.50.22.jpeg"
+        },
+        {
+          "clusterId": "809e2e796b621f05",
+          "slug": "d5aef239f6cb828e",
+          "titulo": "Dia do Meio Ambiente: relatório alerta para secas extremas e garimpo ilegal como ameaças no Amazonas",
+          "resumo": "As mudanças climáticas já produzem impactos diretos sobre a população do Amazonas. A avaliação está presente no relatório \"O protagonismo das florestas brasileiras na agenda climática global\", divulgado pelo projeto Amazônia 2030, nesta semana. O estudo foi realizado por especialistas, pesquisadores e organizações ligadas à pauta ambiental. Segundo o relatório, o Amazonas vivenciou períodos de secas e cheias severas que provocaram a morte de peixes, perdas na produção agrícola e aumento da insegurança alimentar em comunidades que dependem diretamente dos recursos naturais para sobreviver. No…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/explosao-em-copacabana-revela-local-de-refino-de-drogas-veja-video/"
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/05/dia-do-meio-ambiente-relatorio-alerta-para-secas-extremas-e-garimpo-ilegal-como-ameacas-no-amazonas.ghtml"
             }
           ],
-          "updatedAt": "2026-06-04T22:18:17.000Z"
+          "updatedAt": "2026-06-05T08:03:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GlUqXIPlWucw3fUe3HW1JZLKB-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/6/vo44QKQ8A4wBf7O1gmqw/lynxnpek3h0n3-l.jpg"
+        },
+        {
+          "clusterId": "6251db5a261184e2",
+          "slug": "e5e9827b3f5dfeac",
+          "titulo": "Ataque da Rússia próximo a Kiev mata 4, diz Ucrânia",
+          "resumo": "Um ataque de drones da Rússia contra uma empresa do setor alimentício em uma região próxima à capital da Ucrânia, Kiev, matou quatro pessoas, informou nesta sexta-feira (5) o governador regional Mykola Kalashnyk. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Ainda segundo Kalashnyk, o ataque provocou um incêndio em um prédio administrativo localizado nas instalações da empresa e partes da estrutura foram destruídas. Os ataques ocorreram horas após o presidente da Ucrânia, Volodymyr Zelensky, publicar uma carta aberta endereçada ao presidente russo, Vladimir Putin,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/05/ataque-da-russia-ucrania.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-05T07:35:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ZTboWTuAqBJ9LGvjhM4GsUUiYds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/A/0hA6e4RgeCqPcZ1W93FQ/2026-06-03t152033z-60011618-rc2ellasw8bi-rtrmadp-3-ukraine-crisis-missiles-test.jpg"
         },
         {
           "clusterId": "2b22ba6fbd06da83",
@@ -372,25 +355,103 @@
       ]
     },
     {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "1bb3f71c36815a49",
+          "slug": "bc00ecb9a631eef2",
+          "titulo": "Acidente na GO-206 mata vereador, esposa e filho em Goiás",
+          "resumo": "Na noite de quinta-feira, o vereador Shaylon Rodrigo Ribeiro, de Cachoeira Alta, e sua família morreram em colisão na GO-206, em Quirinópolis. O veículo, um Toyota Corolla, bateu de frente com um caminhão na saída do município em direção a Caçu. O Corpo de Bombeiros confirmou a morte dos três ocupantes.",
+          "porQueImporta": "O falecimento de um político local destaca a gravidade de acidentes de trânsito na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/06/05/vereador-mulher-e-filho-morrem-em-acidente-na-go-206-em-goias.ghtml"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/tragedia-na-rodovia-acidente-mata-vereador-mulher-e-filho-em-goias"
+            }
+          ],
+          "updatedAt": "2026-06-05T11:33:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/F_8Vi-dil0XQZ5EPtFORqHmPxQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/H/HlJovkS8qLbzIMDUylsA/pesca-em-goias-tem-novas-regras-3-.jpg"
+        },
+        {
+          "clusterId": "6566d542ed5a0cee",
+          "slug": "921823dcaac37902",
+          "titulo": "Paciente morre após ambulância perder controle e bater em poste",
+          "resumo": "Uma ambulância que transportava uma paciente idosa perdeu o controle e bateu em um poste na madrugada de sexta-feira, 5, na Mooca, Zona Leste de São Paulo. O impacto destruiu a frente do veículo e quebrou o para-brisa, que caiu na calçada. A paciente sofreu parada cardiorrespiratória e faleceu. Três demais ocupantes ficaram feridos.",
+          "porQueImporta": "O acidente destaca riscos de transporte de pacientes em ambulâncias e a necessidade de reforço em segurança veicular.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/05/paciente-morre-apos-ambulancia-perder-o-controle-e-bater-em-poste-outras-tres-pessoas-ficaram-feridas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-05T11:33:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/oWtTkjgbZImgPmQB8-zfw_6F9ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/T/6lKpWURFahj8AfDFGULg/paciente-morre-apos-ambulancia-perder-o-controle-e-bater-em-poste.jpg"
+        },
+        {
+          "clusterId": "5c7b531ddda937f2",
+          "slug": "8b0bd628c48309ee",
+          "titulo": "Motociclista morre após colisão com carro na Rodovia Santos Dumont",
+          "resumo": "Um motociclista foi atingido na traseira por um carro na Rodovia Santos Dumont, em Indaiatuba, na madrugada de sexta-feira. O impacto fez o carro capotar e a motocicleta tombar na pista. Equipes de resgate confirmaram a morte do motociclista. O motorista do carro sofreu fraturas nos membros superiores e permanece internado.",
+          "porQueImporta": "O acidente resultou em fatalidade e destaca riscos de colisões traseiras em rodovias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/05/motociclista-morre-apos-ter-moto-atingida-por-carro-na-santos-dumont-em-indaiatuba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-05T11:18:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WEpU09YdpLcSbQhE2lnxLzYyHQQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/9/82htKtS12viO3K15BvBA/paulo-bernardino-7-.jpeg"
+        }
+      ]
+    },
+    {
       "slug": "incendio",
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "adaa0e57c53451e0",
-          "slug": "9400d15d23a80497",
-          "titulo": "Incêndio mata jovem e padrasto em Araguaína",
-          "resumo": "Um incêndio em uma residência em Araguaína, Tocantins, resultou na morte carbonizada de Laiane Cardoso Noleto, de 19 anos, e de seu padrasto, Ivano Vaz Cunha, de 49 anos. O Corpo de Bombeiros localizou os corpos no interior de um quarto após uma explosão ser ouvida por testemunhas. A Polícia Civil está investigando o caso.",
-          "porQueImporta": "O incidente destaca a necessidade de segurança em residências e a importância de investigação de incêndios com explosões.",
+          "clusterId": "a7045983f14e5e0e",
+          "slug": "e8c3fa274c131d77",
+          "titulo": "Caminhão com carga de panificação pega fogo na estrada de acesso a Davinópolis, MA",
+          "resumo": "Um caminhão que transportava produtos de panificação incendiou-se na tarde de quinta-feira na rodovia de acesso a Davinópolis, na região tocantina do Maranhão. As chamas atingiram a carga, a vegetação ao longo da via e parte da rede elétrica. As equipes do Corpo de Bombeiros Militar do Maranhão chegaram ao local já com a maior parte da estrutura do veículo consumida pelo fogo. Não houve feridos.",
+          "porQueImporta": "O incidente evidencia riscos de incêndio em transportes de carga e pode gerar interrupções na circulação e danos à infraestrutura local.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/04/ela-tinha-um-futuro-pela-frente-lamenta-primo-de-jovem-encontrada-carbonizada-com-o-padrasto.ghtml"
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/05/caminhao-com-carga-de-panificacao-pega-fogo-em-davinopolis-no-ma.ghtml"
             }
           ],
-          "updatedAt": "2026-06-05T01:03:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/32f_OgkmczUZTbme_yXJJSLgom4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/QC7xijQmmTLY7tNIGxxw/foto-e-montagem-vertical-88-.png"
+          "updatedAt": "2026-06-05T11:18:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zG8T1ZJseHdqoRJc8kWNEx2ZsxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/G/kdf8fWS4uHQFNhqBtXDQ/montagens-1920-x-1080-px-21-.jpg"
+        },
+        {
+          "clusterId": "ddb948fc95044631",
+          "slug": "d91f7f4752956c90",
+          "titulo": "Jovem e padrasto são encontrados carbonizados em casa em Araguaína",
+          "resumo": "Corpos de Laiane Cardoso Noleto, 19, e de seu padrasto Ivano Vaz Cunha, 49, foram localizados carbonizados dentro de uma residência em Araguaína na quarta‑feira. Testemunhas relataram ter ouvido uma explosão antes do incêndio. O Corpo de Bombeiros realizou a busca e a Delegacia de Homicídios e Proteção à Pessoa passou a investigar o caso. Documentos indicam que o padrasto possuía condenação anterior, o que pode ser relevante para a apuração.",
+          "porQueImporta": "O fato pode configurar homicídio e levanta questões sobre segurança residencial e investigação criminal",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/05/o-que-se-sabe-sobre-o-caso-de-jovem-e-padrasto-encontrados-carbonizados-no-tocantins.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-05T10:34:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9hHaXh6FoVy7MmSqwxcpwpcsf7E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/c/znwcLgTKyJxIQBRefAVQ/foto-e-montagem-vertical-90-.png"
         },
         {
           "clusterId": "772b66a9d67f1920",
@@ -408,23 +469,75 @@
           ],
           "updatedAt": "2026-06-04T08:58:01.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/kdo8FMRS5osHulPfcE6Qn7v6X-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/L/NY3wI3SsOMr2Gz9lBBXA/afp-20260604-b4xu9ut-v1-midres-srilankaaccidentfire.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
         {
-          "clusterId": "ed063a7d8df8e8a2",
-          "slug": "255c9bdd616fec02",
-          "titulo": "Incêndio em prédio de Nova Déli deixa 21 mortos e 40 feridos",
-          "resumo": "Um incêndio atingiu um edifício com restaurante no térreo e unidades residenciais nos andares superiores em Nova Déli, capital da Índia, nesta quarta-feira. O fogo foi combatido por oito veículos de bombeiros e resultou em 21 mortes e mais de 40 pessoas encaminhadas a hospitais. A polícia de Delhi informou que a causa ainda não foi esclarecida. Mais de 40 pessoas foram resgatadas durante a operação.",
-          "porQueImporta": "O incidente evidencia riscos de segurança em edifícios urbanos e tem impacto significativo na comunidade local.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "1a769ae728e3bd16",
+          "slug": "5bc105523de33796",
+          "titulo": "Criança de 4 anos morre após cair do segundo andar de hotel em SC",
+          "resumo": "Uma criança de quatro anos morreu depois de cair do segundo andar do Hotel Steinhausen, em Blumenau, Santa Catarina. O acidente ocorreu em um hotel de hospedagem. As polícias civil e científica foram acionadas para investigar as circunstâncias do ocorrido.",
+          "porQueImporta": "O incidente destaca a necessidade de segurança em estabelecimentos de hospedagem e a proteção de crianças em ambientes públicos.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/crianca-de-4-anos-morre-apos-cair-do-segundo-andar-de-hotel-em-sc"
+            }
+          ],
+          "updatedAt": "2026-06-05T11:32:35.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/crianca.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "e9201f8c84e808ff",
+          "slug": "52d5b58155727bdc",
+          "titulo": "Operação de reflutuação tenta recuperar navio histórico afundado no Porto de Santos",
+          "resumo": "O navio Professor Besnard, importante na pesquisa científica brasileira, foi afundado há quase três meses no Porto de Santos. Na quarta-feira (3), mergulhadores e equipamentos de sucção foram usados para remover toneladas de água e tentar trazer o navio de volta à superfície. A operação busca preservar a estrutura original, que sofreu danos após anos de estagnação.",
+          "porQueImporta": "O navio é símbolo da ciência nacional e sua recuperação pode preservar um importante patrimônio histórico.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/03/incendio-nova-deli-mortos.ghtml"
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/05/navio-historico-passa-por-operacao-de-reflutuacao-apos-naufragio-no-porto-de-santos-video.ghtml"
             }
           ],
-          "updatedAt": "2026-06-03T07:33:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/U583IDRXV84GGy_uHdY2wzkHygA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/X/RHGxODTAGe6aZHwAifAQ/ap26154183499358.jpg"
+          "updatedAt": "2026-06-05T11:30:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kvhGZLTw72nf06_s_0eY-82dcOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/1/Ks9r1CSrGwbuKzH1hV8g/navio-besnard-1-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "ataque",
+      "label": "Ataque",
+      "stories": [
+        {
+          "clusterId": "77cc4ca79e84bae3",
+          "slug": "22c682e0ec66e96a",
+          "titulo": "Israel realiza ataques aéreos no sul do Líbano após rejeição de cessar-fogo pelo Hezbollah",
+          "resumo": "Na noite de quinta-feira, ataques aéreos de Israel atingiram a cidade libanesa de Tiro, matando sete pessoas e ferindo outras dez. Um dos bombardeios ocorreu próximo ao Hospital Jabal Amel, causando danos ao hospital e à destruição de uma agência bancária. O outro ataque resultou em três mortos e cinco feridos. Os ataques ocorreram apesar de um anúncio de trégua no conflito, segundo fonte da Defesa Civil libanesa.",
+          "porQueImporta": "Os bombardeios aumentam a tensão entre Israel e Hezbollah e afetam civis em áreas já vulneráveis.",
+          "categoria": "Ataque",
+          "categoriaSlug": "ataque",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/05/israel-ataques-sul-libano-cessar-fogo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-05T10:10:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ezTFFdTUYCwB7SntL8WhTx28jCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/k/ZcvGQdTNCIenBuo8CBmQ/2026-06-05t061921z-1742749560-rc2fnlav6oed-rtrmadp-3-iran-crisis-lebanon-israel.jpg"
         }
       ]
     },
@@ -432,23 +545,6 @@
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
-        {
-          "clusterId": "665fd0033593b28c",
-          "slug": "380cff6f2d1fab13",
-          "titulo": "Obra da Sabesp provoca vazamento de gás no centro de SP",
-          "resumo": "Durante a execução de uma manutenção emergencial na rede de água na Rua Dr. Teodoro Baima, um encanamento foi atingido, resultando em vazamento de gás. A companhia informou o incidente e as equipes foram acionadas para conter a situação.",
-          "porQueImporta": "O vazamento de gás pode representar risco imediato à saúde e segurança dos moradores e transeuntes da região central.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/vazamento-de-gas-centro-sp"
-            }
-          ],
-          "updatedAt": "2026-06-05T01:01:58.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/sabesp-2.jpg"
-        },
         {
           "clusterId": "ab37ce751cf2562f",
           "slug": "53aa8a675a81fa2a",
@@ -465,69 +561,6 @@
           ],
           "updatedAt": "2026-06-04T00:09:59.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/u9CK6hJn3BBjxEU2XSJfwLTc_hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/a/XPNON6RCeek9HiBny3cA/2026-06-03t111452z-1958224717-rc2amlaewev8-rtrmadp-3-iran-crisis-gulf-kuwait.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
-      "stories": [
-        {
-          "clusterId": "15f1019725e5192f",
-          "slug": "5694b0dce2a260a6",
-          "titulo": "Ponte Frei Paolino Baldassari é interditada no Acre por risco de erosão",
-          "resumo": "A ponte Frei Paolino Baldassari, em Sena Madureira, Acre, foi interditada nesta quinta-feira após o Corpo de Bombeiros detectar o fenômeno de erosão conhecido como \"terra caídas\" nas margens do Rio Iaco. A estrutura, inaugurada há cerca de dois anos e meio, havia sido construída com investimento de R$ 36 milhões. O Departamento de Estradas de Rodagem, Infraestrutura Hidroviária e Aeroportuária (Deracre) informou que o solo instável representava risco e o tráfego foi suspenso.",
-          "porQueImporta": "A interdição afeta o transporte local e evidencia a vulnerabilidade de obras de infraestrutura a processos naturais.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/04/ponte-que-custou-r-36-milhoes-e-interditada-pouco-mais-de-2-anos-apos-inauguracao-no-acre.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-05T00:20:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xqFHrkEV3JcBm875il18-EfQInw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/u/LbC4WgQTe4zy4bmSqVaw/midia-de-distribuicao-g1-2026-06-04t190520.954.jpg"
-        },
-        {
-          "clusterId": "9761b61e5777fdf7",
-          "slug": "bf6dc4b1117711b8",
-          "titulo": "Defesa Civil registra mais de 100 ocorrências de ameaças de deslizamento e desabamento em Salvador",
-          "resumo": "A Defesa Civil de Salvador registrou mais de 100 ocorrências relacionadas à chuva, incluindo ameaças de desabamentos e deslizamentos de terra. Na quarta-feira, um deslizamento atingiu a casa de uma família no bairro do Pirajá, deixando a família desabrigada, mas sem feridos. As autoridades monitoram o risco de novos deslizamentos na cidade.",
-          "porQueImporta": "A situação evidencia risco de desabamentos em áreas urbanas durante chuvas intensas, exigindo atenção das autoridades e da população.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/04/chuvas-em-salvador.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-05T00:04:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/aJDrarLxEjI4JvMyOnTv03H6PRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/9/WhbYgGStGCLwWVoIyJvg/deslizamento-piraja-salvador.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "b372014c99f3edca",
-          "slug": "d02f51cd8a89d825",
-          "titulo": "Helicóptero militar cai no sudoeste da Inglaterra",
-          "resumo": "Um helicóptero da Marinha Real caiu em um campo na região de Sourton Down, em Devon, próximo ao cruzamento das rodovias A30 e A386. A polícia local tratou o caso como incidente em andamento e mobilizou equipes de emergência. O Ministério da Defesa confirmou a pertença da aeronave às Forças Armadas britânicas.",
-          "porQueImporta": "O acidente envolve uma aeronave militar e pode afetar operações de voo na região",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/03/helicoptero-militar-marinha-real.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-03T08:58:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6eXlboygKyFHVcN1mjOFZQiNMuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/i/AKhRGaRbSJkFAY9YHYaw/51f15d70-5f24-11f1-9da4-8b99067aa239.png.webp"
         }
       ]
     }
