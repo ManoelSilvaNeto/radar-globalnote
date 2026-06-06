@@ -1,186 +1,175 @@
 {
   "date": "2026-06-06",
-  "generatedAt": "2026-06-06T14:17:46.817Z",
+  "generatedAt": "2026-06-06T17:43:42.145Z",
   "home": [
     {
-      "clusterId": "23a08ccc86c1a54b",
-      "slug": "ecd926053d96280f",
-      "titulo": "BH registra 8,8°C e bate novo recorde de frio do ano",
-      "resumo": "Na manhã de sábado, a Defesa Civil de Belo Horizonte registrou 8,8°C na região da Pampulha, a menor temperatura do ano na capital. Em bairros de maior altitude, como Olhos D'Água, Belvedere e Buritis, a mínima foi de 9,7°C. A previsão indica que o frio deve persistir ao longo do dia, com máxima estimada em torno de 23°C. O registro segue uma sequência de quedas de temperatura na cidade nesta semana.",
-      "porQueImporta": "O recorde evidencia condições climáticas atípicas para a região, afetando a população.",
+      "clusterId": "1018a6a3684cc60e",
+      "slug": "e9919088041ac85e",
+      "titulo": "Mulher é morta a facadas pelo marido em Carlos Barbosa",
+      "resumo": "Uma mulher de 55 anos foi assassinada a facadas pelo marido, de 56, por volta das 9h de sábado em Carlos Barbosa, na Serra. Após discussão, o homem colidiu intencionalmente o carro da esposa, perseguiu-a e desferiu quatro golpes de faca no peito. O crime ocorreu na Rua Borges de Medeiros, no bairro Planalto. A vítima foi socorrida, mas não resistiu.",
+      "porQueImporta": "Caso evidencia violência doméstica e homicídio no âmbito familiar",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/bh-bate-novo-recorde-de-frio-e-amanhece-com-88c"
-        },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/06/bh-registra-8-8-c-e-bate-novo-recorde-de-frio-do-ano-neste-sabado.ghtml"
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/06/mulher-e-perseguida-e-morta-a-facadas-pelo-marido-em-carlos-barbosa.ghtml"
         }
       ],
-      "updatedAt": "2026-06-06T13:43:37.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/frio-bh.jpg"
+      "updatedAt": "2026-06-06T16:44:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/7ZoHQOCYkB95Po9RcDhyqLRj4WE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Z/xxONevT0uPzTfBSA71Lw/g1-3-.png"
     },
     {
-      "clusterId": "c08b61d2b623380b",
-      "slug": "3c322357d288ae97",
-      "titulo": "Ponte recém inaugurada no Acre desaba deixando quatro feridos",
-      "resumo": "Uma ponte no Acre, inaugurada em 2023 e com custo de R$ 36 milhões, desabou enquanto estava interditada. O colapso deixou quatro pessoas feridas, duas em estado grave. As autoridades abriram equipes para investigar a causa do incidente.",
-      "porQueImporta": "O evento evidencia riscos em obras de infraestrutura e a necessidade de fiscalização adequada",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-brasil/ponte-inaugurada-em-2023-desaba-no-acre-assista/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/norte/ac/ponte-que-desabou-no-acre-ja-estava-interditada-governo-apura-causa/"
-        }
-      ],
-      "updatedAt": "2026-06-06T13:27:55.000Z"
-    },
-    {
-      "clusterId": "3ad9eb507ee8f5d8",
-      "slug": "0bceae89a3b510f1",
-      "titulo": "Incêndio atinge depósito em Guarulhos e mobiliza bombeiros",
-      "resumo": "Um fogo começou na noite de sexta‑feira em um galpão de 3.500 m² em Guarulhos. Até 38 bombeiros foram acionados e o incêndio durou mais de 10 horas, provocando desabamento e coluna de fumaça. A Defesa Civil confirmou a ocorrência e não há registros de vítimas até o momento.",
-      "porQueImporta": "O incidente evidencia a necessidade de recursos de combate a incêndios em áreas industriais da região metropolitana de São Paulo",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-guarulhos-causou-desabamento-e-coluna-de-fumaca/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-seguranca-publica/incendio-atinge-deposito-em-guarulhos-e-dura-mais-de-10-horas/"
-        }
-      ],
-      "updatedAt": "2026-06-06T13:13:36.000Z"
-    },
-    {
-      "clusterId": "b3279e3956172b5a",
-      "slug": "d6e129e7a85d37b0",
-      "titulo": "Entregador de gás morre em acidente envolvendo moto e carro em João Pessoa",
-      "resumo": "Um entregador de gás morreu na manhã de sábado, no bairro Padre Zé, em João Pessoa, ao se envolver em uma colisão entre sua moto e um carro. Ele realizava uma entrega quando o acidente ocorreu e faleceu no local. As equipes da Guarda Civil Municipal e da Semob-JP isolaram a área e aguardaram a perícia e a Polícia Civil. A identidade da vítima ainda não foi divulgada.",
-      "porQueImporta": "O acidente evidencia riscos de segurança no trânsito durante entregas comerciais.",
+      "clusterId": "47114c82f501f58b",
+      "slug": "dca89685a2b79884",
+      "titulo": "Motorista é preso por acidente que feriu policial e conduziu sob efeito de álcool",
+      "resumo": "Um motorista de 47 anos foi detido em Iguatu, Ceará, suspeito de atropelar um policial civil de 43 anos e fugir sem prestar socorro. O policial, que pilotava uma motocicleta, ficou ferido e precisou ser resgatado por uma aeronave devido à gravidade do acidente. A ocorrência aconteceu na quinta‑feira passada, na zona rural de Iguatu, na localidade de Gameleira. O suspeito também foi acusado de dirigir alcoolizado.",
+      "porQueImporta": "O caso evidencia riscos de condução sob influência e a necessidade de responsabilização de motoristas que abandonam vítimas no local.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/06/entregador-de-gas-morre-em-acidente-envolvendo-moto-e-carro-em-joao-pessoa.ghtml"
+          "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/06/motorista-e-preso-por-causar-acidente-que-feriu-policial-dirigir-alcoolizado-e-fugir-sem-prestar-socorro.ghtml"
         }
       ],
-      "updatedAt": "2026-06-06T14:00:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/JxmvELoUUAwbqfQJez9-cbYRMCA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/r/36Q4L9QrCOU4tb0kaJ0g/whatsapp-image-2026-06-06-at-10.50.57.jpeg"
+      "updatedAt": "2026-06-06T16:20:49.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-MOhna912YNPlTgiflr8PJUSoS4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/y/SBB5x5S0OaEeaOQG8djQ/iguatu-4.jpg"
     },
     {
-      "clusterId": "cef10c7baa58aaef",
-      "slug": "c33f15ae1316393f",
-      "titulo": "Homem perde balsa e naufraga em lancha no rio Tapajós em Santarém",
-      "resumo": "Na manhã de sábado, um homem que perdeu o horário de partida de uma balsa em Santarém pegou uma lancha rápida para alcançar a embarcação principal. Durante a tentativa de aproximação, o condutor da lancha perdeu o controle e o barco afundou, deixando o passageiro na água. Testemunhas relataram que a balsa já havia deixado o porto quando o homem chegou ao local. O incidente ocorreu no rio Amazonas, próximo à comunidade de Santana do Tapará.",
-      "porQueImporta": "O caso evidencia os riscos de manobras improvisadas em vias fluviais movimentadas",
+      "clusterId": "e5dacc4cd84ca77e",
+      "slug": "55d7c0bb1eaf5b50",
+      "titulo": "Ponte desabou no Acre e vítimas foram hospitalizadas",
+      "resumo": "Uma ponte colapsou no Acre, resultando em vítimas que foram socorridas e encaminhadas a hospitais. Uma das vítimas está em estado gravíssimo e permanece em ventilação mecânica. As autoridades investigam as causas do desabamento. O incidente gerou mobilização de equipes de resgate e apoio médico.",
+      "porQueImporta": "O colapso de infraestrutura pode gerar vítimas graves e demanda resposta de emergência.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/norte/ac/ponte-que-desabou-no-acre-veja-estado-de-saude-das-vitimas/"
+        }
+      ],
+      "updatedAt": "2026-06-06T16:07:16.000Z"
+    },
+    {
+      "clusterId": "7464d8e9963e2708",
+      "slug": "684670a2a66d2e4d",
+      "titulo": "Motociclista morre após colisão com carro na Rodovia SE-230 em Nossa Senhora da Glória",
+      "resumo": "Um motociclista morreu após colidir com um carro na Rodovia SE-230, no km 70, na localidade Vila dos Padres, em Nossa Senhora da Glória. O carro trafegava no sentido Monte Alegre/Nossa Senhora da Glória e a moto vinha em sentido contrário. O impacto arremessou o motociclista, que não resistiu aos ferimentos. O fato foi registrado pelo Batalhão de Polícia Rodoviária.",
+      "porQueImporta": "O acidente evidencia riscos nas rodovias estaduais e a necessidade de atenção entre veículos de diferentes sentidos.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/06/motociclista-morre-apos-colidir-com-carro-na-rodovia-se-230.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-06T16:00:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/H2PRP14IKomRRWLpEhFEgF7JSlg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/5/TGQF1fQ2KVxlgPECLWxg/moto.jpg"
+    },
+    {
+      "clusterId": "c755b1d4426384ce",
+      "slug": "8a82cec2cdaf81b9",
+      "titulo": "Mulher que ficou 42 horas à deriva no mar reencontra pescadores que a salvaram",
+      "resumo": "A sobrevivente de um acidente de moto aquática entre Ilhabela e São Sebastião, que passou cerca de 42 horas à deriva, encontrou pela primeira vez os pescadores Alex e Allan, pai e filho, que a resgataram. O reencontro ocorreu na Praia da Maranduba, em Ubatuba, onde a mulher relembrou detalhes do ocorrido.",
+      "porQueImporta": "O caso ilustra os riscos de atividades recreativas no mar e a importância da ação rápida de civis na socorro de vítimas.",
       "categoria": "Naufrágio",
       "categoriaSlug": "naufragio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/06/em-santarem-homem-perde-balsa-pega-lancha-para-tentar-embarcar-no-rio-e-vai-parar-na-agua-apos-naufragio.ghtml"
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/06/vamos-tentar-nadar-mulher-que-ficou-42-horas-a-deriva-no-mar-em-ilhabela-reencontra-pescadores-que-a-salvaram-e-relembra-acidente.ghtml"
         }
       ],
-      "updatedAt": "2026-06-06T13:38:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/OA5HHS7x7FpHV8K6chl2hLsN9bE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/J/GtJEM5T7KNMQvA6OA1LA/61558888-096c-430b-aab4-e2c4a3f04d25.jpeg"
+      "updatedAt": "2026-06-06T15:56:13.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/37OGD_4LztXR7gwHxdnM1ENtDrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/s/zTpYSXQjS8A9YheetqIA/foto-g1-3-.jpg"
     },
     {
-      "clusterId": "036cb3f6c506a618",
-      "slug": "1d6e2a0018f35347",
-      "titulo": "Acidente envolvendo 5 veículos na Ponte do Tancredo Neves deixa 2 feridos",
-      "resumo": "Na manhã de sábado, um acidente com pelo menos dois carros, um caminhão e uma moto ocorreu na Ponte Presidente Médici, conhecida como Ponte do Tancredo Neves, em Teresina. A Polícia Rodoviária Federal informou que duas pessoas ficaram feridas e foram atendidas pelo SAMU. O incidente provocou parada total do trânsito no local, gerando congestionamento. As autoridades continuam investigando as causas do acidente.",
-      "porQueImporta": "O acidente interrompeu o fluxo viário em uma via importante da capital, expondo motoristas a riscos e atrasos.",
+      "clusterId": "6d9fe1fb5bccf34d",
+      "slug": "9ad7f928e634921f",
+      "titulo": "Caminhonete colide com vacas na BR-163 em Rio Brilhante (MS)",
+      "resumo": "Na noite de quinta-feira, uma caminhonete que seguia em direção a Nova Alvorada do Sul colidiu com vacas soltas na rodovia BR-163, km 327, em Rio Brilhante (MS). Dois animais morreram e os ocupantes do veículo – motorista e dois passageiros – não ficaram feridos. Os proprietários dos animais removeram os corpos da pista, gerando congestionamento temporário.",
+      "porQueImporta": "O incidente evidencia riscos de animais na via e a necessidade de medidas de segurança rodoviária.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/06/acidente-ponte-do-tancredo-neves.ghtml"
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/06/acidente-na-br-163-em-ms-deixa-duas-vacas-mortas-apos-caminhonete-atingir-animais-soltos-na-pista.ghtml"
         }
       ],
-      "updatedAt": "2026-06-06T13:36:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/cGLFwDXfbDLX03LfL3WXL6_sbAk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/NOsJ3aQU2VvLW2eW4SHg/acidente-teresina.png"
+      "updatedAt": "2026-06-06T15:40:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/p2lvjKBHjJj0DRXTeuL6aqjL91s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/xR6sCKQNq1F44xD429Qg/acidente-vaca.png"
     },
     {
-      "clusterId": "3bdbf678b592beab",
-      "slug": "cddc34011b99bcdc",
-      "titulo": "Grave acidente mata dois homens em rodovia interior de SP",
-      "resumo": "Dois veículos colidiram de frente na Rodovia Dom Tomás Vaquero (SP-344) entre Divinolândia e São Sebastião da Grama na noite de sexta-feira. Um Ford Ka e uma Saveiro se envolveram na colisão, e a Saveiro pegou fogo. As vítimas foram identificadas como Richard Marques Correa, de 47 anos, e Valdir Cândido da Silva, de 52 anos. As causas do acidente ainda não foram divulgadas.",
-      "porQueImporta": "O acidente resultou em duas mortes e destaca riscos nas rodovias rurais do interior de São Paulo",
+      "clusterId": "f9228a99db3287fd",
+      "slug": "72d2d38c73c18a61",
+      "titulo": "Deslizamento de terra destrói casa em Pirajá, Salvador e sotera criança de 9 anos",
+      "resumo": "No sábado, um deslizamento de terra fez uma casa de três pavimentos desabar no bairro de Pirajá, em Salvador. O imóvel ficou completamente destruído e uma criança de nove anos, que morava ao lado, foi soterrada, mas foi resgatada e está bem. As oito pessoas que estavam nas casas atingidas conseguiram sair a tempo e não sofreram ferimentos. O incidente ocorreu enquanto as famílias permaneciam nas residências.",
+      "porQueImporta": "O evento evidencia a vulnerabilidade de áreas urbanas a deslizamentos e a necessidade de medidas preventivas.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/06/veja-antes-e-depois-de-casa-que-desabou-em-salvador.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-06T15:40:07.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/09aiRdtoPaKuG2flD8MY1AiJgzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/z/asHODUSVan34JXt5qqxQ/whatsapp-image-2026-06-06-at-07.07.08.jpeg"
+    },
+    {
+      "clusterId": "9d68f4e91074d4a3",
+      "slug": "ce76838429d55978",
+      "titulo": "Duas pessoas ficam feridas após carreta bater em árvore em Unaí",
+      "resumo": "Na sexta-feira, uma carreta colidiu com uma árvore na rodovia LMG-628, no distrito de Garapuava, em Unaí. O Corpo de Bombeiros encontrou duas vítimas presas às ferragens, mas o SAMU já atendia o local. As duas pessoas foram imobilizadas, receberam os primeiros socorros e foram encaminhadas para o hospital. O acidente mobilizou equipes de emergência e interrompeu o tráfego na região.",
+      "porQueImporta": "Acidente gerou feridos e impactou o trânsito local",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/06/grave-acidente-mata-duas-pessoas-em-rodovia-no-interior-de-sp-um-dos-carros-pegou-fogo.ghtml"
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/06/duas-pessoas-ficam-feridas-apos-carreta-bater-em-arvore-na-lmg-628.ghtml"
         }
       ],
-      "updatedAt": "2026-06-06T13:34:29.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jE4HTsnDPVIoE8sMlOHzuMRRG-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/AyERz6SzSWn1i7R3v1Pw/acidente-em-rodovia-entre-sao-sebastiao-da-grama-e-divinolandia-sp-deixa-dois-mortos.jpg"
+      "updatedAt": "2026-06-06T15:38:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zJpA2yFrUWnmmxOXmV_61Q5r1Us=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/c/5Fuz5aSxWACV6XpfQVbw/whatsapp-image-2026-06-06-at-11.48.34-1-.jpeg"
     },
     {
-      "clusterId": "1545af0de0f0f7db",
-      "slug": "69e2089cd2c3baad",
-      "titulo": "Cavalo cai em bueiro de três metros no Paraná após se assustar com caminhão",
-      "resumo": "Por volta das 3h de sábado, um cavalo que retornava de Santa Maria do Oeste se assustou com a passagem de um caminhão na PR-466, em Pitanga, e acabou caindo em um bueiro de cerca de três metros de profundidade. O proprietário estava montado no animal no momento da queda. O Corpo de Bombeiros realizou o resgate, içando o cavalo com uma retroescavadeira. O incidente foi registrado pelas autoridades locais.",
-      "porQueImporta": "O caso ilustra os riscos de acidentes envolvendo animais nas rodovias, que podem gerar emergências de resgate e interrupções no tráfego.",
+      "clusterId": "eabde8c12dfa6432",
+      "slug": "61f54f89f3a0346d",
+      "titulo": "Caminhão-tanque com 30 mil litros de combustível tombou na BR-381 e interdita via",
+      "resumo": "Um caminhão-tanque que transportava 30 mil litros de combustível tombou no km 234 da BR-381, entre Ipatinga e Belo Oriente, caindo em uma canaleta. O acidente provocou a interdição total do trânsito no local. Equipes operacionais, de resgate, o Corpo de Bombeiros e a Polícia Rodoviária Federal foram acionados e estão no local.",
+      "porQueImporta": "A interdição da rodovia pode gerar congestionamento e riscos ambientais devido ao combustível transportado",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/06/06/cavalo-cai-bueiro-parana.ghtml"
+          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/06/br-381-em-mg-e-interditada-apos-caminhao-carregado-de-combustivel-tombar.ghtml"
         }
       ],
-      "updatedAt": "2026-06-06T13:27:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zDlHbuRQ-CHHFq6OZU1NQlcMLiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/s/jq53jcT6ajZpADLOAnAw/g1-7-.png"
+      "updatedAt": "2026-06-06T15:35:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/oYWO0ArhFakllme6L46Y6G5p9Kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/BL8CsHQempq17xHTf5tA/whatsapp-image-2026-06-06-at-09.02.46-1-1-.jpeg"
     },
     {
-      "clusterId": "baf2aac3f661b847",
-      "slug": "e5e9827b3f5dfeac",
-      "titulo": "Ataque de drones russo próximo a Kiev mata quatro pessoas",
-      "resumo": "Um ataque de drones da Rússia atingiu uma empresa do setor alimentício em região próxima à capital ucraniana, matando quatro pessoas, segundo o governador regional Mykola Kalashnyk. O ataque provocou incêndio em um prédio administrativo da empresa e parte da estrutura foi destruída. A ação ocorreu poucas horas após o presidente Volodymyr Zelensky publicar carta aberta ao presidente Vladimir Putin.",
-      "porQueImporta": "O incidente evidencia a escalada da guerra e o risco de vítimas civis em áreas próximas a Kiev",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/05/ataque-da-russia-ucrania.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-06T13:26:32.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ZTboWTuAqBJ9LGvjhM4GsUUiYds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/A/0hA6e4RgeCqPcZ1W93FQ/2026-06-03t152033z-60011618-rc2ellasw8bi-rtrmadp-3-ukraine-crisis-missiles-test.jpg"
-    },
-    {
-      "clusterId": "e833d01f8cb44d76",
-      "slug": "33325bf319839823",
-      "titulo": "Idosa morre atropelada e motociclista fica gravemente ferido na MG-050 em Formiga",
-      "resumo": "Uma idosa de 74 anos foi atropelada por uma motocicleta ao descer de um ônibus e atravessar a pista da MG-050, em Formiga. O motociclista, de 30 anos, sofreu ferimentos graves. Segundo a Polícia Militar Rodoviária, a vítima era passageira do ônibus que fazia o itinerário Arcos‑Formiga e cruzou a via sem atenção. As autoridades registraram o acidente e atenderam as vítimas no local.",
-      "porQueImporta": "O acidente evidencia riscos de trânsito em áreas urbanas e a necessidade de atenção ao atravessar vias movimentadas.",
+      "clusterId": "e3815201077f9c3b",
+      "slug": "cbf505f7071beedf",
+      "titulo": "Seis mortos e dois feridos em acidente com três veículos na MT-358",
+      "resumo": "Um acidente envolvendo três veículos ocorreu na rodovia MT-358, entre Nova Olímpia e Barra do Bugres, na noite de sexta-feira. O choque deixou seis pessoas mortas, entre elas duas crianças, e duas pessoas feridas. Entre as vítimas está um professor da Unemat. A Polícia Civil apontou tentativa de ultrapassagem mal sucedida como causa provável.",
+      "porQueImporta": "O acidente resultou em múltiplas fatalidades e destaca riscos de manobras perigosas nas rodovias.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/06/idosa-morre-atropelada-ao-descer-de-onibus-e-atravessar-pista-da-mg-050-em-formiga.ghtml"
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/06/acidente-entre-tres-veiculos-deixa-seis-mortos-e-dois-feridos-na-mt-358.ghtml"
         }
       ],
-      "updatedAt": "2026-06-06T13:07:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/hWoR4y4TJ3AT2Ajz_Fa_qdEyzW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/e/HdAlSETky8V8DBIjyVEQ/whatsapp-image-2026-06-05-at-22.47.41.jpeg"
+      "updatedAt": "2026-06-06T15:33:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/w_rv2cPvOtrQKVi1rIzKhlnDYaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/8/PmxX9TRLiapv9hcKWR3g/whatsapp-image-2026-06-06-at-10.58.43.jpeg"
     }
   ],
   "categorias": [
@@ -189,140 +178,140 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "b3279e3956172b5a",
-          "slug": "d6e129e7a85d37b0",
-          "titulo": "Entregador de gás morre em acidente envolvendo moto e carro em João Pessoa",
-          "resumo": "Um entregador de gás morreu na manhã de sábado, no bairro Padre Zé, em João Pessoa, ao se envolver em uma colisão entre sua moto e um carro. Ele realizava uma entrega quando o acidente ocorreu e faleceu no local. As equipes da Guarda Civil Municipal e da Semob-JP isolaram a área e aguardaram a perícia e a Polícia Civil. A identidade da vítima ainda não foi divulgada.",
-          "porQueImporta": "O acidente evidencia riscos de segurança no trânsito durante entregas comerciais.",
+          "clusterId": "47114c82f501f58b",
+          "slug": "dca89685a2b79884",
+          "titulo": "Motorista é preso por acidente que feriu policial e conduziu sob efeito de álcool",
+          "resumo": "Um motorista de 47 anos foi detido em Iguatu, Ceará, suspeito de atropelar um policial civil de 43 anos e fugir sem prestar socorro. O policial, que pilotava uma motocicleta, ficou ferido e precisou ser resgatado por uma aeronave devido à gravidade do acidente. A ocorrência aconteceu na quinta‑feira passada, na zona rural de Iguatu, na localidade de Gameleira. O suspeito também foi acusado de dirigir alcoolizado.",
+          "porQueImporta": "O caso evidencia riscos de condução sob influência e a necessidade de responsabilização de motoristas que abandonam vítimas no local.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/06/entregador-de-gas-morre-em-acidente-envolvendo-moto-e-carro-em-joao-pessoa.ghtml"
+              "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/06/motorista-e-preso-por-causar-acidente-que-feriu-policial-dirigir-alcoolizado-e-fugir-sem-prestar-socorro.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T14:00:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JxmvELoUUAwbqfQJez9-cbYRMCA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/r/36Q4L9QrCOU4tb0kaJ0g/whatsapp-image-2026-06-06-at-10.50.57.jpeg"
+          "updatedAt": "2026-06-06T16:20:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-MOhna912YNPlTgiflr8PJUSoS4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/y/SBB5x5S0OaEeaOQG8djQ/iguatu-4.jpg"
         },
         {
-          "clusterId": "036cb3f6c506a618",
-          "slug": "1d6e2a0018f35347",
-          "titulo": "Acidente envolvendo 5 veículos na Ponte do Tancredo Neves deixa 2 feridos",
-          "resumo": "Na manhã de sábado, um acidente com pelo menos dois carros, um caminhão e uma moto ocorreu na Ponte Presidente Médici, conhecida como Ponte do Tancredo Neves, em Teresina. A Polícia Rodoviária Federal informou que duas pessoas ficaram feridas e foram atendidas pelo SAMU. O incidente provocou parada total do trânsito no local, gerando congestionamento. As autoridades continuam investigando as causas do acidente.",
-          "porQueImporta": "O acidente interrompeu o fluxo viário em uma via importante da capital, expondo motoristas a riscos e atrasos.",
+          "clusterId": "7464d8e9963e2708",
+          "slug": "684670a2a66d2e4d",
+          "titulo": "Motociclista morre após colisão com carro na Rodovia SE-230 em Nossa Senhora da Glória",
+          "resumo": "Um motociclista morreu após colidir com um carro na Rodovia SE-230, no km 70, na localidade Vila dos Padres, em Nossa Senhora da Glória. O carro trafegava no sentido Monte Alegre/Nossa Senhora da Glória e a moto vinha em sentido contrário. O impacto arremessou o motociclista, que não resistiu aos ferimentos. O fato foi registrado pelo Batalhão de Polícia Rodoviária.",
+          "porQueImporta": "O acidente evidencia riscos nas rodovias estaduais e a necessidade de atenção entre veículos de diferentes sentidos.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/06/acidente-ponte-do-tancredo-neves.ghtml"
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/06/motociclista-morre-apos-colidir-com-carro-na-rodovia-se-230.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T13:36:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cGLFwDXfbDLX03LfL3WXL6_sbAk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/NOsJ3aQU2VvLW2eW4SHg/acidente-teresina.png"
+          "updatedAt": "2026-06-06T16:00:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/H2PRP14IKomRRWLpEhFEgF7JSlg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/5/TGQF1fQ2KVxlgPECLWxg/moto.jpg"
         },
         {
-          "clusterId": "3bdbf678b592beab",
-          "slug": "cddc34011b99bcdc",
-          "titulo": "Grave acidente mata dois homens em rodovia interior de SP",
-          "resumo": "Dois veículos colidiram de frente na Rodovia Dom Tomás Vaquero (SP-344) entre Divinolândia e São Sebastião da Grama na noite de sexta-feira. Um Ford Ka e uma Saveiro se envolveram na colisão, e a Saveiro pegou fogo. As vítimas foram identificadas como Richard Marques Correa, de 47 anos, e Valdir Cândido da Silva, de 52 anos. As causas do acidente ainda não foram divulgadas.",
-          "porQueImporta": "O acidente resultou em duas mortes e destaca riscos nas rodovias rurais do interior de São Paulo",
+          "clusterId": "6d9fe1fb5bccf34d",
+          "slug": "9ad7f928e634921f",
+          "titulo": "Caminhonete colide com vacas na BR-163 em Rio Brilhante (MS)",
+          "resumo": "Na noite de quinta-feira, uma caminhonete que seguia em direção a Nova Alvorada do Sul colidiu com vacas soltas na rodovia BR-163, km 327, em Rio Brilhante (MS). Dois animais morreram e os ocupantes do veículo – motorista e dois passageiros – não ficaram feridos. Os proprietários dos animais removeram os corpos da pista, gerando congestionamento temporário.",
+          "porQueImporta": "O incidente evidencia riscos de animais na via e a necessidade de medidas de segurança rodoviária.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/06/grave-acidente-mata-duas-pessoas-em-rodovia-no-interior-de-sp-um-dos-carros-pegou-fogo.ghtml"
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/06/acidente-na-br-163-em-ms-deixa-duas-vacas-mortas-apos-caminhonete-atingir-animais-soltos-na-pista.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T13:34:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jE4HTsnDPVIoE8sMlOHzuMRRG-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/AyERz6SzSWn1i7R3v1Pw/acidente-em-rodovia-entre-sao-sebastiao-da-grama-e-divinolandia-sp-deixa-dois-mortos.jpg"
+          "updatedAt": "2026-06-06T15:40:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/p2lvjKBHjJj0DRXTeuL6aqjL91s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/xR6sCKQNq1F44xD429Qg/acidente-vaca.png"
         },
         {
-          "clusterId": "1545af0de0f0f7db",
-          "slug": "69e2089cd2c3baad",
-          "titulo": "Cavalo cai em bueiro de três metros no Paraná após se assustar com caminhão",
-          "resumo": "Por volta das 3h de sábado, um cavalo que retornava de Santa Maria do Oeste se assustou com a passagem de um caminhão na PR-466, em Pitanga, e acabou caindo em um bueiro de cerca de três metros de profundidade. O proprietário estava montado no animal no momento da queda. O Corpo de Bombeiros realizou o resgate, içando o cavalo com uma retroescavadeira. O incidente foi registrado pelas autoridades locais.",
-          "porQueImporta": "O caso ilustra os riscos de acidentes envolvendo animais nas rodovias, que podem gerar emergências de resgate e interrupções no tráfego.",
+          "clusterId": "9d68f4e91074d4a3",
+          "slug": "ce76838429d55978",
+          "titulo": "Duas pessoas ficam feridas após carreta bater em árvore em Unaí",
+          "resumo": "Na sexta-feira, uma carreta colidiu com uma árvore na rodovia LMG-628, no distrito de Garapuava, em Unaí. O Corpo de Bombeiros encontrou duas vítimas presas às ferragens, mas o SAMU já atendia o local. As duas pessoas foram imobilizadas, receberam os primeiros socorros e foram encaminhadas para o hospital. O acidente mobilizou equipes de emergência e interrompeu o tráfego na região.",
+          "porQueImporta": "Acidente gerou feridos e impactou o trânsito local",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/06/06/cavalo-cai-bueiro-parana.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/06/duas-pessoas-ficam-feridas-apos-carreta-bater-em-arvore-na-lmg-628.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T13:27:59.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zDlHbuRQ-CHHFq6OZU1NQlcMLiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/s/jq53jcT6ajZpADLOAnAw/g1-7-.png"
+          "updatedAt": "2026-06-06T15:38:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zJpA2yFrUWnmmxOXmV_61Q5r1Us=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/c/5Fuz5aSxWACV6XpfQVbw/whatsapp-image-2026-06-06-at-11.48.34-1-.jpeg"
         },
         {
-          "clusterId": "e833d01f8cb44d76",
-          "slug": "33325bf319839823",
-          "titulo": "Idosa morre atropelada e motociclista fica gravemente ferido na MG-050 em Formiga",
-          "resumo": "Uma idosa de 74 anos foi atropelada por uma motocicleta ao descer de um ônibus e atravessar a pista da MG-050, em Formiga. O motociclista, de 30 anos, sofreu ferimentos graves. Segundo a Polícia Militar Rodoviária, a vítima era passageira do ônibus que fazia o itinerário Arcos‑Formiga e cruzou a via sem atenção. As autoridades registraram o acidente e atenderam as vítimas no local.",
-          "porQueImporta": "O acidente evidencia riscos de trânsito em áreas urbanas e a necessidade de atenção ao atravessar vias movimentadas.",
+          "clusterId": "eabde8c12dfa6432",
+          "slug": "61f54f89f3a0346d",
+          "titulo": "Caminhão-tanque com 30 mil litros de combustível tombou na BR-381 e interdita via",
+          "resumo": "Um caminhão-tanque que transportava 30 mil litros de combustível tombou no km 234 da BR-381, entre Ipatinga e Belo Oriente, caindo em uma canaleta. O acidente provocou a interdição total do trânsito no local. Equipes operacionais, de resgate, o Corpo de Bombeiros e a Polícia Rodoviária Federal foram acionados e estão no local.",
+          "porQueImporta": "A interdição da rodovia pode gerar congestionamento e riscos ambientais devido ao combustível transportado",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/06/idosa-morre-atropelada-ao-descer-de-onibus-e-atravessar-pista-da-mg-050-em-formiga.ghtml"
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/06/br-381-em-mg-e-interditada-apos-caminhao-carregado-de-combustivel-tombar.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T13:07:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hWoR4y4TJ3AT2Ajz_Fa_qdEyzW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/e/HdAlSETky8V8DBIjyVEQ/whatsapp-image-2026-06-05-at-22.47.41.jpeg"
+          "updatedAt": "2026-06-06T15:35:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/oYWO0ArhFakllme6L46Y6G5p9Kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/BL8CsHQempq17xHTf5tA/whatsapp-image-2026-06-06-at-09.02.46-1-1-.jpeg"
         },
         {
-          "clusterId": "e835eedd503090e3",
-          "slug": "1e9d14d80237f5c0",
-          "titulo": "Motociclista morre após ser atingido na Atílio Balbo, em Sertãozinho, SP",
-          "resumo": "Um motociclista morreu na manhã de sábado após sua moto ser atingida na traseira por um carro na rodovia Atílio Balbo (SP-322), entre Ribeirão Preto e Sertãozinho. A colisão fez a motocicleta ser arremessada cerca de 70 metros. A condutora do carro compareceu à delegacia de Sertãozinho horas depois e foi conduzida.",
-          "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de atenção entre veículos de diferentes categorias.",
+          "clusterId": "e3815201077f9c3b",
+          "slug": "cbf505f7071beedf",
+          "titulo": "Seis mortos e dois feridos em acidente com três veículos na MT-358",
+          "resumo": "Um acidente envolvendo três veículos ocorreu na rodovia MT-358, entre Nova Olímpia e Barra do Bugres, na noite de sexta-feira. O choque deixou seis pessoas mortas, entre elas duas crianças, e duas pessoas feridas. Entre as vítimas está um professor da Unemat. A Polícia Civil apontou tentativa de ultrapassagem mal sucedida como causa provável.",
+          "porQueImporta": "O acidente resultou em múltiplas fatalidades e destaca riscos de manobras perigosas nas rodovias.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/06/motociclista-morre-apos-ser-atingido-na-atilio-balbo-em-sertaozinho-sp.ghtml"
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/06/acidente-entre-tres-veiculos-deixa-seis-mortos-e-dois-feridos-na-mt-358.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T13:01:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/18ivpeMH1KEGi6C8OCxlD3I-IKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/QJLqY1SjaVSxsoepoTag/molduras-g1-.png"
+          "updatedAt": "2026-06-06T15:33:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/w_rv2cPvOtrQKVi1rIzKhlnDYaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/8/PmxX9TRLiapv9hcKWR3g/whatsapp-image-2026-06-06-at-10.58.43.jpeg"
         },
         {
-          "clusterId": "d7f70bc31c0af545",
-          "slug": "5f39c13b75e5cf64",
-          "titulo": "Motociclista morre ao colidir com carreta parada na SP-264 em Sorocaba",
-          "resumo": "Um motociclista perdeu o controle da direção e bateu na traseira de uma carreta parada na faixa três da Rodovia João Leme dos Santos (SP-264), em Sorocaba. O acidente ocorreu por volta das 23h, na altura do quilômetro 103. O piloto não sobreviveu ao impacto. A informação foi divulgada pela Agência de Transportes do Estado de São Paulo (Artesp).",
-          "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias quando veículos permanecem parados na pista.",
+          "clusterId": "3f6598cd0b8c1cc3",
+          "slug": "7ef8825f8719ca3a",
+          "titulo": "Criança de quase 2 anos morre atropelada por caminhão em Poço Redondo",
+          "resumo": "Na sexta-feira, um menino de quase dois anos foi atingido por um caminhão após colidir com uma motocicleta na SE‑230, no povoado Sítios Novos, em Poço Redondo. O acidente resultou em sua morte. O velório foi realizado na casa da família e o sepultamento ocorreu na manhã de sábado no cemitério de Lagoa Dantas, com a presença de familiares, amigos e dezenas de pessoas.",
+          "porQueImporta": "O caso evidencia os riscos de tráfego em vias rurais e a necessidade de medidas de segurança viária.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/06/motociclista-morre-ao-bater-em-carreta-na-sp-264-em-sorocaba.ghtml"
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/06/familiares-e-amigos-de-despedem-de-crianca-que-morreu-atropelada-por-caminhao-em-poco-redondo.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T12:13:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jNBxlHKS1_4DkF_oVDUC6XP2OI8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/m/SQeqd1TlaB6IuQ55vQPA/caminhao-19-.jpg"
+          "updatedAt": "2026-06-06T14:25:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/r5c708MBzYlnaIznUFurvBR60KU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/C/ZUyAfETnmiBKQS5bAMZA/despedida.jpg"
         },
         {
-          "clusterId": "21a276966dde9a13",
-          "slug": "473a3cde62ab4c2f",
-          "titulo": "Motorista perde controle e colide de frente com outro veículo em rodovia de Cesário Lange",
-          "resumo": "Na tarde de sexta-feira, dois carros colidiram de frente no quilômetro 51 da Rodovia Benedito Oliveira Vaz, em Cesário Lange, SP. Segundo a Defesa Civil local, uma pane mecânica fez o motorista de um dos veículos perder o controle em uma curva, ocasionando a colisão. Duas pessoas ficaram feridas no acidente. O incidente ocorreu na altura do bairro Aleluia.",
-          "porQueImporta": "Acidentes de trânsito podem gerar ferimentos graves e impactar o fluxo nas rodovias regionais",
+          "clusterId": "27f981118522fe12",
+          "slug": "af4e147351fbccd6",
+          "titulo": "Coordenadora de escola morre em acidente de trânsito no sul do Tocantins",
+          "resumo": "Leomarcia Souza Aguiar Mota, de 52 anos, coordenadora de apoio de uma escola de Formoso do Araguaia, morreu após a colisão frontal de duas caminhonetes na zona rural do município. O acidente ocorreu na noite de sexta‑feira (5) em um trecho vicinal que dá acesso à BR‑242. Um motorista de 67 anos ficou ferido no mesmo choque. As autoridades registraram o fato como acidente de trânsito envolvendo veículos de passeio.",
+          "porQueImporta": "A morte de uma funcionária pública em serviço destaca a necessidade de melhorar a segurança viária nas áreas rurais.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/06/motorista-perde-o-controle-em-curva-e-bate-de-frente-com-outro-veiculo-em-rodovia-de-cesario-lange.ghtml"
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/06/coordenadora-de-escola-morre-em-acidente-no-sul-do-tocantins.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T12:08:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/POJMT_ft0l6ru6XQXyqe71V1Jj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/s/wAefKyQniV6zMByFAsLQ/whatsapp-image-2026-06-06-at-08.46.21-1-.jpg"
+          "updatedAt": "2026-06-06T14:24:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CBgzMAeyRmwmJs1g5KJmlq7nxsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/E/M2sYdKSAaqnldZR3LBuA/leomarcia.png"
         }
       ]
     },
@@ -331,52 +320,45 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "23a08ccc86c1a54b",
-          "slug": "ecd926053d96280f",
-          "titulo": "BH registra 8,8°C e bate novo recorde de frio do ano",
-          "resumo": "Na manhã de sábado, a Defesa Civil de Belo Horizonte registrou 8,8°C na região da Pampulha, a menor temperatura do ano na capital. Em bairros de maior altitude, como Olhos D'Água, Belvedere e Buritis, a mínima foi de 9,7°C. A previsão indica que o frio deve persistir ao longo do dia, com máxima estimada em torno de 23°C. O registro segue uma sequência de quedas de temperatura na cidade nesta semana.",
-          "porQueImporta": "O recorde evidencia condições climáticas atípicas para a região, afetando a população.",
+          "clusterId": "1018a6a3684cc60e",
+          "slug": "e9919088041ac85e",
+          "titulo": "Mulher é morta a facadas pelo marido em Carlos Barbosa",
+          "resumo": "Uma mulher de 55 anos foi assassinada a facadas pelo marido, de 56, por volta das 9h de sábado em Carlos Barbosa, na Serra. Após discussão, o homem colidiu intencionalmente o carro da esposa, perseguiu-a e desferiu quatro golpes de faca no peito. O crime ocorreu na Rua Borges de Medeiros, no bairro Planalto. A vítima foi socorrida, mas não resistiu.",
+          "porQueImporta": "Caso evidencia violência doméstica e homicídio no âmbito familiar",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/bh-bate-novo-recorde-de-frio-e-amanhece-com-88c"
-            },
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/06/bh-registra-8-8-c-e-bate-novo-recorde-de-frio-do-ano-neste-sabado.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/06/mulher-e-perseguida-e-morta-a-facadas-pelo-marido-em-carlos-barbosa.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T13:43:37.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/frio-bh.jpg"
+          "updatedAt": "2026-06-06T16:44:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7ZoHQOCYkB95Po9RcDhyqLRj4WE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Z/xxONevT0uPzTfBSA71Lw/g1-3-.png"
         },
         {
-          "clusterId": "c08b61d2b623380b",
-          "slug": "3c322357d288ae97",
-          "titulo": "Ponte recém inaugurada no Acre desaba deixando quatro feridos",
-          "resumo": "Uma ponte no Acre, inaugurada em 2023 e com custo de R$ 36 milhões, desabou enquanto estava interditada. O colapso deixou quatro pessoas feridas, duas em estado grave. As autoridades abriram equipes para investigar a causa do incidente.",
-          "porQueImporta": "O evento evidencia riscos em obras de infraestrutura e a necessidade de fiscalização adequada",
+          "clusterId": "e67c063dfbfc75dc",
+          "slug": "7e6099582678080f",
+          "titulo": "Sobrevivente relata momento em que ponte caiu no Acre: 'Encostei no fundo do rio'",
+          "resumo": "Trabalhadores feridos em desabamento no AC estavam na ponte: 'Encostei no fundo do rio' Weverton Murieta, um dos sobreviventes do desabamento de parte da Ponte Frei Paolino Baldassari, em Sena Madureira, no interior do Acre nesta sexta-feira (5), relatou que ele e os outros três feridos estavam em cima da ponte no momento do desastre. Weverton recebeu alta na manhã deste sábado (6) e deu entrevista explicando os detalhes sobre os últimos momentos antes da queda da ponte. 📲 Participe do canal do g1 AC no WhatsApp Ele trabalha com Antônio Morais Filho, outra vítima do desabamento,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-brasil/ponte-inaugurada-em-2023-desaba-no-acre-assista/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/norte/ac/ponte-que-desabou-no-acre-ja-estava-interditada-governo-apura-causa/"
+              "name": "G1",
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/06/trabalhadores-feridos-em-desabamento-no-ac-estavam-na-ponte-encostei-no-fundo-do-rio.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T13:27:55.000Z"
+          "updatedAt": "2026-06-06T14:28:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Wt6--Q4ToK1A_WAcoBmOLC5tdEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/5/By2wCsT4OAEvu5JxyqXg/midia-de-distribuicao-g1.png"
         },
         {
           "clusterId": "baf2aac3f661b847",
           "slug": "e5e9827b3f5dfeac",
-          "titulo": "Ataque de drones russo próximo a Kiev mata quatro pessoas",
-          "resumo": "Um ataque de drones da Rússia atingiu uma empresa do setor alimentício em região próxima à capital ucraniana, matando quatro pessoas, segundo o governador regional Mykola Kalashnyk. O ataque provocou incêndio em um prédio administrativo da empresa e parte da estrutura foi destruída. A ação ocorreu poucas horas após o presidente Volodymyr Zelensky publicar carta aberta ao presidente Vladimir Putin.",
-          "porQueImporta": "O incidente evidencia a escalada da guerra e o risco de vítimas civis em áreas próximas a Kiev",
+          "titulo": "Ataques com drones entre Ucrânia e Rússia resultam em mortes e danos materiais",
+          "resumo": "A Ucrânia lançou centenas de drones contra a Rússia, atingindo principalmente a região de São Petersburgo e provocando ao menos um morto e um incêndio em um depósito de petróleo no sul do país. Em resposta, a Rússia realizou um ataque com drones próximo a Kiev, que matou quatro pessoas e incendiou parte das instalações de uma empresa do setor alimentício. Ambos os episódios ocorreram nas primeiras horas de sábado e sexta-feira, respectivamente, e foram relatados pelas autoridades locais.",
+          "porQueImporta": "Os ataques demonstram a escalada da guerra aérea entre os dois países, afetando civis e infraestrutura crítica",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -387,99 +369,28 @@
           ],
           "updatedAt": "2026-06-06T13:26:32.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/ZTboWTuAqBJ9LGvjhM4GsUUiYds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/A/0hA6e4RgeCqPcZ1W93FQ/2026-06-03t152033z-60011618-rc2ellasw8bi-rtrmadp-3-ukraine-crisis-missiles-test.jpg"
-        },
-        {
-          "clusterId": "eaa7c49bf8bc3ebb",
-          "slug": "edef68e241bb32c3",
-          "titulo": "Arábia Saudita vence Porto Rico por 3 a 0 em amistoso",
-          "resumo": "A seleção da Arábia Saudita venceu Porto Rico por 3 a 0 em um jogo amistoso. O confronto foi marcado por uma longa paralisação devido a tempestades nos Estados Unidos. A vitória deu confiança ao time para a Copa. O resultado foi divulgado pela CNN Brasil.",
-          "porQueImporta": "A vitória reforça a preparação da equipe para a Copa",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/arabia-saudita-vence-porto-rico-em-amistoso-e-ganha-confianca-para-a-copa/"
-            }
-          ],
-          "updatedAt": "2026-06-06T11:47:23.000Z"
-        },
-        {
-          "clusterId": "0666aee255e847fb",
-          "slug": "c0844ece08cb958a",
-          "titulo": "VÍDEO: Incêndio destrói restaurante e floricultura às margens da RSC-287 em Santa Cruz do Sul",
-          "resumo": "Incêndio destrói restaurante e floricultura às margens da RSC-287 Um incêndio destruiu um tradicional restaurante com uma floricultura anexa, às margens da RSC-287, em Santa Cruz do Sul, na Região Central. As chamas começaram por volta de 19h50 de sexta-feira (5), na localidade de Linha Pinheiral, e só foram controladas na madrugada deste sábado (6). Testemunhas disseram ao Corpo de Bombeiros que o fogo teria começado na cozinha do estabelecimento. As chamas se espalharam rapidamente e atingiram uma casa que fica ao lado. 📲 Acesse o canal do g1 RS no WhatsApp O combate ao incêndio durou mais…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/06/incendio-destroi-restaurante-e-floricultura-as-margens-da-rsc-287-em-santa-cruz-do-sul.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-06T11:26:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fuHThfkpvf3NJWaK3EHpiuYzPLo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/X/djYxBSRBqyT8WbfkvUcw/g1-1-.png"
-        },
-        {
-          "clusterId": "a8073f9a0de694e7",
-          "slug": "faf4858f9b9d41af",
-          "titulo": "Pedra Furada no Jalapão é formação natural resultante de erosão",
-          "resumo": "A Pedra Furada, localizada no Parque Estadual do Jalapão, é um dos principais atrativos turísticos da região. Segundo o geólogo Sanclever Freire Peixoto, a formação ocorreu ao longo de milhares de anos pela ação de rios que esculpiram a rocha, deixando‑a como relíquia de um paleoambiente erosivo. O local atrai visitantes para apreciar a vegetação e o pôr do sol.",
-          "porQueImporta": "A explicação da origem da pedra ajuda a compreender processos geológicos e valoriza o turismo regional",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/06/entenda-fenomeno-que-furou-pedra-e-criou-ponto-turistico-famoso-no-jalapao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-06T09:30:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/8TpVjfwF1ioyPoENKncTkRmJsiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/Q/GAVQc3R2Af3SoNWrbIxg/foto-e-montagem-vertical-2026-06-05t140338.573.png"
-        },
-        {
-          "clusterId": "3c7f329031db2dda",
-          "slug": "10b9201a463f9059",
-          "titulo": "Açougue é interditado em Juiz de Fora por carne imprópria",
-          "resumo": "Um estabelecimento de carnes localizado na rua Rui Barbosa, no bairro Santa Terezinha, foi fechado preventivamente pela Prefeitura. Na ação, foram constatadas cerca de 2,4 toneladas de alimentos considerados impróprios para consumo. O fechamento ocorreu na quinta-feira, 28 de maio. A medida visa proteger a saúde pública.",
-          "porQueImporta": "A interdição impede a comercialização de alimentos contaminados, reduzindo risco de intoxicação para a população.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/06/voce-viu-acougue-interditado-com-quase-25kg-de-carne-impropria-delegado-aposentado-preso-apos-acidente-e-temporal-de-granizo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-06T09:00:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3pg8kNCzkPGLc9JkHtvR2E6HUcU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/H/WQLH3UTO2hfdbB2bdgvA/vc-viu-g1-zona-da-mata.jpg"
         }
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "acidente",
+      "label": "Acidente",
       "stories": [
         {
-          "clusterId": "3ad9eb507ee8f5d8",
-          "slug": "0bceae89a3b510f1",
-          "titulo": "Incêndio atinge depósito em Guarulhos e mobiliza bombeiros",
-          "resumo": "Um fogo começou na noite de sexta‑feira em um galpão de 3.500 m² em Guarulhos. Até 38 bombeiros foram acionados e o incêndio durou mais de 10 horas, provocando desabamento e coluna de fumaça. A Defesa Civil confirmou a ocorrência e não há registros de vítimas até o momento.",
-          "porQueImporta": "O incidente evidencia a necessidade de recursos de combate a incêndios em áreas industriais da região metropolitana de São Paulo",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "e5dacc4cd84ca77e",
+          "slug": "55d7c0bb1eaf5b50",
+          "titulo": "Ponte desabou no Acre e vítimas foram hospitalizadas",
+          "resumo": "Uma ponte colapsou no Acre, resultando em vítimas que foram socorridas e encaminhadas a hospitais. Uma das vítimas está em estado gravíssimo e permanece em ventilação mecânica. As autoridades investigam as causas do desabamento. O incidente gerou mobilização de equipes de resgate e apoio médico.",
+          "porQueImporta": "O colapso de infraestrutura pode gerar vítimas graves e demanda resposta de emergência.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-guarulhos-causou-desabamento-e-coluna-de-fumaca/"
-            },
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-seguranca-publica/incendio-atinge-deposito-em-guarulhos-e-dura-mais-de-10-horas/"
+              "url": "https://www.cnnbrasil.com.br/nacional/norte/ac/ponte-que-desabou-no-acre-veja-estado-de-saude-das-vitimas/"
             }
           ],
-          "updatedAt": "2026-06-06T13:13:36.000Z"
+          "updatedAt": "2026-06-06T16:07:16.000Z"
         }
       ]
     },
@@ -488,67 +399,44 @@
       "label": "Naufrágio",
       "stories": [
         {
-          "clusterId": "cef10c7baa58aaef",
-          "slug": "c33f15ae1316393f",
-          "titulo": "Homem perde balsa e naufraga em lancha no rio Tapajós em Santarém",
-          "resumo": "Na manhã de sábado, um homem que perdeu o horário de partida de uma balsa em Santarém pegou uma lancha rápida para alcançar a embarcação principal. Durante a tentativa de aproximação, o condutor da lancha perdeu o controle e o barco afundou, deixando o passageiro na água. Testemunhas relataram que a balsa já havia deixado o porto quando o homem chegou ao local. O incidente ocorreu no rio Amazonas, próximo à comunidade de Santana do Tapará.",
-          "porQueImporta": "O caso evidencia os riscos de manobras improvisadas em vias fluviais movimentadas",
+          "clusterId": "c755b1d4426384ce",
+          "slug": "8a82cec2cdaf81b9",
+          "titulo": "Mulher que ficou 42 horas à deriva no mar reencontra pescadores que a salvaram",
+          "resumo": "A sobrevivente de um acidente de moto aquática entre Ilhabela e São Sebastião, que passou cerca de 42 horas à deriva, encontrou pela primeira vez os pescadores Alex e Allan, pai e filho, que a resgataram. O reencontro ocorreu na Praia da Maranduba, em Ubatuba, onde a mulher relembrou detalhes do ocorrido.",
+          "porQueImporta": "O caso ilustra os riscos de atividades recreativas no mar e a importância da ação rápida de civis na socorro de vítimas.",
           "categoria": "Naufrágio",
           "categoriaSlug": "naufragio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/06/em-santarem-homem-perde-balsa-pega-lancha-para-tentar-embarcar-no-rio-e-vai-parar-na-agua-apos-naufragio.ghtml"
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/06/vamos-tentar-nadar-mulher-que-ficou-42-horas-a-deriva-no-mar-em-ilhabela-reencontra-pescadores-que-a-salvaram-e-relembra-acidente.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T13:38:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OA5HHS7x7FpHV8K6chl2hLsN9bE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/J/GtJEM5T7KNMQvA6OA1LA/61558888-096c-430b-aab4-e2c4a3f04d25.jpeg"
+          "updatedAt": "2026-06-06T15:56:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/37OGD_4LztXR7gwHxdnM1ENtDrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/s/zTpYSXQjS8A9YheetqIA/foto-g1-3-.jpg"
         }
       ]
     },
     {
-      "slug": "geada",
-      "label": "Geada",
+      "slug": "deslizamento",
+      "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "c781b822c51bf711",
-          "slug": "d15712309ece8859",
-          "titulo": "Geada registra temperatura mínima em Campos do Jordão",
-          "resumo": "Na manhã de sábado, Campos do Jordão (SP) registrou geada com termômetros marcando 3,1°C, segundo a Defesa Civil. A temperatura foi a menor registrada no estado naquele sábado e a segunda mais baixa do ano no município. Imagens do Parque Irmã Maria de Lourdes mostram a vegetação coberta por fina camada de gelo. O recorde de frio de 2026 no município foi de 2,1°C em 12 de maio, conforme o Instituto.",
-          "porQueImporta": "O frio intenso pode gerar riscos à saúde e à mobilidade na região",
-          "categoria": "Geada",
-          "categoriaSlug": "geada",
+          "clusterId": "f9228a99db3287fd",
+          "slug": "72d2d38c73c18a61",
+          "titulo": "Deslizamento de terra destrói casa em Pirajá, Salvador e sotera criança de 9 anos",
+          "resumo": "No sábado, um deslizamento de terra fez uma casa de três pavimentos desabar no bairro de Pirajá, em Salvador. O imóvel ficou completamente destruído e uma criança de nove anos, que morava ao lado, foi soterrada, mas foi resgatada e está bem. As oito pessoas que estavam nas casas atingidas conseguiram sair a tempo e não sofreram ferimentos. O incidente ocorreu enquanto as famílias permaneciam nas residências.",
+          "porQueImporta": "O evento evidencia a vulnerabilidade de áreas urbanas a deslizamentos e a necessidade de medidas preventivas.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/06/video-com-segunda-menor-temperatura-do-ano-campos-do-jordao-sp-registra-geada.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/06/veja-antes-e-depois-de-casa-que-desabou-em-salvador.ghtml"
             }
           ],
-          "updatedAt": "2026-06-06T12:03:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_AbZYT9x6AK9yRd0H5AHK9T7OfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/r/FCkuZdQ8mFlh8ZikenhQ/foto-g1-2-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "desabamento",
-      "label": "Desabamento",
-      "stories": [
-        {
-          "clusterId": "be3866838cd06ba7",
-          "slug": "f183f3b02a169337",
-          "titulo": "Criança fica soterrada após casa de dois pavimentos desabar em Salvador",
-          "resumo": "Na manhã de sábado, a casa de dois pavimentos no bairro de Pirajá, em Salvador, desabou por volta das 5h15. No interior do imóvel estavam nove pessoas, sendo que apenas a criança de nove anos ficou soterrada. O Corpo de Bombeiros realizou o socorro e ainda não há informações sobre o estado de saúde da menor. O desabamento também afetou quatro imóveis vizinhos.",
-          "porQueImporta": "O incidente evidencia riscos estruturais em áreas residenciais e a necessidade de intervenções de segurança pública.",
-          "categoria": "Desabamento",
-          "categoriaSlug": "desabamento",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/06/desabamento-de-imovel-em-salvador.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-06T10:16:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/x42MX3Q9UxrPS9N1WiPEr51d1xs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/7/PGjnYjTpCuB1v1Jdx74g/whatsapp-image-2026-06-06-at-07.07.08-1-.jpeg"
+          "updatedAt": "2026-06-06T15:40:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/09aiRdtoPaKuG2flD8MY1AiJgzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/z/asHODUSVan34JXt5qqxQ/whatsapp-image-2026-06-06-at-07.07.08.jpeg"
         }
       ]
     },
