@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-06-06T17:43:42.145Z",
-  "editionDate": "2026-06-06",
-  "hourUtc": 17,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito dominam a edição com múltiplas fatalidades e incidentes graves\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-06-07T05:09:23.133Z",
+  "editionDate": "2026-06-07",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
