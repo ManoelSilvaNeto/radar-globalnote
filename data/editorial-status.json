@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-06-08T05:15:49.288Z",
+  "ranAt": "2026-06-08T12:47:12.990Z",
   "editionDate": "2026-06-08",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito dominam panorama com múltiplas fatalidades e alertas de clima\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }

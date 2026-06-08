@@ -1,9 +1,9 @@
 {
   "date": "2026-06-08",
-  "generatedAt": "2026-06-08T05:15:49.288Z",
+  "generatedAt": "2026-06-08T12:47:12.990Z",
   "home": [
     {
-      "clusterId": "e7d80e1d19db8d75",
+      "clusterId": "c101d95d77ba7096",
       "slug": "1ae4cf59d817e23c",
       "titulo": "Terremoto de magnitude 7,8 atinge ilha de Mindanao nas Filipinas",
       "resumo": "Um terremoto de magnitude 7,8 abalou a ilha de Mindanao, nas Filipinas, na noite de domingo, dia 7. O tremor, com profundidade de 10 km, provocou queda de prédios e gerou alerta de tsunami para regiões costeiras do país e da vizinha Indonésia. Autoridades filipinas confirmaram quatro mortes e mais de 200 feridos. O Centro Alemão de Pesquisa em Geociências revisou a magnitude inicial de 8,2 para 7,8.",
@@ -16,265 +16,383 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/06/07/terremoto-de-magnitude-82-atinge-ilha-das-filipinas-alerta-de-tsunami-e-ativado.ghtml"
         },
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/filipinas-estao-sob-alerta-de-tsunami-apos-terremoto-de-magnitude-78"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/terremoto-de-magnitude-78-atinge-filipinas-e-gera-alerta-para-tsunamis/"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/alerta-de-tsunami-e-emitido-apos-terremoto-de-magnitude-78-nas-filipinas/"
+          "url": "https://www.cnnbrasil.com.br/internacional/video-estrutura-de-escola-desaba-durante-terremoto-nas-filipinas/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cy06gd4d15no?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-06-08T02:23:34.000Z",
+      "updatedAt": "2026-06-08T12:13:51.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/rJn4CzDhFzhpdqEBE3whhmEvZb4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/j/vy2GeiSPekmjYN3QNN0A/captura-de-tela-2026-06-07-211110.jpg"
     },
     {
-      "clusterId": "5b87f9f08381c21c",
-      "slug": "ee8a134ad4701bbc",
-      "titulo": "Incêndio destrói 27 ônibus na garagem da Viação Anchieta em Belo Horizonte",
-      "resumo": "Um incêndio atingiu a garagem da Viação Anchieta, no bairro Dom Cabral, em Belo Horizonte, que resultou na queima total de 27 ônibus. O Corpo de Bombeiros mobilizou 23 militares e viaturas para combater as chamas, que teriam se iniciado em uma área de mata próxima. Nenhum ferido foi registrado. A Prefeitura está avaliando os impactos no transporte coletivo da cidade.",
-      "porQueImporta": "A perda de quase 30 ônibus pode afetar a operação do transporte público em Belo Horizonte.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/incendio-destroi-quase-30-onibus-de-garagem-em-belo-horizonte-veja-imagens/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/08/prefeitura-diz-que-avalia-possiveis-impactos-no-transporte-coletivo-de-bh-apos-incendio-destruir-27-onibus.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-08T03:00:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/j18EW2oQVR6J28P7QxieeZqiXlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/L/0jDZW3R5KpZLnHqMaECA/34-47-incendio-garagem-onibus-07-jun-2026.mxf.png"
-    },
-    {
-      "clusterId": "38049434d9dc5df8",
-      "slug": "56a75feedba0bd0d",
-      "titulo": "Recordes de frio no Sul e Centro-Oeste",
-      "resumo": "Uma frente fria atingiu o Sul e Centro-Oeste do Brasil, gerando temperaturas recordes de frio. O fenômeno manteve risco de tempestades na região sul até o fim da segunda-feira. As autoridades alertaram para possíveis impactos em saúde e infraestrutura.",
-      "porQueImporta": "O clima extremo pode causar problemas de saúde e comprometer serviços públicos.",
+      "clusterId": "4cb2bef67e2cd648",
+      "slug": "587a4c56f7bdc4b6",
+      "titulo": "Alerta de tempestades no Paraná e Mato Grosso do Sul",
+      "resumo": "O Instituto Nacional de Meteorologia emitiu alertas de tempestades para o Paraná, prevendo granizo, ventos de até 60 km/h e chuvas de até 30 mm/h. No Mato Grosso do Sul, a segunda-feira apresenta alerta de tempestades no sul e sudoeste, enquanto outras regiões podem registrar baixa umidade. Os alertas cobrem a segunda e terça-feira, com risco potencial de danos.",
+      "porQueImporta": "Os alertas informam a população sobre condições climáticas adversas que podem afetar a segurança e a mobilidade.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/recordes-de-frio-sao-registrados-no-sul-e-centro-oeste-brasileiros/"
+          "name": "G1",
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/08/ms-tera-contraste-entre-tempestades-e-baixa-umidade-veja-as-regioes-em-alerta.ghtml"
         }
       ],
-      "updatedAt": "2026-06-08T03:53:31.000Z"
+      "updatedAt": "2026-06-08T12:38:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/fXS4qHVUz3bZrvIZUyJZyBhTKbE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/c/B2OLIwRHGMOGTArtw6SQ/canva-2026-06-08t081648.671.png"
     },
     {
-      "clusterId": "9f6c31e360532a30",
-      "slug": "69f923d642baca0a",
-      "titulo": "Naufrágio de barco deixa 10 mortos na costa de Malta",
-      "resumo": "Um barco que transportava 60 pessoas, identificadas como migrantes, afundou na costa de Malta, resultando em 10 mortes. Dois passageiros permanecem desaparecidos. As autoridades investigam as circunstâncias do acidente.",
-      "porQueImporta": "O incidente destaca os riscos enfrentados por migrantes em viagens marítimas perigosas.",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/naufragio-de-barco-deixa-10-mortos-na-costa-de-malta/"
-        }
-      ],
-      "updatedAt": "2026-06-08T02:41:03.000Z"
-    },
-    {
-      "clusterId": "ea4c29ed86fe4bd4",
-      "slug": "af11565d36d50c1f",
-      "titulo": "Capotamento de Fiat Fiorino na BR-070 deixa vítima fatal no DF",
-      "resumo": "Um veículo utilitário de carga Fiat Fiorino capotou na BR-070, no Distrito Federal. O condutor foi encontrado no interior da cabine sem sinais vitais. As autoridades foram acionadas para atender a ocorrência. Não foram divulgados detalhes adicionais sobre causas ou outros envolvidos.",
-      "porQueImporta": "O acidente evidencia riscos de capotamento em vias federais e a necessidade de atenção ao transporte de carga",
+      "clusterId": "57bfc8d5eaa12f15",
+      "slug": "b0d2020d79e2ffa3",
+      "titulo": "BMW cai em ribanceira e cinco pessoas morrem no interior de MG",
+      "resumo": "Um veículo BMW capotou em uma ribanceira no interior de Minas Gerais, sendo encontrado a 100 metros abaixo do nível da via. O Corpo de Bombeiros relatou que cinco pessoas morreram e uma sobreviveu ao acidente. O local do incidente foi identificado na estrada, onde o veículo caiu na depressão da ribanceira.",
+      "porQueImporta": "O acidente resultou em múltiplas fatalidades, destacando os riscos de condução em ribanceiras e a necessidade de atenção à segurança viária.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/capotamento-na-br-070-deixa-uma-vitima-no-df"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/bmw-cai-em-ribanceira-e-cinco-pessoas-morrem-no-interior-de-mg/"
         }
       ],
-      "updatedAt": "2026-06-08T02:38:13.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/whatsapp-image-2026-06-07-at-221238-1.jpeg"
+      "updatedAt": "2026-06-08T12:29:45.000Z"
     },
     {
-      "clusterId": "b034615f49a3ee12",
-      "slug": "bdd12fc5069ab282",
-      "titulo": "Batida frontal entre carro e ônibus deixa motorista gravemente ferido em Búzios",
-      "resumo": "Um motorista de 68 anos ficou gravemente ferido após colidir de frente com um ônibus da Viação Montes Brancos na noite de sábado, por volta das 19h30, na rodovia RJ‑102, km 119, no bairro Cem Braças, em Armação dos Búzios. Segundo o CPTran, o ônibus trafegava em direção a Cabo Frio enquanto o carro invadiu a contramão, provocando a colisão. O Corpo de Bombeiros atendeu ao local para prestar socorro ao condutor. A ocorrência foi registrada pela Polícia Militar de trânsito.",
-      "porQueImporta": "O acidente evidencia os perigos da condução em contramão e pode gerar consequências graves nas vias regionais.",
+      "clusterId": "15dabaf565df5d9e",
+      "slug": "e515cc6470c6d596",
+      "titulo": "Acidente na rodovia TO-110 deixa quatro mortos",
+      "resumo": "Quatro pessoas morreram em colisão frontal entre dois carros de passeio na rodovia TO-110, entre Taguatinga e Ponte Alta do Bom Jesus. Um veículo Gol seguia na direção Ponte Alta do Bom Jesus–Taguatinga quando colidiu com um Tracker que trafegava na direção oposta, na tarde de domingo. As causas do acidente ainda serão investigadas pela Polícia Militar. A identidade das vítimas ainda não foi divulgada pela Secretaria da Segurança Pública.",
+      "porQueImporta": "O acidente resultou em múltiplas fatalidades, destacando a necessidade de atenção à segurança viária na região.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/07/batida-frontal-entre-carro-e-onibus-deixa-motorista-gravemente-ferido-na-rj-102-em-buzios.ghtml"
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/08/acidente-em-rodovia-do-tocantins-deixa-quatro-mortos.ghtml"
         }
       ],
-      "updatedAt": "2026-06-08T02:20:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mZgPVOs9JHAmAmEdRBg_uZvAOk4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/2/Fa57d4SxGn3lvsS27YMg/design-sem-nome-7-.png"
+      "updatedAt": "2026-06-08T12:20:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/xFSI7qLne9Ffk33ym359_bqiLRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/M/pQ8dK0QBGe4F4lPgNgeQ/963.jpg"
     },
     {
-      "clusterId": "8973b1156f0d6fcb",
-      "slug": "04eb14157c0dcb0f",
-      "titulo": "Jovem se afoga ao nadar e corpo é encontrado próximo a usina no TO, dizem bombeiros",
-      "resumo": "Vítima estava a cerca de sete metros de profundidade, próximo à Usina Hidrelétrica de Lajeado Divulgação/Investco O corpo de um jovem, de 35 anos, foi localizado pelo Corpo de Bombeiros na manhã deste domingo (7), próximo às comportas da Usina de Lajeado, na região central do estado. Segundo a Secretaria de Segurança Pública (SSP), a vítima foi identificada como Leandro Vieira Sousa. De acordo com a SSP, Leandro estava com um grupo de pessoas na região conhecida como Pedral, próximo à barragem da usina. Por volta das 15h de sábado, ele começou a nadar em direção a pedras localizadas no meio…",
+      "clusterId": "ba7550e2dfcd910c",
+      "slug": "66c2e1055c060dc1",
+      "titulo": "Acidente entre carro e ônibus deixa homem ferido em Volta Redonda",
+      "resumo": "Acidente entre carro e ônibus deixa um homem ferido em Volta Redonda Divulgação/Redes sociais Um acidente entre um carro e um ônibus deixou um homem, de aproximadamente 30 anos, ferido na manhã desta segunda-feira (8), em Volta Redonda (RJ). O caso aconteceu próximo à Praça Sávio Gama, no bairro Aterrado. Segundo o Corpo de Bombeiros, a equipe foi acionada por volta das 6h15 para atender a ocorrência. No local, foi constado uma vítima que foi socorrida e encaminhada para o Hospital São João Batista. O g1 entrou em contato com a unidade médica para atualizar o estado de saúde da vítima e…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/07/jovem-se-afoga-ao-nadar-e-corpo-e-encontrado-proximo-a-usina-no-to-dizem-bombeiros.ghtml"
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/08/acidente-entre-carro-e-onibus-deixa-homem-ferido-em-volta-redonda.ghtml"
         }
       ],
-      "updatedAt": "2026-06-07T23:44:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mNo4AMIjc1_bpQzHGaCBNFsALgE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/T/9BiN4BSl2GEa3HsZKmsQ/modelo-foto-fundo-borrado-3-.png"
+      "updatedAt": "2026-06-08T12:17:52.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/xwnERq9zsZiQMSpvGtPIYMKb16k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/r/PK0CBFSWW91A5JReZD2g/whatsapp-image-2026-06-08-at-08.53.36.png"
     },
     {
-      "clusterId": "bdc6abb0d07e4a92",
-      "slug": "0d86804b06c39556",
-      "titulo": "Trabalhador morre ao cair dentro de silo de serragem em fábrica de tijolos em Ribeirão das Neves",
-      "resumo": "Um homem de 62 anos morreu ao cair dentro do silo de serragem de uma fábrica de tijolos em Ribeirão das Neves, na Região Metropolitana de Belo Horizonte. O acidente ocorreu por volta das 3h45 de domingo, na Rua Francisco Labanca, distrito de Justinópolis. O Corpo de Bombeiros foi acionado para atender a ocorrência. A vítima era natural de Teófilo Otoni, em Minas Gerais.",
-      "porQueImporta": "O caso evidencia os riscos de acidentes ocupacionais em ambientes industriais",
-      "categoria": "Acidente de trabalho",
-      "categoriaSlug": "acidente-de-trabalho",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/07/trabalhador-morre-ao-cair-dentro-de-silo-de-serragem-em-fabrica-de-tijolos-da-grande-bh.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-07T23:43:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/TiORP3zQHmRHjtf8DCqYLX8JH94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/m/aRKFXAQpig28y2itA7sw/morre-fabrica-de-tijolos.jpeg"
-    },
-    {
-      "clusterId": "7877d7266d9a349f",
-      "slug": "cc7ba7ba0300dc37",
-      "titulo": "Funcionária pública morre após atropelamento em Mauá",
-      "resumo": "Uma funcionária pública de 44 anos foi atropelada na Avenida Capitão João, em Mauá, e morreu quatro dias depois. O motorista do veículo fugiu do local e há suspeita de que participava de um racha no momento do acidente. A família e amigos cobram a identificação do condutor e a abertura de investigação. O corpo foi enterrado em Ribeirão Pires.",
-      "porQueImporta": "O caso evidencia risco de rachas e a necessidade de responsabilizar motoristas que abandonam a cena de acidentes",
+      "clusterId": "32f95fa615968986",
+      "slug": "208f5fa7a0ee9ffd",
+      "titulo": "Homem morre atropelado na BR-101 em Campos dos Goytacazes",
+      "resumo": "Um pedestre foi atropelado na noite de domingo na rodovia BR-101, no km 71, próximo à localidade de Tapera, em Campos dos Goytacazes. A vítima foi identificada como Manoel Francisco de Andrade Silva. A equipe da concessionária Arteris Fluminense foi acionada por volta das 18h para atender a ocorrência, que envolveu um carro e o pedestre no sentido Espírito Santo.",
+      "porQueImporta": "O acidente evidencia riscos de tráfego para pedestres em áreas de rodovias federais",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/07/funcionaria-publica-morre-apos-atropelamento-em-maua-familia-cobra-investigacao-sobre-possivel-racha.ghtml"
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/06/08/homem-morre-atropelado-em-acidente-na-br-101-em-campos-dos-goytacazes.ghtml"
         }
       ],
-      "updatedAt": "2026-06-07T23:40:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/aFZ3W8eqQJu-zXm0wVDhBIM14G8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/g/ysaTlASPGv35oIF9n6TA/adobe-express-file.jpg"
+      "updatedAt": "2026-06-08T12:14:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/eoKQ-drp2qd6V0680eYAPCvyfSM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/S/k6TG4qTtANYrhpfO51ew/resgate-idoso.jpg"
     },
     {
-      "clusterId": "064aa6530e8cfcc7",
-      "slug": "2d64678b5b10c760",
-      "titulo": "Avião particular cai e explode no Aeroporto Internacional de La Romana, República Dominicana",
-      "resumo": "Um jato executivo Gulfstream G200, matrícula N318JF, realizou pouso de emergência e pegou fogo ao chegar ao Aeroporto Internacional de La Romana. O acidente ocorreu no domingo, dia 8, e resultou em explosão da aeronave. Segundo veículos de imprensa dominicanos, ao menos duas pessoas morreram no incidente.",
-      "porQueImporta": "O acidente evidencia riscos de voos privados e pode gerar investigações sobre segurança aérea na região turística",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
+      "clusterId": "01e60d7e5f951d95",
+      "slug": "1cb142a3ad5845c3",
+      "titulo": "Criança de 10 anos e homem morrem em acidente entre dois carros na LMG-628, em Unaí",
+      "resumo": "Dois veículos colidiram na rodovia LMG-628, em Unaí, neste domingo. No acidente, morreram uma criança de 10 anos e um homem de 37 anos. O outro carro era conduzido por um sargento da Polícia Militar, de 48 anos, que viajava com a esposa e a enteada, também de 10 anos, que ficaram feridas. As vítimas foram socorridas pelo SAMU e pelos bombeiros.",
+      "porQueImporta": "O acidente resultou em duas mortes e deixou outras pessoas feridas, exigindo resposta de emergência e gerando preocupação na comunidade local.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/07/aviao-particular-explode-apos-cair-em-aeroporto-na-republica-dominicana-ao-menos-duas-pessoas-morreram.ghtml"
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/08/crianca-de-10-anos-e-homem-morrem-em-acidente-entre-dois-carros-na-lmg-628-em-unai.ghtml"
         }
       ],
-      "updatedAt": "2026-06-07T23:26:57.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/d2aNO8-jc0eT8kdhb83sRip5kBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/3/rlebUjRA6gdoP9E0znBQ/savetwitter.net-4rlrbzvzwju2gxfb-576p-ezgif.com-optimize.gif"
+      "updatedAt": "2026-06-08T12:03:56.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/OFNEWrUa3zPNrcbHbKleLAwgQeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/c/dB3HXYQLKfVzW6xXxsZw/acidente99.jpeg"
+    },
+    {
+      "clusterId": "912b46ce04cce2d5",
+      "slug": "d3a921f40f00be73",
+      "titulo": "Mulher atropela sogra após saída de delegacia em Joaçaba",
+      "resumo": "Uma jovem de 21 anos foi presa em Joaçaba (SC) depois de atropelar a própria sogra de 42 anos. O incidente ocorreu na frente da casa da vítima, logo após as duas deixarem a delegacia onde estavam envolvidas em uma ocorrência de violência doméstica. A sogra foi encaminhada ao Hospital Universitário Santa Terezinha, enquanto a nora foi atendida no local e conduzida à delegacia, sendo liberada posteriormente.",
+      "porQueImporta": "O caso evidencia a combinação de violência doméstica e acidentes de trânsito envolvendo familiares próximos",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/08/mulher-atropela-sogra-saida-delegacia-presa-joacaba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-08T11:49:47.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GUhWee6AepU3bkdE8F1PHOFzG74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/C/RBWrvTSoWnNR7Ms3dy8w/mulher-e-presa-apos-atropelar-sogra-na-saida-de-delegacia-em-joacaba.jpeg"
+    },
+    {
+      "clusterId": "b31521a7231752d0",
+      "slug": "d2daf333b91c9686",
+      "titulo": "Caminhão pega fogo próximo ao Viaduto dos Bugres em Caxias do Sul",
+      "resumo": "Na manhã de segunda-feira (8), um caminhão incendiou-se na rodovia RSC-453, nas proximidades do Viaduto dos Bugres, acesso à cidade de Caxias do Sul, na Serra. Equipes do Corpo de Bombeiros atenderam a ocorrência e o trânsito foi bloqueado na região. Até a última atualização, não havia informações sobre feridos nem sobre as causas do incêndio.",
+      "porQueImporta": "O incidente interrompeu o tráfego local e pode indicar risco de acidentes maiores.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/08/video-caminhao-pega-fogo-proximo-a-viaduto-de-acesso-a-caxias-do-sul.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-08T11:47:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/nPO0TZyzhaDHOwV9FHqGb1t6a8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/f/s1uhMIReKQUFBj7p39AA/g1-5-.png"
+    },
+    {
+      "clusterId": "56ada79cbec6c050",
+      "slug": "ca756f66fc3989b3",
+      "titulo": "Ônibus que tombou na BR-290 deixa uma morta e 11 feridos",
+      "resumo": "Um ônibus que seguia de Curitiba para Porto Alegre tombou no quilômetro 42 da BR-290, em Glorinha, por volta das 22h20 de sábado. No veículo estavam 13 pessoas; uma mulher de 69 anos morreu e 11 ficaram feridas, duas em estado grave. Apenas um passageiro saiu ileso. O ônibus permanece nas margens da rodovia mais de 30 horas após o acidente.",
+      "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de respostas rápidas de socorro.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/08/retirada-onibus-tomba-br-290-glorinha-morto-feridos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-08T11:45:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1d4a2k2fKyZRsLzpCsh-kUl95H4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/vtfOKRRKqYnDzndQ5NrQ/g1.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "57bfc8d5eaa12f15",
+          "slug": "b0d2020d79e2ffa3",
+          "titulo": "BMW cai em ribanceira e cinco pessoas morrem no interior de MG",
+          "resumo": "Um veículo BMW capotou em uma ribanceira no interior de Minas Gerais, sendo encontrado a 100 metros abaixo do nível da via. O Corpo de Bombeiros relatou que cinco pessoas morreram e uma sobreviveu ao acidente. O local do incidente foi identificado na estrada, onde o veículo caiu na depressão da ribanceira.",
+          "porQueImporta": "O acidente resultou em múltiplas fatalidades, destacando os riscos de condução em ribanceiras e a necessidade de atenção à segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/bmw-cai-em-ribanceira-e-cinco-pessoas-morrem-no-interior-de-mg/"
+            }
+          ],
+          "updatedAt": "2026-06-08T12:29:45.000Z"
+        },
+        {
+          "clusterId": "15dabaf565df5d9e",
+          "slug": "e515cc6470c6d596",
+          "titulo": "Acidente na rodovia TO-110 deixa quatro mortos",
+          "resumo": "Quatro pessoas morreram em colisão frontal entre dois carros de passeio na rodovia TO-110, entre Taguatinga e Ponte Alta do Bom Jesus. Um veículo Gol seguia na direção Ponte Alta do Bom Jesus–Taguatinga quando colidiu com um Tracker que trafegava na direção oposta, na tarde de domingo. As causas do acidente ainda serão investigadas pela Polícia Militar. A identidade das vítimas ainda não foi divulgada pela Secretaria da Segurança Pública.",
+          "porQueImporta": "O acidente resultou em múltiplas fatalidades, destacando a necessidade de atenção à segurança viária na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/08/acidente-em-rodovia-do-tocantins-deixa-quatro-mortos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-08T12:20:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xFSI7qLne9Ffk33ym359_bqiLRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/M/pQ8dK0QBGe4F4lPgNgeQ/963.jpg"
+        },
+        {
+          "clusterId": "32f95fa615968986",
+          "slug": "208f5fa7a0ee9ffd",
+          "titulo": "Homem morre atropelado na BR-101 em Campos dos Goytacazes",
+          "resumo": "Um pedestre foi atropelado na noite de domingo na rodovia BR-101, no km 71, próximo à localidade de Tapera, em Campos dos Goytacazes. A vítima foi identificada como Manoel Francisco de Andrade Silva. A equipe da concessionária Arteris Fluminense foi acionada por volta das 18h para atender a ocorrência, que envolveu um carro e o pedestre no sentido Espírito Santo.",
+          "porQueImporta": "O acidente evidencia riscos de tráfego para pedestres em áreas de rodovias federais",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/06/08/homem-morre-atropelado-em-acidente-na-br-101-em-campos-dos-goytacazes.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-08T12:14:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/eoKQ-drp2qd6V0680eYAPCvyfSM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/S/k6TG4qTtANYrhpfO51ew/resgate-idoso.jpg"
+        },
+        {
+          "clusterId": "01e60d7e5f951d95",
+          "slug": "1cb142a3ad5845c3",
+          "titulo": "Criança de 10 anos e homem morrem em acidente entre dois carros na LMG-628, em Unaí",
+          "resumo": "Dois veículos colidiram na rodovia LMG-628, em Unaí, neste domingo. No acidente, morreram uma criança de 10 anos e um homem de 37 anos. O outro carro era conduzido por um sargento da Polícia Militar, de 48 anos, que viajava com a esposa e a enteada, também de 10 anos, que ficaram feridas. As vítimas foram socorridas pelo SAMU e pelos bombeiros.",
+          "porQueImporta": "O acidente resultou em duas mortes e deixou outras pessoas feridas, exigindo resposta de emergência e gerando preocupação na comunidade local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/08/crianca-de-10-anos-e-homem-morrem-em-acidente-entre-dois-carros-na-lmg-628-em-unai.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-08T12:03:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OFNEWrUa3zPNrcbHbKleLAwgQeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/c/dB3HXYQLKfVzW6xXxsZw/acidente99.jpeg"
+        },
+        {
+          "clusterId": "912b46ce04cce2d5",
+          "slug": "d3a921f40f00be73",
+          "titulo": "Mulher atropela sogra após saída de delegacia em Joaçaba",
+          "resumo": "Uma jovem de 21 anos foi presa em Joaçaba (SC) depois de atropelar a própria sogra de 42 anos. O incidente ocorreu na frente da casa da vítima, logo após as duas deixarem a delegacia onde estavam envolvidas em uma ocorrência de violência doméstica. A sogra foi encaminhada ao Hospital Universitário Santa Terezinha, enquanto a nora foi atendida no local e conduzida à delegacia, sendo liberada posteriormente.",
+          "porQueImporta": "O caso evidencia a combinação de violência doméstica e acidentes de trânsito envolvendo familiares próximos",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/08/mulher-atropela-sogra-saida-delegacia-presa-joacaba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-08T11:49:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GUhWee6AepU3bkdE8F1PHOFzG74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/C/RBWrvTSoWnNR7Ms3dy8w/mulher-e-presa-apos-atropelar-sogra-na-saida-de-delegacia-em-joacaba.jpeg"
+        },
+        {
+          "clusterId": "56ada79cbec6c050",
+          "slug": "ca756f66fc3989b3",
+          "titulo": "Ônibus que tombou na BR-290 deixa uma morta e 11 feridos",
+          "resumo": "Um ônibus que seguia de Curitiba para Porto Alegre tombou no quilômetro 42 da BR-290, em Glorinha, por volta das 22h20 de sábado. No veículo estavam 13 pessoas; uma mulher de 69 anos morreu e 11 ficaram feridas, duas em estado grave. Apenas um passageiro saiu ileso. O ônibus permanece nas margens da rodovia mais de 30 horas após o acidente.",
+          "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de respostas rápidas de socorro.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/08/retirada-onibus-tomba-br-290-glorinha-morto-feridos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-08T11:45:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1d4a2k2fKyZRsLzpCsh-kUl95H4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/vtfOKRRKqYnDzndQ5NrQ/g1.jpg"
+        },
+        {
+          "clusterId": "6f8d264401b63131",
+          "slug": "7f7567eb61073f6b",
+          "titulo": "Motorista atropela homem deitado no meio da rua em Curitiba",
+          "resumo": "Um homem de 51 anos em situação de rua morreu após ser atropelado enquanto permanecia deitado no centro de Curitiba. Câmeras de segurança registraram que ele estava no local por cerca de duas horas antes do acidente. O motorista do veículo deixou o local após o atropelamento e está sendo procurado pela Polícia Civil, que investiga se ele não viu a vítima ou fugiu sem prestar socorro.",
+          "porQueImporta": "O caso evidencia risco de violência contra pessoas em situação de rua e a necessidade de apurar responsabilidade de quem deixa o local de um acidente",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/parana/noticia/2026/06/08/motorista-atropela-homem-deitado-no-meio-da-rua-em-curitiba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-08T11:33:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EOxuwC2XxuZpiQGMRGltAyVcwMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/Z/PrvIDAT9ul9q0Bc11fBA/g1-7-.png"
+        },
+        {
+          "clusterId": "d0140a8e866d109a",
+          "slug": "aa93b3db83a6acd4",
+          "titulo": "Motociclistas morrem em acidente no centro de Salgueiro",
+          "resumo": "Dois motociclistas, de 24 e 44 anos, morreram na noite de domingo em um acidente no cruzamento da Rua Otávio Leitinho com a Rua Antônio Caboclo, em Salgueiro, Pernambuco. As vítimas foram identificadas como Fabian Sobreira e Ernandes Santos, conhecido como \"Nanam do Grau\". Imagens de câmeras de segurança registraram o momento do acidente.",
+          "porQueImporta": "O incidente destaca a gravidade dos acidentes de trânsito envolvendo motocicletas na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/06/08/motociclistas-morrem-em-acidente-no-centro-de-salgueiro-veja-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-08T11:24:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/N-5ZBQjRU8eIDf7l3nywy3_9Vm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/f/fjwUwISoyyW8cBWZTZ5w/vitimas-salgueiro-ok.png"
+        }
+      ]
+    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "8973b1156f0d6fcb",
-          "slug": "04eb14157c0dcb0f",
-          "titulo": "Jovem se afoga ao nadar e corpo é encontrado próximo a usina no TO, dizem bombeiros",
-          "resumo": "Vítima estava a cerca de sete metros de profundidade, próximo à Usina Hidrelétrica de Lajeado Divulgação/Investco O corpo de um jovem, de 35 anos, foi localizado pelo Corpo de Bombeiros na manhã deste domingo (7), próximo às comportas da Usina de Lajeado, na região central do estado. Segundo a Secretaria de Segurança Pública (SSP), a vítima foi identificada como Leandro Vieira Sousa. De acordo com a SSP, Leandro estava com um grupo de pessoas na região conhecida como Pedral, próximo à barragem da usina. Por volta das 15h de sábado, ele começou a nadar em direção a pedras localizadas no meio…",
+          "clusterId": "ba7550e2dfcd910c",
+          "slug": "66c2e1055c060dc1",
+          "titulo": "Acidente entre carro e ônibus deixa homem ferido em Volta Redonda",
+          "resumo": "Acidente entre carro e ônibus deixa um homem ferido em Volta Redonda Divulgação/Redes sociais Um acidente entre um carro e um ônibus deixou um homem, de aproximadamente 30 anos, ferido na manhã desta segunda-feira (8), em Volta Redonda (RJ). O caso aconteceu próximo à Praça Sávio Gama, no bairro Aterrado. Segundo o Corpo de Bombeiros, a equipe foi acionada por volta das 6h15 para atender a ocorrência. No local, foi constado uma vítima que foi socorrida e encaminhada para o Hospital São João Batista. O g1 entrou em contato com a unidade médica para atualizar o estado de saúde da vítima e…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/07/jovem-se-afoga-ao-nadar-e-corpo-e-encontrado-proximo-a-usina-no-to-dizem-bombeiros.ghtml"
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/08/acidente-entre-carro-e-onibus-deixa-homem-ferido-em-volta-redonda.ghtml"
             }
           ],
-          "updatedAt": "2026-06-07T23:44:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mNo4AMIjc1_bpQzHGaCBNFsALgE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/T/9BiN4BSl2GEa3HsZKmsQ/modelo-foto-fundo-borrado-3-.png"
+          "updatedAt": "2026-06-08T12:17:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xwnERq9zsZiQMSpvGtPIYMKb16k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/r/PK0CBFSWW91A5JReZD2g/whatsapp-image-2026-06-08-at-08.53.36.png"
         },
         {
-          "clusterId": "94aa0c2d6554a209",
-          "slug": "211d23828e00f516",
-          "titulo": "Filme \"A Morte do Demônio: Em Chamas\" estreia em julho nos cinemas com cena de cera quente",
-          "resumo": "O filme de terror \"A Morte do Demônio: Em Chamas\" será lançado nos cinemas em julho. Uma das cenas apresenta cera quente, gerando curiosidade entre o público. A produção foi divulgada pela CNN Brasil.",
-          "porQueImporta": "A estreia traz novidades ao gênero de terror no cinema brasileiro",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/pop/cinema/a-morte-do-demonio-em-chamas-ganha-cena-bizarra-com-cera-quente-assista/"
-            }
-          ],
-          "updatedAt": "2026-06-07T23:09:32.000Z"
-        },
-        {
-          "clusterId": "dee8fe102ae52ec1",
-          "slug": "2668172bcf3707f7",
-          "titulo": "Teto de igreja evangélica cede em São José do Rio Preto",
-          "resumo": "Na manhã de domingo, parte do teto de uma igreja Assembleia de Deus no bairro Jardim Paulista, em São José do Rio Preto, desabou. Segundo o Corpo de Bombeiros, a estrutura não suportou o peso da caixa d’água. Não havia pessoas no local no momento do incidente. A Defesa Civil foi acionada para avaliar as condições da edificação.",
-          "porQueImporta": "O evento evidencia riscos estruturais em edificações públicas que podem colocar em perigo a comunidade.",
+          "clusterId": "3e7623e68028dcf4",
+          "slug": "4bf5abdc73104838",
+          "titulo": "Mulher fica ferida em acidente entre carros em Capim Macio; cruzamento registrou outra colisão há 20 dias",
+          "resumo": "Acidente aconteceu em cruzamento em Capim Macio, na Zona Sul de Natal Um acidente envolvendo dois carros deixou uma mulher ferida na manhã deste domingo (7) no bairro de Capim Macio, na Zona Sul de Natal. A colisão aconteceu no cruzamento das ruas Ênico Monteiro e Ismael Pereira, no mesmo trecho onde há 20 dias um carro derrubou parte do muro de um condomínio também depois de uma colisão no cruzamento. Dessa vez, com o impacto, um dos veículos foi arremessado para cima da calçada, ficando \"preso\" entre duas árvores e o muro de um outro condomínio residencial. 📳 Clique aqui para seguir o…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/07/parte-do-teto-de-igreja-evangelica-cede-no-noroeste-de-sp.ghtml"
+              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/08/acidente-carros-capim-macio-cruzamento.ghtml"
             }
           ],
-          "updatedAt": "2026-06-07T21:03:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hdmhjMd7PQOSGGNDwQXXPpYtlkU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/c/Y9Z8PMTQu8oZhiiLILpw/design-sem-nome-2026-06-07t173009.599.jpg"
+          "updatedAt": "2026-06-08T11:29:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PuoshPOxvNJB02nL5OHRlVILDew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/y/NjrI1ZRByAcv5QBOLApw/whatsapp-image-2026-06-07-at-16.27.36-1-.jpeg"
         },
         {
-          "clusterId": "2a58597c51b8297f",
-          "slug": "4a40176363ebece9",
-          "titulo": "Onda de frio persiste em São Paulo com previsão de nevoeiro",
-          "resumo": "A capital paulista continua sob influência de uma onda de frio nesta segunda-feira. Segundo o Climatempo, o dia deve iniciar com nevoeiro e temperaturas abaixo da média. As condições climáticas podem gerar desconforto térmico e reduzir a visibilidade nas vias. As autoridades recomendam atenção redobrada ao dirigir e cuidados com a saúde.",
-          "porQueImporta": "O frio intenso e o nevoeiro podem impactar a mobilidade e a saúde da população.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/agenda-verde/onda-de-frio-permanece-em-sao-paulo-nesta-segunda-8-saiba-a-previsao-do-climatempo/"
-            }
-          ],
-          "updatedAt": "2026-06-07T20:00:19.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2017/07/frio-sp-temperaturas-20170718-0002.jpg?quality=70&strip=info"
-        },
-        {
-          "clusterId": "875b0c940deca7c2",
-          "slug": "b479b83f895525c8",
-          "titulo": "Justiça do Acre determina que construtora apresente plano emergencial após desabamento da Ponte Frei Paolino Baldassari",
-          "resumo": "A Justiça do Acre deferiu parcialmente as medidas que exigem a responsabilização da Construtora Cidade Ltda pela queda da ponte em Sena Madureira, que deixou quatro feridos. A decisão fixa multas diárias que podem chegar a R$ 200 mil caso a empresa não cumpra as determinações. A construtora tem cinco dias para apresentar um plano com medidas emergenciais voltadas à proteção da população e mitigação dos riscos decorrentes do desabamento.",
-          "porQueImporta": "A medida busca evitar novos incidentes e garantir a segurança dos moradores da região afetada",
+          "clusterId": "693f6eda94b905e7",
+          "slug": "0f70720df399e6bc",
+          "titulo": "Criança de dois anos morre após afogamento em piscina em Paragominas",
+          "resumo": "Uma criança de dois anos morreu após afogamento em piscina na residência da avó materna em Paragominas, no Pará. A família percebeu a ausência da criança e a encontrou já na água. Ela foi retirada e levada imediatamente para a Unidade de Pronto Atendimento, onde veio a óbito.",
+          "porQueImporta": "O caso destaca a importância da supervisão constante em ambientes com água, especialmente em residências.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/07/apos-desabamento-de-ponte-justica-determina-que-construtora-adote-medidas-emergenciais-no-acre.ghtml"
+              "url": "https://g1.globo.com/pa/para/noticia/2026/06/08/crianca-de-dois-anos-morre-afogada-em-piscina-em-paragominas-no-pa.ghtml"
             }
           ],
-          "updatedAt": "2026-06-07T19:49:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OdHlXdLOpceMJyCumCYGaIjgQoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/p/dmLcC3Syyu5Wci1kqGyA/midia-de-distribuicao-g1.png"
+          "updatedAt": "2026-06-08T11:13:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/NCgq_3bWh5gUHMNoXK48g77SP48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/t8rNwLRDWLJJW6faANQA/geral-g1-2026-06-08t080341.408.png"
+        },
+        {
+          "clusterId": "cb89923d6a29ab61",
+          "slug": "e1015eb1c4b23e41",
+          "titulo": "Motociclista bêbado é preso por pilotar na contramão no PI com nível de álcool três vezes acima do limite",
+          "resumo": "Um motociclista de 31 anos foi preso em flagrante, na noite de domingo (7), suspeito de pilotar bêbado na contramão da BR-316, em Picos (PI). Segundo a Polícia Rodoviária Federal (PRF), o teste do bafômetro apontou um valor três vezes maior que o limite permitido. LEIA TAMBÉM: Policial penal fica em estado grave após ter moto atingida por motorista com sinais de embriaguez Motorista com suspeita de embriaguez é detido após grave acidente com cinco veículos em ponte A equipe da PRF fazia uma fiscalização na rodovia quando viu a moto do suspeito no sentido contrário ao fluxo normal da via.…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/08/motociclista-preso-alcool.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-08T11:06:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GQllDen9JqtJdO3cuCsaBI_YIN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/P/plpsuaTjaSnNS3ySePmA/bafometro.jpg.jpeg"
         },
         {
           "clusterId": "abb6b901c08d9aaf",
@@ -296,102 +414,11 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "ea4c29ed86fe4bd4",
-          "slug": "af11565d36d50c1f",
-          "titulo": "Capotamento de Fiat Fiorino na BR-070 deixa vítima fatal no DF",
-          "resumo": "Um veículo utilitário de carga Fiat Fiorino capotou na BR-070, no Distrito Federal. O condutor foi encontrado no interior da cabine sem sinais vitais. As autoridades foram acionadas para atender a ocorrência. Não foram divulgados detalhes adicionais sobre causas ou outros envolvidos.",
-          "porQueImporta": "O acidente evidencia riscos de capotamento em vias federais e a necessidade de atenção ao transporte de carga",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/capotamento-na-br-070-deixa-uma-vitima-no-df"
-            }
-          ],
-          "updatedAt": "2026-06-08T02:38:13.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/whatsapp-image-2026-06-07-at-221238-1.jpeg"
-        },
-        {
-          "clusterId": "b034615f49a3ee12",
-          "slug": "bdd12fc5069ab282",
-          "titulo": "Batida frontal entre carro e ônibus deixa motorista gravemente ferido em Búzios",
-          "resumo": "Um motorista de 68 anos ficou gravemente ferido após colidir de frente com um ônibus da Viação Montes Brancos na noite de sábado, por volta das 19h30, na rodovia RJ‑102, km 119, no bairro Cem Braças, em Armação dos Búzios. Segundo o CPTran, o ônibus trafegava em direção a Cabo Frio enquanto o carro invadiu a contramão, provocando a colisão. O Corpo de Bombeiros atendeu ao local para prestar socorro ao condutor. A ocorrência foi registrada pela Polícia Militar de trânsito.",
-          "porQueImporta": "O acidente evidencia os perigos da condução em contramão e pode gerar consequências graves nas vias regionais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/07/batida-frontal-entre-carro-e-onibus-deixa-motorista-gravemente-ferido-na-rj-102-em-buzios.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-08T02:20:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mZgPVOs9JHAmAmEdRBg_uZvAOk4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/2/Fa57d4SxGn3lvsS27YMg/design-sem-nome-7-.png"
-        },
-        {
-          "clusterId": "7877d7266d9a349f",
-          "slug": "cc7ba7ba0300dc37",
-          "titulo": "Funcionária pública morre após atropelamento em Mauá",
-          "resumo": "Uma funcionária pública de 44 anos foi atropelada na Avenida Capitão João, em Mauá, e morreu quatro dias depois. O motorista do veículo fugiu do local e há suspeita de que participava de um racha no momento do acidente. A família e amigos cobram a identificação do condutor e a abertura de investigação. O corpo foi enterrado em Ribeirão Pires.",
-          "porQueImporta": "O caso evidencia risco de rachas e a necessidade de responsabilizar motoristas que abandonam a cena de acidentes",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/07/funcionaria-publica-morre-apos-atropelamento-em-maua-familia-cobra-investigacao-sobre-possivel-racha.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-07T23:40:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/aFZ3W8eqQJu-zXm0wVDhBIM14G8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/g/ysaTlASPGv35oIF9n6TA/adobe-express-file.jpg"
-        },
-        {
-          "clusterId": "f9c6c75dbb9efef8",
-          "slug": "66ffe68d3ccbc83e",
-          "titulo": "Moto pega fogo e motociclista fica ferido em acidente na Salgado Filho em Natal",
-          "resumo": "Na manhã de domingo, um motociclista ficou gravemente ferido após sua moto colidir e pegar fogo na Avenida Salgado Filho, no bairro Lagoa Nova, em Natal. Testemunhas relataram que o motorista do carro envolvido na colisão abandonou o local sem prestar socorro. A moto ficou totalmente danificada pelo incêndio. As autoridades foram acionadas para investigar o caso.",
-          "porQueImporta": "Incidentes com fuga e incêndio aumentam o risco de vítimas graves nas vias urbanas",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/07/moto-fogo-motociclista-ferido-acidente-natal.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-07T22:10:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RnJWrzIrD5WMWox427bjNSqDdV8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/I/qSEG5ARGA8JYuh2hGRTg/moto-fogo.jpg"
-        },
-        {
-          "clusterId": "1c5d0a2b93456237",
-          "slug": "2817f8d8b110b98d",
-          "titulo": "Cinco pessoas morrem em acidente de trânsito em Imbé de Minas",
-          "resumo": "Na noite de sábado, um carro saiu da estrada, capotou e caiu em uma ribanceira na zona rural de Imbé de Minas, na região do Córrego dos Lelés. O acidente ocorreu por volta das 21h40 e resultou na morte de cinco ocupantes. As equipes da Polícia Militar, do Corpo de Bombeiros e do Samu atuaram no local de difícil acesso. As vítimas foram identificadas pelas autoridades.",
-          "porQueImporta": "O caso evidencia os riscos de acidentes em vias rurais de acesso difícil.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/07/cinco-pessoas-morrem-em-acidente-apos-carro-cair-em-ribanceira-em-imbe-de-minas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-07T21:58:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jlMo0XXAlBKnZ9A2LRjutFO9IFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/X/aSpWDERNC6uvNyFC4Ylg/fotos-horizontais-2-.png"
-        }
-      ]
-    },
-    {
       "slug": "terremoto",
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "e7d80e1d19db8d75",
+          "clusterId": "c101d95d77ba7096",
           "slug": "1ae4cf59d817e23c",
           "titulo": "Terremoto de magnitude 7,8 atinge ilha de Mindanao nas Filipinas",
           "resumo": "Um terremoto de magnitude 7,8 abalou a ilha de Mindanao, nas Filipinas, na noite de domingo, dia 7. O tremor, com profundidade de 10 km, provocou queda de prédios e gerou alerta de tsunami para regiões costeiras do país e da vizinha Indonésia. Autoridades filipinas confirmaram quatro mortes e mais de 200 feridos. O Centro Alemão de Pesquisa em Geociências revisou a magnitude inicial de 8,2 para 7,8.",
@@ -404,47 +431,33 @@
               "url": "https://g1.globo.com/mundo/noticia/2026/06/07/terremoto-de-magnitude-82-atinge-ilha-das-filipinas-alerta-de-tsunami-e-ativado.ghtml"
             },
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/filipinas-estao-sob-alerta-de-tsunami-apos-terremoto-de-magnitude-78"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/terremoto-de-magnitude-78-atinge-filipinas-e-gera-alerta-para-tsunamis/"
-            },
-            {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/alerta-de-tsunami-e-emitido-apos-terremoto-de-magnitude-78-nas-filipinas/"
+              "url": "https://www.cnnbrasil.com.br/internacional/video-estrutura-de-escola-desaba-durante-terremoto-nas-filipinas/"
+            },
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cy06gd4d15no?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "updatedAt": "2026-06-08T02:23:34.000Z",
+          "updatedAt": "2026-06-08T12:13:51.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/rJn4CzDhFzhpdqEBE3whhmEvZb4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/j/vy2GeiSPekmjYN3QNN0A/captura-de-tela-2026-06-07-211110.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
+        },
         {
-          "clusterId": "5b87f9f08381c21c",
-          "slug": "ee8a134ad4701bbc",
-          "titulo": "Incêndio destrói 27 ônibus na garagem da Viação Anchieta em Belo Horizonte",
-          "resumo": "Um incêndio atingiu a garagem da Viação Anchieta, no bairro Dom Cabral, em Belo Horizonte, que resultou na queima total de 27 ônibus. O Corpo de Bombeiros mobilizou 23 militares e viaturas para combater as chamas, que teriam se iniciado em uma área de mata próxima. Nenhum ferido foi registrado. A Prefeitura está avaliando os impactos no transporte coletivo da cidade.",
-          "porQueImporta": "A perda de quase 30 ônibus pode afetar a operação do transporte público em Belo Horizonte.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "41c4d4c68ee0fdaf",
+          "slug": "fc3256dd2bf0c4f8",
+          "titulo": "Terremoto de magnitude 7,8 atinge ilha das Filipinas",
+          "resumo": "Um sismo de magnitude 7,8 foi registrado na ilha das Filipinas, gerando alerta de tsunami que chegou a ser ativado. As autoridades monitoram possíveis impactos e realizam avaliações preliminares. Não há informações detalhadas sobre danos ou vítimas até o momento.",
+          "porQueImporta": "O evento pode causar perdas humanas e materiais significativas, além de desencadear risco de tsunami.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/incendio-destroi-quase-30-onibus-de-garagem-em-belo-horizonte-veja-imagens/"
-            },
-            {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/08/prefeitura-diz-que-avalia-possiveis-impactos-no-transporte-coletivo-de-bh-apos-incendio-destruir-27-onibus.ghtml"
+              "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/06/08/resumao-diario-2008-israel-e-ira-quebram-cessar-fogo-e-trocam-ataques-filha-de-ditador-lidera-apuracao-na-eleicao-presidencial-no-peru-forte-terremoto-atinge-as-filipinas-wesley-e-cortado-da-selecao-as-vesperas-da-estreia-na-copa.ghtml"
             }
           ],
-          "updatedAt": "2026-06-08T03:00:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/j18EW2oQVR6J28P7QxieeZqiXlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/L/0jDZW3R5KpZLnHqMaECA/34-47-incendio-garagem-onibus-07-jun-2026.mxf.png"
+          "updatedAt": "2026-06-08T11:44:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
         }
       ]
     },
@@ -453,65 +466,44 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "38049434d9dc5df8",
-          "slug": "56a75feedba0bd0d",
-          "titulo": "Recordes de frio no Sul e Centro-Oeste",
-          "resumo": "Uma frente fria atingiu o Sul e Centro-Oeste do Brasil, gerando temperaturas recordes de frio. O fenômeno manteve risco de tempestades na região sul até o fim da segunda-feira. As autoridades alertaram para possíveis impactos em saúde e infraestrutura.",
-          "porQueImporta": "O clima extremo pode causar problemas de saúde e comprometer serviços públicos.",
+          "clusterId": "4cb2bef67e2cd648",
+          "slug": "587a4c56f7bdc4b6",
+          "titulo": "Alerta de tempestades no Paraná e Mato Grosso do Sul",
+          "resumo": "O Instituto Nacional de Meteorologia emitiu alertas de tempestades para o Paraná, prevendo granizo, ventos de até 60 km/h e chuvas de até 30 mm/h. No Mato Grosso do Sul, a segunda-feira apresenta alerta de tempestades no sul e sudoeste, enquanto outras regiões podem registrar baixa umidade. Os alertas cobrem a segunda e terça-feira, com risco potencial de danos.",
+          "porQueImporta": "Os alertas informam a população sobre condições climáticas adversas que podem afetar a segurança e a mobilidade.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/recordes-de-frio-sao-registrados-no-sul-e-centro-oeste-brasileiros/"
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/08/ms-tera-contraste-entre-tempestades-e-baixa-umidade-veja-as-regioes-em-alerta.ghtml"
             }
           ],
-          "updatedAt": "2026-06-08T03:53:31.000Z"
+          "updatedAt": "2026-06-08T12:38:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fXS4qHVUz3bZrvIZUyJZyBhTKbE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/c/B2OLIwRHGMOGTArtw6SQ/canva-2026-06-08t081648.671.png"
         }
       ]
     },
     {
-      "slug": "naufragio",
-      "label": "Naufrágio",
+      "slug": "incendio",
+      "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "9f6c31e360532a30",
-          "slug": "69f923d642baca0a",
-          "titulo": "Naufrágio de barco deixa 10 mortos na costa de Malta",
-          "resumo": "Um barco que transportava 60 pessoas, identificadas como migrantes, afundou na costa de Malta, resultando em 10 mortes. Dois passageiros permanecem desaparecidos. As autoridades investigam as circunstâncias do acidente.",
-          "porQueImporta": "O incidente destaca os riscos enfrentados por migrantes em viagens marítimas perigosas.",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-internacional/naufragio-de-barco-deixa-10-mortos-na-costa-de-malta/"
-            }
-          ],
-          "updatedAt": "2026-06-08T02:41:03.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-trabalho",
-      "label": "Acidente de trabalho",
-      "stories": [
-        {
-          "clusterId": "bdc6abb0d07e4a92",
-          "slug": "0d86804b06c39556",
-          "titulo": "Trabalhador morre ao cair dentro de silo de serragem em fábrica de tijolos em Ribeirão das Neves",
-          "resumo": "Um homem de 62 anos morreu ao cair dentro do silo de serragem de uma fábrica de tijolos em Ribeirão das Neves, na Região Metropolitana de Belo Horizonte. O acidente ocorreu por volta das 3h45 de domingo, na Rua Francisco Labanca, distrito de Justinópolis. O Corpo de Bombeiros foi acionado para atender a ocorrência. A vítima era natural de Teófilo Otoni, em Minas Gerais.",
-          "porQueImporta": "O caso evidencia os riscos de acidentes ocupacionais em ambientes industriais",
-          "categoria": "Acidente de trabalho",
-          "categoriaSlug": "acidente-de-trabalho",
+          "clusterId": "b31521a7231752d0",
+          "slug": "d2daf333b91c9686",
+          "titulo": "Caminhão pega fogo próximo ao Viaduto dos Bugres em Caxias do Sul",
+          "resumo": "Na manhã de segunda-feira (8), um caminhão incendiou-se na rodovia RSC-453, nas proximidades do Viaduto dos Bugres, acesso à cidade de Caxias do Sul, na Serra. Equipes do Corpo de Bombeiros atenderam a ocorrência e o trânsito foi bloqueado na região. Até a última atualização, não havia informações sobre feridos nem sobre as causas do incêndio.",
+          "porQueImporta": "O incidente interrompeu o tráfego local e pode indicar risco de acidentes maiores.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/07/trabalhador-morre-ao-cair-dentro-de-silo-de-serragem-em-fabrica-de-tijolos-da-grande-bh.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/08/video-caminhao-pega-fogo-proximo-a-viaduto-de-acesso-a-caxias-do-sul.ghtml"
             }
           ],
-          "updatedAt": "2026-06-07T23:43:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TiORP3zQHmRHjtf8DCqYLX8JH94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/m/aRKFXAQpig28y2itA7sw/morre-fabrica-de-tijolos.jpeg"
+          "updatedAt": "2026-06-08T11:47:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/nPO0TZyzhaDHOwV9FHqGb1t6a8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/f/s1uhMIReKQUFBj7p39AA/g1-5-.png"
         }
       ]
     },
