@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-06-07T17:49:36.529Z",
-  "editionDate": "2026-06-07",
-  "hourUtc": 17,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito concentram a maioria dos registros enquanto incidentes isolados afetam transporte público e infraestrutura\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-06-08T05:15:49.288Z",
+  "editionDate": "2026-06-08",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
