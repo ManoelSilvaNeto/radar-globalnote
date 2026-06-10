@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-06-09T18:32:41.023Z",
-  "editionDate": "2026-06-09",
-  "hourUtc": 18,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito dominam a edição enquanto incidentes isolados destacam riscos de infraestrutura e violência\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-06-10T05:02:41.982Z",
+  "editionDate": "2026-06-10",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
