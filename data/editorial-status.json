@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-06-10T05:02:41.982Z",
+  "ranAt": "2026-06-10T11:54:19.599Z",
   "editionDate": "2026-06-10",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 11,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito dominam o cenário, acompanhados de alertas meteorológicos e tensão internacional\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
