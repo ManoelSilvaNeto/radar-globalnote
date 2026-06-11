@@ -1,339 +1,324 @@
 {
   "date": "2026-06-11",
-  "generatedAt": "2026-06-11T16:39:11.020Z",
+  "generatedAt": "2026-06-11T22:23:49.780Z",
   "home": [
     {
-      "clusterId": "6011074b0f13cb8c",
-      "slug": "ccb232f84a800a2b",
-      "titulo": "Acidente aéreo em Marília deixa dois mortos e um sobrevivente",
-      "resumo": "Um avião caiu em Marília, interior de São Paulo, resultando na morte dos pilotos Gabriel Maloni da Cruz e Henrique Guariente. Um passageiro sobreviveu ao acidente e foi socorrido em estado grave. As vítimas foram veladas na quinta-feira (11).",
-      "porQueImporta": "O incidente destaca a importância da segurança aérea e o impacto imediato na comunidade local.",
+      "clusterId": "5cbd9ce8b1808de4",
+      "slug": "f7db183defc9af4f",
+      "titulo": "Romário Raoni é réu por homicídio qualificado após atropelamento que matou servidor público em Juazeiro do Norte",
+      "resumo": "A Justiça aceitou a denúncia do Ministério Público do Ceará contra Romário Raoni Pereira Agostinho, acusado de atropelar e matar o servidor público Airton Ferreira Rocha após uma briga na saída de uma festa em 23 de maio, em Juazeiro do Norte. O réu foi indiciado pelos crimes de homicídio qualificado e tentativa de homicídio. O incidente ocorreu quando o grupo de pessoas foi atingido pelo veículo de Romário. O caso segue em tramitação judicial.",
+      "porQueImporta": "O caso evidencia questões de segurança no trânsito e responsabilidade penal em acidentes envolvendo veículos e pedestres",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/06/11/homem-que-atropelou-e-matou-servidor-publico-apos-briga-em-saida-de-festa-vira-reu-na-justica.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-11T22:13:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/pT8B_L3qbAQFX9Z-8pkObyShmIM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/vNEXL3Q9eOA6WZCB1N0Q/atropelador-1-.jpg"
+    },
+    {
+      "clusterId": "a4b4089afa14fa9b",
+      "slug": "7436c944b50e3582",
+      "titulo": "Menino de 9 anos morre após colisão entre bicicleta elétrica e ônibus no Complexo do Alemão",
+      "resumo": "Na tarde de quinta-feira, uma criança de 9 anos identificada como Theo Fernandes foi atingida por um ônibus da linha 485 enquanto circulava em bicicleta elétrica com o avô na Estrada do Itararé, no Complexo do Alemão, Zona Norte do Rio. Ele foi socorrido e encaminhado à UPA do Alemão, onde não resistiu aos ferimentos e morreu. O acidente ocorreu no sentido Inhaúma.",
+      "porQueImporta": "O caso evidencia riscos de convivência entre bicicletas elétricas e transporte público em áreas urbanas densas",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/11/menino-de-9-anos-morre-apos-acidente-entre-bicicleta-e-onibus-no-complexo-do-alemao.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-11T22:09:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/QzdYkPhcVj3rsSJQCvOfOfoBL5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/k/mZOpHLSPqBrRY2aDr9MQ/captura-de-tela-2026-06-11-180014.png"
+    },
+    {
+      "clusterId": "bc2ec1c476d3b109",
+      "slug": "67fe724fbbbd0352",
+      "titulo": "Poste cai sobre caminhão e deixa moradores sem energia na Pampulha",
+      "resumo": "Um poste de concreto rompeu e caiu sobre o baú de um caminhão que trafegava na Rua Joaquim Pereira, próximo ao cruzamento com a Avenida Dr. Álvaro Camargos, em Belo Horizonte. O incidente deixou pelo menos 69 imóveis sem energia elétrica no bairro Santa Branca. Segundo a Polícia Militar, ninguém ficou ferido. O motorista, de 52 anos, informou as autoridades sobre o ocorrido.",
+      "porQueImporta": "O acidente interrompeu o fornecimento de energia a dezenas de residências e evidencia riscos de infraestrutura urbana.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/11/poste-cai-sobre-caminhao-e-deixa-moradores-sem-energia-na-pampulha-em-bh.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-11T21:58:14.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wnJIkFCNMxwhe07ySHRojnYzHz4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/D/Bpah17Qva56oKBpBZWMw/design-sem-nome-17-.jpg"
+    },
+    {
+      "clusterId": "4ce428de1f6052bc",
+      "slug": "c40d166135c38f2d",
+      "titulo": "Autor do segundo gol da Copa do Mundo quase morreu em campo",
+      "resumo": "Raúl Jiménez, do México, marcou o segundo gol da partida contra a África do Sul nesta quinta-feira (11/6). Em 2020, o atacante sofreu um grave acidente em campo que quase lhe custou a vida. O fato foi relembrado após o gol na Copa do Mundo.",
+      "porQueImporta": "Mostra a vulnerabilidade dos atletas a lesões graves mesmo em alto nível esportivo",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/autor-de-segundo-gol-da-copa-do-mundo-quase-morreu-em-campo"
+        }
+      ],
+      "updatedAt": "2026-06-11T21:41:36.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/mexico-e-africa-do-sul-na-copa-do-mundo-2026-metropoles-3-scaled.jpg"
+    },
+    {
+      "clusterId": "b9bfba0470f41f9f",
+      "slug": "d29794054d4a9cde",
+      "titulo": "Motociclista fica ferido após bater na traseira de caminhão em Indaiatuba",
+      "resumo": "Um motociclista colidiu com a traseira de um caminhão na Rodovia Santos Dumont, em Indaiatuba, na tarde de quinta-feira. A vítima sofreu várias fraturas e foi encaminhada ao Hospital Augusto de Oliveira Camargo. O acidente ocorreu por volta das 16h43, no sentido Campinas, e provocou a interdição da faixa 3 até as 17h40.",
+      "porQueImporta": "O acidente gerou interdição de pista e risco de congestionamento em via de grande fluxo",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/11/motociclista-fica-ferido-apos-bater-na-traseira-de-caminhao-em-indaiatuba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-11T21:19:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/aOtwtiK5aU9YhwPpoXRNUADY2C0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/v/b/rtdwuwR8Ox8IRDgOofCQ/haoc.jpg"
+    },
+    {
+      "clusterId": "37f9940052061bdd",
+      "slug": "299d8c86dbd417af",
+      "titulo": "Casa desaba após barranco ceder na Zona Norte de Manaus",
+      "resumo": "Uma casa de alvenaria de dois andares desabou na tarde de quinta-feira (11) na rua São Francisco, bairro Mauazinho, após o barranco onde estava localizada ceder. O imóvel ficava no topo do barranco, que já apresentava grande erosão, e o desabamento foi registrado em vídeo por moradores. Não houve feridos.",
+      "porQueImporta": "O incidente evidencia o risco de deslizamentos em áreas urbanas vulneráveis",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/11/casa-desaba-apos-barranco-ceder-na-zona-norte-de-manaus.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-11T21:13:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/QBx5xxiAnJnL-vQSsmFS_SOMMjE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/g/j2Ky2lREAvR6971qIFBw/g1-casa-desaba-manaus-mauazinho.jpg"
+    },
+    {
+      "clusterId": "e9ccfbdc01172a5f",
+      "slug": "372b65b83c2870d4",
+      "titulo": "Inmet emite alerta de perigo para tempestades no Vale do Paraíba",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta de perigo para tempestades no Vale do Paraíba e em outras áreas de São Paulo, válido entre 12h e 23h59 desta sexta-feira. O aviso prevê chuvas de 30 a 60 milímetros por hora, podendo acumular até 100 milímetros ao longo do dia, além de ventos entre 60 km/h e 100 km/h e risco de granizo. As cidades de Campos do Jordão, Aparecida, Guaratinguetá e Cachoeira Paulista estão entre as afetadas.",
+      "porQueImporta": "As condições previstas podem causar danos materiais e riscos à população local.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/11/inmet-emite-alerta-de-perigo-para-tempestades-e-preve-ventos-de-ate-100-kmh-no-vale-do-paraiba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-11T20:51:40.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/S6pJE6RAAsQpRf5HJ0PXssJxuZI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/7/JIPzp6RBKph0apZfEv8Q/foto-g1-4-.jpg"
+    },
+    {
+      "clusterId": "57f6c6819824c542",
+      "slug": "35a79a478947bc04",
+      "titulo": "Motorista e passageiro morrem em colisão entre carro e carreta na BR-354 em Formiga",
+      "resumo": "Dois homens, de 32 e 29 anos, foram vítimas de um acidente na manhã desta quinta-feira na BR-354, no km 517, em Formiga. O choque entre o carro que eles ocupavam e uma carreta ocorreu por volta das 6h55, segundo a Polícia Militar Rodoviária. Ambos os ocupantes morreram no local e foram retirados pelos bombeiros após ficarem presos às ferragens.",
+      "porQueImporta": "O acidente resultou em duas mortes e evidencia riscos nas rodovias federais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/11/motorista-e-passageiro-morrem-em-batida-entre-carro-e-carreta-na-br-354-em-formiga.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-11T20:49:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/hZFKfWnI1_C05XH323EhkouiV9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/CyyGfQQYymsIBpmB4DDg/acidnete.jfif"
+    },
+    {
+      "clusterId": "ab414080b37fd284",
+      "slug": "40c60abefe857aaf",
+      "titulo": "Prédio tombado do século XIX desaba em Maranguape",
+      "resumo": "Uma parte do Solar dos Motta, edifício histórico do século XIX localizado no centro de Maranguape, desabou na madrugada desta quinta-feira. Não houve feridos. O prédio havia sido tombado por lei municipal em 2003, mas os proprietários obtiveram judicialmente o destombamento. Os responsáveis não se manifestaram sobre o incidente.",
+      "porQueImporta": "O colapso evidencia riscos à preservação do patrimônio histórico local",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/11/predio-tombado-do-seculo-xix-desaba-em-maranguape.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-11T20:24:24.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/mzRSYF6KSDaVHPzxKV22WAZ_SSY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/9/Hpc25ATnAtr5fzuZ3XzA/desaba-hotel-foto-ok.jpg"
+    },
+    {
+      "clusterId": "6a0b10d5b600766d",
+      "slug": "f2b5475a86d3ac90",
+      "titulo": "Acidente da Air India mata mais de 250 pessoas e investigação segue sem conclusão",
+      "resumo": "Um voo da Air India sofreu acidente em 2025, resultando em mais de 250 mortes. As autoridades ainda não divulgaram as conclusões finais da investigação. Detalhes adicionais podem ser divulgados nos próximos dias. A causa do acidente permanece em disputa entre os investigadores.",
+      "porQueImporta": "O desastre representa uma das maiores tragédias aéreas recentes, afetando famílias e levantando questões sobre segurança da aviação",
       "categoria": "Acidente aéreo",
       "categoriaSlug": "acidente-aereo",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/queda-aviao-sobrevivente-estado-saude"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/vitimas-de-queda-de-aviao-em-sp-sao-veladas-nesta-quinta-feira-11/"
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c62192w4yl0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-06-11T14:49:39.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/captura-de-tela-88-1.png"
-    },
-    {
-      "clusterId": "296f3a43af4fe53b",
-      "slug": "24d8291d75a1250f",
-      "titulo": "Alerta de tempestade e granizo em 13 cidades de MG",
-      "resumo": "O Instituto Nacional de Meteorologia emitiu alerta de tempestade com grau de perigo para 13 cidades do Triângulo Mineiro e Alto Paranaíba. Espera-se chuvas de 30 a 60 mm/h ou 50 a 100 mm ao longo do dia, com ventos de 60 a 100 km/h e possibilidade de granizo. O aviso vale de 12h a 23h59 de sexta-feira.",
-      "porQueImporta": "O alerta pode afetar a segurança e a mobilidade das populações locais.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/11/alerta-de-tempestade-e-granizo-em-mg-13-cidades-do-triangulo-e-alto-paranaiba-podem-ser-afetadas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-11T16:15:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/WAALYlBOb5W4nLSQFdkT1YvFUAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/o/RGc8BlQI6zeBSE24gMbQ/whatsapp-image-2026-06-11-at-13.10.46.jpeg"
-    },
-    {
-      "clusterId": "52c691acf5584796",
-      "slug": "81ae1135909bebcb",
-      "titulo": "Fundação Rede Amazônica lança projeto de arte urbana e educação ambiental em Macapá",
-      "resumo": "A Fundação Rede Amazônica vai realizar intervenções artísticas em pontes de Macapá e promover encontros comunitários, usando a paixão pelo futebol como ponto de partida. O projeto \"Amapá em Campo\" inclui atividades gratuitas em áreas vulneráveis, com foco em educação ambiental. As intervenções ocorrerão nos dias 13, 19, 23 e 24 de junho.",
-      "porQueImporta": "O projeto busca transformar espaços públicos e fortalecer o sentimento de pertencimento nas comunidades locais.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/11/futebol-inspira-transformacao-de-comunidades-no-amapa-com-arte-urbana-e-acoes-ambientais.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-11T16:14:05.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/LY-5uNtz97ljm5LmkLe0w7c5SHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/V/IeMiA3Q6au6JuQjyV0JQ/whatsapp-image-2026-06-11-at-12.24.38.jpeg"
-    },
-    {
-      "clusterId": "ff0e91b778691fb0",
-      "slug": "b7737f0bbfb5c5aa",
-      "titulo": "Carro invade sinalização e colide com ambulância na Rodovia Raposo Tavares em São Roque",
-      "resumo": "Na manhã de quinta-feira, um carro bateu na barreira de concreto da Rodovia Raposo Tavares, no quilômetro 63, em São Roque (SP). Enquanto a equipe de resgate atendia as vítimas do primeiro acidente, outro veículo invadiu a área sinalizada e colidiu com a ambulância que estava no local. A socorrista e o motorista da ambulância ficaram feridos. O trecho foi isolado pelas autoridades.",
-      "porQueImporta": "O acidente interrompeu o tráfego e deixou profissionais de emergência feridos, exigindo ação de socorro e reforçando a necessidade de respeito à sinalização nas vias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/11/acidente-com-ambulancia-em-sao-roque.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-11T16:06:09.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9xyLMKCO_ur2MaWqdiO4kwwOFV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/3/58kLeaTJ2sERkUMmw4BA/captura-de-tela-2026-06-11-122452.jpg"
-    },
-    {
-      "clusterId": "8cd4a8a8756f8e0b",
-      "slug": "3978c477ef5705d4",
-      "titulo": "Motociclista morre após colidir com vaca solta na RJ-186",
-      "resumo": "Um jovem de 21 anos, identificado como Thiago Caldas Rodrigues, morreu ao colidir a motocicleta com uma vaca que estava solta na rodovia RJ-186, entre São José de Ubá e Itaperuna, no Noroeste Fluminense. O acidente ocorreu na noite de terça‑feira (10), nas proximidades do Lago das Palmeiras, onde havia outros animais soltos. Ele foi socorrido pelo SAMU e encaminhado a uma unidade de saúde em São José de Ubá, mas não resistiu aos ferimentos.",
-      "porQueImporta": "O caso evidencia o perigo que animais soltos representam para a segurança viária na região",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/06/11/motociclista-morre-apos-colidir-com-vaca-solta-na-rj-186-no-noroeste-fluminense.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-11T15:52:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lFY8TQhhYu_-XmSGqW2TkjrtDd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/KnPnA7T926gixamXiFAg/colisao.jpg"
-    },
-    {
-      "clusterId": "c2683b8bae6e8287",
-      "slug": "aacc3b81674b2f05",
-      "titulo": "Kombi pega fogo em avenida de BH e causa lentidão no trânsito",
-      "resumo": "Veículo incendiou próximo ao Parque Municipal e ao Palácio das Artes; ninguém ficou ferido e trânsito seguia lento no início da tarde",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/kombi-pega-fogo-em-avenida-de-bh-e-causa-lentidao-no-transito"
-        }
-      ],
-      "updatedAt": "2026-06-11T15:51:27.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/fogo_3x2.jpg"
-    },
-    {
-      "clusterId": "1cd23e1651cbc1ac",
-      "slug": "51818dbf26a7afe9",
-      "titulo": "Três pessoas morrem em acidente na BR-452 em Rio Verde, Goiás",
-      "resumo": "Um carro que tentou ultrapassar invadiu a pista contrária e colidiu frontalmente com um caminhão na manhã de quinta-feira, no km 3 da BR-452, em Rio Verde, Sudoeste de Goiás. As três vítimas estavam no carro que colidiu. A Polícia Rodoviária Federal informou que o motorista não conseguiu retornar à faixa de origem antes da colisão.",
-      "porQueImporta": "O acidente evidencia riscos de ultrapassagens em rodovias e a necessidade de atenção ao tráfego contrário",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/go/goias/noticia/2026/06/11/acidente-deixa-mortos-na-br-452.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-11T15:38:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kfO5WM_QwwKuXdJ00ohTOL-VyxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/U/MjkmJLT1Sha4qeR2n5xg/whatsapp-image-2026-06-11-at-12.15.41.jpeg"
-    },
-    {
-      "clusterId": "d5918c401ee6ccf1",
-      "slug": "c5bd022a7e0f1794",
-      "titulo": "Marvvila se apresenta em Teresópolis neste domingo",
-      "resumo": "A cantora Marvvila realizará um show na Casa de Portugal, em Teresópolis, na Região Serrana do Rio, neste domingo (14). A apresentação tem início às 15h e incluirá músicas conhecidas do público, como “Pode Escrever”, “A Pagodeira” e “Vendaval”. O evento deve ter clima descontraído, com romantismo e energia, e contará com a interação da artista com o público.",
-      "porQueImporta": "O concerto traz programação cultural para a região serrana, atraindo fãs de pagode e movimentando a economia local",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/06/11/marvvila-se-apresenta-em-teresopolis-neste-domingo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-11T15:37:29.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/eQ0OIhd4Okd_mx5bqO-6Ab6z3l8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/6/xRhUlERYaxAgdnEZAU0w/marvvila.jpg"
-    },
-    {
-      "clusterId": "3b0ef23809761467",
-      "slug": "05916166cb7b795e",
-      "titulo": "Inmet emite alerta de chuva e granizo para áreas de Goiás",
-      "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta de perigo potencial para tempestades em regiões do sudoeste de Goiás nesta quinta-feira. O aviso indica possibilidade de chuva de até 50 milímetros por dia, ventos entre 40 km/h e 60 km/h e queda de granizo. O órgão ressalta que o risco de cortes de energia, queda de árvores e alagamentos é considerado baixo.",
-      "porQueImporta": "A população deve ficar atenta às condições climáticas para adotar medidas de prevenção.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/go/goias/noticia/2026/06/11/goias-tem-alerta-de-chuva-e-granizo-diz-inmet.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-11T15:25:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/DIZKOsrc13kVXYyNL8vE5Q7bdMs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/D/31CACGTUy3wVCWpIp8Ag/ceu-fechado-em-goias.jpg"
-    },
-    {
-      "clusterId": "9e8c3ba35edf912a",
-      "slug": "9924e69d9b270521",
-      "titulo": "Moradores bloqueiam rodovia BR-364 após colapso da ponte Frei Paolino Baldassari em Sena Madureira",
-      "resumo": "Na manhã de quinta-feira, moradores de Sena Madureira, interior do Acre, fecharam a BR-364 com pneus na pista em protesto contra o desabamento da ponte sobre o Rio Iaco. O bloqueio interrompeu o tráfego nos dois sentidos, gerando filas de veículos e caminhões. A comunidade exige melhorias na infraestrutura e solução para a travessia. A Polícia Militar acompanhou a manifestação.",
-      "porQueImporta": "A obra interrompe o fluxo de transporte regional e evidencia a falta de manutenção de pontes rurais",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/06/11/moradores-fecham-rodovia-em-protesto-por-melhorias-apos-ponte-desabar-no-acre.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-11T15:25:50.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/l-1Cz0vgAcI1YCNlGALCa6l7cp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Q/jAnel7RdikC2XMX2M08A/midia-de-distribuicao-g1-2026-06-11t100307.956.png"
+      "updatedAt": "2026-06-11T20:19:13.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f09d/live/a7aea890-6595-11f1-8546-8f19e4fe30f4.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "5cbd9ce8b1808de4",
+          "slug": "f7db183defc9af4f",
+          "titulo": "Romário Raoni é réu por homicídio qualificado após atropelamento que matou servidor público em Juazeiro do Norte",
+          "resumo": "A Justiça aceitou a denúncia do Ministério Público do Ceará contra Romário Raoni Pereira Agostinho, acusado de atropelar e matar o servidor público Airton Ferreira Rocha após uma briga na saída de uma festa em 23 de maio, em Juazeiro do Norte. O réu foi indiciado pelos crimes de homicídio qualificado e tentativa de homicídio. O incidente ocorreu quando o grupo de pessoas foi atingido pelo veículo de Romário. O caso segue em tramitação judicial.",
+          "porQueImporta": "O caso evidencia questões de segurança no trânsito e responsabilidade penal em acidentes envolvendo veículos e pedestres",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/06/11/homem-que-atropelou-e-matou-servidor-publico-apos-briga-em-saida-de-festa-vira-reu-na-justica.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-11T22:13:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/pT8B_L3qbAQFX9Z-8pkObyShmIM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/vNEXL3Q9eOA6WZCB1N0Q/atropelador-1-.jpg"
+        },
+        {
+          "clusterId": "a4b4089afa14fa9b",
+          "slug": "7436c944b50e3582",
+          "titulo": "Menino de 9 anos morre após colisão entre bicicleta elétrica e ônibus no Complexo do Alemão",
+          "resumo": "Na tarde de quinta-feira, uma criança de 9 anos identificada como Theo Fernandes foi atingida por um ônibus da linha 485 enquanto circulava em bicicleta elétrica com o avô na Estrada do Itararé, no Complexo do Alemão, Zona Norte do Rio. Ele foi socorrido e encaminhado à UPA do Alemão, onde não resistiu aos ferimentos e morreu. O acidente ocorreu no sentido Inhaúma.",
+          "porQueImporta": "O caso evidencia riscos de convivência entre bicicletas elétricas e transporte público em áreas urbanas densas",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/11/menino-de-9-anos-morre-apos-acidente-entre-bicicleta-e-onibus-no-complexo-do-alemao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-11T22:09:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QzdYkPhcVj3rsSJQCvOfOfoBL5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/k/mZOpHLSPqBrRY2aDr9MQ/captura-de-tela-2026-06-11-180014.png"
+        },
+        {
+          "clusterId": "bc2ec1c476d3b109",
+          "slug": "67fe724fbbbd0352",
+          "titulo": "Poste cai sobre caminhão e deixa moradores sem energia na Pampulha",
+          "resumo": "Um poste de concreto rompeu e caiu sobre o baú de um caminhão que trafegava na Rua Joaquim Pereira, próximo ao cruzamento com a Avenida Dr. Álvaro Camargos, em Belo Horizonte. O incidente deixou pelo menos 69 imóveis sem energia elétrica no bairro Santa Branca. Segundo a Polícia Militar, ninguém ficou ferido. O motorista, de 52 anos, informou as autoridades sobre o ocorrido.",
+          "porQueImporta": "O acidente interrompeu o fornecimento de energia a dezenas de residências e evidencia riscos de infraestrutura urbana.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/11/poste-cai-sobre-caminhao-e-deixa-moradores-sem-energia-na-pampulha-em-bh.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-11T21:58:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wnJIkFCNMxwhe07ySHRojnYzHz4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/D/Bpah17Qva56oKBpBZWMw/design-sem-nome-17-.jpg"
+        },
+        {
+          "clusterId": "b9bfba0470f41f9f",
+          "slug": "d29794054d4a9cde",
+          "titulo": "Motociclista fica ferido após bater na traseira de caminhão em Indaiatuba",
+          "resumo": "Um motociclista colidiu com a traseira de um caminhão na Rodovia Santos Dumont, em Indaiatuba, na tarde de quinta-feira. A vítima sofreu várias fraturas e foi encaminhada ao Hospital Augusto de Oliveira Camargo. O acidente ocorreu por volta das 16h43, no sentido Campinas, e provocou a interdição da faixa 3 até as 17h40.",
+          "porQueImporta": "O acidente gerou interdição de pista e risco de congestionamento em via de grande fluxo",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/11/motociclista-fica-ferido-apos-bater-na-traseira-de-caminhao-em-indaiatuba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-11T21:19:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aOtwtiK5aU9YhwPpoXRNUADY2C0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/v/b/rtdwuwR8Ox8IRDgOofCQ/haoc.jpg"
+        },
+        {
+          "clusterId": "57f6c6819824c542",
+          "slug": "35a79a478947bc04",
+          "titulo": "Motorista e passageiro morrem em colisão entre carro e carreta na BR-354 em Formiga",
+          "resumo": "Dois homens, de 32 e 29 anos, foram vítimas de um acidente na manhã desta quinta-feira na BR-354, no km 517, em Formiga. O choque entre o carro que eles ocupavam e uma carreta ocorreu por volta das 6h55, segundo a Polícia Militar Rodoviária. Ambos os ocupantes morreram no local e foram retirados pelos bombeiros após ficarem presos às ferragens.",
+          "porQueImporta": "O acidente resultou em duas mortes e evidencia riscos nas rodovias federais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/11/motorista-e-passageiro-morrem-em-batida-entre-carro-e-carreta-na-br-354-em-formiga.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-11T20:49:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hZFKfWnI1_C05XH323EhkouiV9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/CyyGfQQYymsIBpmB4DDg/acidnete.jfif"
+        }
+      ]
+    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "52c691acf5584796",
-          "slug": "81ae1135909bebcb",
-          "titulo": "Fundação Rede Amazônica lança projeto de arte urbana e educação ambiental em Macapá",
-          "resumo": "A Fundação Rede Amazônica vai realizar intervenções artísticas em pontes de Macapá e promover encontros comunitários, usando a paixão pelo futebol como ponto de partida. O projeto \"Amapá em Campo\" inclui atividades gratuitas em áreas vulneráveis, com foco em educação ambiental. As intervenções ocorrerão nos dias 13, 19, 23 e 24 de junho.",
-          "porQueImporta": "O projeto busca transformar espaços públicos e fortalecer o sentimento de pertencimento nas comunidades locais.",
+          "clusterId": "4ce428de1f6052bc",
+          "slug": "c40d166135c38f2d",
+          "titulo": "Autor do segundo gol da Copa do Mundo quase morreu em campo",
+          "resumo": "Raúl Jiménez, do México, marcou o segundo gol da partida contra a África do Sul nesta quinta-feira (11/6). Em 2020, o atacante sofreu um grave acidente em campo que quase lhe custou a vida. O fato foi relembrado após o gol na Copa do Mundo.",
+          "porQueImporta": "Mostra a vulnerabilidade dos atletas a lesões graves mesmo em alto nível esportivo",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/esportes/autor-de-segundo-gol-da-copa-do-mundo-quase-morreu-em-campo"
+            }
+          ],
+          "updatedAt": "2026-06-11T21:41:36.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/mexico-e-africa-do-sul-na-copa-do-mundo-2026-metropoles-3-scaled.jpg"
+        },
+        {
+          "clusterId": "ab414080b37fd284",
+          "slug": "40c60abefe857aaf",
+          "titulo": "Prédio tombado do século XIX desaba em Maranguape",
+          "resumo": "Uma parte do Solar dos Motta, edifício histórico do século XIX localizado no centro de Maranguape, desabou na madrugada desta quinta-feira. Não houve feridos. O prédio havia sido tombado por lei municipal em 2003, mas os proprietários obtiveram judicialmente o destombamento. Os responsáveis não se manifestaram sobre o incidente.",
+          "porQueImporta": "O colapso evidencia riscos à preservação do patrimônio histórico local",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/11/futebol-inspira-transformacao-de-comunidades-no-amapa-com-arte-urbana-e-acoes-ambientais.ghtml"
+              "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/11/predio-tombado-do-seculo-xix-desaba-em-maranguape.ghtml"
             }
           ],
-          "updatedAt": "2026-06-11T16:14:05.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/LY-5uNtz97ljm5LmkLe0w7c5SHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/V/IeMiA3Q6au6JuQjyV0JQ/whatsapp-image-2026-06-11-at-12.24.38.jpeg"
+          "updatedAt": "2026-06-11T20:24:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mzRSYF6KSDaVHPzxKV22WAZ_SSY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/9/Hpc25ATnAtr5fzuZ3XzA/desaba-hotel-foto-ok.jpg"
         },
         {
-          "clusterId": "c2683b8bae6e8287",
-          "slug": "aacc3b81674b2f05",
-          "titulo": "Kombi pega fogo em avenida de BH e causa lentidão no trânsito",
-          "resumo": "Veículo incendiou próximo ao Parque Municipal e ao Palácio das Artes; ninguém ficou ferido e trânsito seguia lento no início da tarde",
+          "clusterId": "1295b9d2df185ba8",
+          "slug": "defc7e02995074c8",
+          "titulo": "Após previsão do Inmet, chuva se confirma e atinge áreas do DF",
+          "resumo": "Precipitação foi registrada em algumas localidades do DF nesta quinta-feira (11/6). Inmet prevê ventos intensos e granizo",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/kombi-pega-fogo-em-avenida-de-bh-e-causa-lentidao-no-transito"
+              "url": "https://www.metropoles.com/distrito-federal/apos-previsao-do-inmet-chuva-se-confirma-e-atinge-areas-do-df"
             }
           ],
-          "updatedAt": "2026-06-11T15:51:27.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/fogo_3x2.jpg"
-        },
-        {
-          "clusterId": "d5918c401ee6ccf1",
-          "slug": "c5bd022a7e0f1794",
-          "titulo": "Marvvila se apresenta em Teresópolis neste domingo",
-          "resumo": "A cantora Marvvila realizará um show na Casa de Portugal, em Teresópolis, na Região Serrana do Rio, neste domingo (14). A apresentação tem início às 15h e incluirá músicas conhecidas do público, como “Pode Escrever”, “A Pagodeira” e “Vendaval”. O evento deve ter clima descontraído, com romantismo e energia, e contará com a interação da artista com o público.",
-          "porQueImporta": "O concerto traz programação cultural para a região serrana, atraindo fãs de pagode e movimentando a economia local",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/06/11/marvvila-se-apresenta-em-teresopolis-neste-domingo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-11T15:37:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/eQ0OIhd4Okd_mx5bqO-6Ab6z3l8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/6/xRhUlERYaxAgdnEZAU0w/marvvila.jpg"
-        },
-        {
-          "clusterId": "9e8c3ba35edf912a",
-          "slug": "9924e69d9b270521",
-          "titulo": "Moradores bloqueiam rodovia BR-364 após colapso da ponte Frei Paolino Baldassari em Sena Madureira",
-          "resumo": "Na manhã de quinta-feira, moradores de Sena Madureira, interior do Acre, fecharam a BR-364 com pneus na pista em protesto contra o desabamento da ponte sobre o Rio Iaco. O bloqueio interrompeu o tráfego nos dois sentidos, gerando filas de veículos e caminhões. A comunidade exige melhorias na infraestrutura e solução para a travessia. A Polícia Militar acompanhou a manifestação.",
-          "porQueImporta": "A obra interrompe o fluxo de transporte regional e evidencia a falta de manutenção de pontes rurais",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/11/moradores-fecham-rodovia-em-protesto-por-melhorias-apos-ponte-desabar-no-acre.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-11T15:25:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/l-1Cz0vgAcI1YCNlGALCa6l7cp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Q/jAnel7RdikC2XMX2M08A/midia-de-distribuicao-g1-2026-06-11t100307.956.png"
-        },
-        {
-          "clusterId": "a05e0cc40c8261d5",
-          "slug": "a320802a85ae5aa1",
-          "titulo": "Piloto de 24 anos que morreu após avião cair em campo é velado em Jales",
-          "resumo": "Duas pessoas morrem em queda de avião de pequeno porte em Marília O piloto de 24 anos que morreu na queda de um avião de pequeno porte em um campo em Marília (SP) está sendo velado nesta quinta-feira (11) em Jales (SP), cidade a cerca de 270 quilômetros de distância. O sepultamento está previsto para ocorrer em Paranapuã (SP). Natural de Jales, Gabriel Maloni Mendes da Cruz trabalhava para o Grupo Ponzan Alimentos, indústria brasileira especializada na fabricação de temperos, molhos, farináceos e conservas. A morte do piloto causou comoção entre amigos, familiares e moradores da região. 📲…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/11/piloto-de-24-anos-que-morreu-apos-aviao-cair-em-campo-e-velado-em-jales.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-11T14:50:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/htF1aSN9ch4WtwjkgV82u0VSy6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/5/DlAcRZQYC1Dw9OB4FpWg/whatsapp-image-2026-06-11-at-10.29.31.jpeg"
-        },
-        {
-          "clusterId": "295d17a295ea54c1",
-          "slug": "bc660d1cf5f6b98f",
-          "titulo": "Amazona de 25 anos morre após cavalo empinar e cair sobre seu corpo",
-          "resumo": "Norte-americana estava cavalgando com os amigos à noite quando o acidente fatal aconteceu",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/amazona-de-25-anos-morre-apos-cavalo-empinar-e-cair-sobre-seu-corpo"
-            }
-          ],
-          "updatedAt": "2026-06-11T13:46:57.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/morte-amazona-eua-cavalo.jpg"
-        },
-        {
-          "clusterId": "f2f96a746b89d545",
-          "slug": "8dba9e5256190f2c",
-          "titulo": "Enchente em MG: mulher que sobreviveu agarrada a poste reabre comércio",
-          "resumo": "Edna Silva se tornou um símbolo da tragédia após as enchentes que atingiram MG; ela ficou mais de 3h agarrada em poste para sobreviver",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/enchente-em-mg-mulher-que-sobreviveu-agarrada-a-poste-reabre-comercio"
-            }
-          ],
-          "updatedAt": "2026-06-11T13:05:07.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/metadinha-2x-1781182653006.jpg"
-        },
-        {
-          "clusterId": "737110ef32e2cff1",
-          "slug": "e2a775ea62d44c53",
-          "titulo": "Chuva com granizo: 745 municípios de MG estão sob alerta; veja lista",
-          "resumo": "Nesta quinta (11/6), alerta está restrito a 16 cidades do Triângulo Mineiro, mas avança para 745 municípios mineiros na sexta-feira (12/6)",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/chuva-com-granizo-745-municipios-de-mg-estao-sob-alerta-veja-lista"
-            }
-          ],
-          "updatedAt": "2026-06-11T12:29:55.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/04/chuva-interior-sp-granizo-6.jpg"
-        },
-        {
-          "clusterId": "a5e31b20fc075cca",
-          "slug": "a3e14726d822540f",
-          "titulo": "\"Vai cair, vai cair\": vizinho testemunhou queda de avião em SP",
-          "resumo": "Vizinhos relataram momentos de desespero após queda do avião em campo de futebol usado para treinos de crianças. Duas pessoas morreram",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/vizinho-testemunhou-queda-aviao"
-            }
-          ],
-          "updatedAt": "2026-06-11T05:35:09.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/queda-aviao-marilia-2.jpg"
+          "updatedAt": "2026-06-11T16:59:57.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/chuva-junho-brasilia-11-de-junho.jpeg"
         },
         {
           "clusterId": "4cfd8836280327ea",
@@ -355,177 +340,25 @@
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "296f3a43af4fe53b",
-          "slug": "24d8291d75a1250f",
-          "titulo": "Alerta de tempestade e granizo em 13 cidades de MG",
-          "resumo": "O Instituto Nacional de Meteorologia emitiu alerta de tempestade com grau de perigo para 13 cidades do Triângulo Mineiro e Alto Paranaíba. Espera-se chuvas de 30 a 60 mm/h ou 50 a 100 mm ao longo do dia, com ventos de 60 a 100 km/h e possibilidade de granizo. O aviso vale de 12h a 23h59 de sexta-feira.",
-          "porQueImporta": "O alerta pode afetar a segurança e a mobilidade das populações locais.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/11/alerta-de-tempestade-e-granizo-em-mg-13-cidades-do-triangulo-e-alto-paranaiba-podem-ser-afetadas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-11T16:15:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WAALYlBOb5W4nLSQFdkT1YvFUAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/o/RGc8BlQI6zeBSE24gMbQ/whatsapp-image-2026-06-11-at-13.10.46.jpeg"
-        },
-        {
-          "clusterId": "3b0ef23809761467",
-          "slug": "05916166cb7b795e",
-          "titulo": "Inmet emite alerta de chuva e granizo para áreas de Goiás",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta de perigo potencial para tempestades em regiões do sudoeste de Goiás nesta quinta-feira. O aviso indica possibilidade de chuva de até 50 milímetros por dia, ventos entre 40 km/h e 60 km/h e queda de granizo. O órgão ressalta que o risco de cortes de energia, queda de árvores e alagamentos é considerado baixo.",
-          "porQueImporta": "A população deve ficar atenta às condições climáticas para adotar medidas de prevenção.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/06/11/goias-tem-alerta-de-chuva-e-granizo-diz-inmet.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-11T15:25:59.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DIZKOsrc13kVXYyNL8vE5Q7bdMs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/D/31CACGTUy3wVCWpIp8Ag/ceu-fechado-em-goias.jpg"
-        },
-        {
-          "clusterId": "4ad24b4d847aa3d0",
-          "slug": "9efb29575b35a5f7",
-          "titulo": "Menina de 3 anos morre após castelo inflável sair voando em tempestade",
-          "resumo": "Uma criança de três anos faleceu quando um castelo inflável foi levado pelos ventos de uma tempestade. Os ventos atingiram velocidades de até 80 km/h, causando o deslocamento do brinquedo. Em decorrência, a menina não resistiu aos ferimentos. Outros 11 indivíduos ficaram feridos.",
-          "porQueImporta": "O incidente destaca os riscos de estruturas infláveis em condições meteorológicas adversas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/menina-de-3-anos-morre-apos-castelo-inflavel-sair-voando-em-tempestade"
-            }
-          ],
-          "updatedAt": "2026-06-11T14:45:51.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/screenshot_2-1.jpg"
-        },
-        {
-          "clusterId": "d1028d694fcf7d29",
-          "slug": "0a0c069ab3bb5f7c",
-          "titulo": "Inmet emite alerta amarelo para risco de tempestade com ventania no DF",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta amarelo para a região do Distrito Federal, indicando risco de tempestade com ventania. A medida visa alertar a população sobre condições climáticas adversas que podem causar danos e transtornos. O alerta permanece em vigor até que as condições melhorem.",
-          "porQueImporta": "O alerta informa a população sobre possíveis riscos de ventos fortes e tempestades, permitindo precauções e evitando danos.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/inmet-emite-alerta-amarelo-para-risco-de-tempestade-com-ventania-no-df"
-            }
-          ],
-          "updatedAt": "2026-06-11T14:34:40.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/05/chuva-df-domingo-10.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "ff0e91b778691fb0",
-          "slug": "b7737f0bbfb5c5aa",
-          "titulo": "Carro invade sinalização e colide com ambulância na Rodovia Raposo Tavares em São Roque",
-          "resumo": "Na manhã de quinta-feira, um carro bateu na barreira de concreto da Rodovia Raposo Tavares, no quilômetro 63, em São Roque (SP). Enquanto a equipe de resgate atendia as vítimas do primeiro acidente, outro veículo invadiu a área sinalizada e colidiu com a ambulância que estava no local. A socorrista e o motorista da ambulância ficaram feridos. O trecho foi isolado pelas autoridades.",
-          "porQueImporta": "O acidente interrompeu o tráfego e deixou profissionais de emergência feridos, exigindo ação de socorro e reforçando a necessidade de respeito à sinalização nas vias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/11/acidente-com-ambulancia-em-sao-roque.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-11T16:06:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9xyLMKCO_ur2MaWqdiO4kwwOFV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/3/58kLeaTJ2sERkUMmw4BA/captura-de-tela-2026-06-11-122452.jpg"
-        },
-        {
-          "clusterId": "8cd4a8a8756f8e0b",
-          "slug": "3978c477ef5705d4",
-          "titulo": "Motociclista morre após colidir com vaca solta na RJ-186",
-          "resumo": "Um jovem de 21 anos, identificado como Thiago Caldas Rodrigues, morreu ao colidir a motocicleta com uma vaca que estava solta na rodovia RJ-186, entre São José de Ubá e Itaperuna, no Noroeste Fluminense. O acidente ocorreu na noite de terça‑feira (10), nas proximidades do Lago das Palmeiras, onde havia outros animais soltos. Ele foi socorrido pelo SAMU e encaminhado a uma unidade de saúde em São José de Ubá, mas não resistiu aos ferimentos.",
-          "porQueImporta": "O caso evidencia o perigo que animais soltos representam para a segurança viária na região",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/06/11/motociclista-morre-apos-colidir-com-vaca-solta-na-rj-186-no-noroeste-fluminense.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-11T15:52:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lFY8TQhhYu_-XmSGqW2TkjrtDd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/KnPnA7T926gixamXiFAg/colisao.jpg"
-        },
-        {
-          "clusterId": "1cd23e1651cbc1ac",
-          "slug": "51818dbf26a7afe9",
-          "titulo": "Três pessoas morrem em acidente na BR-452 em Rio Verde, Goiás",
-          "resumo": "Um carro que tentou ultrapassar invadiu a pista contrária e colidiu frontalmente com um caminhão na manhã de quinta-feira, no km 3 da BR-452, em Rio Verde, Sudoeste de Goiás. As três vítimas estavam no carro que colidiu. A Polícia Rodoviária Federal informou que o motorista não conseguiu retornar à faixa de origem antes da colisão.",
-          "porQueImporta": "O acidente evidencia riscos de ultrapassagens em rodovias e a necessidade de atenção ao tráfego contrário",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/06/11/acidente-deixa-mortos-na-br-452.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-11T15:38:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kfO5WM_QwwKuXdJ00ohTOL-VyxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/U/MjkmJLT1Sha4qeR2n5xg/whatsapp-image-2026-06-11-at-12.15.41.jpeg"
-        },
-        {
-          "clusterId": "7160f8d40f365a7f",
-          "slug": "8d57e902a94bfe5d",
-          "titulo": "Engavetamento entre três carros é registrado em rodovia no interior de SP",
-          "resumo": "Na manhã de quinta-feira, três veículos se envolveram em um engavetamento na Rodovia Francisco Viana (SP-303), no quilômetro 17, em Timburi, SP. As equipes da Polícia Militar de Timburi e Bernardino de Campos foram acionadas para atender a ocorrência. As imagens mostram os carros com partes da carroceria quebradas e um deles totalmente destruído. Não foram divulgados detalhes sobre feridos ou vítimas.",
-          "porQueImporta": "O acidente pode gerar congestionamento e riscos de segurança para os usuários da rodovia",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/11/engavetamento-entre-tres-carros-e-registrado-em-rodovia-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-11T15:09:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/LxJAWDzpiwkKzYpuk9PkT6X5Bws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/O/3eW5kVQlGpNZLAUA61VA/whatsapp-image-2026-06-11-at-10.08.04.jpg"
-        }
-      ]
-    },
-    {
       "slug": "acidente-aereo",
       "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "6011074b0f13cb8c",
-          "slug": "ccb232f84a800a2b",
-          "titulo": "Acidente aéreo em Marília deixa dois mortos e um sobrevivente",
-          "resumo": "Um avião caiu em Marília, interior de São Paulo, resultando na morte dos pilotos Gabriel Maloni da Cruz e Henrique Guariente. Um passageiro sobreviveu ao acidente e foi socorrido em estado grave. As vítimas foram veladas na quinta-feira (11).",
-          "porQueImporta": "O incidente destaca a importância da segurança aérea e o impacto imediato na comunidade local.",
+          "clusterId": "6a0b10d5b600766d",
+          "slug": "f2b5475a86d3ac90",
+          "titulo": "Acidente da Air India mata mais de 250 pessoas e investigação segue sem conclusão",
+          "resumo": "Um voo da Air India sofreu acidente em 2025, resultando em mais de 250 mortes. As autoridades ainda não divulgaram as conclusões finais da investigação. Detalhes adicionais podem ser divulgados nos próximos dias. A causa do acidente permanece em disputa entre os investigadores.",
+          "porQueImporta": "O desastre representa uma das maiores tragédias aéreas recentes, afetando famílias e levantando questões sobre segurança da aviação",
           "categoria": "Acidente aéreo",
           "categoriaSlug": "acidente-aereo",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/queda-aviao-sobrevivente-estado-saude"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/vitimas-de-queda-de-aviao-em-sp-sao-veladas-nesta-quinta-feira-11/"
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c62192w4yl0o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "updatedAt": "2026-06-11T14:49:39.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/captura-de-tela-88-1.png"
+          "updatedAt": "2026-06-11T20:19:13.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f09d/live/a7aea890-6595-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
           "clusterId": "e5240506b1b41bda",
@@ -543,6 +376,52 @@
           ],
           "updatedAt": "2026-06-11T08:36:03.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/OP0c_TwBWIAvSvR84qI6REPVoRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/M/AuZkQGTlmgxICbS4I0xQ/2026-06-11t061404z-1111135904-rc2irlalflnu-rtrmadp-3-pakistan-crash.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "37f9940052061bdd",
+          "slug": "299d8c86dbd417af",
+          "titulo": "Casa desaba após barranco ceder na Zona Norte de Manaus",
+          "resumo": "Uma casa de alvenaria de dois andares desabou na tarde de quinta-feira (11) na rua São Francisco, bairro Mauazinho, após o barranco onde estava localizada ceder. O imóvel ficava no topo do barranco, que já apresentava grande erosão, e o desabamento foi registrado em vídeo por moradores. Não houve feridos.",
+          "porQueImporta": "O incidente evidencia o risco de deslizamentos em áreas urbanas vulneráveis",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/11/casa-desaba-apos-barranco-ceder-na-zona-norte-de-manaus.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-11T21:13:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QBx5xxiAnJnL-vQSsmFS_SOMMjE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/g/j2Ky2lREAvR6971qIFBw/g1-casa-desaba-manaus-mauazinho.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "e9ccfbdc01172a5f",
+          "slug": "372b65b83c2870d4",
+          "titulo": "Inmet emite alerta de perigo para tempestades no Vale do Paraíba",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta de perigo para tempestades no Vale do Paraíba e em outras áreas de São Paulo, válido entre 12h e 23h59 desta sexta-feira. O aviso prevê chuvas de 30 a 60 milímetros por hora, podendo acumular até 100 milímetros ao longo do dia, além de ventos entre 60 km/h e 100 km/h e risco de granizo. As cidades de Campos do Jordão, Aparecida, Guaratinguetá e Cachoeira Paulista estão entre as afetadas.",
+          "porQueImporta": "As condições previstas podem causar danos materiais e riscos à população local.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/11/inmet-emite-alerta-de-perigo-para-tempestades-e-preve-ventos-de-ate-100-kmh-no-vale-do-paraiba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-11T20:51:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/S6pJE6RAAsQpRf5HJ0PXssJxuZI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/7/JIPzp6RBKph0apZfEv8Q/foto-g1-4-.jpg"
         }
       ]
     }
