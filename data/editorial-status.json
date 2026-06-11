@@ -1,15 +1,14 @@
 {
-  "ranAt": "2026-06-11T12:29:03.239Z",
+  "ranAt": "2026-06-11T16:39:11.020Z",
   "editionDate": "2026-06-11",
-  "hourUtc": 12,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 16,
+  "outcome": "generated",
+  "reason": "\"Acidentes e alertas climáticos dominam a edição de hoje\" (4 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
-    "groq: reprovado — entidades fora do material: belo, horizonte",
-    "cerebras: reprovado — entidades fora do material: alem"
+    "groq: ok"
   ]
 }
