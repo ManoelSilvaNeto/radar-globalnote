@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-06-11T16:39:11.020Z",
-  "editionDate": "2026-06-11",
-  "hourUtc": 16,
-  "outcome": "generated",
-  "reason": "\"Acidentes e alertas climáticos dominam a edição de hoje\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-06-12T05:17:40.413Z",
+  "editionDate": "2026-06-12",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
