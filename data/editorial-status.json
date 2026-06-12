@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-06-12T05:17:40.413Z",
+  "ranAt": "2026-06-12T12:00:23.846Z",
   "editionDate": "2026-06-12",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Acidentes e fenômenos climáticos dominam o panorama do dia\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
