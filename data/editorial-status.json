@@ -1,15 +1,15 @@
 {
-  "ranAt": "2026-06-13T17:54:00.113Z",
+  "ranAt": "2026-06-13T21:48:29.763Z",
   "editionDate": "2026-06-13",
-  "hourUtc": 17,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 21,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e práticas radicais dominam a edição, enquanto ocorrências de fauna e clima permanecem pontuais\" (3 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
     "groq: erro — sem cota (429)",
-    "cerebras: reprovado — poucos parágrafos (1)"
+    "cerebras: ok"
   ]
 }
