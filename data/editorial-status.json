@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-06-16T22:31:09.506Z",
-  "editionDate": "2026-06-16",
-  "hourUtc": 22,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: reprovado — entidades fora do material: tambem, alem"
-  ]
+  "ranAt": "2026-06-17T05:27:31.182Z",
+  "editionDate": "2026-06-17",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
