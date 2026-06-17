@@ -1,418 +1,283 @@
 {
   "date": "2026-06-17",
-  "generatedAt": "2026-06-17T19:07:38.893Z",
+  "generatedAt": "2026-06-17T22:22:12.758Z",
   "home": [
     {
-      "clusterId": "9a1e533d7fc2d4ff",
-      "slug": "cf4098a7cdf05845",
-      "titulo": "Passista da Cubango morre após explosão em apartamento em Niterói",
-      "resumo": "Marielly da Silva de Oliveira, de 25 anos, passista da Acadêmicos do Cubango, morreu nesta terça-feira (17) após duas semanas internada por ferimentos causados em explosão que atingiu seu apartamento em Niterói. A escola de samba confirmou a morte nas redes sociais. O acidente ocorreu no fim de maio e deixou a jovem gravemente ferida.",
-      "porQueImporta": "O caso destaca a gravidade de explosões residenciais e a necessidade de medidas de segurança em ambientes urbanos.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
+      "clusterId": "240207ff96eab638",
+      "slug": "0d26c4f102c5523a",
+      "titulo": "Incêndio em empresa agrícola em Coroados (SP) causado por curto-circuito",
+      "resumo": "Um curto-circuito nas instalações de uma empresa do setor agrícola em Coroados (SP) provocou incêndio na tarde de quarta-feira. As equipes de combate foram acionadas e o fogo foi contido. Nenhum trabalhador ficou ferido, pois todos evacuaram o local ao perceber as chamas.",
+      "porQueImporta": "O caso evidencia a importância de medidas de prevenção e resposta rápida a incêndios em ambientes industriais",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/17/curto-circuito-provoca-incendio-em-empresa-agricola-de-coroados.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-17T22:14:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/dpcEpOaHb1MNVHzbec2xP8HBtdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/5/AQrFUDQLWudoSgGcj58Q/formato-padrao-imagens-g1-2026-06-17t174759.071.png"
+    },
+    {
+      "clusterId": "aa261b1263194685",
+      "slug": "4d51a25f7b692e51",
+      "titulo": "Defesa Civil de BH emite alerta de baixa temperatura até segunda-feira",
+      "resumo": "A Defesa Civil de Belo Horizonte divulgou, nesta quarta-feira, um alerta de baixas temperaturas para a capital. As mínimas podem ficar abaixo de 12 °C nas primeiras horas da manhã até a próxima segunda-feira. O fenômeno está associado à formação de nuvem orográfica na Serra do Curral, que gera nevoeiro nas áreas elevadas.",
+      "porQueImporta": "Temperaturas mais baixas aumentam o risco de hipotermia e afetam a mobilidade urbana",
+      "categoria": "Frio",
+      "categoriaSlug": "frio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/17/defesa-civil-de-bh-emite-alerta-de-baixa-temperatura-ate-semana-que-vem-veja-previsao-do-tempo.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-17T22:12:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/XGzAi9qD_cYbuVylYPavuRIB13E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/C/dOAwdkSZGKZyTZs88RvQ/nuvens-cascata.gif"
+    },
+    {
+      "clusterId": "a7a355c829521386",
+      "slug": "51dbdc639cf2d3e4",
+      "titulo": "Mortes no trânsito caem 38,5% em maio na Baixada Santista",
+      "resumo": "Em maio de 2026, foram registradas 16 mortes em acidentes de trânsito na Baixada Santista, queda de 38,5% em relação ao mesmo mês de 2025, quando foram 26 vítimas. O número de motociclistas mortos diminuiu de nove para oito, e não houve óbitos entre ocupantes de automóveis. Os dados são do Sistema de Informações Gerenciais de Sinistros de Trânsito do Estado de São Paulo (Infosiga).",
+      "porQueImporta": "A redução evidencia mudanças na segurança viária da região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/17/mortes-no-transito-caem-385percent-em-maio-na-baixada-santista-veja.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-17T22:10:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/kxHn_A9vBOXZ10-halmKaKH2hHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/8/9qtJsDQbuUR7MoCQHDnQ/foto-ilustrativa-acidnete.jpg"
+    },
+    {
+      "clusterId": "591f9aa4fd2d3a1f",
+      "slug": "ee8960cfb86eb0e6",
+      "titulo": "Carro invade loja de roupas em Vinhedo",
+      "resumo": "Um veículo fez a conversão de rua, subiu a calçada e colidiu com a vitrine de uma loja de roupas em Vinhedo, na tarde desta terça-feira. A câmera de segurança registrou a invasão, com móveis e produtos caindo ao chão. A proprietária informou que a Polícia Militar não foi acionada e que a motorista do carro se comprometeu a reparar os danos.",
+      "porQueImporta": "O incidente evidencia a vulnerabilidade de estabelecimentos comerciais a acidentes de trânsito em áreas urbanas",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/17/video-mostra-momento-carro-invade-loja-roupas-vinhedo.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-17T22:04:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/FYTKS4P0Ou8Rls8qjRdkrpN_EqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Q/QGWB1GToAzsHOWo8FhcA/design-sem-nome-73-.jpg"
+    },
+    {
+      "clusterId": "9d9b015fb2c49518",
+      "slug": "fb9442b4288dcaf0",
+      "titulo": "22 municípios do Amazonas em situação de emergência por cheia",
+      "resumo": "Vinte e dois municípios do Amazonas foram declarados em situação de emergência devido à cheia dos rios, segundo boletim do Governo do Estado divulgado nesta quarta-feira. Até o momento, 223.259 pessoas foram afetadas pelas inundações em diferentes regiões do estado. As cidades incluídas na medida de emergência abrangem áreas como Atalaia do Norte, Barreirinha, Benjamin Constant, entre outras. As autoridades monitoram a evolução da situação para adoção de novas medidas de apoio.",
+      "porQueImporta": "A emergência afeta centenas de milhares de residentes, demandando respostas de socorro e recursos públicos",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/17/cheia-no-amazonas-deixa-22-municipios-em-emergencia-e-afeta-mais-de-223-mil-pessoas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-17T22:00:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/gtxZKm1foAHpLKhvDl1GYtnhNsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/N/zkMC28QSCz2dq4qPvI4g/rio-negro-durante-cheia-de-2026-em-manaus-foto-jadson-lima-g1-am.jpg"
+    },
+    {
+      "clusterId": "93230e04b1e28ffe",
+      "slug": "4f2995c4e8e9b7af",
+      "titulo": "Jovem de bicicleta elétrica fica em estado grave após atropelamento em Taubaté",
+      "resumo": "Uma jovem de 20 anos foi atropelada por um carro que trafegava na contramão na Avenida Washington Luís, no Jardim Santa Tereza, em Taubaté, na madrugada de sábado. Ela estava em uma bicicleta elétrica e foi encaminhada ao hospital em estado grave, necessitando de transfusão de sangue tipo O+. A família solicitou doações de sangue para o tratamento da vítima.",
+      "porQueImporta": "O caso evidencia os riscos de acidentes de trânsito envolvendo bicicletas elétricas e a necessidade de apoio sanguíneo emergencial",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/17/jovem-de-bicicleta-eletrica-fica-em-estado-grave-apos-atropelamento-por-carro-na-contramao-familia-pede-doacao-de-sangue.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-17T21:43:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ndSQ1NNk1YQL91esEgxDKNJWOXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/r/ADnjifRRymsw4zSkmB1g/foto-g1.jpg"
+    },
+    {
+      "clusterId": "94774aa94c2fe909",
+      "slug": "8fa0da43cc553ebf",
+      "titulo": "Trabalhador morre soterrado em obra na Asa Sul",
+      "resumo": "Genilson dos Santos Abreu, de 49 anos, foi soterrado e morreu durante a construção de um prédio na 116 Sul, na Asa Sul, nesta terça-feira. O acidente ocorreu no local da obra e resultou em óbito imediato do trabalhador.",
+      "porQueImporta": "O caso evidencia riscos de segurança em canteiros de obras urbanos",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/lucas-pasin/passista-da-cubango-morre-apos-explosao-em-apartamento-em-niteroi"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/17/passista-da-cubango-morre-apos-duas-semanas-internada-por-ferimentos-causados-em-explosao-de-apartamento.ghtml"
+          "url": "https://www.metropoles.com/distrito-federal/na-mira/operador-detalha-acidente-que-matou-trabalhador-em-obra-na-asa-sul"
         }
       ],
-      "updatedAt": "2026-06-17T18:31:11.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/passista-academicos-do-cubango-morre-explosao-rj.jpg"
+      "updatedAt": "2026-06-17T21:41:10.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/obra-de-predio-da-lotus-desaba-na-116-sul-e-trabalhador-morre-metropoles-3-scaled.jpg"
     },
     {
-      "clusterId": "0aa48112afeff43c",
-      "slug": "8efcd01d2df7d8d2",
-      "titulo": "Motociclista morre após colisão com ciclista em Pirapora",
-      "resumo": "Na quarta-feira, um motociclista colidiu com um ciclista na Avenida Benjamin Constant, em Pirapora. O ciclista realizou uma manobra irregular para acessar o bairro Santo Antônio, entrando repentinamente na frente da moto. O impacto fez o motociclista ser arremessado a vários metros e bater a cabeça no meio-fio, resultando em morte. A Polícia Militar informou o ocorrido.",
-      "porQueImporta": "O acidente evidencia riscos de manobras inesperadas no trânsito urbano",
+      "clusterId": "57bbc7eb2f0920ee",
+      "slug": "3d7fc1a21cbe7e76",
+      "titulo": "Servidor da Sefaz é atropelado por motocicleta na Avenida do CPA em Cuiabá",
+      "resumo": "Imagens de câmera de segurança divulgadas nesta terça‑feira mostram José Gilmário Oliveira, de 72 anos, servidor da Secretaria de Estado de Fazenda, sendo atingido por uma motocicleta ao tentar atravessar a Avenida do CPA, em Cuiabá. O atropelamento ocorreu na manhã da sexta‑feira, quando a vítima se dirigia ao trabalho. Inicialmente, a família suspeitou de um carro, mas o vídeo revelou a motocicleta como responsável. A ocorrência foi registrada pelas autoridades locais.",
+      "porQueImporta": "O caso evidencia a vulnerabilidade de pedestres em vias urbanas movimentadas",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/17/motociclista-morre-ao-bater-cabeca-no-meio-fio-em-acidente-com-ciclista-em-pirapora.ghtml"
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/17/video-mostra-momento-que-servidor-da-sefaz-e-atropelado-por-motocicleta-na-avenida-do-cpa.ghtml"
         }
       ],
-      "updatedAt": "2026-06-17T18:44:29.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/a1dLrSaZMmtvq18tB3PzFRLtOOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/XTYpysT2SFIrs0xGUrgw/gemini-generated-image-jdzqo5jdzqo5jdzq-1-.png"
+      "updatedAt": "2026-06-17T21:38:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/jDOlVJGXSms48y9II_VrDvJs17g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/5/k3RTXrTU2aNjBBf8YE8g/jose-gilmario.png"
     },
     {
-      "clusterId": "72756a270416fb65",
-      "slug": "6d9c7851e21b32f8",
-      "titulo": "Barricadas são queimadas em via de Jacarepaguá após desaparecimento de jovem da Covanca",
-      "resumo": "Barricadas foram queimadas na Rua Geremário Dantas, em Jacarepaguá, Zona Sudoeste, na tarde desta terça-feira (16). O motivo seria o desaparecimento de um jovem da região desde a manhã. De acordo com moradores, um rapaz identificado apenas como Luan saiu de casa para trabalhar em Madureira, onde conserta celulares e não retornou para casa. Alguns falam em possível prisão do rapaz. Às 14h45, bombeiros do Quartel de Jacarepaguá foram acionados para apagar um incêndio em barricadas em um dos acessos à comunidade da Covanca, na rua Geremário Dantas, próximo a um posto de saúde. Agora no g1 A…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/17/incendio-em-vias-de-jacarepagua.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-17T18:42:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/tGdbpxyQonw9TZ-LMXSv1iewo6U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/8/Ey0G1AT1ycZaNFQa9z4g/manifesta-tanque.jpeg"
-    },
-    {
-      "clusterId": "e1bba3cc5884a107",
-      "slug": "d1733442ec582263",
-      "titulo": "Carreta carregada com biscoitos tombou na BR-324 e causou lentidão",
-      "resumo": "Uma carreta com carga de biscoitos tombou na tarde de quarta-feira (17) no trecho da BR-324 em São Sebastião do Passe, sentido Salvador‑Feira de Santana. Não houve feridos, mas a carga ficou espalhada no canteiro central e parte dos produtos foi saqueada por quem passava. O acidente provocou congestionamento na região, sem estimativa de extensão ainda divulgada pela Polícia Rodoviária Federal.",
-      "porQueImporta": "O incidente interrompe o fluxo de veículos e gera risco de perdas e insegurança para os usuários da rodovia",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/17/carreta-tomba-na-br-324.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-17T18:34:57.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/I8pO9u0Cuu-YRnOm8vU-cbaAV2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/j/8nvVerTAy9gAOevIeyCw/whatsapp-image-2025-06-20-at-10.45.55.png"
-    },
-    {
-      "clusterId": "fb5350becfb2772d",
-      "slug": "7baeec4cab0b9834",
-      "titulo": "Homem morre após explosão de veículo em Sapé, Paraíba",
-      "resumo": "Um homem de 30 anos morreu na manhã de 17 de junho após a explosão e incêndio de um veículo na comunidade Sapucaia, em Sapé, Paraíba. O Corpo de Bombeiros registrou o acidente por volta das 7h, quando um bombeiro avistou a cena e acionou as equipes. Os bombeiros encontraram a vítima com ferimentos graves em várias partes do corpo antes de seu falecimento.",
-      "porQueImporta": "O caso evidencia a necessidade de medidas de segurança e resposta rápida em incidentes com risco de explosão em áreas residenciais",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/17/homem-morre-apos-explosao-de-veiculo-seguida-de-incendio-em-sape-na-pb.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-17T18:32:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Al87l0pIfWVJHa-9F2JBoCwMQPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/T/HMSvRGShOWXLi7HXKhmA/whatsapp-image-2026-06-17-at-14.40.05.jpeg"
-    },
-    {
-      "clusterId": "7519b07ac62aad67",
-      "slug": "55d212e05a5fa558",
-      "titulo": "Lula pede a Trump que não interfira nas eleições brasileiras",
-      "resumo": "Durante a cúpula do G7 em Évian-les-Bains, na França, o presidente Lula pediu ao ex-presidente dos EUA, Donald Trump, que não se envolva nas eleições do Brasil. Lula afirmou que o país havia se tornado \"um pouco perigoso, politicamente\". Trump respondeu que o Brasil tem o direito de decidir seu futuro. A conversa ocorreu em meio a discussões sobre a situação política brasileira.",
-      "porQueImporta": "A declaração destaca tensões diplomáticas e a influência externa nas eleições brasileiras",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes/nao-se-meta-nas-eleicoes-do-brasil-diz-lula-a-trump/"
-        }
-      ],
-      "updatedAt": "2026-06-17T18:24:44.000Z"
-    },
-    {
-      "clusterId": "a7921c2ca95a070c",
-      "slug": "9fc8c6269acff8b9",
-      "titulo": "Construtora responsável pela ponte Frei Paolino não apresenta plano emergencial e solicita prorrogação",
-      "resumo": "A Justiça do Acre determinou que a Construtora Cidade Ltda adotasse medidas emergenciais para proteger a população após o desabamento da ponte Frei Paolino Baldassari, em Sena Madureira. A Procuradoria‑Geral do Estado informou que a empresa ainda não entregou o plano definitivo e pediu mais tempo para concluir o levantamento de dados. O pedido de prorrogação foi registrado após a ocorrência que deixou quatro feridos.",
-      "porQueImporta": "A falta de medidas emergenciais pode manter a população em risco até que a ponte seja reparada ou substituída.",
+      "clusterId": "577400263673e6c8",
+      "slug": "8944c20179e895cf",
+      "titulo": "Pintor sofre descarga elétrica e é arremessado contra parede em Campo Grande",
+      "resumo": "Um pintor de 38 anos ficou gravemente ferido ao tocar um cabo de alumínio em uma rede elétrica enquanto trabalhava no telhado de uma empresa no bairro Coronel Antonino, em Campo Grande. A descarga provocou queimaduras de terceiro grau e o fez ser arremessado contra uma parede. O Corpo de Bombeiros atendeu ao incidente na tarde de quarta-feira (17).",
+      "porQueImporta": "Acidentes elétricos podem causar lesões graves e demandam atenção a procedimentos de segurança em obras.",
       "categoria": "Acidente",
       "categoriaSlug": "acidente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/06/17/ponte-frei-paolino-construtora-pede-mais-prazo-para-entregar-plano-de-medidas.ghtml"
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/17/pintor-sofre-descarga-eletrica-e-e-arremessado-contra-parede-apos-encostar-em-fiacao-em-campo-grande.ghtml"
         }
       ],
-      "updatedAt": "2026-06-17T18:21:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6PGL0KNG84duEoPJ9pu-DQR1Ikg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/F/nUFX8WSMuFuqpa6W9hMQ/midia-de-distribuicao-g1-62-.png"
+      "updatedAt": "2026-06-17T21:11:29.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zRLaGvjyD8On6W2-JBa_doB8Qxc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/g/IAbiV9QB2cAhLjwBqMPw/pintor.jpg"
     },
     {
-      "clusterId": "ea57a60c95a7712a",
-      "slug": "9447c96b54a413d7",
-      "titulo": "Homenagem a Diogo Jota ocorre antes de partida de Portugal na Copa do Mundo",
-      "resumo": "Antes da partida entre Portugal e República Democrática do Congo, a seleção foi homenageada por um ex-jogador português que morreu em acidente no ano passado. Os pais da vítima compareceram ao estádio nos Estados Unidos e se emocionaram durante o tributo. A cerimônia faz parte da estreia da equipe no Mundial de 2026.",
-      "porQueImporta": "O evento destaca a memória de um atleta falecido e a presença de sua família em um palco internacional.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "8ba5fcae7d6c484c",
+      "slug": "7a1c37a71824c98c",
+      "titulo": "Corpo de idoso desaparecido após canoa naufragar em São Luiz é encontrado",
+      "resumo": "O corpo de João Maria Guilherme Zeferino, 67 anos, foi localizado na manhã desta quarta‑feira em São Luiz, Roraima, a cerca de 12,5 km da vila onde a canoa afundou. O idoso havia desaparecido desde domingo, quando a embarcação naufragou no rio Anauá. As equipes de resgate do Corpo de Bombeiros confirmaram a localização do corpo na vicinal 10.",
+      "porQueImporta": "O caso evidencia os perigos das travessias fluviais na região e a importância das operações de busca e salvamento.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/diogo-jota-e-homenageado-na-copa-do-mundo-antes-de-portugal-x-rd-congo/"
+          "name": "G1",
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/17/corpo-de-idoso-que-desapareceu-apos-canoa-naufragar-em-sao-luiz-e-encontrado.ghtml"
         }
       ],
-      "updatedAt": "2026-06-17T18:07:02.000Z"
-    },
-    {
-      "clusterId": "3a3d289b91b90d14",
-      "slug": "d91eaf3711926c94",
-      "titulo": "Tempestade no Golfo do México pode evoluir para furacão nos EUA",
-      "resumo": "Uma tempestade formada no Golfo do México está avançando pela costa americana, segundo o analista de clima Pedro Côrtes da CNN Brasil. Ele indica que, dependendo da intensidade, o sistema pode ser classificado como furacão, marcando a primeira ocorrência da temporada nos Estados Unidos. A análise destaca a necessidade de monitoramento contínuo da evolução do fenômeno.",
-      "porQueImporta": "A possível formação de um furacão traz riscos de fortes ventos e chuvas intensas para áreas costeiras",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/analise-primeiro-furacao-da-temporada-deve-se-formar-nos-eua/"
-        }
-      ],
-      "updatedAt": "2026-06-17T18:02:28.000Z"
-    },
-    {
-      "clusterId": "5021d98c4be457b5",
-      "slug": "044a8d7f8faa4c87",
-      "titulo": "Corpo de Oliver Tree é identificado após acidente entre helicópteros",
-      "resumo": "No último domingo, duas aeronaves colidiram em voo, resultando em seis mortes. Oliver Tree foi uma das vítimas e seu corpo foi reconhecido pela arcada dentária. Foi o último a ser liberado do Instituto Médico Legal. O acidente ocorreu no dia 14 de junho.",
-      "porQueImporta": "O caso destaca a gravidade de acidentes aéreos e o processo de identificação de vítimas.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/morte-de-oliver-tree-corpo-foi-identificado-pela-arcada-dentaria"
-        }
-      ],
-      "updatedAt": "2026-06-17T18:01:40.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/oliver-tree-estilo.png"
+      "updatedAt": "2026-06-17T20:49:16.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wZ8uVGTdJGp3aewpH8lE_pvq5JI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/CI8xBsTECVRKdBdmhg2g/corpo-de-idoso-e-encontrado-pelos-bombeiros.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "72756a270416fb65",
-          "slug": "6d9c7851e21b32f8",
-          "titulo": "Barricadas são queimadas em via de Jacarepaguá após desaparecimento de jovem da Covanca",
-          "resumo": "Barricadas foram queimadas na Rua Geremário Dantas, em Jacarepaguá, Zona Sudoeste, na tarde desta terça-feira (16). O motivo seria o desaparecimento de um jovem da região desde a manhã. De acordo com moradores, um rapaz identificado apenas como Luan saiu de casa para trabalhar em Madureira, onde conserta celulares e não retornou para casa. Alguns falam em possível prisão do rapaz. Às 14h45, bombeiros do Quartel de Jacarepaguá foram acionados para apagar um incêndio em barricadas em um dos acessos à comunidade da Covanca, na rua Geremário Dantas, próximo a um posto de saúde. Agora no g1 A…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/17/incendio-em-vias-de-jacarepagua.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-17T18:42:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/tGdbpxyQonw9TZ-LMXSv1iewo6U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/8/Ey0G1AT1ycZaNFQa9z4g/manifesta-tanque.jpeg"
-        },
-        {
-          "clusterId": "7519b07ac62aad67",
-          "slug": "55d212e05a5fa558",
-          "titulo": "Lula pede a Trump que não interfira nas eleições brasileiras",
-          "resumo": "Durante a cúpula do G7 em Évian-les-Bains, na França, o presidente Lula pediu ao ex-presidente dos EUA, Donald Trump, que não se envolva nas eleições do Brasil. Lula afirmou que o país havia se tornado \"um pouco perigoso, politicamente\". Trump respondeu que o Brasil tem o direito de decidir seu futuro. A conversa ocorreu em meio a discussões sobre a situação política brasileira.",
-          "porQueImporta": "A declaração destaca tensões diplomáticas e a influência externa nas eleições brasileiras",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-eleicoes/nao-se-meta-nas-eleicoes-do-brasil-diz-lula-a-trump/"
-            }
-          ],
-          "updatedAt": "2026-06-17T18:24:44.000Z"
-        },
-        {
-          "clusterId": "ea57a60c95a7712a",
-          "slug": "9447c96b54a413d7",
-          "titulo": "Homenagem a Diogo Jota ocorre antes de partida de Portugal na Copa do Mundo",
-          "resumo": "Antes da partida entre Portugal e República Democrática do Congo, a seleção foi homenageada por um ex-jogador português que morreu em acidente no ano passado. Os pais da vítima compareceram ao estádio nos Estados Unidos e se emocionaram durante o tributo. A cerimônia faz parte da estreia da equipe no Mundial de 2026.",
-          "porQueImporta": "O evento destaca a memória de um atleta falecido e a presença de sua família em um palco internacional.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/diogo-jota-e-homenageado-na-copa-do-mundo-antes-de-portugal-x-rd-congo/"
-            }
-          ],
-          "updatedAt": "2026-06-17T18:07:02.000Z"
-        },
-        {
-          "clusterId": "7128f9502b958d5c",
-          "slug": "8691cc614a461483",
-          "titulo": "Duas pessoas morrem após colisão entre carretas na BR-230, no sul do MA",
-          "resumo": "Duas pessoas morrem após colisão entre carretas na BR-230, no sul do MA Duas pessoas morreram após uma colisão entre duas carretas na manhã desta quarta-feira (17), na BR-230, entre os municípios de Balsas e Riachão, próximo ao povoado Rio Coco. Um carro de passeio também se envolveu no acidente. De acordo com relatos de pessoas que passavam pelo local, as carretas seguiam em sentidos contrários quando um dos motoristas tentou desviar de um buraco e acabou colidindo com o outro veículo. Com o impacto da colisão, as cabines das duas carretas ficaram completamente destruídas. Parte da carga de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/17/duas-pessoas-morrem-apos-colisao-entre-carretas-na-br-230-no-sul-do-ma.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-17T17:24:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Bg7fF1lJR4y0JPlERIVqgz0k7kI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/u/eeukD2SiGfvBjUTb2BwQ/montagens-1920-x-1080-px-28-.png"
-        },
-        {
-          "clusterId": "89d945ac8b917526",
-          "slug": "4e4638796e04b42a",
-          "titulo": "Brasileiro morre afogado em lago dos EUA ao sair com amigos para se refrescar",
-          "resumo": "Gabriel Barbosa da Silva, de 22 anos, morreu afogado na segunda-feira (15) no Lago Wakeby, na cidade de Mashpee, no estado de Massachusetts, nos Estados Unidos. Natural de Águia Branca, no Noroeste do Espírito Santo, o jovem havia saído com amigos para se refrescar após um dia de calor intenso quando se afogou. Segundo a família, Gabriel morava nos Estados Unidos havia quase três anos e trabalhava com corte de árvores. Ele deixou o Espírito Santo em busca de melhores oportunidades e sonhava em construir uma vida melhor para a mãe, que enfrenta problemas de saúde. 📲 Clique aqui para seguir o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/17/brasileiro-morre-afogado-em-lago-dos-eua-ao-sair-com-amigos-para-se-refrescar.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-17T16:25:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3TXZQxDVUAeWp8Cr0R0DNiyBrX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/m/I3qQEwTRO6YBNEMKaNkQ/thumb-fotos-16-.jpg"
-        },
-        {
-          "clusterId": "56a28c845012e6d8",
-          "slug": "ec98c91bdb074737",
-          "titulo": "Família ainda aguarda corpo de advogada morta em safári na Namíbia",
-          "resumo": "Meire Aparecida morreu em um acidente com um carro de turismo em 29 de maio; desde então, família lida com a burocracia do translado",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/familia-ainda-aguarda-corpo-de-advogada-morta-em-safari-na-namibia"
-            }
-          ],
-          "updatedAt": "2026-06-17T16:17:36.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/advogada-morta-em-safari-3.jpeg"
-        },
-        {
-          "clusterId": "7ddd83c263392c20",
-          "slug": "e2cdc5cb127714a8",
-          "titulo": "SC: acidente fatal tem veículos incendiados e bloqueio total da BR-470",
-          "resumo": "Colisão envolvendo diversos carros que estavam no mesmo sentido ocorreu na manhã desta quarta-feira (17/6)",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/sc-acidente-fatal-tem-veiculos-incendiados-e-bloqueio-total-da-br-470"
-            }
-          ],
-          "updatedAt": "2026-06-17T13:29:47.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/acidente-com-morte-tem-veiculos-incendiados-e-bloqueio-total-da-br-470.jpg"
-        },
-        {
-          "clusterId": "504fc2aeedd34097",
-          "slug": "7b9d82dcd8ba512d",
-          "titulo": "O que se sabe sobre queda de bombardeiro da Força Aérea dos EUA que deixou 8 mortos na Califórnia",
-          "resumo": "Foto de arquivo mostra um bombardeiro americano B-52 Stratofortress em março. Getty Images Oito pessoas, incluindo dois funcionários da Boeing, morreram após um bombardeiro B-52 da Força Aérea dos EUA cair imediatamente depois de decolar da Base Aérea de Edwards, no sul da Califórnia. O incidente ocorreu às 11h20 no horário local (15h20 de Brasília) na segunda-feira (15/06), enquanto a aeronave realizava uma missão de teste de rotina. A queda lançou uma enorme coluna de fumaça preta no ar que podia ser vista a quilômetros de distância. \"Hoje, a Base Aérea de Edwards sofreu uma tragédia…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/16/o-que-se-sabe-sobre-queda-de-bombardeiro-da-forca-aerea-dos-eua-que-deixou-8-mortos-na-california.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-16T13:53:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/u2KhqwtOd2cB35MfLGhf36qNYqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/X/G9xkzWR3Gx7C5TWpQpHA/64a45790-6953-11f1-8546-8f19e4fe30f4.jpg.webp"
-        }
-      ]
-    },
     {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "0aa48112afeff43c",
-          "slug": "8efcd01d2df7d8d2",
-          "titulo": "Motociclista morre após colisão com ciclista em Pirapora",
-          "resumo": "Na quarta-feira, um motociclista colidiu com um ciclista na Avenida Benjamin Constant, em Pirapora. O ciclista realizou uma manobra irregular para acessar o bairro Santo Antônio, entrando repentinamente na frente da moto. O impacto fez o motociclista ser arremessado a vários metros e bater a cabeça no meio-fio, resultando em morte. A Polícia Militar informou o ocorrido.",
-          "porQueImporta": "O acidente evidencia riscos de manobras inesperadas no trânsito urbano",
+          "clusterId": "a7a355c829521386",
+          "slug": "51dbdc639cf2d3e4",
+          "titulo": "Mortes no trânsito caem 38,5% em maio na Baixada Santista",
+          "resumo": "Em maio de 2026, foram registradas 16 mortes em acidentes de trânsito na Baixada Santista, queda de 38,5% em relação ao mesmo mês de 2025, quando foram 26 vítimas. O número de motociclistas mortos diminuiu de nove para oito, e não houve óbitos entre ocupantes de automóveis. Os dados são do Sistema de Informações Gerenciais de Sinistros de Trânsito do Estado de São Paulo (Infosiga).",
+          "porQueImporta": "A redução evidencia mudanças na segurança viária da região.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/17/motociclista-morre-ao-bater-cabeca-no-meio-fio-em-acidente-com-ciclista-em-pirapora.ghtml"
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/17/mortes-no-transito-caem-385percent-em-maio-na-baixada-santista-veja.ghtml"
             }
           ],
-          "updatedAt": "2026-06-17T18:44:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/a1dLrSaZMmtvq18tB3PzFRLtOOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/XTYpysT2SFIrs0xGUrgw/gemini-generated-image-jdzqo5jdzqo5jdzq-1-.png"
+          "updatedAt": "2026-06-17T22:10:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kxHn_A9vBOXZ10-halmKaKH2hHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/8/9qtJsDQbuUR7MoCQHDnQ/foto-ilustrativa-acidnete.jpg"
         },
         {
-          "clusterId": "e1bba3cc5884a107",
-          "slug": "d1733442ec582263",
-          "titulo": "Carreta carregada com biscoitos tombou na BR-324 e causou lentidão",
-          "resumo": "Uma carreta com carga de biscoitos tombou na tarde de quarta-feira (17) no trecho da BR-324 em São Sebastião do Passe, sentido Salvador‑Feira de Santana. Não houve feridos, mas a carga ficou espalhada no canteiro central e parte dos produtos foi saqueada por quem passava. O acidente provocou congestionamento na região, sem estimativa de extensão ainda divulgada pela Polícia Rodoviária Federal.",
-          "porQueImporta": "O incidente interrompe o fluxo de veículos e gera risco de perdas e insegurança para os usuários da rodovia",
+          "clusterId": "591f9aa4fd2d3a1f",
+          "slug": "ee8960cfb86eb0e6",
+          "titulo": "Carro invade loja de roupas em Vinhedo",
+          "resumo": "Um veículo fez a conversão de rua, subiu a calçada e colidiu com a vitrine de uma loja de roupas em Vinhedo, na tarde desta terça-feira. A câmera de segurança registrou a invasão, com móveis e produtos caindo ao chão. A proprietária informou que a Polícia Militar não foi acionada e que a motorista do carro se comprometeu a reparar os danos.",
+          "porQueImporta": "O incidente evidencia a vulnerabilidade de estabelecimentos comerciais a acidentes de trânsito em áreas urbanas",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/17/carreta-tomba-na-br-324.ghtml"
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/17/video-mostra-momento-carro-invade-loja-roupas-vinhedo.ghtml"
             }
           ],
-          "updatedAt": "2026-06-17T18:34:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/I8pO9u0Cuu-YRnOm8vU-cbaAV2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/j/8nvVerTAy9gAOevIeyCw/whatsapp-image-2025-06-20-at-10.45.55.png"
+          "updatedAt": "2026-06-17T22:04:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FYTKS4P0Ou8Rls8qjRdkrpN_EqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Q/QGWB1GToAzsHOWo8FhcA/design-sem-nome-73-.jpg"
         },
         {
-          "clusterId": "c08a57c9da84ba52",
-          "slug": "d15446ba60a561cd",
-          "titulo": "Mulher encontrada degolada após morte do marido em acidente de trânsito",
-          "resumo": "O casal Diego da Silva Rodrigues, 35, e Sara Letícia Rodrigues, 25, morreu na manhã de terça‑feira (16) em Itapetininga (SP). O homem, motorista de transporte escolar, faleceu ao colidir de frente com uma carreta na rodovia Raposo Tavares (km 185). A polícia tentou avisar a esposa, mas o irmão a encontrou degolada. O caso está sob investigação pelas autoridades locais.",
-          "porQueImporta": "O fato evidencia a combinação de acidente de trânsito fatal com suspeita de violência doméstica, exigindo investigação policial.",
+          "clusterId": "93230e04b1e28ffe",
+          "slug": "4f2995c4e8e9b7af",
+          "titulo": "Jovem de bicicleta elétrica fica em estado grave após atropelamento em Taubaté",
+          "resumo": "Uma jovem de 20 anos foi atropelada por um carro que trafegava na contramão na Avenida Washington Luís, no Jardim Santa Tereza, em Taubaté, na madrugada de sábado. Ela estava em uma bicicleta elétrica e foi encaminhada ao hospital em estado grave, necessitando de transfusão de sangue tipo O+. A família solicitou doações de sangue para o tratamento da vítima.",
+          "porQueImporta": "O caso evidencia os riscos de acidentes de trânsito envolvendo bicicletas elétricas e a necessidade de apoio sanguíneo emergencial",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/17/mulher-encontrada-degolada-apos-morte-do-marido-em-acidente-veja-quem-sao-as-vitimas.ghtml"
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/17/jovem-de-bicicleta-eletrica-fica-em-estado-grave-apos-atropelamento-por-carro-na-contramao-familia-pede-doacao-de-sangue.ghtml"
             }
           ],
-          "updatedAt": "2026-06-17T17:54:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1cfd6OsNTRR4GXZeVuO6hDzNXZ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/W/fVGS3RQIWkCOygbR15IA/caes2-1-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "9a1e533d7fc2d4ff",
-          "slug": "cf4098a7cdf05845",
-          "titulo": "Passista da Cubango morre após explosão em apartamento em Niterói",
-          "resumo": "Marielly da Silva de Oliveira, de 25 anos, passista da Acadêmicos do Cubango, morreu nesta terça-feira (17) após duas semanas internada por ferimentos causados em explosão que atingiu seu apartamento em Niterói. A escola de samba confirmou a morte nas redes sociais. O acidente ocorreu no fim de maio e deixou a jovem gravemente ferida.",
-          "porQueImporta": "O caso destaca a gravidade de explosões residenciais e a necessidade de medidas de segurança em ambientes urbanos.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/colunas/lucas-pasin/passista-da-cubango-morre-apos-explosao-em-apartamento-em-niteroi"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/17/passista-da-cubango-morre-apos-duas-semanas-internada-por-ferimentos-causados-em-explosao-de-apartamento.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-17T18:31:11.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/passista-academicos-do-cubango-morre-explosao-rj.jpg"
+          "updatedAt": "2026-06-17T21:43:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ndSQ1NNk1YQL91esEgxDKNJWOXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/r/ADnjifRRymsw4zSkmB1g/foto-g1.jpg"
         },
         {
-          "clusterId": "fb5350becfb2772d",
-          "slug": "7baeec4cab0b9834",
-          "titulo": "Homem morre após explosão de veículo em Sapé, Paraíba",
-          "resumo": "Um homem de 30 anos morreu na manhã de 17 de junho após a explosão e incêndio de um veículo na comunidade Sapucaia, em Sapé, Paraíba. O Corpo de Bombeiros registrou o acidente por volta das 7h, quando um bombeiro avistou a cena e acionou as equipes. Os bombeiros encontraram a vítima com ferimentos graves em várias partes do corpo antes de seu falecimento.",
-          "porQueImporta": "O caso evidencia a necessidade de medidas de segurança e resposta rápida em incidentes com risco de explosão em áreas residenciais",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "57bbc7eb2f0920ee",
+          "slug": "3d7fc1a21cbe7e76",
+          "titulo": "Servidor da Sefaz é atropelado por motocicleta na Avenida do CPA em Cuiabá",
+          "resumo": "Imagens de câmera de segurança divulgadas nesta terça‑feira mostram José Gilmário Oliveira, de 72 anos, servidor da Secretaria de Estado de Fazenda, sendo atingido por uma motocicleta ao tentar atravessar a Avenida do CPA, em Cuiabá. O atropelamento ocorreu na manhã da sexta‑feira, quando a vítima se dirigia ao trabalho. Inicialmente, a família suspeitou de um carro, mas o vídeo revelou a motocicleta como responsável. A ocorrência foi registrada pelas autoridades locais.",
+          "porQueImporta": "O caso evidencia a vulnerabilidade de pedestres em vias urbanas movimentadas",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/17/homem-morre-apos-explosao-de-veiculo-seguida-de-incendio-em-sape-na-pb.ghtml"
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/17/video-mostra-momento-que-servidor-da-sefaz-e-atropelado-por-motocicleta-na-avenida-do-cpa.ghtml"
             }
           ],
-          "updatedAt": "2026-06-17T18:32:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Al87l0pIfWVJHa-9F2JBoCwMQPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/T/HMSvRGShOWXLi7HXKhmA/whatsapp-image-2026-06-17-at-14.40.05.jpeg"
+          "updatedAt": "2026-06-17T21:38:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jDOlVJGXSms48y9II_VrDvJs17g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/5/k3RTXrTU2aNjBBf8YE8g/jose-gilmario.png"
+        },
+        {
+          "clusterId": "00528cedb926de73",
+          "slug": "715f403769927a9c",
+          "titulo": "Casal morre em colisão na rodovia de Itapira e município registra taxa de mortalidade no trânsito duas vezes maior que Campinas",
+          "resumo": "Paola Talhatelli e Mathias Ambrosini foram atingidos por uma caminhonete na direção contrária enquanto trafegavam na Rodovia Comendador Virgolino de Oliveira (SP-352), em Itapira (SP), nesta quinta-feira (21). O acidente ocorreu poucos dias após a morte de outro familiar na mesma rodovia. Dados do Infosiga-SP mostram que a taxa de mortes no trânsito em Itapira é de 23,52, aproximadamente o dobro da registrada em Campinas.",
+          "porQueImporta": "A alta taxa de mortalidade evidencia a necessidade de medidas de segurança viária na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/17/com-acidentes-concentrados-em-rodovia-onde-casal-morreu-itapira-tem-taxa-de-obitos-no-transito-que-e-o-dobro-de-campinas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-17T20:48:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dLLapPCsSbU8rECDomoar9gVjrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/C/ByOBprSQONo24d04t0HA/design-sem-nome-2026-05-21t231719.354.jpg"
+        },
+        {
+          "clusterId": "db24eb84b5c2fa9b",
+          "slug": "b651cbdb9a545b2a",
+          "titulo": "Motorista acusado de causar acidente que matou mãe e bebê é julgado em Belém",
+          "resumo": "O julgamento de Allan Henrique das Chagas Rocha começou nesta quarta-feira no Fórum Criminal de Belém. Ele é denunciado por duplo homicídio doloso e lesão corporal grave após o acidente que vitimou Renata Corrêa Bezerra e sua filha de dois anos, Maria Luiza Corrêa Torres, ocorrido em agosto de 2021 na avenida Nazaré. O Ministério Público alega que o réu assumiu risco ao conduzir o veículo nas condições que levaram às mortes. O processo segue em júri popular na cidade.",
+          "porQueImporta": "O caso evidencia a responsabilização penal em acidentes de trânsito com vítimas fatais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/06/17/acusado-de-causar-acidente-que-matou-mae-e-bebe-atropelados-na-avenida-nazare-vai-a-juri-popular-em-belem.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-17T20:31:16.000Z"
         }
       ]
     },
@@ -421,21 +286,38 @@
       "label": "Acidente",
       "stories": [
         {
-          "clusterId": "a7921c2ca95a070c",
-          "slug": "9fc8c6269acff8b9",
-          "titulo": "Construtora responsável pela ponte Frei Paolino não apresenta plano emergencial e solicita prorrogação",
-          "resumo": "A Justiça do Acre determinou que a Construtora Cidade Ltda adotasse medidas emergenciais para proteger a população após o desabamento da ponte Frei Paolino Baldassari, em Sena Madureira. A Procuradoria‑Geral do Estado informou que a empresa ainda não entregou o plano definitivo e pediu mais tempo para concluir o levantamento de dados. O pedido de prorrogação foi registrado após a ocorrência que deixou quatro feridos.",
-          "porQueImporta": "A falta de medidas emergenciais pode manter a população em risco até que a ponte seja reparada ou substituída.",
+          "clusterId": "94774aa94c2fe909",
+          "slug": "8fa0da43cc553ebf",
+          "titulo": "Trabalhador morre soterrado em obra na Asa Sul",
+          "resumo": "Genilson dos Santos Abreu, de 49 anos, foi soterrado e morreu durante a construção de um prédio na 116 Sul, na Asa Sul, nesta terça-feira. O acidente ocorreu no local da obra e resultou em óbito imediato do trabalhador.",
+          "porQueImporta": "O caso evidencia riscos de segurança em canteiros de obras urbanos",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/na-mira/operador-detalha-acidente-que-matou-trabalhador-em-obra-na-asa-sul"
+            }
+          ],
+          "updatedAt": "2026-06-17T21:41:10.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/obra-de-predio-da-lotus-desaba-na-116-sul-e-trabalhador-morre-metropoles-3-scaled.jpg"
+        },
+        {
+          "clusterId": "577400263673e6c8",
+          "slug": "8944c20179e895cf",
+          "titulo": "Pintor sofre descarga elétrica e é arremessado contra parede em Campo Grande",
+          "resumo": "Um pintor de 38 anos ficou gravemente ferido ao tocar um cabo de alumínio em uma rede elétrica enquanto trabalhava no telhado de uma empresa no bairro Coronel Antonino, em Campo Grande. A descarga provocou queimaduras de terceiro grau e o fez ser arremessado contra uma parede. O Corpo de Bombeiros atendeu ao incidente na tarde de quarta-feira (17).",
+          "porQueImporta": "Acidentes elétricos podem causar lesões graves e demandam atenção a procedimentos de segurança em obras.",
           "categoria": "Acidente",
           "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/17/ponte-frei-paolino-construtora-pede-mais-prazo-para-entregar-plano-de-medidas.ghtml"
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/17/pintor-sofre-descarga-eletrica-e-e-arremessado-contra-parede-apos-encostar-em-fiacao-em-campo-grande.ghtml"
             }
           ],
-          "updatedAt": "2026-06-17T18:21:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6PGL0KNG84duEoPJ9pu-DQR1Ikg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/F/nUFX8WSMuFuqpa6W9hMQ/midia-de-distribuicao-g1-62-.png"
+          "updatedAt": "2026-06-17T21:11:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zRLaGvjyD8On6W2-JBa_doB8Qxc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/g/IAbiV9QB2cAhLjwBqMPw/pintor.jpg"
         },
         {
           "clusterId": "ef13aa3f8c466400",
@@ -453,45 +335,6 @@
           ],
           "updatedAt": "2026-06-15T22:52:04.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/h3x6IgaMhwy3EmiPwxVfxPdf10U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/X/thneBwRp66x2t7aBUe9A/design-sem-nome-18-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "3a3d289b91b90d14",
-          "slug": "d91eaf3711926c94",
-          "titulo": "Tempestade no Golfo do México pode evoluir para furacão nos EUA",
-          "resumo": "Uma tempestade formada no Golfo do México está avançando pela costa americana, segundo o analista de clima Pedro Côrtes da CNN Brasil. Ele indica que, dependendo da intensidade, o sistema pode ser classificado como furacão, marcando a primeira ocorrência da temporada nos Estados Unidos. A análise destaca a necessidade de monitoramento contínuo da evolução do fenômeno.",
-          "porQueImporta": "A possível formação de um furacão traz riscos de fortes ventos e chuvas intensas para áreas costeiras",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/analise-primeiro-furacao-da-temporada-deve-se-formar-nos-eua/"
-            }
-          ],
-          "updatedAt": "2026-06-17T18:02:28.000Z"
-        },
-        {
-          "clusterId": "5f12738ad9737153",
-          "slug": "4c262b0c4f38f83e",
-          "titulo": "Bola gigante da Copa rola nas ruas de San Salvador durante tempestade e atinge carro",
-          "resumo": "Durante uma tempestade em San Salvador, uma bola de futebol de tamanho exagerado foi arrastada pelo vento pelas ruas da capital salvadorenha. O objeto atravessou a via, forçando motoristas a frearem, e acabou colidindo frontalmente com um veículo antes de quicar. O incidente foi registrado em vídeo que circulou nas redes sociais. As imagens mostram a chuva intensa e a bola sendo levada pela corrente de ar.",
-          "porQueImporta": "O caso ilustra como condições climáticas extremas podem gerar situações inesperadas nas vias urbanas",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/15/clima-de-copa-do-mundo-bola-futebol-gigante-rua-tempestade-el-salvador-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-15T22:11:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/G9cPa7j95VEoZ7EX_mrg3Ztk-mU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/N/Xm1NzFQ4CQWlAKkImpMg/design-sem-nome-17-.jpg"
         }
       ]
     },
@@ -532,6 +375,63 @@
           ],
           "updatedAt": "2026-06-17T05:22:31.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/AmXtN4Sc-nrmImecqqRkq-nZYFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/j/sBypoPSAKMWN1vQ8tAGw/ap26168164237700.jpg"
+        },
+        {
+          "clusterId": "504fc2aeedd34097",
+          "slug": "7b9d82dcd8ba512d",
+          "titulo": "Bombardeiro B-52 da Força Aérea dos EUA cai após decolagem em Edwards, Califórnia, mata oito",
+          "resumo": "Um bombardeiro B-52 da Força Aérea dos Estados Unidos caiu imediatamente após decolar da Base Aérea de Edwards, no sul da Califórnia, na segunda‑feira. O acidente ocorreu por volta das 11h20 (horário local) durante uma missão de teste de rotina. O acidente resultou na morte de oito pessoas, entre elas dois funcionários da Boeing. A queda gerou uma grande coluna de fumaça preta visível a quilômetros de distância.",
+          "porQueImporta": "O incidente evidencia riscos operacionais em testes militares e causou fatalidades civis e militares",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/16/o-que-se-sabe-sobre-queda-de-bombardeiro-da-forca-aerea-dos-eua-que-deixou-8-mortos-na-california.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-16T13:53:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/u2KhqwtOd2cB35MfLGhf36qNYqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/X/G9xkzWR3Gx7C5TWpQpHA/64a45790-6953-11f1-8546-8f19e4fe30f4.jpg.webp"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "240207ff96eab638",
+          "slug": "0d26c4f102c5523a",
+          "titulo": "Incêndio em empresa agrícola em Coroados (SP) causado por curto-circuito",
+          "resumo": "Um curto-circuito nas instalações de uma empresa do setor agrícola em Coroados (SP) provocou incêndio na tarde de quarta-feira. As equipes de combate foram acionadas e o fogo foi contido. Nenhum trabalhador ficou ferido, pois todos evacuaram o local ao perceber as chamas.",
+          "porQueImporta": "O caso evidencia a importância de medidas de prevenção e resposta rápida a incêndios em ambientes industriais",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/17/curto-circuito-provoca-incendio-em-empresa-agricola-de-coroados.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-17T22:14:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dpcEpOaHb1MNVHzbec2xP8HBtdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/5/AQrFUDQLWudoSgGcj58Q/formato-padrao-imagens-g1-2026-06-17t174759.071.png"
+        },
+        {
+          "clusterId": "a793c09a148ab71a",
+          "slug": "48ff5a04814394e4",
+          "titulo": "Carro é consumido por fogo e Bíblia permanece intacta em Cornélio Procópio",
+          "resumo": "Um veículo pegou fogo e foi totalmente destruído em Cornélio Procópio, no norte do Paraná. Dentro do carro havia uma Bíblia, cuja capa e bordas foram queimadas, mas as folhas permaneceram intactas. O proprietário, de 43 anos, registrou o fato e divulgou imagens do interior do livro. O incidente chamou atenção nas redes sociais.",
+          "porQueImporta": "O caso ilustra um fenômeno incomum de preservação de papel em incêndio, gerando curiosidade pública.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/17/carro-e-completamente-consumido-por-fogo-mas-biblia-dentro-dele-fica-com-folhas-intactas-no-pr-vou-fazer-uma-moldura.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-17T20:20:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/st-UdskUnN4TkB7Dqqot0ao0Xd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/v/TeI3dbTAyE8eEygRMyIQ/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-2026-06-17t152342.515.jpg"
         }
       ]
     },
@@ -575,24 +475,48 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "frio",
+      "label": "Frio",
       "stories": [
         {
-          "clusterId": "16baa08dd13939d1",
-          "slug": "9d24f8778164a0b0",
-          "titulo": "Balsa pega fogo próximo à antiga ponte de Outeiro, em Belém",
-          "resumo": "Na tarde de terça-feira (16), uma balsa teve seu casco incendiado nas proximidades da antiga ponte de Outeiro, distrito de Belém. O fogo gerou grande quantidade de fumaça escura, assustando moradores e pedestres que estavam no local. Equipes do Corpo de Bombeiros foram acionadas imediatamente para conter a emergência.",
-          "porQueImporta": "O incidente demonstra risco de incêndios em embarcações que trafegam em áreas urbanas e pode afetar a segurança dos usuários da balsa.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "aa261b1263194685",
+          "slug": "4d51a25f7b692e51",
+          "titulo": "Defesa Civil de BH emite alerta de baixa temperatura até segunda-feira",
+          "resumo": "A Defesa Civil de Belo Horizonte divulgou, nesta quarta-feira, um alerta de baixas temperaturas para a capital. As mínimas podem ficar abaixo de 12 °C nas primeiras horas da manhã até a próxima segunda-feira. O fenômeno está associado à formação de nuvem orográfica na Serra do Curral, que gera nevoeiro nas áreas elevadas.",
+          "porQueImporta": "Temperaturas mais baixas aumentam o risco de hipotermia e afetam a mobilidade urbana",
+          "categoria": "Frio",
+          "categoriaSlug": "frio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/06/17/balsa-pega-fogo-proximo-a-antiga-ponte-de-outeiro-em-belem.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/17/defesa-civil-de-bh-emite-alerta-de-baixa-temperatura-ate-semana-que-vem-veja-previsao-do-tempo.ghtml"
             }
           ],
-          "updatedAt": "2026-06-17T16:47:18.000Z"
+          "updatedAt": "2026-06-17T22:12:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XGzAi9qD_cYbuVylYPavuRIB13E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/C/dOAwdkSZGKZyTZs88RvQ/nuvens-cascata.gif"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "9d9b015fb2c49518",
+          "slug": "fb9442b4288dcaf0",
+          "titulo": "22 municípios do Amazonas em situação de emergência por cheia",
+          "resumo": "Vinte e dois municípios do Amazonas foram declarados em situação de emergência devido à cheia dos rios, segundo boletim do Governo do Estado divulgado nesta quarta-feira. Até o momento, 223.259 pessoas foram afetadas pelas inundações em diferentes regiões do estado. As cidades incluídas na medida de emergência abrangem áreas como Atalaia do Norte, Barreirinha, Benjamin Constant, entre outras. As autoridades monitoram a evolução da situação para adoção de novas medidas de apoio.",
+          "porQueImporta": "A emergência afeta centenas de milhares de residentes, demandando respostas de socorro e recursos públicos",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/17/cheia-no-amazonas-deixa-22-municipios-em-emergencia-e-afeta-mais-de-223-mil-pessoas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-17T22:00:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gtxZKm1foAHpLKhvDl1GYtnhNsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/N/zkMC28QSCz2dq4qPvI4g/rio-negro-durante-cheia-de-2026-em-manaus-foto-jadson-lima-g1-am.jpg"
         }
       ]
     },
@@ -601,20 +525,44 @@
       "label": "Naufrágio",
       "stories": [
         {
-          "clusterId": "6c53850444174e89",
-          "slug": "99faf4728865aca2",
-          "titulo": "Marinha usa sonar nas buscas por adolescente indígena desaparecido no rio Xingu",
-          "resumo": "A Marinha do Brasil está empregando equipamento de sonar para auxiliar nas buscas de um adolescente indígena desaparecido após o naufrágio de uma voadeira no rio Xingu, em Altamira, Pará. O acidente, ocorrido na última quinta-feira, resultou na morte de três indígenas da etnia Kayapó, três desaparecidos e seis resgatados com vida. O sonar permite escanear o leito do rio em busca de vítimas submersas.",
-          "porQueImporta": "O caso destaca a vulnerabilidade de comunidades indígenas em áreas fluviais e a mobilização de recursos militares em operações de salvamento",
+          "clusterId": "8ba5fcae7d6c484c",
+          "slug": "7a1c37a71824c98c",
+          "titulo": "Corpo de idoso desaparecido após canoa naufragar em São Luiz é encontrado",
+          "resumo": "O corpo de João Maria Guilherme Zeferino, 67 anos, foi localizado na manhã desta quarta‑feira em São Luiz, Roraima, a cerca de 12,5 km da vila onde a canoa afundou. O idoso havia desaparecido desde domingo, quando a embarcação naufragou no rio Anauá. As equipes de resgate do Corpo de Bombeiros confirmaram a localização do corpo na vicinal 10.",
+          "porQueImporta": "O caso evidencia os perigos das travessias fluviais na região e a importância das operações de busca e salvamento.",
           "categoria": "Naufrágio",
           "categoriaSlug": "naufragio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/06/17/marinha-usa-sonar-nas-buscas-por-adolescente-indigena-desaparecido-em-naufragio-no-rio-xingu-no-para.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/17/corpo-de-idoso-que-desapareceu-apos-canoa-naufragar-em-sao-luiz-e-encontrado.ghtml"
             }
           ],
-          "updatedAt": "2026-06-17T16:34:43.000Z"
+          "updatedAt": "2026-06-17T20:49:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wZ8uVGTdJGp3aewpH8lE_pvq5JI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/CI8xBsTECVRKdBdmhg2g/corpo-de-idoso-e-encontrado-pelos-bombeiros.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "1dbdb998ba781568",
+          "slug": "cf4098a7cdf05845",
+          "titulo": "Passista da Cubango morre após explosão em apartamento em Niterói",
+          "resumo": "Marielly da Silva de Oliveira, de 25 anos, passista da Acadêmicos do Cubango, morreu nesta terça-feira (17) após duas semanas internada por ferimentos causados em explosão que atingiu seu apartamento em Niterói. A escola de samba confirmou a morte nas redes sociais. O acidente ocorreu no fim de maio e deixou a jovem gravemente ferida.",
+          "porQueImporta": "O caso destaca a gravidade de explosões residenciais e a necessidade de medidas de segurança em ambientes urbanos.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/colunas/lucas-pasin/passista-da-cubango-morre-apos-explosao-em-apartamento-em-niteroi"
+            }
+          ],
+          "updatedAt": "2026-06-17T14:36:39.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/passista-academicos-do-cubango-morre-explosao-rj.jpg"
         }
       ]
     }
