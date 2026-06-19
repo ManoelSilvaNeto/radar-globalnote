@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-06-19T05:35:36.357Z",
+  "ranAt": "2026-06-19T12:32:44.063Z",
   "editionDate": "2026-06-19",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito dominam panorama, com incêndio escolar e enchente em destaque\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
