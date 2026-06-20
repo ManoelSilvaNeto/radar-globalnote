@@ -1,196 +1,187 @@
 {
   "date": "2026-06-20",
-  "generatedAt": "2026-06-20T17:55:51.653Z",
+  "generatedAt": "2026-06-20T21:49:40.820Z",
   "home": [
     {
-      "clusterId": "719e2cfeccb64b13",
-      "slug": "a89baadaabfb583e",
-      "titulo": "Alerta falso da Defesa Civil enviado a celulares com mensagem \"misantropia\" é investigado como possível ataque hacker",
-      "resumo": "Na madrugada de 20 de junho, o sistema nacional de alertas da Defesa Civil enviou mensagens emergenciais contendo a palavra \"misantropia\" a celulares de diversas regiões do Brasil. O governo do Paraná classificou a conduta como ato de terrorismo e a plataforma foi retirada do ar cerca de uma hora e meia após o incidente. Autoridades federais, incluindo a Polícia Federal, iniciaram investigação sobre invasão ao sistema. O alerta foi disparado por meio da tecnologia Cell Broadcast, o que explica a diferença de alcance entre municípios.",
-      "porQueImporta": "O episódio evidencia vulnerabilidades em sistemas de comunicação de emergência, podendo gerar pânico e comprometer a confiança da população.",
+      "clusterId": "d9d94dec1ceca50c",
+      "slug": "09d9cee1bcd0706d",
+      "titulo": "Alerta falso da Defesa Civil pode ter sido resultado de ataque hacker",
+      "resumo": "Na madrugada de sábado, usuários de vários estados receberam alertas de emergência contendo a palavra \"misantropia\". A Defesa Civil e a Anatel confirmaram que os alertas não foram emitidos por autoridades e apontaram a possibilidade de invasão hacker. O Ministério da Integração e do Desenvolvimento Regional convocou a Polícia Federal para investigar o incidente. O sistema de avisos, incluindo o Cell Broadcast, foi temporariamente desativado em alguns estados.",
+      "porQueImporta": "O incidente demonstra vulnerabilidade dos sistemas de alerta público e pode gerar pânico desnecessário.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/alerta-da-defesa-civil-o-que-e-misantropia"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pr/parana/noticia/2026/06/20/alerta-de-misantropia-da-defesa-civil-governo-do-parana-diz-que-conduta-se-enquadra-como-ato-de-terrorismo.ghtml"
+          "url": "https://www.metropoles.com/brasil/brasileiros-recebem-alerta-sonoro-falso-no-celular-defesa-civil-nega-envio"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/tecnologia/celular-tocou-alto-de-madrugada-entenda-como-funciona-o-alerta-da-defesa-civil/"
-        }
-      ],
-      "updatedAt": "2026-06-20T16:51:48.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/imagem_1200x800.jpg"
-    },
-    {
-      "clusterId": "176b89ed8b325260",
-      "slug": "5a836c4a6a108bcc",
-      "titulo": "Defesa Civil tem alertas falsos enviados e PF abre investigação",
-      "resumo": "Na madrugada de sábado (20), a plataforma da Defesa Civil foi invadida e enviou mensagens contendo a palavra \"misantropi4\" para celulares de pelo menos sete unidades da federação. Foram identificados dez alertas falsos, sem acionamento de sirenes oficiais. A Polícia Federal abriu investigação preliminar para apurar a origem dos envios. As autoridades bloquearam acessos externos e contas usadas nos alertas.",
-      "porQueImporta": "O caso evidencia vulnerabilidades em sistemas de alerta público, podendo gerar pânico e desinformação.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/governo-identificou-10-alertas-falsos-em-sistema-da-defesa-civil/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/06/20/pf-abre-investigacao-preliminar-para-apurar-alertas-extremos-enviados-por-sistema-da-defesa-civil.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-20T17:30:13.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/YgtP6kMSikko4PRXPC12J0AbmuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/Q/DdLb85QX6RLAS3nIlLCQ/fta20240208243.jpg"
-    },
-    {
-      "clusterId": "85f54588380787a7",
-      "slug": "823795e474f5c2a3",
-      "titulo": "Vídeo: acidente com 14 veículos deixa um morto e sete feridos na Grande BH",
-      "resumo": "Forte neblina é apontada pelos bombeiros como uma das possíveis causas do engavetamento na BR-262, em Betim",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/acidente-com-14-veiculos-na-br-262-em-betim-deixa-um-morto-e-5-feridos/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/video-acidente-com-14-veiculos-deixa-um-morto-e-sete-feridos-na-grande-bh/"
-        }
-      ],
-      "updatedAt": "2026-06-20T17:05:54.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/engavetamento-mg.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "3984c0acb698fa00",
-      "slug": "f5ac165e016e2250",
-      "titulo": "Defesa Civil confirma invasão hacker e suspende sistema",
-      "resumo": "A Defesa Civil informou que seu sistema de alertas foi invadido por hackers, resultando na suspensão temporária da plataforma. O governo ainda não tem detalhes concretos sobre os responsáveis, mas considera a possibilidade de um ataque coordenado ou de um único indivíduo usando acessos estaduais. Os alertas publicados incluíam mensagens incomuns, como supostos ataques alienígenas. As autoridades estão investigando o incidente.",
-      "porQueImporta": "A interrupção do sistema de alertas pode comprometer a comunicação de riscos à população",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/memes-e-videos-que-explicam-acao-de-hacker-a-reacao-de-misantropia-nas-redes/"
+          "url": "https://www.cnnbrasil.com.br/nacional/governo-do-pr-diz-que-alerta-falso-da-defesa-civil-fere-lei-antiterrorismo/"
         },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-seguranca-publica/governo-suspeita-de-ataque-hacker-coordenado-em-alertas-de-misantropia/"
+          "url": "https://www.poder360.com.br/poder-brasil/alerta-falso-da-defesa-civil-atingiu-30-milhoes-em-7-estados-e-no-df/"
         }
       ],
-      "updatedAt": "2026-06-20T16:08:53.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/misatropia-v.jpg?quality=70&strip=info"
+      "updatedAt": "2026-06-20T21:15:37.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/defesa-civil.jpg"
     },
     {
-      "clusterId": "f67cd2590a9432ff",
-      "slug": "28aee716133a6feb",
-      "titulo": "Acidente entre caminhão e carro deixa motorista morto e passageiro ferido na MGC-135",
-      "resumo": "Um caminhão que transportava carvão colidiu com um carro na rodovia MGC-135, km 291, em Mirabela. O motorista do caminhão saiu ileso, enquanto o condutor do carro morreu no local e o passageiro foi socorrido pelo SAMU com ferimentos. A via estava sinalizada pela Polícia Militar no momento do acidente.",
-      "porQueImporta": "O acidente evidencia a necessidade de atenção e medidas de segurança nas rodovias estaduais",
+      "clusterId": "cef7eced1c822266",
+      "slug": "d04bc52062dd25fd",
+      "titulo": "Co-fundador da Ubisoft morre em acidente aéreo na França",
+      "resumo": "Claude Guillemot, co-fundador da Ubisoft, morreu em um acidente de avião na França. Ele pilotava a aeronave ao lado de um instrutor quando o incidente ocorreu. A vítima tinha 69 anos. As causas ainda não foram divulgadas.",
+      "porQueImporta": "A morte de um executivo influente da indústria de jogos tem impacto no setor de entretenimento digital.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/co-fundador-da-ubisoft-morre-em-acidente-de-aviao-aos-69-anos-diz-site/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/cofundador-da-ubisoft-criadora-de-just-dance-morre-em-acidente-aereo/"
+        }
+      ],
+      "updatedAt": "2026-06-20T21:40:17.000Z"
+    },
+    {
+      "clusterId": "3e89ffbb915d52a3",
+      "slug": "b743b5e3b9cd8ea1",
+      "titulo": "Idosa de 75 anos morre atropelada na BR-101 em Nossa Senhora do Socorro",
+      "resumo": "Uma mulher de 75 anos foi atingida por um veículo de passeio na BR-101, no bairro Parque dos Faróis, em Nossa Senhora do Socorro, e morreu no local. A Polícia Rodoviária Federal informou que o acidente envolveu apenas um carro, mas não detalhou a dinâmica nem a identidade do condutor. O Instituto Médico Legal recolheu o corpo e a Polícia Civil iniciará a investigação.",
+      "porQueImporta": "O caso evidencia riscos de segurança viária para pedestres, especialmente idosos, em áreas urbanas.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/20/acidente-entre-caminhao-e-carro-deixa-motorista-morto-e-passageiro-ferido-na-mgc-135.ghtml"
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/20/idosa-morre-atropelada-na-br-101-em-nossa-senhora-do-socorro.ghtml"
         }
       ],
-      "updatedAt": "2026-06-20T17:47:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/xkcozh1vm9U7oyXmlUs4Abb1x7c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/l/U6YRXBS1OmMnW4sYkAvw/bombeiros-mg.jpg"
+      "updatedAt": "2026-06-20T21:46:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UEjcsEH-dToLuMUCfdUMj3FkIgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/L/qgtdbnQxyZzaRyCKVF4A/imagem-g1-24-.jpg"
     },
     {
-      "clusterId": "bd9c0dba5f128967",
-      "slug": "233d923bb38eb4b2",
-      "titulo": "Homem preso por pilotar moto embriagado após acidente em Volta Redonda",
-      "resumo": "Um homem de 36 anos foi detido por conduzir motocicleta sob efeito de álcool após colidir na Rodovia do Contorno, bairro Três Poços, na noite de sexta‑feira. A vítima apresentava sinais de embriaguez, não possuía documentos e alegou não ter Carteira Nacional de Habilitação. O Serviço de Atendimento Móvel de Urgência já atendia o local quando a polícia chegou.",
-      "porQueImporta": "O caso evidencia o perigo de conduzir veículos sob influência de álcool nas vias públicas",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/20/homem-e-preso-por-pilotar-moto-embriagado-apos-acidente-em-volta-redonda.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-20T17:33:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/cH1lYDPCWv6Qp9T-xg1BAGKWJ0g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/R/A/tPxBPFRN6gYBy0oy6NBw/whatsapp-image-2023-01-03-at-08.22.50.jpeg"
-    },
-    {
-      "clusterId": "69724787d2eb72c4",
-      "slug": "fad60a0a8850d662",
-      "titulo": "Entenda o que pode ter causado disparos em massa de alertas em SP e Curitiba durante a madrugada",
-      "resumo": "Mensagens da Defesa Civil foram enviadas sem registro de emergência e levantam hipóteses de falha técnica, erro operacional ou possível ataque hacker",
+      "clusterId": "c2cc738e72494076",
+      "slug": "cf0ef4f15dce880f",
+      "titulo": "Porsche bate em 3 carros e motorista é preso por embriaguez em SP",
+      "resumo": "Ninguém ficou ferido no engavetamento, mas o condutor da Porsche acabou detido após apresentar sinais de embriaguez, segundo a PM",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/entenda-o-que-pode-ter-causado-disparos-em-massa-de-alertas-em-sp-e-curitiba-durante-a-madrugada/"
-        }
-      ],
-      "updatedAt": "2026-06-20T17:32:56.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/misatropia-v.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "3f914ed490117f25",
-      "slug": "7b3e165032b1081e",
-      "titulo": "Acidente entre caminhões na BR-153 deixa vítima carbonizada em Crixás do Tocantins",
-      "resumo": "Dois caminhões colidiram na manhã de sexta-feira (19) no quilômetro 603 da BR-153, em Crixás do Tocantins, provocando incêndio. Um dos veículos transportava pneus e o outro tintas. Uma vítima foi encontrada carbonizada, conforme informou a Secretaria de Segurança Pública do Tocantins. A rodovia ficou interditada até a remoção dos destroços e dos corpos.",
-      "porQueImporta": "O acidente interrompeu o tráfego na principal via da região e evidencia riscos de incêndio envolvendo cargas perigosas",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/20/acidente-entre-caminhoes-deixa-vitima-carbonizada-em-crixas-do-tocantins.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-20T16:51:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4oE7Ig1Erim5v8U1rHcpTxYE0IQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/B/ANwAGUS2SvP30psjUz7Q/foto-e-montagem-vertical-4-1-1-.gif"
-    },
-    {
-      "clusterId": "a0469045f28a5add",
-      "slug": "f976da97b808ab93",
-      "titulo": "Uma pessoa morre em acidente envolvendo 20 veículos na BR-262, em Betim",
-      "resumo": "Um acidente na rodovia BR-262, em Betim, envolveu cerca de 20 veículos, incluindo 15 carros, três caminhões e duas motocicletas. Segundo o Corpo de Bombeiros de Minas Gerais, houve uma vítima fatal. As causas do engarrafamento ainda não foram divulgadas. As autoridades foram acionadas para atender a ocorrência e remover os veículos.",
-      "porQueImporta": "O acidente destaca riscos de congestionamento e segurança viária em rodovias movimentadas",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/acidente-20-veiculos-br-262-betim"
+          "url": "https://www.metropoles.com/sao-paulo/porsche-bate-carros-motorista-preso"
         }
       ],
-      "updatedAt": "2026-06-20T16:00:30.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/acidente-mins-2.jpeg"
+      "updatedAt": "2026-06-20T21:25:14.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/engavetamento-porsche-motorista-preso.jpg"
     },
     {
-      "clusterId": "737a67f1e3a56c87",
-      "slug": "d0d3ebce3f0785fb",
-      "titulo": "Pedestre com sinais de embriaguez é atropelado por motorista sem CNH na BR-352",
-      "resumo": "Um homem de 40 anos foi atropelado na noite de sexta‑feira na BR‑352, em Onça de Pitangui, enquanto caminhava contrariamente à via apresentando sinais de embriaguez. O motorista, de 51 anos, não possui carteira de habilitação e informou que tentou frear antes da colisão. A vítima foi socorrida pelos bombeiros e encaminhada ao pronto‑atendimento municipal de Pará de Minas. O estado de saúde do pedestre não foi divulgado.",
-      "porQueImporta": "O caso evidencia riscos de acidentes envolvendo pedestres vulneráveis e motoristas sem habilitação legal.",
+      "clusterId": "f3a98c45c6d05dfd",
+      "slug": "ad7e3178226cbbc2",
+      "titulo": "Engavetamento entre três carros deixa feridos e interdita faixa da Rodovia Washington Luís",
+      "resumo": "Um engavetamento envolvendo três veículos ocorreu na Rodovia Washington Luís, no quilômetro 438, sentido capital paulista, em São José do Rio Preto. Três ocupantes ficaram levemente feridos e foram socorridos. Uma das faixas da rodovia foi bloqueada para o atendimento das vítimas, gerando congestionamento no trecho. A concessionária EcoVias informou a interdição parcial da via.",
+      "porQueImporta": "O bloqueio parcial da rodovia pode causar atrasos e afetar o trânsito na região",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/20/pedestre-com-sinais-de-embriaguez-e-atropelado-por-motorista-sem-cnh-na-br-352.ghtml"
+          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/20/engavetamento-entre-tres-carros-deixa-feridos-e-interdita-faixa-da-rodovia-washington-luis.ghtml"
         }
       ],
-      "updatedAt": "2026-06-20T15:51:24.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Y1os8BxjEMJqUAbPjI4_wbIqy04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/P/z16xNlQFeUNnTVtDHnrQ/whatsapp-image-2026-06-20-at-08.52.54.jpeg"
+      "updatedAt": "2026-06-20T21:07:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/MRRHeVTBCmlNvzVKFeBWjdlDT0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/E/961ctXTiiBH2LrTCp0rQ/untitled.jpg"
+    },
+    {
+      "clusterId": "2bbf550de6687212",
+      "slug": "605d3a72b2163a3b",
+      "titulo": "Motociclista gravemente ferido após colisão com carreta em Itu",
+      "resumo": "Um motociclista colidiu com a traseira de uma carreta na rodovia Castello Branco, no quilômetro 70, em Itu, na tarde de sábado. O condutor da carreta deixou o local sem prestar socorro. A vítima foi retirada da pista e levada ao hospital por helicóptero da Polícia Militar.",
+      "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de socorro imediato às vítimas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/20/motociclista-bate-em-traseira-de-carreta-e-e-resgatado-por-helicoptero-aguia-na-castello-branco.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-20T20:59:22.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/3vSyps643Bw4WC1QkWgjSnoU00M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/H/ZtCMrIQoAH9PDgojM2eQ/2ecd5cb8-bf9d-41a8-85d9-ba621abea9d2-1-.jpg"
+    },
+    {
+      "clusterId": "c2a4824cdcac3aea",
+      "slug": "df687ee0c35df8ad",
+      "titulo": "Homem de 31 anos é encontrado morto em piscina na Zona Sul de Aracaju",
+      "resumo": "Um homem de 31 anos foi localizado sem vida dentro de uma piscina em residência particular no bairro Mosqueiro, na Zona Sul de Aracaju, neste sábado. A polícia informou que a investigação será conduzida pela Polícia Civil, com suspeita de afogamento como causa provável. O Instituto Médico Legal foi acionado para recolher o corpo e realizar os procedimentos forenses.",
+      "porQueImporta": "O caso demanda investigação policial e pode envolver questões de segurança doméstica",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/20/homem-e-encontrado-morto-dentro-de-piscina-na-zona-sul-de-aracaju.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-20T20:18:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/JOzU6QX8ZIImqyXj_BJZKOITF-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/n/AFOu8pQW2zNJNEM5d2bw/whatsapp-image-2023-09-11-at-17.06.44.jpeg"
+    },
+    {
+      "clusterId": "429eed8d91cd2685",
+      "slug": "2b06e5f526500ae3",
+      "titulo": "Militar do Exército dirige caminhonete bêbado e mata motociclista em Campo Grande",
+      "resumo": "Um militar do Exército, de 22 anos, conduzia uma caminhonete sob efeito de álcool quando colidiu com a motocicleta de Miriam Rosa Matos, de 44 anos, na Rua Maracaju, no centro de Campo Grande, na manhã de sábado. A vítima morreu no local. Após o impacto, o veículo girou, bateu em uma árvore e invadiu o estacionamento de uma clínica. As imagens foram capturadas por câmeras de segurança.",
+      "porQueImporta": "O caso evidencia os perigos da condução sob influência de álcool, inclusive entre membros das forças armadas, e reforça a necessidade de fiscalização no trânsito",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/20/militar-bebado-roda-caminhonete-na-pista-apos-bater-e-matar-motociclista-em-campo-grande-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-20T20:14:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/i2Uym53j5xMFhDxe271iBFxlSdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/h/61WpAWQKShzieViBEmTA/whatsapp-image-2026-06-20-at-17.36.39.jpeg"
+    },
+    {
+      "clusterId": "cf96bdad9552277e",
+      "slug": "23420e0f46cf25cc",
+      "titulo": "'Projeto Periferia Viva': comunidades apresentam resultados de ações sustentáveis em Belém",
+      "resumo": "Os resultados do Projeto Periferia Viva serão apresentados neste domingo (21), a partir das 15h30, durante a abertura da \"Mostra Ecocultural Tucunduba Verde e Resiliente\", em Belém. O evento ocorre na esquina da rua dos Mundurucus com a avenida Tucunduba e é aberto ao público. As ações foram desenvolvidas ao longo de seis meses por moradores dos bairros Terra Firme, Marco, Guamá, Canudos e Universitário, com foco na aplicação de Soluções Baseadas na Natureza (SBN) para enfrentar problemas como alagamentos, calor extremo e degradação ambiental. ✅ Clique e siga o canal do g1 PA no WhatsApp O…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pa/para/noticia/2026/06/20/projeto-periferia-viva-comunidades-de-belem-apresentam-resultados-de-acoes-sustentaveis.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-20T20:06:49.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rUZPCEDOHStUCihYAihR-kOas7s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/J/NAL3l5RdSfsA8OHVeltg/a5f6c607-f567-4487-a30f-22422f5ed9c0.jpg"
+    },
+    {
+      "clusterId": "5c19d193410aab4f",
+      "slug": "9107bf9f6a184526",
+      "titulo": "Incêndio destrói oficina em Franca e mecânico resgata cachorrinha",
+      "resumo": "Na quinta‑feira (18), um incêndio consumiu a oficina mecânica de Welker Malaquias, na Vila Industrial, em Franca (SP). Durante o fogo, o mecânico conseguiu retirar a cachorrinha chamada Bela, que estava presa nos fundos do estabelecimento. As chamas se espalharam pelo imóvel, culminando na destruição total da estrutura. O resgate do animal foi a principal preocupação do proprietário durante o incidente.",
+      "porQueImporta": "O caso ilustra a rapidez necessária para proteger vidas – humanas ou animais – em situações de incêndio",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/20/mecanico-relembra-salvamento-de-cachorrinha-de-incendio-em-oficina-em-franca-sp-foi-a-maior-emocao.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-20T20:04:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GB7qJeKtGp3lZXaRubZevOFirzE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/a/BKfRGxSs2xxPadwFT4DQ/resgata-cachorro.jpg"
     }
   ],
   "categorias": [
@@ -199,92 +190,165 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "719e2cfeccb64b13",
-          "slug": "a89baadaabfb583e",
-          "titulo": "Alerta falso da Defesa Civil enviado a celulares com mensagem \"misantropia\" é investigado como possível ataque hacker",
-          "resumo": "Na madrugada de 20 de junho, o sistema nacional de alertas da Defesa Civil enviou mensagens emergenciais contendo a palavra \"misantropia\" a celulares de diversas regiões do Brasil. O governo do Paraná classificou a conduta como ato de terrorismo e a plataforma foi retirada do ar cerca de uma hora e meia após o incidente. Autoridades federais, incluindo a Polícia Federal, iniciaram investigação sobre invasão ao sistema. O alerta foi disparado por meio da tecnologia Cell Broadcast, o que explica a diferença de alcance entre municípios.",
-          "porQueImporta": "O episódio evidencia vulnerabilidades em sistemas de comunicação de emergência, podendo gerar pânico e comprometer a confiança da população.",
+          "clusterId": "d9d94dec1ceca50c",
+          "slug": "09d9cee1bcd0706d",
+          "titulo": "Alerta falso da Defesa Civil pode ter sido resultado de ataque hacker",
+          "resumo": "Na madrugada de sábado, usuários de vários estados receberam alertas de emergência contendo a palavra \"misantropia\". A Defesa Civil e a Anatel confirmaram que os alertas não foram emitidos por autoridades e apontaram a possibilidade de invasão hacker. O Ministério da Integração e do Desenvolvimento Regional convocou a Polícia Federal para investigar o incidente. O sistema de avisos, incluindo o Cell Broadcast, foi temporariamente desativado em alguns estados.",
+          "porQueImporta": "O incidente demonstra vulnerabilidade dos sistemas de alerta público e pode gerar pânico desnecessário.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/alerta-da-defesa-civil-o-que-e-misantropia"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/parana/noticia/2026/06/20/alerta-de-misantropia-da-defesa-civil-governo-do-parana-diz-que-conduta-se-enquadra-como-ato-de-terrorismo.ghtml"
+              "url": "https://www.metropoles.com/brasil/brasileiros-recebem-alerta-sonoro-falso-no-celular-defesa-civil-nega-envio"
             },
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/tecnologia/celular-tocou-alto-de-madrugada-entenda-como-funciona-o-alerta-da-defesa-civil/"
-            }
-          ],
-          "updatedAt": "2026-06-20T16:51:48.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/imagem_1200x800.jpg"
-        },
-        {
-          "clusterId": "176b89ed8b325260",
-          "slug": "5a836c4a6a108bcc",
-          "titulo": "Defesa Civil tem alertas falsos enviados e PF abre investigação",
-          "resumo": "Na madrugada de sábado (20), a plataforma da Defesa Civil foi invadida e enviou mensagens contendo a palavra \"misantropi4\" para celulares de pelo menos sete unidades da federação. Foram identificados dez alertas falsos, sem acionamento de sirenes oficiais. A Polícia Federal abriu investigação preliminar para apurar a origem dos envios. As autoridades bloquearam acessos externos e contas usadas nos alertas.",
-          "porQueImporta": "O caso evidencia vulnerabilidades em sistemas de alerta público, podendo gerar pânico e desinformação.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/governo-identificou-10-alertas-falsos-em-sistema-da-defesa-civil/"
+              "url": "https://www.cnnbrasil.com.br/nacional/governo-do-pr-diz-que-alerta-falso-da-defesa-civil-fere-lei-antiterrorismo/"
             },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/politica/noticia/2026/06/20/pf-abre-investigacao-preliminar-para-apurar-alertas-extremos-enviados-por-sistema-da-defesa-civil.ghtml"
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/alerta-falso-da-defesa-civil-atingiu-30-milhoes-em-7-estados-e-no-df/"
             }
           ],
-          "updatedAt": "2026-06-20T17:30:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YgtP6kMSikko4PRXPC12J0AbmuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/Q/DdLb85QX6RLAS3nIlLCQ/fta20240208243.jpg"
+          "updatedAt": "2026-06-20T21:15:37.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/defesa-civil.jpg"
         },
         {
-          "clusterId": "85f54588380787a7",
-          "slug": "823795e474f5c2a3",
-          "titulo": "Vídeo: acidente com 14 veículos deixa um morto e sete feridos na Grande BH",
-          "resumo": "Forte neblina é apontada pelos bombeiros como uma das possíveis causas do engavetamento na BR-262, em Betim",
+          "clusterId": "c2cc738e72494076",
+          "slug": "cf0ef4f15dce880f",
+          "titulo": "Porsche bate em 3 carros e motorista é preso por embriaguez em SP",
+          "resumo": "Ninguém ficou ferido no engavetamento, mas o condutor da Porsche acabou detido após apresentar sinais de embriaguez, segundo a PM",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/acidente-com-14-veiculos-na-br-262-em-betim-deixa-um-morto-e-5-feridos/"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/video-acidente-com-14-veiculos-deixa-um-morto-e-sete-feridos-na-grande-bh/"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/porsche-bate-carros-motorista-preso"
             }
           ],
-          "updatedAt": "2026-06-20T17:05:54.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/engavetamento-mg.jpg?quality=70&strip=info"
+          "updatedAt": "2026-06-20T21:25:14.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/engavetamento-porsche-motorista-preso.jpg"
         },
         {
-          "clusterId": "3984c0acb698fa00",
-          "slug": "f5ac165e016e2250",
-          "titulo": "Defesa Civil confirma invasão hacker e suspende sistema",
-          "resumo": "A Defesa Civil informou que seu sistema de alertas foi invadido por hackers, resultando na suspensão temporária da plataforma. O governo ainda não tem detalhes concretos sobre os responsáveis, mas considera a possibilidade de um ataque coordenado ou de um único indivíduo usando acessos estaduais. Os alertas publicados incluíam mensagens incomuns, como supostos ataques alienígenas. As autoridades estão investigando o incidente.",
-          "porQueImporta": "A interrupção do sistema de alertas pode comprometer a comunicação de riscos à população",
+          "clusterId": "c2a4824cdcac3aea",
+          "slug": "df687ee0c35df8ad",
+          "titulo": "Homem de 31 anos é encontrado morto em piscina na Zona Sul de Aracaju",
+          "resumo": "Um homem de 31 anos foi localizado sem vida dentro de uma piscina em residência particular no bairro Mosqueiro, na Zona Sul de Aracaju, neste sábado. A polícia informou que a investigação será conduzida pela Polícia Civil, com suspeita de afogamento como causa provável. O Instituto Médico Legal foi acionado para recolher o corpo e realizar os procedimentos forenses.",
+          "porQueImporta": "O caso demanda investigação policial e pode envolver questões de segurança doméstica",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/memes-e-videos-que-explicam-acao-de-hacker-a-reacao-de-misantropia-nas-redes/"
-            },
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-seguranca-publica/governo-suspeita-de-ataque-hacker-coordenado-em-alertas-de-misantropia/"
+              "name": "G1",
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/20/homem-e-encontrado-morto-dentro-de-piscina-na-zona-sul-de-aracaju.ghtml"
             }
           ],
-          "updatedAt": "2026-06-20T16:08:53.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/misatropia-v.jpg?quality=70&strip=info"
+          "updatedAt": "2026-06-20T20:18:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JOzU6QX8ZIImqyXj_BJZKOITF-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/n/AFOu8pQW2zNJNEM5d2bw/whatsapp-image-2023-09-11-at-17.06.44.jpeg"
+        },
+        {
+          "clusterId": "cf96bdad9552277e",
+          "slug": "23420e0f46cf25cc",
+          "titulo": "'Projeto Periferia Viva': comunidades apresentam resultados de ações sustentáveis em Belém",
+          "resumo": "Os resultados do Projeto Periferia Viva serão apresentados neste domingo (21), a partir das 15h30, durante a abertura da \"Mostra Ecocultural Tucunduba Verde e Resiliente\", em Belém. O evento ocorre na esquina da rua dos Mundurucus com a avenida Tucunduba e é aberto ao público. As ações foram desenvolvidas ao longo de seis meses por moradores dos bairros Terra Firme, Marco, Guamá, Canudos e Universitário, com foco na aplicação de Soluções Baseadas na Natureza (SBN) para enfrentar problemas como alagamentos, calor extremo e degradação ambiental. ✅ Clique e siga o canal do g1 PA no WhatsApp O…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/06/20/projeto-periferia-viva-comunidades-de-belem-apresentam-resultados-de-acoes-sustentaveis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-20T20:06:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rUZPCEDOHStUCihYAihR-kOas7s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/J/NAL3l5RdSfsA8OHVeltg/a5f6c607-f567-4487-a30f-22422f5ed9c0.jpg"
+        },
+        {
+          "clusterId": "5ccd473145b56740",
+          "slug": "5d121bc70cc701be",
+          "titulo": "Italva recebe primeira edição do Aberto de Queimada com 220 atletas",
+          "resumo": "A cidade de Italva sediou, neste domingo, a primeira edição do Aberto de Queimada, com a participação de 220 atletas provenientes de seis municípios das regiões Norte e Noroeste Fluminense. O torneio começou às 9h no Centro Poliesportivo Feliz e a entrada foi gratuita para o público. A organização do evento destacou o objetivo de incentivar a prática da modalidade e promover a integração entre os participantes.",
+          "porQueImporta": "O evento estimula a prática esportiva e a integração regional.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/06/20/italva-recebe-1a-edicao-do-aberto-de-queimada-com-220-atletas-neste-domingo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-20T19:18:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yMB_iaWHXI5LvLEfjFLPBNOsh2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/R/PNWudqRBurqGBQ8QtSsw/italva.jpg"
+        },
+        {
+          "clusterId": "35cc124c21d8eb72",
+          "slug": "e9dcd4489db0eb16",
+          "titulo": "Gari morre atropelado no intervalo do trabalho em Porto Alegre",
+          "resumo": "Funcionário da Cootravipa morre atropelado em Porto Alegre Um gari, funcionário da Cootravipa, cooperativa de trabalho focada na prestação de serviços de limpeza urbana, coleta de lixo e conservação ambiental que opera em Porto Alegre, morreu atropelado neste sábado (20), na Av. Bento Gonçalves, uma das principais vias da capital gaúcha. O acidente aconteceu quase no limite com o município de Viamão. A vítima foi identificada como Flávio Carvalho, de 51 anos. Segundo relatos, ele estaria caminhando na ciclovia quando foi atingido por um carro. 📲 Acesse o canal do g1 RS no WhatsApp O…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/20/gari-morre-atropelado-no-intervalo-do-trabalho-em-porto-alegre.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-20T19:08:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/K3JOP4jaCYARZAiu1F2jyBY-O_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/f/M1sc4LSuir4zmp4I3cvw/6144238-968fc0d1e769b97.jpg"
+        },
+        {
+          "clusterId": "445925232349b418",
+          "slug": "0613db57570e402a",
+          "titulo": "Carro atinge moto, veículos estacionados e capota em avenida de Bauru; vídeo",
+          "resumo": "Motorista perde o controle do carro, atinge veículos estacionados e capota em Bauru Uma motorista de 39 anos ficou ferida após bater o carro e capotar na tarde deste sábado (20), na Avenida Nossa Senhora de Fátima, em Bauru (SP). Uma câmera registrou o momento do acidente. Segundo apurado pela TV TEM, a mulher perdeu o controle da direção e atingiu dois carros estacionados e uma moto. Com o impacto da batida, o veículo em que ela estava capotou na avenida. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp Motorista perde o controle do carro, atinge veículos estacionados e capota em…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/20/carro-atinge-moto-veiculos-estacionados-e-capota-em-avenida-de-bauru-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-20T19:06:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uhSBbAlMS-4-3-zdKHKNwtJO8Kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/R/QDyA6vQpyVsC4BYjWt4w/whatsapp-image-2026-06-20-at-14.57.08.jpeg"
+        },
+        {
+          "clusterId": "369dd27d16abd569",
+          "slug": "c35f675b3b23b3e4",
+          "titulo": "Corpo é encontrado no Canal do Itajuru, em Cabo Frio",
+          "resumo": "Corpo é encontrado no Canal do Itajuru, em Cabo Frio Um corpo foi encontrado neste sábado (20) no Canal do Itajuru, em Cabo Frio, na Região dos Lagos do Rio de Janeiro, próximo à Ponte Feliciano Sodré. De acordo com a Polícia Militar, a vítima foi retirada da água pelo Corpo de Bombeiros e não apresentava, a princípio, sinais aparentes de violência. 📱 Siga o canal do g1 Região dos Lagos no WhatsApp. Segundo as informações iniciais, a principal hipótese é de afogamento. Ainda assim, as circunstâncias da morte serão investigadas pelas autoridades. LEIA TAMBÉM: Conselho denuncia raios X em sala…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/20/corpo-e-encontrado-no-canal-do-itajuru-em-cabo-frio.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-20T19:02:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0h9EaAZUrgGTgHU2VD1glqmYAOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/l/QjhWK8QGushXRe0okkbA/canal-corpo.jpg"
+        },
+        {
+          "clusterId": "724f3f03b697f139",
+          "slug": "f6da01475a484fe3",
+          "titulo": "Incêndio atinge loja de roupas femininas em Hortolândia; imóvel está interditado",
+          "resumo": "Incêndio atinge loja de roupas femininas em Hortolândia; chamas foram controladas Um incêndio atingiu o segundo andar de uma loja de roupas femininas, na tarde deste sábado (20), no bairro Jardim das Paineiras em Hortolândia (SP). De acordo com o Corpo de Bombeiros, ninguém ficou ferido. Segundo a Prefeitura, a Defesa Civil interditou o prédio comercial para avaliar possíveis danos estruturais e investigar as causas do incidente. Dois gatos que estavam no primeiro andar do estabelecimento, segundo o Corpo de Bombeiros, conseguiram fugir pela janela assim que o incêndio começou. Os animais…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/20/incendio-atinge-loja-de-roupas-femininas-em-hortolandia-imovel-esta-interditado.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-20T18:49:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/woZU70h2pO-gNhAnBup4jDuKcro=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/VSsSriSYygJ59lP8hvdw/design-sem-nome-76-.jpg"
         },
         {
           "clusterId": "69724787d2eb72c4",
@@ -304,105 +368,21 @@
           "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/misatropia-v.jpg?quality=70&strip=info"
         },
         {
-          "clusterId": "d7d25438de692f75",
-          "slug": "272d7df8d968ae7f",
-          "titulo": "Jovem morre em salto de rope jump na Ponte do Esqueleto",
-          "resumo": "Maria Eduarda Rodrigues de Freitas, de 21 anos, morreu após ser lançada sem a corda de segurança durante um salto de rope jump na Ponte do Esqueleto, entre Limeira (SP) e Cordeirópolis (SP), no dia 13. A Polícia Civil prendeu três instrutores sob acusação de homicídio com dolo eventual e o inquérito ainda investiga a dinâmica do acidente. A morte completa uma semana de repercussão nacional e internacional.",
-          "porQueImporta": "O caso evidencia os riscos de atividades esportivas realizadas sem os equipamentos de segurança adequados",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/20/morte-em-rope-jump-completa-1-semana-o-que-ainda-falta-saber-sobre-tragedia-de-jovem-lancada-sem-cordas-1.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-20T15:19:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9BORagwskAY7t4CEMMsJxtqYjBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/h/OgzE78TW6XLiH09kTJSg/maria-eduarda-rodrigues-de-freitas-1-.jpg"
-        },
-        {
-          "clusterId": "931c82cda47004ec",
-          "slug": "46d279b04962230d",
-          "titulo": "Polícia investiga engavetamento causado por motorista de Porsche que se recusou a fazer teste do bafômetro em SP",
-          "resumo": "Globo A Polícia Civil investiga um engavetamento envolvendo um carro esportivo de luxo e outros três veículos na Avenida dos Bandeirantes, Zona Sul de São Paulo, na manhã deste sábado (20). O acidente aconteceu na esquina com a Alameda Vicente Pinzon, na Vila Olímpia, e não deixou vítimas. Mas há a suspeita de que o motorista do veículo branco Porsche estivesse embriagado. Segundo o boletim de ocorrência, o condutor do Porsche foi identificado como Maicon Kreuzburg dos Santos, empresário que atua no ramo de apostas esportivas (bets). Ele se recusou a realizar o teste do bafômetro e foi…",
+          "clusterId": "3ae2801f389f618f",
+          "slug": "3f7ec687c1e9e6c6",
+          "titulo": "Uma pessoa morre em acidente entre 15 veículos na BR-262, em Betim",
+          "resumo": "Segundo informações do Corpo de Bombeiros de MG, engavetamento envolveu carros, caminhões e motocicletas; uma pessoa morreu",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/20/policia-civil-investiga-engavetamento-causado-por-motorista-de-porsche-que-se-recusou-a-fazer-teste-do-bafometro-em-sp.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/uma-pessoa-morre-em-acidente-entre-15-veiculos-na-br-262-em-betim"
             }
           ],
-          "updatedAt": "2026-06-20T15:14:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ZfKLYDoc4F3WI-NIbRHa9Vzc7go=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/1oEElBQZKIj11Rh46DHw/fotojet-2026-06-20t121336.038.jpg"
-        },
-        {
-          "clusterId": "24eb037164e65c02",
-          "slug": "d4cfbd9b802e991a",
-          "titulo": "Dois jovens morrem e um fica ferido após carro atingir poste em Taubaté",
-          "resumo": "Dois jovens, de 19 e 20 anos, morreram na madrugada deste sábado (20) após o carro em que estavam bater contra um poste em Taubaté. Um terceiro jovem, de 20 anos, também ficou ferido no acidente e foi socorrido com vida. De acordo com o boletim de ocorrência, o acidente ocorreu às 1h25 na rua José Rezende dos Reis, no Parque Senhor Bonfim. ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e região no WhatsApp Agora no g1 Os policiais informaram que, ao chegarem ao local, viram que os dois jovens que estavam nos bancos da frente do carro já estavam sem vida. O terceiro jovem que estava…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/20/dois-jovens-morrem-e-um-fica-ferido-apos-carro-atingir-poste-em-taubate.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-20T15:09:46.000Z"
-        },
-        {
-          "clusterId": "7e970ac92fc93533",
-          "slug": "9c3ca6ea82f2a380",
-          "titulo": "Caminhão-tanque pega fogo após bater em nove veículos e interdita a BR-381 em MG; veja vídeo",
-          "resumo": "Acidente com 9 veículos interdita BR-381e deixa feridos em MG Um acidente envolvendo nove veículos interditou a BR-381, em Bom Jesus do Amparo, na Região Central de Minas Gerais, na noite de sexta-feira (19). Um vídeo mostra o momento da batida que ocasionou um incêndio que atingiu parte dos veículos (veja acima). Segundo o Corpo de Bombeiros, três pessoas foram levadas para hospitais da região e outras vítimas receberam atendimento no local. O estado de saúde dos feridos não foi divulgado. ✅Clique aqui para seguir o canal do g1 MG no WhatsApp Para os militares, a condutora da carreta-tanque…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/20/caminhao-tanque-pega-fogo-apos-bater-em-nove-veiculos-e-interdita-a-br-381-em-mg-veja-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-20T15:02:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/b_0lHYsVrkDa8FuZvyAE-Aku7_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/B/o5PD1JThSl5RnTqkYveg/chuva-distrito-paulo-camilo-1-14-.png"
-        },
-        {
-          "clusterId": "cd1dbb151c39677e",
-          "slug": "9c2df67e4d432af8",
-          "titulo": "Jovem de 19 anos é encontrada morta com marcas de tiros em rua de Palmas",
-          "resumo": "Jovem de 19 anos é encontrada morta com marcas de tiros em Palmas Uma jovem de 19 anos foi encontrada morta com marcas de tiros na manhã deste sábado (20). O caso foi registrado no setor Santa Bárbara, na região sul de Palmas. A vítima foi identificada como Manoela Miranda Lisboa. A equipe da 1ª Divisão de Homicídios e Proteção à Pessoa foi até o local e deu início às investigações. 📱 Clique aqui para seguir o canal do g1 TO no WhatsApp Caminhões pegam fogo após acidente e BR-153 fica totalmente interditada no TO Operação prende suspeitos de invadir casas e ameaçar moradores na região sul de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/20/jovem-de-19-anos-e-encontrada-morta-com-marcas-de-tiros-em-rua-de-palmas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-20T15:01:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/po4Yn85hjKhqdZ0hFPrWjAyWjqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/W/YEIRMqTPiuoFLh34acGQ/frame-morte-.jpg"
-        },
-        {
-          "clusterId": "cff11637f800e47c",
-          "slug": "be16f78a9f48210d",
-          "titulo": "Incêndio em resort na República Dominicana deixa turista morta e força saída de 1.700 hóspedes",
-          "resumo": "Fogo atingiu o Viva Wyndham Dominicus Beach Hotel, em Bayahibe, e se espalhou rapidamente devido à estrutura de palha do telhado, segundo autoridades locais",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/incendio-em-resort-na-republica-dominicana-deixa-turista-morta-e-forca-saida-de-1-700-hospedes/"
-            }
-          ],
-          "updatedAt": "2026-06-20T14:37:02.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-20-at-11.35.01.jpeg?quality=70&strip=info"
+          "updatedAt": "2026-06-20T16:00:30.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/acidente-mins-2.jpeg"
         },
         {
           "clusterId": "18bf164a13ce8fa2",
@@ -439,23 +419,6 @@
           "imageUrl": "https://s2-g1.glbimg.com/H-UsdcDtncNokxnEL_ivuMV7XdI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/K/PDnrAUTMSG8WGgp2YEWg/2026-06-20t085155z-1061599908-rc2kxla6cfdz-rtrmadp-3-iran-crisis-israel-lebanon.jpg"
         },
         {
-          "clusterId": "9c72abc4ff0fea5e",
-          "slug": "5fa114c9111ddc28",
-          "titulo": "Brasileiro se muda para o Haiti após conhecer o país em 2010",
-          "resumo": "Werner Garbers Elias Pereira, conhecido como Neno, chegou ao Haiti em 2010 durante uma tragédia. Ele desenvolveu afinidade com o país e, posteriormente, mudou‑se para lá. A história foi mencionada em cobertura da Copa do Mundo.",
-          "porQueImporta": "Mostra como eventos de crise podem gerar laços pessoais e migrações internacionais",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c5yezr7e4z2o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-06-19T21:34:12.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6632/live/d18cb6b0-59a2-11f1-b088-1bced8e5ea68.jpg"
-        },
-        {
           "clusterId": "7cdb63565bc84b3f",
           "slug": "935762045584326f",
           "titulo": "Brasil despeja cerca de 1,3 milhão de toneladas de microplásticos nos oceanos anualmente",
@@ -479,146 +442,223 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "f67cd2590a9432ff",
-          "slug": "28aee716133a6feb",
-          "titulo": "Acidente entre caminhão e carro deixa motorista morto e passageiro ferido na MGC-135",
-          "resumo": "Um caminhão que transportava carvão colidiu com um carro na rodovia MGC-135, km 291, em Mirabela. O motorista do caminhão saiu ileso, enquanto o condutor do carro morreu no local e o passageiro foi socorrido pelo SAMU com ferimentos. A via estava sinalizada pela Polícia Militar no momento do acidente.",
-          "porQueImporta": "O acidente evidencia a necessidade de atenção e medidas de segurança nas rodovias estaduais",
+          "clusterId": "3e89ffbb915d52a3",
+          "slug": "b743b5e3b9cd8ea1",
+          "titulo": "Idosa de 75 anos morre atropelada na BR-101 em Nossa Senhora do Socorro",
+          "resumo": "Uma mulher de 75 anos foi atingida por um veículo de passeio na BR-101, no bairro Parque dos Faróis, em Nossa Senhora do Socorro, e morreu no local. A Polícia Rodoviária Federal informou que o acidente envolveu apenas um carro, mas não detalhou a dinâmica nem a identidade do condutor. O Instituto Médico Legal recolheu o corpo e a Polícia Civil iniciará a investigação.",
+          "porQueImporta": "O caso evidencia riscos de segurança viária para pedestres, especialmente idosos, em áreas urbanas.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/20/acidente-entre-caminhao-e-carro-deixa-motorista-morto-e-passageiro-ferido-na-mgc-135.ghtml"
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/20/idosa-morre-atropelada-na-br-101-em-nossa-senhora-do-socorro.ghtml"
             }
           ],
-          "updatedAt": "2026-06-20T17:47:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xkcozh1vm9U7oyXmlUs4Abb1x7c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/l/U6YRXBS1OmMnW4sYkAvw/bombeiros-mg.jpg"
+          "updatedAt": "2026-06-20T21:46:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UEjcsEH-dToLuMUCfdUMj3FkIgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/L/qgtdbnQxyZzaRyCKVF4A/imagem-g1-24-.jpg"
         },
         {
-          "clusterId": "bd9c0dba5f128967",
-          "slug": "233d923bb38eb4b2",
-          "titulo": "Homem preso por pilotar moto embriagado após acidente em Volta Redonda",
-          "resumo": "Um homem de 36 anos foi detido por conduzir motocicleta sob efeito de álcool após colidir na Rodovia do Contorno, bairro Três Poços, na noite de sexta‑feira. A vítima apresentava sinais de embriaguez, não possuía documentos e alegou não ter Carteira Nacional de Habilitação. O Serviço de Atendimento Móvel de Urgência já atendia o local quando a polícia chegou.",
-          "porQueImporta": "O caso evidencia o perigo de conduzir veículos sob influência de álcool nas vias públicas",
+          "clusterId": "f3a98c45c6d05dfd",
+          "slug": "ad7e3178226cbbc2",
+          "titulo": "Engavetamento entre três carros deixa feridos e interdita faixa da Rodovia Washington Luís",
+          "resumo": "Um engavetamento envolvendo três veículos ocorreu na Rodovia Washington Luís, no quilômetro 438, sentido capital paulista, em São José do Rio Preto. Três ocupantes ficaram levemente feridos e foram socorridos. Uma das faixas da rodovia foi bloqueada para o atendimento das vítimas, gerando congestionamento no trecho. A concessionária EcoVias informou a interdição parcial da via.",
+          "porQueImporta": "O bloqueio parcial da rodovia pode causar atrasos e afetar o trânsito na região",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/20/homem-e-preso-por-pilotar-moto-embriagado-apos-acidente-em-volta-redonda.ghtml"
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/20/engavetamento-entre-tres-carros-deixa-feridos-e-interdita-faixa-da-rodovia-washington-luis.ghtml"
             }
           ],
-          "updatedAt": "2026-06-20T17:33:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cH1lYDPCWv6Qp9T-xg1BAGKWJ0g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/R/A/tPxBPFRN6gYBy0oy6NBw/whatsapp-image-2023-01-03-at-08.22.50.jpeg"
+          "updatedAt": "2026-06-20T21:07:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MRRHeVTBCmlNvzVKFeBWjdlDT0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/E/961ctXTiiBH2LrTCp0rQ/untitled.jpg"
         },
         {
-          "clusterId": "3f914ed490117f25",
-          "slug": "7b3e165032b1081e",
-          "titulo": "Acidente entre caminhões na BR-153 deixa vítima carbonizada em Crixás do Tocantins",
-          "resumo": "Dois caminhões colidiram na manhã de sexta-feira (19) no quilômetro 603 da BR-153, em Crixás do Tocantins, provocando incêndio. Um dos veículos transportava pneus e o outro tintas. Uma vítima foi encontrada carbonizada, conforme informou a Secretaria de Segurança Pública do Tocantins. A rodovia ficou interditada até a remoção dos destroços e dos corpos.",
-          "porQueImporta": "O acidente interrompeu o tráfego na principal via da região e evidencia riscos de incêndio envolvendo cargas perigosas",
+          "clusterId": "2bbf550de6687212",
+          "slug": "605d3a72b2163a3b",
+          "titulo": "Motociclista gravemente ferido após colisão com carreta em Itu",
+          "resumo": "Um motociclista colidiu com a traseira de uma carreta na rodovia Castello Branco, no quilômetro 70, em Itu, na tarde de sábado. O condutor da carreta deixou o local sem prestar socorro. A vítima foi retirada da pista e levada ao hospital por helicóptero da Polícia Militar.",
+          "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de socorro imediato às vítimas.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/20/acidente-entre-caminhoes-deixa-vitima-carbonizada-em-crixas-do-tocantins.ghtml"
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/20/motociclista-bate-em-traseira-de-carreta-e-e-resgatado-por-helicoptero-aguia-na-castello-branco.ghtml"
             }
           ],
-          "updatedAt": "2026-06-20T16:51:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4oE7Ig1Erim5v8U1rHcpTxYE0IQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/B/ANwAGUS2SvP30psjUz7Q/foto-e-montagem-vertical-4-1-1-.gif"
+          "updatedAt": "2026-06-20T20:59:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/3vSyps643Bw4WC1QkWgjSnoU00M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/H/ZtCMrIQoAH9PDgojM2eQ/2ecd5cb8-bf9d-41a8-85d9-ba621abea9d2-1-.jpg"
         },
         {
-          "clusterId": "a0469045f28a5add",
-          "slug": "f976da97b808ab93",
-          "titulo": "Uma pessoa morre em acidente envolvendo 20 veículos na BR-262, em Betim",
-          "resumo": "Um acidente na rodovia BR-262, em Betim, envolveu cerca de 20 veículos, incluindo 15 carros, três caminhões e duas motocicletas. Segundo o Corpo de Bombeiros de Minas Gerais, houve uma vítima fatal. As causas do engarrafamento ainda não foram divulgadas. As autoridades foram acionadas para atender a ocorrência e remover os veículos.",
-          "porQueImporta": "O acidente destaca riscos de congestionamento e segurança viária em rodovias movimentadas",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/acidente-20-veiculos-br-262-betim"
-            }
-          ],
-          "updatedAt": "2026-06-20T16:00:30.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/acidente-mins-2.jpeg"
-        },
-        {
-          "clusterId": "737a67f1e3a56c87",
-          "slug": "d0d3ebce3f0785fb",
-          "titulo": "Pedestre com sinais de embriaguez é atropelado por motorista sem CNH na BR-352",
-          "resumo": "Um homem de 40 anos foi atropelado na noite de sexta‑feira na BR‑352, em Onça de Pitangui, enquanto caminhava contrariamente à via apresentando sinais de embriaguez. O motorista, de 51 anos, não possui carteira de habilitação e informou que tentou frear antes da colisão. A vítima foi socorrida pelos bombeiros e encaminhada ao pronto‑atendimento municipal de Pará de Minas. O estado de saúde do pedestre não foi divulgado.",
-          "porQueImporta": "O caso evidencia riscos de acidentes envolvendo pedestres vulneráveis e motoristas sem habilitação legal.",
+          "clusterId": "429eed8d91cd2685",
+          "slug": "2b06e5f526500ae3",
+          "titulo": "Militar do Exército dirige caminhonete bêbado e mata motociclista em Campo Grande",
+          "resumo": "Um militar do Exército, de 22 anos, conduzia uma caminhonete sob efeito de álcool quando colidiu com a motocicleta de Miriam Rosa Matos, de 44 anos, na Rua Maracaju, no centro de Campo Grande, na manhã de sábado. A vítima morreu no local. Após o impacto, o veículo girou, bateu em uma árvore e invadiu o estacionamento de uma clínica. As imagens foram capturadas por câmeras de segurança.",
+          "porQueImporta": "O caso evidencia os perigos da condução sob influência de álcool, inclusive entre membros das forças armadas, e reforça a necessidade de fiscalização no trânsito",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/20/pedestre-com-sinais-de-embriaguez-e-atropelado-por-motorista-sem-cnh-na-br-352.ghtml"
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/20/militar-bebado-roda-caminhonete-na-pista-apos-bater-e-matar-motociclista-em-campo-grande-video.ghtml"
             }
           ],
-          "updatedAt": "2026-06-20T15:51:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Y1os8BxjEMJqUAbPjI4_wbIqy04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/P/z16xNlQFeUNnTVtDHnrQ/whatsapp-image-2026-06-20-at-08.52.54.jpeg"
+          "updatedAt": "2026-06-20T20:14:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/i2Uym53j5xMFhDxe271iBFxlSdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/h/61WpAWQKShzieViBEmTA/whatsapp-image-2026-06-20-at-17.36.39.jpeg"
         },
         {
-          "clusterId": "4c393bdbc499e013",
-          "slug": "b99162c942c97115",
-          "titulo": "Ônibus da Transarapari tomba na PA-151 em Abaetetuba",
-          "resumo": "Um ônibus da empresa Transarapari saiu da pista e tombou na rodovia PA-151, em Abaetetuba, no Pará, na sexta-feira. O veículo transportava cerca de 30 passageiros que seguiam de Belém. Não foram registrados feridos graves. O acidente mobilizou policiais, moradores, equipes da empresa e o Corpo de Bombeiros para atender os passageiros.",
-          "porQueImporta": "O acidente evidencia riscos nas rodovias regionais e a necessidade de resposta rápida de serviços de emergência.",
+          "clusterId": "7764e72995c524c3",
+          "slug": "02ee824d7e799b52",
+          "titulo": "Motociclista de 18 anos morre em acidente de trânsito em Cruzeiro do Sul, Acre",
+          "resumo": "Um jovem de 18 anos morreu após perder o controle da motocicleta e cair em uma ladeira do bairro Copacabana, em Cruzeiro do Sul, interior do Acre. O Serviço de Atendimento Móvel de Urgência (Samu) levou a vítima ao Hospital do Juruá, onde não resistiu aos ferimentos. O acidente ocorreu na tarde de sábado, dia 20.",
+          "porQueImporta": "A morte de um adolescente evidencia os riscos de acidentes de trânsito nas vias locais",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/06/20/onibus-tomba-na-pa-151-em-abaetetuba-no-pa-apos-manobra-para-evitar-colisao-com-carreta.ghtml"
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/20/motociclista-morre-durante-acidente-de-transito-no-interior-do-acre.ghtml"
             }
           ],
-          "updatedAt": "2026-06-20T15:37:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TwvF2mfP3Pjk7L6C5TsFx-L7Nx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/r/hMy7QWRWSdC7UvXu3L3w/sem-titulo.png"
+          "updatedAt": "2026-06-20T20:04:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/b9JFkRS1e9oVLjb55893A_sBjQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/m/r5rnyfRJiwGGJF7V9xXg/midia-de-distribuicao-g1-2026-06-20t170055.897.jpg"
         },
         {
-          "clusterId": "0081e727388f13cd",
-          "slug": "109b739176461d44",
-          "titulo": "Mototaxista colide com ônibus parado e fica gravemente ferido em Santarém",
-          "resumo": "Na manhã de sábado (20), um mototaxista não conseguiu frear e atingiu a traseira de um ônibus que estava parado para embarque e desembarque de passageiros na rodovia Fernando Guilhon, em Santarém, Pará. O impacto deixou a vítima gravemente ferida, conforme informações da Secretaria Municipal de Mobilidade e Trânsito. Testemunhas relataram o momento da colisão.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego em vias urbanas e a necessidade de atenção ao parar veículos para embarque de passageiros.",
+          "clusterId": "3f9f0b05d9090916",
+          "slug": "927af6b289d4ca26",
+          "titulo": "Motociclista sem habilitação é arremessado por carro ao tentar atravessar BR-040 em João Pinheiro",
+          "resumo": "Um motociclista de 45 anos, sem carteira de habilitação, tentou cruzar a BR-040 de forma irregular e foi atingido por um carro. O impacto arremessou o motociclista, que ficou gravemente ferido. O acidente ocorreu na tarde de sexta-feira, 19, em João Pinheiro, no noroeste de Minas Gerais. A Polícia Rodoviária Federal registrou o fato.",
+          "porQueImporta": "O caso evidencia riscos de circulação irregular e a necessidade de fiscalização nas rodovias.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/20/mototaxista-bate-na-traseira-de-onibus-parado-e-fica-gravemente-ferido-em-santarem.ghtml"
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/20/video-motociclista-inabilitado-e-arremessado-por-carro-ao-tentar-atravessar-br-040-de-forma-irregular-em-joao-pinheiro.ghtml"
             }
           ],
-          "updatedAt": "2026-06-20T15:16:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/R0EWeAR8H-dgsQ5xYM1QOfnyttk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/NgT8MjQAyKriqcLfQxWg/whatsapp-image-2026-06-20-at-12.02.29.jpeg"
+          "updatedAt": "2026-06-20T19:59:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/d9vSl6jG2BBHvzEe_NxIeLpy6rQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/C/qqCzAWRbATVcL5uQUfMw/gif-6-.gif"
+        },
+        {
+          "clusterId": "a0cb2bff9cf8f7e9",
+          "slug": "981b9ac4550c959d",
+          "titulo": "Jovem morre e dois ficam feridos em acidente na RJ-106 em Rio das Ostras",
+          "resumo": "Um jovem de 20 anos morreu no local e dois jovens de 23 anos ficaram feridos após um acidente envolvendo um carro de passeio na RJ-106, na localidade de Mar do Norte, em Rio das Ostras, na madrugada de sábado. As vítimas foram socorridas; a morte ocorreu no local e os feridos permanecem internados. As circunstâncias do acidente ainda são investigadas.",
+          "porQueImporta": "O acidente resultou em fatalidade e feridos, demandando resposta de emergência e investigação de causas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/20/jovem-morre-e-dois-ficam-feridos-em-acidente-na-rj-106-em-rio-das-ostras.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-20T19:43:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2kfk9LBT0rY0vpEMhp4GSm2L8Pk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/g/5BuQNXRherBzAoB4PPWA/fb.jpg"
+        },
+        {
+          "clusterId": "8098cc64c898bd4b",
+          "slug": "64d5f7c1bb37a179",
+          "titulo": "Motorista morre ao colidir carro com traseira de caminhão na SP-147 em Iracemápolis",
+          "resumo": "Um carro Honda Fit colidiu com a traseira de uma carreta Volvo na rodovia Deputado Laércio Corte (SP-147), próximo ao km 128, em Iracemápolis. Após a colisão, o veículo perdeu o controle, parou entre a segunda faixa e o acostamento e bloqueou parte da via. O condutor da carreta não se feriu, mas o motorista do carro morreu no local. A rodovia foi liberada posteriormente.",
+          "porQueImporta": "O acidente resultou em óbito e interrompeu o tráfego em uma rodovia estadual importante.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/20/motorista-morre-apos-bater-contra-traseira-de-carreta-em-rodovia-de-iracemapolis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-20T19:41:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CfjRs2celV7vhRttp1zoEFY657U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/3xk5dXRiABgPXlvB3Q3A/design-sem-nome-6-.png"
         }
       ]
     },
     {
-      "slug": "explosao",
-      "label": "Explosão",
+      "slug": "incendio",
+      "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "1f011aebec35e19b",
-          "slug": "ce253b7e3c0e57dd",
-          "titulo": "Borracheiro fica gravemente ferido após explosão de pneu em Eldorado do Carajás, Pará",
-          "resumo": "Um borracheiro sofreu ferimentos graves em uma das mãos quando o pneu que estava reparando explodiu com força. O acidente ocorreu na tarde de sexta‑feira, durante um serviço de manutenção em uma borracharia da cidade. Testemunhas relataram que o trabalhador foi atingido pelo impacto da explosão e recebeu atendimento imediato no local. A vítima foi encaminhada para tratamento médico após o ocorrido.",
-          "porQueImporta": "O caso evidencia os riscos associados ao trabalho com pneus e a necessidade de medidas de segurança adequadas.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "5c19d193410aab4f",
+          "slug": "9107bf9f6a184526",
+          "titulo": "Incêndio destrói oficina em Franca e mecânico resgata cachorrinha",
+          "resumo": "Na quinta‑feira (18), um incêndio consumiu a oficina mecânica de Welker Malaquias, na Vila Industrial, em Franca (SP). Durante o fogo, o mecânico conseguiu retirar a cachorrinha chamada Bela, que estava presa nos fundos do estabelecimento. As chamas se espalharam pelo imóvel, culminando na destruição total da estrutura. O resgate do animal foi a principal preocupação do proprietário durante o incidente.",
+          "porQueImporta": "O caso ilustra a rapidez necessária para proteger vidas – humanas ou animais – em situações de incêndio",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/06/20/borracheiro-fica-gravemente-ferido-apos-explosao-de-pneu-em-eldorado-do-carajas-no-para.ghtml"
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/20/mecanico-relembra-salvamento-de-cachorrinha-de-incendio-em-oficina-em-franca-sp-foi-a-maior-emocao.ghtml"
             }
           ],
-          "updatedAt": "2026-06-20T15:29:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/US0CH2GoWFWSKYDcJuu66zRRcP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/o/3Pj8AyRZ6W7xTUSqTzZA/sem-titulo.png"
+          "updatedAt": "2026-06-20T20:04:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GB7qJeKtGp3lZXaRubZevOFirzE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/a/BKfRGxSs2xxPadwFT4DQ/resgata-cachorro.jpg"
+        },
+        {
+          "clusterId": "49e0cddd5e7f619b",
+          "slug": "d1aefad5aad14412",
+          "titulo": "Incêndio em resort da República Dominicana deixa uma pessoa morta e nove feridas",
+          "resumo": "Um incêndio atingiu o Viva Wyndham Dominicus Beach Hotel, em Bayahibe, causando a morte de uma turista. Aproximadamente 1.700 hóspedes estavam no local no momento do incidente. Nove pessoas ficaram feridas e receberam atendimento médico. As autoridades apontam que a estrutura de palha do telhado contribuiu para a rápida propagação das chamas.",
+          "porQueImporta": "O evento evidencia riscos de segurança em hotéis de estrutura vulnerável e impacta milhares de turistas presentes.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/incendio-em-resort-na-republica-dominicana-deixa-uma-pessoa-morta"
+            }
+          ],
+          "updatedAt": "2026-06-20T10:42:20.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/incendio-em-resort-na-republica-dominicana-deixa-uma-pessoa-morta.jpg"
+        },
+        {
+          "clusterId": "874038af9ea35d4c",
+          "slug": "bfb15d736cda2efc",
+          "titulo": "Incêndio em escola primária no norte de Tóquio evacua crianças",
+          "resumo": "Um incêndio começou na sala de música do quarto andar de uma escola primária no norte de Tóquio nesta sexta-feira. As crianças foram evacuadas e algumas aguardaram resgate em um parapeito estreito ao lado de uma janela, enquanto fumaça densa se espalhava. O incidente mobilizou equipes de emergência para conter as chamas e retirar os alunos com segurança.",
+          "porQueImporta": "Mostra a vulnerabilidade de ambientes escolares a incêndios e a importância de respostas rápidas para proteger crianças",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/19/video-criancas-resgate-parapeito-janela-incendio-escola-japao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-19T11:31:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mLUqhYgjbt2Xr3Nj6E2Uz7_GpB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Q/ywM4XUSaGQQAUGzuMZlw/novo-projeto-4-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "cef7eced1c822266",
+          "slug": "d04bc52062dd25fd",
+          "titulo": "Co-fundador da Ubisoft morre em acidente aéreo na França",
+          "resumo": "Claude Guillemot, co-fundador da Ubisoft, morreu em um acidente de avião na França. Ele pilotava a aeronave ao lado de um instrutor quando o incidente ocorreu. A vítima tinha 69 anos. As causas ainda não foram divulgadas.",
+          "porQueImporta": "A morte de um executivo influente da indústria de jogos tem impacto no setor de entretenimento digital.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/pop/co-fundador-da-ubisoft-morre-em-acidente-de-aviao-aos-69-anos-diz-site/"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/cofundador-da-ubisoft-criadora-de-just-dance-morre-em-acidente-aereo/"
+            }
+          ],
+          "updatedAt": "2026-06-20T21:40:17.000Z"
         }
       ]
     },
@@ -642,29 +682,6 @@
           ],
           "updatedAt": "2026-06-19T18:11:18.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/VenV5YGQM-PXQKp7729s6D_Ccd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/sDbJPGQB6JUmqeAaysaA/hlmaitexuaelpcj.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "874038af9ea35d4c",
-          "slug": "bfb15d736cda2efc",
-          "titulo": "Incêndio em escola primária no norte de Tóquio evacua crianças",
-          "resumo": "Um incêndio começou na sala de música do quarto andar de uma escola primária no norte de Tóquio nesta sexta-feira. As crianças foram evacuadas e algumas aguardaram resgate em um parapeito estreito ao lado de uma janela, enquanto fumaça densa se espalhava. O incidente mobilizou equipes de emergência para conter as chamas e retirar os alunos com segurança.",
-          "porQueImporta": "Mostra a vulnerabilidade de ambientes escolares a incêndios e a importância de respostas rápidas para proteger crianças",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/19/video-criancas-resgate-parapeito-janela-incendio-escola-japao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-19T11:31:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mLUqhYgjbt2Xr3Nj6E2Uz7_GpB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Q/ywM4XUSaGQQAUGzuMZlw/novo-projeto-4-.jpg"
         }
       ]
     }
