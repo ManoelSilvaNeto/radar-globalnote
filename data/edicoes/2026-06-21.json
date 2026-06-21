@@ -1,35 +1,94 @@
 {
   "date": "2026-06-21",
-  "generatedAt": "2026-06-21T05:27:24.273Z",
+  "generatedAt": "2026-06-21T11:32:33.687Z",
   "home": [
     {
-      "clusterId": "614791a2fc7429cd",
-      "slug": "09d9cee1bcd0706d",
-      "titulo": "Alerta falso da Defesa Civil pode ter sido resultado de ataque hacker",
-      "resumo": "Na madrugada de sábado, usuários de vários estados receberam alertas de emergência contendo a palavra \"misantropia\". A Defesa Civil e a Anatel confirmaram que os alertas não foram emitidos por autoridades e apontaram a possibilidade de invasão hacker. O Ministério da Integração e do Desenvolvimento Regional convocou a Polícia Federal para investigar o incidente. O sistema de avisos, incluindo o Cell Broadcast, foi temporariamente desativado em alguns estados.",
-      "porQueImporta": "O incidente demonstra vulnerabilidade dos sistemas de alerta público e pode gerar pânico desnecessário.",
+      "clusterId": "dacd1e6d416f7fc3",
+      "slug": "535f60ae0dc1fcd0",
+      "titulo": "Alerta falso da Defesa Civil acorda milhões de brasileiros",
+      "resumo": "Na madrugada de sábado (20), mensagens classificadas como alerta extremo foram enviadas a celulares de moradores de diversas cidades, contendo a palavra \"misantropia\" e, em alguns casos, referência a um suposto ataque alienígena. O Ministério da Integração e do Desenvolvimento Regional informou que o disparo não seguiu o padrão operacional da ferramenta \"Defesa Civil Alerta\" e que o sistema foi retirado do ar. A Polícia Federal abriu investigação para apurar possível ataque hacker ao sistema. As autoridades ainda esclarecem detalhes sobre a origem e o conteúdo das mensagens.",
+      "porQueImporta": "O incidente gerou ampla confusão e evidencia vulnerabilidades em sistemas de alerta de risco público.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/brasileiros-recebem-alerta-sonoro-falso-no-celular-defesa-civil-nega-envio"
+          "url": "https://www.metropoles.com/brasil/defesa-civil-sistema-de-alerta-nacional-e-retirado-do-ar-apos-ataque"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/06/21/alerta-extremo-falso-da-defesa-civil-veja-o-que-se-sabe-e-o-que-ainda-falta-esclarecer.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/alerta-de-misantropia-da-defesa-civil-atingiu-30-milhoes-de-brasileiros/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/governo-do-pr-diz-que-alerta-falso-da-defesa-civil-fere-lei-antiterrorismo/"
+          "url": "https://g1.globo.com/politica/noticia/2026/06/21/alertas-falsos-nao-seguiram-padrao-operacional-do-defesa-civil-alerta-entenda-como-funciona-o-sistema.ghtml"
         }
       ],
-      "updatedAt": "2026-06-21T03:00:09.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/defesa-civil.jpg"
+      "updatedAt": "2026-06-21T07:00:33.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/brasileiros-recebem-alerta-sonoro-falso-no-celular-defesa-civil-nega-envio-celulares-curitiba-brasilia-palavra-misantropia-metropoles-12-scaled.jpg"
+    },
+    {
+      "clusterId": "985c56faa4b1905e",
+      "slug": "9371645dea5ed027",
+      "titulo": "Inverno no interior de SP terá temperaturas acima da média e chuvas dentro do esperado",
+      "resumo": "O inverno começou neste domingo, às 05h24, e deve ser mais quente que o normal na maior parte do interior de São Paulo, segundo o Inmet. As precipitações previstas permanecem dentro da média histórica para a estação. O período costuma ser o mais seco da região Sudeste, o que favorece a ocorrência e a propagação de queimadas e incêndios florestais, além de agravar problemas respiratórios.",
+      "porQueImporta": "As condições climáticas aumentam o risco de incêndios e complicam a saúde da população",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/21/inverno-no-interior-de-sp-tera-temperaturas-acima-da-media-e-chuvas-dentro-do-esperado-aponta-inmet.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-21T11:00:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/D2CunIj64K5_V_OP45rhPEcKA8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/Z/C5xzmeRgeuenjvhvqSFQ/g1-69-.jpg"
+    },
+    {
+      "clusterId": "da606fdcefdbb630",
+      "slug": "56496d890314379d",
+      "titulo": "Minas Gerais tem a pior segurança rodoviária do Sudeste, aponta CNT",
+      "resumo": "O Painel Rodovias que Perdoam, da Confederação Nacional do Transporte, revelou que Minas Gerais registrou o pior desempenho em segurança da infraestrutura rodoviária entre os estados do Sudeste. Quase um terço das estradas do estado apresenta baixo nível de proteção ao motorista, condição que eleva o risco de mortes e ferimentos graves. Apenas 22,4% das rodovias mineiras têm alto índice de segurança, segundo o levantamento divulgado neste mês.",
+      "porQueImporta": "A baixa proteção nas rodovias aumenta a vulnerabilidade dos usuários e pode gerar mais acidentes graves.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/21/minas-gerais-tem-a-pior-seguranca-rodoviaria-do-sudeste-e-baixa-protecao-em-3-a-cada-10-km-de-estrada-aponta-cnt.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-21T10:00:34.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/t3QSxDpWYzcQfVZpNXSal1YWwJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/I/R/2FBUeZTdAfcDn1BW4VIg/img-7366.jpg"
+    },
+    {
+      "clusterId": "dcc67f3a207cb570",
+      "slug": "223a711664414990",
+      "titulo": "Ataques de drones ucranianos matam cinco e ferem 28 na Crimeia e na região de Krasnodar",
+      "resumo": "Um ataque de drones ucranianos na península da Crimeia resultou na morte de quatro pessoas e deixou 28 feridas, segundo o governador da região. Em outro incidente, um drone atingiu uma instalação de transporte de petróleo na região de Krasnodar, matando um passageiro a bordo de uma balsa e provocando incêndio em um terminal. As autoridades russas confirmaram a presença dos drones e o presidente da Ucrânia reconheceu o ataque ao terminal de petróleo. Os dois episódios foram divulgados no mesmo dia pelas autoridades locais.",
+      "porQueImporta": "Os ataques demonstram a escalada da guerra e afetam civis em áreas estratégicas da Rússia",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/21/ataques-da-ucrania-matam-cinco-e-ferem-28-na-crimeia-e-no-sul-da-russia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-21T08:28:57.000Z"
+    },
+    {
+      "clusterId": "a9af32aa116ca5bd",
+      "slug": "240c3dedcd9d8da0",
+      "titulo": "Sobrevivente de queda de balão em Praia Grande relata falhas e ausência de responsáveis",
+      "resumo": "Em 21 de junho de 2025, um balão caiu em Praia Grande, Santa Catarina, matando oito pessoas, entre elas o casal Everaldo da Rocha e Janaina Moreira Soares da Rocha. A filha Luana da Rocha, única sobrevivente, falou à NSC apontando falhas operacionais e omissão do poder público. A investigação permanece sem identificar culpados. A tragédia é considerada a maior do balonismo brasileiro.",
+      "porQueImporta": "O acidente evidencia lacunas na segurança e na regulação de atividades de balonismo no país",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/21/um-ano-apos-ver-pais-morrerem-em-queda-de-balao-em-sc-sobrevivente-desabafa-parece-que-nao-ha-responsaveis.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-21T07:00:54.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/8ptOuiBFr5zJJ7cMdy6KcwOzgzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/lQFpouTOCNuoXGiLdWig/filha-que-perdeu-pai-e-mae-em-queda-de-balao-em-sc-relata-impunidade-um-ano-apos-tragedia.png"
     },
     {
       "clusterId": "fa9315cb3722aeba",
@@ -66,39 +125,6 @@
       "imageUrl": "https://s2-g1.glbimg.com/gCL4LutMIfl9UFAdzHtvpLoUWic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/z/Gx6AlLTwO3LEsVFU5eRg/quem-sao-as-vitimas-da-queda-de-balao-de-praia-grande-sc-..avif"
     },
     {
-      "clusterId": "a5f38d8922dd196d",
-      "slug": "fdc656cd56538b3e",
-      "titulo": "Calor extremo na Europa e proibição de álcool em eventos públicos na França",
-      "resumo": "Temperaturas na Europa atingiram níveis de 41 °C em algumas regiões, provocando uma onda de calor. Em resposta, a França proibiu o consumo de álcool em eventos públicos em 35 departamentos. A medida visa reduzir riscos de saúde e segurança associados ao calor intenso. A proibição se aplica a todas as atividades públicas, incluindo festivais e celebrações.",
-      "porQueImporta": "A medida demonstra como o aumento de temperaturas pode levar a políticas públicas de saúde e segurança.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/onda-de-calor-atinge-europa-e-franca-proibe-alcool-em-eventos/"
-        }
-      ],
-      "updatedAt": "2026-06-21T00:36:29.000Z"
-    },
-    {
-      "clusterId": "edf276bd8e249bd5",
-      "slug": "9261610d6b0441c4",
-      "titulo": "Homem morre e duas mulheres ficam gravemente feridas após batida entre motos em Gurupi",
-      "resumo": "Na noite de sexta-feira, 19, em Gurupi, uma colisão frontal entre duas motocicletas resultou na morte de Anderson Clayton Rodrigues Batista, de 38 anos, e deixou duas mulheres gravemente feridas. O acidente ocorreu por volta das 22h, na Rua 1, setor Waldir Lins, quando uma das motos, trafegando no sentido norte‑sul, invadiu a pista contrária para acessar a BR‑153 e colidiu de frente com a outra. A Polícia Militar relatou que a colisão foi causada pela invasão da pista contrária.",
-      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em vias de acesso à rodovia BR‑153.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/20/homem-morre-e-duas-mulheres-ficam-gravemente-feridas-apos-batida-entre-motos-em-gurupi.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-20T23:01:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1gkLG8CSUj8N3yWQ5Pv5M_qv57Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/8/hTHT5ARgOXiccERKuB3g/273760403-4890918444325142-5700913971307262163-n.avif"
-    },
-    {
       "clusterId": "d38dda955fd3c295",
       "slug": "076720b74d3bafca",
       "titulo": "Onda de frio intensifica temperaturas e risco de geada no Sul do Brasil",
@@ -113,57 +139,6 @@
         }
       ],
       "updatedAt": "2026-06-20T22:45:55.000Z"
-    },
-    {
-      "clusterId": "973de418dbcc684e",
-      "slug": "0deec3b4cf282f86",
-      "titulo": "Interrupção de energia afeta cerca de 10 mil consumidores no Norte de Minas Gerais devido a pipas",
-      "resumo": "Em 2026, aproximadamente 10 mil consumidores tiveram o fornecimento de energia interrompido no Norte de Minas Gerais por causa da soltura de pipas nas linhas elétricas. Dados da Cemig indicam que, no ano anterior, 54 mil consumidores foram afetados por situação semelhante. O engenheiro Jorge Magno, do Centro de Operações da Cemig, alertou que a prática pode gerar acidentes fatais. A interrupção ocorreu nas áreas urbanas, onde a proximidade das linhas de transmissão aumenta o risco.",
-      "porQueImporta": "Interrupções no fornecimento de energia e riscos de acidentes afetam a segurança e o bem‑estar da população local",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/20/em-2026-10-mil-consumidores-tiveram-interrupcao-de-energia-por-conta-de-pipas-no-norte-de-mg.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-20T22:43:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9SqzheErVt0XM2GlVJMevrbFKws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/Q/v/RpB1DrQ3GyNFkopIa9Mw/pipa-energia.jpg"
-    },
-    {
-      "clusterId": "3fbada218077d702",
-      "slug": "b23c5593019c9bff",
-      "titulo": "Motociclista de 35 anos morre em acidente em Governador Valadares",
-      "resumo": "Um homem de 35 anos foi encontrado morto após cair de motocicleta na madrugada de sábado (20) em Governador Valadares. A Polícia Militar localizou a vítima sob o viaduto da avenida Santos Dumont, entre os bairros Nossa Senhora de Lourdes e Altinópolis, e acionou o Samu, que confirmou o óbito no local.",
-      "porQueImporta": "A morte evidencia riscos de tráfego em áreas urbanas e a necessidade de atenção nas vias públicas",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/20/motociclista-morre-em-acidente-em-governador-valadares.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-20T22:36:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/J7aBFfKy0FVq3HV6e6MqURsNAtc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/d/4Z2vRpRFy2bEwUhV1qcQ/edicao-imagens-g1-17-.png"
-    },
-    {
-      "clusterId": "3e89ffbb915d52a3",
-      "slug": "b743b5e3b9cd8ea1",
-      "titulo": "Idosa de 75 anos morre atropelada na BR-101 em Nossa Senhora do Socorro",
-      "resumo": "Uma mulher de 75 anos foi atingida por um veículo de passeio na BR-101, no bairro Parque dos Faróis, em Nossa Senhora do Socorro, e morreu no local. A Polícia Rodoviária Federal informou que o acidente envolveu apenas um carro, mas não detalhou a dinâmica nem a identidade do condutor. O Instituto Médico Legal recolheu o corpo e a Polícia Civil iniciará a investigação.",
-      "porQueImporta": "O caso evidencia riscos de segurança viária para pedestres, especialmente idosos, em áreas urbanas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/20/idosa-morre-atropelada-na-br-101-em-nossa-senhora-do-socorro.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-20T21:46:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/UEjcsEH-dToLuMUCfdUMj3FkIgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/L/qgtdbnQxyZzaRyCKVF4A/imagem-g1-24-.jpg"
     },
     {
       "clusterId": "c2cc738e72494076",
@@ -181,199 +156,66 @@
       ],
       "updatedAt": "2026-06-20T21:25:14.000Z",
       "imageUrl": "https://images.metroimg.com/2026/06/engavetamento-porsche-motorista-preso.jpg"
+    },
+    {
+      "clusterId": "18bf164a13ce8fa2",
+      "slug": "6ae5e78dc0bcb0bf",
+      "titulo": "Incêndio destrói resort na República Dominicana e deixa vítima morta",
+      "resumo": "Um incêndio de grandes proporções atingiu o resort Viva Dominicus Beach by Wyndham, em Bayahibe, na República Dominicana, obrigando a retirada de quase 1.700 pessoas. Uma turista italiana de 46 anos foi identificada como vítima fatal. Três pessoas foram encaminhadas a unidades de saúde e seis receberam atendimento no local. O incidente ocorreu enquanto o local recebia hóspedes e visitantes.",
+      "porQueImporta": "O desastre afetou um grande número de turistas e gerou evacuação massiva em um destino turístico importante.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/20/inferno-incendio-destroi-resort-no-caribe-mata-turista-e-obriga-retirada-de-1700-pessoas-veja-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-20T12:44:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Ko4U0kx_JIHA88WXFqbBM9RNhG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/4/e5yQTZRaWgCBNckuB5IA/2026-06-20t014945z-1551628525-rc2dxla3meux-rtrmadp-3-dominican-republic-fire.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "edf276bd8e249bd5",
-          "slug": "9261610d6b0441c4",
-          "titulo": "Homem morre e duas mulheres ficam gravemente feridas após batida entre motos em Gurupi",
-          "resumo": "Na noite de sexta-feira, 19, em Gurupi, uma colisão frontal entre duas motocicletas resultou na morte de Anderson Clayton Rodrigues Batista, de 38 anos, e deixou duas mulheres gravemente feridas. O acidente ocorreu por volta das 22h, na Rua 1, setor Waldir Lins, quando uma das motos, trafegando no sentido norte‑sul, invadiu a pista contrária para acessar a BR‑153 e colidiu de frente com a outra. A Polícia Militar relatou que a colisão foi causada pela invasão da pista contrária.",
-          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em vias de acesso à rodovia BR‑153.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/20/homem-morre-e-duas-mulheres-ficam-gravemente-feridas-apos-batida-entre-motos-em-gurupi.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-20T23:01:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1gkLG8CSUj8N3yWQ5Pv5M_qv57Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/8/hTHT5ARgOXiccERKuB3g/273760403-4890918444325142-5700913971307262163-n.avif"
-        },
-        {
-          "clusterId": "3fbada218077d702",
-          "slug": "b23c5593019c9bff",
-          "titulo": "Motociclista de 35 anos morre em acidente em Governador Valadares",
-          "resumo": "Um homem de 35 anos foi encontrado morto após cair de motocicleta na madrugada de sábado (20) em Governador Valadares. A Polícia Militar localizou a vítima sob o viaduto da avenida Santos Dumont, entre os bairros Nossa Senhora de Lourdes e Altinópolis, e acionou o Samu, que confirmou o óbito no local.",
-          "porQueImporta": "A morte evidencia riscos de tráfego em áreas urbanas e a necessidade de atenção nas vias públicas",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/20/motociclista-morre-em-acidente-em-governador-valadares.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-20T22:36:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/J7aBFfKy0FVq3HV6e6MqURsNAtc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/d/4Z2vRpRFy2bEwUhV1qcQ/edicao-imagens-g1-17-.png"
-        },
-        {
-          "clusterId": "3e89ffbb915d52a3",
-          "slug": "b743b5e3b9cd8ea1",
-          "titulo": "Idosa de 75 anos morre atropelada na BR-101 em Nossa Senhora do Socorro",
-          "resumo": "Uma mulher de 75 anos foi atingida por um veículo de passeio na BR-101, no bairro Parque dos Faróis, em Nossa Senhora do Socorro, e morreu no local. A Polícia Rodoviária Federal informou que o acidente envolveu apenas um carro, mas não detalhou a dinâmica nem a identidade do condutor. O Instituto Médico Legal recolheu o corpo e a Polícia Civil iniciará a investigação.",
-          "porQueImporta": "O caso evidencia riscos de segurança viária para pedestres, especialmente idosos, em áreas urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/20/idosa-morre-atropelada-na-br-101-em-nossa-senhora-do-socorro.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-20T21:46:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UEjcsEH-dToLuMUCfdUMj3FkIgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/L/qgtdbnQxyZzaRyCKVF4A/imagem-g1-24-.jpg"
-        },
-        {
-          "clusterId": "f3a98c45c6d05dfd",
-          "slug": "ad7e3178226cbbc2",
-          "titulo": "Engavetamento entre três carros deixa feridos e interdita faixa da Rodovia Washington Luís",
-          "resumo": "Um engavetamento envolvendo três veículos ocorreu na Rodovia Washington Luís, no quilômetro 438, sentido capital paulista, em São José do Rio Preto. Três ocupantes ficaram levemente feridos e foram socorridos. Uma das faixas da rodovia foi bloqueada para o atendimento das vítimas, gerando congestionamento no trecho. A concessionária EcoVias informou a interdição parcial da via.",
-          "porQueImporta": "O bloqueio parcial da rodovia pode causar atrasos e afetar o trânsito na região",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/20/engavetamento-entre-tres-carros-deixa-feridos-e-interdita-faixa-da-rodovia-washington-luis.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-20T21:07:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MRRHeVTBCmlNvzVKFeBWjdlDT0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/E/961ctXTiiBH2LrTCp0rQ/untitled.jpg"
-        },
-        {
-          "clusterId": "2bbf550de6687212",
-          "slug": "605d3a72b2163a3b",
-          "titulo": "Motociclista gravemente ferido após colisão com carreta em Itu",
-          "resumo": "Um motociclista colidiu com a traseira de uma carreta na rodovia Castello Branco, no quilômetro 70, em Itu, na tarde de sábado. O condutor da carreta deixou o local sem prestar socorro. A vítima foi retirada da pista e levada ao hospital por helicóptero da Polícia Militar.",
-          "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de socorro imediato às vítimas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/20/motociclista-bate-em-traseira-de-carreta-e-e-resgatado-por-helicoptero-aguia-na-castello-branco.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-20T20:59:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3vSyps643Bw4WC1QkWgjSnoU00M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/H/ZtCMrIQoAH9PDgojM2eQ/2ecd5cb8-bf9d-41a8-85d9-ba621abea9d2-1-.jpg"
-        },
-        {
-          "clusterId": "3ae2801f389f618f",
-          "slug": "3f7ec687c1e9e6c6",
-          "titulo": "Uma pessoa morre em engavetamento com 15 veículos na BR-262, em Betim",
-          "resumo": "Um engavetamento envolvendo cerca de 15 veículos, entre carros, caminhões e motocicletas, ocorreu na rodovia BR-262, em Betim. O Corpo de Bombeiros de Minas Gerais informou que houve uma vítima fatal. As autoridades foram acionadas para atender o acidente e remover os veículos. Não foram divulgados detalhes adicionais sobre as causas ou o número de feridos.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego intenso em rodovias urbanas e a necessidade de medidas de segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/uma-pessoa-morre-em-acidente-entre-15-veiculos-na-br-262-em-betim"
-            }
-          ],
-          "updatedAt": "2026-06-20T16:00:30.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/acidente-mins-2.jpeg"
-        },
-        {
-          "clusterId": "2fe8395927ad6a54",
-          "slug": "c990399cc6d26e91",
-          "titulo": "Trens colidem no Reino Unido e deixam morto e feridos",
-          "resumo": "Dois trens colidiram na área de Bedford, no Reino Unido, nesta sexta-feira (19). A polícia informou que uma pessoa morreu e várias outras ficaram feridas, algumas com lesões graves. Equipes de emergência e agentes da polícia de Bedfordshire foram mobilizados ao local para atender as vítimas e controlar a situação.",
-          "porQueImporta": "O acidente interrompe o tráfego ferroviário em Londres e evidencia riscos de segurança nos transportes públicos.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/19/trens-colidem-no-reino-unido.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-19T18:11:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/VenV5YGQM-PXQKp7729s6D_Ccd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/sDbJPGQB6JUmqeAaysaA/hlmaitexuaelpcj.jpg"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "614791a2fc7429cd",
-          "slug": "09d9cee1bcd0706d",
-          "titulo": "Alerta falso da Defesa Civil pode ter sido resultado de ataque hacker",
-          "resumo": "Na madrugada de sábado, usuários de vários estados receberam alertas de emergência contendo a palavra \"misantropia\". A Defesa Civil e a Anatel confirmaram que os alertas não foram emitidos por autoridades e apontaram a possibilidade de invasão hacker. O Ministério da Integração e do Desenvolvimento Regional convocou a Polícia Federal para investigar o incidente. O sistema de avisos, incluindo o Cell Broadcast, foi temporariamente desativado em alguns estados.",
-          "porQueImporta": "O incidente demonstra vulnerabilidade dos sistemas de alerta público e pode gerar pânico desnecessário.",
+          "clusterId": "dacd1e6d416f7fc3",
+          "slug": "535f60ae0dc1fcd0",
+          "titulo": "Alerta falso da Defesa Civil acorda milhões de brasileiros",
+          "resumo": "Na madrugada de sábado (20), mensagens classificadas como alerta extremo foram enviadas a celulares de moradores de diversas cidades, contendo a palavra \"misantropia\" e, em alguns casos, referência a um suposto ataque alienígena. O Ministério da Integração e do Desenvolvimento Regional informou que o disparo não seguiu o padrão operacional da ferramenta \"Defesa Civil Alerta\" e que o sistema foi retirado do ar. A Polícia Federal abriu investigação para apurar possível ataque hacker ao sistema. As autoridades ainda esclarecem detalhes sobre a origem e o conteúdo das mensagens.",
+          "porQueImporta": "O incidente gerou ampla confusão e evidencia vulnerabilidades em sistemas de alerta de risco público.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/brasileiros-recebem-alerta-sonoro-falso-no-celular-defesa-civil-nega-envio"
+              "url": "https://www.metropoles.com/brasil/defesa-civil-sistema-de-alerta-nacional-e-retirado-do-ar-apos-ataque"
             },
             {
               "name": "G1",
-              "url": "https://g1.globo.com/tecnologia/noticia/2026/06/21/alerta-extremo-falso-da-defesa-civil-veja-o-que-se-sabe-e-o-que-ainda-falta-esclarecer.ghtml"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/alerta-de-misantropia-da-defesa-civil-atingiu-30-milhoes-de-brasileiros/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/governo-do-pr-diz-que-alerta-falso-da-defesa-civil-fere-lei-antiterrorismo/"
+              "url": "https://g1.globo.com/politica/noticia/2026/06/21/alertas-falsos-nao-seguiram-padrao-operacional-do-defesa-civil-alerta-entenda-como-funciona-o-sistema.ghtml"
             }
           ],
-          "updatedAt": "2026-06-21T03:00:09.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/defesa-civil.jpg"
+          "updatedAt": "2026-06-21T07:00:33.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/brasileiros-recebem-alerta-sonoro-falso-no-celular-defesa-civil-nega-envio-celulares-curitiba-brasilia-palavra-misantropia-metropoles-12-scaled.jpg"
         },
         {
-          "clusterId": "a5f38d8922dd196d",
-          "slug": "fdc656cd56538b3e",
-          "titulo": "Calor extremo na Europa e proibição de álcool em eventos públicos na França",
-          "resumo": "Temperaturas na Europa atingiram níveis de 41 °C em algumas regiões, provocando uma onda de calor. Em resposta, a França proibiu o consumo de álcool em eventos públicos em 35 departamentos. A medida visa reduzir riscos de saúde e segurança associados ao calor intenso. A proibição se aplica a todas as atividades públicas, incluindo festivais e celebrações.",
-          "porQueImporta": "A medida demonstra como o aumento de temperaturas pode levar a políticas públicas de saúde e segurança.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-internacional/onda-de-calor-atinge-europa-e-franca-proibe-alcool-em-eventos/"
-            }
-          ],
-          "updatedAt": "2026-06-21T00:36:29.000Z"
-        },
-        {
-          "clusterId": "973de418dbcc684e",
-          "slug": "0deec3b4cf282f86",
-          "titulo": "Interrupção de energia afeta cerca de 10 mil consumidores no Norte de Minas Gerais devido a pipas",
-          "resumo": "Em 2026, aproximadamente 10 mil consumidores tiveram o fornecimento de energia interrompido no Norte de Minas Gerais por causa da soltura de pipas nas linhas elétricas. Dados da Cemig indicam que, no ano anterior, 54 mil consumidores foram afetados por situação semelhante. O engenheiro Jorge Magno, do Centro de Operações da Cemig, alertou que a prática pode gerar acidentes fatais. A interrupção ocorreu nas áreas urbanas, onde a proximidade das linhas de transmissão aumenta o risco.",
-          "porQueImporta": "Interrupções no fornecimento de energia e riscos de acidentes afetam a segurança e o bem‑estar da população local",
+          "clusterId": "dcc67f3a207cb570",
+          "slug": "223a711664414990",
+          "titulo": "Ataques de drones ucranianos matam cinco e ferem 28 na Crimeia e na região de Krasnodar",
+          "resumo": "Um ataque de drones ucranianos na península da Crimeia resultou na morte de quatro pessoas e deixou 28 feridas, segundo o governador da região. Em outro incidente, um drone atingiu uma instalação de transporte de petróleo na região de Krasnodar, matando um passageiro a bordo de uma balsa e provocando incêndio em um terminal. As autoridades russas confirmaram a presença dos drones e o presidente da Ucrânia reconheceu o ataque ao terminal de petróleo. Os dois episódios foram divulgados no mesmo dia pelas autoridades locais.",
+          "porQueImporta": "Os ataques demonstram a escalada da guerra e afetam civis em áreas estratégicas da Rússia",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/20/em-2026-10-mil-consumidores-tiveram-interrupcao-de-energia-por-conta-de-pipas-no-norte-de-mg.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/21/ataques-da-ucrania-matam-cinco-e-ferem-28-na-crimeia-e-no-sul-da-russia.ghtml"
             }
           ],
-          "updatedAt": "2026-06-20T22:43:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9SqzheErVt0XM2GlVJMevrbFKws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/Q/v/RpB1DrQ3GyNFkopIa9Mw/pipa-energia.jpg"
+          "updatedAt": "2026-06-21T08:28:57.000Z"
         },
         {
           "clusterId": "c2cc738e72494076",
@@ -408,23 +250,86 @@
           ],
           "updatedAt": "2026-06-20T09:30:18.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/H-UsdcDtncNokxnEL_ivuMV7XdI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/K/PDnrAUTMSG8WGgp2YEWg/2026-06-20t085155z-1061599908-rc2kxla6cfdz-rtrmadp-3-iran-crisis-israel-lebanon.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
         {
-          "clusterId": "7cdb63565bc84b3f",
-          "slug": "935762045584326f",
-          "titulo": "Brasil despeja cerca de 1,3 milhão de toneladas de microplásticos nos oceanos anualmente",
-          "resumo": "O país libera aproximadamente 1,3 milhão de toneladas de microplásticos nos mares a cada ano, segundo dados divulgados. A situação é descrita como crítica, mas especialistas apontam que há medidas para reduzir a entrada dessas partículas na água. A reportagem destaca a necessidade de políticas e ações de prevenção para conter a poluição plástica marinha.",
-          "porQueImporta": "A presença de microplásticos afeta a vida marinha e a saúde humana, exigindo respostas urgentes",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "da606fdcefdbb630",
+          "slug": "56496d890314379d",
+          "titulo": "Minas Gerais tem a pior segurança rodoviária do Sudeste, aponta CNT",
+          "resumo": "O Painel Rodovias que Perdoam, da Confederação Nacional do Transporte, revelou que Minas Gerais registrou o pior desempenho em segurança da infraestrutura rodoviária entre os estados do Sudeste. Quase um terço das estradas do estado apresenta baixo nível de proteção ao motorista, condição que eleva o risco de mortes e ferimentos graves. Apenas 22,4% das rodovias mineiras têm alto índice de segurança, segundo o levantamento divulgado neste mês.",
+          "porQueImporta": "A baixa proteção nas rodovias aumenta a vulnerabilidade dos usuários e pode gerar mais acidentes graves.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/ciencia/microplasticos-o-que-estamos-fazendo"
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/21/minas-gerais-tem-a-pior-seguranca-rodoviaria-do-sudeste-e-baixa-protecao-em-3-a-cada-10-km-de-estrada-aponta-cnt.ghtml"
             }
           ],
-          "updatedAt": "2026-06-19T20:59:21.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/abre-microplasticos-1200jpg.jpeg"
+          "updatedAt": "2026-06-21T10:00:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/t3QSxDpWYzcQfVZpNXSal1YWwJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/I/R/2FBUeZTdAfcDn1BW4VIg/img-7366.jpg"
+        },
+        {
+          "clusterId": "2fe8395927ad6a54",
+          "slug": "c990399cc6d26e91",
+          "titulo": "Trens colidem no Reino Unido e deixam morto e feridos",
+          "resumo": "Dois trens colidiram na área de Bedford, no Reino Unido, nesta sexta-feira (19). A polícia informou que uma pessoa morreu e várias outras ficaram feridas, algumas com lesões graves. Equipes de emergência e agentes da polícia de Bedfordshire foram mobilizados ao local para atender as vítimas e controlar a situação.",
+          "porQueImporta": "O acidente interrompe o tráfego ferroviário em Londres e evidencia riscos de segurança nos transportes públicos.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/19/trens-colidem-no-reino-unido.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-19T18:11:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VenV5YGQM-PXQKp7729s6D_Ccd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/sDbJPGQB6JUmqeAaysaA/hlmaitexuaelpcj.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "a9af32aa116ca5bd",
+          "slug": "240c3dedcd9d8da0",
+          "titulo": "Sobrevivente de queda de balão em Praia Grande relata falhas e ausência de responsáveis",
+          "resumo": "Em 21 de junho de 2025, um balão caiu em Praia Grande, Santa Catarina, matando oito pessoas, entre elas o casal Everaldo da Rocha e Janaina Moreira Soares da Rocha. A filha Luana da Rocha, única sobrevivente, falou à NSC apontando falhas operacionais e omissão do poder público. A investigação permanece sem identificar culpados. A tragédia é considerada a maior do balonismo brasileiro.",
+          "porQueImporta": "O acidente evidencia lacunas na segurança e na regulação de atividades de balonismo no país",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/21/um-ano-apos-ver-pais-morrerem-em-queda-de-balao-em-sc-sobrevivente-desabafa-parece-que-nao-ha-responsaveis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-21T07:00:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8ptOuiBFr5zJJ7cMdy6KcwOzgzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/lQFpouTOCNuoXGiLdWig/filha-que-perdeu-pai-e-mae-em-queda-de-balao-em-sc-relata-impunidade-um-ano-apos-tragedia.png"
+        },
+        {
+          "clusterId": "862fceed625961fe",
+          "slug": "625ee54d42492168",
+          "titulo": "Queda de balão em Praia Grande completa 1 ano com inquérito reaberto e sem culpados",
+          "resumo": "Um balão com 21 pessoas a bordo decolou em Praia Grande, SC, por volta das 7h de um sábado, 21 de junho de 2025, e despencou logo no início do passeio, incendiando a estrutura. O acidente resultou na morte de oito pessoas, quatro das quais se jogaram e quatro morreram carbonizadas. Um ano depois, o caso permanece sem responsáveis identificados e as famílias continuam buscando justiça. A investigação é conduzida pela Polícia Civil em processo sigiloso.",
+          "porQueImporta": "É a maior tragédia do balonismo brasileiro, evidenciando riscos e lacunas na fiscalização e responsabilização.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/21/queda-de-balao-em-praia-grande-completa-1-ano-com-inquerito-reaberto-e-sem-culpados.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-21T03:00:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gCL4LutMIfl9UFAdzHtvpLoUWic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/z/Gx6AlLTwO3LEsVFU5eRg/quem-sao-as-vitimas-da-queda-de-balao-de-praia-grande-sc-..avif"
         }
       ]
     },
@@ -465,23 +370,29 @@
           ],
           "updatedAt": "2026-06-20T10:42:20.000Z",
           "imageUrl": "https://images.metroimg.com/2026/06/incendio-em-resort-na-republica-dominicana-deixa-uma-pessoa-morta.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
         {
-          "clusterId": "874038af9ea35d4c",
-          "slug": "bfb15d736cda2efc",
-          "titulo": "Incêndio em escola primária no norte de Tóquio deixa crianças aguardando resgate",
-          "resumo": "Um incêndio começou na sala de música do quarto andar de uma escola primária no norte de Tóquio nesta sexta-feira. A evacuação foi realizada e várias crianças ficaram no parapeito de uma janela aguardando socorro enquanto fumaça densa se espalhava. O incidente foi registrado por uma testemunha que divulgou o vídeo. As autoridades foram acionadas para controlar o fogo e garantir a segurança dos alunos.",
-          "porQueImporta": "Mostra a vulnerabilidade de instituições de ensino a incêndios e a necessidade de medidas de prevenção e resposta rápida",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "985c56faa4b1905e",
+          "slug": "9371645dea5ed027",
+          "titulo": "Inverno no interior de SP terá temperaturas acima da média e chuvas dentro do esperado",
+          "resumo": "O inverno começou neste domingo, às 05h24, e deve ser mais quente que o normal na maior parte do interior de São Paulo, segundo o Inmet. As precipitações previstas permanecem dentro da média histórica para a estação. O período costuma ser o mais seco da região Sudeste, o que favorece a ocorrência e a propagação de queimadas e incêndios florestais, além de agravar problemas respiratórios.",
+          "porQueImporta": "As condições climáticas aumentam o risco de incêndios e complicam a saúde da população",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/19/video-criancas-resgate-parapeito-janela-incendio-escola-japao.ghtml"
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/21/inverno-no-interior-de-sp-tera-temperaturas-acima-da-media-e-chuvas-dentro-do-esperado-aponta-inmet.ghtml"
             }
           ],
-          "updatedAt": "2026-06-19T11:31:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mLUqhYgjbt2Xr3Nj6E2Uz7_GpB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Q/ywM4XUSaGQQAUGzuMZlw/novo-projeto-4-.jpg"
+          "updatedAt": "2026-06-21T11:00:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/D2CunIj64K5_V_OP45rhPEcKA8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/Z/C5xzmeRgeuenjvhvqSFQ/g1-69-.jpg"
         }
       ]
     },
@@ -505,29 +416,6 @@
           ],
           "updatedAt": "2026-06-21T04:00:08.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/mF5m2KWPaEInKAD3AoIKUAFA4WQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/Vl0zbzQVO2fSJdSHEN5w/design-sem-nome-2-.png"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "862fceed625961fe",
-          "slug": "625ee54d42492168",
-          "titulo": "Queda de balão em Praia Grande completa 1 ano com inquérito reaberto e sem culpados",
-          "resumo": "Um balão com 21 pessoas a bordo decolou em Praia Grande, SC, por volta das 7h de um sábado, 21 de junho de 2025, e despencou logo no início do passeio, incendiando a estrutura. O acidente resultou na morte de oito pessoas, quatro das quais se jogaram e quatro morreram carbonizadas. Um ano depois, o caso permanece sem responsáveis identificados e as famílias continuam buscando justiça. A investigação é conduzida pela Polícia Civil em processo sigiloso.",
-          "porQueImporta": "É a maior tragédia do balonismo brasileiro, evidenciando riscos e lacunas na fiscalização e responsabilização.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/21/queda-de-balao-em-praia-grande-completa-1-ano-com-inquerito-reaberto-e-sem-culpados.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-21T03:00:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gCL4LutMIfl9UFAdzHtvpLoUWic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/z/Gx6AlLTwO3LEsVFU5eRg/quem-sao-as-vitimas-da-queda-de-balao-de-praia-grande-sc-..avif"
         }
       ]
     },
