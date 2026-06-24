@@ -1,9 +1,30 @@
 {
   "date": "2026-06-24",
-  "generatedAt": "2026-06-24T15:19:45.321Z",
+  "generatedAt": "2026-06-24T18:19:26.411Z",
   "home": [
     {
-      "clusterId": "48e0be784cd8a4eb",
+      "clusterId": "416ac509e5d3b92f",
+      "slug": "dd24aae0d484d61c",
+      "titulo": "Terremoto de magnitude 5,6 atinge norte da Califórnia",
+      "resumo": "Um sismo de magnitude 5,6 ocorreu nesta quarta-feira (24) no condado de Mendocino, próximo a Redwood Valley, na Califórnia. O USGS informou profundidade de 11 km. Até o momento não há relatos de vítimas ou danos materiais.",
+      "porQueImporta": "O evento pode gerar preocupação pela possibilidade de danos em áreas próximas",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-56-atinge-norte-da-california/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-56-atinge-o-norte-da-california"
+        }
+      ],
+      "updatedAt": "2026-06-24T18:04:16.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/mapa-mostra-epicentro-do-terremoto-na-california_3x2.jpg"
+    },
+    {
+      "clusterId": "36a2aafa113d9d01",
       "slug": "e1e0c2805dbd283b",
       "titulo": "Onda de calor na Europa causa mortes por afogamento",
       "resumo": "A onda de calor que domina a Europa tem levado pessoas a buscar refresco em canais, lagos e rios, resultando em dezenas de afogamentos. Na França, pelo menos 48 mortes por afogamento foram registradas, enquanto a Espanha e outros países também tiveram vítimas. O calor extremo também provocou fechamentos de escolas, atrasos no transporte e apagões de energia elétrica.",
@@ -18,172 +39,149 @@
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/c9v27lx1kwmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-omega-na-europa-causa-mortes-e-interrompe-energia-eletrica/"
         }
       ],
-      "updatedAt": "2026-06-24T14:24:44.000Z",
+      "updatedAt": "2026-06-24T17:53:57.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/6QoUG4tTnLcGDKWW9EOixFnVls4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/4/Et1BjQRnm0RAqMyous0w/2026-06-22t221857z-874591579-rc25zlaksbpy-rtrmadp-3-europe-weather-france-heat.jpg"
     },
     {
-      "clusterId": "a49fb76fd5551446",
-      "slug": "11f7ff20feaf488c",
-      "titulo": "Onda de calor na França registra temperatura recorde e causa mortes de aves e pessoas",
-      "resumo": "A França chegou a 44,3 °C, a temperatura mais alta já registrada no país, provocando um intenso calor que matou cerca de 40 pessoas e milhares de aves em granjas. As autoridades anunciaram medidas de apoio aos produtores rurais, rebanhos e lavouras afetados. Várias regiões foram colocadas sob alerta vermelho ou laranja devido ao calor extremo.",
-      "porQueImporta": "O evento evidencia riscos sanitários e econômicos associados a ondas de calor extremos na Europa",
+      "clusterId": "174a3fd47705af60",
+      "slug": "14e22ae3af86c377",
+      "titulo": "Defesa Civil aciona sirene em São Sebastião devido a forte chuva",
+      "resumo": "Na manhã de 24, a Defesa Civil de São Sebastião (SP) acionou a sirene de alerta após registrar 99 milímetros de chuva em uma hora, atingindo os parâmetros do Plano de Contingência. O acionamento foi preventivo, concentrando‑se na região de Juquehy. O sistema de alertas da Defesa Civil havia sido suspenso após um ataque hacker que gerou avisos falsos em 20 de junho, deixando o estado sem novos alertas até o momento.",
+      "porQueImporta": "A medida indica risco imediato de alagamento e demonstra a vulnerabilidade dos sistemas de alerta em situações de emergência",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/hacker-sp-sem-alerta-defesa-civil"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/24/defesa-civil-aciona-sirene-de-alerta-em-sao-sebastiao-apos-alto-volume-de-chuva.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-24T16:28:29.000Z",
+      "imageUrl": "https://images.metroimg.com/bb26f165-temporal.jpg"
+    },
+    {
+      "clusterId": "7efc96d727f3233f",
+      "slug": "b2da9939224895c9",
+      "titulo": "Duas pessoas são socorridas em estado grave após acidente entre carro e van em rodovia de Itapetininga",
+      "resumo": "Um acidente frontal entre um carro e uma van ocorreu na Rodovia Santiago França (SP-139), no quilômetro 113, próximo ao distrito de Gramadinho, em Itapetininga, na manhã desta quarta-feira. As vítimas estavam no carro; duas foram socorridas em estado grave e outra teve ferimentos leves. Nenhum ocupante da van ficou ferido. As autoridades do DER-SP e da Polícia Militar Rodoviária registraram o ocorrido.",
+      "porQueImporta": "O acidente evidencia riscos de colisões frontais em rodovias estaduais e a necessidade de resposta rápida de socorro.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/24/duas-pessoas-sao-socorridas-em-estado-grave-apos-acidente-entre-carro-e-van-em-rodovia-de-itapetininga.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-24T18:10:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/FUmIsI5xedYC96D9V5n5iQe1Ii4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/7/oiFAO0QdaEmWrnw1CSXA/logo-1.jpg"
+    },
+    {
+      "clusterId": "e583ffaa51a59dcb",
+      "slug": "f1fc62994042b7d6",
+      "titulo": "Chuvas intensas provocam desabamentos e alagamentos em municípios de São Paulo, com um óbito",
+      "resumo": "Temporais atingiram vários municípios do estado de São Paulo, superando a média mensal de precipitação em 24 horas. As chuvas causaram desabamentos, alagamentos e erosões, resultando em um falecimento. As autoridades alertam para risco de novos deslizamentos e alagamentos nas áreas afetadas. A situação segue sob monitoramento das equipes de defesa civil.",
+      "porQueImporta": "A ocorrência evidencia risco de desastres naturais em áreas urbanas e a necessidade de medidas de prevenção e resposta rápida.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuvas-em-sao-paulo-superam-media-do-mes-em-24h-e-deixam-um-morto/"
+        }
+      ],
+      "updatedAt": "2026-06-24T18:03:23.000Z"
+    },
+    {
+      "clusterId": "98e321162473d4eb",
+      "slug": "08d3abfbbf8d407d",
+      "titulo": "Montes Claros decreta situação de emergência devido à seca",
+      "resumo": "A Prefeitura de Montes Claros publicou o Decreto nº 5.311, decretando situação de emergência por causa da seca. A medida tem validade de 180 dias e foi anunciada nesta quarta‑feira. O decreto foi motivado pelo fim do período chuvoso, altas temperaturas e estiagem prolongada, que têm causado impactos na agricultura, pecuária e segurança hídrica do município.",
+      "porQueImporta": "A declaração de emergência permite a mobilização de recursos e ações para mitigar os efeitos da seca na população local",
       "categoria": "Seca",
       "categoriaSlug": "seca",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/no-calorao-europeu-franca-tem-dia-mais-quente-de-sua-historia-443oc"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/agro/onda-de-calor-na-franca-mata-milhares-de-aves-em-granjas/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/24/montes-claros-decreta-situacao-de-emergencia-por-conta-da-seca.ghtml"
         }
       ],
-      "updatedAt": "2026-06-24T15:10:02.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/05/gettyimages-2278371184.jpg"
+      "updatedAt": "2026-06-24T17:50:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/J4mP8M1MVZA_3xHaauPuMT701Y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/U/CDrZwIQ7AZHFapqjpAjQ/montes-claros-zona-rural-seca-13-09-11-foto-fabio-marcal-0127.jpg"
     },
     {
-      "clusterId": "c0e7c8a8a0b32593",
-      "slug": "0897559bea73d91a",
-      "titulo": "Defesa Civil suspende sistema de alertas após invasão hacker em São Paulo",
-      "resumo": "A plataforma de alertas da Defesa Civil foi interrompida após suspeita de invasão hacker que gerou avisos falsos no sábado, 20 de junho. A suspensão foi determinada pela Defesa Civil Nacional e permanece em vigor, apesar das chuvas persistentes que têm causado transtornos na Grande São Paulo desde a terça‑feira, 23. As autoridades investigam o incidente e adotam medidas para restaurar o serviço.",
-      "porQueImporta": "A falta de alertas pode deixar a população sem informações rápidas sobre riscos climáticos",
+      "clusterId": "c33e438c495afe41",
+      "slug": "3ee46a8da8b1dc46",
+      "titulo": "Parte da cobertura de posto de combustível é arrancada por ventania em São Luís",
+      "resumo": "Na tarde desta quarta-feira (24), forte chuva provocou alagamentos em diversas vias da capital maranhense. No bairro São Cristóvão, a ventania associada ao temporal arrancou parte da cobertura de um posto de combustível. O incidente foi registrado em vídeo, mostrando motociclistas buscando abrigo sob a estrutura danificada. As autoridades ainda não divulgaram detalhes sobre possíveis interrupções no abastecimento.",
+      "porQueImporta": "O dano evidencia a vulnerabilidade de infraestruturas urbanas a eventos climáticos intensos.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/24/sistema-de-alertas-da-defesa-civil-segue-suspenso-apesar-de-chuva-persistente-que-causou-transtornos-na-grande-sp.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/hacker-sp-sem-alerta-defesa-civil"
+          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/24/parte-do-teto-de-posto-de-combustivel-e-arrancado-durante-ventania-em-sao-luis.ghtml"
         }
       ],
-      "updatedAt": "2026-06-24T14:53:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Mg4U0nlMc1tsiNrsgpj9jA4sPMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/g/UsoyQxRQuygEjdpqzkAQ/whatsapp-image-2026-06-24-at-07.52.53.jpeg"
+      "updatedAt": "2026-06-24T17:43:57.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Q2FhxHs9Xx3I_UKf73M4cTzF81U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/d/sewWdPQrm7QDPRmAqgRg/montagens-1920-x-1080-px-.png"
     },
     {
-      "clusterId": "378273de3fddd7d2",
-      "slug": "d5ac25d265b4ccac",
-      "titulo": "Polícia prende homem que atropelou Pampam, ícone da torcida do Paysandu",
-      "resumo": "A Polícia Civil do Pará deteve o suspeito de ter atropelado Pampam, mascote da torcida do Paysandu, em Belém. O acusado foi encontrado escondido na casa de parentes em Paragominas, no sudeste do estado. O incidente ocorreu enquanto cinco pessoas pintavam uma rua para a Copa. A prisão foi confirmada pela polícia local.",
-      "porQueImporta": "O caso ganhou destaque por envolver o mascote de um clube de futebol e gerar debate sobre segurança no trânsito",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/para/noticia/2026/06/24/policia-prende-homem-que-atropelou-pampam-icone-da-torcida-do-paysandu.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-24T15:11:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4kI6zKr5i_PtLUeDiMr3G3Q5xpU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/c/VivSnGRNuOy7X3zbceUg/pampam.png"
-    },
-    {
-      "clusterId": "262156cf44267e43",
-      "slug": "7ba6365a2dc86f4b",
-      "titulo": "Empresário morre após caminhonete capotar em ultrapassagem na BR-364, RO",
-      "resumo": "Um homem de 26 anos morreu ao tentar ultrapassar uma carreta na BR-364, entre Presidente Médici e Ji-Paraná, na terça-feira. O motorista, identificado como Keniel Luiz Alves, era empresário do ramo de panificação em Cacoal. A câmera do veículo registrou a manobra, que culminou no capotamento da caminhonete. O acidente ocorreu durante a tentativa de ultrapassagem e resultou em óbito.",
-      "porQueImporta": "O caso evidencia os riscos de ultrapassagens perigosas em rodovias estaduais",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/24/video-empresario-morre-apos-caminhonete-capotar-em-ultrapassagem-na-br-364-em-ro.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-24T14:58:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/-0awsdq-iN45uLcTP1s8U5CXypk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/4zqqE7SHWKAG0u0zxarg/design-sem-nome-2-.png"
-    },
-    {
-      "clusterId": "1cc7a1e948568961",
-      "slug": "0cf7a459e7156007",
-      "titulo": "Frente fria traz temperaturas abaixo de zero no Sul e temporais com mortes em São Paulo",
-      "resumo": "A previsão indica pico da onda de frio na quarta (24) e quinta (25), com temperaturas negativas e risco de geada e neve no Sul do Brasil. Em São Paulo, temporais intensos provocam alagamentos, desabamentos e mortes. As autoridades alertam para a necessidade de cuidados diante das condições climáticas adversas.",
-      "porQueImporta": "As condições podem causar danos à população e à infraestrutura nas regiões afetadas",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/previsao-do-tempo-pico-da-onda-de-frio-sera-na-quarta-24-e-quinta-25/"
-        }
-      ],
-      "updatedAt": "2026-06-24T14:40:44.000Z"
-    },
-    {
-      "clusterId": "5b18818ebb8a55e6",
-      "slug": "2772c2462da4c282",
-      "titulo": "Chuvas provocam desabamentos e deixam um morto em São Paulo",
-      "resumo": "fortes chuvas na zona leste da capital paulista causaram desabamentos em áreas residenciais, resultando em um óbito. Além da vítima, 37 moradores ficaram desabrigados e foram encaminhados para abrigos temporários. As autoridades locais acionaram equipes de socorro e monitoram a situação para evitar novos incidentes. A população foi orientada a permanecer em áreas seguras até a melhora das condições climáticas",
-      "porQueImporta": "O evento evidencia o risco de desabamentos em áreas urbanas durante chuvas intensas, afetando a vida de residentes e demandando resposta emergencial",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-brasil/chuvas-provocam-desabamentos-e-deixam-um-morto-em-sao-paulo/"
-        }
-      ],
-      "updatedAt": "2026-06-24T14:27:25.000Z"
-    },
-    {
-      "clusterId": "382ce7fbd7f4a45f",
-      "slug": "70027a40dc82a34c",
-      "titulo": "Homem em situação de rua morre após ser atropelado por micro-ônibus em Manaus",
-      "resumo": "Um homem de 44 anos, identificado como Warlen Dias da Silva, foi atropelado por um micro‑ônibus na Avenida Desembargador João Machado, no bairro Planalto, em Manaus. A ocorrência foi registrada na Delegacia Especializada em Homicídios e Sequestros por volta das 4h25 desta quarta‑feira. Ao chegar ao local, a polícia constatou que a vítima era pessoa em situação de rua. As circunstâncias do acidente não foram detalhadas nas informações disponíveis.",
-      "porQueImporta": "O caso evidencia riscos de trânsito para pessoas em situação de vulnerabilidade nas áreas urbanas",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/24/homem-em-situacao-de-rua-morre-apos-ser-atropelado-por-micro-onibus-em-manaus.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-24T14:15:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zedwxalfCsQCeN8ASpIPBcSeUC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/C/G8A1A5Tb6zvU22BbnezA/fachada-do-iml-de-manaus-foto-carlos-soares-ssp-am.jpeg"
-    },
-    {
-      "clusterId": "5e5aacb9df59475e",
-      "slug": "06d0860167e3e7f7",
-      "titulo": "Campanha global por eletrificação é lançada em Londres",
-      "resumo": "Uma iniciativa internacional foi apresentada em Londres, propondo metas mais ambiciosas para que governos adotem a eletricidade em substituição aos combustíveis fósseis. A campanha busca acelerar a transição energética e reduzir emissões de gases de efeito estufa. Organizações participantes enfatizam a necessidade de políticas públicas e investimentos em infraestrutura elétrica.",
-      "porQueImporta": "A medida pode acelerar a descarbonização e contribuir para o combate às mudanças climáticas",
+      "clusterId": "0cacddab68224d13",
+      "slug": "9c58fc7bc64042b6",
+      "titulo": "Barulho intenso e chão treme em Ariquemes, RO",
+      "resumo": "Na noite de terça‑feira (23), moradores de Ariquemes (RO) relataram ter ouvido um barulho alto e sentido o chão tremer. A Defesa Civil Municipal descartou a hipótese de terremoto e informou que nenhum tremor foi registrado nas plataformas de monitoramento. As especulações iniciais foram, portanto, desmentidas pelas autoridades.",
+      "porQueImporta": "Esclarece a população sobre a ausência de risco sísmico na região",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-campanha-global-por-eletrificacao-e-lancada-em-londres/"
+          "name": "G1",
+          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/24/moradores-relatam-barulho-intenso-e-sentem-chao-tremer-em-ariquemes-ro.ghtml"
         }
       ],
-      "updatedAt": "2026-06-24T14:12:47.000Z"
+      "updatedAt": "2026-06-24T17:38:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/s6hHQf7YnHlbuP8NSIGXVDX5ZRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/7/eAhpLLTlKLU2hJpfLuxg/captura-de-tela-2026-06-24-133418.png"
     },
     {
-      "clusterId": "fc23d1efe201610d",
-      "slug": "9e5ec65d889598c7",
-      "titulo": "Duas pessoas ficam feridas após colisão entre caminhonete e caminhão em zona rural de Pedras de Maria da Cruz",
-      "resumo": "Na noite de terça‑feira, uma caminhonete que seguia em direção à comunidade rural de Jacarezinho foi atingida pela carroceria de um caminhão que trafegava no sentido oposto, na estrada que liga Pedras de Maria da Cruz a Jacarezinho. O impacto arremessou a caminhonete para a lateral da via e deixou duas pessoas feridas. O motorista do caminhão teria deixado o local após o acidente, segundo a Polícia Militar.",
-      "porQueImporta": "Acidentes em vias rurais podem gerar vítimas graves e dificultar o socorro em áreas de difícil acesso.",
+      "clusterId": "4c105c4cbfa0fb7c",
+      "slug": "fbb4cae89c555bda",
+      "titulo": "Pai de Cristiano Araújo posta homenagem 11 anos após morte do cantor",
+      "resumo": "O pai de Cristiano Araújo, João Reis Araújo, publicou uma homenagem ao filho nas redes sociais nesta quarta-feira. A postagem inclui fotos do cantor ao lado do pai e menciona a dor de não poder vê‑lo novamente. A homenagem ocorre 11 anos após o acidente de trânsito que vitimou o artista na BR‑153, entre Morrinhos e o trevo de Pontalina, em 2015. João expressou o desejo de lembrar apenas dos momentos bons ao lado do filho.",
+      "porQueImporta": "A lembrança destaca o impacto duradouro de acidentes de trânsito nas famílias e no público.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/24/duas-pessoas-ficam-feridas-apos-caminhonete-ser-atingida-por-carroceria-de-caminhao-na-zona-rural-de-pedras-de-maria-da-cruz.ghtml"
+          "url": "https://g1.globo.com/go/goias/noticia/2026/06/24/pai-de-cristiano-araujo-posta-homenagem-11-anos-apos-morte-do-cantor-dor-de-nao-poder-te-ver.ghtml"
         }
       ],
-      "updatedAt": "2026-06-24T14:08:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/XL_TIZbu_hZsNcOdMCzecFIztcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/MlimdRR1Om0kzSyAIDzQ/acidentemoc.jpeg"
+      "updatedAt": "2026-06-24T17:36:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/PjzvNwmLVZv5XFcTwMuiXNYhNnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/8/e5Bg0iRrKgzxpkHcLA2w/cristiano-joao2.jpg"
+    },
+    {
+      "clusterId": "3bb802867b868973",
+      "slug": "f1ecb525961be32f",
+      "titulo": "Homem morre atropelado enquanto ajudava nora em acidente na BR-280 em SC",
+      "resumo": "Um homem de 57 anos foi atingido por um caminhão na BR-280, em Rio Negrinho, enquanto prestava socorro à nora que havia se envolvido em um acidente na rodovia. Ele conseguiu proteger a nora e o filho antes do impacto, mas acabou falecendo. A nora também foi atingida e permanece internada. O acidente ocorreu na noite de segunda‑feira (22).",
+      "porQueImporta": "O caso evidencia os riscos de intervenções de socorro em vias rápidas e a necessidade de medidas de segurança para transeuntes e vítimas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/24/homem-morre-atropelado-nora-acidente-br-280-sc.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-24T17:32:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/FNEG2qmgHx_Y15wtebKTXebqEq4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/n/vvl6DxR76rkqApw46ohw/foi-um-heroi-sogro-morre-atropelado-enquanto-ajudava-nora-de-acidente-na-br-280-em-sc.png"
     }
   ],
   "categorias": [
@@ -192,7 +190,7 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "48e0be784cd8a4eb",
+          "clusterId": "36a2aafa113d9d01",
           "slug": "e1e0c2805dbd283b",
           "titulo": "Onda de calor na Europa causa mortes por afogamento",
           "resumo": "A onda de calor que domina a Europa tem levado pessoas a buscar refresco em canais, lagos e rios, resultando em dezenas de afogamentos. Na França, pelo menos 48 mortes por afogamento foram registradas, enquanto a Espanha e outros países também tiveram vítimas. O calor extremo também provocou fechamentos de escolas, atrasos no transporte e apagões de energia elétrica.",
@@ -207,47 +205,112 @@
             {
               "name": "BBC Brasil",
               "url": "https://www.bbc.com/portuguese/articles/c9v27lx1kwmo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-omega-na-europa-causa-mortes-e-interrompe-energia-eletrica/"
             }
           ],
-          "updatedAt": "2026-06-24T14:24:44.000Z",
+          "updatedAt": "2026-06-24T17:53:57.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/6QoUG4tTnLcGDKWW9EOixFnVls4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/4/Et1BjQRnm0RAqMyous0w/2026-06-22t221857z-874591579-rc25zlaksbpy-rtrmadp-3-europe-weather-france-heat.jpg"
         },
         {
-          "clusterId": "5e5aacb9df59475e",
-          "slug": "06d0860167e3e7f7",
-          "titulo": "Campanha global por eletrificação é lançada em Londres",
-          "resumo": "Uma iniciativa internacional foi apresentada em Londres, propondo metas mais ambiciosas para que governos adotem a eletricidade em substituição aos combustíveis fósseis. A campanha busca acelerar a transição energética e reduzir emissões de gases de efeito estufa. Organizações participantes enfatizam a necessidade de políticas públicas e investimentos em infraestrutura elétrica.",
-          "porQueImporta": "A medida pode acelerar a descarbonização e contribuir para o combate às mudanças climáticas",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-campanha-global-por-eletrificacao-e-lancada-em-londres/"
-            }
-          ],
-          "updatedAt": "2026-06-24T14:12:47.000Z"
-        },
-        {
-          "clusterId": "f2ab9f18deffbad5",
-          "slug": "f8371f330dc4eb1a",
-          "titulo": "Influenciador Nego Di é condenado por uso de recibo falso de doação de R$ 1 milhão e outros crimes",
-          "resumo": "O humorista Dilson Alves da Silva Neto, conhecido como Nego Di, foi condenado por estelionato, lavagem de dinheiro, uso de documento falso e promoção de loteria ilegal. A sentença indica que ele e a esposa, Gabriela Vicente de Sousa, criaram um esquema com rifas virtuais irregulares, ocultação de valores e uso de recibo falso que alegava doação de R$ 1 milhão às vítimas da enchente de 2024, mas enviou apenas R$ 100. O caso foi julgado nesta terça‑feira (23).",
-          "porQueImporta": "A condenação evidencia fraudes que exploram desastres para obter ganhos ilícitos",
+          "clusterId": "0cacddab68224d13",
+          "slug": "9c58fc7bc64042b6",
+          "titulo": "Barulho intenso e chão treme em Ariquemes, RO",
+          "resumo": "Na noite de terça‑feira (23), moradores de Ariquemes (RO) relataram ter ouvido um barulho alto e sentido o chão tremer. A Defesa Civil Municipal descartou a hipótese de terremoto e informou que nenhum tremor foi registrado nas plataformas de monitoramento. As especulações iniciais foram, portanto, desmentidas pelas autoridades.",
+          "porQueImporta": "Esclarece a população sobre a ausência de risco sísmico na região",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/24/nego-di-usou-enchente-para-beneficio-proprio-e-so-enviou-r-100-diz-promotor.ghtml"
+              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/24/moradores-relatam-barulho-intenso-e-sentem-chao-tremer-em-ariquemes-ro.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T13:37:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/u0NdyYWRBjx9wQqEC7CAw3oMKK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/I/ShaAcuTiO9vayCPnoFDA/g1-2026-06-24t103416.306.jpg"
+          "updatedAt": "2026-06-24T17:38:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/s6hHQf7YnHlbuP8NSIGXVDX5ZRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/7/eAhpLLTlKLU2hJpfLuxg/captura-de-tela-2026-06-24-133418.png"
+        },
+        {
+          "clusterId": "dfd27f4b39b48715",
+          "slug": "d8dd00a7587b67f0",
+          "titulo": "Professora Maria Stela Rangel da Silva morre aos 74 anos após AVC em Teresina",
+          "resumo": "A professora Maria Stela Rangel da Silva, de 74 anos, faleceu nesta quarta-feira (24) em Teresina após sofrer um AVC hemorrágico. Ela estava internada desde 15 de junho em um hospital da capital. A família optou pela doação dos órgãos. Maria Stela foi diretora do Instituto Dom Barreto de 2006 a 2019.",
+          "porQueImporta": "A morte de uma ex‑diretora de instituição de saúde e a doação de órgãos têm impacto na comunidade local.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/24/professora-stela-rangel-morre.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-24T17:29:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/eRoL82WNBlK2Up5RYRrdH-L_wv4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/0/WY0S4uT3iugypPKqQ2PQ/edicao-imagens-g1-60-.png"
+        },
+        {
+          "clusterId": "51f0ff79dcea7064",
+          "slug": "1017fa3231899fc1",
+          "titulo": "Previsão de tempo indica frio e chuva em Campo Grande para jogo Brasil x Escócia",
+          "resumo": "A partida entre Brasil e Escócia, marcada para esta quarta-feira, será disputada em meio a uma onda de frio que afeta Mato Grosso do Sul. As temperaturas devem ficar entre 9 °C e 16 °C durante a noite. A maioria das cidades do estado tem previsão de tempo firme, mas Campo Grande tem chance de chuva. Os torcedores precisarão usar casacos devido ao clima frio.",
+          "porQueImporta": "O clima pode influenciar o conforto dos espectadores e o desempenho dos atletas",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/24/brasil-x-escocia-qual-a-previsao-do-tempo-na-hora-do-jogo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-24T16:52:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/pEVSunN9U2c3_W89mD8cmdoKrtw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/w/Tp50voROyxrTR2dgNiiw/whatsapp-image-2023-11-26-at-10.35.35.jpeg"
+        },
+        {
+          "clusterId": "ea13588723ce7aea",
+          "slug": "214b269dc172ceb9",
+          "titulo": "Imagem de satélite mostra calor extremo acima de 50ºC na França e na Espanha; VEJA",
+          "resumo": "Temperaturas da superfície superam os 50 °C na França e no norte da Espanha durante onda de calor; imagem é de 23 de junho de 2026. Dados do Copernicus Sentinel (2026), processados pela ESA Uma nova imagem de satélite divulgada pela Agência Espacial Europeia (ESA, na sigla em inglês) escancara a intensidade da onda de calor que castiga a Europa Ocidental nos últimos dias — com a França e a Espanha entre os países mais afetados. Os dados foram captados na última terça-feira (23) pela missão Copernicus Sentinel-3 e mostram temperaturas de superfície superando os 50 °C em amplas áreas do centro…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/06/24/satelite-calor-extremo-europa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-24T16:50:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/t7_4jyKd4I9moa2b-UzVfpWBRMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/w/BMZRmIRtqIBMAQuInI6Q/20260624-2nd-heatwave.webp"
+        },
+        {
+          "clusterId": "a22e6c9c29c7259c",
+          "slug": "876383c85b79c587",
+          "titulo": "Bar é interditado após fiscalização encontrar alimentos impróprios e falhas sanitárias no bairro Santa Mônica",
+          "resumo": "Motociclista morre em acidente durante ultrapassagem e bar é interditado em Uberlândia Um bar conhecido como 'Rolê Lanches', localizado na avenida Segismundo Pereira, no bairro Santa Mônica, em Uberlândia, foi interditado na terça-feira (23) durante uma operação de fiscalização que identificou irregularidades sanitárias, administrativas e de defesa do consumidor. A ação fez parte da Operação 'Paz e Sossego', realizada pela Polícia Militar (PM) em conjunto com o Ministério Público, Vigilância Sanitária, Receita Estadual e órgãos de fiscalização da Prefeitura. O objetivo é verificar a…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/24/bar-e-interditado-apos-fiscalizacao-encontrar-alimentos-improprios-e-falhas-sanitarias-no-bairro-santa-monica.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-24T16:43:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EBkVhx9sFzFoJNEM2mgV_MVT4Gk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/T/sJ5wFUTXmjnDkwY7eFYQ/whatsapp-image-2026-06-23-at-20.54.24-1-.jpeg"
+        },
+        {
+          "clusterId": "c1b16b691049fcdb",
+          "slug": "354ce3bbf6e9e748",
+          "titulo": "Motociclista morre após bater na traseira de caminhão estacionado em Itatiba",
+          "resumo": "Um motociclista de 46 anos morreu após bater na traseira de um caminhão estacionado na Rua Santa Biazoto Bedani, em Itatiba (SP). O acidente aconteceu na tarde desta terça-feira (23). Segundo o boletim de ocorrência, a dona do caminhão relatou que o veículo estava parado em frente à casa dela. Ela contou que ouviu o barulho do impacto e, ao sair na calçada, encontrou pedaços de um capacete e o homem caído perto da roda traseira. 📲 Participe do canal do g1 Sorocaba e Jundiaí no WhatsApp Agora no g1 A moradora chamou a Polícia Militar e o socorro. O motociclista, identificado como Luis Luciano…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/24/motociclista-morre-apos-bater-na-traseira-de-caminhao-estacionado-em-itatiba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-24T16:11:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/U_K8TSQbG2OVGUmlCta40amiqsM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/p/FimvGkS0i3sqoXUawBHQ/image.jpg"
         },
         {
           "clusterId": "b4c278a46d5488b5",
@@ -324,106 +387,72 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "378273de3fddd7d2",
-          "slug": "d5ac25d265b4ccac",
-          "titulo": "Polícia prende homem que atropelou Pampam, ícone da torcida do Paysandu",
-          "resumo": "A Polícia Civil do Pará deteve o suspeito de ter atropelado Pampam, mascote da torcida do Paysandu, em Belém. O acusado foi encontrado escondido na casa de parentes em Paragominas, no sudeste do estado. O incidente ocorreu enquanto cinco pessoas pintavam uma rua para a Copa. A prisão foi confirmada pela polícia local.",
-          "porQueImporta": "O caso ganhou destaque por envolver o mascote de um clube de futebol e gerar debate sobre segurança no trânsito",
+          "clusterId": "7efc96d727f3233f",
+          "slug": "b2da9939224895c9",
+          "titulo": "Duas pessoas são socorridas em estado grave após acidente entre carro e van em rodovia de Itapetininga",
+          "resumo": "Um acidente frontal entre um carro e uma van ocorreu na Rodovia Santiago França (SP-139), no quilômetro 113, próximo ao distrito de Gramadinho, em Itapetininga, na manhã desta quarta-feira. As vítimas estavam no carro; duas foram socorridas em estado grave e outra teve ferimentos leves. Nenhum ocupante da van ficou ferido. As autoridades do DER-SP e da Polícia Militar Rodoviária registraram o ocorrido.",
+          "porQueImporta": "O acidente evidencia riscos de colisões frontais em rodovias estaduais e a necessidade de resposta rápida de socorro.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/06/24/policia-prende-homem-que-atropelou-pampam-icone-da-torcida-do-paysandu.ghtml"
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/24/duas-pessoas-sao-socorridas-em-estado-grave-apos-acidente-entre-carro-e-van-em-rodovia-de-itapetininga.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T15:11:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4kI6zKr5i_PtLUeDiMr3G3Q5xpU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/c/VivSnGRNuOy7X3zbceUg/pampam.png"
+          "updatedAt": "2026-06-24T18:10:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FUmIsI5xedYC96D9V5n5iQe1Ii4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/7/oiFAO0QdaEmWrnw1CSXA/logo-1.jpg"
         },
         {
-          "clusterId": "262156cf44267e43",
-          "slug": "7ba6365a2dc86f4b",
-          "titulo": "Empresário morre após caminhonete capotar em ultrapassagem na BR-364, RO",
-          "resumo": "Um homem de 26 anos morreu ao tentar ultrapassar uma carreta na BR-364, entre Presidente Médici e Ji-Paraná, na terça-feira. O motorista, identificado como Keniel Luiz Alves, era empresário do ramo de panificação em Cacoal. A câmera do veículo registrou a manobra, que culminou no capotamento da caminhonete. O acidente ocorreu durante a tentativa de ultrapassagem e resultou em óbito.",
-          "porQueImporta": "O caso evidencia os riscos de ultrapassagens perigosas em rodovias estaduais",
+          "clusterId": "4c105c4cbfa0fb7c",
+          "slug": "fbb4cae89c555bda",
+          "titulo": "Pai de Cristiano Araújo posta homenagem 11 anos após morte do cantor",
+          "resumo": "O pai de Cristiano Araújo, João Reis Araújo, publicou uma homenagem ao filho nas redes sociais nesta quarta-feira. A postagem inclui fotos do cantor ao lado do pai e menciona a dor de não poder vê‑lo novamente. A homenagem ocorre 11 anos após o acidente de trânsito que vitimou o artista na BR‑153, entre Morrinhos e o trevo de Pontalina, em 2015. João expressou o desejo de lembrar apenas dos momentos bons ao lado do filho.",
+          "porQueImporta": "A lembrança destaca o impacto duradouro de acidentes de trânsito nas famílias e no público.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/24/video-empresario-morre-apos-caminhonete-capotar-em-ultrapassagem-na-br-364-em-ro.ghtml"
+              "url": "https://g1.globo.com/go/goias/noticia/2026/06/24/pai-de-cristiano-araujo-posta-homenagem-11-anos-apos-morte-do-cantor-dor-de-nao-poder-te-ver.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T14:58:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-0awsdq-iN45uLcTP1s8U5CXypk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/4zqqE7SHWKAG0u0zxarg/design-sem-nome-2-.png"
+          "updatedAt": "2026-06-24T17:36:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PjzvNwmLVZv5XFcTwMuiXNYhNnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/8/e5Bg0iRrKgzxpkHcLA2w/cristiano-joao2.jpg"
         },
         {
-          "clusterId": "382ce7fbd7f4a45f",
-          "slug": "70027a40dc82a34c",
-          "titulo": "Homem em situação de rua morre após ser atropelado por micro-ônibus em Manaus",
-          "resumo": "Um homem de 44 anos, identificado como Warlen Dias da Silva, foi atropelado por um micro‑ônibus na Avenida Desembargador João Machado, no bairro Planalto, em Manaus. A ocorrência foi registrada na Delegacia Especializada em Homicídios e Sequestros por volta das 4h25 desta quarta‑feira. Ao chegar ao local, a polícia constatou que a vítima era pessoa em situação de rua. As circunstâncias do acidente não foram detalhadas nas informações disponíveis.",
-          "porQueImporta": "O caso evidencia riscos de trânsito para pessoas em situação de vulnerabilidade nas áreas urbanas",
+          "clusterId": "3bb802867b868973",
+          "slug": "f1ecb525961be32f",
+          "titulo": "Homem morre atropelado enquanto ajudava nora em acidente na BR-280 em SC",
+          "resumo": "Um homem de 57 anos foi atingido por um caminhão na BR-280, em Rio Negrinho, enquanto prestava socorro à nora que havia se envolvido em um acidente na rodovia. Ele conseguiu proteger a nora e o filho antes do impacto, mas acabou falecendo. A nora também foi atingida e permanece internada. O acidente ocorreu na noite de segunda‑feira (22).",
+          "porQueImporta": "O caso evidencia os riscos de intervenções de socorro em vias rápidas e a necessidade de medidas de segurança para transeuntes e vítimas.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/24/homem-em-situacao-de-rua-morre-apos-ser-atropelado-por-micro-onibus-em-manaus.ghtml"
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/24/homem-morre-atropelado-nora-acidente-br-280-sc.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T14:15:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zedwxalfCsQCeN8ASpIPBcSeUC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/C/G8A1A5Tb6zvU22BbnezA/fachada-do-iml-de-manaus-foto-carlos-soares-ssp-am.jpeg"
+          "updatedAt": "2026-06-24T17:32:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FNEG2qmgHx_Y15wtebKTXebqEq4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/n/vvl6DxR76rkqApw46ohw/foi-um-heroi-sogro-morre-atropelado-enquanto-ajudava-nora-de-acidente-na-br-280-em-sc.png"
         },
         {
-          "clusterId": "fc23d1efe201610d",
-          "slug": "9e5ec65d889598c7",
-          "titulo": "Duas pessoas ficam feridas após colisão entre caminhonete e caminhão em zona rural de Pedras de Maria da Cruz",
-          "resumo": "Na noite de terça‑feira, uma caminhonete que seguia em direção à comunidade rural de Jacarezinho foi atingida pela carroceria de um caminhão que trafegava no sentido oposto, na estrada que liga Pedras de Maria da Cruz a Jacarezinho. O impacto arremessou a caminhonete para a lateral da via e deixou duas pessoas feridas. O motorista do caminhão teria deixado o local após o acidente, segundo a Polícia Militar.",
-          "porQueImporta": "Acidentes em vias rurais podem gerar vítimas graves e dificultar o socorro em áreas de difícil acesso.",
+          "clusterId": "d6a45c987167101e",
+          "slug": "fca70579ca4a2756",
+          "titulo": "Motociclista morre em colisão frontal na BR-116 em Governador Valadares",
+          "resumo": "Um motociclista de 57 anos morreu no local após colidir de frente com outra moto na BR-116, em Governador Valadares, na tarde de quarta-feira. A Polícia Rodoviária Federal indicou que o condutor estava na contramão no momento da batida. Na outra motocicleta estavam um homem e sua filha, que foram socorridos pelo SAMU e ficaram feridos.",
+          "porQueImporta": "O acidente evidencia os perigos de conduzir na contramão em vias federais movimentadas",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/24/duas-pessoas-ficam-feridas-apos-caminhonete-ser-atingida-por-carroceria-de-caminhao-na-zona-rural-de-pedras-de-maria-da-cruz.ghtml"
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/24/acidente-deixa-morto-e-feridos-na-br-116-em-governador-valadares.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T14:08:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/XL_TIZbu_hZsNcOdMCzecFIztcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/MlimdRR1Om0kzSyAIDzQ/acidentemoc.jpeg"
-        },
-        {
-          "clusterId": "776e26235f82bbc8",
-          "slug": "41f5578b663a7354",
-          "titulo": "Carro colide de frente com ambulância da Prefeitura de Tupã na SP-294 e deixa quatro feridos",
-          "resumo": "Na manhã de quarta-feira, um carro colidiu de frente com uma ambulância da Prefeitura de Tupã na rodovia SP-294, em Pompeia. O acidente resultou em quatro pessoas que necessitaram de atendimento médico. A ambulância trafegava no sentido indicado pela Agência de Transporte do Estado de São Paulo (Artesp). As autoridades foram acionadas para atender a ocorrência.",
-          "porQueImporta": "O acidente envolve veículos de emergência, afetando a prestação de serviços de socorro na região",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/24/quatro-pessoas-ficam-feridas-apos-carro-bater-de-frente-com-ambulancia-da-prefeitura-de-tupa-na-sp-294.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-24T13:45:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Gf2Y37n7Nm8-WMROTPKLfqhNI5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/l/FZDFjQSieh4aktTY3lYA/novo-projeto-96-.png"
-        },
-        {
-          "clusterId": "ac956172bbb813c5",
-          "slug": "4fd91bce8255a12f",
-          "titulo": "Homem morre em acidente no Eixinho ao deixar local de trabalho onde atuava há 23 anos",
-          "resumo": "Um trabalhador morreu após se envolver em acidente de trânsito no Eixinho. A vítima estava saindo do local onde trabalhava há 23 anos quando ocorreu a colisão. As autoridades registraram o óbito no local. O incidente gerou interdição parcial da via para remoção dos veículos.",
-          "porQueImporta": "O acidente evidencia riscos de segurança viária em áreas de tráfego intenso e afeta a comunidade local.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/homem-morto-em-acidente-no-eixinho-saia-de-local-onde-trabalhava-ha-23-anos"
-            }
-          ],
-          "updatedAt": "2026-06-24T03:03:06.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/funcionario-nippon.jpg"
+          "updatedAt": "2026-06-24T17:10:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/x3GXYwEMBnS_HfFQhfnKnJ9A5T4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/W/YuZM4mSTSLFaLCYDAB4g/whatsapp-image-2026-06-24-at-13.39.09.jpeg"
         }
       ]
     },
@@ -432,41 +461,91 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "c0e7c8a8a0b32593",
-          "slug": "0897559bea73d91a",
-          "titulo": "Defesa Civil suspende sistema de alertas após invasão hacker em São Paulo",
-          "resumo": "A plataforma de alertas da Defesa Civil foi interrompida após suspeita de invasão hacker que gerou avisos falsos no sábado, 20 de junho. A suspensão foi determinada pela Defesa Civil Nacional e permanece em vigor, apesar das chuvas persistentes que têm causado transtornos na Grande São Paulo desde a terça‑feira, 23. As autoridades investigam o incidente e adotam medidas para restaurar o serviço.",
-          "porQueImporta": "A falta de alertas pode deixar a população sem informações rápidas sobre riscos climáticos",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/24/sistema-de-alertas-da-defesa-civil-segue-suspenso-apesar-de-chuva-persistente-que-causou-transtornos-na-grande-sp.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/hacker-sp-sem-alerta-defesa-civil"
-            }
-          ],
-          "updatedAt": "2026-06-24T14:53:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Mg4U0nlMc1tsiNrsgpj9jA4sPMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/g/UsoyQxRQuygEjdpqzkAQ/whatsapp-image-2026-06-24-at-07.52.53.jpeg"
-        },
-        {
-          "clusterId": "1cc7a1e948568961",
-          "slug": "0cf7a459e7156007",
-          "titulo": "Frente fria traz temperaturas abaixo de zero no Sul e temporais com mortes em São Paulo",
-          "resumo": "A previsão indica pico da onda de frio na quarta (24) e quinta (25), com temperaturas negativas e risco de geada e neve no Sul do Brasil. Em São Paulo, temporais intensos provocam alagamentos, desabamentos e mortes. As autoridades alertam para a necessidade de cuidados diante das condições climáticas adversas.",
-          "porQueImporta": "As condições podem causar danos à população e à infraestrutura nas regiões afetadas",
+          "clusterId": "e583ffaa51a59dcb",
+          "slug": "f1fc62994042b7d6",
+          "titulo": "Chuvas intensas provocam desabamentos e alagamentos em municípios de São Paulo, com um óbito",
+          "resumo": "Temporais atingiram vários municípios do estado de São Paulo, superando a média mensal de precipitação em 24 horas. As chuvas causaram desabamentos, alagamentos e erosões, resultando em um falecimento. As autoridades alertam para risco de novos deslizamentos e alagamentos nas áreas afetadas. A situação segue sob monitoramento das equipes de defesa civil.",
+          "porQueImporta": "A ocorrência evidencia risco de desastres naturais em áreas urbanas e a necessidade de medidas de prevenção e resposta rápida.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/previsao-do-tempo-pico-da-onda-de-frio-sera-na-quarta-24-e-quinta-25/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuvas-em-sao-paulo-superam-media-do-mes-em-24h-e-deixam-um-morto/"
             }
           ],
-          "updatedAt": "2026-06-24T14:40:44.000Z"
+          "updatedAt": "2026-06-24T18:03:23.000Z"
+        },
+        {
+          "clusterId": "c33e438c495afe41",
+          "slug": "3ee46a8da8b1dc46",
+          "titulo": "Parte da cobertura de posto de combustível é arrancada por ventania em São Luís",
+          "resumo": "Na tarde desta quarta-feira (24), forte chuva provocou alagamentos em diversas vias da capital maranhense. No bairro São Cristóvão, a ventania associada ao temporal arrancou parte da cobertura de um posto de combustível. O incidente foi registrado em vídeo, mostrando motociclistas buscando abrigo sob a estrutura danificada. As autoridades ainda não divulgaram detalhes sobre possíveis interrupções no abastecimento.",
+          "porQueImporta": "O dano evidencia a vulnerabilidade de infraestruturas urbanas a eventos climáticos intensos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/24/parte-do-teto-de-posto-de-combustivel-e-arrancado-durante-ventania-em-sao-luis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-24T17:43:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Q2FhxHs9Xx3I_UKf73M4cTzF81U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/d/sewWdPQrm7QDPRmAqgRg/montagens-1920-x-1080-px-.png"
+        }
+      ]
+    },
+    {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "416ac509e5d3b92f",
+          "slug": "dd24aae0d484d61c",
+          "titulo": "Terremoto de magnitude 5,6 atinge norte da Califórnia",
+          "resumo": "Um sismo de magnitude 5,6 ocorreu nesta quarta-feira (24) no condado de Mendocino, próximo a Redwood Valley, na Califórnia. O USGS informou profundidade de 11 km. Até o momento não há relatos de vítimas ou danos materiais.",
+          "porQueImporta": "O evento pode gerar preocupação pela possibilidade de danos em áreas próximas",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-56-atinge-norte-da-california/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-56-atinge-o-norte-da-california"
+            }
+          ],
+          "updatedAt": "2026-06-24T18:04:16.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/mapa-mostra-epicentro-do-terremoto-na-california_3x2.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "174a3fd47705af60",
+          "slug": "14e22ae3af86c377",
+          "titulo": "Defesa Civil aciona sirene em São Sebastião devido a forte chuva",
+          "resumo": "Na manhã de 24, a Defesa Civil de São Sebastião (SP) acionou a sirene de alerta após registrar 99 milímetros de chuva em uma hora, atingindo os parâmetros do Plano de Contingência. O acionamento foi preventivo, concentrando‑se na região de Juquehy. O sistema de alertas da Defesa Civil havia sido suspenso após um ataque hacker que gerou avisos falsos em 20 de junho, deixando o estado sem novos alertas até o momento.",
+          "porQueImporta": "A medida indica risco imediato de alagamento e demonstra a vulnerabilidade dos sistemas de alerta em situações de emergência",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/hacker-sp-sem-alerta-defesa-civil"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/24/defesa-civil-aciona-sirene-de-alerta-em-sao-sebastiao-apos-alto-volume-de-chuva.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-24T16:28:29.000Z",
+          "imageUrl": "https://images.metroimg.com/bb26f165-temporal.jpg"
         }
       ]
     },
@@ -475,47 +554,67 @@
       "label": "Seca",
       "stories": [
         {
-          "clusterId": "a49fb76fd5551446",
-          "slug": "11f7ff20feaf488c",
-          "titulo": "Onda de calor na França registra temperatura recorde e causa mortes de aves e pessoas",
-          "resumo": "A França chegou a 44,3 °C, a temperatura mais alta já registrada no país, provocando um intenso calor que matou cerca de 40 pessoas e milhares de aves em granjas. As autoridades anunciaram medidas de apoio aos produtores rurais, rebanhos e lavouras afetados. Várias regiões foram colocadas sob alerta vermelho ou laranja devido ao calor extremo.",
-          "porQueImporta": "O evento evidencia riscos sanitários e econômicos associados a ondas de calor extremos na Europa",
+          "clusterId": "98e321162473d4eb",
+          "slug": "08d3abfbbf8d407d",
+          "titulo": "Montes Claros decreta situação de emergência devido à seca",
+          "resumo": "A Prefeitura de Montes Claros publicou o Decreto nº 5.311, decretando situação de emergência por causa da seca. A medida tem validade de 180 dias e foi anunciada nesta quarta‑feira. O decreto foi motivado pelo fim do período chuvoso, altas temperaturas e estiagem prolongada, que têm causado impactos na agricultura, pecuária e segurança hídrica do município.",
+          "porQueImporta": "A declaração de emergência permite a mobilização de recursos e ações para mitigar os efeitos da seca na população local",
           "categoria": "Seca",
           "categoriaSlug": "seca",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/no-calorao-europeu-franca-tem-dia-mais-quente-de-sua-historia-443oc"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/agro/onda-de-calor-na-franca-mata-milhares-de-aves-em-granjas/"
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/24/montes-claros-decreta-situacao-de-emergencia-por-conta-da-seca.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T15:10:02.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/05/gettyimages-2278371184.jpg"
+          "updatedAt": "2026-06-24T17:50:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/J4mP8M1MVZA_3xHaauPuMT701Y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/U/CDrZwIQ7AZHFapqjpAjQ/montes-claros-zona-rural-seca-13-09-11-foto-fabio-marcal-0127.jpg"
         }
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "frente-fria",
+      "label": "Frente fria",
       "stories": [
         {
-          "clusterId": "5b18818ebb8a55e6",
-          "slug": "2772c2462da4c282",
-          "titulo": "Chuvas provocam desabamentos e deixam um morto em São Paulo",
-          "resumo": "fortes chuvas na zona leste da capital paulista causaram desabamentos em áreas residenciais, resultando em um óbito. Além da vítima, 37 moradores ficaram desabrigados e foram encaminhados para abrigos temporários. As autoridades locais acionaram equipes de socorro e monitoram a situação para evitar novos incidentes. A população foi orientada a permanecer em áreas seguras até a melhora das condições climáticas",
-          "porQueImporta": "O evento evidencia o risco de desabamentos em áreas urbanas durante chuvas intensas, afetando a vida de residentes e demandando resposta emergencial",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "1f34ee4a20cc5cf0",
+          "slug": "63b4ac8042fa639f",
+          "titulo": "Frente fria traz mínima de 15°C a Rio Branco",
+          "resumo": "Uma massa de ar polar chegou ao Acre nesta quarta-feira e deve permanecer até sexta-feira. Em Rio Branco, a temperatura mínima prevista para quinta-feira é de 15°C, segundo o Climatempo. O mesmo sistema está reduzindo as temperaturas em estados do Sul, Sudeste e Centro-Oeste.",
+          "porQueImporta": "Temperaturas mais baixas podem afetar a saúde da população e a demanda energética.",
+          "categoria": "Frente fria",
+          "categoriaSlug": "frente-fria",
           "sources": [
             {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-brasil/chuvas-provocam-desabamentos-e-deixam-um-morto-em-sao-paulo/"
+              "name": "G1",
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/24/com-previsao-de-15oc-rio-branco-esta-entre-as-capitais-com-a-tempetura-mais-baixa-do-pais.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T14:27:25.000Z"
+          "updatedAt": "2026-06-24T17:20:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/u6F-PomiuJymvnb3CLbrMxPUiz8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/S/t3cQozTLmJP7ij9Addqw/midia-de-distribuicao-g1-2026-06-24t141822.996.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "homicidio",
+      "label": "Homicídio",
+      "stories": [
+        {
+          "clusterId": "1b6f26fc85283d8f",
+          "slug": "2785dba253b333b1",
+          "titulo": "Jovem de 18 anos é morta a tiros em Alto Araguaia (MT) após suposta entrega de drogas",
+          "resumo": "Larissa Rafaela Nunes Lopes, de 18 anos, foi atingida por disparos no bairro Maria das Graças, em Alto Araguaia, a 423 km de Cuiabá. A polícia prendeu um suspeito de 18 anos, cuja identidade não foi divulgada. Segundo a Polícia Militar, a vítima apresentava perfuração na cabeça. Testemunhas relataram que o suspeito teria saído de moto com a vítima pouco antes do crime.",
+          "porQueImporta": "O caso evidencia violência juvenil e tráfico de drogas na região, gerando preocupação de segurança pública",
+          "categoria": "Homicídio",
+          "categoriaSlug": "homicidio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/24/jovem-de-18-anos-e-morta-a-tiros-apos-suposta-entrega-de-drogas-em-alto-araguaia-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-24T17:09:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/qzizP3BUwQWjGdKYup14d_tf6Y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/1/5LL6IMS4StNb6ACDwnPg/foto-g1-3-.jpg"
         }
       ]
     },
