@@ -1,187 +1,189 @@
 {
   "date": "2026-06-24",
-  "generatedAt": "2026-06-24T11:23:40.380Z",
+  "generatedAt": "2026-06-24T15:19:45.321Z",
   "home": [
     {
-      "clusterId": "83a837f9ac1a3f07",
-      "slug": "1d6ac4fa31ffe35d",
-      "titulo": "Duas crianças mortas dentro de carro na França durante onda de calor",
-      "resumo": "Dois irmãos de 2 e 4 anos foram encontrados mortos dentro do carro da família em Carpentras, sudeste da França. O veículo estava em estacionamento residencial quando a mãe as encontrou. A investigação aponta a onda de calor como principal causa, embora as causas exatas ainda devam ser determinadas.",
-      "porQueImporta": "O caso destaca os riscos de calor extremo para crianças em veículos fechados.",
+      "clusterId": "48e0be784cd8a4eb",
+      "slug": "e1e0c2805dbd283b",
+      "titulo": "Onda de calor na Europa causa mortes por afogamento",
+      "resumo": "A onda de calor que domina a Europa tem levado pessoas a buscar refresco em canais, lagos e rios, resultando em dezenas de afogamentos. Na França, pelo menos 48 mortes por afogamento foram registradas, enquanto a Espanha e outros países também tiveram vítimas. O calor extremo também provocou fechamentos de escolas, atrasos no transporte e apagões de energia elétrica.",
+      "porQueImporta": "O aumento de afogamentos demonstra os riscos diretos da onda de calor para a saúde pública.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/22/duas-criancas-encontradas-mortas-dentro-de-carro-durante-onda-de-calor-na-franca.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/23/onda-de-calor-extremo-provoca-40-mortes-por-afogamento-na-franca-em-5-dias.ghtml"
         },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c9v27lx1kwmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-omega-na-europa-causa-mortes-e-interrompe-energia-eletrica/"
+        }
+      ],
+      "updatedAt": "2026-06-24T14:24:44.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/6QoUG4tTnLcGDKWW9EOixFnVls4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/4/Et1BjQRnm0RAqMyous0w/2026-06-22t221857z-874591579-rc25zlaksbpy-rtrmadp-3-europe-weather-france-heat.jpg"
+    },
+    {
+      "clusterId": "a49fb76fd5551446",
+      "slug": "11f7ff20feaf488c",
+      "titulo": "Onda de calor na França registra temperatura recorde e causa mortes de aves e pessoas",
+      "resumo": "A França chegou a 44,3 °C, a temperatura mais alta já registrada no país, provocando um intenso calor que matou cerca de 40 pessoas e milhares de aves em granjas. As autoridades anunciaram medidas de apoio aos produtores rurais, rebanhos e lavouras afetados. Várias regiões foram colocadas sob alerta vermelho ou laranja devido ao calor extremo.",
+      "porQueImporta": "O evento evidencia riscos sanitários e econômicos associados a ondas de calor extremos na Europa",
+      "categoria": "Seca",
+      "categoriaSlug": "seca",
+      "sources": [
         {
           "name": "Metrópoles",
           "url": "https://www.metropoles.com/mundo/no-calorao-europeu-franca-tem-dia-mais-quente-de-sua-historia-443oc"
         },
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c17y9nlz0v1o?at_medium=RSS&at_campaign=rss"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/agro/onda-de-calor-na-franca-mata-milhares-de-aves-em-granjas/"
         }
       ],
-      "updatedAt": "2026-06-24T11:01:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Ul-YVzJa52vsouYyGbdDFedwZBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/i/phSBRdQmyIH8FPfmAqcQ/2026-06-19t140137z-1095593832-rc22xla9n7ve-rtrmadp-3-europe-weather-france-heat.jpg"
+      "updatedAt": "2026-06-24T15:10:02.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/gettyimages-2278371184.jpg"
     },
     {
-      "clusterId": "6441668d4920370d",
-      "slug": "f45c3789d07b45e0",
-      "titulo": "Desabamento deixa um morto e dois feridos em cortiço no Cangaíba, Zona Leste de São Paulo",
-      "resumo": "Na noite de terça‑feira, um sobrado de dois andares na Rua Engenheiro Costa Ourique, em Cangaíba, desabou por volta das 23h25. Cerca de dez pessoas residiam no imóvel, que funcionava como cortiço, e o colapso atingiu uma área de aproximadamente 30 m². Três pessoas ficaram soterradas, resultando em uma morte e duas feridas. Equipes do Corpo de Bombeiros, incluindo o Grupo de Busca e Resgate em Estruturas Colapsadas, atuaram no local.",
-      "porQueImporta": "O incidente evidencia os riscos de moradias precárias em áreas urbanas densas",
-      "categoria": "Desabamento",
-      "categoriaSlug": "desabamento",
+      "clusterId": "c0e7c8a8a0b32593",
+      "slug": "0897559bea73d91a",
+      "titulo": "Defesa Civil suspende sistema de alertas após invasão hacker em São Paulo",
+      "resumo": "A plataforma de alertas da Defesa Civil foi interrompida após suspeita de invasão hacker que gerou avisos falsos no sábado, 20 de junho. A suspensão foi determinada pela Defesa Civil Nacional e permanece em vigor, apesar das chuvas persistentes que têm causado transtornos na Grande São Paulo desde a terça‑feira, 23. As autoridades investigam o incidente e adotam medidas para restaurar o serviço.",
+      "porQueImporta": "A falta de alertas pode deixar a população sem informações rápidas sobre riscos climáticos",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/24/desabamento-cangaiba.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/24/sistema-de-alertas-da-defesa-civil-segue-suspenso-apesar-de-chuva-persistente-que-causou-transtornos-na-grande-sp.ghtml"
         },
         {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/hacker-sp-sem-alerta-defesa-civil"
+        }
+      ],
+      "updatedAt": "2026-06-24T14:53:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Mg4U0nlMc1tsiNrsgpj9jA4sPMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/g/UsoyQxRQuygEjdpqzkAQ/whatsapp-image-2026-06-24-at-07.52.53.jpeg"
+    },
+    {
+      "clusterId": "378273de3fddd7d2",
+      "slug": "d5ac25d265b4ccac",
+      "titulo": "Polícia prende homem que atropelou Pampam, ícone da torcida do Paysandu",
+      "resumo": "A Polícia Civil do Pará deteve o suspeito de ter atropelado Pampam, mascote da torcida do Paysandu, em Belém. O acusado foi encontrado escondido na casa de parentes em Paragominas, no sudeste do estado. O incidente ocorreu enquanto cinco pessoas pintavam uma rua para a Copa. A prisão foi confirmada pela polícia local.",
+      "porQueImporta": "O caso ganhou destaque por envolver o mascote de um clube de futebol e gerar debate sobre segurança no trânsito",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pa/para/noticia/2026/06/24/policia-prende-homem-que-atropelou-pampam-icone-da-torcida-do-paysandu.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-24T15:11:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/4kI6zKr5i_PtLUeDiMr3G3Q5xpU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/c/VivSnGRNuOy7X3zbceUg/pampam.png"
+    },
+    {
+      "clusterId": "262156cf44267e43",
+      "slug": "7ba6365a2dc86f4b",
+      "titulo": "Empresário morre após caminhonete capotar em ultrapassagem na BR-364, RO",
+      "resumo": "Um homem de 26 anos morreu ao tentar ultrapassar uma carreta na BR-364, entre Presidente Médici e Ji-Paraná, na terça-feira. O motorista, identificado como Keniel Luiz Alves, era empresário do ramo de panificação em Cacoal. A câmera do veículo registrou a manobra, que culminou no capotamento da caminhonete. O acidente ocorreu durante a tentativa de ultrapassagem e resultou em óbito.",
+      "porQueImporta": "O caso evidencia os riscos de ultrapassagens perigosas em rodovias estaduais",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/24/video-empresario-morre-apos-caminhonete-capotar-em-ultrapassagem-na-br-364-em-ro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-24T14:58:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-0awsdq-iN45uLcTP1s8U5CXypk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/4zqqE7SHWKAG0u0zxarg/design-sem-nome-2-.png"
+    },
+    {
+      "clusterId": "1cc7a1e948568961",
+      "slug": "0cf7a459e7156007",
+      "titulo": "Frente fria traz temperaturas abaixo de zero no Sul e temporais com mortes em São Paulo",
+      "resumo": "A previsão indica pico da onda de frio na quarta (24) e quinta (25), com temperaturas negativas e risco de geada e neve no Sul do Brasil. Em São Paulo, temporais intensos provocam alagamentos, desabamentos e mortes. As autoridades alertam para a necessidade de cuidados diante das condições climáticas adversas.",
+      "porQueImporta": "As condições podem causar danos à população e à infraestrutura nas regiões afetadas",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/desabamento-de-sobrado-deixa-um-morto-e-dois-feridos-na-zona-leste-de-sp/"
+          "url": "https://www.cnnbrasil.com.br/nacional/previsao-do-tempo-pico-da-onda-de-frio-sera-na-quarta-24-e-quinta-25/"
         }
       ],
-      "updatedAt": "2026-06-24T09:11:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kojn9igIgmR4DaFsMMn7SRQmMYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/TcJcXLSuefYhtbkHqC1w/3a3bf90f-c3fa-4135-94e8-3ca1f832d2eb.jpg"
+      "updatedAt": "2026-06-24T14:40:44.000Z"
     },
     {
-      "clusterId": "344c2887196b21d1",
-      "slug": "da33537fd7ff8a5c",
-      "titulo": "Tropas israelenses matam duas pessoas no sul do Líbano e Hezbollah acusa violação de cessar‑fogo",
-      "resumo": "Na terça‑feira, soldados israelenses abriram fogo contra um grupo próximo a uma escavadeira que limpava uma estrada no bairro al‑Deir, em Nabatieh al‑Fawqa, no sul do Líbano, resultando na morte de duas pessoas, segundo a Defesa Civil libanesa e a mídia estatal. O Hezbollah respondeu acusando Israel de violar o cessar‑fogo vigente na região. As vítimas foram identificadas apenas como civis. O incidente ocorre em meio a tensões recorrentes na fronteira entre os dois países.",
-      "porQueImporta": "O ataque pode intensificar o conflito fronteiriço e gerar novas ondas de violência na região",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "5b18818ebb8a55e6",
+      "slug": "2772c2462da4c282",
+      "titulo": "Chuvas provocam desabamentos e deixam um morto em São Paulo",
+      "resumo": "fortes chuvas na zona leste da capital paulista causaram desabamentos em áreas residenciais, resultando em um óbito. Além da vítima, 37 moradores ficaram desabrigados e foram encaminhados para abrigos temporários. As autoridades locais acionaram equipes de socorro e monitoram a situação para evitar novos incidentes. A população foi orientada a permanecer em áreas seguras até a melhora das condições climáticas",
+      "porQueImporta": "O evento evidencia o risco de desabamentos em áreas urbanas durante chuvas intensas, afetando a vida de residentes e demandando resposta emergencial",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/23/tropas-israelenses-matam-pessoas-libano-diz-midia-estatal.ghtml"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/chuvas-provocam-desabamentos-e-deixam-um-morto-em-sao-paulo/"
         }
       ],
-      "updatedAt": "2026-06-24T11:01:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/aLEv9AhdyTu46ObzbB2Bsya2Xcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/i/mGNL5ESBeypJFBOFZ7Sg/ap26171486185408.jpg"
+      "updatedAt": "2026-06-24T14:27:25.000Z"
     },
     {
-      "clusterId": "ef06daf60d0be2fa",
-      "slug": "a17c1b54394ffeec",
-      "titulo": "Ponte Frei Paolino Baldassari desaba em Sena Madureira sem previsão de retirada dos destroços",
-      "resumo": "Na noite do último dia 5, a ponte sobre o Rio Iaco em Sena Madureira, Acre, desabou enquanto quatro pessoas estavam sobre a estrutura. O local já estava interditado desde o dia anterior por risco de colapso nas margens. Imagens de câmeras de segurança registraram a queda. Até o momento, não há data definida para a remoção dos destroços nem para a liberação da passagem.",
-      "porQueImporta": "A interrupção da travessia afeta o transporte local e a segurança dos moradores da região",
-      "categoria": "Colapso de estrutura",
-      "categoriaSlug": "colapso-de-estrutura",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/06/24/ponte-frei-paolino-retirada-de-destrocos-de-estrutura-que-desabou-nao-tem-data-definida-no-acre.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-24T11:00:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/djgC8JaYl07S2t4Pc3rYw757r28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/q/2AJ1LhQnKEn2smYY5WRA/midia-de-distribuicao-g1-2026-06-12t121032.423.jpg"
-    },
-    {
-      "clusterId": "4d9c9867c1e8d0fe",
-      "slug": "c3514844561dc0cf",
-      "titulo": "Estudante de medicina morre após acidente de moto em Ponta Porã",
-      "resumo": "Maria Caroline Azevedo Freitas, de 29 anos, estudante de medicina, foi vítima de acidente de moto no fim de semana em Ponta Porã. Ela foi socorrida, encaminhada ao Hospital Regional de Ponta Porã e, devido à gravidade dos ferimentos, transferida ao Hospital da Vida, em Dourados, onde faleceu na noite de terça‑feira.",
-      "porQueImporta": "O caso destaca a gravidade dos acidentes de trânsito e a necessidade de atenção à segurança viária na região.",
+      "clusterId": "382ce7fbd7f4a45f",
+      "slug": "70027a40dc82a34c",
+      "titulo": "Homem em situação de rua morre após ser atropelado por micro-ônibus em Manaus",
+      "resumo": "Um homem de 44 anos, identificado como Warlen Dias da Silva, foi atropelado por um micro‑ônibus na Avenida Desembargador João Machado, no bairro Planalto, em Manaus. A ocorrência foi registrada na Delegacia Especializada em Homicídios e Sequestros por volta das 4h25 desta quarta‑feira. Ao chegar ao local, a polícia constatou que a vítima era pessoa em situação de rua. As circunstâncias do acidente não foram detalhadas nas informações disponíveis.",
+      "porQueImporta": "O caso evidencia riscos de trânsito para pessoas em situação de vulnerabilidade nas áreas urbanas",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/24/estudante-de-medicina-morre-apos-acidente-de-moto-em-ponta-pora.ghtml"
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/24/homem-em-situacao-de-rua-morre-apos-ser-atropelado-por-micro-onibus-em-manaus.ghtml"
         }
       ],
-      "updatedAt": "2026-06-24T10:55:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/11wamIiSwr2ytTC1YGHyaGmuCn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/8/4lHoeVRqA3K4udxj2s1A/canva-2026-06-24t063531.002.png"
+      "updatedAt": "2026-06-24T14:15:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zedwxalfCsQCeN8ASpIPBcSeUC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/C/G8A1A5Tb6zvU22BbnezA/fachada-do-iml-de-manaus-foto-carlos-soares-ssp-am.jpeg"
     },
     {
-      "clusterId": "93b7335c924b06c4",
-      "slug": "210733cadd4566a7",
-      "titulo": "Acidente entre três caminhões interdita Castelinho em Itu",
-      "resumo": "Um acidente envolvendo três caminhões ocorreu na manhã desta quarta-feira na Rodovia Senador José Ermírio de Moraes, em Itu, no quilômetro 12 próximo ao pedágio, sentido Sorocaba. A colisão aconteceu por volta das 5h40 e provocou a interdição de duas faixas da rodovia. Não houve feridos e as equipes de resgate da concessionária AB Colinas foram acionadas, sem necessidade de atendimento médico.",
-      "porQueImporta": "O acidente gerou lentidão e interdição parcial da principal via da região, afetando o tráfego de veículos",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/24/acidente-na-castelinho.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-24T10:46:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/l-eFP0faHVw7O53Jy4MJo-0WKMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/BniMwrTDWuVj4ucLpJjA/lentidao.jpg"
-    },
-    {
-      "clusterId": "005fc4aa8c2f7409",
-      "slug": "5a6ef44346a91493",
-      "titulo": "Acidente com três carretas interdita rodovia Anhanguera em Pirassununga",
-      "resumo": "Na noite de terça-feira (23), três carretas colidiram na rodovia Anhanguera (SP-330), em Pirassununga, SP, provocando o bloqueio total da via. O acidente ocorreu por volta das 20h, com chuva no local, e gerou congestionamento de mais de 7 km. Três pessoas ficaram com ferimentos leves e foram atendidas. O trânsito ficou interrompido até a remoção dos veículos.",
-      "porQueImporta": "A interdição da principal rodovia estadual causa transtornos ao transporte e ao deslocamento de milhares de usuários.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/24/grave-acidente-com-3-carretas-interdita-anhanguera-e-causa-fila-de-7-km-no-interior-de-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-24T10:46:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/M3T7IL2b_pYlfi0NZtjbZDz-6FY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/7/QxlLzyR0CcaKBXImIR5w/6cd7317f-1bdb-4ac5-856b-daebbdfa1e28.jpg"
-    },
-    {
-      "clusterId": "88643aff96b9344e",
-      "slug": "25dd2c06871a9a07",
-      "titulo": "Chuva forte provoca desabamentos e alagamentos em SP; veja ocorrências",
-      "resumo": "Bombeiros registram ao menos seis focos de inundação ou enchente e quatro chamados relacionados a desabamentos ou desmoronamentos; duas mortes foram registradas em menos de dois dias em SP",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "clusterId": "5e5aacb9df59475e",
+      "slug": "06d0860167e3e7f7",
+      "titulo": "Campanha global por eletrificação é lançada em Londres",
+      "resumo": "Uma iniciativa internacional foi apresentada em Londres, propondo metas mais ambiciosas para que governos adotem a eletricidade em substituição aos combustíveis fósseis. A campanha busca acelerar a transição energética e reduzir emissões de gases de efeito estufa. Organizações participantes enfatizam a necessidade de políticas públicas e investimentos em infraestrutura elétrica.",
+      "porQueImporta": "A medida pode acelerar a descarbonização e contribuir para o combate às mudanças climáticas",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuva-forte-provoca-desabamentos-e-alagamentos-em-sp-veja-ocorrencias/"
+          "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-campanha-global-por-eletrificacao-e-lancada-em-londres/"
         }
       ],
-      "updatedAt": "2026-06-24T10:45:38.000Z"
+      "updatedAt": "2026-06-24T14:12:47.000Z"
     },
     {
-      "clusterId": "d9132243f50dac84",
-      "slug": "4b2bb29183f3a99a",
-      "titulo": "Colisão entre caminhões deixa motorista ferido em rodovia próximo a Brodowski, SP",
-      "resumo": "Dois caminhões colidiram na manhã desta quarta-feira na Rodovia Cândido Portinari, km 332, sentido Ribeirão Preto‑Brodowski. Um dos veículos atingiu a traseira de uma carreta bitrem, ficando preso nas ferragens. O motorista do caminhão que bateu foi socorrido consciente pelos bombeiros e encaminhado a um hospital. A identidade da vítima não foi divulgada.",
-      "porQueImporta": "Acidente na rodovia pode gerar congestionamento e riscos adicionais aos usuários da via",
+      "clusterId": "fc23d1efe201610d",
+      "slug": "9e5ec65d889598c7",
+      "titulo": "Duas pessoas ficam feridas após colisão entre caminhonete e caminhão em zona rural de Pedras de Maria da Cruz",
+      "resumo": "Na noite de terça‑feira, uma caminhonete que seguia em direção à comunidade rural de Jacarezinho foi atingida pela carroceria de um caminhão que trafegava no sentido oposto, na estrada que liga Pedras de Maria da Cruz a Jacarezinho. O impacto arremessou a caminhonete para a lateral da via e deixou duas pessoas feridas. O motorista do caminhão teria deixado o local após o acidente, segundo a Polícia Militar.",
+      "porQueImporta": "Acidentes em vias rurais podem gerar vítimas graves e dificultar o socorro em áreas de difícil acesso.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/24/colisao-entre-caminhoes-deixa-feridos-em-rodovia-proximo-a-brodowski-sp.ghtml"
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/24/duas-pessoas-ficam-feridas-apos-caminhonete-ser-atingida-por-carroceria-de-caminhao-na-zona-rural-de-pedras-de-maria-da-cruz.ghtml"
         }
       ],
-      "updatedAt": "2026-06-24T10:40:07.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zVfPRFVFh7lcPNNLiFgYhL1EVXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/N/d5slmfQr25QQoQvUAOhw/acidente-brodowski.jpg"
-    },
-    {
-      "clusterId": "e743dd8982713881",
-      "slug": "76db9f8026b64902",
-      "titulo": "Ônibus bate em poste no Capão Redondo deixa quatro feridos",
-      "resumo": "Um ônibus colidiu com um poste energizado na Estrada de Itapecerica, no Capão Redondo, por volta das 5h57 desta quarta-feira. O poste caiu sobre o veículo, ferindo quatro pessoas, entre elas duas mulheres de 40 e 43 anos. As vítimas foram socorridas pelos bombeiros e encaminhadas a unidades de pronto‑atendimento. Três viaturas do Corpo de Bombeiros atenderam a ocorrência.",
-      "porQueImporta": "O acidente evidencia a vulnerabilidade de usuários e pedestres a falhas de infraestrutura urbana",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/24/onibus-bate-em-poste-e-deixa-quatro-feridos-no-capao-redondo-zona-sul-de-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-24T10:31:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/w_qcBpW1i-RULPOUDl9m8gYQyCE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/i/JnoCJKQkAfAtXdAgC7ww/whatsapp-image-2026-06-24-at-07.00.09.jpeg"
+      "updatedAt": "2026-06-24T14:08:15.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/XL_TIZbu_hZsNcOdMCzecFIztcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/MlimdRR1Om0kzSyAIDzQ/acidentemoc.jpeg"
     }
   ],
   "categorias": [
@@ -190,85 +192,68 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "83a837f9ac1a3f07",
-          "slug": "1d6ac4fa31ffe35d",
-          "titulo": "Duas crianças mortas dentro de carro na França durante onda de calor",
-          "resumo": "Dois irmãos de 2 e 4 anos foram encontrados mortos dentro do carro da família em Carpentras, sudeste da França. O veículo estava em estacionamento residencial quando a mãe as encontrou. A investigação aponta a onda de calor como principal causa, embora as causas exatas ainda devam ser determinadas.",
-          "porQueImporta": "O caso destaca os riscos de calor extremo para crianças em veículos fechados.",
+          "clusterId": "48e0be784cd8a4eb",
+          "slug": "e1e0c2805dbd283b",
+          "titulo": "Onda de calor na Europa causa mortes por afogamento",
+          "resumo": "A onda de calor que domina a Europa tem levado pessoas a buscar refresco em canais, lagos e rios, resultando em dezenas de afogamentos. Na França, pelo menos 48 mortes por afogamento foram registradas, enquanto a Espanha e outros países também tiveram vítimas. O calor extremo também provocou fechamentos de escolas, atrasos no transporte e apagões de energia elétrica.",
+          "porQueImporta": "O aumento de afogamentos demonstra os riscos diretos da onda de calor para a saúde pública.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/22/duas-criancas-encontradas-mortas-dentro-de-carro-durante-onda-de-calor-na-franca.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/no-calorao-europeu-franca-tem-dia-mais-quente-de-sua-historia-443oc"
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/23/onda-de-calor-extremo-provoca-40-mortes-por-afogamento-na-franca-em-5-dias.ghtml"
             },
             {
               "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c17y9nlz0v1o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-06-24T11:01:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Ul-YVzJa52vsouYyGbdDFedwZBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/i/phSBRdQmyIH8FPfmAqcQ/2026-06-19t140137z-1095593832-rc22xla9n7ve-rtrmadp-3-europe-weather-france-heat.jpg"
-        },
-        {
-          "clusterId": "344c2887196b21d1",
-          "slug": "da33537fd7ff8a5c",
-          "titulo": "Tropas israelenses matam duas pessoas no sul do Líbano e Hezbollah acusa violação de cessar‑fogo",
-          "resumo": "Na terça‑feira, soldados israelenses abriram fogo contra um grupo próximo a uma escavadeira que limpava uma estrada no bairro al‑Deir, em Nabatieh al‑Fawqa, no sul do Líbano, resultando na morte de duas pessoas, segundo a Defesa Civil libanesa e a mídia estatal. O Hezbollah respondeu acusando Israel de violar o cessar‑fogo vigente na região. As vítimas foram identificadas apenas como civis. O incidente ocorre em meio a tensões recorrentes na fronteira entre os dois países.",
-          "porQueImporta": "O ataque pode intensificar o conflito fronteiriço e gerar novas ondas de violência na região",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
+              "url": "https://www.bbc.com/portuguese/articles/c9v27lx1kwmo?at_medium=RSS&at_campaign=rss"
+            },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/23/tropas-israelenses-matam-pessoas-libano-diz-midia-estatal.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-omega-na-europa-causa-mortes-e-interrompe-energia-eletrica/"
             }
           ],
-          "updatedAt": "2026-06-24T11:01:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/aLEv9AhdyTu46ObzbB2Bsya2Xcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/i/mGNL5ESBeypJFBOFZ7Sg/ap26171486185408.jpg"
+          "updatedAt": "2026-06-24T14:24:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6QoUG4tTnLcGDKWW9EOixFnVls4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/4/Et1BjQRnm0RAqMyous0w/2026-06-22t221857z-874591579-rc25zlaksbpy-rtrmadp-3-europe-weather-france-heat.jpg"
         },
         {
-          "clusterId": "88643aff96b9344e",
-          "slug": "25dd2c06871a9a07",
-          "titulo": "Chuva forte provoca desabamentos e alagamentos em SP; veja ocorrências",
-          "resumo": "Bombeiros registram ao menos seis focos de inundação ou enchente e quatro chamados relacionados a desabamentos ou desmoronamentos; duas mortes foram registradas em menos de dois dias em SP",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "clusterId": "5e5aacb9df59475e",
+          "slug": "06d0860167e3e7f7",
+          "titulo": "Campanha global por eletrificação é lançada em Londres",
+          "resumo": "Uma iniciativa internacional foi apresentada em Londres, propondo metas mais ambiciosas para que governos adotem a eletricidade em substituição aos combustíveis fósseis. A campanha busca acelerar a transição energética e reduzir emissões de gases de efeito estufa. Organizações participantes enfatizam a necessidade de políticas públicas e investimentos em infraestrutura elétrica.",
+          "porQueImporta": "A medida pode acelerar a descarbonização e contribuir para o combate às mudanças climáticas",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuva-forte-provoca-desabamentos-e-alagamentos-em-sp-veja-ocorrencias/"
+              "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-campanha-global-por-eletrificacao-e-lancada-em-londres/"
             }
           ],
-          "updatedAt": "2026-06-24T10:45:38.000Z"
+          "updatedAt": "2026-06-24T14:12:47.000Z"
         },
         {
-          "clusterId": "c7ee310051186ce6",
-          "slug": "e8126fd01d60d2bc",
-          "titulo": "Policicleta \"Jabiraca Furacão\" leva torcida da Seleção em desfile em Cândido Mota (SP)",
-          "resumo": "Em Cândido Mota, interior de São Paulo, a torcida da Seleção Brasileira foi mobilizada em uma festa sobre duas rodas. O destaque foi a policicleta \"Jabiraca Furacão\", com 12 metros de comprimento, 2,80 metros de altura, 50 rodas e capacidade para até 20 torcedores. O veículo percorreu as ruas da cidade como parte da celebração da Copa do Mundo. A iniciativa faz parte da tradição local de promover o ciclismo durante eventos esportivos.",
-          "porQueImporta": "O evento demonstra como comunidades utilizam criatividade e mobilidade sustentável para apoiar grandes competições esportivas.",
+          "clusterId": "f2ab9f18deffbad5",
+          "slug": "f8371f330dc4eb1a",
+          "titulo": "Influenciador Nego Di é condenado por uso de recibo falso de doação de R$ 1 milhão e outros crimes",
+          "resumo": "O humorista Dilson Alves da Silva Neto, conhecido como Nego Di, foi condenado por estelionato, lavagem de dinheiro, uso de documento falso e promoção de loteria ilegal. A sentença indica que ele e a esposa, Gabriela Vicente de Sousa, criaram um esquema com rifas virtuais irregulares, ocultação de valores e uso de recibo falso que alegava doação de R$ 1 milhão às vítimas da enchente de 2024, mas enviou apenas R$ 100. O caso foi julgado nesta terça‑feira (23).",
+          "porQueImporta": "A condenação evidencia fraudes que exploram desastres para obter ganhos ilícitos",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/24/cidade-das-bicicletas-reune-torcida-para-o-brasil-em-policicleta-com-mais-de-50-rodas-conheca-a-jabiraca-furacao.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/24/nego-di-usou-enchente-para-beneficio-proprio-e-so-enviou-r-100-diz-promotor.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T10:18:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/XAGYKLvrS9scVc_-Lm2c3fiAbaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/C/xJotZxTTAfaKU4qf2zxg/novo-projeto-2-.png"
+          "updatedAt": "2026-06-24T13:37:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/u0NdyYWRBjx9wQqEC7CAw3oMKK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/I/ShaAcuTiO9vayCPnoFDA/g1-2026-06-24t103416.306.jpg"
         },
         {
           "clusterId": "b4c278a46d5488b5",
           "slug": "a83b4b707946dcbc",
           "titulo": "Homem morre soterrado após desabamento de imóvel durante chuva em SP",
-          "resumo": "Imóvel que desabou tinha quartos de aluguel. Um homem morreu e outro ficou ferido; outras 37 pessoas foram acolhidas por autoridades",
+          "resumo": "Imóvel que desabou tinha quartos de aluguel. Um homem morreu e outro ficou ferido; mais 37 pessoas foram acolhidas por autoridades",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
@@ -280,56 +265,6 @@
           ],
           "updatedAt": "2026-06-24T09:45:31.000Z",
           "imageUrl": "https://images.metroimg.com/2026/06/desabamento-cangaiba.jpg"
-        },
-        {
-          "clusterId": "3246ffd91f0e77b6",
-          "slug": "a30465374cf3b237",
-          "titulo": "Confiança é apontada como principal ativo das empresas por grupo de comunicação",
-          "resumo": "Um grupo de comunicação afirmou que a confiança constitui o principal ativo das empresas. A entidade ressaltou que preservar a reputação tem se tornado um desafio no ambiente digital hiperconectado.",
-          "porQueImporta": "A reputação empresarial influencia a relação com clientes e investidores no cenário digital atual.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-midia/confianca-e-o-principal-ativo-das-empresas-diz-grupo-de-comunicacao/"
-            }
-          ],
-          "updatedAt": "2026-06-24T09:00:57.000Z"
-        },
-        {
-          "clusterId": "a8332e0a0a4177ad",
-          "slug": "932996b6c6feae70",
-          "titulo": "VÍDEO: Homem é atropelado por boi desgovernado em MG",
-          "resumo": "Homem é ‘atropelado’ por boi em MG Um homem foi atropelado por um boi que corria solto no Centro de Araxá, no Alto Paranaíba, na manhã de segunda-feira (22). Câmeras de monitoramento registraram o momento do acidente. Veja o vídeo acima. ✅ Clique aqui para seguir o canal do g1 Triângulo no WhatsApp Ponto a ponto do vídeo: As imagens mostram que o animal estava correndo em alta velocidade pela via; Segundos depois, ele passou por um homem que caminhava pelo local e o atingiu em cheio; Com a força da batida, a vítima caiu no chão, enquanto o boi seguiu correndo desgovernado pela rua; Em…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/24/video-homem-e-atropelado-por-boi-desgovernado-em-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-24T08:03:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/KNx7OMqSh9_r9xvvQfe6NmeeHXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/JWwTdjQ8KId4seSSoTLg/designsemnome-ezgif.com-video-to-gif-converter.gif"
-        },
-        {
-          "clusterId": "ac956172bbb813c5",
-          "slug": "4fd91bce8255a12f",
-          "titulo": "Homem morto em acidente no Eixinho saía de local onde trabalhava há 23 anos",
-          "resumo": "Homem morto em acidente no Eixinho saía de local onde trabalhava há 23 anos",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/homem-morto-em-acidente-no-eixinho-saia-de-local-onde-trabalhava-ha-23-anos"
-            }
-          ],
-          "updatedAt": "2026-06-24T03:03:06.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/funcionario-nippon.jpg"
         },
         {
           "clusterId": "d99087844e01acc1",
@@ -364,6 +299,23 @@
           ],
           "updatedAt": "2026-06-23T12:51:47.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/6QoUG4tTnLcGDKWW9EOixFnVls4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/4/Et1BjQRnm0RAqMyous0w/2026-06-22t221857z-874591579-rc25zlaksbpy-rtrmadp-3-europe-weather-france-heat.jpg"
+        },
+        {
+          "clusterId": "75d89337cf875f40",
+          "slug": "da33537fd7ff8a5c",
+          "titulo": "Tropas israelenses matam duas pessoas no sul do Líbano e Hezbollah acusa violação de cessar‑fogo",
+          "resumo": "Na terça‑feira, soldados israelenses abriram fogo contra um grupo próximo a uma escavadeira que limpava uma estrada no bairro al‑Deir, em Nabatieh al‑Fawqa, no sul do Líbano, resultando na morte de duas pessoas, segundo a Defesa Civil libanesa e a mídia estatal. O Hezbollah respondeu acusando Israel de violar o cessar‑fogo vigente na região. As vítimas foram identificadas apenas como civis. O incidente ocorre em meio a tensões recorrentes na fronteira entre os dois países.",
+          "porQueImporta": "O ataque pode intensificar o conflito fronteiriço e gerar novas ondas de violência na região",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/23/tropas-israelenses-matam-pessoas-libano-diz-midia-estatal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-23T10:02:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aLEv9AhdyTu46ObzbB2Bsya2Xcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/i/mGNL5ESBeypJFBOFZ7Sg/ap26171486185408.jpg"
         }
       ]
     },
@@ -372,207 +324,198 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "4d9c9867c1e8d0fe",
-          "slug": "c3514844561dc0cf",
-          "titulo": "Estudante de medicina morre após acidente de moto em Ponta Porã",
-          "resumo": "Maria Caroline Azevedo Freitas, de 29 anos, estudante de medicina, foi vítima de acidente de moto no fim de semana em Ponta Porã. Ela foi socorrida, encaminhada ao Hospital Regional de Ponta Porã e, devido à gravidade dos ferimentos, transferida ao Hospital da Vida, em Dourados, onde faleceu na noite de terça‑feira.",
-          "porQueImporta": "O caso destaca a gravidade dos acidentes de trânsito e a necessidade de atenção à segurança viária na região.",
+          "clusterId": "378273de3fddd7d2",
+          "slug": "d5ac25d265b4ccac",
+          "titulo": "Polícia prende homem que atropelou Pampam, ícone da torcida do Paysandu",
+          "resumo": "A Polícia Civil do Pará deteve o suspeito de ter atropelado Pampam, mascote da torcida do Paysandu, em Belém. O acusado foi encontrado escondido na casa de parentes em Paragominas, no sudeste do estado. O incidente ocorreu enquanto cinco pessoas pintavam uma rua para a Copa. A prisão foi confirmada pela polícia local.",
+          "porQueImporta": "O caso ganhou destaque por envolver o mascote de um clube de futebol e gerar debate sobre segurança no trânsito",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/24/estudante-de-medicina-morre-apos-acidente-de-moto-em-ponta-pora.ghtml"
+              "url": "https://g1.globo.com/pa/para/noticia/2026/06/24/policia-prende-homem-que-atropelou-pampam-icone-da-torcida-do-paysandu.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T10:55:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/11wamIiSwr2ytTC1YGHyaGmuCn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/8/4lHoeVRqA3K4udxj2s1A/canva-2026-06-24t063531.002.png"
+          "updatedAt": "2026-06-24T15:11:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/4kI6zKr5i_PtLUeDiMr3G3Q5xpU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/c/VivSnGRNuOy7X3zbceUg/pampam.png"
         },
         {
-          "clusterId": "93b7335c924b06c4",
-          "slug": "210733cadd4566a7",
-          "titulo": "Acidente entre três caminhões interdita Castelinho em Itu",
-          "resumo": "Um acidente envolvendo três caminhões ocorreu na manhã desta quarta-feira na Rodovia Senador José Ermírio de Moraes, em Itu, no quilômetro 12 próximo ao pedágio, sentido Sorocaba. A colisão aconteceu por volta das 5h40 e provocou a interdição de duas faixas da rodovia. Não houve feridos e as equipes de resgate da concessionária AB Colinas foram acionadas, sem necessidade de atendimento médico.",
-          "porQueImporta": "O acidente gerou lentidão e interdição parcial da principal via da região, afetando o tráfego de veículos",
+          "clusterId": "262156cf44267e43",
+          "slug": "7ba6365a2dc86f4b",
+          "titulo": "Empresário morre após caminhonete capotar em ultrapassagem na BR-364, RO",
+          "resumo": "Um homem de 26 anos morreu ao tentar ultrapassar uma carreta na BR-364, entre Presidente Médici e Ji-Paraná, na terça-feira. O motorista, identificado como Keniel Luiz Alves, era empresário do ramo de panificação em Cacoal. A câmera do veículo registrou a manobra, que culminou no capotamento da caminhonete. O acidente ocorreu durante a tentativa de ultrapassagem e resultou em óbito.",
+          "porQueImporta": "O caso evidencia os riscos de ultrapassagens perigosas em rodovias estaduais",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/24/acidente-na-castelinho.ghtml"
+              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/24/video-empresario-morre-apos-caminhonete-capotar-em-ultrapassagem-na-br-364-em-ro.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T10:46:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/l-eFP0faHVw7O53Jy4MJo-0WKMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/BniMwrTDWuVj4ucLpJjA/lentidao.jpg"
+          "updatedAt": "2026-06-24T14:58:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-0awsdq-iN45uLcTP1s8U5CXypk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/4zqqE7SHWKAG0u0zxarg/design-sem-nome-2-.png"
         },
         {
-          "clusterId": "005fc4aa8c2f7409",
-          "slug": "5a6ef44346a91493",
-          "titulo": "Acidente com três carretas interdita rodovia Anhanguera em Pirassununga",
-          "resumo": "Na noite de terça-feira (23), três carretas colidiram na rodovia Anhanguera (SP-330), em Pirassununga, SP, provocando o bloqueio total da via. O acidente ocorreu por volta das 20h, com chuva no local, e gerou congestionamento de mais de 7 km. Três pessoas ficaram com ferimentos leves e foram atendidas. O trânsito ficou interrompido até a remoção dos veículos.",
-          "porQueImporta": "A interdição da principal rodovia estadual causa transtornos ao transporte e ao deslocamento de milhares de usuários.",
+          "clusterId": "382ce7fbd7f4a45f",
+          "slug": "70027a40dc82a34c",
+          "titulo": "Homem em situação de rua morre após ser atropelado por micro-ônibus em Manaus",
+          "resumo": "Um homem de 44 anos, identificado como Warlen Dias da Silva, foi atropelado por um micro‑ônibus na Avenida Desembargador João Machado, no bairro Planalto, em Manaus. A ocorrência foi registrada na Delegacia Especializada em Homicídios e Sequestros por volta das 4h25 desta quarta‑feira. Ao chegar ao local, a polícia constatou que a vítima era pessoa em situação de rua. As circunstâncias do acidente não foram detalhadas nas informações disponíveis.",
+          "porQueImporta": "O caso evidencia riscos de trânsito para pessoas em situação de vulnerabilidade nas áreas urbanas",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/24/grave-acidente-com-3-carretas-interdita-anhanguera-e-causa-fila-de-7-km-no-interior-de-sp.ghtml"
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/24/homem-em-situacao-de-rua-morre-apos-ser-atropelado-por-micro-onibus-em-manaus.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T10:46:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/M3T7IL2b_pYlfi0NZtjbZDz-6FY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/7/QxlLzyR0CcaKBXImIR5w/6cd7317f-1bdb-4ac5-856b-daebbdfa1e28.jpg"
+          "updatedAt": "2026-06-24T14:15:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zedwxalfCsQCeN8ASpIPBcSeUC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/C/G8A1A5Tb6zvU22BbnezA/fachada-do-iml-de-manaus-foto-carlos-soares-ssp-am.jpeg"
         },
         {
-          "clusterId": "d9132243f50dac84",
-          "slug": "4b2bb29183f3a99a",
-          "titulo": "Colisão entre caminhões deixa motorista ferido em rodovia próximo a Brodowski, SP",
-          "resumo": "Dois caminhões colidiram na manhã desta quarta-feira na Rodovia Cândido Portinari, km 332, sentido Ribeirão Preto‑Brodowski. Um dos veículos atingiu a traseira de uma carreta bitrem, ficando preso nas ferragens. O motorista do caminhão que bateu foi socorrido consciente pelos bombeiros e encaminhado a um hospital. A identidade da vítima não foi divulgada.",
-          "porQueImporta": "Acidente na rodovia pode gerar congestionamento e riscos adicionais aos usuários da via",
+          "clusterId": "fc23d1efe201610d",
+          "slug": "9e5ec65d889598c7",
+          "titulo": "Duas pessoas ficam feridas após colisão entre caminhonete e caminhão em zona rural de Pedras de Maria da Cruz",
+          "resumo": "Na noite de terça‑feira, uma caminhonete que seguia em direção à comunidade rural de Jacarezinho foi atingida pela carroceria de um caminhão que trafegava no sentido oposto, na estrada que liga Pedras de Maria da Cruz a Jacarezinho. O impacto arremessou a caminhonete para a lateral da via e deixou duas pessoas feridas. O motorista do caminhão teria deixado o local após o acidente, segundo a Polícia Militar.",
+          "porQueImporta": "Acidentes em vias rurais podem gerar vítimas graves e dificultar o socorro em áreas de difícil acesso.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/24/colisao-entre-caminhoes-deixa-feridos-em-rodovia-proximo-a-brodowski-sp.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/24/duas-pessoas-ficam-feridas-apos-caminhonete-ser-atingida-por-carroceria-de-caminhao-na-zona-rural-de-pedras-de-maria-da-cruz.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T10:40:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zVfPRFVFh7lcPNNLiFgYhL1EVXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/N/d5slmfQr25QQoQvUAOhw/acidente-brodowski.jpg"
+          "updatedAt": "2026-06-24T14:08:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XL_TIZbu_hZsNcOdMCzecFIztcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/MlimdRR1Om0kzSyAIDzQ/acidentemoc.jpeg"
         },
         {
-          "clusterId": "e743dd8982713881",
-          "slug": "76db9f8026b64902",
-          "titulo": "Ônibus bate em poste no Capão Redondo deixa quatro feridos",
-          "resumo": "Um ônibus colidiu com um poste energizado na Estrada de Itapecerica, no Capão Redondo, por volta das 5h57 desta quarta-feira. O poste caiu sobre o veículo, ferindo quatro pessoas, entre elas duas mulheres de 40 e 43 anos. As vítimas foram socorridas pelos bombeiros e encaminhadas a unidades de pronto‑atendimento. Três viaturas do Corpo de Bombeiros atenderam a ocorrência.",
-          "porQueImporta": "O acidente evidencia a vulnerabilidade de usuários e pedestres a falhas de infraestrutura urbana",
+          "clusterId": "776e26235f82bbc8",
+          "slug": "41f5578b663a7354",
+          "titulo": "Carro colide de frente com ambulância da Prefeitura de Tupã na SP-294 e deixa quatro feridos",
+          "resumo": "Na manhã de quarta-feira, um carro colidiu de frente com uma ambulância da Prefeitura de Tupã na rodovia SP-294, em Pompeia. O acidente resultou em quatro pessoas que necessitaram de atendimento médico. A ambulância trafegava no sentido indicado pela Agência de Transporte do Estado de São Paulo (Artesp). As autoridades foram acionadas para atender a ocorrência.",
+          "porQueImporta": "O acidente envolve veículos de emergência, afetando a prestação de serviços de socorro na região",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/24/onibus-bate-em-poste-e-deixa-quatro-feridos-no-capao-redondo-zona-sul-de-sp.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/24/quatro-pessoas-ficam-feridas-apos-carro-bater-de-frente-com-ambulancia-da-prefeitura-de-tupa-na-sp-294.ghtml"
             }
           ],
-          "updatedAt": "2026-06-24T10:31:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/w_qcBpW1i-RULPOUDl9m8gYQyCE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/i/JnoCJKQkAfAtXdAgC7ww/whatsapp-image-2026-06-24-at-07.00.09.jpeg"
+          "updatedAt": "2026-06-24T13:45:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Gf2Y37n7Nm8-WMROTPKLfqhNI5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/l/FZDFjQSieh4aktTY3lYA/novo-projeto-96-.png"
         },
         {
-          "clusterId": "c6913031eedd28f6",
-          "slug": "faee14ef3934a377",
-          "titulo": "Motorista morre após carreta‑cegonha cair de viaduto em Cariacica",
-          "resumo": "Um motorista morreu quando a carreta‑cegonha que conduzia despencou do Viaduto Dona Rosa, em Cariacica, na madrugada desta quarta‑feira. Não foram divulgadas informações sobre a causa do acidente nem a identidade do motorista. Por volta das 6h30, o trânsito na Avenida Mário Gurgel, sentido Vitória, ficou totalmente interditado, e a Guarda Municipal orientou desvio interno pelo bairro Campo Grande.",
-          "porQueImporta": "O acidente interrompeu o tráfego local e resultou em fatalidade, demandando resposta das autoridades de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/24/motorista-morre-apos-carreta-cegonha-cair-de-viaduto-em-cariacica.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-24T09:53:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/nzyd-2-h06DhwwOajSLJe81Z4X8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/h/Cp2sANQDA2QQFSm2YRqA/thumb-videos-g1-8-.jpg"
-        },
-        {
-          "clusterId": "e1f9fd4ea01e871c",
-          "slug": "8bf19a9ee8bbe06a",
-          "titulo": "Motorista de 49 anos atropela idosa de 81 em Santos e afirma não ter percebido",
-          "resumo": "A Polícia Civil identificou um homem de 49 anos como suspeito de atropelar a aposentada Rosali Gonzalez, de 81 anos, na esquina das ruas Doutor Clóvis Beviláqua e Doutor Acácio Nogueira, no bairro Boqueirão, em Santos. O motorista declarou que não percebeu a pedestre ao fazer uma curva mais fechada. A vítima foi atingida enquanto terminava de atravessar a via. O caso segue sob investigação.",
-          "porQueImporta": "O fato evidencia a vulnerabilidade de pedestres e a necessidade de atenção ao dirigir em áreas urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/24/motorista-identificado-apos-atropelar-mulher-diz-que-nao-notou-acidente-no-litoral-de-sp-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-24T08:19:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DQfgKT-7gbtkJrSgmaWx5gijO2Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/K/dQx0QMTSuBcGdpoFSBTA/atropela-idosa.gif"
-        },
-        {
-          "clusterId": "9f9e296238982087",
-          "slug": "a2d2dab400b75896",
-          "titulo": "Carreta tomba e nuvem de carvão encobre trecho da BR-040 em Santos Dumont",
-          "resumo": "Na manhã de terça‑feira (23), uma carreta bitrem tombou na BR‑040, sentido Juiz de Fora, no km 740 em Santos Dumont. A queda gerou uma nuvem de carvão que cobriu a pista. A concessionária EPR Via Mineira informou que ninguém ficou ferido. As equipes iniciaram os trabalhos de remoção da carga e do veículo.",
-          "porQueImporta": "A obstrução da rodovia pode causar congestionamento e riscos aos demais motoristas",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/24/nuvem-de-carvao-encobre-br-040-apos-tombamento-de-carreta-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-24T08:03:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/AHy6LoZBHrhgXJ59HFqHTAzvruw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/n/xpwtJiRSeBykN32BxEUw/giff-acidente-santos-dumont.gif"
-        },
-        {
-          "clusterId": "cf1447d292a5e5d2",
-          "slug": "58f69e74a14c3960",
-          "titulo": "Caminhoneira morre após explosão de carreta em colisão na BR-070 em Várzea Grande",
-          "resumo": "Uma colisão entre três veículos de carga na BR-070, em Várzea Grande (MT), resultou na explosão de uma carreta. A motorista da carreta morreu no local. Os outros dois motoristas envolvidos não se feriram. O trecho da rodovia ficou interditado para a remoção dos veículos.",
-          "porQueImporta": "O acidente interrompeu o tráfego em uma importante rodovia estadual, afetando o transporte de cargas na região.",
+          "clusterId": "ac956172bbb813c5",
+          "slug": "4fd91bce8255a12f",
+          "titulo": "Homem morre em acidente no Eixinho ao deixar local de trabalho onde atuava há 23 anos",
+          "resumo": "Um trabalhador morreu após se envolver em acidente de trânsito no Eixinho. A vítima estava saindo do local onde trabalhava há 23 anos quando ocorreu a colisão. As autoridades registraram o óbito no local. O incidente gerou interdição parcial da via para remoção dos veículos.",
+          "porQueImporta": "O acidente evidencia riscos de segurança viária em áreas de tráfego intenso e afeta a comunidade local.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/caminhoneira-morre-apos-carreta-explodir-em-acidente-na-br-070"
+              "url": "https://www.metropoles.com/distrito-federal/homem-morto-em-acidente-no-eixinho-saia-de-local-onde-trabalhava-ha-23-anos"
             }
           ],
-          "updatedAt": "2026-06-23T19:16:58.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/06/caminhoneira-morre-apos-carreta-explodir-em-acidente-na-br-070.jpg"
+          "updatedAt": "2026-06-24T03:03:06.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/funcionario-nippon.jpg"
         }
       ]
     },
     {
-      "slug": "desabamento",
-      "label": "Desabamento",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "6441668d4920370d",
-          "slug": "f45c3789d07b45e0",
-          "titulo": "Desabamento deixa um morto e dois feridos em cortiço no Cangaíba, Zona Leste de São Paulo",
-          "resumo": "Na noite de terça‑feira, um sobrado de dois andares na Rua Engenheiro Costa Ourique, em Cangaíba, desabou por volta das 23h25. Cerca de dez pessoas residiam no imóvel, que funcionava como cortiço, e o colapso atingiu uma área de aproximadamente 30 m². Três pessoas ficaram soterradas, resultando em uma morte e duas feridas. Equipes do Corpo de Bombeiros, incluindo o Grupo de Busca e Resgate em Estruturas Colapsadas, atuaram no local.",
-          "porQueImporta": "O incidente evidencia os riscos de moradias precárias em áreas urbanas densas",
-          "categoria": "Desabamento",
-          "categoriaSlug": "desabamento",
+          "clusterId": "c0e7c8a8a0b32593",
+          "slug": "0897559bea73d91a",
+          "titulo": "Defesa Civil suspende sistema de alertas após invasão hacker em São Paulo",
+          "resumo": "A plataforma de alertas da Defesa Civil foi interrompida após suspeita de invasão hacker que gerou avisos falsos no sábado, 20 de junho. A suspensão foi determinada pela Defesa Civil Nacional e permanece em vigor, apesar das chuvas persistentes que têm causado transtornos na Grande São Paulo desde a terça‑feira, 23. As autoridades investigam o incidente e adotam medidas para restaurar o serviço.",
+          "porQueImporta": "A falta de alertas pode deixar a população sem informações rápidas sobre riscos climáticos",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/24/desabamento-cangaiba.ghtml"
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/24/sistema-de-alertas-da-defesa-civil-segue-suspenso-apesar-de-chuva-persistente-que-causou-transtornos-na-grande-sp.ghtml"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/hacker-sp-sem-alerta-defesa-civil"
+            }
+          ],
+          "updatedAt": "2026-06-24T14:53:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Mg4U0nlMc1tsiNrsgpj9jA4sPMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/g/UsoyQxRQuygEjdpqzkAQ/whatsapp-image-2026-06-24-at-07.52.53.jpeg"
+        },
+        {
+          "clusterId": "1cc7a1e948568961",
+          "slug": "0cf7a459e7156007",
+          "titulo": "Frente fria traz temperaturas abaixo de zero no Sul e temporais com mortes em São Paulo",
+          "resumo": "A previsão indica pico da onda de frio na quarta (24) e quinta (25), com temperaturas negativas e risco de geada e neve no Sul do Brasil. Em São Paulo, temporais intensos provocam alagamentos, desabamentos e mortes. As autoridades alertam para a necessidade de cuidados diante das condições climáticas adversas.",
+          "porQueImporta": "As condições podem causar danos à população e à infraestrutura nas regiões afetadas",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/previsao-do-tempo-pico-da-onda-de-frio-sera-na-quarta-24-e-quinta-25/"
+            }
+          ],
+          "updatedAt": "2026-06-24T14:40:44.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "seca",
+      "label": "Seca",
+      "stories": [
+        {
+          "clusterId": "a49fb76fd5551446",
+          "slug": "11f7ff20feaf488c",
+          "titulo": "Onda de calor na França registra temperatura recorde e causa mortes de aves e pessoas",
+          "resumo": "A França chegou a 44,3 °C, a temperatura mais alta já registrada no país, provocando um intenso calor que matou cerca de 40 pessoas e milhares de aves em granjas. As autoridades anunciaram medidas de apoio aos produtores rurais, rebanhos e lavouras afetados. Várias regiões foram colocadas sob alerta vermelho ou laranja devido ao calor extremo.",
+          "porQueImporta": "O evento evidencia riscos sanitários e econômicos associados a ondas de calor extremos na Europa",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/no-calorao-europeu-franca-tem-dia-mais-quente-de-sua-historia-443oc"
             },
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/desabamento-de-sobrado-deixa-um-morto-e-dois-feridos-na-zona-leste-de-sp/"
+              "url": "https://www.cnnbrasil.com.br/agro/onda-de-calor-na-franca-mata-milhares-de-aves-em-granjas/"
             }
           ],
-          "updatedAt": "2026-06-24T09:11:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kojn9igIgmR4DaFsMMn7SRQmMYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/TcJcXLSuefYhtbkHqC1w/3a3bf90f-c3fa-4135-94e8-3ca1f832d2eb.jpg"
+          "updatedAt": "2026-06-24T15:10:02.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/05/gettyimages-2278371184.jpg"
         }
       ]
     },
     {
-      "slug": "colapso-de-estrutura",
-      "label": "Colapso de estrutura",
+      "slug": "deslizamento",
+      "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "ef06daf60d0be2fa",
-          "slug": "a17c1b54394ffeec",
-          "titulo": "Ponte Frei Paolino Baldassari desaba em Sena Madureira sem previsão de retirada dos destroços",
-          "resumo": "Na noite do último dia 5, a ponte sobre o Rio Iaco em Sena Madureira, Acre, desabou enquanto quatro pessoas estavam sobre a estrutura. O local já estava interditado desde o dia anterior por risco de colapso nas margens. Imagens de câmeras de segurança registraram a queda. Até o momento, não há data definida para a remoção dos destroços nem para a liberação da passagem.",
-          "porQueImporta": "A interrupção da travessia afeta o transporte local e a segurança dos moradores da região",
-          "categoria": "Colapso de estrutura",
-          "categoriaSlug": "colapso-de-estrutura",
+          "clusterId": "5b18818ebb8a55e6",
+          "slug": "2772c2462da4c282",
+          "titulo": "Chuvas provocam desabamentos e deixam um morto em São Paulo",
+          "resumo": "fortes chuvas na zona leste da capital paulista causaram desabamentos em áreas residenciais, resultando em um óbito. Além da vítima, 37 moradores ficaram desabrigados e foram encaminhados para abrigos temporários. As autoridades locais acionaram equipes de socorro e monitoram a situação para evitar novos incidentes. A população foi orientada a permanecer em áreas seguras até a melhora das condições climáticas",
+          "porQueImporta": "O evento evidencia o risco de desabamentos em áreas urbanas durante chuvas intensas, afetando a vida de residentes e demandando resposta emergencial",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/06/24/ponte-frei-paolino-retirada-de-destrocos-de-estrutura-que-desabou-nao-tem-data-definida-no-acre.ghtml"
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/chuvas-provocam-desabamentos-e-deixam-um-morto-em-sao-paulo/"
             }
           ],
-          "updatedAt": "2026-06-24T11:00:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/djgC8JaYl07S2t4Pc3rYw757r28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/q/2AJ1LhQnKEn2smYY5WRA/midia-de-distribuicao-g1-2026-06-12t121032.423.jpg"
+          "updatedAt": "2026-06-24T14:27:25.000Z"
         }
       ]
     },
