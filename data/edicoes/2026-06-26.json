@@ -1,102 +1,166 @@
 {
   "date": "2026-06-26",
-  "generatedAt": "2026-06-26T18:12:06.511Z",
+  "generatedAt": "2026-06-26T21:49:00.124Z",
   "home": [
     {
-      "clusterId": "92c9ada61f5e8831",
-      "slug": "bb1cf3a182d4f975",
-      "titulo": "Terremotos de magnitude 7,2 e 7,5 atingem Venezuela e deixam 920 mortos",
-      "resumo": "Na noite de quarta-feira (24), dois terremotos ocorreram a menos de um minuto de intervalo na região norte da Venezuela, atingindo Caracas e cidades vizinhas. O balanço oficial indica 920 mortos e cerca de 3.360 feridos, com prédios e casas desabados. O governo decretou estado de emergência, fechou o aeroporto de Caracas e recebeu equipes de resgate de vários países, incluindo o envio de ajuda humanitária pelo Brasil e pelos EUA, que suspenderam sanções para facilitar as operações.",
-      "porQueImporta": "A magnitude dos sismos e o alto número de vítimas exigem resposta humanitária internacional e destacam a vulnerabilidade sísmica da região.",
+      "clusterId": "b1a538f01cb38a67",
+      "slug": "7d2256642d484b46",
+      "titulo": "Terremoto duplo atinge a Venezuela deixando centenas de mortos e milhares de desaparecidos",
+      "resumo": "Na noite de quarta-feira (24), dois terremotos de magnitudes 7,2 e 7,5 ocorreram a menos de um minuto de intervalo, provocando desabamentos em Caracas e na zona costeira de La Guaira. O balanço oficial do governo venezuelano indica entre 164 e 920 mortos e cerca de 3 mil feridos, enquanto a ONU estima mais de 50 mil desaparecidos. A infraestrutura do país, já fragilizada, dificulta as operações de busca e socorro, que contam com apoio internacional de equipes de vários países.",
+      "porQueImporta": "O desastre evidencia a vulnerabilidade da Venezuela a eventos sísmicos e a necessidade de resposta humanitária urgente.",
       "categoria": "Terremoto",
       "categoriaSlug": "terremoto",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/06/24/terremoto-venezuela-entenda-escala-de-magnitude.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/24/video-desespero-terremoto-venezuela.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/resposta-aos-terremotos-na-venezuela-devem-levar-meses-diz-autoridade/"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cqj1e51p7vko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/lula-pede-minuto-de-silencio-por-mortos-em-terremotos-na-venezuela/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-governo/lula-manda-mucio-a-venezuela-para-avaliar-ajuda-apos-terremotos/"
         }
       ],
-      "updatedAt": "2026-06-26T18:11:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6xXo80Ai5mnvu3J7XRZuxYp-2HY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/kCAmiBQmOm7EnAgqJKcw/afp-20260624-b88k6xx-v1-midres-venezuelaearthquake.jpg"
+      "updatedAt": "2026-06-26T20:54:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/pegFOwbmDUqtLXgHD1PpKsB7lOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/b/L2dDvgQumJHkt4PF5GCg/globo-canal-4-20260624-2000-frame-171888-1-.jpeg"
     },
     {
-      "clusterId": "aa2db92af8456f95",
-      "slug": "d8887e5ae58c55a6",
-      "titulo": "Venezuela registra mais de 50 mil desaparecidos e 920 mortos após terremotos",
-      "resumo": "Autoridades venezuelanas confirmaram até o momento 920 mortes e quase 3 mil feridos em decorrência dos terremotos. O chefe do Escritório de Ajuda Humanitária da ONU, Tom Fletcher, informou que o número de desaparecidos já ultrapassa 50 mil. Os fortes tremores provocaram o desabamento de dezenas de edifícios e geraram pânico em várias regiões do país.",
-      "porQueImporta": "Os elevados números de vítimas e desaparecidos evidenciam a gravidade da crise humanitária gerada pelos sismos na Venezuela",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
+      "clusterId": "6fdd96b3cbcbf0a4",
+      "slug": "088eff51d44d03cf",
+      "titulo": "Incêndio atinge galpão e interdita casas em Suzano",
+      "resumo": "Um incêndio consumiu parte de um galpão de armazenamento e processamento de ração no Parque Herísmo, em Suzano, na tarde de sexta-feira. Aproximadamente 400 metros quadrados foram atingidos e o telhado da estrutura desabou. O Corpo de Bombeiros controlou as chamas por volta das 16h30 e interditou a Rua Antônio Benedito Cândido, bem como quatro casas vizinhas. Não foram registrados feridos.",
+      "porQueImporta": "O evento gerou risco à população local e demandou intervenção de emergência, além de interromper a circulação na região.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/26/desaparecidos-por-terremoto-na-venezuela-ja-passam-de-50-mil.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/venezuela-desaparecidos-apos-terremotos-passam-de-50-mil-diz-onu"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/numero-de-mortos-na-venezuela-sobe-para-920-mais-de-50-000-estao-desaparecidos-diz-onu/"
+          "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/26/incendio-atinge-galpao-e-interdita-quatro-casas-em-suzano.ghtml"
         }
       ],
-      "updatedAt": "2026-06-26T18:07:28.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jUPNY38ejljTkXcQrmavWk1BGQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/2vVlsiQcqJfyPAZPHDFA/afp-20260625-b8al7hr-v1-midres-venezuelaearthquake.jpg"
+      "updatedAt": "2026-06-26T21:30:33.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GX0i4HjfRFMLKzX2ShXTXtyTgBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/94v6KVSpWMvBvqHKhCPg/whatsapp-image-2026-06-26-at-18.04.36-1-.jpeg"
     },
     {
-      "clusterId": "288390949d873d85",
-      "slug": "7b1c5fb9e23d5fa5",
-      "titulo": "Terremotos de magnitudes 7,2 e 7,5 devastam costa venezuelana",
-      "resumo": "Dois tremores de magnitudes 7,5 e 7,2 foram registrados na noite de 24 de junho de 2026, com 39 segundos de intervalo, segundo o Serviço Geológico dos Estados Unidos. Até a manhã seguinte, o governo informou 589 mortos e mais de 2,9 mil feridos, com centenas de edifícios desabados, sobretudo em La Guaira. Imagens de satélite e aéreas mostram a destruição de prédios, incluindo o Hotel Eduard's, e danos em Caracas. Autoridades locais confirmam réplicas e esforços de resgate em andamento.",
-      "porQueImporta": "O desastre causa alta mortalidade, feridos e danos extensos a infraestrutura urbana, exigindo resposta humanitária e reconstrução.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
+      "clusterId": "5c3a5eef34d3f458",
+      "slug": "59f1907dcee98213",
+      "titulo": "Engavetamento entre quatro veículos deixa pessoa ferida na BR-235 em Sergipe",
+      "resumo": "Um engavetamento envolvendo quatro veículos de passeio foi registrado no km 12,5 da rodovia BR-235, em Nossa Senhora do Socorro, nesta sexta-feira. A Polícia Rodoviária Federal informou que pelo menos uma pessoa ficou ferida. O Serviço de Atendimento Móvel de Urgência atendeu à ocorrência e o trânsito ficou lento, com desvio na pista.",
+      "porQueImporta": "O acidente interrompeu o fluxo de veículos em uma rodovia estadual, afetando a mobilidade regional.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/24/fotos-imagens-mostram-destruicao-apos-forte-terremoto-na-venezuela.ghtml"
-        },
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/26/acidente-br-235-em-sergipe.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-26T21:28:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-lwxVjJX3jmSQJz4AozxcSd0-DU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/A/uxBRlQSNic5HSO6FjJBw/crop-foto-2026-06-26t183551.407.jpg"
+    },
+    {
+      "clusterId": "979ac6242ca96996",
+      "slug": "e44aebc9e905a6f6",
+      "titulo": "Caminhão de coleta de lixo tomba e derruba poste em Contagem",
+      "resumo": "Um caminhão de coleta de lixo tombou na tarde de sexta-feira na Avenida Helena de Vasconcelos, no bairro Cincão, em Contagem. O veículo derrubou um poste, interrompendo parte da pista no sentido Belo Horizonte. O motorista, de 35 anos, saiu do veículo com um ferimento na testa e recebeu atendimento. O acidente provocou interdição temporária da via para remoção do lixo e do poste.",
+      "porQueImporta": "A ocorrência interrompe o tráfego urbano e evidencia riscos operacionais de veículos de serviço público",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/26/caminhao-de-coleta-de-lixo-tomba-derruba-poste-e-interdita-avenida-em-contagem.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-26T21:28:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0qIvE3GcmH4khWR3lLMCaQpACG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/a/uY2s1qQgayxg0iiiK8Yg/tomba.jpg"
+    },
+    {
+      "clusterId": "3a2036345e9bfc2e",
+      "slug": "69d759b4db7b3d8e",
+      "titulo": "Cratera se abre sob imóveis na Zona Sul de São Paulo após rompimento de galeria de águas pluviais",
+      "resumo": "Uma cratera se formou na comunidade Jardim Presidente, na Zona Sul de São Paulo, após o rompimento de uma galeria de águas pluviais da Prefeitura durante a chuva. A Defesa Civil interditou uma casa e a garagem de um imóvel vizinho por risco de novos desabamentos. Não houve feridos. O imóvel mais afetado foi construído sobre a galeria de drenagem que se rompeu.",
+      "porQueImporta": "O incidente evidencia riscos de construções sobre infraestruturas de drenagem em áreas urbanas vulneráveis",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/26/cratera-se-abre-sob-imoveis-na-zona-sul-de-sp-apos-rompimento-de-galeria-de-aguas-pluviais.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-26T21:24:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/kjGAgCbXt2aGFTbF_MImF-o2kTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/V/zBriMNQBmnt7bEvZ2wSQ/captura-de-tela-2026-06-26-120705.jpg"
+    },
+    {
+      "clusterId": "83f033e9836be00f",
+      "slug": "3efa6c0b5cd798ae",
+      "titulo": "Pai e filho morrem após caminhão tombar e atingir carro na MGC-120",
+      "resumo": "Um caminhão tombou e colidiu com o carro em que estavam um pai e seu filho na rodovia MGC-120, km 226, em São Pedro do Suaçuí. As equipes da Polícia Militar Rodoviária constataram as vítimas já mortas ao chegarem ao local. Os falecidos foram identificados como José Henrique Batista de Sousa, de 23 anos, e José Faustino de Sousa, de 58, residentes de José Raydan. O acidente ocorreu na sexta-feira, 26.",
+      "porQueImporta": "O acidente evidencia os perigos nas rodovias e o impacto de acidentes graves nas famílias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/26/pai-e-filho-morrem-apos-caminhao-tombar-e-atingir-carro-em-que-eles-estavam-na-mgc-120.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-26T20:59:34.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/dCZRrOofSHYMLXe8nltxY1mbKU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/S/c9RBUETZiZsr1mN0EXbw/whatsapp-image-2026-06-26-at-17.07.37-1-.jpeg"
+    },
+    {
+      "clusterId": "a41258f4904400c0",
+      "slug": "6a6c0f7c5d4cfdd1",
+      "titulo": "Defesa Civil recomenda suspensão do uso de água de nascente contaminada por óleo em Honório Bicalho",
+      "resumo": "A Defesa Civil orientou os moradores de Honório Bicalho, distrito de Nova Lima, a não utilizarem a água de uma nascente contaminada por óleo queimado até que sejam concluídas as análises de qualidade. A nascente abastece cerca de 40 imóveis da comunidade para irrigação, criação de animais e outros usos, mas não é destinada ao consumo humano. A contaminação foi identificada no sistema de captação da comunidade, com indícios de despejo de óleo de motor.",
+      "porQueImporta": "A medida visa proteger a saúde dos moradores e evitar a disseminação de contaminantes ambientais",
+      "categoria": "Contaminação",
+      "categoriaSlug": "contaminacao",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/26/defesa-civil-orienta-moradores-a-nao-usarem-agua-apos-contaminacao-por-oleo-em-nova-lima.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-26T20:48:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Js1Z71gjZqm-GqxggGLvn_Cfl1Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/U/1i04I2TnWRAKQHqqpLjw/20-16-contaminacao-agua-nova-lima-andre-edmilsom-26-jun-2026.mxf.png"
+    },
+    {
+      "clusterId": "68dcfe5f7fe03846",
+      "slug": "5d3367fc26c3b101",
+      "titulo": "Terremoto na Venezuela deixa quase mil mortos",
+      "resumo": "Um terremoto atingiu a Venezuela, resultando em quase 1.000 mortes. O país já enfrenta crise econômica, escassez de materiais de construção e deterioração de moradias sociais, agravadas por sanções dos EUA. A falta de cimento e a colapso da indústria estatal dificultam a resposta ao desastre.",
+      "porQueImporta": "A alta mortalidade evidencia a vulnerabilidade da população diante de desastres naturais em um contexto de crise estrutural",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cx2kn0rk0xqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/portuguese/articles/cdxdrxypzp7o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-06-26T18:00:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/8UxCwvdzCzrXB2icTmOj-2_eZ2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Y/RtCJAOQ9qiVL6XelFqEQ/afp-20260624-b88k6y7-v1-highres-venezuelaearthquake.jpg"
+      "updatedAt": "2026-06-26T20:40:12.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fdd/live/90870220-7152-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
-      "clusterId": "60dc4679898beed2",
-      "slug": "aa4f635003f1c029",
-      "titulo": "FAB envia ajuda humanitária às vítimas de terremoto na Venezuela",
-      "resumo": "Uma aeronave KC-390 Millennium da Força Aérea Brasileira decolou de Guarulhos nesta sexta-feira com 36 bombeiros militares, seis cães de busca e resgate, quatro integrantes da Defesa Civil, quatro especialistas da Anatel e equipamentos de apoio. A missão tem como objetivo apoiar as buscas e o socorro às vítimas dos terremotos ocorridos na Venezuela na última terça-feira. A aeronave partiu da Base Aérea de São Paulo (Basp) em direção à Venezuela.",
-      "porQueImporta": "A operação demonstra a cooperação internacional em resposta a desastres naturais e pode acelerar o socorro às pessoas afetadas.",
-      "categoria": "Desastre",
-      "categoriaSlug": "desastre",
+      "clusterId": "a8034849d9990f1c",
+      "slug": "a6e26f39e68fc994",
+      "titulo": "STF determina que estados ajustem planos de combate a incêndios em 30 dias",
+      "resumo": "O Supremo Tribunal Federal estabeleceu um prazo de 30 dias para que os estados revisem seus planos de prevenção e combate a incêndios. A decisão inclui a exigência de adoção de tecnologias, reforço de equipes e definição de metas para reduzir queimadas e acelerar a fiscalização ambiental. O objetivo é melhorar a capacidade de resposta e monitoramento dos incêndios. A medida foi anunciada recentemente pelos tribunais.",
+      "porQueImporta": "A medida visa reduzir riscos de incêndios e proteger áreas naturais e populações vulneráveis",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/26/aviao-da-fab-decola-de-guarulhos-com-bombeiros-e-caes-de-resgate-para-ajudar-vitimas-de-terremotos-na-venezuela.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/venezuela-fab-envia-ajuda-humanitaria-as-vitimas-de-terremoto"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/estados-tem-30-dias-para-ajustar-planos-contra-incendios-decide-stf/"
         }
       ],
-      "updatedAt": "2026-06-26T17:42:47.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/G8g1f1MdbB23GrcRjGbxDKbhi5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/q/XEKwAuRiCEhy1VD83tAg/whatsapp-image-2026-06-26-at-13.05.00.jpeg"
+      "updatedAt": "2026-06-26T18:23:02.000Z"
     },
     {
       "clusterId": "16f5feb6b47b6cc1",
@@ -114,348 +178,54 @@
       ],
       "updatedAt": "2026-06-26T18:01:44.000Z",
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce43/live/a9251aa0-70c7-11f1-a4ef-3b3bddc079c1.jpg"
-    },
-    {
-      "clusterId": "f1629254a29f975e",
-      "slug": "c80ef434f45d7f06",
-      "titulo": "Mais de 600 mortos e quase 3 mil feridos em terremotos na Venezuela",
-      "resumo": "Os terremotos que atingiram a Venezuela deixaram mais de 600 mortos e quase 3 mil feridos, segundo as autoridades locais. Ajuda internacional começou a ser enviada ao país para apoiar as operações de socorro. A situação permanece crítica, com equipes de emergência trabalhando nas áreas afetadas. As autoridades venezuelanas continuam avaliando os danos e coordenando a resposta.",
-      "porQueImporta": "A alta mortalidade e o número de feridos exigem mobilização de recursos e apoio humanitário internacional",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/06/26/resumao-diario-2037-mais-de-600-mortos-na-venezuela-redacoes-nota-mil-do-enem-geram-divergencias-prisao-de-chefe-de-motoristas-clandestinos-em-sp-governo-exige-alerta-em-propaganda-de-bets-equador-decreta-feriado-apos-vitoria-na-copa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-26T17:16:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
-    },
-    {
-      "clusterId": "977adf6258281ed1",
-      "slug": "b8d9896c74c6cfcf",
-      "titulo": "Idoso e adolescente ficam feridos após carro bater em poste na Zona Sul de Aracaju",
-      "resumo": "Um carro colidiu com um poste na Avenida José Josino de Almeida, na Zona Sul de Aracaju, nesta sexta-feira. A adolescente de 15 anos ficou com quadro de saúde estável e o avô, idoso com problemas cardíacos, ficou preso nas ferragens. Ambos foram socorridos pelo Corpo de Bombeiros. O acidente ocorreu na via de acesso entre os bairros Inácio Barbosa e Farolândia.",
-      "porQueImporta": "O caso evidencia a necessidade de atenção nas vias urbanas para prevenir lesões graves em pedestres e ocupantes de veículos",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/26/idoso-e-adolescente-ficam-feridos-apos-carro-bater-em-poste-na-zona-sul-de-aracaju.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-26T17:05:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/0ErR-FIyNcPoGKxfluidxEGeV60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/q/AiqYOATqu9QDyhs5nBzg/imagem-g1-30-.jpg"
-    },
-    {
-      "clusterId": "b7b62097ebadf40d",
-      "slug": "6568ab13e40dcf40",
-      "titulo": "Suspeito de esfaquear e matar homem que tentou impedir violência doméstica é preso na Paraíba",
-      "resumo": "Na última quarta-feira, em Lagoa Seca (Paraíba), Pablo Fernandes dos Santos, de 32 anos, foi esfaqueado até a morte ao tentar intervir em uma discussão doméstica entre vizinhos. O suspeito foi detido na sexta-feira seguinte. A polícia informou que o crime ocorreu quando a vítima ouviu a mulher gritar por socorro e entrou na residência para conter a briga.",
-      "porQueImporta": "O caso evidencia riscos de intervenções em conflitos domésticos e a necessidade de respostas policiais eficazes.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/26/suspeito-de-esfaquear-e-matar-homem-que-tentou-evitar-violencia-domestica-e-preso-na-paraiba.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-26T17:03:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/WuFB-paMdxDiTtm6ZXCbL5ToBjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/r/ol3CPUTsAB4sbGJwnAMw/pablotvcb.avif"
-    },
-    {
-      "clusterId": "3c0f6881cc74f45a",
-      "slug": "651d26d473bfa407",
-      "titulo": "Motorista de ônibus é indiciado por homicídio culposo após acidente com nove mortos na BR-251",
-      "resumo": "Um acidente envolvendo um ônibus e uma carreta na BR-251, em Santa Cruz de Salinas, resultou em nove óbitos. O condutor do ônibus, de 41 anos, foi indiciado por homicídio culposo pela Polícia Civil de Minas Gerais. O inquérito foi encaminhado ao Judiciário e ao Ministério Público. O nome do motorista não foi divulgado nas informações divulgadas.",
-      "porQueImporta": "O indiciamento demonstra a responsabilização legal em acidentes de trânsito com alta fatalidade.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/26/acidente-com-9-mortos-na-br-251-motorista-de-onibus-e-indiciado-por-homicidio-culposo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-26T16:37:45.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ryGFPZAwObYgH9_L36EhZijcwvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/6/8V38aOSj6KBEwauS35rQ/whatsapp-image-2026-05-24-at-09.07.07-1-.jpeg"
-    },
-    {
-      "clusterId": "bc3522e395ec08ec",
-      "slug": "9e5a04267f5cb59f",
-      "titulo": "Colisão entre carreta e carro interrompe tráfego na SP-425 em Martinópolis",
-      "resumo": "Uma colisão entre uma carreta e um carro ocorreu na Rodovia Assis Chateaubriand (SP-425), no km 421+823, por volta das 11h49, na manhã de sexta-feira. O acidente provocou a interdição total da via no sentido norte. O motorista do carro ficou com ferimentos moderados e foi encaminhado ao hospital. O condutor da carreta permaneceu no local.",
-      "porQueImporta": "A interdição da rodovia pode gerar congestionamento e atrasos para o tráfego regional.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/26/colisao-entre-carreta-e-carro-interdita-a-sp-425-em-martinopolis.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-26T15:59:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Np_DenPNgQFoTUa5Ms4ykBr6zU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/j/HVCf4dSaySuz42zBf5sA/acidente-11-.png"
     }
   ],
   "categorias": [
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "16f5feb6b47b6cc1",
-          "slug": "164474a8aeee4471",
-          "titulo": "Brasil tem menor risco de grandes terremotos em comparação a países vizinhos",
-          "resumo": "A ocorrência de grandes terremotos está associada à movimentação das placas tectônicas que compõem a crosta terrestre. Países vizinhos da América do Sul estão localizados sobre limites de placas mais ativos, o que aumenta a frequência e a intensidade de sismos. O Brasil, por estar situado sobre uma parte interior da placa sul‑americana, apresenta menor propensão a grandes terremotos. Essa condição geológica explica por que o país costuma ser poupado de eventos sísmicos de grande magnitude.",
-          "porQueImporta": "Entender a distribuição dos riscos sísmicos ajuda na preparação e na mitigação de desastres",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cgjxdy1lnn7o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-06-26T18:01:44.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce43/live/a9251aa0-70c7-11f1-a4ef-3b3bddc079c1.jpg"
-        },
-        {
-          "clusterId": "b7b62097ebadf40d",
-          "slug": "6568ab13e40dcf40",
-          "titulo": "Suspeito de esfaquear e matar homem que tentou impedir violência doméstica é preso na Paraíba",
-          "resumo": "Na última quarta-feira, em Lagoa Seca (Paraíba), Pablo Fernandes dos Santos, de 32 anos, foi esfaqueado até a morte ao tentar intervir em uma discussão doméstica entre vizinhos. O suspeito foi detido na sexta-feira seguinte. A polícia informou que o crime ocorreu quando a vítima ouviu a mulher gritar por socorro e entrou na residência para conter a briga.",
-          "porQueImporta": "O caso evidencia riscos de intervenções em conflitos domésticos e a necessidade de respostas policiais eficazes.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/26/suspeito-de-esfaquear-e-matar-homem-que-tentou-evitar-violencia-domestica-e-preso-na-paraiba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-26T17:03:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WuFB-paMdxDiTtm6ZXCbL5ToBjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/r/ol3CPUTsAB4sbGJwnAMw/pablotvcb.avif"
-        },
-        {
-          "clusterId": "2f77483dd08ee248",
-          "slug": "9dec45aabd202672",
-          "titulo": "Esposa de jogador venezuelano morre em terremoto, filha salva",
-          "resumo": "Héctor Bello, zagueiro venezuelano, confirmou a morte de sua esposa, Andrea, que se sacrificou para proteger a filha de um ano, Alana, durante os terremotos que atingiram a Venezuela. A família morava em um edifício em La Guaira que desabou. A filha foi encontrada viva entre os escombros. O jogador está sem clube no momento.",
-          "porQueImporta": "Ilustra o impacto humano e esportivo de desastres naturais na Venezuela.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/jogador-de-futebol-familia-desaparecida-apos-terremoto-venezuela.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-26T13:51:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ijQbQ-YHF2vLwJTyotqFbEdHLkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/p/5PkncqQoAXlc8aPlFhGg/hlo3-bxcaaf-7n.jpg"
-        },
-        {
-          "clusterId": "6d0a6d69a01320cc",
-          "slug": "0f11fa960c480394",
-          "titulo": "Paris proíbe consumo de álcool em público devido a onda de calor",
-          "resumo": "Temperaturas recordes de 40,9 °C foram registradas em Paris nesta quarta-feira. A partir do meio‑dia da sexta‑feira, o consumo de álcool em locais públicos foi proibido até a manhã de domingo, medida anunciada pelo chefe de polícia Patrice Faure para reduzir riscos à saúde. A restrição foi estendida por dois períodos de 24 horas cada. A decisão ocorre em meio a uma onda de calor que afeta grande parte da Europa.",
-          "porQueImporta": "A medida visa prevenir problemas de saúde em uma situação de calor extremo",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/sufocada-por-calor-extremo-paris-proibe-consumo-de-alcool.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-26T11:51:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SlvGpv2xcWRA0ck8B8KdWpL3pfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Y/X/PI4CBSRBinBecCMwMPbA/image1-1-.jpg"
-        },
-        {
-          "clusterId": "daaab68ec4a7669e",
-          "slug": "64a463d4ea04414f",
-          "titulo": "Jovem espera irmão ser resgatado de escombros após terremoto na Venezuela",
-          "resumo": "Marianella Cremi relata que, cerca de 18 horas após os terremotos, equipes de resgate ainda ouviam gritos sob os destroços do edifício Petunia. Moradores da região recebem mensagens de parentes que permanecem presos nas ruínas, alimentando a esperança de sobreviventes. A jovem mantém a expectativa de que seu irmão ainda esteja vivo entre os escombros. A situação permanece incerta, com buscas ainda em andamento.",
-          "porQueImporta": "A busca por sobreviventes destaca a gravidade do desastre e a necessidade de apoio humanitário imediato",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cq8131234ejo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-06-26T09:49:20.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/507b/live/1e0b4190-70e2-11f1-bfc5-4513278d17cb.jpg"
-        },
-        {
-          "clusterId": "36a165fb9994f253",
-          "slug": "4a81981a789478f1",
-          "titulo": "Venezuelano em São Paulo relata 10 horas de angústia sem notícias do pai e do irmão após terremotos em Caracas",
-          "resumo": "Um residente de São Paulo, que vive na cidade há 10 anos, passou cerca de 10 horas sem contato com o pai e o irmão enquanto acompanhava as informações sobre os terremotos que atingiram Caracas na noite de quarta‑feira (24). O número de mortos chegou a 188 pessoas e há mais de 1.500 feridos, segundo o governo venezuelano. O relato foi feito ao G1 pelo professor de educação física Roberto Mário Ávila Sansobrino, que descreveu o período como de desespero enquanto acompanhava a destruição à distância.",
-          "porQueImporta": "Mostra o impacto emocional dos desastres sísmicos em famílias separadas geograficamente, evidenciando a vulnerabilidade das comunidades migrantes",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/25/venezuelano-em-sp-relata-10-horas-de-angustia-sem-noticias-do-pai-e-do-irmao-apos-terremotos-em-caracas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-25T23:41:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jUPNY38ejljTkXcQrmavWk1BGQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/2vVlsiQcqJfyPAZPHDFA/afp-20260625-b8al7hr-v1-midres-venezuelaearthquake.jpg"
-        },
-        {
-          "clusterId": "f0920b18bb5910f4",
-          "slug": "e667aa24a63b3c65",
-          "titulo": "Autoridades venezuelanas buscam tratores e hotéis para atender vítimas de terremotos",
-          "resumo": "Na noite de quarta-feira (24), fortes terremotos atingiram Caracas e cidades vizinhas, gerando pânico e danos. As autoridades intensificaram as buscas por pessoas soterradas, solicitando caminhões, escavadeiras e ferramentas ao setor privado. Moradores de prédios com risco de desabamento foram encaminhados a hotéis mediante parcerias entre prefeituras e rede hoteleira.",
-          "porQueImporta": "A mobilização evidencia a necessidade de recursos emergenciais para resposta a desastres sísmicos em áreas urbanas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/autoridades-buscam-tratores-e-quartos-de-hotel-para-atender-vitimas-de-terremotos-diz-venezuelana.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-25T16:11:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/QUCAWUV9BU6_rItNj1ngo2B8ftQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/i/LPuDYVRgu6r6O1SXAo0w/2026-06-25t123829z-36950774-rc2z0maroh7t-rtrmadp-3-venezuela-quake.jpg"
-        },
-        {
-          "clusterId": "747ca1c571122dbb",
-          "slug": "a8404feccbba3de4",
-          "titulo": "VÍDEO: Venezuelano mostra destruição dentro de prédio ao descer escadas após terremotos",
-          "resumo": "Homem grava destruição dentro de prédio ao descer escadas após terremoto na Venezuela Dois fortes terremotos atingiram a Venezuela na noite de quarta-feira (24), deixando mais de 160 mortos. Há ainda milhares de desaparecidos, segundo sites locias de rastreamento. A força dos tremores, de magnitudes 7,2 e 7,5, destruiu parcialmente o aeroporto e derrubou prédios inteiras em Caracas e outras cidades venezuelanas. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp AO VIVO: Acompanhe as últimas notícias sobre os terremotos na Venezuela Um morador de Caracas registrou o momento em que…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/video-mostra-momento-em-que-edificio-desaba-na-venezuela-apos-terremoto.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-25T15:08:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ceA3imBpF5_OzqhsCG4PxCydoAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/3/PBhiAARDCXsAXSjf3a7A/predio-venezuela-.png"
-        },
-        {
-          "clusterId": "9e7486cf263a41d1",
-          "slug": "34f38a1fb1786e92",
-          "titulo": "Correção indica que mensagem sobre terremotos na Venezuela não foi publicada por Nicolás Maduro",
-          "resumo": "O G1 divulgou inicialmente que o ex-presidente venezuelano Nicolás Maduro teria postado mensagem em rede social sobre os terremotos ocorridos na Venezuela. A informação foi retificada, apontando que Maduro, que está detido em Nova York, não tem acesso à internet e não pôde publicar a mensagem. A publicação foi feita em um perfil que leva seu nome, mas não foi feita por ele. A correção foi publicada às 11h20 da quinta‑feira (25).",
-          "porQueImporta": "A correção evita a disseminação de informações falsas sobre a atuação de um líder político detido.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/detido-em-nova-york-maduro-manda-mensagem-sobre-terremotos-na-venezuela.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-25T14:28:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OSsvDS70SVtLeSIzkiQoNHD1-WA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/C/e3NAfGSUWQD97suoaqqg/captura-de-tela-2026-06-25-013239.png"
-        }
-      ]
-    },
     {
       "slug": "terremoto",
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "92c9ada61f5e8831",
-          "slug": "bb1cf3a182d4f975",
-          "titulo": "Terremotos de magnitude 7,2 e 7,5 atingem Venezuela e deixam 920 mortos",
-          "resumo": "Na noite de quarta-feira (24), dois terremotos ocorreram a menos de um minuto de intervalo na região norte da Venezuela, atingindo Caracas e cidades vizinhas. O balanço oficial indica 920 mortos e cerca de 3.360 feridos, com prédios e casas desabados. O governo decretou estado de emergência, fechou o aeroporto de Caracas e recebeu equipes de resgate de vários países, incluindo o envio de ajuda humanitária pelo Brasil e pelos EUA, que suspenderam sanções para facilitar as operações.",
-          "porQueImporta": "A magnitude dos sismos e o alto número de vítimas exigem resposta humanitária internacional e destacam a vulnerabilidade sísmica da região.",
+          "clusterId": "b1a538f01cb38a67",
+          "slug": "7d2256642d484b46",
+          "titulo": "Terremoto duplo atinge a Venezuela deixando centenas de mortos e milhares de desaparecidos",
+          "resumo": "Na noite de quarta-feira (24), dois terremotos de magnitudes 7,2 e 7,5 ocorreram a menos de um minuto de intervalo, provocando desabamentos em Caracas e na zona costeira de La Guaira. O balanço oficial do governo venezuelano indica entre 164 e 920 mortos e cerca de 3 mil feridos, enquanto a ONU estima mais de 50 mil desaparecidos. A infraestrutura do país, já fragilizada, dificulta as operações de busca e socorro, que contam com apoio internacional de equipes de vários países.",
+          "porQueImporta": "O desastre evidencia a vulnerabilidade da Venezuela a eventos sísmicos e a necessidade de resposta humanitária urgente.",
           "categoria": "Terremoto",
           "categoriaSlug": "terremoto",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/06/24/terremoto-venezuela-entenda-escala-de-magnitude.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/24/video-desespero-terremoto-venezuela.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/resposta-aos-terremotos-na-venezuela-devem-levar-meses-diz-autoridade/"
             },
             {
               "name": "BBC Brasil",
               "url": "https://www.bbc.com/portuguese/articles/cqj1e51p7vko?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/politica/lula-pede-minuto-de-silencio-por-mortos-em-terremotos-na-venezuela/"
-            },
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-governo/lula-manda-mucio-a-venezuela-para-avaliar-ajuda-apos-terremotos/"
             }
           ],
-          "updatedAt": "2026-06-26T18:11:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6xXo80Ai5mnvu3J7XRZuxYp-2HY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/kCAmiBQmOm7EnAgqJKcw/afp-20260624-b88k6xx-v1-midres-venezuelaearthquake.jpg"
+          "updatedAt": "2026-06-26T20:54:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/pegFOwbmDUqtLXgHD1PpKsB7lOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/b/L2dDvgQumJHkt4PF5GCg/globo-canal-4-20260624-2000-frame-171888-1-.jpeg"
         },
         {
-          "clusterId": "aa2db92af8456f95",
-          "slug": "d8887e5ae58c55a6",
-          "titulo": "Venezuela registra mais de 50 mil desaparecidos e 920 mortos após terremotos",
-          "resumo": "Autoridades venezuelanas confirmaram até o momento 920 mortes e quase 3 mil feridos em decorrência dos terremotos. O chefe do Escritório de Ajuda Humanitária da ONU, Tom Fletcher, informou que o número de desaparecidos já ultrapassa 50 mil. Os fortes tremores provocaram o desabamento de dezenas de edifícios e geraram pânico em várias regiões do país.",
-          "porQueImporta": "Os elevados números de vítimas e desaparecidos evidenciam a gravidade da crise humanitária gerada pelos sismos na Venezuela",
+          "clusterId": "68dcfe5f7fe03846",
+          "slug": "5d3367fc26c3b101",
+          "titulo": "Terremoto na Venezuela deixa quase mil mortos",
+          "resumo": "Um terremoto atingiu a Venezuela, resultando em quase 1.000 mortes. O país já enfrenta crise econômica, escassez de materiais de construção e deterioração de moradias sociais, agravadas por sanções dos EUA. A falta de cimento e a colapso da indústria estatal dificultam a resposta ao desastre.",
+          "porQueImporta": "A alta mortalidade evidencia a vulnerabilidade da população diante de desastres naturais em um contexto de crise estrutural",
           "categoria": "Terremoto",
           "categoriaSlug": "terremoto",
           "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/26/desaparecidos-por-terremoto-na-venezuela-ja-passam-de-50-mil.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/venezuela-desaparecidos-apos-terremotos-passam-de-50-mil-diz-onu"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/numero-de-mortos-na-venezuela-sobe-para-920-mais-de-50-000-estao-desaparecidos-diz-onu/"
-            }
-          ],
-          "updatedAt": "2026-06-26T18:07:28.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jUPNY38ejljTkXcQrmavWk1BGQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/2vVlsiQcqJfyPAZPHDFA/afp-20260625-b8al7hr-v1-midres-venezuelaearthquake.jpg"
-        },
-        {
-          "clusterId": "288390949d873d85",
-          "slug": "7b1c5fb9e23d5fa5",
-          "titulo": "Terremotos de magnitudes 7,2 e 7,5 devastam costa venezuelana",
-          "resumo": "Dois tremores de magnitudes 7,5 e 7,2 foram registrados na noite de 24 de junho de 2026, com 39 segundos de intervalo, segundo o Serviço Geológico dos Estados Unidos. Até a manhã seguinte, o governo informou 589 mortos e mais de 2,9 mil feridos, com centenas de edifícios desabados, sobretudo em La Guaira. Imagens de satélite e aéreas mostram a destruição de prédios, incluindo o Hotel Eduard's, e danos em Caracas. Autoridades locais confirmam réplicas e esforços de resgate em andamento.",
-          "porQueImporta": "O desastre causa alta mortalidade, feridos e danos extensos a infraestrutura urbana, exigindo resposta humanitária e reconstrução.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/24/fotos-imagens-mostram-destruicao-apos-forte-terremoto-na-venezuela.ghtml"
-            },
             {
               "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cx2kn0rk0xqo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/portuguese/articles/cdxdrxypzp7o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "updatedAt": "2026-06-26T18:00:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/8UxCwvdzCzrXB2icTmOj-2_eZ2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Y/RtCJAOQ9qiVL6XelFqEQ/afp-20260624-b88k6y7-v1-highres-venezuelaearthquake.jpg"
-        },
-        {
-          "clusterId": "f1629254a29f975e",
-          "slug": "c80ef434f45d7f06",
-          "titulo": "Mais de 600 mortos e quase 3 mil feridos em terremotos na Venezuela",
-          "resumo": "Os terremotos que atingiram a Venezuela deixaram mais de 600 mortos e quase 3 mil feridos, segundo as autoridades locais. Ajuda internacional começou a ser enviada ao país para apoiar as operações de socorro. A situação permanece crítica, com equipes de emergência trabalhando nas áreas afetadas. As autoridades venezuelanas continuam avaliando os danos e coordenando a resposta.",
-          "porQueImporta": "A alta mortalidade e o número de feridos exigem mobilização de recursos e apoio humanitário internacional",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/06/26/resumao-diario-2037-mais-de-600-mortos-na-venezuela-redacoes-nota-mil-do-enem-geram-divergencias-prisao-de-chefe-de-motoristas-clandestinos-em-sp-governo-exige-alerta-em-propaganda-de-bets-equador-decreta-feriado-apos-vitoria-na-copa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-26T17:16:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
+          "updatedAt": "2026-06-26T20:40:12.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fdd/live/90870220-7152-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
           "clusterId": "d37355361e87752b",
@@ -524,6 +294,131 @@
           ],
           "updatedAt": "2026-06-25T18:35:23.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/QUCAWUV9BU6_rItNj1ngo2B8ftQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/i/LPuDYVRgu6r6O1SXAo0w/2026-06-25t123829z-36950774-rc2z0maroh7t-rtrmadp-3-venezuela-quake.jpg"
+        },
+        {
+          "clusterId": "d3c340bd6cfc09dd",
+          "slug": "e18e771ac95491e1",
+          "titulo": "Terremotos de magnitude 7,2 e 7,5 provocam mais de 160 mortes e destruição em Caracas",
+          "resumo": "Dois fortes terremotos atingiram a Venezuela na noite de quarta-feira, causando mais de 160 mortos e milhares de desaparecidos. As forças sísmicas destruíram parcialmente o aeroporto e derrubaram edifícios em Caracas e em outras cidades. Um morador registrou imagens da destruição ao descer escadas dentro de um prédio afetado.",
+          "porQueImporta": "Os eventos evidenciam a gravidade do risco sísmico na região e a necessidade de resposta emergencial.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/video-venezuelano-mostra-destruicao-dentro-de-predio-ao-descer-escadas-apos-terremotos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-25T15:08:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2VqEl1-ptQfhVO3_w2SAYncpMG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/Nq0TwWQYarXDp2Vsnvrw/savetwitter.net-fkj9q50zicipj8iw-1280p-ezgif.com-crop.gif"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "16f5feb6b47b6cc1",
+          "slug": "164474a8aeee4471",
+          "titulo": "Brasil tem menor risco de grandes terremotos em comparação a países vizinhos",
+          "resumo": "A ocorrência de grandes terremotos está associada à movimentação das placas tectônicas que compõem a crosta terrestre. Países vizinhos da América do Sul estão localizados sobre limites de placas mais ativos, o que aumenta a frequência e a intensidade de sismos. O Brasil, por estar situado sobre uma parte interior da placa sul‑americana, apresenta menor propensão a grandes terremotos. Essa condição geológica explica por que o país costuma ser poupado de eventos sísmicos de grande magnitude.",
+          "porQueImporta": "Entender a distribuição dos riscos sísmicos ajuda na preparação e na mitigação de desastres",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cgjxdy1lnn7o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-06-26T18:01:44.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce43/live/a9251aa0-70c7-11f1-a4ef-3b3bddc079c1.jpg"
+        },
+        {
+          "clusterId": "2f77483dd08ee248",
+          "slug": "9dec45aabd202672",
+          "titulo": "Esposa de jogador venezuelano morre em terremoto, filha salva",
+          "resumo": "Héctor Bello, zagueiro venezuelano, confirmou a morte de sua esposa, Andrea, que se sacrificou para proteger a filha de um ano, Alana, durante os terremotos que atingiram a Venezuela. A família morava em um edifício em La Guaira que desabou. A filha foi encontrada viva entre os escombros. O jogador está sem clube no momento.",
+          "porQueImporta": "Ilustra o impacto humano e esportivo de desastres naturais na Venezuela.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/jogador-de-futebol-familia-desaparecida-apos-terremoto-venezuela.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-26T13:51:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ijQbQ-YHF2vLwJTyotqFbEdHLkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/p/5PkncqQoAXlc8aPlFhGg/hlo3-bxcaaf-7n.jpg"
+        },
+        {
+          "clusterId": "6d0a6d69a01320cc",
+          "slug": "0f11fa960c480394",
+          "titulo": "Paris proíbe consumo de álcool em público devido a onda de calor",
+          "resumo": "Temperaturas recordes de 40,9 °C foram registradas em Paris nesta quarta-feira. A partir do meio‑dia da sexta‑feira, o consumo de álcool em locais públicos foi proibido até a manhã de domingo, medida anunciada pelo chefe de polícia Patrice Faure para reduzir riscos à saúde. A restrição foi estendida por dois períodos de 24 horas cada. A decisão ocorre em meio a uma onda de calor que afeta grande parte da Europa.",
+          "porQueImporta": "A medida visa prevenir problemas de saúde em uma situação de calor extremo",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/sufocada-por-calor-extremo-paris-proibe-consumo-de-alcool.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-26T11:51:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SlvGpv2xcWRA0ck8B8KdWpL3pfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Y/X/PI4CBSRBinBecCMwMPbA/image1-1-.jpg"
+        },
+        {
+          "clusterId": "36a165fb9994f253",
+          "slug": "4a81981a789478f1",
+          "titulo": "Venezuelano em São Paulo relata 10 horas de angústia sem notícias do pai e do irmão após terremotos em Caracas",
+          "resumo": "Um residente de São Paulo, que vive na cidade há 10 anos, passou cerca de 10 horas sem contato com o pai e o irmão enquanto acompanhava as informações sobre os terremotos que atingiram Caracas na noite de quarta‑feira (24). O número de mortos chegou a 188 pessoas e há mais de 1.500 feridos, segundo o governo venezuelano. O relato foi feito ao G1 pelo professor de educação física Roberto Mário Ávila Sansobrino, que descreveu o período como de desespero enquanto acompanhava a destruição à distância.",
+          "porQueImporta": "Mostra o impacto emocional dos desastres sísmicos em famílias separadas geograficamente, evidenciando a vulnerabilidade das comunidades migrantes",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/25/venezuelano-em-sp-relata-10-horas-de-angustia-sem-noticias-do-pai-e-do-irmao-apos-terremotos-em-caracas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-25T23:41:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jUPNY38ejljTkXcQrmavWk1BGQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/2vVlsiQcqJfyPAZPHDFA/afp-20260625-b8al7hr-v1-midres-venezuelaearthquake.jpg"
+        },
+        {
+          "clusterId": "f0920b18bb5910f4",
+          "slug": "e667aa24a63b3c65",
+          "titulo": "Autoridades venezuelanas buscam tratores e hotéis para atender vítimas de terremotos",
+          "resumo": "Na noite de quarta-feira (24), fortes terremotos atingiram Caracas e cidades vizinhas, gerando pânico e danos. As autoridades intensificaram as buscas por pessoas soterradas, solicitando caminhões, escavadeiras e ferramentas ao setor privado. Moradores de prédios com risco de desabamento foram encaminhados a hotéis mediante parcerias entre prefeituras e rede hoteleira.",
+          "porQueImporta": "A mobilização evidencia a necessidade de recursos emergenciais para resposta a desastres sísmicos em áreas urbanas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/autoridades-buscam-tratores-e-quartos-de-hotel-para-atender-vitimas-de-terremotos-diz-venezuelana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-25T16:11:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QUCAWUV9BU6_rItNj1ngo2B8ftQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/i/LPuDYVRgu6r6O1SXAo0w/2026-06-25t123829z-36950774-rc2z0maroh7t-rtrmadp-3-venezuela-quake.jpg"
+        },
+        {
+          "clusterId": "9e7486cf263a41d1",
+          "slug": "34f38a1fb1786e92",
+          "titulo": "Correção indica que mensagem sobre terremoto na Venezuela não foi publicada por Nicolás Maduro",
+          "resumo": "O g1 divulgou inicialmente que o perfil de Nicolás Maduro em rede social teria publicado mensagem sobre os terremotos ocorridos na Venezuela em 24 de julho. A informação foi corrigida às 11h20 da mesma quinta-feira, esclarecendo que Maduro, que está detido em Nova York, não tem acesso à internet e não pôde publicar a mensagem. A correção foi feita após constatação de erro na reportagem original.",
+          "porQueImporta": "A correção evita a disseminação de informações falsas sobre a atuação de um político detido em um evento de desastre.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/25/detido-em-nova-york-maduro-manda-mensagem-sobre-terremotos-na-venezuela.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-25T14:28:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OSsvDS70SVtLeSIzkiQoNHD1-WA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/C/e3NAfGSUWQD97suoaqqg/captura-de-tela-2026-06-25-013239.png"
         }
       ]
     },
@@ -532,82 +427,146 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "977adf6258281ed1",
-          "slug": "b8d9896c74c6cfcf",
-          "titulo": "Idoso e adolescente ficam feridos após carro bater em poste na Zona Sul de Aracaju",
-          "resumo": "Um carro colidiu com um poste na Avenida José Josino de Almeida, na Zona Sul de Aracaju, nesta sexta-feira. A adolescente de 15 anos ficou com quadro de saúde estável e o avô, idoso com problemas cardíacos, ficou preso nas ferragens. Ambos foram socorridos pelo Corpo de Bombeiros. O acidente ocorreu na via de acesso entre os bairros Inácio Barbosa e Farolândia.",
-          "porQueImporta": "O caso evidencia a necessidade de atenção nas vias urbanas para prevenir lesões graves em pedestres e ocupantes de veículos",
+          "clusterId": "5c3a5eef34d3f458",
+          "slug": "59f1907dcee98213",
+          "titulo": "Engavetamento entre quatro veículos deixa pessoa ferida na BR-235 em Sergipe",
+          "resumo": "Um engavetamento envolvendo quatro veículos de passeio foi registrado no km 12,5 da rodovia BR-235, em Nossa Senhora do Socorro, nesta sexta-feira. A Polícia Rodoviária Federal informou que pelo menos uma pessoa ficou ferida. O Serviço de Atendimento Móvel de Urgência atendeu à ocorrência e o trânsito ficou lento, com desvio na pista.",
+          "porQueImporta": "O acidente interrompeu o fluxo de veículos em uma rodovia estadual, afetando a mobilidade regional.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/26/idoso-e-adolescente-ficam-feridos-apos-carro-bater-em-poste-na-zona-sul-de-aracaju.ghtml"
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/26/acidente-br-235-em-sergipe.ghtml"
             }
           ],
-          "updatedAt": "2026-06-26T17:05:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0ErR-FIyNcPoGKxfluidxEGeV60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/q/AiqYOATqu9QDyhs5nBzg/imagem-g1-30-.jpg"
+          "updatedAt": "2026-06-26T21:28:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-lwxVjJX3jmSQJz4AozxcSd0-DU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/A/uxBRlQSNic5HSO6FjJBw/crop-foto-2026-06-26t183551.407.jpg"
         },
         {
-          "clusterId": "3c0f6881cc74f45a",
-          "slug": "651d26d473bfa407",
-          "titulo": "Motorista de ônibus é indiciado por homicídio culposo após acidente com nove mortos na BR-251",
-          "resumo": "Um acidente envolvendo um ônibus e uma carreta na BR-251, em Santa Cruz de Salinas, resultou em nove óbitos. O condutor do ônibus, de 41 anos, foi indiciado por homicídio culposo pela Polícia Civil de Minas Gerais. O inquérito foi encaminhado ao Judiciário e ao Ministério Público. O nome do motorista não foi divulgado nas informações divulgadas.",
-          "porQueImporta": "O indiciamento demonstra a responsabilização legal em acidentes de trânsito com alta fatalidade.",
+          "clusterId": "979ac6242ca96996",
+          "slug": "e44aebc9e905a6f6",
+          "titulo": "Caminhão de coleta de lixo tomba e derruba poste em Contagem",
+          "resumo": "Um caminhão de coleta de lixo tombou na tarde de sexta-feira na Avenida Helena de Vasconcelos, no bairro Cincão, em Contagem. O veículo derrubou um poste, interrompendo parte da pista no sentido Belo Horizonte. O motorista, de 35 anos, saiu do veículo com um ferimento na testa e recebeu atendimento. O acidente provocou interdição temporária da via para remoção do lixo e do poste.",
+          "porQueImporta": "A ocorrência interrompe o tráfego urbano e evidencia riscos operacionais de veículos de serviço público",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/26/acidente-com-9-mortos-na-br-251-motorista-de-onibus-e-indiciado-por-homicidio-culposo.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/26/caminhao-de-coleta-de-lixo-tomba-derruba-poste-e-interdita-avenida-em-contagem.ghtml"
             }
           ],
-          "updatedAt": "2026-06-26T16:37:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ryGFPZAwObYgH9_L36EhZijcwvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/6/8V38aOSj6KBEwauS35rQ/whatsapp-image-2026-05-24-at-09.07.07-1-.jpeg"
+          "updatedAt": "2026-06-26T21:28:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0qIvE3GcmH4khWR3lLMCaQpACG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/a/uY2s1qQgayxg0iiiK8Yg/tomba.jpg"
         },
         {
-          "clusterId": "bc3522e395ec08ec",
-          "slug": "9e5a04267f5cb59f",
-          "titulo": "Colisão entre carreta e carro interrompe tráfego na SP-425 em Martinópolis",
-          "resumo": "Uma colisão entre uma carreta e um carro ocorreu na Rodovia Assis Chateaubriand (SP-425), no km 421+823, por volta das 11h49, na manhã de sexta-feira. O acidente provocou a interdição total da via no sentido norte. O motorista do carro ficou com ferimentos moderados e foi encaminhado ao hospital. O condutor da carreta permaneceu no local.",
-          "porQueImporta": "A interdição da rodovia pode gerar congestionamento e atrasos para o tráfego regional.",
+          "clusterId": "83f033e9836be00f",
+          "slug": "3efa6c0b5cd798ae",
+          "titulo": "Pai e filho morrem após caminhão tombar e atingir carro na MGC-120",
+          "resumo": "Um caminhão tombou e colidiu com o carro em que estavam um pai e seu filho na rodovia MGC-120, km 226, em São Pedro do Suaçuí. As equipes da Polícia Militar Rodoviária constataram as vítimas já mortas ao chegarem ao local. Os falecidos foram identificados como José Henrique Batista de Sousa, de 23 anos, e José Faustino de Sousa, de 58, residentes de José Raydan. O acidente ocorreu na sexta-feira, 26.",
+          "porQueImporta": "O acidente evidencia os perigos nas rodovias e o impacto de acidentes graves nas famílias.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/26/colisao-entre-carreta-e-carro-interdita-a-sp-425-em-martinopolis.ghtml"
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/26/pai-e-filho-morrem-apos-caminhao-tombar-e-atingir-carro-em-que-eles-estavam-na-mgc-120.ghtml"
             }
           ],
-          "updatedAt": "2026-06-26T15:59:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Np_DenPNgQFoTUa5Ms4ykBr6zU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/j/HVCf4dSaySuz42zBf5sA/acidente-11-.png"
+          "updatedAt": "2026-06-26T20:59:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dCZRrOofSHYMLXe8nltxY1mbKU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/S/c9RBUETZiZsr1mN0EXbw/whatsapp-image-2026-06-26-at-17.07.37-1-.jpeg"
         }
       ]
     },
     {
-      "slug": "desastre",
-      "label": "Desastre",
+      "slug": "incendio",
+      "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "60dc4679898beed2",
-          "slug": "aa4f635003f1c029",
-          "titulo": "FAB envia ajuda humanitária às vítimas de terremoto na Venezuela",
-          "resumo": "Uma aeronave KC-390 Millennium da Força Aérea Brasileira decolou de Guarulhos nesta sexta-feira com 36 bombeiros militares, seis cães de busca e resgate, quatro integrantes da Defesa Civil, quatro especialistas da Anatel e equipamentos de apoio. A missão tem como objetivo apoiar as buscas e o socorro às vítimas dos terremotos ocorridos na Venezuela na última terça-feira. A aeronave partiu da Base Aérea de São Paulo (Basp) em direção à Venezuela.",
-          "porQueImporta": "A operação demonstra a cooperação internacional em resposta a desastres naturais e pode acelerar o socorro às pessoas afetadas.",
-          "categoria": "Desastre",
-          "categoriaSlug": "desastre",
+          "clusterId": "6fdd96b3cbcbf0a4",
+          "slug": "088eff51d44d03cf",
+          "titulo": "Incêndio atinge galpão e interdita casas em Suzano",
+          "resumo": "Um incêndio consumiu parte de um galpão de armazenamento e processamento de ração no Parque Herísmo, em Suzano, na tarde de sexta-feira. Aproximadamente 400 metros quadrados foram atingidos e o telhado da estrutura desabou. O Corpo de Bombeiros controlou as chamas por volta das 16h30 e interditou a Rua Antônio Benedito Cândido, bem como quatro casas vizinhas. Não foram registrados feridos.",
+          "porQueImporta": "O evento gerou risco à população local e demandou intervenção de emergência, além de interromper a circulação na região.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/26/aviao-da-fab-decola-de-guarulhos-com-bombeiros-e-caes-de-resgate-para-ajudar-vitimas-de-terremotos-na-venezuela.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/venezuela-fab-envia-ajuda-humanitaria-as-vitimas-de-terremoto"
+              "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/26/incendio-atinge-galpao-e-interdita-quatro-casas-em-suzano.ghtml"
             }
           ],
-          "updatedAt": "2026-06-26T17:42:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/G8g1f1MdbB23GrcRjGbxDKbhi5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/q/XEKwAuRiCEhy1VD83tAg/whatsapp-image-2026-06-26-at-13.05.00.jpeg"
+          "updatedAt": "2026-06-26T21:30:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GX0i4HjfRFMLKzX2ShXTXtyTgBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/94v6KVSpWMvBvqHKhCPg/whatsapp-image-2026-06-26-at-18.04.36-1-.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "3a2036345e9bfc2e",
+          "slug": "69d759b4db7b3d8e",
+          "titulo": "Cratera se abre sob imóveis na Zona Sul de São Paulo após rompimento de galeria de águas pluviais",
+          "resumo": "Uma cratera se formou na comunidade Jardim Presidente, na Zona Sul de São Paulo, após o rompimento de uma galeria de águas pluviais da Prefeitura durante a chuva. A Defesa Civil interditou uma casa e a garagem de um imóvel vizinho por risco de novos desabamentos. Não houve feridos. O imóvel mais afetado foi construído sobre a galeria de drenagem que se rompeu.",
+          "porQueImporta": "O incidente evidencia riscos de construções sobre infraestruturas de drenagem em áreas urbanas vulneráveis",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/26/cratera-se-abre-sob-imoveis-na-zona-sul-de-sp-apos-rompimento-de-galeria-de-aguas-pluviais.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-26T21:24:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kjGAgCbXt2aGFTbF_MImF-o2kTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/V/zBriMNQBmnt7bEvZ2wSQ/captura-de-tela-2026-06-26-120705.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "contaminacao",
+      "label": "Contaminação",
+      "stories": [
+        {
+          "clusterId": "a41258f4904400c0",
+          "slug": "6a6c0f7c5d4cfdd1",
+          "titulo": "Defesa Civil recomenda suspensão do uso de água de nascente contaminada por óleo em Honório Bicalho",
+          "resumo": "A Defesa Civil orientou os moradores de Honório Bicalho, distrito de Nova Lima, a não utilizarem a água de uma nascente contaminada por óleo queimado até que sejam concluídas as análises de qualidade. A nascente abastece cerca de 40 imóveis da comunidade para irrigação, criação de animais e outros usos, mas não é destinada ao consumo humano. A contaminação foi identificada no sistema de captação da comunidade, com indícios de despejo de óleo de motor.",
+          "porQueImporta": "A medida visa proteger a saúde dos moradores e evitar a disseminação de contaminantes ambientais",
+          "categoria": "Contaminação",
+          "categoriaSlug": "contaminacao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/26/defesa-civil-orienta-moradores-a-nao-usarem-agua-apos-contaminacao-por-oleo-em-nova-lima.ghtml"
+            }
+          ],
+          "updatedAt": "2026-06-26T20:48:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Js1Z71gjZqm-GqxggGLvn_Cfl1Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/U/1i04I2TnWRAKQHqqpLjw/20-16-contaminacao-agua-nova-lima-andre-edmilsom-26-jun-2026.mxf.png"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "a8034849d9990f1c",
+          "slug": "a6e26f39e68fc994",
+          "titulo": "STF determina que estados ajustem planos de combate a incêndios em 30 dias",
+          "resumo": "O Supremo Tribunal Federal estabeleceu um prazo de 30 dias para que os estados revisem seus planos de prevenção e combate a incêndios. A decisão inclui a exigência de adoção de tecnologias, reforço de equipes e definição de metas para reduzir queimadas e acelerar a fiscalização ambiental. O objetivo é melhorar a capacidade de resposta e monitoramento dos incêndios. A medida foi anunciada recentemente pelos tribunais.",
+          "porQueImporta": "A medida visa reduzir riscos de incêndios e proteger áreas naturais e populações vulneráveis",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/politica/estados-tem-30-dias-para-ajustar-planos-contra-incendios-decide-stf/"
+            }
+          ],
+          "updatedAt": "2026-06-26T18:23:02.000Z"
         }
       ]
     },
