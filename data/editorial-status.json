@@ -1,15 +1,15 @@
 {
-  "ranAt": "2026-06-28T17:46:31.514Z",
+  "ranAt": "2026-06-28T21:40:54.554Z",
   "editionDate": "2026-06-28",
-  "hourUtc": 17,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 21,
+  "outcome": "generated",
+  "reason": "\"Desastres sísmicos dominam a edição enquanto se registram incidentes aéreos e de trânsito\" (3 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
     "groq: erro — sem cota (429)",
-    "cerebras: reprovado — entidades fora do material: oms"
+    "cerebras: ok"
   ]
 }
