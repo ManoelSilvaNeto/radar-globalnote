@@ -1,9 +1,15 @@
 {
-  "ranAt": "2026-06-29T05:14:58.355Z",
+  "ranAt": "2026-06-29T12:47:15.580Z",
   "editionDate": "2026-06-29",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Alta incidência de eventos sísmicos na Venezuela destaca vulnerabilidades estruturais e humanitárias\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: erro — Error: groq 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-20b` in organization `org_01kscvvnpvfp",
+    "cerebras: ok"
+  ]
 }
