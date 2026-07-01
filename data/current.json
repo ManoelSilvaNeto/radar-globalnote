@@ -1,178 +1,188 @@
 {
   "date": "2026-07-01",
-  "generatedAt": "2026-07-01T05:08:17.641Z",
+  "generatedAt": "2026-07-01T11:39:21.344Z",
   "home": [
     {
-      "clusterId": "05a146e81cfc5100",
-      "slug": "9f1d7c681b9dab7d",
-      "titulo": "Terremotos na Venezuela deixam milhares de mortos e dezenas de sobreviventes resgatados após dias sob escombros",
-      "resumo": "Um duplo terremoto atingiu a Venezuela na noite de 24 de junho, provocando mais de 1.700 mortes, milhares de feridos e dezenas de milhares de desaparecidos. Equipes de resgate venezuelanas e internacionais, incluindo forças jordanianas, encontraram sobreviventes após até 106 horas sob os destroços, como uma criança de três anos e um bebê de 18 dias. O governo divulgou balanços provisórios e declarou a região de La Guaira zona de desastre, enquanto a população enfrenta deslocamento e falta de moradia.",
-      "porQueImporta": "A magnitude da tragédia humanitária exige resposta de emergência e mobilização internacional",
+      "clusterId": "61f4af97287624ec",
+      "slug": "702efdfd769b5b94",
+      "titulo": "Céu vermelho em Caracas durante resgates de terremotos",
+      "resumo": "O céu de Caracas ficou vermelho intenso durante o pôr‑do‑sol, enquanto as equipes de resgate trabalhavam para socorrer vítimas e remover escombros após terremotos que começaram na noite de quarta-feira (24). A cena foi registrada por moradores locais e divulgada em vídeo. O fenômeno atmosférico ocorreu em meio ao caos causado pelos terremotos que têm sacudido a capital.",
+      "porQueImporta": "Ilustra a situação de emergência em Caracas, destacando a simultaneidade de um fenômeno natural e de esforços de socorro.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/01/video-por-do-sol-deixa-o-ceu-vermelho-intenso-na-capital-da-venezuela.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/veja-ceu-da-venezuela-fica-totalmente-vermelho-durante-por-do-sol/"
+        }
+      ],
+      "updatedAt": "2026-07-01T11:13:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/mU-LrkbufOsw3hlgRoEWSri0u40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/o/2HCaurTWyIEmSInv8tQA/2026-07-01t061443z-826673436-rc2t4ma6uxnn-rtrmadp-3-venezuela-quake-sky.jpg"
+    },
+    {
+      "clusterId": "b861fd12e68f513e",
+      "slug": "a4423f19cfe7f490",
+      "titulo": "Mais de 100 venezuelanos deportados dos EUA desaparecidos após terremotos na Venezuela",
+      "resumo": "Mais de cem pessoas deportadas dos Estados Unidos foram alojadas em um hotel quando terremotos atingiram a Venezuela. Os sobreviventes relataram que os deportados desapareceram entre os escombros. Autoridades iniciaram buscas para localizar sobreviventes e recuperar corpos. A situação ocorreu poucas horas após a chegada de um voo de deportação que partiu de Miami.",
+      "porQueImporta": "A ocorrência evidencia o impacto humanitário dos terremotos e complica operações de migração e assistência emergencial",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/30/mais-de-100-venezuelanos-deportados-dos-eua-poucas-horas-antes-dos-terremotos-estao-desaparecidos.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/venezuelanos-deportados-dos-eua-estao-desaparecidos-apos-terremotos/"
+        }
+      ],
+      "updatedAt": "2026-07-01T10:20:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/qbhgiMkCLJpG5Lm1xV_t6nHkla0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/M/AqhuIvSQugrSZnSSK9yA/ap26181014329847.jpg"
+    },
+    {
+      "clusterId": "2b5d5b41b03b277f",
+      "slug": "da010e8284b93051",
+      "titulo": "Terremotos na Venezuela deixam milhares de mortos, feridos e desaparecidos enquanto buscas por sobreviventes continuam",
+      "resumo": "Na última semana, dois terremotos de magnitude superior a 7 atingiram a Venezuela, provocando cerca de 1.7 mil a 1.9 mil mortes e mais de 5 mil feridos, além de dezenas de milhares de desaparecidos. Cerca de 15 mil pessoas ficaram desabrigadas e o sistema de saúde está sobrecarregado, com hospitais lotados e falta de pessoal. Equipes de resgate, incluindo voluntários, militares brasileiros e forças jordanianas, continuam a buscar sobreviventes, tendo encontrado crianças e um cachorro ainda vivos após vários dias sob os escombros. A situação humanitária se agrava com escassez de alimentos, abrigo e risco de epidemias.",
+      "porQueImporta": "A gravidade do desastre exige resposta humanitária e coordenação internacional para salvar vidas e prevenir crises de saúde pública.",
       "categoria": "Terremoto",
       "categoriaSlug": "terremoto",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/29/pastor-morreu-em-terremotos-na-venezuela-quatro-dias-apos-celebrar-69-anos.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/29/imagens-drone-destruicao-terremotos-venezuela-video.ghtml"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cx2xj05g064o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-07-01T03:02:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/eEwB40-mXM6Idv0z094idLQOyG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/f/s8lIoaT9AyxUOx61VQhw/design-sem-nome-7-.png"
+      "updatedAt": "2026-07-01T10:02:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/uqWsxdfA8INkvFshEHtsViju8TE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/LZ0BToS12fUJeiBJvhcA/ezgif.com-optimize-37-.gif"
     },
     {
-      "clusterId": "9b3fc53d98d799d9",
-      "slug": "0735a4de2e9fbc72",
-      "titulo": "Jovem correu para escapar de carro que atingiu outros três adolescentes em ponto de ônibus em Piracicaba",
-      "resumo": "Um carro que estava derrapando atingiu três adolescentes em um ponto de ônibus em Piracicaba. Um jovem de 13 anos conseguiu escapar correndo quando ouviu o estrondo. As vítimas são dois meninos e uma menina que haviam acabado de sair do ponto. O veículo estava com som alto e avançando rapidamente.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção e segurança no trânsito em áreas de alto fluxo de pedestres.",
+      "clusterId": "cbb906685b21c0ec",
+      "slug": "a6f42d4756b4e571",
+      "titulo": "Carreta tombou após ser atingida na traseira por outra carreta na Serra",
+      "resumo": "Na noite desta terça-feira, uma carreta caiu na Serra, Grande Vitória, depois de ser atingida na traseira por outra carreta. O motorista da carreta que caiu, de 64 anos, foi socorrido e levado a um hospital local. O condutor que bateu relatou que o veículo da frente reduziu a velocidade e que as luzes de freio não acenderam.",
+      "porQueImporta": "Acidentes de trânsito envolvendo veículos pesados representam risco elevado de fatalidades e interrupção do tráfego.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/01/jovem-correu-para-escapar-de-carro-que-atingiu-outros-tres-adolescentes-em-ponto-de-onibus-em-piracicaba-escutei-o-estrondo.ghtml"
+          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/07/01/video-mostra-momento-em-que-carreta-e-atingida-na-traseira-e-tomba-na-serra-motorista-fica-ferido.ghtml"
         }
       ],
-      "updatedAt": "2026-07-01T05:00:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/JlK-uEFvo1RXScnCtmaF1HbpJKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/l/igZHdIQ8AhDgrKEasi5A/whatsapp-image-2026-06-30-at-15.35.03.jpeg"
+      "updatedAt": "2026-07-01T11:22:15.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/c6zH9lx3XYJ7IXFbQQ0otp4ihY8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/v/Hl2UxQSMypcp9zYFRCVQ/thumb-fotos-52-.jpg"
     },
     {
-      "clusterId": "d4aaf42c45a65ef2",
-      "slug": "23af4d6783f09f56",
-      "titulo": "Duas mortes em menos de 15 dias em trilhas de Maricá",
-      "resumo": "Em junho, duas pessoas morreram em acidentes em atrativos naturais de Maricá, na Região Metropolitana do Rio. A primeira vítima, de 59 anos, caiu enquanto praticava rapel na Gruta do Spar. A segunda morreu ao cair do cume da Pedra do Macaco enquanto tirava foto. Os fatos ocorreram em menos de quinze dias e despertaram alerta sobre a segurança em atividades ao ar livre.",
-      "porQueImporta": "Os incidentes ressaltam a necessidade de medidas de prevenção e orientação para visitantes de áreas de risco.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/01/duas-mortes-em-menos-de-15-dias-em-gruta-e-penhasco-de-marica-ha-uma-especie-de-relaxamento-alerta-guia-para-os-riscos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-01T04:00:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/KGM-JbV4QrwvO14yT94OJoZSi9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/h/7fYymkSTGiT2ItHgKBpA/rosemary-e-caio-cairam-de-grande-altura-durante-a-pratica-de-trilha-em-marica.png"
-    },
-    {
-      "clusterId": "454a213a98f438b9",
-      "slug": "c1e19493aa029c09",
-      "titulo": "Terremotos de magnitude 7,2 e 7,5 devastam norte da Venezuela",
-      "resumo": "Dois tremores de terra de 7,2 e 7,5 na escala Richter ocorreram a 39 segundos de intervalo na região norte da Venezuela, derrubando dezenas de milhares de construções. As autoridades venezuelanas registram cerca de 2 mil mortos e 10 mil feridos, enquanto a ONU estima aproximadamente 50 mil desaparecidos e mais de 6 milhões de pessoas afetadas. A ONU enviou 10 mil sacos mortuários para apoiar as operações de socorro.",
-      "porQueImporta": "A magnitude do desastre gera uma crise humanitária de grandes proporções e demanda resposta internacional",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/01/venezuela-o-terremoto-e-a-crise-generalizada-o-assunto-1751.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-01T03:30:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/GszlgI4FaMEm0AZ1feegS9mbBSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/N/adm1NZQiAIE3ksDrceLg/afp-20260629-b8ln6da-v5-highres-topshotvenezuelaearthquakeaftermath-1-.jpg"
-    },
-    {
-      "clusterId": "83ea6f85c1948a6a",
-      "slug": "e4d5f5850269d525",
-      "titulo": "Saúde venezuelana sobrecarregada após terremotos",
-      "resumo": "Seis dias depois de dois fortes terremotos, a Organização Mundial da Saúde informou que o sistema de saúde da Venezuela opera no limite, com hospitais danificados, falta de pessoal e superlotação. Autoridades atualizaram o número de mortos para mais de 1.700 e de feridos para cerca de 5.000, enquanto grupos humanitários alertam para risco de epidemias e colapso dos serviços. Muitos profissionais de saúde estão desaparecidos, dificultando o atendimento às vítimas.",
-      "porQueImporta": "A situação pode gerar crise sanitária e aumento de mortes evitáveis",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/30/sistema-de-saude-venezuela-caotico-sob-pressao-apos-terremotos-diz-oms.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-01T03:00:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/edVXRyQulAMHO3ppLMpHVo4dXRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/7/IDcQe4QGSuH8jYY9H5CA/2026-06-29t044029z-694958281-rc2u1male17o-rtrmadp-3-venezuela-quake.jpg"
-    },
-    {
-      "clusterId": "6361cbdbeacfbc71",
-      "slug": "1e386edf022c1e85",
-      "titulo": "Julho traz mais chuva, frio e risco de temporais no Rio Grande do Sul",
-      "resumo": "Em julho, o padrão climático do Sul do Brasil muda sob influência do El Niño, trazendo maior incidência de chuvas e frio frequente no Rio Grande do Sul. A combinação de alterações nos ventos, passagem de frentes frias e formação de ciclones extratropicais perto do litoral deve gerar períodos mais longos de instabilidade e aumentar o risco de temporais.",
-      "porQueImporta": "A mudança climática pode intensificar eventos meteorológicos adversos, impactando a população e a infraestrutura regional",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/01/julho-chuva-frio-temporais-rs-el-nino-tempo-sul-brasil-instabilidade-confira-previsao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-01T03:00:09.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/waoDI0swM15girgQa4BrZnQKAFc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/r/ipsTmuT8uDgZe2Vr6Czw/g1.jpg"
-    },
-    {
-      "clusterId": "eab599a0f22a06b9",
-      "slug": "5f7573b0b4820cec",
-      "titulo": "Terremoto de magnitude 6,0 atinge a costa do México",
-      "resumo": "Um sismo de magnitude 6,0 foi registrado na costa do México. O epicentro ficou a 10 quilômetros de profundidade, segundo o Serviço Geológico dos Estados Unidos (USGS). Não há relatos imediatos de danos ou vítimas. As autoridades locais monitoram a situação.",
-      "porQueImporta": "Eventos sísmicos de grande magnitude podem gerar danos e riscos à população nas áreas costeiras",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-60-atinge-a-costa-do-mexico-diz-agencia/"
-        }
-      ],
-      "updatedAt": "2026-07-01T01:29:22.000Z"
-    },
-    {
-      "clusterId": "c9306e4fc4bbe6f2",
-      "slug": "d5adaf3f17f9a7d1",
-      "titulo": "EUA enviam mais de 900 militares à Venezuela para resposta a terremotos",
-      "resumo": "Os Estados Unidos enviaram mais de 900 militares para a Venezuela com o objetivo de apoiar as operações de busca e salvamento após os terremotos que atingiram a região. As Forças Armadas americanas também disponibilizaram recursos de monitoramento de segurança para auxiliar nas atividades de resgate. A missão inclui a cooperação com autoridades venezuelanas para avaliar danos e prestar assistência humanitária.",
-      "porQueImporta": "A presença de tropas estrangeiras evidencia a gravidade da situação e a necessidade de apoio internacional em desastres sísmicos.",
+      "clusterId": "a64ca1f05363b208",
+      "slug": "bb41c859341129e2",
+      "titulo": "Sabalenka usa aparelho para enfrentar calor em Wimbledon",
+      "resumo": "A tenista Iga Sabalenka, número 1 do mundo, recorre a um aparelho que se tornou popular entre atletas e fashionistas para lidar com a onda de calor na Europa. O dispositivo ajuda a reduzir a temperatura corporal durante os jogos. O uso de tecnologia para conforto térmico tem ganhado atenção no circuito de tênis.",
+      "porQueImporta": "Ilustra como atletas adotam soluções tecnológicas para manter desempenho em condições climáticas extremas.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/eua-enviam-mais-de-900-militares-a-venezuela-para-resposta-a-terremotos/"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/o-aparelho-indispensavel-de-sabalenka-para-enfrentar-o-calor-de-wimbledon/"
         }
       ],
-      "updatedAt": "2026-07-01T00:38:41.000Z"
+      "updatedAt": "2026-07-01T11:00:25.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/GettyImages-2283378054.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "c8c1c458997e952e",
-      "slug": "e13a7e15c1b852ea",
-      "titulo": "Suprema Corte dos EUA reconhece direito à cidadania automática para filhos de imigrantes; Brasil envia ajuda a vítimas de terremoto na Venezuela",
-      "resumo": "A Suprema Corte dos Estados Unidos decidiu que filhos de imigrantes têm direito à cidadania automática. Na Venezuela, a Organização Mundial da Saúde alertou sobre caos no atendimento às vítimas de um terremoto. A Força Aérea brasileira enviou sua quinta missão de socorro e a Marinha ajudou em um hospital de campanha. As autoridades brasileiras continuam a apoiar os sobreviventes.",
-      "porQueImporta": "A decisão judicial afeta políticas migratórias nos EUA e a resposta humanitária demonstra cooperação internacional em desastres naturais",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "9b2ddfcbe624e0f0",
+      "slug": "6fb1bded88eb8ce5",
+      "titulo": "Incêndio de grandes proporções em prédio residencial de Antuérpia deixa mortos e feridos",
+      "resumo": "Bombeiros foram acionados pouco antes das 5h para combater um incêndio no oitavo andar de um prédio residencial de 10 andares em Antuérpia. O fogo causou múltiplas mortes e feridos. A polícia local confirmou o número de vítimas e a extensão do incêndio.",
+      "porQueImporta": "O incidente destaca a necessidade de fiscalização de segurança em edifícios residenciais na região.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/06/30/resumao-diario-do-jn-suprema-corte-dos-eua-decide-que-filhos-de-imigrantes-tem-direito-a-cidadania-automatica-noruega-elimina-costa-do-marfim-e-enfrenta-o-brasil-nas-oitavas-da-copa.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/01/incendio-predio-belgica-deixa-mortos-feridos.ghtml"
         }
       ],
-      "updatedAt": "2026-07-01T00:22:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
+      "updatedAt": "2026-07-01T10:56:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/6doIMPHv-SM8QqpNwbAYpOdLlwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/E/Ee3e9XQoyj9RhnHcqfxQ/captura-de-tela-2026-07-01-080802.png"
     },
     {
-      "clusterId": "b07b764884315c95",
-      "slug": "90a0f0d02f0b85eb",
-      "titulo": "Servidora da Comurg morre atropelada por motorista bêbado",
-      "resumo": "A servidora da Companhia de Urbanização de Goiânia, de 61 anos, foi atingida por um veículo conduzido por Gabriel Alves Conceição, que apresentava sinais de embriaguez. O acidente ocorreu enquanto ela trabalhava ao lado de um colega, que ficou internado. O motorista estava sob efeito de álcool no momento da colisão. O fato foi registrado em vídeo pela TV Anhanguera.",
-      "porQueImporta": "O caso evidencia os perigos do álcool ao volante e o impacto de acidentes sobre trabalhadores públicos",
+      "clusterId": "31b3146098be9e73",
+      "slug": "7fbc5aeb447e3a66",
+      "titulo": "Jovem morre após ser atingido por carro que ignorou sinal de pare em Rio Verde",
+      "resumo": "Gustavo Pacheco Guimarães, de 29 anos, morreu ao ser atingido por um veículo de passeio em um cruzamento de ruas em Rio Verde, Goiás. O motorista do carro não respeitou a sinalização de \"Pare\". O condutor alegou inicialmente ser o motorista, mas depois afirmou que a mulher que o acompanhava dirigia.",
+      "porQueImporta": "O incidente destaca a importância do cumprimento das sinalizações de trânsito para prevenir fatalidades.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/go/goias/transito/noticia/2026/06/30/morre-servidora-da-comurg-atropelada-por-motorista-bebado-enquanto-trabalhava.ghtml"
+          "url": "https://g1.globo.com/go/goias/noticia/2026/07/01/jovem-morre-apos-ser-atingido-por-carro-que-furou-sinal-de-pare-em-rio-verde.ghtml"
         }
       ],
-      "updatedAt": "2026-06-30T23:32:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/iTzwi77FKG9XU6UgudnPOeE-ZzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/j/ti1c9JR6AoCDVFZmbWug/g1-2026-06-30t202128.517.jpg"
+      "updatedAt": "2026-07-01T10:48:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YhGZlkxd6dfs3WS4Lah60Iu2sko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/J/AKj35YQvybBIdbjRysHw/padrao-g1cbn-foto-35-.png"
+    },
+    {
+      "clusterId": "654adeb6b8e4a110",
+      "slug": "1dbcd4b5ae90abf9",
+      "titulo": "Avião de instrução cai em Rio Preto, deixando duas vítimas",
+      "resumo": "Um avião de pequeno porte decolou do Aeroporto Estadual \"Professor Eribelto Manoel Reino\" em São José do Rio Preto e caiu sete minutos depois, em uma área rural da Estrada Municipal \"José Domingues Netto\". O acidente matou o piloto Abner Oliveira, de 41 anos, e o aluno Felipe Coiado, de 24 anos. A investigação do Cenipa continua sem conclusão definitiva após um ano.",
+      "porQueImporta": "O caso destaca a necessidade de investigação eficaz de acidentes aéreos de pequeno porte.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/01/queda-de-aviao-que-matou-instrutor-e-aluno-em-rio-preto-completa-um-ano-sem-conclusao-na-investigacao.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-01T10:31:16.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/LoXPLlR2cZJyD8zanYGkmi85O2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/6/9GcTZhT1AFtunPeSbb2w/foto-g1-2025-07-01t153259.702.png"
+    },
+    {
+      "clusterId": "f601739bcef95e65",
+      "slug": "8a8204d568950648",
+      "titulo": "Mulher morre e homem fica gravemente ferido após acidente de moto na SE-290",
+      "resumo": "Um acidente de trânsito na rodovia SE-290, em Poço Verde, resultou na morte de uma mulher de 18 anos e na lesão grave de um homem de 22 anos. O incidente ocorreu quando um carro de passeio colidiu com a moto, na direção Tobias Barreto/Poço Verde, na noite de terça-feira. O Batalhão de Polícia Rodoviária Estadual relatou que a mulher era passageira e o homem pilotava a moto.",
+      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias estaduais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/01/video-mulher-morre-e-homem-fica-gravemente-ferido-apos-acidente-de-moto-na-se-290.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-01T10:30:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/6PeciTjeUUidvLBe-OuqfA_eaWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/w/VGybw5Qq2zUB3AFQ3hhw/crop-foto-2026-07-01t072852.750.jpg"
+    },
+    {
+      "clusterId": "89b50f1c9f4b5d82",
+      "slug": "fcb03cf9c68fad98",
+      "titulo": "Motociclista morre após bater em carro e ser atropelado por outro veículo na Tamoios",
+      "resumo": "Um motociclista morreu na noite de terça-feira (30) na Rodovia dos Tamoios, em São José dos Campos, quando colidiu com um Chevrolet Corsa e caiu na pista. Em seguida, outro veículo atropelou o motociclista. O acidente ocorreu por volta das 19h, no km 5 da rodovia, sentido São José dos Campos.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção redobrada em rodovias com tráfego intenso, especialmente em áreas de alta velocidade.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/01/motociclista-morre-apos-bater-em-carro-e-ser-atropelado-por-outro-veiculo-na-tamoios-em-sao-jose-dos-campos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-01T10:27:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/eJ6oULLE3LKCYQJ0nM2eH54vAn4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/c/2o4ubbSkm3X9aI5GdueQ/texto-do-seu-paragrafo-2026-07-01t072547.361.png"
     }
   ],
   "categorias": [
@@ -181,40 +191,28 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "c9306e4fc4bbe6f2",
-          "slug": "d5adaf3f17f9a7d1",
-          "titulo": "EUA enviam mais de 900 militares à Venezuela para resposta a terremotos",
-          "resumo": "Os Estados Unidos enviaram mais de 900 militares para a Venezuela com o objetivo de apoiar as operações de busca e salvamento após os terremotos que atingiram a região. As Forças Armadas americanas também disponibilizaram recursos de monitoramento de segurança para auxiliar nas atividades de resgate. A missão inclui a cooperação com autoridades venezuelanas para avaliar danos e prestar assistência humanitária.",
-          "porQueImporta": "A presença de tropas estrangeiras evidencia a gravidade da situação e a necessidade de apoio internacional em desastres sísmicos.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/eua-enviam-mais-de-900-militares-a-venezuela-para-resposta-a-terremotos/"
-            }
-          ],
-          "updatedAt": "2026-07-01T00:38:41.000Z"
-        },
-        {
-          "clusterId": "c8c1c458997e952e",
-          "slug": "e13a7e15c1b852ea",
-          "titulo": "Suprema Corte dos EUA reconhece direito à cidadania automática para filhos de imigrantes; Brasil envia ajuda a vítimas de terremoto na Venezuela",
-          "resumo": "A Suprema Corte dos Estados Unidos decidiu que filhos de imigrantes têm direito à cidadania automática. Na Venezuela, a Organização Mundial da Saúde alertou sobre caos no atendimento às vítimas de um terremoto. A Força Aérea brasileira enviou sua quinta missão de socorro e a Marinha ajudou em um hospital de campanha. As autoridades brasileiras continuam a apoiar os sobreviventes.",
-          "porQueImporta": "A decisão judicial afeta políticas migratórias nos EUA e a resposta humanitária demonstra cooperação internacional em desastres naturais",
+          "clusterId": "61f4af97287624ec",
+          "slug": "702efdfd769b5b94",
+          "titulo": "Céu vermelho em Caracas durante resgates de terremotos",
+          "resumo": "O céu de Caracas ficou vermelho intenso durante o pôr‑do‑sol, enquanto as equipes de resgate trabalhavam para socorrer vítimas e remover escombros após terremotos que começaram na noite de quarta-feira (24). A cena foi registrada por moradores locais e divulgada em vídeo. O fenômeno atmosférico ocorreu em meio ao caos causado pelos terremotos que têm sacudido a capital.",
+          "porQueImporta": "Ilustra a situação de emergência em Caracas, destacando a simultaneidade de um fenômeno natural e de esforços de socorro.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/06/30/resumao-diario-do-jn-suprema-corte-dos-eua-decide-que-filhos-de-imigrantes-tem-direito-a-cidadania-automatica-noruega-elimina-costa-do-marfim-e-enfrenta-o-brasil-nas-oitavas-da-copa.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/01/video-por-do-sol-deixa-o-ceu-vermelho-intenso-na-capital-da-venezuela.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/veja-ceu-da-venezuela-fica-totalmente-vermelho-durante-por-do-sol/"
             }
           ],
-          "updatedAt": "2026-07-01T00:22:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
+          "updatedAt": "2026-07-01T11:13:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mU-LrkbufOsw3hlgRoEWSri0u40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/o/2HCaurTWyIEmSInv8tQA/2026-07-01t061443z-826673436-rc2t4ma6uxnn-rtrmadp-3-venezuela-quake-sky.jpg"
         },
         {
-          "clusterId": "133ffc1fe2abaee7",
+          "clusterId": "b861fd12e68f513e",
           "slug": "a4423f19cfe7f490",
           "titulo": "Mais de 100 venezuelanos deportados dos EUA desaparecidos após terremotos na Venezuela",
           "resumo": "Mais de cem pessoas deportadas dos Estados Unidos foram alojadas em um hotel quando terremotos atingiram a Venezuela. Os sobreviventes relataram que os deportados desapareceram entre os escombros. Autoridades iniciaram buscas para localizar sobreviventes e recuperar corpos. A situação ocorreu poucas horas após a chegada de um voo de deportação que partiu de Miami.",
@@ -225,10 +223,64 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/06/30/mais-de-100-venezuelanos-deportados-dos-eua-poucas-horas-antes-dos-terremotos-estao-desaparecidos.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/venezuelanos-deportados-dos-eua-estao-desaparecidos-apos-terremotos/"
             }
           ],
-          "updatedAt": "2026-06-30T16:26:11.000Z",
+          "updatedAt": "2026-07-01T10:20:41.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/qbhgiMkCLJpG5Lm1xV_t6nHkla0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/M/AqhuIvSQugrSZnSSK9yA/ap26181014329847.jpg"
+        },
+        {
+          "clusterId": "a64ca1f05363b208",
+          "slug": "bb41c859341129e2",
+          "titulo": "Sabalenka usa aparelho para enfrentar calor em Wimbledon",
+          "resumo": "A tenista Iga Sabalenka, número 1 do mundo, recorre a um aparelho que se tornou popular entre atletas e fashionistas para lidar com a onda de calor na Europa. O dispositivo ajuda a reduzir a temperatura corporal durante os jogos. O uso de tecnologia para conforto térmico tem ganhado atenção no circuito de tênis.",
+          "porQueImporta": "Ilustra como atletas adotam soluções tecnológicas para manter desempenho em condições climáticas extremas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/esporte/o-aparelho-indispensavel-de-sabalenka-para-enfrentar-o-calor-de-wimbledon/"
+            }
+          ],
+          "updatedAt": "2026-07-01T11:00:25.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/GettyImages-2283378054.jpg?quality=70&strip=info"
+        },
+        {
+          "clusterId": "146f496c5d299b16",
+          "slug": "9273d142c3b897f9",
+          "titulo": "Família de pastor morto em terremotos na Venezuela faz campanha para custear translado de R$ 50 mil",
+          "resumo": "Família de pastor de Uberlândia faz campanha para traslado após morte na Venezuela A família do pastor Romildo Batista de Lima, de 69 anos, morador de Uberlândia, no Triângulo Mineiro, iniciou uma campanha online para arrecadar R$ 50 mil e custear o translado do corpo ao Brasil. Romildo morreu durante os terremotos que atingiram a Venezuela na última quarta-feira (24). A morte foi confirmada pela esposa dele, Carlha Nacarid, que ficou ferida e permanece internada no país. A informação foi repassada ao g1 pela sobrinha, Jhulya Ribeiro de Lima. Segundo Jhulya, após vários contatos da família, a…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/30/familia-de-pastor-morto-em-terremotos-na-venezuela-faz-campanha-para-custear-translado-de-r-50-mil.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T07:02:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/X6qUaY2HYzW6r64GAXSd_nnWb0c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/r/Xkp5qcSkOG6kR7CJr7ZA/design-sem-nome-8-.png"
+        },
+        {
+          "clusterId": "727bb532192120ef",
+          "slug": "6e5e0b537acf1073",
+          "titulo": "Venezuelanos vasculham escombros enquanto máquinas do governo estão paradas",
+          "resumo": "Falta de combustível dificulta os resgates, enquanto cresce a pressão sobre as autoridades; número de mortes chega a 1.943 uma semana após os terremotos",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/venezuelanos-vasculham-escombros-enquanto-maquinas-do-governo-estao-paradas/"
+            }
+          ],
+          "updatedAt": "2026-07-01T06:51:42.000Z"
         },
         {
           "clusterId": "301678c4281d1168",
@@ -265,40 +317,6 @@
           "imageUrl": "https://s2-g1.glbimg.com/TJHGjdudhxs2adqDdqoIAcQNHwU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/T/x2rrKdTDmN0MQBX75YtQ/2026-06-23t131037z-925289991-rc2gwla6uuwa-rtrmadp-3-europe-weather-companies.jpg"
         },
         {
-          "clusterId": "9ad9f7aa5bc1b724",
-          "slug": "9273d142c3b897f9",
-          "titulo": "Família de pastor morto em terremotos na Venezuela faz campanha para custear translado de R$ 50 mil",
-          "resumo": "Família de pastor de Uberlândia faz campanha para traslado após morte na Venezuela A família do pastor Romildo Batista de Lima, de 69 anos, morador de Uberlândia, no Triângulo Mineiro, iniciou uma campanha online para arrecadar R$ 50 mil e custear o translado do corpo ao Brasil. Romildo morreu durante os terremotos que atingiram a Venezuela na última quarta-feira (24). A morte foi confirmada pela esposa dele, Carlha Nacarid, que ficou ferida e permanece internada no país. A informação foi repassada ao g1 pela sobrinha, Jhulya Ribeiro de Lima. Segundo Jhulya, após vários contatos da família, a…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/30/familia-de-pastor-morto-em-terremotos-na-venezuela-faz-campanha-para-custear-translado-de-r-50-mil.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-30T08:03:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/X6qUaY2HYzW6r64GAXSd_nnWb0c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/r/Xkp5qcSkOG6kR7CJr7ZA/design-sem-nome-8-.png"
-        },
-        {
-          "clusterId": "85d4bbc9307da638",
-          "slug": "9bce4ab03ffe4a04",
-          "titulo": "Imagens de satélite apontam quase 59 mil prédios possivelmente danificados após terremotos na Venezuela",
-          "resumo": "A análise ainda não foi comparada com vistorias presenciais ou com registros detalhados feitos por equipes de emergência. NASA Uma análise preliminar feita por pesquisadores da Universidade Estadual do Oregon, nos Estados Unidos, estima que cerca de 58,9 mil construções podem ter sido danificadas ou destruídas pelos fortes terremotos que atingiram a Venezuela na última quarta-feira (24). O levantamento foi produzido com imagens de satélite captadas após os tremores e aponta as áreas onde há maior possibilidade de danos (veja ACIMA). 📱Favorite o g1 no Google e acompanhe as principais notícias…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ciencia/noticia/2026/06/30/terremotos-na-venezuela-analise-de-satelite.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-30T08:03:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/GP2kG7lt5ebOcdVAYKpJLfnz5gg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/SRNZWYTb6DBywB4NIAKg/venezuela.png"
-        },
-        {
           "clusterId": "503a6aa507d636f1",
           "slug": "2a55c1c72d1a8c21",
           "titulo": "María Corina Machado, líder da oposição da Venezuela, acusa governo interino de impedir seu retorno ao país",
@@ -318,29 +336,171 @@
       ]
     },
     {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "cbb906685b21c0ec",
+          "slug": "a6f42d4756b4e571",
+          "titulo": "Carreta tombou após ser atingida na traseira por outra carreta na Serra",
+          "resumo": "Na noite desta terça-feira, uma carreta caiu na Serra, Grande Vitória, depois de ser atingida na traseira por outra carreta. O motorista da carreta que caiu, de 64 anos, foi socorrido e levado a um hospital local. O condutor que bateu relatou que o veículo da frente reduziu a velocidade e que as luzes de freio não acenderam.",
+          "porQueImporta": "Acidentes de trânsito envolvendo veículos pesados representam risco elevado de fatalidades e interrupção do tráfego.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/07/01/video-mostra-momento-em-que-carreta-e-atingida-na-traseira-e-tomba-na-serra-motorista-fica-ferido.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T11:22:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/c6zH9lx3XYJ7IXFbQQ0otp4ihY8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/v/Hl2UxQSMypcp9zYFRCVQ/thumb-fotos-52-.jpg"
+        },
+        {
+          "clusterId": "31b3146098be9e73",
+          "slug": "7fbc5aeb447e3a66",
+          "titulo": "Jovem morre após ser atingido por carro que ignorou sinal de pare em Rio Verde",
+          "resumo": "Gustavo Pacheco Guimarães, de 29 anos, morreu ao ser atingido por um veículo de passeio em um cruzamento de ruas em Rio Verde, Goiás. O motorista do carro não respeitou a sinalização de \"Pare\". O condutor alegou inicialmente ser o motorista, mas depois afirmou que a mulher que o acompanhava dirigia.",
+          "porQueImporta": "O incidente destaca a importância do cumprimento das sinalizações de trânsito para prevenir fatalidades.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/07/01/jovem-morre-apos-ser-atingido-por-carro-que-furou-sinal-de-pare-em-rio-verde.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T10:48:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YhGZlkxd6dfs3WS4Lah60Iu2sko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/J/AKj35YQvybBIdbjRysHw/padrao-g1cbn-foto-35-.png"
+        },
+        {
+          "clusterId": "f601739bcef95e65",
+          "slug": "8a8204d568950648",
+          "titulo": "Mulher morre e homem fica gravemente ferido após acidente de moto na SE-290",
+          "resumo": "Um acidente de trânsito na rodovia SE-290, em Poço Verde, resultou na morte de uma mulher de 18 anos e na lesão grave de um homem de 22 anos. O incidente ocorreu quando um carro de passeio colidiu com a moto, na direção Tobias Barreto/Poço Verde, na noite de terça-feira. O Batalhão de Polícia Rodoviária Estadual relatou que a mulher era passageira e o homem pilotava a moto.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias estaduais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/01/video-mulher-morre-e-homem-fica-gravemente-ferido-apos-acidente-de-moto-na-se-290.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T10:30:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6PeciTjeUUidvLBe-OuqfA_eaWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/w/VGybw5Qq2zUB3AFQ3hhw/crop-foto-2026-07-01t072852.750.jpg"
+        },
+        {
+          "clusterId": "89b50f1c9f4b5d82",
+          "slug": "fcb03cf9c68fad98",
+          "titulo": "Motociclista morre após bater em carro e ser atropelado por outro veículo na Tamoios",
+          "resumo": "Um motociclista morreu na noite de terça-feira (30) na Rodovia dos Tamoios, em São José dos Campos, quando colidiu com um Chevrolet Corsa e caiu na pista. Em seguida, outro veículo atropelou o motociclista. O acidente ocorreu por volta das 19h, no km 5 da rodovia, sentido São José dos Campos.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção redobrada em rodovias com tráfego intenso, especialmente em áreas de alta velocidade.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/01/motociclista-morre-apos-bater-em-carro-e-ser-atropelado-por-outro-veiculo-na-tamoios-em-sao-jose-dos-campos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T10:27:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/eJ6oULLE3LKCYQJ0nM2eH54vAn4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/c/2o4ubbSkm3X9aI5GdueQ/texto-do-seu-paragrafo-2026-07-01t072547.361.png"
+        },
+        {
+          "clusterId": "dccb099fbacdab23",
+          "slug": "5990d8afd06d1276",
+          "titulo": "Professora morre após ser atingida por linha chilena enquanto pilotava motocicleta em Montes Claros",
+          "resumo": "Uma professora de 57 anos morreu depois de ser atingida por uma linha de pipa enquanto conduzia motocicleta no Residencial Minas Gerais, em Montes Claros. O acidente ocorreu na Rua 1, quando a linha chilena atingiu a motocicleta, fazendo a vítima perder o controle e cair. Ela foi socorrida pelo SAMU, mas faleceu no local. O Centro de Operações da Polícia Militar relatou que a vítima estava retornando do trabalho.",
+          "porQueImporta": "O incidente destaca os riscos de linhas de pipa em áreas urbanas e a necessidade de medidas de segurança para ciclistas e motociclistas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/01/professora-morre-apos-ser-atingida-por-linha-chilena-enquanto-pilotava-motocicleta-em-montes-claros.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T10:13:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WQ0vesGmtYoViUKK9kbS0TwOAMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Q/10azSzRB6FkJFOFrBbwQ/linha.jpeg"
+        },
+        {
+          "clusterId": "f1fd7eb24e6355f2",
+          "slug": "6ac437298680e414",
+          "titulo": "Professora espera alta após ficar mais de 60 horas presa em carro acidentado",
+          "resumo": "A professora Leila Gorete da Silva ficou presa dentro de um carro por mais de 60 horas após um acidente na MG‑444, entre Cássia e Capetinga. Ela foi resgatada depois de quase três dias de busca e permanece internada no Hospital de Cássia. O caso mobilizou familiares, voluntários e forças de segurança. Espera-se que receba alta na quarta-feira.",
+          "porQueImporta": "Ilustra os riscos de acidentes de trânsito e a necessidade de atenção rápida em emergências automotivas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/01/professora-resgatada-apos-ficar-mais-de-60-horas-presa-em-carro-acidentado-espera-alta-apos-5-dias-internada-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T10:09:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rteWPnT_aB7eISPT6bJBm5NMgvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/0/JVEvMLS6qgXk4ZK2IpaA/resgatavalendo.png"
+        },
+        {
+          "clusterId": "53bf9672e2efa126",
+          "slug": "d223be7ca9779cb3",
+          "titulo": "Motorista suspeito de atropelar policial penal e filha é preso em Teresina",
+          "resumo": "O motorista Julio Cesar Carvalho Neu foi preso na manhã de quarta-feira (1º) em Teresina, após atropelar o policial penal Gilvan Furtado Leite e a filha de 20 anos. O acidente ocorreu no bairro Bela Vista, na zona sul da capital. O policial ficou gravemente ferido e está internado. Neu foi solto após audiência de custódia.",
+          "porQueImporta": "O caso envolve a violência contra um policial e a gravidade das lesões da vítima.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/motorista-investigado-por-atropelar-policial-penal-e-filha-e-preso-em-teresina-quase-fez-outras-vitimas-diz-delegado.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T09:41:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SGW2KQSV3pqUR8FmRl_Jn8dHIwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/H/k8ZbUDQxycTQY3J3BMIA/edicao-imagens-g1-8-.png"
+        },
+        {
+          "clusterId": "2c7a4f2e1a57a092",
+          "slug": "55adb20effd5b59b",
+          "titulo": "Acidente com ônibus deixa um morto e feridos na Dutra em Santa Isabel",
+          "resumo": "Um ônibus de 71 anos bateu na traseira de uma carreta na Rodovia Presidente Dutra, km 185, em Santa Isabel, SP, na madrugada de quarta-feira. O motorista do ônibus morreu no local e 11 pessoas ficaram feridas, cinco em estado grave. O coletivo transportava cerca de 20 passageiros e ficou destruído após o impacto.",
+          "porQueImporta": "O acidente resultou em fatalidade e múltiplas lesões, destacando a necessidade de segurança viária na rodovia.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/07/01/acidente-deixa-morto-e-feridos-na-dutra-em-santa-isabel-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T09:00:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PL58vITjoIJq0-GQ2Pn6tXupEdE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/3/hUAUsVQuiMAwv1j08Yog/whatsapp-image-2026-07-01-at-08.19.05.jpeg"
+        }
+      ]
+    },
+    {
       "slug": "terremoto",
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "05a146e81cfc5100",
-          "slug": "9f1d7c681b9dab7d",
-          "titulo": "Terremotos na Venezuela deixam milhares de mortos e dezenas de sobreviventes resgatados após dias sob escombros",
-          "resumo": "Um duplo terremoto atingiu a Venezuela na noite de 24 de junho, provocando mais de 1.700 mortes, milhares de feridos e dezenas de milhares de desaparecidos. Equipes de resgate venezuelanas e internacionais, incluindo forças jordanianas, encontraram sobreviventes após até 106 horas sob os destroços, como uma criança de três anos e um bebê de 18 dias. O governo divulgou balanços provisórios e declarou a região de La Guaira zona de desastre, enquanto a população enfrenta deslocamento e falta de moradia.",
-          "porQueImporta": "A magnitude da tragédia humanitária exige resposta de emergência e mobilização internacional",
+          "clusterId": "2b5d5b41b03b277f",
+          "slug": "da010e8284b93051",
+          "titulo": "Terremotos na Venezuela deixam milhares de mortos, feridos e desaparecidos enquanto buscas por sobreviventes continuam",
+          "resumo": "Na última semana, dois terremotos de magnitude superior a 7 atingiram a Venezuela, provocando cerca de 1.7 mil a 1.9 mil mortes e mais de 5 mil feridos, além de dezenas de milhares de desaparecidos. Cerca de 15 mil pessoas ficaram desabrigadas e o sistema de saúde está sobrecarregado, com hospitais lotados e falta de pessoal. Equipes de resgate, incluindo voluntários, militares brasileiros e forças jordanianas, continuam a buscar sobreviventes, tendo encontrado crianças e um cachorro ainda vivos após vários dias sob os escombros. A situação humanitária se agrava com escassez de alimentos, abrigo e risco de epidemias.",
+          "porQueImporta": "A gravidade do desastre exige resposta humanitária e coordenação internacional para salvar vidas e prevenir crises de saúde pública.",
           "categoria": "Terremoto",
           "categoriaSlug": "terremoto",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/29/pastor-morreu-em-terremotos-na-venezuela-quatro-dias-apos-celebrar-69-anos.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/29/imagens-drone-destruicao-terremotos-venezuela-video.ghtml"
             },
             {
               "name": "BBC Brasil",
               "url": "https://www.bbc.com/portuguese/articles/cx2xj05g064o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "updatedAt": "2026-07-01T03:02:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/eEwB40-mXM6Idv0z094idLQOyG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/f/s8lIoaT9AyxUOx61VQhw/design-sem-nome-7-.png"
+          "updatedAt": "2026-07-01T10:02:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uqWsxdfA8INkvFshEHtsViju8TE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/LZ0BToS12fUJeiBJvhcA/ezgif.com-optimize-37-.gif"
         },
         {
           "clusterId": "454a213a98f438b9",
@@ -358,56 +518,6 @@
           ],
           "updatedAt": "2026-07-01T03:30:08.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/GszlgI4FaMEm0AZ1feegS9mbBSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/N/adm1NZQiAIE3ksDrceLg/afp-20260629-b8ln6da-v5-highres-topshotvenezuelaearthquakeaftermath-1-.jpg"
-        },
-        {
-          "clusterId": "83ea6f85c1948a6a",
-          "slug": "e4d5f5850269d525",
-          "titulo": "Saúde venezuelana sobrecarregada após terremotos",
-          "resumo": "Seis dias depois de dois fortes terremotos, a Organização Mundial da Saúde informou que o sistema de saúde da Venezuela opera no limite, com hospitais danificados, falta de pessoal e superlotação. Autoridades atualizaram o número de mortos para mais de 1.700 e de feridos para cerca de 5.000, enquanto grupos humanitários alertam para risco de epidemias e colapso dos serviços. Muitos profissionais de saúde estão desaparecidos, dificultando o atendimento às vítimas.",
-          "porQueImporta": "A situação pode gerar crise sanitária e aumento de mortes evitáveis",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/06/30/sistema-de-saude-venezuela-caotico-sob-pressao-apos-terremotos-diz-oms.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-01T03:00:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/edVXRyQulAMHO3ppLMpHVo4dXRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/7/IDcQe4QGSuH8jYY9H5CA/2026-06-29t044029z-694958281-rc2u1male17o-rtrmadp-3-venezuela-quake.jpg"
-        },
-        {
-          "clusterId": "eab599a0f22a06b9",
-          "slug": "5f7573b0b4820cec",
-          "titulo": "Terremoto de magnitude 6,0 atinge a costa do México",
-          "resumo": "Um sismo de magnitude 6,0 foi registrado na costa do México. O epicentro ficou a 10 quilômetros de profundidade, segundo o Serviço Geológico dos Estados Unidos (USGS). Não há relatos imediatos de danos ou vítimas. As autoridades locais monitoram a situação.",
-          "porQueImporta": "Eventos sísmicos de grande magnitude podem gerar danos e riscos à população nas áreas costeiras",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-60-atinge-a-costa-do-mexico-diz-agencia/"
-            }
-          ],
-          "updatedAt": "2026-07-01T01:29:22.000Z"
-        },
-        {
-          "clusterId": "e90492c507ffae55",
-          "slug": "00dd2f38958112ae",
-          "titulo": "Embaixada do Brasil na Venezuela orienta brasileiros a evitarem região de La Guaira após terremotos",
-          "resumo": "A embaixada brasileira na Venezuela divulgou comunicado pedindo que cidadãos no país não se dirijam à região de La Guaira, uma das mais atingidas pelos terremotos recentes. O país vive crise após dois sismos de magnitude superior a 7, além de outros de menor intensidade. As autoridades da ONU registram cerca de duas mil mortes confirmadas e aproximadamente cinco mil feridos, com dezenas de milhares de desaparecidos. Também foi solicitada doação de sangue para atender às vítimas.",
-          "porQueImporta": "A orientação visa proteger a população brasileira e apoiar as necessidades humanitárias diante de um desastre de grande escala",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/politica/noticia/2026/06/30/embaixada-na-venezuela-pede-a-brasileiros-que-nao-se-dirijam-a-regiao-de-terremotos-e-orienta-doacao-de-sangue.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-30T14:08:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/S1gqjMK4VR32AieRF0jneSs3jsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/e/CIHSwETxiCMBUpN0iFuQ/imagem-cortada-2026-06-30t102837.487.jpg"
         },
         {
           "clusterId": "982262d310f70092",
@@ -429,129 +539,26 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "9b3fc53d98d799d9",
-          "slug": "0735a4de2e9fbc72",
-          "titulo": "Jovem correu para escapar de carro que atingiu outros três adolescentes em ponto de ônibus em Piracicaba",
-          "resumo": "Um carro que estava derrapando atingiu três adolescentes em um ponto de ônibus em Piracicaba. Um jovem de 13 anos conseguiu escapar correndo quando ouviu o estrondo. As vítimas são dois meninos e uma menina que haviam acabado de sair do ponto. O veículo estava com som alto e avançando rapidamente.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção e segurança no trânsito em áreas de alto fluxo de pedestres.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/01/jovem-correu-para-escapar-de-carro-que-atingiu-outros-tres-adolescentes-em-ponto-de-onibus-em-piracicaba-escutei-o-estrondo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-01T05:00:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JlK-uEFvo1RXScnCtmaF1HbpJKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/l/igZHdIQ8AhDgrKEasi5A/whatsapp-image-2026-06-30-at-15.35.03.jpeg"
-        },
-        {
-          "clusterId": "b07b764884315c95",
-          "slug": "90a0f0d02f0b85eb",
-          "titulo": "Servidora da Comurg morre atropelada por motorista bêbado",
-          "resumo": "A servidora da Companhia de Urbanização de Goiânia, de 61 anos, foi atingida por um veículo conduzido por Gabriel Alves Conceição, que apresentava sinais de embriaguez. O acidente ocorreu enquanto ela trabalhava ao lado de um colega, que ficou internado. O motorista estava sob efeito de álcool no momento da colisão. O fato foi registrado em vídeo pela TV Anhanguera.",
-          "porQueImporta": "O caso evidencia os perigos do álcool ao volante e o impacto de acidentes sobre trabalhadores públicos",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/06/30/morre-servidora-da-comurg-atropelada-por-motorista-bebado-enquanto-trabalhava.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-30T23:32:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/iTzwi77FKG9XU6UgudnPOeE-ZzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/j/ti1c9JR6AoCDVFZmbWug/g1-2026-06-30t202128.517.jpg"
-        },
-        {
-          "clusterId": "68ba5969ddf251bd",
-          "slug": "911464952f04efee",
-          "titulo": "Filhote de tamanduá-bandeira é resgatado pela PM Ambiental no DF após mãe ser atropelada",
-          "resumo": "Equipes da Polícia Militar Ambiental do Distrito Federal encontraram um filhote de tamanduá-bandeira debilitado e assustado. O animal sobreviveu a um atropelamento ocorrido na madrugada anterior, quando a mãe foi morta ao ser atingida por veículo. O resgate foi realizado na segunda‑feira, e o filhote foi recolhido para cuidados. As imagens do procedimento foram divulgadas no dia seguinte.",
-          "porQueImporta": "O caso evidencia o impacto de acidentes de trânsito na fauna silvestre e a necessidade de intervenções de resgate.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/30/pm-ambiental-resgata-filhote-de-tamandua-bandeira-do-df-mae-morreu-atropelada-na-vespera.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-30T23:25:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YpXn06cMvdzsnQZTu96TTlxTraY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/w/ciayE7RS2IilZHwYwyQA/tamandua.jpg"
-        },
-        {
-          "clusterId": "7223eb9792c0dcf7",
-          "slug": "97ddad4943ffb0c8",
-          "titulo": "Três mortes registradas em acidentes na rodovia Washington Luís durante obras da terceira faixa",
-          "resumo": "A concessionária responsável divulgou que, entre maio de 2025 e junho de 2026, três pessoas morreram em acidentes na pista entre São José do Rio Preto e Mirassol. Os números referem‑se apenas ao trecho em obras para a construção da terceira faixa e de marginais. As obras de melhoria foram intensificadas na região noroeste de São Paulo ao longo desse período.",
-          "porQueImporta": "Os acidentes ocorrem em um trecho em obras, o que pode impactar a segurança dos usuários da rodovia",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/30/obras-para-construcao-de-terceira-faixa-e-marginais-na-rodovia-washington-luis-completam-um-ano-veja-numero-de-acidentes-na-regiao-noroeste-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-06-30T23:12:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Gn-Sq7d-ZoAoD0NWGkVrUgRccJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/K/fJPX0kQUy7JssLwA2CMQ/whatsapp-image-2026-04-29-at-19.58.07.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
-        {
-          "clusterId": "d4aaf42c45a65ef2",
-          "slug": "23af4d6783f09f56",
-          "titulo": "Duas mortes em menos de 15 dias em trilhas de Maricá",
-          "resumo": "Em junho, duas pessoas morreram em acidentes em atrativos naturais de Maricá, na Região Metropolitana do Rio. A primeira vítima, de 59 anos, caiu enquanto praticava rapel na Gruta do Spar. A segunda morreu ao cair do cume da Pedra do Macaco enquanto tirava foto. Os fatos ocorreram em menos de quinze dias e despertaram alerta sobre a segurança em atividades ao ar livre.",
-          "porQueImporta": "Os incidentes ressaltam a necessidade de medidas de prevenção e orientação para visitantes de áreas de risco.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/01/duas-mortes-em-menos-de-15-dias-em-gruta-e-penhasco-de-marica-ha-uma-especie-de-relaxamento-alerta-guia-para-os-riscos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-01T04:00:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/KGM-JbV4QrwvO14yT94OJoZSi9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/h/7fYymkSTGiT2ItHgKBpA/rosemary-e-caio-cairam-de-grande-altura-durante-a-pratica-de-trilha-em-marica.png"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "6361cbdbeacfbc71",
-          "slug": "1e386edf022c1e85",
-          "titulo": "Julho traz mais chuva, frio e risco de temporais no Rio Grande do Sul",
-          "resumo": "Em julho, o padrão climático do Sul do Brasil muda sob influência do El Niño, trazendo maior incidência de chuvas e frio frequente no Rio Grande do Sul. A combinação de alterações nos ventos, passagem de frentes frias e formação de ciclones extratropicais perto do litoral deve gerar períodos mais longos de instabilidade e aumentar o risco de temporais.",
-          "porQueImporta": "A mudança climática pode intensificar eventos meteorológicos adversos, impactando a população e a infraestrutura regional",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/01/julho-chuva-frio-temporais-rs-el-nino-tempo-sul-brasil-instabilidade-confira-previsao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-01T03:00:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/waoDI0swM15girgQa4BrZnQKAFc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/r/ipsTmuT8uDgZe2Vr6Czw/g1.jpg"
-        }
-      ]
-    },
-    {
       "slug": "desabamento",
       "label": "Desabamento",
       "stories": [
+        {
+          "clusterId": "73e788a71d76ad0b",
+          "slug": "1fd7784b106c8a69",
+          "titulo": "Complexo habitacional de Hugo Chávez desaba após terremotos na Venezuela",
+          "resumo": "Os fortes tremores que atingiram a Venezuela nesta quarta‑feira deixaram um dos grandes conjuntos do programa habitacional de Hugo Chávez, em La Guaira, inabitável. O desabamento ocorreu poucos minutos após o primeiro sismo, que fez parte de dois tremores que causaram quase 1.500 mortes no país. Moradores do complexo, como uma família de 28 anos, ficaram desabrigados e passaram a dormir na rua. As autoridades ainda avaliam a extensão dos danos ao conjunto habitacional.",
+          "porQueImporta": "O colapso evidencia a vulnerabilidade da infraestrutura habitacional diante de grandes terremotos, afetando milhares de residentes.",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/06/29/complexo-de-plano-habitacional-de-hugo-chavez-desaba-apos-terremotos-na-venezuela.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T06:00:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HojFao8MhhQZZ6NTae-9st-oEME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/S/3tQP5FTEqA8b16wV9Crg/afp-20260628-b8l87bk-v3-highres-topshotvenezuelaearthquake.jpg"
+        },
         {
           "clusterId": "598ec371bcebf6ad",
           "slug": "03ac58ad1f3491c4",
@@ -568,6 +575,75 @@
           ],
           "updatedAt": "2026-06-30T12:16:14.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/AW4e5Bc2PZlkMOojn_xbK-59nQw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/H/hDzMH2TSyB68MaSwIyJw/2026-06-30t120012z-484982146-rc2b4maocmsa-rtrmadp-3-greece-building-collapse.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "9b2ddfcbe624e0f0",
+          "slug": "6fb1bded88eb8ce5",
+          "titulo": "Incêndio de grandes proporções em prédio residencial de Antuérpia deixa mortos e feridos",
+          "resumo": "Bombeiros foram acionados pouco antes das 5h para combater um incêndio no oitavo andar de um prédio residencial de 10 andares em Antuérpia. O fogo causou múltiplas mortes e feridos. A polícia local confirmou o número de vítimas e a extensão do incêndio.",
+          "porQueImporta": "O incidente destaca a necessidade de fiscalização de segurança em edifícios residenciais na região.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/01/incendio-predio-belgica-deixa-mortos-feridos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T10:56:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6doIMPHv-SM8QqpNwbAYpOdLlwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/E/Ee3e9XQoyj9RhnHcqfxQ/captura-de-tela-2026-07-01-080802.png"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "654adeb6b8e4a110",
+          "slug": "1dbcd4b5ae90abf9",
+          "titulo": "Avião de instrução cai em Rio Preto, deixando duas vítimas",
+          "resumo": "Um avião de pequeno porte decolou do Aeroporto Estadual \"Professor Eribelto Manoel Reino\" em São José do Rio Preto e caiu sete minutos depois, em uma área rural da Estrada Municipal \"José Domingues Netto\". O acidente matou o piloto Abner Oliveira, de 41 anos, e o aluno Felipe Coiado, de 24 anos. A investigação do Cenipa continua sem conclusão definitiva após um ano.",
+          "porQueImporta": "O caso destaca a necessidade de investigação eficaz de acidentes aéreos de pequeno porte.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/01/queda-de-aviao-que-matou-instrutor-e-aluno-em-rio-preto-completa-um-ano-sem-conclusao-na-investigacao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T10:31:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/LoXPLlR2cZJyD8zanYGkmi85O2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/6/9GcTZhT1AFtunPeSbb2w/foto-g1-2025-07-01t153259.702.png"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "9861c49e49b5026f",
+          "slug": "d6872140e60705e8",
+          "titulo": "Espanha registra mais de mil mortes por calor em junho",
+          "resumo": "Em junho, a Espanha contabilizou 1.028 óbitos atribuídos ao calor, segundo o Instituto de Saúde Carlos III. O número ultrapassa em mais que o dobro o total de 407 mortes registrados no mesmo mês de 2025, que já era o mais quente da série estatística. A onda de calor atingiu grande parte da Europa.",
+          "porQueImporta": "O aumento expressivo de fatalidades destaca o impacto crescente das ondas de calor na saúde pública.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/01/espanha-diz-que-onda-de-calor-causou-mais-de-mil-mortes-em-junho-o-dobro-de-2025.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-01T10:10:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/t7_4jyKd4I9moa2b-UzVfpWBRMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/w/BMZRmIRtqIBMAQuInI6Q/20260624-2nd-heatwave.webp"
         }
       ]
     },

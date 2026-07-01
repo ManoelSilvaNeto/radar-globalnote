@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-07-01T05:08:17.641Z",
+  "ranAt": "2026-07-01T11:39:21.344Z",
   "editionDate": "2026-07-01",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 11,
+  "outcome": "generated",
+  "reason": "\"Desastres e acidentes dominam o cenário global, com foco em terremotos na Venezuela e múltiplos incidentes de trânsito\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
