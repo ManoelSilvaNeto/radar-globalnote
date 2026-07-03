@@ -1,27 +1,52 @@
 {
   "date": "2026-07-03",
-  "generatedAt": "2026-07-03T14:53:40.718Z",
+  "generatedAt": "2026-07-03T17:58:57.955Z",
   "home": [
     {
-      "clusterId": "3ca515411d747788",
-      "slug": "b70a16b51a018ebb",
-      "titulo": "Terremoto duplo atinge La Guaira e deixa hospitais improvisados",
-      "resumo": "Na madrugada de 24 de junho, dois terremotos de forte magnitude atingiram a região de La Guaira, na Venezuela, provocando o colapso de edifícios e milhares de desabrigados. Um restaurante da rede McDonald’s foi convertido em centro médico improvisado, atendendo casos que vão de cesarianas a fraturas e hipertensão. Autoridades de saúde alertam para o risco de uma crise médica crescente, com ferimentos não tratados e aumento de doenças infecciosas. Vídeos de desabamentos circulam nas redes, mas parte deles foi identificada como simulação de videogame.",
-      "porQueImporta": "A situação evidencia vulnerabilidades de infraestrutura e risco de colapso do sistema de saúde em emergências sísmicas",
+      "clusterId": "3bb432b61c29cd74",
+      "slug": "17fab7be0db092e0",
+      "titulo": "Piloto e pesquisadora alemã morrem em queda de avião em Campo Grande",
+      "resumo": "Um avião caiu nas proximidades do Aeródromo Santa Maria, na região da saída para Três Lagoas, na manhã de sexta‑feira. As vítimas foram o piloto Henrique Martin e a pesquisadora alemã Lydia Theresia Möcklinghoff. O acidente será investigado pelo Cenipa e pela Polícia Civil de Mato Grosso do Sul.",
+      "porQueImporta": "A morte de profissionais reconhecidos afeta a comunidade científica e a aviação regional",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/03/pesquisadora-alema-especialista-em-tamanduas-morre-em-acidente-aereo-em-campo-grande.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/piloto-e-pesquisadora-alema-morrem-em-queda-de-aviao-em-campo-grande/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/ms/piloto-e-pesquisadora-alema-morrem-em-queda-de-aviao-em-campo-grande-ms/"
+        }
+      ],
+      "updatedAt": "2026-07-03T17:55:07.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ThgKHIktPlpOMTQaRlwNP5iEw5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/k/0SulSiQHWNbWqCDsuzAw/lydia-pesquisadora.jpg"
+    },
+    {
+      "clusterId": "82c376ff7cc3228e",
+      "slug": "5173e9b61f580f47",
+      "titulo": "Duplo terremoto deixa mortos, feridos e migrantes deportados sob escombros na Venezuela",
+      "resumo": "No dia 24 de junho, dois terremotos quase simultâneos atingiram a Venezuela, causando milhares de feridos e dezenas de mortos. O voo 164, que trouxe de volta 146 migrantes venezuelanos deportados pelos EUA, chegou pouco antes dos sismos e os passageiros ficaram presos sob os escombros. Organizações humanitárias intensificam o apoio psicológico a crianças deslocadas, enquanto autoridades buscam desaparecidos e registram vítimas, entre elas o jogador José Manuel Pimentel Berrios e sua mãe.",
+      "porQueImporta": "O desastre evidencia a vulnerabilidade de populações deslocadas e a necessidade de resposta emergencial coordenada.",
       "categoria": "Terremoto",
       "categoriaSlug": "terremoto",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/07/01/e-fake-que-video-de-predios-desabando-e-colidindo-mostre-terremoto-na-venezuela-cena-exibe-simulacao-de-videogame.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/01/procurar-pela-mae-por-chat-e-chorar-os-mortos-por-streaming-como-venezuelanos-no-exterior-enfrentam-a-tragedia-dos-terremotos.ghtml"
         },
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-por-terremotos-na-venezuela-sobe-para-2-595/"
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c5yzv2n1jp3o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-07-03T14:30:19.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/S8PLcljykdGgFQ0klo2DEgKC5zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/w/g4avITR9m1tBVD7qtirw/captura-de-tela-2026-07-01-151227.png"
+      "updatedAt": "2026-07-03T15:36:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ydDKx1hL1NnLaC3FQ-sVvXdAzbw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/1/o9B78wTBuvUvAe9A6cGg/afp-20260630-b8ud34n-v1-highres-venezuelaearthquakeaftermath.jpg"
     },
     {
       "clusterId": "189f656760231ccd",
@@ -45,328 +70,197 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b55a/live/3ff79150-764b-11f1-83d0-9b0728fe8be0.png"
     },
     {
-      "clusterId": "121b146562cbcccf",
-      "slug": "4d6d4553f9f58a06",
-      "titulo": "Voo 164 chega à Venezuela com deportados dos EUA e hotel desaba após terremotos",
-      "resumo": "O programa Missão Volta à Pátria informou que o voo 164 trouxe 120 homens, 19 mulheres, 5 meninos e 2 meninas para a Venezuela. Poucas horas depois, um duplo terremoto derrubou o hotel onde os recém‑chegados foram recebidos. As vítimas ficaram sob os escombros. A situação ainda está sendo avaliada pelas autoridades locais.",
-      "porQueImporta": "A ocorrência evidencia a vulnerabilidade de pessoas recém‑chegadas a desastres naturais simultâneos",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c5yzv2n1jp3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/03/deportados-desaparecidos-o-que-se-sabe-sobre-o-hotel-que-desabou-com-mais-de-100-venezuelanos-que-haviam-sido-expulsos-dos-eua.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-03T06:00:35.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbb3/live/9fa359e0-7650-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "clusterId": "e106d730b3ed304d",
-      "slug": "f600ec9226d79499",
-      "titulo": "Terremoto causa morte de quase todos os chefes de governo de La Guaira",
-      "resumo": "Um terremoto atingiu a região de La Guaira, na Venezuela, resultando na morte de quase todos os diretores da governadoria, funcionários de segurança e da prefeitura. A presidente interina Delcy Rodríguez informou a perda de funcionários em coletiva de imprensa. O evento causou grande impacto na administração local.",
-      "porQueImporta": "O desastre compromete a governança e serviços públicos da região.",
-      "categoria": "Desastre",
-      "categoriaSlug": "desastre",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/03/quase-todos-os-chefes-de-governo-de-la-guaira-morreram-no-terremoto-diz-presidente-da-venezuela.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-03T14:19:05.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/_xSNyth1MNP_dR4DTTt0CGzi12U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/uLZlEfRqGqJRVEx1i4Jw/ap26180709899365.jpg"
-    },
-    {
-      "clusterId": "02cdd72faee5b5a7",
-      "slug": "239cce8b266ac19e",
-      "titulo": "Acidente entre caminhão e carro deixa uma pessoa morta e feridos na Via Dutra, em Barra Mansa",
-      "resumo": "Uma pessoa morreu e outras ficaram feridas em um acidente envolvendo um carro e um caminhão na Via Dutra (BR-116), em Barra Mansa (RJ). A batida aconteceu na altura do km 275, na pista sentido Rio de Janeiro. Segundo o Corpo de Bombeiros, militares prestaram socorro aos feridos e confirmou o óbito de uma vítima ainda no local da colisão. De acordo com a Polícia Rodoviária Federal, agentes foram acionados para atuar na ocorrência e organizar o fluxo de veículos no trecho da rodovia. As causas do acidente, o impacto no trânsito e o estado de saúde das vítimas resgatadas não haviam sido…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "clusterId": "f29062929ae93268",
+      "slug": "6dfcfcacebdf309e",
+      "titulo": "Israel envia ajuda à Venezuela apesar de rompimento diplomático",
+      "resumo": "Israel enviou um grupo para a Venezuela com a missão de apoiar a reconstrução e avaliar os edifícios afetados pelos terremotos. A iniciativa ocorre apesar do rompimento das relações diplomáticas entre os dois países. O grupo israelense atuará nas áreas mais atingidas pelos sismos. A ação foi anunciada recentemente.",
+      "porQueImporta": "A cooperação humanitária ocorre mesmo em contexto de tensões políticas entre as nações",
       "categoria": "Geral",
       "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/03/acidente-caminhao-e-carro-deixa-uma-pessoa-morta-e-feridos-na-via-dutra-em-barra-mansa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-03T14:16:22.000Z"
-    },
-    {
-      "clusterId": "82b80c7981f9ad1f",
-      "slug": "057260e78967a70d",
-      "titulo": "Dois mortos em queda de avião em Mato Grosso do Sul",
-      "resumo": "Um avião caiu em uma área de mata próxima a um aeroporto em Mato Grosso do Sul. O acidente resultou em duas mortes. As autoridades ainda investigam o motivo da queda. O incidente foi reportado por fontes locais.",
-      "porQueImporta": "A ocorrência evidencia riscos de acidentes aéreos e demanda investigação para prevenir novas fatalidades.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/dois-morrem-em-queda-de-aviao-em-mato-grosso-do-sul"
+          "url": "https://www.metropoles.com/mundo/israel-envia-ajuda-a-venezuela-apesar-de-rompimento-diplomatico"
         }
       ],
-      "updatedAt": "2026-07-03T14:15:56.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/aviao-sofre-queda-em-ms.jpg"
+      "updatedAt": "2026-07-03T17:53:14.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/registro-de-destruicao-apos-terremoto-na-venezuela-metropoles-1-scaled-e1782589027115.jpg"
     },
     {
-      "clusterId": "7d72c8cd2cfc7770",
-      "slug": "e4bfc5849bee308e",
-      "titulo": "Três mortos em acidente envolvendo caminhonete e motocicleta na PA-279",
-      "resumo": "Na quinta-feira, um acidente na rodovia PA-279, entre Xinguara e Água Azul do Norte, resultou na colisão de uma caminhonete com uma motocicleta. As três vítimas fatais eram um casal e o filho, identificados como Rosângela Galvão, Massilanio Melo Rodrigues e João Pedro. Todos morreram no local da colisão, que ocorreu próximo ao quilômetro dois da rodovia.",
-      "porQueImporta": "O acidente evidencia riscos de tráfego em áreas rurais do Pará e a necessidade de medidas de segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "7c6a4ae3985bd015",
+      "slug": "c6c0107a06fc7024",
+      "titulo": "Mapa de satélite mostra extensão da destruição em La Guaira após terremotos na Venezuela",
+      "resumo": "Um mapa de satélite divulgado pela NASA indica áreas severamente afetadas em La Guaira, a região mais atingida pelos terremotos na Venezuela. A avaliação rápida aponta que estruturas com pelo menos 80% de probabilidade de dano ou destruição estão concentradas na zona. As imagens revelam a magnitude da devastação e ajudam a orientar as ações de socorro.",
+      "porQueImporta": "A visualização facilita o planejamento de ajuda humanitária e a reconstrução nas áreas mais críticas",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
       "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/para/noticia/2026/07/03/acidente-mata-tres-pessoas-da-mesma-familia-na-pa-279-entre-xinguara-e-agua-azul-do-norte.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-03T14:08:07.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/o_x7LnxMm_t4JCPFli-ok9RgB74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/4/hzwtAZQQWNUcyvf6SlBg/geral-g1-2026-07-03t110115.239.png"
-    },
-    {
-      "clusterId": "1993cb7657aed40b",
-      "slug": "86791153fd90508a",
-      "titulo": "Idoso morre após muro desabar em Caraguatatuba",
-      "resumo": "Um homem de 67 anos foi atingido por um muro que desabou sobre ele na manhã de quinta-feira, na rua Grigore Tripac, bairro Jardim Califórnia, em Caraguatatuba (SP). Ele ficou preso sob os escombros e sofreu parada cardiorrespiratória, sendo reanimado no local. Apesar dos socorros, o idoso faleceu horas depois no hospital. A vítima foi identificada como Wilson Ribeiro do Rego.",
-      "porQueImporta": "O caso evidencia riscos de estruturas deterioradas em áreas residenciais e a necessidade de inspeções preventivas.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/03/morre-idoso-que-ficou-ferido-apos-muro-desabar-sobre-ele-em-caraguatatuba.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-03T14:02:58.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/_-qUCWGHSveol3-h-i45WXlseAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/ap4NuPRIWYV8gal7XBlw/texto-do-seu-paragrafo-2026-07-02t123218.169.png"
-    },
-    {
-      "clusterId": "40e48a247d7ebc2a",
-      "slug": "4954ebaef9106791",
-      "titulo": "Venezuela militariza zona de desastre e resgata vítima soterrada",
-      "resumo": "O governo venezuelano decretou a militarização da região de La Guaira, onde ocorreram os terremotos de 24 de junho, restringindo a atuação de organizações humanitárias e intimidando jornalistas. Na mesma área, socorristas resgataram um homem soterrado há oito dias sob os escombros de um shopping. O resgate foi realizado após cerca de 150 horas de busca. As autoridades anunciaram luto de sete dias em todo o país.",
-      "porQueImporta": "A medida evidencia a dificuldade de resposta humanitária e a gravidade das consequências dos terremotos na Venezuela",
-      "categoria": "Desastre",
-      "categoriaSlug": "desastre",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/02/equipes-resgate-tentam-resgate-dramatico-escombros-shopping-terremotos-venezuela.ghtml"
-        },
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/ckg7ed8y3x6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/portuguese/articles/cg4w06969zgo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-07-02T18:24:29.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ISGA6VQylJB7Isl9oXXLSdAu-B4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/r/061rvqTzKArmIGRhzkMA/afp-20260702-b92r82x-v1-midres-venezuelaearthquakeaftermath.jpg"
+      "updatedAt": "2026-07-03T17:30:39.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e3b9/live/ec1a9eb0-755a-11f1-a627-714adb4eed6e.jpg"
     },
     {
-      "clusterId": "0d98a0abd253ed0f",
-      "slug": "90c83446603b1ab4",
-      "titulo": "Duas pessoas morrem em acidente na BR-262 em Iúna, ES",
-      "resumo": "Na tarde de quinta-feira, um carro que tentava fazer retorno sem aguardar no acostamento colidiu com outro veículo na BR-262, em Iúna, Sul do Espírito Santo. As vítimas foram o motorista, de 58 anos, e um passageiro, de 62, que estavam no veículo que realizava a manobra. O condutor do outro automóvel não ficou ferido. A Polícia Rodoviária Federal registrou o acidente.",
-      "porQueImporta": "O acidente resultou em duas mortes e evidencia riscos de manobras inadequadas em rodovias.",
+      "clusterId": "031bcac04e76aa36",
+      "slug": "0a462e4ebc27084c",
+      "titulo": "Homem morre afogado enquanto pescava com irmão em Campina Grande",
+      "resumo": "Um homem de 51 anos morreu afogado em um açude no bairro Jardim Continental, em Campina Grande, na tarde de quinta-feira. Ele estava pescando com o irmão e se enroscou na rede de pesca por volta das 14h15. O Corpo de Bombeiros realizou o resgate e tentou reanimar a vítima, sem sucesso.",
+      "porQueImporta": "O incidente evidencia riscos de acidentes em áreas de pesca e a necessidade de atenção ao uso de redes em corpos d'água",
+      "categoria": "Afogamento",
+      "categoriaSlug": "afogamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/03/homem-morre-afogado-enquanto-pescava-com-irmao-no-agreste-da-pb.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-03T16:26:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0Fi6VaQ01gBMf1X3ynGmU7JIEHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/s/sBc7PRSqiya407ENUy9Q/afogamento-lagoa-seca-.jpeg"
+    },
+    {
+      "clusterId": "1352dd66d045d2b9",
+      "slug": "8ec5c0b41762d73a",
+      "titulo": "Caminhão desce ribanceira em Taquaruçu e motorista fica ferido",
+      "resumo": "Na sexta-feira, um caminhão desceu descontrolado a serra da TO-030, no distrito de Taquaruçu, na curva da Cachoeira da Roncadeira. O motorista sofreu ferimentos e foi socorrido. O acidente ocorreu no mesmo local onde, na segunda-feira anterior, outro caminhão caiu e resultou na morte de um trabalhador.",
+      "porQueImporta": "O incidente evidencia risco de deslizamento de veículos em trechos íngremes da rodovia, demandando medidas de segurança.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/07/03/duas-pessoas-morrem-apos-carro-fazer-retorno-sem-aguardar-acostamento-e-causar-acidente-na-br-262-no-es.ghtml"
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/03/caminhao-desse-ribanceira-de-serra-em-taquarucu-video.ghtml"
         }
       ],
-      "updatedAt": "2026-07-03T13:19:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/B--Y_oRLEFSXngI0X4AAiMe8cjg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/XXMdsBRWK9X0bO3RxABw/thumb-videos-g1-15-.jpg"
+      "updatedAt": "2026-07-03T16:24:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GcmK25fCgRvQSQYIH77kZ3QL9A4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/A/XVH0T6QECGo1TUVBLEGA/foto-e-montagem-vertical-14-.png"
+    },
+    {
+      "clusterId": "b9f4b861893d58d1",
+      "slug": "f1deb1730185494f",
+      "titulo": "Motociclista fica ferido após colisão com caminhão na Rodovia Raposo Tavares",
+      "resumo": "Na sexta-feira, um motociclista colidiu com a traseira de um caminhão na Rodovia Raposo Tavares, km 51, sentido capital, em São Roque (SP). O motociclista sofreu ferimentos graves e foi socorrido na pista, sendo transportado ao Hospital Regional de Cotia. O caminhoneiro teve lesões leves. O acidente provocou interdição parcial da via.",
+      "porQueImporta": "O acidente interrompeu parte da rodovia, afetando o tráfego e demandando serviços de emergência",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/03/motociclista-fica-ferido-apos-bater-na-traseira-de-caminhao-na-raposo-tavares.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-03T16:23:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/JZttNONKNCSiM8UTQytUZjsLc_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/K/x2WOZGQcCbkUAgeQY7oQ/moto1.jpg"
+    },
+    {
+      "clusterId": "7980ba11a977c48b",
+      "slug": "5dfc41f95added86",
+      "titulo": "Vídeo mostra criança de nove anos caindo durante salto de rope jump na Ponte do Esqueleto",
+      "resumo": "Um vídeo gravado por Luis Gustavo de Oliveira registra uma criança de nove anos caindo ao chão enquanto realizava um salto de rope jump na Ponte do Esqueleto, entre Limeira (SP) e Cordeirópolis (SP). O incidente ocorreu três meses antes da morte de Maria Eduarda, de 21 anos, que havia sido lançada sem cordas pelo mesmo grupo. As imagens foram encaminhadas à Polícia Civil, que investiga o caso. O grupo envolvido é identificado como \"Entre Cordas\".",
+      "porQueImporta": "O registro evidencia riscos de práticas de salto sem equipamentos adequados e pode auxiliar nas investigações sobre a morte subsequente.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/03/video-mostra-crianca-no-chao-apos-salto-de-rope-jump-meses-antes-de-jovem-morrer-em-limeira.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-03T16:23:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EqUUviFIoww69gPnGtZO_WZWDvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/x/jddPZySDilYjJEeOPkqQ/idosos.jpg"
+    },
+    {
+      "clusterId": "2be00a988cd7d2cd",
+      "slug": "da60b07584c27fe9",
+      "titulo": "Motociclista morre em acidente na Avenida Washington Luís próximo ao Aeroporto de Congonhas",
+      "resumo": "Um motociclista morreu após colidir na Avenida Washington Luís, no sentido da Zona Norte, pouco antes do Aeroporto de Congonhas, na tarde de quinta-feira. A ocorrência envolveu, além da motocicleta, ao menos um carro e um ônibus que permaneceram parados no local durante o atendimento. As circunstâncias do acidente ainda não foram esclarecidas. Equipes de emergência foram acionadas para o socorro.",
+      "porQueImporta": "O fato destaca riscos de tráfego em vias próximas a áreas de grande movimentação como o aeroporto de Congonhas",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/03/motociclista-morre-em-grave-acidente-proximo-ao-aeroporto-de-congonhas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-03T16:23:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/nrEG7dWcWtdYUG5wySg8Cd22DOY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/y3BHqYRWO3Baa2hSWgnw/acidente-morte-motociclista.png"
     }
   ],
   "categorias": [
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "02cdd72faee5b5a7",
-          "slug": "239cce8b266ac19e",
-          "titulo": "Acidente entre caminhão e carro deixa uma pessoa morta e feridos na Via Dutra, em Barra Mansa",
-          "resumo": "Uma pessoa morreu e outras ficaram feridas em um acidente envolvendo um carro e um caminhão na Via Dutra (BR-116), em Barra Mansa (RJ). A batida aconteceu na altura do km 275, na pista sentido Rio de Janeiro. Segundo o Corpo de Bombeiros, militares prestaram socorro aos feridos e confirmou o óbito de uma vítima ainda no local da colisão. De acordo com a Polícia Rodoviária Federal, agentes foram acionados para atuar na ocorrência e organizar o fluxo de veículos no trecho da rodovia. As causas do acidente, o impacto no trânsito e o estado de saúde das vítimas resgatadas não haviam sido…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/03/acidente-caminhao-e-carro-deixa-uma-pessoa-morta-e-feridos-na-via-dutra-em-barra-mansa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-03T14:16:22.000Z"
-        },
-        {
-          "clusterId": "1993cb7657aed40b",
-          "slug": "86791153fd90508a",
-          "titulo": "Idoso morre após muro desabar em Caraguatatuba",
-          "resumo": "Um homem de 67 anos foi atingido por um muro que desabou sobre ele na manhã de quinta-feira, na rua Grigore Tripac, bairro Jardim Califórnia, em Caraguatatuba (SP). Ele ficou preso sob os escombros e sofreu parada cardiorrespiratória, sendo reanimado no local. Apesar dos socorros, o idoso faleceu horas depois no hospital. A vítima foi identificada como Wilson Ribeiro do Rego.",
-          "porQueImporta": "O caso evidencia riscos de estruturas deterioradas em áreas residenciais e a necessidade de inspeções preventivas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/03/morre-idoso-que-ficou-ferido-apos-muro-desabar-sobre-ele-em-caraguatatuba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-03T14:02:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_-qUCWGHSveol3-h-i45WXlseAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/ap4NuPRIWYV8gal7XBlw/texto-do-seu-paragrafo-2026-07-02t123218.169.png"
-        },
-        {
-          "clusterId": "33f50b8f6f8d0218",
-          "slug": "896e292a771aa22e",
-          "titulo": "Nordeste tem maior risco de terremoto no Brasil",
-          "resumo": "O Nordeste apresenta o maior risco de abalos sísmicos no país, apesar de o Brasil estar situado no interior de uma placa tectônica. Essa vulnerabilidade está associada a uma particularidade da crosta terrestre que afeta boa parte dos estados da região, incluindo a presença da falha geológica de Samambaia, no Rio Grande do Norte. As fontes explicam que a espessura e a estrutura da crosta nessa área aumentam a probabilidade de terremotos em comparação com outras regiões brasileiras.",
-          "porQueImporta": "Entender a vulnerabilidade sísmica ajuda a orientar políticas de prevenção e preparação em áreas tradicionalmente consideradas de baixo risco",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c74y7dnd9l0o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-07-03T09:54:30.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7fc7/live/4a7d8e50-7636-11f1-84bb-4fedc7024897.jpg"
-        },
-        {
-          "clusterId": "534a4e3490e52df9",
-          "slug": "5cb0ab271ccd52ce",
-          "titulo": "Bélgica, França e Holanda registram 3.700 mortes adicionais durante onda de calor extremo em junho",
-          "resumo": "Autoridades de Bélgica, França e Holanda informaram que cerca de 3.700 óbitos foram registrados em decorrência da onda de calor que atingiu a Europa entre 20 e 28 de junho. Os números ainda são preliminares e podem ser revisados. O evento provocou sobrecarga nos sistemas de saúde, interrupções na geração de energia e danos à infraestrutura. Especialistas apontam que o calor extremo foi quase certamente intensificado pelas mudanças climáticas.",
-          "porQueImporta": "A alta mortalidade evidencia o risco crescente de eventos climáticos extremos para a saúde pública",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/03/franca-belgica-holanda-registram-37-mil-mortes-a-mais-onda-de-calor-historica.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-03T09:00:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TJHGjdudhxs2adqDdqoIAcQNHwU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/T/x2rrKdTDmN0MQBX75YtQ/2026-06-23t131037z-925289991-rc2gwla6uuwa-rtrmadp-3-europe-weather-companies.jpg"
-        },
-        {
-          "clusterId": "d30b41e8311818d2",
-          "slug": "2d07d19474e33c61",
-          "titulo": "OMS declara fim do surto de hantavírus no cruzeiro MV Hondius",
-          "resumo": "A Organização Mundial da Saúde anunciou que o surto de hantavírus associado ao cruzeiro MV Hondius chegou ao fim, após a última pessoa ser liberada da quarentena. Foram registrados treze casos ligados ao navio, dos quais três resultaram em óbito. O diretor da OMS, Tedros Adhanom Ghebreyess, afirmou estar satisfeito com o encerramento do incidente. A declaração foi feita em coletiva de imprensa na quinta‑feira (2).",
-          "porQueImporta": "A conclusão do surto demonstra a eficácia das medidas de contenção de doenças em ambientes de transporte marítimo",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/saude/noticia/2026/07/02/oms-declara-fim-do-surto-de-hantavirus-vinculado-ao-cruzeiro-que-partiu-da-argentina.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-02T15:11:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/u5arQmifiFgmUCLRFMouinpxMOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/J/mlxAMNQNA2iFSuLsTVGQ/afp-20260504-a9r86e6-v1-highres-capeverdehealthtourism.jpg"
-        },
-        {
-          "clusterId": "fcdf9c99339656bf",
-          "slug": "c7ea590ae4811a41",
-          "titulo": "Venezuela impõe cerco militar em zona de desastre e intimida voluntários e jornalistas",
-          "resumo": "Uma semana após os terremotos que atingiram a Venezuela, o presidente interino decretou luto de sete dias e ordenou a militarização da região de La Guaira. As forças de segurança foram posicionadas de forma ostensiva nas áreas mais afetadas, dificultando a atuação de organizações humanitárias e gerando intimidação a voluntários e jornalistas. A medida evidencia dificuldades do governo em lidar com as consequências do duplo terremoto.",
-          "porQueImporta": "A militarização pode impedir a entrega de ajuda humanitária às populações afetadas",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/07/02/com-cerco-militar-regime-venezuelano-dificulta-acao-ongs-jornalistas-terremotos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-02T15:00:59.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JRd1OzhEv7LPHnB4_abUucrf9cQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/E/QNzqawSxuZXyk3vjE9nw/afp-20260701-b8v32wa-v1-highres-venezuelaearthquakeaftermath.jpg"
-        },
-        {
-          "clusterId": "2f66902d80b4d038",
-          "slug": "88f7f880f5d2e611",
-          "titulo": "Equipe brasileira realiza busca por sobreviventes em prédio desabado em La Guaira, Venezuela",
-          "resumo": "Agentes da Defesa Civil de São Paulo e do Corpo de Bombeiros chegaram à Venezuela para operar busca e resgate em La Guaira após cães farejadores indicarem possível presença de pessoas sob os escombros de um edifício que desabou no terremoto de 24 de junho. As equipes trabalham ininterruptamente desde a quarta‑feira, enquanto o governo venezuelano registra mais de 2 mil mortos e milhares de feridos no desastre.",
-          "porQueImporta": "A ação demonstra cooperação internacional em resposta a um grande desastre sísmico que deixou milhares de vítimas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/02/equipe-brasileira-passa-madrugada-em-busca-por-possivel-sobrevivente-em-predio-que-desabou-na-venezuela-diz-defesa-civil-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-02T12:21:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/U7ns5snzebhkUeR0DECj_2F9grs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/e/cV5vshQQ2FAKnHyzzoRQ/ap26182201792219.jpg"
-        }
-      ]
-    },
     {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "7d72c8cd2cfc7770",
-          "slug": "e4bfc5849bee308e",
-          "titulo": "Três mortos em acidente envolvendo caminhonete e motocicleta na PA-279",
-          "resumo": "Na quinta-feira, um acidente na rodovia PA-279, entre Xinguara e Água Azul do Norte, resultou na colisão de uma caminhonete com uma motocicleta. As três vítimas fatais eram um casal e o filho, identificados como Rosângela Galvão, Massilanio Melo Rodrigues e João Pedro. Todos morreram no local da colisão, que ocorreu próximo ao quilômetro dois da rodovia.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego em áreas rurais do Pará e a necessidade de medidas de segurança viária.",
+          "clusterId": "1352dd66d045d2b9",
+          "slug": "8ec5c0b41762d73a",
+          "titulo": "Caminhão desce ribanceira em Taquaruçu e motorista fica ferido",
+          "resumo": "Na sexta-feira, um caminhão desceu descontrolado a serra da TO-030, no distrito de Taquaruçu, na curva da Cachoeira da Roncadeira. O motorista sofreu ferimentos e foi socorrido. O acidente ocorreu no mesmo local onde, na segunda-feira anterior, outro caminhão caiu e resultou na morte de um trabalhador.",
+          "porQueImporta": "O incidente evidencia risco de deslizamento de veículos em trechos íngremes da rodovia, demandando medidas de segurança.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/07/03/acidente-mata-tres-pessoas-da-mesma-familia-na-pa-279-entre-xinguara-e-agua-azul-do-norte.ghtml"
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/03/caminhao-desse-ribanceira-de-serra-em-taquarucu-video.ghtml"
             }
           ],
-          "updatedAt": "2026-07-03T14:08:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/o_x7LnxMm_t4JCPFli-ok9RgB74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/4/hzwtAZQQWNUcyvf6SlBg/geral-g1-2026-07-03t110115.239.png"
+          "updatedAt": "2026-07-03T16:24:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GcmK25fCgRvQSQYIH77kZ3QL9A4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/A/XVH0T6QECGo1TUVBLEGA/foto-e-montagem-vertical-14-.png"
         },
         {
-          "clusterId": "0d98a0abd253ed0f",
-          "slug": "90c83446603b1ab4",
-          "titulo": "Duas pessoas morrem em acidente na BR-262 em Iúna, ES",
-          "resumo": "Na tarde de quinta-feira, um carro que tentava fazer retorno sem aguardar no acostamento colidiu com outro veículo na BR-262, em Iúna, Sul do Espírito Santo. As vítimas foram o motorista, de 58 anos, e um passageiro, de 62, que estavam no veículo que realizava a manobra. O condutor do outro automóvel não ficou ferido. A Polícia Rodoviária Federal registrou o acidente.",
-          "porQueImporta": "O acidente resultou em duas mortes e evidencia riscos de manobras inadequadas em rodovias.",
+          "clusterId": "b9f4b861893d58d1",
+          "slug": "f1deb1730185494f",
+          "titulo": "Motociclista fica ferido após colisão com caminhão na Rodovia Raposo Tavares",
+          "resumo": "Na sexta-feira, um motociclista colidiu com a traseira de um caminhão na Rodovia Raposo Tavares, km 51, sentido capital, em São Roque (SP). O motociclista sofreu ferimentos graves e foi socorrido na pista, sendo transportado ao Hospital Regional de Cotia. O caminhoneiro teve lesões leves. O acidente provocou interdição parcial da via.",
+          "porQueImporta": "O acidente interrompeu parte da rodovia, afetando o tráfego e demandando serviços de emergência",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/07/03/duas-pessoas-morrem-apos-carro-fazer-retorno-sem-aguardar-acostamento-e-causar-acidente-na-br-262-no-es.ghtml"
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/03/motociclista-fica-ferido-apos-bater-na-traseira-de-caminhao-na-raposo-tavares.ghtml"
             }
           ],
-          "updatedAt": "2026-07-03T13:19:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/B--Y_oRLEFSXngI0X4AAiMe8cjg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/XXMdsBRWK9X0bO3RxABw/thumb-videos-g1-15-.jpg"
+          "updatedAt": "2026-07-03T16:23:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JZttNONKNCSiM8UTQytUZjsLc_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/K/x2WOZGQcCbkUAgeQY7oQ/moto1.jpg"
         },
         {
-          "clusterId": "360803511aaa42a0",
-          "slug": "0c55bb5714e5a405",
-          "titulo": "Acidente entre motos deixa dois feridos graves na BR-458 em Ipatinga",
-          "resumo": "Dois motociclistas ficaram gravemente feridos na noite de quinta-feira na BR-458, em Ipatinga. O acidente ocorreu por volta das 19h40, no km 147, quando o adolescente tentou atravessar a pista pelo canteiro central e colidiu transversalmente com a moto conduzida por um homem de 50 anos. As vítimas são um homem de 50 anos e um adolescente de 17 anos. A Polícia Militar Rodoviária registrou o fato.",
-          "porQueImporta": "Acidentes com vítimas graves demandam atenção das autoridades e alertam motoristas sobre riscos nas rodovias",
+          "clusterId": "2be00a988cd7d2cd",
+          "slug": "da60b07584c27fe9",
+          "titulo": "Motociclista morre em acidente na Avenida Washington Luís próximo ao Aeroporto de Congonhas",
+          "resumo": "Um motociclista morreu após colidir na Avenida Washington Luís, no sentido da Zona Norte, pouco antes do Aeroporto de Congonhas, na tarde de quinta-feira. A ocorrência envolveu, além da motocicleta, ao menos um carro e um ônibus que permaneceram parados no local durante o atendimento. As circunstâncias do acidente ainda não foram esclarecidas. Equipes de emergência foram acionadas para o socorro.",
+          "porQueImporta": "O fato destaca riscos de tráfego em vias próximas a áreas de grande movimentação como o aeroporto de Congonhas",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/03/acidente-entre-motos-deixa-dois-feridos-graves-na-br-458-em-ipatinga.ghtml"
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/03/motociclista-morre-em-grave-acidente-proximo-ao-aeroporto-de-congonhas.ghtml"
             }
           ],
-          "updatedAt": "2026-07-03T13:17:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/LSJFKF3Rzzgdve4NitADFaIuI9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/0/ucahkcQ16QFrjSJLb0pQ/carol-70-.jpg"
+          "updatedAt": "2026-07-03T16:23:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/nrEG7dWcWtdYUG5wySg8Cd22DOY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/y3BHqYRWO3Baa2hSWgnw/acidente-morte-motociclista.png"
+        },
+        {
+          "clusterId": "fe6923fd95bc5114",
+          "slug": "8fdffc9b1e7d2f65",
+          "titulo": "Filho de Neto Araújo sofre acidente de trânsito a caminho do velório do pai",
+          "resumo": "Um filho do cantor Neto Araújo, ex-Cavaleiros do Forró e vocalista do Collo de Menina, se envolveu em acidente de trânsito nesta sexta-feira enquanto se dirigia ao velório do pai em Pendências, RN. O cantor Neto Araújo faleceu na quinta-feira anterior, aos 42 anos. Segundo o Comando da Polícia Rodoviária Estadual, o filho do cantor está bem. O acidente ocorreu no mesmo dia em que se realizava o velório do pai.",
+          "porQueImporta": "O fato destaca a ocorrência de um acidente envolvendo familiares de uma personalidade pública durante um momento de luto.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/03/filho-cantor-neto-araujo-ex-cavaleiros-forro-acidente-velorio.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-03T15:56:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jILX7ebrb399pah4RlJXjUyv88g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/T/KsBG3LR92gUM4WDGqbaw/acidente.jpg"
         },
         {
           "clusterId": "359d0c5887e35654",
@@ -422,29 +316,137 @@
       ]
     },
     {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "f29062929ae93268",
+          "slug": "6dfcfcacebdf309e",
+          "titulo": "Israel envia ajuda à Venezuela apesar de rompimento diplomático",
+          "resumo": "Israel enviou um grupo para a Venezuela com a missão de apoiar a reconstrução e avaliar os edifícios afetados pelos terremotos. A iniciativa ocorre apesar do rompimento das relações diplomáticas entre os dois países. O grupo israelense atuará nas áreas mais atingidas pelos sismos. A ação foi anunciada recentemente.",
+          "porQueImporta": "A cooperação humanitária ocorre mesmo em contexto de tensões políticas entre as nações",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/israel-envia-ajuda-a-venezuela-apesar-de-rompimento-diplomatico"
+            }
+          ],
+          "updatedAt": "2026-07-03T17:53:14.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/06/registro-de-destruicao-apos-terremoto-na-venezuela-metropoles-1-scaled-e1782589027115.jpg"
+        },
+        {
+          "clusterId": "ab40a1c605933a85",
+          "slug": "0fcecbb9f051d53a",
+          "titulo": "Trem do metrô descarrila entre as estações Eldorado e Novo Eldorado na Grande BH",
+          "resumo": "Um trem do metrô de Belo Horizonte descarrilou na manhã de sexta-feira entre as estações Eldorado e Novo Eldorado. Não houve feridos, segundo a empresa responsável, que classificou o incidente como técnico. Os passageiros foram orientados a desembarcar na estação Eldorado enquanto as equipes técnicas trabalham na solução. A circulação deve ser normalizada antes do pico da tarde.",
+          "porQueImporta": "A interrupção afeta a mobilidade de milhares de usuários do transporte público na região metropolitana.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/03/trem-descarrila-e-estacao-novo-eldorado-e-fechada-temporariamente-na-grande-bh.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-03T15:54:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WSLiOabTPPn6b6sbIY1hCpbSioM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/C/MDZTlMSPGcspInDOiGtw/chuva-distrito-paulo-camilo-1-28-.png"
+        },
+        {
+          "clusterId": "33f50b8f6f8d0218",
+          "slug": "896e292a771aa22e",
+          "titulo": "Nordeste tem maior risco de terremoto no Brasil",
+          "resumo": "O Nordeste apresenta o maior risco de abalos sísmicos no país, apesar de o Brasil estar situado no interior de uma placa tectônica. Essa vulnerabilidade está associada a uma particularidade da crosta terrestre que afeta boa parte dos estados da região, incluindo a presença da falha geológica de Samambaia, no Rio Grande do Norte. As fontes explicam que a espessura e a estrutura da crosta nessa área aumentam a probabilidade de terremotos em comparação com outras regiões brasileiras.",
+          "porQueImporta": "Entender a vulnerabilidade sísmica ajuda a orientar políticas de prevenção e preparação em áreas tradicionalmente consideradas de baixo risco",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c74y7dnd9l0o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-07-03T09:54:30.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7fc7/live/4a7d8e50-7636-11f1-84bb-4fedc7024897.jpg"
+        },
+        {
+          "clusterId": "534a4e3490e52df9",
+          "slug": "5cb0ab271ccd52ce",
+          "titulo": "Bélgica, França e Holanda registram 3.700 mortes adicionais durante onda de calor extremo em junho",
+          "resumo": "Autoridades de Bélgica, França e Holanda informaram que cerca de 3.700 óbitos foram registrados em decorrência da onda de calor que atingiu a Europa entre 20 e 28 de junho. Os números ainda são preliminares e podem ser revisados. O evento provocou sobrecarga nos sistemas de saúde, interrupções na geração de energia e danos à infraestrutura. Especialistas apontam que o calor extremo foi quase certamente intensificado pelas mudanças climáticas.",
+          "porQueImporta": "A alta mortalidade evidencia o risco crescente de eventos climáticos extremos para a saúde pública",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/03/franca-belgica-holanda-registram-37-mil-mortes-a-mais-onda-de-calor-historica.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-03T09:00:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TJHGjdudhxs2adqDdqoIAcQNHwU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/T/x2rrKdTDmN0MQBX75YtQ/2026-06-23t131037z-925289991-rc2gwla6uuwa-rtrmadp-3-europe-weather-companies.jpg"
+        },
+        {
+          "clusterId": "d30b41e8311818d2",
+          "slug": "2d07d19474e33c61",
+          "titulo": "OMS declara fim do surto de hantavírus no cruzeiro MV Hondius",
+          "resumo": "A Organização Mundial da Saúde anunciou que o surto de hantavírus associado ao cruzeiro MV Hondius chegou ao fim, após a última pessoa ser liberada da quarentena. Foram registrados treze casos ligados ao navio, dos quais três resultaram em óbito. O diretor da OMS, Tedros Adhanom Ghebreyess, afirmou estar satisfeito com o encerramento do incidente. A declaração foi feita em coletiva de imprensa na quinta‑feira (2).",
+          "porQueImporta": "A conclusão do surto demonstra a eficácia das medidas de contenção de doenças em ambientes de transporte marítimo",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/saude/noticia/2026/07/02/oms-declara-fim-do-surto-de-hantavirus-vinculado-ao-cruzeiro-que-partiu-da-argentina.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-02T15:11:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/u5arQmifiFgmUCLRFMouinpxMOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/J/mlxAMNQNA2iFSuLsTVGQ/afp-20260504-a9r86e6-v1-highres-capeverdehealthtourism.jpg"
+        },
+        {
+          "clusterId": "2f66902d80b4d038",
+          "slug": "88f7f880f5d2e611",
+          "titulo": "Equipe brasileira realiza busca por sobreviventes em prédio desabado em La Guaira, Venezuela",
+          "resumo": "Agentes da Defesa Civil de São Paulo e do Corpo de Bombeiros chegaram à Venezuela para operar busca e resgate em La Guaira após cães farejadores indicarem possível presença de pessoas sob os escombros de um edifício que desabou no terremoto de 24 de junho. As equipes trabalham ininterruptamente desde a quarta‑feira, enquanto o governo venezuelano registra mais de 2 mil mortos e milhares de feridos no desastre.",
+          "porQueImporta": "A ação demonstra cooperação internacional em resposta a um grande desastre sísmico que deixou milhares de vítimas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/02/equipe-brasileira-passa-madrugada-em-busca-por-possivel-sobrevivente-em-predio-que-desabou-na-venezuela-diz-defesa-civil-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-02T12:21:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/U7ns5snzebhkUeR0DECj_2F9grs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/e/cV5vshQQ2FAKnHyzzoRQ/ap26182201792219.jpg"
+        }
+      ]
+    },
+    {
       "slug": "terremoto",
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "3ca515411d747788",
-          "slug": "b70a16b51a018ebb",
-          "titulo": "Terremoto duplo atinge La Guaira e deixa hospitais improvisados",
-          "resumo": "Na madrugada de 24 de junho, dois terremotos de forte magnitude atingiram a região de La Guaira, na Venezuela, provocando o colapso de edifícios e milhares de desabrigados. Um restaurante da rede McDonald’s foi convertido em centro médico improvisado, atendendo casos que vão de cesarianas a fraturas e hipertensão. Autoridades de saúde alertam para o risco de uma crise médica crescente, com ferimentos não tratados e aumento de doenças infecciosas. Vídeos de desabamentos circulam nas redes, mas parte deles foi identificada como simulação de videogame.",
-          "porQueImporta": "A situação evidencia vulnerabilidades de infraestrutura e risco de colapso do sistema de saúde em emergências sísmicas",
+          "clusterId": "82c376ff7cc3228e",
+          "slug": "5173e9b61f580f47",
+          "titulo": "Duplo terremoto deixa mortos, feridos e migrantes deportados sob escombros na Venezuela",
+          "resumo": "No dia 24 de junho, dois terremotos quase simultâneos atingiram a Venezuela, causando milhares de feridos e dezenas de mortos. O voo 164, que trouxe de volta 146 migrantes venezuelanos deportados pelos EUA, chegou pouco antes dos sismos e os passageiros ficaram presos sob os escombros. Organizações humanitárias intensificam o apoio psicológico a crianças deslocadas, enquanto autoridades buscam desaparecidos e registram vítimas, entre elas o jogador José Manuel Pimentel Berrios e sua mãe.",
+          "porQueImporta": "O desastre evidencia a vulnerabilidade de populações deslocadas e a necessidade de resposta emergencial coordenada.",
           "categoria": "Terremoto",
           "categoriaSlug": "terremoto",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/07/01/e-fake-que-video-de-predios-desabando-e-colidindo-mostre-terremoto-na-venezuela-cena-exibe-simulacao-de-videogame.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/01/procurar-pela-mae-por-chat-e-chorar-os-mortos-por-streaming-como-venezuelanos-no-exterior-enfrentam-a-tragedia-dos-terremotos.ghtml"
             },
             {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-por-terremotos-na-venezuela-sobe-para-2-595/"
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c5yzv2n1jp3o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "updatedAt": "2026-07-03T14:30:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/S8PLcljykdGgFQ0klo2DEgKC5zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/w/g4avITR9m1tBVD7qtirw/captura-de-tela-2026-07-01-151227.png"
+          "updatedAt": "2026-07-03T15:36:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ydDKx1hL1NnLaC3FQ-sVvXdAzbw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/1/o9B78wTBuvUvAe9A6cGg/afp-20260630-b8ud34n-v1-highres-venezuelaearthquakeaftermath.jpg"
         },
         {
           "clusterId": "189f656760231ccd",
@@ -466,6 +468,40 @@
           ],
           "updatedAt": "2026-07-03T10:18:16.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b55a/live/3ff79150-764b-11f1-83d0-9b0728fe8be0.png"
+        },
+        {
+          "clusterId": "7c6a4ae3985bd015",
+          "slug": "c6c0107a06fc7024",
+          "titulo": "Mapa de satélite mostra extensão da destruição em La Guaira após terremotos na Venezuela",
+          "resumo": "Um mapa de satélite divulgado pela NASA indica áreas severamente afetadas em La Guaira, a região mais atingida pelos terremotos na Venezuela. A avaliação rápida aponta que estruturas com pelo menos 80% de probabilidade de dano ou destruição estão concentradas na zona. As imagens revelam a magnitude da devastação e ajudam a orientar as ações de socorro.",
+          "porQueImporta": "A visualização facilita o planejamento de ajuda humanitária e a reconstrução nas áreas mais críticas",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cg4w06969zgo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-07-03T17:30:39.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e3b9/live/ec1a9eb0-755a-11f1-a627-714adb4eed6e.jpg"
+        },
+        {
+          "clusterId": "e802a2077ec301a5",
+          "slug": "b70a16b51a018ebb",
+          "titulo": "Terremoto duplo atinge La Guaira e deixa hospitais improvisados",
+          "resumo": "Na madrugada de 24 de junho, dois terremotos de forte magnitude atingiram a região de La Guaira, na Venezuela, provocando o colapso de edifícios e milhares de desabrigados. Um restaurante da rede McDonald’s foi convertido em centro médico improvisado, atendendo casos que vão de cesarianas a fraturas e hipertensão. Autoridades de saúde alertam para o risco de uma crise médica crescente, com ferimentos não tratados e aumento de doenças infecciosas. Vídeos de desabamentos circulam nas redes, mas parte deles foi identificada como simulação de videogame.",
+          "porQueImporta": "A situação evidencia vulnerabilidades de infraestrutura e risco de colapso do sistema de saúde em emergências sísmicas",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/07/01/e-fake-que-video-de-predios-desabando-e-colidindo-mostre-terremoto-na-venezuela-cena-exibe-simulacao-de-videogame.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-03T01:46:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/S8PLcljykdGgFQ0klo2DEgKC5zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/w/g4avITR9m1tBVD7qtirw/captura-de-tela-2026-07-01-151227.png"
         },
         {
           "clusterId": "43dbc64aa44fc7f5",
@@ -508,25 +544,21 @@
           "imageUrl": "https://s2-g1.glbimg.com/_xSNyth1MNP_dR4DTTt0CGzi12U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/uLZlEfRqGqJRVEx1i4Jw/ap26180709899365.jpg"
         },
         {
-          "clusterId": "40e48a247d7ebc2a",
-          "slug": "4954ebaef9106791",
-          "titulo": "Venezuela militariza zona de desastre e resgata vítima soterrada",
-          "resumo": "O governo venezuelano decretou a militarização da região de La Guaira, onde ocorreram os terremotos de 24 de junho, restringindo a atuação de organizações humanitárias e intimidando jornalistas. Na mesma área, socorristas resgataram um homem soterrado há oito dias sob os escombros de um shopping. O resgate foi realizado após cerca de 150 horas de busca. As autoridades anunciaram luto de sete dias em todo o país.",
-          "porQueImporta": "A medida evidencia a dificuldade de resposta humanitária e a gravidade das consequências dos terremotos na Venezuela",
+          "clusterId": "b1ba4374348764a9",
+          "slug": "7d73e7cbfea013e8",
+          "titulo": "Hotel desaba em La Guaira com venezuelanos deportados dos EUA",
+          "resumo": "Cerca de 100 venezuelanos que foram deportados dos Estados Unidos desapareceram após o colapso do Hotel Santuario em La Guaira, região mais atingida pelos terremotos de 24 de junho. Eles haviam chegado ao país em um voo de Miami com 146 passageiros, incluindo mulheres e crianças, e foram encaminhados ao hotel após desembarque no principal aeroporto. O desabamento ocorreu durante os tremores que atingiram a Venezuela naquele dia.",
+          "porQueImporta": "O incidente evidencia os riscos humanitários e de segurança para pessoas em situação de deslocamento forçado durante desastres naturais",
           "categoria": "Desastre",
           "categoriaSlug": "desastre",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/02/equipes-resgate-tentam-resgate-dramatico-escombros-shopping-terremotos-venezuela.ghtml"
-            },
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/ckg7ed8y3x6o?at_medium=RSS&at_campaign=rss"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/03/deportados-desaparecidos-o-que-se-sabe-sobre-o-hotel-que-desabou-com-mais-de-100-venezuelanos-que-haviam-sido-expulsos-dos-eua.ghtml"
             }
           ],
-          "updatedAt": "2026-07-02T18:24:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ISGA6VQylJB7Isl9oXXLSdAu-B4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/r/061rvqTzKArmIGRhzkMA/afp-20260702-b92r82x-v1-midres-venezuelaearthquakeaftermath.jpg"
+          "updatedAt": "2026-07-03T06:00:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/qbhgiMkCLJpG5Lm1xV_t6nHkla0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/M/AqhuIvSQugrSZnSSK9yA/ap26181014329847.jpg"
         },
         {
           "clusterId": "7c43f01e1d7c2ae0",
@@ -544,50 +576,63 @@
           ],
           "updatedAt": "2026-07-02T22:10:52.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/8wZ1Q2YP0jxUe10rc0be3NW9khI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/u/G1vimeR1SVFmEa4Db1cg/hmpbntfwmaapavi.jpg"
+        },
+        {
+          "clusterId": "22c4d5e0ff047640",
+          "slug": "4954ebaef9106791",
+          "titulo": "Venezuela militariza zona de desastre e resgata vítima soterrada",
+          "resumo": "O governo venezuelano decretou a militarização da região de La Guaira, onde ocorreram os terremotos de 24 de junho, restringindo a atuação de organizações humanitárias e intimidando jornalistas. Na mesma área, socorristas resgataram um homem soterrado há oito dias sob os escombros de um shopping. O resgate foi realizado após cerca de 150 horas de busca. As autoridades anunciaram luto de sete dias em todo o país.",
+          "porQueImporta": "A medida evidencia a dificuldade de resposta humanitária e a gravidade das consequências dos terremotos na Venezuela",
+          "categoria": "Desastre",
+          "categoriaSlug": "desastre",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/02/equipes-resgate-tentam-resgate-dramatico-escombros-shopping-terremotos-venezuela.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-02T15:00:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ISGA6VQylJB7Isl9oXXLSdAu-B4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/r/061rvqTzKArmIGRhzkMA/afp-20260702-b92r82x-v1-midres-venezuelaearthquakeaftermath.jpg"
         }
       ]
     },
     {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
+      "slug": "acidente",
+      "label": "Acidente",
       "stories": [
         {
-          "clusterId": "121b146562cbcccf",
-          "slug": "4d6d4553f9f58a06",
-          "titulo": "Voo 164 chega à Venezuela com deportados dos EUA e hotel desaba após terremotos",
-          "resumo": "O programa Missão Volta à Pátria informou que o voo 164 trouxe 120 homens, 19 mulheres, 5 meninos e 2 meninas para a Venezuela. Poucas horas depois, um duplo terremoto derrubou o hotel onde os recém‑chegados foram recebidos. As vítimas ficaram sob os escombros. A situação ainda está sendo avaliada pelas autoridades locais.",
-          "porQueImporta": "A ocorrência evidencia a vulnerabilidade de pessoas recém‑chegadas a desastres naturais simultâneos",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
+          "clusterId": "7980ba11a977c48b",
+          "slug": "5dfc41f95added86",
+          "titulo": "Vídeo mostra criança de nove anos caindo durante salto de rope jump na Ponte do Esqueleto",
+          "resumo": "Um vídeo gravado por Luis Gustavo de Oliveira registra uma criança de nove anos caindo ao chão enquanto realizava um salto de rope jump na Ponte do Esqueleto, entre Limeira (SP) e Cordeirópolis (SP). O incidente ocorreu três meses antes da morte de Maria Eduarda, de 21 anos, que havia sido lançada sem cordas pelo mesmo grupo. As imagens foram encaminhadas à Polícia Civil, que investiga o caso. O grupo envolvido é identificado como \"Entre Cordas\".",
+          "porQueImporta": "O registro evidencia riscos de práticas de salto sem equipamentos adequados e pode auxiliar nas investigações sobre a morte subsequente.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c5yzv2n1jp3o?at_medium=RSS&at_campaign=rss"
-            },
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/03/deportados-desaparecidos-o-que-se-sabe-sobre-o-hotel-que-desabou-com-mais-de-100-venezuelanos-que-haviam-sido-expulsos-dos-eua.ghtml"
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/03/video-mostra-crianca-no-chao-apos-salto-de-rope-jump-meses-antes-de-jovem-morrer-em-limeira.ghtml"
             }
           ],
-          "updatedAt": "2026-07-03T06:00:35.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbb3/live/9fa359e0-7650-11f1-b976-0b9c15b0ccfc.jpg"
+          "updatedAt": "2026-07-03T16:23:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EqUUviFIoww69gPnGtZO_WZWDvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/x/jddPZySDilYjJEeOPkqQ/idosos.jpg"
         },
         {
-          "clusterId": "82b80c7981f9ad1f",
-          "slug": "057260e78967a70d",
-          "titulo": "Dois mortos em queda de avião em Mato Grosso do Sul",
-          "resumo": "Um avião caiu em uma área de mata próxima a um aeroporto em Mato Grosso do Sul. O acidente resultou em duas mortes. As autoridades ainda investigam o motivo da queda. O incidente foi reportado por fontes locais.",
-          "porQueImporta": "A ocorrência evidencia riscos de acidentes aéreos e demanda investigação para prevenir novas fatalidades.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
+          "clusterId": "907c5e6b6f3ef4d5",
+          "slug": "9bef5acd2efccb44",
+          "titulo": "Menina de 10 anos morre após tiro acidental com arma caseira no Acre",
+          "resumo": "Uma menina de 10 anos, identificada como Alice Souza, foi atingida por um disparo enquanto brincava com uma arma artesanal na comunidade Timbaúba, zona rural de Mâncio Lima. O acidente ocorreu na quinta‑feira, e o corpo foi encaminhado ao Instituto Médico Legal de Cruzeiro do Sul. A Polícia Civil confirmou o fato e está investigando as circunstâncias do ocorrido.",
+          "porQueImporta": "O caso evidencia riscos de armas caseiras e a necessidade de prevenção de acidentes envolvendo menores.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/dois-morrem-em-queda-de-aviao-em-mato-grosso-do-sul"
+              "name": "G1",
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/07/03/crianca-morre-com-tiro-acidental-enquanto-brincava-com-arma-artesanal-no-ac.ghtml"
             }
           ],
-          "updatedAt": "2026-07-03T14:15:56.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/07/aviao-sofre-queda-em-ms.jpg"
+          "updatedAt": "2026-07-03T16:08:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CpL3XnXMiSxFw1cSogk5tVGMRGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/1/ORcPpjRDeTJViawd5mcw/midia-de-distribuicao-g1-31-.jpg"
         }
       ]
     },
@@ -628,6 +673,83 @@
           ],
           "updatedAt": "2026-07-02T13:02:32.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/iv6nd-V974LOYOo5TgsX606-V-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/0/JK5UTyTkefACGr05RkAw/2026-07-02t132220z-548769484-mt1anadl000cfcow4-rtrmadp-3-anadolu.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "3bb432b61c29cd74",
+          "slug": "17fab7be0db092e0",
+          "titulo": "Piloto e pesquisadora alemã morrem em queda de avião em Campo Grande",
+          "resumo": "Um avião caiu nas proximidades do Aeródromo Santa Maria, na região da saída para Três Lagoas, na manhã de sexta‑feira. As vítimas foram o piloto Henrique Martin e a pesquisadora alemã Lydia Theresia Möcklinghoff. O acidente será investigado pelo Cenipa e pela Polícia Civil de Mato Grosso do Sul.",
+          "porQueImporta": "A morte de profissionais reconhecidos afeta a comunidade científica e a aviação regional",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/03/pesquisadora-alema-especialista-em-tamanduas-morre-em-acidente-aereo-em-campo-grande.ghtml"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/piloto-e-pesquisadora-alema-morrem-em-queda-de-aviao-em-campo-grande/"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/ms/piloto-e-pesquisadora-alema-morrem-em-queda-de-aviao-em-campo-grande-ms/"
+            }
+          ],
+          "updatedAt": "2026-07-03T17:55:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ThgKHIktPlpOMTQaRlwNP5iEw5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/k/0SulSiQHWNbWqCDsuzAw/lydia-pesquisadora.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "afogamento",
+      "label": "Afogamento",
+      "stories": [
+        {
+          "clusterId": "031bcac04e76aa36",
+          "slug": "0a462e4ebc27084c",
+          "titulo": "Homem morre afogado enquanto pescava com irmão em Campina Grande",
+          "resumo": "Um homem de 51 anos morreu afogado em um açude no bairro Jardim Continental, em Campina Grande, na tarde de quinta-feira. Ele estava pescando com o irmão e se enroscou na rede de pesca por volta das 14h15. O Corpo de Bombeiros realizou o resgate e tentou reanimar a vítima, sem sucesso.",
+          "porQueImporta": "O incidente evidencia riscos de acidentes em áreas de pesca e a necessidade de atenção ao uso de redes em corpos d'água",
+          "categoria": "Afogamento",
+          "categoriaSlug": "afogamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/03/homem-morre-afogado-enquanto-pescava-com-irmao-no-agreste-da-pb.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-03T16:26:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0Fi6VaQ01gBMf1X3ynGmU7JIEHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/s/sBc7PRSqiya407ENUy9Q/afogamento-lagoa-seca-.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "00e1a81071972c72",
+          "slug": "0041d35738620789",
+          "titulo": "Incêndio florestal atinge Costa Brava e gera confinamento preventivo de municípios turísticos na Catalunha",
+          "resumo": "Um incêndio começou nas proximidades de La Bisbal d’Empordà, na província de Girona, na manhã de sexta-feira, e se espalhou rapidamente devido a ventos fortes do norte. As chamas avançaram em direção a áreas habitadas e turísticas, levando as autoridades a decretar o confinamento preventivo de mais de dez municípios da zona litorânea da Catalunha. O foco da ação foi proteger a população e o fluxo turístico da região.",
+          "porQueImporta": "O evento ameaça vidas, patrimônios e a economia turística de uma área de alto fluxo de visitantes",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/03/incendio-florestal-atinge-costa-brava-e-leva-a-confinamento-de-cidades-na-espanha.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-03T15:59:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ldSjQBVxmwPjHBtlxX5kG4qUqRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/jnlTZuTSmjh9fKaB8dvw/incencio-espanha.png"
         }
       ]
     },
