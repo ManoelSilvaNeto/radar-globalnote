@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-07-04T14:10:16.787Z",
-  "editionDate": "2026-07-04",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito concentram registros enquanto incidentes aéreos e sísmicos aparecem isoladamente\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-07-05T04:42:33.444Z",
+  "editionDate": "2026-07-05",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
