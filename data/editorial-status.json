@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-07-07T11:25:30.545Z",
-  "editionDate": "2026-07-07",
-  "hourUtc": 11,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito dominam a edição enquanto eventos sísmicos e marítimos ressaltam vulnerabilidades regionais\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-07-08T03:56:09.340Z",
+  "editionDate": "2026-07-08",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
