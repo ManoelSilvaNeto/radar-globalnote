@@ -1,15 +1,15 @@
 {
-  "ranAt": "2026-07-09T18:19:16.988Z",
+  "ranAt": "2026-07-09T22:03:52.779Z",
   "editionDate": "2026-07-09",
-  "hourUtc": 18,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 22,
+  "outcome": "generated",
+  "reason": "\"Acidentes e desastres concentram-se em transporte e infraestrutura, enquanto eventos sísmicos geram alta mortalidade\" (3 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
     "groq: erro — sem cota (429)",
-    "cerebras: reprovado — entidades fora do material: ambos"
+    "cerebras: ok"
   ]
 }
