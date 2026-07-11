@@ -1,9 +1,30 @@
 {
   "date": "2026-07-11",
-  "generatedAt": "2026-07-11T17:31:55.977Z",
+  "generatedAt": "2026-07-11T21:24:50.500Z",
   "home": [
     {
-      "clusterId": "4e1278debfd5c486",
+      "clusterId": "abe4fbed7b4dda02",
+      "slug": "46f12df860e7bfca",
+      "titulo": "Tufão Bavi provoca evacuações de mais de 1,8 milhão de pessoas na China e deixa 17 mortos nas Filipinas",
+      "resumo": "O tufão Bavi avançou pelo sul do Japão, norte de Taiwan e chegou à costa leste da China, onde autoridades retiraram mais de 1,8 milhão de moradores de áreas de risco. Nas Filipinas, as fortes chuvas associadas ao ciclone causaram deslizamentos e enchentes que resultaram em 17 mortes, com nove pessoas ainda desaparecidas. A tempestade ainda traz risco de chuvas intensas e enchentes na região chinesa.",
+      "porQueImporta": "A magnitude das evacuações e o número de vítimas evidenciam o potencial destrutivo do ciclone na Ásia Oriental.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/10/tufao-bavi-provoca-mortes-filipinas-e-deixa-taiwan-em-alerta.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/tufao-bavi-chega-a-china-e-18-mi-de-pessoas-deixam-areas-de-risco/"
+        }
+      ],
+      "updatedAt": "2026-07-11T21:20:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/sLBYbAq8MyM8IXwFL8nyYqHjC9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/B/PyFbyDSyydus8WLqQZGg/afp-20260710-b9u38nh-v3-highres-topshottaiwanweathertyphoon-1-.jpg"
+    },
+    {
+      "clusterId": "c366e4a7620b16a7",
       "slug": "4f30515ad2371c5f",
       "titulo": "Mortes ultrapassam 4 mil após terremoto duplo de magnitude 7,2 e 7,5 na Venezuela",
       "resumo": "Um duplo terremoto de magnitudes 7,2 e 7,5 ocorreu na Venezuela em 24 de junho, causando milhares de vítimas. O governo informou que o número de mortos chegou a 4.118, enquanto o número de feridos ficou em 16.740 e 17.907 pessoas permanecem desabrigadas. Uma fonte anterior reportou 3.889 mortos, indicando atualização dos dados. As autoridades continuam as buscas por vítimas entre os escombros.",
@@ -16,162 +37,150 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/07/09/sobe-para-3889-numero-de-mortos-por-terremotos-na-venezuela.ghtml"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-4-333-o-numero-de-mortos-nos-terremotos-na-venezuela/"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-em-terremoto-na-venezuela-sobe-para-4-118/"
         }
       ],
-      "updatedAt": "2026-07-11T17:09:40.000Z",
+      "updatedAt": "2026-07-11T20:51:31.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/6D90aYj_UolQRLvFBGGTjjN1PeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/s/e28GCtSt69xfbAiSYPYg/terremoto.jpg"
     },
     {
-      "clusterId": "09e5058b9e09ab60",
-      "slug": "bbc6fe1168a494a1",
-      "titulo": "Temporal com granizo deixa mais de 400 desalojados na Grande Porto Alegre",
-      "resumo": "Chuva acompanhada de granizo na madrugada de sábado causou danos em telhados, derrubou árvores e provocou falta de energia em diversos bairros da Grande Porto Alegre. Mais de 400 pessoas ficaram desalojadas e foram encaminhadas a abrigos temporários. As autoridades locais iniciaram as ações de socorro e avaliação dos prejuízos.",
-      "porQueImporta": "A ocorrência evidencia a vulnerabilidade da região a eventos climáticos severos e a necessidade de respostas emergenciais rápidas.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "c69bd727747bfaf7",
+      "slug": "d901c7a6ea31495a",
+      "titulo": "Barco com turistas indianos afunda próximo à ilha de Phu Quoc, Vietnã",
+      "resumo": "Um barco que transportava turistas indianos naufragou a menos de 500 metros da costa da ilha de Phu Quoc, no sul do Vietnã. O acidente deixou 15 mortos e 21 sobreviventes, entre turistas e tripulantes. As autoridades locais registraram que a embarcação partiu da ilha de Hon May Rut Ngoai antes de virar e afundar.",
+      "porQueImporta": "O incidente evidencia riscos de transporte marítimo em áreas turísticas e envolve vítimas estrangeiras, gerando atenção internacional.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
       "sources": [
         {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/11/barco-com-turistas-indianos-afunda-no-vietna-e-deixa-15-mortos.ghtml"
+        },
+        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/temporal-com-granizo-deixa-mais-de-400-desalojados-na-grande-porto-alegre/"
+          "url": "https://www.cnnbrasil.com.br/internacional/barco-afunda-no-vietna-matando-turistas-indianos/"
         }
       ],
-      "updatedAt": "2026-07-11T17:23:53.000Z"
+      "updatedAt": "2026-07-11T17:56:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DNpnQjYhfbB4Z1eVw_qblYwvCK4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/AWeypFSIu0NSlP8OeaGA/afp-20260711-b9wm9ke-v1-highres-vietnamaccident.jpg"
     },
     {
-      "clusterId": "e9f104a264147d2b",
-      "slug": "51e4d82b4ec89259",
-      "titulo": "Chef imigrante mobiliza apoio a vítimas de terremotos na Venezuela",
-      "resumo": "Eduardo García, que começou como lavador de pratos e se tornou chef renomado, usa sua experiência como imigrante para incentivar a ajuda humanitária. Ele organizou campanhas de arrecadação de alimentos e recursos para as pessoas afetadas pelos recentes terremotos na Venezuela. A iniciativa busca envolver a comunidade gastronômica e o público em geral na resposta ao desastre.",
-      "porQueImporta": "A ação demonstra como indivíduos podem canalizar suas vivências para apoiar vítimas de desastres naturais",
+      "clusterId": "6058455b31844627",
+      "slug": "bba0fb630b3e7045",
+      "titulo": "Homem de 31 anos morre afogado na Praia da Lua, em Manaus",
+      "resumo": "Um homem de 31 anos identificado como Ruan Silveira entrou no Rio Negro para tomar banho enquanto estava em uma lancha na Praia da Lua. Durante o banho, ele se afogou. O Corpo de Bombeiros Militar do Amazonas foi acionado, recuperou o corpo e o encaminhou ao Instituto Médico Legal. Policiais militares e civis também atenderam a ocorrência.",
+      "porQueImporta": "O caso evidencia riscos de segurança ao entrar em águas fluviais sem supervisão adequada.",
+      "categoria": "Afogamento",
+      "categoriaSlug": "afogamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/11/homem-morre-afogado-na-praia-da-lua-em-manaus.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-11T21:05:52.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EisQe57nELh6PEWZqBKpSuiGmps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/s/MQ9GH1SryDagx2hd1Hiw/ruan-silveira-morreu-afogado-na-praia-da-lua-em-manaus.jpg"
+    },
+    {
+      "clusterId": "3bb22b7af42e80c0",
+      "slug": "af79d35f0c8f8c95",
+      "titulo": "Adolescente que teve 80% do corpo queimado em explosão com álcool tem perna amputada no AC",
+      "resumo": "Adolescente de 16 anos teve cerca de 80% do corpo queimado após uma explosão provocada por álcool durante uma confraternização, em Rio Branco Reprodução A adolescente de 16 anos que teve cerca de 80% do corpo queimado após uma explosão provocada por álcool durante uma confraternização precisou amputar a perna esquerda devido à gravidade das lesões. O acidente ocorreu no dia 27 de junho, na Rua 25 de Fevereiro, no bairro Boa União, na Baixada da Sobral, em Rio Branco. Conforme apurado pelo g1, o membro inferior da jovem apresentou necrose, trombose e o pé esquerdo apresentou sinais de…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/experiencia-como-imigrante-motiva-chef-a-ajudar-venezuela/"
+          "name": "G1",
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/07/11/adolescente-que-teve-80percent-do-corpo-queimado-em-explosao-com-alcool-tem-perna-amputada-no-ac.ghtml"
         }
       ],
-      "updatedAt": "2026-07-11T17:00:57.000Z"
+      "updatedAt": "2026-07-11T20:40:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ZkUXaynXI07E16tWE2Db6b9tqiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Q/pshfMhQSiGZxxVmcwVzg/midia-de-distribuicao-g1-2026-06-29t091716.802.png"
     },
     {
-      "clusterId": "4a89414065fd28b7",
-      "slug": "38bc59658a3eead1",
-      "titulo": "Motorista tenta ultrapassagem causa acidente com morte na RJ-106 em Saquarema",
-      "resumo": "Na noite de sexta‑feira, três veículos colidiram na Rodovia Amaral Peixoto, km 74, em Saquarema. Segundo os bombeiros, o motorista de um dos carros estava alcoolizado e tentou ultrapassar, provocando a colisão. Um dos veículos ficou preso entre os outros dois, e Maick da Silva Rosa, 29 anos, ficou preso às ferragens, falecendo no local. As autoridades registraram a ocorrência e iniciaram as investigações.",
-      "porQueImporta": "O acidente evidencia riscos de condução sob efeito de álcool e a necessidade de fiscalização nas rodovias.",
+      "clusterId": "27d4b507cf31d07b",
+      "slug": "db536fc7aa1d3d9b",
+      "titulo": "Porsche colide com árvore e incêndio deixa duas vítimas fatais em rodovia de SP",
+      "resumo": "Um Porsche colidiu com uma árvore na rodovia entre Campinas e Valinhos, interior de São Paulo, provocando incêndio no veículo. O fogo consumiu o carro, resultando na morte de duas pessoas que estavam a bordo. As autoridades foram acionadas e o local foi isolado para as investigações. Não há informações adicionais sobre as vítimas ou causas da colisão.",
+      "porQueImporta": "O acidente evidencia riscos de colisões graves e incêndios em vias públicas, demandando atenção à segurança viária.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/11/motorista-tenta-ultrapassagem-e-causa-acidente-com-morte-na-rj-106.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/porsche-bate-em-arvore-e-duas-pessoas-morrem-carbonizadas-em-sp/"
         }
       ],
-      "updatedAt": "2026-07-11T16:56:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/X3Ld7OLFKTa03AjcDJIfm76QmPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/M/EYnlaiSZuRyMdv9EZorQ/bombeiros-carro.jpg"
+      "updatedAt": "2026-07-11T20:25:51.000Z"
     },
     {
-      "clusterId": "48697679204f2fe4",
-      "slug": "284e6804badaab8a",
-      "titulo": "EUA fornecem maior parte da ajuda à Venezuela após terremotos",
-      "resumo": "Os Estados Unidos enviaram a maior parte dos recursos econômicos e operacionais para atender à emergência causada pelos terremotos na Venezuela. A ação gerou questionamentos e críticas sobre a motivação da ajuda.",
-      "porQueImporta": "A assistência internacional influencia a resposta humanitária e as relações políticas na região",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c4gyjn4qzd1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-07-11T16:55:23.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf85/live/ebd93850-7b8e-11f1-881d-8fcf7e2296a7.jpg"
-    },
-    {
-      "clusterId": "b08b8b9fd2b89d8b",
-      "slug": "6044e46e497b5c5d",
-      "titulo": "Bélgica emite alerta para moradores devido a nova onda de calor extremo",
-      "resumo": "As autoridades belgas emitiram um alerta para a população em resposta a uma nova onda de calor extremo. Em Bruxelas, os moradores buscaram refúgio em parques e fontes para se refrescar. O alerta recomenda medidas de prevenção e cuidados com a saúde. A medida visa reduzir riscos associados ao calor intenso.",
-      "porQueImporta": "O calor extremo pode provocar problemas de saúde e sobrecarga nos serviços de emergência.",
+      "clusterId": "efc5df50d855b51d",
+      "slug": "48d7618f74434c17",
+      "titulo": "Hacker envia alerta falso da Defesa Civil após aprender em curso do governo",
+      "resumo": "Um alerta sonoro classificado como extremo da Defesa Civil foi enviado a celulares de moradores em várias cidades entre a noite de 19 de junho e a madrugada de 20 de junho. As mensagens continham a palavra \"misantropia\" ou variações. O Ministério da Integração e do Desenvolvimento Regional informou que o responsável aprendeu a gerar o alarme falso em um curso oferecido pelo governo. A invasão ao sistema de alertas foi comunicada à Câmara dos Deputados na sexta‑feira.",
+      "porQueImporta": "Alerta falso pode gerar pânico e comprometer a confiança em sistemas de emergência",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/belgica-emite-alerta-para-moradores-em-meio-a-nova-onda-de-calor-extremo/"
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/07/11/ministerio-diz-que-hacker-que-enviou-alerta-de-defesa-civil-aprendeu-a-mandar-alarme-falso-em-curso-do-governo.ghtml"
         }
       ],
-      "updatedAt": "2026-07-11T16:40:30.000Z"
+      "updatedAt": "2026-07-11T20:15:13.000Z"
     },
     {
-      "clusterId": "7b425f7f8cc7da4d",
-      "slug": "2483de925d9bcf56",
-      "titulo": "Acidente entre duas carretas deixa uma pessoa morta e bloqueia a BR-153 em Colinas do Tocantins",
-      "resumo": "Na manhã de sábado, duas carretas colidiram frontalmente no km 238 da BR-153, em Colinas do Tocantins, provocando incêndio nos veículos. As equipes da Polícia Rodoviária Federal e do Corpo de Bombeiros atuaram no combate ao fogo e no controle do trânsito. Um dos ocupantes morreu e a rodovia ficou interditada nos dois sentidos.",
-      "porQueImporta": "O acidente interrompe o tráfego em uma importante rodovia federal, afetando a mobilidade regional.",
+      "clusterId": "a8a1dcffe79d300d",
+      "slug": "1f6834c0c19bfa7f",
+      "titulo": "Capotamento na BR-153 deixa um morto e um ferido próximo a Paraíso do Tocantins",
+      "resumo": "Um carro capotou na manhã de sábado na BR-153, a cerca de 10 km de Paraíso do Tocantins, no sentido Pugmil. O Corpo de Bombeiros Militar encontrou duas vítimas: uma já fora do veículo, recebeu atendimento pré-hospitalar e foi encaminhada ao hospital; a outra ficou presa nas ferragens e foi resgatada pelos bombeiros. Uma pessoa morreu e a outra ficou ferida.",
+      "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias estaduais e a necessidade de resposta rápida dos serviços de emergência.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/11/acidente-entre-carretas-deixa-uma-pessoa-morta-e-bloqueia-br-153-em-colinas-do-tocantins.ghtml"
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/11/capotamento-deixa-um-morto-e-um-ferido-proximo-a-paraiso-do-tocantins.ghtml"
         }
       ],
-      "updatedAt": "2026-07-11T16:39:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/h1tRhD1uqkwEX0SIWPs-LdF5sJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/H/KkVAnmQPGOfMv6lzuSOA/acidente-carrteas.jpg"
+      "updatedAt": "2026-07-11T20:01:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1Gmn91CdPwPiHRtluPlGoSMPIAk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/2/fLL6NSQtabBtO0VogdzQ/capotamento-paraiso.jpg"
     },
     {
-      "clusterId": "cd2705a2aa73ded1",
-      "slug": "ba95f0655e83aede",
-      "titulo": "Carro cai em canal de escoamento de água em avenida de Montes Claros",
-      "resumo": "Na madrugada de sábado, um veículo capotou e acabou dentro do canal de escoamento da Avenida Deputado Esteves Rodrigues, em Montes Claros. O Corpo de Bombeiros foi acionado e, ao chegar ao local, constatou que a condutora não estava presente, enquanto o passageiro permanecia na cena. As causas do acidente não foram informadas pelas equipes de socorro.",
-      "porQueImporta": "O incidente evidencia riscos de acidentes em vias urbanas com canais de drenagem, demandando atenção das autoridades e motoristas.",
+      "clusterId": "9440a55d42cb6dc8",
+      "slug": "82b5d5d497eab5e1",
+      "titulo": "Explosão deixa dois funcionários feridos em hamburgueria de Uberlândia",
+      "resumo": "Um vazamento de gás ocorreu durante a limpeza da cozinha de uma hamburgueria no bairro Cazeca, em Uberlândia, provocando uma explosão que incendiou o local. Dois funcionários ficaram feridos e foram atendidos pelos serviços de emergência. Cinco trabalhadores estavam no estabelecimento no momento do incidente, conforme o Corpo de Bombeiros.",
+      "porQueImporta": "O caso evidencia riscos de segurança no manuseio de gás em estabelecimentos comerciais.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/11/explosao-durante-limpeza-causa-incendio-em-hamburgueria-e-deixa-dois-funcionarios-feridos-em-uberlandia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-11T19:42:07.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UKMSwzKL_pyQZA46SXjJLZAHWvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/y/giA8FNTGyWFsGnpEDobA/design-sem-nome-2026-07-11t164959.200.jpg"
+    },
+    {
+      "clusterId": "900769f71faff2b7",
+      "slug": "bc985ae3c812eea2",
+      "titulo": "Caminhão-cegonha argentino perde o controle na BR-290 após temporal com granizo e vendaval",
+      "resumo": "Um caminhão-cegonha com placas da Argentina perdeu o controle na tarde de sábado na BR-290, em Eldorado do Sul, após chuva com granizo e vento forte. O motorista alegou que o veículo derrapou depois que o carro à frente freou. O caminhão transportava ao menos seis automóveis e não houve feridos. A pista ainda apresentava acúmulo de granizo enquanto o veículo aguardava socorro.",
+      "porQueImporta": "O incidente evidencia riscos de trânsito durante condições climáticas adversas.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/11/carro-cai-em-canal-de-escoamento-de-agua-em-avenida-de-montes-claros.ghtml"
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/11/caminhao-carreta-perde-o-controle-em-estrada-rs.ghtml"
         }
       ],
-      "updatedAt": "2026-07-11T16:21:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bh1UFPyyBmgmEfvMPXZOqIn8xQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/0/SBG2N5TTuzzqC4fElf8w/carroavenida-1-.jpeg"
-    },
-    {
-      "clusterId": "c1a9ee123edfdd10",
-      "slug": "c9765532c110e262",
-      "titulo": "Defesa Civil emite alerta de tempestade para Campo Grande com chegada de frente fria",
-      "resumo": "A frente fria chegou ao estado neste sábado, iniciando na região sul e avançando para Campo Grande. A previsão indica aumento da nebulosidade ao longo do dia e chuvas a partir da tarde, com risco de temporais, raios e trovoadas. Os maiores volumes de precipitação devem ocorrer no extremo sul, mas outras cidades também podem registrar chuvas. A Defesa Civil recomenda atenção à população devido ao potencial de eventos climáticos adversos.",
-      "porQueImporta": "A ocorrência pode gerar alagamentos e riscos à segurança da população local",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/11/defesa-civil-emite-alerta-de-tempestade-para-campo-grande-com-chegada-de-frente-fria-a-ms.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-11T16:19:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/99EYX3aUvDVJ3TS4WDygRCDwKH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/L/kQgiLrTuaA4htVhDU3Kw/design-sem-nome-19-.jpg"
-    },
-    {
-      "clusterId": "12872fb0df58172c",
-      "slug": "b3cbb732c179d6a4",
-      "titulo": "Incêndio atinge apartamento no Conjunto Habitacional Viver Melhor 2 em Manaus",
-      "resumo": "Na tarde de sexta‑feira, um incêndio começou em um apartamento do Conjunto Habitacional Viver Melhor 2, no bairro Lago Azul, Zona Norte de Manaus. Moradores conseguiram controlar as chamas antes da chegada do Corpo de Bombeiros Militar do Amazonas, que constatou que o fogo ficou restrito a um dos quartos, consumindo um colchão e uma televisão. Vídeo do incidente circulou nas redes sociais mostrando as chamas e a fumaça. Não foram informados feridos ou vítimas graves.",
-      "porQueImporta": "Incêndios residenciais podem gerar riscos de lesões e perdas materiais, demandando atenção das autoridades e da população.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/11/incendio-atinge-apartamento-no-viver-melhor-2-na-zona-norte-de-manaus-video-mostra-chamas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-11T16:16:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/xIE-CrUKlC5m66o7Qdm18GLFVjE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/6/zsAko1RNSsBQEsoS4I0w/incendio-atinge-apartamento-em-manaus.jpg"
+      "updatedAt": "2026-07-11T19:32:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/VamRQ9D7gMM2LDQViIL6BxbYoXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/ms6b8vTM6FQKkSbJRyFw/6155383-75a00510568619b.jpg"
     }
   ],
   "categorias": [
@@ -180,272 +189,71 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "e9f104a264147d2b",
-          "slug": "51e4d82b4ec89259",
-          "titulo": "Chef imigrante mobiliza apoio a vítimas de terremotos na Venezuela",
-          "resumo": "Eduardo García, que começou como lavador de pratos e se tornou chef renomado, usa sua experiência como imigrante para incentivar a ajuda humanitária. Ele organizou campanhas de arrecadação de alimentos e recursos para as pessoas afetadas pelos recentes terremotos na Venezuela. A iniciativa busca envolver a comunidade gastronômica e o público em geral na resposta ao desastre.",
-          "porQueImporta": "A ação demonstra como indivíduos podem canalizar suas vivências para apoiar vítimas de desastres naturais",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/experiencia-como-imigrante-motiva-chef-a-ajudar-venezuela/"
-            }
-          ],
-          "updatedAt": "2026-07-11T17:00:57.000Z"
-        },
-        {
-          "clusterId": "b08b8b9fd2b89d8b",
-          "slug": "6044e46e497b5c5d",
-          "titulo": "Bélgica emite alerta para moradores devido a nova onda de calor extremo",
-          "resumo": "As autoridades belgas emitiram um alerta para a população em resposta a uma nova onda de calor extremo. Em Bruxelas, os moradores buscaram refúgio em parques e fontes para se refrescar. O alerta recomenda medidas de prevenção e cuidados com a saúde. A medida visa reduzir riscos associados ao calor intenso.",
-          "porQueImporta": "O calor extremo pode provocar problemas de saúde e sobrecarga nos serviços de emergência.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/belgica-emite-alerta-para-moradores-em-meio-a-nova-onda-de-calor-extremo/"
-            }
-          ],
-          "updatedAt": "2026-07-11T16:40:30.000Z"
-        },
-        {
-          "clusterId": "034d40e29b346ec9",
-          "slug": "15b0832d0c8010fd",
-          "titulo": "Incêndio atinge depósito de lixo em Araçariguama; prefeitura suspeita de ação criminosa",
-          "resumo": "Ponto de entrega voluntária de lixo pega fogo em Araçariguama O Ponto de Entrega Voluntária (PEV), localizado na Alameda 19 de Maio, em Araçariguama (SP), foi atingido por um incêndio na noite desta sexta-feira (10). O local é destinado ao recebimento temporário de materiais inservíveis pela população. Segundo nota da prefeitura, o incêndio tem indícios de ação criminosa e as circunstâncias estão sendo apuradas pelos setores responsáveis. Assim que foi acionada, a Defesa Civil se deslocou até o ponto e conseguiu controlar as chamas. 📲 Participe do canal do g1 Sorocaba e Jundiaí no WhatsApp…",
+          "clusterId": "3bb22b7af42e80c0",
+          "slug": "af79d35f0c8f8c95",
+          "titulo": "Adolescente que teve 80% do corpo queimado em explosão com álcool tem perna amputada no AC",
+          "resumo": "Adolescente de 16 anos teve cerca de 80% do corpo queimado após uma explosão provocada por álcool durante uma confraternização, em Rio Branco Reprodução A adolescente de 16 anos que teve cerca de 80% do corpo queimado após uma explosão provocada por álcool durante uma confraternização precisou amputar a perna esquerda devido à gravidade das lesões. O acidente ocorreu no dia 27 de junho, na Rua 25 de Fevereiro, no bairro Boa União, na Baixada da Sobral, em Rio Branco. Conforme apurado pelo g1, o membro inferior da jovem apresentou necrose, trombose e o pé esquerdo apresentou sinais de…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/11/incendio-atinge-deposito-de-lixo-em-aracariguama-prefeitura-suspeita-de-acao-criminosa.ghtml"
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/07/11/adolescente-que-teve-80percent-do-corpo-queimado-em-explosao-com-alcool-tem-perna-amputada-no-ac.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T15:47:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Waxp02WF1OwdffsinMn7eyyTPlU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Z/8uFZ55RtmKAWBNaFu3VA/fogo1.jpg"
+          "updatedAt": "2026-07-11T20:40:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ZkUXaynXI07E16tWE2Db6b9tqiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Q/pshfMhQSiGZxxVmcwVzg/midia-de-distribuicao-g1-2026-06-29t091716.802.png"
         },
         {
-          "clusterId": "0c2ce3dbc14af7d7",
-          "slug": "a2299a74385042f8",
-          "titulo": "Temporal com vento e granizo causa estragos e atinge centenas de moradores no RS: 'Tudo destruído', diz comerciante",
-          "resumo": "Granizo e vento destelham mais de 100 casas e deixam 400 desalojados no RS Mais de 100 imóveis foram atingidos e 400 pessoas saíram de suas casas por causa do temporal que atingiu Eldorado do Sul, na Região Metropolitana de Porto Alegre, neste sábado (11). Os dados são da Defesa Civil do município. A tempestade também atingiu a cidade de Canoas, onde seis casas foram destelhadas. De acordo com a Climatempo Meteorologia, a chuva foi provocada por um núcleo de instabilidade. O fenômeno começou por volta das 6h, com queda de granizo e ventos que chegaram a 45 km/h. 📲 Acesse o canal do g1 RS no…",
+          "clusterId": "efc5df50d855b51d",
+          "slug": "48d7618f74434c17",
+          "titulo": "Hacker envia alerta falso da Defesa Civil após aprender em curso do governo",
+          "resumo": "Um alerta sonoro classificado como extremo da Defesa Civil foi enviado a celulares de moradores em várias cidades entre a noite de 19 de junho e a madrugada de 20 de junho. As mensagens continham a palavra \"misantropia\" ou variações. O Ministério da Integração e do Desenvolvimento Regional informou que o responsável aprendeu a gerar o alarme falso em um curso oferecido pelo governo. A invasão ao sistema de alertas foi comunicada à Câmara dos Deputados na sexta‑feira.",
+          "porQueImporta": "Alerta falso pode gerar pânico e comprometer a confiança em sistemas de emergência",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/politica/noticia/2026/07/11/ministerio-diz-que-hacker-que-enviou-alerta-de-defesa-civil-aprendeu-a-mandar-alarme-falso-em-curso-do-governo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-11T20:15:13.000Z"
+        },
+        {
+          "clusterId": "573f91687a4b49f3",
+          "slug": "a5032b05c23cb880",
+          "titulo": "Álbum que pôs o pianista Sergio Mendes no mapa-múndi do pop é reeditado em LP 60 anos após o lançamento em 1966",
+          "resumo": "Imagem promocional da reedição em LP do álbum 'Herb Alpert presents Sergio Mendes & Brasil’66', lançado em 1966 Divulgação ♫ NOTÍCIA ♬ Quando o pianista, compositor e arranjador fluminense Sergio Mendes (11 de fevereiro de 1941 – 5 de setembro de 2024) morreu aos 83 anos em Los Angeles (EUA), há quase dois anos, os obituários do artista niteroiense destacaram a explosão mundial de Mendes em 1966. O estouro foi com o álbum “Herb Alpert presents Sergio Mendes & Brasil’66”, lançado em 1966 pela gravadora A&M Records com um som exuberante e geralmente extrovertido que contagiou ouvidos…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/11/temporal-com-vento-e-granizo-causa-estragos-e-atinge-centenas-de-moradores-no-rs-tudo-destruido-diz-comerciante.ghtml"
+              "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/07/11/album-que-pos-o-pianista-sergio-mendes-no-mapa-mundi-do-pop-e-reeditado-em-lp-60-anos-apos-o-lancamento-em-1966.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T15:45:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5YWCOjEgIUFpla5D7FpC4UyhGeY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/J/sUAGZzSJ2fQpkyi0rXKQ/g1-6-.jpg"
+          "updatedAt": "2026-07-11T18:17:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JmVUdYVkAydlQm6vtPT_Lbkh6AU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/b/BiuygnT8qnTnLknjGroA/sergiomendes66.jpg"
         },
         {
-          "clusterId": "43aa2e9c20843b09",
-          "slug": "f3eabdc2bd7c8003",
-          "titulo": "Vazamento de gás natural é registrado após tentativa de furto de equipamento em restaurante de Fortaleza",
-          "resumo": "Vazamento de gás natural é registrado após tentativa de furto de equipamento em Fortaleza Um vazamento de gás natural foi registrado após o rompimento de uma tubulação na avenida 13 de Maio, bairro Benfica, em Fortaleza, na manhã deste sábado (11). Conforme a Companhia de Gás do Ceará (Cegás), o problema foi causado pela tentativa de furto de equipamento no Conjunto de Regulagem e Medição. Não houve vítimas. A ocorrência foi registrada em um restaurante próximo ao Shopping Benfica, por volta das 6h55. O Corpo de Bombeiros Militar do Ceará chegou ao local e isolou a área. Um sentido da avenida…",
+          "clusterId": "388f8a90fa0383cf",
+          "slug": "e4353890432e91b0",
+          "titulo": "Pessoas morrem carbonizadas dentro de carro em incêndio florestal na Espanha",
+          "resumo": "Quatro pessoas foram encontradas carbonizadas em um veículo em uma região afetada por incêndios florestais no sul da Espanha. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Acredita-se que as vítimas sejam britânicas, já que o automóvel tinha o volante posicionado do lado direito, disse o chefe regional de gestão de desastres, Antonio Sanz. No total, 12 mortes foram confirmadas. Outras oito pessoas foram encontradas espalhadas pelo rastro deixado pelo fogo, após aparentemente terem abandonado seus veículos e tentado escapar a pé. Agora no g1 O incêndio começou na quinta-feira na…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/11/vazamento-de-gas-natural-e-registrado-apos-tentativa-de-furto-de-equipamento-em-restaurante-de-fortaleza.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T15:38:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/nKR7z431DumOwE_IAe49CDGR27Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/C/PWZEPGRYCgmWCwQ5rJgQ/vazamento-gas-natural-benfica.jpg"
-        },
-        {
-          "clusterId": "d666bdd9af11d3cb",
-          "slug": "ee32a84dbbd4045b",
-          "titulo": "Brasil envia socorristas à Venezuela para ajuda humanitária",
-          "resumo": "Profissionais brasileiros foram enviados à Venezuela para prestar assistência após terremotos que causaram quase 3.900 mortes e destruição em massa. Eles retornaram ao Brasil após serem recebidos em cerimônia na Base Aérea de Brasília. O presidente Lula se reuniu com ministros para avaliar a continuidade das ações de reconstrução. A reunião indicou que a nova fase deve ser mais coordenada.",
-          "porQueImporta": "A operação demonstra a resposta internacional a um desastre natural de grande escala.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/politica/noticia/2026/07/10/brasil-prepara-nova-fase-de-ajuda-humanitaria-a-venezuela-apos-terremotos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T15:37:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/X5flnsBLD57ATVq32EZBbRbf8lQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/C/AFW42JQ3Alxu3OfAucJw/globo-canal-4-20260703-2000-frame-252172.jpeg"
-        },
-        {
-          "clusterId": "cf93825d0f7e8eca",
-          "slug": "65f4c28529126dc5",
-          "titulo": "Desgovernado, caminhão de Amado Batista atinge casas em Goiânia; vídeo",
-          "resumo": "Caminhão de Amado Batista atingiu casas em Goiânia Um caminhão desgovernado, registrado no nome do cantor Amado Batista, desceu de ré por uma rua no Jardim Novo Mundo e atingiu duas casas e uma barbearia, em Goiânia. Imagens obtidas pela TV Anhanguera mostram o momento em que o veículo invadiu os imóveis (veja acima). Apesar dos estragos, ninguém ficou ferido. Em nota, a assessoria do artista confirmou que o caminhão pertence ao cantor e presta serviços para a granja leiteira dele. Segundo a equipe de Amado Batista, o acidente provocou apenas danos materiais e as famílias atingidas estão…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/07/11/desgovernado-caminhao-de-amado-batista-atinge-casas-em-goiania.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T15:24:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-dgnxDhLHox2HHH9yrIFjxwj1Iw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/L/VfmVUaQAenBaLI9ciCbQ/imagens-g1-63-.png"
-        },
-        {
-          "clusterId": "04f46646995048dd",
-          "slug": "64d536db710c1141",
-          "titulo": "Batida entre carros e motos deixa feridos em trecho recém-liberado do Anel Viário Sul de Uberlândia",
-          "resumo": "Um acidente envolvendo dois carros e duas motocicletas deixou duas mulheres feridas na manhã deste sábado (11), no Anel Viário Sul de Uberlândia. A batida ocorreu no sentido bairro Pequis ao bairro Shopping Park, no trecho da via que foi liberado para o trânsito na semana passada. Segundo apurado pela TV Integração no local, um carro atingiu uma motocicleta após o motorista ter a visibilidade prejudicada pelo sol. Na sequência, um segundo veículo tentou desviar da batida, e acabou atingido por outra moto que caiu na pista. A Polícia Militar foi acionada e ajudou na sinalização do trecho…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/11/batida-entre-carros-e-motos-deixa-feridos-em-trecho-recem-liberado-do-anel-viario-sul-de-uberlandia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T15:20:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7kzBLykP2oghFu2j2lQcoxu-HCg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/b/tV5itoQd6O13rzDVVSJw/design-sem-nome-2026-07-11t120046.243.jpg"
-        },
-        {
-          "clusterId": "0f37dd27fd1375da",
-          "slug": "7a62c18b064ebee8",
-          "titulo": "Acidente entre caçamba e carro deixa uma pessoa morta na BR-010, no PA",
-          "resumo": "Acidente entre caçamba e carro de passeio deixa homem morto em Irituia, no Pará Um acidente envolvendo uma caçamba e um carro de passeio na BR-010 deixou um homem morto no quilômetro 3 da rodovia federal, no município de Irituia, região sudoeste do Pará. O veículo de carga pesada não teria conseguido força suficiente para completar a subida de uma ladeira na pista, segundo testemunhas. Sem conseguir avançar, a caçamba acabou voltando de ré e atingindo em cheio o automóvel de passeio, que trafegava logo atrás na rodovia. Devido ao forte impacto, a vítima não resistiu aos ferimentos e morreu no…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/07/11/acidente-entre-cacamba-e-carro-deixa-uma-pessoa-morta-na-br-010-no-pa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T15:11:00.000Z"
-        },
-        {
-          "clusterId": "9ad42c27508faebd",
-          "slug": "0d38b9b1215de400",
-          "titulo": "Buscas por mulher que desapareceu após carro capotar no PI mobilizam bombeiros; homem morreu",
-          "resumo": "Bombeiros fazem buscas por mulher desaparecida após acidente em estrada no litoral do Piauí Divulgação/Corpo de Bombeiros Continuam neste sábado (11) as buscas pela mulher que desapareceu após um carro capotar na Estrada da Pedra do Sal, próximo ao Labino, na região conhecida como Cerâmica, em Parnaíba, litoral do Piauí. Segundo o Corpo de Bombeiros, um cão farejador auxilia as equipes. Entre os equipamentos utilizados nas buscas, há um drone equipado com câmera térmica, capaz de identificar pontos de calor compatíveis com pessoas durante as varreduras. ✅ Siga o canal do g1 Piauí no WhatsApp…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/11/buscas-por-mulher-desaparecida-apos-carro-capotar.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T15:05:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-Td_mSBjfGBwDTcyC2Is7S7bf4g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/H/63MzNqS72o4LyXTEvimg/edicao-imagens-g1-43-.png"
-        },
-        {
-          "clusterId": "30235b7982f7a730",
-          "slug": "d901c7a6ea31495a",
-          "titulo": "Barco com turistas indianos afunda no Vietnã e deixa 15 mortos",
-          "resumo": "Pessoas ajudam vítimas de um acidente náutico após uma embarcação turística virar perto da ilha de Phu Quoc, na província de An Giang, no sul do Vietnã Associated Press Um barco com turistas indianos virou neste sábado (11) próximo à ilha de Phu Quoc, no sul do Vietnã, e deixou 15 mortos. A embarcação afundou a menos de 500 metros da costa, segundo autoridades locais. O barco transportava 32 turistas da Índia e quatro tripulantes. O acidente aconteceu pouco depois da saída da ilha de Hon May Rut Ngoai, um dos destinos turísticos da região. ✅ Siga o canal de notícias internacionais do g1 no…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/11/barco-com-turistas-indianos-afunda-no-vietna-e-deixa-15-mortos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T14:44:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DNpnQjYhfbB4Z1eVw_qblYwvCK4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/AWeypFSIu0NSlP8OeaGA/afp-20260711-b9wm9ke-v1-highres-vietnamaccident.jpg"
-        },
-        {
-          "clusterId": "36de12baca1f1215",
-          "slug": "42f0bb947b86ae06",
-          "titulo": "Jovem de 19 anos morre após carro invadir a pista contrária e bater de frente com caminhão na BR-262",
-          "resumo": "Acidente aconteceu na sexta-feira (10) na BR-262 Redes Sociais Mateus Vargas Oliveira Estanislau, de 19 anos, morreu na sexta-feira (10) após um acidente entre um carro e um caminhão, no km 17 da BR-262, na zona rural de Três Lagoas (MS). De acordo com o boletim de ocorrência, Mateus dirigia o carro quando invadiu a pista contrária e bateu de frente com um caminhão que seguia no sentido oposto. ✅ Clique aqui para seguir o canal do g1 MS no WhatsApp À polícia, o caminhoneiro informou que o carro entrou repentinamente na faixa contrária. Segundo o relato, o veículo não fazia nenhuma…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/11/jovem-de-19-anos-morre-apos-carro-invadir-a-pista-contraria-e-bater-de-frente-com-caminhao-na-br-262.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T14:39:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Y5ODPmF7eXLr2zIwVvJetv4OF4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/1/F4A9ADSBWB34rsXvAhUA/design-sem-nome-17-.jpg"
-        },
-        {
-          "clusterId": "f590f105a96f0791",
-          "slug": "855d5f503c6ea1ff",
-          "titulo": "Incêndio atinge casa e mobiliza bombeiros em Redenção, no sul do PA",
-          "resumo": "Incêndio atinge casa em Redenção, no Pará Um incêndio atingiu uma residência e mobilizou equipes do Corpo de Bombeiros Militar na noite desta sexta-feira (10), no município de Redenção, localizado na região sul do Pará. Apesar do susto e da gravidade da situação, não houve feridos. ✅ Siga o canal do g1 Pará no WhatsApp Assim que foram acionados, os militares se deslocaram rapidamente até o endereço da ocorrência. A agilidade na resposta dos bombeiros foi fundamental para conter o avanço das chamas, que ameaçavam se espalhar para os imóveis vizinhos. Após um trabalho de combate ao fogo e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/07/11/incendio-casa-e-mobiliza-bombeiros-em-redencao-no-sul-do-pa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T14:33:47.000Z"
-        },
-        {
-          "clusterId": "c2df58e9b68e571c",
-          "slug": "83841a275182b5e7",
-          "titulo": "Grávida e filho são encontrados carbonizados após homens invadirem e incendiarem casa no MA",
-          "resumo": "Grávida e filho são achados carbonizados após ataque a tiros e incêndio em casa no MA Uma mulher grávida de três meses e o filho dela, de 4 anos, foram encontrados mortos e carbonizados dentro de uma casa incendiada, nessa sexta-feira (10), na zona rural de São João Batista, no interior do Maranhão. Segundo a polícia, homens armados invadiram o imóvel, atiraram e depois atearam fogo no local. As vítimas foram identificadas como Samira Costa Correia e Yan Kaleb Costa Santos. Segundo testemunhas, aproximadamente 15 homens armados arrombaram três imóveis da família. Apenas um deles, onde estavam…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/11/gravida-e-filho-sao-encontrados-carbonizados-apos-homens-invadirem-e-incendiarem-casa-no-ma.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T14:32:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7mdC5Atu-PlWpfMdl3gvTfOPkss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/2/VK5XGaQHOHMkCYh1nQbg/montagens-1920-x-1080-px-58-.jpg"
-        },
-        {
-          "clusterId": "826442958b550716",
-          "slug": "b287f6dcff86dd53",
-          "titulo": "Homem cai de barco e morre afogado em rio no interior de SP; vídeo mostra embarcação navegando sem piloto",
-          "resumo": "Bombeiros encontram corpo de vítima de afogamento em Rubinéia Um homem de 65 anos morreu por afogamento após cair de um barco no Rio Paraná, em Rubinéia (SP), nesta sexta-feira (10). Um vídeo obtido pela reportagem da TV TEM mostra a embarcação navegando desgovernada pelo rio logo após Isaías Lima Neto cair na água. Nas imagens, o barco aparece com o motor ligado e acelerando, sem ninguém na direção. Assista ao vídeo acima. 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Segundo o Corpo de Bombeiros, Isaías passava o dia com a família em um rancho às margens do rio e decidiu…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/11/homem-cai-de-barco-e-morre-afogado-em-rio-no-interior-de-sp-video-mostra-embarcacao-navegando-sem-piloto.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T14:20:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lHNiPsYh2htaNOTPtKo23NctKds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/sJKyIASYiKJSfmygpfBQ/foto-g1-75-.png"
-        },
-        {
-          "clusterId": "efde922708eea2a8",
-          "slug": "a7931131b3cdecc6",
-          "titulo": "Incêndio florestal deixa 12 mortos no sul da Espanha; VÍDEO mostra estrada cercada pelas chamas",
-          "resumo": "Incêndio florestal deixa mortos na Espanha Pelo menos 12 pessoas morreram em um incêndio florestal perto de Almería, no sul da Espanha, no fim da noite desta quinta-feira (9), informaram as autoridades regionais. Um vídeo divulgado pelas autoridades mostram as chamas ao lado de uma rodovia. Veja acima. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Cerca de 150 bombeiros e cinco caminhões-pipa foram mobilizados durante a noite de quinta para sexta-feira (10) para combater o incêndio, detalharam serviços de emergência da região. Moradores de vários bairros precisaram sair de casa.…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/09/incendio-florestal-deixa-mortos-no-sul-da-espanha.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/10/turistas-morrem-carbonizados-dentro-de-carro-em-incendio-florestal-na-espanha.ghtml"
             }
           ],
           "updatedAt": "2026-07-10T20:13:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/VnEWc1084QhoDvDTCWtLMlRhHE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/N/GSgfWXQEAvsPdxb3SO7A/hm0glnnw8aa720o.jpg"
+          "imageUrl": "https://s2-g1.glbimg.com/FUZ8Dt97Phq8dCybGD7_MTGdnjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/D/SthOa8TteIFVJw4mWlVw/2026-07-10t192908z-893378915-rc26bmasj9es-rtrmadp-3-europe-weather-spain-wildfire.jpg"
         },
         {
           "clusterId": "5829257611fda937",
@@ -471,89 +279,149 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "4a89414065fd28b7",
-          "slug": "38bc59658a3eead1",
-          "titulo": "Motorista tenta ultrapassagem causa acidente com morte na RJ-106 em Saquarema",
-          "resumo": "Na noite de sexta‑feira, três veículos colidiram na Rodovia Amaral Peixoto, km 74, em Saquarema. Segundo os bombeiros, o motorista de um dos carros estava alcoolizado e tentou ultrapassar, provocando a colisão. Um dos veículos ficou preso entre os outros dois, e Maick da Silva Rosa, 29 anos, ficou preso às ferragens, falecendo no local. As autoridades registraram a ocorrência e iniciaram as investigações.",
-          "porQueImporta": "O acidente evidencia riscos de condução sob efeito de álcool e a necessidade de fiscalização nas rodovias.",
+          "clusterId": "27d4b507cf31d07b",
+          "slug": "db536fc7aa1d3d9b",
+          "titulo": "Porsche colide com árvore e incêndio deixa duas vítimas fatais em rodovia de SP",
+          "resumo": "Um Porsche colidiu com uma árvore na rodovia entre Campinas e Valinhos, interior de São Paulo, provocando incêndio no veículo. O fogo consumiu o carro, resultando na morte de duas pessoas que estavam a bordo. As autoridades foram acionadas e o local foi isolado para as investigações. Não há informações adicionais sobre as vítimas ou causas da colisão.",
+          "porQueImporta": "O acidente evidencia riscos de colisões graves e incêndios em vias públicas, demandando atenção à segurança viária.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/11/motorista-tenta-ultrapassagem-e-causa-acidente-com-morte-na-rj-106.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/porsche-bate-em-arvore-e-duas-pessoas-morrem-carbonizadas-em-sp/"
             }
           ],
-          "updatedAt": "2026-07-11T16:56:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/X3Ld7OLFKTa03AjcDJIfm76QmPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/M/EYnlaiSZuRyMdv9EZorQ/bombeiros-carro.jpg"
+          "updatedAt": "2026-07-11T20:25:51.000Z"
         },
         {
-          "clusterId": "7b425f7f8cc7da4d",
-          "slug": "2483de925d9bcf56",
-          "titulo": "Acidente entre duas carretas deixa uma pessoa morta e bloqueia a BR-153 em Colinas do Tocantins",
-          "resumo": "Na manhã de sábado, duas carretas colidiram frontalmente no km 238 da BR-153, em Colinas do Tocantins, provocando incêndio nos veículos. As equipes da Polícia Rodoviária Federal e do Corpo de Bombeiros atuaram no combate ao fogo e no controle do trânsito. Um dos ocupantes morreu e a rodovia ficou interditada nos dois sentidos.",
-          "porQueImporta": "O acidente interrompe o tráfego em uma importante rodovia federal, afetando a mobilidade regional.",
+          "clusterId": "a8a1dcffe79d300d",
+          "slug": "1f6834c0c19bfa7f",
+          "titulo": "Capotamento na BR-153 deixa um morto e um ferido próximo a Paraíso do Tocantins",
+          "resumo": "Um carro capotou na manhã de sábado na BR-153, a cerca de 10 km de Paraíso do Tocantins, no sentido Pugmil. O Corpo de Bombeiros Militar encontrou duas vítimas: uma já fora do veículo, recebeu atendimento pré-hospitalar e foi encaminhada ao hospital; a outra ficou presa nas ferragens e foi resgatada pelos bombeiros. Uma pessoa morreu e a outra ficou ferida.",
+          "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias estaduais e a necessidade de resposta rápida dos serviços de emergência.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/11/acidente-entre-carretas-deixa-uma-pessoa-morta-e-bloqueia-br-153-em-colinas-do-tocantins.ghtml"
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/11/capotamento-deixa-um-morto-e-um-ferido-proximo-a-paraiso-do-tocantins.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T16:39:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/h1tRhD1uqkwEX0SIWPs-LdF5sJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/H/KkVAnmQPGOfMv6lzuSOA/acidente-carrteas.jpg"
+          "updatedAt": "2026-07-11T20:01:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1Gmn91CdPwPiHRtluPlGoSMPIAk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/2/fLL6NSQtabBtO0VogdzQ/capotamento-paraiso.jpg"
         },
         {
-          "clusterId": "cd2705a2aa73ded1",
-          "slug": "ba95f0655e83aede",
-          "titulo": "Carro cai em canal de escoamento de água em avenida de Montes Claros",
-          "resumo": "Na madrugada de sábado, um veículo capotou e acabou dentro do canal de escoamento da Avenida Deputado Esteves Rodrigues, em Montes Claros. O Corpo de Bombeiros foi acionado e, ao chegar ao local, constatou que a condutora não estava presente, enquanto o passageiro permanecia na cena. As causas do acidente não foram informadas pelas equipes de socorro.",
-          "porQueImporta": "O incidente evidencia riscos de acidentes em vias urbanas com canais de drenagem, demandando atenção das autoridades e motoristas.",
+          "clusterId": "900769f71faff2b7",
+          "slug": "bc985ae3c812eea2",
+          "titulo": "Caminhão-cegonha argentino perde o controle na BR-290 após temporal com granizo e vendaval",
+          "resumo": "Um caminhão-cegonha com placas da Argentina perdeu o controle na tarde de sábado na BR-290, em Eldorado do Sul, após chuva com granizo e vento forte. O motorista alegou que o veículo derrapou depois que o carro à frente freou. O caminhão transportava ao menos seis automóveis e não houve feridos. A pista ainda apresentava acúmulo de granizo enquanto o veículo aguardava socorro.",
+          "porQueImporta": "O incidente evidencia riscos de trânsito durante condições climáticas adversas.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/11/carro-cai-em-canal-de-escoamento-de-agua-em-avenida-de-montes-claros.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/11/caminhao-carreta-perde-o-controle-em-estrada-rs.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T16:21:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bh1UFPyyBmgmEfvMPXZOqIn8xQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/0/SBG2N5TTuzzqC4fElf8w/carroavenida-1-.jpeg"
+          "updatedAt": "2026-07-11T19:32:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VamRQ9D7gMM2LDQViIL6BxbYoXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/ms6b8vTM6FQKkSbJRyFw/6155383-75a00510568619b.jpg"
         },
         {
-          "clusterId": "60da3b76a19fd9bf",
-          "slug": "6cdff37e8b2c1630",
-          "titulo": "Idoso de 81 anos é encontrado após acidente de carro em ribanceira no TO",
-          "resumo": "Um motorista de 81 anos perdeu o controle do veículo na TO-387, em Palmeirópolis, e o carro acabou em uma ribanceira coberta por mata. A polícia, em patrulha rural, localizou o veículo e encontrou o idoso ferido. Ele foi socorrido e encaminhado à Unidade de Pronto Atendimento de Palmeirópolis.",
-          "porQueImporta": "O caso evidencia os riscos de acidentes de trânsito em áreas rurais e a importância da atuação rápida das forças de segurança.",
+          "clusterId": "56126e40fba85c0d",
+          "slug": "04d8f32bcdf1b469",
+          "titulo": "Polícia recupera arma furtada de agente ferido em acidente e prende suspeito em Volta Redonda",
+          "resumo": "Um suspeito foi detido na manhã de sábado após furtar a pistola de um policial militar que havia se ferido em um acidente de carro no bairro Santo Agostinho, em Volta Redonda (RJ). A prisão ocorreu durante operação destinada a recuperar o armamento subtraído. A polícia constatou o furto da arma logo após a colisão e realizou buscas na região, culminando na captura do indivíduo.",
+          "porQueImporta": "A recuperação da arma impede que o equipamento policial caia em mãos criminosas e demonstra a eficácia das ações de segurança pública.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/11/motorista-de-81-anos-e-encontrado-apos-acidente-deixar-carro-escondido-em-ribanceira-no-to.ghtml"
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/11/policia-recupera-arma-furtada-de-agente-ferido-em-acidente-e-prende-suspeito-em-volta-redonda.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T15:53:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6i2WQ5jVFzySwpjtRiovO1AE0LU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/3/4xkw85QBStf7fipXQIGQ/foto-e-montagem-vertical-2026-07-11t115818.940.png"
+          "updatedAt": "2026-07-11T19:28:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1LMwCxiY_xEyOKEZL9IJ0IACF1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/W/R8pQmHSAuowAgtZ2bMSw/image-1-1-.jpg"
         },
         {
-          "clusterId": "b0c144e8bf1bafbf",
-          "slug": "8b6ef5acd7ba3dd7",
-          "titulo": "Carreta carregada de melão tomba na BR-226 e atinge três veículos",
-          "resumo": "Na noite de sexta‑feira, por volta das 22h40, uma carreta com carga de melão tombou no km 338 da BR‑226, em Patu, no Oeste do RN. O acidente atingiu três veículos, mas nenhum dos ocupantes ficou ferido. O motorista informou que o freio ABS travou, provocando a perda de controle. A carreta seguia de Mossoró em direção a São Paulo.",
-          "porQueImporta": "O evento demonstra riscos de falhas nos sistemas de freio em transportes de carga nas rodovias regionais.",
+          "clusterId": "a6ad06acee276feb",
+          "slug": "ad91722063446ef6",
+          "titulo": "Acidente entre dois veículos deixa uma morta e quatro feridos na BR-267 em Juiz de Fora",
+          "resumo": "Na tarde de sábado, um carro que invadiu a contramão colidiu frontalmente com outro no km 79 da BR-267, em Juiz de Fora. A colisão resultou na morte de uma mulher de 37 anos, natural de Manhumirim, e feriu três ocupantes do outro veículo, que foram atendidos pelo SAMU. O veículo que avançou na contramão seguia no sentido Bicas/Juiz de Fora, segundo a Polícia Rodoviária Federal. As vítimas foram socorridas no local, e a polícia segue investigando as causas do acidente.",
+          "porQueImporta": "O acidente evidencia riscos de condução em contramão e a necessidade de atenção nas rodovias estaduais.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/11/carreta-carregada-de-melao-tomba-na-br-226-e-atinge-tres-veiculos-no-oeste-do-rn-veja-video.ghtml"
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/11/batida-entre-dois-carros-deixa-um-morto-e-quatro-feridos-na-br-267-em-juiz-de-fora.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T15:50:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/GfkFHRTdexrHQ4VfDV9wAKE8MSs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/iIHsCWSC6VAlDmHndEfA/image-1-.png"
+          "updatedAt": "2026-07-11T18:41:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/d0RV0i2lNIRqvXpK9fJBiYCvN0w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/G/JLxcGRQCAO3E6Gd8I1mQ/acidente-kadu.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "abe4fbed7b4dda02",
+          "slug": "46f12df860e7bfca",
+          "titulo": "Tufão Bavi provoca evacuações de mais de 1,8 milhão de pessoas na China e deixa 17 mortos nas Filipinas",
+          "resumo": "O tufão Bavi avançou pelo sul do Japão, norte de Taiwan e chegou à costa leste da China, onde autoridades retiraram mais de 1,8 milhão de moradores de áreas de risco. Nas Filipinas, as fortes chuvas associadas ao ciclone causaram deslizamentos e enchentes que resultaram em 17 mortes, com nove pessoas ainda desaparecidas. A tempestade ainda traz risco de chuvas intensas e enchentes na região chinesa.",
+          "porQueImporta": "A magnitude das evacuações e o número de vítimas evidenciam o potencial destrutivo do ciclone na Ásia Oriental.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/10/tufao-bavi-provoca-mortes-filipinas-e-deixa-taiwan-em-alerta.ghtml"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/tufao-bavi-chega-a-china-e-18-mi-de-pessoas-deixam-areas-de-risco/"
+            }
+          ],
+          "updatedAt": "2026-07-11T21:20:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sLBYbAq8MyM8IXwFL8nyYqHjC9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/B/PyFbyDSyydus8WLqQZGg/afp-20260710-b9u38nh-v3-highres-topshottaiwanweathertyphoon-1-.jpg"
+        },
+        {
+          "clusterId": "857b633e260a8282",
+          "slug": "b3abd11b9b130d9c",
+          "titulo": "Chuvas provocam alagamentos e quedas de árvores em cidades de Santa Catarina",
+          "resumo": "No sábado, chuvas intensas causaram alagamentos, quedas de árvores e interdição de ruas em diversas cidades de Santa Catarina. A Defesa Civil informou que não há registro de pessoas desalojadas ou desabrigadas. O Instituto Nacional de Meteorologia (Inmet) emitiu alerta laranja de perigo para tempestades, válido até 23h59, alertando para risco de novos alagamentos, danos a plantações e possíveis cortes de energia elétrica.",
+          "porQueImporta": "Os eventos aumentam o risco de danos materiais e interrupções nos serviços essenciais da população",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/11/chuvas-provocam-alagamentos-e-inmet-coloca-sc-em-alerta-de-perigo-para-tempestades.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-11T19:17:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0gXzyAdvt1l1s2PCdOgR1om2UsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Q/VcqnynSW2LBZ97yzkjCw/chuvas-em-sc.png"
+        },
+        {
+          "clusterId": "07eefa20f698f3f6",
+          "slug": "866ce1a972c14560",
+          "titulo": "Supertufão Bavi atinge leste da China com ventos de 145 km/h",
+          "resumo": "O supertufão Bavi chegou ao leste da China neste sábado, tocando o solo na província de Zhejiang por volta das 23h20 (horário local). A agência Xinhua informou ventos de até 145 km/h e grandes ondas na região. Mais de 1,7 milhão de moradores foram evacuados como medida preventiva. Ondas também foram registradas na costa de Yilan, em Taiwan, enquanto o ciclone avançava.",
+          "porQueImporta": "A tempestade pode causar danos extensos e risco à população nas áreas costeiras afetadas",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/11/fotos-supertufao-bavi-chega-ao-leste-da-china-com-ventos-de-145-kmh-e-grandes-ondas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-11T18:56:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/psZDYCWgN1prK7KYzArc7xeJgok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/m/GT2rjoQo227gzPtFdNog/chatgpt-image-11-de-jul.-de-2026-15-48-31.png"
         }
       ]
     },
@@ -562,7 +430,7 @@
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "4e1278debfd5c486",
+          "clusterId": "c366e4a7620b16a7",
           "slug": "4f30515ad2371c5f",
           "titulo": "Mortes ultrapassam 4 mil após terremoto duplo de magnitude 7,2 e 7,5 na Venezuela",
           "resumo": "Um duplo terremoto de magnitudes 7,2 e 7,5 ocorreu na Venezuela em 24 de junho, causando milhares de vítimas. O governo informou que o número de mortos chegou a 4.118, enquanto o número de feridos ficou em 16.740 e 17.907 pessoas permanecem desabrigadas. Uma fonte anterior reportou 3.889 mortos, indicando atualização dos dados. As autoridades continuam as buscas por vítimas entre os escombros.",
@@ -575,11 +443,11 @@
               "url": "https://g1.globo.com/mundo/noticia/2026/07/09/sobe-para-3889-numero-de-mortos-por-terremotos-na-venezuela.ghtml"
             },
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-4-333-o-numero-de-mortos-nos-terremotos-na-venezuela/"
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-em-terremoto-na-venezuela-sobe-para-4-118/"
             }
           ],
-          "updatedAt": "2026-07-11T17:09:40.000Z",
+          "updatedAt": "2026-07-11T20:51:31.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/6D90aYj_UolQRLvFBGGTjjN1PeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/s/e28GCtSt69xfbAiSYPYg/terremoto.jpg"
         },
         {
@@ -598,23 +466,6 @@
           ],
           "updatedAt": "2026-07-11T16:55:23.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf85/live/ebd93850-7b8e-11f1-881d-8fcf7e2296a7.jpg"
-        },
-        {
-          "clusterId": "241692842093c150",
-          "slug": "f013c8e8dd28fdb7",
-          "titulo": "Projeto da Universidade do Alasca não provocou terremoto na Venezuela",
-          "resumo": "Publicações nas redes sociais alegaram que o Programa de Investigação de Aurora Ativa de Alta Frequência (HAARP) teria causado o terremoto de 24 de junho em Caracas e La Guaira. As alegações foram desmentidas, sendo classificadas como fake. O selo de verificação indica que não há relação entre o projeto de estudos da ionosfera e o sismo.",
-          "porQueImporta": "Esclarecer desinformação sobre a origem de um desastre natural importante",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/07/11/e-fake-que-projeto-da-universidade-do-alasca-causou-terremoto-na-venezuela.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T08:00:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_xSNyth1MNP_dR4DTTt0CGzi12U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/uLZlEfRqGqJRVEx1i4Jw/ap26180709899365.jpg"
         },
         {
           "clusterId": "6cb674932e96972d",
@@ -636,115 +487,98 @@
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
+      "slug": "naufragio",
+      "label": "Naufrágio",
       "stories": [
         {
-          "clusterId": "09e5058b9e09ab60",
-          "slug": "bbc6fe1168a494a1",
-          "titulo": "Temporal com granizo deixa mais de 400 desalojados na Grande Porto Alegre",
-          "resumo": "Chuva acompanhada de granizo na madrugada de sábado causou danos em telhados, derrubou árvores e provocou falta de energia em diversos bairros da Grande Porto Alegre. Mais de 400 pessoas ficaram desalojadas e foram encaminhadas a abrigos temporários. As autoridades locais iniciaram as ações de socorro e avaliação dos prejuízos.",
-          "porQueImporta": "A ocorrência evidencia a vulnerabilidade da região a eventos climáticos severos e a necessidade de respostas emergenciais rápidas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
+          "clusterId": "c69bd727747bfaf7",
+          "slug": "d901c7a6ea31495a",
+          "titulo": "Barco com turistas indianos afunda próximo à ilha de Phu Quoc, Vietnã",
+          "resumo": "Um barco que transportava turistas indianos naufragou a menos de 500 metros da costa da ilha de Phu Quoc, no sul do Vietnã. O acidente deixou 15 mortos e 21 sobreviventes, entre turistas e tripulantes. As autoridades locais registraram que a embarcação partiu da ilha de Hon May Rut Ngoai antes de virar e afundar.",
+          "porQueImporta": "O incidente evidencia riscos de transporte marítimo em áreas turísticas e envolve vítimas estrangeiras, gerando atenção internacional.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
           "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/11/barco-com-turistas-indianos-afunda-no-vietna-e-deixa-15-mortos.ghtml"
+            },
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/temporal-com-granizo-deixa-mais-de-400-desalojados-na-grande-porto-alegre/"
+              "url": "https://www.cnnbrasil.com.br/internacional/barco-afunda-no-vietna-matando-turistas-indianos/"
             }
           ],
-          "updatedAt": "2026-07-11T17:23:53.000Z"
-        },
-        {
-          "clusterId": "c1a9ee123edfdd10",
-          "slug": "c9765532c110e262",
-          "titulo": "Defesa Civil emite alerta de tempestade para Campo Grande com chegada de frente fria",
-          "resumo": "A frente fria chegou ao estado neste sábado, iniciando na região sul e avançando para Campo Grande. A previsão indica aumento da nebulosidade ao longo do dia e chuvas a partir da tarde, com risco de temporais, raios e trovoadas. Os maiores volumes de precipitação devem ocorrer no extremo sul, mas outras cidades também podem registrar chuvas. A Defesa Civil recomenda atenção à população devido ao potencial de eventos climáticos adversos.",
-          "porQueImporta": "A ocorrência pode gerar alagamentos e riscos à segurança da população local",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/11/defesa-civil-emite-alerta-de-tempestade-para-campo-grande-com-chegada-de-frente-fria-a-ms.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T16:19:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/99EYX3aUvDVJ3TS4WDygRCDwKH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/L/kQgiLrTuaA4htVhDU3Kw/design-sem-nome-19-.jpg"
-        },
-        {
-          "clusterId": "63123380048336cd",
-          "slug": "cc61f20f2868a3c3",
-          "titulo": "Defesa Civil alerta para temporais com chuvas e rajadas de vento no Paraná",
-          "resumo": "Moradores de todas as regiões do Paraná receberam, neste sábado, mensagem da Defesa Civil avisando sobre temporais com chuvas e rajadas de vento. O Simepar indicou risco moderado para temporais localizados e potencialmente intensos, com possibilidade de queda de galhos, alagamentos, destelhamentos e granizo. A orientação da Defesa Civil foi que a população se mantenha atenta às condições climáticas.",
-          "porQueImporta": "O alerta indica risco de danos materiais e necessidade de precauções para a população",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/07/11/mensagem-defesa-civil-parana-aviso.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T16:10:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CiX1DeYtDF0xvFsExnmaaazVvqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/M/8Al6NyS4SMEWVkDargSA/aviso-defesa.png"
-        },
-        {
-          "clusterId": "666038f672f8aca8",
-          "slug": "46f12df860e7bfca",
-          "titulo": "Supertufão Bavi causa 15 mortes nas Filipinas e evacua mais de 2 mil pessoas em Taiwan",
-          "resumo": "O supertufão Bavi provocou ao menos 15 óbitos nas Filipinas, onde também ocorreram dois deslizamentos de terra devido às fortes chuvas. Em Taiwan, mais de 2 mil pessoas foram obrigadas a deixar suas casas antes da passagem do fenômeno. O ciclone avançou em direção ao norte e leste da ilha, atingindo áreas remotas do sudoeste do Japão e deve alcançar a China nos próximos dias.",
-          "porQueImporta": "O evento demonstra o risco de ciclones tropicais intensos para populações costeiras da Ásia Oriental",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/10/tufao-bavi-provoca-mortes-filipinas-e-deixa-taiwan-em-alerta.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T12:06:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sLBYbAq8MyM8IXwFL8nyYqHjC9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/B/PyFbyDSyydus8WLqQZGg/afp-20260710-b9u38nh-v3-highres-topshottaiwanweathertyphoon-1-.jpg"
+          "updatedAt": "2026-07-11T17:56:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DNpnQjYhfbB4Z1eVw_qblYwvCK4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/AWeypFSIu0NSlP8OeaGA/afp-20260711-b9wm9ke-v1-highres-vietnamaccident.jpg"
         }
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "afogamento",
+      "label": "Afogamento",
       "stories": [
         {
-          "clusterId": "12872fb0df58172c",
-          "slug": "b3cbb732c179d6a4",
-          "titulo": "Incêndio atinge apartamento no Conjunto Habitacional Viver Melhor 2 em Manaus",
-          "resumo": "Na tarde de sexta‑feira, um incêndio começou em um apartamento do Conjunto Habitacional Viver Melhor 2, no bairro Lago Azul, Zona Norte de Manaus. Moradores conseguiram controlar as chamas antes da chegada do Corpo de Bombeiros Militar do Amazonas, que constatou que o fogo ficou restrito a um dos quartos, consumindo um colchão e uma televisão. Vídeo do incidente circulou nas redes sociais mostrando as chamas e a fumaça. Não foram informados feridos ou vítimas graves.",
-          "porQueImporta": "Incêndios residenciais podem gerar riscos de lesões e perdas materiais, demandando atenção das autoridades e da população.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "6058455b31844627",
+          "slug": "bba0fb630b3e7045",
+          "titulo": "Homem de 31 anos morre afogado na Praia da Lua, em Manaus",
+          "resumo": "Um homem de 31 anos identificado como Ruan Silveira entrou no Rio Negro para tomar banho enquanto estava em uma lancha na Praia da Lua. Durante o banho, ele se afogou. O Corpo de Bombeiros Militar do Amazonas foi acionado, recuperou o corpo e o encaminhou ao Instituto Médico Legal. Policiais militares e civis também atenderam a ocorrência.",
+          "porQueImporta": "O caso evidencia riscos de segurança ao entrar em águas fluviais sem supervisão adequada.",
+          "categoria": "Afogamento",
+          "categoriaSlug": "afogamento",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/11/incendio-atinge-apartamento-no-viver-melhor-2-na-zona-norte-de-manaus-video-mostra-chamas.ghtml"
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/11/homem-morre-afogado-na-praia-da-lua-em-manaus.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T16:16:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xIE-CrUKlC5m66o7Qdm18GLFVjE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/6/zsAko1RNSsBQEsoS4I0w/incendio-atinge-apartamento-em-manaus.jpg"
-        },
+          "updatedAt": "2026-07-11T21:05:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EisQe57nELh6PEWZqBKpSuiGmps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/s/MQ9GH1SryDagx2hd1Hiw/ruan-silveira-morreu-afogado-na-praia-da-lua-em-manaus.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
         {
-          "clusterId": "c57a9ec789a57bb2",
-          "slug": "bb3306612bf3001f",
-          "titulo": "Casa de madeira é totalmente destruída por incêndio em Rio Branco",
-          "resumo": "Um incêndio consumiu completamente uma casa de madeira na Rua Tupi Guarani, no bairro Vitória, em Rio Branco, na manhã de sexta‑feira. As chamas já haviam tomado o imóvel quando os bombeiros chegaram, que também controlaram o fogo e evitaram sua propagação para residências vizinhas. Não houve feridos, mas o fogo destruiu ainda um colchão e duas geladeiras.",
-          "porQueImporta": "O incidente demonstra o risco de incêndios em construções de madeira e a necessidade de vigilância preventiva em áreas residenciais.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "9440a55d42cb6dc8",
+          "slug": "82b5d5d497eab5e1",
+          "titulo": "Explosão deixa dois funcionários feridos em hamburgueria de Uberlândia",
+          "resumo": "Um vazamento de gás ocorreu durante a limpeza da cozinha de uma hamburgueria no bairro Cazeca, em Uberlândia, provocando uma explosão que incendiou o local. Dois funcionários ficaram feridos e foram atendidos pelos serviços de emergência. Cinco trabalhadores estavam no estabelecimento no momento do incidente, conforme o Corpo de Bombeiros.",
+          "porQueImporta": "O caso evidencia riscos de segurança no manuseio de gás em estabelecimentos comerciais.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/07/11/casa-de-madeira-fica-destruida-apos-incendio-em-rio-branco.ghtml"
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/11/explosao-durante-limpeza-causa-incendio-em-hamburgueria-e-deixa-dois-funcionarios-feridos-em-uberlandia.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T15:59:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1R9OO8IqKV8UDTsGpgWNSYolFCU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/h/cbBAprT7mzVJ87ZW1fVQ/midia-de-distribuicao-g1-2026-07-11t102324.461.png"
+          "updatedAt": "2026-07-11T19:42:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UKMSwzKL_pyQZA46SXjJLZAHWvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/y/giA8FNTGyWFsGnpEDobA/design-sem-nome-2026-07-11t164959.200.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "cdf60a6a853feddc",
+          "slug": "a7931131b3cdecc6",
+          "titulo": "Casal britânico gravemente ferido em incêndio florestal no sul da Espanha",
+          "resumo": "Um casal britânico de férias em Almería foi encontrado semiconsciente, com queimaduras em 40% do corpo, durante as buscas de sobreviventes do incêndio florestal que já havia causado ao menos 12 mortes. O fogo começou a se espalhar na quinta‑feira e consumiu mais de 6.000 hectares da província. Aproximadamente 150 bombeiros e cinco caminhões‑pipa foram mobilizados para combater as chamas.",
+          "porQueImporta": "O evento evidencia a gravidade dos incêndios florestais na região e o risco a turistas e residentes.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/09/incendio-florestal-deixa-mortos-no-sul-da-espanha.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-11T19:21:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VnEWc1084QhoDvDTCWtLMlRhHE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/N/GSgfWXQEAvsPdxb3SO7A/hm0glnnw8aa720o.jpg"
         }
       ]
     }
