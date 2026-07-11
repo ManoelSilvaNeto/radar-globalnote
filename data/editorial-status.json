@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-07-10T18:08:31.313Z",
-  "editionDate": "2026-07-10",
-  "hourUtc": 18,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito e desastres naturais dominam o cenário atual\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-07-11T03:54:07.469Z",
+  "editionDate": "2026-07-11",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
