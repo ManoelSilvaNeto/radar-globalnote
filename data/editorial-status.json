@@ -1,9 +1,15 @@
 {
-  "ranAt": "2026-07-12T10:09:17.556Z",
+  "ranAt": "2026-07-12T14:06:46.202Z",
   "editionDate": "2026-07-12",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e eventos climáticos lideram os registros enquanto desastre sísmico gera crise humanitária\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: erro — sem cota (429)",
+    "cerebras: ok"
+  ]
 }
