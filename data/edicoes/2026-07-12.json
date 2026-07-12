@@ -1,27 +1,48 @@
 {
   "date": "2026-07-12",
-  "generatedAt": "2026-07-12T07:07:44.295Z",
+  "generatedAt": "2026-07-12T10:09:17.556Z",
   "home": [
     {
-      "clusterId": "2470f5964886e9a3",
-      "slug": "284e6804badaab8a",
-      "titulo": "EUA fornecem maior parte da ajuda à Venezuela após terremotos",
-      "resumo": "Os Estados Unidos enviaram a maior parte dos recursos econômicos e operacionais para atender à emergência causada pelos terremotos na Venezuela. A ação gerou questionamentos e críticas sobre a motivação da ajuda.",
-      "porQueImporta": "A assistência internacional influencia a resposta humanitária e as relações políticas na região",
+      "clusterId": "8c2b3a4d21d82590",
+      "slug": "46f12df860e7bfca",
+      "titulo": "Tufão Bavi provoca evacuações de mais de 1,8 milhão de pessoas na China e deixa 17 mortos nas Filipinas",
+      "resumo": "O tufão Bavi avançou pelo sul do Japão, norte de Taiwan e chegou à costa leste da China, onde autoridades retiraram mais de 1,8 milhão de moradores de áreas de risco. Nas Filipinas, as fortes chuvas associadas ao ciclone causaram deslizamentos e enchentes que resultaram em 17 mortes, com nove pessoas ainda desaparecidas. A tempestade ainda traz risco de chuvas intensas e enchentes na região chinesa.",
+      "porQueImporta": "A magnitude das evacuações e o número de vítimas evidenciam o potencial destrutivo do ciclone na Ásia Oriental.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/10/tufao-bavi-provoca-mortes-filipinas-e-deixa-taiwan-em-alerta.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/tufao-bavi-atinge-o-leste-da-china-e-ameaca-dias-de-chuvas-intensas/"
+        }
+      ],
+      "updatedAt": "2026-07-12T07:31:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/sLBYbAq8MyM8IXwFL8nyYqHjC9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/B/PyFbyDSyydus8WLqQZGg/afp-20260710-b9u38nh-v3-highres-topshottaiwanweathertyphoon-1-.jpg"
+    },
+    {
+      "clusterId": "ac32b5cf30a48b3e",
+      "slug": "7bb339a422428a0f",
+      "titulo": "Mortes ultrapassam 4 mil após terremotos duplos na Venezuela",
+      "resumo": "Os terremotos de 24 de junho, com magnitudes de 7,2 e 7,5, deixaram 4.118 mortos e 16.740 feridos, segundo dados oficiais divulgados nesta sexta-feira. Cerca de 17.907 pessoas permanecem desabrigadas e, desde 2 de julho, as autoridades não anunciaram novos resgates de sobreviventes. A situação ocorre enquanto o país inicia a fase de reconstrução e enfrenta críticas à resposta governamental.",
+      "porQueImporta": "O desastre gera uma crise humanitária de grande escala e demanda resposta nacional e internacional.",
       "categoria": "Terremoto",
       "categoriaSlug": "terremoto",
       "sources": [
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c4gyjn4qzd1o?at_medium=RSS&at_campaign=rss"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/10/terremotos-da-venezuela-numero-de-mortos-sobe-para-4118.ghtml"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/07/12/quantos-bilhoes-custara-reconstruir-a-venezuela-apos-terremotos-e-quem-pagara-a-conta.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/venezuela-nao-acha-sobreviventes-de-terremotos-ha-mais-de-uma-semana"
         }
       ],
-      "updatedAt": "2026-07-12T07:00:58.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf85/live/ebd93850-7b8e-11f1-881d-8fcf7e2296a7.jpg"
+      "updatedAt": "2026-07-12T07:30:47.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YI67KBBNHxpZvbGXNmdVA_QHpPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/722BxsRAeZWF21pH5MoA/afp-20260709-b9tc6tw-v1-midres-venezuelaearthquakeaftermath.jpg"
     },
     {
       "clusterId": "e9909cb36a6233a4",
@@ -45,25 +66,104 @@
       "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/canoas2.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "413c0d6c226b9464",
-      "slug": "e4353890432e91b0",
-      "titulo": "Casal britânico resgatado com 40% do corpo queimado em incêndio florestal em Almería",
-      "resumo": "Um casal britânico de férias em Almería foi encontrado semiconsciente e gravemente queimado, com 40% do corpo queimado, durante buscas por sobreviventes de um incêndio florestal que já havia causado pelo menos 12 mortes na província. O fogo começou na quinta-feira e queimou mais de 6.000 hectares. O casal estava caminhando quando foi surpreendido pelo incêndio.",
-      "porQueImporta": "O caso destaca a gravidade e a rapidez dos incêndios florestais no sul da Espanha, afetando turistas e residentes.",
+      "clusterId": "9f99a2fe68e70d1d",
+      "slug": "141748118d5c3c49",
+      "titulo": "Piso de casa de eventos desaba durante festa de 15 anos em Belém",
+      "resumo": "Na madrugada de 5 de julho, parte do piso de uma casa de eventos em Belém cedeu enquanto ocorria uma festa de 15 anos, fazendo com que convidados caíssem para a área inferior. Aproximadamente 230 pessoas estavam presentes no local. A Polícia Civil do Pará registrou depoimentos e continua investigando as causas do desabamento. O estabelecimento permanece interditado, sem previsão de reabertura.",
+      "porQueImporta": "O incidente evidencia riscos estruturais em locais de grande aglomeração e gera preocupação de segurança pública",
+      "categoria": "Desabamento",
+      "categoriaSlug": "desabamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pa/para/noticia/2026/07/12/uma-semana-apos-piso-desabar-em-festa-de-15-anos-local-segue-interditado.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-12T10:00:10.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/VMPlFeg_v9dDxrER8l7l6XS5C2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/V/QC8t6eTbSWmH0iYG040A/desabamento-2-2-.gif"
+    },
+    {
+      "clusterId": "e34a1bb1695bf5f5",
+      "slug": "ca52dd0aa032dd8d",
+      "titulo": "Homem é encontrado em bar após esfaquear companheira e deixá‑la trancada em casa no Paraná",
+      "resumo": "Na noite de 27 de junho, em Guarapuava (PR), o suspeito Anderson José da Fonseca esfaqueou a companheira Suelen Cristina Cordeiro cerca de 28 vezes e a deixou trancada dentro da residência. Vizinhos ouviram os gritos, tentaram entrar e registraram a situação em câmeras de segurança, mas a vítima não resistiu aos ferimentos e morreu no local. A polícia local encontrou o suspeito em um bar algumas horas depois do crime.",
+      "porQueImporta": "O caso evidencia violência doméstica grave e a necessidade de respostas rápidas das autoridades e da comunidade.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/12/suspeito-foi-para-o-bar-depois-de-matar-companheira-com-28-facadas-dentro-de-casa-trancada-no-parana-vizinhos-tentaram-salva-la.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-12T09:00:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zMOR7NmGQQZhm9sX_thpZg2PZkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/a/mri2hOTdyyeFco2E3Huw/snapshot-1213.png"
+    },
+    {
+      "clusterId": "7589b2708c602db4",
+      "slug": "8469497f33de1e10",
+      "titulo": "Oceano registra temperatura recorde",
+      "resumo": "O oceano atingiu a maior temperatura já registrada, absorvendo cerca de 90% do calor adicional causado pelos gases de efeito estufa. Esse aquecimento eleva o nível do mar, intensifica tempestades e pode causar enchentes repentinas, além de impactar a vida marinha. A expansão da água quente tem sido o principal fator da elevação do nível do mar nas últimas décadas.",
+      "porQueImporta": "O aumento da temperatura oceânica pode amplificar eventos climáticos extremos e afetar ecossistemas e comunidades costeiras.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/12/aquecimento-dos-oceanos-veja-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-12T08:00:43.000Z"
+    },
+    {
+      "clusterId": "3193985b68ce522e",
+      "slug": "ecebec82729cecc3",
+      "titulo": "Ataque a navio no Estreito de Ormuz deixa um desaparecido e dez resgatados",
+      "resumo": "Um navio comercial foi atingido por um ataque que provocou incêndio e danos na casa de máquinas no Estreito de Ormuz. As autoridades dos EUA atribuíram a ação à Guarda Revolucionária do Irã. Dez tripulantes foram resgatados e um permanece desaparecido. O incidente gerou preocupação sobre a segurança da navegação na região.",
+      "porQueImporta": "Afeta a segurança marítima e o comércio internacional na região do Estreito de Ormuz",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/ataque-a-navio-no-estreito-de-ormuz-deixa-um-desaparecido-e-dez-resgatados/"
+        }
+      ],
+      "updatedAt": "2026-07-12T07:52:59.000Z"
+    },
+    {
+      "clusterId": "d64f1e9b39658333",
+      "slug": "1093019012cbbeaa",
+      "titulo": "Instituto Federal do Amazonas implementa IA para prever queimadas com 14 dias de antecedência",
+      "resumo": "O Instituto Federal do Amazonas iniciará, até agosto, a operação de um sistema de inteligência artificial que antecipa incêndios na região amazônica com duas semanas de antecedência. A ferramenta será usada durante o período de intensificação da seca, visando melhorar a resposta às queimadas.",
+      "porQueImporta": "A previsão antecipada pode reduzir danos ambientais e facilitar intervenções rápidas contra incêndios",
       "categoria": "Incêndio florestal",
       "categoriaSlug": "incendio-florestal",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/10/turistas-morrem-carbonizados-dentro-de-carro-em-incendio-florestal-na-espanha.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/incendio-na-espanha-casal-britanico-e-resgato-com-40-do-corpo-queimado/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/ia-contra-o-fogo-tecnologia-preve-queimadas-na-amazonia-14-dias-antes"
         }
       ],
-      "updatedAt": "2026-07-11T21:50:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/FUZ8Dt97Phq8dCybGD7_MTGdnjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/D/SthOa8TteIFVJw4mWlVw/2026-07-10t192908z-893378915-rc26bmasj9es-rtrmadp-3-europe-weather-spain-wildfire.jpg"
+      "updatedAt": "2026-07-12T07:30:40.000Z",
+      "imageUrl": "https://images.metroimg.com/2025/11/14160808/incendio-na-amazonia.jpg"
+    },
+    {
+      "clusterId": "da63336598a196ca",
+      "slug": "a67f54571420954d",
+      "titulo": "Risco de super El Niño aumenta e gera alerta no Brasil",
+      "resumo": "Especialistas apontam que a probabilidade de um evento de super El Niño está em ascensão, o que pode intensificar chuvas, tempestades, secas e ondas de calor em diferentes regiões do país. O monitoramento climático foi elevado a nível de alerta, indicando a necessidade de preparação das autoridades e da população. As projeções sugerem impactos variáveis, com maior risco de enchentes no Sudeste e aumento de temperaturas extremas no Norte. As agências de defesa civil recomendam revisão de planos de contingência e monitoramento contínuo dos indicadores climáticos.",
+      "porQueImporta": "A intensificação do super El Niño pode gerar eventos climáticos extremos que afetam vidas e infraestrutura",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/risco-super-el-nino-alerta-brasil"
+        }
+      ],
+      "updatedAt": "2026-07-12T07:30:28.000Z",
+      "imageUrl": "https://images.metroimg.com/2024/07/31162005/310724-BE-100-dias-sem-chuva174-min.jpg"
     },
     {
       "clusterId": "6dfc99d78f7e8807",
@@ -81,265 +181,88 @@
       ],
       "updatedAt": "2026-07-12T06:30:12.000Z",
       "imageUrl": "https://images.metroimg.com/2026/03/violencia-mulher.jpg"
-    },
-    {
-      "clusterId": "068e55023368f615",
-      "slug": "05b192651f98bc9f",
-      "titulo": "Terremoto duplo na Venezuela deixa milhares de mortos e desabrigados",
-      "resumo": "Um terremoto duplo de magnitudes 7,2 e 7,5 atingiu a Venezuela em 24 de junho, provocando o colapso de centenas de edifícios, sobretudo em La Guaira. As autoridades locais informaram que o número de mortos está entre 4.118 e 4.333, com 16.740 feridos e cerca de 17 mil pessoas desabrigadas. Bombeiros voluntários de diferentes estados brasileiros participaram de missões de busca e resgate e retornaram ao Brasil após a operação. Informações falsas sobre a causa do sismo, envolvendo o projeto HAARP, foram desmentidas pelas autoridades.",
-      "porQueImporta": "O desastre evidencia a vulnerabilidade sísmica da região e a necessidade de apoio humanitário internacional.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/10/bombeiros-de-sp-encerram-missao-de-resgate-na-venezuela-apos-terremoto-e-iniciam-retorno-ao-brasil.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-12T04:00:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/J2XIvKQ3gs3E1xUMRgnCYF5997k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/T/JtSjUwQkSiyLydupV45g/whatsapp-image-2026-07-10-at-08.03.47.jpeg"
-    },
-    {
-      "clusterId": "fedef7cd0dcdc795",
-      "slug": "cc47fbb835669ddc",
-      "titulo": "Granizo deixa cerca de 400 pessoas desalojadas em Eldorado do Sul",
-      "resumo": "Um temporal com granizo atingiu Eldorado do Sul, danificando ao menos 101 residências. Aproximadamente 400 moradores ficaram sem abrigo. As autoridades municipais distribuíram lonas e abriram um abrigo para atender os afetados.",
-      "porQueImporta": "A ocorrência evidencia a vulnerabilidade da população a eventos climáticos severos e a necessidade de respostas emergenciais rápidas.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-brasil/temporal-com-granizo-deixa-400-desalojados-em-eldorado-do-sul/"
-        }
-      ],
-      "updatedAt": "2026-07-12T01:21:45.000Z"
-    },
-    {
-      "clusterId": "0b7bbc735e2bcc1a",
-      "slug": "630891202f546ad6",
-      "titulo": "Duas crianças morrem na Síria após balsa colidir com ponte",
-      "resumo": "Uma balsa que transportava cerca de 35 pessoas colidiu com uma ponte na Síria, resultando na morte de duas crianças. Cerca de 15 pessoas foram resgatadas depois de cair no rio, enquanto outras permaneceram na embarcação. A ocorrência deixou vítimas fatais e dezenas de pessoas em situação de risco.",
-      "porQueImporta": "O acidente evidencia riscos de transporte fluvial em áreas de conflito, afetando civis vulneráveis.",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/duas-criancas-morrem-na-siria-apos-balsa-colidir-com-ponte/"
-        }
-      ],
-      "updatedAt": "2026-07-12T00:29:06.000Z"
-    },
-    {
-      "clusterId": "7967a1afbc1f6849",
-      "slug": "be284c56d27251f0",
-      "titulo": "Justiça mantém prisão temporária de trader e mais suspeitos de estelionato e lavagem de dinheiro no Piauí",
-      "resumo": "A Justiça concedeu prisão temporária a Douglas Fonseca Araújo, identificado como trader, e a dez demais investigados por estelionato qualificado, associação criminosa e lavagem de dinheiro. A decisão foi tomada durante a audiência de custódia e a medida tem prazo inicial de cinco dias, podendo ser prorrogada por mais cinco. As autoridades apontam que o trader prometia lucros mensais de até 10% e teria mais de setenta vítimas. O advogado Djalma Filho confirmou a prisão dos acusados.",
-      "porQueImporta": "O caso evidencia um esquema de fraude financeira que afetou dezenas de pessoas no estado",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/11/prisao-trader-suspeitos-estelionato-e-lavagem-de-dinheiro.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-12T00:17:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IgZ7v1vP4AGDpeQ-VQ7CsW7LDl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/iU0FUgTSeQfAWfZ7vS5g/edicao-imagens-g1-17-.png"
-    },
-    {
-      "clusterId": "0f9460b466f2789b",
-      "slug": "0ad253874fb39975",
-      "titulo": "Acidente entre dois carros e uma moto deixa duas feridas na ponte do Urumari em Santarém",
-      "resumo": "No início da noite de sábado, na rodovia Curuá-Una, próximo à ponte do Urumari, em Santarém (PA), dois carros colidiram e atingiram uma motocicleta. O choque resultou em duas pessoas feridas. As primeiras informações apontam que a colisão ocorreu entre os veículos de passeio, que depois impactaram a moto. As autoridades foram acionadas para atender as vítimas.",
-      "porQueImporta": "Acidentes de trânsito com múltiplos veículos aumentam o risco de ferimentos graves e demandam resposta rápida dos serviços de emergência.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/11/motorista-foge-apos-acidente-entre-dois-carros-e-uma-moto-na-ponte-do-urumari-em-santarem-no-para.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-11T23:31:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/BEnUZ83YTSIIaW91pUnbTgdqZ8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/2/DKSzI4Rx6byfAioYkmvg/acidente-1107.jpeg"
-    },
-    {
-      "clusterId": "53418c504dc0f762",
-      "slug": "aca1145bc921324b",
-      "titulo": "Acidente entre ônibus de turismo e caminhão deixa duas mortes e dezenas de feridos na BR-267",
-      "resumo": "Um ônibus de turismo colidiu com a estrutura de um caminhão na BR-267, entre Cambuquira e Conceição do Rio Verde, resultando na morte de duas mulheres e ferindo dezenas de passageiros. Muitos viajantes estavam dormindo quando ocorreu a batida, e pessoas que passavam pela rodovia ajudaram no resgate. O acidente gerou momentos de desespero entre os sobreviventes, que relataram ter ouvido apenas uma explosão antes da colisão.",
-      "porQueImporta": "O incidente evidencia riscos de segurança nas rodovias e a necessidade de respostas rápidas em acidentes de grande escala.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/11/so-escutamos-uma-explosao-sobrevivente-relata-desespero-apos-acidente-com-onibus-na-br-267.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-11T22:20:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/dVpnTwIoz1Q7s0zh2uo7g6VDOxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/h/KOat0qShGB3GBknvXCLw/acidente-brrbrb.jpeg"
     }
   ],
   "categorias": [
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "0f9460b466f2789b",
-          "slug": "0ad253874fb39975",
-          "titulo": "Acidente entre dois carros e uma moto deixa duas feridas na ponte do Urumari em Santarém",
-          "resumo": "No início da noite de sábado, na rodovia Curuá-Una, próximo à ponte do Urumari, em Santarém (PA), dois carros colidiram e atingiram uma motocicleta. O choque resultou em duas pessoas feridas. As primeiras informações apontam que a colisão ocorreu entre os veículos de passeio, que depois impactaram a moto. As autoridades foram acionadas para atender as vítimas.",
-          "porQueImporta": "Acidentes de trânsito com múltiplos veículos aumentam o risco de ferimentos graves e demandam resposta rápida dos serviços de emergência.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "8c2b3a4d21d82590",
+          "slug": "46f12df860e7bfca",
+          "titulo": "Tufão Bavi provoca evacuações de mais de 1,8 milhão de pessoas na China e deixa 17 mortos nas Filipinas",
+          "resumo": "O tufão Bavi avançou pelo sul do Japão, norte de Taiwan e chegou à costa leste da China, onde autoridades retiraram mais de 1,8 milhão de moradores de áreas de risco. Nas Filipinas, as fortes chuvas associadas ao ciclone causaram deslizamentos e enchentes que resultaram em 17 mortes, com nove pessoas ainda desaparecidas. A tempestade ainda traz risco de chuvas intensas e enchentes na região chinesa.",
+          "porQueImporta": "A magnitude das evacuações e o número de vítimas evidenciam o potencial destrutivo do ciclone na Ásia Oriental.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/11/motorista-foge-apos-acidente-entre-dois-carros-e-uma-moto-na-ponte-do-urumari-em-santarem-no-para.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/10/tufao-bavi-provoca-mortes-filipinas-e-deixa-taiwan-em-alerta.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/tufao-bavi-atinge-o-leste-da-china-e-ameaca-dias-de-chuvas-intensas/"
             }
           ],
-          "updatedAt": "2026-07-11T23:31:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/BEnUZ83YTSIIaW91pUnbTgdqZ8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/2/DKSzI4Rx6byfAioYkmvg/acidente-1107.jpeg"
+          "updatedAt": "2026-07-12T07:31:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sLBYbAq8MyM8IXwFL8nyYqHjC9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/B/PyFbyDSyydus8WLqQZGg/afp-20260710-b9u38nh-v3-highres-topshottaiwanweathertyphoon-1-.jpg"
         },
         {
-          "clusterId": "53418c504dc0f762",
-          "slug": "aca1145bc921324b",
-          "titulo": "Acidente entre ônibus de turismo e caminhão deixa duas mortes e dezenas de feridos na BR-267",
-          "resumo": "Um ônibus de turismo colidiu com a estrutura de um caminhão na BR-267, entre Cambuquira e Conceição do Rio Verde, resultando na morte de duas mulheres e ferindo dezenas de passageiros. Muitos viajantes estavam dormindo quando ocorreu a batida, e pessoas que passavam pela rodovia ajudaram no resgate. O acidente gerou momentos de desespero entre os sobreviventes, que relataram ter ouvido apenas uma explosão antes da colisão.",
-          "porQueImporta": "O incidente evidencia riscos de segurança nas rodovias e a necessidade de respostas rápidas em acidentes de grande escala.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "e9909cb36a6233a4",
+          "slug": "25017ca3461512cd",
+          "titulo": "Tempestade de granizo causa prejuízos na região metropolitana de Porto Alegre",
+          "resumo": "Granizo atingiu cidades da região metropolitana de Porto Alegre durante a madrugada, derrubando dezenas de árvores, postes e destelhando mais de cem casas em Eldorado do Sul. A ventania deixou o trânsito lento na BR-290, quando uma árvore caiu e uma carreta saiu da pista, mas o motorista não se feriu. Moradores do bairro Parque Eldorado, com cerca de 10 mil habitantes, relataram prejuízos e tiveram que trabalhar o dia todo para avaliar os danos. A tempestade também deixou 460 pessoas desabrigadas em Eldorado do Sul e Canoas.",
+          "porQueImporta": "O evento causou danos materiais significativos e deslocamento de centenas de pessoas, impactando a infraestrutura e a segurança pública da região.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/temporal-destelha-mais-de-100-casas-e-deixa-460-desalojados-na-regiao-metropolitana-de-porto-alegre/"
+            },
+            {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/11/so-escutamos-uma-explosao-sobrevivente-relata-desespero-apos-acidente-com-onibus-na-br-267.ghtml"
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/11/forte-tempestade-de-granizo-causa-prejuizos-e-destelha-casas-no-rs.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T22:20:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dVpnTwIoz1Q7s0zh2uo7g6VDOxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/h/KOat0qShGB3GBknvXCLw/acidente-brrbrb.jpeg"
+          "updatedAt": "2026-07-12T00:13:18.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/canoas2.jpg?quality=70&strip=info"
         },
         {
-          "clusterId": "2b5e3cbc3a14179b",
-          "slug": "3a930e0c479c78e9",
-          "titulo": "Motorista que atropelou e matou homem em Franca pode responder por homicídio qualificado",
-          "resumo": "Um motorista ainda não identificado atropelou e matou Alexsander Tercilio Mota Moreno, de 33 anos, em Franca (SP) nesta semana. Segundo o advogado criminalista Márcio Cunha, ouvido pela EPTV, o condutor pode ser responsabilizado por homicídio qualificado, com pena de 12 a 30 anos, dependendo da investigação da Polícia Civil e da decisão do Ministério Público e da Justiça.",
-          "porQueImporta": "O caso evidencia a possibilidade de responsabilização penal em acidentes de trânsito com vítima fatal",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "da63336598a196ca",
+          "slug": "a67f54571420954d",
+          "titulo": "Risco de super El Niño aumenta e gera alerta no Brasil",
+          "resumo": "Especialistas apontam que a probabilidade de um evento de super El Niño está em ascensão, o que pode intensificar chuvas, tempestades, secas e ondas de calor em diferentes regiões do país. O monitoramento climático foi elevado a nível de alerta, indicando a necessidade de preparação das autoridades e da população. As projeções sugerem impactos variáveis, com maior risco de enchentes no Sudeste e aumento de temperaturas extremas no Norte. As agências de defesa civil recomendam revisão de planos de contingência e monitoramento contínuo dos indicadores climáticos.",
+          "porQueImporta": "A intensificação do super El Niño pode gerar eventos climáticos extremos que afetam vidas e infraestrutura",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/11/motorista-que-atropelou-e-matou-homem-em-franca-sp-pode-responder-por-homicidio-qualificado-diz-criminalista.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/risco-super-el-nino-alerta-brasil"
             }
           ],
-          "updatedAt": "2026-07-11T22:17:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7MrGhXLf4g9zTFpn3l6Sh4lhPug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/2/6UIPCdTe6xYoYWhQ52qQ/molduras-g1-1-.png"
+          "updatedAt": "2026-07-12T07:30:28.000Z",
+          "imageUrl": "https://images.metroimg.com/2024/07/31162005/310724-BE-100-dias-sem-chuva174-min.jpg"
         },
         {
-          "clusterId": "14a4de77384e40a6",
-          "slug": "e55831253626bab8",
-          "titulo": "Acidente entre duas carretas e ônibus de cantor interdita trecho da MT-130",
-          "resumo": "Na manhã deste sábado, duas carretas colidiram com o ônibus do cantor Matheuzinho Sucessinho na rodovia MT-130, entre Primavera do Leste e Paranatinga. Nenhum ferido foi registrado, conforme informado pelo artista. O acidente deixou os veículos sobre a pista, obrigando a interdição parcial do trânsito na região. As causas ainda estão sob investigação.",
-          "porQueImporta": "O bloqueio parcial da rodovia pode gerar atrasos e impactar o tráfego local.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "07eefa20f698f3f6",
+          "slug": "866ce1a972c14560",
+          "titulo": "Supertufão Bavi atinge leste da China com ventos de 145 km/h",
+          "resumo": "O supertufão Bavi chegou ao leste da China neste sábado, tocando o solo na província de Zhejiang por volta das 23h20 (horário local). A agência Xinhua informou ventos de até 145 km/h e grandes ondas na região. Mais de 1,7 milhão de moradores foram evacuados como medida preventiva. Ondas também foram registradas na costa de Yilan, em Taiwan, enquanto o ciclone avançava.",
+          "porQueImporta": "A tempestade pode causar danos extensos e risco à população nas áreas costeiras afetadas",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/11/acidente-entre-duas-carretas-e-onibus-do-cantor-matheuzinho-sucessinho-interdita-trecho-da-mt-130.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/11/fotos-supertufao-bavi-chega-ao-leste-da-china-com-ventos-de-145-kmh-e-grandes-ondas.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T22:09:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/iJPDJ-Pf151ilMvOZQACfvaz3LI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/N/DkIfphTC6jfP4oWzNkaA/videos-g1-61-.gif"
-        },
-        {
-          "clusterId": "0285f25c046c29f1",
-          "slug": "d4ca2a288e7e92cd",
-          "titulo": "Acidente de carro deixa mãe e filha mortas e quatro feridos em Granja (CE)",
-          "resumo": "Um acidente envolvendo um automóvel ocorreu na CE-362, na localidade de Baixa do Vei, entre Granja e Martinópole, neste sábado. As vítimas eram a motorista de 21 anos, Vitória Sousa Chagas Moura, e sua mãe de 50 anos, Raimunda Coelho de Sousa, que morreram no local. Quatro ocupantes do veículo ficaram feridos e foram socorridos. As autoridades registraram o incidente e encaminharam os feridos para atendimento médico.",
-          "porQueImporta": "O acidente resultou em duas mortes e múltiplas lesões, demandando resposta de emergência e investigação de causas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/11/acidente-de-carro-em-granja.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T21:59:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/2vszpn0D473bgWcbwQTU-L6SOAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/M/OnnoBxRGCzJWe8TmZ2fA/whatsapp-image-2026-07-11-at-18.22.00.jpeg"
-        },
-        {
-          "clusterId": "2269716061e6702f",
-          "slug": "7f136536464362f9",
-          "titulo": "Secretário de Finanças de Casa Nova morre em acidente de trânsito na BR-235",
-          "resumo": "Leandro Maia, secretário de Finanças de Casa Nova (BA), faleceu em acidente de trânsito na BR-235, na divisa entre Bahia e Pernambuco, neste sábado. Segundo a prefeitura, o carro do servidor colidiu de frente com um caminhão; as causas do acidente não foram detalhadas. O prefeito Anísio Viana (PSDB) lamentou a perda e enviou solidariedade à família e aos colegas de trabalho.",
-          "porQueImporta": "A morte de um dirigente municipal evidencia os riscos nas rodovias e gera impacto na administração local.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/11/secretario-municipal-de-financas-de-casa-nova.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T21:39:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/EH2Ipq-dXGnEKJFbt34RsoHfsIU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/k/YfCXmuSl66qvrDkTSx1Q/leandro-maia.jpg"
-        },
-        {
-          "clusterId": "4549610b1b784d46",
-          "slug": "21b05a8cae68647e",
-          "titulo": "Acidente entre duas carretas deixa cabine destruída na PI-112",
-          "resumo": "Na manhã de sábado, duas carretas carregadas com cana‑de‑açúcar colidiram na rodovia PI-112, entre Teresina e União, quando uma delas atingiu a traseira da outra. A cabine de uma das carretas ficou destruída, mas o motorista saiu ileso. O condutor do segundo veículo informou que uma falha mecânica o fez reduzir a velocidade. As causas do acidente serão investigadas pelas autoridades rodoviárias.",
-          "porQueImporta": "O incidente evidencia riscos de falhas mecânicas em transportes de carga nas rodovias estaduais, afetando a segurança dos motoristas e do tráfego.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/11/batida-carretas-cana-de-acucar.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T21:36:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fAjqfpMtOmaeIkkPNsUv7MNaDLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/D/R4zLRxRkyozcRAHshvtg/edicao-imagens-g1-20-.png"
-        },
-        {
-          "clusterId": "262a98e46c653045",
-          "slug": "2f882b301e1b07c0",
-          "titulo": "Acidente entre caminhão e três carros deixa quatro feridos na Via Dutra em Jacareí",
-          "resumo": "Um caminhão colidiu com três veículos na Via Dutra, em Jacareí, por volta das 15h, no sentido São Paulo, antes da praça de pedágio. As equipes de emergência resgataram vítimas que ficaram presas nos veículos. Quatro pessoas foram encaminhadas a hospitais de São José dos Campos após o atendimento no local.",
-          "porQueImporta": "O acidente gerou feridos que necessitaram de atendimento médico e mobilizou serviços de socorro na rodovia.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/11/acidente-entre-caminhao-e-tres-carros-deixa-quatro-feridos-na-via-dutra-em-jacarei.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T21:30:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bK7EuupQ3gE2HXL8-T8Ah8EGy-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/q/vcWX0AQAe5Z29bVEgL1A/foto-g1-17-.png"
-        },
-        {
-          "clusterId": "9d7682780c960dc2",
-          "slug": "d507d5167a33daa0",
-          "titulo": "Polícia civil aguarda exame de DNA para confirmar identidade de mulher morta em acidente com Porsche em Campinas",
-          "resumo": "Uma Porsche Cayman colidiu com uma árvore e incendiou-se na noite de sexta-feira na Rodovia Francisco von Zuben, em Campinas, resultando na morte de duas pessoas carbonizadas. A polícia civil espera o resultado de exame de DNA para confirmar a identidade da mulher entre as vítimas. O pai da mulher procurou a delegacia relatando falta de contato desde a noite do acidente. O boletim de ocorrência indica que o último contato da jovem foi uma foto do carro enviada à irmã.",
-          "porQueImporta": "O caso envolve duas mortes e a necessidade de identificação oficial da vítima, o que tem implicações para as investigações e para a família.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/policia-aguarda-dna-para-confirmar-identidade-de-mulher-morta-apos-porsche-pegar-fogo-apos-batida.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T21:27:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rvytOEh5JKTCDpWEGQs6Qs_taH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/D/XwZEk7Rra8PjOX9zf3oA/copia-de-1200px-x-900px-5-.jpg"
+          "updatedAt": "2026-07-11T18:56:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/psZDYCWgN1prK7KYzArc7xeJgok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/m/GT2rjoQo227gzPtFdNog/chatgpt-image-11-de-jul.-de-2026-15-48-31.png"
         }
       ]
     },
@@ -348,28 +271,28 @@
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "2470f5964886e9a3",
-          "slug": "284e6804badaab8a",
-          "titulo": "EUA fornecem maior parte da ajuda à Venezuela após terremotos",
-          "resumo": "Os Estados Unidos enviaram a maior parte dos recursos econômicos e operacionais para atender à emergência causada pelos terremotos na Venezuela. A ação gerou questionamentos e críticas sobre a motivação da ajuda.",
-          "porQueImporta": "A assistência internacional influencia a resposta humanitária e as relações políticas na região",
+          "clusterId": "ac32b5cf30a48b3e",
+          "slug": "7bb339a422428a0f",
+          "titulo": "Mortes ultrapassam 4 mil após terremotos duplos na Venezuela",
+          "resumo": "Os terremotos de 24 de junho, com magnitudes de 7,2 e 7,5, deixaram 4.118 mortos e 16.740 feridos, segundo dados oficiais divulgados nesta sexta-feira. Cerca de 17.907 pessoas permanecem desabrigadas e, desde 2 de julho, as autoridades não anunciaram novos resgates de sobreviventes. A situação ocorre enquanto o país inicia a fase de reconstrução e enfrenta críticas à resposta governamental.",
+          "porQueImporta": "O desastre gera uma crise humanitária de grande escala e demanda resposta nacional e internacional.",
           "categoria": "Terremoto",
           "categoriaSlug": "terremoto",
           "sources": [
             {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c4gyjn4qzd1o?at_medium=RSS&at_campaign=rss"
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/10/terremotos-da-venezuela-numero-de-mortos-sobe-para-4118.ghtml"
             },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/economia/noticia/2026/07/12/quantos-bilhoes-custara-reconstruir-a-venezuela-apos-terremotos-e-quem-pagara-a-conta.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/venezuela-nao-acha-sobreviventes-de-terremotos-ha-mais-de-uma-semana"
             }
           ],
-          "updatedAt": "2026-07-12T07:00:58.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf85/live/ebd93850-7b8e-11f1-881d-8fcf7e2296a7.jpg"
+          "updatedAt": "2026-07-12T07:30:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YI67KBBNHxpZvbGXNmdVA_QHpPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/722BxsRAeZWF21pH5MoA/afp-20260709-b9tc6tw-v1-midres-venezuelaearthquakeaftermath.jpg"
         },
         {
-          "clusterId": "068e55023368f615",
+          "clusterId": "04d171620e7f6512",
           "slug": "05b192651f98bc9f",
           "titulo": "Terremoto duplo na Venezuela deixa milhares de mortos e desabrigados",
           "resumo": "Um terremoto duplo de magnitudes 7,2 e 7,5 atingiu a Venezuela em 24 de junho, provocando o colapso de centenas de edifícios, sobretudo em La Guaira. As autoridades locais informaram que o número de mortos está entre 4.118 e 4.333, com 16.740 feridos e cerca de 17 mil pessoas desabrigadas. Bombeiros voluntários de diferentes estados brasileiros participaram de missões de busca e resgate e retornaram ao Brasil após a operação. Informações falsas sobre a causa do sismo, envolvendo o projeto HAARP, foram desmentidas pelas autoridades.",
@@ -422,86 +345,42 @@
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "e9909cb36a6233a4",
-          "slug": "25017ca3461512cd",
-          "titulo": "Tempestade de granizo causa prejuízos na região metropolitana de Porto Alegre",
-          "resumo": "Granizo atingiu cidades da região metropolitana de Porto Alegre durante a madrugada, derrubando dezenas de árvores, postes e destelhando mais de cem casas em Eldorado do Sul. A ventania deixou o trânsito lento na BR-290, quando uma árvore caiu e uma carreta saiu da pista, mas o motorista não se feriu. Moradores do bairro Parque Eldorado, com cerca de 10 mil habitantes, relataram prejuízos e tiveram que trabalhar o dia todo para avaliar os danos. A tempestade também deixou 460 pessoas desabrigadas em Eldorado do Sul e Canoas.",
-          "porQueImporta": "O evento causou danos materiais significativos e deslocamento de centenas de pessoas, impactando a infraestrutura e a segurança pública da região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/temporal-destelha-mais-de-100-casas-e-deixa-460-desalojados-na-regiao-metropolitana-de-porto-alegre/"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/11/forte-tempestade-de-granizo-causa-prejuizos-e-destelha-casas-no-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-12T00:13:18.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/canoas2.jpg?quality=70&strip=info"
-        },
-        {
-          "clusterId": "fedef7cd0dcdc795",
-          "slug": "cc47fbb835669ddc",
-          "titulo": "Granizo deixa cerca de 400 pessoas desalojadas em Eldorado do Sul",
-          "resumo": "Um temporal com granizo atingiu Eldorado do Sul, danificando ao menos 101 residências. Aproximadamente 400 moradores ficaram sem abrigo. As autoridades municipais distribuíram lonas e abriram um abrigo para atender os afetados.",
-          "porQueImporta": "A ocorrência evidencia a vulnerabilidade da população a eventos climáticos severos e a necessidade de respostas emergenciais rápidas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-brasil/temporal-com-granizo-deixa-400-desalojados-em-eldorado-do-sul/"
-            }
-          ],
-          "updatedAt": "2026-07-12T01:21:45.000Z"
-        },
-        {
-          "clusterId": "07eefa20f698f3f6",
-          "slug": "866ce1a972c14560",
-          "titulo": "Supertufão Bavi atinge leste da China com ventos de 145 km/h",
-          "resumo": "O supertufão Bavi chegou ao leste da China neste sábado, tocando o solo na província de Zhejiang por volta das 23h20 (horário local). A agência Xinhua informou ventos de até 145 km/h e grandes ondas na região. Mais de 1,7 milhão de moradores foram evacuados como medida preventiva. Ondas também foram registradas na costa de Yilan, em Taiwan, enquanto o ciclone avançava.",
-          "porQueImporta": "A tempestade pode causar danos extensos e risco à população nas áreas costeiras afetadas",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/11/fotos-supertufao-bavi-chega-ao-leste-da-china-com-ventos-de-145-kmh-e-grandes-ondas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T18:56:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/psZDYCWgN1prK7KYzArc7xeJgok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/m/GT2rjoQo227gzPtFdNog/chatgpt-image-11-de-jul.-de-2026-15-48-31.png"
-        },
-        {
-          "clusterId": "666038f672f8aca8",
-          "slug": "46f12df860e7bfca",
-          "titulo": "Tufão Bavi provoca evacuações de mais de 1,8 milhão de pessoas na China e deixa 17 mortos nas Filipinas",
-          "resumo": "O tufão Bavi avançou pelo sul do Japão, norte de Taiwan e chegou à costa leste da China, onde autoridades retiraram mais de 1,8 milhão de moradores de áreas de risco. Nas Filipinas, as fortes chuvas associadas ao ciclone causaram deslizamentos e enchentes que resultaram em 17 mortes, com nove pessoas ainda desaparecidas. A tempestade ainda traz risco de chuvas intensas e enchentes na região chinesa.",
-          "porQueImporta": "A magnitude das evacuações e o número de vítimas evidenciam o potencial destrutivo do ciclone na Ásia Oriental.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/10/tufao-bavi-provoca-mortes-filipinas-e-deixa-taiwan-em-alerta.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-11T12:06:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sLBYbAq8MyM8IXwFL8nyYqHjC9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/B/PyFbyDSyydus8WLqQZGg/afp-20260710-b9u38nh-v3-highres-topshottaiwanweathertyphoon-1-.jpg"
-        }
-      ]
-    },
-    {
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "e34a1bb1695bf5f5",
+          "slug": "ca52dd0aa032dd8d",
+          "titulo": "Homem é encontrado em bar após esfaquear companheira e deixá‑la trancada em casa no Paraná",
+          "resumo": "Na noite de 27 de junho, em Guarapuava (PR), o suspeito Anderson José da Fonseca esfaqueou a companheira Suelen Cristina Cordeiro cerca de 28 vezes e a deixou trancada dentro da residência. Vizinhos ouviram os gritos, tentaram entrar e registraram a situação em câmeras de segurança, mas a vítima não resistiu aos ferimentos e morreu no local. A polícia local encontrou o suspeito em um bar algumas horas depois do crime.",
+          "porQueImporta": "O caso evidencia violência doméstica grave e a necessidade de respostas rápidas das autoridades e da comunidade.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/12/suspeito-foi-para-o-bar-depois-de-matar-companheira-com-28-facadas-dentro-de-casa-trancada-no-parana-vizinhos-tentaram-salva-la.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-12T09:00:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zMOR7NmGQQZhm9sX_thpZg2PZkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/a/mri2hOTdyyeFco2E3Huw/snapshot-1213.png"
+        },
+        {
+          "clusterId": "7589b2708c602db4",
+          "slug": "8469497f33de1e10",
+          "titulo": "Oceano registra temperatura recorde",
+          "resumo": "O oceano atingiu a maior temperatura já registrada, absorvendo cerca de 90% do calor adicional causado pelos gases de efeito estufa. Esse aquecimento eleva o nível do mar, intensifica tempestades e pode causar enchentes repentinas, além de impactar a vida marinha. A expansão da água quente tem sido o principal fator da elevação do nível do mar nas últimas décadas.",
+          "porQueImporta": "O aumento da temperatura oceânica pode amplificar eventos climáticos extremos e afetar ecossistemas e comunidades costeiras.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/12/aquecimento-dos-oceanos-veja-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-12T08:00:43.000Z"
+        },
         {
           "clusterId": "6dfc99d78f7e8807",
           "slug": "a3734156ae7d6815",
@@ -543,6 +422,22 @@
       "label": "Naufrágio",
       "stories": [
         {
+          "clusterId": "3193985b68ce522e",
+          "slug": "ecebec82729cecc3",
+          "titulo": "Ataque a navio no Estreito de Ormuz deixa um desaparecido e dez resgatados",
+          "resumo": "Um navio comercial foi atingido por um ataque que provocou incêndio e danos na casa de máquinas no Estreito de Ormuz. As autoridades dos EUA atribuíram a ação à Guarda Revolucionária do Irã. Dez tripulantes foram resgatados e um permanece desaparecido. O incidente gerou preocupação sobre a segurança da navegação na região.",
+          "porQueImporta": "Afeta a segurança marítima e o comércio internacional na região do Estreito de Ormuz",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/ataque-a-navio-no-estreito-de-ormuz-deixa-um-desaparecido-e-dez-resgatados/"
+            }
+          ],
+          "updatedAt": "2026-07-12T07:52:59.000Z"
+        },
+        {
           "clusterId": "0b7bbc735e2bcc1a",
           "slug": "630891202f546ad6",
           "titulo": "Duas crianças morrem na Síria após balsa colidir com ponte",
@@ -582,7 +477,24 @@
       "label": "Incêndio florestal",
       "stories": [
         {
-          "clusterId": "413c0d6c226b9464",
+          "clusterId": "d64f1e9b39658333",
+          "slug": "1093019012cbbeaa",
+          "titulo": "Instituto Federal do Amazonas implementa IA para prever queimadas com 14 dias de antecedência",
+          "resumo": "O Instituto Federal do Amazonas iniciará, até agosto, a operação de um sistema de inteligência artificial que antecipa incêndios na região amazônica com duas semanas de antecedência. A ferramenta será usada durante o período de intensificação da seca, visando melhorar a resposta às queimadas.",
+          "porQueImporta": "A previsão antecipada pode reduzir danos ambientais e facilitar intervenções rápidas contra incêndios",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/ia-contra-o-fogo-tecnologia-preve-queimadas-na-amazonia-14-dias-antes"
+            }
+          ],
+          "updatedAt": "2026-07-12T07:30:40.000Z",
+          "imageUrl": "https://images.metroimg.com/2025/11/14160808/incendio-na-amazonia.jpg"
+        },
+        {
+          "clusterId": "b39ba74b953e21ba",
           "slug": "e4353890432e91b0",
           "titulo": "Casal britânico resgatado com 40% do corpo queimado em incêndio florestal em Almería",
           "resumo": "Um casal britânico de férias em Almería foi encontrado semiconsciente e gravemente queimado, com 40% do corpo queimado, durante buscas por sobreviventes de um incêndio florestal que já havia causado pelo menos 12 mortes na província. O fogo começou na quinta-feira e queimou mais de 6.000 hectares. O casal estava caminhando quando foi surpreendido pelo incêndio.",
@@ -593,36 +505,56 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/07/10/turistas-morrem-carbonizados-dentro-de-carro-em-incendio-florestal-na-espanha.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/incendio-na-espanha-casal-britanico-e-resgato-com-40-do-corpo-queimado/"
             }
           ],
-          "updatedAt": "2026-07-11T21:50:04.000Z",
+          "updatedAt": "2026-07-11T19:21:36.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/FUZ8Dt97Phq8dCybGD7_MTGdnjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/D/SthOa8TteIFVJw4mWlVw/2026-07-10t192908z-893378915-rc26bmasj9es-rtrmadp-3-europe-weather-spain-wildfire.jpg"
         }
       ]
     },
     {
-      "slug": "enchente",
-      "label": "Enchente",
+      "slug": "desabamento",
+      "label": "Desabamento",
       "stories": [
         {
-          "clusterId": "d2d172af3dd81e24",
-          "slug": "037a1e38c55ef556",
-          "titulo": "Tempestade histórica causa graves inundações no Missouri",
-          "resumo": "Uma tempestade no estado do Missouri registrou mais de 300 milímetros de chuva, gerando inundações extensas. O evento foi associado a um padrão raro, que tem se tornado mais frequente devido ao aquecimento global.",
-          "porQueImporta": "As enchentes destacam o aumento de riscos climáticos extremos na região.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "9f99a2fe68e70d1d",
+          "slug": "141748118d5c3c49",
+          "titulo": "Piso de casa de eventos desaba durante festa de 15 anos em Belém",
+          "resumo": "Na madrugada de 5 de julho, parte do piso de uma casa de eventos em Belém cedeu enquanto ocorria uma festa de 15 anos, fazendo com que convidados caíssem para a área inferior. Aproximadamente 230 pessoas estavam presentes no local. A Polícia Civil do Pará registrou depoimentos e continua investigando as causas do desabamento. O estabelecimento permanece interditado, sem previsão de reabertura.",
+          "porQueImporta": "O incidente evidencia riscos estruturais em locais de grande aglomeração e gera preocupação de segurança pública",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/tempestade-historica-provoca-graves-inundacoes-nos-eua/"
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/07/12/uma-semana-apos-piso-desabar-em-festa-de-15-anos-local-segue-interditado.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T21:25:06.000Z"
+          "updatedAt": "2026-07-12T10:00:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VMPlFeg_v9dDxrER8l7l6XS5C2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/V/QC8t6eTbSWmH0iYG040A/desabamento-2-2-.gif"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "0f9460b466f2789b",
+          "slug": "0ad253874fb39975",
+          "titulo": "Acidente entre dois carros e uma moto deixa duas feridas na ponte do Urumari em Santarém",
+          "resumo": "No início da noite de sábado, na rodovia Curuá-Una, próximo à ponte do Urumari, em Santarém (PA), dois carros colidiram e atingiram uma motocicleta. O choque resultou em duas pessoas feridas. As primeiras informações apontam que a colisão ocorreu entre os veículos de passeio, que depois impactaram a moto. As autoridades foram acionadas para atender as vítimas.",
+          "porQueImporta": "Acidentes de trânsito com múltiplos veículos aumentam o risco de ferimentos graves e demandam resposta rápida dos serviços de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/11/motorista-foge-apos-acidente-entre-dois-carros-e-uma-moto-na-ponte-do-urumari-em-santarem-no-para.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-11T23:31:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/BEnUZ83YTSIIaW91pUnbTgdqZ8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/2/DKSzI4Rx6byfAioYkmvg/acidente-1107.jpeg"
         }
       ]
     }
