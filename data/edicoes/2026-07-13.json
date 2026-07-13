@@ -1,12 +1,33 @@
 {
   "date": "2026-07-13",
-  "generatedAt": "2026-07-13T18:17:40.607Z",
+  "generatedAt": "2026-07-13T21:30:13.198Z",
   "home": [
     {
-      "clusterId": "e5e09e7efdca2f37",
+      "clusterId": "eb0a7af0937723d8",
+      "slug": "e63dd16dbe642da3",
+      "titulo": "Mortes por terremoto na Venezuela chegam a 4.561",
+      "resumo": "O número de mortos em decorrência dos terremotos que atingiram a Venezuela subiu para 4.561, conforme anunciado pelo presidente da Assembleia Nacional. O total de feridos permanece em 16.740, com cerca de 17,9 mil pessoas desalojadas e 20,2 mil em acampamentos. Os sismos, de magnitude 7,2 e 7,5, ocorreram em 24 de junho, afetando principalmente a cidade litorânea de La Guaira.",
+      "porQueImporta": "A alta mortalidade e o grande número de deslocados exigem respostas humanitárias urgentes.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/13/terremoto-na-venezuela-numero-de-mortos-sobe-para-4561.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/numero-de-mortos-por-terremotos-na-venezuela-sobe-para-4-561/"
+        }
+      ],
+      "updatedAt": "2026-07-13T21:18:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
+    },
+    {
+      "clusterId": "fc0dccb238304c00",
       "slug": "43c89e8adc98769e",
       "titulo": "Incêndio em pub de Bangkok deixa 27 mortos e 63 feridos",
-      "resumo": "Um incêndio começou por volta da meia-noite em um pub localizado na região norte de Bangkok na segunda‑feira. As chamas foram controladas pelos bombeiros após cerca de meia hora, mas deixaram ao menos 27 mortos e 63 feridos. Imagens mostraram grandes labaredas e fumaça negra saindo da porta frontal enquanto pessoas tentavam escapar.",
+      "resumo": "Um incêndio começou por volta da meia‑noite em um pub localizado na região norte da capital tailandesa, resultando em pelo menos 27 mortes e 63 feridos, dos quais 22 permanecem em estado crítico. Testemunhas registraram a propagação rápida das chamas e a fuga de pessoas, enquanto os bombeiros levaram cerca de meia hora para controlar o fogo. As autoridades confirmaram o número de vítimas e continuam as operações de resgate e investigação.",
       "porQueImporta": "O evento evidencia riscos de segurança em estabelecimentos públicos e a necessidade de respostas rápidas de emergência.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
@@ -16,167 +37,148 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/07/12/incendio-em-pub-em-bangkok-deixa-pelo-menos-27-mortos.ghtml"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/video-mostra-momento-que-fogo-em-bar-de-bangkok-se-espalha/"
-        },
-        {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cewqvp71nz9o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-07-13T17:53:40.000Z",
+      "updatedAt": "2026-07-13T13:43:31.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/wBP1hpOlu0094MGVX_QyzIO9hA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/s/hDQAi6Tfaa6BVBhEh4MA/ap26193693909232.jpg"
     },
     {
-      "clusterId": "fee7737b6ff5f133",
-      "slug": "4e23125fa046672e",
-      "titulo": "Menina de 2 anos morre na garupa de moto em acidente de trânsito em Cuiabá",
-      "resumo": "Uma criança de 2 anos, identificada como Maya Gabriele Mirtes Borges, estava na garupa de uma moto conduzida pela mãe quando ocorreu o acidente em Cuiabá neste domingo. A menina morreu no local e o corpo foi encaminhado ao Hospital Municipal de Cuiabá para liberação. A condição de saúde da mãe não foi divulgada e as circunstâncias do acidente permanecem sob investigação pela Polícia Civil.",
-      "porQueImporta": "O caso destaca riscos de transporte de crianças em motocicletas e a necessidade de fiscalização de segurança viária.",
+      "clusterId": "a2e08fd8a74fa169",
+      "slug": "e53bb84fad16d22e",
+      "titulo": "Instituto Água e Terra investiga vazamento de óleo de xisto em Paranaguá e bombeiros monitoram risco de explosão",
+      "resumo": "Moradores do bairro Serraria da Rocha, em Paranaguá (PR), relataram mau cheiro e acionaram a Defesa Civil e o Corpo de Bombeiros. O Instituto Água e Terra iniciou a investigação de um vazamento de óleo de xisto em galerias de água da chuva. O Corpo de Bombeiros acompanha a situação devido à presença de gás que pode gerar explosão. Até o momento, não houve remoção de pessoas da área.",
+      "porQueImporta": "O vazamento pode contaminar o solo e a água e representar risco de explosão para a população local",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/parana/noticia/2026/07/13/vazamento-de-oleo-no-litoral-do-parana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-13T21:20:32.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/qi1WyEXnDNaB00cAc2DILw62Gy0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/9/lYR52gRqmnw7SJAB2DIA/design-sem-nome-6-.jpg"
+    },
+    {
+      "clusterId": "a301e2f79a103524",
+      "slug": "c97a04e7ad480aa7",
+      "titulo": "Ônibus colide com poste e causa queda de energia em bairro de Belo Horizonte",
+      "resumo": "Na tarde de segunda-feira, um ônibus perdeu o controle e atingiu um poste na esquina da Rua Sararé com a Avenida Amazonas, no bairro Jardinópolis, em Belo Horizonte. O impacto provocou a interrupção do fornecimento de energia elétrica na região. Equipes do Serviço de Atendimento Móvel de Urgência foram acionadas para atender a ocorrência. Até o momento, não há informações sobre feridos ou seu estado de saúde.",
+      "porQueImporta": "O acidente gerou falta de energia e mobilizou serviços de emergência, afetando moradores locais.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/13/menina-de-2-anos-na-garupa-de-moto-morre-apos-acidente-em-cuiaba.ghtml"
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/13/onibus-bate-em-poste-e-deixa-moradores-sem-energia-no-bairro-jardinopolis-em-bh.ghtml"
         }
       ],
-      "updatedAt": "2026-07-13T18:07:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6l9EhTg6OYxKBHaB0yYJXN5wPYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/G/rXyt2kReupyfAEuFJt8w/foto-g1-2026-07-13t133055.400.png"
+      "updatedAt": "2026-07-13T21:19:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/4FTfBM5z9i6f_WO8FkN2-A7QQZ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/p/X9hHHMTiAcdW0kajCLWQ/design-sem-nome-4-.png"
     },
     {
-      "clusterId": "fa1e402f6d911e69",
-      "slug": "0f860fc73c145ec2",
-      "titulo": "Cantora Jéssica Costa morre em colisão de veículos a caminho de show",
-      "resumo": "A cantora Jéssica Costa foi atingida por uma caminhonete enquanto seguia para um show em Timon, Maranhão, e morreu na noite de sábado (11). No acidente também faleceu um homem que estava no mesmo carro. Ela havia concedido entrevista ao g1 em homenagem ao Dia Internacional da Mulher, falando sobre sua paixão por cantar.",
-      "porQueImporta": "O caso evidencia os riscos de deslocamento de artistas e a necessidade de segurança viária em áreas de trânsito.",
+      "clusterId": "aba40fbb7f81348a",
+      "slug": "82190a216598cfe0",
+      "titulo": "Homem morre soterrado durante abertura de vala em Pirapora",
+      "resumo": "Um homem ficou soterrado ao abrir uma vala para instalação de tubulação de captação de água do rio São Francisco na zona rural de Pirapora. A equipe do 2º Pelotão dos Bombeiros foi acionada e constatou o acidente envolvendo dois trabalhadores. O incidente ocorreu a cerca de dois quilômetros da cidade, na segunda‑feira. O homem morreu no local.",
+      "porQueImporta": "O caso evidencia riscos de trabalhos em obras rurais e a necessidade de medidas de segurança.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/13/homem-morre-soterrado-durante-abertura-de-vala-na-zona-rural-de-pirapora.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-13T21:13:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ksVasLON8ozPwPWGV2N-jPGXRJc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/J/nGtmteTEyZdB3Yf0e91g/whatsapp-image-2026-07-13-at-17.11.42-2-1-.jpeg"
+    },
+    {
+      "clusterId": "29fb132694715865",
+      "slug": "929355f7f1aa3aa7",
+      "titulo": "Caminhoneiro escapa de ser esmagado ao ajudar colega na Serra de MT",
+      "resumo": "Um caminhoneiro de 33 anos ficou entre duas carreta enquanto prendia a cinta de reboque de um veículo quebrado na Serra de Campo Novo do Parecis, a cerca de 400 km de Cuiabá. O episódio foi registrado por uma câmera presa à sua cabeça na última sexta‑feira (10). Ele conseguiu sair ileso antes que a carreta avançasse, e nenhuma pessoa ficou ferida.",
+      "porQueImporta": "O caso ilustra os riscos de intervenções em vias rurais e a importância de procedimentos seguros ao prestar socorro em estradas movimentadas.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/13/cantora-jessica-costa-entrevista.ghtml"
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/13/video-caminhoneiro-escapa-de-ser-esmagado-por-carreta-ao-ajudar-amigo-na-serra-de-mt.ghtml"
         }
       ],
-      "updatedAt": "2026-07-13T17:50:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bANfW4PZ9UszcTyCYIj9IWvrTlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/s/8NxAwiR069oJyh1Xk6WQ/edicao-imagens-g1-3-.png"
+      "updatedAt": "2026-07-13T21:09:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/SbmhO0HF2nRYq_lUsa_w5Gi2jkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/p/HFmeewRp6L4NUWww1xOA/202607131645-3-.gif"
     },
     {
-      "clusterId": "8118878d37af9269",
-      "slug": "c042dbc05120afa1",
-      "titulo": "Pai lamenta morte de esposa e filha em acidente de trânsito em Santa Rita, PB",
-      "resumo": "Na noite do sábado (11), um acidente de trânsito na estrada de acesso ao distrito de Forte Velho, em Santa Rita, matou Maxwenia Moura da Silva Leite e sua filha Jadielly Vitória Moura da Silva Leite. O viúvo e pai, Genilson da Silva, compareceu ao velório na segunda-feira (13) e descreveu a perda como \"meu chão caiu, meu alicerce\". As vítimas foram enterradas na mesma cidade.",
-      "porQueImporta": "O acidente resultou na morte de duas pessoas da mesma família, gerando impacto emocional na comunidade local.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/13/pai-de-jovem-e-marido-de-mulher-mortas-em-acidente-em-santa-rita-pb-lamenta-perda-da-familia-meu-chao-caiu-meu-alicerce.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-13T17:47:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/oDNKvYm3v2FOs4yOPd_RNgm5JCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/e/Apw6uRSqm5bJ7zf3jiFA/vitimas-acidente-santa-rita.avif"
-    },
-    {
-      "clusterId": "7ed1bfa43f648942",
-      "slug": "f0dac9334815798c",
-      "titulo": "Jovem de 24 anos se recupera de acidente grave de moto em Colinas do Tocantins",
-      "resumo": "Rhandria Rocha, de 24 anos, sofreu um grave acidente de moto em Colinas do Tocantins e recebeu alta hospitalar no dia 12 de julho. Durante a recuperação, familiares e amigos fizeram pedidos de oração nas redes sociais. Ela permanece em tratamento fisioterápico.",
-      "porQueImporta": "A notícia ilustra a mobilização social e a importância da reabilitação após acidentes de trânsito",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/13/apos-acidente-grave-jovem-que-comoveu-redes-com-campanha-de-oracao-tem-alta-sou-um-milagre.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-13T17:36:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/t84p9FqcA56XOlRPyShgUnqlY8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/H/DxpQA1Qtmiria6aDnBXw/foto-e-montagem-vertical-2026-07-13t133819.630.png"
-    },
-    {
-      "clusterId": "3e1f5da1cc4e6c48",
-      "slug": "98b89035cb67827a",
-      "titulo": "Irã registra apagões após ataques dos EUA danificarem rede elétrica",
-      "resumo": "Ataques realizados pelos Estados Unidos danificaram mais de 2 mil instalações da rede elétrica iraniana. Aproximadamente 4.200 megawatts foram retirados de operação, provocando interrupções de energia durante o período de calor intenso. As autoridades iranianas apontam que a perda de capacidade ocorre em plena temporada de verão, agravando a situação de demanda. Não há informações adicionais sobre reparos ou respostas imediatas.",
-      "porQueImporta": "A redução da capacidade elétrica durante o calor pode comprometer o abastecimento de energia da população e setores críticos",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/ira-enfrenta-onda-de-calor-apos-ataques-dos-eua-afetarem-rede-eletrica/"
-        }
-      ],
-      "updatedAt": "2026-07-13T17:33:37.000Z"
-    },
-    {
-      "clusterId": "df0779fa5052ef6d",
-      "slug": "dcd1bbebbebe001b",
-      "titulo": "Bombeira e cão de busca retornam ao Brasil após missão de resgate na Venezuela",
-      "resumo": "A bombeira e o cão de busca que faziam parte da equipe enviada ao sul da Venezuela concluíram a operação de apoio às vítimas dos terremotos e voltaram ao Brasil. A dupla participou das buscas e do socorro nas áreas afetadas pelos sismos. O retorno ocorreu nesta semana, após o encerramento das atividades de resgate. As autoridades brasileiras acompanharam a missão desde o início.",
-      "porQueImporta": "Mostra a cooperação internacional em resposta a desastres naturais",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/bombeira-e-cao-de-busca-retornam-ao-brasil-apos-missao-na-venezuela"
-        }
-      ],
-      "updatedAt": "2026-07-13T17:32:07.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/screenshot-116-3x2-1.jpg"
-    },
-    {
-      "clusterId": "6d2d30413e809188",
-      "slug": "87d868898c37cc16",
-      "titulo": "Frente fria derruba temperaturas e coloca litoral de SP em alerta para ressaca; veja a previsão",
-      "resumo": "Defesa Civil Estadual emitiu alerta de ressaca marítima para Santos (SP) Vanessa Rodrigues/A Tribuna Jornal O avanço de uma frente fria derruba as temperaturas na Baixada Santista, no litoral de São Paulo, neste início de semana. Segundo o Instituto Nacional de Meteorologia (Inmet), a segunda-feira (13) e a terça-feira (14) terão mínimas de 9ºC e máximas de 21ºC. Há previsão de chuva fraca e isolada apenas para esta segunda-feira. Os ventos fortes associados ao sistema também deixam o mar agitado e colocam a região em estado de atenção para ressaca. Nos dias seguintes, a tendência é que a…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "clusterId": "06ddd5811ea970ef",
+      "slug": "b50964033cc0df91",
+      "titulo": "Usina São José S/A Açúcar e Álcool continua poluindo após mortandade de peixes no Rio Piracicaba",
+      "resumo": "O Ministério Público informou que a Usina São José S/A Açúcar e Álcool, apontada como responsável pela morte de cerca de 250 mil peixes no Rio Piracicaba em julho de 2024, manteve a emissão de efluentes acima dos limites permitidos. Laudos da Polícia Federal indicam que a concentração de poluentes foi 58 vezes superior ao permitido, e a empresa teria descartado resíduos durante a noite mesmo após a instauração de inquérito. A manifestação foi enviada à Justiça no dia 6 de julho, reforçando a continuidade da poluição no manancial.",
+      "porQueImporta": "A continuidade da poluição ameaça a qualidade da água e a biodiversidade local, além de impactar comunidades que dependem do rio.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/13/frente-fria-derruba-temperaturas-e-coloca-litoral-de-sp-em-alerta-para-ressaca-veja-a-previsao.ghtml"
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/13/mp-diz-que-usina-responsavel-por-mortandade-de-peixes-no-minipantanal-paulista-continuou-a-poluir-apos-desastre-ambiental.ghtml"
         }
       ],
-      "updatedAt": "2026-07-13T17:31:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ADcHiJpFUJgt-MPEI-2FtjKhYN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/F/r/JDb0D3SwSmYCV31GGwEA/ressaca-1-.jpg"
+      "updatedAt": "2026-07-13T21:01:14.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/L7SDdgADSW-SGcKwBPnqPTWAst4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/n/D/nvA0RoStyPzfl5kTx26w/peixes-mortos-no-tanqua-em-sao-pedro-4-.jpg"
     },
     {
-      "clusterId": "03349bc31d1edf4e",
-      "slug": "ac1a9104bfe31b45",
-      "titulo": "Motorista de carro de luxo é preso após acidente que matou menino de 4 anos em Sorriso",
-      "resumo": "O motorista de 21 anos, Gabriel Dombski Welter, foi detido pela Polícia Civil após colidir com a vítima de 4 anos, Gabriel Gustavo dos Santos da Fontoura, na Avenida Blumenau, em Sorriso, neste domingo. A criança morreu em decorrência de traumatismo craniano e múltiplas fraturas. O suspeito afirmou que não lembra a velocidade em que trafegava. A mãe da vítima recebeu alta hospitalar no dia seguinte.",
-      "porQueImporta": "O caso evidencia a gravidade de acidentes de trânsito envolvendo pedestres e a necessidade de responsabilização dos condutores.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "5646a325664c37de",
+      "slug": "58800c5488600da7",
+      "titulo": "Idoso de 75 anos morre afogado ao tentar desengatar rede de pesca em barragem no Piauí",
+      "resumo": "Um homem de 75 anos, identificado apenas como Marcelino, entrou na água de uma barragem na localidade Alto Bonito, zona rural de Piracuruca, ao tentar soltar uma rede de pesca presa. O Corpo de Bombeiros encontrou o corpo na manhã de domingo após buscas. A vítima desapareceu após entrar no reservatório e não retornou à superfície.",
+      "porQueImporta": "O caso evidencia riscos de acidentes em áreas de pesca e a necessidade de cautela ao lidar com redes em corpos d'água",
+      "categoria": "Afogamento",
+      "categoriaSlug": "afogamento",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/13/motorista-em-carro-de-luxo-preso-morte-de-menino-de-4-anos-em-mt-diz-que-nao-lembra-a-velocidade-em-que-estava.ghtml"
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/13/idoso-morre-afogado.ghtml"
         }
       ],
-      "updatedAt": "2026-07-13T17:26:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kab8gmwY62J7pLeu5G04ZwY5VvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/C/ZA9xhXSXSMs2JHk8qSmQ/videos-g1-24-.jpg"
+      "updatedAt": "2026-07-13T20:56:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/IvW7x_b_cMk_4Vg8lCOsqGUs0iY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Y/6RjGAVSiqhArUCg6D21g/whatsapp-image-2026-03-17-at-15.00.18.jpeg"
     },
     {
-      "clusterId": "aac373239741f592",
-      "slug": "bee734133e6ab50f",
-      "titulo": "TCU aponta falhas do governo na fiscalização de bebidas adulteradas",
-      "resumo": "O Tribunal de Contas da União realizou auditoria após casos de contaminação por metanol em bebidas no fim do ano passado. A investigação constatou falhas na fiscalização governamental, que estavam associadas a 22 mortes por intoxicação. Os resultados apontam necessidade de aprimorar o controle de qualidade de bebidas alcoólicas. A auditoria foi motivada pelos incidentes de contaminação que resultaram em fatalidades.",
-      "porQueImporta": "A falta de fiscalização adequada pode colocar em risco a saúde da população",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "da1771f4f83f3641",
+      "slug": "2916f9cf6b74ff49",
+      "titulo": "Piloto e passageiro morrem em queda de helicóptero em Rorainópolis",
+      "resumo": "Dois ocupantes de um helicóptero – o piloto Danilo Pinto de Oliveira e Silva, de 45 anos, e o passageiro Ygor Rodrigues da Silva Souza, de 29 – faleceram após a aeronave cair em Rorainópolis, no sul de Roraima. Os corpos foram encontrados no domingo durante operação conjunta da Polícia Civil de Roraima e da Força Aérea Brasileira. O Instituto Médico Legal constatou que a causa da morte foi múltiplas lesões decorrentes da queda, incluindo rupturas cardíacas que provocaram grande perda de sangue.",
+      "porQueImporta": "O acidente evidencia riscos de transporte aéreo em áreas remotas e a necessidade de investigação de causas para prevenir novos incidentes",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/tcu-aponta-falhas-do-governo-na-fiscalizacao-de-bebidas-adulteradas/"
+          "name": "G1",
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/13/piloto-e-homem-morrem-em-queda-de-helicoptero-em-roraima.ghtml"
         }
       ],
-      "updatedAt": "2026-07-13T17:08:33.000Z"
+      "updatedAt": "2026-07-13T20:52:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/bO692xM-i03HAgUinGsT64_rhog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/8/mL9CwpS5O7mlAjodJ7Yw/resgate-de-vitimas.jpeg"
+    },
+    {
+      "clusterId": "e2a993cc30656835",
+      "slug": "2fda243b69f76682",
+      "titulo": "Balão de grande porte cai em área de mata em Búzios",
+      "resumo": "Um balão de grande porte caiu em uma área de mata próxima ao bairro Baía Formosa, em Armação dos Búzios, na Região dos Lagos do Rio, no último sábado. A Defesa Civil foi acionada e enviou equipe ao local, mas o balão já havia sido retirado quando os agentes chegaram. Moradores relataram ter acompanhado a descida do artefato antes da retirada.",
+      "porQueImporta": "O incidente evidencia riscos de objetos aéreos em áreas urbanas e a necessidade de resposta rápida das autoridades",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/13/balao-de-grande-porte-cai-em-area-de-mata-em-buzios.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-13T20:42:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/pFKLUb5qBsWvByPVyax_eSAWXNg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Q/AAnucxRO6CImCB8TD45g/balao.jpg"
     }
   ],
   "categorias": [
@@ -185,138 +187,191 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "df0779fa5052ef6d",
-          "slug": "dcd1bbebbebe001b",
-          "titulo": "Bombeira e cão de busca retornam ao Brasil após missão de resgate na Venezuela",
-          "resumo": "A bombeira e o cão de busca que faziam parte da equipe enviada ao sul da Venezuela concluíram a operação de apoio às vítimas dos terremotos e voltaram ao Brasil. A dupla participou das buscas e do socorro nas áreas afetadas pelos sismos. O retorno ocorreu nesta semana, após o encerramento das atividades de resgate. As autoridades brasileiras acompanharam a missão desde o início.",
-          "porQueImporta": "Mostra a cooperação internacional em resposta a desastres naturais",
+          "clusterId": "06ddd5811ea970ef",
+          "slug": "b50964033cc0df91",
+          "titulo": "Usina São José S/A Açúcar e Álcool continua poluindo após mortandade de peixes no Rio Piracicaba",
+          "resumo": "O Ministério Público informou que a Usina São José S/A Açúcar e Álcool, apontada como responsável pela morte de cerca de 250 mil peixes no Rio Piracicaba em julho de 2024, manteve a emissão de efluentes acima dos limites permitidos. Laudos da Polícia Federal indicam que a concentração de poluentes foi 58 vezes superior ao permitido, e a empresa teria descartado resíduos durante a noite mesmo após a instauração de inquérito. A manifestação foi enviada à Justiça no dia 6 de julho, reforçando a continuidade da poluição no manancial.",
+          "porQueImporta": "A continuidade da poluição ameaça a qualidade da água e a biodiversidade local, além de impactar comunidades que dependem do rio.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/bombeira-e-cao-de-busca-retornam-ao-brasil-apos-missao-na-venezuela"
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/13/mp-diz-que-usina-responsavel-por-mortandade-de-peixes-no-minipantanal-paulista-continuou-a-poluir-apos-desastre-ambiental.ghtml"
             }
           ],
-          "updatedAt": "2026-07-13T17:32:07.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/07/screenshot-116-3x2-1.jpg"
+          "updatedAt": "2026-07-13T21:01:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/L7SDdgADSW-SGcKwBPnqPTWAst4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/n/D/nvA0RoStyPzfl5kTx26w/peixes-mortos-no-tanqua-em-sao-pedro-4-.jpg"
         },
         {
-          "clusterId": "6d2d30413e809188",
-          "slug": "87d868898c37cc16",
-          "titulo": "Frente fria derruba temperaturas e coloca litoral de SP em alerta para ressaca; veja a previsão",
-          "resumo": "Defesa Civil Estadual emitiu alerta de ressaca marítima para Santos (SP) Vanessa Rodrigues/A Tribuna Jornal O avanço de uma frente fria derruba as temperaturas na Baixada Santista, no litoral de São Paulo, neste início de semana. Segundo o Instituto Nacional de Meteorologia (Inmet), a segunda-feira (13) e a terça-feira (14) terão mínimas de 9ºC e máximas de 21ºC. Há previsão de chuva fraca e isolada apenas para esta segunda-feira. Os ventos fortes associados ao sistema também deixam o mar agitado e colocam a região em estado de atenção para ressaca. Nos dias seguintes, a tendência é que a…",
+          "clusterId": "c45eac656d7947c1",
+          "slug": "8c4f616b11bc6c76",
+          "titulo": "Peixes-bois mortos em Alagoas foram expostos a agentes químicos, aponta laudo",
+          "resumo": "Laudos indicam que os peixes-bois encontrados mortos em Porto de Pedras (AL) foram expostos a substâncias químicas e biológicas. O Ministério Público Federal apresentou os resultados em reunião com órgãos ambientais, pesquisadores e autoridades na última sexta-feira. Os exames não confirmaram que a contaminação tenha sido a causa da morte dos mamíferos.",
+          "porQueImporta": "A ocorrência evidencia riscos ambientais que podem afetar a fauna marinha local",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/al/alagoas/noticia/2026/07/13/peixes-bois-mortos-em-al-foram-expostos-a-quimicos-diz-laudo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-13T20:36:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/R8rNPEVZGgNRUML_2ch8dHpkxMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/o/88oRhPTQ22SC5qcl8U2w/large.png"
+        },
+        {
+          "clusterId": "48ca298a9c237fe4",
+          "slug": "927306aa5158a666",
+          "titulo": "Irmão de Virginia Fonseca é condenado por importunação sexual",
+          "resumo": "O irmão de Virginia Fonseca foi condenado por importunação sexual. A vítima relatou ter sido alvo de ataques durante o processo judicial. Ela afirmou que, após a condenação, está em paz. O caso foi concluído na justiça local.",
+          "porQueImporta": "A decisão demonstra a responsabilização por violência sexual e o impacto nas vítimas",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/coluna/janela-indiscreta/irmao-de-virginia-fonseca-e-condenado-por-importunacao-sexual/"
+            }
+          ],
+          "updatedAt": "2026-07-13T20:18:09.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/Virginia-e-irmao.jpg?quality=70&strip=info"
+        },
+        {
+          "clusterId": "1eb7973e139169ec",
+          "slug": "6b3d5a3d9c200363",
+          "titulo": "Moradores conquistam indenização de R$ 415 mil após deslizamentos no bairro Tarumã em Manaus",
+          "resumo": "Moradores atingidos por desabamento no Tarumã devem receber indenização de mais de R$ 400 mil Foto: Divulgação/DPE-AM Moradores da comunidade Portal da Cachoeira, no bairro Tarumã, Zona Oeste de Manaus, garantiram uma indenização de R$ 415 mil após serem atingidos por deslizamentos de terra. De acordo com a Defensoria Pública do Estado do Amazonas (DPE-AM), os deslizamento foram causados pela construção do galpão de uma fábrica de colchões e os pagamentos individuais variam de R$ 10 mil a R$ 110 mil. As famílias procuraram a Defensoria em fevereiro, após terem as casas atingidas por dois…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/13/frente-fria-derruba-temperaturas-e-coloca-litoral-de-sp-em-alerta-para-ressaca-veja-a-previsao.ghtml"
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/13/moradores-conquistam-indenizacao-de-r-415-mil-apos-deslizamentos-no-bairro-taruma-em-manaus.ghtml"
             }
           ],
-          "updatedAt": "2026-07-13T17:31:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ADcHiJpFUJgt-MPEI-2FtjKhYN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/F/r/JDb0D3SwSmYCV31GGwEA/ressaca-1-.jpg"
+          "updatedAt": "2026-07-13T20:12:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JUhQOfJ8WcyOt7jzEGDoLh7oKrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/q/a7mkvpTDAq4LKINaWg4w/deslizamento-manaus.jpg"
         },
         {
-          "clusterId": "aac373239741f592",
-          "slug": "bee734133e6ab50f",
-          "titulo": "TCU aponta falhas do governo na fiscalização de bebidas adulteradas",
-          "resumo": "O Tribunal de Contas da União realizou auditoria após casos de contaminação por metanol em bebidas no fim do ano passado. A investigação constatou falhas na fiscalização governamental, que estavam associadas a 22 mortes por intoxicação. Os resultados apontam necessidade de aprimorar o controle de qualidade de bebidas alcoólicas. A auditoria foi motivada pelos incidentes de contaminação que resultaram em fatalidades.",
-          "porQueImporta": "A falta de fiscalização adequada pode colocar em risco a saúde da população",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/politica/tcu-aponta-falhas-do-governo-na-fiscalizacao-de-bebidas-adulteradas/"
-            }
-          ],
-          "updatedAt": "2026-07-13T17:08:33.000Z"
-        },
-        {
-          "clusterId": "11472bd7b9f0bf04",
-          "slug": "ccc2931d349f3d11",
-          "titulo": "Número de vítimas de acidentes de moto socorridas pelo Samu cresce 57% em três anos no Grande Recife",
-          "resumo": "Atendimentos do Samu a vítimas de sinistros com motos crescem 57% no Grande Recife Dados do Serviço de Atendimento Móvel de Urgência (Samu) mostram que, entre 2022 e 2025, houve um aumento de 57,69% nos atendimentos de urgência a vítimas de acidentes envolvendo motocicletas no Grande Recife. Só no ano passado, o Samu registrou 11.231 casos, incluindo atropelamentos (veja vídeo acima). Na capital pernambucana, o maior número foi registrado em dezembro do ano passado. Ao todo, 600 pessoas ficaram feridas, com cerca de 20 atendimentos diários. ✅ Receba no WhatsApp as notícias do g1 PE Segundo o…",
+          "clusterId": "cc0173c81fa7754f",
+          "slug": "a4898893f088fa50",
+          "titulo": "Cratera se abre durante obra da Sabesp em Osasco, e três casas são interditadas",
+          "resumo": "Cratera se abre durante obra da Sabesp em Osasco, e três casas são interditadas Uma cratera se abriu na Rua Cuiabá, no bairro Rochdale, em Osasco, durante obras executadas pela Sabesp para implantação de uma rede de esgoto destinada à despoluição de córregos. Três imóveis precisaram ser interditados preventivamente após o solo ceder. Não houve registro de vítimas. Segundo informações da Defesa Civil, a ocorrência segue em andamento. A Prefeitura de Osasco foi acionada para acompanhar o caso. Em nota, a Sabesp informou que o problema ocorreu durante a escavação de um poço de serviço necessário…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/13/numero-de-vitimas-de-acidentes-de-moto-socorridas-pelo-samu-cresce-57percent-em-tres-anos-no-grande-recife.ghtml"
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/13/cratera-se-abre-durante-obra-da-sabesp-em-osasco-e-tres-casas-sao-interditadas.ghtml"
             }
           ],
-          "updatedAt": "2026-07-13T16:22:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vEshIz9onQmnjWEi5zPxDeC4ErM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/m/u7cdw4RaaoAMAhqlBGBg/aumento-vitimas-moto-card-ds0026086-81-kit-09-5297-frame-259.jpeg"
+          "updatedAt": "2026-07-13T20:10:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2zzNaa6-2h0JEjqGdIwxNRYs6mU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/K/CWFZBdQ6aFaBRN9tWfkQ/cratera-osasco.jpeg"
         },
         {
-          "clusterId": "2a458fb4f245582f",
-          "slug": "50543d6b82d6b423",
-          "titulo": "Influenciadora denuncia golpe de aluguel em Goiânia",
-          "resumo": "Vanessa Fonseca relatou em vídeo nas redes sociais que foi vítima de um golpe ao tentar alugar um apartamento na capital goiana. Ela afirma que pagou R$ 5,8 mil a um homem que se passou por corretor. A influenciadora e sua família haviam acabado de chegar à cidade com dois filhos para recomeçar a vida quando o incidente ocorreu.",
-          "porQueImporta": "O caso alerta sobre fraudes imobiliárias e a vulnerabilidade de quem busca moradia rapidamente",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/07/13/influenciadora-revela-ter-caido-no-golpe-do-aluguel-em-goiania-sensacao-de-impotencia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-13T16:14:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DqrA99u2AhI77KSQrODlG2r0Bwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/B/ejr0GfQJ6IyDWteY28TA/influenciadora-golpe.jpg"
-        },
-        {
-          "clusterId": "3ec61300fc1b4fe3",
-          "slug": "311eef827637467b",
-          "titulo": "Após quase cinco meses, últimas famílias afetadas pelo temporal deixam hotéis em Juiz de Fora",
-          "resumo": "Chuva de fevereiro deixou milhares de desabrigados e desalojados em Juiz de Fora Pablo Porciuncula/AFP A partir desta quarta-feira (15), será encerrada a hospedagem em hotéis das famílias afetadas pelo temporal que atingiu Juiz de Fora no fim de fevereiro deste ano. O desastre deixou 66 mortos, milhares de desabrigados e desalojados e causou diversos danos na cidade. De acordo com a prefeitura, ao todo, 300 famílias foram acolhidas e encaminhadas para moradias provisórias por meio do benefício durante os últimos cinco meses. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp Com…",
+          "clusterId": "e946c7c667d823a0",
+          "slug": "46d2074e5316f111",
+          "titulo": "Maranhão registra quase 1,2 mil acidentes com escorpiões no 1º semestre; Balsas lidera casos",
+          "resumo": "Maranhão registrou 1.199 notificações de acidentes provocados por escorpiões entre janeiro e junho deste ano, com redução de 12% em comparação com o mesmo período de 2025, quando foram contabilizados 1.362 casos, segundo dados do Sistema de Informação de Agravos de Notificação (Sinan/Datasus). De acordo com a Secretaria de Estado da Saúde (SES), dois dos acidentes registrados no período foram classificados como graves. Apesar disso, não houve mortes relacionadas a picadas de escorpiões. O município de Balsas lidera o número de notificações, com 90 casos registrados nos primeiros seis meses de…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/13/apos-quase-cinco-meses-familias-afetadas-pelo-temporal-deixam-hoteis-em-juiz-de-fora.ghtml"
+              "url": "https://g1.globo.com/ma/maranhao/regiao-sul/noticia/2026/07/13/maranhao-registra-quase-12-mil-acidentes-com-escorpioes-no-1o-semestre-balsas-lidera-casos.ghtml"
             }
           ],
-          "updatedAt": "2026-07-13T16:05:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/HXwklkCnWHwXOWLqn91XOnYDMzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/svsGFQQNqXCovOWox4lA/afp-20260224-98u32a4-v1-midres-brazilweatherclimatelandslide.jpg"
+          "updatedAt": "2026-07-13T20:07:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/W17vgW3OsSyrPZEsdi5siqkIp8o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/d/Hn3Nx4Rpie8SzORKyBdQ/montagens-1920-x-1080-px-5-.png"
         },
         {
-          "clusterId": "b495d2ebc30652c6",
-          "slug": "0f8c67c5e234d726",
-          "titulo": "VÍDEO: batida entre carreta e carro deixa dois mortos e interdita BR-163 em MT",
-          "resumo": "Colisão entre carreta e carro deixa dois mortos na BR-163 em MT Duas pessoas morreram após uma batida entre um carro e uma carreta nesta segunda-feira (13), na BR-163, em Sorriso (MT), no trecho que liga o município a Lucas do Rio Verde (MT). Com o impacto da batida, a rodovia foi totalmente interditada para o atendimento da ocorrência. Assista acima Segundo a concessionária Nova Rota do Oeste, o acidente ocorreu por volta das 10h18, no km 716 da rodovia. Equipes de resgate da concessionária e do Corpo de Bombeiros foram mobilizadas e confirmaram a morte dos dois ocupantes do carro ainda no…",
+          "clusterId": "c47746dcde997013",
+          "slug": "b7c7077fea4ca85f",
+          "titulo": "Professora de 44 anos é encontrada morta em casa após incêndio; polícia do RS investiga",
+          "resumo": "Civil do RS investiga a morte da professora Glória Werkhausen, de 44 anos, encontrada dentro de casa após um incêndio em Constantina, no Norte do Rio Grande do Sul. A principal hipótese é de homicídio. A vítima foi encontrada morta na noite de domingo (12), no Bairro Florestal. Conforme a Polícia Civil de Sarandi, peritos identificaram sinais de esganadura no pescoço. Um cabo de internet foi encontrado na região, próximo da vítima. A confirmação da causa da morte, no entanto, depende dos laudos periciais. 📲 Acesse o canal do g1 RS no WhatsApp A polícia ainda apura se o cabo de internet…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/13/video-batida-entre-carreta-e-carro-deixa-dois-mortos-e-interdita-br-163-em-mt.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/13/professora-de-44-anos-e-encontrada-morta-em-casa-apos-incendio-policia-do-rs-investiga.ghtml"
             }
           ],
-          "updatedAt": "2026-07-13T16:00:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-MtnFZcQ9kPMWHXSefav9IW_pMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/X/PVBU0ZQJuEbIbIKKriAg/whatsapp-image-2026-07-13-at-10.30.07.jpeg"
+          "updatedAt": "2026-07-13T19:53:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jN8HmS-f3FakzFWUelbnOxVyK4E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/s/NplC31QfizkCzxYPMFLg/g1-2026-07-13t162354.440.jpg"
         },
         {
-          "clusterId": "837d11eacd141bba",
-          "slug": "53c16cb42430d483",
-          "titulo": "Quatro pessoas morrem em grave acidente em Minas Gerais",
-          "resumo": "Três vítimas eram da mesma família, incluindo uma criança de três anos",
+          "clusterId": "8d44d613eee42633",
+          "slug": "98e9614e6fe1a222",
+          "titulo": "Mulher cai em banheira de motel e tem queimaduras de segundo grau em MG",
+          "resumo": "Uma mulher de 31 anos sofreu queimaduras de segundo grau após cair em uma banheira com água quente em um quarto de motel no bairro Valim de Melo, em Uberaba, no Triângulo Mineiro. O acidente ocorreu na madrugada de sexta-feira (10) para sábado (11), e a vítima foi socorrida pelo Corpo de Bombeiros e encaminhada para a Unidade de Pronto Atendimento (UPA) Parque do Mirante. Segundo os bombeiros, a mulher informou que havia chegado no quarto e ainda estava vestida quando se desequilibrou e caiu dentro da banheira, que já estava cheia de água quente. Ela sofreu queimaduras de segundo grau em…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/quatro-pessoas-morrem-em-grave-acidente-em-minas-gerais/"
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/13/mulher-cai-em-banheira-de-motel-e-tem-queimaduras-de-segundo-grau-em-mg-1.ghtml"
             }
           ],
-          "updatedAt": "2026-07-13T15:32:15.000Z"
+          "updatedAt": "2026-07-13T19:52:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xkcozh1vm9U7oyXmlUs4Abb1x7c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/l/U6YRXBS1OmMnW4sYkAvw/bombeiros-mg.jpg"
+        },
+        {
+          "clusterId": "47d59d6ca3caff22",
+          "slug": "df470cbaff8a30f2",
+          "titulo": "Batida entre caminhões deixa ferido na Rodovia Anhanguera em Americana",
+          "resumo": "Batida entre caminhão e utilitária deixa vítima gravemente ferida em Americana Uma pessoa ficou gravemente ferida após uma batida entre um caminhão e um caminhão utilitário, na manhã desta segunda-feira (13), no km 125 da Rodovia Anhanguera (SP-330), em Americana (SP). A vítima estava no veículo utilitário e foi encaminhada ao Pronto-Socorro Municipal de Americana. Não havia confirmação se ela era passageira ou motorista até a publicação desta reportagem. Segundo a Autoban, concessionária responsável pela via, a colisão ocorreu por volta das 10h20, na pista sentido interior. Durante o…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/13/batida-entre-caminhoes-deixa-ferido-na-rodovia-anhanguera-em-americana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-13T19:47:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/5SNb-wRaogrRkCnyNHbJHXTQWuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/g/vzEtL1Rr2B0hzSShHbEQ/capas-belly-1-.jpg"
+        },
+        {
+          "clusterId": "5e5987b9f6febd9c",
+          "slug": "5438c818a6bd3c5e",
+          "titulo": "VÍDEO: Carro perde controle, fica sem roda e colide com adversário em competição de 'arrancadão' em SC",
+          "resumo": "Carros se envolvem em acidente em competição de arrancada em Balneário Camboriú Um acidente assustou público e competidores de uma corrida de arrancada em Balneário Camboriú, no Litoral Norte de Santa Catarina, no domingo (12). Durante a disputa, um dos carros perdeu o controle logo após largar em alta velocidade e colidiu com o adversário, que acabou prensado contra o guard-rail. O caso foi registrado durante a bateria da Copa Top10, uma das principais competições desse tipo no Sul do país. Ninguém ficou ferido. ✅Clique e siga o canal do g1 SC no WhatsApp Ao g1, o Speedway Music Park, local…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/13/carro-perde-roda-colide-adversario-competicao-arrancada-balneario-camboriu.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-13T19:36:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1328-9lbWOhmvV-ei5y_1YKF1M8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Y/leQzA2StSbosHPAIlNUQ/video-carros-se-envolvem-em-acidente-em-competicao-de-arrancada-em-balneario-camboriu-.png"
+        },
+        {
+          "clusterId": "8ccbfe07609fa74c",
+          "slug": "c60c3271581e2aa6",
+          "titulo": "Motorista preso por morte de menino de 4 anos estava com a CNH suspensa por dirigir embriagado há 3 meses em MT",
+          "resumo": "Gabriel Dombski Welter, 21 anos, preso em acidente em Sorriso (MT) Reprodução A prisão preventiva de Gabriel Dombski Welter, de 21 anos, preso após o acidente que provocou a morte de um menino de 4 anos em Sorriso, a 420 km de Cuiabá, foi mantida pela Justiça após a constatação de que ele já havia sido autuado anteriormente por dirigir sob efeito de álcool e estava com a Carteira Nacional de Habilitação (CNH) suspensa no momento do acidente que matou um menino de 4 anos, em Sorriso. Segundo a decisão, o prontuário do Departamento Estadual de Trânsito de Mato Grosso (Detran-MT) mostra que…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/13/motorista-preso-por-morte-de-menino-de-4-anos-estava-com-a-cnh-suspensa-por-dirigir-embriagado-ha-3-meses-em-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-13T19:32:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gUeGC4IO4lVaA6vz3MMhKDlZ3eM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/D/0ltWyQSuWJ1UXkDzABhg/videos-g1-9-.jpg"
         },
         {
           "clusterId": "65af8bcd4f940fdb",
@@ -376,123 +431,55 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "fee7737b6ff5f133",
-          "slug": "4e23125fa046672e",
-          "titulo": "Menina de 2 anos morre na garupa de moto em acidente de trânsito em Cuiabá",
-          "resumo": "Uma criança de 2 anos, identificada como Maya Gabriele Mirtes Borges, estava na garupa de uma moto conduzida pela mãe quando ocorreu o acidente em Cuiabá neste domingo. A menina morreu no local e o corpo foi encaminhado ao Hospital Municipal de Cuiabá para liberação. A condição de saúde da mãe não foi divulgada e as circunstâncias do acidente permanecem sob investigação pela Polícia Civil.",
-          "porQueImporta": "O caso destaca riscos de transporte de crianças em motocicletas e a necessidade de fiscalização de segurança viária.",
+          "clusterId": "a301e2f79a103524",
+          "slug": "c97a04e7ad480aa7",
+          "titulo": "Ônibus colide com poste e causa queda de energia em bairro de Belo Horizonte",
+          "resumo": "Na tarde de segunda-feira, um ônibus perdeu o controle e atingiu um poste na esquina da Rua Sararé com a Avenida Amazonas, no bairro Jardinópolis, em Belo Horizonte. O impacto provocou a interrupção do fornecimento de energia elétrica na região. Equipes do Serviço de Atendimento Móvel de Urgência foram acionadas para atender a ocorrência. Até o momento, não há informações sobre feridos ou seu estado de saúde.",
+          "porQueImporta": "O acidente gerou falta de energia e mobilizou serviços de emergência, afetando moradores locais.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/13/menina-de-2-anos-na-garupa-de-moto-morre-apos-acidente-em-cuiaba.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/13/onibus-bate-em-poste-e-deixa-moradores-sem-energia-no-bairro-jardinopolis-em-bh.ghtml"
             }
           ],
-          "updatedAt": "2026-07-13T18:07:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6l9EhTg6OYxKBHaB0yYJXN5wPYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/G/rXyt2kReupyfAEuFJt8w/foto-g1-2026-07-13t133055.400.png"
+          "updatedAt": "2026-07-13T21:19:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/4FTfBM5z9i6f_WO8FkN2-A7QQZ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/p/X9hHHMTiAcdW0kajCLWQ/design-sem-nome-4-.png"
         },
         {
-          "clusterId": "fa1e402f6d911e69",
-          "slug": "0f860fc73c145ec2",
-          "titulo": "Cantora Jéssica Costa morre em colisão de veículos a caminho de show",
-          "resumo": "A cantora Jéssica Costa foi atingida por uma caminhonete enquanto seguia para um show em Timon, Maranhão, e morreu na noite de sábado (11). No acidente também faleceu um homem que estava no mesmo carro. Ela havia concedido entrevista ao g1 em homenagem ao Dia Internacional da Mulher, falando sobre sua paixão por cantar.",
-          "porQueImporta": "O caso evidencia os riscos de deslocamento de artistas e a necessidade de segurança viária em áreas de trânsito.",
+          "clusterId": "29fb132694715865",
+          "slug": "929355f7f1aa3aa7",
+          "titulo": "Caminhoneiro escapa de ser esmagado ao ajudar colega na Serra de MT",
+          "resumo": "Um caminhoneiro de 33 anos ficou entre duas carreta enquanto prendia a cinta de reboque de um veículo quebrado na Serra de Campo Novo do Parecis, a cerca de 400 km de Cuiabá. O episódio foi registrado por uma câmera presa à sua cabeça na última sexta‑feira (10). Ele conseguiu sair ileso antes que a carreta avançasse, e nenhuma pessoa ficou ferida.",
+          "porQueImporta": "O caso ilustra os riscos de intervenções em vias rurais e a importância de procedimentos seguros ao prestar socorro em estradas movimentadas.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/13/cantora-jessica-costa-entrevista.ghtml"
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/13/video-caminhoneiro-escapa-de-ser-esmagado-por-carreta-ao-ajudar-amigo-na-serra-de-mt.ghtml"
             }
           ],
-          "updatedAt": "2026-07-13T17:50:59.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bANfW4PZ9UszcTyCYIj9IWvrTlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/s/8NxAwiR069oJyh1Xk6WQ/edicao-imagens-g1-3-.png"
+          "updatedAt": "2026-07-13T21:09:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SbmhO0HF2nRYq_lUsa_w5Gi2jkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/p/HFmeewRp6L4NUWww1xOA/202607131645-3-.gif"
         },
         {
-          "clusterId": "8118878d37af9269",
-          "slug": "c042dbc05120afa1",
-          "titulo": "Pai lamenta morte de esposa e filha em acidente de trânsito em Santa Rita, PB",
-          "resumo": "Na noite do sábado (11), um acidente de trânsito na estrada de acesso ao distrito de Forte Velho, em Santa Rita, matou Maxwenia Moura da Silva Leite e sua filha Jadielly Vitória Moura da Silva Leite. O viúvo e pai, Genilson da Silva, compareceu ao velório na segunda-feira (13) e descreveu a perda como \"meu chão caiu, meu alicerce\". As vítimas foram enterradas na mesma cidade.",
-          "porQueImporta": "O acidente resultou na morte de duas pessoas da mesma família, gerando impacto emocional na comunidade local.",
+          "clusterId": "e1af31f67b1d5efc",
+          "slug": "8edc951ae7039ec5",
+          "titulo": "Justiça aceita denúncia contra caminhoneiro por mortes na BR-116",
+          "resumo": "A Justiça aceitou a denúncia apresentada pelo Ministério Público de Minas Gerais contra um caminhoneiro de 42 anos, acusado de causar o acidente que matou os irmãos William Oliveira Almeida, de 29 anos, e Wellington Oliveira Almeida, de 31, na BR-116, em Dom Cavati. Com a aceitação, o caminhoneiro passa a responder a uma ação penal por dois homicídios qualificados com dolo eventual. A denúncia foi divulgada na segunda‑feira (13).",
+          "porQueImporta": "O caso demonstra a responsabilização penal em acidentes de trânsito com vítimas fatais.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/13/pai-de-jovem-e-marido-de-mulher-mortas-em-acidente-em-santa-rita-pb-lamenta-perda-da-familia-meu-chao-caiu-meu-alicerce.ghtml"
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/13/justica-aceita-denuncia-contra-caminhoneiro-por-morte-de-irmaos-na-br-116.ghtml"
             }
           ],
-          "updatedAt": "2026-07-13T17:47:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/oDNKvYm3v2FOs4yOPd_RNgm5JCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/e/Apw6uRSqm5bJ7zf3jiFA/vitimas-acidente-santa-rita.avif"
-        },
-        {
-          "clusterId": "7ed1bfa43f648942",
-          "slug": "f0dac9334815798c",
-          "titulo": "Jovem de 24 anos se recupera de acidente grave de moto em Colinas do Tocantins",
-          "resumo": "Rhandria Rocha, de 24 anos, sofreu um grave acidente de moto em Colinas do Tocantins e recebeu alta hospitalar no dia 12 de julho. Durante a recuperação, familiares e amigos fizeram pedidos de oração nas redes sociais. Ela permanece em tratamento fisioterápico.",
-          "porQueImporta": "A notícia ilustra a mobilização social e a importância da reabilitação após acidentes de trânsito",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/13/apos-acidente-grave-jovem-que-comoveu-redes-com-campanha-de-oracao-tem-alta-sou-um-milagre.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-13T17:36:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/t84p9FqcA56XOlRPyShgUnqlY8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/H/DxpQA1Qtmiria6aDnBXw/foto-e-montagem-vertical-2026-07-13t133819.630.png"
-        },
-        {
-          "clusterId": "03349bc31d1edf4e",
-          "slug": "ac1a9104bfe31b45",
-          "titulo": "Motorista de carro de luxo é preso após acidente que matou menino de 4 anos em Sorriso",
-          "resumo": "O motorista de 21 anos, Gabriel Dombski Welter, foi detido pela Polícia Civil após colidir com a vítima de 4 anos, Gabriel Gustavo dos Santos da Fontoura, na Avenida Blumenau, em Sorriso, neste domingo. A criança morreu em decorrência de traumatismo craniano e múltiplas fraturas. O suspeito afirmou que não lembra a velocidade em que trafegava. A mãe da vítima recebeu alta hospitalar no dia seguinte.",
-          "porQueImporta": "O caso evidencia a gravidade de acidentes de trânsito envolvendo pedestres e a necessidade de responsabilização dos condutores.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/13/motorista-em-carro-de-luxo-preso-morte-de-menino-de-4-anos-em-mt-diz-que-nao-lembra-a-velocidade-em-que-estava.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-13T17:26:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kab8gmwY62J7pLeu5G04ZwY5VvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/C/ZA9xhXSXSMs2JHk8qSmQ/videos-g1-24-.jpg"
-        },
-        {
-          "clusterId": "acec616d34bab77b",
-          "slug": "dafd26af81b9375f",
-          "titulo": "Homem morre após perder o controle de motocicleta na PI-456",
-          "resumo": "Um homem de 49 anos identificado como Dênis Antônio Alves Ribeiro morreu na noite de domingo após cair da motocicleta na rodovia PI-456, entre Simões e Padre Marcos, no Sul do Piauí. Segundo o capitão José Araújo, da Polícia Militar de Simões, a vítima conduzia sozinha nas proximidades da localidade Cinco Patos quando perdeu o controle. O Serviço de Atendimento Móvel de Urgência foi acionado, mas constatou o óbito no local.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias rurais do Piauí",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/13/homem-morre-motocicleta.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-13T16:45:28.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SDsYzxfWo23jmF-PzhemNEcpMAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/e9VJqqQZ6Fo4APU8HOLg/edicao-imagens-g1-33-.png"
-        },
-        {
-          "clusterId": "34ad58a1a79213fa",
-          "slug": "ed358cfb62096284",
-          "titulo": "Morador de Unaí recebe polilaminina após ficar paraplégico em acidente de trânsito",
-          "resumo": "Um homem de 43 anos ficou paraplégico após acidente na BR-251 em 4 de junho. Na última quarta-feira, recebeu a aplicação de polilaminina no Hospital Santa Helena, tornando-se o 102º paciente tratado com a substância. A polilaminina é uma proteína derivada da placenta que visa estimular a regeneração de nervos lesionados. O tratamento tem sido divulgado no Brasil por resultados promissores em estudos.",
-          "porQueImporta": "A aplicação demonstra o uso de terapias avançadas para lesões medulares decorrentes de acidentes de trânsito",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/13/polilaminina-e-aplicada-em-morador-de-unai-que-perdeu-movimentos-apos-acidente.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-13T16:07:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3zJodSpM1R-JKUjYSUevbPr1N3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/F/QPCDIRTBGgMvgGunEZvQ/whatsapp-image-2026-07-10-at-16.21.19-1-1-.jpeg"
+          "updatedAt": "2026-07-13T20:34:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xGN4L2jzs1vfyfgr2PeehD_Ib-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/C/FSoe9ORLC2WPQDbXm6Ag/1200x675-7-.png"
         },
         {
           "clusterId": "4fd623a70f39fbc6",
@@ -514,96 +501,30 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "e5e09e7efdca2f37",
-          "slug": "43c89e8adc98769e",
-          "titulo": "Incêndio em pub de Bangkok deixa 27 mortos e 63 feridos",
-          "resumo": "Um incêndio começou por volta da meia-noite em um pub localizado na região norte de Bangkok na segunda‑feira. As chamas foram controladas pelos bombeiros após cerca de meia hora, mas deixaram ao menos 27 mortos e 63 feridos. Imagens mostraram grandes labaredas e fumaça negra saindo da porta frontal enquanto pessoas tentavam escapar.",
-          "porQueImporta": "O evento evidencia riscos de segurança em estabelecimentos públicos e a necessidade de respostas rápidas de emergência.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/12/incendio-em-pub-em-bangkok-deixa-pelo-menos-27-mortos.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/video-mostra-momento-que-fogo-em-bar-de-bangkok-se-espalha/"
-            },
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cewqvp71nz9o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-07-13T17:53:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/wBP1hpOlu0094MGVX_QyzIO9hA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/s/hDQAi6Tfaa6BVBhEh4MA/ap26193693909232.jpg"
-        },
-        {
-          "clusterId": "3e1f5da1cc4e6c48",
-          "slug": "98b89035cb67827a",
-          "titulo": "Irã registra apagões após ataques dos EUA danificarem rede elétrica",
-          "resumo": "Ataques realizados pelos Estados Unidos danificaram mais de 2 mil instalações da rede elétrica iraniana. Aproximadamente 4.200 megawatts foram retirados de operação, provocando interrupções de energia durante o período de calor intenso. As autoridades iranianas apontam que a perda de capacidade ocorre em plena temporada de verão, agravando a situação de demanda. Não há informações adicionais sobre reparos ou respostas imediatas.",
-          "porQueImporta": "A redução da capacidade elétrica durante o calor pode comprometer o abastecimento de energia da população e setores críticos",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/ira-enfrenta-onda-de-calor-apos-ataques-dos-eua-afetarem-rede-eletrica/"
-            }
-          ],
-          "updatedAt": "2026-07-13T17:33:37.000Z"
-        },
-        {
-          "clusterId": "0b9817da7544dac8",
-          "slug": "1c30176c05ee15ef",
-          "titulo": "Homem é preso após atear fogo em colchão e roupas da companheira em Pratânia",
-          "resumo": "Um homem de 32 anos foi detido em flagrante pela Polícia Militar na manhã de sábado, após supostamente incendiar o colchão e as roupas da companheira em um sobrado no Centro de Pratânia (SP). A vítima, de 40 anos, relatou que o ato ocorreu após desentendimento e pedido de saída da casa devido a comportamento agressivo. O imóvel pertence aos pais da mulher e o suspeito se recusou a deixar o local, chegando a fazer ameaças. A prisão foi formalizada com base no boletim de ocorrência registrado pela polícia.",
-          "porQueImporta": "O caso evidencia violência doméstica e risco de incêndio, demandando atenção das autoridades e da sociedade.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/13/homem-e-preso-apos-atear-fogo-em-colchao-e-roupas-da-companheira-em-pratania.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-13T16:09:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cJmk5DX1FlL_3Ke9XDeyVtO_0GI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/x0glQ1Q5mMuBfjhrJlqA/delpolbotucatu.png"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "9a4b9f9353e94523",
-          "slug": "53d214169be69bf3",
-          "titulo": "Incêndio florestal no sul da Espanha deixa 13 mortos e evacua cerca de 1.500 pessoas",
-          "resumo": "O fogo começou na quinta‑feira na província de Almería e se espalhou rapidamente, atingindo mais de 6.000 hectares. As chamas provocaram 13 mortes, entre elas um belga de 63 anos, e deixaram um casal britânico gravemente queimado. Aproximadamente 1.500 moradores foram evacuados e, após quatro dias de combate, o incêndio foi estabilizado. Autoridades foram questionadas sobre a falta de instruções às vítimas antes do desastre.",
-          "porQueImporta": "O evento evidencia a vulnerabilidade a incêndios florestais e a necessidade de comunicação eficaz em emergências.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/11/casal-britanico-e-resgatado-com-40percent-do-corpo-queimado-apos-incendio-florestal-que-ja-deixou-mortos-no-sul-da-espanha.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-12T21:56:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ck3Sv7q-xGsNYKP3AiMePYG3eZY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/B/ZgoMguRASLsKI5abWDlg/globo-canal-5-20260710-2000-frame-80900.jpeg"
-        }
-      ]
-    },
-    {
       "slug": "terremoto",
       "label": "Terremoto",
       "stories": [
+        {
+          "clusterId": "eb0a7af0937723d8",
+          "slug": "e63dd16dbe642da3",
+          "titulo": "Mortes por terremoto na Venezuela chegam a 4.561",
+          "resumo": "O número de mortos em decorrência dos terremotos que atingiram a Venezuela subiu para 4.561, conforme anunciado pelo presidente da Assembleia Nacional. O total de feridos permanece em 16.740, com cerca de 17,9 mil pessoas desalojadas e 20,2 mil em acampamentos. Os sismos, de magnitude 7,2 e 7,5, ocorreram em 24 de junho, afetando principalmente a cidade litorânea de La Guaira.",
+          "porQueImporta": "A alta mortalidade e o grande número de deslocados exigem respostas humanitárias urgentes.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/13/terremoto-na-venezuela-numero-de-mortos-sobe-para-4561.ghtml"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/mundo/numero-de-mortos-por-terremotos-na-venezuela-sobe-para-4-561/"
+            }
+          ],
+          "updatedAt": "2026-07-13T21:18:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
+        },
         {
           "clusterId": "ff50f3bde675143c",
           "slug": "8c4cc7cc5b5f1488",
@@ -624,25 +545,184 @@
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "07eefa20f698f3f6",
-          "slug": "866ce1a972c14560",
-          "titulo": "Supertufão Bavi atinge leste da China com ventos de até 145 km/h",
-          "resumo": "O supertufão Bavi chegou ao leste da China neste sábado, com ventas de até 145 km/h. O ciclone tocou o solo na província de Zhejiang por volta das 23h20 (horário local). Mais de 1,7 milhão de moradores foram evacuados das suas casas como medida preventiva.",
-          "porQueImporta": "A tempestade pode causar danos extensos e risco à vida de milhões de pessoas na região costeira",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
+          "clusterId": "da1771f4f83f3641",
+          "slug": "2916f9cf6b74ff49",
+          "titulo": "Piloto e passageiro morrem em queda de helicóptero em Rorainópolis",
+          "resumo": "Dois ocupantes de um helicóptero – o piloto Danilo Pinto de Oliveira e Silva, de 45 anos, e o passageiro Ygor Rodrigues da Silva Souza, de 29 – faleceram após a aeronave cair em Rorainópolis, no sul de Roraima. Os corpos foram encontrados no domingo durante operação conjunta da Polícia Civil de Roraima e da Força Aérea Brasileira. O Instituto Médico Legal constatou que a causa da morte foi múltiplas lesões decorrentes da queda, incluindo rupturas cardíacas que provocaram grande perda de sangue.",
+          "porQueImporta": "O acidente evidencia riscos de transporte aéreo em áreas remotas e a necessidade de investigação de causas para prevenir novos incidentes",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/11/fotos-supertufao-bavi-chega-ao-leste-da-china-com-ventos-de-145-kmh-e-grandes-ondas.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/13/piloto-e-homem-morrem-em-queda-de-helicoptero-em-roraima.ghtml"
             }
           ],
-          "updatedAt": "2026-07-11T18:56:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/psZDYCWgN1prK7KYzArc7xeJgok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/m/GT2rjoQo227gzPtFdNog/chatgpt-image-11-de-jul.-de-2026-15-48-31.png"
+          "updatedAt": "2026-07-13T20:52:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bO692xM-i03HAgUinGsT64_rhog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/8/mL9CwpS5O7mlAjodJ7Yw/resgate-de-vitimas.jpeg"
+        },
+        {
+          "clusterId": "e2a993cc30656835",
+          "slug": "2fda243b69f76682",
+          "titulo": "Balão de grande porte cai em área de mata em Búzios",
+          "resumo": "Um balão de grande porte caiu em uma área de mata próxima ao bairro Baía Formosa, em Armação dos Búzios, na Região dos Lagos do Rio, no último sábado. A Defesa Civil foi acionada e enviou equipe ao local, mas o balão já havia sido retirado quando os agentes chegaram. Moradores relataram ter acompanhado a descida do artefato antes da retirada.",
+          "porQueImporta": "O incidente evidencia riscos de objetos aéreos em áreas urbanas e a necessidade de resposta rápida das autoridades",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/13/balao-de-grande-porte-cai-em-area-de-mata-em-buzios.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-13T20:42:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/pFKLUb5qBsWvByPVyax_eSAWXNg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Q/AAnucxRO6CImCB8TD45g/balao.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "fc0dccb238304c00",
+          "slug": "43c89e8adc98769e",
+          "titulo": "Incêndio em pub de Bangkok deixa 27 mortos e 63 feridos",
+          "resumo": "Um incêndio começou por volta da meia‑noite em um pub localizado na região norte da capital tailandesa, resultando em pelo menos 27 mortes e 63 feridos, dos quais 22 permanecem em estado crítico. Testemunhas registraram a propagação rápida das chamas e a fuga de pessoas, enquanto os bombeiros levaram cerca de meia hora para controlar o fogo. As autoridades confirmaram o número de vítimas e continuam as operações de resgate e investigação.",
+          "porQueImporta": "O evento evidencia riscos de segurança em estabelecimentos públicos e a necessidade de respostas rápidas de emergência.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/12/incendio-em-pub-em-bangkok-deixa-pelo-menos-27-mortos.ghtml"
+            },
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cewqvp71nz9o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-07-13T13:43:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wBP1hpOlu0094MGVX_QyzIO9hA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/s/hDQAi6Tfaa6BVBhEh4MA/ap26193693909232.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "a2e08fd8a74fa169",
+          "slug": "e53bb84fad16d22e",
+          "titulo": "Instituto Água e Terra investiga vazamento de óleo de xisto em Paranaguá e bombeiros monitoram risco de explosão",
+          "resumo": "Moradores do bairro Serraria da Rocha, em Paranaguá (PR), relataram mau cheiro e acionaram a Defesa Civil e o Corpo de Bombeiros. O Instituto Água e Terra iniciou a investigação de um vazamento de óleo de xisto em galerias de água da chuva. O Corpo de Bombeiros acompanha a situação devido à presença de gás que pode gerar explosão. Até o momento, não houve remoção de pessoas da área.",
+          "porQueImporta": "O vazamento pode contaminar o solo e a água e representar risco de explosão para a população local",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/parana/noticia/2026/07/13/vazamento-de-oleo-no-litoral-do-parana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-13T21:20:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/qi1WyEXnDNaB00cAc2DILw62Gy0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/9/lYR52gRqmnw7SJAB2DIA/design-sem-nome-6-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "aba40fbb7f81348a",
+          "slug": "82190a216598cfe0",
+          "titulo": "Homem morre soterrado durante abertura de vala em Pirapora",
+          "resumo": "Um homem ficou soterrado ao abrir uma vala para instalação de tubulação de captação de água do rio São Francisco na zona rural de Pirapora. A equipe do 2º Pelotão dos Bombeiros foi acionada e constatou o acidente envolvendo dois trabalhadores. O incidente ocorreu a cerca de dois quilômetros da cidade, na segunda‑feira. O homem morreu no local.",
+          "porQueImporta": "O caso evidencia riscos de trabalhos em obras rurais e a necessidade de medidas de segurança.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/13/homem-morre-soterrado-durante-abertura-de-vala-na-zona-rural-de-pirapora.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-13T21:13:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ksVasLON8ozPwPWGV2N-jPGXRJc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/J/nGtmteTEyZdB3Yf0e91g/whatsapp-image-2026-07-13-at-17.11.42-2-1-.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "afogamento",
+      "label": "Afogamento",
+      "stories": [
+        {
+          "clusterId": "5646a325664c37de",
+          "slug": "58800c5488600da7",
+          "titulo": "Idoso de 75 anos morre afogado ao tentar desengatar rede de pesca em barragem no Piauí",
+          "resumo": "Um homem de 75 anos, identificado apenas como Marcelino, entrou na água de uma barragem na localidade Alto Bonito, zona rural de Piracuruca, ao tentar soltar uma rede de pesca presa. O Corpo de Bombeiros encontrou o corpo na manhã de domingo após buscas. A vítima desapareceu após entrar no reservatório e não retornou à superfície.",
+          "porQueImporta": "O caso evidencia riscos de acidentes em áreas de pesca e a necessidade de cautela ao lidar com redes em corpos d'água",
+          "categoria": "Afogamento",
+          "categoriaSlug": "afogamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/13/idoso-morre-afogado.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-13T20:56:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/IvW7x_b_cMk_4Vg8lCOsqGUs0iY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Y/6RjGAVSiqhArUCg6D21g/whatsapp-image-2026-03-17-at-15.00.18.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-trabalho",
+      "label": "Acidente de trabalho",
+      "stories": [
+        {
+          "clusterId": "966e67bd7fbaffc3",
+          "slug": "d81a9c2258f01efb",
+          "titulo": "Mestre de obras morre após queda de cerca de 10 andares em poço de elevador em Porto Belo (SC)",
+          "resumo": "Um mestre de obras de 40 anos morreu ao cair de aproximadamente 10 andares no poço de elevador de um prédio em construção em Porto Belo, Santa Catarina. A Polícia Civil identificou a vítima como Neyroby Gonzatti e informou que o acidente ocorreu na manhã de segunda-feira. A empresa Famex Empreendimentos, empregadora da vítima, afirmou que colabora com as investigações e presta assistência aos familiares.",
+          "porQueImporta": "O caso evidencia riscos de segurança em obras e a necessidade de medidas preventivas para evitar acidentes graves.",
+          "categoria": "Acidente de trabalho",
+          "categoriaSlug": "acidente-de-trabalho",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/13/mestre-obras-morre-cair-altura-10-andares-poco-elevador-predio-litoral-de-sc.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-13T20:16:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lnHbbLtH5X64Pc-ssEAsITpowjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/4/Z91AL5SUyzM8wPnbk5Tw/predio-porto-belo.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "ae95eceaafe13842",
+          "slug": "f1b0c93d05fe8a20",
+          "titulo": "Filho de belga morto em incêndio na Espanha contesta alegações de autoridades",
+          "resumo": "O filho do empresário belga Stanislas Verdonckt afirmou que as autoridades não deram instruções para que o grupo permanecesse abrigado durante o incêndio florestal que matou seu pai e outras vítimas. Thomas‑Wolf Verdonckt disse ter conversado por telefone com o pai pouco antes do fogo se intensificar na quinta‑feira. Ele contestou a versão de que as vítimas teriam ignorado orientações oficiais. O caso ocorreu no sul da Espanha, onde o incêndio foi o mais letal da região.",
+          "porQueImporta": "Mostra divergências entre relatos oficiais e familiares em situações de desastres naturais",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/12/filho-de-belga-morto-em-incendio-na-espanha-contesta-autoridades-nenhuma-ordem-foi-dada.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-12T21:56:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VnEWc1084QhoDvDTCWtLMlRhHE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/N/GSgfWXQEAvsPdxb3SO7A/hm0glnnw8aa720o.jpg"
         }
       ]
     }
