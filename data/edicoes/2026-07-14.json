@@ -1,27 +1,129 @@
 {
   "date": "2026-07-14",
-  "generatedAt": "2026-07-14T06:36:10.876Z",
+  "generatedAt": "2026-07-14T10:19:23.266Z",
   "home": [
     {
-      "clusterId": "fc0dccb238304c00",
-      "slug": "43c89e8adc98769e",
-      "titulo": "Incêndio em pub de Bangkok deixa 27 mortos e 63 feridos",
-      "resumo": "Um incêndio começou por volta da meia‑noite em um pub localizado na região norte da capital tailandesa, resultando em pelo menos 27 mortes e 63 feridos, dos quais 22 permanecem em estado crítico. Testemunhas registraram a propagação rápida das chamas e a fuga de pessoas, enquanto os bombeiros levaram cerca de meia hora para controlar o fogo. As autoridades confirmaram o número de vítimas e continuam as operações de resgate e investigação.",
-      "porQueImporta": "O evento evidencia riscos de segurança em estabelecimentos públicos e a necessidade de respostas rápidas de emergência.",
+      "clusterId": "bc2a64031e6bbd8f",
+      "slug": "d99e7bcec325788b",
+      "titulo": "Terremoto de magnitude 5,4/5,5 atinge o centro do Peru",
+      "resumo": "Um sismo de magnitude entre 5,4 e 5,5 foi registrado às 3h21 da manhã, horário local, no centro do Peru. O abalo ocorreu a aproximadamente 143 km de profundidade, próximo à província de Espinar, na região de Cusco. As autoridades peruanas confirmaram o evento, mas não foram reportados danos imediatos ou vítimas. A intensidade do tremor foi sentida nas áreas circundantes.",
+      "porQueImporta": "O terremoto evidencia a atividade sísmica na região andina, demandando monitoramento e preparação local.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-55-atinge-o-centro-do-peru/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-54-atinge-o-peru"
+        }
+      ],
+      "updatedAt": "2026-07-14T09:43:38.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/terremoto.jpg"
+    },
+    {
+      "clusterId": "159fb49a677a703f",
+      "slug": "6c33ecfdbe3411b4",
+      "titulo": "Dois motoristas morrem em colisão frontal entre carretas na BR-251 em Salinas",
+      "resumo": "Na noite de segunda‑feira, duas carretas colidiram de frente na BR‑251, no km 293, em Salinas, por volta das 21h20. Os veículos estavam vazios e os motoristas, que viajavam sozinhos, ficaram presos às ferragens e faleceram no local. A Polícia Rodoviária Federal informou que as causas do acidente serão investigadas. O Corpo de Bombeiros confirmou o óbito dos condutores.",
+      "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de medidas de segurança para evitar fatalidades semelhantes.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/14/dois-motoristas-morrem-em-colisao-frontal-entre-carretas-na-br-251-em-salinas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-14T10:03:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/npZo2bpyT4ZEgi_1qk5WNLDkoK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/DpUVAzQayQzNfrjvDlfQ/acidente-salinas-1-.jpeg"
+    },
+    {
+      "clusterId": "09ba7b4015041454",
+      "slug": "c62ab8e3710d5d05",
+      "titulo": "Menina de 8 anos morre em acidente de trânsito em Jataí",
+      "resumo": "Uma criança de 8 anos estava em uma moto com o avô e a irmã quando a moto colidiu em um cruzamento com um veículo que vinha perpendicularmente. O acidente ocorreu em Jataí, sul de Goiás, e foi registrado por câmeras de segurança. Ambas as vias apresentavam sinalização de \"pare\". A menina morreu em decorrência do impacto.",
+      "porQueImporta": "O caso destaca riscos de colisões em cruzamentos e a necessidade de atenção ao respeito das sinalizações de trânsito.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/go/goias/noticia/2026/07/14/crianca-de-8-anos-morre-apos-acidente-com-avo-e-irma-em-jatai-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-14T09:58:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/xl1VIrhGEpyrXGqN9AY6JoeSZWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/b/AWB0zuRMKphCKLQ2Ey1Q/acidente-jatai-crianca-8-anos-morre.jpg"
+    },
+    {
+      "clusterId": "88baaad8dc6a1ff6",
+      "slug": "45f3fe9c6cf12f52",
+      "titulo": "Incêndio destrói imagem de Nossa Senhora Aparecida em Nerópolis",
+      "resumo": "Na noite de segunda‑feira (13), uma imagem de Nossa Senhora Aparecida localizada na entrada do município de Nerópolis, na Região Metropolitana de Goiânia, foi consumida por um incêndio. A TV Anhanguera apontou como principal suspeita a possibilidade de vandalismo, embora as autoridades ainda não tenham confirmado a causa. O caso está sob investigação pelas autoridades locais.",
+      "porQueImporta": "A destruição de um símbolo religioso local gera impacto cultural e mobiliza a segurança pública.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/12/incendio-em-pub-em-bangkok-deixa-pelo-menos-27-mortos.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cewqvp71nz9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://g1.globo.com/go/goias/noticia/2026/07/14/incendio-destroi-imagem-de-nossa-senhora-aparecida.ghtml"
         }
       ],
-      "updatedAt": "2026-07-13T13:43:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/wBP1hpOlu0094MGVX_QyzIO9hA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/s/hDQAi6Tfaa6BVBhEh4MA/ap26193693909232.jpg"
+      "updatedAt": "2026-07-14T09:57:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/uA8UgecF2xJmtHIEdyYEuKNGkDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/XwIcAOQse2B4vUg1nzJw/padrao-g1cbn-foto-51-.jpg"
+    },
+    {
+      "clusterId": "ac3f24e1ce56ec94",
+      "slug": "b13fa62b4fc2c0d7",
+      "titulo": "Caminhão carregado com porcos tomba na BR-020",
+      "resumo": "Na segunda‑feira, 13 de julho, um caminhão que transportava porcos tombou na rodovia BR‑020. O acidente ocorreu na via e parte dos animais morreu no local. As autoridades foram acionadas para remover o veículo e os restos dos animais.",
+      "porQueImporta": "O incidente gera risco de obstrução da rodovia e pode impactar o trânsito da região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/caminhao-carregado-com-porcos-tomba-na-br-020"
+        }
+      ],
+      "updatedAt": "2026-07-14T09:51:35.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/caminhao-porcos-br-020.jpeg"
+    },
+    {
+      "clusterId": "e21bc41472ecf9de",
+      "slug": "27a128eaf9326f2d",
+      "titulo": "Seis municípios do Amapá têm prioridade no combate à estiagem em 2026",
+      "resumo": "A Secretaria de Estado do Meio Ambiente (Sema) incluiu Oiapoque, Calçoene, Amapá, Ferreira Gomes, Mazagão e Porto Grande em monitoramento por causa da estiagem. Em 2026, esses municípios foram classificados como prioridade para ações de controle ambiental. A Defesa Civil alerta que a estiagem deve ser mais intensa este ano, aumentando o risco de secas severas e incêndios florestais.",
+      "porQueImporta": "A medida visa reduzir impactos da seca e prevenir incêndios em áreas vulneráveis",
+      "categoria": "Seca",
+      "categoriaSlug": "seca",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/14/seis-municipios-do-amapa-tem-prioridade-no-combate-a-estiagem-em-2026.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-14T09:00:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/PQFtMDlZ2Vwe96GzoWJf1MSV-Q0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/V/5/IvwfFcRE68nrnFw7jQng/up-ag-24475-0eca74bc-0264-bafc-3338-6c7850a90c3d.jpg"
+    },
+    {
+      "clusterId": "229d786bf90200a3",
+      "slug": "9cebab2ad425d49f",
+      "titulo": "Mulher morre queimada em terreiro de candomblé na Zona Oeste do Rio",
+      "resumo": "Caroline Pinto dos Santos morreu com cerca de 65% do corpo queimado durante uma cerimônia em um terreiro de candomblé na Zona Oeste do Rio. Testemunhas afirmam que Gabriel Pimentel, marido da yalorixá Thayane Alves, não prestou socorro e foi filmado despejando etanol em uma cumbuca já em chamas. O proprietário do terreiro, Anderson Bruno de Andrade Júnior, declarou que Thayane não havia avisado o uso de materiais inflamáveis.",
+      "porQueImporta": "O caso levanta questões sobre segurança em rituais religiosos e responsabilidade de socorro em emergências",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/14/testemunhas-investigacao-mulher-morreu-queimada-terreiro-falta-socorro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-14T08:30:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/JZkuAzVqSwSlj-IIrOJtR0H6ctw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/o/cTXjHBQeOZJm7Ev1LRVA/whatsapp-image-2026-07-09-at-16.42.53.jpeg"
     },
     {
       "clusterId": "6c4824825ada8bae",
@@ -71,109 +173,83 @@
         }
       ],
       "updatedAt": "2026-07-14T01:04:36.000Z"
-    },
-    {
-      "clusterId": "f8ffb0bd5cc5adf4",
-      "slug": "a021a1b186fa57c6",
-      "titulo": "Incêndio em bar de Bangkok deixa ao menos 28 mortos e mais de 60 feridos",
-      "resumo": "Um incêndio em um bar lotado de Bangkok provocou a morte de ao menos 28 pessoas e feriu mais de 60. As autoridades suspeitam que a origem foi um curto-circuito no ar-condicionado. A tragédia ocorreu enquanto a banda se apresentava no local. As imagens mostram os momentos finais da apresentação antes do fogo se alastrar.",
-      "porQueImporta": "O incidente evidencia riscos de segurança em estabelecimentos públicos e a necessidade de prevenção de incêndios.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/13/na-tailandia-dezenas-de-pessoas-morrem-em-incendio-em-um-bar-suspeita-e-de-curto-circuito-no-ar-condicionado.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-14T00:44:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/WojwNUWCcBgvcizcfEKhI46kXOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Z/VzFdSMSfa0DOdXATozEw/globo-canal-4-20260713-2000-frame-86215.jpeg"
-    },
-    {
-      "clusterId": "3b0ad8b1bda4dd31",
-      "slug": "31c21ad334fa5dcd",
-      "titulo": "Marinha investiga naufrágio no Pará que deixou três mortos",
-      "resumo": "Um barco naufragou em Cametá, no estado do Pará, resultando em três óbitos. A Marinha do Brasil abriu inquérito para determinar as circunstâncias e possíveis causas do acidente. As autoridades estão coletando informações e depoimentos para a investigação. O caso segue sob análise das forças navais.",
-      "porQueImporta": "O incidente evidencia riscos de navegação em rios da região amazônica e a necessidade de investigação para prevenir novos acidentes.",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/marinha-investiga-naufragio-no-para-que-deixou-tres-mortos/"
-        }
-      ],
-      "updatedAt": "2026-07-14T00:43:01.000Z"
-    },
-    {
-      "clusterId": "1790a7e373b17912",
-      "slug": "604aa41b760cb402",
-      "titulo": "Jogo do Santos na Sul-Americana tem local alterado pela Conmebol",
-      "resumo": "A partida entre Santos e Universidad Central foi transferida de Caracas para Valência. A mudança foi decidida após os recentes terremotos na Venezuela.",
-      "porQueImporta": "A alteração afeta a logística e a preparação das equipes na competição continental.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/jogo-do-santos-na-sul-americana-tem-local-alterado-pela-conmebol/"
-        }
-      ],
-      "updatedAt": "2026-07-14T00:27:22.000Z"
-    },
-    {
-      "clusterId": "ddbaa0cd2eebe030",
-      "slug": "7f307c5c2d529882",
-      "titulo": "Trump anuncia pedágio no Estreito de Ormuz e Irã rejeita interferência americana",
-      "resumo": "Donald Trump anunciou a cobrança de pedágio para navios que transitam pelo Estreito de Ormuz, acompanhada de um bloqueio a embarcações iranianas. O regime iraniano afirmou que não permitirá atuação de forças americanas na região. O anúncio coincidiu com a alta de quase 10% no preço do barril de petróleo.",
-      "porQueImporta": "A medida pode elevar as tensões no Oriente Médio e impactar os preços globais de energia",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/07/13/resumao-diario-do-jn-trump-anuncia-pedagio-no-estreito-de-ormuz-e-ira-diz-que-nao-vai-permitir-interferencia-na-regiao-preco-do-petroleo-dispara-com-aumento-das-tensoes.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-14T00:26:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-    },
-    {
-      "clusterId": "339e76b0b0d8a69e",
-      "slug": "f1df0e1742c544d6",
-      "titulo": "Incêndio destrói loja de fotografia em Campinas e suspeito ainda não identificado",
-      "resumo": "Um incêndio começou na madrugada de segunda-feira em uma loja de fotografia na região central de Campinas, SP, e destruiu o estabelecimento localizado na Rua Doutor Quirino. Um vídeo divulgado mostra um homem encapuzado, carregando um saco preto, saindo do local logo após provocar as chamas. Até o momento, a Polícia Civil mantém a investigação em curso e não identificou o autor do crime.",
-      "porQueImporta": "O caso evidencia risco de incêndios deliberados em áreas comerciais e a necessidade de investigação rápida para segurança pública.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/13/novo-video-mostra-homem-deixando-loja-foto-causar-incendio-policia-investiga.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-13T23:41:50.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/892gKpyxBpcOOHNCCIgyuUhIUCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/7/UJNWqXTBObNAo50C21YA/von-zuben.jpg"
-    },
-    {
-      "clusterId": "034cce8da137e213",
-      "slug": "bf6986d2f07f794b",
-      "titulo": "Massa de ar frio provoca queda acentuada de temperaturas no noroeste de São Paulo",
-      "resumo": "Uma massa de ar frio de origem polar está causando queda significativa das temperaturas em todo o noroeste paulista. Em São José do Rio Preto, a Defesa Civil prevê mínima de 10 °C na manhã de terça‑feira (14). Municípios como Rio Preto, Valparaíso, Santa Salete, Dirce Reis e outros têm potencial para registrar as menores temperaturas de 2026 na região. A situação foi comunicada pelo meteorologista da Defesa Civil, William Minhoto.",
-      "porQueImporta": "Temperaturas muito baixas podem gerar riscos à saúde e à infraestrutura local",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/13/frio-derruba-temperaturas-e-pode-provocar-as-menores-minimas-do-ano-no-noroeste-de-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-13T23:07:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PqBbeQ7BgWFoOdJZ-zSmiI51g98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/B/inRBlSSZydbIX6tkoz3Q/design-sem-nome-2026-07-13t204828.759.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "159fb49a677a703f",
+          "slug": "6c33ecfdbe3411b4",
+          "titulo": "Dois motoristas morrem em colisão frontal entre carretas na BR-251 em Salinas",
+          "resumo": "Na noite de segunda‑feira, duas carretas colidiram de frente na BR‑251, no km 293, em Salinas, por volta das 21h20. Os veículos estavam vazios e os motoristas, que viajavam sozinhos, ficaram presos às ferragens e faleceram no local. A Polícia Rodoviária Federal informou que as causas do acidente serão investigadas. O Corpo de Bombeiros confirmou o óbito dos condutores.",
+          "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de medidas de segurança para evitar fatalidades semelhantes.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/14/dois-motoristas-morrem-em-colisao-frontal-entre-carretas-na-br-251-em-salinas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-14T10:03:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/npZo2bpyT4ZEgi_1qk5WNLDkoK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/DpUVAzQayQzNfrjvDlfQ/acidente-salinas-1-.jpeg"
+        },
+        {
+          "clusterId": "09ba7b4015041454",
+          "slug": "c62ab8e3710d5d05",
+          "titulo": "Menina de 8 anos morre em acidente de trânsito em Jataí",
+          "resumo": "Uma criança de 8 anos estava em uma moto com o avô e a irmã quando a moto colidiu em um cruzamento com um veículo que vinha perpendicularmente. O acidente ocorreu em Jataí, sul de Goiás, e foi registrado por câmeras de segurança. Ambas as vias apresentavam sinalização de \"pare\". A menina morreu em decorrência do impacto.",
+          "porQueImporta": "O caso destaca riscos de colisões em cruzamentos e a necessidade de atenção ao respeito das sinalizações de trânsito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/07/14/crianca-de-8-anos-morre-apos-acidente-com-avo-e-irma-em-jatai-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-14T09:58:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xl1VIrhGEpyrXGqN9AY6JoeSZWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/b/AWB0zuRMKphCKLQ2Ey1Q/acidente-jatai-crianca-8-anos-morre.jpg"
+        },
+        {
+          "clusterId": "ac3f24e1ce56ec94",
+          "slug": "b13fa62b4fc2c0d7",
+          "titulo": "Caminhão carregado com porcos tomba na BR-020",
+          "resumo": "Na segunda‑feira, 13 de julho, um caminhão que transportava porcos tombou na rodovia BR‑020. O acidente ocorreu na via e parte dos animais morreu no local. As autoridades foram acionadas para remover o veículo e os restos dos animais.",
+          "porQueImporta": "O incidente gera risco de obstrução da rodovia e pode impactar o trânsito da região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/caminhao-carregado-com-porcos-tomba-na-br-020"
+            }
+          ],
+          "updatedAt": "2026-07-14T09:51:35.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/07/caminhao-porcos-br-020.jpeg"
+        },
+        {
+          "clusterId": "4fd623a70f39fbc6",
+          "slug": "352ffc69c54c2e33",
+          "titulo": "Motorista atropela e mata seis pessoas em feira em Viña del Mar",
+          "resumo": "Um motorista colidiu com a contramão e capotou na Feria Caupolicán, em Viña del Mar, no Chile, resultando em seis mortes e sete feridos, entre eles dois bebês de oito meses. A vítima foi atingida quando o veículo subiu a calçada da feira. Testemunha identificada como Francisco relatou o acidente à imprensa local.",
+          "porQueImporta": "O incidente evidencia riscos de alta velocidade em áreas públicas com grande circulação de pessoas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/12/motorista-atropela-e-mata-seis-pessoas-em-feira-em-vina-del-mar-no-chile.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-12T15:36:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/au9LsJOA9DOV48fVMMQYjYQHKt8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/a/pWDaiXSUe4AiZsx6XayQ/afp-20260712-b9yp4cu-v1-highres-chileaccident.jpg"
+        }
+      ]
+    },
     {
       "slug": "geral",
       "label": "Geral",
@@ -210,56 +286,6 @@
             }
           ],
           "updatedAt": "2026-07-14T01:04:36.000Z"
-        },
-        {
-          "clusterId": "1790a7e373b17912",
-          "slug": "604aa41b760cb402",
-          "titulo": "Jogo do Santos na Sul-Americana tem local alterado pela Conmebol",
-          "resumo": "A partida entre Santos e Universidad Central foi transferida de Caracas para Valência. A mudança foi decidida após os recentes terremotos na Venezuela.",
-          "porQueImporta": "A alteração afeta a logística e a preparação das equipes na competição continental.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/jogo-do-santos-na-sul-americana-tem-local-alterado-pela-conmebol/"
-            }
-          ],
-          "updatedAt": "2026-07-14T00:27:22.000Z"
-        },
-        {
-          "clusterId": "ddbaa0cd2eebe030",
-          "slug": "7f307c5c2d529882",
-          "titulo": "Trump anuncia pedágio no Estreito de Ormuz e Irã rejeita interferência americana",
-          "resumo": "Donald Trump anunciou a cobrança de pedágio para navios que transitam pelo Estreito de Ormuz, acompanhada de um bloqueio a embarcações iranianas. O regime iraniano afirmou que não permitirá atuação de forças americanas na região. O anúncio coincidiu com a alta de quase 10% no preço do barril de petróleo.",
-          "porQueImporta": "A medida pode elevar as tensões no Oriente Médio e impactar os preços globais de energia",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/07/13/resumao-diario-do-jn-trump-anuncia-pedagio-no-estreito-de-ormuz-e-ira-diz-que-nao-vai-permitir-interferencia-na-regiao-preco-do-petroleo-dispara-com-aumento-das-tensoes.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-14T00:26:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-        },
-        {
-          "clusterId": "034cce8da137e213",
-          "slug": "bf6986d2f07f794b",
-          "titulo": "Massa de ar frio provoca queda acentuada de temperaturas no noroeste de São Paulo",
-          "resumo": "Uma massa de ar frio de origem polar está causando queda significativa das temperaturas em todo o noroeste paulista. Em São José do Rio Preto, a Defesa Civil prevê mínima de 10 °C na manhã de terça‑feira (14). Municípios como Rio Preto, Valparaíso, Santa Salete, Dirce Reis e outros têm potencial para registrar as menores temperaturas de 2026 na região. A situação foi comunicada pelo meteorologista da Defesa Civil, William Minhoto.",
-          "porQueImporta": "Temperaturas muito baixas podem gerar riscos à saúde e à infraestrutura local",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/13/frio-derruba-temperaturas-e-pode-provocar-as-menores-minimas-do-ano-no-noroeste-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-13T23:07:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PqBbeQ7BgWFoOdJZ-zSmiI51g98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/B/inRBlSSZydbIX6tkoz3Q/design-sem-nome-2026-07-13t204828.759.jpg"
         },
         {
           "clusterId": "65af8bcd4f940fdb",
@@ -302,7 +328,41 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "fc0dccb238304c00",
+          "clusterId": "88baaad8dc6a1ff6",
+          "slug": "45f3fe9c6cf12f52",
+          "titulo": "Incêndio destrói imagem de Nossa Senhora Aparecida em Nerópolis",
+          "resumo": "Na noite de segunda‑feira (13), uma imagem de Nossa Senhora Aparecida localizada na entrada do município de Nerópolis, na Região Metropolitana de Goiânia, foi consumida por um incêndio. A TV Anhanguera apontou como principal suspeita a possibilidade de vandalismo, embora as autoridades ainda não tenham confirmado a causa. O caso está sob investigação pelas autoridades locais.",
+          "porQueImporta": "A destruição de um símbolo religioso local gera impacto cultural e mobiliza a segurança pública.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/07/14/incendio-destroi-imagem-de-nossa-senhora-aparecida.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-14T09:57:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uA8UgecF2xJmtHIEdyYEuKNGkDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/XwIcAOQse2B4vUg1nzJw/padrao-g1cbn-foto-51-.jpg"
+        },
+        {
+          "clusterId": "229d786bf90200a3",
+          "slug": "9cebab2ad425d49f",
+          "titulo": "Mulher morre queimada em terreiro de candomblé na Zona Oeste do Rio",
+          "resumo": "Caroline Pinto dos Santos morreu com cerca de 65% do corpo queimado durante uma cerimônia em um terreiro de candomblé na Zona Oeste do Rio. Testemunhas afirmam que Gabriel Pimentel, marido da yalorixá Thayane Alves, não prestou socorro e foi filmado despejando etanol em uma cumbuca já em chamas. O proprietário do terreiro, Anderson Bruno de Andrade Júnior, declarou que Thayane não havia avisado o uso de materiais inflamáveis.",
+          "porQueImporta": "O caso levanta questões sobre segurança em rituais religiosos e responsabilidade de socorro em emergências",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/14/testemunhas-investigacao-mulher-morreu-queimada-terreiro-falta-socorro.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-14T08:30:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JZkuAzVqSwSlj-IIrOJtR0H6ctw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/o/cTXjHBQeOZJm7Ev1LRVA/whatsapp-image-2026-07-09-at-16.42.53.jpeg"
+        },
+        {
+          "clusterId": "cb673e1e681a4b1b",
           "slug": "43c89e8adc98769e",
           "titulo": "Incêndio em pub de Bangkok deixa 27 mortos e 63 feridos",
           "resumo": "Um incêndio começou por volta da meia‑noite em um pub localizado na região norte da capital tailandesa, resultando em pelo menos 27 mortes e 63 feridos, dos quais 22 permanecem em estado crítico. Testemunhas registraram a propagação rápida das chamas e a fuga de pessoas, enquanto os bombeiros levaram cerca de meia hora para controlar o fogo. As autoridades confirmaram o número de vítimas e continuam as operações de resgate e investigação.",
@@ -313,48 +373,10 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/07/12/incendio-em-pub-em-bangkok-deixa-pelo-menos-27-mortos.ghtml"
-            },
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cewqvp71nz9o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "updatedAt": "2026-07-13T13:43:31.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/wBP1hpOlu0094MGVX_QyzIO9hA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/s/hDQAi6Tfaa6BVBhEh4MA/ap26193693909232.jpg"
-        },
-        {
-          "clusterId": "f8ffb0bd5cc5adf4",
-          "slug": "a021a1b186fa57c6",
-          "titulo": "Incêndio em bar de Bangkok deixa ao menos 28 mortos e mais de 60 feridos",
-          "resumo": "Um incêndio em um bar lotado de Bangkok provocou a morte de ao menos 28 pessoas e feriu mais de 60. As autoridades suspeitam que a origem foi um curto-circuito no ar-condicionado. A tragédia ocorreu enquanto a banda se apresentava no local. As imagens mostram os momentos finais da apresentação antes do fogo se alastrar.",
-          "porQueImporta": "O incidente evidencia riscos de segurança em estabelecimentos públicos e a necessidade de prevenção de incêndios.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/13/na-tailandia-dezenas-de-pessoas-morrem-em-incendio-em-um-bar-suspeita-e-de-curto-circuito-no-ar-condicionado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-14T00:44:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WojwNUWCcBgvcizcfEKhI46kXOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Z/VzFdSMSfa0DOdXATozEw/globo-canal-4-20260713-2000-frame-86215.jpeg"
-        },
-        {
-          "clusterId": "339e76b0b0d8a69e",
-          "slug": "f1df0e1742c544d6",
-          "titulo": "Incêndio destrói loja de fotografia em Campinas e suspeito ainda não identificado",
-          "resumo": "Um incêndio começou na madrugada de segunda-feira em uma loja de fotografia na região central de Campinas, SP, e destruiu o estabelecimento localizado na Rua Doutor Quirino. Um vídeo divulgado mostra um homem encapuzado, carregando um saco preto, saindo do local logo após provocar as chamas. Até o momento, a Polícia Civil mantém a investigação em curso e não identificou o autor do crime.",
-          "porQueImporta": "O caso evidencia risco de incêndios deliberados em áreas comerciais e a necessidade de investigação rápida para segurança pública.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/13/novo-video-mostra-homem-deixando-loja-foto-causar-incendio-policia-investiga.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-13T23:41:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/892gKpyxBpcOOHNCCIgyuUhIUCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/7/UJNWqXTBObNAo50C21YA/von-zuben.jpg"
         }
       ]
     },
@@ -362,6 +384,27 @@
       "slug": "terremoto",
       "label": "Terremoto",
       "stories": [
+        {
+          "clusterId": "bc2a64031e6bbd8f",
+          "slug": "d99e7bcec325788b",
+          "titulo": "Terremoto de magnitude 5,4/5,5 atinge o centro do Peru",
+          "resumo": "Um sismo de magnitude entre 5,4 e 5,5 foi registrado às 3h21 da manhã, horário local, no centro do Peru. O abalo ocorreu a aproximadamente 143 km de profundidade, próximo à província de Espinar, na região de Cusco. As autoridades peruanas confirmaram o evento, mas não foram reportados danos imediatos ou vítimas. A intensidade do tremor foi sentida nas áreas circundantes.",
+          "porQueImporta": "O terremoto evidencia a atividade sísmica na região andina, demandando monitoramento e preparação local.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-55-atinge-o-centro-do-peru/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-54-atinge-o-peru"
+            }
+          ],
+          "updatedAt": "2026-07-14T09:43:38.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/07/terremoto.jpg"
+        },
         {
           "clusterId": "3c99eb908c19039c",
           "slug": "e63dd16dbe642da3",
@@ -378,23 +421,29 @@
           ],
           "updatedAt": "2026-07-13T18:17:49.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "seca",
+      "label": "Seca",
+      "stories": [
         {
-          "clusterId": "ff50f3bde675143c",
-          "slug": "8c4cc7cc5b5f1488",
-          "titulo": "Venezuela enfrenta desafio de reconstruir após terremotos de 24 de junho",
-          "resumo": "Os terremotos ocorridos em 24 de junho deixaram milhares de mortos e feridos no norte da Venezuela, sobrecarregando hospitais já em situação crítica. A fase de emergência terminou, iniciando a etapa de reconstrução que demandará recursos bilionários. Críticas surgem quanto à demora na resposta do governo venezuelano.",
-          "porQueImporta": "A reconstrução exigirá recursos e coordenação internacional para atender às necessidades da população afetada",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
+          "clusterId": "e21bc41472ecf9de",
+          "slug": "27a128eaf9326f2d",
+          "titulo": "Seis municípios do Amapá têm prioridade no combate à estiagem em 2026",
+          "resumo": "A Secretaria de Estado do Meio Ambiente (Sema) incluiu Oiapoque, Calçoene, Amapá, Ferreira Gomes, Mazagão e Porto Grande em monitoramento por causa da estiagem. Em 2026, esses municípios foram classificados como prioridade para ações de controle ambiental. A Defesa Civil alerta que a estiagem deve ser mais intensa este ano, aumentando o risco de secas severas e incêndios florestais.",
+          "porQueImporta": "A medida visa reduzir impactos da seca e prevenir incêndios em áreas vulneráveis",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/economia/noticia/2026/07/12/quantos-bilhoes-custara-reconstruir-a-venezuela-apos-terremotos-e-quem-pagara-a-conta.ghtml"
+              "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/14/seis-municipios-do-amapa-tem-prioridade-no-combate-a-estiagem-em-2026.ghtml"
             }
           ],
-          "updatedAt": "2026-07-12T07:00:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DFdYvpzocbFDxncKNYZ24R25JWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/6/yNbQuUS06mBiLGuVXiYw/37fd2146-d513-49be-9454-c6aad5bbd537.png"
+          "updatedAt": "2026-07-14T09:00:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PQFtMDlZ2Vwe96GzoWJf1MSV-Q0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/V/5/IvwfFcRE68nrnFw7jQng/up-ag-24475-0eca74bc-0264-bafc-3338-6c7850a90c3d.jpg"
         }
       ]
     },
@@ -462,29 +511,6 @@
           ],
           "updatedAt": "2026-07-12T21:56:56.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/VnEWc1084QhoDvDTCWtLMlRhHE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/N/GSgfWXQEAvsPdxb3SO7A/hm0glnnw8aa720o.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "4fd623a70f39fbc6",
-          "slug": "352ffc69c54c2e33",
-          "titulo": "Motorista atropela e mata seis pessoas em feira em Viña del Mar",
-          "resumo": "Um motorista colidiu com a contramão e capotou na Feria Caupolicán, em Viña del Mar, no Chile, resultando em seis mortes e sete feridos, entre eles dois bebês de oito meses. A vítima foi atingida quando o veículo subiu a calçada da feira. Testemunha identificada como Francisco relatou o acidente à imprensa local.",
-          "porQueImporta": "O incidente evidencia riscos de alta velocidade em áreas públicas com grande circulação de pessoas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/12/motorista-atropela-e-mata-seis-pessoas-em-feira-em-vina-del-mar-no-chile.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-12T15:36:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/au9LsJOA9DOV48fVMMQYjYQHKt8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/a/pWDaiXSUe4AiZsx6XayQ/afp-20260712-b9yp4cu-v1-highres-chileaccident.jpg"
         }
       ]
     },
