@@ -1,182 +1,333 @@
 {
   "date": "2026-07-15",
-  "generatedAt": "2026-07-15T06:37:23.352Z",
+  "generatedAt": "2026-07-15T10:22:37.842Z",
   "home": [
     {
-      "clusterId": "c33872be46c541e3",
-      "slug": "d966864f34036998",
-      "titulo": "Ataque russo a Odessa deixa três mortos e três feridos",
-      "resumo": "Na quarta‑feira, forças russas bombardearam a cidade portuária de Odessa, no sul da Ucrânia, matando três pessoas e ferindo outras três, segundo autoridades ucranianas. O ataque ocorreu em meio a confrontos no Mar Negro, onde a Ucrânia também informou ter incendiado cerca de 20 navios russos. Odessa é um dos principais centros de exportação do país e tem sido alvo frequente de bombardeios nos últimos meses.",
-      "porQueImporta": "O incidente evidencia a escalada do conflito entre Rússia e Ucrânia e afeta rotas comerciais estratégicas.",
-      "categoria": "Ataque",
-      "categoriaSlug": "ataque",
+      "clusterId": "3ad9122ed58e2fd4",
+      "slug": "e63dd16dbe642da3",
+      "titulo": "Mortes e feridos aumentam após terremotos de 24 de junho na Venezuela",
+      "resumo": "Os terremotos de magnitude 7,2 e 7,5 que atingiram a Venezuela em 24 de junho deixaram entre 4.561 e 4.734 mortos, conforme diferentes fontes. O número de feridos permanece em 16.740 e as pessoas desalojadas giram em torno de 18 mil. O relatório divulgado na terça‑feira informou que 128.324 famílias foram atendidas e que mais de 20 mil pessoas permanecem em alojamentos temporários. As informações sobre o total de desabrigados variam entre 17.907 e 18 mil.",
+      "porQueImporta": "A magnitude da fatalidade e o número de deslocados exigem resposta humanitária e planejamento de reconstrução.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/15/ucrania-confirma-ataque-a-20-navios-russos-no-mar-negro-apos-ofensiva-da-russia-em-odessa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T06:15:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/gGX41AGxwc_OVi_N4PXbDwnW3Rw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/N/pRpypCTBmnKrlJBAOF6Q/2026-07-14t091321z-1727819094-rc2ldma2u8w8-rtrmadp-3-ukraine-crisis-attack-odesa.jpg"
-    },
-    {
-      "clusterId": "7cc14e1a8cef3f48",
-      "slug": "0b0126c48b5c3317",
-      "titulo": "Mulher de 20 anos morre em acidente de Porsche que pegou fogo em Campinas",
-      "resumo": "Lívia Bevilacqua Batista, de 20 anos, foi identificada como a vítima que morreu após o Porsche Cayman que conduzia o estudante Arthur Rodrigues de Souza colidir com uma árvore e pegar fogo em Campinas (SP). Ambos os ocupantes do veículo faleceram no local. A irmã de Lívia informou que a jovem havia iniciado recentemente o curso de Relações Internacionais na PUC-Campinas. O acidente foi registrado na terça‑feira, dia 14.",
-      "porQueImporta": "O caso evidencia riscos de acidentes de trânsito envolvendo veículos de alta performance e tem impacto na comunidade local.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/13/terremoto-na-venezuela-numero-de-mortos-sobe-para-4561.ghtml"
+        },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/15/extremamente-amada-quem-mulher-morreu-porsche-explodir-acidente-campinas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T06:00:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/hUHdVzntKJTKqc0Myj8QyKZ0MwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/3/FEZopAQFKNGlbDwkwhCg/capas-belly-1200-x-1000-px-.jpg"
-    },
-    {
-      "clusterId": "cd5b6afce983941d",
-      "slug": "b5e831f07d7bbdae",
-      "titulo": "Alcolumbre promete voltar a discutir PEC do Marco Temporal após recesso",
-      "resumo": "STF já declarou Marco Temporal inconstitucional. Tese tenta estabelecer que indígenas só tenham direito a terras ocupadas antes de 1988",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/alcolumbre-pec-marco-temporal-apos-recess"
-        }
-      ],
-      "updatedAt": "2026-07-15T05:27:32.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/04/whatsapp-image-2026-04-29-at-185857-e1777518608109.jpeg"
-    },
-    {
-      "clusterId": "94bbc89007c740e2",
-      "slug": "cc004ee37dd2ee32",
-      "titulo": "Drone iraniano atinge base dos EUA no Kuwait",
-      "resumo": "A imprensa estatal do Irã afirmou que um drone Shahed atingiu uma base militar dos Estados Unidos no Kuwait, gerando uma grande explosão. O vídeo divulgado mostra o drone sobrevoando a base antes de colidir com o alvo. Agências iranianas, como Press TV, Tasnim, Fars e Mehr, confirmaram o ataque e publicaram imagens do impacto.",
-      "porQueImporta": "O incidente aumenta a tensão entre o Irã e os Estados Unidos na região.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/14/ira-diz-que-drone-atingiu-base-dos-eua-no-kuwait-e-divulga-video-de-explosao-assista.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T02:03:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kUdKukpYgNjzPD9hcrUzfWm86uE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/wvkTSfSo69vG0qJrHpwg/ezgif-8ac404aa2c312cdc.gif"
-    },
-    {
-      "clusterId": "90c4f265a1b0137e",
-      "slug": "f77928c6c051b358",
-      "titulo": "Explosão em rechaud de padaria deixa jovem ferido em Varginha",
-      "resumo": "Um funcionário de 18 anos sofreu queimaduras de primeiro e segundo grau após uma explosão em um rechaud, equipamento usado para manter alimentos aquecidos, no buffet de uma padaria em Varginha, MG. O incidente ocorreu na noite de terça-feira, 14, quando o jovem abastecia o rechaud com álcool em gel. As queimaduras afetaram o rosto e membros do indivíduo.",
-      "porQueImporta": "O acidente destaca riscos de uso inadequado de álcool em gel em ambientes de trabalho.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/14/ocorrencias-bombeiros.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T00:00:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/SbVv77agE9WTMp8E9zRTIlSIsLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/O/ZDMiwVRK6cTwy7bINpmw/explosao-padaria.png"
-    },
-    {
-      "clusterId": "ab84a2f316e39c60",
-      "slug": "539cd9e1f07b6e0a",
-      "titulo": "Carro em zigue-zague invade contramão e colide com outro veículo no Ceará",
-      "resumo": "Três homens ficaram feridos após acidente envolvendo dois carros em Lavras da Mangabeira, no Cariri do Ceará. Um veículo trafegava em zigue-zague na BR-230, trocando de faixas. O movimento chamou a atenção de um motorista que filmou o incidente. O vídeo foi divulgado pela G1 em 14 de julho.",
-      "porQueImporta": "O acidente destaca riscos de condução imprudente em rodovias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/07/14/video-carro-em-zigue-zague-invade-contramao-e-colide-com-outro-veiculo-tres-pessoas-ficam-feridas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-14T23:50:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ruO8loABAqboIlbr-euQhd3qqvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/v/DBeqYkQRCOYQEdBXdOrQ/acidente-lavras.jpg"
-    },
-    {
-      "clusterId": "cd702624c38eae9f",
-      "slug": "18552f11c72edbeb",
-      "titulo": "Defesa Civil orienta população sobre níveis de alerta para temporais",
-      "resumo": "A Defesa Civil do Rio Grande do Sul informou que o estado pode registrar chuvas intensas, ventos fortes e granizo a partir de quinta-feira em diversas regiões. Foram divulgados os níveis de alerta para temporais, com orientações específicas para cada área. A medida visa prevenir danos e garantir a segurança da população. As autoridades pediram atenção especial a moradores de áreas de risco.",
-      "porQueImporta": "A informação ajuda a população a se preparar e evitar prejuízos e riscos à vida.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-do-rs-orienta-populacao-sobre-niveis-de-alerta-para-temporais/"
-        }
-      ],
-      "updatedAt": "2026-07-14T23:38:42.000Z"
-    },
-    {
-      "clusterId": "22278fa30c8cc183",
-      "slug": "8e42fec7abb3eb59",
-      "titulo": "Estudante de 15 anos atropelado em Pradópolis",
-      "resumo": "Um estudante de 15 anos foi atropelado por um carro em Pradópolis, SP, enquanto retornava de bicicleta após soltar pipa. O acidente ocorreu na última segunda-feira. O jovem ficou em estado grave. A vítima estava a caminho de casa depois de ter ido ao bar e ao mercado.",
-      "porQueImporta": "O caso destaca os riscos de dirigir embriagado em áreas urbanas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/14/estudante-atropelado-no-interior-de-sp-por-motorista-embriagado-ia-para-casa-apos-soltar-pipa-diz-tia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-14T23:12:29.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CunrVEOWdG-KTLK1iEHqBAIr34k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/8/nxffxRSbaOS5oOmlSBrQ/nathan-pereira-marques.jpg"
-    },
-    {
-      "clusterId": "fa899581c9d23874",
-      "slug": "cc41977e9011a51e",
-      "titulo": "Terremotos na Venezuela causam tragédia em escola infantil de beisebol",
-      "resumo": "Terremotos na região de La Guaira atingiram uma escola infantil de beisebol, onde treinavam cerca de 1.100 crianças. A organização Criollitos não sabe ainda quantas pessoas morreram, mas o cenário é devastador. A escola era uma das 22 mantidas pela organização na área.",
-      "porQueImporta": "O evento demonstra o impacto direto de desastres naturais em instituições de educação infantil.",
-      "categoria": "Desastre",
-      "categoriaSlug": "desastre",
-      "sources": [
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-em-terremotos-na-venezuela-sobe-para-4-734/"
+        },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/c33y35rp217o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-07-14T22:19:34.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ddc2/live/4d289d90-7deb-11f1-a5de-97ad6e22e20a.jpg"
+      "updatedAt": "2026-07-15T09:49:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
     },
     {
-      "clusterId": "195616242336c335",
-      "slug": "9ca8d202baeb4d80",
-      "titulo": "Navio cargueiro afunda após colisão próximo ao Estreito de Ormuz",
-      "resumo": "Um navio cargueiro colidiu com outra embarcação nas proximidades do Estreito de Ormuz, provocando seu alagamento e subsequente naufrágio. As autoridades iranianas evacuaram os 23 tripulantes, que foram resgatados e levados para a ilha de Qeshm. A identidade do outro navio não foi divulgada. O incidente foi relatado pela agência estatal Fars na terça‑feira (14).",
-      "porQueImporta": "O acidente evidencia riscos de navegação em uma rota marítima estratégica e pode impactar o tráfego comercial regional.",
+      "clusterId": "a8d068e6684028d0",
+      "slug": "d375f4f22853d68c",
+      "titulo": "Sul do Brasil em alerta para tempestades a partir de quinta-feira",
+      "resumo": "A partir de quinta-feira, parte da região Sul enfrentará tempestades com possibilidade de granizo e rajadas de vento entre 60 e 100 km/h. O Inmet emitiu aviso de perigo potencial para o oeste e sul do Rio Grande do Sul, ampliando o alerta para praticamente todo o estado na sexta-feira e sábado. As condições meteorológicas devem se intensificar ao longo do fim de semana.",
+      "porQueImporta": "O alerta indica risco de danos materiais e riscos à população nas áreas afetadas",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cr7x7kpznego?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/15/rios-atmosfericos-o-que-e-o-fenomeno-que-coloca-o-sul-do-brasil-em-alerta-para-tempestades-no-fim-de-semana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T09:34:04.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c1e2/live/81488750-8027-11f1-926f-c90d1bcfbc84.jpg"
+    },
+    {
+      "clusterId": "0802f9b7695f53a0",
+      "slug": "a7c6ff6bf41ab630",
+      "titulo": "Incêndio destrói imagem de Nossa Senhora em Nerópolis após velas serem acesas",
+      "resumo": "Na noite de segunda‑feira, por volta das 21h, um incêndio consumiu a imagem de Nossa Senhora de cerca de quatro metros na entrada de Nerópolis, na Região Metropolitana de Goiânia. Segundo o delegado André Fernandes, o fogo se iniciou depois que uma família acendeu velas próximo ao monumento para agradecer uma graça recebida. O incidente foi registrado em vídeo que mostra o colapso da estátua. Não há informações sobre vítimas ou danos adicionais além da imagem.",
+      "porQueImporta": "O caso evidencia riscos de incêndio em locais de devoção pública, demandando atenção à segurança ao usar velas.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/go/goias/noticia/2026/07/15/fogo-em-imagem-de-santa-comecou-apos-fieis-acenderem-velas-proximo-a-monumento-diz-policia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T09:58:54.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/uA8UgecF2xJmtHIEdyYEuKNGkDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/XwIcAOQse2B4vUg1nzJw/padrao-g1cbn-foto-51-.jpg"
+    },
+    {
+      "clusterId": "661ac047ddf21019",
+      "slug": "ed0c766a90154479",
+      "titulo": "RS tem previsão de granizo e ventos de até 90 km/h com risco de tornados",
+      "resumo": "A partir de quinta‑feira (16) o Rio Grande do Sul entrará em período de tempo severo, com granizo e ventos que podem alcançar 90 km/h. A frente fria que avança traz instabilidade, aumentando a probabilidade de temporais, tornados e microexplosões. Na quarta‑feira (15) o clima permanece firme, com sol e aumento gradual da temperatura. As autoridades alertam para a possibilidade de fenômenos extremos nas áreas de divisa com o Uruguai.",
+      "porQueImporta": "A previsão indica risco de eventos meteorológicos graves que podem afetar a população e a infraestrutura regional",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/15/granizo-e-ventos-de-ate-90-kmh-rs-tem-previsao-de-tempo-severo-saiba-quando.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T09:51:06.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DlVBnydm9n2qPE5AfienEiw_98M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/wlSTxvTxCjFF827oJPAg/g1-4-.png"
+    },
+    {
+      "clusterId": "00db71dd6bafaa1a",
+      "slug": "8f6158472e6b7a16",
+      "titulo": "Casas são liberadas após interdição por cratera em Osasco",
+      "resumo": "Duas residências foram liberadas pela Defesa Civil municipal após a interdição provocada por uma cratera em Osasco (SP). Uma terceira casa ainda aguarda liberação. A Sabesp está investigando as causas do desabamento, que ocorreu em obra de empresa terceirizada da companhia.",
+      "porQueImporta": "A situação evidencia riscos de obras e a necessidade de fiscalização para garantir a segurança dos moradores.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/duas-casas-sao-liberadas-apos-interdicao-por-cratera-em-osasco-sp/"
+        }
+      ],
+      "updatedAt": "2026-07-15T09:36:07.000Z"
+    },
+    {
+      "clusterId": "6de1181ae987f443",
+      "slug": "5ceb0ab141a04acf",
+      "titulo": "Incêndio de grandes proporções atinge ao menos 20 casas na zona Norte em SP",
+      "resumo": "De acordo com o Corpo de Bombeiros, cerca de 11 viaturas foram empenhadas ao local para combater as chamas; não há informações sobre vítimas",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-ao-menos-20-casas-na-zona-norte-em-sp/"
+        }
+      ],
+      "updatedAt": "2026-07-15T09:16:18.000Z"
+    },
+    {
+      "clusterId": "d8f09439b05da0f9",
+      "slug": "ca5b6670f423c613",
+      "titulo": "Jovem tetraplégico após bala perdida morre após mais de um ano de tratamento",
+      "resumo": "Antônio Augusto Fonseca, de 18 anos, ficou tetraplégico ao ser atingido por bala perdida durante festa de cavalgada em São Gotardo, no final de 2024. Após mais de um ano de internações, reabilitação e complicações, morreu de pneumonia em julho de 2025. A morte foi confirmada pela mãe do jovem. O caso evidencia as graves consequências de disparos acidentais.",
+      "porQueImporta": "Mostra o impacto fatal de armas de fogo em ambientes de confraternização e a necessidade de medidas de segurança.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/15/jovem-que-ficou-tetraplegico-ao-ser-atingido-por-bala-perdida-morre-apos-mais-de-um-ano-de-tratamento.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T08:45:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/30jXEz62Nb2HCB4aR3IUO39kghI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/8/vKBWBXRPOi1iRWWX9ElQ/design-sem-nome-60-.png"
+    },
+    {
+      "clusterId": "879b387d2e5e953c",
+      "slug": "a7c7f714f30be89f",
+      "titulo": "Vale do Ahr inicia projetos de barragens para reduzir risco de enchentes",
+      "resumo": "Há cinco anos, o Vale do Ahr foi atingido por uma enchente que causou 135 mortes, uma das mais graves na Alemanha. Desde então, a região tem se reconstruído e adotado medidas para mitigar futuros danos. As novas barragens planejadas visam reter centenas de milhões de litros de água durante períodos de chuva intensa. A população reconhece que o risco de enchentes aumenta com o crescimento urbano e o aquecimento climático.",
+      "porQueImporta": "A iniciativa busca proteger vidas e infraestrutura diante da crescente ameaça de inundações",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/15/como-proteger-uma-cidade-contra-inundacoes-veja-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T08:03:24.000Z"
+    },
+    {
+      "clusterId": "7da0c8bdb8590be6",
+      "slug": "b00774d013a00ca4",
+      "titulo": "Barco pontão afunda perto de Alcatraz e deixa uma vítima morta e três desaparecidas",
+      "resumo": "Um barco pontão de três andares afundou na tarde de terça-feira próximo à Ilha de Alcatraz, em São Francisco, enquanto transportava familiares que participavam de uma cerimônia. As autoridades registraram uma morte, três pessoas desaparecidas e 16 resgatadas. Equipes de busca, incluindo o Corpo de Bombeiros de São Francisco, continuam as operações de localização. O incidente ocorreu nas águas da Califórnia, EUA.",
+      "porQueImporta": "O naufrágio evidencia riscos de navegação em áreas costeiras movimentadas e a necessidade de respostas de emergência eficazes.",
       "categoria": "Naufrágio",
       "categoriaSlug": "naufragio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/14/video-navio-cargueiro-afunda-apos-colisao-perto-do-estreito-de-ormuz.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/15/uma-pessoa-morre-e-tres-estao-desaparecidas-apos-barco-afundar-em-sao-francisco-nos-eua.ghtml"
         }
       ],
-      "updatedAt": "2026-07-14T19:50:32.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kvvHohriLTbSZmRiJEJhSkypfgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/JjgAWATnqTF9JnIBDUZQ/luni.jpg"
+      "updatedAt": "2026-07-15T07:47:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/6GKSojI2VIb5a7W_UrbIO74_oBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/p/F2wpaHTNm0OHOxKqN1KA/ap26196111027668.jpg"
+    },
+    {
+      "clusterId": "3467e20276dce3bb",
+      "slug": "ccf8bdece4fb914b",
+      "titulo": "Ex-jogador brasileiro morre em acidente com scooter na Irlanda",
+      "resumo": "Saul Muniz, de 40 anos, ex‑zagueiro que vivia na Irlanda desde 2012, faleceu após cair de um patinete elétrico em Galway. A morte mobilizou familiares, amigos e ex‑companheiros de futebol no Brasil e no exterior. Muniz havia deixado a carreira no futebol para trabalhar como barbeiro e estudava inglês. A notícia foi divulgada por veículos brasileiros e irlandeses.",
+      "porQueImporta": "O caso evidencia os riscos de patinetes elétricos e a repercussão de acidentes envolvendo ex‑atletas",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/15/ajudava-todo-mundo-ate-a-fazer-sorrir-quem-era-o-ex-jogador-que-morreu-em-acidente-com-scooter-na-irlanda.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T07:00:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wFpwKTw3Wx4nim4gu_jXwADCFuY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/fLXldQQ0WAhbCLfEcRMA/design-sem-nome-8-.png"
     }
   ],
   "categorias": [
     {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "a8d068e6684028d0",
+          "slug": "d375f4f22853d68c",
+          "titulo": "Sul do Brasil em alerta para tempestades a partir de quinta-feira",
+          "resumo": "A partir de quinta-feira, parte da região Sul enfrentará tempestades com possibilidade de granizo e rajadas de vento entre 60 e 100 km/h. O Inmet emitiu aviso de perigo potencial para o oeste e sul do Rio Grande do Sul, ampliando o alerta para praticamente todo o estado na sexta-feira e sábado. As condições meteorológicas devem se intensificar ao longo do fim de semana.",
+          "porQueImporta": "O alerta indica risco de danos materiais e riscos à população nas áreas afetadas",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cr7x7kpznego?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/15/rios-atmosfericos-o-que-e-o-fenomeno-que-coloca-o-sul-do-brasil-em-alerta-para-tempestades-no-fim-de-semana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T09:34:04.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c1e2/live/81488750-8027-11f1-926f-c90d1bcfbc84.jpg"
+        },
+        {
+          "clusterId": "661ac047ddf21019",
+          "slug": "ed0c766a90154479",
+          "titulo": "RS tem previsão de granizo e ventos de até 90 km/h com risco de tornados",
+          "resumo": "A partir de quinta‑feira (16) o Rio Grande do Sul entrará em período de tempo severo, com granizo e ventos que podem alcançar 90 km/h. A frente fria que avança traz instabilidade, aumentando a probabilidade de temporais, tornados e microexplosões. Na quarta‑feira (15) o clima permanece firme, com sol e aumento gradual da temperatura. As autoridades alertam para a possibilidade de fenômenos extremos nas áreas de divisa com o Uruguai.",
+          "porQueImporta": "A previsão indica risco de eventos meteorológicos graves que podem afetar a população e a infraestrutura regional",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/15/granizo-e-ventos-de-ate-90-kmh-rs-tem-previsao-de-tempo-severo-saiba-quando.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T09:51:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DlVBnydm9n2qPE5AfienEiw_98M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/wlSTxvTxCjFF827oJPAg/g1-4-.png"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "0802f9b7695f53a0",
+          "slug": "a7c6ff6bf41ab630",
+          "titulo": "Incêndio destrói imagem de Nossa Senhora em Nerópolis após velas serem acesas",
+          "resumo": "Na noite de segunda‑feira, por volta das 21h, um incêndio consumiu a imagem de Nossa Senhora de cerca de quatro metros na entrada de Nerópolis, na Região Metropolitana de Goiânia. Segundo o delegado André Fernandes, o fogo se iniciou depois que uma família acendeu velas próximo ao monumento para agradecer uma graça recebida. O incidente foi registrado em vídeo que mostra o colapso da estátua. Não há informações sobre vítimas ou danos adicionais além da imagem.",
+          "porQueImporta": "O caso evidencia riscos de incêndio em locais de devoção pública, demandando atenção à segurança ao usar velas.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/07/15/fogo-em-imagem-de-santa-comecou-apos-fieis-acenderem-velas-proximo-a-monumento-diz-policia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T09:58:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uA8UgecF2xJmtHIEdyYEuKNGkDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/XwIcAOQse2B4vUg1nzJw/padrao-g1cbn-foto-51-.jpg"
+        },
+        {
+          "clusterId": "5a97ab440d1444a9",
+          "slug": "3459be42a7bb5387",
+          "titulo": "Incêndio em bar de Bangkok mata 32 pessoas incluindo cantora",
+          "resumo": "Um incêndio de rápida propagação atingiu o bar Rong Beer, na região de Chatuchak, em Bangkok, na noite de 12 de julho, resultando em 32 mortes e vários feridos. Entre as vítimas fatais está a cantora tailandesa Breeza. Sobreviventes relataram que o fogo se espalhou rapidamente, gerando densa fumaça e pânico. O incidente ocorreu enquanto a banda indie Thotsakan se apresentava no local.",
+          "porQueImporta": "O desastre evidencia riscos de segurança em estabelecimentos públicos e gera impacto social significativo",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/13/todo-mundo-corria-se-espremendo-como-incendio-que-matou-28-pessoas-devastou-bar-em-bangkok.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-14T16:55:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/g9QAqjntZc6P7sYt4T5BlRXV724=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/9/c9MXhSSJK32UfJ3tnrxA/ap26193692096425.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "7da0c8bdb8590be6",
+          "slug": "b00774d013a00ca4",
+          "titulo": "Barco pontão afunda perto de Alcatraz e deixa uma vítima morta e três desaparecidas",
+          "resumo": "Um barco pontão de três andares afundou na tarde de terça-feira próximo à Ilha de Alcatraz, em São Francisco, enquanto transportava familiares que participavam de uma cerimônia. As autoridades registraram uma morte, três pessoas desaparecidas e 16 resgatadas. Equipes de busca, incluindo o Corpo de Bombeiros de São Francisco, continuam as operações de localização. O incidente ocorreu nas águas da Califórnia, EUA.",
+          "porQueImporta": "O naufrágio evidencia riscos de navegação em áreas costeiras movimentadas e a necessidade de respostas de emergência eficazes.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/15/uma-pessoa-morre-e-tres-estao-desaparecidas-apos-barco-afundar-em-sao-francisco-nos-eua.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T07:47:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6GKSojI2VIb5a7W_UrbIO74_oBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/p/F2wpaHTNm0OHOxKqN1KA/ap26196111027668.jpg"
+        },
+        {
+          "clusterId": "195616242336c335",
+          "slug": "9ca8d202baeb4d80",
+          "titulo": "Navio cargueiro afunda após colisão próximo ao Estreito de Ormuz",
+          "resumo": "Um navio cargueiro colidiu com outra embarcação nas proximidades do Estreito de Ormuz, provocando seu alagamento e subsequente naufrágio. As autoridades iranianas evacuaram os 23 tripulantes, que foram resgatados e levados para a ilha de Qeshm. A identidade do outro navio não foi divulgada. O incidente foi relatado pela agência estatal Fars na terça‑feira (14).",
+          "porQueImporta": "O acidente evidencia riscos de navegação em uma rota marítima estratégica e pode impactar o tráfego comercial regional.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/14/video-navio-cargueiro-afunda-apos-colisao-perto-do-estreito-de-ormuz.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-14T19:50:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kvvHohriLTbSZmRiJEJhSkypfgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/JjgAWATnqTF9JnIBDUZQ/luni.jpg"
+        }
+      ]
+    },
+    {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
+        {
+          "clusterId": "3467e20276dce3bb",
+          "slug": "ccf8bdece4fb914b",
+          "titulo": "Ex-jogador brasileiro morre em acidente com scooter na Irlanda",
+          "resumo": "Saul Muniz, de 40 anos, ex‑zagueiro que vivia na Irlanda desde 2012, faleceu após cair de um patinete elétrico em Galway. A morte mobilizou familiares, amigos e ex‑companheiros de futebol no Brasil e no exterior. Muniz havia deixado a carreira no futebol para trabalhar como barbeiro e estudava inglês. A notícia foi divulgada por veículos brasileiros e irlandeses.",
+          "porQueImporta": "O caso evidencia os riscos de patinetes elétricos e a repercussão de acidentes envolvendo ex‑atletas",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/15/ajudava-todo-mundo-ate-a-fazer-sorrir-quem-era-o-ex-jogador-que-morreu-em-acidente-com-scooter-na-irlanda.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T07:00:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wFpwKTw3Wx4nim4gu_jXwADCFuY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/fLXldQQ0WAhbCLfEcRMA/design-sem-nome-8-.png"
+        },
         {
           "clusterId": "7cc14e1a8cef3f48",
           "slug": "0b0126c48b5c3317",
@@ -193,40 +344,126 @@
           ],
           "updatedAt": "2026-07-15T06:00:14.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/hUHdVzntKJTKqc0Myj8QyKZ0MwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/3/FEZopAQFKNGlbDwkwhCg/capas-belly-1200-x-1000-px-.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
         {
-          "clusterId": "ab84a2f316e39c60",
-          "slug": "539cd9e1f07b6e0a",
-          "titulo": "Carro em zigue-zague invade contramão e colide com outro veículo no Ceará",
-          "resumo": "Três homens ficaram feridos após acidente envolvendo dois carros em Lavras da Mangabeira, no Cariri do Ceará. Um veículo trafegava em zigue-zague na BR-230, trocando de faixas. O movimento chamou a atenção de um motorista que filmou o incidente. O vídeo foi divulgado pela G1 em 14 de julho.",
-          "porQueImporta": "O acidente destaca riscos de condução imprudente em rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "3ad9122ed58e2fd4",
+          "slug": "e63dd16dbe642da3",
+          "titulo": "Mortes e feridos aumentam após terremotos de 24 de junho na Venezuela",
+          "resumo": "Os terremotos de magnitude 7,2 e 7,5 que atingiram a Venezuela em 24 de junho deixaram entre 4.561 e 4.734 mortos, conforme diferentes fontes. O número de feridos permanece em 16.740 e as pessoas desalojadas giram em torno de 18 mil. O relatório divulgado na terça‑feira informou que 128.324 famílias foram atendidas e que mais de 20 mil pessoas permanecem em alojamentos temporários. As informações sobre o total de desabrigados variam entre 17.907 e 18 mil.",
+          "porQueImporta": "A magnitude da fatalidade e o número de deslocados exigem resposta humanitária e planejamento de reconstrução.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/07/14/video-carro-em-zigue-zague-invade-contramao-e-colide-com-outro-veiculo-tres-pessoas-ficam-feridas.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/13/terremoto-na-venezuela-numero-de-mortos-sobe-para-4561.ghtml"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-em-terremotos-na-venezuela-sobe-para-4-734/"
+            },
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c33y35rp217o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "updatedAt": "2026-07-14T23:50:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ruO8loABAqboIlbr-euQhd3qqvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/v/DBeqYkQRCOYQEdBXdOrQ/acidente-lavras.jpg"
-        },
+          "updatedAt": "2026-07-15T09:49:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
         {
-          "clusterId": "22278fa30c8cc183",
-          "slug": "8e42fec7abb3eb59",
-          "titulo": "Estudante de 15 anos atropelado em Pradópolis",
-          "resumo": "Um estudante de 15 anos foi atropelado por um carro em Pradópolis, SP, enquanto retornava de bicicleta após soltar pipa. O acidente ocorreu na última segunda-feira. O jovem ficou em estado grave. A vítima estava a caminho de casa depois de ter ido ao bar e ao mercado.",
-          "porQueImporta": "O caso destaca os riscos de dirigir embriagado em áreas urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "00db71dd6bafaa1a",
+          "slug": "8f6158472e6b7a16",
+          "titulo": "Casas são liberadas após interdição por cratera em Osasco",
+          "resumo": "Duas residências foram liberadas pela Defesa Civil municipal após a interdição provocada por uma cratera em Osasco (SP). Uma terceira casa ainda aguarda liberação. A Sabesp está investigando as causas do desabamento, que ocorreu em obra de empresa terceirizada da companhia.",
+          "porQueImporta": "A situação evidencia riscos de obras e a necessidade de fiscalização para garantir a segurança dos moradores.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/duas-casas-sao-liberadas-apos-interdicao-por-cratera-em-osasco-sp/"
+            }
+          ],
+          "updatedAt": "2026-07-15T09:36:07.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "6de1181ae987f443",
+          "slug": "5ceb0ab141a04acf",
+          "titulo": "Incêndio de grandes proporções atinge ao menos 20 casas na zona Norte em SP",
+          "resumo": "De acordo com o Corpo de Bombeiros, cerca de 11 viaturas foram empenhadas ao local para combater as chamas; não há informações sobre vítimas",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-ao-menos-20-casas-na-zona-norte-em-sp/"
+            }
+          ],
+          "updatedAt": "2026-07-15T09:16:18.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "d8f09439b05da0f9",
+          "slug": "ca5b6670f423c613",
+          "titulo": "Jovem tetraplégico após bala perdida morre após mais de um ano de tratamento",
+          "resumo": "Antônio Augusto Fonseca, de 18 anos, ficou tetraplégico ao ser atingido por bala perdida durante festa de cavalgada em São Gotardo, no final de 2024. Após mais de um ano de internações, reabilitação e complicações, morreu de pneumonia em julho de 2025. A morte foi confirmada pela mãe do jovem. O caso evidencia as graves consequências de disparos acidentais.",
+          "porQueImporta": "Mostra o impacto fatal de armas de fogo em ambientes de confraternização e a necessidade de medidas de segurança.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/14/estudante-atropelado-no-interior-de-sp-por-motorista-embriagado-ia-para-casa-apos-soltar-pipa-diz-tia.ghtml"
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/15/jovem-que-ficou-tetraplegico-ao-ser-atingido-por-bala-perdida-morre-apos-mais-de-um-ano-de-tratamento.ghtml"
             }
           ],
-          "updatedAt": "2026-07-14T23:12:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CunrVEOWdG-KTLK1iEHqBAIr34k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/8/nxffxRSbaOS5oOmlSBrQ/nathan-pereira-marques.jpg"
+          "updatedAt": "2026-07-15T08:45:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/30jXEz62Nb2HCB4aR3IUO39kghI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/8/vKBWBXRPOi1iRWWX9ElQ/design-sem-nome-60-.png"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "879b387d2e5e953c",
+          "slug": "a7c7f714f30be89f",
+          "titulo": "Vale do Ahr inicia projetos de barragens para reduzir risco de enchentes",
+          "resumo": "Há cinco anos, o Vale do Ahr foi atingido por uma enchente que causou 135 mortes, uma das mais graves na Alemanha. Desde então, a região tem se reconstruído e adotado medidas para mitigar futuros danos. As novas barragens planejadas visam reter centenas de milhões de litros de água durante períodos de chuva intensa. A população reconhece que o risco de enchentes aumenta com o crescimento urbano e o aquecimento climático.",
+          "porQueImporta": "A iniciativa busca proteger vidas e infraestrutura diante da crescente ameaça de inundações",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/15/como-proteger-uma-cidade-contra-inundacoes-veja-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T08:03:24.000Z"
         }
       ]
     },
@@ -254,29 +491,6 @@
       ]
     },
     {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "cd5b6afce983941d",
-          "slug": "b5e831f07d7bbdae",
-          "titulo": "Alcolumbre promete voltar a discutir PEC do Marco Temporal após recesso",
-          "resumo": "STF já declarou Marco Temporal inconstitucional. Tese tenta estabelecer que indígenas só tenham direito a terras ocupadas antes de 1988",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/alcolumbre-pec-marco-temporal-apos-recess"
-            }
-          ],
-          "updatedAt": "2026-07-15T05:27:32.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/04/whatsapp-image-2026-04-29-at-185857-e1777518608109.jpeg"
-        }
-      ]
-    },
-    {
       "slug": "acidente-aereo",
       "label": "Acidente aéreo",
       "stories": [
@@ -296,143 +510,6 @@
           ],
           "updatedAt": "2026-07-15T02:03:44.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/kUdKukpYgNjzPD9hcrUzfWm86uE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/wvkTSfSo69vG0qJrHpwg/ezgif-8ac404aa2c312cdc.gif"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "90c4f265a1b0137e",
-          "slug": "f77928c6c051b358",
-          "titulo": "Explosão em rechaud de padaria deixa jovem ferido em Varginha",
-          "resumo": "Um funcionário de 18 anos sofreu queimaduras de primeiro e segundo grau após uma explosão em um rechaud, equipamento usado para manter alimentos aquecidos, no buffet de uma padaria em Varginha, MG. O incidente ocorreu na noite de terça-feira, 14, quando o jovem abastecia o rechaud com álcool em gel. As queimaduras afetaram o rosto e membros do indivíduo.",
-          "porQueImporta": "O acidente destaca riscos de uso inadequado de álcool em gel em ambientes de trabalho.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/14/ocorrencias-bombeiros.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T00:00:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SbVv77agE9WTMp8E9zRTIlSIsLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/O/ZDMiwVRK6cTwy7bINpmw/explosao-padaria.png"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "cd702624c38eae9f",
-          "slug": "18552f11c72edbeb",
-          "titulo": "Defesa Civil orienta população sobre níveis de alerta para temporais",
-          "resumo": "A Defesa Civil do Rio Grande do Sul informou que o estado pode registrar chuvas intensas, ventos fortes e granizo a partir de quinta-feira em diversas regiões. Foram divulgados os níveis de alerta para temporais, com orientações específicas para cada área. A medida visa prevenir danos e garantir a segurança da população. As autoridades pediram atenção especial a moradores de áreas de risco.",
-          "porQueImporta": "A informação ajuda a população a se preparar e evitar prejuízos e riscos à vida.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-do-rs-orienta-populacao-sobre-niveis-de-alerta-para-temporais/"
-            }
-          ],
-          "updatedAt": "2026-07-14T23:38:42.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "desastre",
-      "label": "Desastre",
-      "stories": [
-        {
-          "clusterId": "fa899581c9d23874",
-          "slug": "cc41977e9011a51e",
-          "titulo": "Terremotos na Venezuela causam tragédia em escola infantil de beisebol",
-          "resumo": "Terremotos na região de La Guaira atingiram uma escola infantil de beisebol, onde treinavam cerca de 1.100 crianças. A organização Criollitos não sabe ainda quantas pessoas morreram, mas o cenário é devastador. A escola era uma das 22 mantidas pela organização na área.",
-          "porQueImporta": "O evento demonstra o impacto direto de desastres naturais em instituições de educação infantil.",
-          "categoria": "Desastre",
-          "categoriaSlug": "desastre",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c33y35rp217o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-07-14T22:19:34.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ddc2/live/4d289d90-7deb-11f1-a5de-97ad6e22e20a.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "naufragio",
-      "label": "Naufrágio",
-      "stories": [
-        {
-          "clusterId": "195616242336c335",
-          "slug": "9ca8d202baeb4d80",
-          "titulo": "Navio cargueiro afunda após colisão próximo ao Estreito de Ormuz",
-          "resumo": "Um navio cargueiro colidiu com outra embarcação nas proximidades do Estreito de Ormuz, provocando seu alagamento e subsequente naufrágio. As autoridades iranianas evacuaram os 23 tripulantes, que foram resgatados e levados para a ilha de Qeshm. A identidade do outro navio não foi divulgada. O incidente foi relatado pela agência estatal Fars na terça‑feira (14).",
-          "porQueImporta": "O acidente evidencia riscos de navegação em uma rota marítima estratégica e pode impactar o tráfego comercial regional.",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/14/video-navio-cargueiro-afunda-apos-colisao-perto-do-estreito-de-ormuz.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-14T19:50:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kvvHohriLTbSZmRiJEJhSkypfgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/JjgAWATnqTF9JnIBDUZQ/luni.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "terremoto",
-      "label": "Terremoto",
-      "stories": [
-        {
-          "clusterId": "d3f5574ca7b60504",
-          "slug": "e63dd16dbe642da3",
-          "titulo": "Mortes e feridos aumentam após terremotos de 24 de junho na Venezuela",
-          "resumo": "Os terremotos de magnitude 7,2 e 7,5 que atingiram a Venezuela em 24 de junho deixaram entre 4.561 e 4.734 mortos, conforme diferentes fontes. O número de feridos permanece em 16.740 e as pessoas desalojadas giram em torno de 18 mil. O relatório divulgado na terça‑feira informou que 128.324 famílias foram atendidas e que mais de 20 mil pessoas permanecem em alojamentos temporários. As informações sobre o total de desabrigados variam entre 17.907 e 18 mil.",
-          "porQueImporta": "A magnitude da fatalidade e o número de deslocados exigem resposta humanitária e planejamento de reconstrução.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/13/terremoto-na-venezuela-numero-de-mortos-sobe-para-4561.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-14T19:20:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "88ee8a1e5a84d330",
-          "slug": "cbc3e2a3cca6ec61",
-          "titulo": "Incêndio em bar de Bangkok causa dezenas de mortes e feridos",
-          "resumo": "Um incêndio atingiu o bar Rong Beer Na Lat Phrao, em Bangkok, no último sábado, matando pelo menos 27 pessoas e ferindo 63. Entre as vítimas fatais estava a cantora tailandesa Breeza. O fogo se espalhou rapidamente, gerando fumaça densa e dificultando a evacuação.",
-          "porQueImporta": "O incidente destaca a necessidade de fiscalização de segurança em estabelecimentos públicos na Tailândia.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/13/video-fuga-labareda-incendio-bar-bangkok.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-14T16:55:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/asvJ-lZpt2v43TgkV0RM8sThF_0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/v/Whe6xTRjq5EsoznSqmdg/incendio.gif"
         }
       ]
     }
