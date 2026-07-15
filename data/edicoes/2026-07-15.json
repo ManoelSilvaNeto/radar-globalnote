@@ -1,194 +1,413 @@
 {
   "date": "2026-07-15",
-  "generatedAt": "2026-07-15T10:22:37.842Z",
+  "generatedAt": "2026-07-15T14:22:14.950Z",
   "home": [
     {
-      "clusterId": "3ad9122ed58e2fd4",
-      "slug": "e63dd16dbe642da3",
-      "titulo": "Mortes e feridos aumentam após terremotos de 24 de junho na Venezuela",
-      "resumo": "Os terremotos de magnitude 7,2 e 7,5 que atingiram a Venezuela em 24 de junho deixaram entre 4.561 e 4.734 mortos, conforme diferentes fontes. O número de feridos permanece em 16.740 e as pessoas desalojadas giram em torno de 18 mil. O relatório divulgado na terça‑feira informou que 128.324 famílias foram atendidas e que mais de 20 mil pessoas permanecem em alojamentos temporários. As informações sobre o total de desabrigados variam entre 17.907 e 18 mil.",
-      "porQueImporta": "A magnitude da fatalidade e o número de deslocados exigem resposta humanitária e planejamento de reconstrução.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/13/terremoto-na-venezuela-numero-de-mortos-sobe-para-4561.ghtml"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-em-terremotos-na-venezuela-sobe-para-4-734/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c33y35rp217o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-07-15T09:49:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
-    },
-    {
-      "clusterId": "a8d068e6684028d0",
-      "slug": "d375f4f22853d68c",
-      "titulo": "Sul do Brasil em alerta para tempestades a partir de quinta-feira",
-      "resumo": "A partir de quinta-feira, parte da região Sul enfrentará tempestades com possibilidade de granizo e rajadas de vento entre 60 e 100 km/h. O Inmet emitiu aviso de perigo potencial para o oeste e sul do Rio Grande do Sul, ampliando o alerta para praticamente todo o estado na sexta-feira e sábado. As condições meteorológicas devem se intensificar ao longo do fim de semana.",
-      "porQueImporta": "O alerta indica risco de danos materiais e riscos à população nas áreas afetadas",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cr7x7kpznego?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/15/rios-atmosfericos-o-que-e-o-fenomeno-que-coloca-o-sul-do-brasil-em-alerta-para-tempestades-no-fim-de-semana.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T09:34:04.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c1e2/live/81488750-8027-11f1-926f-c90d1bcfbc84.jpg"
-    },
-    {
-      "clusterId": "0802f9b7695f53a0",
-      "slug": "a7c6ff6bf41ab630",
-      "titulo": "Incêndio destrói imagem de Nossa Senhora em Nerópolis após velas serem acesas",
-      "resumo": "Na noite de segunda‑feira, por volta das 21h, um incêndio consumiu a imagem de Nossa Senhora de cerca de quatro metros na entrada de Nerópolis, na Região Metropolitana de Goiânia. Segundo o delegado André Fernandes, o fogo se iniciou depois que uma família acendeu velas próximo ao monumento para agradecer uma graça recebida. O incidente foi registrado em vídeo que mostra o colapso da estátua. Não há informações sobre vítimas ou danos adicionais além da imagem.",
-      "porQueImporta": "O caso evidencia riscos de incêndio em locais de devoção pública, demandando atenção à segurança ao usar velas.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/go/goias/noticia/2026/07/15/fogo-em-imagem-de-santa-comecou-apos-fieis-acenderem-velas-proximo-a-monumento-diz-policia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T09:58:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/uA8UgecF2xJmtHIEdyYEuKNGkDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/XwIcAOQse2B4vUg1nzJw/padrao-g1cbn-foto-51-.jpg"
-    },
-    {
-      "clusterId": "661ac047ddf21019",
-      "slug": "ed0c766a90154479",
-      "titulo": "RS tem previsão de granizo e ventos de até 90 km/h com risco de tornados",
-      "resumo": "A partir de quinta‑feira (16) o Rio Grande do Sul entrará em período de tempo severo, com granizo e ventos que podem alcançar 90 km/h. A frente fria que avança traz instabilidade, aumentando a probabilidade de temporais, tornados e microexplosões. Na quarta‑feira (15) o clima permanece firme, com sol e aumento gradual da temperatura. As autoridades alertam para a possibilidade de fenômenos extremos nas áreas de divisa com o Uruguai.",
-      "porQueImporta": "A previsão indica risco de eventos meteorológicos graves que podem afetar a população e a infraestrutura regional",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/15/granizo-e-ventos-de-ate-90-kmh-rs-tem-previsao-de-tempo-severo-saiba-quando.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T09:51:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/DlVBnydm9n2qPE5AfienEiw_98M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/wlSTxvTxCjFF827oJPAg/g1-4-.png"
-    },
-    {
-      "clusterId": "00db71dd6bafaa1a",
-      "slug": "8f6158472e6b7a16",
-      "titulo": "Casas são liberadas após interdição por cratera em Osasco",
-      "resumo": "Duas residências foram liberadas pela Defesa Civil municipal após a interdição provocada por uma cratera em Osasco (SP). Uma terceira casa ainda aguarda liberação. A Sabesp está investigando as causas do desabamento, que ocorreu em obra de empresa terceirizada da companhia.",
-      "porQueImporta": "A situação evidencia riscos de obras e a necessidade de fiscalização para garantir a segurança dos moradores.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/duas-casas-sao-liberadas-apos-interdicao-por-cratera-em-osasco-sp/"
-        }
-      ],
-      "updatedAt": "2026-07-15T09:36:07.000Z"
-    },
-    {
-      "clusterId": "6de1181ae987f443",
-      "slug": "5ceb0ab141a04acf",
-      "titulo": "Incêndio de grandes proporções atinge ao menos 20 casas na zona Norte em SP",
-      "resumo": "De acordo com o Corpo de Bombeiros, cerca de 11 viaturas foram empenhadas ao local para combater as chamas; não há informações sobre vítimas",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-ao-menos-20-casas-na-zona-norte-em-sp/"
-        }
-      ],
-      "updatedAt": "2026-07-15T09:16:18.000Z"
-    },
-    {
-      "clusterId": "d8f09439b05da0f9",
-      "slug": "ca5b6670f423c613",
-      "titulo": "Jovem tetraplégico após bala perdida morre após mais de um ano de tratamento",
-      "resumo": "Antônio Augusto Fonseca, de 18 anos, ficou tetraplégico ao ser atingido por bala perdida durante festa de cavalgada em São Gotardo, no final de 2024. Após mais de um ano de internações, reabilitação e complicações, morreu de pneumonia em julho de 2025. A morte foi confirmada pela mãe do jovem. O caso evidencia as graves consequências de disparos acidentais.",
-      "porQueImporta": "Mostra o impacto fatal de armas de fogo em ambientes de confraternização e a necessidade de medidas de segurança.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/15/jovem-que-ficou-tetraplegico-ao-ser-atingido-por-bala-perdida-morre-apos-mais-de-um-ano-de-tratamento.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T08:45:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/30jXEz62Nb2HCB4aR3IUO39kghI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/8/vKBWBXRPOi1iRWWX9ElQ/design-sem-nome-60-.png"
-    },
-    {
-      "clusterId": "879b387d2e5e953c",
-      "slug": "a7c7f714f30be89f",
-      "titulo": "Vale do Ahr inicia projetos de barragens para reduzir risco de enchentes",
-      "resumo": "Há cinco anos, o Vale do Ahr foi atingido por uma enchente que causou 135 mortes, uma das mais graves na Alemanha. Desde então, a região tem se reconstruído e adotado medidas para mitigar futuros danos. As novas barragens planejadas visam reter centenas de milhões de litros de água durante períodos de chuva intensa. A população reconhece que o risco de enchentes aumenta com o crescimento urbano e o aquecimento climático.",
-      "porQueImporta": "A iniciativa busca proteger vidas e infraestrutura diante da crescente ameaça de inundações",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/15/como-proteger-uma-cidade-contra-inundacoes-veja-video.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T08:03:24.000Z"
-    },
-    {
-      "clusterId": "7da0c8bdb8590be6",
-      "slug": "b00774d013a00ca4",
-      "titulo": "Barco pontão afunda perto de Alcatraz e deixa uma vítima morta e três desaparecidas",
-      "resumo": "Um barco pontão de três andares afundou na tarde de terça-feira próximo à Ilha de Alcatraz, em São Francisco, enquanto transportava familiares que participavam de uma cerimônia. As autoridades registraram uma morte, três pessoas desaparecidas e 16 resgatadas. Equipes de busca, incluindo o Corpo de Bombeiros de São Francisco, continuam as operações de localização. O incidente ocorreu nas águas da Califórnia, EUA.",
-      "porQueImporta": "O naufrágio evidencia riscos de navegação em áreas costeiras movimentadas e a necessidade de respostas de emergência eficazes.",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/15/uma-pessoa-morre-e-tres-estao-desaparecidas-apos-barco-afundar-em-sao-francisco-nos-eua.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T07:47:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6GKSojI2VIb5a7W_UrbIO74_oBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/p/F2wpaHTNm0OHOxKqN1KA/ap26196111027668.jpg"
-    },
-    {
-      "clusterId": "3467e20276dce3bb",
-      "slug": "ccf8bdece4fb914b",
-      "titulo": "Ex-jogador brasileiro morre em acidente com scooter na Irlanda",
-      "resumo": "Saul Muniz, de 40 anos, ex‑zagueiro que vivia na Irlanda desde 2012, faleceu após cair de um patinete elétrico em Galway. A morte mobilizou familiares, amigos e ex‑companheiros de futebol no Brasil e no exterior. Muniz havia deixado a carreira no futebol para trabalhar como barbeiro e estudava inglês. A notícia foi divulgada por veículos brasileiros e irlandeses.",
-      "porQueImporta": "O caso evidencia os riscos de patinetes elétricos e a repercussão de acidentes envolvendo ex‑atletas",
+      "clusterId": "daaf146710fbbadc",
+      "slug": "a04e7268e41afb11",
+      "titulo": "Acidente de ônibus deixa sete mortos de time de basquete no Ceará",
+      "resumo": "Na madrugada de 15 de junho, um ônibus que transportava um time de basquete de Juazeiro do Norte tombou na CE-187, próximo a Tauá, matando seis atletas e um assistente técnico. Diversas outras pessoas ficaram feridas, entre elas um sobrevivente que permanece internado. As causas do tombamento ainda não foram concluídas após 30 dias de investigação.",
+      "porQueImporta": "O acidente evidencia riscos de transporte coletivo em áreas rurais e gera impacto na comunidade esportiva local.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/15/ajudava-todo-mundo-ate-a-fazer-sorrir-quem-era-o-ex-jogador-que-morreu-em-acidente-com-scooter-na-irlanda.ghtml"
+          "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/07/15/acidente-com-morte-de-atletas-de-basquete-completa-um-mes-sem-conclusao-do-laudo-e-sobrevivente-internado.ghtml"
         }
       ],
-      "updatedAt": "2026-07-15T07:00:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/wFpwKTw3Wx4nim4gu_jXwADCFuY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/fLXldQQ0WAhbCLfEcRMA/design-sem-nome-8-.png"
+      "updatedAt": "2026-07-15T14:09:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/I2rYVOitUCNFuY1a-nsLRl-6zsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/t/vAGZs3RGWgfzgTj8t2Dg/vitimas-do-acidente-esse.jpg"
+    },
+    {
+      "clusterId": "83fb8a7ed0d8f54f",
+      "slug": "6d47ddbface46402",
+      "titulo": "Incêndio em bar de Bangcoc eleva número de mortos para 33",
+      "resumo": "Um incêndio em um bar durante um show na região norte de Bangcoc deixou 33 pessoas mortas, segundo autoridades. Mais de 70 ficaram feridas, com mais de 10 em estado grave. A causa ainda está sendo investigada pelas autoridades locais.",
+      "porQueImporta": "O incidente evidencia riscos de segurança em estabelecimentos públicos e a necessidade de respostas rápidas de emergência",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/15/numero-de-mortos-em-incendio-de-bar-em-bangcoc-sobe-para-33.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T14:03:43.000Z"
+    },
+    {
+      "clusterId": "0955882cf6f156bc",
+      "slug": "8fd2883adc467588",
+      "titulo": "Jovem goiano morre em acidente de moto nos Estados Unidos",
+      "resumo": "Manuel Oliveira Borges, de 21 anos, faleceu após sofrer um acidente de moto em Atlanta, Geórgia. Ele vivia nos EUA há cerca de cinco anos, onde concluía os estudos e trabalhava. Familiares iniciaram campanha nas redes sociais para arrecadar recursos e viabilizar o traslado do corpo ao Brasil. O jovem era natural de Campinorte, Goiás, e morava com os pais e o irmão nos Estados Unidos.",
+      "porQueImporta": "O caso evidencia a necessidade de apoio logístico e financeiro para repatriação de vítimas brasileiras no exterior",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/go/goias/noticia/2026/07/15/goiano-morre-nos-eua-apos-acidente-de-moto-e-familia-tenta-trazer-corpo-de-volta-ao-brasil.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T13:49:51.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/5Hn4tzBXx9lAHkD6qzR8-fJYzKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/m/siAuzgQhKuBXAyCGn7Xw/imagens-g1-77-.png"
+    },
+    {
+      "clusterId": "14dac4253211f64c",
+      "slug": "112c77a49b9586b4",
+      "titulo": "Tempestades atingem Rio Grande do Sul a partir de quinta‑feira",
+      "resumo": "A partir de quinta‑feira, o Rio Grande do Sul foi afetado por tempestades conforme previsão do INMET. As chuvas intensas devem impactar as atividades agrícolas e pecuárias da região. Autoridades monitoram a evolução dos eventos climáticos. Não há relatos de danos graves até o momento.",
+      "porQueImporta": "Os efeitos nas cadeias produtivas de agricultura e pecuária podem gerar perdas econômicas e riscos à segurança alimentar.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/tempestades-atingem-rio-grande-do-sul-a-partir-de-5afeira/"
+        }
+      ],
+      "updatedAt": "2026-07-15T13:49:20.000Z"
+    },
+    {
+      "clusterId": "84cc91f6912757d6",
+      "slug": "99b704dcf8b44eb4",
+      "titulo": "Pai, mãe e filha morrem em acidente na Rodovia Fernão Dias em Campanha (MG)",
+      "resumo": "Três membros da mesma família, residentes de Belo Horizonte, faleceram em um grave acidente de carro na Rodovia Fernão Dias, em Campanha, Minas Gerais. As vítimas foram identificadas como Jefferson Rodrigues Ferreira, 40 anos, Sirlene Marques de Souza, 41 anos, e a filha Lara Ferreira Marques, 16 anos, que teria completado 16 anos recentemente. Os corpos foram sepultados na capital mineira na quarta‑feira.",
+      "porQueImporta": "O acidente resultou na morte de três pessoas, destacando riscos de tráfego na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/15/quem-eram-as-vitimas-do-acidente-de-carro-na-rodovia-fernao-dias-em-campanha-mg.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T13:47:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/p363V95okbkou_bwB-q3fC2_kXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/63ncTSQYOAHZihtmcoSQ/acidente-br381.jpg"
+    },
+    {
+      "clusterId": "b678ae31ecdc44a5",
+      "slug": "e39432e1fe61c130",
+      "titulo": "Temporal derruba barracas e assusta turistas na Praia da Gaivota em Araguacema",
+      "resumo": "Um temporal com ventos fortes surpreendeu turistas que estavam na Praia da Gaivota, em Araguacema, no oeste do Tocantins, na segunda‑feira. A ventania derrubou barracas de acampamento e danificou tendas de artesanato instaladas às margens do rio. O Corpo de Bombeiros Militar do Tocantins orientou os banhistas a deixarem a água e procurarem abrigo para evitar acidentes.",
+      "porQueImporta": "O evento evidencia a necessidade de alerta e preparo para condições climáticas súbitas em áreas de recreação ao ar livre.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/15/temporal-derruba-barracas-e-assusta-turistas-em-praia-no-tocantins.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T13:38:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/aYx0gY9nYhVjPmztGZB4GKMGtos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/a/uDxjLzSiSWASBvmE1QvA/temporal-praia.jpg"
+    },
+    {
+      "clusterId": "46637911f46cf0d7",
+      "slug": "03af5800ac47c980",
+      "titulo": "Acidente entre carro e motocicleta deixa um morto e dois feridos em rodovia de Piracicaba",
+      "resumo": "Um carro e uma motocicleta colidiram de frente na Rodovia Samuel de Castro Neves (SP-147), próximo ao km 169, na manhã desta quarta-feira. O impacto lançou a motocicleta para o acostamento, resultando em uma vítima fatal e duas pessoas feridas. As autoridades registraram o acidente na rodovia que liga Piracicaba a Anhembi.",
+      "porQueImporta": "O acidente evidencia riscos de colisões frontais em vias de alta circulação, demandando atenção ao tráfego e medidas de segurança.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/15/acidente-entre-carro-e-motocicleta-deixa-uma-pessoa-morta-e-duas-feridas-em-rodovia-de-piracicaba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T13:21:44.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/MGKY10M2H1YXQMsl9Yk42LNyS8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/6/5WhPKyTR6jHxTHqTvzeg/capas-belly-.jpg"
+    },
+    {
+      "clusterId": "418d53a099074858",
+      "slug": "8f6d940681c739e3",
+      "titulo": "Incêndio atinge loja Magazine Luiza em Poços de Caldas",
+      "resumo": "Por volta das 7h, o Corpo de Bombeiros foi acionado para combater um incêndio na loja Magazine Luiza, situada na Rua Assis Figueiredo, em Poços de Caldas (MG). As chamas atingiram o piso térreo, mas não havia pessoas no local e ninguém ficou ferido. Os bombeiros conseguiram conter o fogo antes que se espalhasse para outras áreas da loja.",
+      "porQueImporta": "Incêndios em estabelecimentos comerciais podem gerar riscos à segurança pública e demandam resposta rápida das autoridades",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/15/loja-magazine-luiza-pega-fogo-em-pocos-de-caldas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T13:11:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wiceIi0UA0s9gPw0SSnj7-zLuHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/F/2lp2HZRnq0RPcOe8sEKQ/incendio-magazine-luiza.jpeg"
+    },
+    {
+      "clusterId": "289704f7e5f39167",
+      "slug": "03544a7c19c29d25",
+      "titulo": "Engavetamento com seis veículos deixa uma pessoa ferida na Dutra, em São José dos Campos",
+      "resumo": "Um engavetamento envolvendo seis veículos deixou uma pessoa ferida na manhã desta quarta-feira (15) na Rodovia Presidente Dutra, em São José dos Campos (SP). Segundo a concessionária RioSP, o acidente aconteceu por volta das 8h20, no km 140,5 da pista sentido Rio de Janeiro. A batida envolveu um caminhão, uma van e quatro veículos de passeio. De acordo com a Polícia Rodoviária Federal (PRF), a vítima era o motorista de um dos veículos que bateu na traseira do engavetamento. Ele foi socorrido com ferimentos leves e levado para o Hospital da Vila Industrial, em São José dos Campos. ✅ Clique…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/15/engavetamento-com-seis-veiculos-deixa-uma-pessoa-ferida-na-dutra-em-sao-jose-dos-campos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T13:06:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EmIpyHjDFeN1Iz3N6x0hB-7Tosg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/n/zSOdqARM2uelIsMjFS0A/texto-do-seu-paragrafo-2026-07-15t100150.438.png"
+    },
+    {
+      "clusterId": "a38cd5d576b98b56",
+      "slug": "1d74085756ebb1f0",
+      "titulo": "Motociclista fica gravemente ferido após colisão entre carro e moto em Boituva",
+      "resumo": "Na terça‑feira, um carro invadiu um canteiro em uma marginal da zona urbana de Boituva, provocando a queda da moto que seguia à sua frente. A colisão deixou o motociclista gravemente ferido, conforme imagens registradas por testemunhas. O acidente ocorreu próximo ao quilômetro 116 da via que dá acesso paralelo à Rodovia Castello Branco. As autoridades foram acionadas para atender a vítima.",
+      "porQueImporta": "Acidentes de trânsito com vítimas graves demandam resposta rápida das equipes de socorro e mobilizam a comunidade local.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/15/acidente-entre-carro-e-moto-deixa-motociclista-gravemente-ferido-em-boituva.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-15T13:00:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/72pmUwf4W6dKtlzh_J8LYxGnKLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/2/1cHz9JQamDHeadzZxSSA/captura-de-tela-2026-07-15-091145.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "daaf146710fbbadc",
+          "slug": "a04e7268e41afb11",
+          "titulo": "Acidente de ônibus deixa sete mortos de time de basquete no Ceará",
+          "resumo": "Na madrugada de 15 de junho, um ônibus que transportava um time de basquete de Juazeiro do Norte tombou na CE-187, próximo a Tauá, matando seis atletas e um assistente técnico. Diversas outras pessoas ficaram feridas, entre elas um sobrevivente que permanece internado. As causas do tombamento ainda não foram concluídas após 30 dias de investigação.",
+          "porQueImporta": "O acidente evidencia riscos de transporte coletivo em áreas rurais e gera impacto na comunidade esportiva local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/07/15/acidente-com-morte-de-atletas-de-basquete-completa-um-mes-sem-conclusao-do-laudo-e-sobrevivente-internado.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T14:09:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/I2rYVOitUCNFuY1a-nsLRl-6zsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/t/vAGZs3RGWgfzgTj8t2Dg/vitimas-do-acidente-esse.jpg"
+        },
+        {
+          "clusterId": "0955882cf6f156bc",
+          "slug": "8fd2883adc467588",
+          "titulo": "Jovem goiano morre em acidente de moto nos Estados Unidos",
+          "resumo": "Manuel Oliveira Borges, de 21 anos, faleceu após sofrer um acidente de moto em Atlanta, Geórgia. Ele vivia nos EUA há cerca de cinco anos, onde concluía os estudos e trabalhava. Familiares iniciaram campanha nas redes sociais para arrecadar recursos e viabilizar o traslado do corpo ao Brasil. O jovem era natural de Campinorte, Goiás, e morava com os pais e o irmão nos Estados Unidos.",
+          "porQueImporta": "O caso evidencia a necessidade de apoio logístico e financeiro para repatriação de vítimas brasileiras no exterior",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/07/15/goiano-morre-nos-eua-apos-acidente-de-moto-e-familia-tenta-trazer-corpo-de-volta-ao-brasil.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T13:49:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/5Hn4tzBXx9lAHkD6qzR8-fJYzKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/m/siAuzgQhKuBXAyCGn7Xw/imagens-g1-77-.png"
+        },
+        {
+          "clusterId": "84cc91f6912757d6",
+          "slug": "99b704dcf8b44eb4",
+          "titulo": "Pai, mãe e filha morrem em acidente na Rodovia Fernão Dias em Campanha (MG)",
+          "resumo": "Três membros da mesma família, residentes de Belo Horizonte, faleceram em um grave acidente de carro na Rodovia Fernão Dias, em Campanha, Minas Gerais. As vítimas foram identificadas como Jefferson Rodrigues Ferreira, 40 anos, Sirlene Marques de Souza, 41 anos, e a filha Lara Ferreira Marques, 16 anos, que teria completado 16 anos recentemente. Os corpos foram sepultados na capital mineira na quarta‑feira.",
+          "porQueImporta": "O acidente resultou na morte de três pessoas, destacando riscos de tráfego na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/15/quem-eram-as-vitimas-do-acidente-de-carro-na-rodovia-fernao-dias-em-campanha-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T13:47:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/p363V95okbkou_bwB-q3fC2_kXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/63ncTSQYOAHZihtmcoSQ/acidente-br381.jpg"
+        },
+        {
+          "clusterId": "46637911f46cf0d7",
+          "slug": "03af5800ac47c980",
+          "titulo": "Acidente entre carro e motocicleta deixa um morto e dois feridos em rodovia de Piracicaba",
+          "resumo": "Um carro e uma motocicleta colidiram de frente na Rodovia Samuel de Castro Neves (SP-147), próximo ao km 169, na manhã desta quarta-feira. O impacto lançou a motocicleta para o acostamento, resultando em uma vítima fatal e duas pessoas feridas. As autoridades registraram o acidente na rodovia que liga Piracicaba a Anhembi.",
+          "porQueImporta": "O acidente evidencia riscos de colisões frontais em vias de alta circulação, demandando atenção ao tráfego e medidas de segurança.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/15/acidente-entre-carro-e-motocicleta-deixa-uma-pessoa-morta-e-duas-feridas-em-rodovia-de-piracicaba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T13:21:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MGKY10M2H1YXQMsl9Yk42LNyS8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/6/5WhPKyTR6jHxTHqTvzeg/capas-belly-.jpg"
+        },
+        {
+          "clusterId": "a38cd5d576b98b56",
+          "slug": "1d74085756ebb1f0",
+          "titulo": "Motociclista fica gravemente ferido após colisão entre carro e moto em Boituva",
+          "resumo": "Na terça‑feira, um carro invadiu um canteiro em uma marginal da zona urbana de Boituva, provocando a queda da moto que seguia à sua frente. A colisão deixou o motociclista gravemente ferido, conforme imagens registradas por testemunhas. O acidente ocorreu próximo ao quilômetro 116 da via que dá acesso paralelo à Rodovia Castello Branco. As autoridades foram acionadas para atender a vítima.",
+          "porQueImporta": "Acidentes de trânsito com vítimas graves demandam resposta rápida das equipes de socorro e mobilizam a comunidade local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/15/acidente-entre-carro-e-moto-deixa-motociclista-gravemente-ferido-em-boituva.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T13:00:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/72pmUwf4W6dKtlzh_J8LYxGnKLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/2/1cHz9JQamDHeadzZxSSA/captura-de-tela-2026-07-15-091145.jpg"
+        },
+        {
+          "clusterId": "0ed7b3dd7f9d4686",
+          "slug": "01243e99dfd87ff9",
+          "titulo": "Ex-jogador brasileiro morre em acidente de scooter na Irlanda",
+          "resumo": "Saul Muniz, ex-zagueiro de 40 anos, faleceu após colidir com uma scooter em Galway, Irlanda. Ele residia no país desde 2012 e trabalhava como barbeiro. No dia do acidente, escreveu um capítulo sobre superação que será incluído no livro \"Educação que Transforma e Carreiras que Inspiram\".",
+          "porQueImporta": "A morte de um ex-atleta em um acidente de trânsito destaca riscos de mobilidade urbana mesmo fora do Brasil",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/15/ex-jogador-que-morreu-na-irlanda-deixa-em-livro-capitulo-sobre-superacao-proposito-e-recomeco.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T12:57:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6hb9guXJw3C2jGXTs-x9vRPbhu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/a/gVQM6HRviDCvUcaalVoQ/molduras-g1-1-.png"
+        },
+        {
+          "clusterId": "7b6b114216dc573a",
+          "slug": "9c86f0fcd447af89",
+          "titulo": "Motociclista e pedestre morrem em acidente na Avenida Moacir Oliveira em Nossa Senhora do Socorro",
+          "resumo": "Um motociclista colidiu com um pedestre idoso que atravessava na faixa de pedestres na noite de terça‑feira, na Avenida Moacir Oliveira, no Conjunto Marcos Freire I, em Nossa Senhora do Socorro. O condutor da moto não visualizou o pedestre, resultando nas mortes de ambos. O fato foi confirmado pela Superintendência Municipal de Transporte e Trânsito de Socorro (SMTT) e pelo Serviço de Atendimento Móvel de Urgência (Samu).",
+          "porQueImporta": "O acidente evidencia a necessidade de atenção ao trânsito e à segurança de pedestres nas vias urbanas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/15/homem-morre-atropelado-apos-acidente-em-nossa-senhora-do-socorro.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T12:54:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bR3NeM7ViOQUh9HzMiHeDZvHx_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/S/e/VyGx8KQGuIEbZEVoOqdA/whatsapp-image-2023-10-21-at-16.08.06.jpeg"
+        },
+        {
+          "clusterId": "8c374cd83ee97908",
+          "slug": "874ce35687148d31",
+          "titulo": "Ônibus de excursão paraguaio cai em ribanceira e deixa mortos em SC",
+          "resumo": "Um ônibus de excursão com 67 pessoas, retornando de Gramado para Villa Rica, capotou na SC-492, em ribanceira. O acidente resultou em mortes e feridos. O veículo estava transportando passageiros paraguaio. As autoridades investigam as causas do acidente.",
+          "porQueImporta": "O incidente destaca riscos de transporte em estradas de difícil acesso e a necessidade de fiscalização de veículos de turismo.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/onibus-de-excursao-paraguaio-cai-em-ribanceira-e-deixa-mortos-em-sc/"
+            }
+          ],
+          "updatedAt": "2026-07-15T12:29:20.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "83fb8a7ed0d8f54f",
+          "slug": "6d47ddbface46402",
+          "titulo": "Incêndio em bar de Bangcoc eleva número de mortos para 33",
+          "resumo": "Um incêndio em um bar durante um show na região norte de Bangcoc deixou 33 pessoas mortas, segundo autoridades. Mais de 70 ficaram feridas, com mais de 10 em estado grave. A causa ainda está sendo investigada pelas autoridades locais.",
+          "porQueImporta": "O incidente evidencia riscos de segurança em estabelecimentos públicos e a necessidade de respostas rápidas de emergência",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/15/numero-de-mortos-em-incendio-de-bar-em-bangcoc-sobe-para-33.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T14:03:43.000Z"
+        },
+        {
+          "clusterId": "418d53a099074858",
+          "slug": "8f6d940681c739e3",
+          "titulo": "Incêndio atinge loja Magazine Luiza em Poços de Caldas",
+          "resumo": "Por volta das 7h, o Corpo de Bombeiros foi acionado para combater um incêndio na loja Magazine Luiza, situada na Rua Assis Figueiredo, em Poços de Caldas (MG). As chamas atingiram o piso térreo, mas não havia pessoas no local e ninguém ficou ferido. Os bombeiros conseguiram conter o fogo antes que se espalhasse para outras áreas da loja.",
+          "porQueImporta": "Incêndios em estabelecimentos comerciais podem gerar riscos à segurança pública e demandam resposta rápida das autoridades",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/15/loja-magazine-luiza-pega-fogo-em-pocos-de-caldas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T13:11:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wiceIi0UA0s9gPw0SSnj7-zLuHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/F/2lp2HZRnq0RPcOe8sEKQ/incendio-magazine-luiza.jpeg"
+        },
+        {
+          "clusterId": "113f6ae1108df3ba",
+          "slug": "17d3bc611d4efa3b",
+          "titulo": "Incêndio em bar de Bangkok mata 32 pessoas incluindo cantora",
+          "resumo": "Um incêndio atingiu um bar na região de Chatuchak, em Bangkok, na noite de sábado, resultando em 32 mortes, entre elas a cantora tailandesa Breeza. O Centro de Emergência Erawan informou que nove homens e 18 mulheres estavam entre as vítimas fatais. Sobreviventes relataram rápida propagação do fogo e densa fumaça. Vários feridos foram encaminhados para hospitais.",
+          "porQueImporta": "O incidente evidencia riscos de segurança em estabelecimentos públicos e a necessidade de medidas preventivas contra incêndios.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/14/cantora-esta-entre-mortos-apos-incendio-em-bar-de-bangkok-que-matou-28-pessoas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-14T16:55:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gUfU5CR9SsbXdlogQ29KLL7Zh2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/b/rG2AKIRueOAfApLk4C1g/breeze.jpg"
+        }
+      ]
+    },
     {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "a8d068e6684028d0",
+          "clusterId": "14dac4253211f64c",
+          "slug": "112c77a49b9586b4",
+          "titulo": "Tempestades atingem Rio Grande do Sul a partir de quinta‑feira",
+          "resumo": "A partir de quinta‑feira, o Rio Grande do Sul foi afetado por tempestades conforme previsão do INMET. As chuvas intensas devem impactar as atividades agrícolas e pecuárias da região. Autoridades monitoram a evolução dos eventos climáticos. Não há relatos de danos graves até o momento.",
+          "porQueImporta": "Os efeitos nas cadeias produtivas de agricultura e pecuária podem gerar perdas econômicas e riscos à segurança alimentar.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/tempestades-atingem-rio-grande-do-sul-a-partir-de-5afeira/"
+            }
+          ],
+          "updatedAt": "2026-07-15T13:49:20.000Z"
+        },
+        {
+          "clusterId": "b678ae31ecdc44a5",
+          "slug": "e39432e1fe61c130",
+          "titulo": "Temporal derruba barracas e assusta turistas na Praia da Gaivota em Araguacema",
+          "resumo": "Um temporal com ventos fortes surpreendeu turistas que estavam na Praia da Gaivota, em Araguacema, no oeste do Tocantins, na segunda‑feira. A ventania derrubou barracas de acampamento e danificou tendas de artesanato instaladas às margens do rio. O Corpo de Bombeiros Militar do Tocantins orientou os banhistas a deixarem a água e procurarem abrigo para evitar acidentes.",
+          "porQueImporta": "O evento evidencia a necessidade de alerta e preparo para condições climáticas súbitas em áreas de recreação ao ar livre.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/15/temporal-derruba-barracas-e-assusta-turistas-em-praia-no-tocantins.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T13:38:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aYx0gY9nYhVjPmztGZB4GKMGtos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/a/uDxjLzSiSWASBvmE1QvA/temporal-praia.jpg"
+        },
+        {
+          "clusterId": "b6a52821442671bb",
           "slug": "d375f4f22853d68c",
           "titulo": "Sul do Brasil em alerta para tempestades a partir de quinta-feira",
           "resumo": "A partir de quinta-feira, parte da região Sul enfrentará tempestades com possibilidade de granizo e rajadas de vento entre 60 e 100 km/h. O Inmet emitiu aviso de perigo potencial para o oeste e sul do Rio Grande do Sul, ampliando o alerta para praticamente todo o estado na sexta-feira e sábado. As condições meteorológicas devem se intensificar ao longo do fim de semana.",
@@ -199,71 +418,10 @@
             {
               "name": "BBC Brasil",
               "url": "https://www.bbc.com/portuguese/articles/cr7x7kpznego?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/15/rios-atmosfericos-o-que-e-o-fenomeno-que-coloca-o-sul-do-brasil-em-alerta-para-tempestades-no-fim-de-semana.ghtml"
             }
           ],
-          "updatedAt": "2026-07-15T09:34:04.000Z",
+          "updatedAt": "2026-07-15T09:15:20.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c1e2/live/81488750-8027-11f1-926f-c90d1bcfbc84.jpg"
-        },
-        {
-          "clusterId": "661ac047ddf21019",
-          "slug": "ed0c766a90154479",
-          "titulo": "RS tem previsão de granizo e ventos de até 90 km/h com risco de tornados",
-          "resumo": "A partir de quinta‑feira (16) o Rio Grande do Sul entrará em período de tempo severo, com granizo e ventos que podem alcançar 90 km/h. A frente fria que avança traz instabilidade, aumentando a probabilidade de temporais, tornados e microexplosões. Na quarta‑feira (15) o clima permanece firme, com sol e aumento gradual da temperatura. As autoridades alertam para a possibilidade de fenômenos extremos nas áreas de divisa com o Uruguai.",
-          "porQueImporta": "A previsão indica risco de eventos meteorológicos graves que podem afetar a população e a infraestrutura regional",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/15/granizo-e-ventos-de-ate-90-kmh-rs-tem-previsao-de-tempo-severo-saiba-quando.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T09:51:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DlVBnydm9n2qPE5AfienEiw_98M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/wlSTxvTxCjFF827oJPAg/g1-4-.png"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "0802f9b7695f53a0",
-          "slug": "a7c6ff6bf41ab630",
-          "titulo": "Incêndio destrói imagem de Nossa Senhora em Nerópolis após velas serem acesas",
-          "resumo": "Na noite de segunda‑feira, por volta das 21h, um incêndio consumiu a imagem de Nossa Senhora de cerca de quatro metros na entrada de Nerópolis, na Região Metropolitana de Goiânia. Segundo o delegado André Fernandes, o fogo se iniciou depois que uma família acendeu velas próximo ao monumento para agradecer uma graça recebida. O incidente foi registrado em vídeo que mostra o colapso da estátua. Não há informações sobre vítimas ou danos adicionais além da imagem.",
-          "porQueImporta": "O caso evidencia riscos de incêndio em locais de devoção pública, demandando atenção à segurança ao usar velas.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/07/15/fogo-em-imagem-de-santa-comecou-apos-fieis-acenderem-velas-proximo-a-monumento-diz-policia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T09:58:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/uA8UgecF2xJmtHIEdyYEuKNGkDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/XwIcAOQse2B4vUg1nzJw/padrao-g1cbn-foto-51-.jpg"
-        },
-        {
-          "clusterId": "5a97ab440d1444a9",
-          "slug": "3459be42a7bb5387",
-          "titulo": "Incêndio em bar de Bangkok mata 32 pessoas incluindo cantora",
-          "resumo": "Um incêndio de rápida propagação atingiu o bar Rong Beer, na região de Chatuchak, em Bangkok, na noite de 12 de julho, resultando em 32 mortes e vários feridos. Entre as vítimas fatais está a cantora tailandesa Breeza. Sobreviventes relataram que o fogo se espalhou rapidamente, gerando densa fumaça e pânico. O incidente ocorreu enquanto a banda indie Thotsakan se apresentava no local.",
-          "porQueImporta": "O desastre evidencia riscos de segurança em estabelecimentos públicos e gera impacto social significativo",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/13/todo-mundo-corria-se-espremendo-como-incendio-que-matou-28-pessoas-devastou-bar-em-bangkok.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-14T16:55:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/g9QAqjntZc6P7sYt4T5BlRXV724=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/9/c9MXhSSJK32UfJ3tnrxA/ap26193692096425.jpg"
         }
       ]
     },
@@ -308,162 +466,25 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "3467e20276dce3bb",
-          "slug": "ccf8bdece4fb914b",
-          "titulo": "Ex-jogador brasileiro morre em acidente com scooter na Irlanda",
-          "resumo": "Saul Muniz, de 40 anos, ex‑zagueiro que vivia na Irlanda desde 2012, faleceu após cair de um patinete elétrico em Galway. A morte mobilizou familiares, amigos e ex‑companheiros de futebol no Brasil e no exterior. Muniz havia deixado a carreira no futebol para trabalhar como barbeiro e estudava inglês. A notícia foi divulgada por veículos brasileiros e irlandeses.",
-          "porQueImporta": "O caso evidencia os riscos de patinetes elétricos e a repercussão de acidentes envolvendo ex‑atletas",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/15/ajudava-todo-mundo-ate-a-fazer-sorrir-quem-era-o-ex-jogador-que-morreu-em-acidente-com-scooter-na-irlanda.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T07:00:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/wFpwKTw3Wx4nim4gu_jXwADCFuY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/fLXldQQ0WAhbCLfEcRMA/design-sem-nome-8-.png"
-        },
-        {
-          "clusterId": "7cc14e1a8cef3f48",
-          "slug": "0b0126c48b5c3317",
-          "titulo": "Mulher de 20 anos morre em acidente de Porsche que pegou fogo em Campinas",
-          "resumo": "Lívia Bevilacqua Batista, de 20 anos, foi identificada como a vítima que morreu após o Porsche Cayman que conduzia o estudante Arthur Rodrigues de Souza colidir com uma árvore e pegar fogo em Campinas (SP). Ambos os ocupantes do veículo faleceram no local. A irmã de Lívia informou que a jovem havia iniciado recentemente o curso de Relações Internacionais na PUC-Campinas. O acidente foi registrado na terça‑feira, dia 14.",
-          "porQueImporta": "O caso evidencia riscos de acidentes de trânsito envolvendo veículos de alta performance e tem impacto na comunidade local.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/15/extremamente-amada-quem-mulher-morreu-porsche-explodir-acidente-campinas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T06:00:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hUHdVzntKJTKqc0Myj8QyKZ0MwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/3/FEZopAQFKNGlbDwkwhCg/capas-belly-1200-x-1000-px-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "terremoto",
-      "label": "Terremoto",
-      "stories": [
-        {
-          "clusterId": "3ad9122ed58e2fd4",
-          "slug": "e63dd16dbe642da3",
-          "titulo": "Mortes e feridos aumentam após terremotos de 24 de junho na Venezuela",
-          "resumo": "Os terremotos de magnitude 7,2 e 7,5 que atingiram a Venezuela em 24 de junho deixaram entre 4.561 e 4.734 mortos, conforme diferentes fontes. O número de feridos permanece em 16.740 e as pessoas desalojadas giram em torno de 18 mil. O relatório divulgado na terça‑feira informou que 128.324 famílias foram atendidas e que mais de 20 mil pessoas permanecem em alojamentos temporários. As informações sobre o total de desabrigados variam entre 17.907 e 18 mil.",
-          "porQueImporta": "A magnitude da fatalidade e o número de deslocados exigem resposta humanitária e planejamento de reconstrução.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/13/terremoto-na-venezuela-numero-de-mortos-sobe-para-4561.ghtml"
-            },
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-em-terremotos-na-venezuela-sobe-para-4-734/"
-            },
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c33y35rp217o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-07-15T09:49:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
-      "stories": [
-        {
-          "clusterId": "00db71dd6bafaa1a",
-          "slug": "8f6158472e6b7a16",
-          "titulo": "Casas são liberadas após interdição por cratera em Osasco",
-          "resumo": "Duas residências foram liberadas pela Defesa Civil municipal após a interdição provocada por uma cratera em Osasco (SP). Uma terceira casa ainda aguarda liberação. A Sabesp está investigando as causas do desabamento, que ocorreu em obra de empresa terceirizada da companhia.",
-          "porQueImporta": "A situação evidencia riscos de obras e a necessidade de fiscalização para garantir a segurança dos moradores.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/duas-casas-sao-liberadas-apos-interdicao-por-cratera-em-osasco-sp/"
-            }
-          ],
-          "updatedAt": "2026-07-15T09:36:07.000Z"
-        }
-      ]
-    },
-    {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "6de1181ae987f443",
-          "slug": "5ceb0ab141a04acf",
-          "titulo": "Incêndio de grandes proporções atinge ao menos 20 casas na zona Norte em SP",
-          "resumo": "De acordo com o Corpo de Bombeiros, cerca de 11 viaturas foram empenhadas ao local para combater as chamas; não há informações sobre vítimas",
+          "clusterId": "289704f7e5f39167",
+          "slug": "03544a7c19c29d25",
+          "titulo": "Engavetamento com seis veículos deixa uma pessoa ferida na Dutra, em São José dos Campos",
+          "resumo": "Um engavetamento envolvendo seis veículos deixou uma pessoa ferida na manhã desta quarta-feira (15) na Rodovia Presidente Dutra, em São José dos Campos (SP). Segundo a concessionária RioSP, o acidente aconteceu por volta das 8h20, no km 140,5 da pista sentido Rio de Janeiro. A batida envolveu um caminhão, uma van e quatro veículos de passeio. De acordo com a Polícia Rodoviária Federal (PRF), a vítima era o motorista de um dos veículos que bateu na traseira do engavetamento. Ele foi socorrido com ferimentos leves e levado para o Hospital da Vila Industrial, em São José dos Campos. ✅ Clique…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-ao-menos-20-casas-na-zona-norte-em-sp/"
-            }
-          ],
-          "updatedAt": "2026-07-15T09:16:18.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
-        {
-          "clusterId": "d8f09439b05da0f9",
-          "slug": "ca5b6670f423c613",
-          "titulo": "Jovem tetraplégico após bala perdida morre após mais de um ano de tratamento",
-          "resumo": "Antônio Augusto Fonseca, de 18 anos, ficou tetraplégico ao ser atingido por bala perdida durante festa de cavalgada em São Gotardo, no final de 2024. Após mais de um ano de internações, reabilitação e complicações, morreu de pneumonia em julho de 2025. A morte foi confirmada pela mãe do jovem. O caso evidencia as graves consequências de disparos acidentais.",
-          "porQueImporta": "Mostra o impacto fatal de armas de fogo em ambientes de confraternização e a necessidade de medidas de segurança.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/15/jovem-que-ficou-tetraplegico-ao-ser-atingido-por-bala-perdida-morre-apos-mais-de-um-ano-de-tratamento.ghtml"
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/15/engavetamento-com-seis-veiculos-deixa-uma-pessoa-ferida-na-dutra-em-sao-jose-dos-campos.ghtml"
             }
           ],
-          "updatedAt": "2026-07-15T08:45:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/30jXEz62Nb2HCB4aR3IUO39kghI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/8/vKBWBXRPOi1iRWWX9ElQ/design-sem-nome-60-.png"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "879b387d2e5e953c",
-          "slug": "a7c7f714f30be89f",
-          "titulo": "Vale do Ahr inicia projetos de barragens para reduzir risco de enchentes",
-          "resumo": "Há cinco anos, o Vale do Ahr foi atingido por uma enchente que causou 135 mortes, uma das mais graves na Alemanha. Desde então, a região tem se reconstruído e adotado medidas para mitigar futuros danos. As novas barragens planejadas visam reter centenas de milhões de litros de água durante períodos de chuva intensa. A população reconhece que o risco de enchentes aumenta com o crescimento urbano e o aquecimento climático.",
-          "porQueImporta": "A iniciativa busca proteger vidas e infraestrutura diante da crescente ameaça de inundações",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/15/como-proteger-uma-cidade-contra-inundacoes-veja-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T08:03:24.000Z"
+          "updatedAt": "2026-07-15T13:06:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EmIpyHjDFeN1Iz3N6x0hB-7Tosg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/n/zSOdqARM2uelIsMjFS0A/texto-do-seu-paragrafo-2026-07-15t100150.438.png"
         }
       ]
     },
@@ -510,6 +531,52 @@
           ],
           "updatedAt": "2026-07-15T02:03:44.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/kUdKukpYgNjzPD9hcrUzfWm86uE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/wvkTSfSo69vG0qJrHpwg/ezgif-8ac404aa2c312cdc.gif"
+        }
+      ]
+    },
+    {
+      "slug": "desastre",
+      "label": "Desastre",
+      "stories": [
+        {
+          "clusterId": "fa899581c9d23874",
+          "slug": "cc41977e9011a51e",
+          "titulo": "Terremotos na Venezuela causam tragédia em escola infantil de beisebol",
+          "resumo": "Terremotos na região de La Guaira atingiram uma escola infantil de beisebol, onde treinavam cerca de 1.100 crianças. A organização Criollitos não sabe ainda quantas pessoas morreram, mas o cenário é devastador. A escola era uma das 22 mantidas pela organização na área.",
+          "porQueImporta": "O evento demonstra o impacto direto de desastres naturais em instituições de educação infantil.",
+          "categoria": "Desastre",
+          "categoriaSlug": "desastre",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c33y35rp217o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-07-14T22:19:34.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ddc2/live/4d289d90-7deb-11f1-a5de-97ad6e22e20a.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "d3f5574ca7b60504",
+          "slug": "e63dd16dbe642da3",
+          "titulo": "Mortes e feridos aumentam após terremotos de 24 de junho na Venezuela",
+          "resumo": "Os terremotos de magnitude 7,2 e 7,5 que atingiram a Venezuela em 24 de junho deixaram entre 4.561 e 4.734 mortos, conforme diferentes fontes. O número de feridos permanece em 16.740 e as pessoas desalojadas giram em torno de 18 mil. O relatório divulgado na terça‑feira informou que 128.324 famílias foram atendidas e que mais de 20 mil pessoas permanecem em alojamentos temporários. As informações sobre o total de desabrigados variam entre 17.907 e 18 mil.",
+          "porQueImporta": "A magnitude da fatalidade e o número de deslocados exigem resposta humanitária e planejamento de reconstrução.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/13/terremoto-na-venezuela-numero-de-mortos-sobe-para-4561.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-14T19:20:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
         }
       ]
     }
