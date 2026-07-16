@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-07-15T17:49:21.934Z",
-  "editionDate": "2026-07-15",
-  "hourUtc": 17,
-  "outcome": "generated",
-  "reason": "\"Acidentes e eventos climáticos dominam a edição, enquanto questões sociais e políticas ganham destaque\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: reprovado — entidades fora do material: alem",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-07-16T03:48:30.835Z",
+  "editionDate": "2026-07-16",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
