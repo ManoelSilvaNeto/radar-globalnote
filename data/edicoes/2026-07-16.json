@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generatedAt": "2026-07-16T03:48:30.835Z",
+  "generatedAt": "2026-07-16T07:02:57.454Z",
   "home": [
     {
       "clusterId": "b585ae4387ec00b8",
@@ -22,6 +22,23 @@
       ],
       "updatedAt": "2026-07-16T03:10:36.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/VfVufnD7OSnuF0Ak_JQG7ik_4FE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Q/CsNYXoRXubduTxpFkFrw/g1.jpg"
+    },
+    {
+      "clusterId": "030b7f2acae7fb26",
+      "slug": "7aa52758a3a849df",
+      "titulo": "Mais de 500 pessoas podem ter morrido após naufrágios de barcos na costa de Mianmar",
+      "resumo": "Duas embarcações com mais de 500 pessoas a bordo podem ter naufragado na costa de Mianmar nos últimos dias, segundo agências da ONU. As embarcações partiram do estado de Rakhine no final de junho, transportando refugiados que tentavam fugir do país. O resgate dos corpos das vítimas de naufrágio que matou pelo menos 17 pessoas em 2017 continua em andamento.",
+      "porQueImporta": "O episódio destaca a contínua crise de refugiados e os riscos de viagens marítimas inseguras na região.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/16/mais-de-500-pessoas-podem-ter-morrido-apos-naufragio-de-barcos-na-costa-de-mianmar-diz-onu.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-16T05:11:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wMot7pSGaI_vk8UZfk8Bjv6XxJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/c/c/8QCMMtRgS9SHOlFcXCMw/000-rz6av.jpg"
     },
     {
       "clusterId": "7e5406d99488684f",
@@ -56,23 +73,6 @@
       ],
       "updatedAt": "2026-07-16T03:00:30.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/OmQXtvLgHG39OIekeR_S2M8NOuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/K/B/WF0cscStWSTblAms9pQw/imagem-do-whatsapp-de-2023-10-18-a-s-08.17.46.jpg"
-    },
-    {
-      "clusterId": "d33229df0efa165a",
-      "slug": "85c1e287a41d238c",
-      "titulo": "Manaus entra em alerta após vazamento de gás estireno em fábrica",
-      "resumo": "Um vazamento de gás estireno foi detectado em uma fábrica no Distrito Industrial de Manaus, mobilizando o gabinete de crise da cidade. Moradores relataram forte odor e o shopping próximo precisou ser evacuado como medida de segurança.",
-      "porQueImporta": "O incidente pode afetar a saúde da população e requer monitoramento ambiental",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/manaus-entra-em-alerta-apos-vazamento-de-gas-estireno-em-fabrica"
-        }
-      ],
-      "updatedAt": "2026-07-16T01:48:23.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/manaus-entra-em-alerta-apos-vazamento-de-gas-estireno-em-fabrica.jpg"
     },
     {
       "clusterId": "27d859e71199e0cc",
@@ -176,6 +176,80 @@
   ],
   "categorias": [
     {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "7e5406d99488684f",
+          "slug": "8032a71e4816a198",
+          "titulo": "Montes Claros inicia urbanização do Córrego do Cintra",
+          "resumo": "O município de Montes Claros deu início à etapa de urbanização e canalização do Córrego do Cintra, beneficiando o Trecho 3 entre a avenida dos Militares e a rua Claudionor Antônio Brito. A obra transformará a área de risco de inundações e acúmulo de entulho em uma avenida ampla e canalizada. Moradores dos bairros Cintra e Santa Rita, que aguardam há mais de 50 anos, serão os primeiros a usufruir da melhoria, mas a obra beneficiará toda a cidade.",
+          "porQueImporta": "A obra reduz riscos de inundações e melhora a mobilidade urbana na região.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2026/07/16/municipio-de-montes-claros-urbaniza-o-corrego-do-cintra.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-16T03:03:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/obbU9S7iM6eoINgBVfNmyL_B_Nw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/ijwzi3StuKfpj2iTZupQ/cintra-cassia-silene.jpeg"
+        },
+        {
+          "clusterId": "473226cb61fbb921",
+          "slug": "48f0190ecb02d8db",
+          "titulo": "Academia em Ribeirão Preto, SP, é condenada a pagar R$ 20 mil a aluno atingido por aparelho durante musculação",
+          "resumo": "Fórum de Ribeirão Preto, SP Rodolfo Tiengo/g1 Uma academia da Zona Oeste de Ribeirão Preto (SP) foi condenada pela Justiça a pagar R$ 20 mil de indenização a um aluno atingido no olho direito por uma peça de aparelho de musculação. O acidente aconteceu em junho de 2022. De acor o com o processo, o aluno usava um aparelho CrossOver, usado em exercícios com cabos e pesos. Durante o treino, o cabo de aço do equipamento se rompeu, e uma peça atingiu o rosto dele. A condenação foi determinada em primeira instância em dezembro de 2025 e mantida pelo Tribunal de Justiça de São Paulo em junho de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/16/academia-em-ribeirao-preto-sp-e-condenada-a-pagar-r-20-mil-a-aluno-atingido-por-aparelho-durante-musculacao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-16T03:00:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OmQXtvLgHG39OIekeR_S2M8NOuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/K/B/WF0cscStWSTblAms9pQw/imagem-do-whatsapp-de-2023-10-18-a-s-08.17.46.jpg"
+        },
+        {
+          "clusterId": "c5fa1f2b8e321a9d",
+          "slug": "9f7fc35178c61153",
+          "titulo": "Venezuela anuncia plano de fortalecimento da democracia",
+          "resumo": "O governo da presidente interina Delcy Rodríguez e um grupo de opositores iniciarão, em agosto, um plano de trabalho para o fortalecimento da democracia na Venezuela, conforme anunciado pelo presidente do Parlamento nesta terça-feira. O anúncio ocorre após a aprovação da Reforma da Lei Orgânica dos Hidrocarbonetos e poucos dias antes dos terremotos de 24 de junho.",
+          "porQueImporta": "O plano indica um esforço político interno que pode influenciar a estabilidade institucional do país",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/15/venezuela-anuncia-plano-de-fortalecimento-da-democracia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T15:57:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/63gL2E0tAcGHGYrGIHECdt0ADWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/ENL8b1SACJcnvrUuDfxA/afp-20260714-c2448g3-v1-midres-filesvenezuelaearthquakeoil.jpg"
+        },
+        {
+          "clusterId": "c33872be46c541e3",
+          "slug": "d966864f34036998",
+          "titulo": "Ucrânia confirma ataque a 20 navios russos no Mar Negro após ofensiva russa em Odessa",
+          "resumo": "A Marinha da Ucrânia informou que 20 embarcações russas foram atingidas no Mar Negro. O ataque ocorreu após bombardeio russo à cidade portuária de Odessa, que deixou três mortos e três feridos. As hostilidades envolveram tanto alvos civis quanto estratégicos na região marítima.",
+          "porQueImporta": "O incidente evidencia a escalada do conflito entre Rússia e Ucrânia e afeta rotas de comércio marítimo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/15/ucrania-confirma-ataque-a-20-navios-russos-no-mar-negro-apos-ofensiva-da-russia-em-odessa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-15T06:15:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gGX41AGxwc_OVi_N4PXbDwnW3Rw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/N/pRpypCTBmnKrlJBAOF6Q/2026-07-14t091321z-1727819094-rc2ldma2u8w8-rtrmadp-3-ukraine-crisis-attack-odesa.jpg"
+        }
+      ]
+    },
+    {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
@@ -243,97 +317,6 @@
             }
           ],
           "updatedAt": "2026-07-15T23:19:42.000Z"
-        },
-        {
-          "clusterId": "5378c701d19c8c19",
-          "slug": "4065cff8ad682a96",
-          "titulo": "Corpo de jovem permanece sob retenção do IML cinco dias após acidente de carro em Campinas",
-          "resumo": "Lívia Bevilacqua Batista, de 20 anos, morreu quando seu Porsche colidiu com uma árvore e incendiou-se em Campinas (SP) na sexta-feira. Cinco dias depois, o Instituto Médico Legal ainda não liberou o corpo, impedindo a realização de velório e sepultamento. A mãe, Danila Bevilacqua, relatou aumento do sofrimento pela impossibilidade de despedida.",
-          "porQueImporta": "A demora na liberação do corpo dificulta o processo de luto e os rituais funerários da família.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/15/corpo-de-jovem-segue-sem-liberacao-cinco-dias-apos-acidente-com-porsche-e-mae-lamenta-falta-de-velorio-um-antiluto.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T22:40:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bH0fDgUGvbPm3RjfQ69BYc634as=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/o/fkkfxZQQq54Au8jBVcqw/design-sem-nome-5-.png"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "7e5406d99488684f",
-          "slug": "8032a71e4816a198",
-          "titulo": "Montes Claros inicia urbanização do Córrego do Cintra",
-          "resumo": "O município de Montes Claros deu início à etapa de urbanização e canalização do Córrego do Cintra, beneficiando o Trecho 3 entre a avenida dos Militares e a rua Claudionor Antônio Brito. A obra transformará a área de risco de inundações e acúmulo de entulho em uma avenida ampla e canalizada. Moradores dos bairros Cintra e Santa Rita, que aguardam há mais de 50 anos, serão os primeiros a usufruir da melhoria, mas a obra beneficiará toda a cidade.",
-          "porQueImporta": "A obra reduz riscos de inundações e melhora a mobilidade urbana na região.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2026/07/16/municipio-de-montes-claros-urbaniza-o-corrego-do-cintra.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-16T03:03:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/obbU9S7iM6eoINgBVfNmyL_B_Nw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/ijwzi3StuKfpj2iTZupQ/cintra-cassia-silene.jpeg"
-        },
-        {
-          "clusterId": "473226cb61fbb921",
-          "slug": "48f0190ecb02d8db",
-          "titulo": "Academia em Ribeirão Preto, SP, é condenada a pagar R$ 20 mil a aluno atingido por aparelho durante musculação",
-          "resumo": "Fórum de Ribeirão Preto, SP Rodolfo Tiengo/g1 Uma academia da Zona Oeste de Ribeirão Preto (SP) foi condenada pela Justiça a pagar R$ 20 mil de indenização a um aluno atingido no olho direito por uma peça de aparelho de musculação. O acidente aconteceu em junho de 2022. De acor o com o processo, o aluno usava um aparelho CrossOver, usado em exercícios com cabos e pesos. Durante o treino, o cabo de aço do equipamento se rompeu, e uma peça atingiu o rosto dele. A condenação foi determinada em primeira instância em dezembro de 2025 e mantida pelo Tribunal de Justiça de São Paulo em junho de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/16/academia-em-ribeirao-preto-sp-e-condenada-a-pagar-r-20-mil-a-aluno-atingido-por-aparelho-durante-musculacao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-16T03:00:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OmQXtvLgHG39OIekeR_S2M8NOuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/K/B/WF0cscStWSTblAms9pQw/imagem-do-whatsapp-de-2023-10-18-a-s-08.17.46.jpg"
-        },
-        {
-          "clusterId": "d33229df0efa165a",
-          "slug": "85c1e287a41d238c",
-          "titulo": "Manaus entra em alerta após vazamento de gás estireno em fábrica",
-          "resumo": "Um vazamento de gás estireno foi detectado em uma fábrica no Distrito Industrial de Manaus, mobilizando o gabinete de crise da cidade. Moradores relataram forte odor e o shopping próximo precisou ser evacuado como medida de segurança.",
-          "porQueImporta": "O incidente pode afetar a saúde da população e requer monitoramento ambiental",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/manaus-entra-em-alerta-apos-vazamento-de-gas-estireno-em-fabrica"
-            }
-          ],
-          "updatedAt": "2026-07-16T01:48:23.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/07/manaus-entra-em-alerta-apos-vazamento-de-gas-estireno-em-fabrica.jpg"
-        },
-        {
-          "clusterId": "c5fa1f2b8e321a9d",
-          "slug": "9f7fc35178c61153",
-          "titulo": "Venezuela anuncia plano de fortalecimento da democracia",
-          "resumo": "O governo da presidente interina Delcy Rodríguez e um grupo de opositores iniciarão, em agosto, um plano de trabalho para o fortalecimento da democracia na Venezuela, conforme anunciado pelo presidente do Parlamento nesta terça-feira. O anúncio ocorre após a aprovação da Reforma da Lei Orgânica dos Hidrocarbonetos e poucos dias antes dos terremotos de 24 de junho.",
-          "porQueImporta": "O plano indica um esforço político interno que pode influenciar a estabilidade institucional do país",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/15/venezuela-anuncia-plano-de-fortalecimento-da-democracia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T15:57:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/63gL2E0tAcGHGYrGIHECdt0ADWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/ENL8b1SACJcnvrUuDfxA/afp-20260714-c2448g3-v1-midres-filesvenezuelaearthquakeoil.jpg"
         }
       ]
     },
@@ -456,6 +439,46 @@
       ]
     },
     {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "030b7f2acae7fb26",
+          "slug": "7aa52758a3a849df",
+          "titulo": "Mais de 500 pessoas podem ter morrido após naufrágios de barcos na costa de Mianmar",
+          "resumo": "Duas embarcações com mais de 500 pessoas a bordo podem ter naufragado na costa de Mianmar nos últimos dias, segundo agências da ONU. As embarcações partiram do estado de Rakhine no final de junho, transportando refugiados que tentavam fugir do país. O resgate dos corpos das vítimas de naufrágio que matou pelo menos 17 pessoas em 2017 continua em andamento.",
+          "porQueImporta": "O episódio destaca a contínua crise de refugiados e os riscos de viagens marítimas inseguras na região.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/16/mais-de-500-pessoas-podem-ter-morrido-apos-naufragio-de-barcos-na-costa-de-mianmar-diz-onu.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-16T05:11:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wMot7pSGaI_vk8UZfk8Bjv6XxJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/c/c/8QCMMtRgS9SHOlFcXCMw/000-rz6av.jpg"
+        },
+        {
+          "clusterId": "195616242336c335",
+          "slug": "9ca8d202baeb4d80",
+          "titulo": "Navio cargueiro afunda após colisão perto do Estreito de Ormuz",
+          "resumo": "Um navio cargueiro colidiu com outra embarcação nas proximidades do Estreito de Ormuz, provocando seu alagamento e subsequente afundamento. As autoridades iranianas evacuaram os 23 tripulantes, que foram resgatados e levados para a ilha de Qeshm. A identidade do outro navio não foi divulgada. O incidente foi registrado em vídeo divulgado pela agência estatal Fars.",
+          "porQueImporta": "O afundamento de embarcações comerciais pode gerar riscos ambientais e afetar rotas de navegação estratégicas.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/14/video-navio-cargueiro-afunda-apos-colisao-perto-do-estreito-de-ormuz.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-14T19:50:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kvvHohriLTbSZmRiJEJhSkypfgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/JjgAWATnqTF9JnIBDUZQ/luni.jpg"
+        }
+      ]
+    },
+    {
       "slug": "incendio-florestal",
       "label": "Incêndio florestal",
       "stories": [
@@ -502,29 +525,6 @@
       ]
     },
     {
-      "slug": "ataque",
-      "label": "Ataque",
-      "stories": [
-        {
-          "clusterId": "c33872be46c541e3",
-          "slug": "d966864f34036998",
-          "titulo": "Ataque russo a Odessa deixa três mortos e três feridos",
-          "resumo": "Na quarta‑feira, forças russas bombardearam a cidade portuária de Odessa, no sul da Ucrânia, matando três pessoas e ferindo outras três, segundo autoridades ucranianas. O ataque ocorreu em meio a confrontos no Mar Negro, onde a Ucrânia também informou ter incendiado cerca de 20 navios russos. Odessa é um dos principais centros de exportação do país e tem sido alvo frequente de bombardeios nos últimos meses.",
-          "porQueImporta": "O incidente evidencia a escalada do conflito entre Rússia e Ucrânia e afeta rotas comerciais estratégicas.",
-          "categoria": "Ataque",
-          "categoriaSlug": "ataque",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/15/ucrania-confirma-ataque-a-20-navios-russos-no-mar-negro-apos-ofensiva-da-russia-em-odessa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T06:15:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gGX41AGxwc_OVi_N4PXbDwnW3Rw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/N/pRpypCTBmnKrlJBAOF6Q/2026-07-14t091321z-1727819094-rc2ldma2u8w8-rtrmadp-3-ukraine-crisis-attack-odesa.jpg"
-        }
-      ]
-    },
-    {
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
@@ -544,29 +544,6 @@
           ],
           "updatedAt": "2026-07-15T02:03:44.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/kUdKukpYgNjzPD9hcrUzfWm86uE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/wvkTSfSo69vG0qJrHpwg/ezgif-8ac404aa2c312cdc.gif"
-        }
-      ]
-    },
-    {
-      "slug": "naufragio",
-      "label": "Naufrágio",
-      "stories": [
-        {
-          "clusterId": "195616242336c335",
-          "slug": "9ca8d202baeb4d80",
-          "titulo": "Navio cargueiro afunda após colisão próximo ao Estreito de Ormuz",
-          "resumo": "Um navio cargueiro colidiu com outra embarcação nas proximidades do Estreito de Ormuz, provocando seu alagamento e subsequente naufrágio. As autoridades iranianas evacuaram os 23 tripulantes, que foram resgatados e levados para a ilha de Qeshm. A identidade do outro navio não foi divulgada. O incidente foi relatado pela agência estatal Fars na terça‑feira (14).",
-          "porQueImporta": "O acidente evidencia riscos de navegação em uma rota marítima estratégica e pode impactar o tráfego comercial regional.",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/14/video-navio-cargueiro-afunda-apos-colisao-perto-do-estreito-de-ormuz.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-14T19:50:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kvvHohriLTbSZmRiJEJhSkypfgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/JjgAWATnqTF9JnIBDUZQ/luni.jpg"
         }
       ]
     },
