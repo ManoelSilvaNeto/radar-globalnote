@@ -1,15 +1,15 @@
 {
-  "ranAt": "2026-07-16T14:34:50.293Z",
+  "ranAt": "2026-07-16T17:47:47.043Z",
   "editionDate": "2026-07-16",
-  "hourUtc": 14,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 17,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito lideram registros enquanto incidentes aéreos e industriais aumentam a carga de emergências\" (4 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
     "groq: erro — sem cota (429)",
-    "cerebras: reprovado — entidades fora do material: ambos"
+    "cerebras: ok"
   ]
 }
