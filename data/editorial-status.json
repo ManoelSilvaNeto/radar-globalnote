@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-17T14:13:18.123Z",
+  "ranAt": "2026-07-17T17:40:37.916Z",
   "editionDate": "2026-07-17",
-  "hourUtc": 14,
+  "hourUtc": 17,
   "outcome": "not-generated",
   "reason": "IA fora ou validação reprovou",
   "providers": [
@@ -10,6 +10,6 @@
   ],
   "attempts": [
     "groq: erro — sem cota (429)",
-    "cerebras: reprovado — entidades fora do material: outros"
+    "cerebras: reprovado — entidades fora do material: embora, alem, ile‑de‑france"
   ]
 }
