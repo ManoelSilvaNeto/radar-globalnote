@@ -1,9 +1,30 @@
 {
   "date": "2026-07-17",
-  "generatedAt": "2026-07-17T17:40:37.916Z",
+  "generatedAt": "2026-07-17T21:23:45.024Z",
   "home": [
     {
-      "clusterId": "d60dcf123f6ace4c",
+      "clusterId": "35c4c9fd86f4d1d2",
+      "slug": "da8c6f7195c52bad",
+      "titulo": "Mortes por terremoto na Venezuela ultrapassam 5 mil",
+      "resumo": "A Venezuela confirmou que o número de mortos ultrapassa 5 mil após os tremores de 24 de junho. O balanço divulgado nesta sexta indica 5.069 óbitos e mais de 16,7 mil feridos. As autoridades ainda buscam informações sobre pessoas possivelmente soterradas nos escombros.",
+      "porQueImporta": "A alta mortalidade evidencia a gravidade do desastre e a necessidade de resposta humanitária urgente",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/17/numero-de-mortos-do-terremoto-na-venezuela-passa-de-5000.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/numero-de-mortes-por-terremotos-na-venezuela-ultrapassa-5-mil"
+        }
+      ],
+      "updatedAt": "2026-07-17T21:03:16.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YI67KBBNHxpZvbGXNmdVA_QHpPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/722BxsRAeZWF21pH5MoA/afp-20260709-b9tc6tw-v1-midres-venezuelaearthquakeaftermath.jpg"
+    },
+    {
+      "clusterId": "fae9fcdcb3cd891f",
       "slug": "b08176af13eae19b",
       "titulo": "Terremoto de magnitude 7,3 atinge costa sul do México e gera alerta de tsunami",
       "resumo": "Um terremoto de magnitude 7,3 ocorreu na costa sul do México, próximo à fronteira com a Guatemala. O Sistema de Alerta de Tsunami dos Estados Unidos emitiu alerta para o México e a Guatemala, com risco de ondas menores em até oito países da América Latina. O tremor foi sentido também na Guatemala, El Salvador e na região de Chiapas, no México. Até o momento, não há informações de vítimas ou danos estruturais.",
@@ -16,172 +37,148 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/07/17/terremoto-de-magnitude-74-atinge-o-mexico.ghtml"
         },
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/terremoto-de-magnitude-73-atinge-a-costa-do-mexico/"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-73-atinge-costa-do-mexico-e-gera-alerta-de-tsunami/"
+          "url": "https://www.cnnbrasil.com.br/internacional/alerta-de-ameaca-de-tsunami-para-a-costa-do-mexico-e-cancelado/"
         }
       ],
-      "updatedAt": "2026-07-17T17:28:42.000Z",
+      "updatedAt": "2026-07-17T18:35:29.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/Mg9wOYeMdaN2Olp97gkK2xzp53o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/hgXYYmTNAAM1DesTbKOQ/2026-07-17t154646z-2137965662-rc2qfma0nuhk-rtrmadp-3-el-salvador-quake.jpg"
     },
     {
-      "clusterId": "4277345e2a906bdd",
-      "slug": "1ccc37bc43b5d57d",
-      "titulo": "Mortes em Paris mais que dobram em junho durante onda de calor extremo",
-      "resumo": "A agência sanitária da região de Île-de-France registrou mais de 3 mil óbitos entre 22 e 28 de junho, representando um aumento de 1.565 mortes em relação ao mesmo período do ano passado. O aumento corresponde a mais que o dobro de mortes registradas em junho anterior, segundo relatório divulgado na sexta‑feira. A onda de calor tem afetado a Europa nas últimas semanas, contribuindo para um acréscimo de cerca de 10 mil mortes no continente durante o pico da temperatura.",
-      "porQueImporta": "O crescimento significativo de mortes evidencia o impacto mortal de ondas de calor extremas em áreas urbanas densas.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/17/mortes-em-paris-mais-que-dobram-em-junho-por-conta-do-calor-extremo-diz-governo-local.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/mortes-em-paris-mais-que-dobram-em-junho-durante-onda-de-calor-extremo/"
-        }
-      ],
-      "updatedAt": "2026-07-17T16:54:28.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/xMZSrAarWxeprX3HYSUG4upWCbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/YIjwRlSbOpxVcWBkyw6w/2026-06-23t162403z-24911831-rc2szla8x0x6-rtrmadp-3-europe-weather-france.jpg"
-    },
-    {
-      "clusterId": "0418068b867ca76f",
-      "slug": "61aec0a12079a70d",
-      "titulo": "Motorista controla ônibus que perdeu freios na Serra de São Vicente",
-      "resumo": "Um ônibus que fazia o trajeto entre Rondonópolis e Cuiabá perdeu o freio durante a descida da Serra de São Vicente nesta quarta‑feira. O motorista conseguiu manter o veículo sob controle e encostá‑lo no acostamento, evitando colisões. Nenhum passageiro ficou ferido e, após o incidente, os ocupantes agradeceram ao condutor com aplausos. A empresa responsável ainda não foi identificada.",
-      "porQueImporta": "Mostra a importância de habilidades de condução em situações de falha mecânica para prevenir vítimas em vias rodoviárias",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/17/motorista-evita-acidente-apos-onibus-perder-o-freio-na-serra-de-sao-vicente-e-e-aplaudido-por-passageiros-em-mt.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-17T17:13:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/GUdUxpOQL6sRBBr5oKKfO1bLQLE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/r/WTrNovRBqFSARsaiDs2Q/videos-g1-63-.gif"
-    },
-    {
-      "clusterId": "3d8f94c16c5389a0",
-      "slug": "7f4e523b86f54d04",
-      "titulo": "CEO do DF Group deixa prisão após concessão de habeas corpus",
-      "resumo": "Douglas Fonseca Araújo, fundador e CEO do DF Group, foi solto após a concessão de habeas corpus, conforme confirmou a advogada da defesa. Ele é investigado por suspeita de estelionato qualificado, associação criminosa e lavagem de dinheiro em um suposto esquema que teria atingido mais de 2 mil vítimas, segundo a SSP-PI.",
-      "porQueImporta": "O caso envolve supostos crimes financeiros que podem afetar um grande número de investidores",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/17/douglas-fonseca-prisao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-17T17:04:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IgZ7v1vP4AGDpeQ-VQ7CsW7LDl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/iU0FUgTSeQfAWfZ7vS5g/edicao-imagens-g1-17-.png"
-    },
-    {
-      "clusterId": "7e5afa82499c0f63",
-      "slug": "3529bd161f88c67c",
-      "titulo": "Fumaça de incêndios florestais no Canadá encobre estádio da final da Copa nos EUA",
-      "resumo": "Incêndios florestais no Canadá geraram fumaça que chegou a cobrir o estádio onde será disputada a final da Copa nos Estados Unidos. As condições de visibilidade foram afetadas, mas a partida segue programada. As autoridades monitoram a qualidade do ar e a propagação da fumaça. Não há relatos de interrupções na transmissão ou no evento até o momento.",
-      "porQueImporta": "A fumaça pode impactar a segurança e a experiência dos espectadores e atletas durante um evento esportivo de grande porte.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/07/17/resumao-diario-2066-trump-volta-a-citar-fraude-eleitoral-nas-eleicoes-de-2020-fumaca-de-incendios-pode-atrapalhar-final-da-copa-nos-eua-aluno-de-escola-de-aviacao-morre-apos-ritual-de-banho-de-oleo-no-pr-e-mais.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-17T16:58:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
-    },
-    {
-      "clusterId": "1266ea27623620bc",
-      "slug": "a5d916e3ddc809fd",
-      "titulo": "Acidente entre carro, guincho e moto deixa feridos na Rodovia Rio-Santos, em Angra dos Reis",
-      "resumo": "Um acidente entre um carro, um guincho e uma moto deixou feridos na manhã desta sexta-feira (17) na Rodovia Rio-Santos, em Angra dos Reis (RJ). O caos aconteceu na altura do km 491, na pista sentido Rio de Janeiro, por volta de 7h33. Segundo a CCR RioSP, concessionária que administra o trecho, o motociclista realizou uma curva no trecho quando viu o guincho da concessionária, que estava parado na faixa de rolamento para a retirada de um galho de árvore. Ele não conseguiu frear e bateu na traseira do veículo. A vítima perdeu o controle da direção, caiu no chão e atingiu um carro. Ainda de…",
+      "clusterId": "68247747be51a5c3",
+      "slug": "70b63d1b1bc33feb",
+      "titulo": "Inmet emite alerta de vendaval para 199 cidades baianas; previsão aponta para fim de semana de chuva e ventos fortes",
+      "resumo": "Chuva em Salvador Arquivo Pessoal O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta de vendaval que engloba 199 das 417 cidades baianas, com validade até a o final da noite de sábado (18). (Veja lista abaixo) Entre os município afetados, estão Salvador, Feira de Santana, Itaparica, Vera Cruz e Lauro de Freitas. Durante esse período, estão previstas rajadas de vento com velocidades que podem chegar a 60 km/h. Na capital baiana, por exemplo, a possibilidade de chuvas durante o fim de semana é de 60%, com temperatura mínima de até 20°C. 📲 Clique aqui e entre no grupo do WhatsApp do…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/17/acidentes-na-rodovia-rio-santos-em-angra-dos-reis.ghtml"
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/17/inmet-emite-alerta.ghtml"
         }
       ],
-      "updatedAt": "2026-07-17T16:49:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/sP1WmVO-zi1_1tQcxKhmWKPR7mg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/w/BeYuJ3TdGxucmjFqPryw/image-2026-07-17t134628.761-1-.png"
+      "updatedAt": "2026-07-17T21:12:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/osRVOGPvF2DrFB3bsaR1r2LpEXA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/x/82J7AmQR2jUZ8wRuMyGg/whatsapp-image-2025-11-20-at-16.45.05.jpg"
     },
     {
-      "clusterId": "6e8c422616eb71c0",
-      "slug": "b230c39818d6b57c",
-      "titulo": "Moradores da Guatemala fogem de casa após terremoto e alerta de tsunami",
-      "resumo": "Um terremoto foi sentido na Guatemala, seguido de um alerta de tsunami emitido pelas autoridades. Imagens mostraram funcionários deixando um prédio governamental enquanto protocolos de segurança eram ativados. Moradores deixaram suas residências em resposta ao risco potencial. As autoridades monitoram a situação para avaliar possíveis impactos.",
-      "porQueImporta": "A população está em risco de desabamentos e ondas marítimas, exigindo evacuação e monitoramento contínuo",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/apos-terremoto-e-alerta-de-tsunami-moradores-da-guatemala-fogem-de-casa/"
-        }
-      ],
-      "updatedAt": "2026-07-17T16:43:47.000Z"
-    },
-    {
-      "clusterId": "e05fa66dce8d7098",
-      "slug": "e8ff05281d00a83d",
-      "titulo": "Ônibus da UFU colide com carro que avançou sinal vermelho em Uberlândia",
-      "resumo": "Na manhã de sexta‑feira, um ônibus da Universidade Federal de Uberlândia que transportava 20 estudantes atingiu a lateral de um carro no cruzamento da avenida Cesário Alvim com a rua Antônio Crescêncio, no bairro Aparecida, em Uberlândia. O carro avançou o sinal vermelho, segundo a Divisão de Transportes da universidade. O impacto ocorreu por volta das 7h e nenhum dos estudantes a bordo do ônibus sofreu ferimentos.",
-      "porQueImporta": "O acidente evidencia a importância do respeito ao semáforo para evitar colisões em vias urbanas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/17/video-carro-avanca-sinal-vermelho-e-e-atingido-por-onibus-da-ufu-com-20-estudantes-em-uberlandia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-17T16:42:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/HLhkVEcPi5cmGEZS321xz8Mn4vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/K/AkJMYfSAWVnkqNee6yug/design-sem-nome-2026-07-17t134452.099.jpg"
-    },
-    {
-      "clusterId": "f7c7d398ecb64f03",
-      "slug": "9e27f5d2d4cfd68e",
-      "titulo": "Pai e filho morrem em acidente de trânsito na TO-355",
-      "resumo": "Dois veículos colidiram na madrugada de sexta-feira na TO-355, entre Colinas de Palmeirante, resultando na morte de André Pereira da Silva, 26, e João Pereira da Silva Filho, 57. A colisão envolveu um carro de passeio, uma ambulância municipal, um caminhão e uma motocicleta, deixando duas pessoas gravemente feridas. A ocorrência foi registrada pela Polícia Militar a cerca de 50 km de Colinas.",
-      "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias estaduais e a necessidade de medidas de segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/17/pai-e-filho-morrem-apos-dois-acidentes-em-sequencia-no-to.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-17T16:13:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Gzc4WGc-sIgruaSY6B2sgp3eLtU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/5/eqJhOJQx2ljbaCFW3QIA/399905-1-.jpg"
-    },
-    {
-      "clusterId": "1598d440f0d78689",
-      "slug": "ca24acb822938bca",
-      "titulo": "Desabamento de laje de gráfica em reforma deixa feridos no Recife; bombeiros resgatam vítimas",
-      "resumo": "Desabamento de gráfica em reforma no Centro do Recife deixa feridos Quatro pessoas ficaram feridas após a laje de uma gráfica em reforma desabar no bairro da Boa Vista, no Centro do Recife, na manhã desta sexta-feira (17). O desabamento aconteceu na Carimbart, na Rua da Saudade, próximo ao Parque Treze de Maio, e o resgate das vítimas foi feito pelo Corpo de Bombeiros (veja vídeo acima). O Serviço de Atendimento Móvel de Urgência (Samu) enviou três viaturas ao local do acidente com equipes de socorristas para atender os feridos. Não há informações sobre o estado de saúde das vítimas nem para…",
+      "clusterId": "7e18ff698974f4d6",
+      "slug": "e93f555dfc99e2d7",
+      "titulo": "Filha é indiciada pela polícia por morte da mãe em incêndio tratado inicialmente como acidental em MG",
+      "resumo": "Incêndio em residência deixa uma pessoa morta no centro de Boa Esperança, MG O incêndio que resultou na morte de uma idosa no Centro de Boa Esperança (MG) no dia 12 de maio, inicialmente tratado como uma fatalidade acidental, foi concluído pela Polícia Civil como um caso de homicídio qualificado. O inquérito foi encaminhado ao Judiciário e aponta a própria filha da vítima, de 42 anos, como autora do crime. 📲 Siga o g1 Sul de Minas no Instagram De acordo com o delegado responsável pelas investigações, Alexandre Boaventura, a reviravolta ocorreu após laudos periciais e análises técnicas…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/17/desabamento-deixa-feridos-no-recife-bombeiros-resgatam-vitimas-dos-escombros.ghtml"
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/17/filha-e-indiciada-pela-policia-por-morte-da-mae-em-incendio-tratado-inicialmente-como-acidental-em-mg.ghtml"
         }
       ],
-      "updatedAt": "2026-07-17T15:15:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/dtDT2R52-fM3vpfzuhu3-QnsrvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/b/2HiXRYRBGFdTLXMATwVQ/desabamento-1-.jpeg"
+      "updatedAt": "2026-07-17T21:04:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/acWq7Azw47EMWBbFGWQBZjyP07Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/4/3gmYKhSIC3vpFJsFvt5g/incendio-3.png"
+    },
+    {
+      "clusterId": "69ca3ca826b7605c",
+      "slug": "5ce9cc8f86118382",
+      "titulo": "Filme 'A Odisseia' de Christopher Nolan estreia no Cine Araújo em Rio Branco",
+      "resumo": "O filme \"A Odisseia\", nova produção do diretor Christopher Nolan, foi exibido pela primeira vez no Cine Araújo, localizado no Via Verde Shopping, em Rio Branco, nesta quinta-feira. A sessão contou com a presença de atores como Anne Hathaway, que interpreta Penélope. A estreia ocorreu ao lado de outras atrações em cartaz, como \"Toy Story 5\" e \"Minions & Monstros\".",
+      "porQueImporta": "A estreia amplia a oferta cultural e de entretenimento na região norte do Acre",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/07/17/filme-a-odisseia-de-christopher-nolan-estreia-no-cinema-de-rio-branco.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-17T20:54:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HxB110k4basIIh-qsjGxjyWccBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/T/PERB75QXW4Lk1LUphWkA/odisseia-matt-damon-zendaya.jpg"
+    },
+    {
+      "clusterId": "9555206542e87284",
+      "slug": "09595da001e7b0c0",
+      "titulo": "Defesa Civil alerta para veranico no Vale do Paraíba com temperaturas até 30°C",
+      "resumo": "A Defesa Civil do Estado de São Paulo emitiu alerta de veranico entre 18 e 24 de junho, com temperaturas acima da média e baixa umidade em grande parte do estado, inclusive no Vale do Paraíba. O fenômeno deve gerar tardes mais quentes e tempo seco devido ao bloqueio atmosférico que predominará no período.",
+      "porQueImporta": "O alerta indica risco de desconforto térmico e possíveis impactos na saúde da população",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/17/defesa-civil-alerta-para-veranico-no-vale-do-paraiba-temperaturas-podem-chegar-a-30c.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-17T20:46:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/dBwAN8qMGSmek3rfMZrxG9mQxb4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Z/Ks3tYjRtG5ZYlempzKNw/foto-g1-22-.png"
+    },
+    {
+      "clusterId": "73e983f65466f667",
+      "slug": "86569b24a0602263",
+      "titulo": "Carro capota em canal na zona sul do Recife",
+      "resumo": "Um motorista perdeu o controle da direção e o veículo tombou dentro de um canal na Avenida Fernando Simões Barbosa, em Boa Viagem, na zona sul do Recife, na tarde de sexta‑feira. O carro, do tipo picape, ficou capotado e foi removido por um guincho. Não houve feridos. As imagens mostram o carro no canal e pessoas observando a cena.",
+      "porQueImporta": "O incidente demonstra riscos de acidentes de trânsito em áreas urbanas próximas a corpos d'água",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/17/carro-cai-e-capota-dentro-de-canal-no-recife-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-17T20:40:20.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/H82oMMKSeMfUSPuj42sJSgV-ND8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/2/9FuXHzR8yQ0ReBv4RNsQ/capa-agenda-g1-2026-07-17t162131.026.jpg"
+    },
+    {
+      "clusterId": "6a36bbd4bfdf1b20",
+      "slug": "6324a4efcda558cd",
+      "titulo": "Eunápolis decreta estado de emergência após vendaval",
+      "resumo": "Um vendaval atingiu Eunápolis e municípios vizinhos entre a noite de 13 e a madrugada de 14, provocando destelhamentos, queda de árvores e risco de desabamento em imóveis. A prefeitura declarou estado de emergência para enfrentar os danos estruturais. A medida foi publicada no Diário Oficial em 16 de julho e divulgada na sexta‑feira seguinte.",
+      "porQueImporta": "A situação demanda ação imediata das autoridades e mobiliza recursos para proteger a população e a infraestrutura local",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/17/eunapolis-decreta-situacao-de-emergencia-apos-vendaval.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-17T20:39:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ZveGVwaf94DxmWIjQ9k5xebjYeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/DF1jKhT42JJ1VSGoKExA/vendaval-eunapolis.jpg"
+    },
+    {
+      "clusterId": "16a5072526af9f71",
+      "slug": "e29e9a766757ec39",
+      "titulo": "Caminhão de lixo tombou em Piracicaba e deixou duas pessoas feridas",
+      "resumo": "Um caminhão de lixo capotou na Estrada Municipal Dr. Luiz Dias Gonzaga, no bairro Pau Queimado, em Piracicaba (SP), por volta das 14h desta sexta-feira. Duas pessoas, entre elas o motorista, foram socorridas e encaminhadas a unidades de saúde. Até a última atualização, a identidade e o estado de saúde dos feridos não haviam sido divulgados.",
+      "porQueImporta": "O acidente evidencia riscos nas vias urbanas e a necessidade de atenção ao transporte de resíduos.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/17/caminhao-de-lixo-tomba-e-deixa-duas-pessoas-feridas-em-piracicaba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-17T20:26:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DsSR7kNyY6Wyw9WxU3nYEy7E1Bw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/tKAZBfTBeT46abWzAIMA/whatsapp-image-2026-07-17-at-17.02.06.jpeg"
+    },
+    {
+      "clusterId": "05c43dc5c6fc1a1f",
+      "slug": "d9475afe8de7a135",
+      "titulo": "Pai e filho morrem em acidente na TO-335 após queda de moto e colisão de caminhão com ambulância",
+      "resumo": "Na madrugada de sexta‑feira, André Pereira da Silva, 26, perdeu o controle da moto em uma curva da TO-335 e caiu. Durante o resgate, um caminhão colidiu com a ambulância que transportava as vítimas, resultando nas mortes do filho e do pai, João Pereira da Silva Filho, 57, e ferindo três outras pessoas.",
+      "porQueImporta": "O acidente evidencia riscos de resgate em vias rurais e a necessidade de melhorias na segurança viária.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/17/entenda-acidente-que-matou-pai-e-filho-apos-queda-de-moto-e-batida-de-caminhao-em-ambulancia-durante-resgate-na-to-335.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-17T20:24:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rvi8JJxmgJSq3QdLGZIz2JuscFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Q/0RbA23SpibXIRLacqIfQ/foto-e-montagem-vertical-18-.png"
     }
   ],
   "categorias": [
@@ -190,7 +187,160 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "4277345e2a906bdd",
+          "clusterId": "68247747be51a5c3",
+          "slug": "70b63d1b1bc33feb",
+          "titulo": "Inmet emite alerta de vendaval para 199 cidades baianas; previsão aponta para fim de semana de chuva e ventos fortes",
+          "resumo": "Chuva em Salvador Arquivo Pessoal O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta de vendaval que engloba 199 das 417 cidades baianas, com validade até a o final da noite de sábado (18). (Veja lista abaixo) Entre os município afetados, estão Salvador, Feira de Santana, Itaparica, Vera Cruz e Lauro de Freitas. Durante esse período, estão previstas rajadas de vento com velocidades que podem chegar a 60 km/h. Na capital baiana, por exemplo, a possibilidade de chuvas durante o fim de semana é de 60%, com temperatura mínima de até 20°C. 📲 Clique aqui e entre no grupo do WhatsApp do…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/17/inmet-emite-alerta.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T21:12:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/osRVOGPvF2DrFB3bsaR1r2LpEXA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/x/82J7AmQR2jUZ8wRuMyGg/whatsapp-image-2025-11-20-at-16.45.05.jpg"
+        },
+        {
+          "clusterId": "7e18ff698974f4d6",
+          "slug": "e93f555dfc99e2d7",
+          "titulo": "Filha é indiciada pela polícia por morte da mãe em incêndio tratado inicialmente como acidental em MG",
+          "resumo": "Incêndio em residência deixa uma pessoa morta no centro de Boa Esperança, MG O incêndio que resultou na morte de uma idosa no Centro de Boa Esperança (MG) no dia 12 de maio, inicialmente tratado como uma fatalidade acidental, foi concluído pela Polícia Civil como um caso de homicídio qualificado. O inquérito foi encaminhado ao Judiciário e aponta a própria filha da vítima, de 42 anos, como autora do crime. 📲 Siga o g1 Sul de Minas no Instagram De acordo com o delegado responsável pelas investigações, Alexandre Boaventura, a reviravolta ocorreu após laudos periciais e análises técnicas…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/17/filha-e-indiciada-pela-policia-por-morte-da-mae-em-incendio-tratado-inicialmente-como-acidental-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T21:04:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/acWq7Azw47EMWBbFGWQBZjyP07Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/4/3gmYKhSIC3vpFJsFvt5g/incendio-3.png"
+        },
+        {
+          "clusterId": "69ca3ca826b7605c",
+          "slug": "5ce9cc8f86118382",
+          "titulo": "Filme 'A Odisseia' de Christopher Nolan estreia no Cine Araújo em Rio Branco",
+          "resumo": "O filme \"A Odisseia\", nova produção do diretor Christopher Nolan, foi exibido pela primeira vez no Cine Araújo, localizado no Via Verde Shopping, em Rio Branco, nesta quinta-feira. A sessão contou com a presença de atores como Anne Hathaway, que interpreta Penélope. A estreia ocorreu ao lado de outras atrações em cartaz, como \"Toy Story 5\" e \"Minions & Monstros\".",
+          "porQueImporta": "A estreia amplia a oferta cultural e de entretenimento na região norte do Acre",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/07/17/filme-a-odisseia-de-christopher-nolan-estreia-no-cinema-de-rio-branco.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T20:54:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HxB110k4basIIh-qsjGxjyWccBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/T/PERB75QXW4Lk1LUphWkA/odisseia-matt-damon-zendaya.jpg"
+        },
+        {
+          "clusterId": "222478516b0d6a2b",
+          "slug": "4247e6ccf1d4c120",
+          "titulo": "MG registra mais de 30 incêndios em vegetação por dia e Corpo de Bombeiros alerta para a estiagem",
+          "resumo": "Minas teve média de 30 incêndios por dia neste ano Mais de 6 mil incêndios em vegetação foram registrados em Minas Gerais entre janeiro e a primeira quinzena de julho deste ano. Segundo o Corpo de Bombeiros, foram 6.038 ocorrências no período, aproximadamente 31 focos por dia. Com a aproximação da estiagem mais intensa, a corporação alerta para o aumento do risco de queimadas e reforça que a maioria dos casos é provocada pela ação humana. ✅ Clique aqui para seguir o canal do g1 MG no WhatsApp Os impactos já são sentidos por moradores de Belo Horizonte. Na quarta-feira (15), um incêndio…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/17/mg-registra-mais-de-30-incendios-em-vegetacao-por-dia-e-bombeiros-acende-alerta-para-a-estiagem.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T20:20:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dP3LQBBL_HuYvQnGGH1J27g0Bcw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/b/ak5rJ5QaiMTlZuaZbptw/0-01-1707mg01-vt-temporada-incendios.png"
+        },
+        {
+          "clusterId": "365eecf960b695da",
+          "slug": "d88ff7b2764edd44",
+          "titulo": "Governador interino do Rio exige auditoria nos contratos da Defesa Civil para manter secretário",
+          "resumo": "O governador interino Ricardo Couto condicionou a permanência do coronel Tarciso Salles no cargo de secretário da Defesa Civil à realização de auditoria externa independente nos contratos da pasta. A exigência foi comunicada em reunião convocada para a terça‑feira (14) no Tribunal de Justiça do Rio.",
+          "porQueImporta": "A decisão pode impactar a gestão de recursos e a transparência na Defesa Civil do estado",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/07/17/governador-interino-exige-auditoria-em-todos-os-contratos-da-defesa-civil-para-manter-coronel-bombeiro-no-cargo-de-secretario-da-pasta.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T20:08:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CpeLM4DDlWmBbPXHZwvOJ0ZXJ4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/B/WkA3RIRbymkfeuqdIZ1A/whatsapp-image-2024-09-02-at-18.19.43.jpeg"
+        },
+        {
+          "clusterId": "32032566abc44372",
+          "slug": "8fef940204a44b7d",
+          "titulo": "Vídeo de semáforos derretidos na Europa é rotulado como fake",
+          "resumo": "Um vídeo publicado em 28 de junho no Instagram mostra semáforos com partes plásticas derretidas. As legendas que o acompanham alegam que o derretimento ocorreu devido a uma onda de calor que teria levado temperaturas entre 40 °C e 45 °C na Europa. As informações foram verificadas como falsas. Não há evidência de que o calor tenha causado o dano aos semáforos.",
+          "porQueImporta": "Esclarece a desinformação sobre supostos impactos de condições climáticas extremas em infraestruturas públicas",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/07/17/e-fake-que-semaforos-derreteram-por-causa-de-onda-de-calor-na-europa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T20:08:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Z9MujUCOQxTaPbwdVIEmpxH175U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/h/AzBBjWSrGxhBIvB2kxDw/2026-06-01t160603z-2-lwd481207012026rp2-rtrwnev-c-4812-climate-change-heat-drought-timeline-2026.00-09-46-06.quadro003.jpg"
+        },
+        {
+          "clusterId": "377ad8bd6dd4f102",
+          "slug": "9bb3b1104343ed00",
+          "titulo": "Duas pessoas morrem em acidente com carro de polícia, caminhão de lixo e outros dois veículos em MT",
+          "resumo": "Colisão seguida de incêndio deixa dois mortos e dois feridos na BR-174 Um acidente envolvendo quatro veículos deixou duas pessoas mortas e duas feridas nesta , no km 400 da BR-174, em Nova Lacerda (MT), nesta sexta-feira (17). A colisão também envolveu uma viatura da Polícia Militar e provocou a interdição total da rodovia. As vítimas fatais e os feridos ainda não tiveram as identidades divulgadas. De acordo com a Polícia Rodoviária Federal (PRF), a viatura da Polícia Militar estava entre os veículos envolvidos na batida. Segundo a PM, os policiais que ocupavam o veículo não sofreram…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/17/quatro-veiculos-se-envolvem-em-acidente-e-deixam-duas-pessoas-mortas-em-nova-lacerda.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T19:47:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yGGFyWfEwqe5obwpRq6ThaMzZUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/R/v4GAe8SyWCjj5ZGPGjTw/videos-g1-34-.jpg"
+        },
+        {
+          "clusterId": "b8b3ae5d260d768f",
+          "slug": "d860f9327d2c4b38",
+          "titulo": "Motociclista morre em batida com caminhão em rodovia de São Roque",
+          "resumo": "Um motociclista morreu após uma batida lateral com um caminhão na tarde desta sexta-feira, na Rodovia Prefeito Livio Tagliassachi (SPA-053/280), em São Roque (SP). De acordo com a concessionária Motiva Sorocabana, o acidente ocorreu por volta das 14h50, na altura do quilômetro 6, no sentido norte (direção ao interior). Equipes de resgate foram acionadas, mas o motociclista não resistiu aos ferimentos e morreu no local. O motorista do caminhão não se feriu. 📲 Participe do canal do g1 Sorocaba e Jundiaí no WhatsApp Agora no g1 Para o atendimento da ocorrência e o trabalho da perícia, o retorno…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/17/motociclista-morre-em-batida-com-caminhao-em-rodovia-de-sao-roque.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T19:46:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SZZhMgJeT9__2234TSB01QDyj7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/X/hpp06QRiOzbZSgMvHngQ/acidente-sr.jpg"
+        },
+        {
+          "clusterId": "84ed9ae9a25abd2d",
+          "slug": "f3743ecdc20d8965",
+          "titulo": "VÍDEO: carro atropela, passa por cima e mata motoboy em Cachoeiro",
+          "resumo": "Motociclista morre após carro atropelar e passar por cima do veículo Um motociclista de 26 anos morreu após um carro atropelar e passar por cima da moto no Centro de Cachoeiro de Itapemirim, no Sul do Espírito Santo, na manhã desta sexta-feira (17). Imagens de câmeras de segurança (veja acima) mostram o momento em que o carro segue na direção de duas motos e as arrasta por alguns metros. Uma das motos vai parar embaixo do carro, enquanto a outra o motociclista ficou na lateral do veículo. No vídeo é possível ver que carro parou em cima de uma rotatória, e segundos após a colisão, várias…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/07/17/video-carro-atropela-passa-por-cima-e-mata-motociclista-em-cachoeiro.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T19:36:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VTZX9n-wnErFpFq8iALisCTbxuI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/D/l0W4QyTHSmaLeqjM4p1Q/atropelamento-cachoeiro-2.png"
+        },
+        {
+          "clusterId": "06481b1ce7026702",
           "slug": "1ccc37bc43b5d57d",
           "titulo": "Mortes em Paris mais que dobram em junho durante onda de calor extremo",
           "resumo": "A agência sanitária da região de Île-de-France registrou mais de 3 mil óbitos entre 22 e 28 de junho, representando um aumento de 1.565 mortes em relação ao mesmo período do ano passado. O aumento corresponde a mais que o dobro de mortes registradas em junho anterior, segundo relatório divulgado na sexta‑feira. A onda de calor tem afetado a Europa nas últimas semanas, contribuindo para um acréscimo de cerca de 10 mil mortes no continente durante o pico da temperatura.",
@@ -201,65 +351,101 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/07/17/mortes-em-paris-mais-que-dobram-em-junho-por-conta-do-calor-extremo-diz-governo-local.ghtml"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/mortes-em-paris-mais-que-dobram-em-junho-durante-onda-de-calor-extremo/"
             }
           ],
-          "updatedAt": "2026-07-17T16:54:28.000Z",
+          "updatedAt": "2026-07-17T14:03:43.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/xMZSrAarWxeprX3HYSUG4upWCbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/YIjwRlSbOpxVcWBkyw6w/2026-06-23t162403z-24911831-rc2szla8x0x6-rtrmadp-3-europe-weather-france.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
         {
-          "clusterId": "3d8f94c16c5389a0",
-          "slug": "7f4e523b86f54d04",
-          "titulo": "CEO do DF Group deixa prisão após concessão de habeas corpus",
-          "resumo": "Douglas Fonseca Araújo, fundador e CEO do DF Group, foi solto após a concessão de habeas corpus, conforme confirmou a advogada da defesa. Ele é investigado por suspeita de estelionato qualificado, associação criminosa e lavagem de dinheiro em um suposto esquema que teria atingido mais de 2 mil vítimas, segundo a SSP-PI.",
-          "porQueImporta": "O caso envolve supostos crimes financeiros que podem afetar um grande número de investidores",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "73e983f65466f667",
+          "slug": "86569b24a0602263",
+          "titulo": "Carro capota em canal na zona sul do Recife",
+          "resumo": "Um motorista perdeu o controle da direção e o veículo tombou dentro de um canal na Avenida Fernando Simões Barbosa, em Boa Viagem, na zona sul do Recife, na tarde de sexta‑feira. O carro, do tipo picape, ficou capotado e foi removido por um guincho. Não houve feridos. As imagens mostram o carro no canal e pessoas observando a cena.",
+          "porQueImporta": "O incidente demonstra riscos de acidentes de trânsito em áreas urbanas próximas a corpos d'água",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/17/douglas-fonseca-prisao.ghtml"
+              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/17/carro-cai-e-capota-dentro-de-canal-no-recife-video.ghtml"
             }
           ],
-          "updatedAt": "2026-07-17T17:04:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/IgZ7v1vP4AGDpeQ-VQ7CsW7LDl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/iU0FUgTSeQfAWfZ7vS5g/edicao-imagens-g1-17-.png"
+          "updatedAt": "2026-07-17T20:40:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/H82oMMKSeMfUSPuj42sJSgV-ND8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/2/9FuXHzR8yQ0ReBv4RNsQ/capa-agenda-g1-2026-07-17t162131.026.jpg"
         },
         {
-          "clusterId": "1266ea27623620bc",
-          "slug": "a5d916e3ddc809fd",
-          "titulo": "Acidente entre carro, guincho e moto deixa feridos na Rodovia Rio-Santos, em Angra dos Reis",
-          "resumo": "Um acidente entre um carro, um guincho e uma moto deixou feridos na manhã desta sexta-feira (17) na Rodovia Rio-Santos, em Angra dos Reis (RJ). O caos aconteceu na altura do km 491, na pista sentido Rio de Janeiro, por volta de 7h33. Segundo a CCR RioSP, concessionária que administra o trecho, o motociclista realizou uma curva no trecho quando viu o guincho da concessionária, que estava parado na faixa de rolamento para a retirada de um galho de árvore. Ele não conseguiu frear e bateu na traseira do veículo. A vítima perdeu o controle da direção, caiu no chão e atingiu um carro. Ainda de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "16a5072526af9f71",
+          "slug": "e29e9a766757ec39",
+          "titulo": "Caminhão de lixo tombou em Piracicaba e deixou duas pessoas feridas",
+          "resumo": "Um caminhão de lixo capotou na Estrada Municipal Dr. Luiz Dias Gonzaga, no bairro Pau Queimado, em Piracicaba (SP), por volta das 14h desta sexta-feira. Duas pessoas, entre elas o motorista, foram socorridas e encaminhadas a unidades de saúde. Até a última atualização, a identidade e o estado de saúde dos feridos não haviam sido divulgados.",
+          "porQueImporta": "O acidente evidencia riscos nas vias urbanas e a necessidade de atenção ao transporte de resíduos.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/17/acidentes-na-rodovia-rio-santos-em-angra-dos-reis.ghtml"
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/17/caminhao-de-lixo-tomba-e-deixa-duas-pessoas-feridas-em-piracicaba.ghtml"
             }
           ],
-          "updatedAt": "2026-07-17T16:49:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sP1WmVO-zi1_1tQcxKhmWKPR7mg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/w/BeYuJ3TdGxucmjFqPryw/image-2026-07-17t134628.761-1-.png"
+          "updatedAt": "2026-07-17T20:26:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DsSR7kNyY6Wyw9WxU3nYEy7E1Bw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/tKAZBfTBeT46abWzAIMA/whatsapp-image-2026-07-17-at-17.02.06.jpeg"
         },
         {
-          "clusterId": "1598d440f0d78689",
-          "slug": "ca24acb822938bca",
-          "titulo": "Desabamento de laje de gráfica em reforma deixa feridos no Recife; bombeiros resgatam vítimas",
-          "resumo": "Desabamento de gráfica em reforma no Centro do Recife deixa feridos Quatro pessoas ficaram feridas após a laje de uma gráfica em reforma desabar no bairro da Boa Vista, no Centro do Recife, na manhã desta sexta-feira (17). O desabamento aconteceu na Carimbart, na Rua da Saudade, próximo ao Parque Treze de Maio, e o resgate das vítimas foi feito pelo Corpo de Bombeiros (veja vídeo acima). O Serviço de Atendimento Móvel de Urgência (Samu) enviou três viaturas ao local do acidente com equipes de socorristas para atender os feridos. Não há informações sobre o estado de saúde das vítimas nem para…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "05c43dc5c6fc1a1f",
+          "slug": "d9475afe8de7a135",
+          "titulo": "Pai e filho morrem em acidente na TO-335 após queda de moto e colisão de caminhão com ambulância",
+          "resumo": "Na madrugada de sexta‑feira, André Pereira da Silva, 26, perdeu o controle da moto em uma curva da TO-335 e caiu. Durante o resgate, um caminhão colidiu com a ambulância que transportava as vítimas, resultando nas mortes do filho e do pai, João Pereira da Silva Filho, 57, e ferindo três outras pessoas.",
+          "porQueImporta": "O acidente evidencia riscos de resgate em vias rurais e a necessidade de melhorias na segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/17/desabamento-deixa-feridos-no-recife-bombeiros-resgatam-vitimas-dos-escombros.ghtml"
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/17/entenda-acidente-que-matou-pai-e-filho-apos-queda-de-moto-e-batida-de-caminhao-em-ambulancia-durante-resgate-na-to-335.ghtml"
             }
           ],
-          "updatedAt": "2026-07-17T15:15:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dtDT2R52-fM3vpfzuhu3-QnsrvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/b/2HiXRYRBGFdTLXMATwVQ/desabamento-1-.jpeg"
+          "updatedAt": "2026-07-17T20:24:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rvi8JJxmgJSq3QdLGZIz2JuscFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Q/0RbA23SpibXIRLacqIfQ/foto-e-montagem-vertical-18-.png"
+        },
+        {
+          "clusterId": "eaf6a34dbfd68695",
+          "slug": "ca5b914793c1d130",
+          "titulo": "Motociclista de 27 anos sofre traumatismo craniano e luxação na perna após colisão com carro em Boa Vista",
+          "resumo": "Na sexta‑feira, um motociclista de 27 anos colidiu com um carro no cruzamento das ruas Tertuliano Cardoso Ramos e Nivaldo da Conceição Gutierrez, no bairro Santa Luzia, zona oeste de Boa Vista. A vítima sofreu traumatismo craniano, luxação na perna direita e arranhões, sendo encaminhada ao pronto‑socorro do Hospital Geral de Roraima. A Polícia Militar informou que os veículos trafegavam no mesmo sentido quando ocorreu a colisão.",
+          "porQueImporta": "O acidente evidencia riscos de trânsito em áreas urbanas e a necessidade de atenção ao compartilhar a via entre veículos de diferentes categorias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/17/motociclista-sofre-traumatismo-craniano-apos-batida-com-carro-no-santa-luzia-em-boa-vista.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T19:57:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/LTgRPiPNah3Wg8XKopBKMvvIyzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/rqiQXjRiGgo88WQXGJmw/prontosocorro.jpg"
+        },
+        {
+          "clusterId": "1f700d9ae3ba5719",
+          "slug": "44f5550d94203720",
+          "titulo": "Tucano recupera a visão após atropelamento na BR-040 em Petrópolis",
+          "resumo": "Um tucano atropelado na BR-040, na subida da serra de Petrópolis, foi resgatado e submetido a cirurgia e tratamento veterinário em Juiz de Fora (MG). Após o procedimento, o animal recuperou a visão e está sob observação para possível reintrodução à natureza. Caso não seja viável, o ICMBio encaminhará o tucano a um santuário. A ação faz parte do programa de resgate e reabilitação de animais silvestres da equipe de Meio Ambiente da Elovias.",
+          "porQueImporta": "Mostra a importância de intervenções rápidas na fauna silvestre em áreas de tráfego rodoviário.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/17/tucano-recupera-a-visao-apos-atropelamento-na-br-040-em-petropolis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T19:51:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YXBsZI9xPXzDjc7MTPZG3YVopds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/M/27IZ6JRBq8QCiWa7m3Ag/whatsapp-image-2026-07-17-at-15.16.22.jpeg"
         }
       ]
     },
@@ -268,7 +454,28 @@
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "d60dcf123f6ace4c",
+          "clusterId": "35c4c9fd86f4d1d2",
+          "slug": "da8c6f7195c52bad",
+          "titulo": "Mortes por terremoto na Venezuela ultrapassam 5 mil",
+          "resumo": "A Venezuela confirmou que o número de mortos ultrapassa 5 mil após os tremores de 24 de junho. O balanço divulgado nesta sexta indica 5.069 óbitos e mais de 16,7 mil feridos. As autoridades ainda buscam informações sobre pessoas possivelmente soterradas nos escombros.",
+          "porQueImporta": "A alta mortalidade evidencia a gravidade do desastre e a necessidade de resposta humanitária urgente",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/numero-de-mortos-do-terremoto-na-venezuela-passa-de-5000.ghtml"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/numero-de-mortes-por-terremotos-na-venezuela-ultrapassa-5-mil"
+            }
+          ],
+          "updatedAt": "2026-07-17T21:03:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YI67KBBNHxpZvbGXNmdVA_QHpPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/722BxsRAeZWF21pH5MoA/afp-20260709-b9tc6tw-v1-midres-venezuelaearthquakeaftermath.jpg"
+        },
+        {
+          "clusterId": "fae9fcdcb3cd891f",
           "slug": "b08176af13eae19b",
           "titulo": "Terremoto de magnitude 7,3 atinge costa sul do México e gera alerta de tsunami",
           "resumo": "Um terremoto de magnitude 7,3 ocorreu na costa sul do México, próximo à fronteira com a Guatemala. O Sistema de Alerta de Tsunami dos Estados Unidos emitiu alerta para o México e a Guatemala, com risco de ondas menores em até oito países da América Latina. O tremor foi sentido também na Guatemala, El Salvador e na região de Chiapas, no México. Até o momento, não há informações de vítimas ou danos estruturais.",
@@ -281,32 +488,12 @@
               "url": "https://g1.globo.com/mundo/noticia/2026/07/17/terremoto-de-magnitude-74-atinge-o-mexico.ghtml"
             },
             {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-internacional/terremoto-de-magnitude-73-atinge-a-costa-do-mexico/"
-            },
-            {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-73-atinge-costa-do-mexico-e-gera-alerta-de-tsunami/"
+              "url": "https://www.cnnbrasil.com.br/internacional/alerta-de-ameaca-de-tsunami-para-a-costa-do-mexico-e-cancelado/"
             }
           ],
-          "updatedAt": "2026-07-17T17:28:42.000Z",
+          "updatedAt": "2026-07-17T18:35:29.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/Mg9wOYeMdaN2Olp97gkK2xzp53o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/hgXYYmTNAAM1DesTbKOQ/2026-07-17t154646z-2137965662-rc2qfma0nuhk-rtrmadp-3-el-salvador-quake.jpg"
-        },
-        {
-          "clusterId": "6e8c422616eb71c0",
-          "slug": "b230c39818d6b57c",
-          "titulo": "Moradores da Guatemala fogem de casa após terremoto e alerta de tsunami",
-          "resumo": "Um terremoto foi sentido na Guatemala, seguido de um alerta de tsunami emitido pelas autoridades. Imagens mostraram funcionários deixando um prédio governamental enquanto protocolos de segurança eram ativados. Moradores deixaram suas residências em resposta ao risco potencial. As autoridades monitoram a situação para avaliar possíveis impactos.",
-          "porQueImporta": "A população está em risco de desabamentos e ondas marítimas, exigindo evacuação e monitoramento contínuo",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/apos-terremoto-e-alerta-de-tsunami-moradores-da-guatemala-fogem-de-casa/"
-            }
-          ],
-          "updatedAt": "2026-07-17T16:43:47.000Z"
         },
         {
           "clusterId": "a3494754b9539266",
@@ -328,151 +515,43 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "0418068b867ca76f",
-          "slug": "61aec0a12079a70d",
-          "titulo": "Motorista controla ônibus que perdeu freios na Serra de São Vicente",
-          "resumo": "Um ônibus que fazia o trajeto entre Rondonópolis e Cuiabá perdeu o freio durante a descida da Serra de São Vicente nesta quarta‑feira. O motorista conseguiu manter o veículo sob controle e encostá‑lo no acostamento, evitando colisões. Nenhum passageiro ficou ferido e, após o incidente, os ocupantes agradeceram ao condutor com aplausos. A empresa responsável ainda não foi identificada.",
-          "porQueImporta": "Mostra a importância de habilidades de condução em situações de falha mecânica para prevenir vítimas em vias rodoviárias",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/17/motorista-evita-acidente-apos-onibus-perder-o-freio-na-serra-de-sao-vicente-e-e-aplaudido-por-passageiros-em-mt.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-17T17:13:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/GUdUxpOQL6sRBBr5oKKfO1bLQLE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/r/WTrNovRBqFSARsaiDs2Q/videos-g1-63-.gif"
-        },
-        {
-          "clusterId": "e05fa66dce8d7098",
-          "slug": "e8ff05281d00a83d",
-          "titulo": "Ônibus da UFU colide com carro que avançou sinal vermelho em Uberlândia",
-          "resumo": "Na manhã de sexta‑feira, um ônibus da Universidade Federal de Uberlândia que transportava 20 estudantes atingiu a lateral de um carro no cruzamento da avenida Cesário Alvim com a rua Antônio Crescêncio, no bairro Aparecida, em Uberlândia. O carro avançou o sinal vermelho, segundo a Divisão de Transportes da universidade. O impacto ocorreu por volta das 7h e nenhum dos estudantes a bordo do ônibus sofreu ferimentos.",
-          "porQueImporta": "O acidente evidencia a importância do respeito ao semáforo para evitar colisões em vias urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/17/video-carro-avanca-sinal-vermelho-e-e-atingido-por-onibus-da-ufu-com-20-estudantes-em-uberlandia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-17T16:42:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/HLhkVEcPi5cmGEZS321xz8Mn4vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/K/AkJMYfSAWVnkqNee6yug/design-sem-nome-2026-07-17t134452.099.jpg"
-        },
-        {
-          "clusterId": "f7c7d398ecb64f03",
-          "slug": "9e27f5d2d4cfd68e",
-          "titulo": "Pai e filho morrem em acidente de trânsito na TO-355",
-          "resumo": "Dois veículos colidiram na madrugada de sexta-feira na TO-355, entre Colinas de Palmeirante, resultando na morte de André Pereira da Silva, 26, e João Pereira da Silva Filho, 57. A colisão envolveu um carro de passeio, uma ambulância municipal, um caminhão e uma motocicleta, deixando duas pessoas gravemente feridas. A ocorrência foi registrada pela Polícia Militar a cerca de 50 km de Colinas.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias estaduais e a necessidade de medidas de segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/17/pai-e-filho-morrem-apos-dois-acidentes-em-sequencia-no-to.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-17T16:13:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Gzc4WGc-sIgruaSY6B2sgp3eLtU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/5/eqJhOJQx2ljbaCFW3QIA/399905-1-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "7e5afa82499c0f63",
-          "slug": "3529bd161f88c67c",
-          "titulo": "Fumaça de incêndios florestais no Canadá encobre estádio da final da Copa nos EUA",
-          "resumo": "Incêndios florestais no Canadá geraram fumaça que chegou a cobrir o estádio onde será disputada a final da Copa nos Estados Unidos. As condições de visibilidade foram afetadas, mas a partida segue programada. As autoridades monitoram a qualidade do ar e a propagação da fumaça. Não há relatos de interrupções na transmissão ou no evento até o momento.",
-          "porQueImporta": "A fumaça pode impactar a segurança e a experiência dos espectadores e atletas durante um evento esportivo de grande porte.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/07/17/resumao-diario-2066-trump-volta-a-citar-fraude-eleitoral-nas-eleicoes-de-2020-fumaca-de-incendios-pode-atrapalhar-final-da-copa-nos-eua-aluno-de-escola-de-aviacao-morre-apos-ritual-de-banho-de-oleo-no-pr-e-mais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-17T16:58:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
-        },
-        {
-          "clusterId": "77dbc3fd6658ef5f",
-          "slug": "22b43795bf6e64e1",
-          "titulo": "Trem de carga atravessa área em chamas durante incêndio florestal em Ontário",
-          "resumo": "Um trem de carga circulou por uma região afetada por incêndio florestal próximo a Armstrong, na província de Ontário, enquanto as chamas avançavam ao redor da ferrovia. A equipe a bordo registrou o episódio e solicitou resgate de emergência, mas nenhum ferido foi reportado. O incidente ocorreu em meio a uma onda de calor que intensificou múltiplos focos de incêndio no Canadá. A fumaça dos incêndios tem impactado a qualidade do ar na região.",
-          "porQueImporta": "Mostra os riscos de operar infraestrutura de transporte em áreas vulneráveis a incêndios florestais",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/16/video-mostra-trem-atravessando-area-em-chamas-no-canada-pais-enfrenta-onda-historica-de-calor.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-16T13:30:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JhIgwrvawWVJi6AJ2GYApA0cWoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/2/i6cSBRSbmPtQOLT0D2Pw/14783744-360p-300k-h264-2ch-128k-44100-aac-1784206639-frame-at-1m43s.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "e21ef0269dcd0bf6",
-          "slug": "57d689a550ede7c3",
-          "titulo": "Piloto preso após pouso forçado de avião com cocaína em Goiás",
-          "resumo": "Henrique Donizeti Ferri, de 32 anos, foi mantido preso após a Justiça autorizar sua custódia para garantir ordem pública e evitar fuga. O piloto realizou um pouso forçado em área rural de Itarumã, carregando aproximadamente 343 kg de cocaína, e incendiou a aeronave antes de fugir. A decisão foi tomada após audiência de custódia, e o defensor afirmou que buscará a liberdade do cliente.",
-          "porQueImporta": "O caso evidencia tráfico internacional de drogas e riscos associados a operações aéreas ilícitas",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/07/17/piloto-que-fez-pouso-forcado-de-aviao-carregado-com-cocaina-e-mantido-preso-pela-justica.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-17T15:04:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lzG2urHCJQa_2da4IoR-86HSWns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/7XqvbDRG6gI6gDp2vfjw/piloto-que-levava-cocaina-faz-pouso-forcado-e-eh-preso.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
-      "stories": [
-        {
-          "clusterId": "ffbd2a5d936fdd00",
-          "slug": "584f0e519593eed3",
-          "titulo": "Deslizamento de terra atinge prédios e veículos na China",
-          "resumo": "Um deslizamento de terra ocorreu em uma encosta na China, atingindo casas, prédios e uma estrada. O movimento de terra bloqueou o tráfego, forçando carros e motos a pararem no local. A ocorrência causou danos estruturais nas edificações afetadas. As autoridades foram acionadas para avaliar a situação e garantir a segurança da área.",
-          "porQueImporta": "O evento evidencia riscos de deslizamentos em áreas urbanas, impactando infraestrutura e mobilidade.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-deslizamento-de-terra-na-china-atinge-predios-e-carros/"
-            }
-          ],
-          "updatedAt": "2026-07-17T14:06:52.000Z"
-        }
-      ]
-    },
-    {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
+        {
+          "clusterId": "9555206542e87284",
+          "slug": "09595da001e7b0c0",
+          "titulo": "Defesa Civil alerta para veranico no Vale do Paraíba com temperaturas até 30°C",
+          "resumo": "A Defesa Civil do Estado de São Paulo emitiu alerta de veranico entre 18 e 24 de junho, com temperaturas acima da média e baixa umidade em grande parte do estado, inclusive no Vale do Paraíba. O fenômeno deve gerar tardes mais quentes e tempo seco devido ao bloqueio atmosférico que predominará no período.",
+          "porQueImporta": "O alerta indica risco de desconforto térmico e possíveis impactos na saúde da população",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/17/defesa-civil-alerta-para-veranico-no-vale-do-paraiba-temperaturas-podem-chegar-a-30c.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T20:46:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dBwAN8qMGSmek3rfMZrxG9mQxb4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Z/Ks3tYjRtG5ZYlempzKNw/foto-g1-22-.png"
+        },
+        {
+          "clusterId": "6a36bbd4bfdf1b20",
+          "slug": "6324a4efcda558cd",
+          "titulo": "Eunápolis decreta estado de emergência após vendaval",
+          "resumo": "Um vendaval atingiu Eunápolis e municípios vizinhos entre a noite de 13 e a madrugada de 14, provocando destelhamentos, queda de árvores e risco de desabamento em imóveis. A prefeitura declarou estado de emergência para enfrentar os danos estruturais. A medida foi publicada no Diário Oficial em 16 de julho e divulgada na sexta‑feira seguinte.",
+          "porQueImporta": "A situação demanda ação imediata das autoridades e mobiliza recursos para proteger a população e a infraestrutura local",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/17/eunapolis-decreta-situacao-de-emergencia-apos-vendaval.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T20:39:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ZveGVwaf94DxmWIjQ9k5xebjYeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/DF1jKhT42JJ1VSGoKExA/vendaval-eunapolis.jpg"
+        },
         {
           "clusterId": "7b812b25092204f6",
           "slug": "48e7500744509425",
@@ -489,6 +568,29 @@
           ],
           "updatedAt": "2026-07-17T05:04:06.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/DtSAZcu3DGvcABZ3LZXH_lja9lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/M/xFnNjUQvWtiGdBOc4nfw/ezgif.com-gif-maker-2-.gif"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "77dbc3fd6658ef5f",
+          "slug": "22b43795bf6e64e1",
+          "titulo": "Trem de carga atravessa área em chamas durante incêndio florestal em Ontário",
+          "resumo": "Um trem de carga circulou por uma região afetada por incêndio florestal próximo a Armstrong, na província de Ontário, enquanto as chamas avançavam ao redor da ferrovia. A equipe a bordo registrou o episódio e solicitou resgate de emergência, mas nenhum ferido foi reportado. O incidente ocorreu em meio a uma onda de calor que intensificou múltiplos focos de incêndio no Canadá. A fumaça dos incêndios tem impactado a qualidade do ar na região.",
+          "porQueImporta": "Mostra os riscos de operar infraestrutura de transporte em áreas vulneráveis a incêndios florestais",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/16/video-mostra-trem-atravessando-area-em-chamas-no-canada-pais-enfrenta-onda-historica-de-calor.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-16T13:30:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JhIgwrvawWVJi6AJ2GYApA0cWoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/2/i6cSBRSbmPtQOLT0D2Pw/14783744-360p-300k-h264-2ch-128k-44100-aac-1784206639-frame-at-1m43s.jpg"
         }
       ]
     },
@@ -535,29 +637,6 @@
           ],
           "updatedAt": "2026-07-16T05:11:02.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/wMot7pSGaI_vk8UZfk8Bjv6XxJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/c/c/8QCMMtRgS9SHOlFcXCMw/000-rz6av.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
-        {
-          "clusterId": "920e63d60bb13500",
-          "slug": "c75ca68f3d142c8a",
-          "titulo": "Criança de 4 anos atira e mata primo de 2 anos em carro na Flórida",
-          "resumo": "Um menino de 4 anos disparou uma arma enquanto estava sozinho com seu primo de 2 anos dentro de um carro em Kissimmee, Flórida. A vítima, identificada como Brayden Tennyson, foi levada ao hospital, mas foi declarada morta ao chegar ao local. O incidente ocorreu no domingo, segundo o xerife Chris Blackmon, do distrito de Osceola.",
-          "porQueImporta": "O caso destaca riscos de acesso a armas de fogo por menores e a necessidade de supervisão adequada.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/15/crianca-de-4-anos-mata-primo-de-2-com-arma-de-fogo-na-florida.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-15T20:35:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ptdprn_viPP5aIOjdzA-mk0amNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/r/I4ILsMRsuOrd9At7Hc2Q/images-8-1-.jpg"
         }
       ]
     }
