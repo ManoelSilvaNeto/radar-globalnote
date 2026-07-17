@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-07-16T17:47:47.043Z",
-  "editionDate": "2026-07-16",
-  "hourUtc": 17,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito lideram registros enquanto incidentes aéreos e industriais aumentam a carga de emergências\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-07-17T03:48:41.410Z",
+  "editionDate": "2026-07-17",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
