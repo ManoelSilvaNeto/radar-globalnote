@@ -1,30 +1,151 @@
 {
   "date": "2026-07-18",
-  "generatedAt": "2026-07-18T17:32:29.477Z",
+  "generatedAt": "2026-07-18T21:26:23.286Z",
   "home": [
     {
-      "clusterId": "2b88584519d8bd16",
-      "slug": "53269e5f28f00dfe",
-      "titulo": "Avião de pequeno porte cai em área rural de Palmas e deixa duas vítimas fatais",
-      "resumo": "Um avião que decolou de um aeródromo em Palmas, Tocantins, caiu em uma região de chácaras na manhã de sábado. As vítimas fatais foram o médico Ederson da Silva e sua esposa Roseli Amarilda Pechulo Silva, residentes de Redenção, Pará. O piloto sobreviveu e foi encaminhado ao hospital. A ocorrência foi confirmada pelas autoridades locais.",
-      "porQueImporta": "O acidente evidencia riscos de voos de pequeno porte e gera preocupação nas comunidades locais",
+      "clusterId": "2ba69465d68ded3b",
+      "slug": "d2796b4aed91e38b",
+      "titulo": "Queda de avião deixa duas vítimas mortas em zona rural de Palmas",
+      "resumo": "Um avião que partia de Palmas em direção a Redenção, no Pará, caiu em área rural da capital. O piloto sobreviveu e foi levado ao hospital. O médico Ederson da Silva e sua esposa Roseli Amarilda Pechulo Silva morreram no acidente.",
+      "porQueImporta": "O acidente evidencia riscos de transporte aéreo em regiões remotas do Pará",
       "categoria": "Acidente aéreo",
       "categoriaSlug": "acidente-aereo",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/18/quem-sao-os-mortos-em-queda-de-aviao-em-palmas.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/medico-e-esposa-morrem-apos-queda-de-aviao-em-area-rural-de-palmas"
         },
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/aviao-cai-em-area-rural-e-deixa-2-mortos-em-palmas-no-tocantins"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/queda-de-aviao-deixa-2-mortos-na-zona-rural-de-palmas/"
         }
       ],
-      "updatedAt": "2026-07-18T16:28:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/t3IXIJSM1YlIvYu9ELhnXdSzneU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/G/WExQ40QKGTjEHvVjtpfA/casal-morte.png"
+      "updatedAt": "2026-07-18T20:35:48.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/casal-vitimas-queda-aviao-palmas.jpg"
     },
     {
-      "clusterId": "81819a89baf646ef",
+      "clusterId": "48a99169b39f7f9f",
+      "slug": "da8c6f7195c52bad",
+      "titulo": "FMI libera cerca de R$ 1,7 bilhão para reconstrução na Venezuela após terremotos de junho",
+      "resumo": "Três semanas após os terremotos de 24 de junho, o Fundo Monetário Internacional disponibilizou aproximadamente R$ 1,7 bilhão, equivalentes a US$ 346 milhões, para apoiar a reconstrução de moradias, infraestrutura e serviços públicos. As autoridades confirmaram que o número de mortos ultrapassa 5 mil, com estimativas de 5.069 vítimas fatais. O recurso provém dos fundos retidos pelo próprio FMI e será usado nas áreas mais afetadas.",
+      "porQueImporta": "O apoio financeiro é crucial para atender às necessidades imediatas das famílias e iniciar a recuperação de uma região gravemente atingida por desastres naturais",
+      "categoria": "Desastre natural",
+      "categoriaSlug": "desastre-natural",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/17/numero-de-mortos-do-terremoto-na-venezuela-passa-de-5000.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/fmi-libera-r-17-bi-a-venezuela-para-reconstrucao-do-pais/"
+        }
+      ],
+      "updatedAt": "2026-07-18T20:01:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YI67KBBNHxpZvbGXNmdVA_QHpPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/722BxsRAeZWF21pH5MoA/afp-20260709-b9tc6tw-v1-midres-venezuelaearthquakeaftermath.jpg"
+    },
+    {
+      "clusterId": "47d44ce59c7cdab8",
+      "slug": "95da578357694725",
+      "titulo": "Mais de 8 mil consumidores ficam sem energia por soltura de pipas no Leste de Minas Gerais",
+      "resumo": "Em 2026, cerca de 8.500 consumidores tiveram interrupções no fornecimento de energia elétrica devido à soltura de pipas nas áreas de Governador Valadares e Ipatinga, segundo dados da Cemig. Em Governador Valadares, 372 clientes foram afetados em cinco ocorrências, enquanto em Ipatinga, 673 clientes ficaram sem energia em duas ocorrências. A prática pode gerar acidentes graves, conforme alertado por especialista da área.",
+      "porQueImporta": "A interrupção afeta o cotidiano de milhares de pessoas e evidencia riscos de segurança associados ao uso de pipas em redes elétricas.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/18/em-2026-8-mil-consumidores-ficaram-sem-energia-por-conta-de-pipas-no-leste-de-mg.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-18T21:10:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/kqJ05_j0ryf8GBWcHp5bzeCR_Oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/B/a3RkfaR4qR1Fj0bu99Yw/pipa-na-rede.jfif"
+    },
+    {
+      "clusterId": "cd029480069ec15d",
+      "slug": "5c1ccd42d65ddc63",
+      "titulo": "Homem de 52 anos é esfaqueado e tem moto incendiada em Araçatuba",
+      "resumo": "Na madrugada de sábado (18), um homem de 52 anos foi encontrado com múltiplas facadas no bairro Jardim Nova Iorque, em Araçatuba (SP). Próximo ao corpo, a motocicleta estava em chamas e foi totalmente destruída pelos bombeiros. A Polícia Militar atendeu à ocorrência e prestou os primeiros socorros à vítima.",
+      "porQueImporta": "O caso evidencia violência urbana e necessidade de resposta rápida das autoridades de segurança e emergência.",
+      "categoria": "Violência",
+      "categoriaSlug": "violencia",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/18/homem-e-esfaqueado-e-tem-moto-incendiada-em-aracatuba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-18T21:01:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/bbjgGsLDa9WOAa7AhXzj4lWaMOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/l/u/A74eNAQp6dlK9jU4HcjQ/central-de-policia-judiciaria.jfif"
+    },
+    {
+      "clusterId": "6a100be89d7a7ab1",
+      "slug": "3ad4cd4cb5406275",
+      "titulo": "Motorista de 62 anos morre ao colidir com caminhão estacionado em Taubaté",
+      "resumo": "Um homem de 62 anos morreu na manhã de sábado ao colidir a traseira de seu carro com um caminhão parado no acostamento, no bairro São Gonçalo, em Taubaté. A vítima foi socorrida pelos policiais militares, mas faleceu ainda no local. A Polícia Civil conduziu a investigação e acionou a perícia técnico‑científica.",
+      "porQueImporta": "O acidente evidencia riscos de trânsito em áreas de parada de veículos, demandando atenção e medidas de segurança.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/18/motorista-morre-apos-bater-carro-na-traseira-de-caminhao-estacionado-em-taubate.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-18T20:46:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ebcFy6klbZUr3zJP74VfZqf95QM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/C/KFgOjLQlKPwoNNqgdBwA/image-2-.png"
+    },
+    {
+      "clusterId": "17753e67b19617ac",
+      "slug": "ebdeb979b9381fee",
+      "titulo": "Serviço Geológico do Brasil identifica seis áreas de risco para inundações e deslizamentos em Passos (MG)",
+      "resumo": "Um levantamento do Serviço Geológico do Brasil apontou seis áreas de risco para inundações e deslizamentos no município de Passos, Minas Gerais. Nessas áreas estão localizadas 166 residências, afetando mais de 660 pessoas. O estudo visa subsidiar políticas públicas de prevenção de desastres. Um dos pontos mapeados inclui a Avenida da Moda, onde comerciantes relatam transtornos durante chuvas intensas.",
+      "porQueImporta": "A identificação das áreas vulneráveis permite a adoção de medidas preventivas para proteger a população e reduzir danos materiais.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/18/passos-tem-seis-areas-de-risco-para-inundacoes-e-deslizamentos-aponta-estudo-do-servico-geologico-do-brasil.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-18T20:43:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ogLiVQFRIXuTfgTfL2Un6MBfCik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/a/kju62bT2CgVLBYmYTIfQ/riscopassos.png"
+    },
+    {
+      "clusterId": "4537e81178352657",
+      "slug": "7e118ea665ada012",
+      "titulo": "Forças Armadas canadenses preparam resgate aéreo de cerca de 600 moradores de Fort Hope",
+      "resumo": "Incêndios têm ameaçado a comunidade indígena de Fort Hope, em Ontário, forçando autoridades a organizar operações de evacuação. As Forças Armadas do Canadá se mobilizam para realizar um resgate aéreo que deve alcançar aproximadamente 600 residentes. A iniciativa visa proteger a população diante da propagação do fogo e das condições climáticas adversas.",
+      "porQueImporta": "O resgate destaca a vulnerabilidade de comunidades remotas a desastres naturais e a necessidade de respostas emergenciais rápidas.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/canada-tenta-resgatar-moradores-de-comunidade-remota-em-meio-a-incendios/"
+        }
+      ],
+      "updatedAt": "2026-07-18T20:28:41.000Z"
+    },
+    {
+      "clusterId": "54ea15b3e0436ffd",
+      "slug": "4f899d880a054171",
+      "titulo": "Resposta da Venezuela a terremotos é adiada por atrasos e falta de equipamentos",
+      "resumo": "A coordenação da resposta aos recentes terremotos na Venezuela ficou incerta, o que gerou atrasos nas ações das Forças Armadas. Fontes apontam que a ausência de equipamentos adequados também contribuiu para a demora na intervenção.",
+      "porQueImporta": "A lentidão na resposta pode agravar os danos e dificultar o socorro às áreas afetadas",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/atrasos-em-ordens-e-confusao-adiaram-resposta-da-venezuela-a-terremotos/"
+        }
+      ],
+      "updatedAt": "2026-07-18T20:15:48.000Z"
+    },
+    {
+      "clusterId": "8c7788940f2f2fba",
       "slug": "bcc523542b1bbbd2",
       "titulo": "Ataque de drones ucranianos causa mortes, incêndio e evacuação de maternidade em região de Moscou",
       "resumo": "Durante a noite de sexta para sábado, a região de Moscou recebeu mais de 370 drones ucranianos, dos quais a maioria foi abatida pelas defesas antiaéreas russas. Alguns drones atingiram alvos civis, provocando incêndio em um jardim de infância e forçando a evacuação de uma maternidade. O ataque resultou em vítimas mortais. As autoridades regionais confirmaram os danos e as medidas de emergência adotadas.",
@@ -35,354 +156,83 @@
         {
           "name": "G1",
           "url": "https://g1.globo.com/mundo/noticia/2026/07/18/ataque-de-drones-ucranianos-deixa-mortos-provoca-incendio-e-leva-a-evacuacao-de-maternidade-perto-de-moscou.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/ataque-ucraniano-deixa-sete-mortos-em-armazem-na-regiao-de-moscou/"
         }
       ],
-      "updatedAt": "2026-07-18T15:50:14.000Z",
+      "updatedAt": "2026-07-18T20:15:22.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/bumEVIfU6UgumRtgUVEDpEZc9Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/P/MCS7qWT5CUxvbGc1wBZQ/2026-07-18t094243z-508980871-rc29gmasuksp-rtrmadp-3-ukraine-crisis-russia-attacks.jpg"
     },
     {
-      "clusterId": "532d353a34621bd0",
-      "slug": "da8c6f7195c52bad",
-      "titulo": "Mortes por terremoto na Venezuela ultrapassam 5 mil",
-      "resumo": "A Venezuela confirmou que o número de mortos ultrapassa 5 mil após os tremores de 24 de junho. O balanço divulgado nesta sexta indica 5.069 óbitos e mais de 16,7 mil feridos. As autoridades ainda buscam informações sobre pessoas possivelmente soterradas nos escombros.",
-      "porQueImporta": "A alta mortalidade evidencia a gravidade do desastre e a necessidade de resposta humanitária urgente",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/17/numero-de-mortos-do-terremoto-na-venezuela-passa-de-5000.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/fmi-libera-us-346-milhoes-para-venezuela-lidar-com-impactos-de-terremotos/"
-        }
-      ],
-      "updatedAt": "2026-07-18T13:53:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/YI67KBBNHxpZvbGXNmdVA_QHpPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/722BxsRAeZWF21pH5MoA/afp-20260709-b9tc6tw-v1-midres-venezuelaearthquakeaftermath.jpg"
-    },
-    {
-      "clusterId": "9a0f4af35caa6ee7",
-      "slug": "48e7500744509425",
-      "titulo": "Tempestade no Chile deixa mortes e milhares de casas afetadas",
-      "resumo": "Uma forte tempestade que atingiu 10 das 16 regiões do Chile provocou alagamentos, ventos e ressacas. As autoridades registraram pelo menos quatro mortos, com a última vítima confirmada na região de Valparaíso, e 1.595 casas afetadas. Cinco pessoas ficaram feridas e dezenas de residentes foram evacuados. O fenômeno começou na tarde de 15 de junho e deve persistir até pelo menos 19 de junho.",
-      "porQueImporta": "O evento evidencia risco de enxurradas e deslizamentos em áreas densamente povoadas, demandando respostas de emergência.",
+      "clusterId": "22a796f96cb2ddd1",
+      "slug": "b18dc55145ef6a43",
+      "titulo": "Temperaturas acima de 35°C registradas em cinco cidades do RS antes de temporais",
+      "resumo": "No sábado (18), cinco cidades do Rio Grande do Sul registraram temperaturas superiores a 35°C, com a maior de 36,7°C em Rolante. As medições foram divulgadas pela Climatempo. O fenômeno ocorreu antes da previsão de temporais com risco de granizo e ventos fortes em várias regiões do estado.",
+      "porQueImporta": "Temperaturas incomuns aumentam risco de incêndios e agravam a sensação de calor antes de eventos climáticos severos.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/17/forte-tempestade-deixa-mortos-no-chile.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/tempestades-no-chile-deixam-mortos-e-centenas-de-desalojados/"
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/18/cinco-cidades-35c-inverno-rs-chegada-temporal-granizo-ventos-fortes-previsao.ghtml"
         }
       ],
-      "updatedAt": "2026-07-18T13:32:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/DtSAZcu3DGvcABZ3LZXH_lja9lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/M/xFnNjUQvWtiGdBOc4nfw/ezgif.com-gif-maker-2-.gif"
-    },
-    {
-      "clusterId": "4cbe8da359ba7292",
-      "slug": "625a8190a8e53800",
-      "titulo": "Vizinhos quebram parede e resgatam homem de incêndio em casa no Paraná",
-      "resumo": "Dois vizinhos entraram na residência em chamas em Francisco Beltrão e, usando martelo e machado, abriram um buraco na parede do banheiro para libertar o morador que estava encurralado. O resgate ocorreu na sexta‑feira (17) e foi registrado em vídeo.",
-      "porQueImporta": "O caso demonstra a importância da ação rápida da comunidade em situações de incêndio residencial.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/18/video-vizinhos-incendio-casa-parana.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-18T17:14:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/8f-sZpmK2dJdHn38I2y6KsezWNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/o/OJDj8pQB2XuzK7AVX1WA/fundo-vermelho-17-.png"
-    },
-    {
-      "clusterId": "8b9603b96cd4a41c",
-      "slug": "5120ccfda41f2549",
-      "titulo": "Balão cai e atinge escola municipal em Santos",
-      "resumo": "Um balão de ar quente caiu sobre a Escola Municipal de Santos, no litoral de São Paulo. A prefeitura informou que não houve danos à estrutura da escola, nem incêndio, e que ninguém ficou ferido. O incidente foi registrado pelas autoridades locais. Não foram registradas outras consequências imediatas.",
-      "porQueImporta": "O fato demonstra riscos de atividades aéreas sobre áreas urbanas e a necessidade de medidas de segurança.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/balao-cai-e-atinge-escola-municipal-em-santos-no-litoral-de-sao-paulo/"
-        }
-      ],
-      "updatedAt": "2026-07-18T16:48:45.000Z"
-    },
-    {
-      "clusterId": "e698ba44402241ed",
-      "slug": "a13946c91c4094ff",
-      "titulo": "Adolescente morre e outro fica ferido em acidente na Estrada do Goiabal, em Pindamonhangaba",
-      "resumo": "Dois adolescentes foram envolvidos em colisão na Estrada do Goiabal, em Pindamonhangaba (SP), por volta da 1h da madrugada de sábado. Um deles, de 17 anos, morreu no local, enquanto o de 16 anos recebeu socorro do Serviço de Atendimento Móvel de Urgência. Policiais militares que faziam patrulhamento chegaram ao local e encontraram os jovens cercados por populares.",
-      "porQueImporta": "O acidente evidencia riscos de trânsito em áreas rurais e a necessidade de atenção ao deslocamento de menores.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/18/adolescente-morre-e-outro-fica-ferido-apos-acidente-no-goiabal-em-pindamonhangaba.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-18T16:43:52.000Z"
-    },
-    {
-      "clusterId": "b732e7b6fc138ceb",
-      "slug": "fe0c18de53cccdb0",
-      "titulo": "Homem de 34 anos morre em acidente de trânsito em Limeira",
-      "resumo": "Na manhã desta sexta-feira, um carro avançou o sinal vermelho no cruzamento das avenidas Gumercindo Araújo e Fabrício Vampré, atingindo uma motocicleta. O choque causou a morte de um homem de 34 anos e deixou outra pessoa ferida. As imagens de câmeras de segurança registraram o veículo em alta velocidade por volta das 8h25 antes da colisão.",
-      "porQueImporta": "O acidente evidencia riscos de desrespeito ao sinal vermelho em áreas urbanas movimentadas",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/18/video-camera-flagra-acidente-em-cruzamento-de-avenida-em-limeira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-18T16:25:40.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/aDWV3wHgmIVP5t5iSolYCIqlWyg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/l/NDB8YSRPAhoBGrsVSZfQ/camera-acidente.jpg"
-    },
-    {
-      "clusterId": "4fb88e0234157925",
-      "slug": "02fdb217ee1a14d4",
-      "titulo": "Caminhão colide com carro na contramão e provoca incêndio na BR-354 em Arcos",
-      "resumo": "Na noite de sexta‑feira, um caminhão de 25 anos colidiu de frente com um carro que trafegava na contramão na BR‑354, em Arcos, resultando em incêndio de um dos veículos. Quatro pessoas ficaram feridas, incluindo os motoristas dos três veículos envolvidos. As versões sobre a dinâmica do acidente divergem entre os condutores, segundo a Polícia Militar Rodoviária. A ocorrência foi atendida pelas autoridades locais.",
-      "porQueImporta": "O acidente gerou vítimas e risco de incêndio em via pública, demandando resposta de emergência e investigação.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/18/carreta-desvia-de-veiculo-na-contramao-e-carros-batem-de-frente-na-br-354-em-arcos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-18T16:00:24.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/X5YuV54mV2Np9OjNHUnCM_wqIew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/x/3oWjgaR86txygp5JV0jw/whatsapp-image-2026-07-18-at-08.45.22.jpeg"
-    },
-    {
-      "clusterId": "f5a994a6ddc9986a",
-      "slug": "05a3b00beba4e2ba",
-      "titulo": "Incêndio destrói casa em Tucumã e crianças são resgatadas por vizinhos",
-      "resumo": "Um incêndio atingiu uma casa de madeira na Rua Castanhal, Setor Rodoviário, em Tucumã (Pará) por volta das 16h30 de sexta-feira. Duas crianças que estavam sozinhas na residência conseguiram sair ilesas com a ajuda dos moradores da região. A Polícia Civil informou que a Delegacia de Tucumã está investigando o caso.",
-      "porQueImporta": "O incidente evidencia a vulnerabilidade de moradias de madeira e a importância da ação rápida da comunidade em situações de emergência",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/para/noticia/2026/07/18/incendio-destroi-casa-em-tucuma.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-18T15:51:47.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IwAOzlxVBc8QK-QUPHm4BLzGSYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/I/q4LUrHQc2MIgN3ZJTPkA/fogo-caa-criancs.jpg"
+      "updatedAt": "2026-07-18T20:02:33.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1W-N89PrPwFKn5IwwTJoG5YTCmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/M/Ah4QUYR6mQyWDvMGXJ8Q/5169661-1b3e7af9b8bfac2.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "e698ba44402241ed",
-          "slug": "a13946c91c4094ff",
-          "titulo": "Adolescente morre e outro fica ferido em acidente na Estrada do Goiabal, em Pindamonhangaba",
-          "resumo": "Dois adolescentes foram envolvidos em colisão na Estrada do Goiabal, em Pindamonhangaba (SP), por volta da 1h da madrugada de sábado. Um deles, de 17 anos, morreu no local, enquanto o de 16 anos recebeu socorro do Serviço de Atendimento Móvel de Urgência. Policiais militares que faziam patrulhamento chegaram ao local e encontraram os jovens cercados por populares.",
-          "porQueImporta": "O acidente evidencia riscos de trânsito em áreas rurais e a necessidade de atenção ao deslocamento de menores.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/18/adolescente-morre-e-outro-fica-ferido-apos-acidente-no-goiabal-em-pindamonhangaba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T16:43:52.000Z"
-        },
-        {
-          "clusterId": "b732e7b6fc138ceb",
-          "slug": "fe0c18de53cccdb0",
-          "titulo": "Homem de 34 anos morre em acidente de trânsito em Limeira",
-          "resumo": "Na manhã desta sexta-feira, um carro avançou o sinal vermelho no cruzamento das avenidas Gumercindo Araújo e Fabrício Vampré, atingindo uma motocicleta. O choque causou a morte de um homem de 34 anos e deixou outra pessoa ferida. As imagens de câmeras de segurança registraram o veículo em alta velocidade por volta das 8h25 antes da colisão.",
-          "porQueImporta": "O acidente evidencia riscos de desrespeito ao sinal vermelho em áreas urbanas movimentadas",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/18/video-camera-flagra-acidente-em-cruzamento-de-avenida-em-limeira.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T16:25:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/aDWV3wHgmIVP5t5iSolYCIqlWyg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/l/NDB8YSRPAhoBGrsVSZfQ/camera-acidente.jpg"
-        },
-        {
-          "clusterId": "4fb88e0234157925",
-          "slug": "02fdb217ee1a14d4",
-          "titulo": "Caminhão colide com carro na contramão e provoca incêndio na BR-354 em Arcos",
-          "resumo": "Na noite de sexta‑feira, um caminhão de 25 anos colidiu de frente com um carro que trafegava na contramão na BR‑354, em Arcos, resultando em incêndio de um dos veículos. Quatro pessoas ficaram feridas, incluindo os motoristas dos três veículos envolvidos. As versões sobre a dinâmica do acidente divergem entre os condutores, segundo a Polícia Militar Rodoviária. A ocorrência foi atendida pelas autoridades locais.",
-          "porQueImporta": "O acidente gerou vítimas e risco de incêndio em via pública, demandando resposta de emergência e investigação.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/18/carreta-desvia-de-veiculo-na-contramao-e-carros-batem-de-frente-na-br-354-em-arcos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T16:00:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/X5YuV54mV2Np9OjNHUnCM_wqIew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/x/3oWjgaR86txygp5JV0jw/whatsapp-image-2026-07-18-at-08.45.22.jpeg"
-        },
-        {
-          "clusterId": "14652daa50dae3b6",
-          "slug": "2394be440471eb74",
-          "titulo": "Casal em situação de rua e motociclista morrem em acidente na CE-257 em Canindé",
-          "resumo": "Três pessoas morreram após a colisão de uma motocicleta com pedestres na comunidade de Sousa, zona rural de Canindé, na noite de sexta‑feira. O condutor da motocicleta, identificado como Francisco Paz Sampaio, morreu no local. As outras duas vítimas eram um casal em situação de rua, cujos nomes não foram divulgados. A Polícia Civil está investigando as circunstâncias do acidente.",
-          "porQueImporta": "O acidente evidencia riscos de trânsito em áreas rurais e a vulnerabilidade de pessoas em situação de rua",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/18/casal-e-motociclista-morrem-em-acidente-no-interior-do-ceara.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T15:06:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/d6VDN7ceQ2Pm7rSh96ZMRTnWwfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/S/2SwmUbSHW51sKW6F87cw/mortos-acidente-caninde.jpg"
-        },
-        {
-          "clusterId": "4be9b66db9e5ce22",
-          "slug": "4339c9450124a148",
-          "titulo": "Motorista atropela motociclista e passa por cima da vítima enquanto foge na zona sul de São Paulo",
-          "resumo": "Na madrugada de sábado, um motorista colidiu com um motociclista na Estrada de Itapecerica, no Parque Fernanda, zona sul de São Paulo, e ao fugir passou por cima da vítima caída. Testemunhas registraram o fato e socorreram o motociclista. A polícia identificou o suspeito como Jeferson Nascimento Barros, de 35 anos, que permanece foragido. O caso está sob investigação da Polícia Civil.",
-          "porQueImporta": "O episódio evidencia risco de fuga e agressão nas vias urbanas, demandando maior atenção à segurança no trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/18/apos-atropelar-motociclista-motorista-passa-por-cima-dele-caido-na-pista-e-foge-na-zona-sul-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T14:56:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/oBIofDsOOHFzATs1kWD40F53cUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/I/tP7qb7Q2GVmspwVmZhiA/fotojet-2026-07-18t114720.735.jpg"
-        },
-        {
-          "clusterId": "114f18afbb47766d",
-          "slug": "dd50ad4c612551e9",
-          "titulo": "Motorista de 24 anos morre em colisão frontal com caminhão canavieiro na Rodovia Péricles Belini, Nhandeara",
-          "resumo": "Um motorista de 24 anos morreu na manhã de sábado após colidir de frente com um caminhão canavieiro na Rodovia Péricles Belini, em Nhandeara, São Paulo. A vítima ficou presa nas ferragens e não sobreviveu ao acidente. Um dos veículos incendiou-se, mas as chamas foram controladas antes da chegada dos bombeiros.",
-          "porQueImporta": "O acidente evidencia riscos de colisões frontais em rodovias rurais e a necessidade de atenção ao tráfego de veículos de carga.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/18/motorista-de-carro-morre-apos-bater-de-frente-com-caminhao-canavieiro-em-nhandeara.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T14:39:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zcJvFwqpL3mjXQwXiIu2G194jSo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/K/Il3GrTR8uFBFBp5Bu7RA/formato-padrao-imagens-g1-2026-07-18t103835.470.png"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "2e8b6b5d72f8df30",
-          "slug": "a23c6fa5355169ad",
-          "titulo": "Homem é preso suspeito de espancar cachorro e lançá-lo em fogueira em Queimadas (PB)",
-          "resumo": "Um homem de 53 anos foi detido em flagrante após supostamente espancar um cachorro e colocar o animal em uma fogueira em Queimadas, no Agreste da Paraíba, no sábado. O cachorro morreu devido aos ferimentos. Segundo a Polícia Civil, o suspeito, identificado apenas como agricultor, foi denunciado por maus-tratos pelos vizinhos, com as agressões iniciando na manhã de sexta-feira.",
-          "porQueImporta": "O caso evidencia violência contra animais e a necessidade de fiscalização de maus-tratos",
+          "clusterId": "47d44ce59c7cdab8",
+          "slug": "95da578357694725",
+          "titulo": "Mais de 8 mil consumidores ficam sem energia por soltura de pipas no Leste de Minas Gerais",
+          "resumo": "Em 2026, cerca de 8.500 consumidores tiveram interrupções no fornecimento de energia elétrica devido à soltura de pipas nas áreas de Governador Valadares e Ipatinga, segundo dados da Cemig. Em Governador Valadares, 372 clientes foram afetados em cinco ocorrências, enquanto em Ipatinga, 673 clientes ficaram sem energia em duas ocorrências. A prática pode gerar acidentes graves, conforme alertado por especialista da área.",
+          "porQueImporta": "A interrupção afeta o cotidiano de milhares de pessoas e evidencia riscos de segurança associados ao uso de pipas em redes elétricas.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/18/homem-e-preso-suspeito-de-espancar-cachorro-e-lancar-o-animal-em-fogueira-na-pb.ghtml"
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/18/em-2026-8-mil-consumidores-ficaram-sem-energia-por-conta-de-pipas-no-leste-de-mg.ghtml"
             }
           ],
-          "updatedAt": "2026-07-18T15:16:24.000Z",
+          "updatedAt": "2026-07-18T21:10:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kqJ05_j0ryf8GBWcHp5bzeCR_Oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/B/a3RkfaR4qR1Fj0bu99Yw/pipa-na-rede.jfif"
+        },
+        {
+          "clusterId": "54ea15b3e0436ffd",
+          "slug": "4f899d880a054171",
+          "titulo": "Resposta da Venezuela a terremotos é adiada por atrasos e falta de equipamentos",
+          "resumo": "A coordenação da resposta aos recentes terremotos na Venezuela ficou incerta, o que gerou atrasos nas ações das Forças Armadas. Fontes apontam que a ausência de equipamentos adequados também contribuiu para a demora na intervenção.",
+          "porQueImporta": "A lentidão na resposta pode agravar os danos e dificultar o socorro às áreas afetadas",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/atrasos-em-ordens-e-confusao-adiaram-resposta-da-venezuela-a-terremotos/"
+            }
+          ],
+          "updatedAt": "2026-07-18T20:15:48.000Z"
+        },
+        {
+          "clusterId": "8f779a283a040141",
+          "slug": "effb353cef2c50df",
+          "titulo": "Justiça mantém prisão preventiva de homem suspeito de espancar cachorro e jogá‑lo em fogueira em Queimadas (PB)",
+          "resumo": "Um homem de 53 anos foi preso em flagrante por espancar um cachorro e lançar o animal em uma fogueira na zona rural de Queimadas, no Agreste da Paraíba. A prisão preventiva foi mantida durante a audiência de custódia realizada na tarde de sábado. O delegado Artur Andrade, responsável pela investigação, confirmou a manutenção da medida. Até o momento, a identidade do suspeito não foi divulgada publicamente.",
+          "porQueImporta": "O caso evidencia a necessidade de coibir maus‑tratos a animais e reforça a atuação do sistema de justiça na proteção dos direitos dos animais",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/18/justica-mantem-prisao-de-homem-suspeito-de-espancar-cachorro-e-jogar-animal-em-fogueira-no-agreste-da-pb.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-18T20:01:13.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/9zBXwDO2Jj_hnQXf6Zg1sj4poeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/x/lCzhQoRRKpWWBKi9AntQ/homempresoagressaoanimal.jpg"
-        },
-        {
-          "clusterId": "6d53958f684a3f62",
-          "slug": "19053bb6c5bd2515",
-          "titulo": "Incêndio provocado por vela de novena destrói parte de casa no interior de MG",
-          "resumo": "Um incêndio destruiu um quarto e um banheiro de uma casa após uma moradora deixar uma vela de novena acesa na manhã de quinta-feira (16) dentro do imóvel, que fica no bairro Bela Vista, em Arapuá, no Alto Paranaíba. Ninguém ficou ferido. Segundo o Corpo de Bombeiros, os moradores não estavam em casa quando o fogo começou. As chamas foram vistas por trabalhadores da coleta de lixo que passavam pela rua e acionaram os bombeiros. ✅ Clique aqui para seguir o canal do g1 Triângulo no WhatsApp A moradora contou que estava fazendo uma novena e deixou uma vela acesa em um dos quartos antes de sair.…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/18/incendio-provocado-por-vela-de-novena-destroi-parte-de-casa-no-interior-de-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T14:27:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0fcX1AxMtyw5ohjK7Cc_SSNS6JQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/b/U2PD25RNiOPZ6yWq6Xzw/14719690.jpg"
-        },
-        {
-          "clusterId": "dfe6a554b3e11ca3",
-          "slug": "7d1fd1422b61008b",
-          "titulo": "Mulher morre após ser atingida por motociclista sem habilitação no interior de SP; VÍDEO",
-          "resumo": "Mulher morre em colisão entre motocicleta e moto elétrica em Pirassununga Uma mulher morreu em Pirassununga (SP) após a moto elétrica que conduzia ser atingida por outra motocicleta na noite de sexta-feira (17). A vítima foi identificada como Lilian Barreto, de 47 anos. O motociclista envolvido no acidente foi encaminhado ao pronto-socorro. Segundo a Guarda Civil Municipal (GCM), ele não possui Carteira Nacional de Habilitação (CNH) e a motocicleta estava com o licenciamento vencido. 📱 Siga o g1 São Carlos e Araraquara no Instagram Mulher morre em grave acidente entre moto elétrica e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/18/mulher-morre-apos-ser-atingida-por-motociclista-sem-habilitacao-no-interior-de-sp-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T14:24:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/G4QSjNfSlv-iFaDjeBK5wpPyuRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/N/x6VtjtQ1eH3c5qWUVbqA/acidente-1-.jpg"
-        },
-        {
-          "clusterId": "5b9fb1e01e38d55d",
-          "slug": "849c3eea23e1bd20",
-          "titulo": "Jovem morre após perder controle de moto e bater em árvore",
-          "resumo": "Cailan Emanuel Oliveira Gomes, de 25 anos, morreu na madrugada deste sábado (18). Arquivo O jovem Cailan Emanuel Oliveira Gomes, de 25 anos, morreu na madrugada deste sábado (18) após perder o controle da moto e bater contra uma árvore no bairro Pricumã, zona Oeste de Boa Vista. Segundo a Guarda Civil Municipal, o acidente ocorreu por volta das 3h15. O motociclista seguia pela avenida Brasil, no sentido ao bairro Centenário. ✅ Clique aqui para seguir o canal do g1 RR no WhatsApp Duas equipes do Serviço de Atendimento Móvel de Urgência (Samu) foram acionadas e prestaram atendimento à vítima. O…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/18/jovem-morre-apos-perder-controle-de-moto-e-bater-em-arvore.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T14:22:23.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-piOe86IT5anZTMiqJZJv3bz-iA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/1/KjpRzUTAe9qvTTWKRhTg/arvore.jpg"
-        },
-        {
-          "clusterId": "80073ff85506aafb",
-          "slug": "d9522ae9f8916919",
-          "titulo": "VÍDEO: Caminhoneiro atinge carros, ataca policiais e é baleado pela PM na Grande BH",
-          "resumo": "Caminhoneiro atinge carros, ataca policiais e é baleado pela PM na Grande BH Uma perseguição policial a um caminhão terminou com o motorista baleado, viaturas atingidas e vários veículos danificados na madrugada deste sábado (18), no Anel Rodoviário de Belo Horizonte. Segundo a Polícia Militar, o condutor fugia após se envolver em um acidente na BR-040, em Contagem, e dirigia de forma agressiva e perigosa durante todo o trajeto. No vídeo é possível ver quando o caminhão bate em dois veículos no Anel Rodoviário. Depois um motorista que passava pela Avenida Eugênio Pacelli conseguiu flagrar o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/18/video-caminhoneiro-atinge-carros-ataca-policiais-e-e-baleado-pela-pm-na-grande-bh.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T14:22:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/aGXq5S1LdAKLN_mJTdS_ksI3E0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/p/jBNm2MSOOe8n621BTreg/0-00-jor-perseguicao-anel.mxf.png"
         },
         {
           "clusterId": "06481b1ce7026702",
@@ -404,63 +254,75 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "81819a89baf646ef",
-          "slug": "bcc523542b1bbbd2",
-          "titulo": "Ataque de drones ucranianos causa mortes, incêndio e evacuação de maternidade em região de Moscou",
-          "resumo": "Durante a noite de sexta para sábado, a região de Moscou recebeu mais de 370 drones ucranianos, dos quais a maioria foi abatida pelas defesas antiaéreas russas. Alguns drones atingiram alvos civis, provocando incêndio em um jardim de infância e forçando a evacuação de uma maternidade. O ataque resultou em vítimas mortais. As autoridades regionais confirmaram os danos e as medidas de emergência adotadas.",
-          "porQueImporta": "O incidente evidencia a extensão do conflito para áreas civis próximas à capital russa, gerando risco à população civil.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "6a100be89d7a7ab1",
+          "slug": "3ad4cd4cb5406275",
+          "titulo": "Motorista de 62 anos morre ao colidir com caminhão estacionado em Taubaté",
+          "resumo": "Um homem de 62 anos morreu na manhã de sábado ao colidir a traseira de seu carro com um caminhão parado no acostamento, no bairro São Gonçalo, em Taubaté. A vítima foi socorrida pelos policiais militares, mas faleceu ainda no local. A Polícia Civil conduziu a investigação e acionou a perícia técnico‑científica.",
+          "porQueImporta": "O acidente evidencia riscos de trânsito em áreas de parada de veículos, demandando atenção e medidas de segurança.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/18/ataque-de-drones-ucranianos-deixa-mortos-provoca-incendio-e-leva-a-evacuacao-de-maternidade-perto-de-moscou.ghtml"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/ataque-ucraniano-deixa-sete-mortos-em-armazem-na-regiao-de-moscou/"
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/18/motorista-morre-apos-bater-carro-na-traseira-de-caminhao-estacionado-em-taubate.ghtml"
             }
           ],
-          "updatedAt": "2026-07-18T15:50:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bumEVIfU6UgumRtgUVEDpEZc9Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/P/MCS7qWT5CUxvbGc1wBZQ/2026-07-18t094243z-508980871-rc29gmasuksp-rtrmadp-3-ukraine-crisis-russia-attacks.jpg"
+          "updatedAt": "2026-07-18T20:46:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ebcFy6klbZUr3zJP74VfZqf95QM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/C/KFgOjLQlKPwoNNqgdBwA/image-2-.png"
         },
         {
-          "clusterId": "4cbe8da359ba7292",
-          "slug": "625a8190a8e53800",
-          "titulo": "Vizinhos quebram parede e resgatam homem de incêndio em casa no Paraná",
-          "resumo": "Dois vizinhos entraram na residência em chamas em Francisco Beltrão e, usando martelo e machado, abriram um buraco na parede do banheiro para libertar o morador que estava encurralado. O resgate ocorreu na sexta‑feira (17) e foi registrado em vídeo.",
-          "porQueImporta": "O caso demonstra a importância da ação rápida da comunidade em situações de incêndio residencial.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "701edee0138396a6",
+          "slug": "d43ad6bb29ac0602",
+          "titulo": "Instrutor de autoescola morre após carro avançar sinal vermelho em Limeira",
+          "resumo": "Na manhã de sexta‑feira, 17, o instrutor de autoescola Renan Toquini de Lima Silva, de 34 anos, conduzia uma motocicleta com um aluno na garupa quando foi atingido por um carro que avançou o sinal vermelho no cruzamento das avenidas Gumercindo Araújo e Fabrício Vampré, em Limeira (SP). A colisão, registrada por câmeras de monitoramento, arrastou o instrutor e o aluno, resultando na morte de Renan. O motorista do carro não foi identificado na reportagem.",
+          "porQueImporta": "O acidente evidencia os riscos de desrespeito ao sinal vermelho e a necessidade de fiscalização no trânsito urbano",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/18/video-vizinhos-incendio-casa-parana.ghtml"
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/18/quem-era-o-instrutor-de-autoescola-morto-apos-carro-avancar-sinal-vermelho-em-limeira.ghtml"
             }
           ],
-          "updatedAt": "2026-07-18T17:14:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/8f-sZpmK2dJdHn38I2y6KsezWNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/o/OJDj8pQB2XuzK7AVX1WA/fundo-vermelho-17-.png"
+          "updatedAt": "2026-07-18T18:28:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RhL5OYSZwGW-LlosRTpb3Pn_s4w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/n/GEk0ROQAKqZBu8vBWV3w/whatsapp-image-2026-07-18-at-12.42.32.jpeg"
         },
         {
-          "clusterId": "f5a994a6ddc9986a",
-          "slug": "05a3b00beba4e2ba",
-          "titulo": "Incêndio destrói casa em Tucumã e crianças são resgatadas por vizinhos",
-          "resumo": "Um incêndio atingiu uma casa de madeira na Rua Castanhal, Setor Rodoviário, em Tucumã (Pará) por volta das 16h30 de sexta-feira. Duas crianças que estavam sozinhas na residência conseguiram sair ilesas com a ajuda dos moradores da região. A Polícia Civil informou que a Delegacia de Tucumã está investigando o caso.",
-          "porQueImporta": "O incidente evidencia a vulnerabilidade de moradias de madeira e a importância da ação rápida da comunidade em situações de emergência",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "661ec113a051b9af",
+          "slug": "a28cc3f06b6663ff",
+          "titulo": "Carro cai em ribanceira na Rodovia João Leme dos Santos e deixa quatro feridos",
+          "resumo": "Por volta das 9h de sábado, um veículo saiu da rodovia e despencou em uma ribanceira no quilômetro 116 da Rodovia João Leme dos Santos, em Salto de Pirapora (SP). O carro ficou com as rodas para cima. Uma pessoa ficou gravemente ferida e as demais três sofreram ferimentos leves a moderados. Todos os ocupantes foram resgatados pelo Centro de Controle Multimodal.",
+          "porQueImporta": "O acidente evidencia riscos de segurança viária em trechos de rodovia e a necessidade de resposta rápida dos serviços de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/07/18/incendio-destroi-casa-em-tucuma.ghtml"
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/18/carro-sai-da-rodovia-cai-em-ribanceira-e-deixa-quatro-feridos-em-salto-de-pirapora.ghtml"
             }
           ],
-          "updatedAt": "2026-07-18T15:51:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/IwAOzlxVBc8QK-QUPHm4BLzGSYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/I/q4LUrHQc2MIgN3ZJTPkA/fogo-caa-criancs.jpg"
+          "updatedAt": "2026-07-18T18:25:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/V0SDNa2KyvsWkwHpkqGXe7YBkAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/uIn7AAQaWsBT8G2RI12A/a45352dd-823e-4ce3-92ca-c4de262a439b-2-.jpg"
+        },
+        {
+          "clusterId": "e698ba44402241ed",
+          "slug": "a13946c91c4094ff",
+          "titulo": "Adolescente morre e outro fica ferido em acidente na Estrada do Goiabal, em Pindamonhangaba",
+          "resumo": "Dois adolescentes foram envolvidos em colisão na Estrada do Goiabal, em Pindamonhangaba (SP), por volta da 1h da madrugada de sábado. Um deles, de 17 anos, morreu no local, enquanto o de 16 anos recebeu socorro do Serviço de Atendimento Móvel de Urgência. Policiais militares que faziam patrulhamento chegaram ao local e encontraram os jovens cercados por populares.",
+          "porQueImporta": "O acidente evidencia riscos de trânsito em áreas rurais e a necessidade de atenção ao deslocamento de menores.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/18/adolescente-morre-e-outro-fica-ferido-apos-acidente-no-goiabal-em-pindamonhangaba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-18T16:43:52.000Z"
         }
       ]
     },
@@ -469,25 +331,25 @@
       "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "2b88584519d8bd16",
-          "slug": "53269e5f28f00dfe",
-          "titulo": "Avião de pequeno porte cai em área rural de Palmas e deixa duas vítimas fatais",
-          "resumo": "Um avião que decolou de um aeródromo em Palmas, Tocantins, caiu em uma região de chácaras na manhã de sábado. As vítimas fatais foram o médico Ederson da Silva e sua esposa Roseli Amarilda Pechulo Silva, residentes de Redenção, Pará. O piloto sobreviveu e foi encaminhado ao hospital. A ocorrência foi confirmada pelas autoridades locais.",
-          "porQueImporta": "O acidente evidencia riscos de voos de pequeno porte e gera preocupação nas comunidades locais",
+          "clusterId": "2ba69465d68ded3b",
+          "slug": "d2796b4aed91e38b",
+          "titulo": "Queda de avião deixa duas vítimas mortas em zona rural de Palmas",
+          "resumo": "Um avião que partia de Palmas em direção a Redenção, no Pará, caiu em área rural da capital. O piloto sobreviveu e foi levado ao hospital. O médico Ederson da Silva e sua esposa Roseli Amarilda Pechulo Silva morreram no acidente.",
+          "porQueImporta": "O acidente evidencia riscos de transporte aéreo em regiões remotas do Pará",
           "categoria": "Acidente aéreo",
           "categoriaSlug": "acidente-aereo",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/18/quem-sao-os-mortos-em-queda-de-aviao-em-palmas.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/medico-e-esposa-morrem-apos-queda-de-aviao-em-area-rural-de-palmas"
             },
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/aviao-cai-em-area-rural-e-deixa-2-mortos-em-palmas-no-tocantins"
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/queda-de-aviao-deixa-2-mortos-na-zona-rural-de-palmas/"
             }
           ],
-          "updatedAt": "2026-07-18T16:28:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/t3IXIJSM1YlIvYu9ELhnXdSzneU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/G/WExQ40QKGTjEHvVjtpfA/casal-morte.png"
+          "updatedAt": "2026-07-18T20:35:48.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/07/casal-vitimas-queda-aviao-palmas.jpg"
         },
         {
           "clusterId": "8b9603b96cd4a41c",
@@ -508,46 +370,81 @@
       ]
     },
     {
-      "slug": "terremoto",
-      "label": "Terremoto",
+      "slug": "enchente",
+      "label": "Enchente",
       "stories": [
         {
-          "clusterId": "532d353a34621bd0",
-          "slug": "da8c6f7195c52bad",
-          "titulo": "Mortes por terremoto na Venezuela ultrapassam 5 mil",
-          "resumo": "A Venezuela confirmou que o número de mortos ultrapassa 5 mil após os tremores de 24 de junho. O balanço divulgado nesta sexta indica 5.069 óbitos e mais de 16,7 mil feridos. As autoridades ainda buscam informações sobre pessoas possivelmente soterradas nos escombros.",
-          "porQueImporta": "A alta mortalidade evidencia a gravidade do desastre e a necessidade de resposta humanitária urgente",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
+          "clusterId": "17753e67b19617ac",
+          "slug": "ebdeb979b9381fee",
+          "titulo": "Serviço Geológico do Brasil identifica seis áreas de risco para inundações e deslizamentos em Passos (MG)",
+          "resumo": "Um levantamento do Serviço Geológico do Brasil apontou seis áreas de risco para inundações e deslizamentos no município de Passos, Minas Gerais. Nessas áreas estão localizadas 166 residências, afetando mais de 660 pessoas. O estudo visa subsidiar políticas públicas de prevenção de desastres. Um dos pontos mapeados inclui a Avenida da Moda, onde comerciantes relatam transtornos durante chuvas intensas.",
+          "porQueImporta": "A identificação das áreas vulneráveis permite a adoção de medidas preventivas para proteger a população e reduzir danos materiais.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/numero-de-mortos-do-terremoto-na-venezuela-passa-de-5000.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/fmi-libera-us-346-milhoes-para-venezuela-lidar-com-impactos-de-terremotos/"
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/18/passos-tem-seis-areas-de-risco-para-inundacoes-e-deslizamentos-aponta-estudo-do-servico-geologico-do-brasil.ghtml"
             }
           ],
-          "updatedAt": "2026-07-18T13:53:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YI67KBBNHxpZvbGXNmdVA_QHpPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/722BxsRAeZWF21pH5MoA/afp-20260709-b9tc6tw-v1-midres-venezuelaearthquakeaftermath.jpg"
+          "updatedAt": "2026-07-18T20:43:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ogLiVQFRIXuTfgTfL2Un6MBfCik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/a/kju62bT2CgVLBYmYTIfQ/riscopassos.png"
         },
         {
-          "clusterId": "5835661c42708294",
-          "slug": "b08176af13eae19b",
-          "titulo": "Terremoto de magnitude 7,3 atinge costa sul do México e gera alerta de tsunami",
-          "resumo": "Um terremoto de magnitude 7,3 ocorreu na costa sul do México, próximo à fronteira com a Guatemala. O Sistema de Alerta de Tsunami dos Estados Unidos emitiu alerta para o México e a Guatemala, com risco de ondas menores em até oito países da América Latina. O tremor foi sentido também na Guatemala, El Salvador e na região de Chiapas, no México. Até o momento, não há informações de vítimas ou danos estruturais.",
-          "porQueImporta": "O evento pode gerar ondas de tsunami que ameaçam populações costeiras na região.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
+          "clusterId": "70005fced3862c7e",
+          "slug": "714a833199a6046e",
+          "titulo": "Enchente no Vietnã deixa quatro mortos e desaparecidos",
+          "resumo": "Águas subiram rapidamente em uma vila montanhosa da província de Lai Chau, no norte do Vietnã, provocando alagamentos. A inundação resultou em quatro mortes confirmadas e deixou pessoas desaparecidas. As autoridades locais iniciaram buscas e operações de socorro na região afetada.",
+          "porQueImporta": "O evento evidencia a vulnerabilidade de comunidades montanhosas a enchentes repentinas, demandando atenção a medidas de prevenção e resposta.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/enchente-deixa-mortos-e-desaparecidos/"
+            }
+          ],
+          "updatedAt": "2026-07-18T18:58:36.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "8c7788940f2f2fba",
+          "slug": "bcc523542b1bbbd2",
+          "titulo": "Ataque de drones ucranianos causa mortes, incêndio e evacuação de maternidade em região de Moscou",
+          "resumo": "Durante a noite de sexta para sábado, a região de Moscou recebeu mais de 370 drones ucranianos, dos quais a maioria foi abatida pelas defesas antiaéreas russas. Alguns drones atingiram alvos civis, provocando incêndio em um jardim de infância e forçando a evacuação de uma maternidade. O ataque resultou em vítimas mortais. As autoridades regionais confirmaram os danos e as medidas de emergência adotadas.",
+          "porQueImporta": "O incidente evidencia a extensão do conflito para áreas civis próximas à capital russa, gerando risco à população civil.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/terremoto-de-magnitude-74-atinge-o-mexico.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/18/ataque-de-drones-ucranianos-deixa-mortos-provoca-incendio-e-leva-a-evacuacao-de-maternidade-perto-de-moscou.ghtml"
             }
           ],
-          "updatedAt": "2026-07-17T15:05:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Mg9wOYeMdaN2Olp97gkK2xzp53o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/hgXYYmTNAAM1DesTbKOQ/2026-07-17t154646z-2137965662-rc2qfma0nuhk-rtrmadp-3-el-salvador-quake.jpg"
+          "updatedAt": "2026-07-18T20:15:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bumEVIfU6UgumRtgUVEDpEZc9Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/P/MCS7qWT5CUxvbGc1wBZQ/2026-07-18t094243z-508980871-rc29gmasuksp-rtrmadp-3-ukraine-crisis-russia-attacks.jpg"
+        },
+        {
+          "clusterId": "4cbe8da359ba7292",
+          "slug": "625a8190a8e53800",
+          "titulo": "Vizinhos quebram parede e resgatam homem de incêndio em casa no Paraná",
+          "resumo": "Dois vizinhos entraram na residência em chamas em Francisco Beltrão e, usando martelo e machado, abriram um buraco na parede do banheiro para libertar o morador que estava encurralado. O resgate ocorreu na sexta‑feira (17) e foi registrado em vídeo.",
+          "porQueImporta": "O caso demonstra a importância da ação rápida da comunidade em situações de incêndio residencial.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/18/video-vizinhos-incendio-casa-parana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-18T17:14:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8f-sZpmK2dJdHn38I2y6KsezWNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/o/OJDj8pQB2XuzK7AVX1WA/fundo-vermelho-17-.png"
         }
       ]
     },
@@ -556,7 +453,24 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "9a0f4af35caa6ee7",
+          "clusterId": "22a796f96cb2ddd1",
+          "slug": "b18dc55145ef6a43",
+          "titulo": "Temperaturas acima de 35°C registradas em cinco cidades do RS antes de temporais",
+          "resumo": "No sábado (18), cinco cidades do Rio Grande do Sul registraram temperaturas superiores a 35°C, com a maior de 36,7°C em Rolante. As medições foram divulgadas pela Climatempo. O fenômeno ocorreu antes da previsão de temporais com risco de granizo e ventos fortes em várias regiões do estado.",
+          "porQueImporta": "Temperaturas incomuns aumentam risco de incêndios e agravam a sensação de calor antes de eventos climáticos severos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/18/cinco-cidades-35c-inverno-rs-chegada-temporal-granizo-ventos-fortes-previsao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-18T20:02:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1W-N89PrPwFKn5IwwTJoG5YTCmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/M/Ah4QUYR6mQyWDvMGXJ8Q/5169661-1b3e7af9b8bfac2.jpg"
+        },
+        {
+          "clusterId": "eef63ad8e0131737",
           "slug": "48e7500744509425",
           "titulo": "Tempestade no Chile deixa mortes e milhares de casas afetadas",
           "resumo": "Uma forte tempestade que atingiu 10 das 16 regiões do Chile provocou alagamentos, ventos e ressacas. As autoridades registraram pelo menos quatro mortos, com a última vítima confirmada na região de Valparaíso, e 1.595 casas afetadas. Cinco pessoas ficaram feridas e dezenas de residentes foram evacuados. O fenômeno começou na tarde de 15 de junho e deve persistir até pelo menos 19 de junho.",
@@ -567,53 +481,60 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/07/17/forte-tempestade-deixa-mortos-no-chile.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/tempestades-no-chile-deixam-mortos-e-centenas-de-desalojados/"
             }
           ],
-          "updatedAt": "2026-07-18T13:32:21.000Z",
+          "updatedAt": "2026-07-18T06:00:38.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/DtSAZcu3DGvcABZ3LZXH_lja9lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/M/xFnNjUQvWtiGdBOc4nfw/ezgif.com-gif-maker-2-.gif"
-        },
-        {
-          "clusterId": "dfca5bae87ba9340",
-          "slug": "9e2e7cc98efe003e",
-          "titulo": "Treino da seleção espanhola é adiado devido a tempestade antes da final da Copa",
-          "resumo": "A seleção da Espanha teve o treino programado para a véspera da final da Copa do Mundo adiado em razão de uma tempestade. O jogo contra a Argentina está marcado para domingo, às 16h (horário de Brasília), no MetLife Stadium, em Nova York. A alteração foi anunciada pela organização do torneio.",
-          "porQueImporta": "O adiamento pode impactar a preparação das equipes para a partida decisiva da competição",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-treino-da-espanha-e-adiado-apos-tempestade-na-vespera-da-final/"
-            }
-          ],
-          "updatedAt": "2026-07-18T15:38:34.000Z"
         }
       ]
     },
     {
-      "slug": "explosao",
-      "label": "Explosão",
+      "slug": "desastre-natural",
+      "label": "Desastre natural",
       "stories": [
         {
-          "clusterId": "cf1965d29cb3020e",
-          "slug": "67d183ef63fe9b3d",
-          "titulo": "Ataque de drones ucranianos contra centros logísticos na Rússia deixa mortos e feridos",
-          "resumo": "Na madrugada de sábado, drones lançados pela Ucrânia atingiram vários centros logísticos e instalações na Rússia, provocando incêndio em um depósito de petróleo na região de Moscou e a evacuação de uma maternidade. O ataque mais grave ocorreu em Kotovsk, na região de Tambov, resultando em oito mortes e mais de sessenta feridos. As autoridades russas confirmaram os danos e as vítimas.",
-          "porQueImporta": "O incidente evidencia a escalada da guerra entre Ucrânia e Rússia, afetando civis e infraestruturas críticas",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "48a99169b39f7f9f",
+          "slug": "da8c6f7195c52bad",
+          "titulo": "FMI libera cerca de R$ 1,7 bilhão para reconstrução na Venezuela após terremotos de junho",
+          "resumo": "Três semanas após os terremotos de 24 de junho, o Fundo Monetário Internacional disponibilizou aproximadamente R$ 1,7 bilhão, equivalentes a US$ 346 milhões, para apoiar a reconstrução de moradias, infraestrutura e serviços públicos. As autoridades confirmaram que o número de mortos ultrapassa 5 mil, com estimativas de 5.069 vítimas fatais. O recurso provém dos fundos retidos pelo próprio FMI e será usado nas áreas mais afetadas.",
+          "porQueImporta": "O apoio financeiro é crucial para atender às necessidades imediatas das famílias e iniciar a recuperação de uma região gravemente atingida por desastres naturais",
+          "categoria": "Desastre natural",
+          "categoriaSlug": "desastre-natural",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/18/guerra-russia-ucrania-ataque-drones.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/numero-de-mortos-do-terremoto-na-venezuela-passa-de-5000.ghtml"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/fmi-libera-r-17-bi-a-venezuela-para-reconstrucao-do-pais/"
             }
           ],
-          "updatedAt": "2026-07-18T15:03:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xe1DtSq9-cdlqDZXYF7YWG4JQog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/D/QoFMlQQBAFlqwVEYnfhw/afp-20260718-c2jb4t4-v2-midres-topshotrussiaukraineconflictattacks.jpg"
+          "updatedAt": "2026-07-18T20:01:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YI67KBBNHxpZvbGXNmdVA_QHpPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/722BxsRAeZWF21pH5MoA/afp-20260709-b9tc6tw-v1-midres-venezuelaearthquakeaftermath.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "violencia",
+      "label": "Violência",
+      "stories": [
+        {
+          "clusterId": "cd029480069ec15d",
+          "slug": "5c1ccd42d65ddc63",
+          "titulo": "Homem de 52 anos é esfaqueado e tem moto incendiada em Araçatuba",
+          "resumo": "Na madrugada de sábado (18), um homem de 52 anos foi encontrado com múltiplas facadas no bairro Jardim Nova Iorque, em Araçatuba (SP). Próximo ao corpo, a motocicleta estava em chamas e foi totalmente destruída pelos bombeiros. A Polícia Militar atendeu à ocorrência e prestou os primeiros socorros à vítima.",
+          "porQueImporta": "O caso evidencia violência urbana e necessidade de resposta rápida das autoridades de segurança e emergência.",
+          "categoria": "Violência",
+          "categoriaSlug": "violencia",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/18/homem-e-esfaqueado-e-tem-moto-incendiada-em-aracatuba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-18T21:01:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bbjgGsLDa9WOAa7AhXzj4lWaMOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/l/u/A74eNAQp6dlK9jU4HcjQ/central-de-policia-judiciaria.jfif"
         }
       ]
     },
@@ -622,20 +543,20 @@
       "label": "Incêndio florestal",
       "stories": [
         {
-          "clusterId": "0cc97c2667fa364a",
-          "slug": "593698961010a86b",
-          "titulo": "Fumaça de incêndios atrapalha eventos nos EUA antes da final da Copa",
-          "resumo": "Incêndios em áreas dos Estados Unidos geraram fumaça que comprometeu a qualidade do ar em Nova York, dificultando a realização de eventos programados para o sábado. As autoridades previram tempestades para a tarde, o que deve melhorar as condições atmosféricas antes da partida da final da Copa entre Argentina e Espanha no domingo.",
-          "porQueImporta": "A situação pode afetar a participação do público e a transmissão da partida da final da Copa",
+          "clusterId": "4537e81178352657",
+          "slug": "7e118ea665ada012",
+          "titulo": "Forças Armadas canadenses preparam resgate aéreo de cerca de 600 moradores de Fort Hope",
+          "resumo": "Incêndios têm ameaçado a comunidade indígena de Fort Hope, em Ontário, forçando autoridades a organizar operações de evacuação. As Forças Armadas do Canadá se mobilizam para realizar um resgate aéreo que deve alcançar aproximadamente 600 residentes. A iniciativa visa proteger a população diante da propagação do fogo e das condições climáticas adversas.",
+          "porQueImporta": "O resgate destaca a vulnerabilidade de comunidades remotas a desastres naturais e a necessidade de respostas emergenciais rápidas.",
           "categoria": "Incêndio florestal",
           "categoriaSlug": "incendio-florestal",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/fumaca-de-incendios-atrapalha-eventos-nos-eua-as-vesperas-da-final-da-copa/"
+              "url": "https://www.cnnbrasil.com.br/internacional/canada-tenta-resgatar-moradores-de-comunidade-remota-em-meio-a-incendios/"
             }
           ],
-          "updatedAt": "2026-07-18T14:53:53.000Z"
+          "updatedAt": "2026-07-18T20:28:41.000Z"
         }
       ]
     },
@@ -659,6 +580,29 @@
           ],
           "updatedAt": "2026-07-18T08:00:17.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/xq7vTDdTvF2fUXvcpO3i1d0gsXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Y/zNXNWZQqm3Of2nafZpNA/ap26199081265093.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "5835661c42708294",
+          "slug": "b08176af13eae19b",
+          "titulo": "Terremoto de magnitude 7,3 atinge costa sul do México",
+          "resumo": "Um sismo de magnitude 7,3 ocorreu na sexta‑feira na zona costeira sul do México, próximo à fronteira com a Guatemala. O tremor foi sentido com força na região de Chiapas e em outras áreas do país. O Sistema de Alerta de Tsunami dos Estados Unidos emitiu alerta para risco de tsunami no México e na Guatemala, que foi retirado posteriormente.",
+          "porQueImporta": "O evento pode gerar danos estruturais e risco de tsunami em áreas costeiras vulneráveis",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/terremoto-de-magnitude-74-atinge-o-mexico.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T15:05:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Mg9wOYeMdaN2Olp97gkK2xzp53o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/hgXYYmTNAAM1DesTbKOQ/2026-07-17t154646z-2137965662-rc2qfma0nuhk-rtrmadp-3-el-salvador-quake.jpg"
         }
       ]
     }
