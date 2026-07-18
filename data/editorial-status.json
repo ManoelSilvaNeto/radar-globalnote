@@ -1,9 +1,15 @@
 {
-  "ranAt": "2026-07-18T10:02:13.530Z",
+  "ranAt": "2026-07-18T13:58:52.075Z",
   "editionDate": "2026-07-18",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e eventos climáticos lideram os registros de desastres nesta edição\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: erro — sem cota (429)",
+    "cerebras: ok"
+  ]
 }
