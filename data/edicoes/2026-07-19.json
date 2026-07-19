@@ -1,9 +1,34 @@
 {
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T14:04:24.556Z",
+  "generatedAt": "2026-07-19T17:33:06.932Z",
   "home": [
     {
-      "clusterId": "d8b7f3a6fb10bd10",
+      "clusterId": "aedbcbc592717f7b",
+      "slug": "7615c4a9579d8988",
+      "titulo": "Tempestades atingem mais de 20 cidades do Rio Grande do Sul",
+      "resumo": "A Defesa Civil registrou chuvas intensas, ventos fortes e granizo em pelo menos 21 municípios do Rio Grande do Sul. Até o momento, três municípios relataram desalojados, totalizando dez pessoas. As autoridades alertam que as condições adversas podem se prolongar por vários dias.",
+      "porQueImporta": "A ocorrência pode gerar novos desalojamentos e danos materiais na região",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/mais-de-20-cidades-sao-atingidas-por-tempestades-no-rio-grande-do-sul/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/tempestades-deixam-estragos-em-21-cidades-do-rio-grande-do-sul"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/defesa-civil-emite-alerta-para-tempestades-no-rio-grande-do-sul-neste-domingo/"
+        }
+      ],
+      "updatedAt": "2026-07-19T16:16:14.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/tempestades-deixam-estragos-em-21-cidades-do-rio-grande-do-sul.jpg"
+    },
+    {
+      "clusterId": "dbc445b829662712",
       "slug": "240c53fbb8cdbb6e",
       "titulo": "Terremoto de magnitude 5,5 deixa cinco mortos e 21 feridos no Peru",
       "resumo": "Um terremoto de magnitude 5,5 atingiu a região central do Peru, com epicentro a 22 km de profundidade, às 21h30 do horário local. O abalo ocorreu a cerca de 11 km da cidade de Huancayo e 190 km de Lima. O evento deixou cinco mortos e 21 feridos.",
@@ -16,331 +41,390 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-de-magnitude-56-atinge-regiao-central-do-peru.ghtml"
         },
         {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-no-peru-deixa-mortos-e-feridos/"
+        },
+        {
           "name": "Veja",
           "url": "https://veja.abril.com.br/mundo/terremoto-deixa-cinco-mortos-e-21-feridos-no-peru/"
         }
       ],
-      "updatedAt": "2026-07-19T14:02:20.000Z",
+      "updatedAt": "2026-07-19T15:46:19.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
     },
     {
-      "clusterId": "a5bf8a0e499edc90",
-      "slug": "0764c76a0a29dbcc",
-      "titulo": "Jovem permanece entre escombros de terremoto na Venezuela para buscar restos mortais",
-      "resumo": "Lorena Laya encontrou os restos mortais de sua madrasta e de sua irmã duas semanas após os terremotos em La Guaira. Ela ainda aguarda a localização dos corpos de seu pai e de seu irmão, permanecendo nos escombros onde os familiares foram enterrados.",
-      "porQueImporta": "Ilustra a continuidade das consequências humanas dos terremotos e a dificuldade de recuperação de vítimas",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
+      "clusterId": "2969590aff13a864",
+      "slug": "31a060cd18255208",
+      "titulo": "Tempestade deve dissipar fumaça de incêndios no Canadá antes da final da Copa do Mundo",
+      "resumo": "A fumaça dos incêndios florestais que atingiu o Canadá e parte do nordeste dos Estados Unidos nos últimos dias deve perder força antes da partida final da Copa do Mundo, marcada para domingo. Meteorologistas apontam que a passagem de uma frente de tempestades limpará grande parte da atmosfera e reduzirá a concentração de partículas poluentes na região do MetLife Stadium. A limpeza atmosférica ocorre enquanto a final será disputada em East Rutherford, Nova Jersey.",
+      "porQueImporta": "A qualidade do ar pode influenciar a saúde dos espectadores e o desempenho dos atletas na partida decisiva",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/19/tempestades-devem-dissipar-fumaca-de-incendios-no-canada-antes-da-final-da-copa-do-mundo-nos-eua.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/copa-2026/apos-previsao-de-tempestades-final-da-copa-nos-eua-pode-ter-ceu-limpo/"
+        }
+      ],
+      "updatedAt": "2026-07-19T15:30:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_tYIAOM5V6A6k9uHGtUTcnKiZu4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/K/TADTjmRJWIPfsqOGCFAA/ap26198402437956.jpg"
+    },
+    {
+      "clusterId": "32c9e873ec30de06",
+      "slug": "3a590ee76e226064",
+      "titulo": "Três irmãos investigam morte da mãe após 17 anos",
+      "resumo": "Os filhos de Jean Hanlon contestaram a versão de acidente na morte da mãe, que desapareceu em Creta em 2009. A busca por esclarecimentos se estendeu por 17 anos, envolvendo contato da Interpol e esforços familiares para identificar o responsável.",
+      "porQueImporta": "O caso demonstra a persistência de famílias na busca por justiça e esclarecimento de mortes suspeitas",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/czdm196m375o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/portuguese/articles/c8xnly9z21qo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremotos-na-venezuela-a-jovem-que-se-recusa-a-abandonar-os-escombros-onde-estao-os-corpos-de-seus-familiares.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/19/a-saga-de-tres-irmaos-para-descobrir-quem-matou-sua-mae-apos-17-anos.ghtml"
         }
       ],
-      "updatedAt": "2026-07-19T10:36:11.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96c3/live/7790e2a0-8204-11f1-9155-3fc9a8287ebe.jpg"
+      "updatedAt": "2026-07-19T14:59:05.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbcb/live/c41234d0-76e2-11f1-9842-7718f5ead045.jpg"
     },
     {
-      "clusterId": "ea4aedf352018c94",
-      "slug": "4c512dc2439b6467",
-      "titulo": "Acidente na BR-146 deixa duas mortes e feridos em Bandeira do Sul, MG",
-      "resumo": "No fim da tarde de sábado, uma colisão transversal entre uma motocicleta e uma caminhonete ocorreu no km 474,4 da BR-146, em um trevo de Bandeira do Sul. A condutora da moto, de 26 anos, morreu no local e a passageira, de 20 anos, também faleceu posteriormente. O motorista da caminhonete ficou ileso, enquanto duas pessoas ficaram feridas e foram socorridas. A polícia rodoviária informou que a caminhonete vinha de Poços de Caldas em direção a Botelhos ao cruzar a pista da moto que seguia em sentido oposto.",
-      "porQueImporta": "O acidente evidencia riscos de colisões em trevos de rodovias estaduais, demandando atenção e medidas de segurança.",
+      "clusterId": "eabc52c6f5e01330",
+      "slug": "07988c9a6fc8ab35",
+      "titulo": "Mulher morre e sete ficam feridos em acidente na Rodovia Serramar em Rio das Ostras",
+      "resumo": "Um choque frontal entre dois veículos ocorreu na manhã de domingo na RJ-162, no km 6, bairro Vila Verde, em Rio das Ostras. A vítima fatal foi identificada como Mariana Silva, de 36 anos. Sete pessoas ficaram feridas, entre elas uma menina com lesão gravíssima que foi encaminhada ao pronto‑socorro municipal. As demais vítimas foram atendidas e liberadas após avaliação médica.",
+      "porQueImporta": "O acidente resultou em morte e múltiplas vítimas, demandando resposta de emergência e mobilização de serviços de saúde na região",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/19/ocorrencias-transito.ghtml"
+          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/19/mulher-morre-e-sete-pessoas-ficam-feridas-em-acidente-na-rodovia-serramar-em-rio-das-ostras.ghtml"
         }
       ],
-      "updatedAt": "2026-07-19T13:57:27.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Lbl5b2xNERqlHfjK_s1vMTcRrM0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/m/uGDnxITACPTGrAEed8BQ/whatsapp-image-2026-07-18-at-21.36.25.jpeg"
+      "updatedAt": "2026-07-19T17:27:32.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/44JIrdsRMn3Hb4QfYsWRjv_jT6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/o/nOUEKBSI62uWjQ5RClGA/1000516374-1-.jpg"
     },
     {
-      "clusterId": "961f05c859174da3",
-      "slug": "311ceb3265eff629",
-      "titulo": "Homem e criança morrem após canoa virar em represa no Tocantins",
-      "resumo": "Dois moradores de Paraíso do Tocantins foram encontrados mortos após a canoa em que estavam virar em uma represa localizada em uma chácara na zona rural. As vítimas foram identificadas como Robson Alencar Figueiredo, 20 anos, e James Martins de Souza, 6 anos. Segundo a Secretaria de Segurança Pública, havia cinco pessoas a bordo no momento do acidente. O incidente foi registrado na tarde de sábado, 18.",
-      "porQueImporta": "O acidente evidencia riscos de navegação em áreas rurais e a necessidade de medidas de segurança em represas.",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
+      "clusterId": "b6fd786933895733",
+      "slug": "3e98c30e31d334f9",
+      "titulo": "Homem morre ao cair de paraquedas em Resende",
+      "resumo": "Um homem de aproximadamente 50 anos morreu ao cair de um paraquedas na tarde de domingo em Resende (RJ). O acidente ocorreu na Rua General Osório, no bairro Itapuca, por volta das 12h10. O Corpo de Bombeiros atendeu a ocorrência e uma equipe de perícia está no local para coletar informações.",
+      "porQueImporta": "O caso evidencia riscos de atividades esportivas aéreas em áreas urbanas",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/19/homem-e-crianca-morrem-apos-canoa-virar-em-represa-no-to.ghtml"
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/19/homem-morre-apos-cair-de-paraquedas-em-resende.ghtml"
         }
       ],
-      "updatedAt": "2026-07-19T13:55:40.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/0rhFk_PDdDuGXopbm_IW0m3VRds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/3/sY4zSAQdKGkLqboBAGAA/bombeiros.png"
+      "updatedAt": "2026-07-19T17:17:09.000Z"
     },
     {
-      "clusterId": "25175f67dd946ff2",
-      "slug": "ab3cc94cd200dcc0",
-      "titulo": "Homem morre em acidente de trânsito na Avenida Djalma Batista, em Manaus",
-      "resumo": "Um homem de 29 anos morreu na manhã de domingo após seu carro ser destruído em um acidente na Avenida Djalma Batista, no bairro Flores, zona Centro‑Sul de Manaus. A vítima foi identificada como Lucas Eduardo Cunha Trindade. O óbito foi registrado às 6h30 na Delegacia Especializada em Homicídios e Sequestros, e a ocorrência foi encaminhada à Delegacia Especializada em Acidentes de Trânsito para investigação.",
-      "porQueImporta": "O caso evidencia a necessidade de atenção à segurança viária na capital amazonense",
+      "clusterId": "5889da3ad27daf1f",
+      "slug": "eecee8f8b12983dd",
+      "titulo": "Prédio desaba parcialmente em Governador Valadares e deixa três feridos",
+      "resumo": "Na manhã de domingo, um prédio desabou parcialmente no bairro Jardim Pérola, em Governador Valadares. Entre as vítimas, uma mulher cadeirante caiu do terceiro andar e ficou ferida. O Corpo de Bombeiros foi acionado por volta das 9h e utilizou quatro cães farejadores nas buscas, que não encontraram outras vítimas. No total, três pessoas foram socorridas e encaminhadas para atendimento médico.",
+      "porQueImporta": "O incidente evidencia riscos estruturais em áreas urbanas e a necessidade de respostas rápidas de emergência.",
+      "categoria": "Desabamento",
+      "categoriaSlug": "desabamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/19/predio-desaba-parcialmente-e-deixa-feridos-em-governador-valadares.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-19T17:09:49.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/B7FfWvVfricyJb4vkJ2zhN66l9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/S/IwtedwSOms9PcS0ARFWQ/whatsapp-image-2026-07-19-at-11.00.21.jpeg"
+    },
+    {
+      "clusterId": "92d41a437682c07a",
+      "slug": "4d71b255a6594889",
+      "titulo": "Dois motoristas são presos por embriaguez ao volante após acidente em Jundiaí",
+      "resumo": "Na madrugada de domingo, um acidente envolvendo três veículos na Avenida Nove de Julho, em Jundiaí (SP), resultou em sete pessoas atingidas. Duas vítimas foram socorridas com ferimentos leves e encaminhadas ao SAMU, enquanto as demais permaneceram ilesas. Ambos os motoristas foram detidos após apresentarem sinais claros de embriaguez. A ocorrência foi registrada pela Polícia Militar.",
+      "porQueImporta": "Destaca a relação entre álcool ao volante e acidentes de trânsito, reforçando a necessidade de fiscalização.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/19/homem-morre-apos-acidente-que-destruiu-carro-na-avenida-djalma-batista-em-manaus.ghtml"
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/19/dois-motoristas-sao-presos-por-embriaguez-ao-volante-apos-acidente-em-avenida-de-jundiai.ghtml"
         }
       ],
-      "updatedAt": "2026-07-19T13:45:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/m1-XfcvDCGHsuCGRVliH_L1-krg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/0/2bL3ANQNCm457YKoVTjw/acidente-de-transito-em-manaus-deixa-veiculo-destruido-em-manaus-1-.jpg"
+      "updatedAt": "2026-07-19T17:08:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/IkO-Gdps8g7k2AniyOBU0CdsxT4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/G/YJmyqFSPqZKXBWG15yCg/untitled.jpg"
     },
     {
-      "clusterId": "8fef0be99ebaa44b",
-      "slug": "b3893cd7b82cd607",
-      "titulo": "Vizinhos resgatam homem preso em incêndio residencial no Paraná",
-      "resumo": "Moradores de um bairro do Paraná usaram martelo e machado para romper a parede de uma casa em chamas. O esforço permitiu libertar a vítima que estava presa dentro do imóvel. O resgate foi registrado em vídeo divulgado pela imprensa local.",
-      "porQueImporta": "O caso demonstra a rapidez de ação da comunidade diante de emergências domésticas",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/video-vizinhos-salvam-homem-de-incendio-em-casa-no-parana/"
-        }
-      ],
-      "updatedAt": "2026-07-19T12:57:48.000Z"
-    },
-    {
-      "clusterId": "8b04d973c41dd3ed",
-      "slug": "ab4ea8252b085279",
-      "titulo": "Adolescente de 16 anos morre carbonizado após carro capotar e pegar fogo na BR-135, no Piauí",
-      "resumo": "Um carro da família capotou na rodovia BR-135, próximo à localidade Placa, no município de Bertolínia, e incendiou-se. O adolescente Marcos Vinícius Rodrigues dos Santos Areba, de 16 anos, ficou preso nas ferragens e morreu carbonizado. No veículo também estavam o pai, a mãe e dois irmãos, cujas condições não foram detalhadas. As causas do acidente ainda não foram definidas pelas autoridades.",
-      "porQueImporta": "O caso evidencia riscos de acidentes de trânsito em rodovias e a necessidade de medidas de segurança para evitar tragédias semelhantes.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "f6f5a035718bab02",
+      "slug": "6523d68d5900a31b",
+      "titulo": "Defesa Civil de Porciúncula atende 10 ocorrências de queimadas em menos de um mês",
+      "resumo": "A Defesa Civil Municipal alerta que provocar queimadas em terrenos, pastagens ou áreas de vegetação é crime ambiental. Prefeitura Porciúncula Queimadas preocupam moradores de Porciúncula A Defesa Civil Municipal de Porciúncula, no Noroeste Fluminense, atendeu dez ocorrências de queimadas em menos de um mês. Os incêndios mobilizaram equipes em diferentes pontos da cidade e reforçam o alerta para os riscos provocados pelo fogo durante o período de estiagem, que tem previsão de se estender até outubro, segundo a prefeitura. Em uma das ocorrências, registrada na noite de 27 de junho, no bairro…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/19/acidente-na-br-135.ghtml"
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/07/19/defesa-civil-de-porciuncula-atende-10-ocorrencias-de-queimadas-em-menos-de-um-mes.ghtml"
         }
       ],
-      "updatedAt": "2026-07-19T12:53:48.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/XKZwrt08iuapxLyKArcI6ia7808=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/KOm0boQpSJfdd9OWVbxw/edicao-imagens-g1-27-.png"
+      "updatedAt": "2026-07-19T17:03:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/8l7RK4QKEQrtgfsy7ia8nmuOPAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/u/hYiOM1Te2wS48592eKhA/1000516326.jpg"
     },
     {
-      "clusterId": "d815227d505bde63",
-      "slug": "7392716f1c1c1660",
-      "titulo": "Colisão frontal entre duas motos deixa dois feridos na rodovia Curuá-Una em Santarém",
-      "resumo": "Na noite de sábado, por volta das 21h20, duas motocicletas colidiram frontalmente na rodovia Curuá-Una, no quilômetro 21, na comunidade Jacamim, em Santarém, Pará. Um dos condutores, que conduzia uma moto preta em direção ao centro da cidade, foi atingido pelo veículo que vinha em sentido oposto. O acidente resultou em dois homens feridos, cujos atendimentos foram registrados na Polícia Civil nas primeiras horas de domingo.",
-      "porQueImporta": "O incidente evidencia riscos de tráfego em rodovias rurais do interior do Pará, demandando atenção das autoridades de trânsito.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/19/batida-entre-duas-motos-deixa-feridos-na-curua-una-em-santarem.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-19T12:26:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/NyFWDpsJIzrwMTPyx_uEpRuynB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/qigePwR5A0sVN8e69sLA/whatsapp-image-2026-07-19-at-09.09.52-1-.jpeg"
-    },
-    {
-      "clusterId": "be7963dcd67a4733",
-      "slug": "d59de293f5952343",
-      "titulo": "Incêndio atinge aterro sanitário, lavoura de milho e reserva ambiental em Primavera do Leste",
-      "resumo": "Um incêndio começou no aterro sanitário de Primavera do Leste e se espalhou para uma plantação de milho e parte de uma reserva ambiental, consumindo cerca de 80 hectares. O Corpo de Bombeiros apontou como provável causa um curto-circuito na rede elétrica. A prefeitura informou que o local continuará sob monitoramento e solicitou à população que evite queimadas e práticas que possam gerar novos focos de fogo.",
-      "porQueImporta": "O evento compromete áreas agrícolas, ambientais e de saneamento, demandando ação imediata das autoridades.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/19/fotos-incendio-atinge-aterro-sanitario-lavoura-de-milho-e-area-de-reserva-ambiental-em-mt.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-19T12:25:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/0twbl2j7GGH1IQlr5dsipHIneb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/1/Au6JnbRpe5adYL9gx2nw/foto-g1-31-.jpg"
-    },
-    {
-      "clusterId": "1c733bba4ba88b56",
-      "slug": "ed59006c943cc86f",
-      "titulo": "Tempestades deixam 22 mil sem energia e causam danos em 21 cidades do RS",
-      "resumo": "Na manhã de domingo, a Defesa Civil registrou falta de energia em 22 mil unidades distribuídas por 125 municípios do Rio Grande do Sul. As tempestades provocaram danos pontuais, como queda de vegetação e postes, em 21 cidades, mas nenhum município declarou estado de emergência. Três equipes da Defesa Civil permanecem mobilizadas para atuar em qualquer região do estado. O sistema de tempestades perdeu força ao avançar pelo interior.",
-      "porQueImporta": "A interrupção de energia e os danos materiais afetam a população e demandam resposta emergencial",
+      "clusterId": "9b06e8955e8fe1cc",
+      "slug": "dc9325b7408e6733",
+      "titulo": "Casamento é realizado na praia de Araguacema após tempestade adiar cerimônia",
+      "resumo": "Uma tempestade inesperada quase impediu a cerimônia de casamento de Isabella Cavalcante Bezerra e Danilo Bezerra na praia de Araguacema, no norte do Tocantins. A celebração foi adiada às pressas, mas a noiva, cirurgiã-dentista, manteve a serenidade e prosseguiu com o evento.",
+      "porQueImporta": "Mostra a adaptação de eventos pessoais diante de condições climáticas adversas",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/19/temporais-rs-falta-luz-previsao-tempo.ghtml"
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/19/apos-tempestade-adiar-cerimonia-noiva-realiza-casamento-em-praia-no-to-tinha-certeza-que-daria-certo.ghtml"
         }
       ],
-      "updatedAt": "2026-07-19T12:11:53.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/blMmH8j-QBTcv28EubeqlUHfQlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/d/cv7aYWSBOk9EsXqKbrAw/6158616-f296d183fbf6324.jpg"
+      "updatedAt": "2026-07-19T16:58:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/TjfV2KTaVxWllzuMqw8-a6SNaJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/a/68ikHKSwSjY9bwhWth1A/noiva.jpg"
     }
   ],
   "categorias": [
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "geral",
+      "label": "Geral",
       "stories": [
         {
-          "clusterId": "ea4aedf352018c94",
-          "slug": "4c512dc2439b6467",
-          "titulo": "Acidente na BR-146 deixa duas mortes e feridos em Bandeira do Sul, MG",
-          "resumo": "No fim da tarde de sábado, uma colisão transversal entre uma motocicleta e uma caminhonete ocorreu no km 474,4 da BR-146, em um trevo de Bandeira do Sul. A condutora da moto, de 26 anos, morreu no local e a passageira, de 20 anos, também faleceu posteriormente. O motorista da caminhonete ficou ileso, enquanto duas pessoas ficaram feridas e foram socorridas. A polícia rodoviária informou que a caminhonete vinha de Poços de Caldas em direção a Botelhos ao cruzar a pista da moto que seguia em sentido oposto.",
-          "porQueImporta": "O acidente evidencia riscos de colisões em trevos de rodovias estaduais, demandando atenção e medidas de segurança.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "32c9e873ec30de06",
+          "slug": "3a590ee76e226064",
+          "titulo": "Três irmãos investigam morte da mãe após 17 anos",
+          "resumo": "Os filhos de Jean Hanlon contestaram a versão de acidente na morte da mãe, que desapareceu em Creta em 2009. A busca por esclarecimentos se estendeu por 17 anos, envolvendo contato da Interpol e esforços familiares para identificar o responsável.",
+          "porQueImporta": "O caso demonstra a persistência de famílias na busca por justiça e esclarecimento de mortes suspeitas",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c8xnly9z21qo?at_medium=RSS&at_campaign=rss"
+            },
+            {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/19/ocorrencias-transito.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/a-saga-de-tres-irmaos-para-descobrir-quem-matou-sua-mae-apos-17-anos.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T13:57:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Lbl5b2xNERqlHfjK_s1vMTcRrM0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/m/uGDnxITACPTGrAEed8BQ/whatsapp-image-2026-07-18-at-21.36.25.jpeg"
+          "updatedAt": "2026-07-19T14:59:05.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbcb/live/c41234d0-76e2-11f1-9842-7718f5ead045.jpg"
         },
         {
-          "clusterId": "25175f67dd946ff2",
-          "slug": "ab3cc94cd200dcc0",
-          "titulo": "Homem morre em acidente de trânsito na Avenida Djalma Batista, em Manaus",
-          "resumo": "Um homem de 29 anos morreu na manhã de domingo após seu carro ser destruído em um acidente na Avenida Djalma Batista, no bairro Flores, zona Centro‑Sul de Manaus. A vítima foi identificada como Lucas Eduardo Cunha Trindade. O óbito foi registrado às 6h30 na Delegacia Especializada em Homicídios e Sequestros, e a ocorrência foi encaminhada à Delegacia Especializada em Acidentes de Trânsito para investigação.",
-          "porQueImporta": "O caso evidencia a necessidade de atenção à segurança viária na capital amazonense",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "f6f5a035718bab02",
+          "slug": "6523d68d5900a31b",
+          "titulo": "Defesa Civil de Porciúncula atende 10 ocorrências de queimadas em menos de um mês",
+          "resumo": "A Defesa Civil Municipal alerta que provocar queimadas em terrenos, pastagens ou áreas de vegetação é crime ambiental. Prefeitura Porciúncula Queimadas preocupam moradores de Porciúncula A Defesa Civil Municipal de Porciúncula, no Noroeste Fluminense, atendeu dez ocorrências de queimadas em menos de um mês. Os incêndios mobilizaram equipes em diferentes pontos da cidade e reforçam o alerta para os riscos provocados pelo fogo durante o período de estiagem, que tem previsão de se estender até outubro, segundo a prefeitura. Em uma das ocorrências, registrada na noite de 27 de junho, no bairro…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/19/homem-morre-apos-acidente-que-destruiu-carro-na-avenida-djalma-batista-em-manaus.ghtml"
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/07/19/defesa-civil-de-porciuncula-atende-10-ocorrencias-de-queimadas-em-menos-de-um-mes.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T13:45:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/m1-XfcvDCGHsuCGRVliH_L1-krg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/0/2bL3ANQNCm457YKoVTjw/acidente-de-transito-em-manaus-deixa-veiculo-destruido-em-manaus-1-.jpg"
+          "updatedAt": "2026-07-19T17:03:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8l7RK4QKEQrtgfsy7ia8nmuOPAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/u/hYiOM1Te2wS48592eKhA/1000516326.jpg"
         },
         {
-          "clusterId": "8b04d973c41dd3ed",
-          "slug": "ab4ea8252b085279",
-          "titulo": "Adolescente de 16 anos morre carbonizado após carro capotar e pegar fogo na BR-135, no Piauí",
-          "resumo": "Um carro da família capotou na rodovia BR-135, próximo à localidade Placa, no município de Bertolínia, e incendiou-se. O adolescente Marcos Vinícius Rodrigues dos Santos Areba, de 16 anos, ficou preso nas ferragens e morreu carbonizado. No veículo também estavam o pai, a mãe e dois irmãos, cujas condições não foram detalhadas. As causas do acidente ainda não foram definidas pelas autoridades.",
-          "porQueImporta": "O caso evidencia riscos de acidentes de trânsito em rodovias e a necessidade de medidas de segurança para evitar tragédias semelhantes.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "ec395b1dcb15c2ef",
+          "slug": "5583b0a4f09c7c0c",
+          "titulo": "Idoso morre após mal súbito em casa em Rorainópolis",
+          "resumo": "Um homem de 60 anos apresentou mal súbito após jantar e beber água por volta das 18h30 no bairro Jardim Floresta, em Rorainópolis, e faleceu. A filha informou que ele seguia tratamento médico contínuo e tinha histórico de AVC e coágulos cranianos. A Polícia Militar classificou a ocorrência como morte natural. O caso foi registrado na noite de sábado, 18.",
+          "porQueImporta": "A morte destaca a importância de monitoramento de condições de saúde em idosos com histórico de AVC.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/19/acidente-na-br-135.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/19/idoso-tem-mal-subito-em-casa-apos-jantar-e-morre-em-rorainopolis.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T12:53:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/XKZwrt08iuapxLyKArcI6ia7808=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/KOm0boQpSJfdd9OWVbxw/edicao-imagens-g1-27-.png"
+          "updatedAt": "2026-07-19T15:30:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Dd1FTOMwJ8sn2JXgz0-PaXEJliE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/b/r7W1iLQDGXm4MYZHGuQA/rafael-angel-botaban.jpg"
         },
         {
-          "clusterId": "d815227d505bde63",
-          "slug": "7392716f1c1c1660",
-          "titulo": "Colisão frontal entre duas motos deixa dois feridos na rodovia Curuá-Una em Santarém",
-          "resumo": "Na noite de sábado, por volta das 21h20, duas motocicletas colidiram frontalmente na rodovia Curuá-Una, no quilômetro 21, na comunidade Jacamim, em Santarém, Pará. Um dos condutores, que conduzia uma moto preta em direção ao centro da cidade, foi atingido pelo veículo que vinha em sentido oposto. O acidente resultou em dois homens feridos, cujos atendimentos foram registrados na Polícia Civil nas primeiras horas de domingo.",
-          "porQueImporta": "O incidente evidencia riscos de tráfego em rodovias rurais do interior do Pará, demandando atenção das autoridades de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "2296051819b100d9",
+          "slug": "530c67259d4bedea",
+          "titulo": "Cenário na Venezuela após terremotos era 'apocalíptico', diz comandante dos bombeiros de Uberaba",
+          "resumo": "Bombeiros retornam a Uberaba após missão humanitária na Venezuela Militares do Corpo de Bombeiros Militar de Minas Gerais (CBMMG) retornaram da missão da força-tarefa brasileira de apoio humanitário à Venezuela. Entre eles estão dois integrantes do 8º Batalhão de Bombeiros Militar, de Uberaba, que atuaram nas operações de resgate após os abalos sísmicos. O tenente-coronel Josias Soares, que participa de missões em áreas atingidas por grandes desastres desde 2019, descreveu o cenário encontrado na Venezuela como 'apocalíptico'. ✅ Clique aqui e siga o perfil do g1 Triângulo no WhatsApp 'Nos…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/19/batida-entre-duas-motos-deixa-feridos-na-curua-una-em-santarem.ghtml"
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/19/cenario-na-venezuela-apos-terremotos-era-apocaliptico-diz-comandante-dos-bombeiros-de-uberaba.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T12:26:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/NyFWDpsJIzrwMTPyx_uEpRuynB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/qigePwR5A0sVN8e69sLA/whatsapp-image-2026-07-19-at-09.09.52-1-.jpeg"
+          "updatedAt": "2026-07-19T15:28:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/tyEn2b0VPT80EFuWi7vgge34a7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/5/023uWSQ5e2MLS1ehadTg/design-sem-nome.png"
         },
         {
-          "clusterId": "6f401808936a259a",
-          "slug": "97f1c69d70c712fd",
-          "titulo": "Motorista morre em acidente envolvendo duas carretas e um caminhão na BR-251 em Francisco Sá",
-          "resumo": "Um motorista perdeu a vida após colisão entre duas carretas e um caminhão na rodovia BR-251, na região de Francisco Sá, Minas Gerais. O acidente foi um dos mais lidos na semana, destacando a ocorrência de fatalidades no trânsito da região norte de Minas.",
-          "porQueImporta": "O caso evidencia riscos de segurança viária e a necessidade de medidas preventivas nas rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "4c2845d97a3c426e",
+          "slug": "4fd2f1a32abad54b",
+          "titulo": "Mulher morre atropelada por moto na Avenida Darcy Vargas, em Manaus",
+          "resumo": "Uma mulher, identificada como Maria das Dores Amancio de Barros, de 74 anos, morreu após ser atropelada por uma motocicleta na Avenida Darcy Vargas, bairro Chapada, Zona Centro-Sul de Manaus. O acidente ocorreu por volta das 8h deste domingo (19), em frente a um shopping na capital. Segundo informações da 22ª Companhia Interativa Comunitária (Cicom), a vítima havia descido de um ônibus e, ao tentar atravessar a rua para ir a uma igreja, foi atingida pela moto. 📲 Participe do canal do g1 AM no WhatsApp A motocicleta era pilotada por um homem, que estava acompanhado da namorada. O casal sofreu…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/19/acidentes-com-mortes-na-regiao-e-operacao-da-pf-que-apura-fraude-bancaria-estao-entre-os-assuntos-mais-lidos-da-semana-no-g1-grande-minas.ghtml"
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/19/mulher-morre-atropelada-por-moto-na-avenida-darcy-vargas-em-manaus.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T12:00:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DjemC3DIaWaTPXNcwbgblXyLpcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/D/HnBxWoQxqjHuO73wjYDQ/whatsapp-image-2026-07-14-at-11.57.06-1-1-.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "8fef0be99ebaa44b",
-          "slug": "b3893cd7b82cd607",
-          "titulo": "Vizinhos resgatam homem preso em incêndio residencial no Paraná",
-          "resumo": "Moradores de um bairro do Paraná usaram martelo e machado para romper a parede de uma casa em chamas. O esforço permitiu libertar a vítima que estava presa dentro do imóvel. O resgate foi registrado em vídeo divulgado pela imprensa local.",
-          "porQueImporta": "O caso demonstra a rapidez de ação da comunidade diante de emergências domésticas",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/video-vizinhos-salvam-homem-de-incendio-em-casa-no-parana/"
-            }
-          ],
-          "updatedAt": "2026-07-19T12:57:48.000Z"
+          "updatedAt": "2026-07-19T15:22:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/qxrpV8ivL7dCJiQyQjBrSh1wsAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/D/V6vtzlStWSmLgHOpnO2w/g1-idosa-morre-darcy-vargas.jpg"
         },
         {
-          "clusterId": "be7963dcd67a4733",
-          "slug": "d59de293f5952343",
-          "titulo": "Incêndio atinge aterro sanitário, lavoura de milho e reserva ambiental em Primavera do Leste",
-          "resumo": "Um incêndio começou no aterro sanitário de Primavera do Leste e se espalhou para uma plantação de milho e parte de uma reserva ambiental, consumindo cerca de 80 hectares. O Corpo de Bombeiros apontou como provável causa um curto-circuito na rede elétrica. A prefeitura informou que o local continuará sob monitoramento e solicitou à população que evite queimadas e práticas que possam gerar novos focos de fogo.",
-          "porQueImporta": "O evento compromete áreas agrícolas, ambientais e de saneamento, demandando ação imediata das autoridades.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "0bd69ab903b8088d",
+          "slug": "0cdcd220c8a18b24",
+          "titulo": "EUA divulgam imagens de ataque no Irã após mortes de militares americanos",
+          "resumo": "Unidos divulgaram na madrugada deste domingo (19) imagens de ataques contra o Irã após confirmarem as primeiras mortes de militares americanos desde a retomada das hostilidades com a república islâmica. O Exército dos EUA anunciou no sábado (18) a morte de dois militares, os primeiros desde a retomada das hostilidades em 7 de julho, e o desaparecimento de um terceiro em \"ataques com mísseis e drones\" atribuídos ao Irã na sexta-feira, na Jordânia. Uma das imagens mostra uma explosão após um ataque em território iraniano, segundo o Comando Central dos EUA para o Oriente Médio (Centcom). Na…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/19/fotos-incendio-atinge-aterro-sanitario-lavoura-de-milho-e-area-de-reserva-ambiental-em-mt.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/eua-lancam-novos-ataques-aereos-contra-o-ira-apos-a-morte-de-dois-soldados.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T12:25:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0twbl2j7GGH1IQlr5dsipHIneb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/1/Au6JnbRpe5adYL9gx2nw/foto-g1-31-.jpg"
+          "updatedAt": "2026-07-19T15:16:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/tBx4T_UqiuXgciZ3wYitg3LJiGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/V/Bo1UP5SJyHuYx5IKQayg/ap26199005864802.jpg"
         },
         {
-          "clusterId": "faada59f6a873f12",
-          "slug": "218b37ee77859085",
-          "titulo": "Homem de 54 anos morre carbonizado em incêndio residencial em São Sebastião",
-          "resumo": "Um incêndio começou por volta das 12h30 em uma casa na Rua Tereza Rodrigues da Silva, no bairro Itatinga, em São Sebastião, no Litoral Norte de São Paulo. A vítima, de 54 anos, foi encontrada carbonizada sobre uma cama. O Corpo de Bombeiros atuou no local e a Polícia Civil foi acionada para investigar as causas do fogo.",
-          "porQueImporta": "O caso evidencia riscos de incêndio em residências e a necessidade de medidas de prevenção e resposta rápida.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "046f319dfbe53966",
+          "slug": "01e241d6c081e0b4",
+          "titulo": "Carro atinge portão, alambrado e garagem do Ibama em Uberlândia; VÍDEO",
+          "resumo": "Carro atinge portão, alambrado e garagem do Ibama em Uberlândia Um carro desgovernado atingiu o portão, o alambrado e parte da garagem do Ibama na tarde de sábado (18), na rua Max Nordau Rezende Alvim, no bairro Brasil, em Uberlândia. O motorista do veículo fugiu logo após a batida, que aconteceu por volta das 14h09. Imagens de câmera de monitoramento mostram o impacto do acidente e um carro deixando o local em seguida. Assista acima. ✅ Clique aqui para seguir o canal do g1 Triângulo no WhatsApp Conforme informações do Ibama, não houve feridos no local, mas parte da estrutura ficou destruída,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/19/homem-morre-carbonizado-apos-incendio-em-casa-em-sao-sebastiao.ghtml"
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/19/carro-atinge-portao-alambrado-e-garagem-do-ibama-em-uberlandia-video.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T11:24:38.000Z"
+          "updatedAt": "2026-07-19T15:10:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/r1ZnFj8PJu7T2CRiZlFPmkYehsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/4/5ObpvDS6qACg53Tljghg/ibama-uberlandia.jpeg"
         },
         {
-          "clusterId": "8c7788940f2f2fba",
-          "slug": "bcc523542b1bbbd2",
-          "titulo": "Ataque de drones ucranianos causa mortes, incêndio e evacuação de maternidade em região de Moscou",
-          "resumo": "Durante a noite de sexta para sábado, a região de Moscou recebeu mais de 370 drones ucranianos, dos quais a maioria foi abatida pelas defesas antiaéreas russas. Alguns drones atingiram alvos civis, provocando incêndio em um jardim de infância e forçando a evacuação de uma maternidade. O ataque resultou em vítimas mortais. As autoridades regionais confirmaram os danos e as medidas de emergência adotadas.",
-          "porQueImporta": "O incidente evidencia a extensão do conflito para áreas civis próximas à capital russa, gerando risco à população civil.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "d60af2fbbaf90afb",
+          "slug": "f185c64011f8920f",
+          "titulo": "Trabalhador morre soterrado após cair em silo de milho em fábrica de ração, no Paraná",
+          "resumo": "Trabalhador morre após cair em silo de milho em unidade industrial no Paraná Um trabalhador morreu soterrado após cair em um silo de milho em uma fábrica de ração em Jesuítas, no oeste do Paraná. A Copacol informou que a vítima era Adauto Macedo, de 39 anos. Ele prestava serviços gerais e era contratado por meio de uma empresa terceirizada. Veja a nota na íntegra abaixo. ✅ Siga o canal do g1 Foz do Iguaçu no WhatsApp Segundo a Defesa Civil, um colega de trabalho de Adauto contou que ele tinha saído para se hidratar. Quando voltou, o equipamento que ele usava, chamado trava-quedas, falhou e…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/18/ataque-de-drones-ucranianos-deixa-mortos-provoca-incendio-e-leva-a-evacuacao-de-maternidade-perto-de-moscou.ghtml"
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/19/trabalhador-morre-soterrado-silo-parana.ghtml"
             }
           ],
-          "updatedAt": "2026-07-18T20:15:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bumEVIfU6UgumRtgUVEDpEZc9Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/P/MCS7qWT5CUxvbGc1wBZQ/2026-07-18t094243z-508980871-rc29gmasuksp-rtrmadp-3-ukraine-crisis-russia-attacks.jpg"
+          "updatedAt": "2026-07-19T15:00:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7qRhi3rwhGCE4KA-s7rra6vSwow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/P/oRAFgPQ2CZtCa78k3BKQ/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-2026-07-19t115236.159.jpg"
+        },
+        {
+          "clusterId": "12f180e5f4db747b",
+          "slug": "e0a8b7e443b958b5",
+          "titulo": "Carro derruba postes e causa destruição em avenida de João Pessoa",
+          "resumo": "Carro derruba postes em João Pessoa TV Cabo Branco Um carro bateu em dois postes e destruiu os equipamentos na madrugada deste domingo (19), na Avenida Edson Ramalho, no bairro de Manaíra, em João Pessoa. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp O motorista do veículo deixou o carro após a colisão e não foi localizado. Até a manhã do domingo, o veículo estava no local. Equipes da empresa fornecedora de energia foram acionadas para fazer o reparo dos dois equipamentos. O g1 entrou em contato com a Energisa, que informou que uma equipe foi para o local resolver \"danos severos à…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/19/carro-bate-em-postes-e-causa-destruicao-em-avenida-de-joao-pessoa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T14:55:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/K7TkQWINFE81TIrPaanSF8juO7g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/K/eNQ859SCyB9U5wYMeNzA/postes.jpg"
+        },
+        {
+          "clusterId": "443589e1e837d93b",
+          "slug": "532ddbbaafdb7762",
+          "titulo": "Seis pessoas ficam feridas após carros baterem de frente na rodovia SP-501 no interior de SP",
+          "resumo": "Seis pessoas ficaram feridas após dois carros baterem de frente na Rodovia Júlio Budiski (SP-501), em Alfredo Marcondes (SP), no início da noite de sábado (18). Segundo a Polícia Rodoviária, o acidente aconteceu no quilômetro 32 da pista sentido Santo Expedito (SP). Os dois motoristas tiveram ferimentos graves. Um deles ficou preso às ferragens, enquanto os demais passageiros sofreram ferimentos leves. 📲 Participe do canal do g1 Presidente Prudente e Região no WhatsApp As vítimas foram socorridas e encaminhadas ao Hospital Regional e à Santa Casa de Presidente Prudente (SP). O motorista de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/19/seis-pessoas-ficam-feridas-apos-carros-baterem-de-frente-em-rodovia-de-alfredo-marcondes.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T14:38:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Rjacg6Aw56AFkICZQkjVQpaQCt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/z/fT2LRdQkeatNe4KOdJQA/acidente-pp.jpeg"
+        },
+        {
+          "clusterId": "c24a1ab15dd977bb",
+          "slug": "89929b4f1fb46f4b",
+          "titulo": "Artesã viraliza ao entrevistar repórter após pouso forçado de helicóptero no PI: 'minha fia, como foi aqui?'",
+          "resumo": "Artesã viraliza ao entrevistar repórter após pouso forçado no PI A artesã Ivani Rodríguez viralizou nas redes sociais após entrevistar a repórter Thracy Oliveira, da TV Clube, afiliada da TV Globo no Piauí, sobre o pouso forçado de um helicóptero no quintal de uma casa. O vídeo, publicado na quinta-feira (16), acumula cerca de 400 mil visualizações. Nas imagens, Ivani exibe o helicóptero parado na propriedade localizada no município de José de Freitas, quando Thracy e o cinegrafista Elbert Ribeiro se aproximam. Ela então os cumprimenta e pergunta: \"Minha fia (sic), e como foi aqui? Diga aí…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/19/mulher-viraliza-ao-entrevistar-reporter.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T14:30:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/N6FlTpNH538SyQBkCWi21PwcqQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/s/b6rgKCTIAGyFYGqYockA/edicao-imagens-g1-28-.png"
+        },
+        {
+          "clusterId": "fd84bb9bf0c9ea97",
+          "slug": "4e84439b3e761807",
+          "titulo": "Engavetamento entre carros, van e carreta deixa cinco feridos na Dutra, em Taubaté",
+          "resumo": "Um engavetamento envolvendo dois carros, uma carreta e uma van deixou ao menos cinco pessoas feridas na manhã deste domingo (19), na Rodovia Presidente Dutra, em Taubaté (SP). De acordo com a Polícia Rodoviária Federal (PRF), o acidente aconteceu por volta das 9h15, na altura do Km 107 da rodovia, sentido Rio de Janeiro. ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e região no WhatsApp Ainda segundo a PRF, duas das cinco vítimas foram socorridas em estado grave. Uma delas é um adolescente de 13 anos. As outras vítimas são duas mulheres e um homem, além de uma criança de três anos…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/19/engavetamento-deixa-feridos-na-dutra-em-taubate.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T14:24:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/D00tItbdwvlYEXFpenYLGXmSKdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/9/bYzlWARxKVJpGWBIQzCQ/image-3-.png"
+        },
+        {
+          "clusterId": "15048bccfed2e89d",
+          "slug": "a1cf1a9bce4e1dd3",
+          "titulo": "Terremotos na Venezuela: a jovem que se recusa a abandonar os escombros onde estão os corpos de seus familiares",
+          "resumo": "Lorena Laya se mudou para a cidade de La Guaira para procurar seu pai, sua madrasta e seus irmãos, após os dois terremotos que abalaram a Venezuela em 24 de junho. \"Mudar\" é uma forma de explicar a rotina que ela adotou nas últimas três semanas: permanecer alerta ao lado da escavadeira que remove os escombros durante o dia e depois dormir na casa de seu avô paterno à noite. Ela só volta para sua casa, na capital Caracas, quando precisa de roupas limpas. \"Estamos aqui desde que a máquina liga até que ela desliga\", diz a jovem de 24 anos, de um canto onde seu celular volta a ter sinal, longe do…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremotos-na-venezuela-a-jovem-que-se-recusa-a-abandonar-os-escombros-onde-estao-os-corpos-de-seus-familiares.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T10:36:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zywRUJv2JJQDbmHBejf31M0V75s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/Vlg1oEQAW4l4iymu0QaQ/2dbd58e1-acd6-4729-a82b-eb1e51085036.png"
         }
       ]
     },
@@ -349,38 +433,63 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "1c733bba4ba88b56",
-          "slug": "ed59006c943cc86f",
-          "titulo": "Tempestades deixam 22 mil sem energia e causam danos em 21 cidades do RS",
-          "resumo": "Na manhã de domingo, a Defesa Civil registrou falta de energia em 22 mil unidades distribuídas por 125 municípios do Rio Grande do Sul. As tempestades provocaram danos pontuais, como queda de vegetação e postes, em 21 cidades, mas nenhum município declarou estado de emergência. Três equipes da Defesa Civil permanecem mobilizadas para atuar em qualquer região do estado. O sistema de tempestades perdeu força ao avançar pelo interior.",
-          "porQueImporta": "A interrupção de energia e os danos materiais afetam a população e demandam resposta emergencial",
+          "clusterId": "aedbcbc592717f7b",
+          "slug": "7615c4a9579d8988",
+          "titulo": "Tempestades atingem mais de 20 cidades do Rio Grande do Sul",
+          "resumo": "A Defesa Civil registrou chuvas intensas, ventos fortes e granizo em pelo menos 21 municípios do Rio Grande do Sul. Até o momento, três municípios relataram desalojados, totalizando dez pessoas. As autoridades alertam que as condições adversas podem se prolongar por vários dias.",
+          "porQueImporta": "A ocorrência pode gerar novos desalojamentos e danos materiais na região",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/19/temporais-rs-falta-luz-previsao-tempo.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/mais-de-20-cidades-sao-atingidas-por-tempestades-no-rio-grande-do-sul/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/tempestades-deixam-estragos-em-21-cidades-do-rio-grande-do-sul"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/defesa-civil-emite-alerta-para-tempestades-no-rio-grande-do-sul-neste-domingo/"
             }
           ],
-          "updatedAt": "2026-07-19T12:11:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/blMmH8j-QBTcv28EubeqlUHfQlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/d/cv7aYWSBOk9EsXqKbrAw/6158616-f296d183fbf6324.jpg"
+          "updatedAt": "2026-07-19T16:16:14.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/07/tempestades-deixam-estragos-em-21-cidades-do-rio-grande-do-sul.jpg"
         },
         {
-          "clusterId": "92954d93053ab0c4",
-          "slug": "000aba918ff346ed",
-          "titulo": "Inmet emite alerta de vendaval para 110 municípios do Rio Grande do Norte",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta amarelo de perigo potencial de vendaval para 110 municípios do Rio Grande do Norte, válido até 23h59 de domingo. O aviso prevê ventos de até 60 km/h e indica baixo risco de acidentes nas áreas afetadas. O alerta abrange cidades de oito dos nove estados do Nordeste, exceto o Maranhão.",
-          "porQueImporta": "O alerta orienta a população a adotar medidas de precaução diante de ventos fortes que podem causar danos e interrupções.",
+          "clusterId": "9b06e8955e8fe1cc",
+          "slug": "dc9325b7408e6733",
+          "titulo": "Casamento é realizado na praia de Araguacema após tempestade adiar cerimônia",
+          "resumo": "Uma tempestade inesperada quase impediu a cerimônia de casamento de Isabella Cavalcante Bezerra e Danilo Bezerra na praia de Araguacema, no norte do Tocantins. A celebração foi adiada às pressas, mas a noiva, cirurgiã-dentista, manteve a serenidade e prosseguiu com o evento.",
+          "porQueImporta": "Mostra a adaptação de eventos pessoais diante de condições climáticas adversas",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/19/inmet-emite-alerta-de-vendaval-para-110-municipios-do-rio-grande-do-norte.ghtml"
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/19/apos-tempestade-adiar-cerimonia-noiva-realiza-casamento-em-praia-no-to-tinha-certeza-que-daria-certo.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T11:59:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/n7wtx-Yz5MVp6ti0qZabHjKB4fo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/Y/775bhJQf2kxe9jVCS12Q/temporal.jpg"
+          "updatedAt": "2026-07-19T16:58:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TjfV2KTaVxWllzuMqw8-a6SNaJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/a/68ikHKSwSjY9bwhWth1A/noiva.jpg"
+        },
+        {
+          "clusterId": "e0a99f0a333e37a5",
+          "slug": "673cb7f69ff8d13d",
+          "titulo": "Ventania arranca telhado de casa em Santa Cruz do Sul",
+          "resumo": "Tempestade com rajadas acima de 100 km/h atingiu o interior do Rio Grande do Sul entre 17 e 19 de julho, causando destelhamentos, queda de árvores e interrupção de energia. Em Santa Cruz do Sul, a força do vento arrancou o telhado de uma residência na localidade de Alto da Boa Vista, sem registro de feridos. A Defesa Civil municipal apontou vento de mais de 100 km/h e descreveu o fenômeno como microexplosão. Os danos foram registrados nas regiões Central, Fronteira Oeste, Campanha e Vale do Rio Pardo.",
+          "porQueImporta": "Mostra a vulnerabilidade de construções a ventos fortes e a necessidade de medidas de prevenção em áreas sujeitas a tempestades",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/19/temporal-vento-estragos-interior-rs.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T16:26:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/N3iD_auMS2A358D2fW_Ig5obJok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/P/GgKS6FSFW7773ucgyPMw/documento.jpg"
         },
         {
           "clusterId": "53a8ab38fff6a8bc",
@@ -418,76 +527,138 @@
       ]
     },
     {
-      "slug": "geral",
-      "label": "Geral",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "b65f693c5669ad48",
-          "slug": "2940b9990c482cd1",
-          "titulo": "Temporais castigam cafezais e produtores aceleram colheita para salvar a safra no interior de SP",
-          "resumo": "Temporais castigam cafezais e produtores aceleram colheita para salvar a safra TV TEM/Reprodução As instabilidades climáticas provocadas pelo excesso de chuvas, ventos fortes e quedas de granizo estão castigando as lavouras de café e provocando prejuízos em Garça (SP). Com as tempestades, os grãos caem dos galhos e entram em contato direto com a terra úmida, o que prejudica a qualidade da bebida e atrasa os trabalhos. Nas principais propriedades da região, os cafeicultores relatam perdas de quase metade da safra antes mesmo do fim da colheita. É o caso do produtor José Carlos de Morais Filho,…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "eabc52c6f5e01330",
+          "slug": "07988c9a6fc8ab35",
+          "titulo": "Mulher morre e sete ficam feridos em acidente na Rodovia Serramar em Rio das Ostras",
+          "resumo": "Um choque frontal entre dois veículos ocorreu na manhã de domingo na RJ-162, no km 6, bairro Vila Verde, em Rio das Ostras. A vítima fatal foi identificada como Mariana Silva, de 36 anos. Sete pessoas ficaram feridas, entre elas uma menina com lesão gravíssima que foi encaminhada ao pronto‑socorro municipal. As demais vítimas foram atendidas e liberadas após avaliação médica.",
+          "porQueImporta": "O acidente resultou em morte e múltiplas vítimas, demandando resposta de emergência e mobilização de serviços de saúde na região",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/07/19/temporais-castigam-cafezais-e-produtores-aceleram-colheita-para-salvar-a-safra-no-interior-de-sp.ghtml"
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/19/mulher-morre-e-sete-pessoas-ficam-feridas-em-acidente-na-rodovia-serramar-em-rio-das-ostras.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T10:30:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ziux3NkuI1QQdIG1d26mbBfbeHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/X/nIPoMASoGaa4K63bf6jg/bau-impacto-cafe-140726-frame-878.jpeg"
+          "updatedAt": "2026-07-19T17:27:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/44JIrdsRMn3Hb4QfYsWRjv_jT6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/o/nOUEKBSI62uWjQ5RClGA/1000516374-1-.jpg"
         },
         {
-          "clusterId": "249acfe18da34b73",
-          "slug": "dce6f6f75bc9aafb",
-          "titulo": "Fiéis buscam recursos para evitar desabamento de igreja centenária em Santa Rita do Passa Quatro",
-          "resumo": "A igreja matriz do distrito de Santa Cruz da Estrela, construída em 1916, foi interditada há cerca de quatro anos devido a graves problemas estruturais que colocam o prédio em risco de colapso. Fiéis da comunidade estão arrecadando aproximadamente R$ 200 mil para realizar as obras necessárias e preservar o patrimônio histórico. O templo já foi palco de eventos como o casamento do compositor Zequinha de Abreu e celebrações conduzidas pelo Padre Donizetti.",
-          "porQueImporta": "A preservação da estrutura evita a perda de um patrimônio cultural e histórico local",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "92d41a437682c07a",
+          "slug": "4d71b255a6594889",
+          "titulo": "Dois motoristas são presos por embriaguez ao volante após acidente em Jundiaí",
+          "resumo": "Na madrugada de domingo, um acidente envolvendo três veículos na Avenida Nove de Julho, em Jundiaí (SP), resultou em sete pessoas atingidas. Duas vítimas foram socorridas com ferimentos leves e encaminhadas ao SAMU, enquanto as demais permaneceram ilesas. Ambos os motoristas foram detidos após apresentarem sinais claros de embriaguez. A ocorrência foi registrada pela Polícia Militar.",
+          "porQueImporta": "Destaca a relação entre álcool ao volante e acidentes de trânsito, reforçando a necessidade de fiscalização.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/19/fieis-buscam-r-200-mil-para-salvar-igreja-de-110-anos-interditada-por-risco-de-desabar-no-interior-de-sp.ghtml"
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/19/dois-motoristas-sao-presos-por-embriaguez-ao-volante-apos-acidente-em-avenida-de-jundiai.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T09:00:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/f5olA7fxdxu2kaZFlSYp0rVPfmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/B/bP9W2mRy2edhRBS6EDzw/igreja.jpg"
+          "updatedAt": "2026-07-19T17:08:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/IkO-Gdps8g7k2AniyOBU0CdsxT4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/G/YJmyqFSPqZKXBWG15yCg/untitled.jpg"
         },
         {
-          "clusterId": "2e51374de839f5e3",
-          "slug": "5d98b62c37d8546c",
-          "titulo": "Alzheimer pode envolver microinfartos cerebrais silenciosos",
-          "resumo": "Estudos pós-morte de pessoas com demência revelam acúmulo de gorduras e microinfartos cerebrais, além das placas beta-amiloides e proteínas tau. Esses microinfartos são assintomáticos, mas podem se acumular e prejudicar a cognição. A pesquisa amplia a compreensão da doença ao considerar esses fatores vasculares.",
-          "porQueImporta": "Entender múltiplas causas do Alzheimer pode melhorar diagnóstico e estratégias de prevenção.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "c31c91a4380c38ff",
+          "slug": "ecc02ea9c38637af",
+          "titulo": "Homem morre após ser atingido por lancha em Paraty",
+          "resumo": "Um homem de aproximadamente 60 anos foi atingido por uma lancha na Praia do Rancho, na Vila de Trindade, em Paraty (RJ), no sábado (18). O Corpo de Bombeiros realizou o socorro e encaminhou a vítima ao Hospital Municipal Hugo Miranda, onde não resistiu aos ferimentos. Até a publicação, a identidade da vítima e detalhes do acidente não foram divulgados.",
+          "porQueImporta": "O caso evidencia riscos de colisões entre embarcações e pedestres em áreas de recreação costeira.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/07/19/o-que-o-alzheimer-tem-a-ver-com-sindemia-conceito-que-junta-sinergia-com-epidemia.ghtml"
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/19/acidente-com-lancha-em-paraty.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T07:01:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rXFp49Fq8oBkjr7wgZUAhYltaeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/GTD8vaRValzHLlaAy3Mw/aaic2026dia19.webp"
+          "updatedAt": "2026-07-19T15:39:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RuBE4_XiSWZ_dPKWQqNtnoYD01s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/B/1la3kmTqGcR8Qv7L8btQ/hospital-paraty.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "afogamento",
+      "label": "Afogamento",
+      "stories": [
+        {
+          "clusterId": "47cd5a78cca43bca",
+          "slug": "c5c2b294277a0bc5",
+          "titulo": "Casal encontrado morto após afogamento no Rio Arinos em Juara",
+          "resumo": "Os corpos de Polyana Sampaio da Silva Scrimim e Alexandre Scrimim da Silva foram localizados na manhã de domingo após se afogarem no Rio Arinos, em Juara, Mato Grosso. A UNEMAT, onde Polyana lecionava, divulgou nota de lamento e o Corpo de Bombeiros informou que a equipe foi acionada na sexta-feira para atender a ocorrência.",
+          "porQueImporta": "O falecimento de duas pessoas destaca a necessidade de atenção à segurança em áreas de risco hídrico.",
+          "categoria": "Afogamento",
+          "categoriaSlug": "afogamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/19/casal-e-encontrado-morto-apos-se-afogar-no-rio-arinos-em-juara-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T16:23:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XI4yqwCW1ULUl4e9nGLTo-H4_Ag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/M/Lx9fW0SfSr2DU8bABQMw/saveclip.app-742737404-18062466128743986-495265775511972084-n.jpg"
         },
         {
-          "clusterId": "c08bd721c92909af",
-          "slug": "a719cfb92ced2700",
-          "titulo": "Ataques com mísseis russos em Kiev matam uma pessoa e deixam 16 feridos",
-          "resumo": "Rússia revida ataques ucranianos com mísseis em Kiev Mísseis russos atingiram a capital ucraniana, Kiev, e região circundante na madrugada de domingo (19), matando pelo menos uma pessoa e ferindo outras 16, enquanto incêndios se alastravam pela cidade, disseram autoridades. Uma série de poderosas explosões ecoou pela noite, enquanto a força aérea ucraniana alertava para uma ameaça de míssil balístico. O prefeito de Kiev, Vitali Klitschko, informou pelo aplicativo Telegram que incêndios deflagraram em um dormitório, um prédio de apartamentos e um supermercado. Vários edifícios não residenciais…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "66b4d8ae48246e1e",
+          "slug": "b3056b619d105e57",
+          "titulo": "Homem de 51 anos morre afogado ao tentar salvar adolescente em balneário no Piauí",
+          "resumo": "Cremilson Pereira da Silva, de 51 anos, tentou resgatar um adolescente que estava em risco de afogamento no balneário Belém Brasília, em Guadalupe, no Piauí. Durante a tentativa, submergiu e desapareceu nas águas, sendo encontrado pelos demais visitantes antes da chegada do Corpo de Bombeiros. O Corpo de Bombeiros foi acionado, mas o corpo já havia sido recuperado. O incidente ocorreu na manhã de sábado, dia 18.",
+          "porQueImporta": "O caso evidencia riscos de afogamento em áreas de recreação aquática e a importância de intervenções seguras.",
+          "categoria": "Afogamento",
+          "categoriaSlug": "afogamento",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/misseis-russos-atingem-kiev.ghtml"
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/19/homem-morre-afogado-em-balneario.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T05:43:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4YGOuK5xxEOirpzWRufijqLUUYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/9/AL5AfAScW69MRIiJaY9w/2026-07-19t042224z-185637562-rc2rgma1k9u6-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+          "updatedAt": "2026-07-19T15:51:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6SMFaBIzdMhpkDHpreo25hJuSeY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/T/A0DTnVShu3pljUaYifVg/edicao-imagens-g1-29-.png"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "8fef0be99ebaa44b",
+          "slug": "b3893cd7b82cd607",
+          "titulo": "Vizinhos resgatam homem preso em incêndio residencial no Paraná",
+          "resumo": "Moradores de um bairro do Paraná usaram martelo e machado para romper a parede de uma casa em chamas. O esforço permitiu libertar a vítima que estava presa dentro do imóvel. O resgate foi registrado em vídeo divulgado pela imprensa local.",
+          "porQueImporta": "O caso demonstra a rapidez de ação da comunidade diante de emergências domésticas",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/video-vizinhos-salvam-homem-de-incendio-em-casa-no-parana/"
+            }
+          ],
+          "updatedAt": "2026-07-19T12:57:48.000Z"
+        },
+        {
+          "clusterId": "8c7788940f2f2fba",
+          "slug": "bcc523542b1bbbd2",
+          "titulo": "Ataque de drones ucranianos causa mortes, incêndio e evacuação de maternidade em região de Moscou",
+          "resumo": "Durante a noite de sexta para sábado, a região de Moscou recebeu mais de 370 drones ucranianos, dos quais a maioria foi abatida pelas defesas antiaéreas russas. Alguns drones atingiram alvos civis, provocando incêndio em um jardim de infância e forçando a evacuação de uma maternidade. O ataque resultou em vítimas mortais. As autoridades regionais confirmaram os danos e as medidas de emergência adotadas.",
+          "porQueImporta": "O incidente evidencia a extensão do conflito para áreas civis próximas à capital russa, gerando risco à população civil.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/18/ataque-de-drones-ucranianos-deixa-mortos-provoca-incendio-e-leva-a-evacuacao-de-maternidade-perto-de-moscou.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-18T20:15:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bumEVIfU6UgumRtgUVEDpEZc9Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/P/MCS7qWT5CUxvbGc1wBZQ/2026-07-18t094243z-508980871-rc29gmasuksp-rtrmadp-3-ukraine-crisis-russia-attacks.jpg"
         }
       ]
     },
@@ -496,7 +667,7 @@
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "d8b7f3a6fb10bd10",
+          "clusterId": "dbc445b829662712",
           "slug": "240c53fbb8cdbb6e",
           "titulo": "Terremoto de magnitude 5,5 deixa cinco mortos e 21 feridos no Peru",
           "resumo": "Um terremoto de magnitude 5,5 atingiu a região central do Peru, com epicentro a 22 km de profundidade, às 21h30 do horário local. O abalo ocorreu a cerca de 11 km da cidade de Huancayo e 190 km de Lima. O evento deixou cinco mortos e 21 feridos.",
@@ -509,73 +680,16 @@
               "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-de-magnitude-56-atinge-regiao-central-do-peru.ghtml"
             },
             {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-no-peru-deixa-mortos-e-feridos/"
+            },
+            {
               "name": "Veja",
               "url": "https://veja.abril.com.br/mundo/terremoto-deixa-cinco-mortos-e-21-feridos-no-peru/"
             }
           ],
-          "updatedAt": "2026-07-19T14:02:20.000Z",
+          "updatedAt": "2026-07-19T15:46:19.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
-        },
-        {
-          "clusterId": "a5bf8a0e499edc90",
-          "slug": "0764c76a0a29dbcc",
-          "titulo": "Jovem permanece entre escombros de terremoto na Venezuela para buscar restos mortais",
-          "resumo": "Lorena Laya encontrou os restos mortais de sua madrasta e de sua irmã duas semanas após os terremotos em La Guaira. Ela ainda aguarda a localização dos corpos de seu pai e de seu irmão, permanecendo nos escombros onde os familiares foram enterrados.",
-          "porQueImporta": "Ilustra a continuidade das consequências humanas dos terremotos e a dificuldade de recuperação de vítimas",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/czdm196m375o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremotos-na-venezuela-a-jovem-que-se-recusa-a-abandonar-os-escombros-onde-estao-os-corpos-de-seus-familiares.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-19T10:36:11.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96c3/live/7790e2a0-8204-11f1-9155-3fc9a8287ebe.jpg"
-        },
-        {
-          "clusterId": "5835661c42708294",
-          "slug": "b08176af13eae19b",
-          "titulo": "Terremoto de magnitude 7,3 atinge costa sul do México",
-          "resumo": "Um sismo de magnitude 7,3 ocorreu na sexta‑feira na zona costeira sul do México, próximo à fronteira com a Guatemala. O tremor foi sentido com força na região de Chiapas e em outras áreas do país. O Sistema de Alerta de Tsunami dos Estados Unidos emitiu alerta para risco de tsunami no México e na Guatemala, que foi retirado posteriormente.",
-          "porQueImporta": "O evento pode gerar danos estruturais e risco de tsunami em áreas costeiras vulneráveis",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/terremoto-de-magnitude-74-atinge-o-mexico.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-17T15:05:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Mg9wOYeMdaN2Olp97gkK2xzp53o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/hgXYYmTNAAM1DesTbKOQ/2026-07-17t154646z-2137965662-rc2qfma0nuhk-rtrmadp-3-el-salvador-quake.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "naufragio",
-      "label": "Naufrágio",
-      "stories": [
-        {
-          "clusterId": "961f05c859174da3",
-          "slug": "311ceb3265eff629",
-          "titulo": "Homem e criança morrem após canoa virar em represa no Tocantins",
-          "resumo": "Dois moradores de Paraíso do Tocantins foram encontrados mortos após a canoa em que estavam virar em uma represa localizada em uma chácara na zona rural. As vítimas foram identificadas como Robson Alencar Figueiredo, 20 anos, e James Martins de Souza, 6 anos. Segundo a Secretaria de Segurança Pública, havia cinco pessoas a bordo no momento do acidente. O incidente foi registrado na tarde de sábado, 18.",
-          "porQueImporta": "O acidente evidencia riscos de navegação em áreas rurais e a necessidade de medidas de segurança em represas.",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/19/homem-e-crianca-morrem-apos-canoa-virar-em-represa-no-to.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-19T13:55:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0rhFk_PDdDuGXopbm_IW0m3VRds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/3/sY4zSAQdKGkLqboBAGAA/bombeiros.png"
         }
       ]
     },
@@ -584,7 +698,7 @@
       "label": "Incêndio florestal",
       "stories": [
         {
-          "clusterId": "65e4bc5d2a339468",
+          "clusterId": "2969590aff13a864",
           "slug": "31a060cd18255208",
           "titulo": "Tempestade deve dissipar fumaça de incêndios no Canadá antes da final da Copa do Mundo",
           "resumo": "A fumaça dos incêndios florestais que atingiu o Canadá e parte do nordeste dos Estados Unidos nos últimos dias deve perder força antes da partida final da Copa do Mundo, marcada para domingo. Meteorologistas apontam que a passagem de uma frente de tempestades limpará grande parte da atmosfera e reduzirá a concentração de partículas poluentes na região do MetLife Stadium. A limpeza atmosférica ocorre enquanto a final será disputada em East Rutherford, Nova Jersey.",
@@ -595,9 +709,13 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/07/19/tempestades-devem-dissipar-fumaca-de-incendios-no-canada-antes-da-final-da-copa-do-mundo-nos-eua.ghtml"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/copa-2026/apos-previsao-de-tempestades-final-da-copa-nos-eua-pode-ter-ceu-limpo/"
             }
           ],
-          "updatedAt": "2026-07-19T11:08:28.000Z",
+          "updatedAt": "2026-07-19T15:30:39.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/_tYIAOM5V6A6k9uHGtUTcnKiZu4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/K/TADTjmRJWIPfsqOGCFAA/ap26198402437956.jpg"
         }
       ]
@@ -607,21 +725,66 @@
       "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "dba75ca66460473f",
-          "slug": "37c1fbd73f3e2c12",
-          "titulo": "Avião de pequeno porte cai na zona rural de Palmas e mata médico e esposa",
-          "resumo": "Um avião de pequeno porte que decolou de um aeródromo com destino a Redenção (PA) perdeu altitude logo após a decolagem e caiu em uma área de chácaras entre Palmas e Lajeado, na manhã de sábado. As vítimas foram o médico Éderson da Silva, de 68 anos, e sua esposa Roseli Amarilda Pechulo Silva, de 62 anos, que morreram no local. A ocorrência foi confirmada pelas autoridades locais.",
-          "porQueImporta": "O acidente resultou em duas mortes e evidencia riscos de voos regionais em áreas rurais",
+          "clusterId": "b6fd786933895733",
+          "slug": "3e98c30e31d334f9",
+          "titulo": "Homem morre ao cair de paraquedas em Resende",
+          "resumo": "Um homem de aproximadamente 50 anos morreu ao cair de um paraquedas na tarde de domingo em Resende (RJ). O acidente ocorreu na Rua General Osório, no bairro Itapuca, por volta das 12h10. O Corpo de Bombeiros atendeu a ocorrência e uma equipe de perícia está no local para coletar informações.",
+          "porQueImporta": "O caso evidencia riscos de atividades esportivas aéreas em áreas urbanas",
           "categoria": "Acidente aéreo",
           "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/19/o-que-se-sabe-sobre-queda-de-aviao-que-matou-medico-e-esposa-no-to.ghtml"
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/19/homem-morre-apos-cair-de-paraquedas-em-resende.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T09:00:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/t3IXIJSM1YlIvYu9ELhnXdSzneU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/G/WExQ40QKGTjEHvVjtpfA/casal-morte.png"
+          "updatedAt": "2026-07-19T17:17:09.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "desabamento",
+      "label": "Desabamento",
+      "stories": [
+        {
+          "clusterId": "5889da3ad27daf1f",
+          "slug": "eecee8f8b12983dd",
+          "titulo": "Prédio desaba parcialmente em Governador Valadares e deixa três feridos",
+          "resumo": "Na manhã de domingo, um prédio desabou parcialmente no bairro Jardim Pérola, em Governador Valadares. Entre as vítimas, uma mulher cadeirante caiu do terceiro andar e ficou ferida. O Corpo de Bombeiros foi acionado por volta das 9h e utilizou quatro cães farejadores nas buscas, que não encontraram outras vítimas. No total, três pessoas foram socorridas e encaminhadas para atendimento médico.",
+          "porQueImporta": "O incidente evidencia riscos estruturais em áreas urbanas e a necessidade de respostas rápidas de emergência.",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/19/predio-desaba-parcialmente-e-deixa-feridos-em-governador-valadares.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T17:09:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/B7FfWvVfricyJb4vkJ2zhN66l9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/S/IwtedwSOms9PcS0ARFWQ/whatsapp-image-2026-07-19-at-11.00.21.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "edb41b3ae7b87eab",
+          "slug": "ab924fa05791a724",
+          "titulo": "Veterinário morre em acidente com cavalo durante vaquejada em Niquelândia",
+          "resumo": "Um médico veterinário de 33 anos morreu ao tentar conter um cavalo que fugiu durante uma vaquejada no Parque de Exposições Agropecuárias de Niquelândia, Goiás. O acidente ocorreu na noite de sábado, enquanto ele ajudava a recuperar os animais. A notícia foi confirmada por testemunhas que estavam presentes no evento.",
+          "porQueImporta": "O caso evidencia os riscos de acidentes em eventos rurais e a necessidade de medidas de segurança para participantes e profissionais.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/07/19/veterinario-morre-apos-acidente-durante-vaquejada-em-niquelandia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T15:48:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wMRNt1K6KVi88phZT72eImHxmLo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/O/KbYzJYSX6JwBSqNMDCfQ/diorge-carvalho-santiago.jpg"
         }
       ]
     },
