@@ -1,9 +1,15 @@
 {
-  "ranAt": "2026-07-19T10:08:22.256Z",
+  "ranAt": "2026-07-19T14:04:24.556Z",
   "editionDate": "2026-07-19",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e eventos climáticos concentram a maioria dos registros nesta edição\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: erro — sem cota (429)",
+    "cerebras: ok"
+  ]
 }
