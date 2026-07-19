@@ -1,7 +1,28 @@
 {
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T07:07:07.798Z",
+  "generatedAt": "2026-07-19T10:08:22.256Z",
   "home": [
+    {
+      "clusterId": "f7d5f923e44f1bb2",
+      "slug": "04bb5d3310429705",
+      "titulo": "Mísseis russos atingem Kiev",
+      "resumo": "Mísseis lançados pela Rússia atingiram Kiev, resultando em um óbito e nove feridos, segundo autoridades. Incêndios se espalharam em áreas da cidade. As autoridades continuam investigando os danos e as causas do ataque.",
+      "porQueImporta": "O ataque demonstra a escalada de violência na região e a vulnerabilidade de áreas civis.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/misseis-russos-atingem-kiev-deixando-um-morto-dizem-autoridades/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/19/misseis-russos-atingem-kiev.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-19T05:43:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/4YGOuK5xxEOirpzWRufijqLUUYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/9/AL5AfAScW69MRIiJaY9w/2026-07-19t042224z-185637562-rc2rgma1k9u6-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+    },
     {
       "clusterId": "c1333e85b9393dfa",
       "slug": "21bd80cdb088de3d",
@@ -22,6 +43,73 @@
       ],
       "updatedAt": "2026-07-19T03:31:04.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
+    },
+    {
+      "clusterId": "c037d39abe0d3ebe",
+      "slug": "71f50fc386ee9327",
+      "titulo": "Projeto cria seguro emergencial contra catástrofes naturais",
+      "resumo": "O governo federal lançou um projeto de seguro emergencial que cobre alimentação, vestuário e moradia de vítimas de catástrofes naturais. Parte do prêmio será subsidiada pelo Estado, reduzindo o custo para os segurados. O objetivo é garantir assistência rápida às pessoas afetadas por desastres. A iniciativa ainda está em fase de implementação.",
+      "porQueImporta": "Facilita a proteção de populações vulneráveis diante de eventos climáticos extremos",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-congresso/projeto-propoe-subsidio-federal-para-seguro-contra-catastrofes-naturais/"
+        }
+      ],
+      "updatedAt": "2026-07-19T10:00:39.000Z"
+    },
+    {
+      "clusterId": "f718de1b94f3e0f0",
+      "slug": "0764c76a0a29dbcc",
+      "titulo": "Jovem permanece entre escombros de terremoto na Venezuela para buscar restos mortais",
+      "resumo": "Lorena Laya encontrou os restos mortais de sua madrasta e de sua irmã duas semanas após os terremotos em La Guaira. Ela ainda aguarda a localização dos corpos de seu pai e de seu irmão, permanecendo nos escombros onde os familiares foram enterrados.",
+      "porQueImporta": "Ilustra a continuidade das consequências humanas dos terremotos e a dificuldade de recuperação de vítimas",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/czdm196m375o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-07-19T09:33:59.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96c3/live/7790e2a0-8204-11f1-9155-3fc9a8287ebe.jpg"
+    },
+    {
+      "clusterId": "249acfe18da34b73",
+      "slug": "dce6f6f75bc9aafb",
+      "titulo": "Fiéis buscam recursos para evitar desabamento de igreja centenária em Santa Rita do Passa Quatro",
+      "resumo": "A igreja matriz do distrito de Santa Cruz da Estrela, construída em 1916, foi interditada há cerca de quatro anos devido a graves problemas estruturais que colocam o prédio em risco de colapso. Fiéis da comunidade estão arrecadando aproximadamente R$ 200 mil para realizar as obras necessárias e preservar o patrimônio histórico. O templo já foi palco de eventos como o casamento do compositor Zequinha de Abreu e celebrações conduzidas pelo Padre Donizetti.",
+      "porQueImporta": "A preservação da estrutura evita a perda de um patrimônio cultural e histórico local",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/19/fieis-buscam-r-200-mil-para-salvar-igreja-de-110-anos-interditada-por-risco-de-desabar-no-interior-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-19T09:00:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/f5olA7fxdxu2kaZFlSYp0rVPfmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/B/bP9W2mRy2edhRBS6EDzw/igreja.jpg"
+    },
+    {
+      "clusterId": "dba75ca66460473f",
+      "slug": "37c1fbd73f3e2c12",
+      "titulo": "Avião de pequeno porte cai na zona rural de Palmas e mata médico e esposa",
+      "resumo": "Um avião de pequeno porte que decolou de um aeródromo com destino a Redenção (PA) perdeu altitude logo após a decolagem e caiu em uma área de chácaras entre Palmas e Lajeado, na manhã de sábado. As vítimas foram o médico Éderson da Silva, de 68 anos, e sua esposa Roseli Amarilda Pechulo Silva, de 62 anos, que morreram no local. A ocorrência foi confirmada pelas autoridades locais.",
+      "porQueImporta": "O acidente resultou em duas mortes e evidencia riscos de voos regionais em áreas rurais",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/19/o-que-se-sabe-sobre-queda-de-aviao-que-matou-medico-e-esposa-no-to.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-19T09:00:09.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/t3IXIJSM1YlIvYu9ELhnXdSzneU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/G/WExQ40QKGTjEHvVjtpfA/casal-morte.png"
     },
     {
       "clusterId": "2e51374de839f5e3",
@@ -75,22 +163,6 @@
       "imageUrl": "https://s2-g1.glbimg.com/tXq1vQW2Vkoa23NGocMTxWhoxkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/a/fC7f5nRRKM3l8BTMBz3A/whatsapp-image-2026-07-13-at-16.14.13-2-.jpeg"
     },
     {
-      "clusterId": "ca65b5a2ba5b297b",
-      "slug": "04bb5d3310429705",
-      "titulo": "Mísseis russos atingem Kiev",
-      "resumo": "Mísseis lançados pela Rússia atingiram Kiev, resultando em um óbito e nove feridos, segundo autoridades. Incêndios se espalharam em áreas da cidade. As autoridades continuam investigando os danos e as causas do ataque.",
-      "porQueImporta": "O ataque demonstra a escalada de violência na região e a vulnerabilidade de áreas civis.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/misseis-russos-atingem-kiev-deixando-um-morto-dizem-autoridades/"
-        }
-      ],
-      "updatedAt": "2026-07-19T02:30:28.000Z"
-    },
-    {
       "clusterId": "2864cb7d01b307b8",
       "slug": "5098568cf2f992be",
       "titulo": "Tempestade causa enchentes e interrupções em Nova York",
@@ -105,74 +177,6 @@
         }
       ],
       "updatedAt": "2026-07-19T02:08:30.000Z"
-    },
-    {
-      "clusterId": "ea4498a8f590d888",
-      "slug": "f9172d6635b99b55",
-      "titulo": "RS tem alerta de temporais e ventos fortes para domingo",
-      "resumo": "A instabilidade atmosférica persiste no Rio Grande do Sul neste domingo, com previsão de chuva forte, granizo isolado e ventos entre 70 km/h e 90 km/h em quase todas as regiões. A frente fria avançada lentamente mantém condições favoráveis a precipitações volumosas e descargas elétricas, segundo a Climatempo. As áreas que exigem maior atenção incluem Oeste, Campanha, Missões, Noroeste, Centro, Sul e Costa.",
-      "porQueImporta": "Os ventos e chuvas intensas podem causar alagamentos, quedas de árvores e interrupções de energia, afetando a população.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/18/instabilidade-temporais-rs-saiba-previsao-tempo-domingo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-19T00:57:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ItQU4YfSxOQE-29V-O7VaQm-d0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/k/QovJEcTaWyP6vlOl9p9Q/g1-1-.jpg"
-    },
-    {
-      "clusterId": "f718de1b94f3e0f0",
-      "slug": "0764c76a0a29dbcc",
-      "titulo": "Jovem permanece entre escombros de terremoto na Venezuela para buscar restos mortais",
-      "resumo": "Lorena Laya encontrou os restos mortais de sua madrasta e de sua irmã duas semanas após os terremotos em La Guaira. Ela ainda aguarda a localização dos corpos de seu pai e de seu irmão, permanecendo nos escombros onde os familiares foram enterrados.",
-      "porQueImporta": "Ilustra a continuidade das consequências humanas dos terremotos e a dificuldade de recuperação de vítimas",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/czdm196m375o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-07-19T00:44:14.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96c3/live/7790e2a0-8204-11f1-9155-3fc9a8287ebe.jpg"
-    },
-    {
-      "clusterId": "feb0cc12aba1ca63",
-      "slug": "747f7742e0973ccb",
-      "titulo": "Cavalo cai em bueiro em Passo Fundo e é resgatado",
-      "resumo": "Um cavalo chamado Paçoca caiu em um bueiro na tarde de sábado em Passo Fundo, RS, enquanto seu tutor e um amigo se dirigiam a um treino de laço comprido. O animal ficou preso com apenas o pescoço para fora e precisou ser retirado pelos responsáveis. O tutor, de 18 anos, relatou que o amigo conduzia o cavalo quando o acidente ocorreu. Não houve relatos de ferimentos graves ao cavalo ou às pessoas envolvidas.",
-      "porQueImporta": "O caso evidencia riscos de infraestrutura inadequada para circulação de animais em áreas rurais",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/18/cavalo-cai-bueiro-passo-fundo-rs-video.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-19T00:40:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/8eJZlp3chnez5CAiHki_0DFbM-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/C/2mNAjdQlG4d60WsugC9A/g1-10-.png"
-    },
-    {
-      "clusterId": "2ae93019dcb73474",
-      "slug": "1f32250303793c63",
-      "titulo": "146 municípios da Paraíba em situação de emergência por estiagem e chuvas intensas",
-      "resumo": "A Paraíba registra decretos de situação de emergência em 146 municípios, abrangendo todas as regiões do estado, desde o Sertão até o Litoral. Segundo o Sistema Integrado de Informações sobre Desastres (S2iD) do Ministério da Integração e do Desenvolvimento Regional, as emergências são motivadas principalmente por estiagem, chuvas intensas e alagamentos, com a estiagem predominando no Sertão. Os decretos permanecem vigentes enquanto persistirem as condições adversas.",
-      "porQueImporta": "A extensão da emergência indica risco elevado para populações e necessidade de ações de mitigação e assistência.",
-      "categoria": "Seca",
-      "categoriaSlug": "seca",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/18/estiagem-e-chuvas-intensas-deixam-146-municipios-da-paraiba-em-situacao-de-emergencia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-18T23:57:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/--cBQ-4cdx9Nv7hcv3SYVGPE7WM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/m/1jnAjvQVCh8TDessfjyQ/globo-canal-4-20260501-2000-frame-68648.jpeg"
     }
   ],
   "categorias": [
@@ -180,6 +184,39 @@
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "c037d39abe0d3ebe",
+          "slug": "71f50fc386ee9327",
+          "titulo": "Projeto cria seguro emergencial contra catástrofes naturais",
+          "resumo": "O governo federal lançou um projeto de seguro emergencial que cobre alimentação, vestuário e moradia de vítimas de catástrofes naturais. Parte do prêmio será subsidiada pelo Estado, reduzindo o custo para os segurados. O objetivo é garantir assistência rápida às pessoas afetadas por desastres. A iniciativa ainda está em fase de implementação.",
+          "porQueImporta": "Facilita a proteção de populações vulneráveis diante de eventos climáticos extremos",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-congresso/projeto-propoe-subsidio-federal-para-seguro-contra-catastrofes-naturais/"
+            }
+          ],
+          "updatedAt": "2026-07-19T10:00:39.000Z"
+        },
+        {
+          "clusterId": "249acfe18da34b73",
+          "slug": "dce6f6f75bc9aafb",
+          "titulo": "Fiéis buscam recursos para evitar desabamento de igreja centenária em Santa Rita do Passa Quatro",
+          "resumo": "A igreja matriz do distrito de Santa Cruz da Estrela, construída em 1916, foi interditada há cerca de quatro anos devido a graves problemas estruturais que colocam o prédio em risco de colapso. Fiéis da comunidade estão arrecadando aproximadamente R$ 200 mil para realizar as obras necessárias e preservar o patrimônio histórico. O templo já foi palco de eventos como o casamento do compositor Zequinha de Abreu e celebrações conduzidas pelo Padre Donizetti.",
+          "porQueImporta": "A preservação da estrutura evita a perda de um patrimônio cultural e histórico local",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/19/fieis-buscam-r-200-mil-para-salvar-igreja-de-110-anos-interditada-por-risco-de-desabar-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T09:00:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/f5olA7fxdxu2kaZFlSYp0rVPfmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/B/bP9W2mRy2edhRBS6EDzw/igreja.jpg"
+        },
         {
           "clusterId": "2e51374de839f5e3",
           "slug": "5d98b62c37d8546c",
@@ -230,130 +267,6 @@
           ],
           "updatedAt": "2026-07-19T00:40:34.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/8eJZlp3chnez5CAiHki_0DFbM-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/C/2mNAjdQlG4d60WsugC9A/g1-10-.png"
-        },
-        {
-          "clusterId": "47d44ce59c7cdab8",
-          "slug": "95da578357694725",
-          "titulo": "Mais de 8 mil consumidores ficam sem energia por soltura de pipas no Leste de Minas Gerais",
-          "resumo": "Em 2026, cerca de 8.500 consumidores tiveram interrupções no fornecimento de energia elétrica devido à soltura de pipas nas áreas de Governador Valadares e Ipatinga, segundo dados da Cemig. Em Governador Valadares, 372 clientes foram afetados em cinco ocorrências, enquanto em Ipatinga, 673 clientes ficaram sem energia em duas ocorrências. A prática pode gerar acidentes graves, conforme alertado por especialista da área.",
-          "porQueImporta": "A interrupção afeta o cotidiano de milhares de pessoas e evidencia riscos de segurança associados ao uso de pipas em redes elétricas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/18/em-2026-8-mil-consumidores-ficaram-sem-energia-por-conta-de-pipas-no-leste-de-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T21:10:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kqJ05_j0ryf8GBWcHp5bzeCR_Oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/B/a3RkfaR4qR1Fj0bu99Yw/pipa-na-rede.jfif"
-        },
-        {
-          "clusterId": "54ea15b3e0436ffd",
-          "slug": "4f899d880a054171",
-          "titulo": "Resposta da Venezuela a terremotos é adiada por atrasos e falta de equipamentos",
-          "resumo": "A coordenação da resposta aos recentes terremotos na Venezuela ficou incerta, o que gerou atrasos nas ações das Forças Armadas. Fontes apontam que a ausência de equipamentos adequados também contribuiu para a demora na intervenção.",
-          "porQueImporta": "A lentidão na resposta pode agravar os danos e dificultar o socorro às áreas afetadas",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/atrasos-em-ordens-e-confusao-adiaram-resposta-da-venezuela-a-terremotos/"
-            }
-          ],
-          "updatedAt": "2026-07-18T20:15:48.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "e9314ae1d83bfbbe",
-          "slug": "65b40a0860cd9875",
-          "titulo": "Motorista de 35 anos morre em colisão em Quirinópolis e ciclista de 20 anos morre em acidente em Patos de Minas",
-          "resumo": "Em Quirinópolis, Goiás, um motorista de 35 anos perdeu a vida após seu carro ser atingido por outro veículo que não respeitou a sinalização de \"pare\" e capotar na Avenida Garibaldi Teixeira na sexta-feira. No mesmo período, em Patos de Minas, Minas Gerais, um ciclista de 20 anos morreu ao ser atingido por um carro ao tentar frear em um cruzamento no bairro Jardim Itália no sábado. As duas ocorrências foram registradas por câmeras de segurança e relatadas pelas autoridades locais.",
-          "porQueImporta": "Os acidentes evidenciam a necessidade de atenção ao respeito das sinalizações de trânsito para prevenir fatalidades.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/18/ciclista-de-20-anos-morre-apos-acidente-com-carro-em-cruzamento-de-patos-de-minas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T23:55:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kYHrCMzb2ePXakxj_9wbV6kG5ng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/A/9xugd8RdSaijC2Sfhzrg/design-sem-nome-3-.png"
-        },
-        {
-          "clusterId": "35c45e702f16cbb0",
-          "slug": "5410ef8315870268",
-          "titulo": "Capotamento na marginal da Dutra deixa dois feridos graves em São José dos Campos",
-          "resumo": "Um carro capotou e outro colidiu com um poste após uma batida traseira na marginal da Rodovia Presidente Dutra, próximo ao km 155, no sentido São Paulo. O acidente ocorreu por volta das 16h50 na tarde de sábado. A Polícia Rodoviária Federal resgatou duas pessoas em estado grave. O incidente foi registrado pela concessionária responsável pela rodovia.",
-          "porQueImporta": "Acidentes graves na rodovia podem gerar congestionamentos e demandar serviços de emergência, afetando a mobilidade da região",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/18/capotamento-na-marginal-da-dutra-deixa-dois-feridos-em-estado-grave-em-sao-jose.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T22:14:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/BtbHu_6tJgfonXAlNfQy71Rqyoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/g/8HldLhTjKDBX1XEbn6KQ/foto-g1-29-.png"
-        },
-        {
-          "clusterId": "33d3437657ae431d",
-          "slug": "96bfd454a8b140c9",
-          "titulo": "Carreta carregada de refrigerantes tomba na Rodovia Anhanguera em Limeira",
-          "resumo": "Na madrugada de sábado, uma carreta com refrigerantes tombou na alça de acesso à cidade de Limeira, no quilômetro 148 da rodovia Anhanguera. As equipes de resgate chegaram ao local por volta das 3h30. O motorista perdeu o controle da direção e sofreu ferimentos moderados, sendo encaminhado ao hospital. As causas exatas do tombamento ainda são investigadas pela concessionária responsável pelo trecho.",
-          "porQueImporta": "O acidente interrompe o tráfego na principal via que liga São Paulo a outras regiões, exigindo ação de emergência e investigação para prevenir novos incidentes.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/18/motorista-fica-ferido-apos-tombar-carreta-de-refrigerantes-na-rodovia-anhanguera-em-limeira.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T22:01:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/baDzpx8RSpHXCZ9rIFIsN8EcM-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/J/lXVsWrRsSzy5msvusqJQ/design-sem-nome-42-.png"
-        },
-        {
-          "clusterId": "bc24830c586fc62f",
-          "slug": "583a6ce0fabe86cf",
-          "titulo": "Motociclista morre em acidente na rodovia MGC-154 em Cachoeira Dourada",
-          "resumo": "Um motociclista ficou morto após sua moto cair na faixa de domínio da rodovia MGC-154, no km 2, entre Balsa e Cachoeira Dourada, no Triângulo Mineiro. A Polícia Militar Rodoviária chegou ao local e encontrou a vítima ao lado da motocicleta. O acidente ocorreu na tarde de sábado. A notícia foi divulgada pela PMRv.",
-          "porQueImporta": "O óbito evidencia a necessidade de atenção e segurança nas rodovias da região",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/18/motociclista-morre-apos-acidente-na-mgc-154-em-cachoeira-dourada.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T21:42:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lWz0mQdBIDiZsA9yLCDo7bQfcMw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/X/con8f9QfKWAwTI781yRg/design-sem-nome-4-.png"
-        },
-        {
-          "clusterId": "9e7dc28dcf316879",
-          "slug": "4a21a0ad1e681c9f",
-          "titulo": "Carreta bitrem carregada com cana-de-açúcar tomba e bloqueia alça de retorno em rodovia de SP",
-          "resumo": "Na noite de sexta‑feira (17), uma carreta bitrem com carga de cana‑de‑açúcar tombou no km 0 da pista da rodovia SPD 288/280, sentido interior‑capital, em Águas de Santa Bárbara (SP). O acidente ocorreu por volta das 23h46, segundo a Artesp, e deixou uma pessoa levemente ferida. A queda da carreta bloqueou totalmente a alça de retorno da rodovia.",
-          "porQueImporta": "O bloqueio da via pode gerar congestionamento e atrasos no tráfego da região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/18/carreta-carregada-com-cana-de-acucar-tomba-e-deixa-um-ferido-na-alca-de-retorno-de-rodovia-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T21:29:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0t29gmYh1OBGbAM6Ca8RrJeinqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/K/gtYcQlTheXyUZr7B2zvQ/novo-projeto-34-.png"
         }
       ]
     },
@@ -395,23 +308,6 @@
           "imageUrl": "https://s2-g1.glbimg.com/ItQU4YfSxOQE-29V-O7VaQm-d0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/k/QovJEcTaWyP6vlOl9p9Q/g1-1-.jpg"
         },
         {
-          "clusterId": "72333d45706b1fd8",
-          "slug": "a16c0452a03e940c",
-          "titulo": "Inmet renova alerta de vendaval para todas as cidades da Paraíba",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) renovou o alerta de perigo potencial de vendaval para os 223 municípios da Paraíba, válido durante todo o domingo. O alerta indica ventos entre 40 km/h e 60 km/h, com risco baixo de queda de galhos. A Paraíba permanece em amarelo de perigo potencial de vendaval desde quinta‑feira. O Inmet também mantém alerta de chuvas intensas para 94 cidades, incluindo João Pessoa e Campina Grande.",
-          "porQueImporta": "A população deve ficar atenta ao risco de ventos fortes e possíveis impactos nas áreas afetadas",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/18/inmet-renova-alerta-de-vendaval-para-todas-as-cidades-da-paraiba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T22:19:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RWsD7XZ1H7Jquj3MQJlHkYwZezY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/B/NXSZt3Q4yolCnLiUF4HA/alerta-inmet-1507.avif"
-        },
-        {
           "clusterId": "39e7eb628e5f9237",
           "slug": "201bc6915b2c986c",
           "titulo": "Tempestade no Chile deixa quatro mortos e mais de mil casas afetadas",
@@ -427,6 +323,46 @@
           ],
           "updatedAt": "2026-07-18T06:00:38.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/DtSAZcu3DGvcABZ3LZXH_lja9lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/M/xFnNjUQvWtiGdBOc4nfw/ezgif.com-gif-maker-2-.gif"
+        }
+      ]
+    },
+    {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "f718de1b94f3e0f0",
+          "slug": "0764c76a0a29dbcc",
+          "titulo": "Jovem permanece entre escombros de terremoto na Venezuela para buscar restos mortais",
+          "resumo": "Lorena Laya encontrou os restos mortais de sua madrasta e de sua irmã duas semanas após os terremotos em La Guaira. Ela ainda aguarda a localização dos corpos de seu pai e de seu irmão, permanecendo nos escombros onde os familiares foram enterrados.",
+          "porQueImporta": "Ilustra a continuidade das consequências humanas dos terremotos e a dificuldade de recuperação de vítimas",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/czdm196m375o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-07-19T09:33:59.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96c3/live/7790e2a0-8204-11f1-9155-3fc9a8287ebe.jpg"
+        },
+        {
+          "clusterId": "5835661c42708294",
+          "slug": "b08176af13eae19b",
+          "titulo": "Terremoto de magnitude 7,3 atinge costa sul do México",
+          "resumo": "Um sismo de magnitude 7,3 ocorreu na sexta‑feira na zona costeira sul do México, próximo à fronteira com a Guatemala. O tremor foi sentido com força na região de Chiapas e em outras áreas do país. O Sistema de Alerta de Tsunami dos Estados Unidos emitiu alerta para risco de tsunami no México e na Guatemala, que foi retirado posteriormente.",
+          "porQueImporta": "O evento pode gerar danos estruturais e risco de tsunami em áreas costeiras vulneráveis",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/terremoto-de-magnitude-74-atinge-o-mexico.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-17T15:05:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Mg9wOYeMdaN2Olp97gkK2xzp53o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/hgXYYmTNAAM1DesTbKOQ/2026-07-17t154646z-2137965662-rc2qfma0nuhk-rtrmadp-3-el-salvador-quake.jpg"
         }
       ]
     },
@@ -454,9 +390,9 @@
         {
           "clusterId": "e82b1ad75dfba83e",
           "slug": "87d3573c3a209f2a",
-          "titulo": "Deslizamento de terra deixa oito mortos e 34 desaparecidos em Chongqing",
-          "resumo": "Um deslizamento de terra ocorreu na encosta do rio Wujiang, no condado de Pengshui, em Chongqing, após fortes chuvas na sexta-feira. O desabamento resultou em oito óbitos e 34 pessoas desaparecidas, com dez resgatadas até o momento. As equipes de socorro continuam as buscas na região.",
-          "porQueImporta": "O incidente evidencia o risco de deslizamentos em áreas de encostas durante períodos de chuvas intensas.",
+          "titulo": "Deslizamento de terra deixa oito mortos e dezenas de desaparecidos em Chongqing",
+          "resumo": "Um deslizamento de terra ocorreu na encosta do rio Wujiang, no condado de Pengshui, em Chongqing, após fortes chuvas na sexta-feira. O evento resultou em oito óbitos confirmados e 34 pessoas desaparecidas. Dez pessoas foram resgatadas e as equipes de busca continuam as operações. A ocorrência foi registrada no sábado, 18 de julho de 2026.",
+          "porQueImporta": "A tragédia evidencia o risco de deslizamentos em áreas de encostas durante períodos de chuvas intensas, demandando respostas de emergência e medidas preventivas.",
           "categoria": "Deslizamento",
           "categoriaSlug": "deslizamento",
           "sources": [
@@ -471,42 +407,29 @@
       ]
     },
     {
-      "slug": "terremoto",
-      "label": "Terremoto",
+      "slug": "explosao",
+      "label": "Explosão",
       "stories": [
         {
-          "clusterId": "f718de1b94f3e0f0",
-          "slug": "0764c76a0a29dbcc",
-          "titulo": "Jovem permanece entre escombros de terremoto na Venezuela para buscar restos mortais",
-          "resumo": "Lorena Laya encontrou os restos mortais de sua madrasta e de sua irmã duas semanas após os terremotos em La Guaira. Ela ainda aguarda a localização dos corpos de seu pai e de seu irmão, permanecendo nos escombros onde os familiares foram enterrados.",
-          "porQueImporta": "Ilustra a continuidade das consequências humanas dos terremotos e a dificuldade de recuperação de vítimas",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
+          "clusterId": "f7d5f923e44f1bb2",
+          "slug": "04bb5d3310429705",
+          "titulo": "Mísseis russos atingem Kiev",
+          "resumo": "Mísseis lançados pela Rússia atingiram Kiev, resultando em um óbito e nove feridos, segundo autoridades. Incêndios se espalharam em áreas da cidade. As autoridades continuam investigando os danos e as causas do ataque.",
+          "porQueImporta": "O ataque demonstra a escalada de violência na região e a vulnerabilidade de áreas civis.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
           "sources": [
             {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/czdm196m375o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-07-19T00:44:14.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96c3/live/7790e2a0-8204-11f1-9155-3fc9a8287ebe.jpg"
-        },
-        {
-          "clusterId": "5835661c42708294",
-          "slug": "b08176af13eae19b",
-          "titulo": "Terremoto de magnitude 7,3 atinge costa sul do México",
-          "resumo": "Um sismo de magnitude 7,3 ocorreu na sexta‑feira na zona costeira sul do México, próximo à fronteira com a Guatemala. O tremor foi sentido com força na região de Chiapas e em outras áreas do país. O Sistema de Alerta de Tsunami dos Estados Unidos emitiu alerta para risco de tsunami no México e na Guatemala, que foi retirado posteriormente.",
-          "porQueImporta": "O evento pode gerar danos estruturais e risco de tsunami em áreas costeiras vulneráveis",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/misseis-russos-atingem-kiev-deixando-um-morto-dizem-autoridades/"
+            },
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/terremoto-de-magnitude-74-atinge-o-mexico.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/misseis-russos-atingem-kiev.ghtml"
             }
           ],
-          "updatedAt": "2026-07-17T15:05:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Mg9wOYeMdaN2Olp97gkK2xzp53o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/hgXYYmTNAAM1DesTbKOQ/2026-07-17t154646z-2137965662-rc2qfma0nuhk-rtrmadp-3-el-salvador-quake.jpg"
+          "updatedAt": "2026-07-19T05:43:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/4YGOuK5xxEOirpzWRufijqLUUYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/9/AL5AfAScW69MRIiJaY9w/2026-07-19t042224z-185637562-rc2rgma1k9u6-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
         }
       ]
     },
@@ -538,24 +461,25 @@
       ]
     },
     {
-      "slug": "explosao",
-      "label": "Explosão",
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "ca65b5a2ba5b297b",
-          "slug": "04bb5d3310429705",
-          "titulo": "Mísseis russos atingem Kiev",
-          "resumo": "Mísseis lançados pela Rússia atingiram Kiev, resultando em um óbito e nove feridos, segundo autoridades. Incêndios se espalharam em áreas da cidade. As autoridades continuam investigando os danos e as causas do ataque.",
-          "porQueImporta": "O ataque demonstra a escalada de violência na região e a vulnerabilidade de áreas civis.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "dba75ca66460473f",
+          "slug": "37c1fbd73f3e2c12",
+          "titulo": "Avião de pequeno porte cai na zona rural de Palmas e mata médico e esposa",
+          "resumo": "Um avião de pequeno porte que decolou de um aeródromo com destino a Redenção (PA) perdeu altitude logo após a decolagem e caiu em uma área de chácaras entre Palmas e Lajeado, na manhã de sábado. As vítimas foram o médico Éderson da Silva, de 68 anos, e sua esposa Roseli Amarilda Pechulo Silva, de 62 anos, que morreram no local. A ocorrência foi confirmada pelas autoridades locais.",
+          "porQueImporta": "O acidente resultou em duas mortes e evidencia riscos de voos regionais em áreas rurais",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/misseis-russos-atingem-kiev-deixando-um-morto-dizem-autoridades/"
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/19/o-que-se-sabe-sobre-queda-de-aviao-que-matou-medico-e-esposa-no-to.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T02:30:28.000Z"
+          "updatedAt": "2026-07-19T09:00:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/t3IXIJSM1YlIvYu9ELhnXdSzneU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/G/WExQ40QKGTjEHvVjtpfA/casal-morte.png"
         }
       ]
     },
@@ -583,46 +507,25 @@
       ]
     },
     {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "8f25c50d35bbd201",
-          "slug": "308e570791bbf1fb",
-          "titulo": "Casal de idosos morre em acidente aéreo no Tocantins",
-          "resumo": "Uma mulher de 62 anos e um homem de 79 anos morreram após a queda de um avião de pequeno porte no estado do Tocantins. O piloto do avião foi socorrido e permanece internado no Hospital Geral de Palmas. As vítimas eram um casal de idosos. O acidente ocorreu em voo particular.",
-          "porQueImporta": "O incidente evidencia riscos de voos de pequeno porte e a necessidade de medidas de segurança na aviação regional.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
+          "clusterId": "e9314ae1d83bfbbe",
+          "slug": "65b40a0860cd9875",
+          "titulo": "Motorista de 35 anos morre em colisão em Quirinópolis e ciclista de 20 anos morre em acidente em Patos de Minas",
+          "resumo": "Em Quirinópolis, Goiás, um motorista de 35 anos perdeu a vida após seu carro ser atingido por outro veículo que não respeitou a sinalização de \"pare\" e capotar na Avenida Garibaldi Teixeira na sexta-feira. No mesmo período, em Patos de Minas, Minas Gerais, um ciclista de 20 anos morreu ao ser atingido por um carro ao tentar frear em um cruzamento no bairro Jardim Itália no sábado. As duas ocorrências foram registradas por câmeras de segurança e relatadas pelas autoridades locais.",
+          "porQueImporta": "Os acidentes evidenciam a necessidade de atenção ao respeito das sinalizações de trânsito para prevenir fatalidades.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/norte/to/casal-de-idosos-morre-apos-queda-de-aviao-de-pequeno-porte-no-tocantins/"
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/18/ciclista-de-20-anos-morre-apos-acidente-com-carro-em-cruzamento-de-patos-de-minas.ghtml"
             }
           ],
-          "updatedAt": "2026-07-18T21:50:08.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "4537e81178352657",
-          "slug": "7e118ea665ada012",
-          "titulo": "Forças Armadas canadenses preparam resgate aéreo de cerca de 600 moradores de Fort Hope",
-          "resumo": "Incêndios têm ameaçado a comunidade indígena de Fort Hope, em Ontário, forçando autoridades a organizar operações de evacuação. As Forças Armadas do Canadá se mobilizam para realizar um resgate aéreo que deve alcançar aproximadamente 600 residentes. A iniciativa visa proteger a população diante da propagação do fogo e das condições climáticas adversas.",
-          "porQueImporta": "O resgate destaca a vulnerabilidade de comunidades remotas a desastres naturais e a necessidade de respostas emergenciais rápidas.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/canada-tenta-resgatar-moradores-de-comunidade-remota-em-meio-a-incendios/"
-            }
-          ],
-          "updatedAt": "2026-07-18T20:28:41.000Z"
+          "updatedAt": "2026-07-18T23:55:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kYHrCMzb2ePXakxj_9wbV6kG5ng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/A/9xugd8RdSaijC2Sfhzrg/design-sem-nome-3-.png"
         }
       ]
     },
