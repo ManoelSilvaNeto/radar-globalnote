@@ -1,9 +1,9 @@
 {
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T04:04:34.260Z",
+  "generatedAt": "2026-07-19T07:07:07.798Z",
   "home": [
     {
-      "clusterId": "223ca13a3c7a0cd4",
+      "clusterId": "c1333e85b9393dfa",
       "slug": "21bd80cdb088de3d",
       "titulo": "Terremoto de magnitude 5,5 atinge região central do Peru",
       "resumo": "Um terremoto de magnitude 5,5 foi registrado na região central do Peru, com epicentro a 22 km de distância de Huancayo e a 190 km de Lima. O abalo ocorreu a 10 km de profundidade, por volta das 21h30 do horário local (23h30 em Brasília). O Centro Sismológico Europeu-Mediterrâneo e o Centro de Sismologia do Peru confirmaram a magnitude e a profundidade do evento.",
@@ -18,14 +18,61 @@
         {
           "name": "G1",
           "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-de-magnitude-56-atinge-regiao-central-do-peru.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-55-atinge-regiao-central-do-peru"
         }
       ],
       "updatedAt": "2026-07-19T03:31:04.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
+    },
+    {
+      "clusterId": "2e51374de839f5e3",
+      "slug": "5d98b62c37d8546c",
+      "titulo": "Alzheimer pode envolver microinfartos cerebrais silenciosos",
+      "resumo": "Estudos pós-morte de pessoas com demência revelam acúmulo de gorduras e microinfartos cerebrais, além das placas beta-amiloides e proteínas tau. Esses microinfartos são assintomáticos, mas podem se acumular e prejudicar a cognição. A pesquisa amplia a compreensão da doença ao considerar esses fatores vasculares.",
+      "porQueImporta": "Entender múltiplas causas do Alzheimer pode melhorar diagnóstico e estratégias de prevenção.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/07/19/o-que-o-alzheimer-tem-a-ver-com-sindemia-conceito-que-junta-sinergia-com-epidemia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-19T07:01:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rXFp49Fq8oBkjr7wgZUAhYltaeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/GTD8vaRValzHLlaAy3Mw/aaic2026dia19.webp"
+    },
+    {
+      "clusterId": "e1f2850bb6cc66d3",
+      "slug": "3ae6cfb0e6f93380",
+      "titulo": "Cachoeira do Tabuleiro reabre para visitação após cinco anos de interdição",
+      "resumo": "A maior cachoeira de Minas Gerais, localizada em Conceição do Mato Dentro, será reaberta ao público neste domingo às 9h. O acesso ao poço principal ficou interditado por quase cinco anos devido ao risco de desprendimento de rochas. A reabertura ocorre após a conclusão de obras de estabilização da encosta e a instalação de um sistema de monitoramento em tempo real.",
+      "porQueImporta": "A reabertura permite a retomada do turismo local com maior segurança para os visitantes",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/19/cachoeira-do-tabuleiro-a-maior-de-minas-abre-neste-domingo-para-visitacao-apos-5-anos-fechada.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-19T07:01:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/sX_webh9nAxCE5E5Q_wDMiko1OA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/9/Do4zjHQgCOgeDdPTJWIg/0-20-cachoeira-tabuleiro-1-.mxf.png"
+    },
+    {
+      "clusterId": "bef73b68c6494a4b",
+      "slug": "f38889f7142b08bc",
+      "titulo": "Do papel esfumaçado ao algoritmo: como o maior terremoto do RN transformou a sismologia brasileira",
+      "resumo": "João Câmara, 'Terra dos Abalos': maior terremoto do RN completa 40 anos e mudou a sismolog Quando um tremor de magnitude 1.7 foi registrado em João Câmara às 20h26, no dia 19 de fevereiro deste ano, poucos minutos bastaram para que a informação chegasse aos computadores do Laboratório Sismológico da UFRN, em Natal. O sinal percorreu a rede de dezenas de estações espalhadas pelo Nordeste, foi processado por sistemas digitais, revisado por especialistas e transformado em boletim, que pode ser acessado pela Defesa Civil e pelo Centro Nacional de Monitoramento e Alertas de Desastres Naturais…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/19/do-papel-esfumacado-ao-algoritmo-como-o-maior-terremoto-do-rn-transformou-a-sismologia-brasileira.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-19T07:00:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/tXq1vQW2Vkoa23NGocMTxWhoxkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/a/fC7f5nRRKM3l8BTMBz3A/whatsapp-image-2026-07-13-at-16.14.13-2-.jpeg"
     },
     {
       "clusterId": "ca65b5a2ba5b297b",
@@ -126,57 +173,6 @@
       ],
       "updatedAt": "2026-07-18T23:57:31.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/--cBQ-4cdx9Nv7hcv3SYVGPE7WM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/m/1jnAjvQVCh8TDessfjyQ/globo-canal-4-20260501-2000-frame-68648.jpeg"
-    },
-    {
-      "clusterId": "e9314ae1d83bfbbe",
-      "slug": "65b40a0860cd9875",
-      "titulo": "Motorista de 35 anos morre em colisão em Quirinópolis e ciclista de 20 anos morre em acidente em Patos de Minas",
-      "resumo": "Em Quirinópolis, Goiás, um motorista de 35 anos perdeu a vida após seu carro ser atingido por outro veículo que não respeitou a sinalização de \"pare\" e capotar na Avenida Garibaldi Teixeira na sexta-feira. No mesmo período, em Patos de Minas, Minas Gerais, um ciclista de 20 anos morreu ao ser atingido por um carro ao tentar frear em um cruzamento no bairro Jardim Itália no sábado. As duas ocorrências foram registradas por câmeras de segurança e relatadas pelas autoridades locais.",
-      "porQueImporta": "Os acidentes evidenciam a necessidade de atenção ao respeito das sinalizações de trânsito para prevenir fatalidades.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/18/ciclista-de-20-anos-morre-apos-acidente-com-carro-em-cruzamento-de-patos-de-minas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-18T23:55:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kYHrCMzb2ePXakxj_9wbV6kG5ng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/A/9xugd8RdSaijC2Sfhzrg/design-sem-nome-3-.png"
-    },
-    {
-      "clusterId": "9c89f7f1bbc0e6bc",
-      "slug": "b30ea930b7c30108",
-      "titulo": "Venezuela atualiza balanço de mortes e desabrigados após terremotos",
-      "resumo": "Autoridades venezuelanas informaram que o número de mortes causadas pelos recentes terremotos subiu para 5.119, 50 a mais que o último levantamento. Mais de 17,9 mil pessoas continuam desabrigadas em decorrência dos abalos sísmicos.",
-      "porQueImporta": "Os dados atualizados evidenciam a gravidade da crise humanitária gerada pelos terremotos na Venezuela.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/venezuela-atualiza-balanco-e-ja-soma-5-119-mortes-apos-terremotos"
-        }
-      ],
-      "updatedAt": "2026-07-18T23:15:30.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/terremoto-na-venezuela-caracas-mortes-desabrigados-metropoles-1-scaled.jpg"
-    },
-    {
-      "clusterId": "72333d45706b1fd8",
-      "slug": "a16c0452a03e940c",
-      "titulo": "Inmet renova alerta de vendaval para todas as cidades da Paraíba",
-      "resumo": "O Instituto Nacional de Meteorologia (Inmet) renovou o alerta de perigo potencial de vendaval para os 223 municípios da Paraíba, válido durante todo o domingo. O alerta indica ventos entre 40 km/h e 60 km/h, com risco baixo de queda de galhos. A Paraíba permanece em amarelo de perigo potencial de vendaval desde quinta‑feira. O Inmet também mantém alerta de chuvas intensas para 94 cidades, incluindo João Pessoa e Campina Grande.",
-      "porQueImporta": "A população deve ficar atenta ao risco de ventos fortes e possíveis impactos nas áreas afetadas",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/18/inmet-renova-alerta-de-vendaval-para-todas-as-cidades-da-paraiba.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-18T22:19:38.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/RWsD7XZ1H7Jquj3MQJlHkYwZezY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/B/NXSZt3Q4yolCnLiUF4HA/alerta-inmet-1507.avif"
     }
   ],
   "categorias": [
@@ -184,6 +180,40 @@
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "2e51374de839f5e3",
+          "slug": "5d98b62c37d8546c",
+          "titulo": "Alzheimer pode envolver microinfartos cerebrais silenciosos",
+          "resumo": "Estudos pós-morte de pessoas com demência revelam acúmulo de gorduras e microinfartos cerebrais, além das placas beta-amiloides e proteínas tau. Esses microinfartos são assintomáticos, mas podem se acumular e prejudicar a cognição. A pesquisa amplia a compreensão da doença ao considerar esses fatores vasculares.",
+          "porQueImporta": "Entender múltiplas causas do Alzheimer pode melhorar diagnóstico e estratégias de prevenção.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/07/19/o-que-o-alzheimer-tem-a-ver-com-sindemia-conceito-que-junta-sinergia-com-epidemia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T07:01:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rXFp49Fq8oBkjr7wgZUAhYltaeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/GTD8vaRValzHLlaAy3Mw/aaic2026dia19.webp"
+        },
+        {
+          "clusterId": "bef73b68c6494a4b",
+          "slug": "f38889f7142b08bc",
+          "titulo": "Do papel esfumaçado ao algoritmo: como o maior terremoto do RN transformou a sismologia brasileira",
+          "resumo": "João Câmara, 'Terra dos Abalos': maior terremoto do RN completa 40 anos e mudou a sismolog Quando um tremor de magnitude 1.7 foi registrado em João Câmara às 20h26, no dia 19 de fevereiro deste ano, poucos minutos bastaram para que a informação chegasse aos computadores do Laboratório Sismológico da UFRN, em Natal. O sinal percorreu a rede de dezenas de estações espalhadas pelo Nordeste, foi processado por sistemas digitais, revisado por especialistas e transformado em boletim, que pode ser acessado pela Defesa Civil e pelo Centro Nacional de Monitoramento e Alertas de Desastres Naturais…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/19/do-papel-esfumacado-ao-algoritmo-como-o-maior-terremoto-do-rn-transformou-a-sismologia-brasileira.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T07:00:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/tXq1vQW2Vkoa23NGocMTxWhoxkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/a/fC7f5nRRKM3l8BTMBz3A/whatsapp-image-2026-07-13-at-16.14.13-2-.jpeg"
+        },
         {
           "clusterId": "feb0cc12aba1ca63",
           "slug": "747f7742e0973ccb",
@@ -200,23 +230,6 @@
           ],
           "updatedAt": "2026-07-19T00:40:34.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/8eJZlp3chnez5CAiHki_0DFbM-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/C/2mNAjdQlG4d60WsugC9A/g1-10-.png"
-        },
-        {
-          "clusterId": "9e7dc28dcf316879",
-          "slug": "4a21a0ad1e681c9f",
-          "titulo": "Carreta carregada com cana-de-açúcar tomba e deixa um ferido na alça de retorno de rodovia no interior de SP",
-          "resumo": "Carreta bitrem tombou e derramou cana-de-açúcar na noite de sexta-feira (17), em Águas de Santa Bárbara (SP). Artesp/Divulgação O tombamento de uma carreta bitrem carregada com cana-de-açúcar na noite de sexta-feira (17) deixou uma pessoa levemente ferida e bloqueou totalmente uma alça de retorno da rodovia SPD 288/280 em Águas de Santa Bárbara (SP). De acordo com a Agência de Transporte do Estado de São Paulo (Artesp), o acidente aconteceu por volta das 23h46 no km 0 da pista no sentido interior-capital. 📲 Participe do canal do g1 Itapetininga e Região no WhatsApp O motorista relatou aos…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/18/carreta-carregada-com-cana-de-acucar-tomba-e-deixa-um-ferido-na-alca-de-retorno-de-rodovia-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T21:29:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0t29gmYh1OBGbAM6Ca8RrJeinqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/K/gtYcQlTheXyUZr7B2zvQ/novo-projeto-34-.png"
         },
         {
           "clusterId": "47d44ce59c7cdab8",
@@ -250,130 +263,6 @@
             }
           ],
           "updatedAt": "2026-07-18T20:15:48.000Z"
-        },
-        {
-          "clusterId": "8f779a283a040141",
-          "slug": "effb353cef2c50df",
-          "titulo": "Justiça mantém prisão preventiva de homem suspeito de espancar cachorro e jogá‑lo em fogueira em Queimadas (PB)",
-          "resumo": "Um homem de 53 anos foi preso em flagrante por espancar um cachorro e lançar o animal em uma fogueira na zona rural de Queimadas, no Agreste da Paraíba. A prisão preventiva foi mantida durante a audiência de custódia realizada na tarde de sábado. O delegado Artur Andrade, responsável pela investigação, confirmou a manutenção da medida. Até o momento, a identidade do suspeito não foi divulgada publicamente.",
-          "porQueImporta": "O caso evidencia a necessidade de coibir maus‑tratos a animais e reforça a atuação do sistema de justiça na proteção dos direitos dos animais",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/18/justica-mantem-prisao-de-homem-suspeito-de-espancar-cachorro-e-jogar-animal-em-fogueira-no-agreste-da-pb.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T20:01:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9zBXwDO2Jj_hnQXf6Zg1sj4poeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/x/lCzhQoRRKpWWBKi9AntQ/homempresoagressaoanimal.jpg"
-        },
-        {
-          "clusterId": "06481b1ce7026702",
-          "slug": "1ccc37bc43b5d57d",
-          "titulo": "Mortes em Paris mais que dobram em junho durante onda de calor extremo",
-          "resumo": "A agência sanitária da região de Île-de-France registrou mais de 3 mil óbitos entre 22 e 28 de junho, representando um aumento de 1.565 mortes em relação ao mesmo período do ano passado. O aumento corresponde a mais que o dobro de mortes registradas em junho anterior, segundo relatório divulgado na sexta‑feira. A onda de calor tem afetado a Europa nas últimas semanas, contribuindo para um acréscimo de cerca de 10 mil mortes no continente durante o pico da temperatura.",
-          "porQueImporta": "O crescimento significativo de mortes evidencia o impacto mortal de ondas de calor extremas em áreas urbanas densas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/mortes-em-paris-mais-que-dobram-em-junho-por-conta-do-calor-extremo-diz-governo-local.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-17T14:03:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xMZSrAarWxeprX3HYSUG4upWCbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/YIjwRlSbOpxVcWBkyw6w/2026-06-23t162403z-24911831-rc2szla8x0x6-rtrmadp-3-europe-weather-france.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "2864cb7d01b307b8",
-          "slug": "5098568cf2f992be",
-          "titulo": "Tempestade causa enchentes e interrupções em Nova York",
-          "resumo": "Chuvas intensas provocaram alagamentos em cinco distritos de Nova York, atingindo o metrô e bloqueando vias. As condições adversas também afetaram a operação de voos nos aeroportos LaGuardia, John F. Kennedy e Newark. As autoridades monitoram a situação e orientam a população a evitar áreas inundadas. Não há relatos de vítimas graves até o momento.",
-          "porQueImporta": "A ocorrência interrompe o transporte urbano e aéreo, impactando milhares de pessoas na região metropolitana.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-internacional/tempestade-atinge-nova-york-e-provoca-enchentes-nos-5-distritos/"
-            }
-          ],
-          "updatedAt": "2026-07-19T02:08:30.000Z"
-        },
-        {
-          "clusterId": "ea4498a8f590d888",
-          "slug": "f9172d6635b99b55",
-          "titulo": "RS tem alerta de temporais e ventos fortes para domingo",
-          "resumo": "A instabilidade atmosférica persiste no Rio Grande do Sul neste domingo, com previsão de chuva forte, granizo isolado e ventos entre 70 km/h e 90 km/h em quase todas as regiões. A frente fria avançada lentamente mantém condições favoráveis a precipitações volumosas e descargas elétricas, segundo a Climatempo. As áreas que exigem maior atenção incluem Oeste, Campanha, Missões, Noroeste, Centro, Sul e Costa.",
-          "porQueImporta": "Os ventos e chuvas intensas podem causar alagamentos, quedas de árvores e interrupções de energia, afetando a população.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/18/instabilidade-temporais-rs-saiba-previsao-tempo-domingo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-19T00:57:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ItQU4YfSxOQE-29V-O7VaQm-d0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/k/QovJEcTaWyP6vlOl9p9Q/g1-1-.jpg"
-        },
-        {
-          "clusterId": "72333d45706b1fd8",
-          "slug": "a16c0452a03e940c",
-          "titulo": "Inmet renova alerta de vendaval para todas as cidades da Paraíba",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) renovou o alerta de perigo potencial de vendaval para os 223 municípios da Paraíba, válido durante todo o domingo. O alerta indica ventos entre 40 km/h e 60 km/h, com risco baixo de queda de galhos. A Paraíba permanece em amarelo de perigo potencial de vendaval desde quinta‑feira. O Inmet também mantém alerta de chuvas intensas para 94 cidades, incluindo João Pessoa e Campina Grande.",
-          "porQueImporta": "A população deve ficar atenta ao risco de ventos fortes e possíveis impactos nas áreas afetadas",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/18/inmet-renova-alerta-de-vendaval-para-todas-as-cidades-da-paraiba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T22:19:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RWsD7XZ1H7Jquj3MQJlHkYwZezY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/B/NXSZt3Q4yolCnLiUF4HA/alerta-inmet-1507.avif"
-        },
-        {
-          "clusterId": "22a796f96cb2ddd1",
-          "slug": "b18dc55145ef6a43",
-          "titulo": "Temperaturas acima de 35°C registradas em cinco cidades do RS antes de temporais",
-          "resumo": "No sábado (18), cinco cidades do Rio Grande do Sul registraram temperaturas superiores a 35°C, com a maior de 36,7°C em Rolante. As medições foram divulgadas pela Climatempo. O fenômeno ocorreu antes da previsão de temporais com risco de granizo e ventos fortes em várias regiões do estado.",
-          "porQueImporta": "Temperaturas incomuns aumentam risco de incêndios e agravam a sensação de calor antes de eventos climáticos severos.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/18/cinco-cidades-35c-inverno-rs-chegada-temporal-granizo-ventos-fortes-previsao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T20:02:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1W-N89PrPwFKn5IwwTJoG5YTCmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/M/Ah4QUYR6mQyWDvMGXJ8Q/5169661-1b3e7af9b8bfac2.jpg"
-        },
-        {
-          "clusterId": "eef63ad8e0131737",
-          "slug": "48e7500744509425",
-          "titulo": "Tempestade no Chile deixa mortes e milhares de casas afetadas",
-          "resumo": "Uma forte tempestade que atingiu 10 das 16 regiões do Chile provocou alagamentos, ventos e ressacas. As autoridades registraram pelo menos quatro mortos, com a última vítima confirmada na região de Valparaíso, e 1.595 casas afetadas. Cinco pessoas ficaram feridas e dezenas de residentes foram evacuados. O fenômeno começou na tarde de 15 de junho e deve persistir até pelo menos 19 de junho.",
-          "porQueImporta": "O evento evidencia risco de enxurradas e deslizamentos em áreas densamente povoadas, demandando respostas de emergência.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/forte-tempestade-deixa-mortos-no-chile.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T06:00:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DtSAZcu3DGvcABZ3LZXH_lja9lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/M/xFnNjUQvWtiGdBOc4nfw/ezgif.com-gif-maker-2-.gif"
         }
       ]
     },
@@ -450,21 +339,134 @@
           "imageUrl": "https://s2-g1.glbimg.com/lWz0mQdBIDiZsA9yLCDo7bQfcMw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/X/con8f9QfKWAwTI781yRg/design-sem-nome-4-.png"
         },
         {
-          "clusterId": "6a100be89d7a7ab1",
-          "slug": "3ad4cd4cb5406275",
-          "titulo": "Motorista de 62 anos morre ao colidir com caminhão estacionado em Taubaté",
-          "resumo": "Um homem de 62 anos morreu na manhã de sábado ao colidir a traseira de seu carro com um caminhão parado no acostamento, no bairro São Gonçalo, em Taubaté. A vítima foi socorrida pelos policiais militares, mas faleceu ainda no local. A Polícia Civil conduziu a investigação e acionou a perícia técnico‑científica.",
-          "porQueImporta": "O acidente evidencia riscos de trânsito em áreas de parada de veículos, demandando atenção e medidas de segurança.",
+          "clusterId": "9e7dc28dcf316879",
+          "slug": "4a21a0ad1e681c9f",
+          "titulo": "Carreta bitrem carregada com cana-de-açúcar tomba e bloqueia alça de retorno em rodovia de SP",
+          "resumo": "Na noite de sexta‑feira (17), uma carreta bitrem com carga de cana‑de‑açúcar tombou no km 0 da pista da rodovia SPD 288/280, sentido interior‑capital, em Águas de Santa Bárbara (SP). O acidente ocorreu por volta das 23h46, segundo a Artesp, e deixou uma pessoa levemente ferida. A queda da carreta bloqueou totalmente a alça de retorno da rodovia.",
+          "porQueImporta": "O bloqueio da via pode gerar congestionamento e atrasos no tráfego da região.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/18/motorista-morre-apos-bater-carro-na-traseira-de-caminhao-estacionado-em-taubate.ghtml"
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/18/carreta-carregada-com-cana-de-acucar-tomba-e-deixa-um-ferido-na-alca-de-retorno-de-rodovia-no-interior-de-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-07-18T20:46:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ebcFy6klbZUr3zJP74VfZqf95QM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/C/KFgOjLQlKPwoNNqgdBwA/image-2-.png"
+          "updatedAt": "2026-07-18T21:29:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0t29gmYh1OBGbAM6Ca8RrJeinqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/K/gtYcQlTheXyUZr7B2zvQ/novo-projeto-34-.png"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "2864cb7d01b307b8",
+          "slug": "5098568cf2f992be",
+          "titulo": "Tempestade causa enchentes e interrupções em Nova York",
+          "resumo": "Chuvas intensas provocaram alagamentos em cinco distritos de Nova York, atingindo o metrô e bloqueando vias. As condições adversas também afetaram a operação de voos nos aeroportos LaGuardia, John F. Kennedy e Newark. As autoridades monitoram a situação e orientam a população a evitar áreas inundadas. Não há relatos de vítimas graves até o momento.",
+          "porQueImporta": "A ocorrência interrompe o transporte urbano e aéreo, impactando milhares de pessoas na região metropolitana.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/tempestade-atinge-nova-york-e-provoca-enchentes-nos-5-distritos/"
+            }
+          ],
+          "updatedAt": "2026-07-19T02:08:30.000Z"
+        },
+        {
+          "clusterId": "ea4498a8f590d888",
+          "slug": "f9172d6635b99b55",
+          "titulo": "RS tem alerta de temporais e ventos fortes para domingo",
+          "resumo": "A instabilidade atmosférica persiste no Rio Grande do Sul neste domingo, com previsão de chuva forte, granizo isolado e ventos entre 70 km/h e 90 km/h em quase todas as regiões. A frente fria avançada lentamente mantém condições favoráveis a precipitações volumosas e descargas elétricas, segundo a Climatempo. As áreas que exigem maior atenção incluem Oeste, Campanha, Missões, Noroeste, Centro, Sul e Costa.",
+          "porQueImporta": "Os ventos e chuvas intensas podem causar alagamentos, quedas de árvores e interrupções de energia, afetando a população.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/18/instabilidade-temporais-rs-saiba-previsao-tempo-domingo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T00:57:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ItQU4YfSxOQE-29V-O7VaQm-d0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/k/QovJEcTaWyP6vlOl9p9Q/g1-1-.jpg"
+        },
+        {
+          "clusterId": "72333d45706b1fd8",
+          "slug": "a16c0452a03e940c",
+          "titulo": "Inmet renova alerta de vendaval para todas as cidades da Paraíba",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) renovou o alerta de perigo potencial de vendaval para os 223 municípios da Paraíba, válido durante todo o domingo. O alerta indica ventos entre 40 km/h e 60 km/h, com risco baixo de queda de galhos. A Paraíba permanece em amarelo de perigo potencial de vendaval desde quinta‑feira. O Inmet também mantém alerta de chuvas intensas para 94 cidades, incluindo João Pessoa e Campina Grande.",
+          "porQueImporta": "A população deve ficar atenta ao risco de ventos fortes e possíveis impactos nas áreas afetadas",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/18/inmet-renova-alerta-de-vendaval-para-todas-as-cidades-da-paraiba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-18T22:19:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RWsD7XZ1H7Jquj3MQJlHkYwZezY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/B/NXSZt3Q4yolCnLiUF4HA/alerta-inmet-1507.avif"
+        },
+        {
+          "clusterId": "39e7eb628e5f9237",
+          "slug": "201bc6915b2c986c",
+          "titulo": "Tempestade no Chile deixa quatro mortos e mais de mil casas afetadas",
+          "resumo": "Uma tempestade que atingiu 10 dos 16 municípios do Chile provocou ao menos quatro mortes, segundo o subsecretário do Interior, Máximo Pavez. A região central de Valparaíso teve alerta vermelho decretado por risco de enxurradas e deslizamentos. Cerca de 1.595 residências foram afetadas pelos fortes chuvas, ressacas e ventos.",
+          "porQueImporta": "A ocorrência evidencia risco de desastres naturais que podem impactar milhares de pessoas e demandar respostas emergenciais",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/18/tempestade-no-chile-numero-de-mortos-sobe-para-quatro-e-mais-de-15-mil-casas-sao-afetadas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-18T06:00:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DtSAZcu3DGvcABZ3LZXH_lja9lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/M/xFnNjUQvWtiGdBOc4nfw/ezgif.com-gif-maker-2-.gif"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "e1f2850bb6cc66d3",
+          "slug": "3ae6cfb0e6f93380",
+          "titulo": "Cachoeira do Tabuleiro reabre para visitação após cinco anos de interdição",
+          "resumo": "A maior cachoeira de Minas Gerais, localizada em Conceição do Mato Dentro, será reaberta ao público neste domingo às 9h. O acesso ao poço principal ficou interditado por quase cinco anos devido ao risco de desprendimento de rochas. A reabertura ocorre após a conclusão de obras de estabilização da encosta e a instalação de um sistema de monitoramento em tempo real.",
+          "porQueImporta": "A reabertura permite a retomada do turismo local com maior segurança para os visitantes",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/19/cachoeira-do-tabuleiro-a-maior-de-minas-abre-neste-domingo-para-visitacao-apos-5-anos-fechada.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T07:01:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sX_webh9nAxCE5E5Q_wDMiko1OA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/9/Do4zjHQgCOgeDdPTJWIg/0-20-cachoeira-tabuleiro-1-.mxf.png"
+        },
+        {
+          "clusterId": "e82b1ad75dfba83e",
+          "slug": "87d3573c3a209f2a",
+          "titulo": "Deslizamento de terra deixa oito mortos e 34 desaparecidos em Chongqing",
+          "resumo": "Um deslizamento de terra ocorreu na encosta do rio Wujiang, no condado de Pengshui, em Chongqing, após fortes chuvas na sexta-feira. O desabamento resultou em oito óbitos e 34 pessoas desaparecidas, com dez resgatadas até o momento. As equipes de socorro continuam as buscas na região.",
+          "porQueImporta": "O incidente evidencia o risco de deslizamentos em áreas de encostas durante períodos de chuvas intensas.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/18/deslizamento-de-terra-deixa-8-mortos-e-34-desaparecidos-na-china.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-18T08:00:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xq7vTDdTvF2fUXvcpO3i1d0gsXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Y/zNXNWZQqm3Of2nafZpNA/ap26199081265093.jpg"
         }
       ]
     },
@@ -490,23 +492,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96c3/live/7790e2a0-8204-11f1-9155-3fc9a8287ebe.jpg"
         },
         {
-          "clusterId": "9c89f7f1bbc0e6bc",
-          "slug": "b30ea930b7c30108",
-          "titulo": "Venezuela atualiza balanço de mortes e desabrigados após terremotos",
-          "resumo": "Autoridades venezuelanas informaram que o número de mortes causadas pelos recentes terremotos subiu para 5.119, 50 a mais que o último levantamento. Mais de 17,9 mil pessoas continuam desabrigadas em decorrência dos abalos sísmicos.",
-          "porQueImporta": "Os dados atualizados evidenciam a gravidade da crise humanitária gerada pelos terremotos na Venezuela.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/venezuela-atualiza-balanco-e-ja-soma-5-119-mortes-apos-terremotos"
-            }
-          ],
-          "updatedAt": "2026-07-18T23:15:30.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/07/terremoto-na-venezuela-caracas-mortes-desabrigados-metropoles-1-scaled.jpg"
-        },
-        {
           "clusterId": "5835661c42708294",
           "slug": "b08176af13eae19b",
           "titulo": "Terremoto de magnitude 7,3 atinge costa sul do México",
@@ -526,50 +511,11 @@
       ]
     },
     {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "17753e67b19617ac",
-          "slug": "ebdeb979b9381fee",
-          "titulo": "Serviço Geológico do Brasil identifica seis áreas de risco para inundações e deslizamentos em Passos (MG)",
-          "resumo": "Um levantamento do Serviço Geológico do Brasil apontou seis áreas de risco para inundações e deslizamentos no município de Passos, Minas Gerais. Nessas áreas estão localizadas 166 residências, afetando mais de 660 pessoas. O estudo visa subsidiar políticas públicas de prevenção de desastres. Um dos pontos mapeados inclui a Avenida da Moda, onde comerciantes relatam transtornos durante chuvas intensas.",
-          "porQueImporta": "A identificação das áreas vulneráveis permite a adoção de medidas preventivas para proteger a população e reduzir danos materiais.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/18/passos-tem-seis-areas-de-risco-para-inundacoes-e-deslizamentos-aponta-estudo-do-servico-geologico-do-brasil.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T20:43:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ogLiVQFRIXuTfgTfL2Un6MBfCik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/a/kju62bT2CgVLBYmYTIfQ/riscopassos.png"
-        },
-        {
-          "clusterId": "70005fced3862c7e",
-          "slug": "714a833199a6046e",
-          "titulo": "Enchente no Vietnã deixa quatro mortos e desaparecidos",
-          "resumo": "Águas subiram rapidamente em uma vila montanhosa da província de Lai Chau, no norte do Vietnã, provocando alagamentos. A inundação resultou em quatro mortes confirmadas e deixou pessoas desaparecidas. As autoridades locais iniciaram buscas e operações de socorro na região afetada.",
-          "porQueImporta": "O evento evidencia a vulnerabilidade de comunidades montanhosas a enchentes repentinas, demandando atenção a medidas de prevenção e resposta.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/enchente-deixa-mortos-e-desaparecidos/"
-            }
-          ],
-          "updatedAt": "2026-07-18T18:58:36.000Z"
-        }
-      ]
-    },
-    {
       "slug": "desastre",
       "label": "Desastre",
       "stories": [
         {
-          "clusterId": "223ca13a3c7a0cd4",
+          "clusterId": "c1333e85b9393dfa",
           "slug": "21bd80cdb088de3d",
           "titulo": "Terremoto de magnitude 5,5 atinge região central do Peru",
           "resumo": "Um terremoto de magnitude 5,5 foi registrado na região central do Peru, com epicentro a 22 km de distância de Huancayo e a 190 km de Lima. O abalo ocorreu a 10 km de profundidade, por volta das 21h30 do horário local (23h30 em Brasília). O Centro Sismológico Europeu-Mediterrâneo e o Centro de Sismologia do Peru confirmaram a magnitude e a profundidade do evento.",
@@ -584,10 +530,6 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-de-magnitude-56-atinge-regiao-central-do-peru.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-55-atinge-regiao-central-do-peru"
             }
           ],
           "updatedAt": "2026-07-19T03:31:04.000Z",
@@ -663,29 +605,6 @@
       ]
     },
     {
-      "slug": "violencia",
-      "label": "Violência",
-      "stories": [
-        {
-          "clusterId": "cd029480069ec15d",
-          "slug": "5c1ccd42d65ddc63",
-          "titulo": "Homem de 52 anos é esfaqueado e tem moto incendiada em Araçatuba",
-          "resumo": "Na madrugada de sábado (18), um homem de 52 anos foi encontrado com múltiplas facadas no bairro Jardim Nova Iorque, em Araçatuba (SP). Próximo ao corpo, a motocicleta estava em chamas e foi totalmente destruída pelos bombeiros. A Polícia Militar atendeu à ocorrência e prestou os primeiros socorros à vítima.",
-          "porQueImporta": "O caso evidencia violência urbana e necessidade de resposta rápida das autoridades de segurança e emergência.",
-          "categoria": "Violência",
-          "categoriaSlug": "violencia",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/18/homem-e-esfaqueado-e-tem-moto-incendiada-em-aracatuba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T21:01:28.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bbjgGsLDa9WOAa7AhXzj4lWaMOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/l/u/A74eNAQp6dlK9jU4HcjQ/central-de-policia-judiciaria.jfif"
-        }
-      ]
-    },
-    {
       "slug": "incendio-florestal",
       "label": "Incêndio florestal",
       "stories": [
@@ -754,25 +673,25 @@
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "calor-extremo",
+      "label": "Calor extremo",
       "stories": [
         {
-          "clusterId": "e82b1ad75dfba83e",
-          "slug": "87d3573c3a209f2a",
-          "titulo": "Deslizamento de terra deixa oito mortos e 34 desaparecidos em Chongqing",
-          "resumo": "Um deslizamento de terra ocorreu na encosta do rio Wujiang, no condado de Pengshui, em Chongqing, após fortes chuvas na sexta-feira. O desabamento resultou em oito óbitos e 34 pessoas desaparecidas, com dez resgatadas até o momento. As equipes de socorro continuam as buscas na região.",
-          "porQueImporta": "O incidente evidencia o risco de deslizamentos em áreas de encostas durante períodos de chuvas intensas.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "06481b1ce7026702",
+          "slug": "1ccc37bc43b5d57d",
+          "titulo": "Mortes em Paris mais que dobram em junho devido ao calor extremo",
+          "resumo": "Autoridades da região de Île-de-France divulgaram que o número de óbitos em Paris e arredores ultrapassou 3 mil no mês de junho, representando um aumento de 1.565 em relação ao mês anterior. O aumento está associado à onda de calor que tem afetado a Europa nas últimas semanas. O relatório foi publicado na última sexta-feira.",
+          "porQueImporta": "O aumento de mortes evidencia o impacto severo de ondas de calor sobre a saúde pública",
+          "categoria": "Calor extremo",
+          "categoriaSlug": "calor-extremo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/18/deslizamento-de-terra-deixa-8-mortos-e-34-desaparecidos-na-china.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/17/mortes-em-paris-mais-que-dobram-em-junho-por-conta-do-calor-extremo-diz-governo-local.ghtml"
             }
           ],
-          "updatedAt": "2026-07-18T08:00:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xq7vTDdTvF2fUXvcpO3i1d0gsXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Y/zNXNWZQqm3Of2nafZpNA/ap26199081265093.jpg"
+          "updatedAt": "2026-07-17T14:03:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xMZSrAarWxeprX3HYSUG4upWCbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/YIjwRlSbOpxVcWBkyw6w/2026-06-23t162403z-24911831-rc2szla8x0x6-rtrmadp-3-europe-weather-france.jpg"
         }
       ]
     }
