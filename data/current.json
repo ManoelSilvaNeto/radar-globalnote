@@ -1,9 +1,9 @@
 {
   "date": "2026-07-20",
-  "generatedAt": "2026-07-20T04:23:46.221Z",
+  "generatedAt": "2026-07-20T07:42:10.344Z",
   "home": [
     {
-      "clusterId": "902d0c705e1a19f9",
+      "clusterId": "bba5a3ba88e4bd4e",
       "slug": "240c53fbb8cdbb6e",
       "titulo": "Terremoto de magnitude 5,5 deixa cinco mortos e 21 feridos no Peru",
       "resumo": "Um terremoto de magnitude 5,5 atingiu a região central do Peru, com epicentro a 22 km de profundidade, às 21h30 do horário local. O abalo ocorreu a cerca de 11 km da cidade de Huancayo e 190 km de Lima. O evento deixou cinco mortos e 21 feridos.",
@@ -16,11 +16,11 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-de-magnitude-56-atinge-regiao-central-do-peru.ghtml"
         },
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/terremoto-deixa-ao-menos-seis-mortos-e-32-feridos-no-peru"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-55-atinge-regiao-oeste-do-ira/"
         }
       ],
-      "updatedAt": "2026-07-20T00:28:15.000Z",
+      "updatedAt": "2026-07-20T06:22:10.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
     },
     {
@@ -43,6 +43,23 @@
       ],
       "updatedAt": "2026-07-19T14:59:05.000Z",
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbcb/live/c41234d0-76e2-11f1-9842-7718f5ead045.jpg"
+    },
+    {
+      "clusterId": "084851c659bc2174",
+      "slug": "bb689cfeea5f388d",
+      "titulo": "Adolescente morre em acidente durante comemorações da Copa na Espanha",
+      "resumo": "Um adolescente de 13 anos morreu e outras pessoas ficaram feridas quando uma fonte desabou em Ciudad Rodrigo, no oeste da Espanha, durante as celebrações da vitória da seleção espanhola na Copa do Mundo. Os torcedores haviam subido na estrutura para festejar o título quando a fonte cedeu. A prefeitura lamentou a morte e informou que as autoridades investigam o ocorrido.",
+      "porQueImporta": "O incidente destaca riscos de estruturas públicas em eventos de grande público.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/20/adolescente-morre-na-espanha-durante-as-comemoracoes-de-titulo-da-copa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-20T06:44:29.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/MU9qMJlXfjVdIQAtST1JCkyv3dg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/n/WPLiA6SwOQLViJNibtNQ/ap26200787043363.jpg"
     },
     {
       "clusterId": "04974aae74f1691c",
@@ -113,23 +130,6 @@
       "imageUrl": "https://s2-g1.glbimg.com/dqk-GXQGnPFKp2tjOZsb4mQog18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/f/pRpCEFSTGLucxAbQkHqw/marcela-alta.jpg"
     },
     {
-      "clusterId": "e52106ee098870b7",
-      "slug": "256308695a0b58ee",
-      "titulo": "Homem morre atropelado na BR-020 em Planaltina",
-      "resumo": "Um homem foi atropelado enquanto atravessava a BR-020, na entrada de Planaltina, no Distrito Federal, na noite de domingo. Ele chegou a ser atendido, mas faleceu no local. O acidente ocorreu na noite do dia 19 de julho. As autoridades ainda investigam as circunstâncias.",
-      "porQueImporta": "O incidente destaca os riscos de trânsito nas rodovias federais e a necessidade de atenção aos pedestres.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/homem-morre-atropelado-enquanto-atravessava-a-br-020-no-df"
-        }
-      ],
-      "updatedAt": "2026-07-20T00:33:31.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/acidente-planaltina-br-020.jpeg"
-    },
-    {
       "clusterId": "1017f5ec5411a657",
       "slug": "e5bbfb9df4e72b6b",
       "titulo": "Carreta engavetada deixa três adultos e duas crianças feridos na Rodovia Presidente Dutra",
@@ -165,9 +165,9 @@
     {
       "clusterId": "1b0d8644c8b18c45",
       "slug": "6e7c6c7a84e44000",
-      "titulo": "Defesa Civil emite alertas após umidade do ar ficar abaixo de 30% em SP",
-      "resumo": "Avisos orientam população a reforçar hábitos de hidratação, além de evitar exercícios ao ar livre nos horários mais quentes e secos do dia",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "titulo": "Defesa Civil emite alertas por umidade do ar abaixo de 30% em SP",
+      "resumo": "A Defesa Civil de São Paulo divulgou alertas para a população após a umidade relativa do ar cair abaixo de 30%. Os avisos recomendam reforçar a hidratação e evitar exercícios ao ar livre nos horários mais quentes e secos. A medida visa prevenir problemas de saúde relacionados à desidratação e ao calor intenso.",
+      "porQueImporta": "A baixa umidade aumenta o risco de desidratação e problemas de saúde, exigindo precauções públicas.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
@@ -180,130 +180,6 @@
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "04974aae74f1691c",
-          "slug": "b5e57d2af8966ab3",
-          "titulo": "Justiça libera mulher presa após atropelar e matar criança de 3 anos em Nova Lima",
-          "resumo": "A Justiça concedeu liberdade provisória à mulher de 22 anos que foi presa em flagrante na sexta-feira por atropelar e matar uma criança de 3 anos em Nova Lima. O acidente ocorreu quando o veículo perdeu o controle ao fazer uma curva, atingindo a criança que estava sentada no meio-fio com a mãe. A motorista, Luana de Lima Martins, afirmou ter aprendido a dirigir há pouco tempo e não possuía CNH. A decisão foi tomada em audiência de custódia no domingo.",
-          "porQueImporta": "O caso destaca a gravidade de dirigir sem habilitação e a responsabilidade penal em acidentes fatais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/19/justica-manda-soltar-mulher-que-atropelou-e-matou-crianca-de-3-anos-ao-dirigir-sem-cnh.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-20T02:02:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dRrkCUhefYj-ObYfAzAbevGn7iA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/hqIJMWTMiPlrWhA5F3FQ/chuva-distrito-paulo-camilo-1-40-.png"
-        },
-        {
-          "clusterId": "1c40ca1fd48fa609",
-          "slug": "7f02b412d4cdd436",
-          "titulo": "Amizade no trânsito: abraço após batida muda desfecho de acidente e viraliza",
-          "resumo": "Em Camboriú, Santa Catarina, dois motoristas colidiram e, ao invés de se envolverem em agressões, permaneceram juntos por 32 segundos em um abraço. A cena foi gravada e rapidamente viralizou nas redes sociais, gerando comentários positivos sobre empatia no trânsito. O episódio contrastou com a frequência de violência e mortes que costumam acompanhar acidentes no país.",
-          "porQueImporta": "O vídeo mostra que atitudes de solidariedade podem mudar a percepção pública sobre acidentes de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/fantastico/noticia/2026/07/19/amizade-no-transito-abraco-apos-batida-muda-desfecho-de-acidente-e-viraliza.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-20T01:45:05.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/c4hMmyHD597DS7sntXkJDSuKOgY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/LfzHi4RBO0VLAhtBhAIg/aquele-abraco.png"
-        },
-        {
-          "clusterId": "e52106ee098870b7",
-          "slug": "256308695a0b58ee",
-          "titulo": "Homem morre atropelado na BR-020 em Planaltina",
-          "resumo": "Um homem foi atropelado enquanto atravessava a BR-020, na entrada de Planaltina, no Distrito Federal, na noite de domingo. Ele chegou a ser atendido, mas faleceu no local. O acidente ocorreu na noite do dia 19 de julho. As autoridades ainda investigam as circunstâncias.",
-          "porQueImporta": "O incidente destaca os riscos de trânsito nas rodovias federais e a necessidade de atenção aos pedestres.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/homem-morre-atropelado-enquanto-atravessava-a-br-020-no-df"
-            }
-          ],
-          "updatedAt": "2026-07-20T00:33:31.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/07/acidente-planaltina-br-020.jpeg"
-        },
-        {
-          "clusterId": "1017f5ec5411a657",
-          "slug": "e5bbfb9df4e72b6b",
-          "titulo": "Carreta engavetada deixa três adultos e duas crianças feridos na Rodovia Presidente Dutra",
-          "resumo": "Uma carreta colidiu na traseira de um automóvel na Rodovia Presidente Dutra, em Taubaté, e depois bateu em dois veículos adicionais. O acidente resultou em três adultos e duas crianças feridos. A polícia investigou a colisão e as condições da via.",
-          "porQueImporta": "O acidente causou feridos e pode indicar riscos de segurança nas rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/engavetamento-deixa-tres-adultos-e-duas-criancas-feridas-no-interior-de-sp/"
-            }
-          ],
-          "updatedAt": "2026-07-20T00:07:07.000Z"
-        },
-        {
-          "clusterId": "7c30a7dedf087028",
-          "slug": "f80bbd31a60d37f1",
-          "titulo": "Colisão frontal entre carreta e carro resulta em incêndio e morte em Pelotas",
-          "resumo": "Na tarde de domingo, por volta das 14h30, ocorreu colisão frontal entre uma carreta de São Bernardo do Campo (SP) e um Toyota Etios de Pelotas na BR-116, km 527, em Pelotas (RS). O impacto provocou incêndio no carro, que acabou se incendiando. Um homem morreu no acidente. A Polícia Rodoviária Federal registrou o ocorrido.",
-          "porQueImporta": "O acidente evidencia riscos de colisões frontais em rodovias movimentadas, gerando fatalidades e incêndios.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/19/colisao-frontal-com-carreta-termina-com-carro-incendiado-e-homem-morto-no-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-19T21:06:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/N6-PEYmZWAKVq6fP935114PyqZ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/T/ME9IfITAWlracBSLkE9Q/g1-2026-07-19t180154.851.jpg"
-        },
-        {
-          "clusterId": "5f9f9bd360da66c5",
-          "slug": "e734b9234f29b5fd",
-          "titulo": "Carro é esmagado por caminhão e duas jovens morrem na BR-163 em SC",
-          "resumo": "Um Fiat Uno colidiu frontalmente com um caminhão na BR-163, em São José do Cedro, no oeste de Santa Catarina, na manhã de domingo. O veículo maior prensou o carro, exigindo o uso de uma escavadeira hidráulica pelos bombeiros para acessar as vítimas. As duas ocupantes do carro, identificadas como Sabrina Cardoso Silveira, 24, e Indiamara Kremer, 26, foram encontradas sem vida.",
-          "porQueImporta": "O acidente evidencia riscos de colisões frontais em rodovias e a necessidade de medidas de segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/19/jovens-morrem-carro-esmagado-caminhao-batida-frontal-br-163-sc.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-19T20:54:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SRYZA0dk2p1c4Yw5n8PQoEIPE3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/e/uZdw7pRrKGjjg4RBABFQ/whatsapp-image-2026-07-19-at-11.59.59.jpeg"
-        },
-        {
-          "clusterId": "a58f050dfbc9f03e",
-          "slug": "5a6ce460a4b98382",
-          "titulo": "Motociclista socorrido em estado grave após colisão com carro na Rodovia Raposo Tavares em Piraju",
-          "resumo": "Na manhã de domingo, um motociclista colidiu com a traseira de um carro no quilômetro 331 da Rodovia Raposo Tavares, sentido interior, em Piraju. Após a batida, o condutor da moto caiu na pista e foi socorrido em estado grave. A via foi parcialmente interditada para o atendimento médico e a vítima foi encaminhada ao Hospital de Piraju. Não foram registrados congestionamentos significativos até o momento da publicação.",
-          "porQueImporta": "Acidentes graves na rodovia podem gerar interrupções no tráfego e demandar recursos de emergência.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/19/motociclista-e-socorrido-em-estado-grave-apos-bater-contra-carro-em-rodovia-de-piraju.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-19T20:13:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JaP-Cs4fgyUcofERoUUeO3ilIpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/A/APdDIlRX2F9D3gYLyXgg/untitled.jpg"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
@@ -366,9 +242,9 @@
         {
           "clusterId": "1b0d8644c8b18c45",
           "slug": "6e7c6c7a84e44000",
-          "titulo": "Defesa Civil emite alertas após umidade do ar ficar abaixo de 30% em SP",
-          "resumo": "Avisos orientam população a reforçar hábitos de hidratação, além de evitar exercícios ao ar livre nos horários mais quentes e secos do dia",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "titulo": "Defesa Civil emite alertas por umidade do ar abaixo de 30% em SP",
+          "resumo": "A Defesa Civil de São Paulo divulgou alertas para a população após a umidade relativa do ar cair abaixo de 30%. Os avisos recomendam reforçar a hidratação e evitar exercícios ao ar livre nos horários mais quentes e secos. A medida visa prevenir problemas de saúde relacionados à desidratação e ao calor intenso.",
+          "porQueImporta": "A baixa umidade aumenta o risco de desidratação e problemas de saúde, exigindo precauções públicas.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -415,11 +291,101 @@
       ]
     },
     {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "04974aae74f1691c",
+          "slug": "b5e57d2af8966ab3",
+          "titulo": "Justiça libera mulher presa após atropelar e matar criança de 3 anos em Nova Lima",
+          "resumo": "A Justiça concedeu liberdade provisória à mulher de 22 anos que foi presa em flagrante na sexta-feira por atropelar e matar uma criança de 3 anos em Nova Lima. O acidente ocorreu quando o veículo perdeu o controle ao fazer uma curva, atingindo a criança que estava sentada no meio-fio com a mãe. A motorista, Luana de Lima Martins, afirmou ter aprendido a dirigir há pouco tempo e não possuía CNH. A decisão foi tomada em audiência de custódia no domingo.",
+          "porQueImporta": "O caso destaca a gravidade de dirigir sem habilitação e a responsabilidade penal em acidentes fatais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/19/justica-manda-soltar-mulher-que-atropelou-e-matou-crianca-de-3-anos-ao-dirigir-sem-cnh.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-20T02:02:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dRrkCUhefYj-ObYfAzAbevGn7iA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/hqIJMWTMiPlrWhA5F3FQ/chuva-distrito-paulo-camilo-1-40-.png"
+        },
+        {
+          "clusterId": "1c40ca1fd48fa609",
+          "slug": "7f02b412d4cdd436",
+          "titulo": "Amizade no trânsito: abraço após batida muda desfecho de acidente e viraliza",
+          "resumo": "Em Camboriú, Santa Catarina, dois motoristas colidiram e, ao invés de se envolverem em agressões, permaneceram juntos por 32 segundos em um abraço. A cena foi gravada e rapidamente viralizou nas redes sociais, gerando comentários positivos sobre empatia no trânsito. O episódio contrastou com a frequência de violência e mortes que costumam acompanhar acidentes no país.",
+          "porQueImporta": "O vídeo mostra que atitudes de solidariedade podem mudar a percepção pública sobre acidentes de trânsito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/fantastico/noticia/2026/07/19/amizade-no-transito-abraco-apos-batida-muda-desfecho-de-acidente-e-viraliza.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-20T01:45:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/c4hMmyHD597DS7sntXkJDSuKOgY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/LfzHi4RBO0VLAhtBhAIg/aquele-abraco.png"
+        },
+        {
+          "clusterId": "1017f5ec5411a657",
+          "slug": "e5bbfb9df4e72b6b",
+          "titulo": "Carreta engavetada deixa três adultos e duas crianças feridos na Rodovia Presidente Dutra",
+          "resumo": "Uma carreta colidiu na traseira de um automóvel na Rodovia Presidente Dutra, em Taubaté, e depois bateu em dois veículos adicionais. O acidente resultou em três adultos e duas crianças feridos. A polícia investigou a colisão e as condições da via.",
+          "porQueImporta": "O acidente causou feridos e pode indicar riscos de segurança nas rodovias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/engavetamento-deixa-tres-adultos-e-duas-criancas-feridas-no-interior-de-sp/"
+            }
+          ],
+          "updatedAt": "2026-07-20T00:07:07.000Z"
+        },
+        {
+          "clusterId": "7c30a7dedf087028",
+          "slug": "f80bbd31a60d37f1",
+          "titulo": "Colisão frontal entre carreta e carro resulta em incêndio e morte em Pelotas",
+          "resumo": "Na tarde de domingo, por volta das 14h30, ocorreu colisão frontal entre uma carreta de São Bernardo do Campo (SP) e um Toyota Etios de Pelotas na BR-116, km 527, em Pelotas (RS). O impacto provocou incêndio no carro, que acabou se incendiando. Um homem morreu no acidente. A Polícia Rodoviária Federal registrou o ocorrido.",
+          "porQueImporta": "O acidente evidencia riscos de colisões frontais em rodovias movimentadas, gerando fatalidades e incêndios.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/19/colisao-frontal-com-carreta-termina-com-carro-incendiado-e-homem-morto-no-rs.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T21:06:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/N6-PEYmZWAKVq6fP935114PyqZ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/T/ME9IfITAWlracBSLkE9Q/g1-2026-07-19t180154.851.jpg"
+        },
+        {
+          "clusterId": "5f9f9bd360da66c5",
+          "slug": "e734b9234f29b5fd",
+          "titulo": "Carro é esmagado por caminhão e duas jovens morrem na BR-163 em SC",
+          "resumo": "Um Fiat Uno colidiu frontalmente com um caminhão na BR-163, em São José do Cedro, no oeste de Santa Catarina, na manhã de domingo. O veículo maior prensou o carro, exigindo o uso de uma escavadeira hidráulica pelos bombeiros para acessar as vítimas. As duas ocupantes do carro, identificadas como Sabrina Cardoso Silveira, 24, e Indiamara Kremer, 26, foram encontradas sem vida.",
+          "porQueImporta": "O acidente evidencia riscos de colisões frontais em rodovias e a necessidade de medidas de segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/19/jovens-morrem-carro-esmagado-caminhao-batida-frontal-br-163-sc.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T20:54:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SRYZA0dk2p1c4Yw5n8PQoEIPE3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/e/uZdw7pRrKGjjg4RBABFQ/whatsapp-image-2026-07-19-at-11.59.59.jpeg"
+        }
+      ]
+    },
+    {
       "slug": "terremoto",
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "902d0c705e1a19f9",
+          "clusterId": "bba5a3ba88e4bd4e",
           "slug": "240c53fbb8cdbb6e",
           "titulo": "Terremoto de magnitude 5,5 deixa cinco mortos e 21 feridos no Peru",
           "resumo": "Um terremoto de magnitude 5,5 atingiu a região central do Peru, com epicentro a 22 km de profundidade, às 21h30 do horário local. O abalo ocorreu a cerca de 11 km da cidade de Huancayo e 190 km de Lima. O evento deixou cinco mortos e 21 feridos.",
@@ -432,11 +398,28 @@
               "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-de-magnitude-56-atinge-regiao-central-do-peru.ghtml"
             },
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/terremoto-deixa-ao-menos-seis-mortos-e-32-feridos-no-peru"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-55-atinge-regiao-oeste-do-ira/"
             }
           ],
-          "updatedAt": "2026-07-20T00:28:15.000Z",
+          "updatedAt": "2026-07-20T06:22:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
+        },
+        {
+          "clusterId": "e572087d2601bc01",
+          "slug": "ef602dbd2b7f62a5",
+          "titulo": "Terremoto de magnitude 5,5 deixa ao menos cinco mortos e dezenas de feridos no Peru",
+          "resumo": "Um terremoto de magnitude 5,5 atingiu a região central do Peru na noite de sábado, causando ao menos cinco mortes e mais de 20 feridos. Cerca de 300 pessoas ficaram desalojadas e autoridades ainda não têm número de desaparecidos. Edifícios, incluindo uma igreja e um convento, sofreram desabamentos ou danos estruturais, e equipes de emergência continuam nas áreas afetadas.",
+          "porQueImporta": "O evento evidencia a vulnerabilidade sísmica da região e a necessidade de respostas emergenciais rápidas.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-no-peru-deixa-ao-menos-5-mortos-mais-de-20-feridos-e-300-desalojados.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T15:46:19.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
         },
         {
@@ -516,25 +499,25 @@
       ]
     },
     {
-      "slug": "desabamento",
-      "label": "Desabamento",
+      "slug": "acidente",
+      "label": "Acidente",
       "stories": [
         {
-          "clusterId": "999928a117d417f5",
-          "slug": "1282d75dc85b15e5",
-          "titulo": "Desabamento de prédio deixa três feridos em Governador Valadares",
-          "resumo": "Um prédio de três andares desabou parcialmente no bairro Jardim Pérola, em Governador Valadares, na manhã de domingo. O Corpo de Bombeiros encontrou uma vítima entre os escombros e duas pessoas ficaram feridas, totalizando três vítimas. As equipes de resgate atuaram para retirar o homem parcialmente soterrado e prestar socorro às vítimas. As imagens divulgadas mostram a destruição e o trabalho das equipes de emergência.",
-          "porQueImporta": "O incidente evidencia riscos estruturais urbanos e a necessidade de respostas rápidas de emergência.",
-          "categoria": "Desabamento",
-          "categoriaSlug": "desabamento",
+          "clusterId": "084851c659bc2174",
+          "slug": "bb689cfeea5f388d",
+          "titulo": "Adolescente morre em acidente durante comemorações da Copa na Espanha",
+          "resumo": "Um adolescente de 13 anos morreu e outras pessoas ficaram feridas quando uma fonte desabou em Ciudad Rodrigo, no oeste da Espanha, durante as celebrações da vitória da seleção espanhola na Copa do Mundo. Os torcedores haviam subido na estrutura para festejar o título quando a fonte cedeu. A prefeitura lamentou a morte e informou que as autoridades investigam o ocorrido.",
+          "porQueImporta": "O incidente destaca riscos de estruturas públicas em eventos de grande público.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/19/fotos-imagens-mostram-destruicao-causada-por-desabamento-de-predio-em-governador-valadares.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/20/adolescente-morre-na-espanha-durante-as-comemoracoes-de-titulo-da-copa.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T20:18:23.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/QWIcJuSNgeleKINpEppJ_xG5_mE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/K/GJ65ARSCmEoaRWGuMZFg/whatsapp-image-2026-07-19-at-15.49.08.jpeg"
+          "updatedAt": "2026-07-20T06:44:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MU9qMJlXfjVdIQAtST1JCkyv3dg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/n/WPLiA6SwOQLViJNibtNQ/ap26200787043363.jpg"
         }
       ]
     },
@@ -581,29 +564,6 @@
           ],
           "updatedAt": "2026-07-18T08:00:17.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/xq7vTDdTvF2fUXvcpO3i1d0gsXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Y/zNXNWZQqm3Of2nafZpNA/ap26199081265093.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "39e7eb628e5f9237",
-          "slug": "201bc6915b2c986c",
-          "titulo": "Tempestade no Chile deixa quatro mortos e mais de mil casas afetadas",
-          "resumo": "Uma tempestade que atingiu 10 dos 16 municípios do Chile provocou ao menos quatro mortes, segundo o subsecretário do Interior, Máximo Pavez. A região central de Valparaíso teve alerta vermelho decretado por risco de enxurradas e deslizamentos. Cerca de 1.595 residências foram afetadas pelos fortes chuvas, ressacas e ventos.",
-          "porQueImporta": "A ocorrência evidencia risco de desastres naturais que podem impactar milhares de pessoas e demandar respostas emergenciais",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/18/tempestade-no-chile-numero-de-mortos-sobe-para-quatro-e-mais-de-15-mil-casas-sao-afetadas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-18T06:00:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DtSAZcu3DGvcABZ3LZXH_lja9lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/M/xFnNjUQvWtiGdBOc4nfw/ezgif.com-gif-maker-2-.gif"
         }
       ]
     }
