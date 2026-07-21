@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-07-20T18:30:20.682Z",
-  "editionDate": "2026-07-20",
-  "hourUtc": 18,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito concentram a maioria dos registros enquanto eventos climáticos afetam diversas regiões\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-07-21T03:57:22.870Z",
+  "editionDate": "2026-07-21",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
