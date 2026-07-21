@@ -1,7 +1,65 @@
 {
   "date": "2026-07-21",
-  "generatedAt": "2026-07-21T03:57:22.870Z",
+  "generatedAt": "2026-07-21T07:12:28.137Z",
   "home": [
+    {
+      "clusterId": "7e125c966f864f33",
+      "slug": "ef602dbd2b7f62a5",
+      "titulo": "Terremoto de magnitude 5,5 deixa ao menos cinco mortos e dezenas de feridos no Peru",
+      "resumo": "Um terremoto de magnitude 5,5 atingiu a região central do Peru na noite de sábado, causando ao menos cinco mortes e mais de 20 feridos. Cerca de 300 pessoas ficaram desalojadas e autoridades ainda não têm número de desaparecidos. Edifícios, incluindo uma igreja e um convento, sofreram desabamentos ou danos estruturais, e equipes de emergência continuam nas áreas afetadas.",
+      "porQueImporta": "O evento evidencia a vulnerabilidade sísmica da região e a necessidade de respostas emergenciais rápidas.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-no-peru-deixa-ao-menos-5-mortos-mais-de-20-feridos-e-300-desalojados.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/sobe-para-6-o-numero-de-mortos-apos-terremotos-no-peru/"
+        }
+      ],
+      "updatedAt": "2026-07-21T06:19:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
+    },
+    {
+      "clusterId": "872b8c2007f1bdca",
+      "slug": "c8a1151ac8661816",
+      "titulo": "Jornalista brasileiro Chico Santo encontrado morto em lago na Suíça",
+      "resumo": "O jornalista Chico Santo foi localizado sem vida em um lago na Suíça. As circunstâncias do acidente ainda não foram esclarecidas e estão sendo investigadas pela brigada lacustre, em colaboração com a unidade de perícia forense. A investigação busca determinar as causas do falecimento. Até o momento, não há informações sobre possíveis fatores externos ou internos.",
+      "porQueImporta": "O caso envolve a morte de um profissional de mídia internacional, despertando atenção sobre segurança e condições de trabalho em ambientes naturais.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/jornalista-brasileiro-chico-santo-e-encontrado-morto-em-lago-na-suica/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/21/brasileiro-morre-afogado-em-lago-na-suica-autoridades-investigam-o-caso.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-21T04:58:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/6gnQCXS7EZXLaPwNNsnmYueRffo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/x/6aOpmyRiAhq1zITSGOGA/captura-de-tela-2026-07-21-020309.png"
+    },
+    {
+      "clusterId": "870e4984cc0c86c2",
+      "slug": "ff40cd8e2db5a66c",
+      "titulo": "Cinco pessoas morrem em afogamento coletivo no rio Ohio",
+      "resumo": "Cinco pessoas morreram ao tentar salvar um nadador em dificuldade no rio Ohio, nos Estados Unidos. As vítimas desapareceram nas águas durante a tentativa de socorro. O incidente ocorreu em um local de lazer popular. As autoridades investigam as circunstâncias do acidente.",
+      "porQueImporta": "O episódio destaca os riscos de atividades aquáticas em rios e a necessidade de precauções de segurança.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/cinco-pessoas-morrem-em-afogamento-coletivo-em-rio-de-ohio-nos-eua/"
+        }
+      ],
+      "updatedAt": "2026-07-21T04:57:22.000Z"
+    },
     {
       "clusterId": "f13290e9d472450a",
       "slug": "718f7260b5d4a666",
@@ -18,22 +76,6 @@
       ],
       "updatedAt": "2026-07-21T03:10:53.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/ITp8pF3nulo_TwOjLybVmKncQvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/B/VABd1zQ4mfWvKn3eTfcQ/2026-07-21t021359z-1030916934-rc2xhmavvc9t-rtrmadp-3-chile-rain.jpg"
-    },
-    {
-      "clusterId": "b38df8cfc3c5b00a",
-      "slug": "c8a1151ac8661816",
-      "titulo": "Jornalista brasileiro Chico Santo encontrado morto em lago na Suíça",
-      "resumo": "O jornalista Chico Santo foi localizado sem vida em um lago na Suíça. As circunstâncias do acidente ainda não foram esclarecidas e estão sendo investigadas pela brigada lacustre, em colaboração com a unidade de perícia forense. A investigação busca determinar as causas do falecimento. Até o momento, não há informações sobre possíveis fatores externos ou internos.",
-      "porQueImporta": "O caso envolve a morte de um profissional de mídia internacional, despertando atenção sobre segurança e condições de trabalho em ambientes naturais.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/jornalista-brasileiro-chico-santo-e-encontrado-morto-em-lago-na-suica/"
-        }
-      ],
-      "updatedAt": "2026-07-21T03:28:35.000Z"
     },
     {
       "clusterId": "a95a4adc188a981a",
@@ -87,57 +129,6 @@
       "imageUrl": "https://s2-g1.glbimg.com/9xhHohpYNiNQ--0g7wj4x-fgJ-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/l/StsYXpSzOu4BbqjCr1Mg/fotojet.jpg"
     },
     {
-      "clusterId": "0da2aee0750a3ae8",
-      "slug": "72fd77da267a7223",
-      "titulo": "Bombeiros buscam homem desaparecido após naufrágio de embarcação no Rio Purus",
-      "resumo": "Uma operação do Corpo de Bombeiros Militar do Acre procura por um homem identificado como Francisco Pessoa Alves, desaparecido desde a manhã de domingo após a embarcação de pequeno porte naufragar no Rio Purus, em Santa Rosa do Purus. O acidente ocorreu na noite de sábado, quando ele e mais dois amigos navegavam no rio. Os outros dois ocupantes foram resgatados e não apresentaram ferimentos graves. As buscas continuam para localizar o desaparecido.",
-      "porQueImporta": "O caso evidencia riscos de navegação em rios da região e a necessidade de respostas rápidas das autoridades de socorro.",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/07/20/operacao-dos-bombeiros-procura-homem-que-sumiu-apos-naufragio-de-barco-em-rio-do-ac.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-21T01:41:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/o0j7V3dK-aSo0NUWtpGftboKLFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/F/78IQ68QnOcWxzU07csGA/midia-de-distribuicao-g1.png"
-    },
-    {
-      "clusterId": "e3a10fb6a97f4fac",
-      "slug": "8cdbddde77d2ca9c",
-      "titulo": "Chuvas e enchentes causam ao menos 20 mortes e deixam mais de 100 desaparecidos no Afeganistão",
-      "resumo": "Chuvas intensas provocaram enchentes que resultaram em pelo menos 20 óbitos no Afeganistão. Mais de 100 pessoas continuam desaparecidas após os alagamentos. As autoridades locais continuam as buscas e avaliações de danos. A situação permanece crítica nas áreas afetadas.",
-      "porQueImporta": "A tragédia evidencia a vulnerabilidade da população afegã a desastres naturais e a necessidade de resposta humanitária urgente",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/chuvas-e-enchentes-deixam-ao-menos-20-mortos-no-afeganistao"
-        }
-      ],
-      "updatedAt": "2026-07-21T00:27:35.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/enchentes-afeganistao.jpeg"
-    },
-    {
-      "clusterId": "8c633d7b7b31dde5",
-      "slug": "d230c6254cf1a250",
-      "titulo": "Motorista de 29 anos morre em colisão transversal entre dois caminhões na BR-116 em Alto Santo, Ceará",
-      "resumo": "Na manhã de segunda-feira, dois caminhões colidiram transversalmente no km 248 da BR-116, no município de Alto Santo, interior do Ceará. O impacto fez os veículos saírem da pista e o motorista, de 29 anos, ficou preso às ferragens. O Corpo de Bombeiros realizou o desencarceramento, mas a vítima não resistiu aos ferimentos.",
-      "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de medidas de segurança no trânsito de carga",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/20/motorista-morre-em-colisao-entre-dois-caminhoes-no-interior-do-ceara.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-21T00:17:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/rGP1ApKJ5LkOmvBA1e7GDZyoicM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/u/dICsX5TzeubUUWXBdALQ/acid-alto.jpg"
-    },
-    {
       "clusterId": "32c9e873ec30de06",
       "slug": "3a590ee76e226064",
       "titulo": "Três irmãos buscam esclarecer morte da mãe após 17 anos",
@@ -159,21 +150,38 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbcb/live/c41234d0-76e2-11f1-9842-7718f5ead045.jpg"
     },
     {
-      "clusterId": "89c737d1aa96fa7a",
-      "slug": "247c4de1eb12bd56",
-      "titulo": "Ordem dos Franciscanos arrecada fundos para restauração da 'Igreja de Ouro' mais de um ano após desabamento",
-      "resumo": "Parte de teto de igreja de ouro desaba Reprodução A Ordem dos Franciscanos começou uma campanha de arrecadação de fundos para a restauração da \"Igreja de Ouro\", localizada no Centro Histórico de Salvador. O desabamento no templo aconteceu em fevereiro de 2025 e causou a morte de uma turista de 26 anos. As obras emergenciais na igreja já foram finalizadas e o imóvel, que permanece fechado, já não apresenta mais riscos de desabamento. O Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) garantiu um investimento de cerca de 20 milhões do Novo Programa de Aceleração do Crescimento…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "0da2aee0750a3ae8",
+      "slug": "72fd77da267a7223",
+      "titulo": "Bombeiros buscam homem desaparecido após naufrágio de embarcação no Rio Purus",
+      "resumo": "Uma operação do Corpo de Bombeiros Militar do Acre procura por um homem identificado como Francisco Pessoa Alves, desaparecido desde a manhã de domingo após a embarcação de pequeno porte naufragar no Rio Purus, em Santa Rosa do Purus. O acidente ocorreu na noite de sábado, quando ele e mais dois amigos navegavam no rio. Os outros dois ocupantes foram resgatados e não apresentaram ferimentos graves. As buscas continuam para localizar o desaparecido.",
+      "porQueImporta": "O caso evidencia riscos de navegação em rios da região e a necessidade de respostas rápidas das autoridades de socorro.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/20/ordem-dos-franciscanos-arrecada-fundos-para-restauracao-da-igreja-de-ouro.ghtml"
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/07/20/operacao-dos-bombeiros-procura-homem-que-sumiu-apos-naufragio-de-barco-em-rio-do-ac.ghtml"
         }
       ],
-      "updatedAt": "2026-07-20T23:31:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/amPrlyX0G1wawWOtMR9lSQonpbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/J/GMDtdbTh6J3HDBjjTDBQ/whatsapp-image-2025-02-05-at-16.14.51.jpeg"
+      "updatedAt": "2026-07-21T01:41:15.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/o0j7V3dK-aSo0NUWtpGftboKLFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/F/78IQ68QnOcWxzU07csGA/midia-de-distribuicao-g1.png"
+    },
+    {
+      "clusterId": "8c633d7b7b31dde5",
+      "slug": "d230c6254cf1a250",
+      "titulo": "Motorista de 29 anos morre em colisão transversal entre dois caminhões na BR-116 em Alto Santo, Ceará",
+      "resumo": "Na manhã de segunda-feira, dois caminhões colidiram transversalmente no km 248 da BR-116, no município de Alto Santo, interior do Ceará. O impacto fez os veículos saírem da pista e o motorista, de 29 anos, ficou preso às ferragens. O Corpo de Bombeiros realizou o desencarceramento, mas a vítima não resistiu aos ferimentos.",
+      "porQueImporta": "O acidente evidencia riscos nas rodovias e a necessidade de medidas de segurança no trânsito de carga",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/20/motorista-morre-em-colisao-entre-dois-caminhoes-no-interior-do-ceara.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-21T00:17:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rGP1ApKJ5LkOmvBA1e7GDZyoicM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/u/dICsX5TzeubUUWXBdALQ/acid-alto.jpg"
     }
   ],
   "categorias": [
@@ -234,11 +242,55 @@
       ]
     },
     {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "7e125c966f864f33",
+          "slug": "ef602dbd2b7f62a5",
+          "titulo": "Terremoto de magnitude 5,5 deixa ao menos cinco mortos e dezenas de feridos no Peru",
+          "resumo": "Um terremoto de magnitude 5,5 atingiu a região central do Peru na noite de sábado, causando ao menos cinco mortes e mais de 20 feridos. Cerca de 300 pessoas ficaram desalojadas e autoridades ainda não têm número de desaparecidos. Edifícios, incluindo uma igreja e um convento, sofreram desabamentos ou danos estruturais, e equipes de emergência continuam nas áreas afetadas.",
+          "porQueImporta": "O evento evidencia a vulnerabilidade sísmica da região e a necessidade de respostas emergenciais rápidas.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-no-peru-deixa-ao-menos-5-mortos-mais-de-20-feridos-e-300-desalojados.ghtml"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/sobe-para-6-o-numero-de-mortos-apos-terremotos-no-peru/"
+            }
+          ],
+          "updatedAt": "2026-07-21T06:19:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
+        },
+        {
+          "clusterId": "15048bccfed2e89d",
+          "slug": "a1cf1a9bce4e1dd3",
+          "titulo": "Jovem permanece entre escombros de terremoto na Venezuela",
+          "resumo": "Lorena Laya, de 24 anos, mudou-se para La Guaira após os terremotos de 24 de junho para buscar seu pai, madrasta e irmãos. Ela passa o dia ao lado da escavadeira que remove os destroços e dorme na casa do avô paterno, retornando a Caracas apenas para lavar roupas. A jovem relata que permanece no local enquanto a máquina está em operação, aguardando sinais de celular.",
+          "porQueImporta": "Mostra a vulnerabilidade das famílias afetadas e a necessidade de apoio humanitário em áreas de desastre.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremotos-na-venezuela-a-jovem-que-se-recusa-a-abandonar-os-escombros-onde-estao-os-corpos-de-seus-familiares.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-19T10:36:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zywRUJv2JJQDbmHBejf31M0V75s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/Vlg1oEQAW4l4iymu0QaQ/2dbd58e1-acd6-4729-a82b-eb1e51085036.png"
+        }
+      ]
+    },
+    {
       "slug": "acidente",
       "label": "Acidente",
       "stories": [
         {
-          "clusterId": "b38df8cfc3c5b00a",
+          "clusterId": "872b8c2007f1bdca",
           "slug": "c8a1151ac8661816",
           "titulo": "Jornalista brasileiro Chico Santo encontrado morto em lago na Suíça",
           "resumo": "O jornalista Chico Santo foi localizado sem vida em um lago na Suíça. As circunstâncias do acidente ainda não foram esclarecidas e estão sendo investigadas pela brigada lacustre, em colaboração com a unidade de perícia forense. A investigação busca determinar as causas do falecimento. Até o momento, não há informações sobre possíveis fatores externos ou internos.",
@@ -249,9 +301,14 @@
             {
               "name": "CNN Brasil",
               "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/jornalista-brasileiro-chico-santo-e-encontrado-morto-em-lago-na-suica/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/21/brasileiro-morre-afogado-em-lago-na-suica-autoridades-investigam-o-caso.ghtml"
             }
           ],
-          "updatedAt": "2026-07-21T03:28:35.000Z"
+          "updatedAt": "2026-07-21T04:58:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6gnQCXS7EZXLaPwNNsnmYueRffo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/x/6aOpmyRiAhq1zITSGOGA/captura-de-tela-2026-07-21-020309.png"
         },
         {
           "clusterId": "2fb564f3c9533cea",
@@ -273,42 +330,41 @@
       ]
     },
     {
-      "slug": "enchente",
-      "label": "Enchente",
+      "slug": "naufragio",
+      "label": "Naufrágio",
       "stories": [
         {
-          "clusterId": "f13290e9d472450a",
-          "slug": "718f7260b5d4a666",
-          "titulo": "Chile registra dez mortos e mais de 100 mil isolados após temporal",
-          "resumo": "Um temporal que se iniciou no sul do Chile no dia 15 provocou inundações e bloqueios de estradas, deixando ao menos dez mortos. O governo declarou estado de catástrofe e mobilizou o Exército para operações de resgate, com mais de 100 mil pessoas isoladas. As autoridades também declararam estado de emergência em La Serena. A situação afetou diversas regiões, exigindo ações de socorro e assistência.",
-          "porQueImporta": "A ocorrência evidencia a vulnerabilidade da população a eventos climáticos extremos e a necessidade de resposta emergencial coordenada",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "870e4984cc0c86c2",
+          "slug": "ff40cd8e2db5a66c",
+          "titulo": "Cinco pessoas morrem em afogamento coletivo no rio Ohio",
+          "resumo": "Cinco pessoas morreram ao tentar salvar um nadador em dificuldade no rio Ohio, nos Estados Unidos. As vítimas desapareceram nas águas durante a tentativa de socorro. O incidente ocorreu em um local de lazer popular. As autoridades investigam as circunstâncias do acidente.",
+          "porQueImporta": "O episódio destaca os riscos de atividades aquáticas em rios e a necessidade de precauções de segurança.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/cinco-pessoas-morrem-em-afogamento-coletivo-em-rio-de-ohio-nos-eua/"
+            }
+          ],
+          "updatedAt": "2026-07-21T04:57:22.000Z"
+        },
+        {
+          "clusterId": "0da2aee0750a3ae8",
+          "slug": "72fd77da267a7223",
+          "titulo": "Bombeiros buscam homem desaparecido após naufrágio de embarcação no Rio Purus",
+          "resumo": "Uma operação do Corpo de Bombeiros Militar do Acre procura por um homem identificado como Francisco Pessoa Alves, desaparecido desde a manhã de domingo após a embarcação de pequeno porte naufragar no Rio Purus, em Santa Rosa do Purus. O acidente ocorreu na noite de sábado, quando ele e mais dois amigos navegavam no rio. Os outros dois ocupantes foram resgatados e não apresentaram ferimentos graves. As buscas continuam para localizar o desaparecido.",
+          "porQueImporta": "O caso evidencia riscos de navegação em rios da região e a necessidade de respostas rápidas das autoridades de socorro.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/21/chile-confirma-dez-mortos-e-100-mil-pessoas-isoladas-apos-temporal.ghtml"
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/07/20/operacao-dos-bombeiros-procura-homem-que-sumiu-apos-naufragio-de-barco-em-rio-do-ac.ghtml"
             }
           ],
-          "updatedAt": "2026-07-21T03:10:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ITp8pF3nulo_TwOjLybVmKncQvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/B/VABd1zQ4mfWvKn3eTfcQ/2026-07-21t021359z-1030916934-rc2xhmavvc9t-rtrmadp-3-chile-rain.jpg"
-        },
-        {
-          "clusterId": "e3a10fb6a97f4fac",
-          "slug": "8cdbddde77d2ca9c",
-          "titulo": "Chuvas e enchentes causam ao menos 20 mortes e deixam mais de 100 desaparecidos no Afeganistão",
-          "resumo": "Chuvas intensas provocaram enchentes que resultaram em pelo menos 20 óbitos no Afeganistão. Mais de 100 pessoas continuam desaparecidas após os alagamentos. As autoridades locais continuam as buscas e avaliações de danos. A situação permanece crítica nas áreas afetadas.",
-          "porQueImporta": "A tragédia evidencia a vulnerabilidade da população afegã a desastres naturais e a necessidade de resposta humanitária urgente",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/chuvas-e-enchentes-deixam-ao-menos-20-mortos-no-afeganistao"
-            }
-          ],
-          "updatedAt": "2026-07-21T00:27:35.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/07/enchentes-afeganistao.jpeg"
+          "updatedAt": "2026-07-21T01:41:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/o0j7V3dK-aSo0NUWtpGftboKLFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/F/78IQ68QnOcWxzU07csGA/midia-de-distribuicao-g1.png"
         }
       ]
     },
@@ -397,42 +453,25 @@
       ]
     },
     {
-      "slug": "terremoto",
-      "label": "Terremoto",
+      "slug": "enchente",
+      "label": "Enchente",
       "stories": [
         {
-          "clusterId": "e572087d2601bc01",
-          "slug": "ef602dbd2b7f62a5",
-          "titulo": "Terremoto de magnitude 5,5 deixa ao menos cinco mortos e dezenas de feridos no Peru",
-          "resumo": "Um terremoto de magnitude 5,5 atingiu a região central do Peru na noite de sábado, causando ao menos cinco mortes e mais de 20 feridos. Cerca de 300 pessoas ficaram desalojadas e autoridades ainda não têm número de desaparecidos. Edifícios, incluindo uma igreja e um convento, sofreram desabamentos ou danos estruturais, e equipes de emergência continuam nas áreas afetadas.",
-          "porQueImporta": "O evento evidencia a vulnerabilidade sísmica da região e a necessidade de respostas emergenciais rápidas.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
+          "clusterId": "f13290e9d472450a",
+          "slug": "718f7260b5d4a666",
+          "titulo": "Chile registra dez mortos e mais de 100 mil isolados após temporal",
+          "resumo": "Um temporal que se iniciou no sul do Chile no dia 15 provocou inundações e bloqueios de estradas, deixando ao menos dez mortos. O governo declarou estado de catástrofe e mobilizou o Exército para operações de resgate, com mais de 100 mil pessoas isoladas. As autoridades também declararam estado de emergência em La Serena. A situação afetou diversas regiões, exigindo ações de socorro e assistência.",
+          "porQueImporta": "A ocorrência evidencia a vulnerabilidade da população a eventos climáticos extremos e a necessidade de resposta emergencial coordenada",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremoto-no-peru-deixa-ao-menos-5-mortos-mais-de-20-feridos-e-300-desalojados.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/21/chile-confirma-dez-mortos-e-100-mil-pessoas-isoladas-apos-temporal.ghtml"
             }
           ],
-          "updatedAt": "2026-07-19T15:46:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/yhC6n_EKj2KHFvr6u4wHgzwGgvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BO9CSAQmqd6XrKaWkp3A/terremoto-peru.jpg"
-        },
-        {
-          "clusterId": "15048bccfed2e89d",
-          "slug": "a1cf1a9bce4e1dd3",
-          "titulo": "Jovem permanece nos escombros de terremoto na Venezuela para buscar familiares desaparecidos",
-          "resumo": "Lorena Laya, de 24 anos, mudou‑se para La Guaira após os terremotos de 24 de junho e passa o dia ao lado da escavadeira que remove os destroços, dormindo na casa do avô à noite. Ela só retorna a Caracas para buscar roupas limpas e permanece no local enquanto a máquina trabalha, aguardando sinais de vida dos familiares que ficaram sob os escombros.",
-          "porQueImporta": "Ilustra a vulnerabilidade e a resiliência das vítimas em áreas atingidas por terremotos",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/19/terremotos-na-venezuela-a-jovem-que-se-recusa-a-abandonar-os-escombros-onde-estao-os-corpos-de-seus-familiares.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-19T10:36:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zywRUJv2JJQDbmHBejf31M0V75s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/Vlg1oEQAW4l4iymu0QaQ/2dbd58e1-acd6-4729-a82b-eb1e51085036.png"
+          "updatedAt": "2026-07-21T03:10:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ITp8pF3nulo_TwOjLybVmKncQvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/B/VABd1zQ4mfWvKn3eTfcQ/2026-07-21t021359z-1030916934-rc2xhmavvc9t-rtrmadp-3-chile-rain.jpg"
         }
       ]
     },
@@ -460,29 +499,6 @@
       ]
     },
     {
-      "slug": "naufragio",
-      "label": "Naufrágio",
-      "stories": [
-        {
-          "clusterId": "0da2aee0750a3ae8",
-          "slug": "72fd77da267a7223",
-          "titulo": "Bombeiros buscam homem desaparecido após naufrágio de embarcação no Rio Purus",
-          "resumo": "Uma operação do Corpo de Bombeiros Militar do Acre procura por um homem identificado como Francisco Pessoa Alves, desaparecido desde a manhã de domingo após a embarcação de pequeno porte naufragar no Rio Purus, em Santa Rosa do Purus. O acidente ocorreu na noite de sábado, quando ele e mais dois amigos navegavam no rio. Os outros dois ocupantes foram resgatados e não apresentaram ferimentos graves. As buscas continuam para localizar o desaparecido.",
-          "porQueImporta": "O caso evidencia riscos de navegação em rios da região e a necessidade de respostas rápidas das autoridades de socorro.",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/07/20/operacao-dos-bombeiros-procura-homem-que-sumiu-apos-naufragio-de-barco-em-rio-do-ac.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-21T01:41:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/o0j7V3dK-aSo0NUWtpGftboKLFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/F/78IQ68QnOcWxzU07csGA/midia-de-distribuicao-g1.png"
-        }
-      ]
-    },
-    {
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
@@ -490,8 +506,8 @@
           "clusterId": "0bd69ab903b8088d",
           "slug": "0cdcd220c8a18b24",
           "titulo": "EUA divulgam imagens de ataque no Irã após mortes de militares americanos",
-          "resumo": "O Exército dos EUA confirmou, no sábado, a morte de dois militares e o desaparecimento de um terceiro em ataques com mísseis e drones atribuídos ao Irã. Na madrugada de domingo, o comando central dos EUA para o Oriente Médio divulgou imagens que mostram uma explosão em território iraniano. As imagens foram apresentadas após a confirmação das mortes. O incidente ocorre após a retomada das hostilidades em 7 de julho.",
-          "porQueImporta": "O episódio indica escalada de tensões militares entre Estados Unidos e Irã, com risco de ampliar o conflito na região",
+          "resumo": "O Exército dos EUA confirmou a morte de dois militares e o desaparecimento de um terceiro em ataques com mísseis e drones atribuídos ao Irã. Na madrugada de domingo, o Centcom divulgou imagens que mostram uma explosão em território iraniano. As mortes são as primeiras desde a retomada das hostilidades em 7 de julho. As imagens foram divulgadas após o anúncio feito no sábado.",
+          "porQueImporta": "O incidente pode intensificar as tensões entre Estados Unidos e Irã, afetando a segurança regional.",
           "categoria": "Explosão",
           "categoriaSlug": "explosao",
           "sources": [
