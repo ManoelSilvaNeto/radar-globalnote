@@ -1,268 +1,232 @@
 {
   "date": "2026-07-22",
-  "generatedAt": "2026-07-22T07:14:36.135Z",
+  "generatedAt": "2026-07-22T10:39:19.103Z",
   "home": [
     {
-      "clusterId": "68a62aac6d66a9c0",
-      "slug": "d72a76af417fe5f2",
-      "titulo": "Defesa Civil emite alerta de inundação no Rio Grande do Sul",
-      "resumo": "A Defesa Civil do Rio Grande do Sul mantém alerta para continuidade de chuvas e risco de inundação em áreas do norte do estado. O Inmet emitiu alerta vermelho de grande perigo para acumulados de chuva. O alerta cobre cidades entre Muçum e Taquari e entre Montenegro e Harmonia.",
-      "porQueImporta": "O alerta indica risco de inundações que podem afetar comunidades e infraestrutura.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
+      "clusterId": "5ab6d4fc5da338ed",
+      "slug": "896be437090ecf8a",
+      "titulo": "Colisão na DF-003 causa lentidão no trânsito",
+      "resumo": "Na manhã desta quarta-feira, ocorreu uma colisão na rodovia DF-003 no sentido Catetinho. A ocorrência gerou lentidão no tráfego. Segundo os bombeiros, ninguém ficou gravemente ferido. As autoridades registraram o incidente e liberaram o trânsito após a remoção dos veículos.",
+      "porQueImporta": "Interrupções no tráfego podem afetar a mobilidade de motoristas na região",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/defesa-civil-emite-alerta-para-risco-de-inundacao-no-rio-grande-do-sul"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/rs-mantem-alerta-para-continuidade-de-chuvas-veja-areas-mais-afetadas/"
+          "url": "https://www.metropoles.com/distrito-federal/acidente-na-df-003-causa-lentidao-no-transito-no-sentido-catetinho"
         }
       ],
-      "updatedAt": "2026-07-22T06:50:15.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/chuva-1.jpg"
+      "updatedAt": "2026-07-22T10:34:24.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/acidente-df-003.jpeg"
     },
     {
-      "clusterId": "96425bcca87751d2",
-      "slug": "1b98c580c72f8122",
-      "titulo": "Destroços de avião da Pan Am desaparecido há 74 anos são encontrados no mar",
-      "resumo": "Exploradores localizaram no mar os destroços do avião Pan Am Clipper Endeavour, desaparecido em 1952. O acidente, que envolveu um DC‑4, resultou na morte de 52 pessoas e provocou mudanças nas normas de segurança da aviação comercial. A descoberta foi anunciada nesta terça‑feira, 21 de julho de 2026.",
-      "porQueImporta": "A localização dos destroços traz esclarecimento histórico e reforça a importância das normas de segurança aérea",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/21/destrocos-de-aviao-desaparecido-ha-74-anos-sao-encontrados-no-mar-acidente-matou-52-pessoas.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/destrocos-de-aviao-desaparecido-ha-74-anos-sao-encontrados-no-mar"
-        }
-      ],
-      "updatedAt": "2026-07-22T05:22:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ZevYMgGYRMkp-2jxoxuZTLmwnzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/JW5kxnRK2ykcYbevYA7g/ap26202833721411.jpg"
-    },
-    {
-      "clusterId": "b9275748455f4177",
-      "slug": "e16ce694082fc407",
-      "titulo": "Área queimada no Vale do Paraíba e região bragantina diminui 23,8% em 2025",
-      "resumo": "O Relatório Anual do Fogo do MapBiomas indica que, em 2025, 46 cidades da região tiveram cerca de 10,2 mil hectares consumidos pelo fogo, redução de 23,85% em relação a 2024, quando foram queimados pouco mais de 13,3 mil hectares. A diminuição corresponde a quase 3,1 mil hectares a menos que no ano anterior.",
-      "porQueImporta": "A queda evidencia progresso na contenção de incêndios e na proteção de áreas agrícolas e naturais.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/22/area-queimada-no-vale-e-regiao-bragantina-cai-238percent-em-2025-veja-os-numeros-por-cidade.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-22T07:01:53.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/7hoSg3t2n0efgwswEViVNT9KDmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/L/c/pAkV3WS2AMptxTO6dvsA/90f76b89-b092-4d9a-9136-7365a2293c56.jpg"
-    },
-    {
-      "clusterId": "6366c5204a1d60a6",
-      "slug": "d966a43adedbec3a",
-      "titulo": "Famílias das vítimas do acidente da Voepass terão acesso antecipado ao relatório final da FAB",
-      "resumo": "Os familiares das 62 vítimas da queda do voo 2283 da Voepass receberão, na quinta‑feira (23), o relatório final elaborado pelo Cenipa, órgão da Força Aérea Brasileira, antes da divulgação pública. A apresentação das conclusões será feita em reunião reservada com representantes das famílias, seguida de coletiva de imprensa. O acidente ocorreu em 9 de agosto de 2024.",
-      "porQueImporta": "O acesso antecipado ao relatório permite que as famílias conheçam as causas do acidente e acompanhem as providências adotadas.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/22/familiares-das-vitimas-de-acidente-da-voepass-terao-acesso-antecipado-a-relatorio-final-da-forca-aerea-certo-alivio.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-22T07:00:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/z1PbxV7QoexhF86dAgRjmQLE3DM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/C/GA0y94TNW76ERE2TFQgg/whatsapp-image-2024-08-11-at-19.23.50.jpeg"
-    },
-    {
-      "clusterId": "581adb75d5df7733",
-      "slug": "f72dba85b5f52567",
-      "titulo": "Motociclistas ficam feridos após colisão frontal em Nova Serrana",
-      "resumo": "Na manhã de terça‑feira (21), duas motos colidiram de frente na avenida Itália, no bairro Novo Horizonte, em Nova Serrana. Os motociclistas, de 53 e 28 anos, ficaram feridos, sendo que um deles foi atendido em estado grave e encaminhado à Sala Vermelha. O incidente foi capturado por câmera de segurança e registrado pelo SAMU.",
-      "porQueImporta": "Acidentes envolvendo motociclistas podem gerar lesões graves e demandam atenção das autoridades de trânsito.",
+      "clusterId": "017efba1b23a95b5",
+      "slug": "38568277570ff5a3",
+      "titulo": "Acidente entre bicicleta e duas motos deixa um morto e três feridos na MG-402",
+      "resumo": "Na noite de terça‑feira (21), uma bicicleta foi atingida na traseira por uma das duas motocicletas que circulavam na MG‑402, em São Francisco. A colisão resultou na morte de uma pessoa e em três feridos. A condutora da segunda moto, ao presenciar o acidente, perdeu o controle e caiu na pista. As vítimas foram socorridas pelas autoridades locais.",
+      "porQueImporta": "O acidente evidencia riscos de circulação mista entre bicicletas e motocicletas em vias rurais.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/22/video-motociclistas-ficam-feridos-apos-baterem-de-frente-em-avenida-de-nova-serrana.ghtml"
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/22/acidente-entre-bicicleta-e-duas-motos-deixa-um-morto-e-tres-feridos-na-mg-402.ghtml"
         }
       ],
-      "updatedAt": "2026-07-22T05:00:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vk663WZY-FauXvNY9X_6d19zy9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/X/17L5EhRsm1XWJkoPNI8g/acidente-motos-nova-serrana.png"
+      "updatedAt": "2026-07-22T10:23:52.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/quRfjcm-s0Iv9J_n5VXjN822fJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/G/hcjtImRqGrjTY7Or8Fmg/bicicleta.jpeg"
     },
     {
-      "clusterId": "61d6faea59d6524b",
-      "slug": "85f67db7e5434368",
-      "titulo": "Frente fria traz temporais ao Paraná, Santa Catarina e Mato Grosso do Sul",
-      "resumo": "A frente fria avançando no Sul do país traz maior risco de temporais para o Paraná, Santa Catarina e Mato Grosso do Sul. A chuva começa a chegar ao sul de São Paulo, abrindo caminho para uma mudança mais ampla no estado na quinta-feira. Enquanto isso, o Centro-Oeste e grande parte do Sudeste permanecem com tempo seco e calor durante a tarde.",
-      "porQueImporta": "A ocorrência de temporais pode gerar riscos de inundações e danos em áreas afetadas.",
+      "clusterId": "1fb3e58dcd034d7e",
+      "slug": "d640755fd1c0381f",
+      "titulo": "Forte chuva causa destelhamentos, alagamentos e desalojamento em Chapecó",
+      "resumo": "Chuva intensa entre a noite de segunda‑feira e a madrugada de terça-feira provocou destelhamento de casas e alagamento de residências em Chapecó, Santa Catarina. Uma unidade de saúde precisou ser isolada por danos na cobertura. Três pessoas de uma mesma família deixaram a casa após o alagamento atingir o porão. Não foram registradas vítimas feridas.",
+      "porQueImporta": "Os danos afetam moradias e serviços de saúde, exigindo resposta imediata das autoridades.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/22/frente-fria-leva-temporais-ao-parana-santa-catarina-e-mato-grosso-do-sul-tempo-seco-persiste-no-centro-oeste-e-sudeste.ghtml"
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/22/chuva-destelhamentos-alagamentos-desalojados-chapeco.ghtml"
         }
       ],
-      "updatedAt": "2026-07-22T03:01:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9ghs45kDg5s8HRJtNH3SKKKKN2E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/t/dJGDRETDuBEzxGllcU1A/lenita-borges.png"
+      "updatedAt": "2026-07-22T10:21:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/XEJKpDR9w5Jur0dJoo43hhna50E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/i/0vC54mRgKLhqbqA4T0hQ/forte-chuva-causa-destelhamentos-alagamentos-e-deixa-desalojados-em-chapeco.jpeg"
     },
     {
-      "clusterId": "61e9a8dd2ab9d761",
-      "slug": "81664b3fd84a7926",
-      "titulo": "Brasil reduz média histórica de queimadas",
-      "resumo": "O relatório do MapBiomas Fogo indica que a média nacional de queimadas atingiu o menor nível registrado nos últimos anos. Os dados apontam queda significativa em comparação com períodos anteriores, refletindo efeitos de políticas de prevenção e combate. A análise destaca a importância de monitoramento contínuo para sustentar a tendência de redução.",
-      "porQueImporta": "A diminuição das queimadas contribui para a preservação ambiental e redução de emissões de gases de efeito estufa",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/agenda-verde/brasil-reduz-media-historica-de-queimadas/"
-        }
-      ],
-      "updatedAt": "2026-07-22T02:09:46.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2020/08/GP1SU5AH_Medium_res.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "fab9328ad3fbc0f6",
-      "slug": "de06337709a8a58c",
-      "titulo": "Calçada desaba e pedestres caem na Lagoa da Salina em Morada Nova",
-      "resumo": "Na noite de terça‑feira, parte do calçadão que circunda a Lagoa da Salina desabou, fazendo com que pelo menos quatro pedestres caíssem no buraco. Duas mulheres, de 62 e 38 anos, foram socorridas e receberam alta após avaliação médica. O incidente ocorreu no passeio público conhecido como \"Varanda da Salina\", no centro do município de Morada Nova, Ceará.",
-      "porQueImporta": "O desabamento evidencia riscos de infraestrutura pública que podem gerar acidentes e demandam intervenções de segurança.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
+      "clusterId": "1298219d6afd0dad",
+      "slug": "ceaeb0317b3cfffd",
+      "titulo": "Chuva intensa provoca alagamentos e queda de árvore em Foz do Iguaçu",
+      "resumo": "Entre a noite de terça‑feira e a madrugada de quarta-feira, chuvas fortes atingiram Foz do Iguaçu, gerando alagamentos em várias áreas da cidade. A Defesa Civil registrou acumulados de até 108 mm na região Norte, 85 mm no Leste e 62 mm no Sul. Também houve queda de árvore, causando danos adicionais. As autoridades monitoram a situação e divulgam a previsão do tempo para a região.",
+      "porQueImporta": "Os alagamentos e a queda de árvore podem afetar a mobilidade, residências e infraestrutura local.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/21/calcada-desaba-e-pedestres-caem-dentro-de-lagoa-no-interior-do-ceara-veja-video.ghtml"
+          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/22/chuva-estragos-parana-previsao.ghtml"
         }
       ],
-      "updatedAt": "2026-07-22T00:51:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/okofybNr1uwGOj8DPZTPlKrik3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/8/qFznOGTyqwKbjEGCY74g/varanda-da-salina-morada-nova.jpg"
+      "updatedAt": "2026-07-22T10:03:54.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wzEBcJMxJKeWa-IAqXJh1W5hqtA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/h/CxQfrpSRKbZa39j64vAg/fundo-vermelho-24-.png"
     },
     {
-      "clusterId": "71db2fb89724f814",
-      "slug": "8f77a43afb3568b2",
-      "titulo": "Motorista perde controle, capota carro e segue viagem em Blumenau, SC",
-      "resumo": "Câmeras de monitoramento registraram que um motorista perdeu o controle do veículo, que ficou invertido sobre as quatro rodas, em Blumenau, no Vale do Itajaí. O carro voltou à posição normal após colidir com o meio‑fio e o condutor continuou dirigindo sem aparentar ferimentos. O incidente ocorreu na madrugada de terça‑feira, dia 21. Não foram registradas vítimas.",
-      "porQueImporta": "O caso ilustra comportamentos de risco no trânsito que podem gerar acidentes graves.",
+      "clusterId": "5cab3267a25e3d16",
+      "slug": "8cc02adefc568eea",
+      "titulo": "Incêndio em terreiro de candomblé deixa mulher gravemente queimada",
+      "resumo": "Um vídeo gravado no terreiro de candomblé mostra um clarão que provocou incêndio durante uma cerimônia, atingindo Caroline Pinto dos Santos, de 32 anos. Ela foi socorrida e encaminhada ao hospital, onde faleceu 25 dias depois com 65% da pele queimada. O incidente ocorreu por volta das 17h30 do dia 13 de junho. A ocorrência foi encaminhada ao Ministério Público para investigação.",
+      "porQueImporta": "O caso evidencia riscos de incêndio em ambientes religiosos e a necessidade de medidas de segurança.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/22/video-mostra-clarao-em-terreiro-e-mulher-queimada-indo-para-hospital-inquerito-e-enviado-ao-ministerio-publico.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-22T09:43:33.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/76YFAf-1Tl14JnexD8U15lwqNaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/in0wARR4ibUUtKd2ZpLg/22carol.jpg"
+    },
+    {
+      "clusterId": "d7f4194cd9b1af42",
+      "slug": "e42edb6d2c54fedf",
+      "titulo": "Naufrágio de balsa deixa ao menos 53 mortos na Guiana",
+      "resumo": "Ao menos 53 pessoas morreram após a balsa, que transportava mais de 100 passageiros, naufragar na costa da Guiana. O acidente ocorreu na noite de sábado, poucas horas depois de a embarcação deixar Georgetown. As autoridades informaram que não há expectativa de sobreviventes. O governo divulgou o número de vítimas nesta terça-feira.",
+      "porQueImporta": "É o maior desastre marítimo recente na Guiana, com elevado número de vítimas.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/22/naufragio-de-balsa-deixa-mortos-na-guiana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-22T09:25:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/flcNyL1N-iZzunnzQ5cLZc7OOGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/3/3jByLgSfaQMuGKHty3Zg/afp-20260721-c2rm263-v1-midres-guyanatransportaccident.jpg"
+    },
+    {
+      "clusterId": "17a198709d788b56",
+      "slug": "7034e0a96c89cc01",
+      "titulo": "Rios atingem cota de inundação e famílias são evacuadas no Rio Grande do Sul",
+      "resumo": "Na quarta‑feira, alerta de risco de inundação foi emitido para o Rio Grande do Sul. Em Encantado, o Rio Taquari chegou a 12,63 m por volta das 5h30, atingindo a cota de inundação. No Vale do Taquari, o rio em Lajeado ultrapassou a marca de 19 m, registrando 19,07 m às 4h45. Autoridades da Defesa Civil retiraram famílias de áreas de risco em mais de setenta municípios afetados desde a última sexta‑feira.",
+      "porQueImporta": "A elevação dos rios coloca em risco a segurança de milhares de residentes e demanda respostas emergenciais.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/22/chuva-no-rs-rios-atingem-cota-de-inundacao-e-familias-sao-retiradas-de-areas-de-risco.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-22T09:23:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/z0RuiL5JVMStOCukAB_tJDRxESA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/P/1JSLejS3mbnKBAGaYlgg/g1-7-.jpg"
+    },
+    {
+      "clusterId": "cfad4ff02bcd0102",
+      "slug": "ce3c091d0e5f6f07",
+      "titulo": "Justiça da Paraíba aceita denúncia contra dois réus no caso da morte de engenheiro após festa de São João",
+      "resumo": "Um mês após a morte a tiros do engenheiro Rubens Fernandes, conhecido como \"Rubinho\", a Justiça da Paraíba aceitou a denúncia do Ministério Público contra o suspeito de disparar, Christian Dantas, e sua namorada, Larissa Leal, tornando-os réus. O homicídio ocorreu na noite de 21 de junho, depois que o engenheiro deixou uma festa privada em Lagoa Seca, no Agreste da Paraíba. A decisão foi proferida pela juíza Flávia.",
+      "porQueImporta": "O caso demonstra a resposta judicial a um homicídio ocorrido em evento público na região, impactando a segurança local.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/22/caso-rubinho-completa-um-mes-relembre-a-cronologia-da-morte-do-engenheiro-apos-festa-de-sao-joao-na-pb-ate-a-denuncia-na-justica.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-22T09:20:55.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/BVNnDmFjlVu4zbnE2vYwQC6CFFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/u/LwsZRcRSanfYd6xXvxLw/rubens-vitima.jpg"
+    },
+    {
+      "clusterId": "45ee5757a533695f",
+      "slug": "c5c5d4adaed4e334",
+      "titulo": "MP denuncia empresário por homicídio culposo após acidente que matou nutricionista em Guarujá",
+      "resumo": "O Ministério Público de São Paulo denunciou o empresário Murilo Rabello Abite, de 26 anos, por homicídio culposo e lesão corporal culposa após dirigir embriagado e colidir com um poste, resultando na morte da nutricionista de 25 anos, Daniella Ferraz Rooth. O acidente ocorreu no bairro Pitangueiras, em Guarujá, com oito ocupantes no veículo. A denúncia inclui pedido de indenizações superiores a R$ 100 mil. A Secretaria de Segurança Pública confirmou a ocorrência.",
+      "porQueImporta": "O caso evidencia riscos de condução sob efeito de álcool e responsabilidade civil em acidentes de trânsito",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/21/video-motorista-perde-controle-carro-capota-segue-viagem-blumenau.ghtml"
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/22/mp-denuncia-empresario-por-morte-de-nutricionista-e-pede-mais-de-r-100-mil-em-indenizacoes.ghtml"
         }
       ],
-      "updatedAt": "2026-07-22T00:50:58.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vLZOLB5IkEMl6uF1SphCgsndSgw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/i/AZeRhKT8m9xII95TEZNw/carro-blumenau-21.jpg"
+      "updatedAt": "2026-07-22T08:19:40.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GgudXWaHcUIA0-btbL46xSHujbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/KADkaMSjArjb7vLFtJiQ/acidente-guaruja.jpg"
     },
     {
-      "clusterId": "e88aefcf1d16b81f",
-      "slug": "dd5e557e42d58c7b",
-      "titulo": "Muro de contenção de casa desaba em Porto Alegre após forte chuva",
-      "resumo": "Um muro de contenção de residência desabou na Vila Canadá, bairro Cristal, em Porto Alegre, por volta das 17h de terça-feira. O Corpo de Bombeiros atribuiu o colapso ao solo encharcado pela forte chuva. Duas casas foram interditadas e outra família foi orientada a deixar o local por precaução. Não houve feridos.",
-      "porQueImporta": "O incidente evidencia riscos de deslizamentos em áreas urbanas durante chuvas intensas",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
+      "clusterId": "42952e61c890a8f4",
+      "slug": "c9ff134949975ddb",
+      "titulo": "Maioria dos municípios do Paraná carece de estrutura para desastres climáticos",
+      "resumo": "O Tribunal de Contas do Paraná constatou que mais da metade dos 399 municípios do estado não possui estrutura física para enfrentar desastres climáticos. Dados da Defesa Civil de 2025 apontam 574 eventos que afetaram 246 municípios, atingindo 292.237 pessoas e causando 27 mortes. O levantamento foi realizado por meio de questionário enviado a todas as prefeituras.",
+      "porQueImporta": "A falta de preparo pode ampliar os impactos de eventos climáticos extremos na população e na infraestrutura local",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/21/muro-de-contencao-de-casa-desaba-em-porto-alegre-apos-forte-chuva.ghtml"
+          "url": "https://g1.globo.com/pr/parana/noticia/2026/07/22/mais-da-metade-dos-municipios-paranaenses-nao-esta-preparada-para-desastres-climaticos-aponta-tce.ghtml"
         }
       ],
-      "updatedAt": "2026-07-22T00:24:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vq-XHEbwKIwC1rleio3xh0JnDwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/L/2j9iTTQiCLR5jGieX0Gg/whatsapp-image-2026-07-21-at-19.19.43.jpeg"
+      "updatedAt": "2026-07-22T08:03:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/O2jYoMe_6tUVtGw0nxBA4k-9ai8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/4jTYRATnaVxBchZuXnfw/carlos-eduardo.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "581adb75d5df7733",
-          "slug": "f72dba85b5f52567",
-          "titulo": "Motociclistas ficam feridos após colisão frontal em Nova Serrana",
-          "resumo": "Na manhã de terça‑feira (21), duas motos colidiram de frente na avenida Itália, no bairro Novo Horizonte, em Nova Serrana. Os motociclistas, de 53 e 28 anos, ficaram feridos, sendo que um deles foi atendido em estado grave e encaminhado à Sala Vermelha. O incidente foi capturado por câmera de segurança e registrado pelo SAMU.",
-          "porQueImporta": "Acidentes envolvendo motociclistas podem gerar lesões graves e demandam atenção das autoridades de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/22/video-motociclistas-ficam-feridos-apos-baterem-de-frente-em-avenida-de-nova-serrana.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-22T05:00:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vk663WZY-FauXvNY9X_6d19zy9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/X/17L5EhRsm1XWJkoPNI8g/acidente-motos-nova-serrana.png"
-        },
-        {
-          "clusterId": "71db2fb89724f814",
-          "slug": "8f77a43afb3568b2",
-          "titulo": "Motorista perde controle, capota carro e segue viagem em Blumenau, SC",
-          "resumo": "Câmeras de monitoramento registraram que um motorista perdeu o controle do veículo, que ficou invertido sobre as quatro rodas, em Blumenau, no Vale do Itajaí. O carro voltou à posição normal após colidir com o meio‑fio e o condutor continuou dirigindo sem aparentar ferimentos. O incidente ocorreu na madrugada de terça‑feira, dia 21. Não foram registradas vítimas.",
-          "porQueImporta": "O caso ilustra comportamentos de risco no trânsito que podem gerar acidentes graves.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/21/video-motorista-perde-controle-carro-capota-segue-viagem-blumenau.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-22T00:50:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vLZOLB5IkEMl6uF1SphCgsndSgw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/i/AZeRhKT8m9xII95TEZNw/carro-blumenau-21.jpg"
-        },
-        {
-          "clusterId": "34cd2abeecf4bd88",
-          "slug": "d1d6f57d565a0cf8",
-          "titulo": "Caminhoneiro de 62 anos morre em colisão entre caminhão e bitrem na BR-354 em Arcos",
-          "resumo": "Um caminhoneiro de 62 anos perdeu o controle do veículo e invadiu a contramão, colidindo lateralmente com um bitrem que trafegava na BR-354, próximo ao km 463, por volta das 11h40. O acidente ocorreu na manhã de terça‑feira, resultando na morte do motorista. A causa da perda de controle ainda não foi esclarecida pela Polícia Militar Rodoviária.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias estaduais e a necessidade de medidas de segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/21/caminhoneiro-morre-apos-caminhao-bater-com-bitrem-na-br-354.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-21T23:47:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zvv2rhNnMD1KGUWjEB1G0bNbxts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/Z/B402gSQPS8UcOoJUABwA/acidnete.jfif"
-        }
-      ]
-    },
     {
       "slug": "enchente",
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "68a62aac6d66a9c0",
-          "slug": "d72a76af417fe5f2",
-          "titulo": "Defesa Civil emite alerta de inundação no Rio Grande do Sul",
-          "resumo": "A Defesa Civil do Rio Grande do Sul mantém alerta para continuidade de chuvas e risco de inundação em áreas do norte do estado. O Inmet emitiu alerta vermelho de grande perigo para acumulados de chuva. O alerta cobre cidades entre Muçum e Taquari e entre Montenegro e Harmonia.",
-          "porQueImporta": "O alerta indica risco de inundações que podem afetar comunidades e infraestrutura.",
+          "clusterId": "1298219d6afd0dad",
+          "slug": "ceaeb0317b3cfffd",
+          "titulo": "Chuva intensa provoca alagamentos e queda de árvore em Foz do Iguaçu",
+          "resumo": "Entre a noite de terça‑feira e a madrugada de quarta-feira, chuvas fortes atingiram Foz do Iguaçu, gerando alagamentos em várias áreas da cidade. A Defesa Civil registrou acumulados de até 108 mm na região Norte, 85 mm no Leste e 62 mm no Sul. Também houve queda de árvore, causando danos adicionais. As autoridades monitoram a situação e divulgam a previsão do tempo para a região.",
+          "porQueImporta": "Os alagamentos e a queda de árvore podem afetar a mobilidade, residências e infraestrutura local.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/defesa-civil-emite-alerta-para-risco-de-inundacao-no-rio-grande-do-sul"
-            },
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/22/chuva-estragos-parana-previsao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-22T10:03:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wzEBcJMxJKeWa-IAqXJh1W5hqtA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/h/CxQfrpSRKbZa39j64vAg/fundo-vermelho-24-.png"
+        },
+        {
+          "clusterId": "17a198709d788b56",
+          "slug": "7034e0a96c89cc01",
+          "titulo": "Rios atingem cota de inundação e famílias são evacuadas no Rio Grande do Sul",
+          "resumo": "Na quarta‑feira, alerta de risco de inundação foi emitido para o Rio Grande do Sul. Em Encantado, o Rio Taquari chegou a 12,63 m por volta das 5h30, atingindo a cota de inundação. No Vale do Taquari, o rio em Lajeado ultrapassou a marca de 19 m, registrando 19,07 m às 4h45. Autoridades da Defesa Civil retiraram famílias de áreas de risco em mais de setenta municípios afetados desde a última sexta‑feira.",
+          "porQueImporta": "A elevação dos rios coloca em risco a segurança de milhares de residentes e demanda respostas emergenciais.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/22/chuva-no-rs-rios-atingem-cota-de-inundacao-e-familias-sao-retiradas-de-areas-de-risco.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-22T09:23:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/z0RuiL5JVMStOCukAB_tJDRxESA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/P/1JSLejS3mbnKBAGaYlgg/g1-7-.jpg"
+        },
+        {
+          "clusterId": "a0d1a47112060426",
+          "slug": "420449996d3fe391",
+          "titulo": "RS mantém alerta de risco elevado e alerta vermelho por chuvas intensas",
+          "resumo": "A Defesa Civil do Rio Grande do Sul informou risco alto na região norte do estado devido às chuvas contínuas. O Instituto Nacional de Meteorologia (INMET) emitiu alerta vermelho indicando grande perigo por acumulados de precipitação. As autoridades recomendam atenção redobrada e monitoramento das áreas mais afetadas. O alerta permanece em vigor enquanto as chuvas persistirem",
+          "porQueImporta": "O monitoramento evita perdas humanas e danos materiais nas áreas vulneráveis",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
             {
               "name": "CNN Brasil",
               "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/rs-mantem-alerta-para-continuidade-de-chuvas-veja-areas-mais-afetadas/"
             }
           ],
-          "updatedAt": "2026-07-22T06:50:15.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/07/chuva-1.jpg"
+          "updatedAt": "2026-07-22T06:50:15.000Z"
         },
         {
           "clusterId": "f13290e9d472450a",
@@ -284,46 +248,155 @@
       ]
     },
     {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "96425bcca87751d2",
-          "slug": "1b98c580c72f8122",
-          "titulo": "Destroços de avião da Pan Am desaparecido há 74 anos são encontrados no mar",
-          "resumo": "Exploradores localizaram no mar os destroços do avião Pan Am Clipper Endeavour, desaparecido em 1952. O acidente, que envolveu um DC‑4, resultou na morte de 52 pessoas e provocou mudanças nas normas de segurança da aviação comercial. A descoberta foi anunciada nesta terça‑feira, 21 de julho de 2026.",
-          "porQueImporta": "A localização dos destroços traz esclarecimento histórico e reforça a importância das normas de segurança aérea",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
+          "clusterId": "5ab6d4fc5da338ed",
+          "slug": "896be437090ecf8a",
+          "titulo": "Colisão na DF-003 causa lentidão no trânsito",
+          "resumo": "Na manhã desta quarta-feira, ocorreu uma colisão na rodovia DF-003 no sentido Catetinho. A ocorrência gerou lentidão no tráfego. Segundo os bombeiros, ninguém ficou gravemente ferido. As autoridades registraram o incidente e liberaram o trânsito após a remoção dos veículos.",
+          "porQueImporta": "Interrupções no tráfego podem afetar a mobilidade de motoristas na região",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/21/destrocos-de-aviao-desaparecido-ha-74-anos-sao-encontrados-no-mar-acidente-matou-52-pessoas.ghtml"
-            },
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/destrocos-de-aviao-desaparecido-ha-74-anos-sao-encontrados-no-mar"
+              "url": "https://www.metropoles.com/distrito-federal/acidente-na-df-003-causa-lentidao-no-transito-no-sentido-catetinho"
             }
           ],
-          "updatedAt": "2026-07-22T05:22:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ZevYMgGYRMkp-2jxoxuZTLmwnzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/JW5kxnRK2ykcYbevYA7g/ap26202833721411.jpg"
+          "updatedAt": "2026-07-22T10:34:24.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/07/acidente-df-003.jpeg"
         },
         {
-          "clusterId": "6366c5204a1d60a6",
-          "slug": "d966a43adedbec3a",
-          "titulo": "Famílias das vítimas do acidente da Voepass terão acesso antecipado ao relatório final da FAB",
-          "resumo": "Os familiares das 62 vítimas da queda do voo 2283 da Voepass receberão, na quinta‑feira (23), o relatório final elaborado pelo Cenipa, órgão da Força Aérea Brasileira, antes da divulgação pública. A apresentação das conclusões será feita em reunião reservada com representantes das famílias, seguida de coletiva de imprensa. O acidente ocorreu em 9 de agosto de 2024.",
-          "porQueImporta": "O acesso antecipado ao relatório permite que as famílias conheçam as causas do acidente e acompanhem as providências adotadas.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
+          "clusterId": "017efba1b23a95b5",
+          "slug": "38568277570ff5a3",
+          "titulo": "Acidente entre bicicleta e duas motos deixa um morto e três feridos na MG-402",
+          "resumo": "Na noite de terça‑feira (21), uma bicicleta foi atingida na traseira por uma das duas motocicletas que circulavam na MG‑402, em São Francisco. A colisão resultou na morte de uma pessoa e em três feridos. A condutora da segunda moto, ao presenciar o acidente, perdeu o controle e caiu na pista. As vítimas foram socorridas pelas autoridades locais.",
+          "porQueImporta": "O acidente evidencia riscos de circulação mista entre bicicletas e motocicletas em vias rurais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/22/familiares-das-vitimas-de-acidente-da-voepass-terao-acesso-antecipado-a-relatorio-final-da-forca-aerea-certo-alivio.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/22/acidente-entre-bicicleta-e-duas-motos-deixa-um-morto-e-tres-feridos-na-mg-402.ghtml"
             }
           ],
-          "updatedAt": "2026-07-22T07:00:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/z1PbxV7QoexhF86dAgRjmQLE3DM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/C/GA0y94TNW76ERE2TFQgg/whatsapp-image-2024-08-11-at-19.23.50.jpeg"
+          "updatedAt": "2026-07-22T10:23:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/quRfjcm-s0Iv9J_n5VXjN822fJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/G/hcjtImRqGrjTY7Or8Fmg/bicicleta.jpeg"
+        },
+        {
+          "clusterId": "45ee5757a533695f",
+          "slug": "c5c5d4adaed4e334",
+          "titulo": "MP denuncia empresário por homicídio culposo após acidente que matou nutricionista em Guarujá",
+          "resumo": "O Ministério Público de São Paulo denunciou o empresário Murilo Rabello Abite, de 26 anos, por homicídio culposo e lesão corporal culposa após dirigir embriagado e colidir com um poste, resultando na morte da nutricionista de 25 anos, Daniella Ferraz Rooth. O acidente ocorreu no bairro Pitangueiras, em Guarujá, com oito ocupantes no veículo. A denúncia inclui pedido de indenizações superiores a R$ 100 mil. A Secretaria de Segurança Pública confirmou a ocorrência.",
+          "porQueImporta": "O caso evidencia riscos de condução sob efeito de álcool e responsabilidade civil em acidentes de trânsito",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/22/mp-denuncia-empresario-por-morte-de-nutricionista-e-pede-mais-de-r-100-mil-em-indenizacoes.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-22T08:19:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GgudXWaHcUIA0-btbL46xSHujbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/KADkaMSjArjb7vLFtJiQ/acidente-guaruja.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "1fb3e58dcd034d7e",
+          "slug": "d640755fd1c0381f",
+          "titulo": "Forte chuva causa destelhamentos, alagamentos e desalojamento em Chapecó",
+          "resumo": "Chuva intensa entre a noite de segunda‑feira e a madrugada de terça-feira provocou destelhamento de casas e alagamento de residências em Chapecó, Santa Catarina. Uma unidade de saúde precisou ser isolada por danos na cobertura. Três pessoas de uma mesma família deixaram a casa após o alagamento atingir o porão. Não foram registradas vítimas feridas.",
+          "porQueImporta": "Os danos afetam moradias e serviços de saúde, exigindo resposta imediata das autoridades.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/22/chuva-destelhamentos-alagamentos-desalojados-chapeco.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-22T10:21:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XEJKpDR9w5Jur0dJoo43hhna50E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/i/0vC54mRgKLhqbqA4T0hQ/forte-chuva-causa-destelhamentos-alagamentos-e-deixa-desalojados-em-chapeco.jpeg"
+        },
+        {
+          "clusterId": "42952e61c890a8f4",
+          "slug": "c9ff134949975ddb",
+          "titulo": "Maioria dos municípios do Paraná carece de estrutura para desastres climáticos",
+          "resumo": "O Tribunal de Contas do Paraná constatou que mais da metade dos 399 municípios do estado não possui estrutura física para enfrentar desastres climáticos. Dados da Defesa Civil de 2025 apontam 574 eventos que afetaram 246 municípios, atingindo 292.237 pessoas e causando 27 mortes. O levantamento foi realizado por meio de questionário enviado a todas as prefeituras.",
+          "porQueImporta": "A falta de preparo pode ampliar os impactos de eventos climáticos extremos na população e na infraestrutura local",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/parana/noticia/2026/07/22/mais-da-metade-dos-municipios-paranaenses-nao-esta-preparada-para-desastres-climaticos-aponta-tce.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-22T08:03:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/O2jYoMe_6tUVtGw0nxBA4k-9ai8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/4jTYRATnaVxBchZuXnfw/carlos-eduardo.jpg"
+        },
+        {
+          "clusterId": "924637040acbec9f",
+          "slug": "a686ca7b377616a8",
+          "titulo": "Tempestade tropical Bertha atinge costa nordeste do Golfo do México com ventos acima de 90 km/h",
+          "resumo": "A tempestade tropical Bertha chegou aos Estados Unidos trazendo ventos superiores a 90 km/h. As regiões costeiras entre a Flórida e a Louisiana enfrentarão períodos de chuva, rajadas de vento e risco de inundações. Autoridades monitoram a situação e orientam a população a adotar medidas de precaução.",
+          "porQueImporta": "A ocorrência pode causar danos materiais e riscos à segurança das comunidades costeiras",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/tempestade-tropical-bertha-chega-nos-eua-com-ventos-acima-de-90km-h/"
+            }
+          ],
+          "updatedAt": "2026-07-22T07:11:47.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "cfad4ff02bcd0102",
+          "slug": "ce3c091d0e5f6f07",
+          "titulo": "Justiça da Paraíba aceita denúncia contra dois réus no caso da morte de engenheiro após festa de São João",
+          "resumo": "Um mês após a morte a tiros do engenheiro Rubens Fernandes, conhecido como \"Rubinho\", a Justiça da Paraíba aceitou a denúncia do Ministério Público contra o suspeito de disparar, Christian Dantas, e sua namorada, Larissa Leal, tornando-os réus. O homicídio ocorreu na noite de 21 de junho, depois que o engenheiro deixou uma festa privada em Lagoa Seca, no Agreste da Paraíba. A decisão foi proferida pela juíza Flávia.",
+          "porQueImporta": "O caso demonstra a resposta judicial a um homicídio ocorrido em evento público na região, impactando a segurança local.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/22/caso-rubinho-completa-um-mes-relembre-a-cronologia-da-morte-do-engenheiro-apos-festa-de-sao-joao-na-pb-ate-a-denuncia-na-justica.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-22T09:20:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/BVNnDmFjlVu4zbnE2vYwQC6CFFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/u/LwsZRcRSanfYd6xXvxLw/rubens-vitima.jpg"
+        },
+        {
+          "clusterId": "05d7d28bd585b74f",
+          "slug": "aaad14ae54390616",
+          "titulo": "Torcedores provocam vibrações sísmicas em cidades da Espanha após vitória da seleção na Copa do Mundo",
+          "resumo": "Sensores sísmicos instalados na Espanha registraram vibrações durante a comemoração da vitória da seleção sobre a Argentina na final da Copa do Mundo de 2026. O Conselho Superior de Pesquisas Científicas (CSIC) divulgou que foram identificados três picos de atividade, incluindo o gol de Ferran Torres. As medições foram feitas ao longo da partida e refletiram a intensidade das celebrações nas áreas urbanas.",
+          "porQueImporta": "O evento demonstra como grandes manifestações populares podem gerar efeitos mensuráveis no ambiente físico.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/20/vitoria-na-copa-do-mundo-provoca-terremotos-em-cidades-da-espanha.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-20T19:19:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FomA_ITm7_xK5bVjtvsDvG8XiP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/d/J9vU7cQgqjUljkrlKgBA/2026-07-19t223203z-1742980946-up1em7j1qld9q-rtrmadp-3-soccer-worldcup-esp-arg-fans-barcelona.jpg"
         }
       ]
     },
@@ -368,105 +441,42 @@
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "fab9328ad3fbc0f6",
-          "slug": "de06337709a8a58c",
-          "titulo": "Calçada desaba e pedestres caem na Lagoa da Salina em Morada Nova",
-          "resumo": "Na noite de terça‑feira, parte do calçadão que circunda a Lagoa da Salina desabou, fazendo com que pelo menos quatro pedestres caíssem no buraco. Duas mulheres, de 62 e 38 anos, foram socorridas e receberam alta após avaliação médica. O incidente ocorreu no passeio público conhecido como \"Varanda da Salina\", no centro do município de Morada Nova, Ceará.",
-          "porQueImporta": "O desabamento evidencia riscos de infraestrutura pública que podem gerar acidentes e demandam intervenções de segurança.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "6366c5204a1d60a6",
+          "slug": "d966a43adedbec3a",
+          "titulo": "Famílias das vítimas do acidente da Voepass terão acesso antecipado ao relatório final da FAB",
+          "resumo": "Os familiares das 62 vítimas da queda do voo 2283 da Voepass receberão, na quinta‑feira (23), o relatório final elaborado pelo Cenipa, órgão da Força Aérea Brasileira, antes da divulgação pública. A apresentação das conclusões será feita em reunião reservada com representantes das famílias, seguida de coletiva de imprensa. O acidente ocorreu em 9 de agosto de 2024.",
+          "porQueImporta": "O acesso antecipado ao relatório permite que as famílias conheçam as causas do acidente e acompanhem as providências adotadas.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/21/calcada-desaba-e-pedestres-caem-dentro-de-lagoa-no-interior-do-ceara-veja-video.ghtml"
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/22/familiares-das-vitimas-de-acidente-da-voepass-terao-acesso-antecipado-a-relatorio-final-da-forca-aerea-certo-alivio.ghtml"
             }
           ],
-          "updatedAt": "2026-07-22T00:51:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/okofybNr1uwGOj8DPZTPlKrik3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/8/qFznOGTyqwKbjEGCY74g/varanda-da-salina-morada-nova.jpg"
+          "updatedAt": "2026-07-22T07:00:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/z1PbxV7QoexhF86dAgRjmQLE3DM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/C/GA0y94TNW76ERE2TFQgg/whatsapp-image-2024-08-11-at-19.23.50.jpeg"
         },
         {
-          "clusterId": "e88aefcf1d16b81f",
-          "slug": "dd5e557e42d58c7b",
-          "titulo": "Muro de contenção de casa desaba em Porto Alegre após forte chuva",
-          "resumo": "Um muro de contenção de residência desabou na Vila Canadá, bairro Cristal, em Porto Alegre, por volta das 17h de terça-feira. O Corpo de Bombeiros atribuiu o colapso ao solo encharcado pela forte chuva. Duas casas foram interditadas e outra família foi orientada a deixar o local por precaução. Não houve feridos.",
-          "porQueImporta": "O incidente evidencia riscos de deslizamentos em áreas urbanas durante chuvas intensas",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "9efc952edb25486a",
+          "slug": "1b98c580c72f8122",
+          "titulo": "Destroços de avião da Pan Am desaparecido há 74 anos são encontrados no mar",
+          "resumo": "Exploradores localizaram no mar os destroços do avião Pan Am Clipper Endeavour, desaparecido em 1952. O acidente, que envolveu um DC‑4, resultou na morte de 52 pessoas e provocou mudanças nas normas de segurança da aviação comercial. A descoberta foi anunciada nesta terça‑feira, 21 de julho de 2026.",
+          "porQueImporta": "A localização dos destroços traz esclarecimento histórico e reforça a importância das normas de segurança aérea",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/21/muro-de-contencao-de-casa-desaba-em-porto-alegre-apos-forte-chuva.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/21/destrocos-de-aviao-desaparecido-ha-74-anos-sao-encontrados-no-mar-acidente-matou-52-pessoas.ghtml"
             }
           ],
-          "updatedAt": "2026-07-22T00:24:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vq-XHEbwKIwC1rleio3xh0JnDwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/L/2j9iTTQiCLR5jGieX0Gg/whatsapp-image-2026-07-21-at-19.19.43.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "c024b5d2bbdd316f",
-          "slug": "510a2550a4738c08",
-          "titulo": "Mulher morre por febre maculosa em São Bernardo do Campo e acende alerta para doença transmitida por carrapatos",
-          "resumo": "Morte por febre maculosa em São Bernardo do Campo acende alerta para doença transmitida po Uma morte por febre maculosa em São Bernardo do Campo, no ABC Paulilsta, acendeu o alerta para uma das doenças mais letais transmitidas por carrapatos. A vítima era uma mulher de 43 anos, moradora da região do Alvarenga, área com muita mata e de onde, provavelmente, saíram os carrapatos responsáveis pela contaminação. O caso ocorreu em março, mas foi divulgado apenas agora. A paciente foi levada ao serviço de saúde já em estado de choque e morreu menos de 24 horas depois de dar entrada no hospital. 🔎…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/21/mulher-morre-por-febre-maculosa-em-sao-bernardo-do-campo-e-acende-alerta-para-doenca-transmitida-por-carrapatos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-21T23:54:28.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SMfgO4vdcV1okEJcLp6pmousDTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/N/eJyQnpTjAhtZhXYgXO6A/thumb-fotos-2026-07-11t101307.195.jpg"
-        },
-        {
-          "clusterId": "05d7d28bd585b74f",
-          "slug": "aaad14ae54390616",
-          "titulo": "Torcedores provocam vibrações sísmicas em cidades da Espanha após vitória da seleção na Copa do Mundo",
-          "resumo": "Sensores sísmicos instalados na Espanha registraram vibrações durante a comemoração da vitória da seleção sobre a Argentina na final da Copa do Mundo de 2026. O Conselho Superior de Pesquisas Científicas (CSIC) divulgou que foram identificados três picos de atividade, incluindo o gol de Ferran Torres. As medições foram feitas ao longo da partida e refletiram a intensidade das celebrações nas áreas urbanas.",
-          "porQueImporta": "O evento demonstra como grandes manifestações populares podem gerar efeitos mensuráveis no ambiente físico.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/20/vitoria-na-copa-do-mundo-provoca-terremotos-em-cidades-da-espanha.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-20T19:19:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/FomA_ITm7_xK5bVjtvsDvG8XiP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/d/J9vU7cQgqjUljkrlKgBA/2026-07-19t223203z-1742980946-up1em7j1qld9q-rtrmadp-3-soccer-worldcup-esp-arg-fans-barcelona.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "61d6faea59d6524b",
-          "slug": "85f67db7e5434368",
-          "titulo": "Frente fria traz temporais ao Paraná, Santa Catarina e Mato Grosso do Sul",
-          "resumo": "A frente fria avançando no Sul do país traz maior risco de temporais para o Paraná, Santa Catarina e Mato Grosso do Sul. A chuva começa a chegar ao sul de São Paulo, abrindo caminho para uma mudança mais ampla no estado na quinta-feira. Enquanto isso, o Centro-Oeste e grande parte do Sudeste permanecem com tempo seco e calor durante a tarde.",
-          "porQueImporta": "A ocorrência de temporais pode gerar riscos de inundações e danos em áreas afetadas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/22/frente-fria-leva-temporais-ao-parana-santa-catarina-e-mato-grosso-do-sul-tempo-seco-persiste-no-centro-oeste-e-sudeste.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-22T03:01:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9ghs45kDg5s8HRJtNH3SKKKKN2E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/t/dJGDRETDuBEzxGllcU1A/lenita-borges.png"
+          "updatedAt": "2026-07-22T02:34:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ZevYMgGYRMkp-2jxoxuZTLmwnzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/JW5kxnRK2ykcYbevYA7g/ap26202833721411.jpg"
         }
       ]
     },
@@ -475,21 +485,44 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "821ba488a2c2fe15",
-          "slug": "f5c0261fcd2b92e1",
-          "titulo": "Incêndio atinge apartamento em prédio no centro de Balneário Camboriú",
-          "resumo": "Um princípio de incêndio começou em um apartamento de um prédio localizado na Rua 3500, no centro de Balneário Camboriú, Santa Catarina, na noite de terça‑feira. O Corpo de Bombeiros Militar foi acionado por volta das 20h. Não há informações sobre feridos nem sobre a evacuação do edifício. Vídeos de vizinhos mostram chamas saindo pelas janelas.",
-          "porQueImporta": "Incêndios em áreas residenciais podem colocar em risco a vida de moradores e demandar recursos de emergência.",
+          "clusterId": "5cab3267a25e3d16",
+          "slug": "8cc02adefc568eea",
+          "titulo": "Incêndio em terreiro de candomblé deixa mulher gravemente queimada",
+          "resumo": "Um vídeo gravado no terreiro de candomblé mostra um clarão que provocou incêndio durante uma cerimônia, atingindo Caroline Pinto dos Santos, de 32 anos. Ela foi socorrida e encaminhada ao hospital, onde faleceu 25 dias depois com 65% da pele queimada. O incidente ocorreu por volta das 17h30 do dia 13 de junho. A ocorrência foi encaminhada ao Ministério Público para investigação.",
+          "porQueImporta": "O caso evidencia riscos de incêndio em ambientes religiosos e a necessidade de medidas de segurança.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/21/fogo-apartamento-predio-balneario-camboriu.ghtml"
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/22/video-mostra-clarao-em-terreiro-e-mulher-queimada-indo-para-hospital-inquerito-e-enviado-ao-ministerio-publico.ghtml"
             }
           ],
-          "updatedAt": "2026-07-21T23:55:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sZIFM8kxiEuYqmzFbY7XQimPBCk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/Z/HbBhzDTMqWCdJ8U3Rdmg/incendio-balneario-camboriu-sc.jpg"
+          "updatedAt": "2026-07-22T09:43:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/76YFAf-1Tl14JnexD8U15lwqNaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/in0wARR4ibUUtKd2ZpLg/22carol.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "d7f4194cd9b1af42",
+          "slug": "e42edb6d2c54fedf",
+          "titulo": "Naufrágio de balsa deixa ao menos 53 mortos na Guiana",
+          "resumo": "Ao menos 53 pessoas morreram após a balsa, que transportava mais de 100 passageiros, naufragar na costa da Guiana. O acidente ocorreu na noite de sábado, poucas horas depois de a embarcação deixar Georgetown. As autoridades informaram que não há expectativa de sobreviventes. O governo divulgou o número de vítimas nesta terça-feira.",
+          "porQueImporta": "É o maior desastre marítimo recente na Guiana, com elevado número de vítimas.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/22/naufragio-de-balsa-deixa-mortos-na-guiana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-22T09:25:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/flcNyL1N-iZzunnzQ5cLZc7OOGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/3/3jByLgSfaQMuGKHty3Zg/afp-20260721-c2rm263-v1-midres-guyanatransportaccident.jpg"
         }
       ]
     },
