@@ -1,9 +1,15 @@
 {
-  "ranAt": "2026-07-22T10:39:19.103Z",
+  "ranAt": "2026-07-22T14:36:15.972Z",
   "editionDate": "2026-07-22",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e enchentes dominam o panorama de desastres nesta edição\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: erro — sem cota (429)",
+    "cerebras: ok"
+  ]
 }
