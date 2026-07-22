@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-07-21T14:35:50.877Z",
-  "editionDate": "2026-07-21",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"A prevalência de eventos hidrológicos e incidentes de trânsito destaca vulnerabilidades regionais\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-07-22T03:58:45.961Z",
+  "editionDate": "2026-07-22",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
