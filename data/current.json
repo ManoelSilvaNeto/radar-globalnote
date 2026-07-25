@@ -1,201 +1,465 @@
 {
   "date": "2026-07-25",
-  "generatedAt": "2026-07-25T14:11:45.054Z",
+  "generatedAt": "2026-07-25T17:32:51.518Z",
   "home": [
     {
-      "clusterId": "86e55b19a75f4ce0",
-      "slug": "deb575a045dd02a4",
-      "titulo": "Temporal de ventos de até 122 km/h causa destruição e queda de energia na região de Ribeirão Preto",
-      "resumo": "Um temporal com ventos de até 122 km/h atingiu a região de Ribeirão Preto na última sexta-feira, causando a queda de torres de energia, árvores e estruturas de empresas. A tempestade durou cerca de 30 minutos e resultou em uma morte, quando um homem de 75 anos foi atingido por um galpão desabado. Mais de 115 mil clientes ficaram sem energia, com 91 mil em Ribeirão Preto, 16 mil em Guariba e 5 mil em Taquaritinga. A CPFL mobilizou cerca de 250 equipes para restabelecer o serviço.",
-      "porQueImporta": "O evento comprometeu a infraestrutura elétrica e a segurança das comunidades, exigindo ações de emergência e ressarcimento de serviços essenciais.",
+      "clusterId": "b5a0e205300378db",
+      "slug": "b483d2f4acc9e307",
+      "titulo": "Desabamento de estrutura metálica em obra de condomínio de luxo no Morumbi deixa morto e feridos",
+      "resumo": "Um soldador morreu e trabalhadores ficaram feridos após o colapso de uma estrutura metálica em uma obra de condomínio de luxo na zona oeste de São Paulo. O acidente ocorreu por volta das 10h30 na Avenida Lineu de Paula Machado, número 164. A polícia isolou o local para perícia e investiga as causas do desabamento. As fontes divergem quanto ao número exato de feridos, indicando entre três e cinco pessoas lesionadas.",
+      "porQueImporta": "O incidente evidencia riscos de segurança em obras de grande porte e pode gerar medidas de prevenção.",
+      "categoria": "Desabamento",
+      "categoriaSlug": "desabamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/25/estrutura-desaba-em-obra-de-alto-padrao-no-morumbi-e-deixa-vitimas.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/desabamento-construcao-zona-oeste-sp"
+        }
+      ],
+      "updatedAt": "2026-07-25T17:09:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Y_IsdadrNQY7PlEzKDQaZN_NLBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/i/8emDlLS36UBtuVRj0sXA/whatsapp-image-2026-07-25-at-11.22.17.jpeg"
+    },
+    {
+      "clusterId": "093b1f4850952d63",
+      "slug": "257e5fbe2e1531dc",
+      "titulo": "Temporal causa apagões e dezenas de ocorrências em Ribeirão Preto",
+      "resumo": "Após ventos de até 122 km/h atingirem a região, cerca de 81,9 mil imóveis ficaram sem energia em Ribeirão Preto e municípios vizinhos. A CPFL informou que pretende normalizar o fornecimento ainda neste sábado. Bombeiros registraram mais de 440 ocorrências, incluindo uma morte, e a cidade foi declarada em estado de calamidade.",
+      "porQueImporta": "Afeta a população e demanda resposta emergencial de serviços essenciais",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/bombeiros-registram-mais-de-440-ocorrencias-apos-temporal-em-ribeirao-preto/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/25/veja-como-esta-a-situacao-da-energia-eletrica-nas-cidades-da-regiao-de-ribeirao-preto-afetadas-pelo-temporal.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-25T14:53:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0rM4mJYtj4FeU3zel_m6KDQcoqg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/b9q0FVRtAGLf62yLDo2g/molduras-g1-2026-07-24t171200.875.png"
+    },
+    {
+      "clusterId": "5e67094bd36b7305",
+      "slug": "11c442c61cb7e258",
+      "titulo": "Três mortos em acidente entre carro e caminhão-tanque na BR-365 em Patrocínio",
+      "resumo": "Na noite de sexta‑feira, um carro de passeio colidiu com um caminhão‑tanque no km 504 da BR‑365, em Patrocínio, resultando em três óbitos. As vítimas eram moradores de Uberlândia: o fotógrafo José Everton de Oliveira, a professora de música e modelo Déborah Cristina Inácio de Almeida e o ator Sérgio Guimarães Costa Filho. O acidente foi registrado pelas autoridades locais.",
+      "porQueImporta": "O acidente evidencia riscos nas rodovias e a perda de profissionais ligados à cultura e tecnologia da região",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/25/fotografo-e-professora-de-uberlandia-estao-entre-vitimas-de-acidente-com-tres-mortes-na-br-365.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-25T17:23:52.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/8c0XQR8tQLRAOnJVIqiA35j3h5s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/r/Ay7MtqR4iohucwOKj1yg/design-sem-nome-2026-07-25t141157.348.jpg"
+    },
+    {
+      "clusterId": "13ae41c264891327",
+      "slug": "589ac030d683c98a",
+      "titulo": "Acidente entre ônibus e caminhão deixa feridos na fronteira entre SC e RS",
+      "resumo": "Um caminhão de transporte de leite colidiu com um ônibus que transportava 18 passageiros na BR-480, em Nonoai (RS), próximo à divisa com Chapecó (SC), por volta das 21h na noite de sexta‑feira. O acidente deixou ao menos nove pessoas feridas, que foram encaminhadas para hospitais de Nonoai e Chapecó. As equipes de resgate chegaram ao local após a retirada dos passageiros do ônibus.",
+      "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias interestaduais que ligam estados diferentes, demandando atenção das autoridades de trânsito.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/25/acidente-onibus-caminhao-feridos-fronteira-sc-rs.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-25T17:19:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/B8SBL8dlk6KNbAzolMJX8U_Vx64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/H/aAkBpfTp6WzmhO4jhuzw/acidente-entre-onibus-e-caminhao-deixa-feridos-na-fronteira-entre-sc-e-rs.png"
+    },
+    {
+      "clusterId": "dc73d3d7ff3e9899",
+      "slug": "d84dd3e976915aea",
+      "titulo": "Grávida morre e seis ficam feridos em acidente entre três carros na BR-101 em Mimoso do Sul",
+      "resumo": "Na noite de sexta‑feira, por volta das 18h40, três veículos – um Fiat Uno, um Renault Kwid e um Volkswagen Nivus – colidiram no km 446 da BR‑101, em Mimoso do Sul, ES. A vítima foi identificada como Aline Xavier Rodrigues, de 29 anos, que estava grávida e morreu no local. Outras seis pessoas ficaram feridas e foram atendidas pelos serviços de emergência.",
+      "porQueImporta": "O acidente resultou em morte e múltiplas vítimas, demandando resposta de emergência e destacando riscos nas rodovias estaduais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/07/25/gravida-morre-e-outras-seis-pessoas-ficam-feridas-em-acidente-entre-tres-carros-na-br-101-no-es.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-25T17:09:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_Va8BaYEDpS_RnMXif6XIMnPIno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/K/CiPDheQAypnbQQQsWaTA/thumb-videos-g1-35-.jpg"
+    },
+    {
+      "clusterId": "f9ae1774616aaca5",
+      "slug": "516acdf2acad52c0",
+      "titulo": "Mais de 270 mil evacuados por incêndios na Espanha e França",
+      "resumo": "Incêndios de grandes proporções atingiram áreas próximas a Madri e Bordeaux, forçando a evacuação de mais de 270 mil pessoas. As chamas permaneceram fora de controle, levando à mobilização de reforços da União Europeia para apoiar as autoridades locais. As evacuações foram coordenadas pelas equipes de proteção civil dos dois países. A situação permanece crítica, com risco de expansão dos focos de fogo.",
+      "porQueImporta": "A magnitude das evacuações evidencia a gravidade dos incêndios e a necessidade de resposta conjunta internacional.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/mais-de-270-mil-sao-evacuados-em-meio-a-incendios-na-espanha-e-franca/"
+        }
+      ],
+      "updatedAt": "2026-07-25T16:34:48.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/AFP__20260724__C34Q88B__v1__HighRes__SpainWildfireEmergencyGovernmentClimate.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "4b47fb1154cb8b48",
+      "slug": "5febd245cb518996",
+      "titulo": "Duas jovens morrem em acidente de carro com excesso de ocupantes em Foz do Iguaçu",
+      "resumo": "Na noite de sexta-feira (24), um carro que transportava dez pessoas, embora tivesse capacidade para cinco, saiu da pista e colidiu com uma árvore na Av. Felipe Wandscheer, em Foz do Iguaçu, no oeste do Paraná. As duas vítimas fatais eram jovens de 17 e 18 anos, que ficaram presas e foram pressionadas umas contra as outras após a batida. O acidente foi registrado pela Polícia Militar e pelo Corpo de Bombeiros.",
+      "porQueImporta": "O caso evidencia riscos de sobrecarga de veículos e a necessidade de respeitar a capacidade de ocupação para evitar fatalidades.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/25/duas-jovens-morrem-em-acidente-com-carro-que-levava-dez-pessoas-no-parana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-25T16:25:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rXKNTWNsOYy9DSO-vlHRa5xZsVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/A/tX19ayTyeFVRiMOID0JQ/87f9e76a-15dd-449d-9d1d-6f847b8258d4.jpg"
+    },
+    {
+      "clusterId": "e1b3195769e625e4",
+      "slug": "b528a4758559537c",
+      "titulo": "Torres de alta tensão são derrubadas por temporal em Taquaritinga (SP)",
+      "resumo": "Na sexta‑feira (24), um temporal com ventos acima de 100 km/h atingiu a região rural entre Taquaritinga e Jaboticabal, no interior de São Paulo, e provocou a queda de torres de energia de alta tensão nas margens da rodovia SP‑333. O produtor rural Fernando Panobianco relatou que as estruturas caíram próximo à sua propriedade, descrevendo a situação como incomum.",
+      "porQueImporta": "O incidente pode gerar interrupções no fornecimento de energia e riscos de segurança na região",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/25/regiao-de-ribeirao-preto-tem-1151-mil-unidades-sem-luz-26-horas-apos-temporal-diz-cpfl.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/bombeiros-registram-mais-de-440-ocorrencias-apos-temporal-em-ribeirao-preto/"
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/25/nunca-vi-acontecer-isso-diz-produtor-rural-sobre-queda-de-torres-de-alta-tensao-apos-temporal-no-interior-de-sp.ghtml"
         }
       ],
-      "updatedAt": "2026-07-25T13:31:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/0rM4mJYtj4FeU3zel_m6KDQcoqg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/b9q0FVRtAGLf62yLDo2g/molduras-g1-2026-07-24t171200.875.png"
+      "updatedAt": "2026-07-25T16:18:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/OoxatspLWJJ0L8KFr59NIw-ICNs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/G/nfjf4PSH21QtrubGHlWQ/molduras-g1-2026-07-24t171214.449.png"
     },
     {
-      "clusterId": "789028c7b4b94e7a",
-      "slug": "15e000e283f89c8c",
-      "titulo": "Chuvas no RS deixam mais de 680 desalojados; 206 cidades já reportam danos",
-      "resumo": "Defesa Civil atualiza dados de danos, incluindo quedas de árvores, postes, destelhamentos e alagamentos",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/chuvas-no-rs-deixam-mais-de-680-desalojados-206-cidades-ja-reportam-danos/"
-        }
-      ],
-      "updatedAt": "2026-07-25T13:44:12.000Z"
-    },
-    {
-      "clusterId": "0bf12a2761d0135d",
-      "slug": "0bf7f24c21be733e",
-      "titulo": "Motorista morre ao colidir carro com carreta na SP-310",
-      "resumo": "Um motorista de 56 anos perdeu a vida após seu carro colidir com a lateral de uma carreta na Rodovia Washington Luís, entre Catanduva e Catiguá, na madrugada de sábado. A polícia rodoviária constatou que a pista estava molhada devido à garoa no momento da colisão. O condutor da carreta não sofreu ferimentos e o motorista da vítima morreu no local.",
-      "porQueImporta": "O acidente evidencia os riscos de condução em vias molhadas e a necessidade de atenção nas rodovias rurais.",
+      "clusterId": "aa7713c9db36c0d8",
+      "slug": "2c6c740dc4d29b9d",
+      "titulo": "Motociclista morre em colisão na PB-030 após motorista tentar desviar de animal",
+      "resumo": "Na manhã de sábado (25), um carro perdeu o controle ao tentar desviar de um animal na PB-030, em Pedras de Fogo, zona da Mata paraibana, e colidiu frontalmente com uma motocicleta que trafegava em sentido contrário. O piloto da moto, identificado como Gustavo Ferreira, de 19 anos, morreu no local. O acidente envolveu também o animal que estava na pista.",
+      "porQueImporta": "A ocorrência evidencia riscos de colisões quando animais invadem vias rurais, impactando a segurança viária.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/25/acidente-sp-310.ghtml"
+          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/25/acidente-com-animal-na-pista-deixa-motociclista-morto-na-pb-030.ghtml"
         }
       ],
-      "updatedAt": "2026-07-25T13:42:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/YA_wrAjr03TBAId97_yXgT01exA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/AriKkfQuAO7qNvsKa1Fg/formato-padrao-imagens-g1-2026-07-25t103104.535.png"
+      "updatedAt": "2026-07-25T15:47:57.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ULCyaosmm2h0F0YdbWUGqc0H-Lc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/7C27BBTBqzEJGhzuf3Ew/acidente-pedras-de-fogo.png"
     },
     {
-      "clusterId": "fa13e08d1fcaa175",
-      "slug": "adeb8693ea5e6c6d",
-      "titulo": "Adolescente morre após queimaduras em acidente com álcool em MT",
-      "resumo": "David Vitor Mercês Pereira, de 13 anos, morreu após quase dois meses internado por graves queimaduras. O acidente ocorreu em 4 de junho, quando ele e familiares tentavam acender o fogo de um disco de arado e as chamas atingiram um galão de álcool em uma chácara de Rondonópolis. A ocorrência foi registrada pela Polícia Civil.",
-      "porQueImporta": "Destaca os riscos de manipulação de álcool em ambientes domésticos rurais",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/25/adolescente-morre-apos-quase-dois-meses-internado-por-queimaduras-sofridas-em-acidente-com-alcool-em-mt.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-25T13:39:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kd2wuoHSq9FZnERSbc9Igwsar88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/v/zxXx0FToO38NhGZojT6A/videos-g1-51-.jpg"
-    },
-    {
-      "clusterId": "8f9cb9752b49e41f",
-      "slug": "ccc9662533919c7a",
-      "titulo": "Colisão entre dois ônibus na Síria deixa dezenas de mortos e feridos",
-      "resumo": "Dois ônibus colidiram na estrada que liga Deir al‑Zor a Damasco, na Síria, resultando em 35 mortos e 30 feridos. Helicópteros do Ministério da Defesa foram mobilizados para retirar os feridos da cena. A ocorrência foi registrada como um acidente de trânsito de grande gravidade. As autoridades locais iniciaram as operações de socorro e investigação.",
-      "porQueImporta": "O acidente evidencia riscos de segurança viária em áreas de conflito, afetando a população civil.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/colisao-entre-dois-onibus-na-siria-deixa-35-mortos-e-30-feridos/"
-        }
-      ],
-      "updatedAt": "2026-07-25T13:32:45.000Z"
-    },
-    {
-      "clusterId": "326ae57880fdf07a",
-      "slug": "a21661366843374a",
-      "titulo": "Carreta com contêiner tombou e colidiu com dois veículos em Cariacica",
-      "resumo": "Na noite de sexta‑feira (24), uma carreta carregada de chapas de granito tentou subir uma ladeira no bairro Santa Cecília, em Cariacica (Grande Vitória), mas não conseguiu e recuou, atingindo dois carros antes de tombar. O veículo virou na rua e vazou óleo no local. Nenhum ferido foi registrado. A ocorrência foi registrada pela polícia local.",
-      "porQueImporta": "O acidente demonstra riscos de transporte de carga pesada em áreas urbanas e gera risco ambiental por vazamento de óleo.",
+      "clusterId": "2630799008c7c4a3",
+      "slug": "b5f111a09ba300df",
+      "titulo": "Acidentes de trânsito em Volta Redonda",
+      "resumo": "Na manhã de sábado (25), uma motorista colidiu o carro contra um poste na Rodovia dos Metalúrgicos, no bairro São Geraldo, e foi atendida pelos bombeiros com ferimentos leves, sendo liberada no local. Na madrugada do mesmo dia, um adolescente de 17 anos perdeu o controle do veículo ao tentar evitar outro carro na Avenida Sávio Cota de Almeida Gama, no bairro Retiro, e atingiu o muro do Colégio Estadual Santos Dumont, sem causar ferimentos. As causas dos dois acidentes ainda estão sob investigação. Ambos os episódios ocorreram em áreas distintas de Volta Redonda.",
+      "porQueImporta": "Os acidentes ressaltam a necessidade de atenção ao trânsito e de medidas de segurança nas vias urbanas e rodoviárias da região.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/07/25/video-carreta-tomba-apos-nao-conseguir-subir-ladeira-descer-de-re-e-atingir-dois-carros-em-cariacica.ghtml"
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/25/adolescente-bate-carro-contra-muro-de-escola-em-volta-redonda.ghtml"
         }
       ],
-      "updatedAt": "2026-07-25T13:23:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/QQSFwoaH_W8bLI3-GHXniyktDzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/U/e9bns2TEiyhpi7VeeYHQ/thumb-videos-g1-21-.jpg"
-    },
-    {
-      "clusterId": "dd04e3cd66f889a5",
-      "slug": "c28b89f308ad63a9",
-      "titulo": "Motorista de 47 anos morre em acidente envolvendo caminhonete, carro e carreta na BR-354 em Arcos",
-      "resumo": "Na noite de sexta-feira, por volta das 18h10, uma caminhonete colidiu com uma carreta e um carro no km 468 da BR-354, em Arcos. A condutora do carro, de 44 anos, seguia de Bambuí para Arcos quando a carreta em posição de “L” atingiu primeiro a caminhonete e depois o carro. O motorista da caminhonete, de 47 anos, morreu no local. O acidente foi registrado pela Polícia Militar Rodoviária.",
-      "porQueImporta": "O ocorrido evidencia riscos de colisões múltiplas em rodovias e a necessidade de atenção ao tráfego de veículos de grande porte.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/25/motorista-morre-em-acidente-com-caminhonete-carreta-e-carro-na-br-354-em-arcos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-25T13:23:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/yK7V1WkSdnvhp6OjK64seiA8tUc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/V/mN7TPqQ7uPoEaSX0P8iQ/acidente-3.jfif"
-    },
-    {
-      "clusterId": "903453ecfe49aafe",
-      "slug": "4f8d8b6931c55bde",
-      "titulo": "Motociclista morre em acidente no cruzamento das avenidas Nove de Julho e Prefeito Luiz Latorre em Jundiaí",
-      "resumo": "Um motociclista morreu na madrugada de sábado após colidir com um carro no cruzamento das avenidas Nove de Julho e Prefeito Luiz Latorre, em Jundiaí (SP). A moto seguia em direção ao Paço Municipal e o carro trafegava em direção ao Centro, sendo que o impacto fez o carro atingir um poste, que caiu sobre outro veículo. O motorista do carro se recusou a fazer o teste do bafômetro e foi preso pela polícia.",
-      "porQueImporta": "O caso evidencia riscos de colisões em cruzamentos movimentados e a necessidade de cumprimento das leis de trânsito.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/25/acidente-avenida-jundiai.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-25T12:52:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/7vcMqZJ3wsw2YKwe4Vp7aQiBgyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/f/QR0r4eScAU6xckSMUXBw/texto-do-seu-paragrafo-2026-07-25t091749.011.png"
-    },
-    {
-      "clusterId": "2b6e7755964b7188",
-      "slug": "9294edf715293a34",
-      "titulo": "Homem morre após suposto atropelamento no Sul do Piauí",
-      "resumo": "Um homem identificado como Daciel Francisco de Carvalho foi encontrado morto na localidade Mesa de Pedra, em Picos, na manhã de sexta‑feira. A Polícia Militar informou que o veículo supostamente envolvido não foi localizado no local. Equipes da Força Tática e do Samu foram acionadas, sendo o Samu quem constatou o óbito. Apenas o corpo da vítima foi encontrado.",
-      "porQueImporta": "O caso evidencia riscos de acidentes de trânsito em áreas rurais e a necessidade de respostas rápidas das autoridades.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/25/homem-morre-apos-suposto-atropelamento-no-sul-do-piaui.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-25T12:44:48.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/oVFY98lzt9D5exy515YGL6GofXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/5/vT140iQi2eugBLACWHNQ/bg-g1-03.png"
-    },
-    {
-      "clusterId": "84c58cc2b6f4c38a",
-      "slug": "55a103d2152101c6",
-      "titulo": "Motorista morre e passageira fica gravemente ferida em colisão frontal entre carro e ônibus na BR-365 em MG",
-      "resumo": "Um carro e um ônibus colidiram frontalmente na madrugada de sábado na BR-365, km 475, próximo ao bairro Congonhas, em Patrocínio, MG. O acidente ocorreu por volta das 4h40 quando o automóvel saiu de uma estrada vicinal para acessar a rodovia. O motorista do carro morreu e a passageira ficou gravemente ferida. O ônibus envolvido pertencia à empresa União.",
-      "porQueImporta": "O acidente evidencia riscos de trânsito em rodovias e a necessidade de atenção ao entrar de vias auxiliares.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/25/motorista-morre-e-passageira-fica-gravemente-ferida-em-batida-frontal-entre-carro-e-onibus-na-br-365-em-mg.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-25T12:13:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jMnDyBcJyCOaXzYVwQeFdiSy5vg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/j/JrYde3TYO4IBX9MIK2kA/design-sem-nome-2026-07-25t090706.321.jpg"
+      "updatedAt": "2026-07-25T15:44:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/OlVZzxZEK4GuCE6aWOBuNNuxbwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/7/DcRxqiSSeSqBAjhWNsCg/whatsapp-image-2026-07-25-at-11.04.21.jpeg"
     }
   ],
   "categorias": [
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "712903a985314e67",
+          "slug": "bee1347a71fecb2d",
+          "titulo": "Acidente entre carro e caminhão bloqueia faixa da Anhanguera em Campinas",
+          "resumo": "Acidente entre carro e caminhão bloqueia faixa da Anhanguera em Campinas Um acidente entre um carro e um caminhão bloqueou a faixa da esquerda da Rodovia Anhanguera (SP-330), em Campinas (SP), na manhã deste sábado (25). A colisão traseira ocorreu no km 94, sentido capital, e causou 2 quilômetros de congestionamento no local. De acordo com a concessionária AutoBan, ninguém ficou ferido. Como a pista da esquerda segue interditada, o tráfego flui apenas pela faixa da direita na região do Parque Industrial. Carro que colidiu com a traseira do caminhão na Rodovia Anhanguera (SP-330), em Campinas.…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/25/acidente-entre-carro-e-caminhao-bloqueia-faixa-da-anhanguera-em-campinas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T15:33:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wkVRGs7sDYwiUZ3SPM7jXFEy8pQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/3/Lx5jZwSWAYlCBBKI8VJg/design-sem-nome-7-.jpg"
+        },
+        {
+          "clusterId": "42235b4baf28e8f1",
+          "slug": "c7ce53abb898b991",
+          "titulo": "Jovem morre após moto bater em capivara em Iracema, no Sul de Roraima",
+          "resumo": "Um motociclista de 25 anos, identificado como Manasses Castro de Sousa morreu após a moto que pilotava bater contra uma capivara na RR-345, na zona rural de Iracema, Sul de Roraima. O acidente foi na noite desta sexta-feira (24). Ele estava com um passageiro, de 23 anos, que se feriu e foi levado ao hospital da região. O passageiro relatou à Polícia Militar que os dois retornavam do trabalho em uma fazenda da região e seguiam para Mucajaí, onde moram, quando uma capivara atravessou a pista. Manasses atingiu o animal, perdeu o controle da direção e caiu. Quando os policiais chegaram ao local,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/25/jovem-morre-apos-moto-bater-em-capivara-em-iracema-no-sul-de-roraima.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T15:04:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FfwD22RpYG7nGpCcJMeMvDrIMys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/2/cltOSqTYAAidkzAoKUGw/acidente2-1-.jpg"
+        },
+        {
+          "clusterId": "fa9b1dfbca3d970c",
+          "slug": "c9f362385c19ed34",
+          "titulo": "Advogada diz que ex-sargento no DF não notou ter atropelado jovem: 'Achou que fossem garrafas'",
+          "resumo": "Sargento que atropelou jovem é expulso do Exército A advogada de Guilherme da Silva Oliveira, de 22 anos – investigado por atropelar uma jovem na contramão em uma via do Riacho Fundo, no Distrito Federal –, diz que ele não notou ter atropelado Maria Clara Facundo, de 20 anos. \"Como a vítima estava com duas garrafas de cerveja na mão, ele escuta o barulho do vidro. Ele não viu que tinha atropelado alguém. Ele achou que tivesse passado por cima de garrafa\", disse. Ainda de acordo com a defesa do ex-sargento, expulso do Exército Brasileiro no último dia 13, Guilherme entrou em pânico quando…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/25/advogada-diz-que-ex-sargento-no-df-nao-notou-ter-atropelado-jovem-achou-que-fossem-garrafas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T15:04:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/e5iVf7BimGsNqJFmgCW2mbgNl1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/N/6pBYUSQBqEYTYhihq3Ag/sargento.jpg"
+        },
+        {
+          "clusterId": "7331da74cc050543",
+          "slug": "bfea4b348434652f",
+          "titulo": "Empresário de 31 anos morre após grave colisão entre carro e caminhão em Criciúma",
+          "resumo": "Sociais/Reprodução Um grave acidente envolvendo um carro e um caminhão terminou com a morte do empresário Guilherme Ballejo da Rosa, de 31 anos, na tarde desta sexta-feira (24), em Criciúma, no Sul de Santa Catarina. O motorista do caminhão, de 27 anos, foi levado ao hospital. A identidade da vítima foi confirmada pela empresa MR TalQue, onde Guilherme era sócio. Em nota, a companhia lamentou a morte da vítima e destacou a trajetória dele no negócio. ✅Clique e siga o canal do g1 SC no WhatsApp “Com enorme pesar, comunicamos o falecimento do nosso sócio, Guilherme Ballejo. Guilherme foi…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/25/empresario-morre-apos-acidente-carro-caminhao-criciuma.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T14:52:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ho7VMFgtoFB7DLdo7mn0QFeuS1s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/h/KWlAXFTaK2GnMxzM8Tlg/acidente-em-criciuma.jpg"
+        },
+        {
+          "clusterId": "6b4ab0f8606d5f6f",
+          "slug": "f7d451de01fcfd0b",
+          "titulo": "Tufão Noul faz China evacuar 20 mil e suspender trens",
+          "resumo": "Pedestres caminham sob chuva e ventos fortes no distrito de Mong Kok, em Hong Kong, com a aproximação do tufão Noul neste sábado (25). Chan Ho-him/AP As autoridades evacuaram mais de 20 mil pessoas e suspenderam os serviços ferroviários no sul da China devido à aproximação do tufão Noul, que ameaça com chuvas torrenciais e ventos com força de furacão, informou a mídia estatal. Espera-se que o ciclone atinja a costa entre Hong Kong e a província de Guangdong, no sul do país, na madrugada de sábado (25) para domingo, segundo o Centro Meteorológico Nacional da China. O gigante asiático havia…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/25/tufao-noul-faz-china-evacuar-20-mil-e-suspender-trens.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T14:35:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_jPmf9sGOifNcwM9okqiUdGFx6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/k/jB5hALQCAI8ttPaK73tg/ap26206339585302.jpg"
+        },
+        {
+          "clusterId": "6862f2e204bc5dbd",
+          "slug": "960a691d5d8e79b1",
+          "titulo": "Professor morre em acidente de trânsito em Aracaju",
+          "resumo": "Corpo de professor que morreu em acidente de trânsito em Aracaju é velado O professor de história Alejandro Luis Machado Hussain, de 47 anos, morreu em um acidente de trânsito no cruzamento da Avenida Tancredo Neves com a Rua João Ouro, na Zona Sul de Aracaju, nesta sexta-feira (24). De acordo com a Superintendência Municipal de Transportes e Trânsito (SMTT), o professor pilotava uma motocicleta quando um veículo que seguia à frente freou bruscamente em razão da movimentação do trânsito. Durante a manobra, ele perdeu o controle da moto, caiu na pista e acabou sendo atropelado pelo veículo que…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/25/professor-morre-em-acidente-de-transito-em-aracaju.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T14:35:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/J8IPQCWDFe3nwrre0sPNfwyww54=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/1/LobXG0SrWaSOhYTLDcsA/professor.png"
+        },
+        {
+          "clusterId": "895daafdc8ee717c",
+          "slug": "47a6555db2302c10",
+          "titulo": "Em situação de emergência, Eldorado do Sul recebe auxílio do Exército",
+          "resumo": "Município, que teve situação de emergência reconhecida pela União, mantém sete bases avançadas da Defesa Civil e recebeu apoio do Exército Brasileiro",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/em-situacao-de-emergencia-eldorado-do-sul-recebe-auxilio-do-exercito/"
+            }
+          ],
+          "updatedAt": "2026-07-25T14:10:41.000Z"
+        },
+        {
+          "clusterId": "f1594731137ed061",
+          "slug": "5ec39bf8197edfc9",
+          "titulo": "Um mês após terremotos na Venezuela, sobreviventes vivem futuro incerto",
+          "resumo": "Milhares de desabrigados aguardam por soluções habitacionais sem previsão de retorno para suas casas",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/um-mes-apos-terremotos-na-venezuela-sobreviventes-vivem-futuro-incerto/"
+            }
+          ],
+          "updatedAt": "2026-07-25T14:00:58.000Z"
+        },
+        {
+          "clusterId": "789028c7b4b94e7a",
+          "slug": "15e000e283f89c8c",
+          "titulo": "Chuvas no RS deixam mais de 680 desalojados; 206 cidades já reportam danos",
+          "resumo": "Defesa Civil atualiza dados de danos, incluindo quedas de árvores, postes, destelhamentos e alagamentos",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/chuvas-no-rs-deixam-mais-de-680-desalojados-206-cidades-ja-reportam-danos/"
+            }
+          ],
+          "updatedAt": "2026-07-25T13:44:12.000Z"
+        }
+      ]
+    },
     {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "0bf12a2761d0135d",
-          "slug": "0bf7f24c21be733e",
-          "titulo": "Motorista morre ao colidir carro com carreta na SP-310",
-          "resumo": "Um motorista de 56 anos perdeu a vida após seu carro colidir com a lateral de uma carreta na Rodovia Washington Luís, entre Catanduva e Catiguá, na madrugada de sábado. A polícia rodoviária constatou que a pista estava molhada devido à garoa no momento da colisão. O condutor da carreta não sofreu ferimentos e o motorista da vítima morreu no local.",
-          "porQueImporta": "O acidente evidencia os riscos de condução em vias molhadas e a necessidade de atenção nas rodovias rurais.",
+          "clusterId": "5e67094bd36b7305",
+          "slug": "11c442c61cb7e258",
+          "titulo": "Três mortos em acidente entre carro e caminhão-tanque na BR-365 em Patrocínio",
+          "resumo": "Na noite de sexta‑feira, um carro de passeio colidiu com um caminhão‑tanque no km 504 da BR‑365, em Patrocínio, resultando em três óbitos. As vítimas eram moradores de Uberlândia: o fotógrafo José Everton de Oliveira, a professora de música e modelo Déborah Cristina Inácio de Almeida e o ator Sérgio Guimarães Costa Filho. O acidente foi registrado pelas autoridades locais.",
+          "porQueImporta": "O acidente evidencia riscos nas rodovias e a perda de profissionais ligados à cultura e tecnologia da região",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/25/acidente-sp-310.ghtml"
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/25/fotografo-e-professora-de-uberlandia-estao-entre-vitimas-de-acidente-com-tres-mortes-na-br-365.ghtml"
             }
           ],
-          "updatedAt": "2026-07-25T13:42:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YA_wrAjr03TBAId97_yXgT01exA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/AriKkfQuAO7qNvsKa1Fg/formato-padrao-imagens-g1-2026-07-25t103104.535.png"
+          "updatedAt": "2026-07-25T17:23:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8c0XQR8tQLRAOnJVIqiA35j3h5s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/r/Ay7MtqR4iohucwOKj1yg/design-sem-nome-2026-07-25t141157.348.jpg"
+        },
+        {
+          "clusterId": "13ae41c264891327",
+          "slug": "589ac030d683c98a",
+          "titulo": "Acidente entre ônibus e caminhão deixa feridos na fronteira entre SC e RS",
+          "resumo": "Um caminhão de transporte de leite colidiu com um ônibus que transportava 18 passageiros na BR-480, em Nonoai (RS), próximo à divisa com Chapecó (SC), por volta das 21h na noite de sexta‑feira. O acidente deixou ao menos nove pessoas feridas, que foram encaminhadas para hospitais de Nonoai e Chapecó. As equipes de resgate chegaram ao local após a retirada dos passageiros do ônibus.",
+          "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias interestaduais que ligam estados diferentes, demandando atenção das autoridades de trânsito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/25/acidente-onibus-caminhao-feridos-fronteira-sc-rs.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T17:19:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/B8SBL8dlk6KNbAzolMJX8U_Vx64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/H/aAkBpfTp6WzmhO4jhuzw/acidente-entre-onibus-e-caminhao-deixa-feridos-na-fronteira-entre-sc-e-rs.png"
+        },
+        {
+          "clusterId": "dc73d3d7ff3e9899",
+          "slug": "d84dd3e976915aea",
+          "titulo": "Grávida morre e seis ficam feridos em acidente entre três carros na BR-101 em Mimoso do Sul",
+          "resumo": "Na noite de sexta‑feira, por volta das 18h40, três veículos – um Fiat Uno, um Renault Kwid e um Volkswagen Nivus – colidiram no km 446 da BR‑101, em Mimoso do Sul, ES. A vítima foi identificada como Aline Xavier Rodrigues, de 29 anos, que estava grávida e morreu no local. Outras seis pessoas ficaram feridas e foram atendidas pelos serviços de emergência.",
+          "porQueImporta": "O acidente resultou em morte e múltiplas vítimas, demandando resposta de emergência e destacando riscos nas rodovias estaduais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/07/25/gravida-morre-e-outras-seis-pessoas-ficam-feridas-em-acidente-entre-tres-carros-na-br-101-no-es.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T17:09:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_Va8BaYEDpS_RnMXif6XIMnPIno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/K/CiPDheQAypnbQQQsWaTA/thumb-videos-g1-35-.jpg"
+        },
+        {
+          "clusterId": "4b47fb1154cb8b48",
+          "slug": "5febd245cb518996",
+          "titulo": "Duas jovens morrem em acidente de carro com excesso de ocupantes em Foz do Iguaçu",
+          "resumo": "Na noite de sexta-feira (24), um carro que transportava dez pessoas, embora tivesse capacidade para cinco, saiu da pista e colidiu com uma árvore na Av. Felipe Wandscheer, em Foz do Iguaçu, no oeste do Paraná. As duas vítimas fatais eram jovens de 17 e 18 anos, que ficaram presas e foram pressionadas umas contra as outras após a batida. O acidente foi registrado pela Polícia Militar e pelo Corpo de Bombeiros.",
+          "porQueImporta": "O caso evidencia riscos de sobrecarga de veículos e a necessidade de respeitar a capacidade de ocupação para evitar fatalidades.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/25/duas-jovens-morrem-em-acidente-com-carro-que-levava-dez-pessoas-no-parana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T16:25:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rXKNTWNsOYy9DSO-vlHRa5xZsVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/A/tX19ayTyeFVRiMOID0JQ/87f9e76a-15dd-449d-9d1d-6f847b8258d4.jpg"
+        },
+        {
+          "clusterId": "aa7713c9db36c0d8",
+          "slug": "2c6c740dc4d29b9d",
+          "titulo": "Motociclista morre em colisão na PB-030 após motorista tentar desviar de animal",
+          "resumo": "Na manhã de sábado (25), um carro perdeu o controle ao tentar desviar de um animal na PB-030, em Pedras de Fogo, zona da Mata paraibana, e colidiu frontalmente com uma motocicleta que trafegava em sentido contrário. O piloto da moto, identificado como Gustavo Ferreira, de 19 anos, morreu no local. O acidente envolveu também o animal que estava na pista.",
+          "porQueImporta": "A ocorrência evidencia riscos de colisões quando animais invadem vias rurais, impactando a segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/25/acidente-com-animal-na-pista-deixa-motociclista-morto-na-pb-030.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T15:47:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ULCyaosmm2h0F0YdbWUGqc0H-Lc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/7C27BBTBqzEJGhzuf3Ew/acidente-pedras-de-fogo.png"
+        },
+        {
+          "clusterId": "2630799008c7c4a3",
+          "slug": "b5f111a09ba300df",
+          "titulo": "Acidentes de trânsito em Volta Redonda",
+          "resumo": "Na manhã de sábado (25), uma motorista colidiu o carro contra um poste na Rodovia dos Metalúrgicos, no bairro São Geraldo, e foi atendida pelos bombeiros com ferimentos leves, sendo liberada no local. Na madrugada do mesmo dia, um adolescente de 17 anos perdeu o controle do veículo ao tentar evitar outro carro na Avenida Sávio Cota de Almeida Gama, no bairro Retiro, e atingiu o muro do Colégio Estadual Santos Dumont, sem causar ferimentos. As causas dos dois acidentes ainda estão sob investigação. Ambos os episódios ocorreram em áreas distintas de Volta Redonda.",
+          "porQueImporta": "Os acidentes ressaltam a necessidade de atenção ao trânsito e de medidas de segurança nas vias urbanas e rodoviárias da região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/25/adolescente-bate-carro-contra-muro-de-escola-em-volta-redonda.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T15:44:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OlVZzxZEK4GuCE6aWOBuNNuxbwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/7/DcRxqiSSeSqBAjhWNsCg/whatsapp-image-2026-07-25-at-11.04.21.jpeg"
+        },
+        {
+          "clusterId": "ea79809c0ba77598",
+          "slug": "b8d42b6567e2dc06",
+          "titulo": "Menino de 5 anos morre e mãe fica gravemente ferida após atropelamento na BR-116 em Santa Bárbara",
+          "resumo": "Na manhã de sábado, por volta das 7h57, um menino de 5 anos e sua mãe foram atropelados na BR-116, km 777, próximo a um posto de combustíveis, em Santa Bárbara, interior da Bahia. Ambos eram pedestres, segundo a Polícia Rodoviária Federal. O menino, identificado como Samuel Ferreira Freitas, morreu no local, enquanto a mãe recebeu atendimento de urgência por lesões graves.",
+          "porQueImporta": "O acidente evidencia riscos de tráfego para pedestres em rodovias interestaduais e a necessidade de medidas de segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/morte-menino-acidente-bahia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T15:28:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/3PN-AyW0-BG6x8EtT-n1fk1ZSWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/W/lWiv9MTRGrjDEHdRw2ZQ/foto-no-tamanho-home.png"
         },
         {
           "clusterId": "8f9cb9752b49e41f",
@@ -212,220 +476,6 @@
             }
           ],
           "updatedAt": "2026-07-25T13:32:45.000Z"
-        },
-        {
-          "clusterId": "326ae57880fdf07a",
-          "slug": "a21661366843374a",
-          "titulo": "Carreta com contêiner tombou e colidiu com dois veículos em Cariacica",
-          "resumo": "Na noite de sexta‑feira (24), uma carreta carregada de chapas de granito tentou subir uma ladeira no bairro Santa Cecília, em Cariacica (Grande Vitória), mas não conseguiu e recuou, atingindo dois carros antes de tombar. O veículo virou na rua e vazou óleo no local. Nenhum ferido foi registrado. A ocorrência foi registrada pela polícia local.",
-          "porQueImporta": "O acidente demonstra riscos de transporte de carga pesada em áreas urbanas e gera risco ambiental por vazamento de óleo.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/07/25/video-carreta-tomba-apos-nao-conseguir-subir-ladeira-descer-de-re-e-atingir-dois-carros-em-cariacica.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T13:23:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/QQSFwoaH_W8bLI3-GHXniyktDzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/U/e9bns2TEiyhpi7VeeYHQ/thumb-videos-g1-21-.jpg"
-        },
-        {
-          "clusterId": "dd04e3cd66f889a5",
-          "slug": "c28b89f308ad63a9",
-          "titulo": "Motorista de 47 anos morre em acidente envolvendo caminhonete, carro e carreta na BR-354 em Arcos",
-          "resumo": "Na noite de sexta-feira, por volta das 18h10, uma caminhonete colidiu com uma carreta e um carro no km 468 da BR-354, em Arcos. A condutora do carro, de 44 anos, seguia de Bambuí para Arcos quando a carreta em posição de “L” atingiu primeiro a caminhonete e depois o carro. O motorista da caminhonete, de 47 anos, morreu no local. O acidente foi registrado pela Polícia Militar Rodoviária.",
-          "porQueImporta": "O ocorrido evidencia riscos de colisões múltiplas em rodovias e a necessidade de atenção ao tráfego de veículos de grande porte.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/25/motorista-morre-em-acidente-com-caminhonete-carreta-e-carro-na-br-354-em-arcos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T13:23:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/yK7V1WkSdnvhp6OjK64seiA8tUc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/V/mN7TPqQ7uPoEaSX0P8iQ/acidente-3.jfif"
-        },
-        {
-          "clusterId": "903453ecfe49aafe",
-          "slug": "4f8d8b6931c55bde",
-          "titulo": "Motociclista morre em acidente no cruzamento das avenidas Nove de Julho e Prefeito Luiz Latorre em Jundiaí",
-          "resumo": "Um motociclista morreu na madrugada de sábado após colidir com um carro no cruzamento das avenidas Nove de Julho e Prefeito Luiz Latorre, em Jundiaí (SP). A moto seguia em direção ao Paço Municipal e o carro trafegava em direção ao Centro, sendo que o impacto fez o carro atingir um poste, que caiu sobre outro veículo. O motorista do carro se recusou a fazer o teste do bafômetro e foi preso pela polícia.",
-          "porQueImporta": "O caso evidencia riscos de colisões em cruzamentos movimentados e a necessidade de cumprimento das leis de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/25/acidente-avenida-jundiai.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T12:52:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7vcMqZJ3wsw2YKwe4Vp7aQiBgyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/f/QR0r4eScAU6xckSMUXBw/texto-do-seu-paragrafo-2026-07-25t091749.011.png"
-        },
-        {
-          "clusterId": "2b6e7755964b7188",
-          "slug": "9294edf715293a34",
-          "titulo": "Homem morre após suposto atropelamento no Sul do Piauí",
-          "resumo": "Um homem identificado como Daciel Francisco de Carvalho foi encontrado morto na localidade Mesa de Pedra, em Picos, na manhã de sexta‑feira. A Polícia Militar informou que o veículo supostamente envolvido não foi localizado no local. Equipes da Força Tática e do Samu foram acionadas, sendo o Samu quem constatou o óbito. Apenas o corpo da vítima foi encontrado.",
-          "porQueImporta": "O caso evidencia riscos de acidentes de trânsito em áreas rurais e a necessidade de respostas rápidas das autoridades.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/25/homem-morre-apos-suposto-atropelamento-no-sul-do-piaui.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T12:44:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/oVFY98lzt9D5exy515YGL6GofXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/5/vT140iQi2eugBLACWHNQ/bg-g1-03.png"
-        },
-        {
-          "clusterId": "84c58cc2b6f4c38a",
-          "slug": "55a103d2152101c6",
-          "titulo": "Motorista morre e passageira fica gravemente ferida em colisão frontal entre carro e ônibus na BR-365 em MG",
-          "resumo": "Um carro e um ônibus colidiram frontalmente na madrugada de sábado na BR-365, km 475, próximo ao bairro Congonhas, em Patrocínio, MG. O acidente ocorreu por volta das 4h40 quando o automóvel saiu de uma estrada vicinal para acessar a rodovia. O motorista do carro morreu e a passageira ficou gravemente ferida. O ônibus envolvido pertencia à empresa União.",
-          "porQueImporta": "O acidente evidencia riscos de trânsito em rodovias e a necessidade de atenção ao entrar de vias auxiliares.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/25/motorista-morre-e-passageira-fica-gravemente-ferida-em-batida-frontal-entre-carro-e-onibus-na-br-365-em-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T12:13:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jMnDyBcJyCOaXzYVwQeFdiSy5vg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/j/JrYde3TYO4IBX9MIK2kA/design-sem-nome-2026-07-25t090706.321.jpg"
-        },
-        {
-          "clusterId": "0f494f50e01255d3",
-          "slug": "e481749cb33f24c3",
-          "titulo": "Motorista perde o controle e carro cai em canal no Guarujá",
-          "resumo": "Na noite de quinta‑feira, um motorista cujo nome não foi divulgado acelerou o veículo e perdeu o controle na Avenida Miguel Alonso Gonzalez, no Guarujá (SP). O carro subiu na calçada, colidiu com a guia de proteção e acabou caindo dentro de um canal. O automóvel tem registro estrangeiro e, segundo a Polícia Militar, ninguém ficou ferido. O incidente foi capturado por câmeras de monitoramento.",
-          "porQueImporta": "O acidente evidencia riscos de condução em áreas costeiras e a importância da vigilância por câmeras para a segurança pública.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/25/carro-acelera-e-cai-dentro-de-canal-no-litoral-de-sp-video-mostra-acidente.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T12:05:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/EhmWN6qMphlpW7iLbNhj0ou5b9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/k/B1VlxBThaBIADagWMBIA/carro-canal.jpg"
-        },
-        {
-          "clusterId": "172f7a36d58a2635",
-          "slug": "81d66d1df1418889",
-          "titulo": "Homem morre e cinco ficam feridos em colisão entre carro de passeio e veículo oficial na Bahia",
-          "resumo": "Um homem de 46 anos morreu e cinco pessoas ficaram feridas após a colisão entre um carro de passeio e um veículo oficial da Prefeitura de Itarantim na manhã de sexta‑feira, na BR‑415, km 85, próximo ao trevo de acesso a Floresta Azul, sul da Bahia. A vítima, identificada como Judimar Caetano Pereira, era passageiro do carro de passeio e morreu no local, preso no interior do veículo. As autoridades registraram o acidente e atenderam os feridos.",
-          "porQueImporta": "O acidente evidencia riscos nas rodovias estaduais e a necessidade de atenção ao trânsito em áreas rurais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/25/batida-entre-carros-na-bahia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T11:51:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/R-hmbhSArf51k2Lt80KLIooflPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/1/qNoYzsTZ26lt7f4jFM7g/design-sem-nome-2026-07-25t084723.965.png"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "789028c7b4b94e7a",
-          "slug": "15e000e283f89c8c",
-          "titulo": "Chuvas no RS deixam mais de 680 desalojados; 206 cidades já reportam danos",
-          "resumo": "Defesa Civil atualiza dados de danos, incluindo quedas de árvores, postes, destelhamentos e alagamentos",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/chuvas-no-rs-deixam-mais-de-680-desalojados-206-cidades-ja-reportam-danos/"
-            }
-          ],
-          "updatedAt": "2026-07-25T13:44:12.000Z"
-        },
-        {
-          "clusterId": "b3b4de27f2d822e8",
-          "slug": "b3c543231dc51064",
-          "titulo": "Veja as 32 cidades com situação de emergência reconhecida pela União",
-          "resumo": "Municípios foram afetados por estiagem, seca, chuvas intensas e vendavais; Taquaritinga (SP) teve reconhecimento emergencial publicado em edição extra do Diário Oficial",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/veja-as-32-cidades-com-situacao-de-emergencia-reconhecida-pela-uniao/"
-            }
-          ],
-          "updatedAt": "2026-07-25T10:26:45.000Z"
-        },
-        {
-          "clusterId": "2892ca47a2063dd3",
-          "slug": "6641133539ca5ffd",
-          "titulo": "Criança é resgatada após ficar presa sob escada de concreto que desabou na Bahia",
-          "resumo": "Uma criança foi resgatada após ficar presa sob uma escada de concreto que desabou no Conjunto Lunar da Praia, na Rua dos Oguns, em Itaparica, na Região Metropolitana de Salvador. O caso aconteceu na sexta-feira (24). Segundo informações apuradas pela TV Bahia, equipes do Corpo de Bombeiros foram acionadas pelo Centro Integrado de Comunicações (Cicom) e, ao chegarem ao local, encontraram moradores e profissionais do Serviço de Atendimento Móvel de Urgência (Samu) prestando os primeiros socorros à vítima. A criança estava com as pernas presas sob a estrutura de concreto, mas permaneceu…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/25/crianca-e-resgatada-na-bahia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T10:18:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/NyW--sESjydX234Otw2WgAv2ZkM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/R/AZhzF0Sgqt6a9svlcyWQ/design-sem-nome-2026-07-25t071223.539.png"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "fa13e08d1fcaa175",
-          "slug": "adeb8693ea5e6c6d",
-          "titulo": "Adolescente morre após queimaduras em acidente com álcool em MT",
-          "resumo": "David Vitor Mercês Pereira, de 13 anos, morreu após quase dois meses internado por graves queimaduras. O acidente ocorreu em 4 de junho, quando ele e familiares tentavam acender o fogo de um disco de arado e as chamas atingiram um galão de álcool em uma chácara de Rondonópolis. A ocorrência foi registrada pela Polícia Civil.",
-          "porQueImporta": "Destaca os riscos de manipulação de álcool em ambientes domésticos rurais",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/25/adolescente-morre-apos-quase-dois-meses-internado-por-queimaduras-sofridas-em-acidente-com-alcool-em-mt.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T13:39:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kd2wuoHSq9FZnERSbc9Igwsar88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/v/zxXx0FToO38NhGZojT6A/videos-g1-51-.jpg"
-        },
-        {
-          "clusterId": "48aaf550815b0763",
-          "slug": "3e256172525e3319",
-          "titulo": "Incêndio em casa mobiliza cinco viaturas dos bombeiros em Belo Horizonte",
-          "resumo": "Na noite de sexta-feira, um incêndio atingiu uma residência na Rua Visconde de Itaboraí, no bairro Jardim Leblon, em Belo Horizonte. Cinco viaturas do Corpo de Bombeiros foram enviadas ao local. A pessoa que estava dentro da casa foi retirada por moradores antes da chegada das equipes e ninguém ficou ferido. Até o momento, a causa do incêndio não foi identificada e o acúmulo de material dificultou o combate às chamas.",
-          "porQueImporta": "O incidente demonstra a necessidade de atenção a riscos de incêndio em áreas residenciais e a atuação rápida dos bombeiros.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/25/video-incendio-em-casa-mobiliza-cinco-viaturas-dos-bombeiros-em-bh.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T11:28:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rz_iJHeCCq5is1ASu0wo9PqrhRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/g/Y14MXBQwqLteU7rtb1tw/0-00-jor-incendio-jardim-leblon-3-.mxf.png"
         }
       ]
     },
@@ -434,71 +484,154 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "86e55b19a75f4ce0",
-          "slug": "deb575a045dd02a4",
-          "titulo": "Temporal de ventos de até 122 km/h causa destruição e queda de energia na região de Ribeirão Preto",
-          "resumo": "Um temporal com ventos de até 122 km/h atingiu a região de Ribeirão Preto na última sexta-feira, causando a queda de torres de energia, árvores e estruturas de empresas. A tempestade durou cerca de 30 minutos e resultou em uma morte, quando um homem de 75 anos foi atingido por um galpão desabado. Mais de 115 mil clientes ficaram sem energia, com 91 mil em Ribeirão Preto, 16 mil em Guariba e 5 mil em Taquaritinga. A CPFL mobilizou cerca de 250 equipes para restabelecer o serviço.",
-          "porQueImporta": "O evento comprometeu a infraestrutura elétrica e a segurança das comunidades, exigindo ações de emergência e ressarcimento de serviços essenciais.",
+          "clusterId": "093b1f4850952d63",
+          "slug": "257e5fbe2e1531dc",
+          "titulo": "Temporal causa apagões e dezenas de ocorrências em Ribeirão Preto",
+          "resumo": "Após ventos de até 122 km/h atingirem a região, cerca de 81,9 mil imóveis ficaram sem energia em Ribeirão Preto e municípios vizinhos. A CPFL informou que pretende normalizar o fornecimento ainda neste sábado. Bombeiros registraram mais de 440 ocorrências, incluindo uma morte, e a cidade foi declarada em estado de calamidade.",
+          "porQueImporta": "Afeta a população e demanda resposta emergencial de serviços essenciais",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/bombeiros-registram-mais-de-440-ocorrencias-apos-temporal-em-ribeirao-preto/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/25/veja-como-esta-a-situacao-da-energia-eletrica-nas-cidades-da-regiao-de-ribeirao-preto-afetadas-pelo-temporal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T14:53:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0rM4mJYtj4FeU3zel_m6KDQcoqg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/b9q0FVRtAGLf62yLDo2g/molduras-g1-2026-07-24t171200.875.png"
+        },
+        {
+          "clusterId": "e1b3195769e625e4",
+          "slug": "b528a4758559537c",
+          "titulo": "Torres de alta tensão são derrubadas por temporal em Taquaritinga (SP)",
+          "resumo": "Na sexta‑feira (24), um temporal com ventos acima de 100 km/h atingiu a região rural entre Taquaritinga e Jaboticabal, no interior de São Paulo, e provocou a queda de torres de energia de alta tensão nas margens da rodovia SP‑333. O produtor rural Fernando Panobianco relatou que as estruturas caíram próximo à sua propriedade, descrevendo a situação como incomum.",
+          "porQueImporta": "O incidente pode gerar interrupções no fornecimento de energia e riscos de segurança na região",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/25/regiao-de-ribeirao-preto-tem-1151-mil-unidades-sem-luz-26-horas-apos-temporal-diz-cpfl.ghtml"
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/25/nunca-vi-acontecer-isso-diz-produtor-rural-sobre-queda-de-torres-de-alta-tensao-apos-temporal-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-25T16:18:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OoxatspLWJJ0L8KFr59NIw-ICNs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/G/nfjf4PSH21QtrubGHlWQ/molduras-g1-2026-07-24t171214.449.png"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "f9ae1774616aaca5",
+          "slug": "516acdf2acad52c0",
+          "titulo": "Mais de 270 mil evacuados por incêndios na Espanha e França",
+          "resumo": "Incêndios de grandes proporções atingiram áreas próximas a Madri e Bordeaux, forçando a evacuação de mais de 270 mil pessoas. As chamas permaneceram fora de controle, levando à mobilização de reforços da União Europeia para apoiar as autoridades locais. As evacuações foram coordenadas pelas equipes de proteção civil dos dois países. A situação permanece crítica, com risco de expansão dos focos de fogo.",
+          "porQueImporta": "A magnitude das evacuações evidencia a gravidade dos incêndios e a necessidade de resposta conjunta internacional.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/mundo/mais-de-270-mil-sao-evacuados-em-meio-a-incendios-na-espanha-e-franca/"
+            }
+          ],
+          "updatedAt": "2026-07-25T16:34:48.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/AFP__20260724__C34Q88B__v1__HighRes__SpainWildfireEmergencyGovernmentClimate.jpg?quality=70&strip=info"
+        },
+        {
+          "clusterId": "a7378d0216f4c766",
+          "slug": "455efd80a57b5525",
+          "titulo": "Incêndio florestal na província de Guadalajara obriga evacuação de 34 cidades",
+          "resumo": "Um incêndio na região central da Espanha destruiu mais de 32 mil hectares em Guadalajara. As autoridades evacuaram 34 cidades e vilarejos. Até o momento não há registro de mortes ou feridos graves. O fogo é considerado o segundo maior da história recente do país.",
+          "porQueImporta": "A magnitude do incêndio evidencia riscos de desastres naturais e a necessidade de respostas emergenciais.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/23/incendios-na-espanha-forcam-evacuacao-de-34-cidades-no-pais.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-23T18:29:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/c6MornOCrS7PAp2STMA3KCs-Ozc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/BgOXGWRkqjJWrGhBxuxA/ap26203613592606.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "desabamento",
+      "label": "Desabamento",
+      "stories": [
+        {
+          "clusterId": "b5a0e205300378db",
+          "slug": "b483d2f4acc9e307",
+          "titulo": "Desabamento de estrutura metálica em obra de condomínio de luxo no Morumbi deixa morto e feridos",
+          "resumo": "Um soldador morreu e trabalhadores ficaram feridos após o colapso de uma estrutura metálica em uma obra de condomínio de luxo na zona oeste de São Paulo. O acidente ocorreu por volta das 10h30 na Avenida Lineu de Paula Machado, número 164. A polícia isolou o local para perícia e investiga as causas do desabamento. As fontes divergem quanto ao número exato de feridos, indicando entre três e cinco pessoas lesionadas.",
+          "porQueImporta": "O incidente evidencia riscos de segurança em obras de grande porte e pode gerar medidas de prevenção.",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/25/estrutura-desaba-em-obra-de-alto-padrao-no-morumbi-e-deixa-vitimas.ghtml"
             },
             {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/desabamento-construcao-zona-oeste-sp"
+            }
+          ],
+          "updatedAt": "2026-07-25T17:09:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Y_IsdadrNQY7PlEzKDQaZN_NLBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/i/8emDlLS36UBtuVRj0sXA/whatsapp-image-2026-07-25-at-11.22.17.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-obra",
+      "label": "Acidente de obra",
+      "stories": [
+        {
+          "clusterId": "2b9a7d12878abc63",
+          "slug": "b839e62137cc04dd",
+          "titulo": "Colapso de ferragens em obra deixa um morto e cinco feridos no Morumbi",
+          "resumo": "Durante a concretagem de um edifício em construção na zona oeste de São Paulo, uma estrutura de ferragens desabou. Uma das vítimas ficou presa sob concreto e ferragens, resultando em um óbito e cinco feridos. As equipes de resgate foram acionadas para atender o local. As causas do colapso ainda são investigadas.",
+          "porQueImporta": "O incidente evidencia riscos de segurança em canteiros de obras urbanos.",
+          "categoria": "Acidente de obra",
+          "categoriaSlug": "acidente-de-obra",
+          "sources": [
+            {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/bombeiros-registram-mais-de-440-ocorrencias-apos-temporal-em-ribeirao-preto/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-colapso-de-ferragens-em-obra-deixa-um-morto-e-cinco-feridos-no-morumbi/"
             }
           ],
-          "updatedAt": "2026-07-25T13:31:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0rM4mJYtj4FeU3zel_m6KDQcoqg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/b9q0FVRtAGLf62yLDo2g/molduras-g1-2026-07-24t171200.875.png"
+          "updatedAt": "2026-07-25T15:40:18.000Z"
         }
       ]
     },
     {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
+      "slug": "poluicao",
+      "label": "Poluição",
       "stories": [
         {
-          "clusterId": "e2d7fef79881fb93",
-          "slug": "2da2bf53448c55a6",
-          "titulo": "Socorristas brasileiros salvam idosa em crise de hipoglicemia durante voo para missão humanitária na Venezuela",
-          "resumo": "Dois socorristas de São José do Rio Preto, Rafael Valadão, de 35 anos, e Victor Guerra, de 28 anos, atenderam uma passageira de 67 anos que apresentou grave hipoglicemia enquanto o avião se deslocava internacionalmente. A intervenção dos voluntários evitou complicações graves até a chegada ao destino. A missão tinha como objetivo prestar assistência a moradores afetados por terremotos na Venezuela.",
-          "porQueImporta": "Destaca a importância de profissionais de saúde preparados para emergências médicas em voos internacionais",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
+          "clusterId": "42cb3778bb2ad820",
+          "slug": "983bf8ae4eb5defe",
+          "titulo": "Cachoeira do Urucá fica barrenta após suposta expansão de garimpos ilegais em Uiramutã",
+          "resumo": "Vídeos divulgados pela Defesa Civil de Uiramutã e pelo Conselho Indígena de Roraima mostraram a água da cachoeira do Urucá com aspecto denso e barrento. Moradores e representantes indígenas apontam o aumento de garimpos ilegais na Terra Indígena Raposa Serra do Sol como causa provável da poluição. A cachoeira, conhecida por suas águas cristalinas e tom esverdeado, costuma ser um dos principais atrativos naturais da região.",
+          "porQueImporta": "A deterioração de um atrativo natural pode afetar o turismo local e indicar impactos ambientais de atividades ilegais.",
+          "categoria": "Poluição",
+          "categoriaSlug": "poluicao",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/25/socorristas-brasileiros-salvam-idosa-em-crise-de-hipoglicemia-durante-voo-para-missao-humanitaria-na-venezuela.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/25/video-cachoeira-de-agua-cristalina-fica-barrenta-e-indigenas-atribuem-ao-garimpo-ilegal-em-uiramuta.ghtml"
             }
           ],
-          "updatedAt": "2026-07-25T11:00:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fF7QOccJNDCTCuyX854zw-VSTjA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/ES6B9USAA4HWYUPDqU3w/formato-padrao-imagens-g1-2026-07-23t162751.693.png"
-        }
-      ]
-    },
-    {
-      "slug": "erosao",
-      "label": "Erosão",
-      "stories": [
-        {
-          "clusterId": "cc9c3a3dac28369a",
-          "slug": "977a18038a4812d5",
-          "titulo": "Governo de SP inicia obra de R$ 12 milhões para conter erosão na Ilha do Cardoso",
-          "resumo": "O Governo de São Paulo lançou uma obra de R$ 12 milhões, com duração prevista de nove meses, para impedir o desaparecimento de areia no Estreito do Melão, na Ilha do Cardoso, em Cananéia. A ação, executada pela Fundação Florestal em parceria com a SP Águas, utiliza dragagem para retirar e reposicionar sedimentos, visando estabilizar o cordão arenoso mais afetado pela dinâmica costeira.",
-          "porQueImporta": "A medida busca preservar a integridade da ilha e evitar perdas ambientais decorrentes da erosão costeira",
-          "categoria": "Erosão",
-          "categoriaSlug": "erosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/25/governo-de-sp-investe-r-12-mi-para-impedir-desaparecimento-de-areia-em-ilha.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T09:14:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3g3PbMZWao-_vhZwLwiVKIiEpgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/F/aRiDr9R6qVwjcCWFwLeQ/obra-ilha-do-cardoso.jpg"
+          "updatedAt": "2026-07-25T15:34:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RZTAjXm2NoozQ3atGcbfRw6aWQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/D/M88mKuQAyrQ1AK3heNpA/uruca-.jpg"
         }
       ]
     },
@@ -522,29 +655,6 @@
           ],
           "updatedAt": "2026-07-24T20:14:27.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/tniG2tHV-1VrARgAs10CGHKgN3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/FtapvmTAGwmcQBjWaOvQ/2026-07-06t165209z-1514439055-rc2c8mah5j4g-rtrmadp-3-venezuela-quake.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "a7378d0216f4c766",
-          "slug": "455efd80a57b5525",
-          "titulo": "Incêndio florestal na província de Guadalajara obriga evacuação de 34 cidades",
-          "resumo": "Um incêndio na região central da Espanha destruiu mais de 32 mil hectares em Guadalajara. As autoridades evacuaram 34 cidades e vilarejos. Até o momento não há registro de mortes ou feridos graves. O fogo é considerado o segundo maior da história recente do país.",
-          "porQueImporta": "A magnitude do incêndio evidencia riscos de desastres naturais e a necessidade de respostas emergenciais.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/23/incendios-na-espanha-forcam-evacuacao-de-34-cidades-no-pais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-23T18:29:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/c6MornOCrS7PAp2STMA3KCs-Ozc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/BgOXGWRkqjJWrGhBxuxA/ap26203613592606.jpg"
         }
       ]
     }
