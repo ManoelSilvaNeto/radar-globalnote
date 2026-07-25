@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-07-24T18:00:29.684Z",
-  "editionDate": "2026-07-24",
-  "hourUtc": 18,
-  "outcome": "generated",
-  "reason": "\"Tempestades e acidentes de trânsito dominam o panorama de ocorrências nesta edição\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-07-25T03:49:59.039Z",
+  "editionDate": "2026-07-25",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
