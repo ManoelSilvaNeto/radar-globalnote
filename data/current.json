@@ -1,7 +1,56 @@
 {
   "date": "2026-07-26",
-  "generatedAt": "2026-07-26T07:12:27.536Z",
+  "generatedAt": "2026-07-26T10:19:04.859Z",
   "home": [
+    {
+      "clusterId": "26fd1db50c9bf87d",
+      "slug": "23b94135b52e8ea3",
+      "titulo": "Relatório do Cenipa aponta que Voepass falsificava consertos em aviões para burlar prazos de segurança",
+      "resumo": "O relatório final do Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) concluiu que a Voepass simulava reparos em aeronaves com falhas técnicas, permitindo que voassem em condições degradadas. A prática violava limites temporais estabelecidos nos regulamentos e mascarava a recorrência das falhas. O documento refere o acidente do voo 2283, que resultou em 62 mortes em Vinhedo (SP). A Voepass emitiu nota em resposta ao relatório.",
+      "porQueImporta": "Revela falhas de segurança que podem impactar a confiança e a regulação da aviação civil",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/26/relatorio-final-da-voepass-empresa-fingia-consertar-avioes-para-burlar-prazo-de-seguranca-diz-cenipa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-26T08:00:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/RiSQlDBfimThMbdp359RyKnJiI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/u/r/H0yg7RQxGM59i3BCgsjw/000-36cc9f4.jpg"
+    },
+    {
+      "clusterId": "469ec5453f3540c3",
+      "slug": "fe15250406cf4552",
+      "titulo": "Comando Militar do Sul reforça frota de engenharia para apoio à Defesa Civil",
+      "resumo": "O Exército recebeu novas viaturas e equipamentos de engenharia destinados a apoiar as ações da Defesa Civil no sul do Brasil em 2026. O reforço inclui veículos de transporte e máquinas para intervenções em emergências, ampliando a capacidade de resposta da força militar em situações de desastre.",
+      "porQueImporta": "A ampliação da frota militar aumenta a eficácia das operações de socorro em desastres regionais.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/comando-militar-do-sul-reforca-frota-de-engenharia/"
+        }
+      ],
+      "updatedAt": "2026-07-26T09:30:32.000Z"
+    },
+    {
+      "clusterId": "61472432c791f55b",
+      "slug": "b55a5ca7ab4458f6",
+      "titulo": "Incêndios na França e Espanha forçam evacuação de mais de 300 mil pessoas",
+      "resumo": "Incêndios florestais se espalharam em regiões da França e da Espanha, levando autoridades a ordenar a retirada de mais de 300 mil residentes. As chamas causaram pelo menos uma morte na cidade de Valência, segundo informações das autoridades espanholas. As equipes de emergência continuam combatendo o fogo e monitorando a situação nas áreas afetadas.",
+      "porQueImporta": "A magnitude da evacuação e a fatalidade ressaltam a gravidade dos incêndios e a necessidade de resposta rápida das autoridades.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/incendios-na-franca-e-espanha-forcam-a-retirada-de-mais-de-250-mil-pessoas/"
+        }
+      ],
+      "updatedAt": "2026-07-26T07:22:51.000Z"
+    },
     {
       "clusterId": "7aa738ddcea35278",
       "slug": "d0408f859ac3a06e",
@@ -88,38 +137,6 @@
       "imageUrl": "https://s2-g1.glbimg.com/LgNMoEJdaeK5i3P8Y3IBrReSFhM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/S/e0B2hZSDeXZruXARVyJQ/6160435-373ce825c725de22.png"
     },
     {
-      "clusterId": "47c9db0ab43339c9",
-      "slug": "45ddd9b2df9b6589",
-      "titulo": "Cheia no Rio Grande do Sul leva sedimentos ao Lago Guaíba e causa alagamentos na fronteira com a Argentina",
-      "resumo": "A enchente no Rio Grande do Sul transportou toneladas de sedimentos para o Lago Guaíba, na região da Grande Porto Alegre. Cidades fronteiriças, como São Borja, registraram alagamentos que atingiram áreas residenciais próximas ao Rio Uruguai. Moradores relataram danos a bens, como geladeiras e freezers, e a Defesa Civil avisou que o nível da água pode continuar subindo.",
-      "porQueImporta": "Os alagamentos afetam a segurança e a infraestrutura de comunidades na região fronteiriça, exigindo respostas emergenciais.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/25/cheia-no-rs-leva-toneladas-de-sedimentos-ao-lago-guaiba-e-alaga-cidades-na-fronteira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-25T23:37:59.000Z"
-    },
-    {
-      "clusterId": "74aa625de4bbdc0c",
-      "slug": "26af445705f6a7bc",
-      "titulo": "Temporal no interior de São Paulo deixa cerca de 80 mil pessoas sem energia",
-      "resumo": "Ventania com velocidade superior a 120 km/h provocou queda de mais de 250 árvores no interior de São Paulo, deixando aproximadamente 80 mil pessoas sem energia elétrica 40 horas após o evento. Uma das árvores derrubou a casa de uma moradora, que precisou dormir no carro junto ao marido. As autoridades continuam trabalhando na restauração do fornecimento e na remoção dos destroços.",
-      "porQueImporta": "A falta de energia afeta milhares de residências e pode gerar riscos adicionais à segurança da população",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/25/temporal-no-interior-de-sp-deixa-80-mil-pessoas-sem-luz-apos-ventos-de-120-kmh.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-25T23:36:20.000Z"
-    },
-    {
       "clusterId": "3f2ce9fbb8d8873a",
       "slug": "2eb60beefd3677ae",
       "titulo": "Defesa Civil do RS emite alerta de tempestades e inundações para domingo e segue até terça-feira",
@@ -136,37 +153,21 @@
       "updatedAt": "2026-07-25T23:02:09.000Z"
     },
     {
-      "clusterId": "55ae730ab622ef36",
-      "slug": "52b506e073e13fe1",
-      "titulo": "Pelo menos uma pessoa morre em incêndio florestal na costa leste da Espanha",
-      "resumo": "Um incêndio florestal se alastrou na costa leste da Espanha, atingindo áreas de vegetação e provocando a evacuação de moradores. As equipes de emergência conseguiram controlar as chamas, mas o incidente resultou em uma morte. As autoridades investigam as causas do fogo enquanto monitoram a situação para evitar novos focos.",
-      "porQueImporta": "O caso evidencia o risco de incêndios florestais na região e a necessidade de respostas rápidas das equipes de emergência",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/ao-menos-uma-pessoa-morre-na-espanha-por-causa-dos-incendios-florestais/"
-        }
-      ],
-      "updatedAt": "2026-07-25T21:51:11.000Z"
-    },
-    {
-      "clusterId": "6565d78286015842",
-      "slug": "fd2de8b80681f117",
-      "titulo": "Mulher morre em colisão entre moto elétrica e carro em Macapá",
-      "resumo": "Uma mulher identificada como Iusa Coelho Vilhena morreu após a moto elétrica que pilotava colidir com um carro na tarde de sábado, no Km 9 da Linha E, na zona oeste de Macapá. O socorro foi acionado pelo Centro Integrado de Operações em Defesa Social, mas a vítima não resistiu aos ferimentos na cabeça e faleceu no local.",
-      "porQueImporta": "O acidente evidencia riscos de tráfego envolvendo veículos elétricos em áreas urbanas",
+      "clusterId": "1ca803a70524472e",
+      "slug": "92645d28f6e94e30",
+      "titulo": "Pessoa morre e 17 ficam feridas após carro atropelar multidão em parada LGBTQIA+ em Berlim",
+      "resumo": "Um carro avançou sobre a multidão que participava da Parada do Orgulho Gay de Berlim, resultando em uma morte e 17 feridos, três em estado grave. A polícia interrompeu o evento poucas horas após o início e identificou o suspeito, que ainda não foi preso.",
+      "porQueImporta": "O incidente evidencia riscos de violência em eventos públicos e a necessidade de segurança em manifestações de grande público.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/25/mulher-em-moto-eletrica-nao-resiste-a-ferimento-grave-na-cabeca-e-morre-apos-acidente-no-ap.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/25/motorista-avanca-em-multidao-durante-parada-lgbtqia-de-berlim-e-deixa-feridos.ghtml"
         }
       ],
-      "updatedAt": "2026-07-25T21:42:27.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4f8OYW-lakZ8--5RL7TMq52VcnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/0/flRkUXQk6Bxh6NXi2uMQ/aleixo-g1-38-.jpg"
+      "updatedAt": "2026-07-25T21:27:55.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/21sIl3P9aWNpEk74L7L3eyqNkQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/q/9hIBNyQxGNN1GKcO4YLA/2026-07-25t212915z-438588675-rc29lma0wdlp-rtrmadp-3-germany-lgbt-pride-accident.jpg"
     }
   ],
   "categorias": [
@@ -207,22 +208,6 @@
           ],
           "updatedAt": "2026-07-26T00:25:15.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/LgNMoEJdaeK5i3P8Y3IBrReSFhM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/S/e0B2hZSDeXZruXARVyJQ/6160435-373ce825c725de22.png"
-        },
-        {
-          "clusterId": "74aa625de4bbdc0c",
-          "slug": "26af445705f6a7bc",
-          "titulo": "Temporal no interior de São Paulo deixa cerca de 80 mil pessoas sem energia",
-          "resumo": "Ventania com velocidade superior a 120 km/h provocou queda de mais de 250 árvores no interior de São Paulo, deixando aproximadamente 80 mil pessoas sem energia elétrica 40 horas após o evento. Uma das árvores derrubou a casa de uma moradora, que precisou dormir no carro junto ao marido. As autoridades continuam trabalhando na restauração do fornecimento e na remoção dos destroços.",
-          "porQueImporta": "A falta de energia afeta milhares de residências e pode gerar riscos adicionais à segurança da população",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/25/temporal-no-interior-de-sp-deixa-80-mil-pessoas-sem-luz-apos-ventos-de-120-kmh.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T23:36:20.000Z"
         },
         {
           "clusterId": "3f2ce9fbb8d8873a",
@@ -277,9 +262,64 @@
       ]
     },
     {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "469ec5453f3540c3",
+          "slug": "fe15250406cf4552",
+          "titulo": "Comando Militar do Sul reforça frota de engenharia para apoio à Defesa Civil",
+          "resumo": "O Exército recebeu novas viaturas e equipamentos de engenharia destinados a apoiar as ações da Defesa Civil no sul do Brasil em 2026. O reforço inclui veículos de transporte e máquinas para intervenções em emergências, ampliando a capacidade de resposta da força militar em situações de desastre.",
+          "porQueImporta": "A ampliação da frota militar aumenta a eficácia das operações de socorro em desastres regionais.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/comando-militar-do-sul-reforca-frota-de-engenharia/"
+            }
+          ],
+          "updatedAt": "2026-07-26T09:30:32.000Z"
+        },
+        {
+          "clusterId": "15c334aefd4628ad",
+          "slug": "02a895592b6facb3",
+          "titulo": "Trump afirma que Venezuela ainda não está pronta para eleições presidenciais",
+          "resumo": "O presidente dos Estados Unidos, Donald Trump, declarou que a Venezuela não está preparada para realizar novas eleições presidenciais. A declaração foi feita no dia que marca um mês desde os terremotos de magnitudes 7,2 e 7,5 que atingiram o país, causando mais de 5 mil mortes. Os tremores são descritos como o desastre natural mais mortal desde 1812. A informação foi divulgada pelo G1.",
+          "porQueImporta": "A posição dos EUA pode influenciar a situação política e humanitária na Venezuela após o grande terremoto",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/24/trump-diz-que-venezuela-ainda-nao-esta-pronta-para-eleicoes.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-24T20:14:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wiopCgJkpwf_tg5P6kKLMcz72Ns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/2/TtuTH2RVeKoh59o08WEg/trump-delcy.jpg"
+        }
+      ]
+    },
+    {
       "slug": "incendio-florestal",
       "label": "Incêndio florestal",
       "stories": [
+        {
+          "clusterId": "61472432c791f55b",
+          "slug": "b55a5ca7ab4458f6",
+          "titulo": "Incêndios na França e Espanha forçam evacuação de mais de 300 mil pessoas",
+          "resumo": "Incêndios florestais se espalharam em regiões da França e da Espanha, levando autoridades a ordenar a retirada de mais de 300 mil residentes. As chamas causaram pelo menos uma morte na cidade de Valência, segundo informações das autoridades espanholas. As equipes de emergência continuam combatendo o fogo e monitorando a situação nas áreas afetadas.",
+          "porQueImporta": "A magnitude da evacuação e a fatalidade ressaltam a gravidade dos incêndios e a necessidade de resposta rápida das autoridades.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/incendios-na-franca-e-espanha-forcam-a-retirada-de-mais-de-250-mil-pessoas/"
+            }
+          ],
+          "updatedAt": "2026-07-26T07:22:51.000Z"
+        },
         {
           "clusterId": "611e00528556ca1c",
           "slug": "d96a20f9c777b31a",
@@ -296,38 +336,6 @@
           ],
           "updatedAt": "2026-07-26T03:01:12.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/lDT_5g6Yn0dHSc_7hUpdezapgI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/W/WEBhyXTaSJMmOxViwJ5w/afp-20260725-c36x8uc-v1-highres-spainwildfireemergencygovernmentclimate.jpg"
-        },
-        {
-          "clusterId": "55ae730ab622ef36",
-          "slug": "52b506e073e13fe1",
-          "titulo": "Pelo menos uma pessoa morre em incêndio florestal na costa leste da Espanha",
-          "resumo": "Um incêndio florestal se alastrou na costa leste da Espanha, atingindo áreas de vegetação e provocando a evacuação de moradores. As equipes de emergência conseguiram controlar as chamas, mas o incidente resultou em uma morte. As autoridades investigam as causas do fogo enquanto monitoram a situação para evitar novos focos.",
-          "porQueImporta": "O caso evidencia o risco de incêndios florestais na região e a necessidade de respostas rápidas das equipes de emergência",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/ao-menos-uma-pessoa-morre-na-espanha-por-causa-dos-incendios-florestais/"
-            }
-          ],
-          "updatedAt": "2026-07-25T21:51:11.000Z"
-        },
-        {
-          "clusterId": "e1f3a674215722df",
-          "slug": "69675dc231fd4e2f",
-          "titulo": "Incêndio florestal destrói casas e veículos na França",
-          "resumo": "Um incêndio florestal na França consumiu áreas residenciais, deixando casas em ruínas e veículos destruídos. O presidente Emmanuel Macron mobilizou as Forças Armadas para apoiar os bombeiros no combate às chamas.",
-          "porQueImporta": "O evento evidencia a necessidade de recursos militares em emergências ambientais",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/incendio-florestal-deixa-casas-em-ruinas-e-carros-destruidos-na-franca/"
-            }
-          ],
-          "updatedAt": "2026-07-25T20:29:57.000Z"
         }
       ]
     },
@@ -353,23 +361,6 @@
           "imageUrl": "https://s2-g1.glbimg.com/mPat6FuOZmaeVjM_KoRCvd0hZUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/B/yzFq1WQ7q75VGqBo716A/motorista.jpg"
         },
         {
-          "clusterId": "6565d78286015842",
-          "slug": "fd2de8b80681f117",
-          "titulo": "Mulher morre em colisão entre moto elétrica e carro em Macapá",
-          "resumo": "Uma mulher identificada como Iusa Coelho Vilhena morreu após a moto elétrica que pilotava colidir com um carro na tarde de sábado, no Km 9 da Linha E, na zona oeste de Macapá. O socorro foi acionado pelo Centro Integrado de Operações em Defesa Social, mas a vítima não resistiu aos ferimentos na cabeça e faleceu no local.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego envolvendo veículos elétricos em áreas urbanas",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/25/mulher-em-moto-eletrica-nao-resiste-a-ferimento-grave-na-cabeca-e-morre-apos-acidente-no-ap.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T21:42:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4f8OYW-lakZ8--5RL7TMq52VcnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/0/flRkUXQk6Bxh6NXi2uMQ/aleixo-g1-38-.jpg"
-        },
-        {
           "clusterId": "1ca803a70524472e",
           "slug": "92645d28f6e94e30",
           "titulo": "Pessoa morre e 17 ficam feridas após carro atropelar multidão em parada LGBTQIA+ em Berlim",
@@ -385,6 +376,29 @@
           ],
           "updatedAt": "2026-07-25T21:27:55.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/21sIl3P9aWNpEk74L7L3eyqNkQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/q/9hIBNyQxGNN1GKcO4YLA/2026-07-25t212915z-438588675-rc29lma0wdlp-rtrmadp-3-germany-lgbt-pride-accident.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "26fd1db50c9bf87d",
+          "slug": "23b94135b52e8ea3",
+          "titulo": "Relatório do Cenipa aponta que Voepass falsificava consertos em aviões para burlar prazos de segurança",
+          "resumo": "O relatório final do Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) concluiu que a Voepass simulava reparos em aeronaves com falhas técnicas, permitindo que voassem em condições degradadas. A prática violava limites temporais estabelecidos nos regulamentos e mascarava a recorrência das falhas. O documento refere o acidente do voo 2283, que resultou em 62 mortes em Vinhedo (SP). A Voepass emitiu nota em resposta ao relatório.",
+          "porQueImporta": "Revela falhas de segurança que podem impactar a confiança e a regulação da aviação civil",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/26/relatorio-final-da-voepass-empresa-fingia-consertar-avioes-para-burlar-prazo-de-seguranca-diz-cenipa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-26T08:00:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RiSQlDBfimThMbdp359RyKnJiI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/u/r/H0yg7RQxGM59i3BCgsjw/000-36cc9f4.jpg"
         }
       ]
     },
@@ -408,22 +422,6 @@
           ],
           "updatedAt": "2026-07-26T06:00:09.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/NyWC7HZAU7xxA5PKxA6ByEXIqTk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/W/p3d6nfTpWuiILcZ6ODAQ/pavimento-permeavel-card-bm002588-50-beto6927-frame-580.jpeg"
-        },
-        {
-          "clusterId": "47c9db0ab43339c9",
-          "slug": "45ddd9b2df9b6589",
-          "titulo": "Cheia no Rio Grande do Sul leva sedimentos ao Lago Guaíba e causa alagamentos na fronteira com a Argentina",
-          "resumo": "A enchente no Rio Grande do Sul transportou toneladas de sedimentos para o Lago Guaíba, na região da Grande Porto Alegre. Cidades fronteiriças, como São Borja, registraram alagamentos que atingiram áreas residenciais próximas ao Rio Uruguai. Moradores relataram danos a bens, como geladeiras e freezers, e a Defesa Civil avisou que o nível da água pode continuar subindo.",
-          "porQueImporta": "Os alagamentos afetam a segurança e a infraestrutura de comunidades na região fronteiriça, exigindo respostas emergenciais.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/25/cheia-no-rs-leva-toneladas-de-sedimentos-ao-lago-guaiba-e-alaga-cidades-na-fronteira.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-25T23:37:59.000Z"
         }
       ]
     },
@@ -447,29 +445,6 @@
           ],
           "updatedAt": "2026-07-25T19:38:16.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/TR-nqP9NNvyYgL1PDwBlh5R5kMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/D8bazoRsqjLZB6o84Pag/ap26205799120611.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "15c334aefd4628ad",
-          "slug": "02a895592b6facb3",
-          "titulo": "Trump afirma que Venezuela ainda não está pronta para eleições presidenciais",
-          "resumo": "O presidente dos Estados Unidos, Donald Trump, declarou que a Venezuela não está preparada para realizar novas eleições presidenciais. A declaração foi feita no dia que marca um mês desde os terremotos de magnitudes 7,2 e 7,5 que atingiram o país, causando mais de 5 mil mortes. Os tremores são descritos como o desastre natural mais mortal desde 1812. A informação foi divulgada pelo G1.",
-          "porQueImporta": "A posição dos EUA pode influenciar a situação política e humanitária na Venezuela após o grande terremoto",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/24/trump-diz-que-venezuela-ainda-nao-esta-pronta-para-eleicoes.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-24T20:14:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/wiopCgJkpwf_tg5P6kKLMcz72Ns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/2/TtuTH2RVeKoh59o08WEg/trump-delcy.jpg"
         }
       ]
     }
