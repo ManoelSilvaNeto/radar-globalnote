@@ -1,9 +1,15 @@
 {
-  "ranAt": "2026-07-27T08:03:22.052Z",
+  "ranAt": "2026-07-27T11:53:45.644Z",
   "editionDate": "2026-07-27",
-  "hourUtc": 8,
-  "outcome": "skipped",
-  "reason": "fora da janela (8h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 11,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito concentram a maioria dos registros, com destaque para fatalidades e bloqueios viários\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: erro — sem cota (429)",
+    "cerebras: ok"
+  ]
 }
