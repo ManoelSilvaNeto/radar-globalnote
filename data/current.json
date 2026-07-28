@@ -1,7 +1,116 @@
 {
   "date": "2026-07-28",
-  "generatedAt": "2026-07-28T03:47:41.452Z",
+  "generatedAt": "2026-07-28T07:17:09.836Z",
   "home": [
+    {
+      "clusterId": "0472c6f2912f1644",
+      "slug": "e53a8fd6c6f2099f",
+      "titulo": "Dois terremotos atingem noroeste da China",
+      "resumo": "Dois terremotos de magnitude muito forte ocorreram no noroeste da China. As autoridades não registraram feridos nem danos a estruturas. As informações sobre a extensão dos danos ainda não foram divulgadas. Os eventos foram observados em diferentes pontos da região.",
+      "porQueImporta": "A ocorrência de terremotos de alta magnitude pode representar risco à população e à infraestrutura local.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/dois-terremotos-atingem-provincia-no-noroeste-da-china/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/dois-terremotos-atingem-o-noroeste-da-china"
+        }
+      ],
+      "updatedAt": "2026-07-28T06:46:56.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/epicentro.jpg"
+    },
+    {
+      "clusterId": "5ca6f6b0b197e224",
+      "slug": "c9695d5bfdd48998",
+      "titulo": "Incêndios florestais na França e Espanha geram tempestade de fogo",
+      "resumo": "Incêndios de grande escala no sudoeste da França e no centro da Espanha criaram uma tempestade de fogo, descrita como \"dragão das nuvens\". O fenômeno foi originado por um incêndio florestal intenso. As autoridades registraram a diminuição dos focos, mas alertaram para uma nova onda de calor. Mais de 325 mil pessoas foram obrigadas a deixar suas casas.",
+      "porQueImporta": "O evento demonstra a interconexão entre incêndios florestais e fenômenos meteorológicos extremos, afetando populações e ecossistemas.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/27/incendio-devastador-na-franca-e-na-espanha-fortes-ventos-aumentam-e-espalham-chamas.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/clyjg2r00yeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-07-28T05:00:14.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/6cftyuM1ffTplJvuRiZddQdKoA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/P/64JipVSrODjuwSbd4VhQ/2026-07-27t100005z-1552263391-rc2ammanvhti-rtrmadp-3-europe-weather-france-wildfire.jpg"
+    },
+    {
+      "clusterId": "a2418e11ac381b60",
+      "slug": "c1e136f27415256a",
+      "titulo": "Carro colide com mureta de pedágio e é lançado contra cobertura em Campinas",
+      "resumo": "No domingo, um veículo em alta velocidade atravessou a faixa zebrada de uma praça de pedágio em Campinas (SP) e atingiu a mureta de contenção, que funcionou como rampa. O impacto arremessou o carro contra a viga superior da estrutura, derrubando o teto da pedágio. O motorista, de 24 anos, morreu no local. Imagens de câmeras de segurança registraram o momento do acidente.",
+      "porQueImporta": "O caso evidencia riscos de projetos de contenção em áreas de pedágio e a necessidade de medidas de segurança viária.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/28/velocidade-e-inclinacao-como-mureta-de-pedagio-virou-rampa-e-lancou-carro-contra-cobertura-no-interior-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-28T07:00:18.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/90yptyz8x3LyL-NVQnzCZA6KSWU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/6/RaKnZZRcijBKWUGKtLOQ/carro-pedagio-1-.png"
+    },
+    {
+      "clusterId": "32b5a4b6a6b5d658",
+      "slug": "d29906a8ee738486",
+      "titulo": "Terremoto de magnitude 5,9 atinge costa de Puerto Madero, no México",
+      "resumo": "Um tremor de magnitude 5,9 foi registrado na costa de Puerto Madero, no México. O evento foi classificado como moderado, com nível 5 na escala do USGS. Não foram reportados danos graves ou vítimas imediatas. As autoridades monitoram a região para possíveis réplicas.",
+      "porQueImporta": "O sismo pode gerar riscos de danos e requer vigilância das autoridades locais",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-59-atinge-costa-de-puerto-madero-no-mexico/"
+        }
+      ],
+      "updatedAt": "2026-07-28T06:40:16.000Z"
+    },
+    {
+      "clusterId": "98644a350f6ea5cf",
+      "slug": "66fc7685f8503a65",
+      "titulo": "Vazamento de gás causa explosão e fere duas pessoas no DF",
+      "resumo": "Um vazamento de gás provocou uma explosão em uma residência que também funciona como comércio no Núcleo Bandeirante, em Brasília, na madrugada de terça-feira. A ocorrência deixou duas pessoas feridas, que foram socorridas pelos serviços de emergência. As autoridades foram acionadas para investigar as causas do incidente e garantir a segurança da área afetada.",
+      "porQueImporta": "Incidentes com vazamento de gás podem gerar riscos graves à população e demandam respostas rápidas das autoridades.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/vazamento-de-gas-provoca-explosao-e-deixa-2-feridos-no-df"
+        }
+      ],
+      "updatedAt": "2026-07-28T05:18:00.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/cbmdf.jpeg"
+    },
+    {
+      "clusterId": "c8b8c8fcdc53d1fd",
+      "slug": "4c0e830f1ec47058",
+      "titulo": "Pedestre de 56 anos fica em estado grave após ser atropelado por motociclista sem habilitação em Guiricema",
+      "resumo": "Um pedestre de 56 anos foi atingido por uma motocicleta conduzida por um jovem de 17 anos sem carteira de habilitação na manhã de sábado, em Guiricema, Minas Gerais. O acidente foi capturado por câmeras de monitoramento, que mostram a moto fazendo a curva e colidindo com a vítima, que caiu e rolou no asfalto. A vítima foi socorrida por transeuntes e encaminhada em estado grave. O motociclista não possuía habilitação para conduzir o veículo.",
+      "porQueImporta": "O caso evidencia riscos de circulação de motoristas sem habilitação nas vias públicas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/28/video-pedestre-fica-em-estado-grave-apos-ser-atropelado-por-motociclista-sem-habilitacao-em-mg.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-28T05:00:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/dsA-DNrLe6SPqIZUvhIa66xDTiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/6/mwUZFPTpetqEJO3PMhuA/capturar.jpg"
+    },
     {
       "clusterId": "5c911bfe473114ff",
       "slug": "97e9a3f8121bf671",
@@ -54,23 +163,6 @@
       "imageUrl": "https://s2-g1.glbimg.com/GtO4q4KRTaowJ0xxuWEuxYmz7Tw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/UxJYhNRNC2kmjzIce0Gw/6163337-cfe4167ab10a8e8.jpg"
     },
     {
-      "clusterId": "46d055a91e1e4235",
-      "slug": "65b764e030b6311c",
-      "titulo": "Cadela é resgatada viva após 29 dias sob escombros na Venezuela",
-      "resumo": "Uma cadela chamada Laila foi encontrada viva após passar 29 dias sob os escombros deixados por um terremoto no norte da Venezuela. O animal apresentava sinais de desidratação e recebeu atendimento veterinário. O resgate foi realizado por equipes de busca que localizaram o animal ainda vivo. A notícia foi divulgada por fontes locais.",
-      "porQueImporta": "O caso demonstra a persistência de buscas em áreas afetadas por desastres naturais e a importância de cuidados com animais vítimas.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/cadela-resgatada-29-dias-venezuela"
-        }
-      ],
-      "updatedAt": "2026-07-28T02:43:08.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/whatsapp-image-2026-07-27-at-23-30-40-3x2-1.jpg"
-    },
-    {
       "clusterId": "82b0a3ee400fbc68",
       "slug": "e27bd80e663fa44e",
       "titulo": "Temporal derruba parte da estrutura da concessionária BYD em Osório e atinge veículos elétricos",
@@ -86,94 +178,143 @@
       ],
       "updatedAt": "2026-07-28T01:34:54.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/tSodPC5zb47d5F6xFDp_gKf1GXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/I/8xwZ3xRa2tB8iPPwYAVg/whatsapp-video-2026-07-27-at-21.51.20-frame-at-0m0s.jpg"
-    },
-    {
-      "clusterId": "b36edb2508519c6c",
-      "slug": "2de14d4aa231074f",
-      "titulo": "Incêndios florestais na Europa deslocam cerca de 300 mil pessoas",
-      "resumo": "Incêndios florestais em diferentes países europeus forçaram a evacuação de aproximadamente 300 mil moradores. As chamas avançaram em áreas de vegetação seca, agravadas por condições de tempo seco e calor extremo. As autoridades locais emitiram alertas e mobilizaram equipes de combate a incêndios. A situação permanece sob monitoramento devido ao risco de expansão das queimadas.",
-      "porQueImporta": "O deslocamento em massa evidencia a vulnerabilidade das populações a eventos climáticos extremos e a necessidade de respostas coordenadas.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/27/resumao-diario-do-jn-itamaraty-defende-cautela-e-dialogo-na-crise-com-argentina-incendios-florestais-na-europa-tiram-300-mil-pessoas-de-casa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-28T00:33:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-    },
-    {
-      "clusterId": "37dd3f952ef2da11",
-      "slug": "afee89372f8a33fc",
-      "titulo": "Demolição de antigos silos da Favela do Moinho inicia após laudo apontar risco de desabamento",
-      "resumo": "Os antigos silos do Moinho Central, que deram nome à Favela do Moinho, começaram a ser demolidos na região central de São Paulo. A demolição foi iniciada há dez dias após parecer técnico do Conselho Regional de Engenharia e Agronomia que identificou risco iminente de colapso. A Secretaria Estadual de Desenvolvimento Urbano e Habitação informou que ainda não há previsão para conclusão da obra.",
-      "porQueImporta": "A remoção das estruturas evita um potencial desabamento que poderia afetar a comunidade local.",
-      "categoria": "Demolição",
-      "categoriaSlug": "demolicao",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/27/moinhos-que-deram-nome-a-favela-no-centro-comecam-a-ser-demolidos-apos-laudo-apontar-risco-de-desabamento-em-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-28T00:27:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IFwI3hA9BY17T9isZt7bm41-BQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/d/wfYkaSTpuqk2gvR7snVw/250913-info-moinho-favela-linha-do-tempo.jpg"
-    },
-    {
-      "clusterId": "e262c06d1303c352",
-      "slug": "1594984be85f44d9",
-      "titulo": "Funcionárias de creche no Brás são desligadas após morte de bebê",
-      "resumo": "Dois profissionais da Creche Luz do Brás, no Centro de São Paulo, foram afastados após a morte de Abidulaye Dieng, de 1 ano e 4 meses, ocorrida na quarta‑feira (22). A Secretaria Municipal de Educação informou que a sala onde ocorreu o acidente está interditada desde 24 de julho. A Polícia Civil está analisando imagens da unidade e deve ouvir novos depoimentos ainda nesta semana.",
-      "porQueImporta": "O caso evidencia falhas na segurança de instituições de cuidado infantil e gera demanda por responsabilização e melhorias.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/27/duas-funcionarias-de-creche-no-bras-sao-desligadas-apos-morte-de-bebe-policia-deve-ouvir-novos-depoimentos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-28T00:05:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4CoKMFfyZOdZydhE_mo3WGzM_34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/7/r3R3xhTQqKjgmMirI6Yg/videoframe-3457462.png"
-    },
-    {
-      "clusterId": "dd5622c5240c2095",
-      "slug": "52b26efa6ff9f04c",
-      "titulo": "Garoto de 19 anos morre atropelado por motorista embriagado em São Paulo",
-      "resumo": "Diego, de 19 anos, trabalhava como coletor de lixo na zona oeste de São Paulo quando foi atingido por trás enquanto colocava sacos no caminhão de coleta, sendo arremessado vários metros. O motorista identificado como Guofang Huang foi detido em flagrante após teste de bafômetro indicar embriaguez. A vítima morreu no local. O caso reforça a frequência de acidentes envolvendo condutores alcoolizados no país.",
-      "porQueImporta": "Destaca o risco de dirigir sob efeito de álcool e a vulnerabilidade de trabalhadores de coleta de lixo",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/27/gari-de-19-anos-morre-atropelado-por-motorista-bebado-em-sp-maioria-dos-casos-no-pais-envolvem-condutores-que-beberam.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-27T23:45:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/dhFAtOq5926-C_oN0jOGgrPERlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/Dma8lGSpSYxqmuA3YsjQ/videoframe-1517724.png"
-    },
-    {
-      "clusterId": "d16c52c18101f20c",
-      "slug": "6dfd09a9eb408708",
-      "titulo": "'Eu não sei nadar, mas nadei': sobrevivente relata luta para escapar de micro-ônibus que caiu no rio Curuá-Una, em Santarém",
-      "resumo": "As polícias e as equipes de resgate foram acionadas para prestar socorro imediato e iniciar as investigações Redes Sociais Marinete Caetano Oliveira, única sobrevivente do acidente com um micro-ônibus que caiu da ponte sobre o Rio Curuá-Una, na PA-370, em Santarém, na madrugada desta segunda-feira (27), contou em detalhes como conseguiu escapar do veículo submerso e sobreviver à forte correnteza. O motorista Denilson Deodoro e do adolescente Kailan Oliveira ainda não foram localizados até a publicação desta matéria. As buscas devem ser retomadas nesta terça-feira (28). Emocionada, Marinete…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/27/eu-nao-sei-nadar-mas-nadei-sobrevivente-relata-luta-para-escapar-de-micro-onibus-que-caiu-no-rio-curua-una-em-santarem.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-27T23:42:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/MFseTUznYhujsh_81AjdR6Oci5s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/J/Hyi3JYTiy46G4qwxbxAg/whatsapp-image-2026-07-27-at-08.54.04.jpeg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "a2418e11ac381b60",
+          "slug": "c1e136f27415256a",
+          "titulo": "Carro colide com mureta de pedágio e é lançado contra cobertura em Campinas",
+          "resumo": "No domingo, um veículo em alta velocidade atravessou a faixa zebrada de uma praça de pedágio em Campinas (SP) e atingiu a mureta de contenção, que funcionou como rampa. O impacto arremessou o carro contra a viga superior da estrutura, derrubando o teto da pedágio. O motorista, de 24 anos, morreu no local. Imagens de câmeras de segurança registraram o momento do acidente.",
+          "porQueImporta": "O caso evidencia riscos de projetos de contenção em áreas de pedágio e a necessidade de medidas de segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/28/velocidade-e-inclinacao-como-mureta-de-pedagio-virou-rampa-e-lancou-carro-contra-cobertura-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-28T07:00:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/90yptyz8x3LyL-NVQnzCZA6KSWU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/6/RaKnZZRcijBKWUGKtLOQ/carro-pedagio-1-.png"
+        },
+        {
+          "clusterId": "c8b8c8fcdc53d1fd",
+          "slug": "4c0e830f1ec47058",
+          "titulo": "Pedestre de 56 anos fica em estado grave após ser atropelado por motociclista sem habilitação em Guiricema",
+          "resumo": "Um pedestre de 56 anos foi atingido por uma motocicleta conduzida por um jovem de 17 anos sem carteira de habilitação na manhã de sábado, em Guiricema, Minas Gerais. O acidente foi capturado por câmeras de monitoramento, que mostram a moto fazendo a curva e colidindo com a vítima, que caiu e rolou no asfalto. A vítima foi socorrida por transeuntes e encaminhada em estado grave. O motociclista não possuía habilitação para conduzir o veículo.",
+          "porQueImporta": "O caso evidencia riscos de circulação de motoristas sem habilitação nas vias públicas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/28/video-pedestre-fica-em-estado-grave-apos-ser-atropelado-por-motociclista-sem-habilitacao-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-28T05:00:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dsA-DNrLe6SPqIZUvhIa66xDTiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/6/mwUZFPTpetqEJO3PMhuA/capturar.jpg"
+        },
+        {
+          "clusterId": "cc58efd424dae3b3",
+          "slug": "805bbe9bd2d4608f",
+          "titulo": "Guofang Huang é preso preventivamente por atropelamento que matou gari de 19 anos em São Paulo",
+          "resumo": "Um motorista identificado como Guofang Huang foi detido preventivamente após atropelar e causar a morte de Diego Rafael da Silva, de 19 anos, que trabalhava como gari em São Paulo. O incidente ocorreu recentemente e as autoridades confirmaram a prisão do suspeito.",
+          "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito envolvendo pedestres e a necessidade de responsabilização legal.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/o-que-sabemos-sobre-atropelamento-que-matou-gari-em-sao-paulo/"
+            }
+          ],
+          "updatedAt": "2026-07-27T23:10:08.000Z"
+        },
+        {
+          "clusterId": "85ebb2909ec587de",
+          "slug": "b1144d7a850acbd4",
+          "titulo": "Van atropela multidão na Parada do Orgulho LGBTQ+ em Berlim",
+          "resumo": "Por volta das 22h de sábado, uma van branca colidiu com a multidão que participava da Marcha do Orgulho LGBTQ+ próximo ao Portão de Brandemburgo, resultando na morte de uma mulher polonesa e em 29 feridos, alguns em estado grave. As autoridades alemãs prenderam o motorista e iniciaram investigações sobre o motivo do ataque.",
+          "porQueImporta": "O incidente evidencia riscos de violência em eventos públicos de grande concentração e mobiliza respostas de segurança e saúde pública.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/27/atentado-a-parada-lgbtq-de-berlim-saiba-mais.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-27T18:04:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0XaT2UHcHqPFlmdiIzKZE_Pt070=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/M/SuKfIGSjeVjStzAejbSw/2026-07-26t184052z-1174887222-rc2slmabkdmk-rtrmadp-3-germany-lgbt-pride-attack-merz.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "5ca6f6b0b197e224",
+          "slug": "c9695d5bfdd48998",
+          "titulo": "Incêndios florestais na França e Espanha geram tempestade de fogo",
+          "resumo": "Incêndios de grande escala no sudoeste da França e no centro da Espanha criaram uma tempestade de fogo, descrita como \"dragão das nuvens\". O fenômeno foi originado por um incêndio florestal intenso. As autoridades registraram a diminuição dos focos, mas alertaram para uma nova onda de calor. Mais de 325 mil pessoas foram obrigadas a deixar suas casas.",
+          "porQueImporta": "O evento demonstra a interconexão entre incêndios florestais e fenômenos meteorológicos extremos, afetando populações e ecossistemas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/27/incendio-devastador-na-franca-e-na-espanha-fortes-ventos-aumentam-e-espalham-chamas.ghtml"
+            },
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/clyjg2r00yeo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-07-28T05:00:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6cftyuM1ffTplJvuRiZddQdKoA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/P/64JipVSrODjuwSbd4VhQ/2026-07-27t100005z-1552263391-rc2ammanvhti-rtrmadp-3-europe-weather-france-wildfire.jpg"
+        },
+        {
+          "clusterId": "c7203661d4aa534d",
+          "slug": "62c53d29046d164c",
+          "titulo": "Chuva continua no Rio Grande do Sul com risco de alagamentos e granizo",
+          "resumo": "A precipitação persiste em todo o estado nesta terça-feira, com acumulados expressivos e ventos intensos, segundo a Climatempo. A frente fria estacionada mantém a metade sul do RS em situação de perigo, elevando o risco de alagamentos, enxurradas e transbordamentos. Há ainda possibilidade de granizo ao longo do dia. As autoridades monitoram a evolução do quadro para orientar a população.",
+          "porQueImporta": "A continuidade das chuvas pode gerar danos materiais e ameaçar a segurança das comunidades afetadas",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/28/chuva-no-rs-terca-feira-previsao-do-tempo-ventos-intensos-possibilidade-granizo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-28T03:00:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GtO4q4KRTaowJ0xxuWEuxYmz7Tw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/UxJYhNRNC2kmjzIce0Gw/6163337-cfe4167ab10a8e8.jpg"
+        },
+        {
+          "clusterId": "82b0a3ee400fbc68",
+          "slug": "e27bd80e663fa44e",
+          "titulo": "Temporal derruba parte da estrutura da concessionária BYD em Osório e atinge veículos elétricos",
+          "resumo": "Um temporal com chuva intensa e rajadas de vento atingiu Osório, no Litoral Norte do Rio Grande do Sul, na noite de segunda‑feira (27). Parte da estrutura da concessionária BYD, operada pelo Grupo Via Porto, desabou sobre veículos estacionados, incluindo carros elétricos. A concessionária não respondeu ao contato do g1 para informar o número de veículos afetados ou o prejuízo estimado.",
+          "porQueImporta": "O incidente evidencia vulnerabilidades de infraestruturas comerciais frente a eventos climáticos extremos",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/27/temporal-derruba-estrutura-concessionaria-atinge-carros-eletricos-osorio-rs-veja-estragos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-28T01:34:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/tSodPC5zb47d5F6xFDp_gKf1GXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/I/8xwZ3xRa2tB8iPPwYAVg/whatsapp-video-2026-07-27-at-21.51.20-frame-at-0m0s.jpg"
+        }
+      ]
+    },
     {
       "slug": "geral",
       "label": "Geral",
@@ -213,95 +354,11 @@
           "imageUrl": "https://s2-g1.glbimg.com/DlVBnydm9n2qPE5AfienEiw_98M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/wlSTxvTxCjFF827oJPAg/g1-4-.png"
         },
         {
-          "clusterId": "46d055a91e1e4235",
-          "slug": "65b764e030b6311c",
-          "titulo": "Cadela é resgatada viva após 29 dias sob escombros na Venezuela",
-          "resumo": "Uma cadela chamada Laila foi encontrada viva após passar 29 dias sob os escombros deixados por um terremoto no norte da Venezuela. O animal apresentava sinais de desidratação e recebeu atendimento veterinário. O resgate foi realizado por equipes de busca que localizaram o animal ainda vivo. A notícia foi divulgada por fontes locais.",
-          "porQueImporta": "O caso demonstra a persistência de buscas em áreas afetadas por desastres naturais e a importância de cuidados com animais vítimas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/cadela-resgatada-29-dias-venezuela"
-            }
-          ],
-          "updatedAt": "2026-07-28T02:43:08.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/07/whatsapp-image-2026-07-27-at-23-30-40-3x2-1.jpg"
-        },
-        {
-          "clusterId": "e262c06d1303c352",
-          "slug": "1594984be85f44d9",
-          "titulo": "Funcionárias de creche no Brás são desligadas após morte de bebê",
-          "resumo": "Dois profissionais da Creche Luz do Brás, no Centro de São Paulo, foram afastados após a morte de Abidulaye Dieng, de 1 ano e 4 meses, ocorrida na quarta‑feira (22). A Secretaria Municipal de Educação informou que a sala onde ocorreu o acidente está interditada desde 24 de julho. A Polícia Civil está analisando imagens da unidade e deve ouvir novos depoimentos ainda nesta semana.",
-          "porQueImporta": "O caso evidencia falhas na segurança de instituições de cuidado infantil e gera demanda por responsabilização e melhorias.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/27/duas-funcionarias-de-creche-no-bras-sao-desligadas-apos-morte-de-bebe-policia-deve-ouvir-novos-depoimentos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-28T00:05:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4CoKMFfyZOdZydhE_mo3WGzM_34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/7/r3R3xhTQqKjgmMirI6Yg/videoframe-3457462.png"
-        },
-        {
-          "clusterId": "d16c52c18101f20c",
-          "slug": "6dfd09a9eb408708",
-          "titulo": "'Eu não sei nadar, mas nadei': sobrevivente relata luta para escapar de micro-ônibus que caiu no rio Curuá-Una, em Santarém",
-          "resumo": "As polícias e as equipes de resgate foram acionadas para prestar socorro imediato e iniciar as investigações Redes Sociais Marinete Caetano Oliveira, única sobrevivente do acidente com um micro-ônibus que caiu da ponte sobre o Rio Curuá-Una, na PA-370, em Santarém, na madrugada desta segunda-feira (27), contou em detalhes como conseguiu escapar do veículo submerso e sobreviver à forte correnteza. O motorista Denilson Deodoro e do adolescente Kailan Oliveira ainda não foram localizados até a publicação desta matéria. As buscas devem ser retomadas nesta terça-feira (28). Emocionada, Marinete…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/27/eu-nao-sei-nadar-mas-nadei-sobrevivente-relata-luta-para-escapar-de-micro-onibus-que-caiu-no-rio-curua-una-em-santarem.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-27T23:42:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MFseTUznYhujsh_81AjdR6Oci5s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/J/Hyi3JYTiy46G4qwxbxAg/whatsapp-image-2026-07-27-at-08.54.04.jpeg"
-        },
-        {
-          "clusterId": "3c155126ed96c4b3",
-          "slug": "51ee3199e02c3d34",
-          "titulo": "Motorista chinês que atropelou gari em SP tem prisão preventiva decretada",
-          "resumo": "Diego Silva, de 19 anos, foi socorrido e encaminhado à Santa Casa, mas não resistiu aos ferimentos e teve o óbito confirmado no hospital",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/motorista-chines-que-atropelou-gari-em-sp-tem-prisao-preventiva-decretada/"
-            }
-          ],
-          "updatedAt": "2026-07-27T22:29:50.000Z"
-        },
-        {
-          "clusterId": "85ebb2909ec587de",
-          "slug": "b1144d7a850acbd4",
-          "titulo": "Suspeito, motivação e resposta do governo: o que se sabe sobre o ataque à Parada LGBTQ+ de Berlim",
-          "resumo": "Polícia alemã mata terrorista que atropelou multidão nas celebrações do orgulho LGBT em Berlim Por volta das 22h de sábado (25/07), uma van branca acelerou e atropelou uma multidão nas proximidades do Portão de Brandemburgo, em Berlim, onde milhares de pessoas participavam da Marcha do Orgulho LGBTQ+, matando uma mulher polonesa e ferindo outras 29, algumas delas em estado grave. Pessoas se reúnem ao redor de flores, lembranças e velas deixadas por outras pessoas no Portão de Brandemburgo, após um incidente fatal em que um veículo colidiu com a multidão próximo à parada anual do Christopher…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/27/atentado-a-parada-lgbtq-de-berlim-saiba-mais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-27T18:04:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0XaT2UHcHqPFlmdiIzKZE_Pt070=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/M/SuKfIGSjeVjStzAejbSw/2026-07-26t184052z-1174887222-rc2slmabkdmk-rtrmadp-3-germany-lgbt-pride-attack-merz.jpg"
-        },
-        {
           "clusterId": "d4b97271a77a5dcd",
           "slug": "64b8bec5be4b3325",
-          "titulo": "Prisões na região sul da Itália estão com temperaturas acima de 50°C, denuncia sindicato",
-          "resumo": "Imagem mostra incêndios perto do resort Peschici, na região da Puglia, na Itália em 26 de julho de 2026. ANSA / AFP Um sindicato de guardas de prisão na região sul da Puglia, na Itália, vai pedir aos promotores locais que investiguem abusos generalizados nas condições de trabalho em meio à onda de calor na Europa. Segundo a denúncia, as temperaturas superam os 50°C dentro das celas de prisões superlotadas, informou a agência de notícias AFP. Alegando uma \"situação estrutural e persistente\", a denúncia formal acusa funcionários do departamento prisional de negligência por não resolverem…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "titulo": "Temperaturas acima de 50°C são registradas em celas de prisões na região da Puglia, Itália",
+          "resumo": "Um sindicato de guardas de prisão na região da Puglia, sul da Itália, denunciou que as celas superlotadas atingem temperaturas superiores a 50°C. A entidade pretende solicitar aos promotores locais a abertura de investigação sobre supostos abusos nas condições de trabalho. A denúncia aponta negligência de funcionários do departamento prisional diante da onda de calor que afeta a Europa. A agência AFP informou que a situação seria considerada estrutural e persistente.",
+          "porQueImporta": "Condições extremas de calor podem representar risco à saúde dos detentos e à responsabilidade institucional",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -312,136 +369,72 @@
           ],
           "updatedAt": "2026-07-27T14:09:23.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/3kf5cE2Y5GgklVgMVF4NrGj09Ck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/l/bu8qP3Q4AVNHPdQaRBHw/afp-20260726-c38t8nf-v4-midres-topshotitalyfireweatherclimate.jpg"
-        },
-        {
-          "clusterId": "7ad56475c7c81791",
-          "slug": "c9695d5bfdd48998",
-          "titulo": "Incêndio devastador na França e na Espanha: fogo diminui, mas nova onda de calor preocupa",
-          "resumo": "Incêndios na França e Espanha obrigam 325 mil pessoas a deixarem suas casas Os incêndios florestais de grandes proporções que atingem a região central da Espanha e o sudoeste da França seguem causando destruição e transtornos em ambos os países, mas os focos diminuíram um pouco nesta segunda-feira (27). ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A melhora na crise ocorreu graças a condições climáticas mais favoráveis, segundo as autoridades, mas uma nova onda de calor está prevista para chegar a partir de quarta-feira (29). \"Hoje e amanhã são dias absolutamente cruciais no…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/27/incendio-devastador-na-franca-e-na-espanha-fortes-ventos-aumentam-e-espalham-chamas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-27T12:11:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6cftyuM1ffTplJvuRiZddQdKoA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/P/64JipVSrODjuwSbd4VhQ/2026-07-27t100005z-1552263391-rc2ammanvhti-rtrmadp-3-europe-weather-france-wildfire.jpg"
         }
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
+      "slug": "terremoto",
+      "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "c7203661d4aa534d",
-          "slug": "62c53d29046d164c",
-          "titulo": "Chuva continua no Rio Grande do Sul com risco de alagamentos e granizo",
-          "resumo": "A precipitação persiste em todo o estado nesta terça-feira, com acumulados expressivos e ventos intensos, segundo a Climatempo. A frente fria estacionada mantém a metade sul do RS em situação de perigo, elevando o risco de alagamentos, enxurradas e transbordamentos. Há ainda possibilidade de granizo ao longo do dia. As autoridades monitoram a evolução do quadro para orientar a população.",
-          "porQueImporta": "A continuidade das chuvas pode gerar danos materiais e ameaçar a segurança das comunidades afetadas",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/28/chuva-no-rs-terca-feira-previsao-do-tempo-ventos-intensos-possibilidade-granizo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-28T03:00:10.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/GtO4q4KRTaowJ0xxuWEuxYmz7Tw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/UxJYhNRNC2kmjzIce0Gw/6163337-cfe4167ab10a8e8.jpg"
-        },
-        {
-          "clusterId": "82b0a3ee400fbc68",
-          "slug": "e27bd80e663fa44e",
-          "titulo": "Temporal derruba parte da estrutura da concessionária BYD em Osório e atinge veículos elétricos",
-          "resumo": "Um temporal com chuva intensa e rajadas de vento atingiu Osório, no Litoral Norte do Rio Grande do Sul, na noite de segunda‑feira (27). Parte da estrutura da concessionária BYD, operada pelo Grupo Via Porto, desabou sobre veículos estacionados, incluindo carros elétricos. A concessionária não respondeu ao contato do g1 para informar o número de veículos afetados ou o prejuízo estimado.",
-          "porQueImporta": "O incidente evidencia vulnerabilidades de infraestruturas comerciais frente a eventos climáticos extremos",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/27/temporal-derruba-estrutura-concessionaria-atinge-carros-eletricos-osorio-rs-veja-estragos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-28T01:34:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/tSodPC5zb47d5F6xFDp_gKf1GXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/I/8xwZ3xRa2tB8iPPwYAVg/whatsapp-video-2026-07-27-at-21.51.20-frame-at-0m0s.jpg"
-        },
-        {
-          "clusterId": "7bd28b62da68c64a",
-          "slug": "431ff91b1c6c4b2f",
-          "titulo": "Inmet emite alertas de perigo por chuva intensa e ventos de até 100 km/h em Santa Catarina",
-          "resumo": "Dois avisos meteorológicos do Inmet foram publicados, com alerta laranja para risco de tempestades que podem gerar até 100 mm de chuva diária, ventos de até 100 km/h e granizo, concentrado no Sul, na Serra e em parte do Oeste do estado. O aviso amarelo, de perigo potencial, cobre áreas maiores dessas regiões e a Grande Florianópolis. Ambos os avisos entraram em vigor às 9h da manhã e permanecem vigentes até o fim da terça‑feira (28).",
-          "porQueImporta": "A população e autoridades precisam adotar medidas de prevenção para evitar danos e riscos à vida.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/27/inmet-aviso-acumulado-chuva-ventos-ate-100-kmh-sc-regioes.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-27T22:45:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ETSSZNmahWuuBwX8GIdEQkhQo4g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/R/bZAs13TRusFBEuJTpq2Q/whatsapp-image-2026-07-16-at-19.26.06.jpeg"
-        },
-        {
-          "clusterId": "e8c731c90f51328e",
-          "slug": "3dcba7386db85974",
-          "titulo": "Tempestade gerada por incêndio florestal na França",
-          "resumo": "Uma tempestade incomum foi observada nos céus da França, originada por um incêndio florestal de grande intensidade. A apresentadora meteorológica da BBC, Helen Willetts, descreveu o fenômeno como um “dragão das nuvens que cospe fogo”. O evento combina características de fogo e formação de nuvens, resultando em condições atmosféricas atípicas.",
-          "porQueImporta": "Ilustra como incêndios florestais podem gerar fenômenos meteorológicos extremos, ampliando riscos para a população.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/clyjg2r00yeo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-07-27T21:28:29.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/009b/live/28d83ff0-89b6-11f1-ba35-adcc7c70146e.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "dd5622c5240c2095",
-          "slug": "52b26efa6ff9f04c",
-          "titulo": "Garoto de 19 anos morre atropelado por motorista embriagado em São Paulo",
-          "resumo": "Diego, de 19 anos, trabalhava como coletor de lixo na zona oeste de São Paulo quando foi atingido por trás enquanto colocava sacos no caminhão de coleta, sendo arremessado vários metros. O motorista identificado como Guofang Huang foi detido em flagrante após teste de bafômetro indicar embriaguez. A vítima morreu no local. O caso reforça a frequência de acidentes envolvendo condutores alcoolizados no país.",
-          "porQueImporta": "Destaca o risco de dirigir sob efeito de álcool e a vulnerabilidade de trabalhadores de coleta de lixo",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/27/gari-de-19-anos-morre-atropelado-por-motorista-bebado-em-sp-maioria-dos-casos-no-pais-envolvem-condutores-que-beberam.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-27T23:45:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dhFAtOq5926-C_oN0jOGgrPERlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/Dma8lGSpSYxqmuA3YsjQ/videoframe-1517724.png"
-        },
-        {
-          "clusterId": "cc58efd424dae3b3",
-          "slug": "805bbe9bd2d4608f",
-          "titulo": "Guofang Huang é preso preventivamente por atropelamento que matou gari de 19 anos em São Paulo",
-          "resumo": "Um motorista identificado como Guofang Huang foi detido preventivamente após atropelar e causar a morte de Diego Rafael da Silva, de 19 anos, que trabalhava como gari em São Paulo. O incidente ocorreu recentemente e as autoridades confirmaram a prisão do suspeito.",
-          "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito envolvendo pedestres e a necessidade de responsabilização legal.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "0472c6f2912f1644",
+          "slug": "e53a8fd6c6f2099f",
+          "titulo": "Dois terremotos atingem noroeste da China",
+          "resumo": "Dois terremotos de magnitude muito forte ocorreram no noroeste da China. As autoridades não registraram feridos nem danos a estruturas. As informações sobre a extensão dos danos ainda não foram divulgadas. Os eventos foram observados em diferentes pontos da região.",
+          "porQueImporta": "A ocorrência de terremotos de alta magnitude pode representar risco à população e à infraestrutura local.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/o-que-sabemos-sobre-atropelamento-que-matou-gari-em-sao-paulo/"
+              "url": "https://www.cnnbrasil.com.br/internacional/dois-terremotos-atingem-provincia-no-noroeste-da-china/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/dois-terremotos-atingem-o-noroeste-da-china"
             }
           ],
-          "updatedAt": "2026-07-27T23:10:08.000Z"
+          "updatedAt": "2026-07-28T06:46:56.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/07/epicentro.jpg"
+        },
+        {
+          "clusterId": "32b5a4b6a6b5d658",
+          "slug": "d29906a8ee738486",
+          "titulo": "Terremoto de magnitude 5,9 atinge costa de Puerto Madero, no México",
+          "resumo": "Um tremor de magnitude 5,9 foi registrado na costa de Puerto Madero, no México. O evento foi classificado como moderado, com nível 5 na escala do USGS. Não foram reportados danos graves ou vítimas imediatas. As autoridades monitoram a região para possíveis réplicas.",
+          "porQueImporta": "O sismo pode gerar riscos de danos e requer vigilância das autoridades locais",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-59-atinge-costa-de-puerto-madero-no-mexico/"
+            }
+          ],
+          "updatedAt": "2026-07-28T06:40:16.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "98644a350f6ea5cf",
+          "slug": "66fc7685f8503a65",
+          "titulo": "Vazamento de gás causa explosão e fere duas pessoas no DF",
+          "resumo": "Um vazamento de gás provocou uma explosão em uma residência que também funciona como comércio no Núcleo Bandeirante, em Brasília, na madrugada de terça-feira. A ocorrência deixou duas pessoas feridas, que foram socorridas pelos serviços de emergência. As autoridades foram acionadas para investigar as causas do incidente e garantir a segurança da área afetada.",
+          "porQueImporta": "Incidentes com vazamento de gás podem gerar riscos graves à população e demandam respostas rápidas das autoridades.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/vazamento-de-gas-provoca-explosao-e-deixa-2-feridos-no-df"
+            }
+          ],
+          "updatedAt": "2026-07-28T05:18:00.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/07/cbmdf.jpeg"
         }
       ]
     },
@@ -492,40 +485,17 @@
       ]
     },
     {
-      "slug": "afogamento",
-      "label": "Afogamento",
-      "stories": [
-        {
-          "clusterId": "0a707e3180c71a66",
-          "slug": "bad4955b30908730",
-          "titulo": "Jovem de 19 anos morre afogado ao tentar atravessar lagoa em Boa Vista",
-          "resumo": "Rian Eduardo Barbosa da Conceição, de 19 anos, tentou atravessar a nado um açude no bairro Equatorial, zona Oeste de Boa Vista, e acabou se afogando. Testemunhas relataram que ele estava acompanhado de dois amigos, que não conseguiram retirá‑lo da água e buscaram socorro. O corpo permaneceu submerso por mais de 30 minutos antes de ser recuperado pelas equipes de resgate.",
-          "porQueImporta": "O caso evidencia riscos de travessias em áreas de água sem segurança adequada.",
-          "categoria": "Afogamento",
-          "categoriaSlug": "afogamento",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/27/jovem-morre-afogado-ao-atravessar-lagoa-no-bairro-equatorial.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-27T23:18:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OLRZOWq8_hD6BIK46zCmnUAXbqY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/H/QPmfafTXagrPUfcWhJqw/afogamento.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
+      "slug": "acidente-de-montanha",
+      "label": "Acidente de montanha",
       "stories": [
         {
           "clusterId": "702681d8d00da11c",
           "slug": "2c54afa9818a948e",
-          "titulo": "Cinco alpinistas morrem no Monte Elbrus, na Rússia",
-          "resumo": "Cinco alpinistas da Bósnia e Herzegovina foram surpreendidos por uma forte tempestade no Monte Elbrus, o ponto mais alto da Europa. Dois corpos foram localizados a 5.350 metros de altitude e retirados por equipes de resgate, informou o Ministério de Situações de Emergência da Rússia. Os demais desaparecidos ainda não foram encontrados. O incidente evidencia os riscos de condições climáticas adversas em altas montanhas.",
-          "porQueImporta": "A morte destaca a vulnerabilidade de atividades de montanhismo a mudanças climáticas súbitas.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
+          "titulo": "Cinco alpinistas morrem no Monte Elbrus, Rússia",
+          "resumo": "Cinco alpinistas da Bósnia e Herzegovina foram surpreendidos por uma forte tempestade no Monte Elbrus, o ponto mais alto da Europa. Os corpos de dois deles foram encontrados a 5.350 metros de altitude e removidos pelas equipes de resgate, conforme informou o Ministério de Situações de Emergência da Rússia.",
+          "porQueImporta": "O incidente evidencia os riscos de condições climáticas extremas em atividades de alta montanha.",
+          "categoria": "Acidente de montanha",
+          "categoriaSlug": "acidente-de-montanha",
           "sources": [
             {
               "name": "G1",
@@ -534,29 +504,6 @@
           ],
           "updatedAt": "2026-07-26T19:52:05.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/BCHg6TucS9oSCu6V-NfOXzfRGZY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/e/4vYj4URVyDw2T0cwutHA/2026-07-26t141733z-445223516-rc2qlmawdlxa-rtrmadp-3-russia-climbers-bosnia.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "naufragio",
-      "label": "Naufrágio",
-      "stories": [
-        {
-          "clusterId": "87b415aec9602872",
-          "slug": "e47859931f48fc45",
-          "titulo": "Navio vietnamita afunda no Mar da China Meridional e 17 ficam desaparecidos",
-          "resumo": "Um cargueiro vietnamita chamado Khoi Nguyen 18 naufragou em águas próximas ao Recife, no Mar da China Meridional. Das 62 pessoas a bordo, 45 foram retiradas da água desde a noite de sábado. Autoridades chinesas continuam a buscar 17 desaparecidos. O incidente ocorreu em uma das rotas marítimas mais movimentadas da região.",
-          "porQueImporta": "O desaparecimento de tripulantes em rota comercial importante gera preocupação sobre segurança marítima na região",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/26/navio-afunda-no-mar-da-china-meridional-desaparecidos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-26T07:01:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/uYnrpqns1tmf5mvfRxRtudng6xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/tzcxuVTEel33yNCGarwQ/2026-07-24t062459z-1893879581-rc26kmad1w1n-rtrmadp-3-southchinasea-china-philippines.jpg"
         }
       ]
     }
