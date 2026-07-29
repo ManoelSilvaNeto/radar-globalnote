@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-07-28T15:01:31.523Z",
-  "editionDate": "2026-07-28",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito predominam enquanto eventos sísmicos e climáticos destacam vulnerabilidades estruturais\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-07-29T03:52:04.843Z",
+  "editionDate": "2026-07-29",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
