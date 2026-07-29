@@ -1,9 +1,30 @@
 {
   "date": "2026-07-29",
-  "generatedAt": "2026-07-29T07:22:19.536Z",
+  "generatedAt": "2026-07-29T11:04:16.657Z",
   "home": [
     {
-      "clusterId": "b1784e77caebaaa9",
+      "clusterId": "6fb3e57ad1f95818",
+      "slug": "7221335fdde370db",
+      "titulo": "Inmet emite alerta de perigo para ventos costeiros no litoral de São Paulo",
+      "resumo": "O Inmet emitiu alerta de perigo para ventos costeiros no Litoral Norte de São Paulo, válido durante toda quarta-feira. O aviso cobre Caraguatatuba, São Sebastião, Ilhabela, Ubatuba e Bertioga. A Defesa Civil prevê chuvas fortes e rajadas intensas de vento devido a uma frente fria.",
+      "porQueImporta": "O alerta indica risco de condições meteorológicas adversas que podem afetar a segurança e atividades costeiras.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/29/inmet-emite-alerta-de-perigo-para-ventos-costeiros-no-litoral-de-sp-defesa-civil-preve-chuva-e-ventos-fortes.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sob-alerta-de-chuva-e-ventos-defesa-civil-ativa-gabinete-de-crise-em-sp/"
+        }
+      ],
+      "updatedAt": "2026-07-29T10:31:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/B51I6uitayMMIUvupN9nF95gt5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/a/2s5Lg4TMGCA98aoet3aQ/foto-g1-2-.jpg"
+    },
+    {
+      "clusterId": "75fe4ba305527c4c",
       "slug": "f939770e5d736e3f",
       "titulo": "Terremoto de magnitude 7,1 no sul do Japão causa colapso de shopping e danos em edificações",
       "resumo": "Um terremoto de magnitude 7,1 atingiu a província de Kumamoto, no sul do Japão, na terça-feira (28). O abalo provocou a explosão e o colapso parcial do shopping Aeon Mall em Kashima, deixando dezenas de pessoas presas sob escombros e relatos de mortos e desaparecidos. Além do shopping, a queda de uma chaminé em uma fábrica de papel em Yatsushiro e a queda de prédios em outras cidades da ilha de Kyushu foram registradas. Mais de 46 mil residências ficaram sem energia e hospitais receberam mais de 100 feridos.",
@@ -16,16 +37,29 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/07/28/terremoto-atinge-japao.ghtml"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/sobe-o-numero-de-mortos-em-terremoto-no-japao-diz-premie/"
-        },
-        {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cp8x5wzp7wzo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-07-29T01:55:29.000Z",
+      "updatedAt": "2026-07-29T10:25:34.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/QMYjvAynwMygDaIW8LYt-6jPsNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/5Q6BCbQgWCIy8AnXAtbw/260718-info-mapa-terremoto-japao-1-.jpg"
+    },
+    {
+      "clusterId": "386f95bee7c8fbe2",
+      "slug": "5408b9a21721aa95",
+      "titulo": "Corpo de homem afogado durante pescaria é encontrado em rio de Estância",
+      "resumo": "Um homem que desapareceu após se afogar em um poço no povoado Miranguinha, zona rural de Estância, foi localizado boiando no rio na noite de terça‑feira. Pescadores encontraram o corpo, levaram à margem e acionaram o Centro Integrado de Operações em Segurança Pública. As autoridades competentes foram notificadas para realizar a perícia legal.",
+      "porQueImporta": "O caso evidencia riscos de afogamento em áreas rurais e a necessidade de resposta rápida das equipes de emergência.",
+      "categoria": "Afogamento",
+      "categoriaSlug": "afogamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/29/corpo-de-homem-que-se-afogou-durante-pescaria-em-estancia-e-localizado.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-29T10:52:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/doUMNtomjACqETFagGxAzPEx_W0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/j/i1SHIHSIeKLiRSwjhyqA/crop-foto-2026-07-29t075107.270.jpg"
     },
     {
       "clusterId": "880e212a6c24ab3a",
@@ -49,38 +83,38 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b83d/live/6ab357e0-89aa-11f1-803f-770138b0c57a.jpg"
     },
     {
-      "clusterId": "619e95746513c3fb",
-      "slug": "7221335fdde370db",
-      "titulo": "Inmet emite alerta de perigo para ventos costeiros no litoral de São Paulo",
-      "resumo": "O Inmet emitiu alerta de perigo para ventos costeiros no Litoral Norte de São Paulo, válido durante toda quarta-feira. O aviso cobre Caraguatatuba, São Sebastião, Ilhabela, Ubatuba e Bertioga. A Defesa Civil prevê chuvas fortes e rajadas intensas de vento devido a uma frente fria.",
-      "porQueImporta": "O alerta indica risco de condições meteorológicas adversas que podem afetar a segurança e atividades costeiras.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "a36107859f878eb6",
+      "slug": "c2c922bef29e2ae3",
+      "titulo": "Carreta tomba na Via Dutra em Piraí e deixa três feridos",
+      "resumo": "Na noite de terça-feira, uma carreta tombou na subida da Serra das Araras, na Via Dutra (BR-116) em Piraí (RJ). O acidente resultou em três feridos – o motorista, uma mulher e uma criança – que foram socorridos e encaminhados ao hospital local. O incidente provocou bloqueio da rodovia e congestionamento de aproximadamente 15 km durante a madrugada de quarta-feira. Não foram divulgados detalhes sobre o estado de saúde das vítimas.",
+      "porQueImporta": "O bloqueio na principal rodovia do estado gera transtorno ao tráfego e pode impactar o deslocamento de veículos de emergência.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/29/inmet-emite-alerta-de-perigo-para-ventos-costeiros-no-litoral-de-sp-defesa-civil-preve-chuva-e-ventos-fortes.ghtml"
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/29/carreta-tomba-deixa-tres-feridos-e-trava-transito-na-subida-da-serra-das-araras-em-pirai.ghtml"
         }
       ],
-      "updatedAt": "2026-07-29T07:01:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/B51I6uitayMMIUvupN9nF95gt5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/a/2s5Lg4TMGCA98aoet3aQ/foto-g1-2-.jpg"
+      "updatedAt": "2026-07-29T10:01:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/smwmEtA-tlH27sH8q5MuLGhjGE4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/n/evEvHSS0qHXrjK3ruQIQ/image-5-.jpg"
     },
     {
-      "clusterId": "5fb3817108c4d248",
-      "slug": "b521f2892f647da7",
-      "titulo": "Temporal com ventos de 160 km/h atinge Ribeirão Preto, mas não é tornado",
-      "resumo": "Um temporal que atingiu a região de Ribeirão Preto, SP, na última sexta-feira, causou uma morte, destruiu casas e empresas e deixou cidades sem luz. A meteorologista Josélia Pegorim, do Climatempo, classificou o evento como microexplosão, apesar de ter ventos de 160 km/h. O fenômeno pode se assemelhar a um tornado de categoria 1, mas os danos são diferentes.",
-      "porQueImporta": "A classificação correta do fenômeno ajuda na compreensão dos riscos e na preparação de medidas de segurança.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "61085afd81e65fa2",
+      "slug": "e73a915d4470544d",
+      "titulo": "Rios sobem no Rio Grande do Sul e mais de 300 pessoas ficam desabrigadas",
+      "resumo": "Chuvas intensas elevaram o nível dos rios Caí, dos Sinos, Paranhana, Gravataí, Jacuí, Taquari e Uruguai acima da cota de inundação no estado. Em São Leopoldo, o Rio dos Sinos chegou a 4,73 metros, invadindo ruas e pátios de casas. Mais de 300 pessoas foram registradas fora de suas residências. As autoridades monitoram a situação e orientam a população sobre riscos de alagamento.",
+      "porQueImporta": "A elevação dos rios coloca em risco a segurança de milhares de moradores e demanda resposta emergencial",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/29/por-que-mesmo-com-ventos-a-160kmh-fenomeno-que-atingiu-a-regiao-de-ribeirao-preto-nao-e-tornado.ghtml"
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/rios-sobem-rs-inundacoes-chuva.ghtml"
         }
       ],
-      "updatedAt": "2026-07-29T07:01:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/-wqkP9N3PH8Q1kMJn9a43zLMYaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/b/rQll2tRn2hTBFhgZk60Q/empresa-amendoim.jpg"
+      "updatedAt": "2026-07-29T09:48:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/RP4z0rpmrw24onWzZGO8u1jer_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/j/xCCGBpS8OVvUDi7S8veQ/g1-1-.jpg"
     },
     {
       "clusterId": "0471b4cb8b0908ae",
@@ -131,55 +165,21 @@
       "updatedAt": "2026-07-29T06:20:49.000Z"
     },
     {
-      "clusterId": "70408350d8998d63",
-      "slug": "beff1b83fc04b923",
-      "titulo": "Homem é preso por incendiar casa e tentar matar amiga em Bambuí",
-      "resumo": "Um homem de 31 anos foi detido suspeito de ter incendiado a residência onde vivia uma mulher de 41 anos após ela recusar um relacionamento. A vítima foi encontrada desacordada dentro do imóvel em chamas no bairro Candola, em Bambuí. A Polícia Militar informou que o suspeito colocou fogo em uma colcha sobre o sofá antes de fugir e foi capturado pelos policiais que arrombaram uma janela para entrar na casa.",
-      "porQueImporta": "O caso evidencia violência doméstica e risco de incêndio, demandando atenção das autoridades de segurança pública",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "cc4c838ca1078807",
+      "slug": "c9695d5bfdd48998",
+      "titulo": "Espanha suspende ordem de evacuação em meio a incêndios florestais na região central",
+      "resumo": "Incêndios florestais afetam a região central da Espanha e o sudoeste da França, deslocando dezenas de milhares de pessoas. Na Espanha, a ordem de evacuação foi suspensa nesta terça‑feira, permitindo o retorno aos domicílios a partir das 17h (horário local). As autoridades apontam melhora nas condições climáticas, embora uma nova onda de calor esteja prevista para os próximos dias. O número total de desalojados nos dois países chega a cerca de 325 mil pessoas.",
+      "porQueImporta": "A situação evidencia o risco de incêndios em áreas densamente povoadas e a necessidade de monitoramento climático contínuo.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/29/homem-e-preso-por-incendiar-casa-de-amiga-e-tentar-mata-la-apos-ela-recusar-relacionamento-em-bambui.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/27/incendio-devastador-na-franca-e-na-espanha-fortes-ventos-aumentam-e-espalham-chamas.ghtml"
         }
       ],
-      "updatedAt": "2026-07-29T06:00:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/AUyq7ZnMSmhq_xIEEbd0seXvZyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/x/Z4Rv7oTUK6uAxsc7fuQg/incendio-casa-amiga.png"
-    },
-    {
-      "clusterId": "16ffbbedfa3f95ad",
-      "slug": "7e23f1a879de2db5",
-      "titulo": "Carro capota após bater contra barreira de pedágio em Valinhos",
-      "resumo": "Um veículo colidiu com a barreira que separa as faixas de uma praça de pedágio na Rodovia Anhanguera, km 82, em Valinhos, e capotou. O motorista ficou gravemente ferido, mas consciente, e foi encaminhado a uma unidade de saúde. Uma das faixas de autoatendimento foi interditada, sem gerar congestionamento. A Polícia Militar Rodoviária não detalhou a dinâmica do acidente.",
-      "porQueImporta": "O acidente evidencia riscos nas áreas de pedágio e a necessidade de atenção dos motoristas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/28/carro-capota-bater-estrutura-pedagio-deixa-motorista-ferido-valinhos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-29T06:00:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PRIJICeR7Dv4PWKJ0Kx9MApqhzE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/J/McsybTQ66XZY4XBnH07g/design-sem-nome-16-.jpg"
-    },
-    {
-      "clusterId": "a2da6e1cc0b667b5",
-      "slug": "5f592512a095b780",
-      "titulo": "Inundações ameaçam cinco rios do Rio Grande do Sul com previsão de chuva intensa e granizo",
-      "resumo": "O Centro de Monitoramento da Defesa Civil Estadual divulgou alerta de temporais para o Rio Grande do Sul, indicando risco de transbordamento e alagamentos em áreas urbanas. A previsão inclui chuva moderada a forte e granizo para esta quarta-feira, com níveis acima da cota já registrados nos rios Uruguai e Sinos. As autoridades recomendam atenção às condições dos cursos d'água nos próximos dias.",
-      "porQueImporta": "O alerta indica risco imediato de enchentes que podem afetar populações e infraestrutura nas margens dos rios",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/inundacoes-ameacam-cinco-rios-rs-previsao-chuva-intensa-queda-granizo-quarta-feira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-29T05:00:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/b98zNU7dlnHJQExLXMO7eyY6Ilk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/mjIvtKS46oPSJjKBtcpQ/g1-8-.png"
+      "updatedAt": "2026-07-28T14:37:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/6cftyuM1ffTplJvuRiZddQdKoA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/P/64JipVSrODjuwSbd4VhQ/2026-07-27t100005z-1552263391-rc2ammanvhti-rtrmadp-3-europe-weather-france-wildfire.jpg"
     }
   ],
   "categorias": [
@@ -188,7 +188,7 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "619e95746513c3fb",
+          "clusterId": "6fb3e57ad1f95818",
           "slug": "7221335fdde370db",
           "titulo": "Inmet emite alerta de perigo para ventos costeiros no litoral de São Paulo",
           "resumo": "O Inmet emitiu alerta de perigo para ventos costeiros no Litoral Norte de São Paulo, válido durante toda quarta-feira. O aviso cobre Caraguatatuba, São Sebastião, Ilhabela, Ubatuba e Bertioga. A Defesa Civil prevê chuvas fortes e rajadas intensas de vento devido a uma frente fria.",
@@ -199,27 +199,14 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/29/inmet-emite-alerta-de-perigo-para-ventos-costeiros-no-litoral-de-sp-defesa-civil-preve-chuva-e-ventos-fortes.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T07:01:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/B51I6uitayMMIUvupN9nF95gt5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/a/2s5Lg4TMGCA98aoet3aQ/foto-g1-2-.jpg"
-        },
-        {
-          "clusterId": "5fb3817108c4d248",
-          "slug": "b521f2892f647da7",
-          "titulo": "Temporal com ventos de 160 km/h atinge Ribeirão Preto, mas não é tornado",
-          "resumo": "Um temporal que atingiu a região de Ribeirão Preto, SP, na última sexta-feira, causou uma morte, destruiu casas e empresas e deixou cidades sem luz. A meteorologista Josélia Pegorim, do Climatempo, classificou o evento como microexplosão, apesar de ter ventos de 160 km/h. O fenômeno pode se assemelhar a um tornado de categoria 1, mas os danos são diferentes.",
-          "porQueImporta": "A classificação correta do fenômeno ajuda na compreensão dos riscos e na preparação de medidas de segurança.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
+            },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/29/por-que-mesmo-com-ventos-a-160kmh-fenomeno-que-atingiu-a-regiao-de-ribeirao-preto-nao-e-tornado.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sob-alerta-de-chuva-e-ventos-defesa-civil-ativa-gabinete-de-crise-em-sp/"
             }
           ],
-          "updatedAt": "2026-07-29T07:01:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-wqkP9N3PH8Q1kMJn9a43zLMYaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/b/rQll2tRn2hTBFhgZk60Q/empresa-amendoim.jpg"
+          "updatedAt": "2026-07-29T10:31:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/B51I6uitayMMIUvupN9nF95gt5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/a/2s5Lg4TMGCA98aoet3aQ/foto-g1-2-.jpg"
         },
         {
           "clusterId": "237e1a63e2eb16fc",
@@ -236,88 +223,6 @@
             }
           ],
           "updatedAt": "2026-07-29T06:33:11.000Z"
-        },
-        {
-          "clusterId": "fd2ffa2cf615eb45",
-          "slug": "a3c6c7080965229c",
-          "titulo": "Temporais persistem no Sul enquanto calor e ar seco predominam em outras regiões",
-          "resumo": "A partir desta quarta-feira (29), a região Sul enfrenta risco de temporais, rajadas de vento, granizo e volumes elevados de chuva, que podem causar alagamentos, enxurradas e elevação de rios. Em contraste, o fim de julho será marcado por calor, tempo seco e baixa umidade do ar no interior do Sudeste, Centro-Oeste e Nordeste. A previsão indica que a baixa pressão responsável pelos temporais permanece sobre o Sul.",
-          "porQueImporta": "Os eventos climáticos podem gerar impactos como alagamentos e riscos à população em diferentes regiões do país",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/29/temporais-continuam-no-sul-nesta-quarta-calor-aumenta-no-sudeste-e-ar-seco-domina-o-centro-oeste.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T03:00:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DXMHoHj5iGVN32L9mLiFa7UXxGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/2/GrEYJqQWACzPkNLT2p5g/6159919-44914c682a2a3aa.jpg"
-        },
-        {
-          "clusterId": "c726cb08c7788f27",
-          "slug": "ea93b3b64e16dab5",
-          "titulo": "Tornado é registrado em Giruá, RS",
-          "resumo": "Um agricultor de Giruá filmou a formação de um tornado no fim da tarde de terça-feira, 28. O fenômeno foi observado também nos municípios de Sete de Setembro e Senador Salgado Filho. Segundo o Centro de Monitoramento da Defesa Civil, o tornado foi identificado por dados de radar.",
-          "porQueImporta": "O evento evidencia a ocorrência de fenômenos climáticos extremos na região sul do país",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/parecia-coisa-de-filme-diz-morador-que-filmou-tornado-no-rio-grande-do-sul.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T03:00:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/32NNwCl_xMUZobSy8pgjOXPGWwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/a/bbINBPSTCGIt0c4pNJbg/g1-9-.png"
-        },
-        {
-          "clusterId": "1207121cda3f1755",
-          "slug": "d9ec381a9029abec",
-          "titulo": "Tornado gigante atinge Giruá e causa destruição",
-          "resumo": "Um tornado de grande porte atingiu Giruá, no Rio Grande do Sul, devastando quatro propriedades rurais e derrubando árvores e postes, o que dificultou o acesso a algumas áreas. As equipes da Defesa Civil e do Corpo de Bombeiros foram mobilizadas para prestar socorro à população local. A coordenadora municipal da Defesa Civil informou que a intensidade do fenômeno pode aumentar ao amanhecer. Não há confirmação de feridos, mas a prefeitura está monitorando a situação.",
-          "porQueImporta": "O evento evidencia a vulnerabilidade das comunidades rurais a fenômenos climáticos extremos.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/tornado-gigante-devasta-girua-no-rs-prefeitura-fala-em-feridos/"
-            }
-          ],
-          "updatedAt": "2026-07-29T02:25:17.000Z"
-        },
-        {
-          "clusterId": "d1bfb4b39fc75ff3",
-          "slug": "3180d3821fd351db",
-          "titulo": "Tornado atinge Giruá (RS) com desenvolvimento vertical de até 15 mil metros",
-          "resumo": "Um tornado foi registrado em Giruá, no Rio Grande do Sul, apresentando desenvolvimento vertical que pode ultrapassar 15 mil metros de altura, segundo o Cemaden. O fenômeno foi destacado como o aspecto mais marcante do evento.",
-          "porQueImporta": "Eventos de tornado são raros no Brasil e demandam atenção das autoridades e da população.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/ciencia/entenda-o-que-e-um-tornado-fenomeno-que-atingiu-girua-rs/"
-            }
-          ],
-          "updatedAt": "2026-07-29T00:23:34.000Z"
-        },
-        {
-          "clusterId": "84f9fa1a9319bf9f",
-          "slug": "923cde5f67ebeed2",
-          "titulo": "Tornado atinge cidades de Menasha, Appleton e Neenah no Wisconsin",
-          "resumo": "Um tornado de forte intensidade passou pelas cidades de Menasha, Appleton e Neenah, no estado de Wisconsin, nos Estados Unidos, causando destruição de edificações e danos materiais. Imagens de drone divulgadas mostram a extensão dos estragos nas áreas afetadas.",
-          "porQueImporta": "O evento evidencia a vulnerabilidade das comunidades a fenômenos climáticos extremos.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/video-drone-mostra-devastacao-de-tornado-no-wisconsin-eua/"
-            }
-          ],
-          "updatedAt": "2026-07-28T23:34:39.000Z"
         }
       ]
     },
@@ -326,7 +231,7 @@
       "label": "Explosão",
       "stories": [
         {
-          "clusterId": "b1784e77caebaaa9",
+          "clusterId": "75fe4ba305527c4c",
           "slug": "f939770e5d736e3f",
           "titulo": "Terremoto de magnitude 7,1 no sul do Japão causa colapso de shopping e danos em edificações",
           "resumo": "Um terremoto de magnitude 7,1 atingiu a província de Kumamoto, no sul do Japão, na terça-feira (28). O abalo provocou a explosão e o colapso parcial do shopping Aeon Mall em Kashima, deixando dezenas de pessoas presas sob escombros e relatos de mortos e desaparecidos. Além do shopping, a queda de uma chaminé em uma fábrica de papel em Yatsushiro e a queda de prédios em outras cidades da ilha de Kyushu foram registradas. Mais de 46 mil residências ficaram sem energia e hospitais receberam mais de 100 feridos.",
@@ -339,15 +244,11 @@
               "url": "https://g1.globo.com/mundo/noticia/2026/07/28/terremoto-atinge-japao.ghtml"
             },
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/sobe-o-numero-de-mortos-em-terremoto-no-japao-diz-premie/"
-            },
-            {
               "name": "BBC Brasil",
               "url": "https://www.bbc.com/portuguese/articles/cp8x5wzp7wzo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "updatedAt": "2026-07-29T01:55:29.000Z",
+          "updatedAt": "2026-07-29T10:25:34.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/QMYjvAynwMygDaIW8LYt-6jPsNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/5Q6BCbQgWCIy8AnXAtbw/260718-info-mapa-terremoto-japao-1-.jpg"
         },
         {
@@ -365,6 +266,46 @@
             }
           ],
           "updatedAt": "2026-07-29T06:20:49.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "a36107859f878eb6",
+          "slug": "c2c922bef29e2ae3",
+          "titulo": "Carreta tomba na Via Dutra em Piraí e deixa três feridos",
+          "resumo": "Na noite de terça-feira, uma carreta tombou na subida da Serra das Araras, na Via Dutra (BR-116) em Piraí (RJ). O acidente resultou em três feridos – o motorista, uma mulher e uma criança – que foram socorridos e encaminhados ao hospital local. O incidente provocou bloqueio da rodovia e congestionamento de aproximadamente 15 km durante a madrugada de quarta-feira. Não foram divulgados detalhes sobre o estado de saúde das vítimas.",
+          "porQueImporta": "O bloqueio na principal rodovia do estado gera transtorno ao tráfego e pode impactar o deslocamento de veículos de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/29/carreta-tomba-deixa-tres-feridos-e-trava-transito-na-subida-da-serra-das-araras-em-pirai.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T10:01:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/smwmEtA-tlH27sH8q5MuLGhjGE4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/n/evEvHSS0qHXrjK3ruQIQ/image-5-.jpg"
+        },
+        {
+          "clusterId": "73ffb641c98fa295",
+          "slug": "b1144d7a850acbd4",
+          "titulo": "Atentado contra parada LGBTQ+ em Berlim deixa 1 morto e 29 feridos",
+          "resumo": "Na noite de 25 de julho, uma van branca colidiu deliberadamente com a multidão que participava da Marcha do Orgulho LGBTQ+ próximo ao Portão de Brandemburgo, resultando em uma vítima fatal e 29 feridos. O motorista, identificado como Abdul Rahman Ballout, de origem libanesa, teve um vídeo encontrado em seu celular no qual jurava lealdade ao Estado Islâmico. As autoridades alemãs prenderam o suspeito e iniciaram a investigação do caso como ato terrorista.",
+          "porQueImporta": "O ataque evidencia a ameaça de violência motivada por extremismo contra eventos públicos e minorias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/27/atentado-a-parada-lgbtq-de-berlim-saiba-mais.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-28T13:10:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0XaT2UHcHqPFlmdiIzKZE_Pt070=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/M/SuKfIGSjeVjStzAejbSw/2026-07-26t184052z-1174887222-rc2slmabkdmk-rtrmadp-3-germany-lgbt-pride-attack-merz.jpg"
         }
       ]
     },
@@ -408,82 +349,25 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "afogamento",
+      "label": "Afogamento",
       "stories": [
         {
-          "clusterId": "16ffbbedfa3f95ad",
-          "slug": "7e23f1a879de2db5",
-          "titulo": "Carro capota após bater contra barreira de pedágio em Valinhos",
-          "resumo": "Um veículo colidiu com a barreira que separa as faixas de uma praça de pedágio na Rodovia Anhanguera, km 82, em Valinhos, e capotou. O motorista ficou gravemente ferido, mas consciente, e foi encaminhado a uma unidade de saúde. Uma das faixas de autoatendimento foi interditada, sem gerar congestionamento. A Polícia Militar Rodoviária não detalhou a dinâmica do acidente.",
-          "porQueImporta": "O acidente evidencia riscos nas áreas de pedágio e a necessidade de atenção dos motoristas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "386f95bee7c8fbe2",
+          "slug": "5408b9a21721aa95",
+          "titulo": "Corpo de homem afogado durante pescaria é encontrado em rio de Estância",
+          "resumo": "Um homem que desapareceu após se afogar em um poço no povoado Miranguinha, zona rural de Estância, foi localizado boiando no rio na noite de terça‑feira. Pescadores encontraram o corpo, levaram à margem e acionaram o Centro Integrado de Operações em Segurança Pública. As autoridades competentes foram notificadas para realizar a perícia legal.",
+          "porQueImporta": "O caso evidencia riscos de afogamento em áreas rurais e a necessidade de resposta rápida das equipes de emergência.",
+          "categoria": "Afogamento",
+          "categoriaSlug": "afogamento",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/28/carro-capota-bater-estrutura-pedagio-deixa-motorista-ferido-valinhos.ghtml"
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/29/corpo-de-homem-que-se-afogou-durante-pescaria-em-estancia-e-localizado.ghtml"
             }
           ],
-          "updatedAt": "2026-07-29T06:00:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PRIJICeR7Dv4PWKJ0Kx9MApqhzE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/J/McsybTQ66XZY4XBnH07g/design-sem-nome-16-.jpg"
-        },
-        {
-          "clusterId": "73ffb641c98fa295",
-          "slug": "b1144d7a850acbd4",
-          "titulo": "Atentado contra parada LGBTQ+ em Berlim deixa 1 morto e 29 feridos",
-          "resumo": "Na noite de 25 de julho, uma van branca colidiu deliberadamente com a multidão que participava da Marcha do Orgulho LGBTQ+ próximo ao Portão de Brandemburgo, resultando em uma vítima fatal e 29 feridos. O motorista, identificado como Abdul Rahman Ballout, de origem libanesa, teve um vídeo encontrado em seu celular no qual jurava lealdade ao Estado Islâmico. As autoridades alemãs prenderam o suspeito e iniciaram a investigação do caso como ato terrorista.",
-          "porQueImporta": "O ataque evidencia a ameaça de violência motivada por extremismo contra eventos públicos e minorias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/27/atentado-a-parada-lgbtq-de-berlim-saiba-mais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-28T13:10:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0XaT2UHcHqPFlmdiIzKZE_Pt070=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/M/SuKfIGSjeVjStzAejbSw/2026-07-26t184052z-1174887222-rc2slmabkdmk-rtrmadp-3-germany-lgbt-pride-attack-merz.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "9be9a5b16ab05652",
-          "slug": "829eeb91ff0649f4",
-          "titulo": "Como escolher materiais pensando no longo prazo",
-          "resumo": "A escolha de materiais em obras residenciais deve considerar durabilidade, facilidade de manutenção e adaptação ao uso ao longo dos anos. Pisos, revestimentos, metais e tintas que resistam ao uso diário e possuam estética atemporal tendem a exigir menos intervenções. Essas características ajudam a preservar o investimento realizado na construção. A seleção adequada vai além da aparência e impacta a longevidade da obra.",
-          "porQueImporta": "Materiais duráveis reduzem custos de manutenção e prolongam a vida útil da construção",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/07/29/como-escolher-materiais-pensando-no-longo-prazo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T03:04:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0IMYLC95ywsDaeSWYO7PKpz0r0M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/K/UyMwFLRnmk4pu7T9uDhw/foto-1-3-.png"
-        },
-        {
-          "clusterId": "d4b97271a77a5dcd",
-          "slug": "64b8bec5be4b3325",
-          "titulo": "Temperaturas acima de 50°C em celas de prisões da Puglia provocam denúncia sindical",
-          "resumo": "Um sindicato de guardas de prisão na região sul da Puglia informou que as celas superlotadas registram temperaturas superiores a 50°C. A entidade pretende solicitar aos promotores locais que investiguem possíveis abusos nas condições de trabalho. A denúncia aponta negligência das autoridades prisionalistas diante da onda de calor que afeta a Europa. A situação foi relatada pela agência AFP.",
-          "porQueImporta": "Condições extremas de calor podem comprometer a saúde dos detentos e a responsabilidade institucional",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/27/prisoes-na-regiao-sul-da-italia-estao-com-temperaturas-acima-de-50c-denuncia-sindicato.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-27T14:09:23.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3kf5cE2Y5GgklVgMVF4NrGj09Ck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/l/bu8qP3Q4AVNHPdQaRBHw/afp-20260726-c38t8nf-v4-midres-topshotitalyfireweatherclimate.jpg"
+          "updatedAt": "2026-07-29T10:52:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/doUMNtomjACqETFagGxAzPEx_W0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/j/i1SHIHSIeKLiRSwjhyqA/crop-foto-2026-07-29t075107.270.jpg"
         }
       ]
     },
@@ -515,71 +399,48 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "70408350d8998d63",
-          "slug": "beff1b83fc04b923",
-          "titulo": "Homem é preso por incendiar casa e tentar matar amiga em Bambuí",
-          "resumo": "Um homem de 31 anos foi detido suspeito de ter incendiado a residência onde vivia uma mulher de 41 anos após ela recusar um relacionamento. A vítima foi encontrada desacordada dentro do imóvel em chamas no bairro Candola, em Bambuí. A Polícia Militar informou que o suspeito colocou fogo em uma colcha sobre o sofá antes de fugir e foi capturado pelos policiais que arrombaram uma janela para entrar na casa.",
-          "porQueImporta": "O caso evidencia violência doméstica e risco de incêndio, demandando atenção das autoridades de segurança pública",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/29/homem-e-preso-por-incendiar-casa-de-amiga-e-tentar-mata-la-apos-ela-recusar-relacionamento-em-bambui.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T06:00:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/AUyq7ZnMSmhq_xIEEbd0seXvZyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/x/Z4Rv7oTUK6uAxsc7fuQg/incendio-casa-amiga.png"
-        }
-      ]
-    },
-    {
       "slug": "enchente",
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "a2da6e1cc0b667b5",
-          "slug": "5f592512a095b780",
-          "titulo": "Inundações ameaçam cinco rios do Rio Grande do Sul com previsão de chuva intensa e granizo",
-          "resumo": "O Centro de Monitoramento da Defesa Civil Estadual divulgou alerta de temporais para o Rio Grande do Sul, indicando risco de transbordamento e alagamentos em áreas urbanas. A previsão inclui chuva moderada a forte e granizo para esta quarta-feira, com níveis acima da cota já registrados nos rios Uruguai e Sinos. As autoridades recomendam atenção às condições dos cursos d'água nos próximos dias.",
-          "porQueImporta": "O alerta indica risco imediato de enchentes que podem afetar populações e infraestrutura nas margens dos rios",
+          "clusterId": "61085afd81e65fa2",
+          "slug": "e73a915d4470544d",
+          "titulo": "Rios sobem no Rio Grande do Sul e mais de 300 pessoas ficam desabrigadas",
+          "resumo": "Chuvas intensas elevaram o nível dos rios Caí, dos Sinos, Paranhana, Gravataí, Jacuí, Taquari e Uruguai acima da cota de inundação no estado. Em São Leopoldo, o Rio dos Sinos chegou a 4,73 metros, invadindo ruas e pátios de casas. Mais de 300 pessoas foram registradas fora de suas residências. As autoridades monitoram a situação e orientam a população sobre riscos de alagamento.",
+          "porQueImporta": "A elevação dos rios coloca em risco a segurança de milhares de moradores e demanda resposta emergencial",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/inundacoes-ameacam-cinco-rios-rs-previsao-chuva-intensa-queda-granizo-quarta-feira.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/rios-sobem-rs-inundacoes-chuva.ghtml"
             }
           ],
-          "updatedAt": "2026-07-29T05:00:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/b98zNU7dlnHJQExLXMO7eyY6Ilk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/mjIvtKS46oPSJjKBtcpQ/g1-8-.png"
+          "updatedAt": "2026-07-29T09:48:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RP4z0rpmrw24onWzZGO8u1jer_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/j/xCCGBpS8OVvUDi7S8veQ/g1-1-.jpg"
         }
       ]
     },
     {
-      "slug": "naufragio",
-      "label": "Naufrágio",
+      "slug": "geral",
+      "label": "Geral",
       "stories": [
         {
-          "clusterId": "6aaf654ec5e98328",
-          "slug": "d16a0a5d9ff356db",
-          "titulo": "Barco vira nas Cataratas do Iguaçu e turista holandês de 26 anos morre",
-          "resumo": "Um barco que fazia passeio próximo às Cataratas do Iguaçu virou na terça-feira (28) no Parque Nacional do Iguaçu, no oeste do Paraná. O acidente deixou oito pessoas a bordo, entre elas um turista holandês de 26 anos que morreu. Vídeo gravado por outra turista mostrou o momento após a embarcação capotar e outras embarcações ao redor.",
-          "porQueImporta": "O incidente evidencia riscos de atividades turísticas em áreas naturais e a necessidade de medidas de segurança.",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
+          "clusterId": "d4b97271a77a5dcd",
+          "slug": "64b8bec5be4b3325",
+          "titulo": "Temperaturas acima de 50°C em celas de prisões da Puglia provocam denúncia sindical",
+          "resumo": "Um sindicato de guardas de prisão na região sul da Puglia informou que as celas superlotadas registram temperaturas superiores a 50°C. A entidade pretende solicitar aos promotores locais que investiguem possíveis abusos nas condições de trabalho. A denúncia aponta negligência das autoridades prisionalistas diante da onda de calor que afeta a Europa. A situação foi relatada pela agência AFP.",
+          "porQueImporta": "Condições extremas de calor podem comprometer a saúde dos detentos e a responsabilidade institucional",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/29/video-mostra-barco-virado-perto-das-cataratas-do-iguacu-apos-morte-de-turista-holandes.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/27/prisoes-na-regiao-sul-da-italia-estao-com-temperaturas-acima-de-50c-denuncia-sindicato.ghtml"
             }
           ],
-          "updatedAt": "2026-07-29T03:58:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/boCMLdLUG1YZ8iZ5a167IN06j_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/B/NanARoQv2eYbDJcGfZ0A/snapshot-1220.png"
+          "updatedAt": "2026-07-27T14:09:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/3kf5cE2Y5GgklVgMVF4NrGj09Ck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/l/bu8qP3Q4AVNHPdQaRBHw/afp-20260726-c38t8nf-v4-midres-topshotitalyfireweatherclimate.jpg"
         }
       ]
     }
