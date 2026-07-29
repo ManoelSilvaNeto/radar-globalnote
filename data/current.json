@@ -1,199 +1,180 @@
 {
   "date": "2026-07-29",
-  "generatedAt": "2026-07-29T17:49:55.330Z",
+  "generatedAt": "2026-07-29T21:28:11.708Z",
   "home": [
     {
-      "clusterId": "4d43e36a39a8baf4",
-      "slug": "c7f1a4662c562712",
-      "titulo": "Defesa Civil emite alerta severo para ventos fortes na capital e Grande São Paulo",
-      "resumo": "A Defesa Civil do Estado de São Paulo enviou alerta severo para fortes rajadas de vento na capital e na Grande São Paulo, com rajadas registradas acima de 110 km/h em alguns pontos. O órgão recomendou que a população busque abrigo, evite áreas descobertas, árvores e postes. As condições meteorológicas provocaram o desvio de seis voos no Aeroporto de Congonhas. A frente fria responsável pelos ventos está afetando a região nesta quarta-feira.",
-      "porQueImporta": "O alerta indica risco imediato à segurança de pessoas e à operação de transporte aéreo na região.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "a949c84ffa050255",
+      "slug": "4cd0f650c7d6214b",
+      "titulo": "Helicóptero cai durante treinamento de combate a incêndio na Argentina e mata sete pessoas",
+      "resumo": "Um helicóptero da empresa JasFly colidiu na manhã de quarta‑feira na região de San Juan, na Argentina, enquanto realizava treinamento de combate a incêndios. O aparelho acionou um dispositivo de emergência por volta das 10h30 e desapareceu em área de difícil acesso. Todas as sete pessoas a bordo morreram no acidente.",
+      "porQueImporta": "O acidente evidencia riscos associados a operações de treinamento de combate a incêndios aéreos.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/29/defesa-civil-emite-alerta-severo-para-fortes-rajadas-de-vento-na-capital-e-grande-sp-veja-orientacoes.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/agenda-verde/sp-registra-ventania-acima-de-110km-h-e-entra-em-alerta-saiba-o-que-diz-a-defesa-civil/"
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/29/helicoptero-com-7-pessoas-cai-durante-treinamento-de-incendio-na-argentina.ghtml"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-ventos-na-capital-e-grande-sao-paulo/"
+          "url": "https://www.cnnbrasil.com.br/internacional/queda-de-helicoptero-deixa-sete-mortos-na-argentina/"
         }
       ],
-      "updatedAt": "2026-07-29T17:44:53.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/5gdKt6tc8TKkLF2zshvmGV1we-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/f/O52IJ4TEeBbMdODdcJew/whatsapp-image-2026-07-29-at-13.51.44.jpeg"
+      "updatedAt": "2026-07-29T20:40:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Rft6N-5h1feL0MZs74raeTlAAcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/B/d27bM8Qb223OQYBBDHdQ/481166706-1168521445061719-9052975236158251671-n.jpg"
     },
     {
-      "clusterId": "156f479b5b167abc",
-      "slug": "976ecadeec62802d",
-      "titulo": "Árvore derrubada por ventos acima de 100 km/h mata pessoa em Santos",
-      "resumo": "Na tarde de 29 de julho, ventos que ultrapassaram 100 km/h provocaram a queda de árvores no litoral de Santos. Uma das árvores atingiu uma pessoa, que morreu no local, conforme confirmado pela Defesa Civil. As rajadas também interromperam temporariamente as operações no Porto de Santos e o serviço de travessia de balsas.",
-      "porQueImporta": "O evento evidencia riscos de ventos fortes para a população e para a infraestrutura portuária da região",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/29/ventania-de-100-kmh-provoca-morte-quedas-de-arvores-e-cenario-de-destruicao-no-porto-de-santos-sp.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/arvore-derrubada-por-fortes-ventos-mata-uma-pessoa-em-santos"
-        }
-      ],
-      "updatedAt": "2026-07-29T17:43:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/uTjOIXK48ioaiKQa299kjGvJah0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/t/8USrC3QjSNdwISdpkArQ/arvore-morre.jpg"
-    },
-    {
-      "clusterId": "224c1c69b306a973",
-      "slug": "7bbf84542c86dd61",
-      "titulo": "Ventania forte atinge Litoral Norte de São Paulo e gera alerta da Defesa Civil",
-      "resumo": "Na quarta-feira, ventos intensos foram registrados em cidades do Litoral Norte de São Paulo, com velocidades superiores a 60 km/h em Caraguatatuba e relatos de mais de 100 km/h em outras localidades. A Defesa Civil emitiu alerta severo para a região entre Itanhaém e Ubatuba, recomendando que a população procure abrigo e evite áreas descobertas. Vídeos mostraram árvores balançando e a movimentação da água no mar, evidenciando a força dos ventos.",
-      "porQueImporta": "O fenômeno pode causar danos materiais e riscos à segurança de moradores e visitantes da região costeira",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/videos-litoral-de-sp-registra-ventos-acima-de-100-km-h-nesta-quarta/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/29/ventos-fortes-paralisam-travessia-de-balsa-entre-sao-sebastiao-e-ilhabela-no-litoral-norte-de-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-29T17:16:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/HrAv5SWaJNhJnwjLtxNT_J83V6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/uIL4kmTIy9YhY6anR5Dw/vento1.jpg"
-    },
-    {
-      "clusterId": "4dab8c3b06e81dd8",
-      "slug": "5700ccdb51daeed2",
-      "titulo": "Incêndios florestais na Espanha provocam queima de milhares de hectares e suspensão de evacuações",
-      "resumo": "Incêndios que atingem a província de Castellón queimaram mais de 8,5 mil hectares, parte de um total que supera 100 mil hectares em todo o país. Em La Vilavella, imagens de drone mostram áreas devastadas, árvores carbonizadas, veículos e imóveis danificados. As autoridades suspenderam a ordem de evacuação em 13 localidades, permitindo o retorno dos residentes a partir das 17h (horário local).",
-      "porQueImporta": "Os incêndios afetam extensas áreas florestais, propriedades e deslocam dezenas de milhares de pessoas, exigindo resposta emergencial e prevenção futura.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/28/incendios-florestais-na-europa-espanha-suspende-ordens-de-evacuacao.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/analise-onda-de-calor-deve-piorar-incendios-na-franca-e-na-espanha/"
-        }
-      ],
-      "updatedAt": "2026-07-29T17:08:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9NaZLkspBM584QpAfIEfNB2HTXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/4/j5O94fQOa5qokQO4gaBQ/2026-07-28t141105z-149013872-rc21nmaod788-rtrmadp-3-europe-weather-spain-wildfire.jpg"
-    },
-    {
-      "clusterId": "5b65ccf00ea0e743",
-      "slug": "f939770e5d736e3f",
-      "titulo": "Terremoto de magnitude 7,1 atinge Kumamoto e causa explosão em shopping",
-      "resumo": "Um tremor de magnitude 7,1 abalou a província de Kumamoto, no sul do Japão, provocando desabamentos de templos, muralhas de castelo do século XVII e interrupção de energia em milhares de residências. A explosão no shopping Aeon Mall, em Kashima, resultou em dezenas de feridos, vários mortos e pessoas desaparecidas sob os escombros. Equipes de socorro continuam as buscas, enquanto autoridades alertam para a possibilidade de novos tremores nos próximos dias.",
-      "porQueImporta": "O evento evidencia a vulnerabilidade de áreas densamente povoadas a terremotos de grande magnitude e suas consequências secundárias, como explosões e colapsos estruturais.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/28/terremoto-atinge-japao.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/templos-ficam-destruidos-no-japao-apos-terremoto-de-magnitude-71/"
-        }
-      ],
-      "updatedAt": "2026-07-29T16:12:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/QMYjvAynwMygDaIW8LYt-6jPsNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/5Q6BCbQgWCIy8AnXAtbw/260718-info-mapa-terremoto-japao-1-.jpg"
-    },
-    {
-      "clusterId": "d71c42242dd059c8",
-      "slug": "d78fb4a56ab9747d",
-      "titulo": "Ônibus municipal pega fogo em avenida de Campinas",
-      "resumo": "Um ônibus da linha 362 incendiou-se na tarde de quarta‑feira na Avenida Doutor David Vicente, em cruzamento com a Rua Pereira Lima, em Campinas (SP). O Corpo de Bombeiros atuou para extinguir as chamas e não houve feridos. Não foram divulgadas informações sobre a causa do incêndio. Vídeos mostraram o veículo em chamas e uma densa nuvem de fumaça.",
-      "porQueImporta": "O incidente demonstra a necessidade de monitoramento e manutenção de veículos de transporte público para prevenir riscos à população.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/video-onibus-municipal-pega-fogo-e-fica-destruido-em-avenida-de-campinas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-29T17:45:45.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CokNXKvRXY1lWpVRX9ZsKJOwC5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/JRKRP9QPC4FWA3uzPT0A/design-sem-nome-2026-07-29t143649.705.jpg"
-    },
-    {
-      "clusterId": "e37d4adb7870da21",
-      "slug": "65571de6ee80a61c",
-      "titulo": "Homem morre em acidente entre motocicleta e ônibus escolar em Dormentes",
-      "resumo": "Um motociclista de 46 anos colidiu com um ônibus escolar no município de Dormentes, no Sertão de Pernambuco, na noite de terça‑feira (28). A vítima, identificada como Adelmo da Silva, foi socorrida e encaminhada ao Hospital Universitário de Petrolina, onde morreu. A Polícia Civil iniciou as investigações sobre o acidente.",
-      "porQueImporta": "O caso evidencia riscos de tráfego envolvendo veículos escolares em áreas rurais",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/07/29/homem-morre-em-acidente-entre-motocicleta-e-onibus-escolar-em-dormentes.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-29T17:34:19.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CrM21ZCeOYomCGW-LfLkfe_9Lsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/2/WevdpNR0Ct6udlaUyRhw/pexels-cottonbro-10466266.jpg"
-    },
-    {
-      "clusterId": "3991bc547d4eb377",
-      "slug": "39c5b8ed4d013b01",
-      "titulo": "Tornado destrói casa em Giruá e menina de 3 anos escapa ao ir à casa do avô",
-      "resumo": "Na noite de terça‑feira (28), um tornado atingiu o Noroeste do Rio Grande do Sul, destruindo a residência de Gilço e Dieli Amaral em Giruá. A filha do casal, de três anos, havia sido levada ao avô, Neide Amaral, cerca de 10 km de distância, antes do fenômeno. Por isso, a criança não estava na casa quando o tornado a destruiu. Não foram informados feridos ou vítimas fatais.",
-      "porQueImporta": "O caso ilustra como situações de emergência podem ser mitigadas por coincidências que evitam perdas humanas.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/tornado-no-rs-menina-3-anos-casa-avo-horas-antes-fenomeno-destruir-moradia-onde-vivia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-29T17:26:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/NVMpFucxqHnNFY6jCoC_2om6j40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/n/oi3g7JThOBiWRMjGucwQ/g1-13-.jpg"
-    },
-    {
-      "clusterId": "82d7caa358ce521e",
-      "slug": "28b204833c62bfa1",
-      "titulo": "Tornado no RS: Quatro ficaram feridos e três cidades foram atingidas",
-      "resumo": "Cidades de Giruá, Sete de Setembro e Senador Salgado Filho foram atingidas; dois dos feridos seguem internados, sem risco de vida",
+      "clusterId": "e1f04386591e22c2",
+      "slug": "30d3b9a0e8ebfc96",
+      "titulo": "VÍDEO: poste salva homem de atropelamento após carro atingir moto e invadir calçada em MT",
+      "resumo": "Poste salva homem de atropelamento em MT Imagens de uma câmera de segurança mostram o momento em que um poste impediu que um pedestre fosse atingido diretamente por um carro na Avenida Universitária, em Barra do Garças, a 516 km de Cuiabá, nessa terça-feira (28). Antes de bater contra a estrutura, o veículo atingiu uma moto que estava estacionada no local (assista acima). Na gravação, o pedestre aparece caminhando pela calçada quando o carro sai da pista e avança em direção a ele. O homem tenta escapar, mas a moto é arremessada com o impacto da batida e o derruba. O veículo para ao atingir o…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/tornado-no-rs-quatro-ficaram-feridos-e-tres-cidades-foram-atingidas/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/29/video-poste-salva-homem-de-atropelamento-apos-carro-atingir-moto-e-invadir-calcada-em-mt.ghtml"
         }
       ],
-      "updatedAt": "2026-07-29T17:20:03.000Z"
+      "updatedAt": "2026-07-29T21:17:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/3THZPQwRzuA8Z0wU15w7rm-ehSw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/k/cwBFu8TAS3i6avZe7LpQ/0728.gif"
     },
     {
-      "clusterId": "41bec0dc6812ff5a",
-      "slug": "11bfa066647ee5e5",
-      "titulo": "Número de mortos após terremoto no Japão sobe para 13",
-      "resumo": "Um terremoto de magnitude significativa ocorreu no Japão, elevando o número de vítimas fatais para treze. As autoridades locais continuam as buscas e avaliações de danos nas áreas afetadas. A informação foi divulgada em um resumo diário de notícias.",
-      "porQueImporta": "O aumento no número de mortos destaca a gravidade do sismo e a necessidade de resposta emergencial.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
+      "clusterId": "a10faa1e96845c27",
+      "slug": "bba84625c7a364ba",
+      "titulo": "Água de cachoeira atinge força incomum após forte chuva no Rio Grande do Sul",
+      "resumo": "Uma forte chuva que atingiu o Rio Grande do Sul elevou o volume dos rios, gerando corrente mais intensa em uma cachoeira de Riozinho. O administrador do Camping Cascata do Chuvisqueiro, Roni Evandro de Lemos Broch, registrou que a força da água era muito maior que no sábado anterior, quando o fluxo era normal. O fenômeno foi observado na manhã de quarta‑feira, quando o morador chegou ao local e ficou assustado com a corrente. A situação ocorreu na região dos Vales, que tem cerca de 4,4 mil habitantes.",
+      "porQueImporta": "A elevação repentina do volume de água pode representar risco de inundação e danos à população local",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/07/29/resumao-diario-2082-quaest-desenha-a-corrida-presidencial-anvisa-aprova-novas-canetas-emagrecedoras-bts-desiste-do-grammy-chuva-de-meteoro-podera-ser-vista-a-olho-nu-e-mais.ghtml"
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/morador-forca-da-agua-cachoeira-antes-e-depois-da-forte-chuva-no-rs-video.ghtml"
         }
       ],
-      "updatedAt": "2026-07-29T17:11:27.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
+      "updatedAt": "2026-07-29T21:12:49.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wrin4lOoo_geyi3ml0w2lnJOL78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/mdhXT6SWywKKy9VPEBUQ/imagem.jpg-1-.jpeg"
+    },
+    {
+      "clusterId": "8a963c18ba2c5879",
+      "slug": "a683a5742f515e19",
+      "titulo": "Homem de 50 anos morre em naufrágio de embarcação de pesca em São Sebastião",
+      "resumo": "Uma embarcação de pesca com cinco tripulantes naufragou no Canal de São Sebastião durante um vendaval na tarde de quarta-feira. As cinco pessoas foram resgatadas e levadas ao píer do bairro São Francisco, onde receberam atendimento de equipes da Defesa Civil e do SAMU. Um dos tripulantes, de 50 anos, morreu após o incidente.",
+      "porQueImporta": "O caso evidencia os riscos de condições climáticas adversas para atividades de pesca costeira",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/29/homem-morre-apos-embarcacao-de-pesca-naufragar-durante-vendaval-em-sao-sebastiao.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-29T21:08:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/2eDl2XPqNIfjbec0LWvR_2HNITk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/6/U8kUfYTuSLWQ3faBs7uw/foto-g1-1-.png"
+    },
+    {
+      "clusterId": "203b408a81653f04",
+      "slug": "01c5af11f552a4b7",
+      "titulo": "Homem fica ferido após explosão de bomba caseira em portão de casa em Ibirarema (SP)",
+      "resumo": "Uma bomba de fabricação caseira explodiu no portão da residência de um homem de 37 anos em Ibirarema, interior de São Paulo, quando ele o abriu. O artefato causou ferimentos nas mãos da vítima, que foi socorrida e encaminhada ao pronto‑socorro local. A Secretaria de Segurança Pública informou que o incidente ocorreu na manhã de quarta‑feira, no bairro Nossa Senhora das Vitórias.",
+      "porQueImporta": "O caso evidencia riscos de artefatos explosivos improvisados em áreas residenciais, demandando atenção das autoridades e da população.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/29/homem-fica-ferido-apos-explosao-de-bomba-em-portao-de-casa-no-interior-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-29T21:00:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KaQozKzVUPeb81yAd7xSBhnXkck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/V/ha4dybSpmVEqI6pR5qGQ/explosao.jpg"
+    },
+    {
+      "clusterId": "40d36f1d4475b980",
+      "slug": "4ede14b57a16ca13",
+      "titulo": "Motociclista morre após colisão com cavalo na BR-020 em Posse (GO)",
+      "resumo": "Um motociclista colidiu de frente com um cavalo na zona rural de Posse, Goiás, resultando em morte. Motoristas que passavam pelo local tocaram a buzina na tentativa de afastar o animal antes do acidente.",
+      "porQueImporta": "O caso evidencia riscos de animais na via e a necessidade de medidas de segurança viária em áreas rurais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/entorno/motociclista-morre-apos-bater-de-frente-com-cavalo-na-br-020"
+        }
+      ],
+      "updatedAt": "2026-07-29T21:00:19.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/acidentepossego-motociclistacavalo.jpg"
+    },
+    {
+      "clusterId": "b3819bf07e4de8aa",
+      "slug": "e92e19cdd1644f3b",
+      "titulo": "Furto de cabos deixa igreja sem energia em Campos dos Goytacazes",
+      "resumo": "Na madrugada de quarta‑feira, cabos de energia da Igreja da Boa Morte, no centro de Campos dos Goytacazes, foram furtados. Os criminosos danificaram a caixa de energia e quebraram a tubulação, obrigando a igreja a isolar parte da calçada com fita zebrada para prevenir acidentes. Moradores relataram que o furto faz parte de uma sequência de crimes semelhantes ocorridos nos últimos meses na região.",
+      "porQueImporta": "O incidente evidencia risco de interrupções no fornecimento de energia e potencial perigo para pedestres em áreas públicas",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/07/29/furto-de-cabos-deixa-igreja-sem-energia-sequencia-de-crimes-preocupa-moradores-em-campos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-29T20:53:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/xB_Wz5lFHiQ_3Pq7osuf7-Q3FfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/2/3pEAsGTSOsK6a5V6cunQ/igreja.jpg"
+    },
+    {
+      "clusterId": "9f33e0b599bc57d0",
+      "slug": "0e8922f4ba078255",
+      "titulo": "Rio entra em estágio de alerta com vendaval de mais de 90 km/h e apagão",
+      "resumo": "Prefeitura do Rio divulgou um alerta amarelo de estágio 2 para risco de ocorrências de alto impacto",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/rio-entra-em-estagio-de-alerta-com-vendaval-de-mais-de-90-km-h-e-apagao"
+        }
+      ],
+      "updatedAt": "2026-07-29T20:50:56.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/ventania-rio-de-janeiro.jpg"
+    },
+    {
+      "clusterId": "bf6c45a8f74d53fd",
+      "slug": "b574178486970e55",
+      "titulo": "Ventos de mais de 100 km/h formam tempestade de areia na Linha Vermelha; vídeo",
+      "resumo": "Vídeo mostra nuvem de areia formada por ventania na linha Vermelha Rajadas de vento de 105 km/h causaram uma tempestade de areia na Linha Vermelha na tarde desta quarta-feira (29) com a chegada de uma frente fria. A ventania provocou o caos no Rio de Janeiro e em cidades da Região Metropolitana. De acordo com a Climatempo, a velocidade de 105 km/h foi registrada na estação do Galeão. Um vídeo (veja acima) mostra o momento da tempestade de areia. Um apagão afetou bairros da capital e da Baixada, paralisou trens e metrô e apagou sinais de trânsito. ASSISTA À COBERTURA AO VIVO Os ventos…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/29/ventania-linha-vermelha.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-29T20:48:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/G5pDl2ykggjlD8tFQbJVwoP_6Ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/U/fL6bYdS4aKtkzGAcmc3A/whatsapp-image-2026-07-29-at-16.52.41-1-.jpeg"
+    },
+    {
+      "clusterId": "0c51d013bcf53449",
+      "slug": "37ed7939becaa712",
+      "titulo": "Homem é flagrado ateando fogo em terreno ao lado de policlínica em Cuiabá",
+      "resumo": "Câmeras de segurança mostraram um homem entrando em um terreno ao lado da policlínica do bairro Pedra 90 e iniciando incêndio que consumiu cerca de 20 mil metros quadrados. O fogo atingiu placas de energia solar desativadas. O prefeito de Cuiabá, Abilio Brunini, informou que a causa foi criminosa e que a investigação está em curso. A ocorrência foi divulgada pela prefeitura na quarta‑feira.",
+      "porQueImporta": "O incidente evidencia risco de incêndio intencional em áreas urbanas e demanda resposta das autoridades.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/29/video-mostra-homem-ateando-fogo-em-terreno-ao-lado-de-policlinica-em-cuiaba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-29T20:42:27.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/BsdUhToAF7HHwM3CfCMbt0Cg_bk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/4/AVKLgvQAymOxXtAuj3lw/foto-g1.jpg"
     }
   ],
   "categorias": [
@@ -202,70 +183,274 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "82d7caa358ce521e",
-          "slug": "28b204833c62bfa1",
-          "titulo": "Tornado no RS: Quatro ficaram feridos e três cidades foram atingidas",
-          "resumo": "Cidades de Giruá, Sete de Setembro e Senador Salgado Filho foram atingidas; dois dos feridos seguem internados, sem risco de vida",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/tornado-no-rs-quatro-ficaram-feridos-e-tres-cidades-foram-atingidas/"
-            }
-          ],
-          "updatedAt": "2026-07-29T17:20:03.000Z"
-        },
-        {
-          "clusterId": "34325a7c1059c25f",
-          "slug": "254a7b8e5586cadf",
-          "titulo": "Zico tranquiliza fãs após terremoto no Japão",
-          "resumo": "Um terremoto ocorreu no Japão na última terça-feira, 28. O ex-jogador Zico, que estava no país, informou que todos estão bem. Ele usou as redes sociais para acalmar os seguidores. Não foram relatados feridos graves até o momento.",
-          "porQueImporta": "A mensagem ajuda a reduzir a ansiedade do público diante de um desastre natural",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/futebol/estamos-todos-bem-zico-tranquiliza-fas-apos-terremoto-no-japao/"
-            }
-          ],
-          "updatedAt": "2026-07-29T16:29:23.000Z"
-        },
-        {
-          "clusterId": "ab74d1bc720b0c3f",
-          "slug": "765536cdf749338b",
-          "titulo": "Hospital de Botucatu pede doações de sangue para atender vítimas de acidente que matou três pessoas em Porangaba",
-          "resumo": "Hemocentro do HC de Botucatu faz apelo urgente por doação dos sangues O- e A- O Hospital das Clínicas de Botucatu (SP) pede doações de sangue após receber vítimas do acidente registrado no quilômetro 161 da Rodovia Castello Branco (SP-280), em Porangaba (SP). A colisão, ocorrida na manhã de terça-feira (28), deixou três mortos. Segundo o hospital, os estoques dos tipos sanguíneos O- e A- estão em estado crítico. As demais vítimas, que não foram classificadas em estado grave, foram encaminhadas a hospitais da região de Porangaba. 📲 Participe do canal do g1 Itapetininga e Região no WhatsApp Os…",
+          "clusterId": "e1f04386591e22c2",
+          "slug": "30d3b9a0e8ebfc96",
+          "titulo": "VÍDEO: poste salva homem de atropelamento após carro atingir moto e invadir calçada em MT",
+          "resumo": "Poste salva homem de atropelamento em MT Imagens de uma câmera de segurança mostram o momento em que um poste impediu que um pedestre fosse atingido diretamente por um carro na Avenida Universitária, em Barra do Garças, a 516 km de Cuiabá, nessa terça-feira (28). Antes de bater contra a estrutura, o veículo atingiu uma moto que estava estacionada no local (assista acima). Na gravação, o pedestre aparece caminhando pela calçada quando o carro sai da pista e avança em direção a ele. O homem tenta escapar, mas a moto é arremessada com o impacto da batida e o derruba. O veículo para ao atingir o…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/29/hospital-de-botucatu-pede-doacoes-de-sangue-para-atender-vitimas-de-acidente-que-matou-tres-pessoas-em-porangaba.ghtml"
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/29/video-poste-salva-homem-de-atropelamento-apos-carro-atingir-moto-e-invadir-calcada-em-mt.ghtml"
             }
           ],
-          "updatedAt": "2026-07-29T16:20:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3uTIfypNpjlFzYVmEb0l0zCAc38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/h/LroBYRQzGi6vy7iHWAQw/hc.jpg"
+          "updatedAt": "2026-07-29T21:17:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/3THZPQwRzuA8Z0wU15w7rm-ehSw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/k/cwBFu8TAS3i6avZe7LpQ/0728.gif"
         },
         {
-          "clusterId": "bc0b1dcd3c6c4d40",
-          "slug": "dc66b7d43696f291",
-          "titulo": "Morte de homem após incêndio no PI é investigada; família suspeita de crime, mas polícia vê indícios de acidente",
-          "resumo": "Maury Santos Alves Reprodução A Polícia Civil do Piauí (PCPI) investiga a morte de Maury Santos Alves, de 29 anos, ocorrida no dia 22 de julho, cinco dias após um incêndio em uma casa em Dirceu Arcoverde, no Sul do Piauí. A família da vítima suspeita que o incêndio tenha sido provocado por alguém que estava no imóvel. No entanto, segundo o delegado José Wellington, responsável pelo caso, a principal hipótese investigada ainda é a de acidente. ✅ Siga o canal do g1 Piauí no WhatsApp Ao g1, o delegado afirmou que, até o momento, não há elementos concretos que indiquem que Maury tenha sido vítima…",
+          "clusterId": "b3819bf07e4de8aa",
+          "slug": "e92e19cdd1644f3b",
+          "titulo": "Furto de cabos deixa igreja sem energia em Campos dos Goytacazes",
+          "resumo": "Na madrugada de quarta‑feira, cabos de energia da Igreja da Boa Morte, no centro de Campos dos Goytacazes, foram furtados. Os criminosos danificaram a caixa de energia e quebraram a tubulação, obrigando a igreja a isolar parte da calçada com fita zebrada para prevenir acidentes. Moradores relataram que o furto faz parte de uma sequência de crimes semelhantes ocorridos nos últimos meses na região.",
+          "porQueImporta": "O incidente evidencia risco de interrupções no fornecimento de energia e potencial perigo para pedestres em áreas públicas",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/07/29/furto-de-cabos-deixa-igreja-sem-energia-sequencia-de-crimes-preocupa-moradores-em-campos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:53:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xB_Wz5lFHiQ_3Pq7osuf7-Q3FfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/2/3pEAsGTSOsK6a5V6cunQ/igreja.jpg"
+        },
+        {
+          "clusterId": "9f33e0b599bc57d0",
+          "slug": "0e8922f4ba078255",
+          "titulo": "Rio entra em estágio de alerta com vendaval de mais de 90 km/h e apagão",
+          "resumo": "Prefeitura do Rio divulgou um alerta amarelo de estágio 2 para risco de ocorrências de alto impacto",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/rio-entra-em-estagio-de-alerta-com-vendaval-de-mais-de-90-km-h-e-apagao"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:50:56.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/07/ventania-rio-de-janeiro.jpg"
+        },
+        {
+          "clusterId": "bf6c45a8f74d53fd",
+          "slug": "b574178486970e55",
+          "titulo": "Ventos de mais de 100 km/h formam tempestade de areia na Linha Vermelha; vídeo",
+          "resumo": "Vídeo mostra nuvem de areia formada por ventania na linha Vermelha Rajadas de vento de 105 km/h causaram uma tempestade de areia na Linha Vermelha na tarde desta quarta-feira (29) com a chegada de uma frente fria. A ventania provocou o caos no Rio de Janeiro e em cidades da Região Metropolitana. De acordo com a Climatempo, a velocidade de 105 km/h foi registrada na estação do Galeão. Um vídeo (veja acima) mostra o momento da tempestade de areia. Um apagão afetou bairros da capital e da Baixada, paralisou trens e metrô e apagou sinais de trânsito. ASSISTA À COBERTURA AO VIVO Os ventos…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/29/morte-homem-apos-incendio-dirceu-arcoverde.ghtml"
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/29/ventania-linha-vermelha.ghtml"
             }
           ],
-          "updatedAt": "2026-07-29T16:17:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/E7z2ISSryah2Gii24YnFOqWX-tw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/X/qiUCvkTp61USrpBj2iVw/edicao-imagens-g1-24-.jpg"
+          "updatedAt": "2026-07-29T20:48:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/G5pDl2ykggjlD8tFQbJVwoP_6Ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/U/fL6bYdS4aKtkzGAcmc3A/whatsapp-image-2026-07-29-at-16.52.41-1-.jpeg"
+        },
+        {
+          "clusterId": "c678c45725b44fdd",
+          "slug": "7f3ce18aed67d8e0",
+          "titulo": "Cobra de 1,5 metro encontrada sob fogão em residência de Campo Maior (PI)",
+          "resumo": "Moradora encontrou uma cobra salamandra de aproximadamente 1,5 metro sob um fogão portátil em sua casa, na quarta‑feira. A Defesa Civil foi acionada e capturou o animal, que não é peçonhenta e é comum na região. Nenhum ferido foi registrado e a cobra foi devolvida ao ambiente natural.",
+          "porQueImporta": "O caso ilustra a necessidade de atenção a animais silvestres em ambientes urbanos, evitando riscos e promovendo a captura segura.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/29/cobra-encontrada-fogao-pi.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:34:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9tOAVa5IvTDVWe-Jy_Hz89Yar2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/7/nAHId0QAOFwX21PWYtkg/edicao-imagens-g1-2026-07-29t163830.049.png"
+        },
+        {
+          "clusterId": "3330875961f58f44",
+          "slug": "fd0ea114bb7b524d",
+          "titulo": "Casa de catadora de recicláveis fica destruída após incêndio em Teresina",
+          "resumo": "Casa de catadora de recicláveis fica destruída após incêndio em Teresina Uma casa ficou totalmente destruída após um incêndio, na tarde desta quarta-feira (29), no Parque Vitória, na Zona Sul de Teresina. A proprietária do imóvel, uma catadora de recicláveis, não estava no local no momento da ocorrência. Segundo o Corpo de Bombeiros, dentro da casa havia grande quantidade de sacolas, roupas e matérias recicláveis. A causa do incêndio ainda está sendo investigada. ✅ Siga o canal do g1 Piauí no WhatsApp *A reportagem está em atualização. Casa de catadora de recicláveis fica destruída após…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/29/casa-incendio-em-teresina.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:29:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/qpzmYL8t0GMmhcwS1c2BY0B1IZA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/g/gAYlAzSuyKrHIjLfBBbw/edicao-imagens-g1-41-.png"
+        },
+        {
+          "clusterId": "b9829f395b41e1f1",
+          "slug": "ed3117f4cad94627",
+          "titulo": "Casal é resgatado após árvore cair sobre rede elétrica e atingir carro em Botucatu",
+          "resumo": "Um casal foi resgatado após uma árvore cair sobre a rede elétrica e os fios de alta tensão atingirem o carro em que estavam, na tarde desta quarta-feira (29), em Botucatu (SP). A mulher chegou a sofrer uma leve descarga elétrica, mas não teve ferimentos graves. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp O caso aconteceu na Rua José Clementino Bravin, no Conjunto Habitacional Joaquim Vernini. Segundo o Corpo de Bombeiros e a Defesa Civil, o casal permaneceu dentro do veículo após o incidente. LEIA TAMBÉM Homem morre após árvore cair sobre carro durante rajada de vento em Cesário…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/29/casal-e-resgatado-apos-arvore-cair-sobre-rede-eletrica-e-atingir-carro-em-botucatu.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:11:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rvmkHIbJcofbBxieg0ox6pfnykw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/P/oNU7O3S7G5AreST6oGzQ/sp-209-12-.jpg"
+        },
+        {
+          "clusterId": "550272bbebb56488",
+          "slug": "cfc71fa589aa7e86",
+          "titulo": "Vídeo: veado é resgatado após incêndio florestal na França",
+          "resumo": "Animal foi encontrado desidratado pela equipe emergencial em uma área afetada na região de Gironde",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/video-veado-e-resgatado-apos-incendio-florestal-na-franca/"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:10:11.000Z"
+        },
+        {
+          "clusterId": "c4d576e87004d821",
+          "slug": "0f0b78ff946a70c3",
+          "titulo": "VÍDEOS: Veja imagens do vendaval que atingiu o RJ nesta quarta-feira",
+          "resumo": "Veja imagens do vendaval que atingiu o RJ nesta quarta-feira.",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/playlist/videos-veja-imagens-do-vendaval-que-atingiu-o-rj-nesta-quarta-feira.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:09:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xa0gwC-zBPuYwcnoFm-97ez8iIA=/s01.video.glbimg.com/deo/vi/29/29/14822929"
+        },
+        {
+          "clusterId": "fc1800a27e942b20",
+          "slug": "490106aacd39f4d3",
+          "titulo": "Avião de pequeno porte cai, pega fogo e piloto morre em Mogi Mirim",
+          "resumo": "Avião de pequeno porte cai em Mogi Mirim Um avião de pequeno porte caiu em Mogi Mirim na tarde desta quarta-feira (29), segundo a Defesa Civil. O acidente ocorreu por volta de 16h na Rodovia Luiz Gonzaga de Amoedo Campos, na zona rural da cidade. Na queda, a aeronave pegou fogo e, de acordo com o Corpo de Bombeiros, o piloto morreu carbonizado. Às 17h, a corporação estava no local do acidente combatendo as chamas. A delegada Emília de Oliveira Araújo, da Polícia Civil de Mogi Mirim, disse que a vítima seria um aluno de uma escola de aviação. Ele teria decolado da pista do Aeroclube Municipal…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/aviao-mogi-mirim.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:05:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lQ--ZwzXMu2t2a1_v-RBPOxBF60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/N/90EoXERM2TSulKhWUmaQ/design-sem-nome-2026-07-29t170035.837.jpg"
+        },
+        {
+          "clusterId": "7133f266a4377312",
+          "slug": "bb723ade4c0313dc",
+          "titulo": "Ventos de até 90 km/h derrubam placas, telhados e árvores e deixam desalojados em SC",
+          "resumo": "Ventania causa estragos destelhamento e outros estragos em ginásio de Garuva, em SC Ventos de até 90 km/h causaram destelhamentos, quedas de árvores e falta de luz no Norte de Santa Catarina. Não houve registro de feridos, mas duas famílias ficaram desalojadas em Garuva. O ginásio da Associação de Pais e Amigos dos Excepcionais (Apae) da cidade registrou destelhamento e outros danos (assista no vídeo acima). ✅Clique e siga o canal do g1 SC no WhatsApp Garuva foi cidade mais atingida A cidade, que fica na divisa com o Paraná, foi a que mais registrou estragos. Os ventos atingiram a cidade por…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/29/ventos-derrubam-placas-telhados-arvores-desalojados-norte-sc.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:05:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/R07_Zmu8g8qPIj1anHuWl1PVus4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/7/MAvP4ESFm49JHEmpeIXA/destelhamento-garuva.jpeg"
+        },
+        {
+          "clusterId": "b080427312a4fa13",
+          "slug": "257fec744bbefd53",
+          "titulo": "Estrutura de loja desaba e atinge pedestres durante ventania de 100 km/h no litoral de SP; VÍDEO",
+          "resumo": "Estrutura de loja desaba sobre grupo de pessoas durante ventania em Santos Uma estrutura metálica desabou sobre um grupo de pessoas, nesta quarta-feira (29), em Santos, no litoral de São Paulo. O acidente ocorreu durante uma ventania de 100 km/h que atingiu a região. Informações sobre o estado de saúde das vítimas não haviam sido divulgadas até a última atualização desta reportagem. O caso aconteceu na Rua Fernão Dias, no bairro Gonzaga. Nas imagens, um homem aparece carregando uma criança nas costas, acompanhado por outras duas crianças e uma mulher. Quando eles chegaram perto da calçada, a…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/29/estrutura-de-loja-desaba-e-atinge-pedestres-durante-ventania-de-100-kmh-no-litoral-de-sp-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:00:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MwvRlsCQCAs5Jk6s14xuDHHemio=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/O/X4uBsOSGmTv0ImO2vQMA/queda-estrutura-santos.jpg"
+        },
+        {
+          "clusterId": "12fdd4272c6394c9",
+          "slug": "47f007315ce8694d",
+          "titulo": "Após desastre de 2024, Porto Alegre entra novamente em alerta por avanço das chuvas",
+          "resumo": "Diretor do Dmae diz que ações de planejamento passaram a considerar níveis observados durante enchente que foi considerada a maior da história do estado",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/apos-desastre-de-2024-porto-alegre-entra-novamente-em-alerta-por-avanco-das-chuvas/"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:00:03.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2024/05/Porto-Alegre-alagamento-2.jpg?quality=70&strip=info"
+        },
+        {
+          "clusterId": "ca4127eb139cba91",
+          "slug": "f0f3f040986f5cf9",
+          "titulo": "Homem morre após árvore cair sobre carro durante rajada de vento em Cesário Lange",
+          "resumo": "Rajadas de vento atingem área rural de Cesário Lange Um homem de 62 anos morreu após o carro que dirigia ser atingido por uma árvore de grande porte durante a forte rajada de vento que atingiu Cesário Lange (SP), na tarde desta quarta-feira (29). Segundo a Defesa Civil do município, a vítima havia saído do trabalho e seguia pela Estrada José Ricci quando a árvore caiu sobre o veículo. Na cidade, as rajadas de vento chegaram a 62 km/h. 📲 Participe do canal do g1 Itapetininga e Região no WhatsApp Idoso foi socorrido, mas não resisitu aos ferimentos Defesa Civil/Divulgação O homem chegou a ser…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/29/idoso-morre-apos-arvore-cair-sobre-carro-durante-rajada-de-vento-em-cesario-lange.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T19:59:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rLlgAaMVPW5yljYM2MqdszClymo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/L/snAsbUR1KQ1hOn8WYu2g/untitled.jpg"
+        },
+        {
+          "clusterId": "429a203f534153f6",
+          "slug": "b8c0f9f833977ae4",
+          "titulo": "Mulher e sobrinho morrem carbonizados após incêndio destruir casa na zona rural de Pescador",
+          "resumo": "Idosa e sobrinho morrem carbonizados após incêndio destruir casa na zona rural de Pescador Redes sociais Uma mulher de 65 anos e o sobrinho dela, de 48, morreram carbonizados após um incêndio destruir a casa onde moravam na zona rural de Pescador, no Vale do Rio Doce. Os corpos de Mirinha Martins dos Santos e Rogério Lemos Teixeira foram encontrados na manhã desta quarta-feira (29). Segundo a Polícia Militar, a principal hipótese é que o fogo tenha começado entre a noite de domingo (26) e a madrugada de segunda-feira (27). 📲 Clique aqui para seguir o canal do g1 Vales no WhatsApp Quando os…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/29/mulher-e-sobrinho-morrem-carbonizados-apos-incendio-destruir-casa-na-zona-rural-de-pescador.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T19:44:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DWns9K1u7XboCF7GtavQ_VWZwWs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/2/2NB7zvTyGzspfpjAQq7A/whatsapp-image-2026-07-29-at-16.30.49.jpeg"
+        },
+        {
+          "clusterId": "b06d3269dd4c3ca7",
+          "slug": "384550251c6efd4c",
+          "titulo": "Vídeo mostra tornado de fogo nos EUA em meio a incêndio florestal",
+          "resumo": "Ordens de desocupação estão em vigor para comunidades próximas devido à ameaça",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/video-mostra-tornado-de-fogo-nos-eua-em-meio-a-incendio-florestal/"
+            }
+          ],
+          "updatedAt": "2026-07-29T18:58:24.000Z"
         },
         {
           "clusterId": "d8fa0cd8ade525e7",
@@ -302,36 +487,61 @@
           "imageUrl": "https://s2-g1.glbimg.com/OxhCbQ3F63Qs5jEgkKE1LQVPRd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/0/3vWRjzTkGPSBPVkQBqKw/afp-20260724-c3462g8-v2-highres-topshotfranceenvironmentclimateweatherwildfire.jpg"
         },
         {
-          "clusterId": "10160a1e6639b5cb",
-          "slug": "bccc75143642dd02",
-          "titulo": "Mocassins: conheça diferentes modelos e como usá-los no inverno",
-          "resumo": "Ícone atemporal, o calçado ganha novas releituras e reafirma seu lugar como um dos mais versáteis e desejados",
+          "clusterId": "7086ddcb30395c3f",
+          "slug": "f40dd4f341fb2b99",
+          "titulo": "Autor de atentado contra parada LGBTQ+ em Berlim jurou lealdade ao Estado Islâmico em vídeo, diz jornal",
+          "resumo": "Polícia alemã mata terrorista que atropelou multidão nas celebrações do orgulho LGBT em Berlim O autor do atentado cometido perto da Parada LGBTQIA+ em Berlim jurou lealdade ao grupo jihadista Estado Islâmico (EI) em um vídeo no sábado, informou nesta terça-feira (28) o jornal Bild, que cita fontes de segurança. Segundo o jornal mais lido da Alemanha, os investigadores encontraram o vídeo no telefone celular de Abdul Rahman Ballout, um alemão de origem libanesa que avançou com seu veículo contra uma multidão na noite de sábado (25), deixando um morto e 29 feridos. A Promotoria alemã não…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/lifestyle/mocassins-conheca-diferentes-modelos-e-como-usa-los-no-inverno/"
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/28/autor-de-atentado-em-berlim-jurou-lealdade-ao-ei-em-video-diz-jornal.ghtml"
             }
           ],
-          "updatedAt": "2026-07-29T15:03:08.000Z"
+          "updatedAt": "2026-07-28T13:10:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/21sIl3P9aWNpEk74L7L3eyqNkQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/q/9hIBNyQxGNN1GKcO4YLA/2026-07-25t212915z-438588675-rc29lma0wdlp-rtrmadp-3-germany-lgbt-pride-accident.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "40d36f1d4475b980",
+          "slug": "4ede14b57a16ca13",
+          "titulo": "Motociclista morre após colisão com cavalo na BR-020 em Posse (GO)",
+          "resumo": "Um motociclista colidiu de frente com um cavalo na zona rural de Posse, Goiás, resultando em morte. Motoristas que passavam pelo local tocaram a buzina na tentativa de afastar o animal antes do acidente.",
+          "porQueImporta": "O caso evidencia riscos de animais na via e a necessidade de medidas de segurança viária em áreas rurais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/entorno/motociclista-morre-apos-bater-de-frente-com-cavalo-na-br-020"
+            }
+          ],
+          "updatedAt": "2026-07-29T21:00:19.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/07/acidentepossego-motociclistacavalo.jpg"
         },
         {
-          "clusterId": "bf94b8872e6afa80",
-          "slug": "21825b0a3e6e1f33",
-          "titulo": "Tornado no RS: veja imagens de fenômeno que atingiu região Sul",
-          "resumo": "Tornado afetou ao menos três cidades do Rio Grande do Sul e deixou estragos e feridos onde passou; fenômeno não foi identificado pelo sistema de monitoramento da Defesa Civil estadual",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "d705045e6bbc8754",
+          "slug": "07dd14a28f0dc82c",
+          "titulo": "Árvore cai sobre carro e acidente deixa homem ferido em Angra dos Reis",
+          "resumo": "Na tarde de 29, uma árvore foi derrubada por ventos fortes no bairro Aterro São Bento, atingindo um carro e bloqueando a via Rua Oswaldo Neves Martins. No mesmo dia, um carro capotou na rodovia Rio‑Santos, na altura da Praia Vermelha, ferindo um homem de aproximadamente 45 anos, que foi atendido no local e encaminhado ao Hospital da Praia Brava. Ambos os incidentes mobilizaram a Defesa Civil e o Corpo de Bombeiros, que trabalharam na remoção dos obstáculos e no socorro às vítimas.",
+          "porQueImporta": "Os eventos interromperam o tráfego e geraram ferimentos, demandando ação de emergência nas vias de Angra dos Reis",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/tornado-no-rs-veja-imagens-de-fenomeno-que-atingiu-regiao-sul/"
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/29/carro-capota-e-deixa-homem-ferido-na-rio-santos-em-angra-dos-reis.ghtml"
             }
           ],
-          "updatedAt": "2026-07-29T14:53:07.000Z"
+          "updatedAt": "2026-07-29T20:37:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/g_507eokRREgKzpVP84aYbjH9QM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/T/tzQBPoQO2KBGm8x3A7Hg/image-5-.jpg"
         }
       ]
     },
@@ -340,88 +550,36 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "4d43e36a39a8baf4",
-          "slug": "c7f1a4662c562712",
-          "titulo": "Defesa Civil emite alerta severo para ventos fortes na capital e Grande São Paulo",
-          "resumo": "A Defesa Civil do Estado de São Paulo enviou alerta severo para fortes rajadas de vento na capital e na Grande São Paulo, com rajadas registradas acima de 110 km/h em alguns pontos. O órgão recomendou que a população busque abrigo, evite áreas descobertas, árvores e postes. As condições meteorológicas provocaram o desvio de seis voos no Aeroporto de Congonhas. A frente fria responsável pelos ventos está afetando a região nesta quarta-feira.",
-          "porQueImporta": "O alerta indica risco imediato à segurança de pessoas e à operação de transporte aéreo na região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/29/defesa-civil-emite-alerta-severo-para-fortes-rajadas-de-vento-na-capital-e-grande-sp-veja-orientacoes.ghtml"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/agenda-verde/sp-registra-ventania-acima-de-110km-h-e-entra-em-alerta-saiba-o-que-diz-a-defesa-civil/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-ventos-na-capital-e-grande-sao-paulo/"
-            }
-          ],
-          "updatedAt": "2026-07-29T17:44:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5gdKt6tc8TKkLF2zshvmGV1we-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/f/O52IJ4TEeBbMdODdcJew/whatsapp-image-2026-07-29-at-13.51.44.jpeg"
-        },
-        {
-          "clusterId": "156f479b5b167abc",
-          "slug": "976ecadeec62802d",
-          "titulo": "Árvore derrubada por ventos acima de 100 km/h mata pessoa em Santos",
-          "resumo": "Na tarde de 29 de julho, ventos que ultrapassaram 100 km/h provocaram a queda de árvores no litoral de Santos. Uma das árvores atingiu uma pessoa, que morreu no local, conforme confirmado pela Defesa Civil. As rajadas também interromperam temporariamente as operações no Porto de Santos e o serviço de travessia de balsas.",
-          "porQueImporta": "O evento evidencia riscos de ventos fortes para a população e para a infraestrutura portuária da região",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/29/ventania-de-100-kmh-provoca-morte-quedas-de-arvores-e-cenario-de-destruicao-no-porto-de-santos-sp.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/arvore-derrubada-por-fortes-ventos-mata-uma-pessoa-em-santos"
-            }
-          ],
-          "updatedAt": "2026-07-29T17:43:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/uTjOIXK48ioaiKQa299kjGvJah0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/t/8USrC3QjSNdwISdpkArQ/arvore-morre.jpg"
-        },
-        {
-          "clusterId": "224c1c69b306a973",
-          "slug": "7bbf84542c86dd61",
-          "titulo": "Ventania forte atinge Litoral Norte de São Paulo e gera alerta da Defesa Civil",
-          "resumo": "Na quarta-feira, ventos intensos foram registrados em cidades do Litoral Norte de São Paulo, com velocidades superiores a 60 km/h em Caraguatatuba e relatos de mais de 100 km/h em outras localidades. A Defesa Civil emitiu alerta severo para a região entre Itanhaém e Ubatuba, recomendando que a população procure abrigo e evite áreas descobertas. Vídeos mostraram árvores balançando e a movimentação da água no mar, evidenciando a força dos ventos.",
-          "porQueImporta": "O fenômeno pode causar danos materiais e riscos à segurança de moradores e visitantes da região costeira",
+          "clusterId": "52da9d37b77a7d57",
+          "slug": "3f73cfbf8178750a",
+          "titulo": "Ventos de 100 km/h atingem São Paulo",
+          "resumo": "Na capital paulista foram registrados ventos de até 100 km/h. O fenômeno pode estar associado a ciclones extratropicais, frentes frias, tempestades severas ou supercélulas com microexplosões atmosféricas. As autoridades alertam para riscos de quedas de árvores e danos a estruturas. A população foi orientada a evitar áreas expostas e a prender objetos que possam ser arrastados pelo vento",
+          "porQueImporta": "Ventania forte pode causar danos materiais e riscos à segurança da população",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/videos-litoral-de-sp-registra-ventos-acima-de-100-km-h-nesta-quarta/"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/29/ventos-fortes-paralisam-travessia-de-balsa-entre-sao-sebastiao-e-ilhabela-no-litoral-norte-de-sp.ghtml"
+              "url": "https://www.cnnbrasil.com.br/ciencia/ventos-de-100-km-h-em-sao-paulo-entenda-o-que-provoca-o-fenomeno/"
             }
           ],
-          "updatedAt": "2026-07-29T17:16:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/HrAv5SWaJNhJnwjLtxNT_J83V6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/uIL4kmTIy9YhY6anR5Dw/vento1.jpg"
+          "updatedAt": "2026-07-29T20:40:20.000Z"
         },
         {
-          "clusterId": "3991bc547d4eb377",
-          "slug": "39c5b8ed4d013b01",
-          "titulo": "Tornado destrói casa em Giruá e menina de 3 anos escapa ao ir à casa do avô",
-          "resumo": "Na noite de terça‑feira (28), um tornado atingiu o Noroeste do Rio Grande do Sul, destruindo a residência de Gilço e Dieli Amaral em Giruá. A filha do casal, de três anos, havia sido levada ao avô, Neide Amaral, cerca de 10 km de distância, antes do fenômeno. Por isso, a criança não estava na casa quando o tornado a destruiu. Não foram informados feridos ou vítimas fatais.",
-          "porQueImporta": "O caso ilustra como situações de emergência podem ser mitigadas por coincidências que evitam perdas humanas.",
+          "clusterId": "6aaa25aa1807dc1f",
+          "slug": "0fee1c10893fb685",
+          "titulo": "Ventania provoca falta de luz e leva Rio a estágio de alerta 2",
+          "resumo": "Na quarta-feira, o Centro de Operações e Resiliência do Rio registrou ventos fortes e muito fortes, elevando o município ao Estágio 2 às 16h50. A Defesa Civil informou que a frente fria sobre o oceano está gerando rajadas de vento e falta de energia. As previsões apontam céu parcialmente nublado, sem chuva, mas com ventos de intensidade moderada a muito forte nas próximas horas. A prefeitura orientou a população a evitar deslocamentos desnecessários.",
+          "porQueImporta": "A situação pode ampliar riscos de acidentes e interrupções de serviços essenciais",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/tornado-no-rs-menina-3-anos-casa-avo-horas-antes-fenomeno-destruir-moradia-onde-vivia.ghtml"
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/29/prefeitura-do-rio-recomenda-que-moradores-fiquem-em-casa-veja-dicas-da-defesa-civil-e-do-cor.ghtml"
             }
           ],
-          "updatedAt": "2026-07-29T17:26:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/NVMpFucxqHnNFY6jCoC_2om6j40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/n/oi3g7JThOBiWRMjGucwQ/g1-13-.jpg"
+          "updatedAt": "2026-07-29T20:33:44.000Z"
         }
       ]
     },
@@ -429,44 +587,6 @@
       "slug": "terremoto",
       "label": "Terremoto",
       "stories": [
-        {
-          "clusterId": "5b65ccf00ea0e743",
-          "slug": "f939770e5d736e3f",
-          "titulo": "Terremoto de magnitude 7,1 atinge Kumamoto e causa explosão em shopping",
-          "resumo": "Um tremor de magnitude 7,1 abalou a província de Kumamoto, no sul do Japão, provocando desabamentos de templos, muralhas de castelo do século XVII e interrupção de energia em milhares de residências. A explosão no shopping Aeon Mall, em Kashima, resultou em dezenas de feridos, vários mortos e pessoas desaparecidas sob os escombros. Equipes de socorro continuam as buscas, enquanto autoridades alertam para a possibilidade de novos tremores nos próximos dias.",
-          "porQueImporta": "O evento evidencia a vulnerabilidade de áreas densamente povoadas a terremotos de grande magnitude e suas consequências secundárias, como explosões e colapsos estruturais.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/28/terremoto-atinge-japao.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/templos-ficam-destruidos-no-japao-apos-terremoto-de-magnitude-71/"
-            }
-          ],
-          "updatedAt": "2026-07-29T16:12:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/QMYjvAynwMygDaIW8LYt-6jPsNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/5Q6BCbQgWCIy8AnXAtbw/260718-info-mapa-terremoto-japao-1-.jpg"
-        },
-        {
-          "clusterId": "41bec0dc6812ff5a",
-          "slug": "11bfa066647ee5e5",
-          "titulo": "Número de mortos após terremoto no Japão sobe para 13",
-          "resumo": "Um terremoto de magnitude significativa ocorreu no Japão, elevando o número de vítimas fatais para treze. As autoridades locais continuam as buscas e avaliações de danos nas áreas afetadas. A informação foi divulgada em um resumo diário de notícias.",
-          "porQueImporta": "O aumento no número de mortos destaca a gravidade do sismo e a necessidade de resposta emergencial.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/07/29/resumao-diario-2082-quaest-desenha-a-corrida-presidencial-anvisa-aprova-novas-canetas-emagrecedoras-bts-desiste-do-grammy-chuva-de-meteoro-podera-ser-vista-a-olho-nu-e-mais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T17:11:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
-        },
         {
           "clusterId": "880e212a6c24ab3a",
           "slug": "7748c6ccf74f4324",
@@ -487,6 +607,119 @@
           ],
           "updatedAt": "2026-07-28T16:45:09.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b83d/live/6ab357e0-89aa-11f1-803f-770138b0c57a.jpg"
+        },
+        {
+          "clusterId": "99c3f3647fc8a9d5",
+          "slug": "f939770e5d736e3f",
+          "titulo": "Terremoto de magnitude 7,1 atinge Kumamoto e causa explosão em shopping",
+          "resumo": "Um tremor de magnitude 7,1 abalou a província de Kumamoto, no sul do Japão, provocando desabamentos de templos, muralhas de castelo do século XVII e interrupção de energia em milhares de residências. A explosão no shopping Aeon Mall, em Kashima, resultou em dezenas de feridos, vários mortos e pessoas desaparecidas sob os escombros. Equipes de socorro continuam as buscas, enquanto autoridades alertam para a possibilidade de novos tremores nos próximos dias.",
+          "porQueImporta": "O evento evidencia a vulnerabilidade de áreas densamente povoadas a terremotos de grande magnitude e suas consequências secundárias, como explosões e colapsos estruturais.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/28/terremoto-atinge-japao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T11:39:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QMYjvAynwMygDaIW8LYt-6jPsNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/5Q6BCbQgWCIy8AnXAtbw/260718-info-mapa-terremoto-japao-1-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "a949c84ffa050255",
+          "slug": "4cd0f650c7d6214b",
+          "titulo": "Helicóptero cai durante treinamento de combate a incêndio na Argentina e mata sete pessoas",
+          "resumo": "Um helicóptero da empresa JasFly colidiu na manhã de quarta‑feira na região de San Juan, na Argentina, enquanto realizava treinamento de combate a incêndios. O aparelho acionou um dispositivo de emergência por volta das 10h30 e desapareceu em área de difícil acesso. Todas as sete pessoas a bordo morreram no acidente.",
+          "porQueImporta": "O acidente evidencia riscos associados a operações de treinamento de combate a incêndios aéreos.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/29/helicoptero-com-7-pessoas-cai-durante-treinamento-de-incendio-na-argentina.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/queda-de-helicoptero-deixa-sete-mortos-na-argentina/"
+            }
+          ],
+          "updatedAt": "2026-07-29T20:40:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Rft6N-5h1feL0MZs74raeTlAAcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/B/d27bM8Qb223OQYBBDHdQ/481166706-1168521445061719-9052975236158251671-n.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "a10faa1e96845c27",
+          "slug": "bba84625c7a364ba",
+          "titulo": "Água de cachoeira atinge força incomum após forte chuva no Rio Grande do Sul",
+          "resumo": "Uma forte chuva que atingiu o Rio Grande do Sul elevou o volume dos rios, gerando corrente mais intensa em uma cachoeira de Riozinho. O administrador do Camping Cascata do Chuvisqueiro, Roni Evandro de Lemos Broch, registrou que a força da água era muito maior que no sábado anterior, quando o fluxo era normal. O fenômeno foi observado na manhã de quarta‑feira, quando o morador chegou ao local e ficou assustado com a corrente. A situação ocorreu na região dos Vales, que tem cerca de 4,4 mil habitantes.",
+          "porQueImporta": "A elevação repentina do volume de água pode representar risco de inundação e danos à população local",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/morador-forca-da-agua-cachoeira-antes-e-depois-da-forte-chuva-no-rs-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T21:12:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wrin4lOoo_geyi3ml0w2lnJOL78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/mdhXT6SWywKKy9VPEBUQ/imagem.jpg-1-.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "8a963c18ba2c5879",
+          "slug": "a683a5742f515e19",
+          "titulo": "Homem de 50 anos morre em naufrágio de embarcação de pesca em São Sebastião",
+          "resumo": "Uma embarcação de pesca com cinco tripulantes naufragou no Canal de São Sebastião durante um vendaval na tarde de quarta-feira. As cinco pessoas foram resgatadas e levadas ao píer do bairro São Francisco, onde receberam atendimento de equipes da Defesa Civil e do SAMU. Um dos tripulantes, de 50 anos, morreu após o incidente.",
+          "porQueImporta": "O caso evidencia os riscos de condições climáticas adversas para atividades de pesca costeira",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/29/homem-morre-apos-embarcacao-de-pesca-naufragar-durante-vendaval-em-sao-sebastiao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T21:08:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2eDl2XPqNIfjbec0LWvR_2HNITk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/6/U8kUfYTuSLWQ3faBs7uw/foto-g1-1-.png"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "203b408a81653f04",
+          "slug": "01c5af11f552a4b7",
+          "titulo": "Homem fica ferido após explosão de bomba caseira em portão de casa em Ibirarema (SP)",
+          "resumo": "Uma bomba de fabricação caseira explodiu no portão da residência de um homem de 37 anos em Ibirarema, interior de São Paulo, quando ele o abriu. O artefato causou ferimentos nas mãos da vítima, que foi socorrida e encaminhada ao pronto‑socorro local. A Secretaria de Segurança Pública informou que o incidente ocorreu na manhã de quarta‑feira, no bairro Nossa Senhora das Vitórias.",
+          "porQueImporta": "O caso evidencia riscos de artefatos explosivos improvisados em áreas residenciais, demandando atenção das autoridades e da população.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/29/homem-fica-ferido-apos-explosao-de-bomba-em-portao-de-casa-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T21:00:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KaQozKzVUPeb81yAd7xSBhnXkck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/V/ha4dybSpmVEqI6pR5qGQ/explosao.jpg"
         }
       ]
     },
@@ -495,77 +728,21 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "d71c42242dd059c8",
-          "slug": "d78fb4a56ab9747d",
-          "titulo": "Ônibus municipal pega fogo em avenida de Campinas",
-          "resumo": "Um ônibus da linha 362 incendiou-se na tarde de quarta‑feira na Avenida Doutor David Vicente, em cruzamento com a Rua Pereira Lima, em Campinas (SP). O Corpo de Bombeiros atuou para extinguir as chamas e não houve feridos. Não foram divulgadas informações sobre a causa do incêndio. Vídeos mostraram o veículo em chamas e uma densa nuvem de fumaça.",
-          "porQueImporta": "O incidente demonstra a necessidade de monitoramento e manutenção de veículos de transporte público para prevenir riscos à população.",
+          "clusterId": "0c51d013bcf53449",
+          "slug": "37ed7939becaa712",
+          "titulo": "Homem é flagrado ateando fogo em terreno ao lado de policlínica em Cuiabá",
+          "resumo": "Câmeras de segurança mostraram um homem entrando em um terreno ao lado da policlínica do bairro Pedra 90 e iniciando incêndio que consumiu cerca de 20 mil metros quadrados. O fogo atingiu placas de energia solar desativadas. O prefeito de Cuiabá, Abilio Brunini, informou que a causa foi criminosa e que a investigação está em curso. A ocorrência foi divulgada pela prefeitura na quarta‑feira.",
+          "porQueImporta": "O incidente evidencia risco de incêndio intencional em áreas urbanas e demanda resposta das autoridades.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/video-onibus-municipal-pega-fogo-e-fica-destruido-em-avenida-de-campinas.ghtml"
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/29/video-mostra-homem-ateando-fogo-em-terreno-ao-lado-de-policlinica-em-cuiaba.ghtml"
             }
           ],
-          "updatedAt": "2026-07-29T17:45:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CokNXKvRXY1lWpVRX9ZsKJOwC5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/JRKRP9QPC4FWA3uzPT0A/design-sem-nome-2026-07-29t143649.705.jpg"
-        },
-        {
-          "clusterId": "0c52fa131ab392c5",
-          "slug": "9f45acd9bc673863",
-          "titulo": "Goleiro ex-Corinthians tem casa destruída por incêndio",
-          "resumo": "Um incêndio destruiu a residência de Caíque França, goleiro que atuou no Corinthians e atualmente defende o Guarani. O fogo consumiu a casa, deixando o atleta sem objetos pessoais. A ocorrência foi relatada pela CNN Brasil.",
-          "porQueImporta": "O incidente evidencia a vulnerabilidade de atletas a desastres domésticos, gerando atenção para apoio e prevenção.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/futebol/goleiro-ex-corinthians-tem-casa-destruida-apos-incendio-sobrou-nada/"
-            }
-          ],
-          "updatedAt": "2026-07-29T16:50:08.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "e37d4adb7870da21",
-          "slug": "65571de6ee80a61c",
-          "titulo": "Homem morre em acidente entre motocicleta e ônibus escolar em Dormentes",
-          "resumo": "Um motociclista de 46 anos colidiu com um ônibus escolar no município de Dormentes, no Sertão de Pernambuco, na noite de terça‑feira (28). A vítima, identificada como Adelmo da Silva, foi socorrida e encaminhada ao Hospital Universitário de Petrolina, onde morreu. A Polícia Civil iniciou as investigações sobre o acidente.",
-          "porQueImporta": "O caso evidencia riscos de tráfego envolvendo veículos escolares em áreas rurais",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/07/29/homem-morre-em-acidente-entre-motocicleta-e-onibus-escolar-em-dormentes.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T17:34:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CrM21ZCeOYomCGW-LfLkfe_9Lsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/2/WevdpNR0Ct6udlaUyRhw/pexels-cottonbro-10466266.jpg"
-        },
-        {
-          "clusterId": "73ffb641c98fa295",
-          "slug": "b1144d7a850acbd4",
-          "titulo": "Atentado contra parada LGBTQ+ em Berlim deixa 1 morto e 29 feridos",
-          "resumo": "Na noite de 25 de julho, uma van branca colidiu deliberadamente com a multidão que participava da Marcha do Orgulho LGBTQ+ próximo ao Portão de Brandemburgo, resultando em uma vítima fatal e 29 feridos. O motorista, identificado como Abdul Rahman Ballout, de origem libanesa, teve um vídeo encontrado em seu celular no qual jurava lealdade ao Estado Islâmico. As autoridades alemãs prenderam o suspeito e iniciaram a investigação do caso como ato terrorista.",
-          "porQueImporta": "O ataque evidencia a ameaça de violência motivada por extremismo contra eventos públicos e minorias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/27/atentado-a-parada-lgbtq-de-berlim-saiba-mais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-28T13:10:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0XaT2UHcHqPFlmdiIzKZE_Pt070=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/M/SuKfIGSjeVjStzAejbSw/2026-07-26t184052z-1174887222-rc2slmabkdmk-rtrmadp-3-germany-lgbt-pride-attack-merz.jpg"
+          "updatedAt": "2026-07-29T20:42:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/BsdUhToAF7HHwM3CfCMbt0Cg_bk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/4/AVKLgvQAymOxXtAuj3lw/foto-g1.jpg"
         }
       ]
     },
@@ -574,7 +751,7 @@
       "label": "Incêndio florestal",
       "stories": [
         {
-          "clusterId": "4dab8c3b06e81dd8",
+          "clusterId": "b60676170e333fb7",
           "slug": "5700ccdb51daeed2",
           "titulo": "Incêndios florestais na Espanha provocam queima de milhares de hectares e suspensão de evacuações",
           "resumo": "Incêndios que atingem a província de Castellón queimaram mais de 8,5 mil hectares, parte de um total que supera 100 mil hectares em todo o país. Em La Vilavella, imagens de drone mostram áreas devastadas, árvores carbonizadas, veículos e imóveis danificados. As autoridades suspenderam a ordem de evacuação em 13 localidades, permitindo o retorno dos residentes a partir das 17h (horário local).",
@@ -585,60 +762,10 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/07/28/incendios-florestais-na-europa-espanha-suspende-ordens-de-evacuacao.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/analise-onda-de-calor-deve-piorar-incendios-na-franca-e-na-espanha/"
             }
           ],
           "updatedAt": "2026-07-29T17:08:12.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/9NaZLkspBM584QpAfIEfNB2HTXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/4/j5O94fQOa5qokQO4gaBQ/2026-07-28t141105z-149013872-rc21nmaod788-rtrmadp-3-europe-weather-spain-wildfire.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "naufragio",
-      "label": "Naufrágio",
-      "stories": [
-        {
-          "clusterId": "01339bcbe8b121c5",
-          "slug": "67da7d6fe0e8220e",
-          "titulo": "Passeio de barco no Parque Nacional do Iguaçu é suspenso após morte de turista holandês",
-          "resumo": "Um barco do passeio do Macuco, no Parque Nacional do Iguaçu, virou na terça‑feira (28) e resultou na morte de um turista da Holanda. O Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) confirmou o acidente e determinou a paralisação das atividades por três dias. A empresa responsável, Macuco Safari, informou que suspendeu o passeio de forma voluntária enquanto as investigações da Polícia e da Marinha prosseguem.",
-          "porQueImporta": "A suspensão afeta o turismo local e exige investigação sobre segurança em atividades de recreação aquática",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/29/suspensao-passeio-barco-parque-nacional-iguacu.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T17:03:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ZwL2NSYu3D2eh0pqe3AB0rUiogM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/3/YO31leTqARm9zJwRNXkA/imagem-5-macuco-safari.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "e73ebe73053f444e",
-          "slug": "c33e55ca5cfdb64b",
-          "titulo": "Governo libera R$ 1,4 bilhão e define plano para mitigar efeitos do El Niño",
-          "resumo": "A União destinou R$ 1,4 bilhão a um programa de prevenção contra os impactos do fenômeno El Niño. O plano inclui ampliação dos estoques de arroz e milho, reforço de ações de prevenção e medidas para reduzir danos causados por enchentes e perdas agrícolas.",
-          "porQueImporta": "O recurso busca proteger a segurança alimentar e minimizar prejuízos econômicos decorrentes de eventos climáticos extremos",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/agenda-verde/governo-libera-r-13-bilhao-e-monta-plano-contra-avanco-do-el-nino/"
-            }
-          ],
-          "updatedAt": "2026-07-29T16:59:23.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/08/miriam-belchior-agencia-brasil-jpeg.jpg?quality=70&strip=info"
         }
       ]
     }
