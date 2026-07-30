@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-07-29T14:53:08.412Z",
-  "editionDate": "2026-07-29",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Acidentes e fenômenos extremos dominam a edição de hoje\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-07-30T03:42:31.733Z",
+  "editionDate": "2026-07-30",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
