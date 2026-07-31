@@ -1,9 +1,9 @@
 {
   "date": "2026-07-31",
-  "generatedAt": "2026-07-31T04:02:45.992Z",
+  "generatedAt": "2026-07-31T07:24:36.642Z",
   "home": [
     {
-      "clusterId": "b6e073428796e6be",
+      "clusterId": "b7414722b7f155ef",
       "slug": "4f547708a524ffde",
       "titulo": "Terremoto de magnitude 5,6 registrado próximo da fronteira entre Peru e Brasil",
       "resumo": "Um terremoto de magnitude 5,6 ocorreu na noite de quinta-feira (30) próximo à fronteira entre Peru e Brasil, com epicentro perto de Pucallpa, no lado peruano. O USGS registrou profundidade entre 145 e 154 quilômetros, reduzindo a probabilidade de danos. Moradores de municípios do Acre relataram sentir tremores em suas casas por volta das 20h local.",
@@ -14,10 +14,6 @@
         {
           "name": "G1",
           "url": "https://g1.globo.com/mundo/noticia/2026/07/30/terremoto-e-registrado-proximo-da-na-fronteira-entre-peru-e-brasil.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-56-atinge-peru-proximo-a-fronteira-com-brasil"
         },
         {
           "name": "CNN Brasil",
@@ -49,21 +45,105 @@
       "imageUrl": "https://s2-g1.glbimg.com/VXVtLoxk3bXHk-4bzQa8tvZUJTA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/p/FsptAZQ4KG8jdTY5K5yw/ap26209404916586.jpg"
     },
     {
-      "clusterId": "357585f54f426a2f",
-      "slug": "7257f6ba2ce3c522",
-      "titulo": "Três cidades de Santa Catarina declaram situação de emergência após temporal",
-      "resumo": "Um temporal com ventos acima de 80 km/h atingiu três municípios de Santa Catarina, provocando destelhamento de casas e danos a lavouras. Mais de 100 pessoas ficaram desalojadas. As autoridades locais decretaram estado de emergência para facilitar a resposta e o apoio às áreas afetadas.",
-      "porQueImporta": "A medida de emergência permite mobilizar recursos e assistência às populações deslocadas e aos danos agrícolas.",
+      "clusterId": "bb67889dac0411cd",
+      "slug": "db1c8b10f2567019",
+      "titulo": "Ataque de drones causa incêndio em instalações de energia na Rússia",
+      "resumo": "Drones atacaram instalações de energia em Volgogrado, provocando incêndio e ferindo cinco pessoas. O centro logístico da região também foi atingido. O governador relatou os feridos e a extensão dos danos. A operação foi parte de uma ofensiva mais ampla na área.",
+      "porQueImporta": "O incidente compromete a infraestrutura energética e pode afetar a segurança e abastecimento da região.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/ataque-de-drones-causa-incendio-em-instalacoes-de-energia-na-russia/"
+        }
+      ],
+      "updatedAt": "2026-07-31T06:17:23.000Z"
+    },
+    {
+      "clusterId": "22888bdd8c6bf254",
+      "slug": "51121207e9841549",
+      "titulo": "Uso de testosterona sem indicação médica eleva risco de eventos cardiovasculares graves",
+      "resumo": "Homens que utilizam testosterona sem prescrição apresentam quase o dobro de risco de infarto, AVC, parada cardíaca ou morte em comparação com aqueles que fazem reposição por necessidade clínica comprovada. O achado provém do maior estudo já realizado sobre o tema, publicado na revista eBioMedicine, com acompanhamento de até dez anos.",
+      "porQueImporta": "O estudo evidencia riscos de saúde pública associados ao uso indiscriminado de hormônios",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/saude/noticia/2026/07/31/usar-testosterona-sem-indicacao-medica-esta-associado-a-mais-infarto-avc-e-morte-mostra-maior-estudo-ja-feito-sobre-o-tema.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-31T06:02:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/VAdIfvks5uwm7DbjiLW7ncByi4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/a/CnguQzSsigNnDBAXESoQ/close-up-shirtless-sportsman-holding-injection-steroids-gym-s-locker-room.jpg"
+    },
+    {
+      "clusterId": "b1c2cd951a0e4654",
+      "slug": "d87d6c11915aa4a7",
+      "titulo": "Temporal com ventos de até 160 km/h causa morte e deixa cidades da região de Ribeirão Preto em estado de emergência",
+      "resumo": "Na madrugada de sexta‑feira (24), um temporal atingiu a região de Ribeirão Preto (SP) com ventos de até 160 km/h, provocando a queda de torres de transmissão, interrupção de energia, água, telefone e internet, além de destelhamento de imóveis e danos a escolas e unidades de saúde. Uma pessoa morreu e várias cidades foram declaradas em situação de emergência. A CPFL apontou a queda de 34 torres como causa principal do colapso na rede elétrica. O governo estadual liberou saque‑calamidade do FGTS para os atingidos em Dumont, SP.",
+      "porQueImporta": "O evento evidencia vulnerabilidades de infraestrutura e gera necessidade de apoio emergencial à população afetada",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/tres-cidades-de-sc-decretam-situacao-de-emergencia-apos-temporal"
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/31/danos-energia-agua-aulas-limpeza-como-estao-cidades-afetadas-na-regiao-de-ribeirao-preto-uma-semana-apos-temporal-com-ventos-de-160-kmh.ghtml"
         }
       ],
-      "updatedAt": "2026-07-31T03:32:18.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/garuva-santa-catarina-temporal.jpg"
+      "updatedAt": "2026-07-31T06:00:14.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/XCvk3MzVO0xJdjZQrGvHhKTg6dA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/h/IMVZyORDWBEUjT23d6Rw/1.png"
+    },
+    {
+      "clusterId": "9d8a59bcf75ae5d8",
+      "slug": "db40e06b00878552",
+      "titulo": "Motorista de BMW de 78 anos condenada a pagar indenização de mais de R$ 2 milhões pelos pais de adolescente morto",
+      "resumo": "A motorista Maria do Carmo Carneiro, de 78 anos, foi condenada a pagar mais de R$ 2 milhões aos pais de Anthony Pietro, que morreu em acidente de trânsito envolvendo um BMW. Os pais consideram a decisão uma vitória, embora reconheçam que o valor não traz alívio à perda.",
+      "porQueImporta": "Define responsabilidade civil em acidentes de trânsito envolvendo menores.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/07/31/nao-traz-felicidade-nem-meu-filho-de-volta-diz-pai-que-vai-receber-r-2-mi-em-indenizacao-apos-morte-de-adolescente-em-acidente-com-bmw.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-31T06:00:13.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/52OkWINagJ-5k6VjYXV5ip_hpB0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/g/tylnXhTm6P0Odo3AcDZQ/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-2026-07-30t174143.304.jpg"
+    },
+    {
+      "clusterId": "9d62b9b9a5c5c2af",
+      "slug": "c4db81079885932a",
+      "titulo": "Corrida solidária no DF alerta sobre prevenção de queimadas",
+      "resumo": "O coletivo Corre Cerrado organizou, neste sábado, uma corrida gratuita em Brasília com percursos de 6 km, 15 km e 25 km. A atividade começou às 7h com palestra sobre prevenção de incêndios florestais e, às 8h, deu início às corridas. O evento é aberto ao público e não requer inscrição prévia. A ação visa conscientizar a população sobre a prevenção de queimadas no bioma Cerrado.",
+      "porQueImporta": "A conscientização ajuda a reduzir riscos de incêndios que podem causar danos ambientais e à saúde pública",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/31/corrida-gratuita-no-df-tera-percursos-de-ate-25-km-e-acao-de-conscientizacao-contra-queimadas-neste-sabado.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-31T05:00:15.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HtqDYhyUXAYIqh1x3BHivhGK7U8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/C/WcAcQoS1Ap73pSXjSyXQ/imagem-g1-25-.png"
+    },
+    {
+      "clusterId": "a18e339fa03d53e6",
+      "slug": "64495575169d5b94",
+      "titulo": "Sobrevivente de acidente de ônibus com equipe de basquete recebe alta após 45 dias de internação",
+      "resumo": "Sete atletas de um time de basquete de Juazeiro do Norte morreram quando o ônibus em que viajavam tombou no Ceará. O jovem Bruno Lira da Silva, de 17 anos, foi o último sobrevivente a receber alta, deixando o hospital após 45 dias internado. O acidente deixou dezenas de feridos além das vítimas fatais.",
+      "porQueImporta": "O caso evidencia riscos de transporte coletivo em eventos esportivos e o impacto nas famílias das vítimas",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/07/31/perdi-o-enterro-dos-meus-amigos-agora-posso-prestar-as-homenagens-diz-ultimo-sobrevivente-de-acidente-com-time-de-basquete-a-receber-alta.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-31T04:00:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/SoeukcSOrB2YhDUfQ-GHeCtb_FY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/R/76OrbXRhepIWepn0wDoA/whatsapp-image-2026-07-30-at-17.35.02.jpeg"
     },
     {
       "clusterId": "0bf65159f4a37d95",
@@ -98,91 +178,6 @@
       ],
       "updatedAt": "2026-07-31T03:04:10.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/IHqd7vEI65pisibUkgBozR_TI_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/n/bzW2bJRUSlgoBBg4kr4g/foto-1-nova-esperanca.jpg.jpeg"
-    },
-    {
-      "clusterId": "9a7ccbc660c3eb99",
-      "slug": "a2f261b71bf1a8c3",
-      "titulo": "Defesa Civil e Secretaria de Assistência Social entregam doações a famílias afetadas por chuvas",
-      "resumo": "A Defesa Civil Municipal e a Secretaria de Desenvolvimento e Assistência Social continuam a distribuir colchões, kits de dormitório, itens de higiene e cestas de alimentação às famílias ainda vulneráveis. O material foi fornecido pela Secretaria Nacional de Proteção e Defesa Civil e começou a ser entregue na tarde da última terça‑feira, dia 28.",
-      "porQueImporta": "A ação garante apoio imediato a quem perdeu moradia e necessidades básicas após as chuvas",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/07/31/municipio-continua-com-acolhimento-as-familias-atingidas-pelas-chuvas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-31T03:02:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/d2mVxxcG1thyJdiyH0zUI3UxHEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/R/H8FPIYRlSCyZT1wOfECA/424x237-foto-chamada-g1-6-.png"
-    },
-    {
-      "clusterId": "83f0d14f3e754160",
-      "slug": "c14d806f24843bd6",
-      "titulo": "Ventania de mais de 100 km/h registra maior rajada em 20 anos no Galeão",
-      "resumo": "Na manhã de 29 de julho, ventos de até 105 km/h atingiram a Região Metropolitana do Rio, estabelecendo a maior rajada registrada nos últimos 20 anos no Aeroporto Internacional Tom Jobim, segundo o Cemaden. O vento derrubou cerca de 270 árvores na cidade. A única medição superior foi de 119 km/h em 20 de agosto de 2006. O fenômeno causou danos materiais e interrupções nas atividades aeroportuárias.",
-      "porQueImporta": "O evento evidencia riscos de ventos fortes para a infraestrutura urbana e aeroportuária da região",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/31/ventania-dados-aeroporto-do-galeao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-31T03:00:48.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/w4EZNFMREQHLID2ITtXQnAV2Wwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/O/HkzXZ1Q9i2GNfqkASJVg/bdrj-limpo-20260730-0545-frame-156600.jpeg"
-    },
-    {
-      "clusterId": "48ec55dbd9883c91",
-      "slug": "28138b9c7f73a6b3",
-      "titulo": "Temperaturas acima de 30°C e tempo firme marcam fim de semana em Santa Catarina",
-      "resumo": "Após a passagem de uma frente fria com rajadas de vento de até 90 km/h, o tempo em Santa Catarina ficará firme a partir de sexta‑feira. A Defesa Civil indica que as temperaturas podem superar os 30°C durante o fim de semana. O sol predominará na maior parte do estado, com nuvens e possibilidade de chuva fraca no Litoral Norte, Vale do Itajaí e Grande Florianópolis nas manhãs e noites.",
-      "porQueImporta": "O calor intenso pode gerar risco de desidratação e sobrecarga nas redes de energia e saúde",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/31/sc-tera-tempo-firme-e-temperaturas-que-superam-30c-no-fim-de-semana.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-31T03:00:45.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/daOjuY2SeM0ScXEhK7tX1NL30QY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/W/EMk3VAS0mdZlEVxfRKsQ/apos-fortes-ventos-sc-tera-tempo-firme-e-temperaturas-que-superam-30degc-no-fim-de-semana-.png"
-    },
-    {
-      "clusterId": "8433f8f9b6300bd8",
-      "slug": "7852fef8833aa4f3",
-      "titulo": "Ventos de até 70 km/h atingem o Sul nesta sexta-feira",
-      "resumo": "Na sexta-feira, ventos de 50 a 70 km/h são esperados no litoral do Rio Grande do Sul e no sul de Santa Catarina, com possibilidade de rajadas ainda mais fortes no oeste do estado. As condições de tempo firme predominam em grande parte do país, enquanto a baixa umidade afeta o interior e há previsão de chuva no litoral do Nordeste e da Região Norte. No fim de semana, novas tempestades podem trazer volumes elevados de chuva, sobretudo no Rio Grande do Sul.",
-      "porQueImporta": "Os ventos fortes podem causar danos à infraestrutura e riscos à segurança da população nas áreas afetadas",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/31/ventos-sul-nesta-sexta-temporais-voltam-no-fim-de-semana-ar-seco-previsao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-31T03:00:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/_SGs8iNYgkzK5OYSb5Vh9VLSNUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/f/0xBLfnQIAlkPEFm6HkWQ/whatsapp-image-2026-02-17-at-14.44.32.jpeg"
-    },
-    {
-      "clusterId": "f7d4f64324b2087a",
-      "slug": "0da2274f040a32c9",
-      "titulo": "Ex-jogador do Botafogo e amigo morrem após muro desabar em ventania em Santa Teresa",
-      "resumo": "O ex-jogador do Botafogo Tássio Maia dos Santos, de 41 anos, e seu amigo Vandré Cordeiro da Silva, de 43, foram atingidos por um muro que desabou devido a ventos de mais de 100 km/h em Santa Teresa. Os dois estavam na região para organizar um evento em uma casa de festas. Os corpos serão enterrados na tarde desta sexta‑feira no Cemitério do Catumbi, no Centro do Rio.",
-      "porQueImporta": "O caso evidencia os riscos de estruturas vulneráveis durante ventanias intensas em áreas urbanas",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/31/corpos-de-ex-jogador-do-botafogo-e-amigo-mortos-durante-ventania-serao-enterrados-nesta-sexta.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-31T03:00:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/_yZuYpJPNv9SmwhpWFs34Uukv2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/9/UfREVYQoCzuUwR3eqZ4A/imagem-cortada-7-.jpg"
     }
   ],
   "categorias": [
@@ -190,6 +185,23 @@
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "22888bdd8c6bf254",
+          "slug": "51121207e9841549",
+          "titulo": "Uso de testosterona sem indicação médica eleva risco de eventos cardiovasculares graves",
+          "resumo": "Homens que utilizam testosterona sem prescrição apresentam quase o dobro de risco de infarto, AVC, parada cardíaca ou morte em comparação com aqueles que fazem reposição por necessidade clínica comprovada. O achado provém do maior estudo já realizado sobre o tema, publicado na revista eBioMedicine, com acompanhamento de até dez anos.",
+          "porQueImporta": "O estudo evidencia riscos de saúde pública associados ao uso indiscriminado de hormônios",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/saude/noticia/2026/07/31/usar-testosterona-sem-indicacao-medica-esta-associado-a-mais-infarto-avc-e-morte-mostra-maior-estudo-ja-feito-sobre-o-tema.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-31T06:02:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VAdIfvks5uwm7DbjiLW7ncByi4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/a/CnguQzSsigNnDBAXESoQ/close-up-shirtless-sportsman-holding-injection-steroids-gym-s-locker-room.jpg"
+        },
         {
           "clusterId": "869c9669d4774261",
           "slug": "3af169870470f485",
@@ -241,28 +253,11 @@
           "imageUrl": "https://s2-g1.glbimg.com/0o5rAIYno0s3hbLm_vXXQHvDlwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/0/hOuZwuSzeYNi5XykMHJg/pechincha.jpg"
         },
         {
-          "clusterId": "c9d9ce1789b87871",
-          "slug": "a965b089d956a42c",
-          "titulo": "Resumão diário do JN: Rio tem milhares de casas sem energia um dia após vendaval; dívida pública federal atinge R$ 9,27 trilhões; ampliação dos conflitos na Ásia e Europa preocupa",
-          "resumo": "Você pode ouvir o Resumão Diário no g1, na playlist Caminho Diário, do Spotify, no Castbox, no Google Podcasts, no Apple Podcasts, no Deezer ou no aplicativo de sua preferência. Siga o Resumão Diário no seu agregador de áudio favorito para ser avisado sempre que tiver novo episódio no ar. Um dia depois do vendaval, 300 mil pessoas ainda estão sem luz no Rio de Janeiro. Especialistas reforçam o alerta: a partir de setembro, o El Niño pode provocar temporais ainda mais extremos. André Trigueiro mostrou os efeitos da crise climática nos biomas brasileiros e como as temperaturas mais altas…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/07/30/resumao-diario-do-jn-rio-tem-milhares-de-casas-sem-energia-um-dia-apos-vendaval-divida-publica-federal-atinge-r-927-trilhoes-ampliacao-dos-conflitos-na-asia-e-europa-preocupa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-31T00:35:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-        },
-        {
           "clusterId": "65c8649892ce0f6d",
           "slug": "a4817d7a3310d676",
-          "titulo": "PF vê semelhança em sistema de propina de Vorcaro a ex-BRB e Jaques Wagner",
-          "resumo": "Documentos de investigação da Operação Compliance Zero foram tornados públicos nesta quinta-feira (30) pelo ministro André Mendonça",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "titulo": "PF identifica semelhança em esquema de propina envolvendo Vorcaro, ex-BRB e Jaques Wagner",
+          "resumo": "A Polícia Federal divulgou nesta quinta‑feira (30) documentos da Operação Compliance Zero que apontam semelhanças entre o esquema de propina de Vorcaro e práticas envolvendo a ex‑BRB e o ex‑ministro Jaques Wagner. Os materiais foram tornados públicos pelo ministro André Mendonça. A investigação sugere a existência de um padrão de pagamentos ilícitos em diferentes áreas da administração pública.",
+          "porQueImporta": "O caso evidencia possíveis irregularidades em contratos públicos e pode impactar a confiança nas instituições governamentais",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -274,62 +269,11 @@
           "updatedAt": "2026-07-31T00:16:16.000Z"
         },
         {
-          "clusterId": "fc358930fbbca6af",
-          "slug": "149b7c3fdc96baa5",
-          "titulo": "Motociclista morre após ser arrastada e ficar presa embaixo de ônibus em Campo Grande",
-          "resumo": "Ônibus bate em moto e arrasta mulher presa embaixo de veículo em avenida de Campo Grande A motociclista Andreia Nascimento de Jesus, de 21 anos, morreu nesta quinta-feira (30), um dia após ser arrastada e ficar presa embaixo de um ônibus em Campo Grande. O acidente aconteceu na tarde de quarta-feira (29), na Vila Bandeirante. Ela estava internada em estado grave na Santa Casa da Capital. Segundo o Corpo de Bombeiros, Andreia seguia pela Avenida Constantino quando foi atingida por um ônibus ao cruzar a Avenida Marechal Deodoro. O veículo só parou no cruzamento seguinte, próximo à Rua Pagé,…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/30/motociclista-morre-apos-ser-arrastada-e-ficar-presa-embaixo-de-onibus-em-campo-grande.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-31T00:10:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/irm8S7VVDQCb2n0TQqgyZXvXc8g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/uRH7gRQRapAtYUAfcVVw/design-sem-nome-2-.jpg"
-        },
-        {
-          "clusterId": "5575cf08e5826d19",
-          "slug": "731ca8d03b2a2083",
-          "titulo": "'Deus acelerou minha moto', diz motoboy que escapou de queda de estrutura de loja durante ventania",
-          "resumo": "Estrutura de loja desaba sobre grupo de pessoas durante ventania em Santos Um motoboy escapou por poucos segundos de ser atingido pela estrutura metálica que desabou sobre pedestres em Santos, no litoral de São Paulo. Sidney Gonçalves Junior contou que conseguiu acelerar a motocicleta e sair do local antes do acidente. Ele não se feriu. \"Graças a Deus foi um livramento, porque não tem o que explicar. Foi tudo muito rápido. Quando eu ia parar, olhei para o lado e a placa caiu. Acho que Deus acelerou minha moto ali\", disse ele à TV Tribuna, afiliada da Globo. O caso aconteceu na quarta-feira…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/30/motoboy-escapa-de-estrutura-de-loja-que-desabou-sobre-pedestres-durante-ventania-livramento.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T23:59:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dNe8Y9lAzpwRFUCTy5lzzB9sOx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/4CPYyKSsaqknVbJ9s8GQ/motoboy-fachada.jpg"
-        },
-        {
-          "clusterId": "7d03f0ff7b66791c",
-          "slug": "d5054a48ceb65b0e",
-          "titulo": "Batida entre caminhões deixa feridos graves e provoca incêndio na BR-158",
-          "resumo": "Acidente com 4 veículos deixa 3 feridos e duas carretas em chamas em MS Três pessoas ficaram gravemente feridas em um acidente envolvendo quatro veículos na tarde desta quinta-feira (30), no km 70 da BR-158, em Paranaíba (MS). A colisão ocorreu por volta das 15h30 e envolveu três caminhões e uma caminhonete. Após a batida, dois caminhões pegaram fogo. As vítimas foram socorridas por equipes da concessionária responsável pela rodovia e do Corpo de Bombeiros Militar e encaminhadas para a Santa Casa de Paranaíba e a Santa Casa de Cassilândia. ✅ Clique aqui para seguir o canal do g1 MS no…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/30/batida-entre-caminhoes-deixa-feridos-graves-e-provoca-incendio-na-br-158.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T23:55:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/q-_jJPV1F9yAuA99gcIZGr300Og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/e/ZBNTPtTEyl4PB8BBdb7w/design-sem-nome-13-.jpg"
-        },
-        {
           "clusterId": "49b44f4469b77531",
           "slug": "d5972f74e41be74a",
-          "titulo": "Prefeitura abre sindicância para apurar morte de mulher após colonoscopia",
-          "resumo": "Mulher de 41 anos morreu após perfuração intestinal durante procedimento em clínica da zona leste de São Paulo",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "titulo": "Prefeitura abre sindicância para investigar morte de mulher após colonoscopia",
+          "resumo": "Uma mulher de 41 anos faleceu após sofrer perfuração intestinal durante colonoscopia realizada em clínica da zona leste de São Paulo. A Prefeitura de São Paulo iniciou procedimento de sindicância para apurar as circunstâncias da morte. A investigação buscará identificar eventuais falhas no atendimento e responsabilidade dos profissionais envolvidos. O caso foi noticiado pela CNN Brasil.",
+          "porQueImporta": "A apuração pode revelar falhas em procedimentos médicos e orientar medidas de segurança em clínicas.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -341,146 +285,11 @@
           "updatedAt": "2026-07-30T23:52:43.000Z"
         },
         {
-          "clusterId": "eee0e6429eda9250",
-          "slug": "f9f46e95f466815f",
-          "titulo": "Dos Rosa, Roberta Miranda e Cavalhadas: o que fazer no fim de semana na região de Ribeirão e Franca",
-          "resumo": "Fenômeno digital \"Dos Rosa\" traz espetáculo interativo com música e muita diversão para toda a família na Arena Nicnet Divulgação O fim de semana na região de Ribeirão Preto (SP) e Franca (SP) chega com uma programação que passa por cultura urbana, encontros sustentáveis ao ar livre, circo, ballet clássico e stand-up comedy. A tradição e a música também ganham protagonismo, movimentando o interior paulista. O roteiro oferece desde a gastronomia típica em festas de padroeiro até shows de ícones nacionais e fenômenos infantojuvenis para toda a família. ✨ Após adiamento por causa do temporal da…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/em-cena/noticia/2026/07/30/dos-rosa-roberta-miranda-e-cavalhadas-o-que-fazer-no-fim-de-semana-na-regiao-de-ribeirao-e-franca.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T23:33:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gMmt5Z-etnA4eAKMUnRFm3AhtuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Z/cewqixT9mIPwpqoaq0dA/molduras-g1-2-.png"
-        },
-        {
-          "clusterId": "f0293b96106d9abe",
-          "slug": "0bc6ce7b3798eb7f",
-          "titulo": "Motociclista morre em acidente na Zona Sul de Aracaju",
-          "resumo": "Motociclista morre em acidente na Zona Sul de Aracaju BPRv/Divulgação Um motociclista morreu após colidir com o meio-fio na Rodovia Melício Machado, Zona Sul de Aracaju, na noite desta quinta-feira (30). ✅ Clique aqui para seguir o canal do g1 SE no WhatsApp Segundo o Batalhão de Polícia Rodoviária (BPRv), as informações colhidas são de que o motociclista teria tentado desviar de um automóvel, perdido o controle da direção e colidido contra o meio-fio. Devido ao impacto, o ele não resistiu aos ferimentos e morreu no local. Até a última atualização desta matéria, o BPRv estava no local…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/30/motociclista-morre-em-acidente-na-zona-sul-de-aracaju.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T23:24:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/yW_LWWXN-SpIFcpzkIEttlaACz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/uVJ7vIQKCzTUUO4KlbAA/acidente.jpeg"
-        },
-        {
-          "clusterId": "84f95bc60508c355",
-          "slug": "7835a51f5818ed78",
-          "titulo": "Motociclista morre em acidente com caminhão na MG-353",
-          "resumo": "Um motociclista, de idade não informada, morreu em um acidente no fim da manhã desta quinta-feira (30) no km 153 da MG-353, entre os municípios de Santa Bárbara do Monte Verde e Rio Preto. Conforme informações da Polícia Militar Rodoviária (PMRv), o motorista da moto teria perdido o controle do veículo em uma curva, entrado na contramão e batido de frente com o caminhão. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp A vítima chegou a ser socorrida pelo Samu, levada para a Santa Casa em Rio Preto, mas não resistiu aos ferimentos e morreu após dar entrada na unidade de saúde.…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/30/motociclista-morre-em-acidente-com-caminhao-na-mg-353.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T23:19:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/a9FVQQc-kYHJCntV6wCNHO7J6ms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/S/BMCG7sQeWh8tVeBavB6w/whatsapp-image-2026-07-30-at-19.05.16.jpeg"
-        },
-        {
-          "clusterId": "57f79b8311add4d7",
-          "slug": "aaa244bf7d6d843a",
-          "titulo": "Filho de homem que morreu atingido por árvore durante vendaval diz que soube da morte pelo noticiário: 'Família não foi comunicada pelo hospital'",
-          "resumo": "Corpo de homem que morreu após árvore cair sobre carro é velado O filho do homem que morreu após o carro que dirigia ser atingido por uma árvore de grande porte durante a forte rajada de vento que atingiu Cesário Lange (SP), na tarde desta quarta-feira (29), contou que só soube da morte do pai horas depois do acidente. A vítima, Wilmar Bastos de Souza, tinha 62 anos. O corpo dele foi encaminhado ao Instituto Médico Legal (IML) de Itapetininga (SP) e, em seguida, será sepultado no Cemitério Jardim da Paz, em Cesário Lange, às 11h de sexta-feira (31). 📲 Participe do canal do g1 Itapetininga e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/30/filho-de-homem-que-morreu-atingido-por-arvore-durante-vendaval-diz-que-soube-da-morte-pelo-noticiario-familia-nao-foi-comunicada-pelo-hospital.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T23:16:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fAhAxZK26Ewr8eaTDKZvrutdX4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/7/tAde1ATni8ECgwOXI98w/untitled.jpg"
-        },
-        {
-          "clusterId": "cf729f18aeb60f6e",
-          "slug": "1635d99390931a7d",
-          "titulo": "Problema em bomba de estação de tratamento causa vazamento de esgoto no Rio São Domingos",
-          "resumo": "Problema em bomba de estação de tratamento causa vazamento de esgoto no Rio São Domingos Um dano na bomba da Estação de Tratamento de Esgoto (ETE) causou o vazamento de dejetos no Rio São Domingos, em Catanduva (SP). Conforme apurado pela TV TEM, o problema foi identificado na segunda-feira (27). Desde então, a equipe da Polícia Ambiental foi acionada e monitora a área atingida. A Superintendência de Água e Esgoto de Catanduva (SAEC) é responsável pelo serviço. Confira os detalhes abaixo. 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Em entrevista à TV TEM, o tenente Fábio…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/30/problema-em-bomba-de-estacao-de-tratamento-causa-vazamento-de-esgoto-no-rio-sao-domingos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T23:16:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5sbozA3_fG5E9a0AWYD7hQSJTgY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/m/kDAlcBTEmXRwsp6zyoIA/whatsapp-image-2026-07-30-at-14.49.35.jpeg"
-        },
-        {
-          "clusterId": "a781c87d19f1d01a",
-          "slug": "c7b639cb1b67de65",
-          "titulo": "Vendaval no RJ: especialistas explicam por que rajadas de ventos fortes estão mais difíceis de prever",
-          "resumo": "Vendaval no RJ: especialistas explicam por que rajadas de ventos fortes estão mais difíceis de prever O vendaval que atingiu o Rio de Janeiro na quarta-feira (29) surpreendeu moradores e autoridades. Rajadas de vento superiores a 100 km/h provocaram mortes, derrubaram árvores, destelharam casas e causaram transtornos em diferentes pontos do estado. Mas por que um fenômeno tão intenso não foi previsto com antecedência? E por que não houve um alerta antes do início da ventania? Meteorologistas e pesquisadores ouvidos pelo RJ2 explicam que eventos extremos, especialmente os associados a rajadas…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/30/vendaval-no-rj-especialistas-explicam-por-que-rajadas-de-ventos-fortes-estao-mais-dificeis-de-prever.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T23:13:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/qo_0w3Eiq1NH8egA9Bf_L_9IAZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/W/EvZ6AnSja1GU1zvYehzQ/globo-canal-4-20260730-1600-frame-358897.jpeg"
-        },
-        {
-          "clusterId": "71877b8439a6f2fd",
-          "slug": "26d8630248b0f5e2",
-          "titulo": "Cão que esperou tutor morto por um mês em hospital de Porto Velho é resgatado",
-          "resumo": "Cão Faraó Prefeitura de Porto Velho O cachorro Faraó foi resgatado nesta semana após passar mais de um mês esperando pelo tutor na porta do Hospital e Pronto-Socorro João Paulo II, em Porto Velho. O dono do animal morreu após sofrer um acidente, mas o cão permaneceu no local e passou a ser alimentado por funcionários e pacientes. Após sensibilizar servidores, pacientes e visitantes, que passaram a cuidar de Faraó, uma equipe da Prefeitura de Porto Velho realizou o resgate do cão, que foi levado para a Clínica de Bem-Estar Animal. Na unidade, Faraó passou por triagem clínica, consulta…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/07/30/cao-que-esperou-tutor-morto-por-um-mes-em-hospital-de-porto-velho-e-resgatado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T23:07:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bcYpyXl4o5RiWEpRIy5mpop8QcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/c/3QffnlRoiP4KIEVxsoNg/bkltiqccyock0ycwommqqfqnx5xmjcyxwhzicb9b-1-1-.jpg"
-        },
-        {
-          "clusterId": "578f2e1f16579398",
-          "slug": "5479f1964213a149",
-          "titulo": "França registra primeira “tempestade de fogo” da história; entenda fenômeno",
-          "resumo": "Fenômeno raro ocorre quando o calor extremo de um incêndio altera a atmosfera e forma uma nuvem capaz de gerar ventos fortes e até raios",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/ciencia/franca-registra-primeira-tempestade-de-fogo-da-historia-entenda-fenomeno/"
-            }
-          ],
-          "updatedAt": "2026-07-30T22:56:36.000Z"
-        },
-        {
           "clusterId": "ca186f105ed5775e",
           "slug": "54f13c5c4d9784f4",
-          "titulo": "Aprovação da Suprema Corte dos EUA despenca até entre republicanos após decisões contra Trump",
-          "resumo": "Suprema Corte americana amplia poder de Donald Trump sobre agências reguladoras Jornal Nacional/ Reprodução O nível de confiança dos americanos na Suprema Corte nunca foi tão baixo. Em 26 anos medindo a aprovação do mais alto tribunal dos Estados Unidos, o instituto de pesquisa Gallup registrou nova queda acentuada de apoio à corte: apenas 33% aprovam o trabalho dos nove juízes — 6 pontos abaixo do índice apontado no ano passado, que já era o menor da série histórica. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Em outras palavras, a erosão da credibilidade do tribunal atinge…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "titulo": "Aprovação da Suprema Corte dos EUA cai para 33% entre republicanos",
+          "resumo": "A pesquisa Gallup registrou que apenas 33% dos americanos aprovam o trabalho dos nove juízes da Suprema Corte, representando queda de seis pontos em relação ao ano anterior. A diminuição de apoio ocorre principalmente entre eleitores republicanos, que passaram a desaprovar a corte em maior número. O índice de confiança no tribunal atingiu o menor nível em 26 anos de acompanhamento.",
+          "porQueImporta": "Reflete crescente descrédito institucional nos Estados Unidos",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -491,23 +300,6 @@
           ],
           "updatedAt": "2026-07-30T12:38:59.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/6NICjpbniItozIJOiYBIOB1a9pk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/G/SAQL3qQpi0kDtLmc5RIg/globo-canal-4-20260629-2000-frame-107350.jpeg"
-        },
-        {
-          "clusterId": "bdc37ef3ab470732",
-          "slug": "c0ee44c1a43ddc6a",
-          "titulo": "VÍDEO mostra devastação em florestas da Espanha após incêndios em meio a onda de calor",
-          "resumo": "Compare o antes e depois dos incêndios na região de La Vilavella, na Espanha Um vídeo gravado por drone registrou a devastação nas florestas de La Vilavella, no leste da Espanha, após os incêndios que vêm atingindo o país há cerca de duas semanas. As imagens mostram áreas queimadas, árvores carbonizadas e imóveis danificados pelas chamas. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Segundo as autoridades espanholas, as chamas atingram mais de 8,5 mil hectares na província de Castellón. Ao todo, o fogo já destruiu mais de 100 mil hectares no país neste ano, segundo dados do…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/29/video-mostra-devastacao-em-florestas-da-espanha-apos-incendios-em-meio-a-onda-de-calor.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T17:08:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/o_YuZj1rVstxGkdfhoXFy80Inoc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/d/JSBnp1QvW6kCaEDkTdSg/incendios-espanha-.png"
         }
       ]
     },
@@ -516,21 +308,21 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "357585f54f426a2f",
-          "slug": "7257f6ba2ce3c522",
-          "titulo": "Três cidades de Santa Catarina declaram situação de emergência após temporal",
-          "resumo": "Um temporal com ventos acima de 80 km/h atingiu três municípios de Santa Catarina, provocando destelhamento de casas e danos a lavouras. Mais de 100 pessoas ficaram desalojadas. As autoridades locais decretaram estado de emergência para facilitar a resposta e o apoio às áreas afetadas.",
-          "porQueImporta": "A medida de emergência permite mobilizar recursos e assistência às populações deslocadas e aos danos agrícolas.",
+          "clusterId": "b1c2cd951a0e4654",
+          "slug": "d87d6c11915aa4a7",
+          "titulo": "Temporal com ventos de até 160 km/h causa morte e deixa cidades da região de Ribeirão Preto em estado de emergência",
+          "resumo": "Na madrugada de sexta‑feira (24), um temporal atingiu a região de Ribeirão Preto (SP) com ventos de até 160 km/h, provocando a queda de torres de transmissão, interrupção de energia, água, telefone e internet, além de destelhamento de imóveis e danos a escolas e unidades de saúde. Uma pessoa morreu e várias cidades foram declaradas em situação de emergência. A CPFL apontou a queda de 34 torres como causa principal do colapso na rede elétrica. O governo estadual liberou saque‑calamidade do FGTS para os atingidos em Dumont, SP.",
+          "porQueImporta": "O evento evidencia vulnerabilidades de infraestrutura e gera necessidade de apoio emergencial à população afetada",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/tres-cidades-de-sc-decretam-situacao-de-emergencia-apos-temporal"
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/31/danos-energia-agua-aulas-limpeza-como-estao-cidades-afetadas-na-regiao-de-ribeirao-preto-uma-semana-apos-temporal-com-ventos-de-160-kmh.ghtml"
             }
           ],
-          "updatedAt": "2026-07-31T03:32:18.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/07/garuva-santa-catarina-temporal.jpg"
+          "updatedAt": "2026-07-31T06:00:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XCvk3MzVO0xJdjZQrGvHhKTg6dA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/h/IMVZyORDWBEUjT23d6Rw/1.png"
         },
         {
           "clusterId": "83f0d14f3e754160",
@@ -620,6 +412,199 @@
       ]
     },
     {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "bb67889dac0411cd",
+          "slug": "db1c8b10f2567019",
+          "titulo": "Ataque de drones causa incêndio em instalações de energia na Rússia",
+          "resumo": "Drones atacaram instalações de energia em Volgogrado, provocando incêndio e ferindo cinco pessoas. O centro logístico da região também foi atingido. O governador relatou os feridos e a extensão dos danos. A operação foi parte de uma ofensiva mais ampla na área.",
+          "porQueImporta": "O incidente compromete a infraestrutura energética e pode afetar a segurança e abastecimento da região.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/ataque-de-drones-causa-incendio-em-instalacoes-de-energia-na-russia/"
+            }
+          ],
+          "updatedAt": "2026-07-31T06:17:23.000Z"
+        },
+        {
+          "clusterId": "6b44702ec4780312",
+          "slug": "53d02bdca64aef37",
+          "titulo": "Incêndio queima grama e atinge árvores em acesso à Rodovia Francisco Von Zuben em Valinhos",
+          "resumo": "Na tarde de quinta‑feira (30), um incêndio consumiu parte da grama e algumas árvores na alça de acesso à Rodovia Francisco Von Zuben, em Valinhos, próximo ao Anel Viário Magalhães Teixeira. As chamas surgiram por volta das 15h e não há indícios claros sobre a causa. Equipes do Corpo de Bombeiros foram acionadas para controlar o fogo. Até o momento, não há informações sobre danos materiais ou feridos.",
+          "porQueImporta": "Incêndios em áreas próximas a vias podem comprometer a segurança viária e a vegetação local",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/30/incendio-destroi-grama-e-atinge-arvores-em-acesso-a-rodovia-francisco-von-zuben-em-valinhos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-31T00:56:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xZkFGDvZCDSsfZ_OP910Mgb_jdw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/B/eW2YC7QBWHruhXxfrSjg/1200px-x-800px-2-.jpg"
+        },
+        {
+          "clusterId": "d8fa0cd8ade525e7",
+          "slug": "8d9a67ff22acab5c",
+          "titulo": "Navio-tanque dos EUA é atingido por drone no porto egípcio",
+          "resumo": "Um drone atingiu o navio-tanque Energos Winter, de propriedade dos Estados Unidos, no porto de Damieta, no Egito, nesta quarta‑feira. O impacto provocou incêndio em duas embarcações comerciais. O governo egípcio e empresas de segurança marítima confirmaram o incidente.",
+          "porQueImporta": "O ataque demonstra vulnerabilidades de segurança em instalações portuárias estratégicas.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/29/navio-cargueiro-eua-atingido-porto-egito.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T16:17:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GtamPCNBv3awZSPQSt3ABCmS0Iw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/I6cO2qQVKKBA2wW0JVUg/3840px-energos-winter-in-sao-francisco-do-sul-brazil-2025.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "9d62b9b9a5c5c2af",
+          "slug": "c4db81079885932a",
+          "titulo": "Corrida solidária no DF alerta sobre prevenção de queimadas",
+          "resumo": "O coletivo Corre Cerrado organizou, neste sábado, uma corrida gratuita em Brasília com percursos de 6 km, 15 km e 25 km. A atividade começou às 7h com palestra sobre prevenção de incêndios florestais e, às 8h, deu início às corridas. O evento é aberto ao público e não requer inscrição prévia. A ação visa conscientizar a população sobre a prevenção de queimadas no bioma Cerrado.",
+          "porQueImporta": "A conscientização ajuda a reduzir riscos de incêndios que podem causar danos ambientais e à saúde pública",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/31/corrida-gratuita-no-df-tera-percursos-de-ate-25-km-e-acao-de-conscientizacao-contra-queimadas-neste-sabado.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-31T05:00:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HtqDYhyUXAYIqh1x3BHivhGK7U8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/C/WcAcQoS1Ap73pSXjSyXQ/imagem-g1-25-.png"
+        },
+        {
+          "clusterId": "bdc37ef3ab470732",
+          "slug": "c0ee44c1a43ddc6a",
+          "titulo": "Incêndio florestal queima mais de 8,5 mil hectares em La Vilavella, Espanha",
+          "resumo": "Um drone registrou a destruição nas florestas de La Vilavella, no leste da Espanha, após incêndios que se estendem há cerca de duas semanas. As imagens mostram áreas queimadas, árvores carbonizadas e imóveis danificados. As autoridades espanholas informam que as chamas atingiram mais de 8,5 mil hectares na província de Castellón.",
+          "porQueImporta": "Os incêndios afetam extensas áreas florestais e comunidades locais, demandando resposta de emergência e prevenção futura",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/29/video-mostra-devastacao-em-florestas-da-espanha-apos-incendios-em-meio-a-onda-de-calor.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T17:08:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/o_YuZj1rVstxGkdfhoXFy80Inoc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/d/JSBnp1QvW6kCaEDkTdSg/incendios-espanha-.png"
+        },
+        {
+          "clusterId": "5cd3554cce2811a5",
+          "slug": "15f1808486b48f03",
+          "titulo": "Foto de banhistas na França vira símbolo dos incêndios florestais na Europa",
+          "resumo": "Durante as queimadas que atingem o sudoeste da França, o fotógrafo Maximilien Lamy registrou com o celular imagens de banhistas à beira do lago Lacanau e do fogo ao fundo. Uma das fotos circulou rapidamente nas redes, tornando‑se símbolo da crise climática e dos incêndios na Europa. Lamy afirmou que não esperava a repercussão da imagem, que foi compartilhada em poucas horas. A foto destaca a proximidade entre lazer e desastre natural na região.",
+          "porQueImporta": "Ilustra o impacto visível das queimadas na vida cotidiana e a disseminação de imagens que mobilizam a opinião pública sobre mudanças climáticas.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/29/como-uma-foto-da-afp-se-tornou-simbolo-do-verao-de-incendios-na-europa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T15:28:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OxhCbQ3F63Qs5jEgkKE1LQVPRd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/0/3vWRjzTkGPSBPVkQBqKw/afp-20260724-c3462g8-v2-highres-topshotfranceenvironmentclimateweatherwildfire.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "9d8a59bcf75ae5d8",
+          "slug": "db40e06b00878552",
+          "titulo": "Motorista de BMW de 78 anos condenada a pagar indenização de mais de R$ 2 milhões pelos pais de adolescente morto",
+          "resumo": "A motorista Maria do Carmo Carneiro, de 78 anos, foi condenada a pagar mais de R$ 2 milhões aos pais de Anthony Pietro, que morreu em acidente de trânsito envolvendo um BMW. Os pais consideram a decisão uma vitória, embora reconheçam que o valor não traz alívio à perda.",
+          "porQueImporta": "Define responsabilidade civil em acidentes de trânsito envolvendo menores.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/07/31/nao-traz-felicidade-nem-meu-filho-de-volta-diz-pai-que-vai-receber-r-2-mi-em-indenizacao-apos-morte-de-adolescente-em-acidente-com-bmw.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-31T06:00:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/52OkWINagJ-5k6VjYXV5ip_hpB0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/g/tylnXhTm6P0Odo3AcDZQ/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-2026-07-30t174143.304.jpg"
+        },
+        {
+          "clusterId": "a18e339fa03d53e6",
+          "slug": "64495575169d5b94",
+          "titulo": "Sobrevivente de acidente de ônibus com equipe de basquete recebe alta após 45 dias de internação",
+          "resumo": "Sete atletas de um time de basquete de Juazeiro do Norte morreram quando o ônibus em que viajavam tombou no Ceará. O jovem Bruno Lira da Silva, de 17 anos, foi o último sobrevivente a receber alta, deixando o hospital após 45 dias internado. O acidente deixou dezenas de feridos além das vítimas fatais.",
+          "porQueImporta": "O caso evidencia riscos de transporte coletivo em eventos esportivos e o impacto nas famílias das vítimas",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/07/31/perdi-o-enterro-dos-meus-amigos-agora-posso-prestar-as-homenagens-diz-ultimo-sobrevivente-de-acidente-com-time-de-basquete-a-receber-alta.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-31T04:00:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SoeukcSOrB2YhDUfQ-GHeCtb_FY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/R/76OrbXRhepIWepn0wDoA/whatsapp-image-2026-07-30-at-17.35.02.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "862f23069ec21e69",
+          "slug": "ccd573b1bc97133c",
+          "titulo": "Duas aeronaves da Delta ficam em rota de colisão no Aeroporto Internacional de Atlanta",
+          "resumo": "Na noite de segunda‑feira, duas aeronaves da Delta Air Lines foram colocadas em rota de colisão por falha no controle de tráfego aéreo no Aeroporto Internacional de Atlanta. Um Boeing 737‑900 que vinha de Pittsburgh estava em aproximação para pouso, enquanto outro avião da mesma companhia iniciava a decolagem. O incidente ocorreu em meio a condições meteorológicas adversas que já provocavam atrasos e desvios de rotas na região.",
+          "porQueImporta": "Situações de quase colisão aérea evidenciam vulnerabilidades nos sistemas de controle e podem impactar a segurança de passageiros e tripulações",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/30/dois-avioes-da-delta-airlines-ficam-em-rota-de-colisao-durante-operacao-em-aeroporto-uma-aeronave-tentava-pousar-enquanto-outra-decolava.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-30T14:46:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OIxRMwNbEGshXhZCPBupP1INfpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/7/1X2xFzQf6uEhglZDgXIA/captura-de-tela-2026-07-30-114511.png"
+        },
+        {
+          "clusterId": "b664d89a1d46e9b9",
+          "slug": "4cd0f650c7d6214b",
+          "titulo": "Helicóptero da JasFly cai em treinamento de combate a incêndio na Argentina e mata sete pessoas",
+          "resumo": "Um helicóptero da empresa JasFly caiu na manhã de 29 de junho na região de San Juan, na Argentina, durante um treinamento de combate a incêndios. O acidente ocorreu por volta das 10h30, quando a aeronave acionou um dispositivo de emergência e desapareceu em área de difícil acesso. As equipes de resgate localizaram os destroços, confirmando a morte de todos os sete ocupantes. As autoridades locais investigam as causas do acidente.",
+          "porQueImporta": "O incidente evidencia os riscos associados a operações de combate a incêndios aéreos e a necessidade de medidas de segurança aprimoradas.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/07/29/helicoptero-com-7-pessoas-cai-durante-treinamento-de-incendio-na-argentina.ghtml"
+            }
+          ],
+          "updatedAt": "2026-07-29T18:53:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Rft6N-5h1feL0MZs74raeTlAAcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/B/d27bM8Qb223OQYBBDHdQ/481166706-1168521445061719-9052975236158251671-n.jpg"
+        }
+      ]
+    },
+    {
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
@@ -656,63 +641,6 @@
           ],
           "updatedAt": "2026-07-30T08:19:25.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/oFO1zMQDZufyEll3EKqIXVof85U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/X/5qQjUsRneBO0B53IPB4Q/2026-07-30t082947z-160025238-rc28oma1ehhs-rtrmadp-3-ukraine-crisis-poland-crash-site.jpg"
-        },
-        {
-          "clusterId": "d8fa0cd8ade525e7",
-          "slug": "8d9a67ff22acab5c",
-          "titulo": "Navio-tanque dos EUA é atingido por drone no porto egípcio",
-          "resumo": "Um drone atingiu o navio-tanque Energos Winter, de propriedade dos Estados Unidos, no porto de Damieta, no Egito, nesta quarta-feira. O ataque provocou incêndio em duas embarcações comerciais, segundo autoridades egípcias e empresas de segurança marítima.",
-          "porQueImporta": "O incidente evidencia riscos de ataques a infraestruturas marítimas e pode afetar o comércio de gás natural liquefeito.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/29/navio-cargueiro-eua-atingido-porto-egito.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T16:17:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/GtamPCNBv3awZSPQSt3ABCmS0Iw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/I6cO2qQVKKBA2wW0JVUg/3840px-energos-winter-in-sao-francisco-do-sul-brazil-2025.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "862f23069ec21e69",
-          "slug": "ccd573b1bc97133c",
-          "titulo": "Duas aeronaves da Delta ficam em rota de colisão no Aeroporto Internacional de Atlanta",
-          "resumo": "Na noite de segunda‑feira, duas aeronaves da Delta Air Lines foram colocadas em rota de colisão por falha no controle de tráfego aéreo no Aeroporto Internacional de Atlanta. Um Boeing 737‑900 que vinha de Pittsburgh estava em aproximação para pouso, enquanto outro avião da mesma companhia iniciava a decolagem. O incidente ocorreu em meio a condições meteorológicas adversas que já provocavam atrasos e desvios de rotas na região.",
-          "porQueImporta": "Situações de quase colisão aérea evidenciam vulnerabilidades nos sistemas de controle e podem impactar a segurança de passageiros e tripulações",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/30/dois-avioes-da-delta-airlines-ficam-em-rota-de-colisao-durante-operacao-em-aeroporto-uma-aeronave-tentava-pousar-enquanto-outra-decolava.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-30T14:46:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OIxRMwNbEGshXhZCPBupP1INfpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/7/1X2xFzQf6uEhglZDgXIA/captura-de-tela-2026-07-30-114511.png"
-        },
-        {
-          "clusterId": "b664d89a1d46e9b9",
-          "slug": "4cd0f650c7d6214b",
-          "titulo": "Helicóptero cai durante treinamento de combate a incêndio na Argentina e mata sete pessoas",
-          "resumo": "Um helicóptero da empresa JasFly colidiu na manhã de quarta‑feira na região de San Juan, na Argentina, enquanto realizava treinamento de combate a incêndios. O aparelho acionou um dispositivo de emergência por volta das 10h30 e desapareceu em área de difícil acesso. Todas as sete pessoas a bordo morreram no acidente.",
-          "porQueImporta": "O acidente evidencia riscos associados a operações de treinamento de combate a incêndios aéreos.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/29/helicoptero-com-7-pessoas-cai-durante-treinamento-de-incendio-na-argentina.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T18:53:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Rft6N-5h1feL0MZs74raeTlAAcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/B/d27bM8Qb223OQYBBDHdQ/481166706-1168521445061719-9052975236158251671-n.jpg"
         }
       ]
     },
@@ -721,7 +649,7 @@
       "label": "Desastre",
       "stories": [
         {
-          "clusterId": "b6e073428796e6be",
+          "clusterId": "b7414722b7f155ef",
           "slug": "4f547708a524ffde",
           "titulo": "Terremoto de magnitude 5,6 registrado próximo da fronteira entre Peru e Brasil",
           "resumo": "Um terremoto de magnitude 5,6 ocorreu na noite de quinta-feira (30) próximo à fronteira entre Peru e Brasil, com epicentro perto de Pucallpa, no lado peruano. O USGS registrou profundidade entre 145 e 154 quilômetros, reduzindo a probabilidade de danos. Moradores de municípios do Acre relataram sentir tremores em suas casas por volta das 20h local.",
@@ -732,10 +660,6 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/07/30/terremoto-e-registrado-proximo-da-na-fronteira-entre-peru-e-brasil.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-56-atinge-peru-proximo-a-fronteira-com-brasil"
             },
             {
               "name": "CNN Brasil",
@@ -817,52 +741,6 @@
           ],
           "updatedAt": "2026-07-31T03:02:12.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/d2mVxxcG1thyJdiyH0zUI3UxHEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/R/H8FPIYRlSCyZT1wOfECA/424x237-foto-chamada-g1-6-.png"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "6b44702ec4780312",
-          "slug": "53d02bdca64aef37",
-          "titulo": "Incêndio queima grama e atinge árvores em acesso à Rodovia Francisco Von Zuben em Valinhos",
-          "resumo": "Na tarde de quinta‑feira (30), um incêndio consumiu parte da grama e algumas árvores na alça de acesso à Rodovia Francisco Von Zuben, em Valinhos, próximo ao Anel Viário Magalhães Teixeira. As chamas surgiram por volta das 15h e não há indícios claros sobre a causa. Equipes do Corpo de Bombeiros foram acionadas para controlar o fogo. Até o momento, não há informações sobre danos materiais ou feridos.",
-          "porQueImporta": "Incêndios em áreas próximas a vias podem comprometer a segurança viária e a vegetação local",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/30/incendio-destroi-grama-e-atinge-arvores-em-acesso-a-rodovia-francisco-von-zuben-em-valinhos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-31T00:56:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xZkFGDvZCDSsfZ_OP910Mgb_jdw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/B/eW2YC7QBWHruhXxfrSjg/1200px-x-800px-2-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "5cd3554cce2811a5",
-          "slug": "15f1808486b48f03",
-          "titulo": "Foto de banhistas na França se torna símbolo dos incêndios florestais",
-          "resumo": "Fotógrafo da AFP, Maximilien Lamy, registrou com celular banhistas à beira do lago Lacanau enquanto incêndios avançavam no sudoeste da França. Uma das imagens circulou rapidamente nas redes, sendo usada como ícone da crise climática e dos incêndios na Europa. Lamy afirmou que não esperava a repercussão da foto, que ganhou destaque em poucas horas.",
-          "porQueImporta": "A imagem ilustra a gravidade dos incêndios florestais e a relação com as mudanças climáticas, mobilizando a opinião pública internacional.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/07/29/como-uma-foto-da-afp-se-tornou-simbolo-do-verao-de-incendios-na-europa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-07-29T15:28:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OxhCbQ3F63Qs5jEgkKE1LQVPRd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/0/3vWRjzTkGPSBPVkQBqKw/afp-20260724-c3462g8-v2-highres-topshotfranceenvironmentclimateweatherwildfire.jpg"
         }
       ]
     }
