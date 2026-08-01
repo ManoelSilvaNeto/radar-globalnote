@@ -1,179 +1,184 @@
 {
   "date": "2026-08-01",
-  "generatedAt": "2026-08-01T17:33:02.428Z",
+  "generatedAt": "2026-08-01T21:26:57.921Z",
   "home": [
     {
-      "clusterId": "656d5057007d0466",
-      "slug": "507eeece770c3010",
-      "titulo": "Terremoto de magnitude 4,7 causa apagões e feridos no sul da Itália",
-      "resumo": "Um terremoto de magnitude 4,7 atingiu a região de Campi Flegrei, perto de Nápoles, no sul da Itália, provocando apagões e danos a alguns edifícios. O tremor também causou queda de rochas e suspensão de trens. De acordo com a imprensa local, entre quatro e oito pessoas ficaram feridas.",
-      "porQueImporta": "O evento demonstra a vulnerabilidade de áreas urbanas a sismos de média magnitude, com impactos imediatos na infraestrutura e na segurança das pessoas.",
-      "categoria": "Desastre",
-      "categoriaSlug": "desastre",
+      "clusterId": "e6444212462e19a8",
+      "slug": "140e719729580580",
+      "titulo": "Avião turístico cai no Peru e deixa 13 mortos",
+      "resumo": "Um avião de pequeno porte que transportava turistas para sobrevoar as Linhas de Nazca caiu pouco depois da decolagem do aeroporto de Pisco, no sul do Peru. A polícia informou que havia 11 passageiros e dois tripulantes a bordo, totalizando 13 vítimas fatais. A causa da queda ainda não foi determinada. O acidente ocorreu por volta das 13h (horário local).",
+      "porQueImporta": "O incidente evidencia riscos de voos turísticos sobre áreas arqueológicas e gera preocupação com a segurança da aviação civil regional.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/31/terremoto-no-sul-da-italia-causa-apagoes-estragos-e-assusta-moradores.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/01/aviao-de-pequeno-porte-cai-no-peru-e-deixa-mortos-vitimas-iam-sobrevoar-as-linhas-de-nazca.ghtml"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/terremoto-no-sul-da-italia-abala-edificios-e-forca-a-evacuacao-de-centenas-de-pessoas/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/acidente-com-aviao-turistico-deixa-13-mortos-no-peru/"
         }
       ],
-      "updatedAt": "2026-08-01T14:04:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6AbzTqCwR2tpZo7syPe3TFTvUa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/N/gVArr1RYOnKXb8sNV2lw/2026-07-31t201113z-1098756962-rc28pmamg38n-rtrmadp-3-italy-quake.jpg"
+      "updatedAt": "2026-08-01T21:00:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/elo8UAKZmUiCkNTLdLEmEYlzIYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/M/6eDGSlQn2y70OBBhBoyw/imagem-1200px.png"
     },
     {
-      "clusterId": "342332c2b378f59c",
-      "slug": "4bef9638d67c747d",
-      "titulo": "Caminhão sai da pista e capota em Jataí, motorista morre e animais são vítimas",
-      "resumo": "Na sexta‑feira (31/7), um caminhão que transportava animais saiu da GO‑050 em Jataí e tombou. O motorista ficou preso às ferragens e morreu no local. Alguns dos animais transportados também faleceram. O acidente ocorreu na pista da rodovia estadual.",
-      "porQueImporta": "O incidente evidencia riscos de transporte de carga e necessidade de segurança nas rodovias",
+      "clusterId": "e3f6c38a6264f76b",
+      "slug": "5f612bce379abb78",
+      "titulo": "Explosão em café de Moscou deixa três mortos e quinze feridos",
+      "resumo": "Uma explosão ocorreu por volta das 20h10 em um café com área externa em Moscou, resultando em três mortes e quinze feridos. A polícia local informou que investigadores e peritos permanecem no local, sem especificar a causa do incidente. As vítimas foram atendidas pelos serviços de emergência e encaminhadas aos hospitais. A ocorrência foi divulgada pelas autoridades de Moscou e noticiada internacionalmente.",
+      "porQueImporta": "O evento evidencia riscos de segurança em estabelecimentos públicos e demanda investigação para prevenir novos incidentes",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/explosao-em-restaurante-de-moscou-deixa-mortos/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/01/explosao-em-cafe-deixa-mortos-e-feridos-em-moscou.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-01T19:12:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/MQWJJpPIHs7OACiqf4Cgiqak__0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/W/WSlCffRBuJlbhhTXoJeA/2026-08-01t190318z-2059874848-rc2upmapzeqk-rtrmadp-3-russia-explosion.jpg"
+    },
+    {
+      "clusterId": "4b7dc00e679063e6",
+      "slug": "0737f44b73a36a16",
+      "titulo": "Carro tem frente destruída após atropelar dois cavalos em rodovia de Bauru",
+      "resumo": "Um motorista não conseguiu frear a tempo e colidiu com dois cavalos na Rodovia Comandante João Ribeiro de Barros, em Bauru (SP). O veículo ficou com a frente danificada e outro carro que seguia atrás também atingiu os animais. Os motoristas e um passageiro sofreram ferimentos leves e foram encaminhados ao pronto‑socorro, enquanto os cavalos morreram no local. A rodovia ficou interditada por mais de uma hora.",
+      "porQueImporta": "O acidente interrompeu o tráfego e resultou em vítimas humanas e animais, exigindo resposta de emergência.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/entorno/caminhao-sai-da-pista-tomba-e-motorista-morre-preso-as-ferragens"
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/01/carro-fica-destruido-apos-atropelar-cavalos-na-rodovia-em-bauru-animais-morreram.ghtml"
         }
       ],
-      "updatedAt": "2026-08-01T16:57:36.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/fotos-resgate-bombeiros-acidente-jatai-1.jpg"
+      "updatedAt": "2026-08-01T21:02:06.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ruMldqEAOT_WGbYR_yz146NqdHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/2/m5bzR4TK2F86Xut1yNXg/atropela-cavalo.jpg"
     },
     {
-      "clusterId": "ae89a89dfa42a929",
-      "slug": "e1cdd8e7aff8d14a",
-      "titulo": "Motociclista morre após bater em cavalo solto em rodovia no Piauí",
-      "resumo": "Sansão Alves de Oliveira, de 66 anos, morreu após a motocicleta que conduzia atingir um cavalo na noite de sexta-feira (31), em São Pedro do Piauí. Segundo a Polícia Militar, o acidente aconteceu no bairro Mutirão, quando o animal invadiu a pista e o motociclista não conseguiu desviar, colidindo contra ele. ✅ Siga o canal do g1 Piauí no WhatsApp Com o impacto, Sansão foi arremessado da motocicleta. Moradores acionaram o Serviço de Atendimento Móvel de Urgência (Samu), que prestou os primeiros socorros e o encaminhou ao Hospital Marcolina Barbosa. Devido à gravidade dos ferimentos, ele foi…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "clusterId": "db2233daab17b98b",
+      "slug": "cdfd5928d8cae3d2",
+      "titulo": "Incêndio atinge área de vegetação da Academia Militar das Agulhas Negras em Resende",
+      "resumo": "Um incêndio foi registrado na tarde de sábado na zona de vegetação da Academia Militar das Agulhas Negras, localizada em Resende (RJ). As chamas foram observadas próximo ao Campo de Instrução da unidade, conforme informações da própria academia. As equipes de combate ao fogo foram acionadas para controlar o incidente. Não foram divulgados danos materiais ou feridos até o momento.",
+      "porQueImporta": "A ocorrência envolve uma instalação militar, demandando atenção das autoridades e possíveis impactos nas atividades de treinamento.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/01/incendio-atinge-area-de-vegetacao-da-academia-militar-da-agulhas-negras-em-resende.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-01T20:43:57.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/gzrszzUoAR_JDG3OyIpmdLREssM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/D/AETXZ6Sty2WBqhZYcS4A/image-4-1-.png"
+    },
+    {
+      "clusterId": "69eb58afea4e5610",
+      "slug": "11cbf9858a9bfd27",
+      "titulo": "Ônibus da empresa Turp pega fogo e bloqueia avenida em Petrópolis",
+      "resumo": "Um ônibus da empresa Turp incendiou-se na manhã de sábado na Avenida Ipiranga, próximo à Catedral São Pedro de Alcântara, em Petrópolis. O condutor evacuou os passageiros e tentou usar o extintor, mas o fogo se alastrou rapidamente. O Corpo de Bombeiros controlou o incêndio e não houve feridos. A via ficou interditada até a remoção do veículo.",
+      "porQueImporta": "O incidente causou interrupção do tráfego urbano e mobilizou serviços de emergência.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/01/onibus-pega-fogo-e-interdita-avenida-em-petropolis.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-01T20:32:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DU8GhErx1j5KEBMCUekAUNg0j1Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/s/deqaJVSXeRDqB90tjlmg/bus.jpg"
+    },
+    {
+      "clusterId": "dd108f0f6367aa44",
+      "slug": "8d0dc76d717cee02",
+      "titulo": "Homem é intubado após acidente entre carro e moto na LMG-657 em Montes Claros",
+      "resumo": "Um carro e uma moto colidiram na LMG-657, conhecida como Estrada da Produção, em Montes Claros neste sábado. O Samu encontrou duas vítimas; uma delas apresentava traumatismo cranioencefálico grave e foi intubada no local. O outro homem, de 36 anos, também foi socorrido, porém com condição menos grave. As autoridades registraram o acidente e iniciaram as providências de atendimento.",
+      "porQueImporta": "Acidentes de trânsito com vítimas graves demandam resposta rápida dos serviços de emergência e impactam a segurança viária local",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/01/homem-e-intubado-na-lmg-657-apos-acidente-entre-carro-e-moto.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-01T20:31:22.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/pzSz_uUIg8-i4-TOxBOmImcSu1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/P/ULqV5SRAAskdOWW9Ce3w/1785615984887412-1-.jpg"
+    },
+    {
+      "clusterId": "ff149655a9287a6d",
+      "slug": "fdcc71773e6adcbb",
+      "titulo": "Motociclista de 37 anos morre ao colidir com a traseira de carro na BR-277 em Morretes",
+      "resumo": "Um motociclista de 37 anos colidiu na traseira de um carro na BR-277, sentido litoral, em Morretes, Paraná, neste sábado. O acidente provocou cerca de 6 km de lentidão no sentido Paranaguá e a pista ficou interditada para remoção dos veículos e limpeza. Até a última atualização, as equipes de socorro ainda trabalhavam no local.",
+      "porQueImporta": "O acidente resultou em morte e interrupção do tráfego em uma rodovia importante do estado",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/01/motociclista-morre-br-277-pr.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-01T20:27:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/lQTNDxZxPjEA9OF3XnokyRfEExg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/J1ujNUTS6tjxEZHnXUZQ/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-2026-08-01t172140.283.jpg"
+    },
+    {
+      "clusterId": "ac8e9133cacfb449",
+      "slug": "c036507e42190250",
+      "titulo": "Viatura da Polícia Militar colide com motociclista em fuga e causa acidente em Guarulhos",
+      "resumo": "Um motociclista de 31 anos foi atingido pela traseira da moto após ser perseguido pela Polícia Militar em Guarulhos, na Grande São Paulo, na madrugada de sábado. A colisão fez a viatura bater contra o muro de uma loja e o motociclista sofreu ferimentos. O incidente ocorreu no cruzamento da Rua Natal de Buoni com a Estrada Municipal, na região do Parque Mikail. Testemunhas gravaram o momento em vídeo.",
+      "porQueImporta": "O acidente evidencia riscos de perseguições policiais em áreas urbanas, afetando a segurança de pedestres e motoristas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/01/video-viatura-da-pm-atinge-motociclista-em-fuga-e-bate-em-muro-de-loja-em-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-01T20:25:18.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KftZav_yuiy--dHUInGHI3ZEZHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/G/hkbBx1Q7ak3FWt49Eukw/fotojet-84-.jpg"
+    },
+    {
+      "clusterId": "47d3021816cedfb0",
+      "slug": "50216e801677001c",
+      "titulo": "Quatro mortos em soterramento durante obra irregular em Cariacica",
+      "resumo": "Um deslizamento de terra soterrou o empresário Vanderson Santana, de 35 anos, e três pedreiros da mesma família em uma obra na distribuidora de bebidas em Cariacica, Grande Vitória. O empresário havia postado vídeos da obra nas redes sociais poucas horas antes do acidente. A obra estava embargada há um ano por irregularidades, segundo a Prefeitura de Cariacica. O incidente ocorreu na tarde de sexta‑feira, no bairro Nova Rosa da Penha II.",
+      "porQueImporta": "O caso evidencia riscos de obras irregulares e a necessidade de cumprimento de embargos de segurança.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/01/empresario-morto-em-deslizamento-postou-videos-da-obra-horas-antes-da-tragedia-no-es-3-pedreiros-tambem-morreram.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-01T20:14:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/m-bj0NYaFlEGIvbuzt3A5NIJfAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/l/1BwdmJTpSbSzEGyT1JRg/thumb-videos-g1-25-.jpg"
+    },
+    {
+      "clusterId": "3aa99164155f340b",
+      "slug": "d9d484578a0e5f2e",
+      "titulo": "Black Pantera lança álbum \"Continental\" com participação de Sandra Sá",
+      "resumo": "O grupo Black Pantera lançou o quinto álbum de estúdio, \"Continental\", disponível digitalmente. A música \"Quanto canto\" conta com a voz de Sandra Sá em colaboração com a banda. O álbum chega ao público em 21 de agosto.",
+      "porQueImporta": "A parceria destaca a união de estilos musicais diferentes no cenário nacional",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/01/professora-morre-apos-acidente.ghtml"
+          "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/01/sandra-sa-tem-voz-ancestral-incluida-em-musica-do-quinto-album-de-estudio-do-grupo-black-pantera-continental.ghtml"
         }
       ],
-      "updatedAt": "2026-08-01T16:50:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/D5HVfS42njlD_XYsJ-UkcGqfJiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/L/6aDem9Qb2CUYRmbvEdxA/g1-bg-02.jpg"
-    },
-    {
-      "clusterId": "7e6c543a0c2927d7",
-      "slug": "95def258752536a7",
-      "titulo": "Carreta desgovernada atinge lanchonete em Fronteira (MG)",
-      "resumo": "Na madrugada de sexta‑feira, uma carreta perdeu o controle ao fazer uma curva na Avenida Aurélio Luiz Mistieri, no centro de Fronteira, e colidiu com uma lanchonete. As imagens de câmeras de monitoramento e de moradores mostram a fachada do comércio danificada e a frente da carreta destruída. A Polícia Militar foi acionada para atender o incidente.",
-      "porQueImporta": "O acidente evidencia riscos de tráfego pesado em áreas urbanas e a necessidade de medidas de segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/01/video-carreta-desgovernada-atinge-lanchonete-no-interior-de-mg.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-01T16:44:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/KgiToe8qPg7rOxTJu0NO7cKVjI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/5/HN0InXRLmfrZEtVkMlcw/caminhao-desgovernado.png"
-    },
-    {
-      "clusterId": "a861b1e0daa5a0f6",
-      "slug": "d3be51ed4031f8ff",
-      "titulo": "Espanha resgata animais durante incêndios florestais",
-      "resumo": "A Guarda Civil e outras entidades mobilizaram equipes para capturar e proteger espécies afetadas por incêndios em áreas florestais da Espanha. As operações incluíram a retirada de animais de risco e o estabelecimento de abrigos temporários. O esforço foi coordenado em múltiplas regiões onde o fogo avançava rapidamente. As autoridades destacaram a importância de não deixar nenhum animal para trás durante o combate ao incêndio.",
-      "porQueImporta": "Mostra a integração entre proteção ambiental e resposta a emergências de incêndio",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/ninguem-fica-para-tras-como-espanha-salvou-animais-de-incendios-florestais/"
-        }
-      ],
-      "updatedAt": "2026-08-01T16:43:40.000Z"
-    },
-    {
-      "clusterId": "b6045112a5df7422",
-      "slug": "d888443645212c60",
-      "titulo": "Motorista é preso por suspeita de embriaguez após acidente que feriu criança de 11 anos no RN",
-      "resumo": "Na manhã de sábado, dois veículos que trafegavam em sentidos opostos colidiram de frente na RN-118, entre Macau e Pendências, na Costa Branca do Rio Grande do Norte. Um dos condutores apresentava sinais de embriaguez e foi detido em flagrante. A criança de 11 anos ficou gravemente ferida e foi encaminhada ao Hospital Regional Tarcísio Maia, em Mossoró. O motorista foi levado sob custódia à delegacia.",
-      "porQueImporta": "O caso evidencia riscos de dirigir sob efeito de álcool e a necessidade de fiscalização nas rodovias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/01/motorista-e-preso-por-suspeita-de-embriaguez-apos-acidente-que-deixou-crianca-gravemente-ferida-no-rn.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-01T16:31:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CG830MZUnS75GTQP8or4-Wqe5Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/K/B6vRZ1QBiztLkYA4ooMw/mixcollage-01-aug-2026-01-28-pm-3709.jpg"
-    },
-    {
-      "clusterId": "08381df90ae7e6c6",
-      "slug": "194b61788cc21f16",
-      "titulo": "Acidente entre moto e ônibus deixa um morto e outro gravemente ferido em Montes Claros",
-      "resumo": "Na manhã de sábado, uma colisão frontal entre uma moto e um ônibus ocorreu na Avenida Geraldo Athayde, bairro Alto São João, em Montes Claros. Segundo a Polícia Militar, o motociclista, de 25 anos, invadiu a contramão de forma desgovernada e morreu no local, sem possuir habilitação. O motorista do ônibus sofreu ferimentos graves e foi socorrido. A ocorrência foi registrada pela PM local.",
-      "porQueImporta": "O acidente evidencia riscos de condução sem habilitação e a necessidade de atenção nas vias urbanas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/01/batida-entre-moto-e-onibus-deixa-um-homem-morto-e-outro-gravemente-ferido-em-montes-claros.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-01T16:26:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vPWjD9r4W_WtGF__sU0ziYeKtoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/9/HVUyb0R0236ou9OA9mjQ/whatsapp-image-2026-08-01-at-08.53.32-1-1-.jpeg"
-    },
-    {
-      "clusterId": "010ac6befbf61013",
-      "slug": "d8e9cfc6741d8906",
-      "titulo": "Passageiro morre após colisão de carro com carreta na Rodovia Ronan Rocha em Franca, SP",
-      "resumo": "Um carro colidiu com a traseira de uma carreta na Rodovia Ronan Rocha (SP-345), em Patrocínio Paulista, na noite de terça‑feira. A vítima, identificada como Jorge do Carmo Junior, de 59 anos, foi socorrida e encaminhada à Santa Casa, mas faleceu na quarta‑feira. Seu sepultamento ocorreu na tarde de quinta‑feira em São Tomás de Aquino (MG).",
-      "porQueImporta": "O acidente evidencia riscos de colisões entre veículos leves e caminhões em rodovias movimentadas, afetando a segurança dos usuários.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/01/morre-passageiro-de-carro-que-bateu-em-carreta-na-rodovia-ronan-rocha-em-franca-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-01T15:39:24.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ahJ8cn7SHVN0p4L8l8APTHFPdIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/4/DCtUrISUaAAUD0ogmmQQ/carro-acidente.jpg"
-    },
-    {
-      "clusterId": "2ae2be455ec2a848",
-      "slug": "e4095ead5b604705",
-      "titulo": "Barco com 15 pessoas a bordo naufraga na baía do Marajó e todos são resgatados",
-      "resumo": "Um barco que transportava 15 pessoas e mercadorias começou a afundar na baía do Marajó, próximo à ilha de Cotijuba, enquanto se dirigia a Santa Cruz do Arari. A Polícia Civil confirmou que a falha mecânica foi a causa do naufrágio. Todas as pessoas a bordo foram resgatadas e socorridas. O incidente ocorreu na sexta‑feira, com a confirmação oficial no sábado.",
-      "porQueImporta": "O resgate rápido evitou vítimas em um acidente marítimo na região amazônica",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/para/noticia/2026/08/01/barco-com-15-pessoas-a-bordo-naufraga-na-baia-do-marajo-todos-sao-resgatados.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-01T15:28:57.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9JMorfMlnYVbTlG-wW_qNPQBMaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Z/MEy4AZQKShzkiTNse5pQ/geral-g1-25-.png"
-    },
-    {
-      "clusterId": "83bf3b9c69d7639e",
-      "slug": "14386c46d670eda1",
-      "titulo": "Dois jovens morrem após colisão entre moto e ônibus na rodovia AL-420 em Alagoas",
-      "resumo": "Na madrugada de sábado, por volta das 5h, uma motocicleta Honda Pop colidiu frontalmente com um ônibus na rodovia AL-420, na zona rural de São Miguel dos Campos, Alagoas. Os dois ocupantes da moto, ambos de 24 anos, foram declarados mortos no local pelos socorristas do SAMU. A Polícia Militar confirmou o acidente e está investigando as causas.",
-      "porQueImporta": "O acidente resultou em duas mortes e evidencia riscos nas rodovias rurais",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/al/alagoas/noticia/2026/08/01/dois-jovens-morrem-apos-moto-bater-em-onibus-em-alagoas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-01T15:26:13.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/notIGUd2wUQDYO51VS9IiV1nFxM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/u/3HxyCRQMAJpcbmQjxmow/whatsapp-image-2026-08-01-at-08.12.58.jpeg"
+      "updatedAt": "2026-08-01T20:02:07.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/eQ5VMZQcJQigzCPhkhOAR7r-3as=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/1/IACc2QQ4K3jxVfnUnr1A/creditos-hugo-brito-black-pantera-dsc08480.jpg"
     }
   ],
   "categorias": [
@@ -182,174 +187,146 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "342332c2b378f59c",
-          "slug": "4bef9638d67c747d",
-          "titulo": "Caminhão sai da pista e capota em Jataí, motorista morre e animais são vítimas",
-          "resumo": "Na sexta‑feira (31/7), um caminhão que transportava animais saiu da GO‑050 em Jataí e tombou. O motorista ficou preso às ferragens e morreu no local. Alguns dos animais transportados também faleceram. O acidente ocorreu na pista da rodovia estadual.",
-          "porQueImporta": "O incidente evidencia riscos de transporte de carga e necessidade de segurança nas rodovias",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/entorno/caminhao-sai-da-pista-tomba-e-motorista-morre-preso-as-ferragens"
-            }
-          ],
-          "updatedAt": "2026-08-01T16:57:36.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/08/fotos-resgate-bombeiros-acidente-jatai-1.jpg"
-        },
-        {
-          "clusterId": "7e6c543a0c2927d7",
-          "slug": "95def258752536a7",
-          "titulo": "Carreta desgovernada atinge lanchonete em Fronteira (MG)",
-          "resumo": "Na madrugada de sexta‑feira, uma carreta perdeu o controle ao fazer uma curva na Avenida Aurélio Luiz Mistieri, no centro de Fronteira, e colidiu com uma lanchonete. As imagens de câmeras de monitoramento e de moradores mostram a fachada do comércio danificada e a frente da carreta destruída. A Polícia Militar foi acionada para atender o incidente.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego pesado em áreas urbanas e a necessidade de medidas de segurança viária.",
+          "clusterId": "4b7dc00e679063e6",
+          "slug": "0737f44b73a36a16",
+          "titulo": "Carro tem frente destruída após atropelar dois cavalos em rodovia de Bauru",
+          "resumo": "Um motorista não conseguiu frear a tempo e colidiu com dois cavalos na Rodovia Comandante João Ribeiro de Barros, em Bauru (SP). O veículo ficou com a frente danificada e outro carro que seguia atrás também atingiu os animais. Os motoristas e um passageiro sofreram ferimentos leves e foram encaminhados ao pronto‑socorro, enquanto os cavalos morreram no local. A rodovia ficou interditada por mais de uma hora.",
+          "porQueImporta": "O acidente interrompeu o tráfego e resultou em vítimas humanas e animais, exigindo resposta de emergência.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/01/video-carreta-desgovernada-atinge-lanchonete-no-interior-de-mg.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/01/carro-fica-destruido-apos-atropelar-cavalos-na-rodovia-em-bauru-animais-morreram.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T16:44:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/KgiToe8qPg7rOxTJu0NO7cKVjI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/5/HN0InXRLmfrZEtVkMlcw/caminhao-desgovernado.png"
+          "updatedAt": "2026-08-01T21:02:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ruMldqEAOT_WGbYR_yz146NqdHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/2/m5bzR4TK2F86Xut1yNXg/atropela-cavalo.jpg"
         },
         {
-          "clusterId": "b6045112a5df7422",
-          "slug": "d888443645212c60",
-          "titulo": "Motorista é preso por suspeita de embriaguez após acidente que feriu criança de 11 anos no RN",
-          "resumo": "Na manhã de sábado, dois veículos que trafegavam em sentidos opostos colidiram de frente na RN-118, entre Macau e Pendências, na Costa Branca do Rio Grande do Norte. Um dos condutores apresentava sinais de embriaguez e foi detido em flagrante. A criança de 11 anos ficou gravemente ferida e foi encaminhada ao Hospital Regional Tarcísio Maia, em Mossoró. O motorista foi levado sob custódia à delegacia.",
-          "porQueImporta": "O caso evidencia riscos de dirigir sob efeito de álcool e a necessidade de fiscalização nas rodovias.",
+          "clusterId": "dd108f0f6367aa44",
+          "slug": "8d0dc76d717cee02",
+          "titulo": "Homem é intubado após acidente entre carro e moto na LMG-657 em Montes Claros",
+          "resumo": "Um carro e uma moto colidiram na LMG-657, conhecida como Estrada da Produção, em Montes Claros neste sábado. O Samu encontrou duas vítimas; uma delas apresentava traumatismo cranioencefálico grave e foi intubada no local. O outro homem, de 36 anos, também foi socorrido, porém com condição menos grave. As autoridades registraram o acidente e iniciaram as providências de atendimento.",
+          "porQueImporta": "Acidentes de trânsito com vítimas graves demandam resposta rápida dos serviços de emergência e impactam a segurança viária local",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/01/motorista-e-preso-por-suspeita-de-embriaguez-apos-acidente-que-deixou-crianca-gravemente-ferida-no-rn.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/01/homem-e-intubado-na-lmg-657-apos-acidente-entre-carro-e-moto.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T16:31:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CG830MZUnS75GTQP8or4-Wqe5Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/K/B6vRZ1QBiztLkYA4ooMw/mixcollage-01-aug-2026-01-28-pm-3709.jpg"
+          "updatedAt": "2026-08-01T20:31:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/pzSz_uUIg8-i4-TOxBOmImcSu1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/P/ULqV5SRAAskdOWW9Ce3w/1785615984887412-1-.jpg"
         },
         {
-          "clusterId": "08381df90ae7e6c6",
-          "slug": "194b61788cc21f16",
-          "titulo": "Acidente entre moto e ônibus deixa um morto e outro gravemente ferido em Montes Claros",
-          "resumo": "Na manhã de sábado, uma colisão frontal entre uma moto e um ônibus ocorreu na Avenida Geraldo Athayde, bairro Alto São João, em Montes Claros. Segundo a Polícia Militar, o motociclista, de 25 anos, invadiu a contramão de forma desgovernada e morreu no local, sem possuir habilitação. O motorista do ônibus sofreu ferimentos graves e foi socorrido. A ocorrência foi registrada pela PM local.",
-          "porQueImporta": "O acidente evidencia riscos de condução sem habilitação e a necessidade de atenção nas vias urbanas.",
+          "clusterId": "ff149655a9287a6d",
+          "slug": "fdcc71773e6adcbb",
+          "titulo": "Motociclista de 37 anos morre ao colidir com a traseira de carro na BR-277 em Morretes",
+          "resumo": "Um motociclista de 37 anos colidiu na traseira de um carro na BR-277, sentido litoral, em Morretes, Paraná, neste sábado. O acidente provocou cerca de 6 km de lentidão no sentido Paranaguá e a pista ficou interditada para remoção dos veículos e limpeza. Até a última atualização, as equipes de socorro ainda trabalhavam no local.",
+          "porQueImporta": "O acidente resultou em morte e interrupção do tráfego em uma rodovia importante do estado",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/01/batida-entre-moto-e-onibus-deixa-um-homem-morto-e-outro-gravemente-ferido-em-montes-claros.ghtml"
+              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/01/motociclista-morre-br-277-pr.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T16:26:59.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vPWjD9r4W_WtGF__sU0ziYeKtoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/9/HVUyb0R0236ou9OA9mjQ/whatsapp-image-2026-08-01-at-08.53.32-1-1-.jpeg"
+          "updatedAt": "2026-08-01T20:27:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lQTNDxZxPjEA9OF3XnokyRfEExg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/J1ujNUTS6tjxEZHnXUZQ/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-2026-08-01t172140.283.jpg"
         },
         {
-          "clusterId": "010ac6befbf61013",
-          "slug": "d8e9cfc6741d8906",
-          "titulo": "Passageiro morre após colisão de carro com carreta na Rodovia Ronan Rocha em Franca, SP",
-          "resumo": "Um carro colidiu com a traseira de uma carreta na Rodovia Ronan Rocha (SP-345), em Patrocínio Paulista, na noite de terça‑feira. A vítima, identificada como Jorge do Carmo Junior, de 59 anos, foi socorrida e encaminhada à Santa Casa, mas faleceu na quarta‑feira. Seu sepultamento ocorreu na tarde de quinta‑feira em São Tomás de Aquino (MG).",
-          "porQueImporta": "O acidente evidencia riscos de colisões entre veículos leves e caminhões em rodovias movimentadas, afetando a segurança dos usuários.",
+          "clusterId": "ac8e9133cacfb449",
+          "slug": "c036507e42190250",
+          "titulo": "Viatura da Polícia Militar colide com motociclista em fuga e causa acidente em Guarulhos",
+          "resumo": "Um motociclista de 31 anos foi atingido pela traseira da moto após ser perseguido pela Polícia Militar em Guarulhos, na Grande São Paulo, na madrugada de sábado. A colisão fez a viatura bater contra o muro de uma loja e o motociclista sofreu ferimentos. O incidente ocorreu no cruzamento da Rua Natal de Buoni com a Estrada Municipal, na região do Parque Mikail. Testemunhas gravaram o momento em vídeo.",
+          "porQueImporta": "O acidente evidencia riscos de perseguições policiais em áreas urbanas, afetando a segurança de pedestres e motoristas.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/01/morre-passageiro-de-carro-que-bateu-em-carreta-na-rodovia-ronan-rocha-em-franca-sp.ghtml"
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/01/video-viatura-da-pm-atinge-motociclista-em-fuga-e-bate-em-muro-de-loja-em-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T15:39:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ahJ8cn7SHVN0p4L8l8APTHFPdIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/4/DCtUrISUaAAUD0ogmmQQ/carro-acidente.jpg"
+          "updatedAt": "2026-08-01T20:25:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KftZav_yuiy--dHUInGHI3ZEZHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/G/hkbBx1Q7ak3FWt49Eukw/fotojet-84-.jpg"
         },
         {
-          "clusterId": "83bf3b9c69d7639e",
-          "slug": "14386c46d670eda1",
-          "titulo": "Dois jovens morrem após colisão entre moto e ônibus na rodovia AL-420 em Alagoas",
-          "resumo": "Na madrugada de sábado, por volta das 5h, uma motocicleta Honda Pop colidiu frontalmente com um ônibus na rodovia AL-420, na zona rural de São Miguel dos Campos, Alagoas. Os dois ocupantes da moto, ambos de 24 anos, foram declarados mortos no local pelos socorristas do SAMU. A Polícia Militar confirmou o acidente e está investigando as causas.",
-          "porQueImporta": "O acidente resultou em duas mortes e evidencia riscos nas rodovias rurais",
+          "clusterId": "c04f6d9881f168e2",
+          "slug": "4244f65af3de91e2",
+          "titulo": "Acidente entre moto e ônibus deixa dois mortos na Zona Norte de São Paulo",
+          "resumo": "Dois homens, de 32 e 54 anos, morreram na manhã de sábado após a motocicleta colidir com um ônibus na Rua Said Saad, na Zona Norte de São Paulo. O choque ocorreu enquanto a moto realizava uma conversão, conforme imagens de câmera de segurança. As equipes de resgate foram acionadas, mas os ocupantes da moto faleceram no local. O motorista do ônibus não teve ferimentos graves, segundo a Secretaria de Segurança Pública.",
+          "porQueImporta": "O acidente evidencia riscos de colisões entre veículos de grande porte e motocicletas em áreas urbanas movimentadas.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/al/alagoas/noticia/2026/08/01/dois-jovens-morrem-apos-moto-bater-em-onibus-em-alagoas.ghtml"
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/01/video-acidente-entre-moto-e-onibus-deixa-dois-mortos-na-zona-norte-de-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T15:26:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/notIGUd2wUQDYO51VS9IiV1nFxM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/u/3HxyCRQMAJpcbmQjxmow/whatsapp-image-2026-08-01-at-08.12.58.jpeg"
-        },
+          "updatedAt": "2026-08-01T19:42:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aIifAgbNQKuAqlq8q-2MhTHbvvE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/4/OLRpmZRIaEwqOJzk64Tw/fotojet-83-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
         {
-          "clusterId": "af4226bc8aeb2811",
-          "slug": "a25fe012721c347f",
-          "titulo": "Viatura da Polícia Penal colide com caminhão em rodovia no litoral de SP",
-          "resumo": "Por volta das 19h50 de sexta‑feira, uma viatura da Polícia Penal que transportava seis presos colidiu na traseira de um caminhão na Rodovia Padre Manoel da Nóbrega, em Itanhaém (SP). A Secretaria da Administração Penitenciária informou que ninguém ficou ferido. Os detentos foram transferidos para outro veículo e encaminhados ao Centro de Detenção Provisória de Praia Grande. O motorista e o passageiro do caminhão também seguiram viagem após a liberação da via.",
-          "porQueImporta": "O acidente envolve a segurança de presos e a circulação na rodovia, demandando atenção das autoridades de trânsito e penitenciárias",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "db2233daab17b98b",
+          "slug": "cdfd5928d8cae3d2",
+          "titulo": "Incêndio atinge área de vegetação da Academia Militar das Agulhas Negras em Resende",
+          "resumo": "Um incêndio foi registrado na tarde de sábado na zona de vegetação da Academia Militar das Agulhas Negras, localizada em Resende (RJ). As chamas foram observadas próximo ao Campo de Instrução da unidade, conforme informações da própria academia. As equipes de combate ao fogo foram acionadas para controlar o incidente. Não foram divulgados danos materiais ou feridos até o momento.",
+          "porQueImporta": "A ocorrência envolve uma instalação militar, demandando atenção das autoridades e possíveis impactos nas atividades de treinamento.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/01/viatura-com-seis-presos-bate-em-caminhao-em-rodovia-no-litoral-de-sp.ghtml"
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/01/incendio-atinge-area-de-vegetacao-da-academia-militar-da-agulhas-negras-em-resende.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T15:24:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5kgllfTn5Q7ktRyiJd1lMjtAtG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/L/ALOriXQ3SMbngGGBjXXw/fotos-materias-2026-08-01t112509.944.jpg"
+          "updatedAt": "2026-08-01T20:43:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gzrszzUoAR_JDG3OyIpmdLREssM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/D/AETXZ6Sty2WBqhZYcS4A/image-4-1-.png"
         },
         {
-          "clusterId": "6aadd9de2036fff6",
-          "slug": "d9405b2b23a2ffbd",
-          "titulo": "Motociclista morre após colidir com carro e ficar sob caçamba em Manaus",
-          "resumo": "Um motociclista de 30 anos morreu na manhã de sábado após colidir com um carro na Rua Hibisco, zona leste de Manaus. O impacto fez com que ele perdesse o controle da moto, caindo na pista e ficando sob uma caçamba que passava no local. O socorro chegou após o falecimento.",
-          "porQueImporta": "O caso evidencia riscos de acidentes de trânsito envolvendo veículos de carga em áreas urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "69eb58afea4e5610",
+          "slug": "11cbf9858a9bfd27",
+          "titulo": "Ônibus da empresa Turp pega fogo e bloqueia avenida em Petrópolis",
+          "resumo": "Um ônibus da empresa Turp incendiou-se na manhã de sábado na Avenida Ipiranga, próximo à Catedral São Pedro de Alcântara, em Petrópolis. O condutor evacuou os passageiros e tentou usar o extintor, mas o fogo se alastrou rapidamente. O Corpo de Bombeiros controlou o incêndio e não houve feridos. A via ficou interditada até a remoção do veículo.",
+          "porQueImporta": "O incidente causou interrupção do tráfego urbano e mobilizou serviços de emergência.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/01/motociclista-morre-apos-bater-em-carro-e-cair-debaixo-de-cacamba-em-manaus.ghtml"
+              "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/01/onibus-pega-fogo-e-interdita-avenida-em-petropolis.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T15:17:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/8Is9WVMrlZ2m717Pzqx0mlpep3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/b/bhrHyRTXAwR9P0yhw0fQ/motociclista-morre-apos-bater-em-carro-e-cair-debaixo-de-cacamba-em-manaus-foto-reproducao-redes-sociais.jpg"
+          "updatedAt": "2026-08-01T20:32:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DU8GhErx1j5KEBMCUekAUNg0j1Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/s/deqaJVSXeRDqB90tjlmg/bus.jpg"
         },
         {
-          "clusterId": "1434e1fcf69fed85",
-          "slug": "43fea2e6534a1c29",
-          "titulo": "Van da Prefeitura de Guimarânia capota e pega fogo na rodovia MGC-497 em Iturama",
-          "resumo": "Na madrugada da última sexta-feira, uma van da Secretaria Municipal de Saúde de Guimarânia capotou e incendiou-se na rodovia MGC-497, em Iturama, transportando um paciente e um acompanhante para Jales (SP). O motorista e os dois passageiros conseguiram sair do veículo e foram socorridos sem ferimentos graves. O acidente ocorreu enquanto o motorista não percebeu a presença de um obstáculo na via, segundo relato da secretária municipal.",
-          "porQueImporta": "O incidente evidencia riscos de transporte de pacientes em vias rurais e a necessidade de medidas de segurança para veículos de serviços públicos",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "3abdd228662b501f",
+          "slug": "8ec4b31efe974836",
+          "titulo": "Incêndio atinge estrutura de armazenamento de grãos às margens da BR-163 em Lucas do Rio Verde",
+          "resumo": "Um incêndio foi registrado em uma estrutura de armazenamento de grãos localizada às margens da BR-163, em Lucas do Rio Verde, neste sábado. As equipes do Corpo de Bombeiros foram acionadas, enviando duas viaturas ao local, e conseguiram controlar as chamas sem registro de feridos. O fogo concentrou‑se no interior da moega da unidade, apresentando risco de propagação para secadores e demais instalações.",
+          "porQueImporta": "O incidente demonstra a vulnerabilidade de instalações agrícolas a incêndios e a necessidade de resposta rápida dos serviços de emergência.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/01/van-de-prefeitura-bate-em-trevo-capota-e-pega-fogo-em-rodovia-no-interior-de-mg.ghtml"
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/01/incendio-atinge-estrutura-de-armazenamento-de-graos-as-margens-da-br-163-em-mt.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T14:57:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/w51Sdqp868oGMpGXTBNFufeTK-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/l/y8AuuKT5eVTjIMyaVJ6g/design-sem-nome-24-.png"
-        },
-        {
-          "clusterId": "a5534d870990e337",
-          "slug": "ad8d7060c2ad5ab5",
-          "titulo": "Jovem de 19 anos morre após carro colidir com árvore e pegar fogo em Pedregulho, SP",
-          "resumo": "Na madrugada de sábado, um carro colidiu com uma árvore na estrada vicinal Orlando Ferreira Lima, próximo ao distrito de Alto Porã, em Pedregulho (SP). O veículo ficou completamente destruído pelas chamas e o motorista, identificado como Pedro Gabriel da Silva, morreu no local. Ele estava sozinho no carro. O incidente foi registrado pelas autoridades locais.",
-          "porQueImporta": "O caso evidencia riscos de acidentes de trânsito em vias rurais e a necessidade de atenção ao dirigir em condições de baixa visibilidade.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/01/jovem-de-19-anos-morre-apos-carro-bater-em-arvore-e-pegar-fogo-em-pedregulho-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-01T14:47:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pqWRgVU0V-jJv6r4ntF6KnSlHs0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/uh8o0JSZG3qJxNYP4EpA/molduras-g1-2026-08-01t112238.297.png"
+          "updatedAt": "2026-08-01T19:30:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SyszAUhlz1GV3Cz6Vg7OBiqBYVk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/5/2vh9RKRoKuwiPbjT9dBg/videos-g1-69-.jpg"
         }
       ]
     },
@@ -358,89 +335,139 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "ae89a89dfa42a929",
-          "slug": "e1cdd8e7aff8d14a",
-          "titulo": "Motociclista morre após bater em cavalo solto em rodovia no Piauí",
-          "resumo": "Sansão Alves de Oliveira, de 66 anos, morreu após a motocicleta que conduzia atingir um cavalo na noite de sexta-feira (31), em São Pedro do Piauí. Segundo a Polícia Militar, o acidente aconteceu no bairro Mutirão, quando o animal invadiu a pista e o motociclista não conseguiu desviar, colidindo contra ele. ✅ Siga o canal do g1 Piauí no WhatsApp Com o impacto, Sansão foi arremessado da motocicleta. Moradores acionaram o Serviço de Atendimento Móvel de Urgência (Samu), que prestou os primeiros socorros e o encaminhou ao Hospital Marcolina Barbosa. Devido à gravidade dos ferimentos, ele foi…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "clusterId": "3aa99164155f340b",
+          "slug": "d9d484578a0e5f2e",
+          "titulo": "Black Pantera lança álbum \"Continental\" com participação de Sandra Sá",
+          "resumo": "O grupo Black Pantera lançou o quinto álbum de estúdio, \"Continental\", disponível digitalmente. A música \"Quanto canto\" conta com a voz de Sandra Sá em colaboração com a banda. O álbum chega ao público em 21 de agosto.",
+          "porQueImporta": "A parceria destaca a união de estilos musicais diferentes no cenário nacional",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/01/professora-morre-apos-acidente.ghtml"
+              "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/01/sandra-sa-tem-voz-ancestral-incluida-em-musica-do-quinto-album-de-estudio-do-grupo-black-pantera-continental.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T16:50:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/D5HVfS42njlD_XYsJ-UkcGqfJiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/L/6aDem9Qb2CUYRmbvEdxA/g1-bg-02.jpg"
+          "updatedAt": "2026-08-01T20:02:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/eQ5VMZQcJQigzCPhkhOAR7r-3as=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/1/IACc2QQ4K3jxVfnUnr1A/creditos-hugo-brito-black-pantera-dsc08480.jpg"
         },
         {
-          "clusterId": "8f80c1f1b52e221f",
-          "slug": "3e3c49f8654e597c",
-          "titulo": "Motoristas ficam feridos após colisão frontal na Anhanguera em Jundiaí",
-          "resumo": "Dois motoristas ficaram feridos após uma colisão frontal entre uma caminhonete e um carro na noite de sexta-feira (31), na Rodovia Anhanguera (SPM-330 E), em Jundiaí (SP). O acidente causou o bloqueio da pista por cerca de quatro horas para o socorro das vítimas e a remoção dos veículos. De acordo com o boletim de ocorrência, a batida envolveu uma caminhonete conduzida por um homem de 64 anos e um automóvel dirigido por um jovem de 20 anos. O condutor do carro sofreu impactos na cabeça e reclamava de dores no ombro, enquanto o motorista da caminhonete não apresentava lesões aparentes durante…",
+          "clusterId": "e08d6e579ef7ef1b",
+          "slug": "e108ff2499907641",
+          "titulo": "Trabalhador que morreu após ser atropelado por trator no Aterro Sanitário de Samambaia fazia aniversário neste sábado (1º)",
+          "resumo": "Pessoal O trabalhador que morreu após ser atropelado por um trator no Aterro Sanitário de Brasília, em Samambaia, fazia aniversário neste sábado (1º). A vítima foi identificada pelo Sindicato dos Trabalhadores da Limpeza Urbana (Sindlurb-DF) como Anderson Araújo, que completava 44 anos no dia do acidente. ✅ Clique aqui para seguir o canal do g1 DF no WhatsApp. De acordo com o Serviço de Limpeza Urbana (SLU), Anderson era funcionário de uma das empresas que integram o Consórcio Sustentare/Valor Ambiental, responsável pela operação do aterro. Ele não resistiu aos ferimentos e morreu no local. O…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/01/motoristas-ficam-feridos-apos-colisao-frontal-na-anhanguera-em-jundiai.ghtml"
+              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/01/trabalhador-que-morreu-apos-ser-atropelado-por-trator-no-aterro-sanitario-de-samambaia-fazia-aniversario-neste-sabado-1o.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T14:56:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/54V4E1fKO21fivrBoWIylevBJik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/k/JjMkGNTFm3YZ1kHO8VbQ/texto-do-seu-paragrafo-2026-08-01t105551.114.png"
+          "updatedAt": "2026-08-01T19:01:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jkro9nSCtx_4gQVhxzv-051D-b8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/C/7HzP6uTLe1kvMejLHBYg/imagem-g1-27-.png"
         },
         {
-          "clusterId": "6b706bfb3b296b64",
-          "slug": "48e6746300e131cc",
-          "titulo": "Motociclista morre após bater em poste na avenida Liberdade, em Uberlândia",
-          "resumo": "Um motociclista, de 58 anos, morreu na madrugada deste sábado (1º) após bater em um poste na avenida Liberdade, no bairro Patrimônio, em Uberlândia. Até a última atualização desta reportagem, não havia informações sobre a dinâmica da batida. A vítima foi identificada como Flávio Dias Ferreira. ✅ Clique aqui para seguir o canal do g1 Triângulo no WhatsApp O acidente Segundo o Serviço de Atendimento Móvel de Urgência (Samu), a equipe foi acionada por volta das 5h para atender uma ocorrência de colisão de motocicleta contra um poste, na altura do número 390 da avenida. Ao chegar ao local, os…",
+          "clusterId": "559520a74c510fb5",
+          "slug": "fcb6ae679d58cc71",
+          "titulo": "Corpo de homem é encontrado sob escombros de muro que desabou durante temporal em Ribeirão Preto, SP",
+          "resumo": "Corpo de homem é encontrado sob escombros de muro que desabou durante temporal em Ribeirão O corpo de um homem de 44 anos foi encontrado pelos bombeiros na tarde deste sábado (1º), em Ribeirão Preto (SP), sob os escombros de um imóvel abandonado na Vila Virgínia. A informação foi confirmada ao g1 pela Defesa Civil do Estado de São Paulo. O local, na Avenida Patriarca, é o mesmo onde um muro desabou durante o temporal que atingiu a cidade na última sexta-feira, 24 de julho. A vítima vivia em situação de rua e estava desaparecida há uma semana. No mesmo local em que ela foi encontrada, um outro…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/01/motociclista-morre-apos-bater-em-poste-na-avenida-liberdade-em-uberlandia.ghtml"
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/01/corpo-de-homem-e-encontrado-sob-escombros-de-muro-que-desabou-durante-temporal-em-ribeirao-preto-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T14:36:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ekQMejQyk9JRYYq7LkGBa0l9PU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/A/7RSRzpT2ujrWKH1ezhUA/design-sem-nome.png"
+          "updatedAt": "2026-08-01T18:35:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ONvXiRDtXsr6hgUdUv_4DrFgykc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/S/tOoqcqTLKhdgfOhQIGfg/design-sem-nome.png"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "e3f6c38a6264f76b",
+          "slug": "5f612bce379abb78",
+          "titulo": "Explosão em café de Moscou deixa três mortos e quinze feridos",
+          "resumo": "Uma explosão ocorreu por volta das 20h10 em um café com área externa em Moscou, resultando em três mortes e quinze feridos. A polícia local informou que investigadores e peritos permanecem no local, sem especificar a causa do incidente. As vítimas foram atendidas pelos serviços de emergência e encaminhadas aos hospitais. A ocorrência foi divulgada pelas autoridades de Moscou e noticiada internacionalmente.",
+          "porQueImporta": "O evento evidencia riscos de segurança em estabelecimentos públicos e demanda investigação para prevenir novos incidentes",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/explosao-em-restaurante-de-moscou-deixa-mortos/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/01/explosao-em-cafe-deixa-mortos-e-feridos-em-moscou.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-01T19:12:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MQWJJpPIHs7OACiqf4Cgiqak__0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/W/WSlCffRBuJlbhhTXoJeA/2026-08-01t190318z-2059874848-rc2upmapzeqk-rtrmadp-3-russia-explosion.jpg"
         },
         {
-          "clusterId": "b3a466cdcb082e0e",
-          "slug": "bef46e16dbde0e6e",
-          "titulo": "Incêndio atinge terreno e destrói 15 mil m² de vegetação em Jacareí",
-          "resumo": "Incêndio atinge terreno e destrói 15 mil m² de vegetação em bairro de Jacareí, SP Um incêndio atingiu uma área de mata em Jacareí (SP), entre os bairros Parque Santo Antônio e Jardim Maria Amélia, na tarde desta sexta-feira (31). Segundo a Defesa Civil, cerca de 15 mil m² de vegetação foram queimados — área equivalente a aproximadamente dois campos de futebol. O caso aconteceu por volta das 18h, em um terreno entre a Rua Professora Olinda Almeida Mercadante e a Rua José Teodoro de Siqueira. ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e região no WhatsApp O morador Caio Zem…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "2aef956ad919cc61",
+          "slug": "600802f903aa825a",
+          "titulo": "Atentado com caminhão-bomba fere 11 pessoas em Cúcuta, Colômbia",
+          "resumo": "Um caminhão carregado de explosivos detonou no prédio do comando da Polícia do Norte de Santander, na cidade de Cúcuta, próximo à fronteira com a Venezuela. A explosão deixou pelo menos 11 feridos e causou danos ao edifício e às fachadas ao redor. O incidente ocorreu seis dias antes da posse do presidente eleito Abelardo de la Espriella. As autoridades isolaram a área e iniciaram as investigações.",
+          "porQueImporta": "O ataque evidencia a instabilidade na região fronteiriça e pode impactar a segurança pública antes da transição presidencial.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/01/incendio-atinge-terreno-e-destroi-15-mil-m-de-vegetacao-em-jacarei.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/01/atentado-com-caminhao-carregado-com-explosivos-deixa-feridos-na-colombia.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T14:34:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/2JDsZAO0zktIORYBxl79VZPiQDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/d/ePHwrvSrCoiWDCXjJXvw/foto-g1.png"
+          "updatedAt": "2026-08-01T13:21:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DTX2F8MmICjl1RksutL0tjNXEDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/S/j0p4aOQd6G62Zvkm7bYw/novo-projeto-8-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "0a2a584716b69de2",
+          "slug": "8d61b4377d1ac485",
+          "titulo": "Inmet renova alerta amarelo de vendaval para toda a Paraíba",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) prorrogou o alerta de perigo potencial de vendaval para os 223 municípios da Paraíba. O aviso, inicialmente válido até o fim do sábado, foi estendido até 23h59 de domingo. Os ventos previstos variam entre 40 km/h e 60 km/h, com risco baixo de queda de galhos. A medida visa manter a população informada sobre a condição climática.",
+          "porQueImporta": "A extensão do alerta alerta a população para possíveis impactos e orienta medidas de precaução.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/01/inmet-renova-alerta-amarelo-de-vendaval-para-todas-as-cidades-da-paraiba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-01T19:04:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jz8ZAULGanCUHuX7HfdDBiJm9fw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/t/BAlYKYQeCa4cFWFjtrTA/captura-de-tela-392-.png"
         },
         {
-          "clusterId": "d3ca6dc9389bdf91",
-          "slug": "724a9f596b2f0e23",
-          "titulo": "ExpoGranito 2026 é cancelada por causa da seca no Sertão de Pernambuco",
-          "resumo": "ExpoGranito 2025 Diego Fotografia A Prefeitura de Granito, no Sertão de Pernambuco, anunciou o cancelamento da ExpoGranito 2026. O evento agropecuário, um dos mais tradicionais da região, seria realizado entre os dias 14 e 16 de agosto. Em nota divulgada nas redes sociais, a gestão municipal explicou que a medida foi motivada pela forte seca. O município está em situação de emergência, reconhecida pelo decreto municipal nº 032/2026. 📱:Baixe o app do g1 para ver notícias de Petrolina e Região em tempo real e de graça “A decisão foi tomada em razão do atual cenário de estiagem conforme o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "59afc4d3fd928a44",
+          "slug": "588c63f17f08d40f",
+          "titulo": "Brasil registra 81 tornados até julho e pode superar recorde de 2025",
+          "resumo": "Até o final de julho de 2026, foram contabilizados 81 tornados no país, número que já supera a metade do recorde de 92 ocorridos em 2025. A ocorrência recente em Giruá (RS) ocorreu na terça‑feira (28/7) e ocorre em um período de maior atividade, que costuma se concentrar entre o fim do inverno e a primavera. As condições climáticas, reforçadas por um forte El Niño, aumentam a propensão a tempestades severas na região Sul, favorecendo novos registros antes do pico da temporada.",
+          "porQueImporta": "O aumento dos tornados evidencia mudanças climáticas que podem elevar riscos de desastres severos no país",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/08/01/expogranito-2026-e-cancelada-por-causa-da-seca-no-sertao-de-pernambuco.ghtml"
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cy8eg60yewzo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "updatedAt": "2026-08-01T14:28:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/e7ZA3u86IsLTWywv3kZtV9600yg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/B/AccG2DRgWyi21cvpcVTQ/img-0515.jpg"
+          "updatedAt": "2026-07-31T08:24:02.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f412/live/cd33a1c0-8c63-11f1-b37e-a785e512696a.jpg"
         }
       ]
     },
@@ -484,80 +511,75 @@
       ]
     },
     {
-      "slug": "naufragio",
-      "label": "Naufrágio",
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "2ae2be455ec2a848",
-          "slug": "e4095ead5b604705",
-          "titulo": "Barco com 15 pessoas a bordo naufraga na baía do Marajó e todos são resgatados",
-          "resumo": "Um barco que transportava 15 pessoas e mercadorias começou a afundar na baía do Marajó, próximo à ilha de Cotijuba, enquanto se dirigia a Santa Cruz do Arari. A Polícia Civil confirmou que a falha mecânica foi a causa do naufrágio. Todas as pessoas a bordo foram resgatadas e socorridas. O incidente ocorreu na sexta‑feira, com a confirmação oficial no sábado.",
-          "porQueImporta": "O resgate rápido evitou vítimas em um acidente marítimo na região amazônica",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
+          "clusterId": "e6444212462e19a8",
+          "slug": "140e719729580580",
+          "titulo": "Avião turístico cai no Peru e deixa 13 mortos",
+          "resumo": "Um avião de pequeno porte que transportava turistas para sobrevoar as Linhas de Nazca caiu pouco depois da decolagem do aeroporto de Pisco, no sul do Peru. A polícia informou que havia 11 passageiros e dois tripulantes a bordo, totalizando 13 vítimas fatais. A causa da queda ainda não foi determinada. O acidente ocorreu por volta das 13h (horário local).",
+          "porQueImporta": "O incidente evidencia riscos de voos turísticos sobre áreas arqueológicas e gera preocupação com a segurança da aviação civil regional.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/08/01/barco-com-15-pessoas-a-bordo-naufraga-na-baia-do-marajo-todos-sao-resgatados.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-01T15:28:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9JMorfMlnYVbTlG-wW_qNPQBMaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Z/MEy4AZQKShzkiTNse5pQ/geral-g1-25-.png"
-        },
-        {
-          "clusterId": "4a6a6f2eeae23719",
-          "slug": "34d0bc94c9ba8e9b",
-          "titulo": "Naufrágio nazista e restos de mamute são descobertos após rio recuar",
-          "resumo": "Durante a seca que reduziu o nível de um rio europeu, foram encontrados os destroços de um navio de origem nazista e ossos de mamute. As descobertas foram feitas por equipes de arqueologia subaquática que investigam o leito exposto. Os achados indicam a presença de embarcações centenárias e de fauna pré-histórica na região. A pesquisa está em andamento para identificar o navio e analisar os fósseis.",
-          "porQueImporta": "Revela patrimônio histórico e paleontológico oculto em ambientes fluviais",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
-          "sources": [
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/01/aviao-de-pequeno-porte-cai-no-peru-e-deixa-mortos-vitimas-iam-sobrevoar-as-linhas-de-nazca.ghtml"
+            },
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/ciencia/naufragio-nazista-e-restos-de-mamute-sao-descobertos-apos-rio-retrair/"
+              "url": "https://www.cnnbrasil.com.br/internacional/acidente-com-aviao-turistico-deixa-13-mortos-no-peru/"
             }
           ],
-          "updatedAt": "2026-08-01T12:13:33.000Z"
+          "updatedAt": "2026-08-01T21:00:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/elo8UAKZmUiCkNTLdLEmEYlzIYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/M/6eDGSlQn2y70OBBhBoyw/imagem-1200px.png"
         }
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
+      "slug": "deslizamento",
+      "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "94f15d1403623da9",
-          "slug": "605cb8b1924585a9",
-          "titulo": "Rio ainda tem 14 mil clientes sem energia após vendaval",
-          "resumo": "Três dias depois do vendaval que atingiu a capital, ainda há cerca de 14 mil residências sem energia elétrica. A concessionária Light informou que restabeleceu o fornecimento para aproximadamente 1,09 milhão de consumidores, mas continua realizando reparos na Zona Oeste e na Baixada Fluminense.",
-          "porQueImporta": "A falta de energia afeta milhares de moradores e pode impactar serviços essenciais na região",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
+          "clusterId": "47d3021816cedfb0",
+          "slug": "50216e801677001c",
+          "titulo": "Quatro mortos em soterramento durante obra irregular em Cariacica",
+          "resumo": "Um deslizamento de terra soterrou o empresário Vanderson Santana, de 35 anos, e três pedreiros da mesma família em uma obra na distribuidora de bebidas em Cariacica, Grande Vitória. O empresário havia postado vídeos da obra nas redes sociais poucas horas antes do acidente. A obra estava embargada há um ano por irregularidades, segundo a Prefeitura de Cariacica. O incidente ocorreu na tarde de sexta‑feira, no bairro Nova Rosa da Penha II.",
+          "porQueImporta": "O caso evidencia riscos de obras irregulares e a necessidade de cumprimento de embargos de segurança.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rio-ainda-tem-14-mil-clientes-sem-luz-quatro-dias-apos-temporal/"
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/01/empresario-morto-em-deslizamento-postou-videos-da-obra-horas-antes-da-tragedia-no-es-3-pedreiros-tambem-morreram.ghtml"
             }
           ],
-          "updatedAt": "2026-08-01T13:19:59.000Z"
-        },
+          "updatedAt": "2026-08-01T20:14:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/m-bj0NYaFlEGIvbuzt3A5NIJfAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/l/1BwdmJTpSbSzEGyT1JRg/thumb-videos-g1-25-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
         {
-          "clusterId": "59afc4d3fd928a44",
-          "slug": "588c63f17f08d40f",
-          "titulo": "Brasil registra 81 tornados até julho e pode superar recorde de 2025",
-          "resumo": "Até o final de julho de 2026, foram contabilizados 81 tornados no país, número que já supera a metade do recorde de 92 ocorridos em 2025. A ocorrência recente em Giruá (RS) ocorreu na terça‑feira (28/7) e ocorre em um período de maior atividade, que costuma se concentrar entre o fim do inverno e a primavera. As condições climáticas, reforçadas por um forte El Niño, aumentam a propensão a tempestades severas na região Sul, favorecendo novos registros antes do pico da temporada.",
-          "porQueImporta": "O aumento dos tornados evidencia mudanças climáticas que podem elevar riscos de desastres severos no país",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
+          "clusterId": "ebb1e79da6203b3e",
+          "slug": "e3a994b9d3a954ba",
+          "titulo": "Famílias ainda aguardam moradia após tragédia das chuvas de 2011 em Teresópolis",
+          "resumo": "Quinze anos depois das chuvas que atingiram Teresópolis, muitas famílias permanecem sem residência definitiva, com casas interditadas e dificuldades decorrentes do fim do aluguel social. Representantes das vítimas apontam que ainda faltam cerca de 500 unidades habitacionais, embora reconheçam que o número não atenderá a todas as famílias afetadas. A entrega dos apartamentos prometidos pelo poder público tem sido atrasada, ampliando a situação de vulnerabilidade dos moradores.",
+          "porQueImporta": "A falta de moradia adequada prolonga o sofrimento das vítimas e evidencia falhas na resposta pública a desastres naturais.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cy8eg60yewzo?at_medium=RSS&at_campaign=rss"
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/01/familias-seguem-sem-moradia-15-anos-apos-tragedia-das-chuvas-em-teresopolis.ghtml"
             }
           ],
-          "updatedAt": "2026-07-31T08:24:02.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f412/live/cd33a1c0-8c63-11f1-b37e-a785e512696a.jpg"
+          "updatedAt": "2026-08-01T19:30:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/nqkbx80Gk9wb8ed1GIU53GTS3XU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/H/q8U2AYRuic8hWKDGrqiA/conjunto-habitacional-em-teresopolis.jpg"
         }
       ]
     },
@@ -566,7 +588,7 @@
       "label": "Desastre",
       "stories": [
         {
-          "clusterId": "656d5057007d0466",
+          "clusterId": "8f709cacb5b23c9b",
           "slug": "507eeece770c3010",
           "titulo": "Terremoto de magnitude 4,7 causa apagões e feridos no sul da Itália",
           "resumo": "Um terremoto de magnitude 4,7 atingiu a região de Campi Flegrei, perto de Nápoles, no sul da Itália, provocando apagões e danos a alguns edifícios. O tremor também causou queda de rochas e suspensão de trens. De acordo com a imprensa local, entre quatro e oito pessoas ficaram feridas.",
@@ -577,37 +599,10 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/07/31/terremoto-no-sul-da-italia-causa-apagoes-estragos-e-assusta-moradores.ghtml"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/terremoto-no-sul-da-italia-abala-edificios-e-forca-a-evacuacao-de-centenas-de-pessoas/"
             }
           ],
-          "updatedAt": "2026-08-01T14:04:43.000Z",
+          "updatedAt": "2026-07-31T19:31:05.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/6AbzTqCwR2tpZo7syPe3TFTvUa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/N/gVArr1RYOnKXb8sNV2lw/2026-07-31t201113z-1098756962-rc28pmamg38n-rtrmadp-3-italy-quake.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "2aef956ad919cc61",
-          "slug": "600802f903aa825a",
-          "titulo": "Atentado com caminhão-bomba fere 11 pessoas em Cúcuta, Colômbia",
-          "resumo": "Um caminhão carregado de explosivos detonou no prédio do comando da Polícia do Norte de Santander, na cidade de Cúcuta, próximo à fronteira com a Venezuela. A explosão deixou pelo menos 11 feridos e causou danos ao edifício e às fachadas ao redor. O incidente ocorreu seis dias antes da posse do presidente eleito Abelardo de la Espriella. As autoridades isolaram a área e iniciaram as investigações.",
-          "porQueImporta": "O ataque evidencia a instabilidade na região fronteiriça e pode impactar a segurança pública antes da transição presidencial.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/01/atentado-com-caminhao-carregado-com-explosivos-deixa-feridos-na-colombia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-01T13:21:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DTX2F8MmICjl1RksutL0tjNXEDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/S/j0p4aOQd6G62Zvkm7bYw/novo-projeto-8-.jpg"
         }
       ]
     },
