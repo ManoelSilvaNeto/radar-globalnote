@@ -1,9 +1,15 @@
 {
-  "ranAt": "2026-08-01T10:17:19.273Z",
+  "ranAt": "2026-08-01T14:07:44.472Z",
   "editionDate": "2026-08-01",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito lideram registros enquanto eventos climáticos e incidentes de segurança aumentam a pressão sobre serviços públicos\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: erro — sem cota (429)",
+    "cerebras: ok"
+  ]
 }
