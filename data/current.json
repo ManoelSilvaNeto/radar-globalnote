@@ -1,27 +1,57 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T07:08:59.046Z",
+  "generatedAt": "2026-08-02T10:15:50.928Z",
   "home": [
     {
-      "clusterId": "e6444212462e19a8",
-      "slug": "140e719729580580",
-      "titulo": "Avião turístico cai no Peru e deixa 13 mortos",
-      "resumo": "Um avião de pequeno porte que transportava turistas para sobrevoar as Linhas de Nazca caiu pouco depois da decolagem do aeroporto de Pisco, no sul do Peru. A polícia informou que havia 11 passageiros e dois tripulantes a bordo, totalizando 13 vítimas fatais. A causa da queda ainda não foi determinada. O acidente ocorreu por volta das 13h (horário local).",
-      "porQueImporta": "O incidente evidencia riscos de voos turísticos sobre áreas arqueológicas e gera preocupação com a segurança da aviação civil regional.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
+      "clusterId": "03393de1bfd55b80",
+      "slug": "3b9e52866c0f8e4a",
+      "titulo": "Zoológico de Manaus oferece picolés de carne e frutas para animais durante o verão",
+      "resumo": "O Zoológico do Centro de Instrução de Guerra na Selva, em Manaus, adotou a distribuição de picolés feitos de carne e frutas para cerca de 400 animais. A medida faz parte de um conjunto de ações voltadas ao bem‑estar dos animais no período de estiagem, quando as temperaturas são elevadas.",
+      "porQueImporta": "Ajuda a reduzir o estresse térmico dos animais em clima de calor intenso",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/01/aviao-de-pequeno-porte-cai-no-peru-e-deixa-mortos-vitimas-iam-sobrevoar-as-linhas-de-nazca.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/acidente-com-aviao-turistico-deixa-13-mortos-no-peru/"
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/02/picoles-de-carne-frutas-e-ate-nevoa-como-zoologico-de-manaus-ajuda-animais-a-enfrentar-o-calor-no-verao-amazonico.ghtml"
         }
       ],
-      "updatedAt": "2026-08-01T21:00:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/elo8UAKZmUiCkNTLdLEmEYlzIYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/M/6eDGSlQn2y70OBBhBoyw/imagem-1200px.png"
+      "updatedAt": "2026-08-02T08:00:13.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/tb9RbpynG23y6PUi5KCWSu5StLM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/h/Cgg3vyQtWE9qBEWbtiSA/design-sem-nome-26-.png"
+    },
+    {
+      "clusterId": "7ce2ed4fca322d2c",
+      "slug": "ba05382aee39c202",
+      "titulo": "Menino de 5 anos morre em incêndio residencial em Ponta Grossa no dia do aniversário",
+      "resumo": "Um incêndio consumiu a residência onde vivia Benjamin Luiz de Souza, de cinco anos, em Ponta Grossa, Paraná, no dia em que completava a idade. A mãe do garoto relatou que recebeu um último abraço antes do desabamento das chamas. A bisavó de 84 anos, também presente, foi socorrida e permanecia internada e entubada. As causas do fogo não foram divulgadas na reportagem.",
+      "porQueImporta": "O caso evidencia a vulnerabilidade de residências a incêndios e a necessidade de medidas de prevenção, sobretudo em datas comemorativas.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/02/mae-menino-morre-incendio-aniversario-no-pr.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-02T07:00:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/k9gDFSqkxvMyUS4YpEz0zvls0Ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/V/EthY5DRVK9TfXduRs7kA/crianca-casa.png"
+    },
+    {
+      "clusterId": "105f557e04592d36",
+      "slug": "6b2b6759d676b236",
+      "titulo": "Quatro mortos em soterramento durante ampliação de estabelecimento em Cariacica",
+      "resumo": "Na tarde de sexta‑feira (31), um barranco cedeu durante a escavação da obra de ampliação de uma distribuidora de bebidas em Cariacica (ES), soterrando o proprietário e três pedreiros da mesma família. As vítimas foram identificadas como o empresário Vanderson Santana André, de 35 anos, e os pedreiros Ronival Moreira de Jesus, seu filho Ruan Moreira da Luz e o tio Valdomiro Moreira de Jesus. O acidente ocorreu enquanto a equipe realizava a escavação para a expansão do estabelecimento. As quatro pessoas foram enterradas no local.",
+      "porQueImporta": "O incidente evidencia riscos de segurança em obras civis e a necessidade de medidas preventivas em escavações de barrancos.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/02/empresario-e-tres-pedreiros-da-mesma-familia-saiba-quem-eram-as-4-vitimas-de-soterramento-em-obra-no-es.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-02T07:00:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/5XFHUS1ltL0AUTWJgu_m9zHw0FY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/d/LGmRB0Qni6OBaOzAwJLA/thumb-videos-g1-24-.jpg"
     },
     {
       "clusterId": "24551bd5e6f5eaf7",
@@ -39,91 +69,6 @@
       ],
       "updatedAt": "2026-08-02T03:00:12.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/d3P-o_myrprBIfEWqn2z_YIXkAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/k/zxBItxS0i8VeT8GO2iaA/vt-protecao-florestas-news-okok.transfer-frame-4235.png"
-    },
-    {
-      "clusterId": "8e8adfae2d7c3479",
-      "slug": "8dc5af6a6a07d4ff",
-      "titulo": "Deslizamento em obra irregular mata quatro pessoas",
-      "resumo": "Um deslizamento ocorreu em uma obra irregular na região de Cariacica, Grande Vitória, no Espírito Santo, soterrando quatro trabalhadores. A queda do barranco aconteceu na sexta-feira, 30, e todos ficaram enterrados. A obra fazia parte da ampliação de uma distribuidora de bebidas. A Polícia do Espírito Santo está investigando o acidente.",
-      "porQueImporta": "O incidente destaca os riscos de obras não regulamentadas e a necessidade de fiscalização adequada.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/01/deslizamento-em-obra-irregular-no-espirito-santo-mata-quatro-pessoas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-02T01:48:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/w1E-mnAj1trbxZLS6whVhuNrOy0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/6/pBCf0cTeABe6ZUMR8AjA/deslizamento-es-0001.png"
-    },
-    {
-      "clusterId": "69bd49b4d88c2210",
-      "slug": "f591daf6a4c82346",
-      "titulo": "Empresa multada por derramamento de biodiesel no Rio Meia Ponte",
-      "resumo": "A transportadora Primavera Diesel Ltda. foi multada em R$ 2 milhões após uma carreta com biodiesel tombar no Rio Meia Ponte, na GO‑403, entre Goiânia e Senador Canedo. O acidente, ocorrido no sábado (1°), causou o vazamento de cerca de 56 mil litros de combustível no rio. Equipes da Defesa Civil, da Agência Municipal do Meio Ambiente e da Secretaria Municipal de Eficiência foram enviadas ao local para avaliar os danos e prevenir maiores impactos ambientais.",
-      "porQueImporta": "O vazamento de biodiesel pode causar danos significativos ao ecossistema aquático e à saúde pública.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/go/goias/transito/noticia/2026/08/01/empresa-e-multada-em-r-2-milhoes-por-derramamento-de-biodiesel-no-rio-meia-ponte-apos-acidente-com-carreta.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-02T00:55:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/W8uoTDixpG2mvkpF1SCYeAQnYoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Z/u97PByQIebaKm2zVToZg/co-5-.jpg"
-    },
-    {
-      "clusterId": "8e3bc7e88ca5af53",
-      "slug": "f713297fc7af73ae",
-      "titulo": "Incêndio em apartamento de condomínio em Campinas obriga evacuação",
-      "resumo": "Um incêndio começou em uma impressora no último andar do condomínio Parque Itália, em Campinas, e se espalhou pelo apartamento. O Corpo de Bombeiros suspeita de pane elétrica como causa. A rua adjacente foi interditada para atendimento e evacuação. Não houve feridos registrados.",
-      "porQueImporta": "O incidente destaca riscos de incêndio em residências urbanas e a necessidade de medidas de segurança em condomínios.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/moradores-de-condominio-em-campinas-precisam-evacuar-predio-apos-incendio-em-apartamento.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-02T00:24:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/RcnmdZSFQyoCt3nHOoLsb2KmNu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/6F6mxQTpajCXTo1SY7aQ/bombeiros-socorro.jpg"
-    },
-    {
-      "clusterId": "463ee5a4d08ec65a",
-      "slug": "726e43c3f7fc9f64",
-      "titulo": "Acidente entre motos em Mocajuba deixa quatro mortos",
-      "resumo": "Na manhã de sábado, na PA-151, próximo à Vila do Areião, ocorreu uma colisão entre duas motos que resultou na morte de quatro pessoas. Entre os mortos estavam dois policiais militares que se dirigiam ao trabalho em Baião. Os nomes das outras duas vítimas não foram divulgados. A Polícia Civil solicitou perícias e a oitiva de testemunhas para esclarecer as circunstâncias.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária em estradas estaduais do Pará.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/para/noticia/2026/08/01/dois-pms-estao-entre-os-mortos-em-batida-entre-motos-em-mocajuba-no-pa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-02T00:13:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/rwOyrqWsPY52aSNLFPfx_kV0e_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/k/qNKsFJRaaogzUuqNZSlg/image-2026-08-01t211618.613.png"
-    },
-    {
-      "clusterId": "09929dc863f5a25a",
-      "slug": "af65a621886c78ba",
-      "titulo": "Homem morre em acidente na rodovia SP-350 em Tapiratiba",
-      "resumo": "Um homem morreu na tarde de sábado em um acidente envolvendo dois veículos na Rodovia Deputado Eduardo Vicente Nasser (SP-350), em Tapiratiba (SP). A vítima estava sozinha no carro que colidiu frontalmente com outro veículo. Não há informações sobre a identidade da vítima nem sobre feridos no segundo carro. As causas do acidente ainda não foram divulgadas.",
-      "porQueImporta": "O acidente evidencia riscos nas rodovias do interior de São Paulo e a necessidade de atenção ao trânsito.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/01/grave-acidente-mata-uma-pessoa-em-rodovia-do-interior-de-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-01T23:27:27.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/3Uqw5XEK9ZqAGZ80QvKBjsyUy2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/G/FX7oHURrqNI8EpzDP8kQ/whatsapp-image-2026-08-01-at-19.20.08.jpeg"
     },
     {
       "clusterId": "b660fb242c7e4b21",
@@ -159,6 +104,23 @@
       "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/AFP__20241014__shrestha-recordho241014_npP1p__v1__HighRes__RecordHoldingMountainClim.jpg?quality=70&strip=info"
     },
     {
+      "clusterId": "ba93e0fe56663fd9",
+      "slug": "140e719729580580",
+      "titulo": "Avião turístico cai no Peru e deixa 13 mortos",
+      "resumo": "Um avião de pequeno porte que transportava turistas para sobrevoar as Linhas de Nazca caiu pouco depois da decolagem do aeroporto de Pisco, no sul do Peru. A polícia informou que havia 11 passageiros e dois tripulantes a bordo, totalizando 13 vítimas fatais. A causa da queda ainda não foi determinada. O acidente ocorreu por volta das 13h (horário local).",
+      "porQueImporta": "O incidente evidencia riscos de voos turísticos sobre áreas arqueológicas e gera preocupação com a segurança da aviação civil regional.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/01/aviao-de-pequeno-porte-cai-no-peru-e-deixa-mortos-vitimas-iam-sobrevoar-as-linhas-de-nazca.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-01T20:41:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/elo8UAKZmUiCkNTLdLEmEYlzIYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/M/6eDGSlQn2y70OBBhBoyw/imagem-1200px.png"
+    },
+    {
       "clusterId": "e6e508b08545296f",
       "slug": "172843919a50264d",
       "titulo": "Explosão em café deixa três mortos e quinze feridos em Moscou",
@@ -174,63 +136,80 @@
       ],
       "updatedAt": "2026-08-01T19:12:53.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/MQWJJpPIHs7OACiqf4Cgiqak__0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/W/WSlCffRBuJlbhhTXoJeA/2026-08-01t190318z-2059874848-rc2upmapzeqk-rtrmadp-3-russia-explosion.jpg"
+    },
+    {
+      "clusterId": "2aef956ad919cc61",
+      "slug": "600802f903aa825a",
+      "titulo": "Atentado com caminhão-bomba fere 11 pessoas em Cúcuta, Colômbia",
+      "resumo": "Um caminhão carregado de explosivos detonou no prédio do comando da Polícia do Norte de Santander, na cidade de Cúcuta, próximo à fronteira com a Venezuela. A explosão deixou pelo menos 11 feridos e causou danos ao edifício e às fachadas ao redor. O incidente ocorreu seis dias antes da posse do presidente eleito Abelardo de la Espriella. As autoridades isolaram a área e iniciaram as investigações.",
+      "porQueImporta": "O ataque evidencia a instabilidade na região fronteiriça e pode impactar a segurança pública antes da transição presidencial.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/01/atentado-com-caminhao-carregado-com-explosivos-deixa-feridos-na-colombia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-01T13:21:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DTX2F8MmICjl1RksutL0tjNXEDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/S/j0p4aOQd6G62Zvkm7bYw/novo-projeto-8-.jpg"
+    },
+    {
+      "clusterId": "254337b3f79612e6",
+      "slug": "a3253203df65984b",
+      "titulo": "Incêndio florestal avança próximo a Atenas e força evacuação preventiva em Chaidari",
+      "resumo": "Incêndios florestais que se espalham pela Europa chegaram a áreas próximas à capital grega nesta sexta-feira. A Defesa Civil enviou mensagem aos celulares pedindo a evacuação preventiva de parte do bairro de Chaidari, localizado a cerca de 11 km de Atenas. Moradores foram orientados a deixar suas residências enquanto as autoridades monitoram o foco do fogo.",
+      "porQueImporta": "A situação evidencia risco de expansão do incêndio e necessidade de proteção de populações urbanas próximas a áreas de vegetação seca",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/31/incendios-avancam-na-grecia-e-levam-moradores-a-deixar-regioes-proximas-de-atenas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-31T20:08:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/O-IGJLOWkyTVpjMFLvk3_G_5Mhk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/M/YIWpv8RomDvbd1bNa65g/afp-20260730-c3jy3nq-v3-highres-topshotgreeceenvironmentweatherclimatewildfire.jpg"
     }
   ],
   "categorias": [
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "geral",
+      "label": "Geral",
       "stories": [
         {
-          "clusterId": "69bd49b4d88c2210",
-          "slug": "f591daf6a4c82346",
-          "titulo": "Empresa multada por derramamento de biodiesel no Rio Meia Ponte",
-          "resumo": "A transportadora Primavera Diesel Ltda. foi multada em R$ 2 milhões após uma carreta com biodiesel tombar no Rio Meia Ponte, na GO‑403, entre Goiânia e Senador Canedo. O acidente, ocorrido no sábado (1°), causou o vazamento de cerca de 56 mil litros de combustível no rio. Equipes da Defesa Civil, da Agência Municipal do Meio Ambiente e da Secretaria Municipal de Eficiência foram enviadas ao local para avaliar os danos e prevenir maiores impactos ambientais.",
-          "porQueImporta": "O vazamento de biodiesel pode causar danos significativos ao ecossistema aquático e à saúde pública.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "03393de1bfd55b80",
+          "slug": "3b9e52866c0f8e4a",
+          "titulo": "Zoológico de Manaus oferece picolés de carne e frutas para animais durante o verão",
+          "resumo": "O Zoológico do Centro de Instrução de Guerra na Selva, em Manaus, adotou a distribuição de picolés feitos de carne e frutas para cerca de 400 animais. A medida faz parte de um conjunto de ações voltadas ao bem‑estar dos animais no período de estiagem, quando as temperaturas são elevadas.",
+          "porQueImporta": "Ajuda a reduzir o estresse térmico dos animais em clima de calor intenso",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/08/01/empresa-e-multada-em-r-2-milhoes-por-derramamento-de-biodiesel-no-rio-meia-ponte-apos-acidente-com-carreta.ghtml"
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/02/picoles-de-carne-frutas-e-ate-nevoa-como-zoologico-de-manaus-ajuda-animais-a-enfrentar-o-calor-no-verao-amazonico.ghtml"
             }
           ],
-          "updatedAt": "2026-08-02T00:55:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/W8uoTDixpG2mvkpF1SCYeAQnYoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Z/u97PByQIebaKm2zVToZg/co-5-.jpg"
+          "updatedAt": "2026-08-02T08:00:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/tb9RbpynG23y6PUi5KCWSu5StLM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/h/Cgg3vyQtWE9qBEWbtiSA/design-sem-nome-26-.png"
         },
         {
-          "clusterId": "463ee5a4d08ec65a",
-          "slug": "726e43c3f7fc9f64",
-          "titulo": "Acidente entre motos em Mocajuba deixa quatro mortos",
-          "resumo": "Na manhã de sábado, na PA-151, próximo à Vila do Areião, ocorreu uma colisão entre duas motos que resultou na morte de quatro pessoas. Entre os mortos estavam dois policiais militares que se dirigiam ao trabalho em Baião. Os nomes das outras duas vítimas não foram divulgados. A Polícia Civil solicitou perícias e a oitiva de testemunhas para esclarecer as circunstâncias.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária em estradas estaduais do Pará.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "24551bd5e6f5eaf7",
+          "slug": "a260f3c3dce85465",
+          "titulo": "Florestas nativas reduzem enchentes e poluição em cidades gaúchas",
+          "resumo": "Pesquisadores da UFSM demonstraram que as florestas nativas, que ocupam cerca de 15% do território gaúcho, atuam como barreira natural, retendo parte da água da chuva e filtrando poluentes. O estudo analisou o comportamento da água e a qualidade ambiental em áreas florestais. Os resultados indicam que a preservação das florestas pode diminuir os impactos de chuvas intensas nas cidades.",
+          "porQueImporta": "Conservação florestal pode mitigar riscos de enchentes e melhorar a qualidade da água urbana.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/08/01/dois-pms-estao-entre-os-mortos-em-batida-entre-motos-em-mocajuba-no-pa.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/02/como-florestas-ajudam-a-frear-enchentes-e-filtrar-poluentes-pesquisa-da-ufsm-explica.ghtml"
             }
           ],
-          "updatedAt": "2026-08-02T00:13:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rwOyrqWsPY52aSNLFPfx_kV0e_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/k/qNKsFJRaaogzUuqNZSlg/image-2026-08-01t211618.613.png"
-        },
-        {
-          "clusterId": "09929dc863f5a25a",
-          "slug": "af65a621886c78ba",
-          "titulo": "Homem morre em acidente na rodovia SP-350 em Tapiratiba",
-          "resumo": "Um homem morreu na tarde de sábado em um acidente envolvendo dois veículos na Rodovia Deputado Eduardo Vicente Nasser (SP-350), em Tapiratiba (SP). A vítima estava sozinha no carro que colidiu frontalmente com outro veículo. Não há informações sobre a identidade da vítima nem sobre feridos no segundo carro. As causas do acidente ainda não foram divulgadas.",
-          "porQueImporta": "O acidente evidencia riscos nas rodovias do interior de São Paulo e a necessidade de atenção ao trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/01/grave-acidente-mata-uma-pessoa-em-rodovia-do-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-01T23:27:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3Uqw5XEK9ZqAGZ80QvKBjsyUy2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/G/FX7oHURrqNI8EpzDP8kQ/whatsapp-image-2026-08-01-at-19.20.08.jpeg"
+          "updatedAt": "2026-08-02T03:00:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/d3P-o_myrprBIfEWqn2z_YIXkAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/k/zxBItxS0i8VeT8GO2iaA/vt-protecao-florestas-news-okok.transfer-frame-4235.png"
         }
       ]
     },
@@ -239,21 +218,21 @@
       "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "8e8adfae2d7c3479",
-          "slug": "8dc5af6a6a07d4ff",
-          "titulo": "Deslizamento em obra irregular mata quatro pessoas",
-          "resumo": "Um deslizamento ocorreu em uma obra irregular na região de Cariacica, Grande Vitória, no Espírito Santo, soterrando quatro trabalhadores. A queda do barranco aconteceu na sexta-feira, 30, e todos ficaram enterrados. A obra fazia parte da ampliação de uma distribuidora de bebidas. A Polícia do Espírito Santo está investigando o acidente.",
-          "porQueImporta": "O incidente destaca os riscos de obras não regulamentadas e a necessidade de fiscalização adequada.",
+          "clusterId": "105f557e04592d36",
+          "slug": "6b2b6759d676b236",
+          "titulo": "Quatro mortos em soterramento durante ampliação de estabelecimento em Cariacica",
+          "resumo": "Na tarde de sexta‑feira (31), um barranco cedeu durante a escavação da obra de ampliação de uma distribuidora de bebidas em Cariacica (ES), soterrando o proprietário e três pedreiros da mesma família. As vítimas foram identificadas como o empresário Vanderson Santana André, de 35 anos, e os pedreiros Ronival Moreira de Jesus, seu filho Ruan Moreira da Luz e o tio Valdomiro Moreira de Jesus. O acidente ocorreu enquanto a equipe realizava a escavação para a expansão do estabelecimento. As quatro pessoas foram enterradas no local.",
+          "porQueImporta": "O incidente evidencia riscos de segurança em obras civis e a necessidade de medidas preventivas em escavações de barrancos.",
           "categoria": "Deslizamento",
           "categoriaSlug": "deslizamento",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/01/deslizamento-em-obra-irregular-no-espirito-santo-mata-quatro-pessoas.ghtml"
+              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/02/empresario-e-tres-pedreiros-da-mesma-familia-saiba-quem-eram-as-4-vitimas-de-soterramento-em-obra-no-es.ghtml"
             }
           ],
-          "updatedAt": "2026-08-02T01:48:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/w1E-mnAj1trbxZLS6whVhuNrOy0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/6/pBCf0cTeABe6ZUMR8AjA/deslizamento-es-0001.png"
+          "updatedAt": "2026-08-02T07:00:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/5XFHUS1ltL0AUTWJgu_m9zHw0FY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/d/LGmRB0Qni6OBaOzAwJLA/thumb-videos-g1-24-.jpg"
         },
         {
           "clusterId": "284f27344e6ec7e7",
@@ -271,45 +250,6 @@
           ],
           "updatedAt": "2026-08-01T21:45:08.000Z",
           "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/AFP__20241014__shrestha-recordho241014_npP1p__v1__HighRes__RecordHoldingMountainClim.jpg?quality=70&strip=info"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "b660fb242c7e4b21",
-          "slug": "916bf7d044e563d5",
-          "titulo": "Shows do Lollapalooza Chicago são adiados e cancelados devido a fortes chuvas",
-          "resumo": "Uma tempestade atingiu Chicago, provocando fortes chuvas que levaram à abertura dos portões do festival algumas horas após o horário previsto. Devido ao mau tempo, alguns shows foram adiados e outros cancelados. As autoridades do evento decidiram ajustar a programação para garantir a segurança do público. A situação foi comunicada pelos organizadores do festival.",
-          "porQueImporta": "O evento reúne milhares de pessoas, e a interrupção dos shows pode gerar aglomerações e necessidade de reacomodação de público.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/pop/musica/lollapalooza-chicago-tem-shows-adiados-e-cancelados-por-fortes-chuvas/"
-            }
-          ],
-          "updatedAt": "2026-08-01T22:47:21.000Z"
-        },
-        {
-          "clusterId": "59afc4d3fd928a44",
-          "slug": "588c63f17f08d40f",
-          "titulo": "Brasil registra 81 tornados até julho e pode superar recorde de 2025",
-          "resumo": "Até julho deste ano, o Brasil contabilizou 81 ocorrências de tornados, segundo dados da BBC Brasil. O país já figura como o segundo com maior incidência mundial de tornados, e as projeções indicam que pode ultrapassar o recorde de 92 eventos registrado em 2025 nos próximos meses. O aumento nos registros tem sido atribuído a fatores como mudanças climáticas e aprimoramento da detecção meteorológica. A tendência de crescimento destaca a necessidade de monitoramento contínuo e de medidas de preparação da população.",
-          "porQueImporta": "O crescimento na frequência de tornados eleva o risco de danos materiais e perdas humanas no território nacional",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cy8eg60yewzo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-07-31T08:24:02.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f412/live/cd33a1c0-8c63-11f1-b37e-a785e512696a.jpg"
         }
       ]
     },
@@ -354,11 +294,56 @@
       ]
     },
     {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "7ce2ed4fca322d2c",
+          "slug": "ba05382aee39c202",
+          "titulo": "Menino de 5 anos morre em incêndio residencial em Ponta Grossa no dia do aniversário",
+          "resumo": "Um incêndio consumiu a residência onde vivia Benjamin Luiz de Souza, de cinco anos, em Ponta Grossa, Paraná, no dia em que completava a idade. A mãe do garoto relatou que recebeu um último abraço antes do desabamento das chamas. A bisavó de 84 anos, também presente, foi socorrida e permanecia internada e entubada. As causas do fogo não foram divulgadas na reportagem.",
+          "porQueImporta": "O caso evidencia a vulnerabilidade de residências a incêndios e a necessidade de medidas de prevenção, sobretudo em datas comemorativas.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/02/mae-menino-morre-incendio-aniversario-no-pr.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-02T07:00:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/k9gDFSqkxvMyUS4YpEz0zvls0Ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/V/EthY5DRVK9TfXduRs7kA/crianca-casa.png"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "b660fb242c7e4b21",
+          "slug": "916bf7d044e563d5",
+          "titulo": "Shows do Lollapalooza Chicago são adiados e cancelados devido a fortes chuvas",
+          "resumo": "Uma tempestade atingiu Chicago, provocando fortes chuvas que levaram à abertura dos portões do festival algumas horas após o horário previsto. Devido ao mau tempo, alguns shows foram adiados e outros cancelados. As autoridades do evento decidiram ajustar a programação para garantir a segurança do público. A situação foi comunicada pelos organizadores do festival.",
+          "porQueImporta": "O evento reúne milhares de pessoas, e a interrupção dos shows pode gerar aglomerações e necessidade de reacomodação de público.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/pop/musica/lollapalooza-chicago-tem-shows-adiados-e-cancelados-por-fortes-chuvas/"
+            }
+          ],
+          "updatedAt": "2026-08-01T22:47:21.000Z"
+        }
+      ]
+    },
+    {
       "slug": "acidente-aereo",
       "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "e6444212462e19a8",
+          "clusterId": "ba93e0fe56663fd9",
           "slug": "140e719729580580",
           "titulo": "Avião turístico cai no Peru e deixa 13 mortos",
           "resumo": "Um avião de pequeno porte que transportava turistas para sobrevoar as Linhas de Nazca caiu pouco depois da decolagem do aeroporto de Pisco, no sul do Peru. A polícia informou que havia 11 passageiros e dois tripulantes a bordo, totalizando 13 vítimas fatais. A causa da queda ainda não foi determinada. O acidente ocorreu por volta das 13h (horário local).",
@@ -369,60 +354,10 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/08/01/aviao-de-pequeno-porte-cai-no-peru-e-deixa-mortos-vitimas-iam-sobrevoar-as-linhas-de-nazca.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/acidente-com-aviao-turistico-deixa-13-mortos-no-peru/"
             }
           ],
-          "updatedAt": "2026-08-01T21:00:01.000Z",
+          "updatedAt": "2026-08-01T20:41:58.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/elo8UAKZmUiCkNTLdLEmEYlzIYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/M/6eDGSlQn2y70OBBhBoyw/imagem-1200px.png"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "24551bd5e6f5eaf7",
-          "slug": "a260f3c3dce85465",
-          "titulo": "Florestas nativas reduzem enchentes e poluição em cidades gaúchas",
-          "resumo": "Pesquisadores da UFSM demonstraram que as florestas nativas, que ocupam cerca de 15% do território gaúcho, atuam como barreira natural, retendo parte da água da chuva e filtrando poluentes. O estudo analisou o comportamento da água e a qualidade ambiental em áreas florestais. Os resultados indicam que a preservação das florestas pode diminuir os impactos de chuvas intensas nas cidades.",
-          "porQueImporta": "Conservação florestal pode mitigar riscos de enchentes e melhorar a qualidade da água urbana.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/02/como-florestas-ajudam-a-frear-enchentes-e-filtrar-poluentes-pesquisa-da-ufsm-explica.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-02T03:00:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/d3P-o_myrprBIfEWqn2z_YIXkAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/k/zxBItxS0i8VeT8GO2iaA/vt-protecao-florestas-news-okok.transfer-frame-4235.png"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "8e3bc7e88ca5af53",
-          "slug": "f713297fc7af73ae",
-          "titulo": "Incêndio em apartamento de condomínio em Campinas obriga evacuação",
-          "resumo": "Um incêndio começou em uma impressora no último andar do condomínio Parque Itália, em Campinas, e se espalhou pelo apartamento. O Corpo de Bombeiros suspeita de pane elétrica como causa. A rua adjacente foi interditada para atendimento e evacuação. Não houve feridos registrados.",
-          "porQueImporta": "O incidente destaca riscos de incêndio em residências urbanas e a necessidade de medidas de segurança em condomínios.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/moradores-de-condominio-em-campinas-precisam-evacuar-predio-apos-incendio-em-apartamento.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-02T00:24:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RcnmdZSFQyoCt3nHOoLsb2KmNu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/6F6mxQTpajCXTo1SY7aQ/bombeiros-socorro.jpg"
         }
       ]
     },
