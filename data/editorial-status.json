@@ -1,9 +1,15 @@
 {
-  "ranAt": "2026-08-02T10:15:50.928Z",
+  "ranAt": "2026-08-02T14:09:40.234Z",
   "editionDate": "2026-08-02",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito concentram a maioria dos registros enquanto incidentes ambientais exigem atenção preventiva\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: erro — sem cota (429)",
+    "cerebras: ok"
+  ]
 }
