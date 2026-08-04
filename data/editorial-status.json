@@ -1,9 +1,15 @@
 {
-  "ranAt": "2026-08-04T07:16:20.613Z",
+  "ranAt": "2026-08-04T11:04:37.728Z",
   "editionDate": "2026-08-04",
-  "hourUtc": 7,
-  "outcome": "skipped",
-  "reason": "fora da janela (7h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 11,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito predominam enquanto eventos climáticos e marítimos aumentam riscos regionais\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: erro — sem cota (429)",
+    "cerebras: ok"
+  ]
 }
