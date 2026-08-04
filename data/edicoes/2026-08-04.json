@@ -1,216 +1,384 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T18:12:12.183Z",
+  "generatedAt": "2026-08-04T21:50:25.663Z",
   "home": [
     {
-      "clusterId": "62b9a8c4d1c69eee",
-      "slug": "1ce21ab762e32ebb",
-      "titulo": "Trabalhador morre eletrocutado durante manutenção em escola municipal no Recife",
-      "resumo": "Um homem sofreu choque elétrico enquanto realizava manutenção em um ar‑condicionado na Escola Municipal dos Remédios, em Afogados, zona oeste do Recife. O acidente ocorreu na tarde da terça‑feira, durante visita técnica da Secretaria de Educação. A Neoenergia Pernambuco informou que o choque foi nas instalações internas, sem vínculo com a rede de distribuição. A prefeitura confirmou que a equipe de vistoria estava no local quando o incidente aconteceu.",
-      "porQueImporta": "O caso evidencia riscos de segurança em ambientes escolares durante intervenções técnicas.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
+      "clusterId": "05512f7b9dccab2c",
+      "slug": "49a6bb1cbf74bb6e",
+      "titulo": "Incêndio em indústria química de Itaquaquecetuba provoca explosões em bueiros",
+      "resumo": "Um incêndio de grandes proporções começou na tarde da terça‑feira em uma indústria química em Itaquaquecetuba, na Grande São Paulo. Explosões em bueiros nas ruas próximas geraram fumaça visível e o fogo alcançou a altura dos tanques da empresa, espalhando‑se para um terreno adjacente. Dezoito viaturas do Corpo de Bombeiros foram mobilizadas para combater as chamas. Até o momento não há registro de vítimas.",
+      "porQueImporta": "O incidente evidencia riscos de incêndios industriais em áreas urbanas e a necessidade de resposta rápida das autoridades.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-industria-em-sp/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/bueiros-explodem-incendio-fabrica"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/04/video-mostra-fumaca-saindo-de-bueiros-durante-incendio-em-industria-quimica-da-grande-sp-veja.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-04T21:11:20.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/design-sem-nome-2026-08-04t175902-946-1.png"
+    },
+    {
+      "clusterId": "e7474c31dd972594",
+      "slug": "fbaad084218a3024",
+      "titulo": "Elefante bebê se refresca em piscina de recinto de zoo na Áustria durante onda de calor",
+      "resumo": "Um filhote de elefante foi observado usando a piscina do recinto para se refrescar enquanto a temperatura subia na Áustria. A cuidadora informou que o bebê aprendeu a entrar na água com a ajuda de parentes. O vídeo do momento circulou nas redes sociais. A ocorrência aconteceu em um zoológico local durante a onda de calor que afeta a região.",
+      "porQueImporta": "Mostra como animais em cativeiro podem adaptar comportamentos para enfrentar altas temperaturas",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/video-elefante-bebe-se-refresca-em-zoo-da-austria-durante-onda-de-calor/"
+        }
+      ],
+      "updatedAt": "2026-08-04T21:39:00.000Z"
+    },
+    {
+      "clusterId": "89f79619459d55b6",
+      "slug": "340a1dd85fd16506",
+      "titulo": "Incêndio em fábrica de solventes em Itaquaquecetuba deixa bueiro fumegante e faz tambor voar",
+      "resumo": "Um incêndio atingiu uma fábrica de solventes em Itaquaquecetuba, na região metropolitana de São Paulo. Cerca de 18 viaturas do Corpo de Bombeiros atuaram no local. Não foram registradas vítimas. O fogo provocou fumaça saindo de um bueiro e fez um tambor ser lançado ao ar.",
+      "porQueImporta": "O incidente evidencia riscos industriais em áreas urbanas e mobiliza recursos de emergência",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-industria-deixa-bueiro-fumegante-e-faz-tambor-voar-em-sp/"
+        }
+      ],
+      "updatedAt": "2026-08-04T21:31:38.000Z"
+    },
+    {
+      "clusterId": "8260ce594bf6c752",
+      "slug": "0bc16102d83cc449",
+      "titulo": "Mãe lamenta morte de dois filhos em acidente de trânsito em Vianópolis (GO)",
+      "resumo": "Dois menores, Ana Cecília (8) e Deivid (13), morreram em acidente na GO‑139, em Vianópolis, Goiás, enquanto estavam no carro com o pai, a madrasta e uma amiga. A mãe, Pablyne, publicou mensagem nas redes sociais lembrando os filhos e lamentando a perda. Os demais ocupantes do veículo faleceram no local; Ana Cecília chegou a ser internada antes de morrer. O acidente ocorreu na noite de um dia ainda não especificado nas fontes.",
+      "porQueImporta": "O caso evidencia a gravidade dos acidentes de trânsito e o impacto nas famílias, reforçando a necessidade de medidas de segurança viária.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/08/04/trabalhador-morre-eletrocutado-em-escola-municipal-no-recife.ghtml"
+          "url": "https://g1.globo.com/go/goias/transito/noticia/2026/08/04/mae-desabafa-apos-perder-dois-filhos-em-acidente-com-cinco-mortos-em-goias-sempre-me-lembrarei-de-voces.ghtml"
         }
       ],
-      "updatedAt": "2026-08-04T17:48:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/qAQ7ff1571cX6j-tDMyyLJJUEJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/5tzbFUT6KZcCuWF7VQWw/corpo-choque-2.jpeg"
+      "updatedAt": "2026-08-04T21:21:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Pgnf1pt8l6bSJS2-Rw29_canPYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/D/9p1xxfQu6fwkoNaG0uEw/co-12-.jpg"
     },
     {
-      "clusterId": "87f8e5864240fc61",
-      "slug": "44b74b854ad65640",
-      "titulo": "Carro pega fogo no centro de Teresina",
-      "resumo": "Um veículo incendiou na tarde de terça-feira na rua Eliseu Martins, no centro de Teresina, conforme confirmado pelo Corpo de Bombeiros Militar do Piauí. Não foram registrados feridos. O incidente foi o segundo incêndio de carro em menos de 10 horas na cidade, após outro caso na manhã do mesmo dia em acesso à ponte Juscelino Kubitschek.",
-      "porQueImporta": "Incêndios de veículos podem representar risco à segurança pública e demandam resposta rápida dos bombeiros.",
+      "clusterId": "084b8fbd4ce64d23",
+      "slug": "5b9c82aee3bcbafe",
+      "titulo": "Inmet monitora possível formação de ciclone extratropical intenso no Sul do Brasil",
+      "resumo": "O Instituto Nacional de Meteorologia informou que está acompanhando a possibilidade de formação de um ciclone extratropical intenso entre a Argentina, o Uruguai, o Sul do Brasil e o Oceano Atlântico nos próximos dias. As previsões apontam condições favoráveis para rápida intensificação, processo conhecido como ciclogênese explosiva ou ciclone bomba. A classificação definitiva dependerá da observação da queda da pressão atmosférica. O monitoramento visa antecipar eventuais impactos climáticos na região.",
+      "porQueImporta": "A formação de um ciclone bomba pode gerar ventos fortes e chuvas intensas, afetando a população e a infraestrutura local",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/04/inmet-ciclone-bomba-brasil.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-04T21:12:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zqyd1YwQTImUJWF52kVY_u2ZN3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/j/46Ft4XQiAVeiDNVsQW1g/imagem-cortada.jpg"
+    },
+    {
+      "clusterId": "f584b5f445311de9",
+      "slug": "2d6bfcbbbdff0818",
+      "titulo": "Casa de madeira abandonada sobre caminhão é removida em Criciúma após risco estrutural",
+      "resumo": "Uma casa de madeira ficou sobre um caminhão em um terreno próximo a uma escola em Criciúma (SC) por quatro meses, gerando risco de desabamento. A Defesa Civil local localizou o proprietário do veículo e determinou a remoção até a noite de quarta-feira. O proprietário informou que irá retirar o caminhão do local dentro do prazo estabelecido.",
+      "porQueImporta": "O caso evidencia riscos de estruturas improvisadas próximas a áreas escolares, demandando ação preventiva das autoridades.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/04/casa-abandonada-ha-4-meses-em-cima-de-caminhao-ameaca-despencar-em-sc-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-04T21:12:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/s1eGxFeslJu8WLgFtpFd2W_KRO8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/p/LiO9c9SHGcjtecitue0Q/casa-abandonada-ha-4-meses-em-cima-de-caminhao-ameaca-despencar-perto-de-escola-em-sc.png"
+    },
+    {
+      "clusterId": "fe80d233d5b4b3fa",
+      "slug": "29c3854186aac2a2",
+      "titulo": "Motociclista morre em acidente na BR-040",
+      "resumo": "Um motociclista se envolveu em colisão no viaduto de acesso a Santa Maria, na BR-040, na tarde desta terça-feira (4/8). A vítima não resistiu e morreu antes da chegada dos bombeiros ao local. O acidente foi registrado pelas autoridades de trânsito. Não foram divulgados detalhes sobre as causas ou possíveis vítimas adicionais.",
+      "porQueImporta": "A morte evidencia os riscos nas rodovias e a necessidade de atenção ao tráfego na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/motociclista-morre-em-acidente-de-transito-na-br-040"
+        }
+      ],
+      "updatedAt": "2026-08-04T21:05:13.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/motociclista-cbmdf-1.jpeg"
+    },
+    {
+      "clusterId": "a31ae9d7098bbe0f",
+      "slug": "8df17591048620d1",
+      "titulo": "Incêndio em indústria química de solventes em Itaquaquecetuba",
+      "resumo": "Um incêndio de grandes proporções atingiu uma indústria que produz e comercializa solventes e resinas de poliéster em Itaquaquecetuba, na Grande São Paulo, na tarde de terça-feira. Até o momento da última atualização, não havia registro de vítimas. A unidade possui 24 tanques de solventes, mas ainda não se sabe quais substâncias estão queimando nem se algum reservatório foi atingido.",
+      "porQueImporta": "Incêndios em instalações que armazenam produtos químicos podem gerar riscos ambientais e de segurança pública",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/04/carro-fogo-destruido-teresina.ghtml"
+          "url": "https://g1.globo.com/ciencia/noticia/2026/08/04/incendios-itaquaquecetuba-espalhar-rapido-entenda.ghtml"
         }
       ],
-      "updatedAt": "2026-08-04T17:29:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/wS7UV6YQX_mAE_fvMfPKZ_HHQXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/BC17eEQgC3FEhsikl4ag/edicao-imagens-g1-2026-08-04t143748.080.png"
+      "updatedAt": "2026-08-04T20:53:09.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YyjkQ-CsVARoqUAQ3vRVTjpl6V0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/c/iskz6CTdK9uGRD6UryHA/whatsapp-image-2026-08-04-at-16.48.23.jpeg"
     },
     {
-      "clusterId": "589ff7b760c12a4f",
-      "slug": "2ca0967bd11048e0",
-      "titulo": "Marinha colabora com Bombeiros nas buscas de jovem desaparecido no Rio Doce",
-      "resumo": "Um homem de 26 anos desapareceu no Rio Doce, no distrito de Pedra Corrida, em Periquito. No terceiro dia de buscas, o Corpo de Bombeiros utiliza barco, equipamentos de mergulho e três militares, enquanto a Marinha realiza perícia na embarcação encontrada após o acidente. O corpo da vítima ainda não foi localizado.",
-      "porQueImporta": "A operação demonstra a cooperação entre instituições para resgatar pessoas desaparecidas em ambientes de risco",
-      "categoria": "Resgate",
-      "categoriaSlug": "resgate",
+      "clusterId": "f1338aae760e4ff2",
+      "slug": "27d13b4e4df9d780",
+      "titulo": "Incêndio de grandes proporções atinge fábrica de solventes em Itaquaquecetuba",
+      "resumo": "Um incêndio de grandes proporções foi registrado na unidade de produção de solventes em Itaquaquecetuba, São Paulo. Dezenove bombeiros, incluindo 18 viaturas do Corpo de Bombeiros, foram mobilizados para combater as chamas. O fogo comprometeu estruturas da fábrica, gerando risco de explosão e poluição atmosférica. As autoridades monitoram a situação e avaliam os danos.",
+      "porQueImporta": "O incidente pode gerar impactos ambientais e de segurança na região metropolitana de São Paulo",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/04/marinha-ajuda-bombeiros-no-terceiro-dia-de-buscas-por-jovem-desaparecido-no-rio-doce-em-periquito.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-mostra-destruicao-em-fabrica-de-solventes-em-sp/"
         }
       ],
-      "updatedAt": "2026-08-04T17:13:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1MTOpUAgxybxhVa_y1nJB4XHw4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/W/1seXoKTW6emH97RAmbHQ/fotos-horizontais-38-.png"
+      "updatedAt": "2026-08-04T20:48:05.000Z"
     },
     {
-      "clusterId": "5cf3371d15746beb",
-      "slug": "9785a3e823f3691b",
-      "titulo": "Caminhão carregado de laticínios tomba na Via Lagos em São Pedro da Aldeia",
-      "resumo": "Na manhã desta terça-feira, um caminhão que transportava laticínios tombou na RJ-124, na Via Lagos, em São Pedro da Aldeia, por volta das 7h25, no sentido norte em direção a Cabo Frio. O motorista perdeu o controle, colidiu com a barreira central e o veículo capotou, deixando-o ferido. Três ocupantes estavam no veículo; um saiu ileso e outro ficou ferido, enquanto o terceiro não teve lesões relatadas.",
-      "porQueImporta": "O acidente interrompe o tráfego na rodovia e evidencia riscos de transporte de carga nas estradas da Região dos Lagos.",
+      "clusterId": "2d35c21aa027b6d4",
+      "slug": "22d3f2c330bee885",
+      "titulo": "Acidente entre dois carros e dois caminhões deixa 13 feridos na BR-040",
+      "resumo": "Na tarde de terça-feira, no km 668 da BR-040, em Carandaí, ocorreu uma colisão envolvendo dois caminhões e dois carros, resultando em 13 pessoas feridas. Um homem e uma mulher ficaram presos às ferragens e foram socorridos em estado grave, sendo encaminhados ao Hospital Regional de Barbacena. As demais vítimas sofreram lesões de menor gravidade. O acidente foi atendido pelo Corpo de Bombeiros, pela EPR Via Mineira e pelo Samu.",
+      "porQueImporta": "O acidente evidencia riscos de tráfego em trechos rodoviários movimentados, demandando atenção das autoridades e dos usuários.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/04/caminhao-carregado-de-laticinios-tomba-na-via-lagos-e-deixa-motorista-ferido-em-sao-pedro-da-aldeia.ghtml"
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/04/acidente-entre-dois-carros-e-dois-caminhoes-deixa-13-feridos-na-br-040.ghtml"
         }
       ],
-      "updatedAt": "2026-08-04T17:03:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PkjgPGt3bg2nwxckEkEaQXuIeQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/0/Tl7vfpQJeQtaaCWH7aBw/caminhao-2.jpg"
-    },
-    {
-      "clusterId": "fd7922b51425589b",
-      "slug": "9bd08c3a9f416c81",
-      "titulo": "Quase uma semana depois de vendaval no RJ, moradores seguem sem luz em rua de Bangu",
-      "resumo": "Quase uma semana depois de vendaval no RJ, partes de Bangu seguem sem luz Moradores de uma rua em Bangu, na Zona Oeste do Rio, seguem sem luz quase uma semana depois do vendaval que atingiu o Rio de Janeiro e a Região Metropolitana, causando apagões em várias partes do estado. Relatos indicam que pelo menos 50 famílias na rua Engenheira Paula Lopes convivem desde a última quarta-feira com alimentos estragados, dificuldades para trabalhar e gastos extras para manter itens básicos em funcionamento. Houve quem pagasse até para usar geradores. Segundo os moradores, o problema começou após uma…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/04/vendaval-rj-rua-bangu-sem-luz.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-04T17:01:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/tSdnxeHiLbRoRdmsfCBaroMaEhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/q/G4NVXiSvSJ0BuaSNfoew/imagem-cortada-85-.jpg"
-    },
-    {
-      "clusterId": "8d4f44839890f487",
-      "slug": "75861a1be70be8d8",
-      "titulo": "Ciclone extratropical traz risco de temporais e inundações no Rio Grande do Sul",
-      "resumo": "O Centro Nacional de Monitoramento e Alertas de Desastres Naturais (Cemaden), o Instituto Nacional de Meteorologia (Inmet) e a Climatempo apontam a formação de um ciclone extratropical e o avanço de uma frente fria para quinta‑feira (6). Os sistemas devem gerar temporais e ventos de até 100 km/h em várias regiões do estado. Na terça‑feira (4), há risco alto de inundações na Fronteira Oeste. As autoridades recomendam seguir as orientações da Defesa Civil em caso de tempo extremo.",
-      "porQueImporta": "A ocorrência pode causar alagamentos e danos materiais, exigindo preparação da população.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/04/com-previsao-de-ciclone-para-esta-semana-orgao-nacional-aponta-alta-chance-de-inundacao-em-rio-do-rs.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-04T16:51:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/MpFR8l56GOJ9Yck8rHYHHTzSMmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/O/AlAsBsShiLCqtehyeVAA/uruguaiana.png"
-    },
-    {
-      "clusterId": "95ea9d3daf538170",
-      "slug": "cb74da5f314dbc10",
-      "titulo": "Conto de Ray Bradbury descreve fim do mundo em 4 de agosto de 2026",
-      "resumo": "O conto \"Visionário\", de Ray Bradbury, apresenta uma narrativa em que o mundo chega ao fim em 4 de agosto de 2026, após uma casa inteligente ser atingida por um desastre atômico descrito em 1950. A obra combina elementos de ficção científica e apocalipse, sem relação com eventos reais.",
-      "porQueImporta": "Ilustra como a literatura pode refletir temores sobre tecnologia e catástrofes nucleares.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/ideias/visionario-conto-de-ray-bradbury-narra-fim-do-mundo-em-4-de-agosto-de-2026/"
-        }
-      ],
-      "updatedAt": "2026-08-04T16:46:34.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2020/07/GettyImages-83468372.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "e0fdcb10c6dd049a",
-      "slug": "47721a964b80a3c4",
-      "titulo": "Carro capota após colisão com picape em cruzamento de Curvelo",
-      "resumo": "Na manhã desta terça-feira, um carro colidiu com uma picape no cruzamento das avenidas Lúcio Diniz Guimarães e Soares dos Santos, no centro de Curvelo, e acabou capotando sobre a calçada. O acidente deixou duas pessoas feridas, que foram socorridas por transeuntes que presenciaram a cena. O registro foi capturado por uma câmera de segurança. A Polícia Militar confirmou a participação dos dois veículos na colisão.",
-      "porQueImporta": "O acidente evidencia riscos de trânsito em áreas urbanas movimentadas e a necessidade de atenção dos motoristas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/04/video-carro-capota-apos-batida-em-cruzamento-de-curvelo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-04T16:26:32.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/r_HHz0MbH-fFrhqIhfhoLVk_h_0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/b/vAvWWzQYmAueDz4rMAHA/1200x675-5-.jpg"
-    },
-    {
-      "clusterId": "29ac11e484001602",
-      "slug": "fa97b8c50f57f609",
-      "titulo": "Jogador do São Paulo atropela e mata idoso em Barueri",
-      "resumo": "Um jogador do São Paulo, identificado como Nicolas Bosshardt, de 19 anos, atropelou um idoso que atravessava fora da faixa de pedestres em Alphaville, Barueri, na noite de segunda‑feira. O incidente foi registrado por câmeras de segurança. O atleta compareceu à audiência de custódia na terça‑feira e recebeu liberdade provisória mediante cumprimento de medidas cautelares.",
-      "porQueImporta": "O caso envolve a morte de um pedestre e a responsabilização de um atleta público, gerando atenção para segurança no trânsito e responsabilidade civil.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/04/camera-mostra-momento-em-que-jogador-do-sao-paulo-atropela-e-mata-idoso-em-barueri-na-grande-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-04T16:23:19.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/RYK_CEws8fZ3H8ehZQO3SgObeL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/Q/ostLBLTFuSqWREPiDKBQ/fotojet-2026-08-04t114721.466.jpg"
-    },
-    {
-      "clusterId": "90d9e42524ad3b13",
-      "slug": "87d2104d028a1e70",
-      "titulo": "Homem em situação de rua morre atropelado por caminhão em Vila Velha",
-      "resumo": "Um homem em situação de rua dormia sob um caminhão na Avenida Francisco Lacerda de Aguiar, no bairro São Torquato, em Vila Velha. Na manhã de terça‑feira, o motorista deu partida no veículo sem perceber a presença da pessoa, que foi atropelada e morreu. Até a publicação da notícia, a vítima não havia sido identificada. A Polícia Militar registrou o acidente.",
-      "porQueImporta": "O caso evidencia riscos de segurança para pessoas em situação de rua e a necessidade de atenção ao iniciar veículos em áreas públicas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/04/homem-em-situacao-de-rua-dorme-embaixo-de-caminhao-e-morre-atropelado-em-vila-velha.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-04T16:02:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/K_yW0CZmcij1qJlzw3jbAocDZPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/QWd00BQFqzAaoQdqm3AA/thumb-fotos-2026-08-04t112709.381.jpg"
+      "updatedAt": "2026-08-04T20:43:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/hKmto_WFRHlZlLd3TDGrFt60eyQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/PCDEI9S9CLcsCXQbRGBg/acidente-br-040-carandai.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "05512f7b9dccab2c",
+          "slug": "49a6bb1cbf74bb6e",
+          "titulo": "Incêndio em indústria química de Itaquaquecetuba provoca explosões em bueiros",
+          "resumo": "Um incêndio de grandes proporções começou na tarde da terça‑feira em uma indústria química em Itaquaquecetuba, na Grande São Paulo. Explosões em bueiros nas ruas próximas geraram fumaça visível e o fogo alcançou a altura dos tanques da empresa, espalhando‑se para um terreno adjacente. Dezoito viaturas do Corpo de Bombeiros foram mobilizadas para combater as chamas. Até o momento não há registro de vítimas.",
+          "porQueImporta": "O incidente evidencia riscos de incêndios industriais em áreas urbanas e a necessidade de resposta rápida das autoridades.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-industria-em-sp/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/bueiros-explodem-incendio-fabrica"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/04/video-mostra-fumaca-saindo-de-bueiros-durante-incendio-em-industria-quimica-da-grande-sp-veja.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-04T21:11:20.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/design-sem-nome-2026-08-04t175902-946-1.png"
+        },
+        {
+          "clusterId": "89f79619459d55b6",
+          "slug": "340a1dd85fd16506",
+          "titulo": "Incêndio em fábrica de solventes em Itaquaquecetuba deixa bueiro fumegante e faz tambor voar",
+          "resumo": "Um incêndio atingiu uma fábrica de solventes em Itaquaquecetuba, na região metropolitana de São Paulo. Cerca de 18 viaturas do Corpo de Bombeiros atuaram no local. Não foram registradas vítimas. O fogo provocou fumaça saindo de um bueiro e fez um tambor ser lançado ao ar.",
+          "porQueImporta": "O incidente evidencia riscos industriais em áreas urbanas e mobiliza recursos de emergência",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-industria-deixa-bueiro-fumegante-e-faz-tambor-voar-em-sp/"
+            }
+          ],
+          "updatedAt": "2026-08-04T21:31:38.000Z"
+        },
+        {
+          "clusterId": "a31ae9d7098bbe0f",
+          "slug": "8df17591048620d1",
+          "titulo": "Incêndio em indústria química de solventes em Itaquaquecetuba",
+          "resumo": "Um incêndio de grandes proporções atingiu uma indústria que produz e comercializa solventes e resinas de poliéster em Itaquaquecetuba, na Grande São Paulo, na tarde de terça-feira. Até o momento da última atualização, não havia registro de vítimas. A unidade possui 24 tanques de solventes, mas ainda não se sabe quais substâncias estão queimando nem se algum reservatório foi atingido.",
+          "porQueImporta": "Incêndios em instalações que armazenam produtos químicos podem gerar riscos ambientais e de segurança pública",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ciencia/noticia/2026/08/04/incendios-itaquaquecetuba-espalhar-rapido-entenda.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-04T20:53:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YyjkQ-CsVARoqUAQ3vRVTjpl6V0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/c/iskz6CTdK9uGRD6UryHA/whatsapp-image-2026-08-04-at-16.48.23.jpeg"
+        },
+        {
+          "clusterId": "f1338aae760e4ff2",
+          "slug": "27d13b4e4df9d780",
+          "titulo": "Incêndio de grandes proporções atinge fábrica de solventes em Itaquaquecetuba",
+          "resumo": "Um incêndio de grandes proporções foi registrado na unidade de produção de solventes em Itaquaquecetuba, São Paulo. Dezenove bombeiros, incluindo 18 viaturas do Corpo de Bombeiros, foram mobilizados para combater as chamas. O fogo comprometeu estruturas da fábrica, gerando risco de explosão e poluição atmosférica. As autoridades monitoram a situação e avaliam os danos.",
+          "porQueImporta": "O incidente pode gerar impactos ambientais e de segurança na região metropolitana de São Paulo",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-mostra-destruicao-em-fabrica-de-solventes-em-sp/"
+            }
+          ],
+          "updatedAt": "2026-08-04T20:48:05.000Z"
+        },
+        {
+          "clusterId": "418376bdbf60d708",
+          "slug": "c0199a2521d0756f",
+          "titulo": "Incêndio destrói carro e atinge terreno no bairro Flores em Manaus",
+          "resumo": "Na tarde de terça‑feira, um incêndio consumiu totalmente um veículo no bairro Flores, na zona Centro‑Sul de Manaus, e avançou para um muro e um terreno com vegetação. O Corpo de Bombeiros Militar do Amazonas foi acionado, mas não foram registradas vítimas. Um vídeo divulgado nas redes sociais mostra o carro em chamas e a propagação do fogo. A ocorrência permanece sob investigação pelas autoridades locais.",
+          "porQueImporta": "O evento evidencia riscos de incêndios urbanos e a necessidade de vigilância em áreas com vegetação próxima a construções",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/04/incendio-atinge-carro-e-parte-de-terreno-em-manaus.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-04T20:41:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WlKwOfgiGHGS2zQdR3rpYdb6LVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/1/J58ROwSvifmnIV7miM4w/g1-incendio-bairro-flores.jpg"
+        },
+        {
+          "clusterId": "465120a8d61b10df",
+          "slug": "dae16de8503efeb3",
+          "titulo": "Incêndio atinge depósito municipal de galhos em Presidente Prudente",
+          "resumo": "Um incêndio começou por volta das 15h20 em um depósito municipal de galhos localizado próximo à Rodovia Júlio Budiski, na zona rural de Presidente Prudente (SP). As chamas geraram grande quantidade de fumaça que chamou a atenção de motoristas que passavam pelo local. Não houve vítimas e as causas do incêndio ainda não foram identificadas. O Corpo de Bombeiros atuou no combate ao fogo.",
+          "porQueImporta": "O evento demonstra a necessidade de vigilância e prevenção de incêndios em áreas próximas a vias de tráfego.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/04/incendio-atinge-deposito-municipal-de-galhos-em-presidente-prudente.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-04T20:33:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/O71Tg2J-7LNSe6jzidmRHOrMgpE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/K/J0S7NzQhuQ9Lr8O7H6dQ/whatsapp-image-2026-08-04-at-16.45.33-1-.jpeg"
+        },
+        {
+          "clusterId": "e7dbe54e254603f3",
+          "slug": "54c3523caa86fa5d",
+          "titulo": "Incêndio em Le Porge revela projéteis da Segunda Guerra Mundial",
+          "resumo": "Um incêndio próximo a Bordeaux, na localidade de Le Porge, expôs projéteis da Segunda Guerra Mundial. As autoridades interditaram a área e iniciaram operações de desminagem. Moradores puderam retornar às suas casas na segunda‑feira após a conclusão das intervenções. O incidente afetou várias residências no município de Gironde.",
+          "porQueImporta": "A presença de munições antigas exige medidas de segurança e pode gerar riscos à população local.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/04/projeteis-da-segunda-guerra-mundial-sao-encontrados-em-vila-francesa-devastada-por-incendio-florestal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-04T11:32:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/W7ELR07BwXq1LAHwjo0Y534wvLI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/3/W9ydhSTjipkBa9i1m4YQ/afp-20260803-c3u66te-v9-highres-topshotfrancehistorywwiishellwildfires-redimensionado-para-grande.jpeg"
+        },
+        {
+          "clusterId": "64f9703ff8dfb944",
+          "slug": "1882fda80391d3bb",
+          "titulo": "Ataques entre Rússia e Ucrânia deixam oito mortos",
+          "resumo": "Trocas de ataques aéreos entre Ucrânia e Rússia na noite de segunda e madrugada de terça resultaram em oito mortes. Na região de Moscou, drones russos atingiram um armazém da empresa Wildberries, matando cinco pessoas e ferindo seis. Em outra zona industrial, ataques ucranianos também causaram vítimas. As autoridades locais confirmaram os números e os danos.",
+          "porQueImporta": "O incidente evidencia a escalada do conflito e seus impactos civis em áreas industriais",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/04/ataques-entre-russia-e-ucrania-deixam-oito-mortos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-04T09:39:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OW_o15VhqofQkoez_EPjGON0kFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/bi7m4BRXuGvwqQhPL7Ow/ap26216243501704.jpg"
+        }
+      ]
+    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "fd7922b51425589b",
-          "slug": "9bd08c3a9f416c81",
-          "titulo": "Quase uma semana depois de vendaval no RJ, moradores seguem sem luz em rua de Bangu",
-          "resumo": "Quase uma semana depois de vendaval no RJ, partes de Bangu seguem sem luz Moradores de uma rua em Bangu, na Zona Oeste do Rio, seguem sem luz quase uma semana depois do vendaval que atingiu o Rio de Janeiro e a Região Metropolitana, causando apagões em várias partes do estado. Relatos indicam que pelo menos 50 famílias na rua Engenheira Paula Lopes convivem desde a última quarta-feira com alimentos estragados, dificuldades para trabalhar e gastos extras para manter itens básicos em funcionamento. Houve quem pagasse até para usar geradores. Segundo os moradores, o problema começou após uma…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "clusterId": "e7474c31dd972594",
+          "slug": "fbaad084218a3024",
+          "titulo": "Elefante bebê se refresca em piscina de recinto de zoo na Áustria durante onda de calor",
+          "resumo": "Um filhote de elefante foi observado usando a piscina do recinto para se refrescar enquanto a temperatura subia na Áustria. A cuidadora informou que o bebê aprendeu a entrar na água com a ajuda de parentes. O vídeo do momento circulou nas redes sociais. A ocorrência aconteceu em um zoológico local durante a onda de calor que afeta a região.",
+          "porQueImporta": "Mostra como animais em cativeiro podem adaptar comportamentos para enfrentar altas temperaturas",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/video-elefante-bebe-se-refresca-em-zoo-da-austria-durante-onda-de-calor/"
+            }
+          ],
+          "updatedAt": "2026-08-04T21:39:00.000Z"
+        },
+        {
+          "clusterId": "f584b5f445311de9",
+          "slug": "2d6bfcbbbdff0818",
+          "titulo": "Casa de madeira abandonada sobre caminhão é removida em Criciúma após risco estrutural",
+          "resumo": "Uma casa de madeira ficou sobre um caminhão em um terreno próximo a uma escola em Criciúma (SC) por quatro meses, gerando risco de desabamento. A Defesa Civil local localizou o proprietário do veículo e determinou a remoção até a noite de quarta-feira. O proprietário informou que irá retirar o caminhão do local dentro do prazo estabelecido.",
+          "porQueImporta": "O caso evidencia riscos de estruturas improvisadas próximas a áreas escolares, demandando ação preventiva das autoridades.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/04/vendaval-rj-rua-bangu-sem-luz.ghtml"
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/04/casa-abandonada-ha-4-meses-em-cima-de-caminhao-ameaca-despencar-em-sc-video.ghtml"
             }
           ],
-          "updatedAt": "2026-08-04T17:01:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/tSdnxeHiLbRoRdmsfCBaroMaEhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/q/G4NVXiSvSJ0BuaSNfoew/imagem-cortada-85-.jpg"
+          "updatedAt": "2026-08-04T21:12:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/s1eGxFeslJu8WLgFtpFd2W_KRO8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/p/LiO9c9SHGcjtecitue0Q/casa-abandonada-ha-4-meses-em-cima-de-caminhao-ameaca-despencar-perto-de-escola-em-sc.png"
         },
         {
-          "clusterId": "95ea9d3daf538170",
-          "slug": "cb74da5f314dbc10",
-          "titulo": "Conto de Ray Bradbury descreve fim do mundo em 4 de agosto de 2026",
-          "resumo": "O conto \"Visionário\", de Ray Bradbury, apresenta uma narrativa em que o mundo chega ao fim em 4 de agosto de 2026, após uma casa inteligente ser atingida por um desastre atômico descrito em 1950. A obra combina elementos de ficção científica e apocalipse, sem relação com eventos reais.",
-          "porQueImporta": "Ilustra como a literatura pode refletir temores sobre tecnologia e catástrofes nucleares.",
+          "clusterId": "6c937af9911ce2b8",
+          "slug": "26f51dd213839adc",
+          "titulo": "Defesa Civil de SP alerta para mudança de tempo no estado nesta semana",
+          "resumo": "Previsão de fortes pancadas de chuva e ventos ao longo da semana; virada no tempo deve ocorrer nesta quarta-feira (5)",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/ideias/visionario-conto-de-ray-bradbury-narra-fim-do-mundo-em-4-de-agosto-de-2026/"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-de-sp-alerta-para-mudanca-de-tempo-no-estado-nesta-semana/"
             }
           ],
-          "updatedAt": "2026-08-04T16:46:34.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2020/07/GettyImages-83468372.jpg?quality=70&strip=info"
+          "updatedAt": "2026-08-04T19:39:11.000Z"
         },
         {
           "clusterId": "a7c884044b69f42a",
@@ -287,72 +455,89 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "5cf3371d15746beb",
-          "slug": "9785a3e823f3691b",
-          "titulo": "Caminhão carregado de laticínios tomba na Via Lagos em São Pedro da Aldeia",
-          "resumo": "Na manhã desta terça-feira, um caminhão que transportava laticínios tombou na RJ-124, na Via Lagos, em São Pedro da Aldeia, por volta das 7h25, no sentido norte em direção a Cabo Frio. O motorista perdeu o controle, colidiu com a barreira central e o veículo capotou, deixando-o ferido. Três ocupantes estavam no veículo; um saiu ileso e outro ficou ferido, enquanto o terceiro não teve lesões relatadas.",
-          "porQueImporta": "O acidente interrompe o tráfego na rodovia e evidencia riscos de transporte de carga nas estradas da Região dos Lagos.",
+          "clusterId": "8260ce594bf6c752",
+          "slug": "0bc16102d83cc449",
+          "titulo": "Mãe lamenta morte de dois filhos em acidente de trânsito em Vianópolis (GO)",
+          "resumo": "Dois menores, Ana Cecília (8) e Deivid (13), morreram em acidente na GO‑139, em Vianópolis, Goiás, enquanto estavam no carro com o pai, a madrasta e uma amiga. A mãe, Pablyne, publicou mensagem nas redes sociais lembrando os filhos e lamentando a perda. Os demais ocupantes do veículo faleceram no local; Ana Cecília chegou a ser internada antes de morrer. O acidente ocorreu na noite de um dia ainda não especificado nas fontes.",
+          "porQueImporta": "O caso evidencia a gravidade dos acidentes de trânsito e o impacto nas famílias, reforçando a necessidade de medidas de segurança viária.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/04/caminhao-carregado-de-laticinios-tomba-na-via-lagos-e-deixa-motorista-ferido-em-sao-pedro-da-aldeia.ghtml"
+              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/08/04/mae-desabafa-apos-perder-dois-filhos-em-acidente-com-cinco-mortos-em-goias-sempre-me-lembrarei-de-voces.ghtml"
             }
           ],
-          "updatedAt": "2026-08-04T17:03:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PkjgPGt3bg2nwxckEkEaQXuIeQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/0/Tl7vfpQJeQtaaCWH7aBw/caminhao-2.jpg"
+          "updatedAt": "2026-08-04T21:21:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Pgnf1pt8l6bSJS2-Rw29_canPYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/D/9p1xxfQu6fwkoNaG0uEw/co-12-.jpg"
         },
         {
-          "clusterId": "e0fdcb10c6dd049a",
-          "slug": "47721a964b80a3c4",
-          "titulo": "Carro capota após colisão com picape em cruzamento de Curvelo",
-          "resumo": "Na manhã desta terça-feira, um carro colidiu com uma picape no cruzamento das avenidas Lúcio Diniz Guimarães e Soares dos Santos, no centro de Curvelo, e acabou capotando sobre a calçada. O acidente deixou duas pessoas feridas, que foram socorridas por transeuntes que presenciaram a cena. O registro foi capturado por uma câmera de segurança. A Polícia Militar confirmou a participação dos dois veículos na colisão.",
-          "porQueImporta": "O acidente evidencia riscos de trânsito em áreas urbanas movimentadas e a necessidade de atenção dos motoristas.",
+          "clusterId": "fe80d233d5b4b3fa",
+          "slug": "29c3854186aac2a2",
+          "titulo": "Motociclista morre em acidente na BR-040",
+          "resumo": "Um motociclista se envolveu em colisão no viaduto de acesso a Santa Maria, na BR-040, na tarde desta terça-feira (4/8). A vítima não resistiu e morreu antes da chegada dos bombeiros ao local. O acidente foi registrado pelas autoridades de trânsito. Não foram divulgados detalhes sobre as causas ou possíveis vítimas adicionais.",
+          "porQueImporta": "A morte evidencia os riscos nas rodovias e a necessidade de atenção ao tráfego na região.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/04/video-carro-capota-apos-batida-em-cruzamento-de-curvelo.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/motociclista-morre-em-acidente-de-transito-na-br-040"
             }
           ],
-          "updatedAt": "2026-08-04T16:26:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/r_HHz0MbH-fFrhqIhfhoLVk_h_0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/b/vAvWWzQYmAueDz4rMAHA/1200x675-5-.jpg"
+          "updatedAt": "2026-08-04T21:05:13.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/motociclista-cbmdf-1.jpeg"
         },
         {
-          "clusterId": "29ac11e484001602",
-          "slug": "fa97b8c50f57f609",
-          "titulo": "Jogador do São Paulo atropela e mata idoso em Barueri",
-          "resumo": "Um jogador do São Paulo, identificado como Nicolas Bosshardt, de 19 anos, atropelou um idoso que atravessava fora da faixa de pedestres em Alphaville, Barueri, na noite de segunda‑feira. O incidente foi registrado por câmeras de segurança. O atleta compareceu à audiência de custódia na terça‑feira e recebeu liberdade provisória mediante cumprimento de medidas cautelares.",
-          "porQueImporta": "O caso envolve a morte de um pedestre e a responsabilização de um atleta público, gerando atenção para segurança no trânsito e responsabilidade civil.",
+          "clusterId": "2d35c21aa027b6d4",
+          "slug": "22d3f2c330bee885",
+          "titulo": "Acidente entre dois carros e dois caminhões deixa 13 feridos na BR-040",
+          "resumo": "Na tarde de terça-feira, no km 668 da BR-040, em Carandaí, ocorreu uma colisão envolvendo dois caminhões e dois carros, resultando em 13 pessoas feridas. Um homem e uma mulher ficaram presos às ferragens e foram socorridos em estado grave, sendo encaminhados ao Hospital Regional de Barbacena. As demais vítimas sofreram lesões de menor gravidade. O acidente foi atendido pelo Corpo de Bombeiros, pela EPR Via Mineira e pelo Samu.",
+          "porQueImporta": "O acidente evidencia riscos de tráfego em trechos rodoviários movimentados, demandando atenção das autoridades e dos usuários.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/04/camera-mostra-momento-em-que-jogador-do-sao-paulo-atropela-e-mata-idoso-em-barueri-na-grande-sp.ghtml"
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/04/acidente-entre-dois-carros-e-dois-caminhoes-deixa-13-feridos-na-br-040.ghtml"
             }
           ],
-          "updatedAt": "2026-08-04T16:23:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RYK_CEws8fZ3H8ehZQO3SgObeL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/Q/ostLBLTFuSqWREPiDKBQ/fotojet-2026-08-04t114721.466.jpg"
+          "updatedAt": "2026-08-04T20:43:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hKmto_WFRHlZlLd3TDGrFt60eyQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/PCDEI9S9CLcsCXQbRGBg/acidente-br-040-carandai.jpg"
         },
         {
-          "clusterId": "90d9e42524ad3b13",
-          "slug": "87d2104d028a1e70",
-          "titulo": "Homem em situação de rua morre atropelado por caminhão em Vila Velha",
-          "resumo": "Um homem em situação de rua dormia sob um caminhão na Avenida Francisco Lacerda de Aguiar, no bairro São Torquato, em Vila Velha. Na manhã de terça‑feira, o motorista deu partida no veículo sem perceber a presença da pessoa, que foi atropelada e morreu. Até a publicação da notícia, a vítima não havia sido identificada. A Polícia Militar registrou o acidente.",
-          "porQueImporta": "O caso evidencia riscos de segurança para pessoas em situação de rua e a necessidade de atenção ao iniciar veículos em áreas públicas.",
+          "clusterId": "1810adab83b3122e",
+          "slug": "1800fb60bb9b6b81",
+          "titulo": "Motorista atropela gato comunitário e foge sem prestar socorro em Ribeirão Preto",
+          "resumo": "Na noite de segunda-feira, um motorista passou em alta velocidade por uma rua de Ribeirão Preto (SP) e atropelou o gato comunitário Shelby, que morreu na ocasião. A cuidadora do animal, a aposentada Silvia Elena Dias Correa, relatou que vizinhos tentaram solicitar a parada do condutor, mas ele não parou e seguiu o trajeto. O motorista deixou o local sem prestar socorro ao felino. A situação gerou críticas da comunidade local.",
+          "porQueImporta": "O caso evidencia a falta de responsabilidade no trânsito e a necessidade de medidas de proteção a animais em áreas urbanas.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/04/homem-em-situacao-de-rua-dorme-embaixo-de-caminhao-e-morre-atropelado-em-vila-velha.ghtml"
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/04/nao-e-ser-humano-diz-cuidadora-sobre-motorista-que-atropelou-e-matou-gato-comunitario-em-ribeirao-preto-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-08-04T16:02:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/K_yW0CZmcij1qJlzw3jbAocDZPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/QWd00BQFqzAaoQdqm3AA/thumb-fotos-2026-08-04t112709.381.jpg"
+          "updatedAt": "2026-08-04T20:20:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_VcLcNexNgdmvoTYAvTXycJN9k8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/G/KppgaETVe8qJIwgnfBiQ/molduras-g1-.png"
+        },
+        {
+          "clusterId": "fc374e5e8ac8b08a",
+          "slug": "9bf039014ad07835",
+          "titulo": "Adolescente de 14 anos morre atropelado por caminhão no Guarujá",
+          "resumo": "Um adolescente de 14 anos que circulava de bicicleta foi atingido por um caminhão na tarde de terça‑feira, no cruzamento da Alameda das Margaridas com a Rua Manoel Araújo, no bairro Vila Santo Antônio, em Guarujá (SP). O acidente resultou na morte da vítima. Imagens de câmeras de monitoramento mostram o momento em que o ciclista cruza a via à frente do veículo. A dinâmica exata ainda não foi divulgada oficialmente.",
+          "porQueImporta": "O caso evidencia riscos de trânsito envolvendo ciclistas e veículos de grande porte.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/04/adolescente-morre-atropelado-por-caminhao-no-litoral-de-sp-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-04T19:50:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/C0o68w3FuiC-SrDYQdsP-jxCzaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/F/7GeUQcSWypJSBk0bAAsA/acidente-guaruja.jpg"
         }
       ]
     },
@@ -360,22 +545,6 @@
       "slug": "incendio-florestal",
       "label": "Incêndio florestal",
       "stories": [
-        {
-          "clusterId": "de865f811017da8a",
-          "slug": "096f27de7f3f73ea",
-          "titulo": "Julho registrado como mês mais quente na França com incêndios florestais",
-          "resumo": "Meteorologistas confirmaram que julho foi o mês mais quente já registrado na França. O país enfrentou uma onda de calor que provocou incêndios florestais em diversas regiões. As autoridades monitoram a situação e adotam medidas de prevenção. A ocorrência destaca a intensificação de eventos climáticos extremos.",
-          "porQueImporta": "A elevação de temperaturas e os incêndios aumentam riscos à população e ao meio ambiente",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/julho-foi-mes-mais-quente-ja-registrado-na-franca-dizem-meteorologistas/"
-            }
-          ],
-          "updatedAt": "2026-08-04T15:27:57.000Z"
-        },
         {
           "clusterId": "5368afc734268476",
           "slug": "a9c20e7689540b08",
@@ -409,166 +578,29 @@
           ],
           "updatedAt": "2026-08-03T10:23:17.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/5UMS2hS7OHI0NDbtpq_Cya1_Q6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/k/jXcJ0NQByJ9jNbY7GXjQ/captura-de-tela-2026-08-03-072212.jpg"
-        },
-        {
-          "clusterId": "044234b49d271e9e",
-          "slug": "aa2e50c01301be94",
-          "titulo": "Incêndios florestais em Washington provocam evacuação de dezenas de milhares de pessoas e destruição de centenas de imóveis",
-          "resumo": "Incêndios florestais no leste do estado de Washington consumiram cerca de 21 km², forçando a evacuação de aproximadamente 60 mil pessoas na região de Spokane. As chamas destruíram ao menos 600 residências, estabelecimentos comerciais e outras estruturas. As autoridades locais coordenaram a retirada de moradores e monitoram a contenção dos focos. O evento ocorreu nesta semana, segundo informações das autoridades.",
-          "porQueImporta": "A situação evidencia risco elevado de incêndios florestais e a necessidade de planos de evacuação em áreas vulneráveis",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/02/incendios-florestais-destroem-mais-de-600-estruturas-e-autoridades-evacuam-5-mil-em-washington.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-02T20:02:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Z4bGvqa5XA0FTlJFb4F4DJCC4wY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/V/h5TGfiToqfsDBKqpJKFA/ap26214685395677.jpg"
         }
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "87f8e5864240fc61",
-          "slug": "44b74b854ad65640",
-          "titulo": "Carro pega fogo no centro de Teresina",
-          "resumo": "Um veículo incendiou na tarde de terça-feira na rua Eliseu Martins, no centro de Teresina, conforme confirmado pelo Corpo de Bombeiros Militar do Piauí. Não foram registrados feridos. O incidente foi o segundo incêndio de carro em menos de 10 horas na cidade, após outro caso na manhã do mesmo dia em acesso à ponte Juscelino Kubitschek.",
-          "porQueImporta": "Incêndios de veículos podem representar risco à segurança pública e demandam resposta rápida dos bombeiros.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "084b8fbd4ce64d23",
+          "slug": "5b9c82aee3bcbafe",
+          "titulo": "Inmet monitora possível formação de ciclone extratropical intenso no Sul do Brasil",
+          "resumo": "O Instituto Nacional de Meteorologia informou que está acompanhando a possibilidade de formação de um ciclone extratropical intenso entre a Argentina, o Uruguai, o Sul do Brasil e o Oceano Atlântico nos próximos dias. As previsões apontam condições favoráveis para rápida intensificação, processo conhecido como ciclogênese explosiva ou ciclone bomba. A classificação definitiva dependerá da observação da queda da pressão atmosférica. O monitoramento visa antecipar eventuais impactos climáticos na região.",
+          "porQueImporta": "A formação de um ciclone bomba pode gerar ventos fortes e chuvas intensas, afetando a população e a infraestrutura local",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/04/carro-fogo-destruido-teresina.ghtml"
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/04/inmet-ciclone-bomba-brasil.ghtml"
             }
           ],
-          "updatedAt": "2026-08-04T17:29:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/wS7UV6YQX_mAE_fvMfPKZ_HHQXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/BC17eEQgC3FEhsikl4ag/edicao-imagens-g1-2026-08-04t143748.080.png"
-        },
-        {
-          "clusterId": "e7dbe54e254603f3",
-          "slug": "54c3523caa86fa5d",
-          "titulo": "Incêndio em Le Porge revela projéteis da Segunda Guerra Mundial",
-          "resumo": "Um incêndio próximo a Bordeaux, na localidade de Le Porge, expôs projéteis da Segunda Guerra Mundial. As autoridades interditaram a área e iniciaram operações de desminagem. Moradores puderam retornar às suas casas na segunda‑feira após a conclusão das intervenções. O incidente afetou várias residências no município de Gironde.",
-          "porQueImporta": "A presença de munições antigas exige medidas de segurança e pode gerar riscos à população local.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/04/projeteis-da-segunda-guerra-mundial-sao-encontrados-em-vila-francesa-devastada-por-incendio-florestal.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-04T11:32:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/W7ELR07BwXq1LAHwjo0Y534wvLI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/3/W9ydhSTjipkBa9i1m4YQ/afp-20260803-c3u66te-v9-highres-topshotfrancehistorywwiishellwildfires-redimensionado-para-grande.jpeg"
-        },
-        {
-          "clusterId": "64f9703ff8dfb944",
-          "slug": "1882fda80391d3bb",
-          "titulo": "Ataques entre Rússia e Ucrânia deixam oito mortos",
-          "resumo": "Trocas de ataques aéreos entre Ucrânia e Rússia na noite de segunda e madrugada de terça resultaram em oito mortes. Na região de Moscou, drones russos atingiram um armazém da empresa Wildberries, matando cinco pessoas e ferindo seis. Em outra zona industrial, ataques ucranianos também causaram vítimas. As autoridades locais confirmaram os números e os danos.",
-          "porQueImporta": "O incidente evidencia a escalada do conflito e seus impactos civis em áreas industriais",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/04/ataques-entre-russia-e-ucrania-deixam-oito-mortos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-04T09:39:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OW_o15VhqofQkoez_EPjGON0kFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/bi7m4BRXuGvwqQhPL7Ow/ap26216243501704.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "8d4f44839890f487",
-          "slug": "75861a1be70be8d8",
-          "titulo": "Ciclone extratropical traz risco de temporais e inundações no Rio Grande do Sul",
-          "resumo": "O Centro Nacional de Monitoramento e Alertas de Desastres Naturais (Cemaden), o Instituto Nacional de Meteorologia (Inmet) e a Climatempo apontam a formação de um ciclone extratropical e o avanço de uma frente fria para quinta‑feira (6). Os sistemas devem gerar temporais e ventos de até 100 km/h em várias regiões do estado. Na terça‑feira (4), há risco alto de inundações na Fronteira Oeste. As autoridades recomendam seguir as orientações da Defesa Civil em caso de tempo extremo.",
-          "porQueImporta": "A ocorrência pode causar alagamentos e danos materiais, exigindo preparação da população.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/04/com-previsao-de-ciclone-para-esta-semana-orgao-nacional-aponta-alta-chance-de-inundacao-em-rio-do-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-04T16:51:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MpFR8l56GOJ9Yck8rHYHHTzSMmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/O/AlAsBsShiLCqtehyeVAA/uruguaiana.png"
-        },
-        {
-          "clusterId": "191a32004ef14651",
-          "slug": "791e41926822acf4",
-          "titulo": "Chuvas e enchentes causam 14 mortes e milhares de desabrigados na Índia",
-          "resumo": "Fortes chuvas de monção atingiram o sul da Índia no fim de semana, resultando em ao menos 14 mortos. No estado de Kerala, 11 pessoas morreram e cerca de 7.700 moradores foram encaminhados a aproximadamente 275 abrigos montados pelo governo. As autoridades locais registram milhares de desabrigados em decorrência das inundações.",
-          "porQueImporta": "A ocorrência evidencia risco de inundação em áreas densamente povoadas, demandando resposta emergencial e medidas de mitigação.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/03/chuvas-e-enchentes-deixam-mortos-e-desabrigados-na-india.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-03T05:02:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/XJJsQ-SDKxuaTrHZai4CDfk8XX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/j/3YGkLsS8qDkPZbVYA9dQ/2026-07-28t114742z-1646626908-rc2tmmahsrro-rtrmadp-3-asia-weather-india.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
-        {
-          "clusterId": "62b9a8c4d1c69eee",
-          "slug": "1ce21ab762e32ebb",
-          "titulo": "Trabalhador morre eletrocutado durante manutenção em escola municipal no Recife",
-          "resumo": "Um homem sofreu choque elétrico enquanto realizava manutenção em um ar‑condicionado na Escola Municipal dos Remédios, em Afogados, zona oeste do Recife. O acidente ocorreu na tarde da terça‑feira, durante visita técnica da Secretaria de Educação. A Neoenergia Pernambuco informou que o choque foi nas instalações internas, sem vínculo com a rede de distribuição. A prefeitura confirmou que a equipe de vistoria estava no local quando o incidente aconteceu.",
-          "porQueImporta": "O caso evidencia riscos de segurança em ambientes escolares durante intervenções técnicas.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/08/04/trabalhador-morre-eletrocutado-em-escola-municipal-no-recife.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-04T17:48:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/qAQ7ff1571cX6j-tDMyyLJJUEJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/5tzbFUT6KZcCuWF7VQWw/corpo-choque-2.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "resgate",
-      "label": "Resgate",
-      "stories": [
-        {
-          "clusterId": "589ff7b760c12a4f",
-          "slug": "2ca0967bd11048e0",
-          "titulo": "Marinha colabora com Bombeiros nas buscas de jovem desaparecido no Rio Doce",
-          "resumo": "Um homem de 26 anos desapareceu no Rio Doce, no distrito de Pedra Corrida, em Periquito. No terceiro dia de buscas, o Corpo de Bombeiros utiliza barco, equipamentos de mergulho e três militares, enquanto a Marinha realiza perícia na embarcação encontrada após o acidente. O corpo da vítima ainda não foi localizado.",
-          "porQueImporta": "A operação demonstra a cooperação entre instituições para resgatar pessoas desaparecidas em ambientes de risco",
-          "categoria": "Resgate",
-          "categoriaSlug": "resgate",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/04/marinha-ajuda-bombeiros-no-terceiro-dia-de-buscas-por-jovem-desaparecido-no-rio-doce-em-periquito.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-04T17:13:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1MTOpUAgxybxhVa_y1nJB4XHw4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/W/1seXoKTW6emH97RAmbHQ/fotos-horizontais-38-.png"
+          "updatedAt": "2026-08-04T21:12:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zqyd1YwQTImUJWF52kVY_u2ZN3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/j/46Ft4XQiAVeiDNVsQW1g/imagem-cortada.jpg"
         }
       ]
     },
@@ -638,6 +670,29 @@
           ],
           "updatedAt": "2026-08-03T05:15:06.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/tBwckNTIW1zPzSL9ZXa1aLCPXsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/1/tfzjdDQUSSBB3cGZIAyw/2026-08-03t040912z-1337206876-rc2rqmahux4k-rtrmadp-3-australia-building.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "191a32004ef14651",
+          "slug": "791e41926822acf4",
+          "titulo": "Chuvas e enchentes causam 14 mortes e milhares de desabrigados na Índia",
+          "resumo": "Fortes chuvas de monção atingiram o sul da Índia no fim de semana, resultando em ao menos 14 mortos. No estado de Kerala, 11 pessoas morreram e cerca de 7.700 moradores foram encaminhados a aproximadamente 275 abrigos montados pelo governo. As autoridades locais registram milhares de desabrigados em decorrência das inundações.",
+          "porQueImporta": "A ocorrência evidencia risco de inundação em áreas densamente povoadas, demandando resposta emergencial e medidas de mitigação.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/03/chuvas-e-enchentes-deixam-mortos-e-desabrigados-na-india.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-03T05:02:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XJJsQ-SDKxuaTrHZai4CDfk8XX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/j/3YGkLsS8qDkPZbVYA9dQ/2026-07-28t114742z-1646626908-rc2tmmahsrro-rtrmadp-3-asia-weather-india.jpg"
         }
       ]
     },
