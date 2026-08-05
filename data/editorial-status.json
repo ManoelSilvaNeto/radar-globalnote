@@ -1,15 +1,15 @@
 {
-  "ranAt": "2026-08-05T11:01:21.862Z",
+  "ranAt": "2026-08-05T14:57:30.868Z",
   "editionDate": "2026-08-05",
-  "hourUtc": 11,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e incêndios concentram ocorrências nesta edição\" (3 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
     "groq: erro — sem cota (429)",
-    "cerebras: reprovado — data inconsistente na análise"
+    "cerebras: ok"
   ]
 }
