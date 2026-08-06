@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-08-05T14:57:30.868Z",
-  "editionDate": "2026-08-05",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito e incêndios concentram ocorrências nesta edição\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-08-06T03:51:10.920Z",
+  "editionDate": "2026-08-06",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
