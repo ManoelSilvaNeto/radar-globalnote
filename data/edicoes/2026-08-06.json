@@ -1,305 +1,247 @@
 {
   "date": "2026-08-06",
-  "generatedAt": "2026-08-06T07:18:43.869Z",
+  "generatedAt": "2026-08-06T11:02:36.936Z",
   "home": [
     {
-      "clusterId": "b9b72175e88ebf54",
-      "slug": "1882fda80391d3bb",
-      "titulo": "Ataques entre Rússia e Ucrânia deixam oito mortos",
-      "resumo": "Trocas de ataques aéreos entre Ucrânia e Rússia na noite de segunda-feira e madrugada de terça-feira resultaram em oito mortes. Na Rússia, cinco pessoas morreram e seis ficaram feridas após drones atingirem uma zona industrial próxima a Moscou, segundo o governador regional. Um incêndio foi registrado em um armazém da empresa russa Wildberries. No lado ucraniano, um drone perseguiu um cidadão antes de acertá‑lo.",
-      "porQueImporta": "O episódio evidencia a escalada da violência e seus impactos civis nas áreas industriais de ambos os países",
+      "clusterId": "7af738fd910dec17",
+      "slug": "56f376972a07a574",
+      "titulo": "Incêndio em fábrica de solventes é extinto pelos bombeiros após 33 horas",
+      "resumo": "O fogo começou na tarde de terça‑feira, 4 de agosto, em uma fábrica de solventes. Os bombeiros trabalharam no combate ao incêndio até o início da quinta‑feira, 6 de agosto, quando o incêndio foi declarado extinto. Não foram registrados feridos. A ocorrência durou aproximadamente 33 horas.",
+      "porQueImporta": "O incidente evidencia riscos industriais e a necessidade de resposta rápida dos serviços de emergência.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/incendio-fabrica-solventes-extinto-33h"
+        }
+      ],
+      "updatedAt": "2026-08-06T10:59:36.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/incendio-4.jpg"
+    },
+    {
+      "clusterId": "b59df388aeb149a5",
+      "slug": "a25e2730dbd68a98",
+      "titulo": "Defesa Civil alerta para ventos de até 60 km/h em Ribeirão Preto e Franca devido a ciclone extratropical",
+      "resumo": "A Defesa Civil do Estado de São Paulo emitiu alerta de mudança nas condições do tempo para a região de Ribeirão Preto e Franca entre quinta‑feira e sábado, em razão da passagem de um ciclone extratropical pelo Sul do país. Na região, a previsão é de ventos com rajadas de até 60 km/h, enquanto em outras áreas do estado a velocidade pode alcançar 100 km/h. Desde a noite de quarta‑feira, cidades como Ribeirão Preto, Jaboticabal e Brodowski registram chuva de baixa intensidade acompanhada de ventos.",
+      "porQueImporta": "O alerta indica risco de danos materiais e necessidade de precauções para a população local",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/06/defesa-civil-alerta-regiao-de-ribeirao-preto-e-franca-para-ventos-de-ate-60-kmh-por-causa-de-ciclone.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T10:58:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Ttlc52FKbGXu_1FIBXaWVjcLLDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/R/SrnVBVRSu20Jd7zp8VFw/dsc-0564.jpg"
+    },
+    {
+      "clusterId": "0bf69cf03f6b6a4b",
+      "slug": "a6be6e5675efeb37",
+      "titulo": "Carreta com 23 toneladas de sabão líquido tomba e interdita rodovia em São José dos Campos",
+      "resumo": "Na manhã de quinta‑feira, uma carreta carregada com 23 toneladas de sabão líquido tombou no km 95 da rodovia Carvalho Pinto, em São José dos Campos. O motorista recebeu socorro por ferimentos moderados. O acidente provocou a interdição total das faixas e do acostamento, sendo restabelecido o tráfego parcial às 7h13, com circulação apenas pela faixa da esquerda.",
+      "porQueImporta": "O bloqueio afetou o fluxo de veículos em uma importante via da região, gerando transtornos ao trânsito local.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/06/carreta-com-23-toneladas-de-sabao-liquido-tomba-e-interdita-rodovia-carvalho-pinto-em-sao-jose-dos-campos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T10:50:49.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/C_g_EgrTV3B3CvCbLR7SrtCvCbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/G/YaUEWxTESGZ2wnFWH3lg/texto-do-seu-paragrafo-2026-08-06t074912.301.png"
+    },
+    {
+      "clusterId": "dbdf434bdf227bab",
+      "slug": "7b057a7d60f2c398",
+      "titulo": "Governo federal reconhece situação de emergência em quatro municípios do Rio Grande do Sul",
+      "resumo": "A Secretaria Nacional de Proteção e Defesa Civil publicou, no Diário Oficial da União, decretos que reconhecem situação de emergência em quatro municípios do Rio Grande do Sul. Os decretos referem‑se a eventos climáticos ocorridos entre 23 e 29 de julho, incluindo chuvas intensas, vendaval e inundações. No final do mês passado, a Defesa Civil estadual havia registrado emergência em 47 cidades do estado. A medida foi divulgada na quarta‑feira (5).",
+      "porQueImporta": "A declaração oficial permite a liberação de recursos e apoio federal às áreas afetadas pelos eventos climáticos.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/06/governo-federal-reconhece-emergencia-quatro-cidades-rs.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T10:41:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/CReQsPyHtLiSrwIoHY-bBnej05w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/BB6XanTkikdbMgH0zuoQ/g1-2-.jpg"
+    },
+    {
+      "clusterId": "c95e59b817b808f0",
+      "slug": "87b90de6c682e7c6",
+      "titulo": "Incêndio destrói banca de jornais na Taquara",
+      "resumo": "Na noite de domingo, um homem ateou fogo em folhas secas ao lado de uma banca de jornais na esquina da Estrada do Tindiba com a Rua André Rocha, na Taquara, zona oeste do Rio. O incêndio consumiu completamente a estrutura, que era administrada por José Eudes Ferreira Araújo, conhecido como Seu José, que vendia jornais, revistas e livros há 25 anos. Imagens de câmeras de segurança registraram o ato e a propagação das chamas.",
+      "porQueImporta": "A destruição de um ponto de venda de imprensa local evidencia risco de incêndios provocados por negligência e afeta a comunidade que depende do serviço.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/04/ataques-entre-russia-e-ucrania-deixam-oito-mortos.ghtml"
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/08/06/incendio-destroi-banca-de-jornais-na-taquara.ghtml"
         }
       ],
-      "updatedAt": "2026-08-06T07:05:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/OW_o15VhqofQkoez_EPjGON0kFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/bi7m4BRXuGvwqQhPL7Ow/ap26216243501704.jpg"
+      "updatedAt": "2026-08-06T10:36:32.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/CmoruHl4oJc2TKEhN3c6DIf-M9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/L/kgA8OBR6amvcJDWCvYpg/sequencia-banca-cortada.jpg"
     },
     {
-      "clusterId": "566d772fbede7420",
-      "slug": "1ebfd3da2c03a904",
-      "titulo": "Inmet alerta sobre ciclone que pode provocar vendaval em mais de 380 cidades de MG",
-      "resumo": "O Instituto Nacional de Meteorologia (Inmet) informou que uma frente fria associada a um ciclone extratropical pode atingir 389 cidades de Minas Gerais a partir de quinta-feira. Os ventos previstos variam entre 60 e 80 km/h, com possibilidade de intensificação rápida e classificação como ciclone bomba. O alerta indica risco de ventos fortes, chuva intensa e mudanças bruscas no tempo.",
-      "porQueImporta": "O fenômeno pode causar danos estruturais e perturbações nas atividades diárias em grande parte do estado.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/06/inmet-alerta-sobre-ciclone-que-pode-provocar-vendaval-em-mais-de-380-cidades-de-mg.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T07:01:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/gjwFI2Yh3SHlxHmnfWkDSTlrQqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/l/jD2rJuQQSeHG0faSyOSg/captura-de-tela-2026-08-05-151953.png"
-    },
-    {
-      "clusterId": "70a72ea24738c120",
-      "slug": "883931bbf7a49646",
-      "titulo": "Ciclone bomba no Sul pode provocar ventos de até 60 km/h e temperaturas acima de 36 °C em Uberlândia e região",
-      "resumo": "A formação de um ciclone extratropical com características de \"ciclone bomba\" no Sul do Brasil pode afetar o Triângulo Mineiro e Alto Paranaíba. A frente fria associada pode elevar a intensidade dos ventos, que podem chegar a 60 km/h entre quarta e sexta-feira. As rajadas previstas variam entre 40 e 60 km/h e são consideradas expressivas, podendo provocar queda de árvores e objetos. As temperaturas podem ultrapassar 36 °C na região.",
-      "porQueImporta": "O fenômeno pode causar transtornos e riscos à segurança pública na região afetada.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/06/ciclone-bomba-no-sul-pode-provocar-ventos-de-ate-60-kmh-e-temperaturas-acima-de-36-c-em-uberlandia-e-regiao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T07:00:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/id1noGpfYsdWSFZ7RrY4DdTleqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/J/A867v7RrGqdHz7R9EqQw/design-sem-nome-4-.png"
-    },
-    {
-      "clusterId": "a2254b3c0481164f",
-      "slug": "88652bb3b0d489da",
-      "titulo": "Brasil aguarda chegada de ventania associada a ciclone bomba intenso",
-      "resumo": "Especialistas alertam que o país espera a chegada de uma ventania gerada por um ciclone bomba de alta intensidade. A situação levanta discussões sobre a possibilidade de eventos semelhantes se tornarem mais frequentes ou mais intensos no futuro.",
-      "porQueImporta": "A ocorrência pode impactar infraestrutura e segurança da população",
+      "clusterId": "32c9e34acfdc0a4a",
+      "slug": "5c3e08fa1c686ad4",
+      "titulo": "Ciclone bomba traz risco de ventos fortes e quedas de energia",
+      "resumo": "Autoridades alertam que o ciclone bomba pode gerar rajadas de vento superiores a 100 km/h nos próximos dias. Entre os principais riscos estão queda de árvores, destelhamentos e interrupções no fornecimento de energia elétrica. A população deve ficar atenta às recomendações de segurança e evitar áreas vulneráveis. As previsões indicam que os efeitos podem se estender por vários dias.",
+      "porQueImporta": "Ventões fortes podem causar danos materiais e colocar em risco a segurança da população",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-espera-chegada-de-nova-ventania-formada-por-ciclone-bomba-intenso/"
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-saiba-o-que-fazer-em-caso-de-ventania-forte/"
         }
       ],
-      "updatedAt": "2026-08-06T06:34:11.000Z"
+      "updatedAt": "2026-08-06T10:29:45.000Z"
     },
     {
-      "clusterId": "f3ba794c3704ed3c",
-      "slug": "af5df7a3937da447",
-      "titulo": "Vale do Paraíba em alerta para ventos de até 90 km/h",
-      "resumo": "O Vale do Paraíba e outras áreas de São Paulo deverão enfrentar ventos fortes entre quinta‑feira e sábado, com maior risco na sexta‑feira. A Climatempo indica rajadas de até 90 km/h, capazes de causar queda de árvores, destelhamentos e interrupções no fornecimento de energia elétrica. A Defesa Civil Estadual vai mobilizar um Gabinete de Crise para monitorar os impactos da frente fria associada à formação de um ciclone.",
-      "porQueImporta": "Os ventos intensos podem gerar danos à infraestrutura e riscos à população",
+      "clusterId": "848dd766252476af",
+      "slug": "28bad26a59a0f1a7",
+      "titulo": "Inmet emite alerta amarelo de baixa umidade para 181 municípios do Piauí",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) publicou alerta amarelo de baixa umidade que vigora das 10h30 às 22h desta quinta-feira. A umidade relativa do ar nas áreas afetadas deve ficar entre 20% e 30%. O aviso cobre 181 municípios, incluindo Teresina, Bom Jesus e Gilbués, e indica risco potencial de incêndios florestais e desconforto respiratório.",
+      "porQueImporta": "A condição pode aumentar o risco de incêndios e afetar a saúde da população",
+      "categoria": "Seca",
+      "categoriaSlug": "seca",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/06/aviso-municipios-piaui.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T10:26:16.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/q6gjNr-7ymCryd1_XC2x1fNQQFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/YyfJX8SOOcEqGS2gGbKg/edicao-imagens-g1-67-.png"
+    },
+    {
+      "clusterId": "9a337b5944effbd2",
+      "slug": "9e44aaf9c9766202",
+      "titulo": "Ônibus invade restaurante e mata gerente em Papanduva (SC)",
+      "resumo": "Na noite de quarta‑feira, um ônibus que trafegava na BR‑116 colidiu com um restaurante em Papanduva, no norte de Santa Catarina, atingindo a gerente de 33 anos que morreu no local. A passageira de 62 anos e o motorista de 65 anos foram encaminhados ao hospital. Segundo o Corpo de Bombeiros, a vítima ficou presa contra a mureta de proteção antes de falecer.",
+      "porQueImporta": "O acidente evidencia riscos de segurança viária em áreas de comércio próximo a rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/06/onibus-invade-restaurante-atinge-mata-mulher-norte-sc-papanduva.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T10:13:09.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/cIL3kD_H41Kr05QivSJBpPc7YV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/Nyt62HT9q7u2MtWbRuOw/onibus-invade-restaurante-atropela-e-mata-gerente-no-norte-de-sc.jpeg"
+    },
+    {
+      "clusterId": "a648574868e3f686",
+      "slug": "f62fd51c1b3bd8c3",
+      "titulo": "Ciclone bomba traz ventos fortes e temporais ao Sul, Sudeste e Centro-Oeste",
+      "resumo": "Um ciclone bomba chegou ao Brasil nesta quinta-feira, trazendo ventos de até 90 km/h em regiões do Rio Grande do Sul, Santa Catarina e Mato Grosso do Sul. O fenômeno também deve gerar temporais, granizo e frente fria, afetando principalmente os estados do Sul, Sudeste e Centro-Oeste entre quinta e sábado.",
+      "porQueImporta": "As condições climáticas podem causar danos materiais e riscos à população nas áreas afetadas.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/06/vale-do-paraiba-entra-em-alerta-para-ventos-de-ate-90-kmh-defesa-civil-mobiliza-gabinete-de-crise-em-sp.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-no-brasil-quais-estados-serao-afetados-pelo-fenomeno/"
         }
       ],
-      "updatedAt": "2026-08-06T06:00:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/yHNZ7DD39bFNk0YMSmNaPi_e89I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/R/5cXBNsSHmBQEUO4aUBPg/vento32.jpg"
+      "updatedAt": "2026-08-06T10:10:40.000Z"
     },
     {
-      "clusterId": "334ede9bddf1a706",
-      "slug": "488d916f03a6858a",
-      "titulo": "Suicídio entre médicos será tema de evento nas Academias de Medicina do Brasil",
-      "resumo": "O suicídio de médicos é apontado como um problema de saúde ocupacional ainda pouco abordado. A reportagem destaca que esses profissionais apresentam risco maior de transtornos mentais, abuso de substâncias e morte por suicídio. O assunto será discutido em um evento das Academias de Medicina do Brasil, programado para os dias 28 e 29 de agosto em Porto Alegre.",
-      "porQueImporta": "A questão evidencia a necessidade de prevenção e apoio psicológico na prática médica",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "af64ef6c20606ec2",
+      "slug": "841d13df0fe1684c",
+      "titulo": "Acidente entre moto e caminhão deixa homem ferido na Via Dutra em Resende",
+      "resumo": "Na noite de quarta‑feira, por volta das 19h50, uma colisão entre uma motocicleta e um caminhão ocorreu no km 299 da Via Dutra, sentido São Paulo, em Resende (RJ). O condutor da moto ficou ferido e recebeu atendimento. O trecho ficou parcialmente interditado e o tráfego foi totalmente liberado por volta das 20h30.",
+      "porQueImporta": "O acidente provocou interrupção temporária do fluxo de veículos em uma importante rodovia federal.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/saude/noticia/2026/08/06/suicidio-entre-medicos-tragedia-silenciosa-negligenciada-e-evitavel-exige-prevencao-desde-a-faculdade.ghtml"
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/06/acidente-entre-moto-e-caminhao-deixa-homem-ferido-na-via-dutra-em-resende.ghtml"
         }
       ],
-      "updatedAt": "2026-08-06T06:00:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/H-gKO0tV0o68R-SPNp2pAkHkd08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/O/HvAQKCS566FRO7VGHSvA/adobestock-663214676.jpeg"
-    },
-    {
-      "clusterId": "b2933322564c1c39",
-      "slug": "b0b51458b841e58e",
-      "titulo": "Polícia Federal divulga resultados da investigação criminal do acidente aéreo da Voepass",
-      "resumo": "A Polícia Federal apresentou nesta quinta-feira o resultado da investigação criminal sobre a queda do avião ATR 72-500 da Voepass, ocorrida em agosto de 2024 em Vinhedo (SP), que deixou 62 mortos. Segundo a PF, o chefe dos pilotos está entre os indiciados pelo incidente. O inquérito busca apurar a existência de crimes e identificar responsáveis, diferindo do relatório da Força Aérea Brasileira que foca em fatores contributivos.",
-      "porQueImporta": "A apuração criminal pode definir responsabilidades e influenciar medidas de segurança na aviação civil brasileira",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/06/acidente-voepass-pf-divulga-resultado-de-investigacao-criminal-nesta-quinta.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T05:00:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/U6OEAQg62eIpnroGOIb24eNTw_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/o/Sw9Lo8Qpmx5MtDPgfDzg/000-36dh6mb.jpg"
-    },
-    {
-      "clusterId": "509401109c74ecc0",
-      "slug": "f44ab77fb323fdb7",
-      "titulo": "Cuidados durante ventos fortes: o que fazer em casa, na rua, áreas de risco e mais em caso de emergências",
-      "resumo": "Cuidados durante ventos fortes: o que fazer em casa, na rua, áreas de risco e mais A formação de um ciclone extratropical sobre o oceano e o avanço de uma frente fria devem provocar temporais e fortes rajadas de vento em áreas do Sul e do Sudeste entre esta quinta (6) e sexta-feira (7). No Rio Grande do Sul e em Santa Catarina, além da ventania, há risco de chuva intensa, granizo e até tornado em alguns pontos. Na sexta-feira, o maior risco de ventos fortes se desloca para São Paulo e Rio de Janeiro. No litoral paulista, na Serra do Mar, no Vale do Paraíba, na Costa Verde e no sul do Rio, as…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/06/cuidados-durante-ventos-fortes-o-que-fazer-em-casa-na-rua-areas-de-risco-e-mais-em-caso-de-emergencias.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T03:00:45.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/fJZmDrbvsUiK5Jh9pcJXaQ730H8=/s.glbimg.com/jo/g1/f/original/2015/06/15/odr20150615063_1.jpg"
-    },
-    {
-      "clusterId": "6a57093c07bbcd2f",
-      "slug": "a5702024a2b1f576",
-      "titulo": "Ciclone extratropical se forma no Atlântico e traz ventos fortes ao Sul e Sudeste",
-      "resumo": "Um ciclone extratropical em rápida intensificação deve se organizar sobre o Oceano Atlântico próximo ao Rio Grande do Sul a partir de quinta‑feira (6). A circulação do sistema e a frente fria associada podem gerar temporais, granizo e rajadas que ultrapassam 70 km/h em várias regiões do RS, com possibilidade de ventos acima de 100 km/h em pontos do Sul, Sudeste e Centro‑Oeste. O risco de tornado também foi apontado para o estado. As autoridades recomendam atenção especial, sobretudo entre a tarde e a noite.",
-      "porQueImporta": "Os ventos e chuvas intensas podem causar danos materiais e riscos à população nas áreas afetadas.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/06/ciclone-extratropical-frente-fria-rs-temporais-granizo-vento-forte-rs-confira-previsao-do-tempo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T03:00:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/LhgIXfoByojwZKep7pkDLCX9rHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/QqG82tQ3u3oKsqpt23NQ/g1-2-.png"
-    },
-    {
-      "clusterId": "84b731e3ce2adc0a",
-      "slug": "4a0ffcb959a6f0d0",
-      "titulo": "Três homens morrem afogados enquanto pescavam em Pintópolis",
-      "resumo": "Três homens, entre eles pai e filho, foram encontrados mortos por afogamento na zona rural de Pintópolis, no Rio Acari. A polícia recebeu o chamado na terça-feira e, ao chegar ao local, constatou que um dos homens havia submerso e os demais se afogaram ao tentar socorrê‑lo. Os corpos foram retirados durante a noite. A ocorrência foi registrada na quarta‑feira, segundo o Centro de Operações da Polícia Militar.",
-      "porQueImporta": "O caso evidencia riscos de segurança ao praticar pesca em rios sem equipamentos adequados.",
-      "categoria": "Afogamento",
-      "categoriaSlug": "afogamento",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/05/tres-homens-entre-eles-pai-e-filho-morrem-afogados-enquanto-pescavam-em-mg.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T01:45:38.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/2-qn8sFsITYbHe6Hoz6hsLYdmuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/2/hQkVDjRuuOzCcq11dQUw/1200x675-9-.jpg"
+      "updatedAt": "2026-08-06T10:09:54.000Z"
     }
   ],
   "categorias": [
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "566d772fbede7420",
-          "slug": "1ebfd3da2c03a904",
-          "titulo": "Inmet alerta sobre ciclone que pode provocar vendaval em mais de 380 cidades de MG",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) informou que uma frente fria associada a um ciclone extratropical pode atingir 389 cidades de Minas Gerais a partir de quinta-feira. Os ventos previstos variam entre 60 e 80 km/h, com possibilidade de intensificação rápida e classificação como ciclone bomba. O alerta indica risco de ventos fortes, chuva intensa e mudanças bruscas no tempo.",
-          "porQueImporta": "O fenômeno pode causar danos estruturais e perturbações nas atividades diárias em grande parte do estado.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/06/inmet-alerta-sobre-ciclone-que-pode-provocar-vendaval-em-mais-de-380-cidades-de-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T07:01:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gjwFI2Yh3SHlxHmnfWkDSTlrQqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/l/jD2rJuQQSeHG0faSyOSg/captura-de-tela-2026-08-05-151953.png"
-        },
-        {
-          "clusterId": "70a72ea24738c120",
-          "slug": "883931bbf7a49646",
-          "titulo": "Ciclone bomba no Sul pode provocar ventos de até 60 km/h e temperaturas acima de 36 °C em Uberlândia e região",
-          "resumo": "A formação de um ciclone extratropical com características de \"ciclone bomba\" no Sul do Brasil pode afetar o Triângulo Mineiro e Alto Paranaíba. A frente fria associada pode elevar a intensidade dos ventos, que podem chegar a 60 km/h entre quarta e sexta-feira. As rajadas previstas variam entre 40 e 60 km/h e são consideradas expressivas, podendo provocar queda de árvores e objetos. As temperaturas podem ultrapassar 36 °C na região.",
-          "porQueImporta": "O fenômeno pode causar transtornos e riscos à segurança pública na região afetada.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/06/ciclone-bomba-no-sul-pode-provocar-ventos-de-ate-60-kmh-e-temperaturas-acima-de-36-c-em-uberlandia-e-regiao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T07:00:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/id1noGpfYsdWSFZ7RrY4DdTleqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/J/A867v7RrGqdHz7R9EqQw/design-sem-nome-4-.png"
-        },
-        {
-          "clusterId": "a2254b3c0481164f",
-          "slug": "88652bb3b0d489da",
-          "titulo": "Brasil aguarda chegada de ventania associada a ciclone bomba intenso",
-          "resumo": "Especialistas alertam que o país espera a chegada de uma ventania gerada por um ciclone bomba de alta intensidade. A situação levanta discussões sobre a possibilidade de eventos semelhantes se tornarem mais frequentes ou mais intensos no futuro.",
-          "porQueImporta": "A ocorrência pode impactar infraestrutura e segurança da população",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-espera-chegada-de-nova-ventania-formada-por-ciclone-bomba-intenso/"
-            }
-          ],
-          "updatedAt": "2026-08-06T06:34:11.000Z"
-        },
-        {
-          "clusterId": "f3ba794c3704ed3c",
-          "slug": "af5df7a3937da447",
-          "titulo": "Vale do Paraíba em alerta para ventos de até 90 km/h",
-          "resumo": "O Vale do Paraíba e outras áreas de São Paulo deverão enfrentar ventos fortes entre quinta‑feira e sábado, com maior risco na sexta‑feira. A Climatempo indica rajadas de até 90 km/h, capazes de causar queda de árvores, destelhamentos e interrupções no fornecimento de energia elétrica. A Defesa Civil Estadual vai mobilizar um Gabinete de Crise para monitorar os impactos da frente fria associada à formação de um ciclone.",
-          "porQueImporta": "Os ventos intensos podem gerar danos à infraestrutura e riscos à população",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/06/vale-do-paraiba-entra-em-alerta-para-ventos-de-ate-90-kmh-defesa-civil-mobiliza-gabinete-de-crise-em-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T06:00:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/yHNZ7DD39bFNk0YMSmNaPi_e89I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/R/5cXBNsSHmBQEUO4aUBPg/vento32.jpg"
-        },
-        {
-          "clusterId": "6a57093c07bbcd2f",
-          "slug": "a5702024a2b1f576",
-          "titulo": "Ciclone extratropical se forma no Atlântico e traz ventos fortes ao Sul e Sudeste",
-          "resumo": "Um ciclone extratropical em rápida intensificação deve se organizar sobre o Oceano Atlântico próximo ao Rio Grande do Sul a partir de quinta‑feira (6). A circulação do sistema e a frente fria associada podem gerar temporais, granizo e rajadas que ultrapassam 70 km/h em várias regiões do RS, com possibilidade de ventos acima de 100 km/h em pontos do Sul, Sudeste e Centro‑Oeste. O risco de tornado também foi apontado para o estado. As autoridades recomendam atenção especial, sobretudo entre a tarde e a noite.",
-          "porQueImporta": "Os ventos e chuvas intensas podem causar danos materiais e riscos à população nas áreas afetadas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/06/ciclone-extratropical-frente-fria-rs-temporais-granizo-vento-forte-rs-confira-previsao-do-tempo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T03:00:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/LhgIXfoByojwZKep7pkDLCX9rHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/QqG82tQ3u3oKsqpt23NQ/g1-2-.png"
-        },
-        {
-          "clusterId": "525660bbb08295ab",
-          "slug": "39d07a321b237307",
-          "titulo": "El Niño provoca clima de extremos no Brasil em agosto",
-          "resumo": "O fenômeno El Niño deve permanecer influenciando o clima brasileiro ao longo do mês, gerando calor atípico e risco de ciclone. As condições extremas previstas incluem temperaturas acima da média e a possibilidade de formação de ciclone no litoral.",
-          "porQueImporta": "Os eventos climáticos extremos podem impactar a população, infraestrutura e setores econômicos.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c4gvwvv2r35o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-08-05T08:00:31.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dc1/live/efbe9ca0-537d-11f1-89a3-d1f559421220.jpg"
-        }
-      ]
-    },
     {
       "slug": "incendio",
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "b9b72175e88ebf54",
-          "slug": "1882fda80391d3bb",
-          "titulo": "Ataques entre Rússia e Ucrânia deixam oito mortos",
-          "resumo": "Trocas de ataques aéreos entre Ucrânia e Rússia na noite de segunda-feira e madrugada de terça-feira resultaram em oito mortes. Na Rússia, cinco pessoas morreram e seis ficaram feridas após drones atingirem uma zona industrial próxima a Moscou, segundo o governador regional. Um incêndio foi registrado em um armazém da empresa russa Wildberries. No lado ucraniano, um drone perseguiu um cidadão antes de acertá‑lo.",
-          "porQueImporta": "O episódio evidencia a escalada da violência e seus impactos civis nas áreas industriais de ambos os países",
+          "clusterId": "7af738fd910dec17",
+          "slug": "56f376972a07a574",
+          "titulo": "Incêndio em fábrica de solventes é extinto pelos bombeiros após 33 horas",
+          "resumo": "O fogo começou na tarde de terça‑feira, 4 de agosto, em uma fábrica de solventes. Os bombeiros trabalharam no combate ao incêndio até o início da quinta‑feira, 6 de agosto, quando o incêndio foi declarado extinto. Não foram registrados feridos. A ocorrência durou aproximadamente 33 horas.",
+          "porQueImporta": "O incidente evidencia riscos industriais e a necessidade de resposta rápida dos serviços de emergência.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/incendio-fabrica-solventes-extinto-33h"
+            }
+          ],
+          "updatedAt": "2026-08-06T10:59:36.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/incendio-4.jpg"
+        },
+        {
+          "clusterId": "c95e59b817b808f0",
+          "slug": "87b90de6c682e7c6",
+          "titulo": "Incêndio destrói banca de jornais na Taquara",
+          "resumo": "Na noite de domingo, um homem ateou fogo em folhas secas ao lado de uma banca de jornais na esquina da Estrada do Tindiba com a Rua André Rocha, na Taquara, zona oeste do Rio. O incêndio consumiu completamente a estrutura, que era administrada por José Eudes Ferreira Araújo, conhecido como Seu José, que vendia jornais, revistas e livros há 25 anos. Imagens de câmeras de segurança registraram o ato e a propagação das chamas.",
+          "porQueImporta": "A destruição de um ponto de venda de imprensa local evidencia risco de incêndios provocados por negligência e afeta a comunidade que depende do serviço.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/04/ataques-entre-russia-e-ucrania-deixam-oito-mortos.ghtml"
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/08/06/incendio-destroi-banca-de-jornais-na-taquara.ghtml"
             }
           ],
-          "updatedAt": "2026-08-06T07:05:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OW_o15VhqofQkoez_EPjGON0kFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/bi7m4BRXuGvwqQhPL7Ow/ap26216243501704.jpg"
+          "updatedAt": "2026-08-06T10:36:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CmoruHl4oJc2TKEhN3c6DIf-M9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/L/kgA8OBR6amvcJDWCvYpg/sequencia-banca-cortada.jpg"
+        },
+        {
+          "clusterId": "0cc37a0062e4cc83",
+          "slug": "706363145dad09eb",
+          "titulo": "Cabeleireiro tem carro destruído por incêndio em ponte de Teresina e adquire novo veículo no mesmo dia",
+          "resumo": "Na manhã de terça‑feira, o cabeleireiro Nailton Carvalho, de Esperantina, viu seu carro consumido por chamas na alça de acesso à ponte Juscelino Kubitschek, em Teresina, e o veículo foi declarado perda total pelo Corpo de Bombeiros. O automóvel não possuía seguro. No dia seguinte, o profissional recebeu um carro novo e declarou que vê a situação como oportunidade de recomeçar.",
+          "porQueImporta": "O caso ilustra o impacto de incêndios em veículos e a vulnerabilidade de quem não possui seguro, além de destacar a rapidez na reposição do bem.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/06/homem-perdeu-carro-incendio.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T09:56:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QgsDs3uobR01TXhOvvb1VyOYcQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/V/4KUPfoRTWkABeAKk5JYQ/edicao-imagens-g1-15-.jpg"
+        },
+        {
+          "clusterId": "b337f0cd5ff36e0e",
+          "slug": "b075f597c772f045",
+          "titulo": "Caminhão carregado de eletrônicos incendeia e bloqueia a BR-290 em Gravataí",
+          "resumo": "Um caminhão que transportava eletrônicos da plataforma Mercado Livre saiu de Porto Alegre com destino a São Paulo e pegou fogo na BR-290, em Gravataí, nesta quinta-feira. O condutor só percebeu as chamas após aviso de outro motorista. Não houve feridos, mas o incidente provocou bloqueio total da via. A Polícia Rodoviária Federal está investigando o caso.",
+          "porQueImporta": "O incêndio interrompeu o tráfego em uma importante rodovia da região metropolitana, afetando o transporte de mercadorias e a mobilidade urbana.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/06/incendio-caminhao-freeway-gravatai.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T08:52:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_u55S0OvPKibiqQdliVZYCvHYx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/K/NlWBG6QOAFBALfkawoMQ/g1.jpg"
         },
         {
           "clusterId": "c92442841de92bd9",
@@ -338,26 +280,194 @@
       ]
     },
     {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "b2933322564c1c39",
-          "slug": "b0b51458b841e58e",
-          "titulo": "Polícia Federal divulga resultados da investigação criminal do acidente aéreo da Voepass",
-          "resumo": "A Polícia Federal apresentou nesta quinta-feira o resultado da investigação criminal sobre a queda do avião ATR 72-500 da Voepass, ocorrida em agosto de 2024 em Vinhedo (SP), que deixou 62 mortos. Segundo a PF, o chefe dos pilotos está entre os indiciados pelo incidente. O inquérito busca apurar a existência de crimes e identificar responsáveis, diferindo do relatório da Força Aérea Brasileira que foca em fatores contributivos.",
-          "porQueImporta": "A apuração criminal pode definir responsabilidades e influenciar medidas de segurança na aviação civil brasileira",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
+          "clusterId": "b59df388aeb149a5",
+          "slug": "a25e2730dbd68a98",
+          "titulo": "Defesa Civil alerta para ventos de até 60 km/h em Ribeirão Preto e Franca devido a ciclone extratropical",
+          "resumo": "A Defesa Civil do Estado de São Paulo emitiu alerta de mudança nas condições do tempo para a região de Ribeirão Preto e Franca entre quinta‑feira e sábado, em razão da passagem de um ciclone extratropical pelo Sul do país. Na região, a previsão é de ventos com rajadas de até 60 km/h, enquanto em outras áreas do estado a velocidade pode alcançar 100 km/h. Desde a noite de quarta‑feira, cidades como Ribeirão Preto, Jaboticabal e Brodowski registram chuva de baixa intensidade acompanhada de ventos.",
+          "porQueImporta": "O alerta indica risco de danos materiais e necessidade de precauções para a população local",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/06/acidente-voepass-pf-divulga-resultado-de-investigacao-criminal-nesta-quinta.ghtml"
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/06/defesa-civil-alerta-regiao-de-ribeirao-preto-e-franca-para-ventos-de-ate-60-kmh-por-causa-de-ciclone.ghtml"
             }
           ],
-          "updatedAt": "2026-08-06T05:00:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/U6OEAQg62eIpnroGOIb24eNTw_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/o/Sw9Lo8Qpmx5MtDPgfDzg/000-36dh6mb.jpg"
+          "updatedAt": "2026-08-06T10:58:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Ttlc52FKbGXu_1FIBXaWVjcLLDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/R/SrnVBVRSu20Jd7zp8VFw/dsc-0564.jpg"
         },
+        {
+          "clusterId": "32c9e34acfdc0a4a",
+          "slug": "5c3e08fa1c686ad4",
+          "titulo": "Ciclone bomba traz risco de ventos fortes e quedas de energia",
+          "resumo": "Autoridades alertam que o ciclone bomba pode gerar rajadas de vento superiores a 100 km/h nos próximos dias. Entre os principais riscos estão queda de árvores, destelhamentos e interrupções no fornecimento de energia elétrica. A população deve ficar atenta às recomendações de segurança e evitar áreas vulneráveis. As previsões indicam que os efeitos podem se estender por vários dias.",
+          "porQueImporta": "Ventões fortes podem causar danos materiais e colocar em risco a segurança da população",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-saiba-o-que-fazer-em-caso-de-ventania-forte/"
+            }
+          ],
+          "updatedAt": "2026-08-06T10:29:45.000Z"
+        },
+        {
+          "clusterId": "a648574868e3f686",
+          "slug": "f62fd51c1b3bd8c3",
+          "titulo": "Ciclone bomba traz ventos fortes e temporais ao Sul, Sudeste e Centro-Oeste",
+          "resumo": "Um ciclone bomba chegou ao Brasil nesta quinta-feira, trazendo ventos de até 90 km/h em regiões do Rio Grande do Sul, Santa Catarina e Mato Grosso do Sul. O fenômeno também deve gerar temporais, granizo e frente fria, afetando principalmente os estados do Sul, Sudeste e Centro-Oeste entre quinta e sábado.",
+          "porQueImporta": "As condições climáticas podem causar danos materiais e riscos à população nas áreas afetadas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-no-brasil-quais-estados-serao-afetados-pelo-fenomeno/"
+            }
+          ],
+          "updatedAt": "2026-08-06T10:10:40.000Z"
+        },
+        {
+          "clusterId": "525660bbb08295ab",
+          "slug": "39d07a321b237307",
+          "titulo": "El Niño provoca clima de extremos no Brasil em agosto",
+          "resumo": "O fenômeno El Niño deve permanecer influenciando o clima brasileiro ao longo do mês, gerando calor atípico e risco de ciclone. As condições extremas previstas incluem temperaturas acima da média e a possibilidade de formação de ciclone no litoral.",
+          "porQueImporta": "Os eventos climáticos extremos podem impactar a população, infraestrutura e setores econômicos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c4gvwvv2r35o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-08-05T08:00:31.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dc1/live/efbe9ca0-537d-11f1-89a3-d1f559421220.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "0bf69cf03f6b6a4b",
+          "slug": "a6be6e5675efeb37",
+          "titulo": "Carreta com 23 toneladas de sabão líquido tomba e interdita rodovia em São José dos Campos",
+          "resumo": "Na manhã de quinta‑feira, uma carreta carregada com 23 toneladas de sabão líquido tombou no km 95 da rodovia Carvalho Pinto, em São José dos Campos. O motorista recebeu socorro por ferimentos moderados. O acidente provocou a interdição total das faixas e do acostamento, sendo restabelecido o tráfego parcial às 7h13, com circulação apenas pela faixa da esquerda.",
+          "porQueImporta": "O bloqueio afetou o fluxo de veículos em uma importante via da região, gerando transtornos ao trânsito local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/06/carreta-com-23-toneladas-de-sabao-liquido-tomba-e-interdita-rodovia-carvalho-pinto-em-sao-jose-dos-campos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T10:50:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/C_g_EgrTV3B3CvCbLR7SrtCvCbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/G/YaUEWxTESGZ2wnFWH3lg/texto-do-seu-paragrafo-2026-08-06t074912.301.png"
+        },
+        {
+          "clusterId": "9a337b5944effbd2",
+          "slug": "9e44aaf9c9766202",
+          "titulo": "Ônibus invade restaurante e mata gerente em Papanduva (SC)",
+          "resumo": "Na noite de quarta‑feira, um ônibus que trafegava na BR‑116 colidiu com um restaurante em Papanduva, no norte de Santa Catarina, atingindo a gerente de 33 anos que morreu no local. A passageira de 62 anos e o motorista de 65 anos foram encaminhados ao hospital. Segundo o Corpo de Bombeiros, a vítima ficou presa contra a mureta de proteção antes de falecer.",
+          "porQueImporta": "O acidente evidencia riscos de segurança viária em áreas de comércio próximo a rodovias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/06/onibus-invade-restaurante-atinge-mata-mulher-norte-sc-papanduva.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T10:13:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/cIL3kD_H41Kr05QivSJBpPc7YV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/Nyt62HT9q7u2MtWbRuOw/onibus-invade-restaurante-atropela-e-mata-gerente-no-norte-de-sc.jpeg"
+        },
+        {
+          "clusterId": "af64ef6c20606ec2",
+          "slug": "841d13df0fe1684c",
+          "titulo": "Acidente entre moto e caminhão deixa homem ferido na Via Dutra em Resende",
+          "resumo": "Na noite de quarta‑feira, por volta das 19h50, uma colisão entre uma motocicleta e um caminhão ocorreu no km 299 da Via Dutra, sentido São Paulo, em Resende (RJ). O condutor da moto ficou ferido e recebeu atendimento. O trecho ficou parcialmente interditado e o tráfego foi totalmente liberado por volta das 20h30.",
+          "porQueImporta": "O acidente provocou interrupção temporária do fluxo de veículos em uma importante rodovia federal.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/06/acidente-entre-moto-e-caminhao-deixa-homem-ferido-na-via-dutra-em-resende.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T10:09:54.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "be30efb33cd2f5ca",
+          "slug": "8a4cee63ec69e67f",
+          "titulo": "Pai e madrasta são presos suspeitos da morte de menino de 3 anos em Palmas",
+          "resumo": "O pai, Gustavo Veloso de Souza, e a madrasta, Kathellen Moreira, foram detidos na madrugada de quinta‑feira após a Justiça autorizar a prisão preventiva. O caso foi registrado após o pai comunicar o óbito, alegando afogamento, mas o laudo do IML descartou essa causa e apontou morte por outra circunstância. As autoridades investigam a participação do casal no falecimento.",
+          "porQueImporta": "O caso evidencia a necessidade de investigação rigorosa em mortes suspeitas de crianças",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/06/pai-e-madrasta-suspeitos-da-morte-de-menino-de-3-anos-sao-presos-em-palmas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T09:36:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xKh7dPk6fuT-TdHQKNL2omWa_eM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/m/UVHtXYSzW1K1BEUGPLCg/igor-kathellen.png"
+        },
+        {
+          "clusterId": "49c554419cfc3f3c",
+          "slug": "0ee2f94aad1d78ce",
+          "titulo": "Mapa da Desigualdade mostra diferença de expectativa de vida entre São Caetano do Sul e Francisco Morato",
+          "resumo": "O primeiro Mapa da Desigualdade da Grande São Paulo revelou que a idade média ao morrer é de 76 anos em São Caetano do Sul e de 60 anos em Francisco Morato, a menor da região. A diferença de 16 anos representa um dos indicadores mais marcantes das disparidades socioeconômicas entre os municípios da metrópole.",
+          "porQueImporta": "Destaca a magnitude das desigualdades de saúde entre cidades próximas, orientando políticas públicas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/06/morador-de-sao-caetano-vive-em-media-16-anos-a-mais-que-o-de-francisco-morato-aponta-mapa-da-desigualdade-da-grande-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T09:00:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RWirNLeXzB0AAoeEytZlkHlqAPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/M/z/yB2xSbQpCJjkmg5SaNtQ/amis-ong-vila-andrade-credito-celso-tavares-g1-121-.jpg"
+        },
+        {
+          "clusterId": "08f269c67aa394ca",
+          "slug": "d3bf093e988a657d",
+          "titulo": "Ataques russos matam ao menos sete pessoas e deixam dezenas de feridos na Ucrânia",
+          "resumo": "Bombeiro trabalha para extinguir fogo após ataque em Sumy Ukrainian Emergency Service via AP Ao menos sete pessoas foram mortas em ataques da Rússia contra a Ucrânia em três cidades do país, e em um bombardeio a um navio no Mar Negro, informou a agência de notícias Reuters, nesta quinta-feira (6). Equipes de resgate trabalharam na quinta-feira para apagar incêndios e remover destroços na cidade de Balaklia, no leste da Ucrânia, após ataques russos a residências que mataram três pessoas durante a noite, disseram autoridades no aplicativo de mensagens Telegram. Três pessoas também foram mortas…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/06/ataques-russos-matam-ao-menos-sete-pessoas-e-deixam-dezenas-de-feridos-na-ucrania.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T07:05:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uNAkKeTkMhmc98BnstjDtR37GaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/T/AV9UrHTDSI9IabK9q5iA/2022-11-02t132007z-835189634-rc2dcx9ct4st-rtrmadp-3-ukraine-crisis-grains-podolyak.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
         {
           "clusterId": "ede00a8dbaa8c093",
           "slug": "fe2611889b15badb",
@@ -391,46 +501,6 @@
           ],
           "updatedAt": "2026-08-05T12:11:03.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/A-VNuM7leD-EQ3Ri6SPaNBiaW2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/o/oBy85VRMWDcUVC4NA6hQ/2026-08-05t130243z-1825029712-rc2csmayd10v-rtrmadp-3-germany-security-airport-dhl.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "334ede9bddf1a706",
-          "slug": "488d916f03a6858a",
-          "titulo": "Suicídio entre médicos será tema de evento nas Academias de Medicina do Brasil",
-          "resumo": "O suicídio de médicos é apontado como um problema de saúde ocupacional ainda pouco abordado. A reportagem destaca que esses profissionais apresentam risco maior de transtornos mentais, abuso de substâncias e morte por suicídio. O assunto será discutido em um evento das Academias de Medicina do Brasil, programado para os dias 28 e 29 de agosto em Porto Alegre.",
-          "porQueImporta": "A questão evidencia a necessidade de prevenção e apoio psicológico na prática médica",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/saude/noticia/2026/08/06/suicidio-entre-medicos-tragedia-silenciosa-negligenciada-e-evitavel-exige-prevencao-desde-a-faculdade.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T06:00:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/H-gKO0tV0o68R-SPNp2pAkHkd08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/O/HvAQKCS566FRO7VGHSvA/adobestock-663214676.jpeg"
-        },
-        {
-          "clusterId": "509401109c74ecc0",
-          "slug": "f44ab77fb323fdb7",
-          "titulo": "Cuidados durante ventos fortes: o que fazer em casa, na rua, áreas de risco e mais em caso de emergências",
-          "resumo": "Cuidados durante ventos fortes: o que fazer em casa, na rua, áreas de risco e mais A formação de um ciclone extratropical sobre o oceano e o avanço de uma frente fria devem provocar temporais e fortes rajadas de vento em áreas do Sul e do Sudeste entre esta quinta (6) e sexta-feira (7). No Rio Grande do Sul e em Santa Catarina, além da ventania, há risco de chuva intensa, granizo e até tornado em alguns pontos. Na sexta-feira, o maior risco de ventos fortes se desloca para São Paulo e Rio de Janeiro. No litoral paulista, na Serra do Mar, no Vale do Paraíba, na Costa Verde e no sul do Rio, as…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/06/cuidados-durante-ventos-fortes-o-que-fazer-em-casa-na-rua-areas-de-risco-e-mais-em-caso-de-emergencias.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T03:00:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fJZmDrbvsUiK5Jh9pcJXaQ730H8=/s.glbimg.com/jo/g1/f/original/2015/06/15/odr20150615063_1.jpg"
         }
       ]
     },
@@ -475,47 +545,48 @@
       ]
     },
     {
-      "slug": "afogamento",
-      "label": "Afogamento",
-      "stories": [
-        {
-          "clusterId": "84b731e3ce2adc0a",
-          "slug": "4a0ffcb959a6f0d0",
-          "titulo": "Três homens morrem afogados enquanto pescavam em Pintópolis",
-          "resumo": "Três homens, entre eles pai e filho, foram encontrados mortos por afogamento na zona rural de Pintópolis, no Rio Acari. A polícia recebeu o chamado na terça-feira e, ao chegar ao local, constatou que um dos homens havia submerso e os demais se afogaram ao tentar socorrê‑lo. Os corpos foram retirados durante a noite. A ocorrência foi registrada na quarta‑feira, segundo o Centro de Operações da Polícia Militar.",
-          "porQueImporta": "O caso evidencia riscos de segurança ao praticar pesca em rios sem equipamentos adequados.",
-          "categoria": "Afogamento",
-          "categoriaSlug": "afogamento",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/05/tres-homens-entre-eles-pai-e-filho-morrem-afogados-enquanto-pescavam-em-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T01:45:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/2-qn8sFsITYbHe6Hoz6hsLYdmuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/2/hQkVDjRuuOzCcq11dQUw/1200x675-9-.jpg"
-        }
-      ]
-    },
-    {
       "slug": "enchente",
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "ad2b93fd2630e39e",
-          "slug": "1398481891dea8f1",
-          "titulo": "Enchentes provocam devastação no sul do Chile",
-          "resumo": "Drones capturaram imagens que mostram áreas inundadas na região de Biobío, no sul do Chile, após o transbordamento de rios causado por sucessivas frentes climáticas desde julho. As imagens revelam destruição de infraestrutura e áreas residenciais afetadas pela água.",
-          "porQueImporta": "A situação evidencia a vulnerabilidade da região a eventos climáticos extremos e a necessidade de respostas de emergência.",
+          "clusterId": "dbdf434bdf227bab",
+          "slug": "7b057a7d60f2c398",
+          "titulo": "Governo federal reconhece situação de emergência em quatro municípios do Rio Grande do Sul",
+          "resumo": "A Secretaria Nacional de Proteção e Defesa Civil publicou, no Diário Oficial da União, decretos que reconhecem situação de emergência em quatro municípios do Rio Grande do Sul. Os decretos referem‑se a eventos climáticos ocorridos entre 23 e 29 de julho, incluindo chuvas intensas, vendaval e inundações. No final do mês passado, a Defesa Civil estadual havia registrado emergência em 47 cidades do estado. A medida foi divulgada na quarta‑feira (5).",
+          "porQueImporta": "A declaração oficial permite a liberação de recursos e apoio federal às áreas afetadas pelos eventos climáticos.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/imagens-de-drone-mostram-devastacao-causadas-por-enchentes-no-sul-do-chile/"
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/06/governo-federal-reconhece-emergencia-quatro-cidades-rs.ghtml"
             }
           ],
-          "updatedAt": "2026-08-06T01:26:43.000Z"
+          "updatedAt": "2026-08-06T10:41:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CReQsPyHtLiSrwIoHY-bBnej05w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/BB6XanTkikdbMgH0zuoQ/g1-2-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "seca",
+      "label": "Seca",
+      "stories": [
+        {
+          "clusterId": "848dd766252476af",
+          "slug": "28bad26a59a0f1a7",
+          "titulo": "Inmet emite alerta amarelo de baixa umidade para 181 municípios do Piauí",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) publicou alerta amarelo de baixa umidade que vigora das 10h30 às 22h desta quinta-feira. A umidade relativa do ar nas áreas afetadas deve ficar entre 20% e 30%. O aviso cobre 181 municípios, incluindo Teresina, Bom Jesus e Gilbués, e indica risco potencial de incêndios florestais e desconforto respiratório.",
+          "porQueImporta": "A condição pode aumentar o risco de incêndios e afetar a saúde da população",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/06/aviso-municipios-piaui.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T10:26:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/q6gjNr-7ymCryd1_XC2x1fNQQFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/YyfJX8SOOcEqGS2gGbKg/edicao-imagens-g1-67-.png"
         }
       ]
     },
