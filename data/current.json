@@ -1,281 +1,317 @@
 {
   "date": "2026-08-06",
-  "generatedAt": "2026-08-06T11:02:36.936Z",
+  "generatedAt": "2026-08-06T14:55:49.964Z",
   "home": [
     {
-      "clusterId": "7af738fd910dec17",
-      "slug": "56f376972a07a574",
-      "titulo": "Incêndio em fábrica de solventes é extinto pelos bombeiros após 33 horas",
-      "resumo": "O fogo começou na tarde de terça‑feira, 4 de agosto, em uma fábrica de solventes. Os bombeiros trabalharam no combate ao incêndio até o início da quinta‑feira, 6 de agosto, quando o incêndio foi declarado extinto. Não foram registrados feridos. A ocorrência durou aproximadamente 33 horas.",
-      "porQueImporta": "O incidente evidencia riscos industriais e a necessidade de resposta rápida dos serviços de emergência.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "81324ae6bfb02bf9",
+      "slug": "9b52a8a7774d458c",
+      "titulo": "Enel SP aciona plano de contingência por ciclone-bomba",
+      "resumo": "A distribuidora de energia Enel no estado de São Paulo ativou seu plano de emergência em resposta ao alerta de ciclone-bomba. O fenômeno pode gerar rajadas de vento de até 100 km/h, com previsão de atingir as regiões Sul, Sudeste e Centro-Oeste nos próximos dias. A Enel reforçou equipes e canais de atendimento para lidar com possíveis quedas de árvores e interrupções no fornecimento de energia.",
+      "porQueImporta": "O evento pode causar interrupções de energia e riscos de segurança pública em grande parte do país.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
       "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/enel-sp-aciona-plano-de-contingencia-por-ciclone-bomba-veja-recomendacoes/"
+        },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/incendio-fabrica-solventes-extinto-33h"
+          "url": "https://www.metropoles.com/sao-paulo/apos-alerta-de-ciclone-bomba-enel-aciona-plano-de-emergencia-em-sp"
         }
       ],
-      "updatedAt": "2026-08-06T10:59:36.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/incendio-4.jpg"
+      "updatedAt": "2026-08-06T14:46:03.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/whatsapp-image-2026-08-05-at-15-56-04-1-3x2-1.jpg"
     },
     {
-      "clusterId": "b59df388aeb149a5",
-      "slug": "a25e2730dbd68a98",
-      "titulo": "Defesa Civil alerta para ventos de até 60 km/h em Ribeirão Preto e Franca devido a ciclone extratropical",
-      "resumo": "A Defesa Civil do Estado de São Paulo emitiu alerta de mudança nas condições do tempo para a região de Ribeirão Preto e Franca entre quinta‑feira e sábado, em razão da passagem de um ciclone extratropical pelo Sul do país. Na região, a previsão é de ventos com rajadas de até 60 km/h, enquanto em outras áreas do estado a velocidade pode alcançar 100 km/h. Desde a noite de quarta‑feira, cidades como Ribeirão Preto, Jaboticabal e Brodowski registram chuva de baixa intensidade acompanhada de ventos.",
-      "porQueImporta": "O alerta indica risco de danos materiais e necessidade de precauções para a população local",
+      "clusterId": "d8bcff63d15be078",
+      "slug": "4fd06c9ec7d61da6",
+      "titulo": "Caraguatatuba e Ubatuba suspendem aulas por alerta de ventos de até 90 km/h",
+      "resumo": "As prefeituras de Caraguatatuba e Ubatuba suspenderam as aulas da rede municipal nesta sexta-feira devido à previsão de ventos fortes no Litoral Norte de São Paulo. Em Caraguatatuba, as atividades foram interrompidas a partir das 12h15 da quinta-feira e permanecerão suspensas durante todo o dia. A Defesa Civil informou que a chegada de uma frente fria pode gerar rajadas de vento de até 90 km/h até sábado. A medida foi adotada como prevenção para garantir a segurança da comunidade escolar.",
+      "porQueImporta": "A suspensão das aulas protege estudantes e funcionários diante do risco de ventos fortes que podem causar acidentes.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/06/defesa-civil-alerta-regiao-de-ribeirao-preto-e-franca-para-ventos-de-ate-60-kmh-por-causa-de-ciclone.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T10:58:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Ttlc52FKbGXu_1FIBXaWVjcLLDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/R/SrnVBVRSu20Jd7zp8VFw/dsc-0564.jpg"
-    },
-    {
-      "clusterId": "0bf69cf03f6b6a4b",
-      "slug": "a6be6e5675efeb37",
-      "titulo": "Carreta com 23 toneladas de sabão líquido tomba e interdita rodovia em São José dos Campos",
-      "resumo": "Na manhã de quinta‑feira, uma carreta carregada com 23 toneladas de sabão líquido tombou no km 95 da rodovia Carvalho Pinto, em São José dos Campos. O motorista recebeu socorro por ferimentos moderados. O acidente provocou a interdição total das faixas e do acostamento, sendo restabelecido o tráfego parcial às 7h13, com circulação apenas pela faixa da esquerda.",
-      "porQueImporta": "O bloqueio afetou o fluxo de veículos em uma importante via da região, gerando transtornos ao trânsito local.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/06/caraguatatuba-e-ubatuba-suspendem-aulas-apos-alerta-para-ventos-de-ate-90-kmh.ghtml"
+        },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/06/carreta-com-23-toneladas-de-sabao-liquido-tomba-e-interdita-rodovia-carvalho-pinto-em-sao-jose-dos-campos.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/aulas-suspensas-ventos-fortes"
         }
       ],
-      "updatedAt": "2026-08-06T10:50:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/C_g_EgrTV3B3CvCbLR7SrtCvCbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/G/YaUEWxTESGZ2wnFWH3lg/texto-do-seu-paragrafo-2026-08-06t074912.301.png"
+      "updatedAt": "2026-08-06T14:23:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/FxspbJUdgJlPn0OMMklijd22ZFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/D/6XoXAORKGlFXlpqFCy7Q/sala-de-aula.png"
     },
     {
-      "clusterId": "dbdf434bdf227bab",
-      "slug": "7b057a7d60f2c398",
-      "titulo": "Governo federal reconhece situação de emergência em quatro municípios do Rio Grande do Sul",
-      "resumo": "A Secretaria Nacional de Proteção e Defesa Civil publicou, no Diário Oficial da União, decretos que reconhecem situação de emergência em quatro municípios do Rio Grande do Sul. Os decretos referem‑se a eventos climáticos ocorridos entre 23 e 29 de julho, incluindo chuvas intensas, vendaval e inundações. No final do mês passado, a Defesa Civil estadual havia registrado emergência em 47 cidades do estado. A medida foi divulgada na quarta‑feira (5).",
-      "porQueImporta": "A declaração oficial permite a liberação de recursos e apoio federal às áreas afetadas pelos eventos climáticos.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/06/governo-federal-reconhece-emergencia-quatro-cidades-rs.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T10:41:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CReQsPyHtLiSrwIoHY-bBnej05w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/BB6XanTkikdbMgH0zuoQ/g1-2-.jpg"
-    },
-    {
-      "clusterId": "c95e59b817b808f0",
-      "slug": "87b90de6c682e7c6",
-      "titulo": "Incêndio destrói banca de jornais na Taquara",
-      "resumo": "Na noite de domingo, um homem ateou fogo em folhas secas ao lado de uma banca de jornais na esquina da Estrada do Tindiba com a Rua André Rocha, na Taquara, zona oeste do Rio. O incêndio consumiu completamente a estrutura, que era administrada por José Eudes Ferreira Araújo, conhecido como Seu José, que vendia jornais, revistas e livros há 25 anos. Imagens de câmeras de segurança registraram o ato e a propagação das chamas.",
-      "porQueImporta": "A destruição de um ponto de venda de imprensa local evidencia risco de incêndios provocados por negligência e afeta a comunidade que depende do serviço.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/08/06/incendio-destroi-banca-de-jornais-na-taquara.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T10:36:32.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CmoruHl4oJc2TKEhN3c6DIf-M9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/L/kgA8OBR6amvcJDWCvYpg/sequencia-banca-cortada.jpg"
-    },
-    {
-      "clusterId": "32c9e34acfdc0a4a",
-      "slug": "5c3e08fa1c686ad4",
-      "titulo": "Ciclone bomba traz risco de ventos fortes e quedas de energia",
-      "resumo": "Autoridades alertam que o ciclone bomba pode gerar rajadas de vento superiores a 100 km/h nos próximos dias. Entre os principais riscos estão queda de árvores, destelhamentos e interrupções no fornecimento de energia elétrica. A população deve ficar atenta às recomendações de segurança e evitar áreas vulneráveis. As previsões indicam que os efeitos podem se estender por vários dias.",
-      "porQueImporta": "Ventões fortes podem causar danos materiais e colocar em risco a segurança da população",
+      "clusterId": "39e87cda3c381865",
+      "slug": "39d07a321b237307",
+      "titulo": "Sistema de baixa pressão avança pelo Brasil e pode gerar ciclone extratropical",
+      "resumo": "Um sistema de baixa pressão localizado na Argentina deve se deslocar para o território brasileiro, podendo evoluir para um ciclone extratropical. O fenômeno ocorre em um contexto de temperaturas acima da média em grande parte do país, associado ao efeito do El Niño. As condições climáticas podem gerar chuvas intensas e ventos fortes em algumas regiões. As autoridades monitoram a evolução do sistema para avaliar riscos de impactos locais.",
+      "porQueImporta": "A formação de um ciclone pode provocar eventos climáticos severos, como chuvas intensas e ventos fortes, afetando a população e a infraestrutura.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c4gvwvv2r35o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-saiba-o-que-fazer-em-caso-de-ventania-forte/"
+          "url": "https://www.cnnbrasil.com.br/nacional/previsao-do-tempo-nuvens-carregadas-se-concentram-no-sul-do-pais/"
         }
       ],
-      "updatedAt": "2026-08-06T10:29:45.000Z"
+      "updatedAt": "2026-08-06T13:26:16.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dc1/live/efbe9ca0-537d-11f1-89a3-d1f559421220.jpg"
     },
     {
-      "clusterId": "848dd766252476af",
-      "slug": "28bad26a59a0f1a7",
-      "titulo": "Inmet emite alerta amarelo de baixa umidade para 181 municípios do Piauí",
-      "resumo": "O Instituto Nacional de Meteorologia (Inmet) publicou alerta amarelo de baixa umidade que vigora das 10h30 às 22h desta quinta-feira. A umidade relativa do ar nas áreas afetadas deve ficar entre 20% e 30%. O aviso cobre 181 municípios, incluindo Teresina, Bom Jesus e Gilbués, e indica risco potencial de incêndios florestais e desconforto respiratório.",
-      "porQueImporta": "A condição pode aumentar o risco de incêndios e afetar a saúde da população",
-      "categoria": "Seca",
-      "categoriaSlug": "seca",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/06/aviso-municipios-piaui.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T10:26:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/q6gjNr-7ymCryd1_XC2x1fNQQFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/YyfJX8SOOcEqGS2gGbKg/edicao-imagens-g1-67-.png"
-    },
-    {
-      "clusterId": "9a337b5944effbd2",
-      "slug": "9e44aaf9c9766202",
-      "titulo": "Ônibus invade restaurante e mata gerente em Papanduva (SC)",
-      "resumo": "Na noite de quarta‑feira, um ônibus que trafegava na BR‑116 colidiu com um restaurante em Papanduva, no norte de Santa Catarina, atingindo a gerente de 33 anos que morreu no local. A passageira de 62 anos e o motorista de 65 anos foram encaminhados ao hospital. Segundo o Corpo de Bombeiros, a vítima ficou presa contra a mureta de proteção antes de falecer.",
-      "porQueImporta": "O acidente evidencia riscos de segurança viária em áreas de comércio próximo a rodovias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/06/onibus-invade-restaurante-atinge-mata-mulher-norte-sc-papanduva.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-06T10:13:09.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/cIL3kD_H41Kr05QivSJBpPc7YV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/Nyt62HT9q7u2MtWbRuOw/onibus-invade-restaurante-atropela-e-mata-gerente-no-norte-de-sc.jpeg"
-    },
-    {
-      "clusterId": "a648574868e3f686",
-      "slug": "f62fd51c1b3bd8c3",
-      "titulo": "Ciclone bomba traz ventos fortes e temporais ao Sul, Sudeste e Centro-Oeste",
-      "resumo": "Um ciclone bomba chegou ao Brasil nesta quinta-feira, trazendo ventos de até 90 km/h em regiões do Rio Grande do Sul, Santa Catarina e Mato Grosso do Sul. O fenômeno também deve gerar temporais, granizo e frente fria, afetando principalmente os estados do Sul, Sudeste e Centro-Oeste entre quinta e sábado.",
-      "porQueImporta": "As condições climáticas podem causar danos materiais e riscos à população nas áreas afetadas.",
+      "clusterId": "3b24a4be4b2d7bb3",
+      "slug": "e9e89d2c81c1556e",
+      "titulo": "Ciclone-bomba deve atingir o Sul com ventos de até 100 km/h",
+      "resumo": "O ciclone-bomba, formado pelo encontro de massas de ar com temperaturas muito diferentes, pode gerar rajadas superiores a 100 km/h e queda brusca de temperatura. O fenômeno deve alcançar o Sul, com possibilidade de atingir também Santa Catarina, Paraná, áreas do Sudeste e do Centro-Oeste, embora com menor intensidade, segundo o Inmet.",
+      "porQueImporta": "Os ventos intensos podem causar danos estruturais e riscos à população nas regiões afetadas",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cz648vl379do?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-no-brasil-quais-estados-serao-afetados-pelo-fenomeno/"
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/entenda-como-o-ciclone-bomba-se-forma-e-porque-provoca-ventos-tao-intensos/"
         }
       ],
-      "updatedAt": "2026-08-06T10:10:40.000Z"
+      "updatedAt": "2026-08-06T12:22:13.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1149/live/782a4820-9189-11f1-8e84-2d20095c7a4b.jpg"
     },
     {
-      "clusterId": "af64ef6c20606ec2",
-      "slug": "841d13df0fe1684c",
-      "titulo": "Acidente entre moto e caminhão deixa homem ferido na Via Dutra em Resende",
-      "resumo": "Na noite de quarta‑feira, por volta das 19h50, uma colisão entre uma motocicleta e um caminhão ocorreu no km 299 da Via Dutra, sentido São Paulo, em Resende (RJ). O condutor da moto ficou ferido e recebeu atendimento. O trecho ficou parcialmente interditado e o tráfego foi totalmente liberado por volta das 20h30.",
-      "porQueImporta": "O acidente provocou interrupção temporária do fluxo de veículos em uma importante rodovia federal.",
+      "clusterId": "f767aee343091df2",
+      "slug": "1c199fe0a6fd5615",
+      "titulo": "Casal tem casa invadida e objetos roubados em Pederneiras",
+      "resumo": "Na madrugada de quinta-feira, um homem escalou o portão, pulou o muro e entrou na residência de um casal em Pederneiras (SP) por uma porta destrancada. Armado com faca, ele ameaçou, amarrou e subtraiu bijuterias, perfumes, um secador de cabelo, três tesouras de costura, três celulares e uma bicicleta. Após a fuga, as vítimas se soltaram e acionaram a Polícia Militar. O casal reconheceu o autor como um homem que conhecem.",
+      "porQueImporta": "O caso evidencia vulnerabilidades de segurança residencial e a necessidade de medidas preventivas contra invasões domiciliares.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/06/casal-e-rendido-dentro-de-casa-e-tem-bijuterias-celulares-e-perfumes-roubados-em-pederneiras.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T14:50:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/7VlHtEi59ZUvswr026tXmTbQm08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/Z/wsxAXvRvOIuPBhAqzJfQ/policia-civil.jpg"
+    },
+    {
+      "clusterId": "c854e56f0fa93c8f",
+      "slug": "5339ac82de23553e",
+      "titulo": "Motorista capota carro no canteiro central da Rodovia Fausto Santo Mauro em Piracicaba",
+      "resumo": "Na manhã desta quinta-feira, por volta das 8h, um motorista perdeu o controle do veículo e o capotou no canteiro central da Rodovia Fausto Santo Mauro, no km 31, sentido Rio das Pedras, em Piracicaba. O condutor ficou ferido, mas não houve interdição das faixas da rodovia. As causas do acidente ainda não foram identificadas.",
+      "porQueImporta": "O incidente gera risco de congestionamento e demanda atenção das autoridades de trânsito.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/06/acidente-entre-moto-e-caminhao-deixa-homem-ferido-na-via-dutra-em-resende.ghtml"
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/06/motorista-capota-carro-em-canteiro-central-da-rodovia-fausto-santo-mauro-em-piracicaba.ghtml"
         }
       ],
-      "updatedAt": "2026-08-06T10:09:54.000Z"
+      "updatedAt": "2026-08-06T14:44:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Kms9bvxrBa8BDN4aDAt9pD9Q690=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/s/51vZReQoGHLW4PeGFgBA/whatsapp-image-2026-08-06-at-09.10.49-1-.jpeg"
+    },
+    {
+      "clusterId": "c75f5c628bb00b61",
+      "slug": "67b40478c9123581",
+      "titulo": "Árvores centenárias são derrubadas no Centro de Teresina",
+      "resumo": "Três árvores com mais de 40 anos foram removidas na quarta‑feira (5) no centro da capital. Moradores criticaram a ação, alegando que as árvores estavam saudáveis e faziam parte da paisagem urbana. O arquiteto e urbanista Áureo Tupinambá Júnior, residente próximo ao local há 41 anos, manifestou preocupação com a recorrência desse tipo de intervenção. A Defesa Civil justificou a remoção apontando risco ao público.",
+      "porQueImporta": "A retirada de árvores antigas pode alterar o microclima urbano e gerar controvérsia sobre gestão de risco em áreas centrais",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/06/arvores-derrubadas-teresina.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T14:36:33.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KVYRPE1bV_Dsw2N7-h3Zv_TDoaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/V/37thAeTNCuE6R4Q7me2g/edicao-imagens-g1-21-.jpg"
+    },
+    {
+      "clusterId": "284bc3e886706d80",
+      "slug": "2cda69df808e0d10",
+      "titulo": "Acidente entre carro e moto deixa três vítimas em Búzios",
+      "resumo": "Na tarde de quarta‑feira, uma motociclista de 32 anos colidiu com um carro na RJ‑102, km 127, bairro Rasa, em Búzios. A moto seguia no sentido Búzios‑Cabo Frio quando o carro cruzou a via para acessar o mesmo sentido. O motorista, de 76 anos, e a passageira, de 66 anos, também ficaram feridos. Todos foram atendidos como vítimas.",
+      "porQueImporta": "O acidente evidencia riscos de trânsito em rodovias costeiras movimentadas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/06/mulher-vai-parar-em-cima-do-para-brisas-apos-batida-de-carro-e-moto-em-buzios.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T14:27:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/TIWuF6VFMzsuElh0Z2HIKUxUMH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/g2KBpDRAmHrkk41cOx1w/para-brisas.jpg"
+    },
+    {
+      "clusterId": "a1cfe3140864df7c",
+      "slug": "4fa110fc2e35e45f",
+      "titulo": "Colisão entre carreta e caminhão deixa dois mortos e um ferido em Santa Cruz da Baixa Verde",
+      "resumo": "Na quinta‑feira, uma colisão entre uma carreta e um caminhão ocorreu em Santa Cruz da Baixa Verde, no Sertão de Pernambuco, resultando em duas mortes. Os falecidos tinham 22 e 33 anos, segundo a Polícia Civil. Um terceiro homem, também de 33 anos, ficou ferido e foi encaminhado ao Hospital Eduardo Campos, em Serra Talhada. O estado de saúde do ferido não foi divulgado.",
+      "porQueImporta": "O acidente evidencia riscos nas rodovias rurais e a necessidade de medidas de segurança no trânsito.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/08/06/colisao-entre-carreta-e-caminhao-em-santa-cruz-da-baixa-verde-deixa-dois-mortos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T14:17:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/2-6ZXkcwzZGXrOkALqJcMcHVfDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/x/E0Ld2XRcyHBUiDOQsWQQ/design-sem-nome-2026-08-06t112051.817.png"
+    },
+    {
+      "clusterId": "bd8bf3e3dc7665a3",
+      "slug": "9197c55e2b6ba21e",
+      "titulo": "Adolescente de 16 anos morre ao ser atingido por caminhão enquanto pilotava motocicleta na BR-230 em Marizópolis",
+      "resumo": "Um jovem de 16 anos foi fatalmente atingido por um caminhão enquanto conduzia uma motocicleta na BR-230, no quilômetro 477, em Marizópolis, Paraíba, por volta das 19h de quarta-feira. A Polícia Rodoviária Federal informou que o adolescente não estava sozinho na moto, acompanhando outro jovem de mesma idade. O acidente resultou na morte da vítima, identificada como Orielton Paulino Santiago.",
+      "porQueImporta": "O caso evidencia riscos de tráfego em rodovias federais e a necessidade de medidas de segurança para jovens motoristas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/06/adolescente-de-16-anos-morre-apos-ser-atingido-por-caminhao-enquanto-pilotava-motocicleta-na-pb.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-06T14:09:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/aOKX_6CuCU7GCmsn2dxv2eG8whY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/s/LegBNQQ4q277fTBazS9g/acidente-adolescente-marizopolis.00-00-01-24.still001.jpg"
     }
   ],
   "categorias": [
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "7af738fd910dec17",
-          "slug": "56f376972a07a574",
-          "titulo": "Incêndio em fábrica de solventes é extinto pelos bombeiros após 33 horas",
-          "resumo": "O fogo começou na tarde de terça‑feira, 4 de agosto, em uma fábrica de solventes. Os bombeiros trabalharam no combate ao incêndio até o início da quinta‑feira, 6 de agosto, quando o incêndio foi declarado extinto. Não foram registrados feridos. A ocorrência durou aproximadamente 33 horas.",
-          "porQueImporta": "O incidente evidencia riscos industriais e a necessidade de resposta rápida dos serviços de emergência.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/incendio-fabrica-solventes-extinto-33h"
-            }
-          ],
-          "updatedAt": "2026-08-06T10:59:36.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/08/incendio-4.jpg"
-        },
-        {
-          "clusterId": "c95e59b817b808f0",
-          "slug": "87b90de6c682e7c6",
-          "titulo": "Incêndio destrói banca de jornais na Taquara",
-          "resumo": "Na noite de domingo, um homem ateou fogo em folhas secas ao lado de uma banca de jornais na esquina da Estrada do Tindiba com a Rua André Rocha, na Taquara, zona oeste do Rio. O incêndio consumiu completamente a estrutura, que era administrada por José Eudes Ferreira Araújo, conhecido como Seu José, que vendia jornais, revistas e livros há 25 anos. Imagens de câmeras de segurança registraram o ato e a propagação das chamas.",
-          "porQueImporta": "A destruição de um ponto de venda de imprensa local evidencia risco de incêndios provocados por negligência e afeta a comunidade que depende do serviço.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "c854e56f0fa93c8f",
+          "slug": "5339ac82de23553e",
+          "titulo": "Motorista capota carro no canteiro central da Rodovia Fausto Santo Mauro em Piracicaba",
+          "resumo": "Na manhã desta quinta-feira, por volta das 8h, um motorista perdeu o controle do veículo e o capotou no canteiro central da Rodovia Fausto Santo Mauro, no km 31, sentido Rio das Pedras, em Piracicaba. O condutor ficou ferido, mas não houve interdição das faixas da rodovia. As causas do acidente ainda não foram identificadas.",
+          "porQueImporta": "O incidente gera risco de congestionamento e demanda atenção das autoridades de trânsito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/08/06/incendio-destroi-banca-de-jornais-na-taquara.ghtml"
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/06/motorista-capota-carro-em-canteiro-central-da-rodovia-fausto-santo-mauro-em-piracicaba.ghtml"
             }
           ],
-          "updatedAt": "2026-08-06T10:36:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CmoruHl4oJc2TKEhN3c6DIf-M9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/L/kgA8OBR6amvcJDWCvYpg/sequencia-banca-cortada.jpg"
+          "updatedAt": "2026-08-06T14:44:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Kms9bvxrBa8BDN4aDAt9pD9Q690=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/s/51vZReQoGHLW4PeGFgBA/whatsapp-image-2026-08-06-at-09.10.49-1-.jpeg"
         },
         {
-          "clusterId": "0cc37a0062e4cc83",
-          "slug": "706363145dad09eb",
-          "titulo": "Cabeleireiro tem carro destruído por incêndio em ponte de Teresina e adquire novo veículo no mesmo dia",
-          "resumo": "Na manhã de terça‑feira, o cabeleireiro Nailton Carvalho, de Esperantina, viu seu carro consumido por chamas na alça de acesso à ponte Juscelino Kubitschek, em Teresina, e o veículo foi declarado perda total pelo Corpo de Bombeiros. O automóvel não possuía seguro. No dia seguinte, o profissional recebeu um carro novo e declarou que vê a situação como oportunidade de recomeçar.",
-          "porQueImporta": "O caso ilustra o impacto de incêndios em veículos e a vulnerabilidade de quem não possui seguro, além de destacar a rapidez na reposição do bem.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "284bc3e886706d80",
+          "slug": "2cda69df808e0d10",
+          "titulo": "Acidente entre carro e moto deixa três vítimas em Búzios",
+          "resumo": "Na tarde de quarta‑feira, uma motociclista de 32 anos colidiu com um carro na RJ‑102, km 127, bairro Rasa, em Búzios. A moto seguia no sentido Búzios‑Cabo Frio quando o carro cruzou a via para acessar o mesmo sentido. O motorista, de 76 anos, e a passageira, de 66 anos, também ficaram feridos. Todos foram atendidos como vítimas.",
+          "porQueImporta": "O acidente evidencia riscos de trânsito em rodovias costeiras movimentadas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/06/homem-perdeu-carro-incendio.ghtml"
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/06/mulher-vai-parar-em-cima-do-para-brisas-apos-batida-de-carro-e-moto-em-buzios.ghtml"
             }
           ],
-          "updatedAt": "2026-08-06T09:56:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/QgsDs3uobR01TXhOvvb1VyOYcQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/V/4KUPfoRTWkABeAKk5JYQ/edicao-imagens-g1-15-.jpg"
+          "updatedAt": "2026-08-06T14:27:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TIWuF6VFMzsuElh0Z2HIKUxUMH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/g2KBpDRAmHrkk41cOx1w/para-brisas.jpg"
         },
         {
-          "clusterId": "b337f0cd5ff36e0e",
-          "slug": "b075f597c772f045",
-          "titulo": "Caminhão carregado de eletrônicos incendeia e bloqueia a BR-290 em Gravataí",
-          "resumo": "Um caminhão que transportava eletrônicos da plataforma Mercado Livre saiu de Porto Alegre com destino a São Paulo e pegou fogo na BR-290, em Gravataí, nesta quinta-feira. O condutor só percebeu as chamas após aviso de outro motorista. Não houve feridos, mas o incidente provocou bloqueio total da via. A Polícia Rodoviária Federal está investigando o caso.",
-          "porQueImporta": "O incêndio interrompeu o tráfego em uma importante rodovia da região metropolitana, afetando o transporte de mercadorias e a mobilidade urbana.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "a1cfe3140864df7c",
+          "slug": "4fa110fc2e35e45f",
+          "titulo": "Colisão entre carreta e caminhão deixa dois mortos e um ferido em Santa Cruz da Baixa Verde",
+          "resumo": "Na quinta‑feira, uma colisão entre uma carreta e um caminhão ocorreu em Santa Cruz da Baixa Verde, no Sertão de Pernambuco, resultando em duas mortes. Os falecidos tinham 22 e 33 anos, segundo a Polícia Civil. Um terceiro homem, também de 33 anos, ficou ferido e foi encaminhado ao Hospital Eduardo Campos, em Serra Talhada. O estado de saúde do ferido não foi divulgado.",
+          "porQueImporta": "O acidente evidencia riscos nas rodovias rurais e a necessidade de medidas de segurança no trânsito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/06/incendio-caminhao-freeway-gravatai.ghtml"
+              "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/08/06/colisao-entre-carreta-e-caminhao-em-santa-cruz-da-baixa-verde-deixa-dois-mortos.ghtml"
             }
           ],
-          "updatedAt": "2026-08-06T08:52:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_u55S0OvPKibiqQdliVZYCvHYx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/K/NlWBG6QOAFBALfkawoMQ/g1.jpg"
+          "updatedAt": "2026-08-06T14:17:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2-6ZXkcwzZGXrOkALqJcMcHVfDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/x/E0Ld2XRcyHBUiDOQsWQQ/design-sem-nome-2026-08-06t112051.817.png"
         },
         {
-          "clusterId": "c92442841de92bd9",
-          "slug": "e0c3719ecc6f6e31",
-          "titulo": "Fósseis brasileiros retornam ao país para recompor acervo do Museu Nacional",
-          "resumo": "Fósseis preservados em museu britânico serão devolvidos ao Brasil para integrar o acervo do Museu Nacional, destruído por incêndio em 2018. A paleontóloga Emma Nicholls, gerente de coleções do Museu de História Natural da Universidade de Oxford, expressou emoção ao relembrar o desastre. A devolução visa restaurar parte da coleção científica perdida.",
-          "porQueImporta": "Recuperar o patrimônio científico brasileiro afetado pelo incêndio",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "bd8bf3e3dc7665a3",
+          "slug": "9197c55e2b6ba21e",
+          "titulo": "Adolescente de 16 anos morre ao ser atingido por caminhão enquanto pilotava motocicleta na BR-230 em Marizópolis",
+          "resumo": "Um jovem de 16 anos foi fatalmente atingido por um caminhão enquanto conduzia uma motocicleta na BR-230, no quilômetro 477, em Marizópolis, Paraíba, por volta das 19h de quarta-feira. A Polícia Rodoviária Federal informou que o adolescente não estava sozinho na moto, acompanhando outro jovem de mesma idade. O acidente resultou na morte da vítima, identificada como Orielton Paulino Santiago.",
+          "porQueImporta": "O caso evidencia riscos de tráfego em rodovias federais e a necessidade de medidas de segurança para jovens motoristas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ciencia/noticia/2026/08/05/os-fosseis-brasileiros-guardados-em-museu-britanico-que-voltarao-ao-pais-para-recompor-acervo-do-museu-nacional-destruido-em-incendio.ghtml"
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/06/adolescente-de-16-anos-morre-apos-ser-atingido-por-caminhao-enquanto-pilotava-motocicleta-na-pb.ghtml"
             }
           ],
-          "updatedAt": "2026-08-05T08:05:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hbFLoO_7yev1Kq4d_QwlqRFcl1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/3/n7O69nSIAhbdYwXQD0rw/imagem-cortada.jpg"
+          "updatedAt": "2026-08-06T14:09:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aOKX_6CuCU7GCmsn2dxv2eG8whY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/s/LegBNQQ4q277fTBazS9g/acidente-adolescente-marizopolis.00-00-01-24.still001.jpg"
         },
         {
-          "clusterId": "e7dbe54e254603f3",
-          "slug": "54c3523caa86fa5d",
-          "titulo": "Incêndio perto de Bordeaux revela projéteis da Segunda Guerra Mundial em Le Porge",
-          "resumo": "Um grande incêndio ocorrido próximo a Bordeaux, no sudoeste da França, expôs projéteis da Segunda Guerra Mundial na localidade de Le Porge. As autoridades realizaram operações de desminagem que duraram vários dias. Na segunda‑feira (3), os moradores da área interditada puderam retornar às suas casas. O incidente afetou principalmente o município de Gironde, onde houve destruição de moradias.",
-          "porQueImporta": "A presença de munições antigas exige desminagem e pode representar risco para a população local.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "41c8d68a5f127810",
+          "slug": "009d5b42e87ed1d4",
+          "titulo": "Adolescente morre e duas jovens ficam feridas após carro capotar em Tarumirim",
+          "resumo": "Um adolescente de 17 anos dirigia um carro na estrada municipal que liga Tarumirim ao distrito de Café-Mirim quando perdeu o controle e bateu em um barranco, provocando a capotamento do veículo. O acidente ocorreu na tarde de quarta‑feira. O motorista morreu e duas jovens que estavam no carro ficaram feridas. As autoridades da Polícia Militar foram acionadas para atender a ocorrência.",
+          "porQueImporta": "O caso evidencia riscos de condução em vias rurais e a necessidade de atenção ao volante, especialmente entre jovens motoristas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/04/projeteis-da-segunda-guerra-mundial-sao-encontrados-em-vila-francesa-devastada-por-incendio-florestal.ghtml"
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/06/adolescente-morre-e-duas-jovens-ficam-feridas-apos-carro-capotar-em-tarumirim.ghtml"
             }
           ],
-          "updatedAt": "2026-08-04T11:32:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/W7ELR07BwXq1LAHwjo0Y534wvLI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/3/W9ydhSTjipkBa9i1m4YQ/afp-20260803-c3u66te-v9-highres-topshotfrancehistorywwiishellwildfires-redimensionado-para-grande.jpeg"
+          "updatedAt": "2026-08-06T13:53:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/m6R0-F3I9s84CoZPNFgU1DWWae0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/N/n8imJZSwOBGNzA6PpxTw/design-sem-nome.png"
+        },
+        {
+          "clusterId": "2e0e2b62d8dcb861",
+          "slug": "f29838f6251f6c34",
+          "titulo": "Idosa de 61 anos é atropelada por motocicleta em avenida de Patrocínio (MG)",
+          "resumo": "Na tarde de quarta‑feira, uma idosa de 61 anos foi atingida por uma motocicleta enquanto atravessava a Avenida Faria Pereira, em Patrocínio, Minas Gerais. O acidente foi registrado por câmeras de monitoramento. Ela sofreu ferimentos na perna, com suspeita de fratura exposta, e recebeu torniquete da Polícia Militar antes da chegada do SAMU.",
+          "porQueImporta": "O caso evidencia riscos de segurança viária para pedestres em áreas urbanas movimentadas",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/06/video-idosa-e-atropelada-por-motocicleta-enquanto-atravessava-avenida-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T13:46:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/h4VQm4GpXPEMGS_XDUw8Og-Ya7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/h/CehYKOQvqjrESmuHJBUQ/captura-de-tela-2026-08-06-104147.png"
+        },
+        {
+          "clusterId": "b7564315c2a07aa6",
+          "slug": "7f5ca46f53e6de0c",
+          "titulo": "Caminhão desgovernado deixa motociclista ferido em Bom Jesus do Itabapoana",
+          "resumo": "Um caminhão perdeu o controle na Rua José Alberoni, conhecida como Morro da Prefeitura, por volta das 14h30, atingindo um motociclista que ficou ferido. A vítima foi socorrida e encaminhada ao hospital. O acidente provocou congestionamento no centro da cidade. Segundo comerciantes locais, a falha ocorreu no sistema de freios do veículo.",
+          "porQueImporta": "O incidente gerou risco de trânsito e mobilidade na região central de Bom Jesus do Itabapoana",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/08/06/caminhao-desgovernado-provoca-acidente-em-bom-jesus-do-itabapoana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-06T13:39:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/k-C7eWL-lr_byIccY2ZuEwMguNo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/I/lXRpGMRzaIQgPs8Ddgfw/acidente-causou-congestionamento-no-centro-de-itabapoana.jpg"
         }
       ]
     },
@@ -284,126 +320,88 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "b59df388aeb149a5",
-          "slug": "a25e2730dbd68a98",
-          "titulo": "Defesa Civil alerta para ventos de até 60 km/h em Ribeirão Preto e Franca devido a ciclone extratropical",
-          "resumo": "A Defesa Civil do Estado de São Paulo emitiu alerta de mudança nas condições do tempo para a região de Ribeirão Preto e Franca entre quinta‑feira e sábado, em razão da passagem de um ciclone extratropical pelo Sul do país. Na região, a previsão é de ventos com rajadas de até 60 km/h, enquanto em outras áreas do estado a velocidade pode alcançar 100 km/h. Desde a noite de quarta‑feira, cidades como Ribeirão Preto, Jaboticabal e Brodowski registram chuva de baixa intensidade acompanhada de ventos.",
-          "porQueImporta": "O alerta indica risco de danos materiais e necessidade de precauções para a população local",
+          "clusterId": "81324ae6bfb02bf9",
+          "slug": "9b52a8a7774d458c",
+          "titulo": "Enel SP aciona plano de contingência por ciclone-bomba",
+          "resumo": "A distribuidora de energia Enel no estado de São Paulo ativou seu plano de emergência em resposta ao alerta de ciclone-bomba. O fenômeno pode gerar rajadas de vento de até 100 km/h, com previsão de atingir as regiões Sul, Sudeste e Centro-Oeste nos próximos dias. A Enel reforçou equipes e canais de atendimento para lidar com possíveis quedas de árvores e interrupções no fornecimento de energia.",
+          "porQueImporta": "O evento pode causar interrupções de energia e riscos de segurança pública em grande parte do país.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/enel-sp-aciona-plano-de-contingencia-por-ciclone-bomba-veja-recomendacoes/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/apos-alerta-de-ciclone-bomba-enel-aciona-plano-de-emergencia-em-sp"
+            }
+          ],
+          "updatedAt": "2026-08-06T14:46:03.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/whatsapp-image-2026-08-05-at-15-56-04-1-3x2-1.jpg"
+        },
+        {
+          "clusterId": "d8bcff63d15be078",
+          "slug": "4fd06c9ec7d61da6",
+          "titulo": "Caraguatatuba e Ubatuba suspendem aulas por alerta de ventos de até 90 km/h",
+          "resumo": "As prefeituras de Caraguatatuba e Ubatuba suspenderam as aulas da rede municipal nesta sexta-feira devido à previsão de ventos fortes no Litoral Norte de São Paulo. Em Caraguatatuba, as atividades foram interrompidas a partir das 12h15 da quinta-feira e permanecerão suspensas durante todo o dia. A Defesa Civil informou que a chegada de uma frente fria pode gerar rajadas de vento de até 90 km/h até sábado. A medida foi adotada como prevenção para garantir a segurança da comunidade escolar.",
+          "porQueImporta": "A suspensão das aulas protege estudantes e funcionários diante do risco de ventos fortes que podem causar acidentes.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/06/defesa-civil-alerta-regiao-de-ribeirao-preto-e-franca-para-ventos-de-ate-60-kmh-por-causa-de-ciclone.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T10:58:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Ttlc52FKbGXu_1FIBXaWVjcLLDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/R/SrnVBVRSu20Jd7zp8VFw/dsc-0564.jpg"
-        },
-        {
-          "clusterId": "32c9e34acfdc0a4a",
-          "slug": "5c3e08fa1c686ad4",
-          "titulo": "Ciclone bomba traz risco de ventos fortes e quedas de energia",
-          "resumo": "Autoridades alertam que o ciclone bomba pode gerar rajadas de vento superiores a 100 km/h nos próximos dias. Entre os principais riscos estão queda de árvores, destelhamentos e interrupções no fornecimento de energia elétrica. A população deve ficar atenta às recomendações de segurança e evitar áreas vulneráveis. As previsões indicam que os efeitos podem se estender por vários dias.",
-          "porQueImporta": "Ventões fortes podem causar danos materiais e colocar em risco a segurança da população",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/06/caraguatatuba-e-ubatuba-suspendem-aulas-apos-alerta-para-ventos-de-ate-90-kmh.ghtml"
+            },
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-saiba-o-que-fazer-em-caso-de-ventania-forte/"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/aulas-suspensas-ventos-fortes"
             }
           ],
-          "updatedAt": "2026-08-06T10:29:45.000Z"
+          "updatedAt": "2026-08-06T14:23:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FxspbJUdgJlPn0OMMklijd22ZFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/D/6XoXAORKGlFXlpqFCy7Q/sala-de-aula.png"
         },
         {
-          "clusterId": "a648574868e3f686",
-          "slug": "f62fd51c1b3bd8c3",
-          "titulo": "Ciclone bomba traz ventos fortes e temporais ao Sul, Sudeste e Centro-Oeste",
-          "resumo": "Um ciclone bomba chegou ao Brasil nesta quinta-feira, trazendo ventos de até 90 km/h em regiões do Rio Grande do Sul, Santa Catarina e Mato Grosso do Sul. O fenômeno também deve gerar temporais, granizo e frente fria, afetando principalmente os estados do Sul, Sudeste e Centro-Oeste entre quinta e sábado.",
-          "porQueImporta": "As condições climáticas podem causar danos materiais e riscos à população nas áreas afetadas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-no-brasil-quais-estados-serao-afetados-pelo-fenomeno/"
-            }
-          ],
-          "updatedAt": "2026-08-06T10:10:40.000Z"
-        },
-        {
-          "clusterId": "525660bbb08295ab",
+          "clusterId": "39e87cda3c381865",
           "slug": "39d07a321b237307",
-          "titulo": "El Niño provoca clima de extremos no Brasil em agosto",
-          "resumo": "O fenômeno El Niño deve permanecer influenciando o clima brasileiro ao longo do mês, gerando calor atípico e risco de ciclone. As condições extremas previstas incluem temperaturas acima da média e a possibilidade de formação de ciclone no litoral.",
-          "porQueImporta": "Os eventos climáticos extremos podem impactar a população, infraestrutura e setores econômicos.",
+          "titulo": "Sistema de baixa pressão avança pelo Brasil e pode gerar ciclone extratropical",
+          "resumo": "Um sistema de baixa pressão localizado na Argentina deve se deslocar para o território brasileiro, podendo evoluir para um ciclone extratropical. O fenômeno ocorre em um contexto de temperaturas acima da média em grande parte do país, associado ao efeito do El Niño. As condições climáticas podem gerar chuvas intensas e ventos fortes em algumas regiões. As autoridades monitoram a evolução do sistema para avaliar riscos de impactos locais.",
+          "porQueImporta": "A formação de um ciclone pode provocar eventos climáticos severos, como chuvas intensas e ventos fortes, afetando a população e a infraestrutura.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "BBC Brasil",
               "url": "https://www.bbc.com/portuguese/articles/c4gvwvv2r35o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/previsao-do-tempo-nuvens-carregadas-se-concentram-no-sul-do-pais/"
             }
           ],
-          "updatedAt": "2026-08-05T08:00:31.000Z",
+          "updatedAt": "2026-08-06T13:26:16.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dc1/live/efbe9ca0-537d-11f1-89a3-d1f559421220.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "0bf69cf03f6b6a4b",
-          "slug": "a6be6e5675efeb37",
-          "titulo": "Carreta com 23 toneladas de sabão líquido tomba e interdita rodovia em São José dos Campos",
-          "resumo": "Na manhã de quinta‑feira, uma carreta carregada com 23 toneladas de sabão líquido tombou no km 95 da rodovia Carvalho Pinto, em São José dos Campos. O motorista recebeu socorro por ferimentos moderados. O acidente provocou a interdição total das faixas e do acostamento, sendo restabelecido o tráfego parcial às 7h13, com circulação apenas pela faixa da esquerda.",
-          "porQueImporta": "O bloqueio afetou o fluxo de veículos em uma importante via da região, gerando transtornos ao trânsito local.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/06/carreta-com-23-toneladas-de-sabao-liquido-tomba-e-interdita-rodovia-carvalho-pinto-em-sao-jose-dos-campos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T10:50:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/C_g_EgrTV3B3CvCbLR7SrtCvCbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/G/YaUEWxTESGZ2wnFWH3lg/texto-do-seu-paragrafo-2026-08-06t074912.301.png"
         },
         {
-          "clusterId": "9a337b5944effbd2",
-          "slug": "9e44aaf9c9766202",
-          "titulo": "Ônibus invade restaurante e mata gerente em Papanduva (SC)",
-          "resumo": "Na noite de quarta‑feira, um ônibus que trafegava na BR‑116 colidiu com um restaurante em Papanduva, no norte de Santa Catarina, atingindo a gerente de 33 anos que morreu no local. A passageira de 62 anos e o motorista de 65 anos foram encaminhados ao hospital. Segundo o Corpo de Bombeiros, a vítima ficou presa contra a mureta de proteção antes de falecer.",
-          "porQueImporta": "O acidente evidencia riscos de segurança viária em áreas de comércio próximo a rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "3b24a4be4b2d7bb3",
+          "slug": "e9e89d2c81c1556e",
+          "titulo": "Ciclone-bomba deve atingir o Sul com ventos de até 100 km/h",
+          "resumo": "O ciclone-bomba, formado pelo encontro de massas de ar com temperaturas muito diferentes, pode gerar rajadas superiores a 100 km/h e queda brusca de temperatura. O fenômeno deve alcançar o Sul, com possibilidade de atingir também Santa Catarina, Paraná, áreas do Sudeste e do Centro-Oeste, embora com menor intensidade, segundo o Inmet.",
+          "porQueImporta": "Os ventos intensos podem causar danos estruturais e riscos à população nas regiões afetadas",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/06/onibus-invade-restaurante-atinge-mata-mulher-norte-sc-papanduva.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T10:13:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cIL3kD_H41Kr05QivSJBpPc7YV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/Nyt62HT9q7u2MtWbRuOw/onibus-invade-restaurante-atropela-e-mata-gerente-no-norte-de-sc.jpeg"
-        },
-        {
-          "clusterId": "af64ef6c20606ec2",
-          "slug": "841d13df0fe1684c",
-          "titulo": "Acidente entre moto e caminhão deixa homem ferido na Via Dutra em Resende",
-          "resumo": "Na noite de quarta‑feira, por volta das 19h50, uma colisão entre uma motocicleta e um caminhão ocorreu no km 299 da Via Dutra, sentido São Paulo, em Resende (RJ). O condutor da moto ficou ferido e recebeu atendimento. O trecho ficou parcialmente interditado e o tráfego foi totalmente liberado por volta das 20h30.",
-          "porQueImporta": "O acidente provocou interrupção temporária do fluxo de veículos em uma importante rodovia federal.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cz648vl379do?at_medium=RSS&at_campaign=rss"
+            },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/06/acidente-entre-moto-e-caminhao-deixa-homem-ferido-na-via-dutra-em-resende.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/brasil/entenda-como-o-ciclone-bomba-se-forma-e-porque-provoca-ventos-tao-intensos/"
             }
           ],
-          "updatedAt": "2026-08-06T10:09:54.000Z"
+          "updatedAt": "2026-08-06T12:22:13.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1149/live/782a4820-9189-11f1-8e84-2d20095c7a4b.jpg"
         }
       ]
     },
@@ -412,38 +410,54 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "be30efb33cd2f5ca",
-          "slug": "8a4cee63ec69e67f",
-          "titulo": "Pai e madrasta são presos suspeitos da morte de menino de 3 anos em Palmas",
-          "resumo": "O pai, Gustavo Veloso de Souza, e a madrasta, Kathellen Moreira, foram detidos na madrugada de quinta‑feira após a Justiça autorizar a prisão preventiva. O caso foi registrado após o pai comunicar o óbito, alegando afogamento, mas o laudo do IML descartou essa causa e apontou morte por outra circunstância. As autoridades investigam a participação do casal no falecimento.",
-          "porQueImporta": "O caso evidencia a necessidade de investigação rigorosa em mortes suspeitas de crianças",
+          "clusterId": "f767aee343091df2",
+          "slug": "1c199fe0a6fd5615",
+          "titulo": "Casal tem casa invadida e objetos roubados em Pederneiras",
+          "resumo": "Na madrugada de quinta-feira, um homem escalou o portão, pulou o muro e entrou na residência de um casal em Pederneiras (SP) por uma porta destrancada. Armado com faca, ele ameaçou, amarrou e subtraiu bijuterias, perfumes, um secador de cabelo, três tesouras de costura, três celulares e uma bicicleta. Após a fuga, as vítimas se soltaram e acionaram a Polícia Militar. O casal reconheceu o autor como um homem que conhecem.",
+          "porQueImporta": "O caso evidencia vulnerabilidades de segurança residencial e a necessidade de medidas preventivas contra invasões domiciliares.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/06/pai-e-madrasta-suspeitos-da-morte-de-menino-de-3-anos-sao-presos-em-palmas.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/06/casal-e-rendido-dentro-de-casa-e-tem-bijuterias-celulares-e-perfumes-roubados-em-pederneiras.ghtml"
             }
           ],
-          "updatedAt": "2026-08-06T09:36:10.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xKh7dPk6fuT-TdHQKNL2omWa_eM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/m/UVHtXYSzW1K1BEUGPLCg/igor-kathellen.png"
+          "updatedAt": "2026-08-06T14:50:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7VlHtEi59ZUvswr026tXmTbQm08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/Z/wsxAXvRvOIuPBhAqzJfQ/policia-civil.jpg"
         },
         {
-          "clusterId": "49c554419cfc3f3c",
-          "slug": "0ee2f94aad1d78ce",
-          "titulo": "Mapa da Desigualdade mostra diferença de expectativa de vida entre São Caetano do Sul e Francisco Morato",
-          "resumo": "O primeiro Mapa da Desigualdade da Grande São Paulo revelou que a idade média ao morrer é de 76 anos em São Caetano do Sul e de 60 anos em Francisco Morato, a menor da região. A diferença de 16 anos representa um dos indicadores mais marcantes das disparidades socioeconômicas entre os municípios da metrópole.",
-          "porQueImporta": "Destaca a magnitude das desigualdades de saúde entre cidades próximas, orientando políticas públicas.",
+          "clusterId": "c75f5c628bb00b61",
+          "slug": "67b40478c9123581",
+          "titulo": "Árvores centenárias são derrubadas no Centro de Teresina",
+          "resumo": "Três árvores com mais de 40 anos foram removidas na quarta‑feira (5) no centro da capital. Moradores criticaram a ação, alegando que as árvores estavam saudáveis e faziam parte da paisagem urbana. O arquiteto e urbanista Áureo Tupinambá Júnior, residente próximo ao local há 41 anos, manifestou preocupação com a recorrência desse tipo de intervenção. A Defesa Civil justificou a remoção apontando risco ao público.",
+          "porQueImporta": "A retirada de árvores antigas pode alterar o microclima urbano e gerar controvérsia sobre gestão de risco em áreas centrais",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/06/morador-de-sao-caetano-vive-em-media-16-anos-a-mais-que-o-de-francisco-morato-aponta-mapa-da-desigualdade-da-grande-sp.ghtml"
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/06/arvores-derrubadas-teresina.ghtml"
             }
           ],
-          "updatedAt": "2026-08-06T09:00:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RWirNLeXzB0AAoeEytZlkHlqAPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/M/z/yB2xSbQpCJjkmg5SaNtQ/amis-ong-vila-andrade-credito-celso-tavares-g1-121-.jpg"
+          "updatedAt": "2026-08-06T14:36:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KVYRPE1bV_Dsw2N7-h3Zv_TDoaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/V/37thAeTNCuE6R4Q7me2g/edicao-imagens-g1-21-.jpg"
+        },
+        {
+          "clusterId": "850948433fb7d323",
+          "slug": "9770e7f8a701a4b1",
+          "titulo": "Vídeo: Em meio à onda de calor na Croácia pessoas andam a cavalo na água",
+          "resumo": "A experiência é uma boa oportunidade para se refrescar e ter contato com os animais, segundo turistas",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/video-em-meio-a-onda-de-calor-na-croacia-pessoas-andam-a-cavalo-na-agua/"
+            }
+          ],
+          "updatedAt": "2026-08-06T12:16:45.000Z"
         },
         {
           "clusterId": "08f269c67aa394ca",
@@ -545,48 +559,24 @@
       ]
     },
     {
-      "slug": "enchente",
-      "label": "Enchente",
+      "slug": "acidente",
+      "label": "Acidente",
       "stories": [
         {
-          "clusterId": "dbdf434bdf227bab",
-          "slug": "7b057a7d60f2c398",
-          "titulo": "Governo federal reconhece situação de emergência em quatro municípios do Rio Grande do Sul",
-          "resumo": "A Secretaria Nacional de Proteção e Defesa Civil publicou, no Diário Oficial da União, decretos que reconhecem situação de emergência em quatro municípios do Rio Grande do Sul. Os decretos referem‑se a eventos climáticos ocorridos entre 23 e 29 de julho, incluindo chuvas intensas, vendaval e inundações. No final do mês passado, a Defesa Civil estadual havia registrado emergência em 47 cidades do estado. A medida foi divulgada na quarta‑feira (5).",
-          "porQueImporta": "A declaração oficial permite a liberação de recursos e apoio federal às áreas afetadas pelos eventos climáticos.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "7caf94876a801168",
+          "slug": "44afaed39d103aeb",
+          "titulo": "Filho de atleta do Ypiranga morre após acidente",
+          "resumo": "Benício, filho do atacante Gustavo Simões, faleceu na terça‑feira (4) em decorrência de um acidente. Poucos dias antes, o atleta havia divulgado uma homenagem ao menino após entrarem juntos em campo.",
+          "porQueImporta": "A morte de um menor ligada a um atleta de destaque gera comoção e destaca questões de segurança infantil.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/06/governo-federal-reconhece-emergencia-quatro-cidades-rs.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/futebol/luto-no-ypiranga-morre-benicio-filho-de-2-anos-do-atacante-gustavo-simoes/"
             }
           ],
-          "updatedAt": "2026-08-06T10:41:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CReQsPyHtLiSrwIoHY-bBnej05w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/BB6XanTkikdbMgH0zuoQ/g1-2-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "seca",
-      "label": "Seca",
-      "stories": [
-        {
-          "clusterId": "848dd766252476af",
-          "slug": "28bad26a59a0f1a7",
-          "titulo": "Inmet emite alerta amarelo de baixa umidade para 181 municípios do Piauí",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) publicou alerta amarelo de baixa umidade que vigora das 10h30 às 22h desta quinta-feira. A umidade relativa do ar nas áreas afetadas deve ficar entre 20% e 30%. O aviso cobre 181 municípios, incluindo Teresina, Bom Jesus e Gilbués, e indica risco potencial de incêndios florestais e desconforto respiratório.",
-          "porQueImporta": "A condição pode aumentar o risco de incêndios e afetar a saúde da população",
-          "categoria": "Seca",
-          "categoriaSlug": "seca",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/06/aviso-municipios-piaui.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-06T10:26:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/q6gjNr-7ymCryd1_XC2x1fNQQFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/YyfJX8SOOcEqGS2gGbKg/edicao-imagens-g1-67-.png"
+          "updatedAt": "2026-08-06T13:49:55.000Z"
         }
       ]
     },
@@ -614,25 +604,25 @@
       ]
     },
     {
-      "slug": "naufragio",
-      "label": "Naufrágio",
+      "slug": "incendio",
+      "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "abc90e27fb9151bd",
-          "slug": "0789520c1893b0ff",
-          "titulo": "França resgata 157 imigrantes de barco em chamas no Canal da Mancha",
-          "resumo": "A guarda costeira francesa salvou 157 pessoas a bordo de um barco que incendiou no Canal da Mancha, próximo ao porto de Boulogne-sur-Mer, na terça‑feira (4). Três embarcações da guarda costeira participaram do resgate, segundo a administração local responsável pelas áreas do Canal da Mancha e do Mar do Norte.",
-          "porQueImporta": "O incidente evidencia os riscos associados às travessias marítimas irregulares e a necessidade de respostas de salvamento coordenadas.",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
+          "clusterId": "c92442841de92bd9",
+          "slug": "e0c3719ecc6f6e31",
+          "titulo": "Fósseis brasileiros retornam ao país para recompor acervo do Museu Nacional",
+          "resumo": "Fósseis preservados em museu britânico serão devolvidos ao Brasil para integrar o acervo do Museu Nacional, destruído por incêndio em 2018. A paleontóloga Emma Nicholls, gerente de coleções do Museu de História Natural da Universidade de Oxford, expressou emoção ao relembrar o desastre. A devolução visa restaurar parte da coleção científica perdida.",
+          "porQueImporta": "Recuperar o patrimônio científico brasileiro afetado pelo incêndio",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/04/guardas-costeiros-franceses-resgataram-157-de-barco-de-migrantes-em-chamas-no-canal-da-mancha.ghtml"
+              "url": "https://g1.globo.com/ciencia/noticia/2026/08/05/os-fosseis-brasileiros-guardados-em-museu-britanico-que-voltarao-ao-pais-para-recompor-acervo-do-museu-nacional-destruido-em-incendio.ghtml"
             }
           ],
-          "updatedAt": "2026-08-04T12:11:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/loKU1_DVM5OhU5cZLC7VGPSzXx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/A/n4vhJHSiKQsnUEgzKDYQ/design-sem-nome-49-.jpg"
+          "updatedAt": "2026-08-05T08:05:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hbFLoO_7yev1Kq4d_QwlqRFcl1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/3/n7O69nSIAhbdYwXQD0rw/imagem-cortada.jpg"
         }
       ]
     }
