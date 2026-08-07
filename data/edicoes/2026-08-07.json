@@ -1,191 +1,187 @@
 {
   "date": "2026-08-07",
-  "generatedAt": "2026-08-07T13:51:36.517Z",
+  "generatedAt": "2026-08-07T17:25:35.939Z",
   "home": [
     {
-      "clusterId": "088a59dbb140fd80",
-      "slug": "e9e89d2c81c1556e",
-      "titulo": "Ciclone-bomba deve atingir o Sul com ventos de até 100 km/h",
-      "resumo": "O ciclone-bomba, formado pelo encontro de massas de ar com temperaturas muito diferentes, pode gerar rajadas superiores a 100 km/h e queda brusca de temperatura. O fenômeno deve alcançar o Sul, com possibilidade de atingir também Santa Catarina, Paraná, áreas do Sudeste e do Centro-Oeste, embora com menor intensidade, segundo o Inmet.",
-      "porQueImporta": "Os ventos intensos podem causar danos estruturais e riscos à população nas regiões afetadas",
+      "clusterId": "b0d67ca5affd5910",
+      "slug": "83892c34d42ffdbc",
+      "titulo": "Ciclone-bomba: Rio entra em estágio 3 e governo decreta ponto facultativo",
+      "resumo": "Medida preventiva visa reduzir circulação de pessoas diante de previsão de ventos de até 90 km/h no estado; aulas presenciais foram suspensas",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/ciclone-bomba-alertas-pedem-antecipacao-do-fim-do-expediente-no-rio/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/ciclone-bomba-rio-entra-em-estagio-3-e-governo-decreta-ponto-facultativo/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/ciclone-bomba-rio-grande-do-sul-compoe-corredor-dos-tornados-entenda"
+        }
+      ],
+      "updatedAt": "2026-08-07T17:07:48.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/ciclone-jpg.jpeg"
+    },
+    {
+      "clusterId": "c78633097436a304",
+      "slug": "e3f1253a18469131",
+      "titulo": "Ciclone-bomba deixa um morto e cinco feridos no RS",
+      "resumo": "Um ciclone-bomba atingiu o Rio Grande do Sul, resultando em uma morte e cinco feridos. As ocorrências foram registradas em 118 municípios, entre eles a cidade de Montenegro, onde ocorreu o óbito. A Defesa Civil confirmou os números e informou que, com o afastamento do ciclone e a diminuição da frente fria, não se esperam maiores transtornos na região.",
+      "porQueImporta": "A ocorrência evidencia o risco de eventos climáticos extremos e seus impactos humanos e materiais na região",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cz648vl379do?at_medium=RSS&at_campaign=rss"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/ciclone-bomba-rs-tem-um-morto-cinco-feridos-e-118-cidades-com-danos/"
         },
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/ciclone-bomba-vento-balsa-porto-santos"
-        },
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/defesa-civil-do-rs-confirma-uma-morte-e-5-feridos-apos-ciclone-bomba/"
+        }
+      ],
+      "updatedAt": "2026-08-07T16:00:15.000Z"
+    },
+    {
+      "clusterId": "5cb30f97306aba80",
+      "slug": "1e3d930cfd7a547a",
+      "titulo": "Ciclone explosivo se aproxima do Sudeste com risco de fortes chuvas e ventos",
+      "resumo": "Um ciclone de intensidade explosiva está se formando e avança em direção ao Sudeste, trazendo a possibilidade de chuvas intensas e ventos fortes. Meteorologistas apontam que a frente fria associada pode intensificar os efeitos na região de São Paulo. Há também discussões sobre uma possível relação do fenômeno com as condições do El Niño. Autoridades recomendam atenção redobrada e adoção de medidas de prevenção.",
+      "porQueImporta": "O evento pode gerar impactos significativos em infraestrutura e segurança da população da região Sudeste",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/agenda-verde/ciclone-bomba-as-cidades-que-estao-em-maior-estado-de-alerta/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/entenda-dimensao-de-ciclone-bomba-que-ameaca-sete-estados-brasileiros/"
+          "url": "https://veja.abril.com.br/brasil/meteorologista-explica-riscos-da-chegada-de-ciclone-explosivo-ao-sudeste-e-possivel-ligacao-com-el-nino/"
         }
       ],
-      "updatedAt": "2026-08-07T13:45:23.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1149/live/782a4820-9189-11f1-8e84-2d20095c7a4b.jpg"
+      "updatedAt": "2026-08-07T17:22:51.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/09/GettyImages-523709228.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "ac6ebe2a26dbef27",
-      "slug": "72ff8ec8d9b97ec7",
-      "titulo": "Veja como se cadastrar para receber alerta detalhado da Defesa Civil",
-      "resumo": "Reprodução A Defesa Civil emitiu alguns alertas na manhã desta sexta-feira (07) por conta da ventania no Rio de Janeiro. A previsão indica que as rajadas de vento podem passar de 90 km/h ao longo do dia. Além do envio automático de mensagens por SMS para celulares em áreas de risco, a população também pode optar por receber alertas por outros canais, como WhatsApp, Telegram, Alertas Públicos do Google e TV por assinatura. 📱Baixe o app do g1 para ver notícias do RJ em tempo real e de graça Para isso, é necessário realizar um cadastro gratuito, informando a localização de interesse e…",
+      "clusterId": "5e963e7617518dad",
+      "slug": "e1822f78ec35f306",
+      "titulo": "Ônibus sai de Taguatinga e segue para Uberlândia colide na GO-010, deixando cinco mortos",
+      "resumo": "Na manhã de sexta‑feira, um ônibus que partiu de Taguatinga em direção a Uberlândia colidiu na rodovia GO-010. O acidente resultou em cinco óbitos, entre eles um bebê. As vítimas foram socorridas no local, mas não resistiram. As causas ainda não foram divulgadas oficialmente.",
+      "porQueImporta": "O acidente evidencia riscos de transporte rodoviário e a necessidade de medidas de segurança nas vias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/onibus-envolvido-em-tragedia-saiu-de-taguatinga-e-seguia-para-uberlandia-mg"
+        }
+      ],
+      "updatedAt": "2026-08-07T17:14:37.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/acidente-caminhao-carreta-carro.jpg"
+    },
+    {
+      "clusterId": "1abd454a9683d228",
+      "slug": "29ea85066f0047c2",
+      "titulo": "Parques de Jundiaí são fechados por alerta de chuvas e ventos fortes",
+      "resumo": "Na sexta‑feira (7) a Defesa Civil de Jundiaí (SP) emitiu alerta de chuvas, descargas elétricas e rajadas de vento. Em resposta, a DAE suspendeu o acesso a vários parques municipais como Parque da Cidade, Mundo das Crianças, Parque do Jardim Bonfiglioli, entre outros, como medida preventiva de segurança. A decisão visa proteger visitantes e colaboradores enquanto persistir o risco meteorológico.",
+      "porQueImporta": "O fechamento impede acidentes e protege o público diante de condições climáticas adversas",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/07/parques-de-jundiai-fecham-apos-alerta-de-chuvas-e-ventos-fortes-veja-quais.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-07T17:13:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-YsQarq9S_DLRPAOUON6INXpvNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/I/6/mirq9yRD29tkklz8XApQ/chuvas-jundiai-2-1280x854.jpg"
+    },
+    {
+      "clusterId": "bd193e126d9f6c91",
+      "slug": "7be9cde3e277bb66",
+      "titulo": "Incêndio atinge clínica de fisioterapia no DF",
+      "resumo": "Um incêndio começou na manhã de sexta-feira em uma clínica de fisioterapia no Distrito Federal. Quatro viaturas do Corpo de Bombeiros do DF foram mobilizadas para combater as chamas. Apesar da fumaça intensa e dos danos materiais, não foram registrados feridos. O fogo foi controlado pelos bombeiros.",
+      "porQueImporta": "Incidentes com risco de lesões e danos patrimoniais demandam resposta rápida das autoridades de emergência",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/incendio-atinge-clinica-de-fisioterapia-no-df-e-mobiliza-bombeirosincendio-atinge-clinica-de-fisioterapia-em-planaltina-nesta-sexta"
+        }
+      ],
+      "updatedAt": "2026-08-07T17:08:40.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/incendio-planaltina-clinica-7-de-agosto.jpeg"
+    },
+    {
+      "clusterId": "cd36e928d6cee885",
+      "slug": "815394365ba79be7",
+      "titulo": "Árvore cai sobre carro em Santos e casal escapa por poucos segundos",
+      "resumo": "Na manhã de sexta‑feira, uma árvore foi derrubada por rajadas de vento de até 109 km/h e caiu sobre o carro de um casal na Rua Paraguaçu, no bairro Boqueirão, em Santos. A motorista, de 32 anos, relatou que havia estacionado para treinar em uma academia próxima. O veículo foi atingido, mas os ocupantes conseguiram sair antes que a árvore o atingisse completamente. Não houve relatos de feridos graves.",
+      "porQueImporta": "O incidente evidencia o risco de ventos fortes para a segurança pública em áreas urbanas costeiras.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/07/casal-escapa-por-questao-de-segundos-apos-arvore-cair-sobre-carro-no-litoral-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-07T17:03:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/aibObQRucUjjwve9PgKVIp-sYTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/c/eeVxJrTf2xkX4EEj6UYw/edig1-2026-08-07t135919.084.png"
+    },
+    {
+      "clusterId": "c4b34f8243551b81",
+      "slug": "a0ce3f2a8a3acdb4",
+      "titulo": "Rodovia GO-010 é totalmente interditada após acidente com cinco mortos",
+      "resumo": "Um acidente na rodovia GO-010 resultou em cinco óbitos. As autoridades fecharam integralmente a via e recomendaram que motoristas evitem o trecho, especialmente no sentido Vianópolis. O bloqueio foi mantido durante a tarde da sexta‑feira, 7 de agosto. Não há informações adicionais sobre causas ou vítimas além do número de mortos.",
+      "porQueImporta": "O fechamento da rodovia afeta o trânsito e a mobilidade na região, além de evidenciar a gravidade do acidente.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/entorno/go-010-rodovia-foi-totalmente-interditada-apos-acidente-com-5-mortos"
+        }
+      ],
+      "updatedAt": "2026-08-07T17:02:38.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/whatsapp-image-2026-08-07-at-12-09-42.jpeg"
+    },
+    {
+      "clusterId": "337082085466c8f1",
+      "slug": "7996952e6968cd7c",
+      "titulo": "Jovem é atropelado na Via Dutra, em Itatiaia",
+      "resumo": "Um jovem, de 24 anos, foi atropelado na noite de quinta-feira (6) na Via Dutra, em Itatiaia (RJ). O caso aconteceu na altura do km 318, na pista sentido Rio de Janeiro, por volta de 21h. Segundo a Polícia Rodoviária Federal, o jovem foi encontrado caído no acostamento e com ferimentos provocados por atropelamento. Ainda de acordo com a PRF, ele não estava com nenhum documento e aparentava estar em situação de rua. A vítima informou alguns dados sobre a sua identificação, mas, não foi possível identificá-lo nos sistemas disponíveis. Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1 no…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-envia-alertas-severos-de-chuva-e-rajadas-para-24-regioes-de-sp/"
-        },
-        {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/07/veja-como-se-cadastrar-para-receber-alerta-detalhado-da-defesa-civil.ghtml"
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/07/jovem-e-atropelado-na-via-dutra-em-itatiaia.ghtml"
         }
       ],
-      "updatedAt": "2026-08-07T12:52:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/U-LMY1fmIlBt3xvDGvaU0LCIiQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/q/NPV0MJTKmLvvFdZk1iwg/whatsapp-image-2026-08-07-at-05.24.02.jpeg"
+      "updatedAt": "2026-08-07T16:38:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/hk1R3Z8Ogw2BVczCFN6z5d-twW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/m/6RJ1AnRpexAuAtjNoXJA/whatsapp-image-2026-08-07-at-12.51.50-1-.jpeg"
     },
     {
-      "clusterId": "dcf42feb202cbaab",
-      "slug": "ffe78c6f282acb0b",
-      "titulo": "Por que o Sul é a região mais propensa a tornados no Brasil?",
-      "resumo": "Tornado é registrado em Pedro Osório, no RS; Fenômeno atinge estado pela segunda vez em 9 dias Frederico Gatto/Imagens cedidas Excepcionalmente rápidos, altamente destrutivos e mais comuns do que podem parecer. Assim são os tornados que ameaçam sobretudo a região Sul, a mais propensa no país a este fenômeno meteorológico severo, tal como o que arrasou a cidade de Rio Bonito do Iguaçu, no Paraná, em novembro do ano passado, ou o que atingiu o município de Pedro Osório, no sul do Rio Grande do Sul, nesta quinta-feira (06). Um levantamento da Universidade Estadual de Ponta Grossa (UEPG)…",
+      "clusterId": "6f566023bf52a5e6",
+      "slug": "950e4a6f6bca3c05",
+      "titulo": "MP pede que morte de universitária em acidente investigado por racha seja analisada pela Vara do Júri em Franca, SP",
+      "resumo": "MP vê indícios de dolo eventual e pede que caso de universitária morta vá à júri em Franca, SP O Ministério Público pediu que o caso da morte da estudante de biomedicina Anna Elisa Ferreira Borges, de 19 anos, em Franca (SP), seja remetido à Vara do Júri. A jovem morreu em um acidente na em março de 2026, na Avenida Armando Salles de Oliveira, na região do Parque Universitário. Na manifestação anexada ao processo, a Promotoria afirma que há indícios de dolo eventual, tese jurídica usada quando a acusação entende que uma pessoa não necessariamente quis causar a morte, mas assumiu o risco de…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/07/por-que-o-sul-e-a-regiao-mais-propensa-a-tornados-no-brasil.ghtml"
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/07/mp-pede-que-morte-de-universitaria-em-acidente-investigado-por-racha-seja-analisada-pela-vara-do-juri-em-franca-sp.ghtml"
         }
       ],
-      "updatedAt": "2026-08-07T13:41:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/xkcoqQXK1m6YQdyVyoNg3HgfsGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/h/OM07oVSBy1vYQsHIPgAw/g1-9-.png"
-    },
-    {
-      "clusterId": "62cc028266d76ca8",
-      "slug": "094e71ba4dc27f99",
-      "titulo": "Bebê de 33 dias é lançada para fora de carro em capotamento na MG-170",
-      "resumo": "Na tarde de quinta-feira, um carro conduzido por um homem de 39 anos capotou na rodovia MG-170, em Arcos, Minas Gerais. A bebê de 33 dias foi arremessada para fora do veículo, enquanto a mãe, de 38 anos, ficou gravemente ferida no banco do passageiro. O condutor não sofreu lesões e informou que perdeu o controle ao sair da pista. As autoridades registraram o acidente e atenderam as vítimas.",
-      "porQueImporta": "O caso destaca os riscos de perda de controle de veículos e a vulnerabilidade de crianças em acidentes de trânsito.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/07/bebe-de-33-dias-e-lancada-para-fora-de-carro-durante-capotamento-na-mg-170.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-07T13:37:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/_Gyb882KaRw-ZYrU5VW6kslHbg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/n/o9fywxSdmAqdZ0E0FgRg/design-sem-nome-76-.png"
-    },
-    {
-      "clusterId": "a89338dc3846d833",
-      "slug": "1cdf3b9bd5fc4899",
-      "titulo": "Motociclista de 45 anos morre após ser atingido por carro que fazia ultrapassagem proibida em São Bento do Sapucaí",
-      "resumo": "Na noite de quinta-feira, um motociclista de 45 anos foi atingido por um carro que realizava ultrapassagem em local proibido na rodovia SP-42, km 162, em São Bento do Sapucaí. A vítima, identificada como Nelito de Sousa Neres, trabalhava em um posto de combustíveis próximo ao local e havia acabado de deixá‑lo de motocicleta. O acidente ocorreu por volta das 21h, resultando na morte da vítima.",
-      "porQueImporta": "O caso evidencia os riscos de ultrapassagens proibidas em rodovias e a necessidade de maior fiscalização para prevenir fatalidades no trânsito.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/07/motociclista-morre-apos-ser-atingido-por-carro-que-fazia-ultrapassagem-proibida-em-sao-bento-do-sapucai.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-07T13:36:45.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/rix4dS4X73SSrK44d4eTFZ1FPf0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/C/C/jpe5gWST2lUro1bOeH0A/delegacia-sao-bento.png"
-    },
-    {
-      "clusterId": "7d44998f3d8d5d2c",
-      "slug": "d329e41497462b87",
-      "titulo": "Motorista morre após perder o controle e colidir com poste na Rodovia Raposo Tavares em Ourinhos",
-      "resumo": "Na madrugada de sexta-feira, um veículo que trafegava no sentido interior‑capital na Rodovia Raposo Tavares, km 380, em Ourinhos, perdeu o controle e colidiu com um poste de iluminação pública. O motorista ficou preso na cabine e faleceu no local. A informação foi confirmada pela Agência de Transporte do Estado de São Paulo (Artesp).",
-      "porQueImporta": "O acidente evidencia riscos de perda de controle em rodovias e a necessidade de atenção ao dirigir à noite.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/07/motorista-morre-apos-perder-o-controle-do-carro-e-bater-contra-poste-na-raposo-tavares-em-ourinhos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-07T13:32:38.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ID3RBhXUCzxVTmNcMj5uUN0hGug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/H/qaJPmwRsa8XZ83aMBAOw/novo-projeto-2026-08-07t080032.511.png"
-    },
-    {
-      "clusterId": "63ff36968d22e30e",
-      "slug": "64893bc91d4d2e59",
-      "titulo": "Litoral de São Paulo tem 29 praias impróprias para banho neste fim de semana",
-      "resumo": "A Companhia Ambiental do Estado de São Paulo (Cetesb) divulgou que 29 praias do litoral paulista estão impróprias para banho devido à presença de bactérias. São duas praias no Litoral Norte e 27 no Litoral Sul. O balanço foi atualizado nesta quinta-feira e será revisado novamente em 13 de agosto. A restrição ocorre em meio ao alerta de ciclone previsto para o fim de semana.",
-      "porQueImporta": "A condição das praias afeta a saúde pública e o turismo local",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/07/em-meio-a-alerta-de-ciclone-litoral-de-sp-tem-29-praias-improprias-neste-fim-de-semana-veja-a-lista.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-07T13:27:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ejl34HIp0UmfMMnLrPJ7w20bO3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/H/p/D9CSBMTamcBWKUOauPlQ/maresias.jpg"
-    },
-    {
-      "clusterId": "2c31d000fbc3cbc4",
-      "slug": "1ddc1e46d58cbe47",
-      "titulo": "Cinco mortos em colisão entre carro e carreta na BR-364 em Rondônia",
-      "resumo": "Na tarde de quinta‑feira, um carro com placa de Acrelândia colidiu de frente com uma carreta bitrem na BR‑364, próximo ao distrito de Vista Alegre do Abunã, em Rondônia. O impacto fez o veículo sair da pista, resultando na morte do motorista e dos quatro passageiros. As vítimas foram identificadas como residentes de Acrelândia. A Polícia Rodoviária Federal conduziu as investigações sobre o acidente.",
-      "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias interestaduais e a necessidade de medidas de segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/08/07/quem-eram-os-cinco-acreanos-que-morreram-em-acidente-na-br-364.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-07T13:21:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/LE2APh3x48DZE_ZAagI_S7oNPCU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/7Q9FepRdGrA9WIpJl77A/befunky-collage-2026-08-07t075924.317.jpg"
-    },
-    {
-      "clusterId": "6b71e97ac2c6309c",
-      "slug": "42ca2cbb6ec582fc",
-      "titulo": "Explosão inicia incêndio que mata funcionária da Aperam em Timóteo",
-      "resumo": "Uma explosão ocorreu na área Gusa Verde da planta da Aperam, em Timóteo, desencadeando um incêndio que se alastrou em poucos segundos. A funcionária Heydiane Ribeiro Bueno, de 28 anos, ficou gravemente ferida e morreu na quinta‑feira devido às queimaduras. O incidente foi registrado em vídeo pela reportagem, que mostrou a bola de fogo entre as estruturas metálicas.",
-      "porQueImporta": "O acidente evidencia riscos de segurança industrial e tem impacto nas famílias das vítimas e na comunidade local",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/07/video-registra-explosao-que-deu-inicio-a-incendio-que-matou-funcionaria-da-aperam-em-timoteo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-07T13:11:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IPWj5LwlBWw9f0zOIgBPQY58vTo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/C/trc6MTRVeWeTBOmEXN1A/ocorrencias-horizontal-40-.png"
-    },
-    {
-      "clusterId": "15627921f2cfc545",
-      "slug": "d851004291f2d7c2",
-      "titulo": "Carro colide com creche na Tailândia e fere ao menos 15 crianças",
-      "resumo": "Um veículo invadiu uma creche na Tailândia, resultando em ferimentos em pelo menos 15 crianças. As investigações apontam que o motorista apresentava um problema cardíaco, o que pode ter causado perda de consciência antes da colisão. As autoridades locais atenderam as vítimas e iniciaram a apuração das causas do acidente. Não foram divulgados óbitos até o momento.",
-      "porQueImporta": "O incidente destaca riscos de segurança em ambientes de educação infantil e a necessidade de monitoramento da saúde de motoristas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/carro-bate-em-creche-na-tailandia-e-deixa-criancas-feridas/"
-        }
-      ],
-      "updatedAt": "2026-08-07T13:10:45.000Z"
+      "updatedAt": "2026-08-07T16:37:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rcun1KTkPtjwpCXpl_XyACtODJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/7jB6TQQa67Z7kbW2Bb1Q/clovis.jpg"
     }
   ],
   "categorias": [
@@ -194,75 +190,332 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "ac6ebe2a26dbef27",
-          "slug": "72ff8ec8d9b97ec7",
-          "titulo": "Veja como se cadastrar para receber alerta detalhado da Defesa Civil",
-          "resumo": "Reprodução A Defesa Civil emitiu alguns alertas na manhã desta sexta-feira (07) por conta da ventania no Rio de Janeiro. A previsão indica que as rajadas de vento podem passar de 90 km/h ao longo do dia. Além do envio automático de mensagens por SMS para celulares em áreas de risco, a população também pode optar por receber alertas por outros canais, como WhatsApp, Telegram, Alertas Públicos do Google e TV por assinatura. 📱Baixe o app do g1 para ver notícias do RJ em tempo real e de graça Para isso, é necessário realizar um cadastro gratuito, informando a localização de interesse e…",
+          "clusterId": "b0d67ca5affd5910",
+          "slug": "83892c34d42ffdbc",
+          "titulo": "Ciclone-bomba: Rio entra em estágio 3 e governo decreta ponto facultativo",
+          "resumo": "Medida preventiva visa reduzir circulação de pessoas diante de previsão de ventos de até 90 km/h no estado; aulas presenciais foram suspensas",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-envia-alertas-severos-de-chuva-e-rajadas-para-24-regioes-de-sp/"
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/ciclone-bomba-alertas-pedem-antecipacao-do-fim-do-expediente-no-rio/"
             },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/07/veja-como-se-cadastrar-para-receber-alerta-detalhado-da-defesa-civil.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/ciclone-bomba-rio-entra-em-estagio-3-e-governo-decreta-ponto-facultativo/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/ciclone-bomba-rio-grande-do-sul-compoe-corredor-dos-tornados-entenda"
             }
           ],
-          "updatedAt": "2026-08-07T12:52:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/U-LMY1fmIlBt3xvDGvaU0LCIiQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/q/NPV0MJTKmLvvFdZk1iwg/whatsapp-image-2026-08-07-at-05.24.02.jpeg"
+          "updatedAt": "2026-08-07T17:07:48.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/ciclone-jpg.jpeg"
         },
         {
-          "clusterId": "dcf42feb202cbaab",
-          "slug": "ffe78c6f282acb0b",
-          "titulo": "Por que o Sul é a região mais propensa a tornados no Brasil?",
-          "resumo": "Tornado é registrado em Pedro Osório, no RS; Fenômeno atinge estado pela segunda vez em 9 dias Frederico Gatto/Imagens cedidas Excepcionalmente rápidos, altamente destrutivos e mais comuns do que podem parecer. Assim são os tornados que ameaçam sobretudo a região Sul, a mais propensa no país a este fenômeno meteorológico severo, tal como o que arrasou a cidade de Rio Bonito do Iguaçu, no Paraná, em novembro do ano passado, ou o que atingiu o município de Pedro Osório, no sul do Rio Grande do Sul, nesta quinta-feira (06). Um levantamento da Universidade Estadual de Ponta Grossa (UEPG)…",
+          "clusterId": "337082085466c8f1",
+          "slug": "7996952e6968cd7c",
+          "titulo": "Jovem é atropelado na Via Dutra, em Itatiaia",
+          "resumo": "Um jovem, de 24 anos, foi atropelado na noite de quinta-feira (6) na Via Dutra, em Itatiaia (RJ). O caso aconteceu na altura do km 318, na pista sentido Rio de Janeiro, por volta de 21h. Segundo a Polícia Rodoviária Federal, o jovem foi encontrado caído no acostamento e com ferimentos provocados por atropelamento. Ainda de acordo com a PRF, ele não estava com nenhum documento e aparentava estar em situação de rua. A vítima informou alguns dados sobre a sua identificação, mas, não foi possível identificá-lo nos sistemas disponíveis. Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1 no…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/07/por-que-o-sul-e-a-regiao-mais-propensa-a-tornados-no-brasil.ghtml"
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/07/jovem-e-atropelado-na-via-dutra-em-itatiaia.ghtml"
             }
           ],
-          "updatedAt": "2026-08-07T13:41:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xkcoqQXK1m6YQdyVyoNg3HgfsGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/h/OM07oVSBy1vYQsHIPgAw/g1-9-.png"
+          "updatedAt": "2026-08-07T16:38:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hk1R3Z8Ogw2BVczCFN6z5d-twW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/m/6RJ1AnRpexAuAtjNoXJA/whatsapp-image-2026-08-07-at-12.51.50-1-.jpeg"
         },
         {
-          "clusterId": "63ff36968d22e30e",
-          "slug": "64893bc91d4d2e59",
-          "titulo": "Litoral de São Paulo tem 29 praias impróprias para banho neste fim de semana",
-          "resumo": "A Companhia Ambiental do Estado de São Paulo (Cetesb) divulgou que 29 praias do litoral paulista estão impróprias para banho devido à presença de bactérias. São duas praias no Litoral Norte e 27 no Litoral Sul. O balanço foi atualizado nesta quinta-feira e será revisado novamente em 13 de agosto. A restrição ocorre em meio ao alerta de ciclone previsto para o fim de semana.",
-          "porQueImporta": "A condição das praias afeta a saúde pública e o turismo local",
+          "clusterId": "6f566023bf52a5e6",
+          "slug": "950e4a6f6bca3c05",
+          "titulo": "MP pede que morte de universitária em acidente investigado por racha seja analisada pela Vara do Júri em Franca, SP",
+          "resumo": "MP vê indícios de dolo eventual e pede que caso de universitária morta vá à júri em Franca, SP O Ministério Público pediu que o caso da morte da estudante de biomedicina Anna Elisa Ferreira Borges, de 19 anos, em Franca (SP), seja remetido à Vara do Júri. A jovem morreu em um acidente na em março de 2026, na Avenida Armando Salles de Oliveira, na região do Parque Universitário. Na manifestação anexada ao processo, a Promotoria afirma que há indícios de dolo eventual, tese jurídica usada quando a acusação entende que uma pessoa não necessariamente quis causar a morte, mas assumiu o risco de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/07/em-meio-a-alerta-de-ciclone-litoral-de-sp-tem-29-praias-improprias-neste-fim-de-semana-veja-a-lista.ghtml"
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/07/mp-pede-que-morte-de-universitaria-em-acidente-investigado-por-racha-seja-analisada-pela-vara-do-juri-em-franca-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-08-07T13:27:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ejl34HIp0UmfMMnLrPJ7w20bO3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/H/p/D9CSBMTamcBWKUOauPlQ/maresias.jpg"
+          "updatedAt": "2026-08-07T16:37:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rcun1KTkPtjwpCXpl_XyACtODJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/7jB6TQQa67Z7kbW2Bb1Q/clovis.jpg"
         },
         {
-          "clusterId": "78304ddb5034243f",
-          "slug": "6e345049c2915c29",
-          "titulo": "Ciclone-bomba e frente fria: veja como será 2º dia de fenômeno no Brasil",
-          "resumo": "Sistema se intensifica e expande os impactos para além do Sul, com previsão de rajadas de vento de até 110 km/h no litoral de São Paulo e do Rio de Janeiro",
+          "clusterId": "8cf079831311834d",
+          "slug": "d73822c500ff8c7a",
+          "titulo": "Ventania no RJ bate 74 km/h, e autoridades disparam alerta extremo e decretam ponto facultativo; VEJA",
+          "resumo": "Ventania no RJ bate 74 km/h, e autoridades disparam alerta extremo e decretam ponto facultativo; VEJA Há previsão de 90 km/h à tarde e à noite. Município do Rio entrou em Estágio 3. Já foram 4 mensagens de emergência alertando sobre a ventania desde as 5h.. Governo do RJ decretou ponto facultativo a partir das 13h.. Transportes públicos anteciparam a operação dos horários de pico.. Escolas não abriram, e parques fecharam no fim da manhã, incluindo o Cristo.. Ventos são efeitos de um ciclone-bomba. Entenda o fenômeno.",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/ao-vivo/rio-vento-forte-sexta-feira.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T16:33:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QwndBEgoQawO4V9n8pu4rEpT-Bc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/c/nBQMpxSdOdURd8T1c2rw/ezgif-1640019cc9a62fb5.gif"
+        },
+        {
+          "clusterId": "0a3ef258bbba1abd",
+          "slug": "931df9e730c73b94",
+          "titulo": "Resumão diário #2096: Ciclone deixa várias regiões do Brasil em alerta; Estudante abre fogo em escola na Tailândia; Sobe para 23 o número de casos de sarampo em SP e mais",
+          "resumo": "Risco de ciclone-bomba: ventania no Sudeste pode chegar a 110 km/h. Em estágio 2, RJ recebe alerta da Defesa Civil e aulas são canceladas; em SP, travessia de balsa entre São Sebastião e Ilhabela é suspensa; Rio Grande do Sul registra uma morte, muro de presídio derrubado, tornado e vento de 120 km/h. Estudante abre fogo em escola na Tailândia após matar avós. Depoimento de Jaques Wagner no caso Master é adiado. Acidente da Voepass: PF indicia 16 funcionários e ex-funcionários pela queda que matou 62 pessoas. Sobe para 23 o total de casos de sarampo no estado de SP; governo diz que enviou…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/08/07/resumao-diario-2096-ciclone-deixa-varias-regioes-do-brasil-em-alerta-estudante-abre-fogo-em-escola-na-tailandia-sobe-para-23-o-numero-de-casos-de-sarampo-em-sp-e-mais.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T16:27:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
+        },
+        {
+          "clusterId": "e1547eeb4c24928f",
+          "slug": "2e026587229fcc39",
+          "titulo": "Ônibus, trens e metrô antecipam horário de pico devido a aviso de ventania no RJ",
+          "resumo": "Prefeitura e governo do RJ recomendam volta antecipada para casa por causa de vento forte As empresas responsáveis pela operação de trens e Metrô anteciparam o horário de pico para 13h desta sexta-feira (7) após os avisos meteorológicos que preveem ventos de mais de 90 km/h. Os ônibus também tiveram a frota reforçada a partir das 12h. O Rio entrou em estágio 3 por conta da previsão de intensificação dos ventos para as próximas horas. A defesa civil emitiu o alerta de ventos fortes, e as aulas foram suspensas nas redes estadual e municipal. 🔍O Estágio 3 é o terceiro nível em uma escala de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/07/transportes-rio-ventania.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T16:25:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FZdc_piuoO9h2OsWRZaAlWa8D-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/O/5T2W2xTYSoTkkGBWpbdA/metro-do-rio.jpeg"
+        },
+        {
+          "clusterId": "ce09a2ba488a8858",
+          "slug": "249bb9761f340edb",
+          "titulo": "Da denúncia ao julgamento: os próximos passos após PF indiciar 16 por queda de avião da Voepass",
+          "resumo": "Acidente Voepass: quem são os indiciados pelo desastre aéreo com 62 mortos O relatório final da Polícia Federal (PF) sobre o acidente com o avião da Voepass que matou 62 pessoas em agosto de 2024, em Vinhedo (SP), resultou no indiciamento de 16 pessoas, incluindo o proprietário da companhia, diretores e funcionários operacionais. O documento foi divulgado durante coletiva de imprensa nesta quinta-feira (6). Com a conclusão da investigação, o caso entrará na fase judicial e será acompanhado pelo Ministério Público Federal (MPF), que irá analisar o relatório. Embora a PF tenha acusado 16…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/proximos-passos-pf-indiciar-16-queda-aviao-voepass.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T16:19:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kMFJr-dj6mvwW5B8GZSDHx1iRNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/L/uZ71RcSyuFs7GGAHPYlQ/whatsapp-image-2026-08-06-at-14.30.54.jpeg"
+        },
+        {
+          "clusterId": "d461b6660a8ae6f9",
+          "slug": "84d4ce4dba33a22d",
+          "titulo": "Ciclone-bomba: Santos registra rajadas de vento de mais de 100 km/h",
+          "resumo": "Ventania foi registrada na manhã desta sexta-feira (7) e não causou ocorrências graves; passagem de um ciclone-bomba deve provocar tempestades e rajadas de vento",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-e-frente-fria-veja-como-sera-2o-dia-de-fenomeno-no-brasil/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ciclone-bomba-santos-registra-rajadas-de-vento-de-mais-de-100-km-h/"
             }
           ],
-          "updatedAt": "2026-08-07T12:42:52.000Z"
+          "updatedAt": "2026-08-07T15:53:07.000Z"
+        },
+        {
+          "clusterId": "e7704ba5bd2c2934",
+          "slug": "5196d90f8363b5c8",
+          "titulo": "Ciclone bomba mata um, deixa 589 mil sem luz e causa estragos em mais de cem cidades no RS",
+          "resumo": "Vendavais e tempestades seguem rumo aos outros estados do Sul, deixando Paraná e Santa Catarina em estado de alerta nos próximos dias",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/ciclone-bomba-mata-um-deixa-589-mil-sem-luz-e-causa-estragos-em-mais-de-cem-cidades-no-rs/"
+            }
+          ],
+          "updatedAt": "2026-08-07T15:48:35.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/Design-sem-nome-15-2.jpg?quality=70&strip=info"
+        },
+        {
+          "clusterId": "480f32e6d4bc3a2d",
+          "slug": "8ec322540c85fc4a",
+          "titulo": "INMET emite alerta de perigo potencial de vendaval em 21 cidades do Leste de Minas",
+          "resumo": "Cuidados durante ventos fortes: o que fazer em casa, na rua, áreas de risco e mais O Instituto Nacional de Meteorologia (INMET) emitiu, nesta sexta-feira (7), um alerta de perigo potencial para vendaval em 21 cidades do Leste de Minas. Segundo o instituto, são esperadas rajadas de vento entre 40 km/h e 60 km/h ao longo do dia. De acordo com o INMET, o alerta tem grau de severidade classificado como perigo potencial. O instituto informou ainda que há risco de queda de galhos de árvores devido à intensidade dos ventos. 📲 Clique aqui para seguir o canal do g1 Vales no WhatsApp INMET emite…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/07/inmet-emite-alerta-de-perigo-potencial-de-vendaval-em-21-cidades-do-leste-de-minas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T15:42:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Bo8--YOSDzyvk328ktkpdcqRER4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/s/scT9BKSqeF4lCbUPAYkA/carol-86-.png"
+        },
+        {
+          "clusterId": "ec5fe9983a49dd51",
+          "slug": "2c91788546ef2224",
+          "titulo": "Bebê e mais quatro pessoas morrem em acidente entre caminhão, ônibus e dois carros na GO-010, dizem Bombeiros",
+          "resumo": "Bebê e mais quatro pessoas morrem em acidente entre caminhão, ônibus e dois carros Cinco pessoas morreram em um acidente entre um caminhão, um ônibus e dois carros na GO-010, em Luziânia, no Entorno do Distrito Federal, de acordo com o Corpo de Bombeiros. O acidente aconteceu nesta sexta-feira (7) e, até o momento, há oito feridos em estado grave. Entre as vítimas, há duas mulheres, dois homens e um bebê, de acordo com os militares. Em nota, a Secretaria Municipal de Saúde de Luziânia informou que as viaturas estão empenhadas prioritariamente na ocorrência e que, por isso, os transportes…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/08/07/cinco-pessoas-morrem-em-acidente-entre-caminhao-onibus-e-dois-carros-na-go-010-dizem-bombeiros.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T15:34:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/5_lMWvujrFm0mHlK17y5xk_Eu3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/0/q5ZnI2TfejMlkWvgVOFA/padrao-foto-texto-g1-44-.jpg"
+        },
+        {
+          "clusterId": "3d9ca57c85aa6dd9",
+          "slug": "7dd581785535b375",
+          "titulo": "Casal fica ferido após batida traseira entre caminhões na BR-135",
+          "resumo": "Vítimas ficaram presas às ferragens após o acidente Polícia Militar Rodoviária Um casal ficou ferido após uma batida traseira entre caminhões na BR-135, em Curvelo, na quinta-feira (6). Segundo informações da Polícia Militar Rodoviária (PMRv), o motorista de um dos veículos envolvidos, que transportava carvão, contou que precisou parar na terceira faixa devido a problemas mecânicos. 📲Clique aqui para seguir o canal do g1 Grande Minas no WhatsApp Ele relatou que, assim que desceu, viu o caminhão ocupado pelas vítimas bater na traseira de seu veículo. Como havia acabado de parar, não teve…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/07/casal-fica-ferido-apos-batida-traseira-entre-caminhoes-na-br-135.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T15:24:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jv6EtkVdVWusvRXRu5o5F-R2Ysg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/U/6IU9LERPq0eFjzCh1v9A/whatsapp-image-2026-08-07-at-12.00.30-1-.jpeg"
+        },
+        {
+          "clusterId": "afbbed0064ddda2d",
+          "slug": "7a3a94ae2520f4b4",
+          "titulo": "Motociclista morre após ser atingida por picape em rodovia de Artur Nogueira",
+          "resumo": "Motociclista morre após ser atingida por picape em rodovia de Artur Nogueira Uma motociclista de 36 anos morreu após ser atingida por uma picape na tarde desta quinta-feira (6), no km 42 da Rodovia Prefeito Aziz Lian (SP-107), em Artur Nogueira (SP). De acordo com a Secretaria de Segurança Pública (SSP), o utilitário bateu na lateral da moto por volta das 18h, derrubando a vítima na pista. A moto e a frente do veículo ficaram destruídas após o acidente. A mulher chegou a ser atendida no local e encaminhada ao pronto-socorro da cidade, mas não resistiu aos ferimentos. ✅ Participe do canal do…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/motociclista-morre-apos-ser-atingida-por-picape-em-rodovia-de-artur-nogueira.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T15:23:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KBtYT5pEI5BHkSPcVmQFgDD2NRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/V/xmSC8vTPACKsAhKHgqlg/design-sem-nome-1-.png"
+        },
+        {
+          "clusterId": "eb30704c98ef0e01",
+          "slug": "607c0933f4595c56",
+          "titulo": "Três crianças estão entre os feridos de acidente que matou motorista de aplicativo em Manaus",
+          "resumo": "Três crianças estão entre as vítimas feridas de um acidente entre um carro de aplicativo e uma van da empresa Alicetur na noite de quinta-feira (6), na Avenida do Turismo, bairro Tarumã, Zona Oeste de Manaus. O motorista do carro, David Marques Thaumaturgo, de 42 anos, morreu no local da colisão. De acordo com a Polícia Militar do Amazonas (PMAM), David conduzia um carro que transportava dois adultos e três crianças quando perdeu o controle da direção, atravessou o canteiro central e bateu de frente com uma van da empresa Alicetur, que seguia no sentido contrário. Com o impacto, o carro ficou…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/07/tres-criancas-estao-entre-os-feridos-de-acidente-que-matou-motorista-de-aplicativo-em-manaus.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T15:12:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bOdHydJILvcCIf-o7RE5B_EPsFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/0/aWyTotTtCZxmGwAunEDg/motorista-de-aplicativo-morre-apos-carro-pegar-fogo-em-acidente-com-van-na-avenida-do-turismo-em-manaus-foto-reproducao-redes-sociais.jpg"
+        },
+        {
+          "clusterId": "377b09d5d6ace386",
+          "slug": "fdb0d8deb38d163a",
+          "titulo": "Rede Municipal de Ensino de Maricá e Saquarema cancelam aulas nesta sexta-feira",
+          "resumo": "Prefeitura de Saquarema As prefeituras de Maricá e Saquarema, nas Regiões Metropolitanas e Lagos do Rio, suspenderam as aulas nos turnos da tarde e da noite na rede municipal de ensino, nesta sexta-feira (7). O motivo é a previsão de fortes ventos. Alertas foram emitidos pela Defesa Civil de Maricá sobre a possibilidade de rajadas acima dos 60km/h para esta sexta-feira. A previsão de ventos fortes se estende até o domingo (9). A Secretaria de Estado de Defesa Civil e o Corpo e Bombeiros ativaram, no Rio de Janeiro, um gabinete de crise para acompanhar as condições climáticas e os possíveis…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/07/rede-municipal-de-ensino-de-marica-e-saquarema-cancelam-aulas-nesta-sexta-feira.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T15:04:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MUFDXom4t4zuzXy3tkBQWOlupsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/N/oEhtELQ0OlcDOMsfUA8w/prefeitura-de-saquarema.jpg"
+        },
+        {
+          "clusterId": "e1e1082086d33f4d",
+          "slug": "22cfe5059482da1d",
+          "titulo": "Ciclone-bomba: RJ recomenda volta para casa antecipada por segurança",
+          "resumo": "Decisão foi tomada após a confirmação do registro de ventos de 74 km/h na Costa Verde, no fim desta manhã, corroborando a previsão metereológica de ventos fortes que podem chegar a 90km/h",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/ciclone-bomba-rj-recomenda-volta-para-casa-antecipada-por-seguranca/"
+            }
+          ],
+          "updatedAt": "2026-08-07T15:03:26.000Z"
+        },
+        {
+          "clusterId": "d528f73ba33dac05",
+          "slug": "384e56049ebc096b",
+          "titulo": "VÍDEO: motociclista atropela bebê que atravessava faixa de pedestres com a mãe em avenida de Sorocaba",
+          "resumo": "Motociclista atropela bebê que atravessava faixa de pedestres com a mãe em Sorocaba Um bebê de 1 ano foi atropelado por uma moto enquanto atravessava a faixa de pedestres com a mãe em um triciclo de passeio, na Avenida Itavuvu, em Sorocaba (SP), na noite desta quinta-feira (6). Uma câmera de segurança registrou o acidente. Assista acima. O acidente aconteceu por volta das 19h. Segundo a mãe da vítima, que preferiu não se identificar, alguns carros pararam para permitir a travessia. No entanto, o motociclista avançou em alta velocidade. Com o impacto, a criança foi arremessada do triciclo e…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/07/video-motociclista-atropela-bebe-que-atravessava-faixa-de-pedestres-com-a-mae-na-avenida-itavuvu-em-sorocaba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T15:00:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/NXBsPYs60w0aPsy5vk57jrbkAKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/G/R7mfCQRyq1LBJZ0xkx2A/atropela-1-.jpg"
+        },
+        {
+          "clusterId": "3b77441d07e92c37",
+          "slug": "45d453fb8af4512c",
+          "titulo": "Motociclista morre ao bater na traseira de carro na região da UFMS, em Campo Grande",
+          "resumo": "Motociclista morre na rua Montese, em Campo Grande Um motociclista, de 37 anos, ainda não identificado, morreu na manhã desta sexta-feira (7), após colidir na traseira de um carro. O acidente aconteceu na Rua Montese, na Vila Olinda, próximo a um bar. A região é próxima à Universidade Federal de Mato Grosso do Sul (assista na reportagem acima). A equipe de reportagem da TV Morena, afiliada da Rede Globo, esteve no local e acompanhou o atendimento à vítima. Conforme apurado, o motociclista e o motorista do carro seguiam no mesmo sentido quando o acidente aconteceu, por volta de 10h30. ✅ Clique…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/07/motociclista-morre-em-acidente-proximo-a-bar-na-regiao-da-ufms.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T14:59:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ENHl_EDgMywxNef0bgiqfhlsoqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/v/QzjaV3RcGHVNOfbz2AhQ/acidente-escobar.jpg"
+        },
+        {
+          "clusterId": "830b7ab6e6e75b8c",
+          "slug": "f180a6d3970ceb8e",
+          "titulo": "Vídeo: parte do muro de presídio desaba após fortes ventos no RS",
+          "resumo": "Caso ocorreu no Presídio Regional de Pelotas durante passagem de ciclone-bomba que atinge principalmente a Região Sul; ninguém ficou ferido",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/video-parte-do-muro-de-presidio-desaba-apos-fortes-ventos-no-rs/"
+            }
+          ],
+          "updatedAt": "2026-08-07T13:53:00.000Z"
         },
         {
           "clusterId": "392dcae9f5582a7d",
@@ -280,39 +533,6 @@
           ],
           "updatedAt": "2026-08-07T12:39:56.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/g_n5Xh8_0R7YfxoVEY2XOSyMoIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Q/BhRl7BTnO0xD2OBisnFw/000-hkg7600846-1-2-1-.jpg"
-        },
-        {
-          "clusterId": "75f0ce47d345c7c4",
-          "slug": "1083b5fb5a72aabf",
-          "titulo": "'Corredor de tornados': por que o RS é a 2ª região do mundo mais favorável ao fenômeno",
-          "resumo": "Tornado atinge RS pela segunda semana consecutiva O registro de um tornado no interior de Pedro Osório, no Sul do Rio Grande do Sul, na quinta-feira (6), marcou a segunda semana consecutiva com a ocorrência do fenômeno no estado. O evento extremo, gerado durante a passagem de uma frente fria associada a um ciclone extratropical, reacendeu o debate sobre a vulnerabilidade do território gaúcho a tempestades severas. Antes de Pedro Osório, municípios do Noroeste gaúcho já haviam sido atingidos por um tornado em 28 de julho. Desta vez, a instabilidade que acompanhou o fenômeno provocou rajadas de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/07/corredor-de-tornados-por-que-o-rs-e-a-2a-regiao-do-mundo-mais-favoravel-ao-fenomeno.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-07T12:37:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Z6kr4mvBGLRaTfJFZcbtOiHyuU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/k/Ijb8dpS2C0CCaUze1yVQ/g1-41-.jpg"
-        },
-        {
-          "clusterId": "2554bfc9a9aa5118",
-          "slug": "95ba0bb795884b34",
-          "titulo": "Ciclone-bomba: RS registra ventos acima de 134 km/h; veja maiores rajadas",
-          "resumo": "General Câmara teve vento de 134,3 km/h, seguido de Porto Alegre com 120,4 km/h; houve destelhamentos, queda de granizo e formação de tornado em algumas cidades",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/ciclone-bomba-rs-registra-ventos-acima-de-134-km-h-veja-maiores-rajadas/"
-            }
-          ],
-          "updatedAt": "2026-08-07T11:24:53.000Z"
         },
         {
           "clusterId": "e5adb7996ea01fbd",
@@ -334,109 +554,176 @@
       ]
     },
     {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "c78633097436a304",
+          "slug": "e3f1253a18469131",
+          "titulo": "Ciclone-bomba deixa um morto e cinco feridos no RS",
+          "resumo": "Um ciclone-bomba atingiu o Rio Grande do Sul, resultando em uma morte e cinco feridos. As ocorrências foram registradas em 118 municípios, entre eles a cidade de Montenegro, onde ocorreu o óbito. A Defesa Civil confirmou os números e informou que, com o afastamento do ciclone e a diminuição da frente fria, não se esperam maiores transtornos na região.",
+          "porQueImporta": "A ocorrência evidencia o risco de eventos climáticos extremos e seus impactos humanos e materiais na região",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/ciclone-bomba-rs-tem-um-morto-cinco-feridos-e-118-cidades-com-danos/"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/defesa-civil-do-rs-confirma-uma-morte-e-5-feridos-apos-ciclone-bomba/"
+            }
+          ],
+          "updatedAt": "2026-08-07T16:00:15.000Z"
+        },
+        {
+          "clusterId": "5cb30f97306aba80",
+          "slug": "1e3d930cfd7a547a",
+          "titulo": "Ciclone explosivo se aproxima do Sudeste com risco de fortes chuvas e ventos",
+          "resumo": "Um ciclone de intensidade explosiva está se formando e avança em direção ao Sudeste, trazendo a possibilidade de chuvas intensas e ventos fortes. Meteorologistas apontam que a frente fria associada pode intensificar os efeitos na região de São Paulo. Há também discussões sobre uma possível relação do fenômeno com as condições do El Niño. Autoridades recomendam atenção redobrada e adoção de medidas de prevenção.",
+          "porQueImporta": "O evento pode gerar impactos significativos em infraestrutura e segurança da população da região Sudeste",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/meteorologista-explica-riscos-da-chegada-de-ciclone-explosivo-ao-sudeste-e-possivel-ligacao-com-el-nino/"
+            }
+          ],
+          "updatedAt": "2026-08-07T17:22:51.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/09/GettyImages-523709228.jpg?quality=70&strip=info"
+        },
+        {
+          "clusterId": "1abd454a9683d228",
+          "slug": "29ea85066f0047c2",
+          "titulo": "Parques de Jundiaí são fechados por alerta de chuvas e ventos fortes",
+          "resumo": "Na sexta‑feira (7) a Defesa Civil de Jundiaí (SP) emitiu alerta de chuvas, descargas elétricas e rajadas de vento. Em resposta, a DAE suspendeu o acesso a vários parques municipais como Parque da Cidade, Mundo das Crianças, Parque do Jardim Bonfiglioli, entre outros, como medida preventiva de segurança. A decisão visa proteger visitantes e colaboradores enquanto persistir o risco meteorológico.",
+          "porQueImporta": "O fechamento impede acidentes e protege o público diante de condições climáticas adversas",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/07/parques-de-jundiai-fecham-apos-alerta-de-chuvas-e-ventos-fortes-veja-quais.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T17:13:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-YsQarq9S_DLRPAOUON6INXpvNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/I/6/mirq9yRD29tkklz8XApQ/chuvas-jundiai-2-1280x854.jpg"
+        },
+        {
+          "clusterId": "cd36e928d6cee885",
+          "slug": "815394365ba79be7",
+          "titulo": "Árvore cai sobre carro em Santos e casal escapa por poucos segundos",
+          "resumo": "Na manhã de sexta‑feira, uma árvore foi derrubada por rajadas de vento de até 109 km/h e caiu sobre o carro de um casal na Rua Paraguaçu, no bairro Boqueirão, em Santos. A motorista, de 32 anos, relatou que havia estacionado para treinar em uma academia próxima. O veículo foi atingido, mas os ocupantes conseguiram sair antes que a árvore o atingisse completamente. Não houve relatos de feridos graves.",
+          "porQueImporta": "O incidente evidencia o risco de ventos fortes para a segurança pública em áreas urbanas costeiras.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/07/casal-escapa-por-questao-de-segundos-apos-arvore-cair-sobre-carro-no-litoral-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-07T17:03:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aibObQRucUjjwve9PgKVIp-sYTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/c/eeVxJrTf2xkX4EEj6UYw/edig1-2026-08-07t135919.084.png"
+        },
+        {
+          "clusterId": "5ebc588f70dc01d6",
+          "slug": "e9e89d2c81c1556e",
+          "titulo": "Ciclone-bomba deve atingir o Sul com ventos de até 100 km/h",
+          "resumo": "O ciclone-bomba, formado pelo encontro de massas de ar com temperaturas muito diferentes, pode gerar rajadas superiores a 100 km/h e queda brusca de temperatura. O fenômeno deve alcançar o Sul, com possibilidade de atingir também Santa Catarina, Paraná, áreas do Sudeste e do Centro-Oeste, embora com menor intensidade, segundo o Inmet.",
+          "porQueImporta": "Os ventos intensos podem causar danos estruturais e riscos à população nas regiões afetadas",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cz648vl379do?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-08-07T10:20:12.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1149/live/782a4820-9189-11f1-8e84-2d20095c7a4b.jpg"
+        }
+      ]
+    },
+    {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "62cc028266d76ca8",
-          "slug": "094e71ba4dc27f99",
-          "titulo": "Bebê de 33 dias é lançada para fora de carro em capotamento na MG-170",
-          "resumo": "Na tarde de quinta-feira, um carro conduzido por um homem de 39 anos capotou na rodovia MG-170, em Arcos, Minas Gerais. A bebê de 33 dias foi arremessada para fora do veículo, enquanto a mãe, de 38 anos, ficou gravemente ferida no banco do passageiro. O condutor não sofreu lesões e informou que perdeu o controle ao sair da pista. As autoridades registraram o acidente e atenderam as vítimas.",
-          "porQueImporta": "O caso destaca os riscos de perda de controle de veículos e a vulnerabilidade de crianças em acidentes de trânsito.",
+          "clusterId": "5e963e7617518dad",
+          "slug": "e1822f78ec35f306",
+          "titulo": "Ônibus sai de Taguatinga e segue para Uberlândia colide na GO-010, deixando cinco mortos",
+          "resumo": "Na manhã de sexta‑feira, um ônibus que partiu de Taguatinga em direção a Uberlândia colidiu na rodovia GO-010. O acidente resultou em cinco óbitos, entre eles um bebê. As vítimas foram socorridas no local, mas não resistiram. As causas ainda não foram divulgadas oficialmente.",
+          "porQueImporta": "O acidente evidencia riscos de transporte rodoviário e a necessidade de medidas de segurança nas vias.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/07/bebe-de-33-dias-e-lancada-para-fora-de-carro-durante-capotamento-na-mg-170.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/onibus-envolvido-em-tragedia-saiu-de-taguatinga-e-seguia-para-uberlandia-mg"
             }
           ],
-          "updatedAt": "2026-08-07T13:37:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_Gyb882KaRw-ZYrU5VW6kslHbg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/n/o9fywxSdmAqdZ0E0FgRg/design-sem-nome-76-.png"
+          "updatedAt": "2026-08-07T17:14:37.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/acidente-caminhao-carreta-carro.jpg"
         },
         {
-          "clusterId": "a89338dc3846d833",
-          "slug": "1cdf3b9bd5fc4899",
-          "titulo": "Motociclista de 45 anos morre após ser atingido por carro que fazia ultrapassagem proibida em São Bento do Sapucaí",
-          "resumo": "Na noite de quinta-feira, um motociclista de 45 anos foi atingido por um carro que realizava ultrapassagem em local proibido na rodovia SP-42, km 162, em São Bento do Sapucaí. A vítima, identificada como Nelito de Sousa Neres, trabalhava em um posto de combustíveis próximo ao local e havia acabado de deixá‑lo de motocicleta. O acidente ocorreu por volta das 21h, resultando na morte da vítima.",
-          "porQueImporta": "O caso evidencia os riscos de ultrapassagens proibidas em rodovias e a necessidade de maior fiscalização para prevenir fatalidades no trânsito.",
+          "clusterId": "c4b34f8243551b81",
+          "slug": "a0ce3f2a8a3acdb4",
+          "titulo": "Rodovia GO-010 é totalmente interditada após acidente com cinco mortos",
+          "resumo": "Um acidente na rodovia GO-010 resultou em cinco óbitos. As autoridades fecharam integralmente a via e recomendaram que motoristas evitem o trecho, especialmente no sentido Vianópolis. O bloqueio foi mantido durante a tarde da sexta‑feira, 7 de agosto. Não há informações adicionais sobre causas ou vítimas além do número de mortos.",
+          "porQueImporta": "O fechamento da rodovia afeta o trânsito e a mobilidade na região, além de evidenciar a gravidade do acidente.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/07/motociclista-morre-apos-ser-atingido-por-carro-que-fazia-ultrapassagem-proibida-em-sao-bento-do-sapucai.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/entorno/go-010-rodovia-foi-totalmente-interditada-apos-acidente-com-5-mortos"
             }
           ],
-          "updatedAt": "2026-08-07T13:36:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rix4dS4X73SSrK44d4eTFZ1FPf0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/C/C/jpe5gWST2lUro1bOeH0A/delegacia-sao-bento.png"
+          "updatedAt": "2026-08-07T17:02:38.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/whatsapp-image-2026-08-07-at-12-09-42.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "bd193e126d9f6c91",
+          "slug": "7be9cde3e277bb66",
+          "titulo": "Incêndio atinge clínica de fisioterapia no DF",
+          "resumo": "Um incêndio começou na manhã de sexta-feira em uma clínica de fisioterapia no Distrito Federal. Quatro viaturas do Corpo de Bombeiros do DF foram mobilizadas para combater as chamas. Apesar da fumaça intensa e dos danos materiais, não foram registrados feridos. O fogo foi controlado pelos bombeiros.",
+          "porQueImporta": "Incidentes com risco de lesões e danos patrimoniais demandam resposta rápida das autoridades de emergência",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/incendio-atinge-clinica-de-fisioterapia-no-df-e-mobiliza-bombeirosincendio-atinge-clinica-de-fisioterapia-em-planaltina-nesta-sexta"
+            }
+          ],
+          "updatedAt": "2026-08-07T17:08:40.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/incendio-planaltina-clinica-7-de-agosto.jpeg"
         },
         {
-          "clusterId": "7d44998f3d8d5d2c",
-          "slug": "d329e41497462b87",
-          "titulo": "Motorista morre após perder o controle e colidir com poste na Rodovia Raposo Tavares em Ourinhos",
-          "resumo": "Na madrugada de sexta-feira, um veículo que trafegava no sentido interior‑capital na Rodovia Raposo Tavares, km 380, em Ourinhos, perdeu o controle e colidiu com um poste de iluminação pública. O motorista ficou preso na cabine e faleceu no local. A informação foi confirmada pela Agência de Transporte do Estado de São Paulo (Artesp).",
-          "porQueImporta": "O acidente evidencia riscos de perda de controle em rodovias e a necessidade de atenção ao dirigir à noite.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "70f10fa6bd7b2d2f",
+          "slug": "d775eec4a6b7fdc9",
+          "titulo": "Incêndio em fábrica de BH evidencia irregularidades",
+          "resumo": "Um incêndio atingiu o galpão da empresa Suggar, em Belo Horizonte. Bombeiros constataram que o estabelecimento não possuía Auto de Vistoria dos Bombeiros e que o hidrante próximo não pôde ser utilizado durante o combate às chamas.",
+          "porQueImporta": "O caso destaca falhas de segurança que podem agravar riscos em ambientes industriais.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/07/motorista-morre-apos-perder-o-controle-do-carro-e-bater-contra-poste-na-raposo-tavares-em-ourinhos.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/fabrica-atingida-por-incendio-em-bh-estava-irregular-dizem-bombeiros"
             }
           ],
-          "updatedAt": "2026-08-07T13:32:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ID3RBhXUCzxVTmNcMj5uUN0hGug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/H/qaJPmwRsa8XZ83aMBAOw/novo-projeto-2026-08-07t080032.511.png"
-        },
-        {
-          "clusterId": "2c31d000fbc3cbc4",
-          "slug": "1ddc1e46d58cbe47",
-          "titulo": "Cinco mortos em colisão entre carro e carreta na BR-364 em Rondônia",
-          "resumo": "Na tarde de quinta‑feira, um carro com placa de Acrelândia colidiu de frente com uma carreta bitrem na BR‑364, próximo ao distrito de Vista Alegre do Abunã, em Rondônia. O impacto fez o veículo sair da pista, resultando na morte do motorista e dos quatro passageiros. As vítimas foram identificadas como residentes de Acrelândia. A Polícia Rodoviária Federal conduziu as investigações sobre o acidente.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias interestaduais e a necessidade de medidas de segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/08/07/quem-eram-os-cinco-acreanos-que-morreram-em-acidente-na-br-364.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-07T13:21:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/LE2APh3x48DZE_ZAagI_S7oNPCU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/7Q9FepRdGrA9WIpJl77A/befunky-collage-2026-08-07t075924.317.jpg"
-        },
-        {
-          "clusterId": "15627921f2cfc545",
-          "slug": "d851004291f2d7c2",
-          "titulo": "Carro colide com creche na Tailândia e fere ao menos 15 crianças",
-          "resumo": "Um veículo invadiu uma creche na Tailândia, resultando em ferimentos em pelo menos 15 crianças. As investigações apontam que o motorista apresentava um problema cardíaco, o que pode ter causado perda de consciência antes da colisão. As autoridades locais atenderam as vítimas e iniciaram a apuração das causas do acidente. Não foram divulgados óbitos até o momento.",
-          "porQueImporta": "O incidente destaca riscos de segurança em ambientes de educação infantil e a necessidade de monitoramento da saúde de motoristas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/carro-bate-em-creche-na-tailandia-e-deixa-criancas-feridas/"
-            }
-          ],
-          "updatedAt": "2026-08-07T13:10:45.000Z"
-        },
-        {
-          "clusterId": "31247b3099f56edd",
-          "slug": "58f7c93b30df89dd",
-          "titulo": "Motociclista de 39 anos fica em estado grave após ser atropelado por carreta em Uberlândia",
-          "resumo": "Na quinta-feira, um motociclista de 39 anos foi socorrido em estado grave após sua motoneta colidir com a traseira de uma carreta de sete eixos que transportava combustível próximo à BR-050, no bairro Umuarama, em Uberlândia. O impacto fez o motociclista cair e ser atropelado pelo próprio veículo. A Polícia Rodoviária Federal registrou o acidente.",
-          "porQueImporta": "O acidente envolve risco de incêndio devido ao transporte de combustível e destaca a necessidade de segurança nas rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/07/motociclista-fica-em-estado-grave-apos-ser-atropelado-por-carreta-em-uberlandia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-07T12:50:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/FidWLmc_Zl87qmAMX74qZzvSAoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/y/qwCmRBTSmiiuDaBrXCTA/design-sem-nome-30-.png"
+          "updatedAt": "2026-08-07T16:31:05.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/imagem-2026-08-07-130543193-3x2-1.jpg"
         }
       ]
     },
@@ -444,23 +731,6 @@
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
-        {
-          "clusterId": "6b71e97ac2c6309c",
-          "slug": "42ca2cbb6ec582fc",
-          "titulo": "Explosão inicia incêndio que mata funcionária da Aperam em Timóteo",
-          "resumo": "Uma explosão ocorreu na área Gusa Verde da planta da Aperam, em Timóteo, desencadeando um incêndio que se alastrou em poucos segundos. A funcionária Heydiane Ribeiro Bueno, de 28 anos, ficou gravemente ferida e morreu na quinta‑feira devido às queimaduras. O incidente foi registrado em vídeo pela reportagem, que mostrou a bola de fogo entre as estruturas metálicas.",
-          "porQueImporta": "O acidente evidencia riscos de segurança industrial e tem impacto nas famílias das vítimas e na comunidade local",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/07/video-registra-explosao-que-deu-inicio-a-incendio-que-matou-funcionaria-da-aperam-em-timoteo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-07T13:11:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/IPWj5LwlBWw9f0zOIgBPQY58vTo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/C/trc6MTRVeWeTBOmEXN1A/ocorrencias-horizontal-40-.png"
-        },
         {
           "clusterId": "0eb6d21a1a1972a7",
           "slug": "fe22d5c0fe277b7e",
@@ -494,115 +764,6 @@
           ],
           "updatedAt": "2026-08-06T07:05:30.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/uNAkKeTkMhmc98BnstjDtR37GaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/T/AV9UrHTDSI9IabK9q5iA/2022-11-02t132007z-835189634-rc2dcx9ct4st-rtrmadp-3-ukraine-crisis-grains-podolyak.jpg"
-        },
-        {
-          "clusterId": "7df9be5900c40e83",
-          "slug": "9f0fe9fb745259b1",
-          "titulo": "Diretor de fábrica russa de drones fica gravemente ferido após explosão de carro",
-          "resumo": "O diretor e cofundador da fabricante de drones Uraldronzavod, Vladimir Tkachuk, de 35 anos, sofreu ferimentos graves quando o Mercedes que conduzia explodiu em Bolshoi Istok. A informação foi divulgada pela imprensa estatal na quarta‑feira (5). O incidente ocorre poucos dias após outro ataque a um dirigente da indústria de defesa da Rússia.",
-          "porQueImporta": "O caso evidencia riscos de segurança para executivos da indústria de defesa russa",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/05/diretor-de-fabrica-de-drones-russo-ferido-em-explosao-de-carro.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-05T15:32:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/heYr3JcTl4EOqkDJcdzFMPh4Xr0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/k/6AL3ojS62R2SMURRGrwA/download-2-.webp"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "088a59dbb140fd80",
-          "slug": "e9e89d2c81c1556e",
-          "titulo": "Ciclone-bomba deve atingir o Sul com ventos de até 100 km/h",
-          "resumo": "O ciclone-bomba, formado pelo encontro de massas de ar com temperaturas muito diferentes, pode gerar rajadas superiores a 100 km/h e queda brusca de temperatura. O fenômeno deve alcançar o Sul, com possibilidade de atingir também Santa Catarina, Paraná, áreas do Sudeste e do Centro-Oeste, embora com menor intensidade, segundo o Inmet.",
-          "porQueImporta": "Os ventos intensos podem causar danos estruturais e riscos à população nas regiões afetadas",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cz648vl379do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/ciclone-bomba-vento-balsa-porto-santos"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/agenda-verde/ciclone-bomba-as-cidades-que-estao-em-maior-estado-de-alerta/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/entenda-dimensao-de-ciclone-bomba-que-ameaca-sete-estados-brasileiros/"
-            }
-          ],
-          "updatedAt": "2026-08-07T13:45:23.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1149/live/782a4820-9189-11f1-8e84-2d20095c7a4b.jpg"
-        },
-        {
-          "clusterId": "59b3f929c09feade",
-          "slug": "ed15fc5c64813ab9",
-          "titulo": "Ciclone‑bomba pode gerar ventos de até 110 km/h no Sudeste e provoca suspensão de aulas",
-          "resumo": "A Defesa Civil emitiu alerta de vento forte para o Rio nas próximas horas, indicando risco de rajadas de até 110 km/h. O fenômeno, descrito como ciclone‑bomba, pode se formar nesta sexta-feira, elevando o risco de ventanias no Sudeste. Como medida preventiva, as escolas da rede pública tiveram as aulas suspensas.",
-          "porQueImporta": "Ventões intensos podem causar danos estruturais e riscos à população, justificando a interrupção das atividades escolares.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/08/07/resumao-diario-2095-ciclone-bomba-pode-levar-ventos-fortes-ao-sudeste-caiado-e-entrevistado-pelo-g1-e-pela-globonews-20-anos-da-lei-maria-da-penha-virgula-virou-coisa-de-ia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-07T12:53:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
-        },
-        {
-          "clusterId": "4904b1a125621937",
-          "slug": "0999f6ce85931edd",
-          "titulo": "Vento arranca telhado de prédio em São Leopoldo durante temporal",
-          "resumo": "Na noite de quinta-feira, uma câmera de segurança registrou a chegada de um temporal em São Leopoldo, por volta das 20h30, quando ventos de até 120,4 km/h arrancaram o telhado de um prédio de um escritório de advocacia. O fenômeno fez parte de uma série de estragos registrados em diversas regiões do Rio Grande do Sul. A previsão indica possibilidade de novas tempestades na sexta-feira devido a um ciclone extratropical.",
-          "porQueImporta": "O incidente evidencia o risco de danos estruturais e riscos à segurança pública causados por ventos fortes em áreas urbanas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/07/video-vento-arranca-telhado-de-predio-durante-temporal-no-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-07T12:40:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4C3pE8sDRZEZARK_HIdwNo8KZjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/W/KUWlmmRbGbiyKZcmHXjw/g1-2-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "nevasca",
-      "label": "Nevasca",
-      "stories": [
-        {
-          "clusterId": "493debf3a7cd9af9",
-          "slug": "f89c62f459bfe3f4",
-          "titulo": "Caminhoneiro do Paraná preso na Argentina relata falta de comida durante nevasca",
-          "resumo": "Motorista de caminhão de Medianeira, Paraná, está retido há mais de sete dias na fronteira entre Argentina e Chile devido a uma nevasca. Ele afirma que a alimentação está se esgotando e que não há previsão para a liberação da rodovia. Centenas de outros caminhoneiros também permanecem parados no mesmo trecho. A situação dificulta a continuidade das viagens comerciais na região.",
-          "porQueImporta": "A retenção de veículos impede o fluxo de mercadorias e pode gerar crises humanitárias entre os motoristas",
-          "categoria": "Nevasca",
-          "categoriaSlug": "nevasca",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/07/caminhoneiro-do-parana-preso-em-nevasca-na-argentina-relata-falta-de-comida.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-07T12:58:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Dcc_Hyzh-js52PtzKmxRLkyKyc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/r/u4tLOlTraAEd74jjuKxg/g1-pr-2026-08-06t130511.532.jpg"
         }
       ]
     },
@@ -649,29 +810,6 @@
           ],
           "updatedAt": "2026-08-05T23:06:26.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/1JVfy-YU7bBphrxMueG381JLusU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/m/XOPE6VTKquTFzDPmH1YA/fotojet-2026-08-05t201446.269.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "75b3c79d22321d59",
-          "slug": "dcf3f5cff58777fb",
-          "titulo": "Incêndio perto de Atenas mobiliza resgate de centenas de animais",
-          "resumo": "Incêndios na região central da Grécia, próximos a Atenas, provocaram evacuação de áreas montanhosas e costeiras. Voluntários resgataram centenas de animais domésticos e silvestres durante as operações de contenção. As últimas faixas de contenção foram retiradas após o avanço das chamas, deixando alguns animais ainda sem volta para casa.",
-          "porQueImporta": "O resgate demonstra a vulnerabilidade da fauna diante de incêndios e a importância da ação voluntária em desastres naturais",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/05/incendio-perto-de-atenas-mobiliza-resgate-de-centenas-de-animais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-05T17:12:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/X_Ub-rN9pttoSd2VJpaG-8r4lgY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/f/qwauPNTYiBw2IYp9KFUw/ap26217476141910.jpg"
         }
       ]
     }
