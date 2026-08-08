@@ -1,15 +1,14 @@
 {
-  "ranAt": "2026-08-08T17:03:43.988Z",
+  "ranAt": "2026-08-08T21:00:45.558Z",
   "editionDate": "2026-08-08",
-  "hourUtc": 17,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 21,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e queda de helicóptero dominam panorama, com alerta marítimo e incêndio residencial\" (3 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: reprovado — data inconsistente na análise"
+    "groq: ok"
   ]
 }
