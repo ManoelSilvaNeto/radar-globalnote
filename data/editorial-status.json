@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-08-08T21:00:45.558Z",
-  "editionDate": "2026-08-08",
-  "hourUtc": 21,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito e queda de helicóptero dominam panorama, com alerta marítimo e incêndio residencial\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-08-09T05:29:54.655Z",
+  "editionDate": "2026-08-09",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
