@@ -1,211 +1,365 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-09T09:19:05.110Z",
+  "generatedAt": "2026-08-09T13:32:00.830Z",
   "home": [
     {
-      "clusterId": "441d437044be1af2",
-      "slug": "d7cd1207600ff56c",
-      "titulo": "Tufão Dolphin atinge Okinawa e causa interrupção de energia",
-      "resumo": "O tufão Dolphin atingiu a província de Okinawa, no sul do Japão, ferindo seis pessoas e deixando mais de 50 mil prédios sem energia. Em Kagoshima, quase 39 mil edifícios ficaram sem energia, enquanto mais de 12 mil foram afetados. A China fechou portos e suspendeu balsas antes da chegada prevista da tempestade à sua costa leste.",
-      "porQueImporta": "O evento demonstra a capacidade de impacto de tempestades tropicais na infraestrutura e na segurança pública da região.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/08/tufao-dolphin-atinge-sul-do-japao.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/tufao-dolphin-chega-a-china-com-ventos-de-ate-162-km-h/"
-        }
-      ],
-      "updatedAt": "2026-08-09T06:07:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/hdYeAkjOq1_3Op11Eiosocol0mY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/O/BlOuLpSs6ROcwM3huxow/2026-08-07t005025z-661818364-rc2ctmad44wi-rtrmadp-3-asia-weather-typhoon-dolphin.jpg"
-    },
-    {
-      "clusterId": "51c705ae78530ff9",
-      "slug": "fd761ab914655e3c",
-      "titulo": "Governo da Colômbia lamenta morte de 3 turistas em queda de helicóptero no Rio e presta assistência às famílias",
-      "resumo": "Bombeiros confirmam 4 mortes em queda de helicóptero no RJ O governo da Colômbia publicou uma nota lamentando o acidente aéreo que matou quatro pessoas neste sábado (8) no Rio de Janeiro. Entre as vítimas estão três colombianos. No comunicado, o Ministério das Relações Exteriores afirmou que está em contato com o governo brasileiro. \"O Consulado da Colômbia no Rio de Janeiro está em coordenação com as autoridades locais e realizando as diligências pertinentes. Além disso, está contatando os familiares das compatriotas para prestar a orientação correspondente.\" \"A Chancelaria expressa suas…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/08/quatro-pessoas-morrem-em-queda-de-helicoptero-no-rio.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/governo-da-colombia-se-manifesta-sobre-mortes-em-acidente-aereo-no-rio/"
-        }
-      ],
-      "updatedAt": "2026-08-09T00:52:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/wIiGr2VTr-PlG50sFp3teCsl5Wo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/SaaJHFRHqOCfhatd8oow/captura-de-tela-2026-08-08-205732.png"
-    },
-    {
-      "clusterId": "41234ca61dd53b8e",
-      "slug": "afc283f84b56b60e",
-      "titulo": "Famílias de vítimas do voo 2283 da Voepass ainda lutam por justiça dois anos depois",
-      "resumo": "Dois anos após a queda do voo 2283 da Voepass em Vinhedo (SP), as famílias das 62 vítimas continuam buscando respostas e justiça. A mãe de uma das vítimas, a menor de 3 anos, descreve a dor como ainda intensa, como se a tragédia fosse recente. A associação dos familiares mantém a pressão por esclarecimentos sobre o acidente.",
-      "porQueImporta": "A persistência das famílias destaca a necessidade de transparência e responsabilidade nas investigações de acidentes aéreos.",
+      "clusterId": "485077773de2a616",
+      "slug": "9162a7318b62df60",
+      "titulo": "Queda de helicóptero mata três turistas colombianas no Rio",
+      "resumo": "Um helicóptero que realizava voo panorâmico na região da Vista Chinesa, no Alto da Boa Vista, caiu na manhã de sábado, matando as turistas colombianas Rocio Cubigos, Wendy Manrique e Sofia Murillo, além do piloto Alessandro Rocha. Os familiares, que aguardavam o segundo voo, souberam do acidente pela internet e foram ao Instituto Médico-Legal para identificação dos corpos. Até o domingo, a família ainda não havia sido contatada pela polícia.",
+      "porQueImporta": "O acidente evidencia riscos de voos turísticos e gera comoção nas redes sociais devido à popularidade das vítimas",
       "categoria": "Acidente aéreo",
       "categoriaSlug": "acidente-aereo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/09/acidente-da-voepass-dois-anos-depois-familias-de-vitimas-ainda-lutam-por-justica.ghtml"
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/09/adolescente-morta-em-queda-de-helicoptero-no-rio.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/sempre-as-amarei-diz-familiar-de-vitimas-de-queda-de-helicoptero-no-rio/"
         }
       ],
-      "updatedAt": "2026-08-09T09:00:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/U6OEAQg62eIpnroGOIb24eNTw_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/o/Sw9Lo8Qpmx5MtDPgfDzg/000-36dh6mb.jpg"
+      "updatedAt": "2026-08-09T13:28:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/dgu76ENJOn42uJ-dF0dn3G4K9-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/V/PHaFbyTZeFvlT86vkPlQ/blank-2-grids-collage-23-.png"
     },
     {
-      "clusterId": "d31311206f353f7f",
-      "slug": "ffe0d525a06ec349",
-      "titulo": "IA do Google prevê ciclones com um dia a mais de antecedência",
-      "resumo": "Um modelo de inteligência artificial desenvolvido pelo Google conseguiu antecipar a formação de ciclones com até 24 horas de antecedência. Cada hora adicional de previsão permite mais tempo para que autoridades e comunidades se preparem, reduzindo riscos a populações e infraestrutura. A pesquisa destaca a importância de tecnologias avançadas na melhoria das respostas a eventos climáticos extremos.",
-      "porQueImporta": "Antecipar ciclones melhora a capacidade de preparação e mitigação de danos",
+      "clusterId": "c9f5de8f833f4478",
+      "slug": "c745807e70926aba",
+      "titulo": "Idoso e motociclista morrem em colisão na zona rural de Monsenhor Hipólito, Piauí",
+      "resumo": "Dois homens, José Jonas de Oliveira, de 73 anos, e Marcos da Costa Sousa, de 32 anos, faleceram após um acidente de trânsito na zona rural de Monsenhor Hipólito, no Sul do Piauí. O motociclista colidiu com o idoso, que foi arremessado a alguns quilômetros de distância e morreu no local, enquanto o condutor da motocicleta também não sobreviveu.",
+      "porQueImporta": "O acidente evidencia os riscos de circulação em áreas rurais e a necessidade de atenção nas vias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/09/idoso-morre-apos-ser-atingido-e-arremessado-por-motocicleta-no-piaui-condutor-tambem-morreu.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-09T13:04:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/naS9b5SKDD7wZjvCrrCpd220WNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/4/655PXdSSmbW8q1mQiWQw/edicao-imagens-g1-41-.png"
+    },
+    {
+      "clusterId": "af8dbeaf07bcbfd8",
+      "slug": "a4b012d7f1fb3090",
+      "titulo": "Caminhonete capota na TO-222 e deixa duas mortes e uma gestante ferida",
+      "resumo": "Dois jovens morreram e uma mulher grávida ficou ferida quando a caminhonete RAM Laramie capotou na rodovia TO-222, próximo a Araguaína, por volta das 18h de sábado. O veículo seguia de Babaçulândia para Araguaína e saiu da pista, realizando várias capotações, segundo a Polícia Militar. As vítimas fatais foram identificadas como Thor Mariano da Silva, 21, e Paulo Clímaco Netto, 20. A gestante recebeu atendimento médico e permanece em condição de ferida.",
+      "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias estaduais e a necessidade de atenção ao volante",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/09/dois-homens-morrem-e-gravida-fica-ferida-apos-caminhonete-capotar.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-09T13:02:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UGQJxtvHQtvBI_f-uywEyLeMs18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/t/GEnX2CQiuaX0IRSMtFYw/85214.jpg"
+    },
+    {
+      "clusterId": "65c8638a23a3054d",
+      "slug": "2eb5bbe055c6e22e",
+      "titulo": "Funcionária da Aperam morre após incêndio em Timóteo",
+      "resumo": "A funcionária Heydiane Ribeiro Bueno, de 28 anos, ficou ferida em um incêndio na unidade da Aperam em Timóteo e faleceu no Hospital de Coronel Fabriciano. O incidente foi um dos assuntos mais buscados na semana, segundo o portal g1 Vales.",
+      "porQueImporta": "A morte evidencia riscos de segurança em ambientes industriais e gera preocupação nas comunidades locais.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/09/morte-de-funcionaria-da-aperam-acidente-de-onibus-e-pid-veja-as-noticias-mais-lidas-da-semana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-09T12:48:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/IPWj5LwlBWw9f0zOIgBPQY58vTo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/C/trc6MTRVeWeTBOmEXN1A/ocorrencias-horizontal-40-.png"
+    },
+    {
+      "clusterId": "9079abe25b1c6208",
+      "slug": "b8d88b73841c52d8",
+      "titulo": "Homem morre após cair em canal em Santos",
+      "resumo": "Um homem não identificado caiu dentro do Canal 4, localizado na Avenida Siqueira Campos, no bairro Embaré, em Santos, neste sábado. Testemunhas tentaram retirá‑lo e o Corpo de Bombeiros o socorreu, encaminhando‑o ao pronto‑socorro, onde não resistiu. O incidente foi registrado pelas autoridades locais.",
+      "porQueImporta": "A ocorrência evidencia riscos de acidentes em áreas urbanas próximas a corpos d'água.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/09/homem-morre-apos-cair-em-canal-do-litoral-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-09T12:23:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/cEOGL8MXZpa6xXtar1yrTHdI6JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/a/YBAC3ATRC3p5CitwMykA/canal-santos.jpg"
+    },
+    {
+      "clusterId": "dfade6de0e1cfcda",
+      "slug": "069932f9bc9a4d7f",
+      "titulo": "Batida entre carro e moto deixa duas pessoas feridas na PA-457 em Santarém",
+      "resumo": "Na noite de sábado (8), uma colisão entre um carro e uma motocicleta ocorreu na rodovia PA-457, próximo à entrada da comunidade Cucurunã, em Santarém, Pará. Duas pessoas ficaram feridas e foram atendidas pelos serviços de emergência. O motorista do carro teria abandonado o local após o acidente, conforme informações do Detran-PA.",
+      "porQueImporta": "Acidentes de trânsito podem gerar ferimentos graves e demandam resposta rápida das autoridades de saúde e segurança.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/08/09/batida-entre-carro-e-moto-deixa-duas-pessoas-feridas-na-pa-457-em-santarem-no-pa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-09T12:23:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/2C5mbbH4t2mbr3lPxcDkZQRCat8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/lj9DbVSyuIO1ZLIjMKFQ/whatsapp-image-2026-08-09-at-09.20.12.jpeg"
+    },
+    {
+      "clusterId": "d4ccf69685401f1d",
+      "slug": "e53383d2b49ecf67",
+      "titulo": "Incêndio destrói loja de roupas e bar em João Pessoa",
+      "resumo": "Na manhã de domingo, um incêndio de grandes proporções consumiu uma loja de roupas e um bar na Avenida Jatobá, bairro de Mangabeira, zona sul de João Pessoa. Os dois estabelecimentos, pertencentes à mesma proprietária, foram completamente destruídos. A proprietária chegou ao local por volta das 5h e encontrou as estruturas já reduzidas a cinzas. Não foram informados feridos ou vítimas.",
+      "porQueImporta": "O evento evidencia riscos de incêndio em estabelecimentos comerciais e a necessidade de medidas preventivas.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/09/incendio-destroi-loja-de-roupas-e-bar-em-joao-pessoa-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-09T12:21:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Y6m-QlnzavvMwIiVz6vswPRRQdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/wJkGjTSrABcg0UY9s2FA/incendiolojaebarmangabeira.jpeg"
+    },
+    {
+      "clusterId": "db208f3cbcf5763a",
+      "slug": "a30568a5440f0095",
+      "titulo": "Ventos fortes causam danos e registram tornado no Paraná",
+      "resumo": "Ventos fortes atingiram diversas regiões do Paraná, provocando danos em imóveis, vegetação e estruturas. Em Piraí do Sul, foi registrado um tornado durante a tempestade de sábado. Em Candói, pelo menos cinco casas foram afetadas e uma família foi realocada. Até o momento, não há informações de feridos.",
+      "porQueImporta": "O evento evidencia risco climático e necessidade de resposta da Defesa Civil",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/09/ventos-fortes-danos-tornado-parana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-09T12:08:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/U34mT2flX5nzuexW81Kjad4bNec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/v/Goy6kMTBCty7sRdleqdg/fundo-vermelho-2-.png"
+    },
+    {
+      "clusterId": "8b44995df324408e",
+      "slug": "ca8a0fb57343c729",
+      "titulo": "Tornado atinge Piraí do Sul (PR) e causa danos a residências e estruturas",
+      "resumo": "Um tornado foi registrado em Piraí do Sul, no Paraná, provocando destruição em casas, barracões, estruturas e áreas de criação de animais. As autoridades municipais confirmaram os danos e iniciaram as avaliações de impacto. Vídeos do fenômeno foram divulgados pela imprensa local. Não há relatos de vítimas fatais até o momento.",
+      "porQueImporta": "O evento evidencia a vulnerabilidade de áreas urbanas a fenômenos climáticos extremos",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/tecnologia/ia-do-google-preve-ciclones-com-um-dia-a-mais-de-antecedencia/"
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/tornado-atinge-cidade-no-parana-e-causa-destruicao-veja-videos/"
         }
       ],
-      "updatedAt": "2026-08-09T08:00:44.000Z"
+      "updatedAt": "2026-08-09T11:50:31.000Z"
     },
     {
-      "clusterId": "20c6be23b37b176c",
-      "slug": "008ea26ea5069be4",
-      "titulo": "Crise migratória em Ceuta destaca rotas perigosas para a Europa",
-      "resumo": "Milhares de imigrantes chegaram a Ceuta, cidade autônoma da Espanha, reativando o debate sobre a migração na Europa. O episódio ocorreu enquanto as principais rotas monitoradas pela União Europeia apresentam queda nas entradas irregulares, mas as vias continuam responsáveis por milhares de mortes no Mediterrâneo, com cerca de 1.300 vítimas neste ano. Em 30 de julho, 72 mil imigrantes entraram na fronteira de Ceuta, segundo dados do MAPA.",
-      "porQueImporta": "A situação evidencia os riscos humanitários das rotas migratórias e pressiona políticas de acolhimento e segurança",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "bc93cf10fe9f7b17",
+      "slug": "5831e4c92df1c456",
+      "titulo": "Incêndio em apartamento de Belo Horizonte é atribuído a cigarro descartado",
+      "resumo": "Um incêndio começou em um apartamento no bairro Santa Efigênia, em Belo Horizonte, na madrugada de domingo. O proprietário informou que um cigarro jogado no chão provocou as chamas. O Corpo de Bombeiros evacuou o prédio e combateu o fogo, enquanto a Polícia Militar realizou a evacuação. O morador e um vizinho foram atendidos por socorristas.",
+      "porQueImporta": "Destaca o risco de incêndios causados por descarte inadequado de cigarros em áreas residenciais",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/09/travessia-mortal-mapa-mostra-rotas-por-mar-e-terra-em-que-imigrantes-se-arriscam-para-chegar-a-europa.ghtml"
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/09/incendio-cigarro-apartamento-bh-morador-ferido.ghtml"
         }
       ],
-      "updatedAt": "2026-08-09T08:00:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/XnPpvJ0QRvqUbHed3g8_vN1McKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/u/r/fEkk8NTqKu7YBju0LBLw/bote-libia.jpg"
-    },
-    {
-      "clusterId": "9a621e6801cefff4",
-      "slug": "ffe7ea03a91571d6",
-      "titulo": "Cientistas explicam como são definidos os recordes de calor",
-      "resumo": "O artigo descreve os critérios usados pelos cientistas para identificar e validar temperaturas extremas, como a medição de 46,5 °C em Paris durante a onda de calor. Explica que registros são comparados a séries históricas e requerem verificação de instrumentos e condições de medição. Também aborda os impactos de ondas de calor, incluindo mortes e pressão sobre recursos como água e energia. A análise destaca a importância de métodos padronizados para comunicar eventos climáticos incomuns.",
-      "porQueImporta": "Entender a definição de recorde de calor ajuda a avaliar a gravidade de ondas de calor e orientar respostas de saúde pública.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/09/como-os-cientistas-medem-os-recordes-de-calor.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-09T08:00:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/flYKm3R6SHrGCXDxPg52tI4-ba8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/C/YHqrgXQzO7ZILP7VoBnQ/2026-06-25t151834z-985103065-rc231maw2d7o-rtrmadp-3-europe-weather-france-heat.jpg"
-    },
-    {
-      "clusterId": "705453c992609e7d",
-      "slug": "451e35d74999d66f",
-      "titulo": "Mãe de menina de 13 anos induzida ao suicídio alerta sobre risco de grupos virtuais",
-      "resumo": "Uma menina de 13 anos morreu após ser induzida ao suicídio por um grupo de adolescentes na internet. A polícia prendeu cinco adolescentes e um jovem de 18 anos em operação realizada no dia 4 de agosto. A mãe da vítima pediu que a tragédia sirva de alerta para outras famílias. O caso está sob investigação pelas autoridades.",
-      "porQueImporta": "Destaca o perigo de manipulação online que pode levar a suicídios de menores",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/09/minha-filha-salvou-outras-vidas-mae-de-menina-induzida-ao-suicidio-faz-alerta-as-familias.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-09T07:00:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bqHiPnm4DFr_Why-CV9e0lOx7lw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/N/d6niuTTjWQqoSdgm523w/corputadores-foram-apreendidos.jpg"
-    },
-    {
-      "clusterId": "5a3a3493138868c4",
-      "slug": "0a79bc07f3c04948",
-      "titulo": "Cavalo Caramelo pode se tornar pai enquanto permanece na Ulbra",
-      "resumo": "A Universidade Luterana do Brasil informou que o cavalo Caramelo, símbolo da enchente de 2024 no Rio Grande do Sul, está sendo procurada uma égua para reprodução. O animal foi resgatado após ficar isolado por quatro dias no telhado de uma casa em Canoas durante as cheias. A iniciativa busca dar continuidade à sua linhagem enquanto ele permanece sob cuidados da instituição.",
-      "porQueImporta": "O caso mantém viva a memória da enchente que marcou a região em 2024",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/09/cavalo-caramelo-pode-virar-pai-instituicao-procura-egua-para-animal-simbolo-da-enchente-no-rs.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-09T06:00:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IV-s68S3WmHvSGBfvcV0D6WqrWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/J/pAjxKQRKyxnhIj2BfLVw/g1-7-.jpg"
-    },
-    {
-      "clusterId": "be66bbd83785c45a",
-      "slug": "1cc95ded809678a7",
-      "titulo": "Frio intenso pode levar a geada no Rio Grande do Sul entre domingo e terça",
-      "resumo": "Uma massa de ar frio chega ao Rio Grande do Sul, trazendo dias secos e temperaturas baixas. As mínimas podem ficar entre -1°C e 11°C, com máximas entre 13°C e 20°C. Há risco de formação de geada em várias regiões do estado durante o período. O fenômeno se destaca a partir de domingo, dia 9.",
-      "porQueImporta": "O frio intenso pode afetar a agricultura, a saúde da população e a infraestrutura local",
-      "categoria": "Frio",
-      "categoriaSlug": "frio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/09/frio-no-rs-previsao-geada-domingo-terca.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-09T03:00:23.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/gyeLP9a52vfC4TyLO8gzoSFH-Lw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/W/syfjWIROCuZoMDDNZkEA/g1-1-.jpg"
-    },
-    {
-      "clusterId": "5130838d5cc7944e",
-      "slug": "8260976a9c8b7a01",
-      "titulo": "Em 55 dias, dois acidentes com helicópteros deixam 10 mortos no Rio; relembre",
-      "resumo": "Só em 2026, 13 pessoas morreram em acidentes de helicóptero no Rio O Rio de Janeiro voltou a registrar uma tragédia envolvendo helicópteros neste sábado (8). A queda de uma aeronave em uma área de mata na região da Vista Chinesa, no Alto da Boa Vista, matou quatro pessoas — três turistas colombianas da mesma família e o piloto. O acidente ocorreu 55 dias após outra tragédia envolvendo helicópteros na cidade. Em 14 de junho, seis pessoas morreram depois que duas aeronaves se chocaram no ar, na região do Recreio dos Bandeirantes, na Zona Sudoeste do Rio. Somadas, as duas ocorrências deixaram 10…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/09/em-55-dias-dois-acidentes-com-helicopteros-deixam-10-mortos-no-rio-relembre.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-09T03:00:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1-zrMsqsbEtnsPLJ2RX-B9Twzf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Z/g8BAFsTWa6ALdn9QOdMg/14cop1.jpeg"
+      "updatedAt": "2026-08-09T11:42:33.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_YKyc8ZtORV37XQz8C4hK_sHVXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/h/3AjLZBSUaJ2wMB7Ra0IQ/incendio-santa-efigenia-frame-107.jpeg"
     }
   ],
   "categorias": [
     {
-      "slug": "geral",
-      "label": "Geral",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "51c705ae78530ff9",
-          "slug": "fd761ab914655e3c",
-          "titulo": "Governo da Colômbia lamenta morte de 3 turistas em queda de helicóptero no Rio e presta assistência às famílias",
-          "resumo": "Bombeiros confirmam 4 mortes em queda de helicóptero no RJ O governo da Colômbia publicou uma nota lamentando o acidente aéreo que matou quatro pessoas neste sábado (8) no Rio de Janeiro. Entre as vítimas estão três colombianos. No comunicado, o Ministério das Relações Exteriores afirmou que está em contato com o governo brasileiro. \"O Consulado da Colômbia no Rio de Janeiro está em coordenação com as autoridades locais e realizando as diligências pertinentes. Além disso, está contatando os familiares das compatriotas para prestar a orientação correspondente.\" \"A Chancelaria expressa suas…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "c9f5de8f833f4478",
+          "slug": "c745807e70926aba",
+          "titulo": "Idoso e motociclista morrem em colisão na zona rural de Monsenhor Hipólito, Piauí",
+          "resumo": "Dois homens, José Jonas de Oliveira, de 73 anos, e Marcos da Costa Sousa, de 32 anos, faleceram após um acidente de trânsito na zona rural de Monsenhor Hipólito, no Sul do Piauí. O motociclista colidiu com o idoso, que foi arremessado a alguns quilômetros de distância e morreu no local, enquanto o condutor da motocicleta também não sobreviveu.",
+          "porQueImporta": "O acidente evidencia os riscos de circulação em áreas rurais e a necessidade de atenção nas vias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/08/quatro-pessoas-morrem-em-queda-de-helicoptero-no-rio.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/governo-da-colombia-se-manifesta-sobre-mortes-em-acidente-aereo-no-rio/"
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/09/idoso-morre-apos-ser-atingido-e-arremessado-por-motocicleta-no-piaui-condutor-tambem-morreu.ghtml"
             }
           ],
-          "updatedAt": "2026-08-09T00:52:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/wIiGr2VTr-PlG50sFp3teCsl5Wo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/SaaJHFRHqOCfhatd8oow/captura-de-tela-2026-08-08-205732.png"
+          "updatedAt": "2026-08-09T13:04:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/naS9b5SKDD7wZjvCrrCpd220WNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/4/655PXdSSmbW8q1mQiWQw/edicao-imagens-g1-41-.png"
         },
+        {
+          "clusterId": "af8dbeaf07bcbfd8",
+          "slug": "a4b012d7f1fb3090",
+          "titulo": "Caminhonete capota na TO-222 e deixa duas mortes e uma gestante ferida",
+          "resumo": "Dois jovens morreram e uma mulher grávida ficou ferida quando a caminhonete RAM Laramie capotou na rodovia TO-222, próximo a Araguaína, por volta das 18h de sábado. O veículo seguia de Babaçulândia para Araguaína e saiu da pista, realizando várias capotações, segundo a Polícia Militar. As vítimas fatais foram identificadas como Thor Mariano da Silva, 21, e Paulo Clímaco Netto, 20. A gestante recebeu atendimento médico e permanece em condição de ferida.",
+          "porQueImporta": "O acidente evidencia riscos de tráfego em rodovias estaduais e a necessidade de atenção ao volante",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/09/dois-homens-morrem-e-gravida-fica-ferida-apos-caminhonete-capotar.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-09T13:02:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UGQJxtvHQtvBI_f-uywEyLeMs18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/t/GEnX2CQiuaX0IRSMtFYw/85214.jpg"
+        },
+        {
+          "clusterId": "dfade6de0e1cfcda",
+          "slug": "069932f9bc9a4d7f",
+          "titulo": "Batida entre carro e moto deixa duas pessoas feridas na PA-457 em Santarém",
+          "resumo": "Na noite de sábado (8), uma colisão entre um carro e uma motocicleta ocorreu na rodovia PA-457, próximo à entrada da comunidade Cucurunã, em Santarém, Pará. Duas pessoas ficaram feridas e foram atendidas pelos serviços de emergência. O motorista do carro teria abandonado o local após o acidente, conforme informações do Detran-PA.",
+          "porQueImporta": "Acidentes de trânsito podem gerar ferimentos graves e demandam resposta rápida das autoridades de saúde e segurança.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/08/09/batida-entre-carro-e-moto-deixa-duas-pessoas-feridas-na-pa-457-em-santarem-no-pa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-09T12:23:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2C5mbbH4t2mbr3lPxcDkZQRCat8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/lj9DbVSyuIO1ZLIjMKFQ/whatsapp-image-2026-08-09-at-09.20.12.jpeg"
+        },
+        {
+          "clusterId": "966e0b4155eadf09",
+          "slug": "c426689035389f09",
+          "titulo": "Engavetamento entre caminhão e oito carros deixa ferido na Rodovia dos Tamoios em Paraibuna",
+          "resumo": "Um engavetamento envolvendo um caminhão e oito carros ocorreu por volta das 19h06 no km 81 da Rodovia dos Tamoios, sentido litoral, em Paraibuna. Das 24 pessoas a bordo, 19 ficaram ilesas e cinco apresentaram ferimentos leves, com uma pessoa sendo socorrida. O trânsito foi mantido em uma faixa e no acostamento, sem registro de congestionamento significativo.",
+          "porQueImporta": "O acidente evidencia a necessidade de atenção nas rodovias e o impacto imediato no fluxo de tráfego local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/09/engavetamento-entre-caminhao-e-oito-carros-deixa-um-ferido-na-rodovia-dos-tamoios-em-paraibuna.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-09T11:12:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Utk7Co_zPxH9vZP19UEuHjgsHxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/j/Z7j2VXRU6TKMTFFQPVPg/foto-g1.jpg"
+        },
+        {
+          "clusterId": "8342e0049974d43c",
+          "slug": "e0ba1103edd36151",
+          "titulo": "Acidente de trânsito mata cinco em rodovia BR-364 em Rondônia",
+          "resumo": "Um carro de passeio colidiu de frente com uma carreta na BR-364, em Rondônia, na tarde de quinta‑feira (6). O acidente resultou na morte de cinco moradores de Acrelândia, no interior do Acre. As vítimas estavam a bordo do veículo que se envolveu na colisão. As autoridades registraram o acidente como grave.",
+          "porQueImporta": "O sinistro evidencia riscos nas rodovias federais e a necessidade de medidas de segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/08/09/voce-viu-acidente-mata-cinco-na-br-364-gladson-cameli-tem-recurso-negado-no-stj-expoacre-2026-e-mais.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-09T11:00:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kZ_VRP1mZl9IJ5sC3fCcvWfhZFM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/A/sy1nJYQxetCkx5ikNk0w/befunky-collage-2026-08-08t131053.713.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "db208f3cbcf5763a",
+          "slug": "a30568a5440f0095",
+          "titulo": "Ventos fortes causam danos e registram tornado no Paraná",
+          "resumo": "Ventos fortes atingiram diversas regiões do Paraná, provocando danos em imóveis, vegetação e estruturas. Em Piraí do Sul, foi registrado um tornado durante a tempestade de sábado. Em Candói, pelo menos cinco casas foram afetadas e uma família foi realocada. Até o momento, não há informações de feridos.",
+          "porQueImporta": "O evento evidencia risco climático e necessidade de resposta da Defesa Civil",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/09/ventos-fortes-danos-tornado-parana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-09T12:08:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/U34mT2flX5nzuexW81Kjad4bNec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/v/Goy6kMTBCty7sRdleqdg/fundo-vermelho-2-.png"
+        },
+        {
+          "clusterId": "8b44995df324408e",
+          "slug": "ca8a0fb57343c729",
+          "titulo": "Tornado atinge Piraí do Sul (PR) e causa danos a residências e estruturas",
+          "resumo": "Um tornado foi registrado em Piraí do Sul, no Paraná, provocando destruição em casas, barracões, estruturas e áreas de criação de animais. As autoridades municipais confirmaram os danos e iniciaram as avaliações de impacto. Vídeos do fenômeno foram divulgados pela imprensa local. Não há relatos de vítimas fatais até o momento.",
+          "porQueImporta": "O evento evidencia a vulnerabilidade de áreas urbanas a fenômenos climáticos extremos",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/tornado-atinge-cidade-no-parana-e-causa-destruicao-veja-videos/"
+            }
+          ],
+          "updatedAt": "2026-08-09T11:50:31.000Z"
+        },
+        {
+          "clusterId": "dd745e511b51069e",
+          "slug": "84fa122fdced3ec0",
+          "titulo": "Frente fria traz geada no Rio Grande do Sul e risco de temporais no Paraná",
+          "resumo": "Uma frente fria associada a um ciclone‑bomba deve provocar geada com temperaturas próximas a 0 °C no Rio Grande do Sul nesta domingo (9). O mesmo sistema traz alerta de perigo para temporais no Paraná e queda de temperatura em São Paulo. As condições climáticas podem gerar chuvas intensas e risco de ventos fortes nas regiões afetadas.",
+          "porQueImporta": "As mudanças bruscas de temperatura aumentam o risco de danos à agricultura, infraestrutura e segurança da população",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/brasil/apos-ciclone-bomba-frente-fria-baixa-temperaturas-e-traz-temporais-ao-pais/"
+            }
+          ],
+          "updatedAt": "2026-08-09T10:38:29.000Z"
+        },
+        {
+          "clusterId": "d31311206f353f7f",
+          "slug": "ffe0d525a06ec349",
+          "titulo": "IA do Google prevê ciclones com um dia a mais de antecedência",
+          "resumo": "Um modelo de inteligência artificial desenvolvido pelo Google conseguiu antecipar a formação de ciclones com até 24 horas de antecedência. Cada hora adicional de previsão permite mais tempo para que autoridades e comunidades se preparem, reduzindo riscos a populações e infraestrutura. A pesquisa destaca a importância de tecnologias avançadas na melhoria das respostas a eventos climáticos extremos.",
+          "porQueImporta": "Antecipar ciclones melhora a capacidade de preparação e mitigação de danos",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/tecnologia/ia-do-google-preve-ciclones-com-um-dia-a-mais-de-antecedencia/"
+            }
+          ],
+          "updatedAt": "2026-08-09T08:00:44.000Z"
+        },
+        {
+          "clusterId": "093cd929a4f63333",
+          "slug": "d7cd1207600ff56c",
+          "titulo": "Tufão Dolphin atinge Okinawa e causa interrupção de energia",
+          "resumo": "O tufão Dolphin atingiu a província de Okinawa, no sul do Japão, ferindo seis pessoas e deixando mais de 50 mil prédios sem energia. Em Kagoshima, quase 39 mil edifícios ficaram sem energia, enquanto mais de 12 mil foram afetados. A China fechou portos e suspendeu balsas antes da chegada prevista da tempestade à sua costa leste.",
+          "porQueImporta": "O evento demonstra a capacidade de impacto de tempestades tropicais na infraestrutura e na segurança pública da região.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/08/tufao-dolphin-atinge-sul-do-japao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-09T05:17:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hdYeAkjOq1_3Op11Eiosocol0mY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/O/BlOuLpSs6ROcwM3huxow/2026-08-07t005025z-661818364-rc2ctmad44wi-rtrmadp-3-asia-weather-typhoon-dolphin.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
         {
           "clusterId": "20c6be23b37b176c",
           "slug": "008ea26ea5069be4",
@@ -239,57 +393,6 @@
           ],
           "updatedAt": "2026-08-09T08:00:17.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/flYKm3R6SHrGCXDxPg52tI4-ba8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/C/YHqrgXQzO7ZILP7VoBnQ/2026-06-25t151834z-985103065-rc231maw2d7o-rtrmadp-3-europe-weather-france-heat.jpg"
-        },
-        {
-          "clusterId": "705453c992609e7d",
-          "slug": "451e35d74999d66f",
-          "titulo": "Mãe de menina de 13 anos induzida ao suicídio alerta sobre risco de grupos virtuais",
-          "resumo": "Uma menina de 13 anos morreu após ser induzida ao suicídio por um grupo de adolescentes na internet. A polícia prendeu cinco adolescentes e um jovem de 18 anos em operação realizada no dia 4 de agosto. A mãe da vítima pediu que a tragédia sirva de alerta para outras famílias. O caso está sob investigação pelas autoridades.",
-          "porQueImporta": "Destaca o perigo de manipulação online que pode levar a suicídios de menores",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/09/minha-filha-salvou-outras-vidas-mae-de-menina-induzida-ao-suicidio-faz-alerta-as-familias.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-09T07:00:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bqHiPnm4DFr_Why-CV9e0lOx7lw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/N/d6niuTTjWQqoSdgm523w/corputadores-foram-apreendidos.jpg"
-        },
-        {
-          "clusterId": "5130838d5cc7944e",
-          "slug": "8260976a9c8b7a01",
-          "titulo": "Em 55 dias, dois acidentes com helicópteros deixam 10 mortos no Rio; relembre",
-          "resumo": "Só em 2026, 13 pessoas morreram em acidentes de helicóptero no Rio O Rio de Janeiro voltou a registrar uma tragédia envolvendo helicópteros neste sábado (8). A queda de uma aeronave em uma área de mata na região da Vista Chinesa, no Alto da Boa Vista, matou quatro pessoas — três turistas colombianas da mesma família e o piloto. O acidente ocorreu 55 dias após outra tragédia envolvendo helicópteros na cidade. Em 14 de junho, seis pessoas morreram depois que duas aeronaves se chocaram no ar, na região do Recreio dos Bandeirantes, na Zona Sudoeste do Rio. Somadas, as duas ocorrências deixaram 10…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/09/em-55-dias-dois-acidentes-com-helicopteros-deixam-10-mortos-no-rio-relembre.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-09T03:00:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1-zrMsqsbEtnsPLJ2RX-B9Twzf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Z/g8BAFsTWa6ALdn9QOdMg/14cop1.jpeg"
-        },
-        {
-          "clusterId": "50733a0fcf06682e",
-          "slug": "111441d1880c4826",
-          "titulo": "‘Não nos informavam nada’: parente de vítimas diz que soube de queda de helicóptero pela internet",
-          "resumo": "Bombeiros confirmam 4 mortes em queda de helicóptero no RJ Um dos familiares das três turistas colombianas que morreram na queda de um helicóptero na Vista Chinesa, no Alto da Boa Vista, na Zona Sul do Rio, neste sábado (8), afirmou que os parentes que aguardavam para fazer o passeio não foram informados oficialmente sobre o acidente. Segundo Victor Manrique, eles descobriram que as vítimas haviam morrido pela internet. “Nunca nos deram a notícia. Nós soubemos da notícia pela internet”. Rocio Cubillos, de 59 anos, Wendy Manrique, de 37, e Sofia Murillo, de 17, eram avó, filha e neta. Elas…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/08/nao-nos-informavam-nada-parente-de-vitimas-diz-que-soube-de-queda-de-helicoptero-pela-internet.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-09T00:29:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/FLWmBizZ_lJi8MTv6SBiuVTvE4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/X/u88pdfTxAynyqbGDdEBQ/rj2-limpo-20260808-1830-frame-93473.jpeg"
         },
         {
           "clusterId": "586e320acc9d7932",
@@ -328,69 +431,30 @@
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "441d437044be1af2",
-          "slug": "d7cd1207600ff56c",
-          "titulo": "Tufão Dolphin atinge Okinawa e causa interrupção de energia",
-          "resumo": "O tufão Dolphin atingiu a província de Okinawa, no sul do Japão, ferindo seis pessoas e deixando mais de 50 mil prédios sem energia. Em Kagoshima, quase 39 mil edifícios ficaram sem energia, enquanto mais de 12 mil foram afetados. A China fechou portos e suspendeu balsas antes da chegada prevista da tempestade à sua costa leste.",
-          "porQueImporta": "O evento demonstra a capacidade de impacto de tempestades tropicais na infraestrutura e na segurança pública da região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/08/tufao-dolphin-atinge-sul-do-japao.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/tufao-dolphin-chega-a-china-com-ventos-de-ate-162-km-h/"
-            }
-          ],
-          "updatedAt": "2026-08-09T06:07:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hdYeAkjOq1_3Op11Eiosocol0mY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/O/BlOuLpSs6ROcwM3huxow/2026-08-07t005025z-661818364-rc2ctmad44wi-rtrmadp-3-asia-weather-typhoon-dolphin.jpg"
-        },
-        {
-          "clusterId": "d31311206f353f7f",
-          "slug": "ffe0d525a06ec349",
-          "titulo": "IA do Google prevê ciclones com um dia a mais de antecedência",
-          "resumo": "Um modelo de inteligência artificial desenvolvido pelo Google conseguiu antecipar a formação de ciclones com até 24 horas de antecedência. Cada hora adicional de previsão permite mais tempo para que autoridades e comunidades se preparem, reduzindo riscos a populações e infraestrutura. A pesquisa destaca a importância de tecnologias avançadas na melhoria das respostas a eventos climáticos extremos.",
-          "porQueImporta": "Antecipar ciclones melhora a capacidade de preparação e mitigação de danos",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/tecnologia/ia-do-google-preve-ciclones-com-um-dia-a-mais-de-antecedencia/"
-            }
-          ],
-          "updatedAt": "2026-08-09T08:00:44.000Z"
-        },
-        {
-          "clusterId": "729c456f68d977e3",
-          "slug": "2996798db39a80bd",
-          "titulo": "Tornado registrado em Piraí do Sul, Paraná",
-          "resumo": "Um tornado foi registrado na tarde de sábado na região de Piraí do Sul, nos Campos Gerais do Paraná, conforme o Simepar. Moradores gravaram vídeos que mostram casas e estruturas destruídas, além de árvores e postes derrubados, deixando a área sem energia elétrica.",
-          "porQueImporta": "O evento evidencia a ocorrência de fenômenos climáticos extremos na região, demandando atenção das autoridades e da população.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/08/video-tempestade-severa-de-ventos-causa-destruicao-no-parana.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-09T00:03:28.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/GUfMLrzSgjds4tMEyZigJ4RImh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/m/UcNJjcTF2vUkSDaNkv8A/g1-pr-2026-08-08t210203.560.jpg"
-        }
-      ]
-    },
-    {
       "slug": "acidente-aereo",
       "label": "Acidente aéreo",
       "stories": [
+        {
+          "clusterId": "485077773de2a616",
+          "slug": "9162a7318b62df60",
+          "titulo": "Queda de helicóptero mata três turistas colombianas no Rio",
+          "resumo": "Um helicóptero que realizava voo panorâmico na região da Vista Chinesa, no Alto da Boa Vista, caiu na manhã de sábado, matando as turistas colombianas Rocio Cubigos, Wendy Manrique e Sofia Murillo, além do piloto Alessandro Rocha. Os familiares, que aguardavam o segundo voo, souberam do acidente pela internet e foram ao Instituto Médico-Legal para identificação dos corpos. Até o domingo, a família ainda não havia sido contatada pela polícia.",
+          "porQueImporta": "O acidente evidencia riscos de voos turísticos e gera comoção nas redes sociais devido à popularidade das vítimas",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/09/adolescente-morta-em-queda-de-helicoptero-no-rio.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/sempre-as-amarei-diz-familiar-de-vitimas-de-queda-de-helicoptero-no-rio/"
+            }
+          ],
+          "updatedAt": "2026-08-09T13:28:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dgu76ENJOn42uJ-dF0dn3G4K9-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/V/PHaFbyTZeFvlT86vkPlQ/blank-2-grids-collage-23-.png"
+        },
         {
           "clusterId": "41234ca61dd53b8e",
           "slug": "afc283f84b56b60e",
@@ -428,93 +492,105 @@
       ]
     },
     {
-      "slug": "enchente",
-      "label": "Enchente",
+      "slug": "incendio",
+      "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "5a3a3493138868c4",
-          "slug": "0a79bc07f3c04948",
-          "titulo": "Cavalo Caramelo pode se tornar pai enquanto permanece na Ulbra",
-          "resumo": "A Universidade Luterana do Brasil informou que o cavalo Caramelo, símbolo da enchente de 2024 no Rio Grande do Sul, está sendo procurada uma égua para reprodução. O animal foi resgatado após ficar isolado por quatro dias no telhado de uma casa em Canoas durante as cheias. A iniciativa busca dar continuidade à sua linhagem enquanto ele permanece sob cuidados da instituição.",
-          "porQueImporta": "O caso mantém viva a memória da enchente que marcou a região em 2024",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "65c8638a23a3054d",
+          "slug": "2eb5bbe055c6e22e",
+          "titulo": "Funcionária da Aperam morre após incêndio em Timóteo",
+          "resumo": "A funcionária Heydiane Ribeiro Bueno, de 28 anos, ficou ferida em um incêndio na unidade da Aperam em Timóteo e faleceu no Hospital de Coronel Fabriciano. O incidente foi um dos assuntos mais buscados na semana, segundo o portal g1 Vales.",
+          "porQueImporta": "A morte evidencia riscos de segurança em ambientes industriais e gera preocupação nas comunidades locais.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/09/cavalo-caramelo-pode-virar-pai-instituicao-procura-egua-para-animal-simbolo-da-enchente-no-rs.ghtml"
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/09/morte-de-funcionaria-da-aperam-acidente-de-onibus-e-pid-veja-as-noticias-mais-lidas-da-semana.ghtml"
             }
           ],
-          "updatedAt": "2026-08-09T06:00:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/IV-s68S3WmHvSGBfvcV0D6WqrWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/J/pAjxKQRKyxnhIj2BfLVw/g1-7-.jpg"
+          "updatedAt": "2026-08-09T12:48:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/IPWj5LwlBWw9f0zOIgBPQY58vTo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/C/trc6MTRVeWeTBOmEXN1A/ocorrencias-horizontal-40-.png"
+        },
+        {
+          "clusterId": "d4ccf69685401f1d",
+          "slug": "e53383d2b49ecf67",
+          "titulo": "Incêndio destrói loja de roupas e bar em João Pessoa",
+          "resumo": "Na manhã de domingo, um incêndio de grandes proporções consumiu uma loja de roupas e um bar na Avenida Jatobá, bairro de Mangabeira, zona sul de João Pessoa. Os dois estabelecimentos, pertencentes à mesma proprietária, foram completamente destruídos. A proprietária chegou ao local por volta das 5h e encontrou as estruturas já reduzidas a cinzas. Não foram informados feridos ou vítimas.",
+          "porQueImporta": "O evento evidencia riscos de incêndio em estabelecimentos comerciais e a necessidade de medidas preventivas.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/09/incendio-destroi-loja-de-roupas-e-bar-em-joao-pessoa-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-09T12:21:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Y6m-QlnzavvMwIiVz6vswPRRQdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/wJkGjTSrABcg0UY9s2FA/incendiolojaebarmangabeira.jpeg"
+        },
+        {
+          "clusterId": "bc93cf10fe9f7b17",
+          "slug": "5831e4c92df1c456",
+          "titulo": "Incêndio em apartamento de Belo Horizonte é atribuído a cigarro descartado",
+          "resumo": "Um incêndio começou em um apartamento no bairro Santa Efigênia, em Belo Horizonte, na madrugada de domingo. O proprietário informou que um cigarro jogado no chão provocou as chamas. O Corpo de Bombeiros evacuou o prédio e combateu o fogo, enquanto a Polícia Militar realizou a evacuação. O morador e um vizinho foram atendidos por socorristas.",
+          "porQueImporta": "Destaca o risco de incêndios causados por descarte inadequado de cigarros em áreas residenciais",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/09/incendio-cigarro-apartamento-bh-morador-ferido.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-09T11:42:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_YKyc8ZtORV37XQz8C4hK_sHVXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/h/3AjLZBSUaJ2wMB7Ra0IQ/incendio-santa-efigenia-frame-107.jpeg"
         }
       ]
     },
     {
-      "slug": "frio",
-      "label": "Frio",
+      "slug": "acidente",
+      "label": "Acidente",
       "stories": [
         {
-          "clusterId": "be66bbd83785c45a",
-          "slug": "1cc95ded809678a7",
-          "titulo": "Frio intenso pode levar a geada no Rio Grande do Sul entre domingo e terça",
-          "resumo": "Uma massa de ar frio chega ao Rio Grande do Sul, trazendo dias secos e temperaturas baixas. As mínimas podem ficar entre -1°C e 11°C, com máximas entre 13°C e 20°C. Há risco de formação de geada em várias regiões do estado durante o período. O fenômeno se destaca a partir de domingo, dia 9.",
-          "porQueImporta": "O frio intenso pode afetar a agricultura, a saúde da população e a infraestrutura local",
-          "categoria": "Frio",
-          "categoriaSlug": "frio",
+          "clusterId": "9079abe25b1c6208",
+          "slug": "b8d88b73841c52d8",
+          "titulo": "Homem morre após cair em canal em Santos",
+          "resumo": "Um homem não identificado caiu dentro do Canal 4, localizado na Avenida Siqueira Campos, no bairro Embaré, em Santos, neste sábado. Testemunhas tentaram retirá‑lo e o Corpo de Bombeiros o socorreu, encaminhando‑o ao pronto‑socorro, onde não resistiu. O incidente foi registrado pelas autoridades locais.",
+          "porQueImporta": "A ocorrência evidencia riscos de acidentes em áreas urbanas próximas a corpos d'água.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/09/frio-no-rs-previsao-geada-domingo-terca.ghtml"
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/09/homem-morre-apos-cair-em-canal-do-litoral-de-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-08-09T03:00:23.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gyeLP9a52vfC4TyLO8gzoSFH-Lw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/W/syfjWIROCuZoMDDNZkEA/g1-1-.jpg"
+          "updatedAt": "2026-08-09T12:23:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/cEOGL8MXZpa6xXtar1yrTHdI6JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/a/YBAC3ATRC3p5CitwMykA/canal-santos.jpg"
         }
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "seca",
+      "label": "Seca",
       "stories": [
         {
-          "clusterId": "74d05a6573e52c99",
-          "slug": "e432a6459b1cb1ff",
-          "titulo": "Sete mortos e um gravemente ferido em colisão na BR-251 em Salinas (MG)",
-          "resumo": "Uma colisão entre dois veículos na BR-251, na cidade de Salinas (MG), resultou em sete óbitos e um ferido em estado grave. O acidente ocorreu depois que um dos carros tentou fugir de uma abordagem da Polícia Rodoviária Federal. As vítimas foram socorridas, mas a maioria não resistiu aos ferimentos. As autoridades investigam as circunstâncias da fuga e da colisão.",
-          "porQueImporta": "O incidente evidencia riscos de perseguições policiais e tem impacto na segurança viária da região",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/sete-pessoas-morrem-e-uma-fica-em-estado-grave-apos-acidente-em-mg/"
-            }
-          ],
-          "updatedAt": "2026-08-08T23:06:02.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "calor",
-      "label": "Calor",
-      "stories": [
-        {
-          "clusterId": "392dcae9f5582a7d",
-          "slug": "2042d5a56a997ff0",
-          "titulo": "Coreia do Norte recomenda sopa de carne de cachorro para enfrentar onda de calor",
-          "resumo": "A televisão estatal norte-coreana divulgou recomendações que incluem sopa de carne de cachorro, caldo de galinha e orientações de hidratação para a população. A medida foi anunciada após a capital, Pyongyang, registrar 36,7°C, a temperatura mais alta desde o início das medições meteorológicas. As recomendações visam ajudar as pessoas a lidar com a onda de calor que afeta o país. A informação refere‑se apenas à capital, não ao território nacional inteiro.",
-          "porQueImporta": "A orientação destaca como autoridades de um país autoritário respondem a condições climáticas extremas, impactando a saúde pública.",
-          "categoria": "Calor",
-          "categoriaSlug": "calor",
+          "clusterId": "733438b368e6436f",
+          "slug": "e85d8c521b7aefb3",
+          "titulo": "Cientistas alertam para efeitos graves do Super El Niño na América Latina",
+          "resumo": "Cientistas preveem que o atual El Niño pode ser um dos mais intensos das últimas décadas, gerando calor atípico, ventos fortes e risco de ciclones em países da região. A presidente do Peru, Keiko Fujimori, declarou emergência e anunciou plano de contingência nacional para enfrentar o fenômeno. Os impactos já são observados, como árvores caídas em São Paulo devido a ventanias. As autoridades alertam que o clima pode agravar problemas de segurança e saúde pública.",
+          "porQueImporta": "O fenômeno pode intensificar eventos climáticos extremos, afetando milhões de pessoas na América Latina",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/07/coreia-do-norte-recomenda-sopa-de-carne-de-cachorro-para-enfrentar-onda-de-calor.ghtml"
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/09/os-graves-efeitos-do-super-el-nino-na-america-latina-previstos-pelos-cientistas.ghtml"
             }
           ],
-          "updatedAt": "2026-08-07T12:39:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/g_n5Xh8_0R7YfxoVEY2XOSyMoIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Q/BhRl7BTnO0xD2OBisnFw/000-hkg7600846-1-2-1-.jpg"
+          "updatedAt": "2026-08-09T10:01:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PgGoXDNNnTLbnIh3oSJXRKtNzck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/8/QljwUHSymkVymsFKV6bA/image-11-.png"
         }
       ]
     }
