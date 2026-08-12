@@ -1,9 +1,9 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-12T05:59:14.383Z",
+  "generatedAt": "2026-08-12T09:42:41.042Z",
   "home": [
     {
-      "clusterId": "663f633ea32dbef9",
+      "clusterId": "ad6fc3293fbe826b",
       "slug": "825e135b5dd1a926",
       "titulo": "Terremoto de magnitude 7,4 atinge a Colômbia e deixa centenas de mortos",
       "resumo": "Um sismo de magnitude 7,4 ocorreu na Colômbia na segunda‑feira (10), com epicentro em San José del Palmar, no oeste do país. O balanço oficial indica cerca de 240 mortos, mais de 500 feridos e milhares de desaparecidos, além de colapso de dezenas de edifícios e casas. Equipes de busca e socorro continuam trabalhando nas áreas mais afetadas, como Cali, Pereira e Manizales.",
@@ -17,15 +17,70 @@
         },
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/ckg3e7dy4z1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Poder360",
           "url": "https://www.poder360.com.br/poder-internacional/espriella-declara-situacao-de-desastre-apos-terremoto-na-colombia/"
         }
       ],
-      "updatedAt": "2026-08-12T02:11:30.000Z",
+      "updatedAt": "2026-08-12T09:34:15.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/z3ILCEYxJDWQrYQl2u8uvK4NGzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/gsQ8pBRiG5StKa1eLlxQ/mapa-colombia.jpg"
+    },
+    {
+      "clusterId": "de565132a0701242",
+      "slug": "9e2f8d7f162ddd7c",
+      "titulo": "Incêndio em balsa deixa um morto e resgata 172 pessoas na Indonésia",
+      "resumo": "Autoridades indonésias resgataram 172 passageiros após a balsa KM Putri Yasmin pegar fogo nas águas próximas a Lombok. A embarcação partiu de Padangbai, em Bali, com destino a Lembar, em Lombok. Uma mulher de 19 anos morreu no acidente e buscas continuam por passageiros desaparecidos. O caso está sob investigação.",
+      "porQueImporta": "O incidente evidencia riscos de transporte marítimo em rotas turísticas da Indonésia",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/12/incendio-em-balsana-indonesia.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/indonesia-172-pessoas-sao-resgatadas-de-incendio-em-balsa-em-bali"
+        }
+      ],
+      "updatedAt": "2026-08-12T09:09:14.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/xBALSsJ8bJsIUNBhUI2P6DCIhjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/3/WJVxazToeNABKOCIPWUg/2026-08-12t050425z-1762985661-rc2swma0ulnr-rtrmadp-3-indonesia-shipwreck-fire.jpg"
+    },
+    {
+      "clusterId": "64095fb13bcde464",
+      "slug": "a6d75f5b3af97aa6",
+      "titulo": "Mulher de 67 anos morre atropelada por trator em zona rural de Aragominas",
+      "resumo": "Eunice da Silva Sousa, de 67 anos, foi atingida por um trator enquanto caminhava na estrada vicinal de acesso ao assentamento Baviperia, em Aragominas, no norte do Tocantins. O acidente ocorreu no domingo, resultando em sua morte no local. Familiares e amigos lembraram a vítima como dedicada à família e ao trabalho no campo. A Secretaria de Segurança Pública do estado confirmou o ocorrido.",
+      "porQueImporta": "O caso evidencia os riscos de circulação de máquinas agrícolas em vias rurais e a necessidade de medidas de segurança.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/12/batalhadora-e-dedicada-a-familia-quem-era-a-mulher-que-caiu-de-trator-e-morreu-atropelada-pelo-veiculo.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-12T09:00:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_feZ9c2uRndsSKkyE8gPSQQHMto=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/j/aeQfAPTBenOBXKTQ78Jw/copia-de-modelo-foto-fundo-borrado-2-.png"
+    },
+    {
+      "clusterId": "fdab45b88c010486",
+      "slug": "94276bd97de02f7d",
+      "titulo": "Terremotos não são incomuns, mas têm impacto significativo",
+      "resumo": "Os terremotos ocorrem devido ao movimento das placas tectônicas que compõem a crosta terrestre, formando um quebra‑cabeça de blocos geológicos. Embora não sejam previsíveis com precisão, eles podem gerar réplicas que afetam populações e infraestruturas. A Venezuela e outras regiões de risco apresentam histórico de sismos que demandam atenção das autoridades e da população.",
+      "porQueImporta": "Entender a dinâmica dos sismos ajuda na preparação e mitigação de danos em áreas vulneráveis",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/12/terremotos-podem-ser-previstos-entenda-como-ocorrem-os-tremores-e-por-que-ha-replicas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-12T06:00:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DvGOEqet3TVRTJ2dFRp75DOIUBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/n/GetSiGTWym1yScv9zYcA/afp-20260709-b9tc6u4-v1-midres-venezuelaearthquakeaftermath.jpg"
     },
     {
       "clusterId": "d5c0c0101ab5e917",
@@ -45,125 +100,6 @@
       "imageUrl": "https://s2-g1.glbimg.com/HLsnhmYx4eBsNMHNCEB4WeUAeXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/s/ThUyQyQvGAJnNLF2kJJg/eric-consoli.jpg"
     },
     {
-      "clusterId": "d64586ca965b3e9f",
-      "slug": "71d8c28d04c2eb0f",
-      "titulo": "Médico indiciado por morte de menino disse à polícia que não sabia protocolo para picada de escorpião: 'Nunca foi passado'",
-      "resumo": "Médico indiciado por morte de menino não sabia protocolo para picada de escorpião O médico Augusto Fortunato de Godoi, indiciado pela morte de Bernardo de Lima Mendes, de 3 anos, após ser picado por um escorpião em março deste ano em Conchal (SP), disse, em depoimento à Polícia Civil, que não sabia da existência de um protocolo de atendimento para acidentes com escorpiões em crianças com menos de 10 anos. (Veja abaixo trechos do depoimento). De acordo com o inquérito da Polícia Civil, Augusto foi indiciado por homicídio culposo — quando não há intenção de matar - após o delegado Luís Henrique…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/12/medico-indiciado-por-morte-de-menino-disse-a-policia-que-nao-sabia-protocolo-para-picada-de-escorpiao-nunca-foi-passado.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-12T03:00:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/BCqZS_gJPc-fmAhBSDOiGYx3v3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Z/p4FilCT3u3p3BHrW9O0A/menino-bernardo-2-1-.jpg"
-    },
-    {
-      "clusterId": "ee8c29618c0aecdd",
-      "slug": "09c4259e6f9b9a09",
-      "titulo": "Chuva e ventos fortes registrados pelo segundo dia consecutivo em Porto Velho",
-      "resumo": "Chuvas acompanhadas de ventos fortes foram registradas em diferentes áreas de Porto Velho na noite de terça-feira. A Energisa emitiu alerta para fortes chuvas nas regiões Centro e Sul de Rondônia durante a manhã. Ventania causou queda de energia em pontos da cidade e acúmulo de água provocou alagamentos em algumas partes da capital.",
-      "porQueImporta": "O evento pode comprometer a infraestrutura urbana e a segurança dos moradores.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/08/11/chuva-e-ventos-fortes-sao-registrados-pelo-segundo-dia-consecutivo-em-ro.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-12T01:35:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/M8l2M5kqwkIY6CJxuvW-5cAbRTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/B/f8HUBdSCAlmxEQq3pTYQ/whatsapp-image-2026-08-11-at-21.34.17-1-.jpeg"
-    },
-    {
-      "clusterId": "44526c8f3e7f201f",
-      "slug": "9a6ad7e9bc52daaf",
-      "titulo": "Risco de erosão em área onde ponte foi construída era conhecido antes de desabamento no AC, diz MP",
-      "resumo": "VÍDEO mostra momento em que ponte desabou no interior do Acre O Ministério Público do Acre (MP-AC) instaurou um inquérito civil para investigar as causas e responsabilidades ligadas ao desabamento da Ponte Frei Paolino Baldassari, em Sena Madureira, interior do Acre, no mês de junho. Um dos pontos destacados no documento é que o risco de erosão na área onde a ponte foi construída já era conhecido antes do desmoronamento. 👉 O acidente, ocorrido no dia 5 de junho, deixou quatro pessoas feridas e teve repercussão nacional. O juiz aposentado Edinaldo Muniz, de 54 anos, segue internado em um…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/08/11/risco-de-erosao-em-area-onde-ponte-foi-construida-era-conhecido-antes-de-desabamento-no-ac-diz-mp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-12T01:09:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ydStCCAp-XcH8qD1fOFqp4rzIXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/C/VbLt0ARRAlBa6ts8IasQ/midia-de-distribuicao-g1-2026-07-04t142103.668.jpg"
-    },
-    {
-      "clusterId": "f9efbac82f21d5f3",
-      "slug": "ff4f0c7be6a9fdf5",
-      "titulo": "Mortes ultrapassam 250 após terremoto na terceira maior cidade da Colômbia",
-      "resumo": "Um forte terremoto atingiu a terceira maior cidade da Colômbia, resultando em mais de 250 mortes. A cidade foi uma das mais afetadas pelo sismo, que causou danos extensos. As autoridades locais continuam avaliando a extensão total dos prejuízos e das vítimas.",
-      "porQueImporta": "A alta mortalidade evidencia a gravidade do desastre e a necessidade de resposta emergencial",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/resumao-diario-do-jn-mortes-pelo-terremoto-passam-de-250-na-colombia-siria-condena-ex-ditador-bashar-al-assad-a-morte-por-crimes-contra-a-humanidade-inflacao-desacelera-no-brasil.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-12T00:39:47.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-    },
-    {
-      "clusterId": "7ee28c7b86357225",
-      "slug": "192ea71b0ea66783",
-      "titulo": "Carreta tomba e espalha sangue bovino na Rodovia Marechal Rondon em Lençóis Paulista",
-      "resumo": "Na terça‑feira, uma carreta tombou no km 310 da Rodovia Marechal Rondon, sentido Bauru, em Lençóis Paulista, espalhando carga de sangue bovino. O incidente provocou bloqueio total das faixas e do acostamento, gerando cerca de quatro quilômetros de congestionamento. Não houve feridos. A Agência de Transporte do Estado de São Paulo (Artesp) registrou o acidente e coordenou o fechamento da via.",
-      "porQueImporta": "O bloqueio da rodovia interrompe o tráfego regional e requer ação das autoridades de transporte.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/11/tombamento-carreta-sp-300.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-11T23:39:10.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/dGnoF_kBGVQ49Kt85yf3RgTfRPQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/J/WFrt9sQi2oBu8Wyxwmbg/edicao-g1-agenda-13-.png"
-    },
-    {
-      "clusterId": "1c22bf1e42b14821",
-      "slug": "d9c0c92bd93539a1",
-      "titulo": "Acidente com carro prensado entre carretas deixa dois mortos na BR-153",
-      "resumo": "Um carro ficou preso entre duas carretas em um trecho da BR-153, entre Pugmil e Nova Rosalândia, no Tocantins, na terça‑feira. O acidente resultou na morte de um homem e de uma mulher. A Polícia Rodoviária Federal registrou lentidão no trânsito e acionou o Corpo de Bombeiros e a Polícia Científica.",
-      "porQueImporta": "O incidente evidencia riscos de colisões envolvendo veículos de grande porte em rodovias federais",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/11/acidente-com-carro-prensado-entre-carretas-deixa-um-morto-na-br-153.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-11T23:37:48.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ZoQwgQ49PXmQSNltX0nq3x0Ep9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/6/zF6QYjTUqwgqI0k5qfKA/copia-de-modelo-foto-fundo-borrado-3-.png"
-    },
-    {
-      "clusterId": "f4bbe80e39ee839e",
-      "slug": "8cd91b1c05f6250d",
-      "titulo": "Incêndio registrado em área de vegetação na Avenida das Torres em Manaus",
-      "resumo": "Na noite de terça‑feira, um incêndio foi observado na Avenida Governador José Lindoso, conhecida como Avenida das Torres, próximo a um posto de combustíveis. As chamas se espalharam rapidamente pela vegetação, mas não foram registradas vítimas. As causas ainda não foram identificadas pelas autoridades.",
-      "porQueImporta": "O evento evidencia risco de incêndios em áreas urbanas próximas a vegetação e postos de combustível.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/11/incendio-e-registrado-na-avenida-das-torres-em-manaus.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-11T23:32:58.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/fzWuA5cvnhD2i6j1jSEnxNTWgGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/t/rVfYyZQsGO9EowWBBPJw/incendio-1-.jpg"
-    },
-    {
       "clusterId": "b9bb0a2e15896711",
       "slug": "39f96f8af095725f",
       "titulo": "Cachorro fica preso em prédio parcialmente destruído por terremoto em Pereira",
@@ -179,64 +115,182 @@
       ],
       "updatedAt": "2026-08-11T20:12:00.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/_fWz39E7d74Wkrgm_mnHuJzUFVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/o/ZpZ2gAQMCzBPF9p06x5Q/pero-i.png"
+    },
+    {
+      "clusterId": "7318a9ab23c2546c",
+      "slug": "431bc24807d544fc",
+      "titulo": "Terremoto de magnitude significativa atinge a Colômbia",
+      "resumo": "Um forte terremoto ocorreu na Colômbia, país situado na zona de convergência de três placas tectônicas. A região costuma apresentar alta atividade sísmica, tendo registrado eventos como o de 10 de agosto de 2026. Os mapas e gráficos divulgados mostram o epicentro, a magnitude e o impacto do sismo. As autoridades monitoram possíveis danos e respostas de emergência.",
+      "porQueImporta": "O evento evidencia o risco sísmico em uma área vulnerável da América Latina",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-08-11T19:53:10.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/98c6/live/c792b770-958b-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "clusterId": "d9b615f9de868d26",
+      "slug": "a28331d3a96002b2",
+      "titulo": "Ataque aéreo russo em Zaporizhzhia deixa seis mortos e incêndio em edifício",
+      "resumo": "Na manhã de 11 de agosto de 2026, um ataque aéreo russo atingiu Zaporizhzhia, no sudeste da Ucrânia, provocando incêndio em um edifício. O presidente Volodym​ir Zelensky afirmou que mísseis de origem norte-coreana foram usados. O incêndio resultou em seis mortes e deixou cerca de 20 feridos, conforme informações das autoridades locais.",
+      "porQueImporta": "O incidente evidencia a escalada do conflito e o uso de armamento estrangeiro, aumentando o risco para civis na região.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/11/russia-utilizou-misseis-norte-coreanos-bombardeio-com-mortes-diz-zelensky.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-11T16:21:24.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/MblCN45JNzM5y0NplZSKEGeRvao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/F/dAQVNtQMAEQ2KfGmuejg/hpbgl5wwiaaophr.jpg"
+    },
+    {
+      "clusterId": "186a93435e125846",
+      "slug": "07747545e2e2e122",
+      "titulo": "Número de mortos nos terremotos da Venezuela chega a 6.301",
+      "resumo": "Terremotos na Venezuela completam um mês O número de mortos nos terremotos que atingiram a Venezuela em 24 de junho chegou a 6.301, segundo balanço divulgado pelo governo nesta segunda-feira (10). Mais de 73 mil pessoas precisaram de atendimento hospitalar. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Os dois tremores, de magnitudes 7,2 e 7,5, provocaram o terremoto mais mortal da Venezuela desde 1812, além do pior desastre natural da história recente do país. Dados oficiais apontam que 190 edifícios desabaram completamente, enquanto quase mil construções sofreram danos…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/10/numero-de-mortos-no-terremoto-da-venezuela-chega-a-6301.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-10T20:08:10.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/uMg5iG_qjgmljNz3DlXVtwqnaI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/HLfqOPSNiYAOQFlHIGNw/2026-07-11t222946z-1951886010-rc2xbma1daqu-rtrmadp-3-venezuela-quake.jpg"
+    },
+    {
+      "clusterId": "16f5feb6b47b6cc1",
+      "slug": "164474a8aeee4471",
+      "titulo": "Brasil tem baixa incidência de grandes terremotos devido à estrutura da crosta terrestre",
+      "resumo": "A camada externa do planeta é formada por placas tectônicas que geram terremotos de grande magnitude em alguns países da América Latina. No Brasil, a constituição da crosta terrestre impede a ocorrência desses eventos de grande porte. Por isso, o país registra poucos sismos significativos em comparação com vizinhos. Essa característica geológica explica a diferença de risco sísmico na região.",
+      "porQueImporta": "Entender a vulnerabilidade sísmica ajuda na preparação e nas políticas de mitigação de desastres",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cgjxdy1lnn7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-08-10T14:37:32.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e9dd/live/6f1af870-94c6-11f1-9730-59a19ad5a9b7.jpg"
     }
   ],
   "categorias": [
     {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "fdab45b88c010486",
+          "slug": "94276bd97de02f7d",
+          "titulo": "Terremotos não são incomuns, mas têm impacto significativo",
+          "resumo": "Os terremotos ocorrem devido ao movimento das placas tectônicas que compõem a crosta terrestre, formando um quebra‑cabeça de blocos geológicos. Embora não sejam previsíveis com precisão, eles podem gerar réplicas que afetam populações e infraestruturas. A Venezuela e outras regiões de risco apresentam histórico de sismos que demandam atenção das autoridades e da população.",
+          "porQueImporta": "Entender a dinâmica dos sismos ajuda na preparação e mitigação de danos em áreas vulneráveis",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/12/terremotos-podem-ser-previstos-entenda-como-ocorrem-os-tremores-e-por-que-ha-replicas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-12T06:00:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DvGOEqet3TVRTJ2dFRp75DOIUBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/n/GetSiGTWym1yScv9zYcA/afp-20260709-b9tc6u4-v1-midres-venezuelaearthquakeaftermath.jpg"
+        },
+        {
+          "clusterId": "b9bb0a2e15896711",
+          "slug": "39f96f8af095725f",
+          "titulo": "Cachorro fica preso em prédio parcialmente destruído por terremoto em Pereira",
+          "resumo": "Um cachorro ficou preso no quinto andar do edifício Portal del Parque, em Pereira, após o prédio sofrer desabamento parcial causado pelo terremoto que atingiu a Colômbia na última segunda‑feira. Moradores gravaram um vídeo que mostrou a estrutura colapsada e o animal sentado sobre a base de uma cama dentro do apartamento afetado. O caso ganhou destaque nas redes sociais.",
+          "porQueImporta": "Ilustra as consequências humanas e animais dos desastres sísmicos e a necessidade de resgate rápido.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/11/video-mostra-cachorro-preso-em-apartamento-apos-predio-ser-destruido-por-terremoto-na-colombia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-11T20:12:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_fWz39E7d74Wkrgm_mnHuJzUFVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/o/ZpZ2gAQMCzBPF9p06x5Q/pero-i.png"
+        },
+        {
+          "clusterId": "7318a9ab23c2546c",
+          "slug": "431bc24807d544fc",
+          "titulo": "Terremoto de magnitude significativa atinge a Colômbia",
+          "resumo": "Um forte terremoto ocorreu na Colômbia, país situado na zona de convergência de três placas tectônicas. A região costuma apresentar alta atividade sísmica, tendo registrado eventos como o de 10 de agosto de 2026. Os mapas e gráficos divulgados mostram o epicentro, a magnitude e o impacto do sismo. As autoridades monitoram possíveis danos e respostas de emergência.",
+          "porQueImporta": "O evento evidencia o risco sísmico em uma área vulnerável da América Latina",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-08-11T19:53:10.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/98c6/live/c792b770-958b-11f1-b2ab-0dd01740f9f6.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "de565132a0701242",
+          "slug": "9e2f8d7f162ddd7c",
+          "titulo": "Incêndio em balsa deixa um morto e resgata 172 pessoas na Indonésia",
+          "resumo": "Autoridades indonésias resgataram 172 passageiros após a balsa KM Putri Yasmin pegar fogo nas águas próximas a Lombok. A embarcação partiu de Padangbai, em Bali, com destino a Lembar, em Lombok. Uma mulher de 19 anos morreu no acidente e buscas continuam por passageiros desaparecidos. O caso está sob investigação.",
+          "porQueImporta": "O incidente evidencia riscos de transporte marítimo em rotas turísticas da Indonésia",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/incendio-em-balsana-indonesia.ghtml"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/indonesia-172-pessoas-sao-resgatadas-de-incendio-em-balsa-em-bali"
+            }
+          ],
+          "updatedAt": "2026-08-12T09:09:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xBALSsJ8bJsIUNBhUI2P6DCIhjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/3/WJVxazToeNABKOCIPWUg/2026-08-12t050425z-1762985661-rc2swma0ulnr-rtrmadp-3-indonesia-shipwreck-fire.jpg"
+        },
+        {
+          "clusterId": "d9b615f9de868d26",
+          "slug": "a28331d3a96002b2",
+          "titulo": "Ataque aéreo russo em Zaporizhzhia deixa seis mortos e incêndio em edifício",
+          "resumo": "Na manhã de 11 de agosto de 2026, um ataque aéreo russo atingiu Zaporizhzhia, no sudeste da Ucrânia, provocando incêndio em um edifício. O presidente Volodym​ir Zelensky afirmou que mísseis de origem norte-coreana foram usados. O incêndio resultou em seis mortes e deixou cerca de 20 feridos, conforme informações das autoridades locais.",
+          "porQueImporta": "O incidente evidencia a escalada do conflito e o uso de armamento estrangeiro, aumentando o risco para civis na região.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/11/russia-utilizou-misseis-norte-coreanos-bombardeio-com-mortes-diz-zelensky.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-11T16:21:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MblCN45JNzM5y0NplZSKEGeRvao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/F/dAQVNtQMAEQ2KfGmuejg/hpbgl5wwiaaophr.jpg"
+        }
+      ]
+    },
+    {
       "slug": "geral",
       "label": "Geral",
       "stories": [
-        {
-          "clusterId": "d64586ca965b3e9f",
-          "slug": "71d8c28d04c2eb0f",
-          "titulo": "Médico indiciado por morte de menino disse à polícia que não sabia protocolo para picada de escorpião: 'Nunca foi passado'",
-          "resumo": "Médico indiciado por morte de menino não sabia protocolo para picada de escorpião O médico Augusto Fortunato de Godoi, indiciado pela morte de Bernardo de Lima Mendes, de 3 anos, após ser picado por um escorpião em março deste ano em Conchal (SP), disse, em depoimento à Polícia Civil, que não sabia da existência de um protocolo de atendimento para acidentes com escorpiões em crianças com menos de 10 anos. (Veja abaixo trechos do depoimento). De acordo com o inquérito da Polícia Civil, Augusto foi indiciado por homicídio culposo — quando não há intenção de matar - após o delegado Luís Henrique…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/12/medico-indiciado-por-morte-de-menino-disse-a-policia-que-nao-sabia-protocolo-para-picada-de-escorpiao-nunca-foi-passado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-12T03:00:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/BCqZS_gJPc-fmAhBSDOiGYx3v3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Z/p4FilCT3u3p3BHrW9O0A/menino-bernardo-2-1-.jpg"
-        },
-        {
-          "clusterId": "44526c8f3e7f201f",
-          "slug": "9a6ad7e9bc52daaf",
-          "titulo": "Risco de erosão em área onde ponte foi construída era conhecido antes de desabamento no AC, diz MP",
-          "resumo": "VÍDEO mostra momento em que ponte desabou no interior do Acre O Ministério Público do Acre (MP-AC) instaurou um inquérito civil para investigar as causas e responsabilidades ligadas ao desabamento da Ponte Frei Paolino Baldassari, em Sena Madureira, interior do Acre, no mês de junho. Um dos pontos destacados no documento é que o risco de erosão na área onde a ponte foi construída já era conhecido antes do desmoronamento. 👉 O acidente, ocorrido no dia 5 de junho, deixou quatro pessoas feridas e teve repercussão nacional. O juiz aposentado Edinaldo Muniz, de 54 anos, segue internado em um…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/08/11/risco-de-erosao-em-area-onde-ponte-foi-construida-era-conhecido-antes-de-desabamento-no-ac-diz-mp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-12T01:09:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ydStCCAp-XcH8qD1fOFqp4rzIXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/C/VbLt0ARRAlBa6ts8IasQ/midia-de-distribuicao-g1-2026-07-04t142103.668.jpg"
-        },
-        {
-          "clusterId": "f9efbac82f21d5f3",
-          "slug": "ff4f0c7be6a9fdf5",
-          "titulo": "Mortes ultrapassam 250 após terremoto na terceira maior cidade da Colômbia",
-          "resumo": "Um forte terremoto atingiu a terceira maior cidade da Colômbia, resultando em mais de 250 mortes. A cidade foi uma das mais afetadas pelo sismo, que causou danos extensos. As autoridades locais continuam avaliando a extensão total dos prejuízos e das vítimas.",
-          "porQueImporta": "A alta mortalidade evidencia a gravidade do desastre e a necessidade de resposta emergencial",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/resumao-diario-do-jn-mortes-pelo-terremoto-passam-de-250-na-colombia-siria-condena-ex-ditador-bashar-al-assad-a-morte-por-crimes-contra-a-humanidade-inflacao-desacelera-no-brasil.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-12T00:39:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-        },
         {
           "clusterId": "186a93435e125846",
           "slug": "07747545e2e2e122",
@@ -274,188 +328,11 @@
       ]
     },
     {
-      "slug": "terremoto",
-      "label": "Terremoto",
-      "stories": [
-        {
-          "clusterId": "b9bb0a2e15896711",
-          "slug": "39f96f8af095725f",
-          "titulo": "Cachorro fica preso em prédio parcialmente destruído por terremoto em Pereira",
-          "resumo": "Um cachorro ficou preso no quinto andar do edifício Portal del Parque, em Pereira, após o prédio sofrer desabamento parcial causado pelo terremoto que atingiu a Colômbia na última segunda‑feira. Moradores gravaram um vídeo que mostrou a estrutura colapsada e o animal sentado sobre a base de uma cama dentro do apartamento afetado. O caso ganhou destaque nas redes sociais.",
-          "porQueImporta": "Ilustra as consequências humanas e animais dos desastres sísmicos e a necessidade de resgate rápido.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/11/video-mostra-cachorro-preso-em-apartamento-apos-predio-ser-destruido-por-terremoto-na-colombia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-11T20:12:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_fWz39E7d74Wkrgm_mnHuJzUFVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/o/ZpZ2gAQMCzBPF9p06x5Q/pero-i.png"
-        },
-        {
-          "clusterId": "7318a9ab23c2546c",
-          "slug": "431bc24807d544fc",
-          "titulo": "Terremoto de magnitude significativa atinge a Colômbia",
-          "resumo": "Um forte terremoto ocorreu na Colômbia, país situado na zona de convergência de três placas tectônicas. A região costuma apresentar alta atividade sísmica, tendo registrado eventos como o de 10 de agosto de 2026. Os mapas e gráficos divulgados mostram o epicentro, a magnitude e o impacto do sismo. As autoridades monitoram possíveis danos e respostas de emergência.",
-          "porQueImporta": "O evento evidencia o risco sísmico em uma área vulnerável da América Latina",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-08-11T19:53:10.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/98c6/live/c792b770-958b-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "clusterId": "9ef5214f2f1fe103",
-          "slug": "046a600c06e048a5",
-          "titulo": "Terremoto na Colômbia deixa 181 mortos e mais de 2.500 feridos",
-          "resumo": "Um forte terremoto atingiu a Colômbia, resultando em 181 mortes e mais de 2.500 pessoas feridas. As equipes de resgate continuam buscando sobreviventes nas áreas afetadas. O abalo sísmico foi sentido em grande parte do país e também em partes do Panamá, Equador e até em Manaus, no Brasil.",
-          "porQueImporta": "O desastre evidencia a necessidade de preparação e resposta rápida a eventos sísmicos de grande magnitude.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-08-11T19:40:32.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7a8/live/2e62eb30-956b-11f1-8b14-5d44448d174a.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "ee8c29618c0aecdd",
-          "slug": "09c4259e6f9b9a09",
-          "titulo": "Chuva e ventos fortes registrados pelo segundo dia consecutivo em Porto Velho",
-          "resumo": "Chuvas acompanhadas de ventos fortes foram registradas em diferentes áreas de Porto Velho na noite de terça-feira. A Energisa emitiu alerta para fortes chuvas nas regiões Centro e Sul de Rondônia durante a manhã. Ventania causou queda de energia em pontos da cidade e acúmulo de água provocou alagamentos em algumas partes da capital.",
-          "porQueImporta": "O evento pode comprometer a infraestrutura urbana e a segurança dos moradores.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/08/11/chuva-e-ventos-fortes-sao-registrados-pelo-segundo-dia-consecutivo-em-ro.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-12T01:35:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/M8l2M5kqwkIY6CJxuvW-5cAbRTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/B/f8HUBdSCAlmxEQq3pTYQ/whatsapp-image-2026-08-11-at-21.34.17-1-.jpeg"
-        },
-        {
-          "clusterId": "fea7b8f550a084b3",
-          "slug": "bbc5f5d6f5b19313",
-          "titulo": "Tufão Dolphin provoca enchentes e cancela 943 voos em Xangai",
-          "resumo": "O tufão Dolphin trouxe ventos de até 151 km/h à cidade de Xangai, gerando enchentes nas áreas afetadas. De acordo com a CCTV, 943 voos foram cancelados nos aeroportos da cidade, representando quase 40% do total programado. O fenômeno também foi registrado em vídeo que mostra um caminhão tombado devido ao vendaval. A ocorrência aconteceu na segunda‑feira, dia 10.",
-          "porQueImporta": "Afeta a mobilidade aérea e causa riscos de inundação na maior cidade da China",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/10/tufao-ventos-150-kmh-enchentes-cancelamento-voos-china-video-caminhao-tombando.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-10T10:03:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YeuHVNBKb_t-2R-rZXKc0PWHPus=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/h/uabbAHSb6n6q5NiJqXbA/2026-08-10t045316z-64206412-rc2gvmaudiv6-rtrmadp-3-asia-weather-china-typhoon.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "7ee28c7b86357225",
-          "slug": "192ea71b0ea66783",
-          "titulo": "Carreta tomba e espalha sangue bovino na Rodovia Marechal Rondon em Lençóis Paulista",
-          "resumo": "Na terça‑feira, uma carreta tombou no km 310 da Rodovia Marechal Rondon, sentido Bauru, em Lençóis Paulista, espalhando carga de sangue bovino. O incidente provocou bloqueio total das faixas e do acostamento, gerando cerca de quatro quilômetros de congestionamento. Não houve feridos. A Agência de Transporte do Estado de São Paulo (Artesp) registrou o acidente e coordenou o fechamento da via.",
-          "porQueImporta": "O bloqueio da rodovia interrompe o tráfego regional e requer ação das autoridades de transporte.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/11/tombamento-carreta-sp-300.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-11T23:39:10.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dGnoF_kBGVQ49Kt85yf3RgTfRPQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/J/WFrt9sQi2oBu8Wyxwmbg/edicao-g1-agenda-13-.png"
-        },
-        {
-          "clusterId": "1c22bf1e42b14821",
-          "slug": "d9c0c92bd93539a1",
-          "titulo": "Acidente com carro prensado entre carretas deixa dois mortos na BR-153",
-          "resumo": "Um carro ficou preso entre duas carretas em um trecho da BR-153, entre Pugmil e Nova Rosalândia, no Tocantins, na terça‑feira. O acidente resultou na morte de um homem e de uma mulher. A Polícia Rodoviária Federal registrou lentidão no trânsito e acionou o Corpo de Bombeiros e a Polícia Científica.",
-          "porQueImporta": "O incidente evidencia riscos de colisões envolvendo veículos de grande porte em rodovias federais",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/11/acidente-com-carro-prensado-entre-carretas-deixa-um-morto-na-br-153.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-11T23:37:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ZoQwgQ49PXmQSNltX0nq3x0Ep9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/6/zF6QYjTUqwgqI0k5qfKA/copia-de-modelo-foto-fundo-borrado-3-.png"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "f4bbe80e39ee839e",
-          "slug": "8cd91b1c05f6250d",
-          "titulo": "Incêndio registrado em área de vegetação na Avenida das Torres em Manaus",
-          "resumo": "Na noite de terça‑feira, um incêndio foi observado na Avenida Governador José Lindoso, conhecida como Avenida das Torres, próximo a um posto de combustíveis. As chamas se espalharam rapidamente pela vegetação, mas não foram registradas vítimas. As causas ainda não foram identificadas pelas autoridades.",
-          "porQueImporta": "O evento evidencia risco de incêndios em áreas urbanas próximas a vegetação e postos de combustível.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/11/incendio-e-registrado-na-avenida-das-torres-em-manaus.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-11T23:32:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fzWuA5cvnhD2i6j1jSEnxNTWgGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/t/rVfYyZQsGO9EowWBBPJw/incendio-1-.jpg"
-        },
-        {
-          "clusterId": "d9b615f9de868d26",
-          "slug": "a28331d3a96002b2",
-          "titulo": "Ataque aéreo russo em Zaporizhzhia deixa seis mortos e incêndio em edifício",
-          "resumo": "Na manhã de 11 de agosto de 2026, um ataque aéreo russo atingiu Zaporizhzhia, no sudeste da Ucrânia, provocando incêndio em um edifício. O presidente Volodym​ir Zelensky afirmou que mísseis de origem norte-coreana foram usados. O incêndio resultou em seis mortes e deixou cerca de 20 feridos, conforme informações das autoridades locais.",
-          "porQueImporta": "O incidente evidencia a escalada do conflito e o uso de armamento estrangeiro, aumentando o risco para civis na região.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/11/russia-utilizou-misseis-norte-coreanos-bombardeio-com-mortes-diz-zelensky.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-11T16:21:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MblCN45JNzM5y0NplZSKEGeRvao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/F/dAQVNtQMAEQ2KfGmuejg/hpbgl5wwiaaophr.jpg"
-        }
-      ]
-    },
-    {
       "slug": "sismo",
       "label": "Sismo",
       "stories": [
         {
-          "clusterId": "663f633ea32dbef9",
+          "clusterId": "ad6fc3293fbe826b",
           "slug": "825e135b5dd1a926",
           "titulo": "Terremoto de magnitude 7,4 atinge a Colômbia e deixa centenas de mortos",
           "resumo": "Um sismo de magnitude 7,4 ocorreu na Colômbia na segunda‑feira (10), com epicentro em San José del Palmar, no oeste do país. O balanço oficial indica cerca de 240 mortos, mais de 500 feridos e milhares de desaparecidos, além de colapso de dezenas de edifícios e casas. Equipes de busca e socorro continuam trabalhando nas áreas mais afetadas, como Cali, Pereira e Manizales.",
@@ -469,15 +346,38 @@
             },
             {
               "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/ckg3e7dy4z1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Poder360",
               "url": "https://www.poder360.com.br/poder-internacional/espriella-declara-situacao-de-desastre-apos-terremoto-na-colombia/"
             }
           ],
-          "updatedAt": "2026-08-12T02:11:30.000Z",
+          "updatedAt": "2026-08-12T09:34:15.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/z3ILCEYxJDWQrYQl2u8uvK4NGzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/gsQ8pBRiG5StKa1eLlxQ/mapa-colombia.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "64095fb13bcde464",
+          "slug": "a6d75f5b3af97aa6",
+          "titulo": "Mulher de 67 anos morre atropelada por trator em zona rural de Aragominas",
+          "resumo": "Eunice da Silva Sousa, de 67 anos, foi atingida por um trator enquanto caminhava na estrada vicinal de acesso ao assentamento Baviperia, em Aragominas, no norte do Tocantins. O acidente ocorreu no domingo, resultando em sua morte no local. Familiares e amigos lembraram a vítima como dedicada à família e ao trabalho no campo. A Secretaria de Segurança Pública do estado confirmou o ocorrido.",
+          "porQueImporta": "O caso evidencia os riscos de circulação de máquinas agrícolas em vias rurais e a necessidade de medidas de segurança.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/12/batalhadora-e-dedicada-a-familia-quem-era-a-mulher-que-caiu-de-trator-e-morreu-atropelada-pelo-veiculo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-12T09:00:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_feZ9c2uRndsSKkyE8gPSQQHMto=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/j/aeQfAPTBenOBXKTQ78Jw/copia-de-modelo-foto-fundo-borrado-2-.png"
         }
       ]
     },
@@ -501,6 +401,29 @@
           ],
           "updatedAt": "2026-08-12T04:00:14.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/HLsnhmYx4eBsNMHNCEB4WeUAeXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/s/ThUyQyQvGAJnNLF2kJJg/eric-consoli.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "fea7b8f550a084b3",
+          "slug": "bbc5f5d6f5b19313",
+          "titulo": "Tufão Dolphin provoca enchentes e cancela 943 voos em Xangai",
+          "resumo": "O tufão Dolphin trouxe ventos de até 151 km/h à cidade de Xangai, gerando enchentes nas áreas afetadas. De acordo com a CCTV, 943 voos foram cancelados nos aeroportos da cidade, representando quase 40% do total programado. O fenômeno também foi registrado em vídeo que mostra um caminhão tombado devido ao vendaval. A ocorrência aconteceu na segunda‑feira, dia 10.",
+          "porQueImporta": "Afeta a mobilidade aérea e causa riscos de inundação na maior cidade da China",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/10/tufao-ventos-150-kmh-enchentes-cancelamento-voos-china-video-caminhao-tombando.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-10T10:03:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YeuHVNBKb_t-2R-rZXKc0PWHPus=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/h/uabbAHSb6n6q5NiJqXbA/2026-08-10t045316z-64206412-rc2gvmaudiv6-rtrmadp-3-asia-weather-china-typhoon.jpg"
         }
       ]
     }
