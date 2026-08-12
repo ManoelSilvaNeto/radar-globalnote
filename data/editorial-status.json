@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-08-11T21:23:59.209Z",
-  "editionDate": "2026-08-11",
-  "hourUtc": 21,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito e eventos sísmicos dominam o panorama de desastres nesta edição\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-08-12T03:06:00.054Z",
+  "editionDate": "2026-08-12",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
