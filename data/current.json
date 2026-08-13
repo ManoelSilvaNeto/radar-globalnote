@@ -1,31 +1,73 @@
 {
   "date": "2026-08-13",
-  "generatedAt": "2026-08-13T09:41:54.732Z",
+  "generatedAt": "2026-08-13T13:59:44.083Z",
   "home": [
     {
-      "clusterId": "5c5cf630c680c2f3",
-      "slug": "f17713079926fe58",
-      "titulo": "Terremoto de magnitude 7,4 deixa 265 mortos e dezenas de desaparecidos na Colômbia",
-      "resumo": "Um sismo de magnitude 7,4 atingiu o oeste da Colômbia na segunda‑feira (10), provocando colapso de edifícios e causando 265 mortes, 496 desaparecidos e cerca de 4 mil feridos, segundo o governo. O presidente Abelardo de la Espriella declarou emergência nacional e desastre, enquanto autoridades brasileiras enviaram ajuda humanitária ao país.",
-      "porQueImporta": "O desastre gera grande número de vítimas e demanda resposta humanitária e de reconstrução.",
+      "clusterId": "d507bb0247e261d8",
+      "slug": "ffbc97938cfe35bc",
+      "titulo": "Explosão no porto de Roterdã deixa um morto e vários feridos",
+      "resumo": "Uma explosão ocorreu no porto de Roterdã, na Holanda, por volta das 11h30. O local foi isolado para perícia. A polícia investigou a hipótese de sabotagem. Um porta-voz informou que a explosão causou uma morte e vários feridos.",
+      "porQueImporta": "O porto de Roterdã é o maior da Europa e abriga instalações petroquímicas, tornando o incidente relevante para a segurança e economia regional.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/13/explosao-e-registrada-em-porto-de-roterdam-na-holanda-e-causa-morte.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/explosao-em-porto-deixa-um-morto-e-varios-feridos-na-holanda"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/explosao-em-porto-na-holanda-deixa-um-morto-e-varios-feridos-diz-policia/"
+        }
+      ],
+      "updatedAt": "2026-08-13T13:44:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KeZuoTFi0Hr10USN3___twBXaSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/X/SAQj2KQm6QercA5oad8Q/rotterdam-.png"
+    },
+    {
+      "clusterId": "cd7d6243750d7e6b",
+      "slug": "ba41c2bff4d25a84",
+      "titulo": "Defesa Civil alerta para onda de calor e tempo seco em São Paulo",
+      "resumo": "A Defesa Civil emitiu alerta vermelho devido a uma forte onda de calor que deve atingir o estado até a próxima quarta-feira. As condições incluem temperaturas elevadas e umidade relativa do ar abaixo de 30% em algumas áreas. O alerta indica risco de incêndios e desconforto térmico para a população. As autoridades recomendam cuidados como hidratação e evitar exposição prolongada ao sol.",
+      "porQueImporta": "O calor intenso pode agravar riscos de incêndios e afetar a saúde da população",
+      "categoria": "Seca",
+      "categoriaSlug": "seca",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-vermelho-para-onda-de-calor-em-sao-paulo/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/defesa-civil-faz-alerta-sobre-calor-intenso-e-tempo-seco-em-veranico"
+        }
+      ],
+      "updatedAt": "2026-08-13T13:59:25.000Z",
+      "imageUrl": "https://images.metroimg.com/0dbc82dd-onda-de-calor-em-sao-paulo.jpg"
+    },
+    {
+      "clusterId": "666cb666558b3533",
+      "slug": "668ace8ef26cbe63",
+      "titulo": "Sobrevivente relata forte terremoto na Colômbia",
+      "resumo": "Um terremoto ocorreu na Colômbia na segunda‑feira (10), sendo descrito como muito mais intenso que os demais registrados na região. Andrés Salinas, de 34 anos, morador de Cali, contou que sentiu o tremor enquanto estava parado no sinal vermelho, percebendo um forte impacto no pneu do carro. O Serviço Geológico Colombiano indica cerca de 80 tremores diários no país, embora a maioria seja imperceptível.",
+      "porQueImporta": "O evento evidencia o risco sísmico em áreas densamente povoadas e a necessidade de preparação para desastres naturais.",
       "categoria": "Terremoto",
       "categoriaSlug": "terremoto",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/11/colombia-terremoto-enfrenta-colapso-hospitalar-toques-de-recolher.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/13/sobrevivente-de-outros-terremotos-da-relato-sobre-tragedia-na-colombia-muito-muitissimo-mais-forte.ghtml"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/presidente-da-colombia-decreta-emergencia-economica-para-enfrentar-terremoto/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/colombia-e-preparada-para-terremotos-mas-dois-fatores-pioraram-tragedia/"
         }
       ],
-      "updatedAt": "2026-08-13T01:45:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Vj-vRVE5kgiMH5ILtvrWA9x8VJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/T/TrZTueSVqrpOb2nkD5tQ/design-sem-nome-60-.jpg"
+      "updatedAt": "2026-08-13T13:12:12.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/hQlRpd2RzCy0LPIBeEBWBznFM_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/1uPBbtRzmiOwSnFqBjLg/2026-08-11t161740z-1407267129-rc2gwma6hxop-rtrmadp-3-colombia-quake.jpg"
     },
     {
       "clusterId": "09c3fa1fd2b3813d",
@@ -49,225 +91,111 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e70/live/85b71980-9677-11f1-82fc-4d0c496681c3.jpg"
     },
     {
-      "clusterId": "0e5741be8186ffd9",
-      "slug": "ea8be3f528ecae31",
-      "titulo": "Patrulha Canina: Uma Aventura Dino e A Morte de Robin Hood estreiam nos cinemas da Paraíba",
-      "resumo": "Os filmes “Patrulha Canina: Uma Aventura Dino” e “A Morte de Robin Hood” foram lançados nos cinemas da Paraíba nesta quinta‑feira (13). As sessões estão em cartaz nas cidades de João Pessoa, Campina Grande, Guarabira, Remígio e Patos.",
-      "porQueImporta": "A estreia amplia a programação cultural nas salas de cinema da região",
+      "clusterId": "b9c93d42e0d300f8",
+      "slug": "c791d230379b53a2",
+      "titulo": "Terremoto de magnitude 7,4 atinge a Colômbia e eleva número de mortos para 265",
+      "resumo": "Um sismo de magnitude 7,4 ocorreu na segunda‑feira (10) no oeste da Colômbia, com epicentro em San José del Palmar. O balanço oficial indica 265 mortos, quase 500 desaparecidos e cerca de 4 mil feridos. Autoridades declararam desastre nacional e solicitaram ajuda internacional, incluindo apoio humanitário do Brasil.",
+      "porQueImporta": "O evento representa o maior terremoto registrado no país na última década, demandando resposta de emergência e cooperação internacional.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/08/11/foi-desesperador-diz-brasileira-que-viveu-terremoto-durante-ferias-na-colombia.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-08-12T22:40:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/lnJnikAiGx73HpWnJV_S75e4Ov8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/5/Ug2Co2SbuuLndXe3eiAA/hellen-crys-e-a-amiga-eduarda-santos.jpeg"
+    },
+    {
+      "clusterId": "9b3f5046b1206660",
+      "slug": "f45ac8c853e4c619",
+      "titulo": "Acidente entre caminhão e camionete deixa mortos e bloqueia BR-470 em Pouso Redondo",
+      "resumo": "Na manhã desta quinta-feira, um caminhão colidiu com uma camionete na BR-470, km 169,3, em Pouso Redondo, no Vale do Itajaí. A colisão resultou em pelo menos duas mortes. Até as 10h40 o trânsito ficou bloqueado nos dois sentidos e o Corpo de Bombeiros foi acionado para atender as vítimas.",
+      "porQueImporta": "O acidente interrompeu o tráfego em uma rodovia importante da região, afetando a mobilidade e demandando resposta de emergência.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/13/acidente-mortos-bloqueia-br-470-sc.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-13T13:56:32.000Z"
+    },
+    {
+      "clusterId": "66f908dc3a19b01c",
+      "slug": "373ef4440d5e8347",
+      "titulo": "Acidente com seis veículos interdita pista da Dutra em São José dos Campos",
+      "resumo": "Na manhã de quinta-feira, um acidente envolvendo seis veículos, incluindo carros e caminhão, bloqueou totalmente a pista expressa da Rodovia Presidente Dutra, no km 144, em São José dos Campos (SP). A Polícia Rodoviária Federal registrou três feridos, sendo um com ferimentos moderados e dois com ferimentos leves. Por volta das 10h40, a interdição gerou cerca de oito quilômetros de congestionamento no trecho.",
+      "porQueImporta": "A obstrução da principal via rodoviária gera congestionamento e risco para os usuários da rodovia.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/acidente-com-cinco-veiculos-deixa-tres-feridos-e-interdita-pista-da-dutra-em-sao-jose-dos-campos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-13T13:47:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/MHMVE-pgq3ZPc1inHk8_pdPKBzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/AgeS2BRBWRGMqOkXKiFg/texto-do-seu-paragrafo-2026-08-13t104156.796.png"
+    },
+    {
+      "clusterId": "ca5e64b73f7e1b60",
+      "slug": "6ebc6bb0e3f7e125",
+      "titulo": "Socorristas buscam 111 desaparecidos após terremoto de magnitude 7,4 em Cali, Colômbia",
+      "resumo": "Autoridades informam que o terremoto de magnitude 7,4 atingiu Cali, deixando 111 pessoas desaparecidas. Mais de 1.800 profissionais estão envolvidos nas buscas. As equipes de socorro continuam as operações de localização e resgate. A situação permanece crítica na cidade.",
+      "porQueImporta": "O desastre pode gerar um grande número de vítimas e requer mobilização de recursos de emergência",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/socorristas-correm-contra-o-tempo-na-colombia-em-busca-de-desaparecidos/"
+        }
+      ],
+      "updatedAt": "2026-08-13T13:43:59.000Z"
+    },
+    {
+      "clusterId": "aa6238a0917464da",
+      "slug": "e97e1275d826d303",
+      "titulo": "Sagui resgatado após sofrer descarga elétrica em Valença",
+      "resumo": "No domingo, um sagui foi encontrado na Rua Júlio Furtado, bairro Parque Pentagna, após receber uma descarga elétrica na fiação. A Vigilância Ambiental de Valença foi acionada por uma moradora e realizou o resgate do animal. O mamífero recebeu primeiros atendimentos veterinários antes de ser liberado. A ocorrência foi divulgada pela prefeitura na quarta-feira.",
+      "porQueImporta": "Mostra a necessidade de atenção à infraestrutura elétrica para evitar acidentes com fauna urbana",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/13/patrulha-canina-uma-aventura-dino-e-a-morte-de-robin-hood-estreiam-nos-cinemas-da-paraiba.ghtml"
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/13/sagui-e-resgatado-apos-sofrer-descarga-eletrica-em-valenca.ghtml"
         }
       ],
-      "updatedAt": "2026-08-13T09:14:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/pZQXMPyPYqMlVF3AE4CeEB5CNpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/a/NoKQfWRKCEz6oUJJmaWg/filme-honestino.png"
+      "updatedAt": "2026-08-13T13:43:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0c1LsNgMpplK4rlVFmJxqbfq2YY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/f/IJwiTLRMKd1fNjkGEIsg/whatsapp-image-2026-08-13-at-08.50.20-3-.jpeg"
     },
     {
-      "clusterId": "3775c1f68dd90dc9",
-      "slug": "0c024162552541fa",
-      "titulo": "Terremoto na Colômbia deixa mais de 260 mortos e mais de 4 mil desaparecidos",
-      "resumo": "Um forte terremoto atingiu a Colômbia, resultando em um número de mortos que ultrapassa 260 pessoas. As autoridades registram mais de 4 mil desaparecidos após o evento. A situação gerou caos nas áreas afetadas, com dificuldades no acesso e na prestação de socorro. Organizações humanitárias acompanham a evolução dos danos e das necessidades de assistência.",
-      "porQueImporta": "A magnitude das perdas humanas exige mobilização de recursos e apoio internacional para as vítimas e suas famílias",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/ong-ligada-ao-papa-leao-xiv-relata-caos-apos-terremoto-na-colombia"
-        }
-      ],
-      "updatedAt": "2026-08-13T07:30:26.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/gettyimages-2289434622.jpg"
-    },
-    {
-      "clusterId": "5678facbbc6ab795",
-      "slug": "668ace8ef26cbe63",
-      "titulo": "Sobrevivente relata forte terremoto na Colômbia",
-      "resumo": "Um terremoto ocorreu na Colômbia na segunda‑feira (10), sendo descrito como muito mais intenso que os demais registrados na região. Andrés Salinas, de 34 anos, morador de Cali, contou que sentiu o tremor enquanto estava parado no sinal vermelho, percebendo um forte impacto no pneu do carro. O Serviço Geológico Colombiano indica cerca de 80 tremores diários no país, embora a maioria seja imperceptível.",
-      "porQueImporta": "O evento evidencia o risco sísmico em áreas densamente povoadas e a necessidade de preparação para desastres naturais.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/13/sobrevivente-de-outros-terremotos-da-relato-sobre-tragedia-na-colombia-muito-muitissimo-mais-forte.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-13T07:01:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/hQlRpd2RzCy0LPIBeEBWBznFM_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/1uPBbtRzmiOwSnFqBjLg/2026-08-11t161740z-1407267129-rc2gwma6hxop-rtrmadp-3-colombia-quake.jpg"
-    },
-    {
-      "clusterId": "105f9de8084fe5d9",
-      "slug": "0890775e8719d68d",
-      "titulo": "Chuvas, granizo e tornado causam danos em mais de 30 mil propriedades rurais no Rio Grande do Sul",
-      "resumo": "Intensas chuvas, granizo e um tornado que ocorreram entre 20 e 23 de julho afetaram 30.007 propriedades rurais em 101 municípios do Rio Grande do Sul, segundo levantamento da Emater/RS. Os eventos provocaram danos à infraestrutura rural, à produção agrícola, à pecuária e ao abastecimento de água, atingindo 1.606 localidades.",
-      "porQueImporta": "Os prejuízos comprometem a produção de alimentos e a segurança hídrica da região",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/13/chuvas-granizo-tornado-deixam-destruicao-propriedades-rurais-danificam-lavouras-no-rs-levantamento.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-13T05:00:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ZjBMBo69NJRtyN1TcBK70ndYESo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/1/0ZU9MzR8aLc9rtBBmmYA/6165066-bab195015bdfb77.jpg"
-    },
-    {
-      "clusterId": "89b7d9806a70c033",
-      "slug": "cd6d28aa9a485492",
-      "titulo": "Casal de aposentados tenta reconstruir casa destruída por temporal em Ribeirão Preto",
-      "resumo": "Três semanas após um temporal com ventas de até 160 km/h derrubar parte do teto de uma residência no Jardim Jóquei Clube, zona norte de Ribeirão Preto, o casal de 71 anos continua sem abrigo e chegou a dormir no carro. Um pedreiro iniciou a reconstrução, mas a obra ainda não foi concluída. A casa apresenta rachaduras e está sem condições de servir de moradia.",
-      "porQueImporta": "Ilustra a vulnerabilidade de moradias a eventos climáticos extremos e a necessidade de apoio à reconstrução.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/13/aposentados-ainda-tentam-reconstruir-casa-3-semanas-apos-temporal-com-ventos-de-ate-160-kmh-em-ribeirao-preto.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-13T04:29:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jCM2UAo2bxu6Bl5sROohqJmGmtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/c/D3GKrRTNyIabYeNwa4tg/vlcsnap-2026-08-12-20h27m36s085.png"
-    },
-    {
-      "clusterId": "df17e8da0f83470a",
-      "slug": "7ce9b513fc6b0c28",
-      "titulo": "Advogada morre ao proteger cachorro durante terremoto na Colômbia",
-      "resumo": "A advogada Lenny Fernández, de 38 anos, morreu ao tentar proteger seu cachorro Salomón durante o terremoto que atingiu Cali e outras cidades da Colômbia. Ela foi encontrada sob os escombros de um prédio no bairro Cuarto de Legua, com o animal embaixo de seu corpo. O cão sobreviveu e recebeu atendimento médico após ser resgatado.",
-      "porQueImporta": "O caso destaca os riscos de desastres naturais e a coragem de pessoas que tentam salvar animais.",
+      "clusterId": "e7bd1aa2994541a5",
+      "slug": "03eabd21a58c1a13",
+      "titulo": "Pedestre fica gravemente ferido após ser atropelado na Dutra, em Taubaté",
+      "resumo": "Um pedestre ficou gravemente ferido após ser atropelado por um veículo utilitário na manhã desta quinta-feira (13), na Rodovia Presidente Dutra, em Taubaté (SP). Segundo a concessionária RioSP, responsável pelo trecho, o acidente aconteceu por volta das 8h, no km 106,250, na pista sentido São Paulo. A vítima foi socorrida e levada para o Hospital Regional de Taubaté. Não há informações sobre o estado de saúde da vítima. ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e região no WhatsApp Por causa do acidente, a faixa da esquerda precisou ser interditada. A pista foi liberada por…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/13/advogada-morre-ao-proteger-cachorro-durante-terremoto-na-colombia.ghtml"
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/pedestre-fica-gravemente-ferido-apos-ser-atropelado-na-dutra-em-taubate.ghtml"
         }
       ],
-      "updatedAt": "2026-08-13T03:00:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lOuEDT4KF0a5v02KZGhcrOcZiYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/4/0Y4Y4gTtunXqxFaL2xZg/leny-fernandez.webp"
-    },
-    {
-      "clusterId": "85279989d68a2c76",
-      "slug": "4ce01068975035c0",
-      "titulo": "Balsa naufraga no lago Kariba, no Zimbábue, deixando 44 mortos",
-      "resumo": "Uma balsa que transportava mais de 100 passageiros virou no lago Kariba, no Zimbábue, na última terça-feira. A polícia informou que 44 pessoas morreram no acidente. A embarcação pertencia à Agência de Desenvolvimento de Infraestruturas e levava adultos, tripulantes e crianças, segundo a Unidade de Proteção Civil.",
-      "porQueImporta": "O incidente evidencia riscos de transporte aquático em áreas com ondas fortes",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/12/acidente-com-balsa-em-lago-no-zimbabue-deixa-44-mortos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-12T16:22:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lVSYU_5lG71muU3X9mfAQphRKnM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/wMK2cSQymioPYBf8PHMw/afp-20260812-c4fv43f-v1-highres-zimbabwetransportaccident.jpg"
-    },
-    {
-      "clusterId": "c60a2af64d00a482",
-      "slug": "4318fe7532f1b258",
-      "titulo": "Três terremotos de magnitude superior a 7,0 ocorrem no último mês e meio",
-      "resumo": "Nos últimos 45 dias, Venezuela, Japão e Colômbia foram atingidos por tremores com magnitude acima de 7,0, resultando em mortes e danos materiais. A extensão da destruição variou conforme a profundidade dos sismos, a localização dos epicentros e o nível de preparação das infraestruturas locais.",
-      "porQueImporta": "Os eventos ressaltam a vulnerabilidade de áreas densamente povoadas a fortes sismos e a necessidade de reforçar normas de construção.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/12/colombia-japao-venezuela-veja-comparativo-entre-os-tres-fortes-terremotos-das-ultimas-semanas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-12T13:25:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/uMg5iG_qjgmljNz3DlXVtwqnaI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/HLfqOPSNiYAOQFlHIGNw/2026-07-11t222946z-1951886010-rc2xbma1daqu-rtrmadp-3-venezuela-quake.jpg"
+      "updatedAt": "2026-08-13T13:04:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GWZk7_shYErN08Zsf0My2Wa39m4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/F/KhcVB7SkKwFPU5noBz0Q/texto-do-seu-paragrafo-50-.png"
     }
   ],
   "categorias": [
-    {
-      "slug": "terremoto",
-      "label": "Terremoto",
-      "stories": [
-        {
-          "clusterId": "5c5cf630c680c2f3",
-          "slug": "f17713079926fe58",
-          "titulo": "Terremoto de magnitude 7,4 deixa 265 mortos e dezenas de desaparecidos na Colômbia",
-          "resumo": "Um sismo de magnitude 7,4 atingiu o oeste da Colômbia na segunda‑feira (10), provocando colapso de edifícios e causando 265 mortes, 496 desaparecidos e cerca de 4 mil feridos, segundo o governo. O presidente Abelardo de la Espriella declarou emergência nacional e desastre, enquanto autoridades brasileiras enviaram ajuda humanitária ao país.",
-          "porQueImporta": "O desastre gera grande número de vítimas e demanda resposta humanitária e de reconstrução.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/11/colombia-terremoto-enfrenta-colapso-hospitalar-toques-de-recolher.ghtml"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/presidente-da-colombia-decreta-emergencia-economica-para-enfrentar-terremoto/"
-            },
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-08-13T01:45:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Vj-vRVE5kgiMH5ILtvrWA9x8VJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/T/TrZTueSVqrpOb2nkD5tQ/design-sem-nome-60-.jpg"
-        },
-        {
-          "clusterId": "3775c1f68dd90dc9",
-          "slug": "0c024162552541fa",
-          "titulo": "Terremoto na Colômbia deixa mais de 260 mortos e mais de 4 mil desaparecidos",
-          "resumo": "Um forte terremoto atingiu a Colômbia, resultando em um número de mortos que ultrapassa 260 pessoas. As autoridades registram mais de 4 mil desaparecidos após o evento. A situação gerou caos nas áreas afetadas, com dificuldades no acesso e na prestação de socorro. Organizações humanitárias acompanham a evolução dos danos e das necessidades de assistência.",
-          "porQueImporta": "A magnitude das perdas humanas exige mobilização de recursos e apoio internacional para as vítimas e suas famílias",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/ong-ligada-ao-papa-leao-xiv-relata-caos-apos-terremoto-na-colombia"
-            }
-          ],
-          "updatedAt": "2026-08-13T07:30:26.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/08/gettyimages-2289434622.jpg"
-        },
-        {
-          "clusterId": "5678facbbc6ab795",
-          "slug": "668ace8ef26cbe63",
-          "titulo": "Sobrevivente relata forte terremoto na Colômbia",
-          "resumo": "Um terremoto ocorreu na Colômbia na segunda‑feira (10), sendo descrito como muito mais intenso que os demais registrados na região. Andrés Salinas, de 34 anos, morador de Cali, contou que sentiu o tremor enquanto estava parado no sinal vermelho, percebendo um forte impacto no pneu do carro. O Serviço Geológico Colombiano indica cerca de 80 tremores diários no país, embora a maioria seja imperceptível.",
-          "porQueImporta": "O evento evidencia o risco sísmico em áreas densamente povoadas e a necessidade de preparação para desastres naturais.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/13/sobrevivente-de-outros-terremotos-da-relato-sobre-tragedia-na-colombia-muito-muitissimo-mais-forte.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T07:01:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hQlRpd2RzCy0LPIBeEBWBznFM_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/1uPBbtRzmiOwSnFqBjLg/2026-08-11t161740z-1407267129-rc2gwma6hxop-rtrmadp-3-colombia-quake.jpg"
-        },
-        {
-          "clusterId": "c60a2af64d00a482",
-          "slug": "4318fe7532f1b258",
-          "titulo": "Três terremotos de magnitude superior a 7,0 ocorrem no último mês e meio",
-          "resumo": "Nos últimos 45 dias, Venezuela, Japão e Colômbia foram atingidos por tremores com magnitude acima de 7,0, resultando em mortes e danos materiais. A extensão da destruição variou conforme a profundidade dos sismos, a localização dos epicentros e o nível de preparação das infraestruturas locais.",
-          "porQueImporta": "Os eventos ressaltam a vulnerabilidade de áreas densamente povoadas a fortes sismos e a necessidade de reforçar normas de construção.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/colombia-japao-venezuela-veja-comparativo-entre-os-tres-fortes-terremotos-das-ultimas-semanas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-12T13:25:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/uMg5iG_qjgmljNz3DlXVtwqnaI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/HLfqOPSNiYAOQFlHIGNw/2026-07-11t222946z-1951886010-rc2xbma1daqu-rtrmadp-3-venezuela-quake.jpg"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
@@ -294,21 +222,89 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e70/live/85b71980-9677-11f1-82fc-4d0c496681c3.jpg"
         },
         {
-          "clusterId": "0e5741be8186ffd9",
-          "slug": "ea8be3f528ecae31",
-          "titulo": "Patrulha Canina: Uma Aventura Dino e A Morte de Robin Hood estreiam nos cinemas da Paraíba",
-          "resumo": "Os filmes “Patrulha Canina: Uma Aventura Dino” e “A Morte de Robin Hood” foram lançados nos cinemas da Paraíba nesta quinta‑feira (13). As sessões estão em cartaz nas cidades de João Pessoa, Campina Grande, Guarabira, Remígio e Patos.",
-          "porQueImporta": "A estreia amplia a programação cultural nas salas de cinema da região",
+          "clusterId": "aa6238a0917464da",
+          "slug": "e97e1275d826d303",
+          "titulo": "Sagui resgatado após sofrer descarga elétrica em Valença",
+          "resumo": "No domingo, um sagui foi encontrado na Rua Júlio Furtado, bairro Parque Pentagna, após receber uma descarga elétrica na fiação. A Vigilância Ambiental de Valença foi acionada por uma moradora e realizou o resgate do animal. O mamífero recebeu primeiros atendimentos veterinários antes de ser liberado. A ocorrência foi divulgada pela prefeitura na quarta-feira.",
+          "porQueImporta": "Mostra a necessidade de atenção à infraestrutura elétrica para evitar acidentes com fauna urbana",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/13/patrulha-canina-uma-aventura-dino-e-a-morte-de-robin-hood-estreiam-nos-cinemas-da-paraiba.ghtml"
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/13/sagui-e-resgatado-apos-sofrer-descarga-eletrica-em-valenca.ghtml"
             }
           ],
-          "updatedAt": "2026-08-13T09:14:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pZQXMPyPYqMlVF3AE4CeEB5CNpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/a/NoKQfWRKCEz6oUJJmaWg/filme-honestino.png"
+          "updatedAt": "2026-08-13T13:43:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0c1LsNgMpplK4rlVFmJxqbfq2YY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/f/IJwiTLRMKd1fNjkGEIsg/whatsapp-image-2026-08-13-at-08.50.20-3-.jpeg"
+        },
+        {
+          "clusterId": "e7bd1aa2994541a5",
+          "slug": "03eabd21a58c1a13",
+          "titulo": "Pedestre fica gravemente ferido após ser atropelado na Dutra, em Taubaté",
+          "resumo": "Um pedestre ficou gravemente ferido após ser atropelado por um veículo utilitário na manhã desta quinta-feira (13), na Rodovia Presidente Dutra, em Taubaté (SP). Segundo a concessionária RioSP, responsável pelo trecho, o acidente aconteceu por volta das 8h, no km 106,250, na pista sentido São Paulo. A vítima foi socorrida e levada para o Hospital Regional de Taubaté. Não há informações sobre o estado de saúde da vítima. ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e região no WhatsApp Por causa do acidente, a faixa da esquerda precisou ser interditada. A pista foi liberada por…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/pedestre-fica-gravemente-ferido-apos-ser-atropelado-na-dutra-em-taubate.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T13:04:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GWZk7_shYErN08Zsf0My2Wa39m4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/F/KhcVB7SkKwFPU5noBz0Q/texto-do-seu-paragrafo-50-.png"
+        },
+        {
+          "clusterId": "3136fdb93b076504",
+          "slug": "9d02776f842a049a",
+          "titulo": "Parque Estadual de Terra Ronca tem mais de 10 mil hectares atingidos por incêndio, diz Lasa",
+          "resumo": "Incêndio já destruiu 8 mil hectares na região do Parque Estadual Terra Ronca Um incêndio que atinge a região do Parque Estadual de Terra Ronca, em São Domingos e Guarani de Goiás, no nordeste do estado, já atingiu 10.332 hectares dentro da unidade de conservação, segundo dados do Laboratório de Aplicações de Satélites Ambientais da Universidade Federal do Rio de Janeiro (Lasa/UFRJ). O número corresponde a 18,13% da área do parque, que tem aproximadamente 57 mil hectares. ✅ Clique e siga o canal do g1 GO no WhatsApp Os primeiros focos de incêndio foram detectados no dia 10 de agosto. Segundo o…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/08/13/parque-estadual-de-terra-ronca-tem-mais-de-10-mil-hectares-atingidos-por-incendio-diz-lasa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T13:02:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vA7Ece6PySQ0ffMGIBUneRUYHX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/L/n3va6rTfi87SZnhcfUBg/fogo-terra-ronca-2.png"
+        },
+        {
+          "clusterId": "a15382b7d892488f",
+          "slug": "773df7a8e104128b",
+          "titulo": "Coopama amplia oferta de tratores Landini e serviços para produtores da região",
+          "resumo": "A Concessionária Coopama passou a disponibilizar uma linha completa de tratores Landini, incluindo peças, assistência técnica e manutenção especializada. A iniciativa visa atender às demandas de diferentes produtores, oferecendo maior segurança e confiabilidade no uso dos equipamentos agrícolas.",
+          "porQueImporta": "A ampliação facilita a mecanização agrícola, contribuindo para aumento de produtividade e redução de custos operacionais",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/coopama-cooperativa-coopama/noticia/2026/08/13/coopama-amplia-solucoes-com-concessionaria-landini-para-diferentes-produtores.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T12:54:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/r_tnYuN2FzU4KvCxmQ7oIZHvDNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/V/icEj7nRO6ugDIUroFH1w/1.png"
+        },
+        {
+          "clusterId": "6723b8cf92975b15",
+          "slug": "fbb8e66192194ba0",
+          "titulo": "Rodovia segue interditada em Natividade cinco meses após desmoronamento",
+          "resumo": "Moradores de Natividade denunciam falta de solução para desmoronamento na RJ-198 Quase cinco meses após o desmoronamento que atingiu a RJ-198, em Natividade, no Noroeste Fluminense, a rodovia segue sem solução definitiva. Moradores e comerciantes relatam prejuízos com a queda no movimento e temem novos deslizamentos com a chegada das chuvas. O trecho prejudicado fica entre os distritos de Ourânia e Bom Jesus do Querendo. O Departamento de Estradas de Rodagem do Rio de Janeiro (DER-RJ) afirma que o processo de licitação para obras de contenção está em andamento, mas ainda não há prazo definido…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/08/13/rodovia-segue-interditada-em-natividade-cinco-meses-apos-desmoronamento.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T12:41:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EhRwZV8OYOQwlt_AjqOJ-FejIbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/d/dbzj6XRHqaonJ8sxB1Iw/transito-em-natividade.jpg"
         },
         {
           "clusterId": "df17e8da0f83470a",
@@ -325,7 +321,7 @@
             }
           ],
           "updatedAt": "2026-08-13T03:00:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lOuEDT4KF0a5v02KZGhcrOcZiYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/4/0Y4Y4gTtunXqxFaL2xZg/leny-fernandez.webp"
+          "imageUrl": "https://s2-g1.glbimg.com/txP_6XGcfKUNVEs_iSJ_MeyOjsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/K/FomzAJStm5LTrOR8WasA/fotojet-2026-08-13t085530.505.jpg"
         },
         {
           "clusterId": "28d6ad616612e7b8",
@@ -347,42 +343,260 @@
       ]
     },
     {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "666cb666558b3533",
+          "slug": "668ace8ef26cbe63",
+          "titulo": "Sobrevivente relata forte terremoto na Colômbia",
+          "resumo": "Um terremoto ocorreu na Colômbia na segunda‑feira (10), sendo descrito como muito mais intenso que os demais registrados na região. Andrés Salinas, de 34 anos, morador de Cali, contou que sentiu o tremor enquanto estava parado no sinal vermelho, percebendo um forte impacto no pneu do carro. O Serviço Geológico Colombiano indica cerca de 80 tremores diários no país, embora a maioria seja imperceptível.",
+          "porQueImporta": "O evento evidencia o risco sísmico em áreas densamente povoadas e a necessidade de preparação para desastres naturais.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/13/sobrevivente-de-outros-terremotos-da-relato-sobre-tragedia-na-colombia-muito-muitissimo-mais-forte.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/colombia-e-preparada-para-terremotos-mas-dois-fatores-pioraram-tragedia/"
+            }
+          ],
+          "updatedAt": "2026-08-13T13:12:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hQlRpd2RzCy0LPIBeEBWBznFM_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/1uPBbtRzmiOwSnFqBjLg/2026-08-11t161740z-1407267129-rc2gwma6hxop-rtrmadp-3-colombia-quake.jpg"
+        },
+        {
+          "clusterId": "b9c93d42e0d300f8",
+          "slug": "c791d230379b53a2",
+          "titulo": "Terremoto de magnitude 7,4 atinge a Colômbia e eleva número de mortos para 265",
+          "resumo": "Um sismo de magnitude 7,4 ocorreu na segunda‑feira (10) no oeste da Colômbia, com epicentro em San José del Palmar. O balanço oficial indica 265 mortos, quase 500 desaparecidos e cerca de 4 mil feridos. Autoridades declararam desastre nacional e solicitaram ajuda internacional, incluindo apoio humanitário do Brasil.",
+          "porQueImporta": "O evento representa o maior terremoto registrado no país na última década, demandando resposta de emergência e cooperação internacional.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/08/11/foi-desesperador-diz-brasileira-que-viveu-terremoto-durante-ferias-na-colombia.ghtml"
+            },
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-08-12T22:40:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lnJnikAiGx73HpWnJV_S75e4Ov8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/5/Ug2Co2SbuuLndXe3eiAA/hellen-crys-e-a-amiga-eduarda-santos.jpeg"
+        },
+        {
+          "clusterId": "ca5e64b73f7e1b60",
+          "slug": "6ebc6bb0e3f7e125",
+          "titulo": "Socorristas buscam 111 desaparecidos após terremoto de magnitude 7,4 em Cali, Colômbia",
+          "resumo": "Autoridades informam que o terremoto de magnitude 7,4 atingiu Cali, deixando 111 pessoas desaparecidas. Mais de 1.800 profissionais estão envolvidos nas buscas. As equipes de socorro continuam as operações de localização e resgate. A situação permanece crítica na cidade.",
+          "porQueImporta": "O desastre pode gerar um grande número de vítimas e requer mobilização de recursos de emergência",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/socorristas-correm-contra-o-tempo-na-colombia-em-busca-de-desaparecidos/"
+            }
+          ],
+          "updatedAt": "2026-08-13T13:43:59.000Z"
+        },
+        {
+          "clusterId": "c60a2af64d00a482",
+          "slug": "4318fe7532f1b258",
+          "titulo": "Três terremotos de magnitude superior a 7,0 ocorrem no último mês e meio",
+          "resumo": "Nos últimos 45 dias, Venezuela, Japão e Colômbia foram atingidos por tremores com magnitude acima de 7,0, resultando em mortes e danos materiais. A extensão da destruição variou conforme a profundidade dos sismos, a localização dos epicentros e o nível de preparação das infraestruturas locais.",
+          "porQueImporta": "Os eventos ressaltam a vulnerabilidade de áreas densamente povoadas a fortes sismos e a necessidade de reforçar normas de construção.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/colombia-japao-venezuela-veja-comparativo-entre-os-tres-fortes-terremotos-das-ultimas-semanas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-12T13:25:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uMg5iG_qjgmljNz3DlXVtwqnaI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/HLfqOPSNiYAOQFlHIGNw/2026-07-11t222946z-1951886010-rc2xbma1daqu-rtrmadp-3-venezuela-quake.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "d507bb0247e261d8",
+          "slug": "ffbc97938cfe35bc",
+          "titulo": "Explosão no porto de Roterdã deixa um morto e vários feridos",
+          "resumo": "Uma explosão ocorreu no porto de Roterdã, na Holanda, por volta das 11h30. O local foi isolado para perícia. A polícia investigou a hipótese de sabotagem. Um porta-voz informou que a explosão causou uma morte e vários feridos.",
+          "porQueImporta": "O porto de Roterdã é o maior da Europa e abriga instalações petroquímicas, tornando o incidente relevante para a segurança e economia regional.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/13/explosao-e-registrada-em-porto-de-roterdam-na-holanda-e-causa-morte.ghtml"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/explosao-em-porto-deixa-um-morto-e-varios-feridos-na-holanda"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/explosao-em-porto-na-holanda-deixa-um-morto-e-varios-feridos-diz-policia/"
+            }
+          ],
+          "updatedAt": "2026-08-13T13:44:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KeZuoTFi0Hr10USN3___twBXaSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/X/SAQj2KQm6QercA5oad8Q/rotterdam-.png"
+        },
+        {
+          "clusterId": "d9b615f9de868d26",
+          "slug": "a28331d3a96002b2",
+          "titulo": "Rússia usou mísseis norte-coreanos em bombardeio que matou seis pessoas em Zaporizhzhia",
+          "resumo": "O presidente da Ucrânia, Volodymer Zelensky, afirmou que a Rússia empregou mísseis de origem norte-coreana em um ataque aéreo sobre Zaporizhzhia. O bombardeio resultou em seis mortes e provocou incêndios em edifícios e veículos, conforme imagens divulgadas pelo governador regional Ivan Fedorov. Autoridades locais relataram que outras vinte pessoas ficaram feridas. O incidente ocorreu na terça‑feira, 11 de agosto de 2026.",
+          "porQueImporta": "O uso de armamento estrangeiro em conflitos eleva o risco de escalada regional e afeta a segurança civil.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/11/russia-utilizou-misseis-norte-coreanos-bombardeio-com-mortes-diz-zelensky.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-11T16:21:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MblCN45JNzM5y0NplZSKEGeRvao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/F/dAQVNtQMAEQ2KfGmuejg/hpbgl5wwiaaophr.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "9b3f5046b1206660",
+          "slug": "f45ac8c853e4c619",
+          "titulo": "Acidente entre caminhão e camionete deixa mortos e bloqueia BR-470 em Pouso Redondo",
+          "resumo": "Na manhã desta quinta-feira, um caminhão colidiu com uma camionete na BR-470, km 169,3, em Pouso Redondo, no Vale do Itajaí. A colisão resultou em pelo menos duas mortes. Até as 10h40 o trânsito ficou bloqueado nos dois sentidos e o Corpo de Bombeiros foi acionado para atender as vítimas.",
+          "porQueImporta": "O acidente interrompeu o tráfego em uma rodovia importante da região, afetando a mobilidade e demandando resposta de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/13/acidente-mortos-bloqueia-br-470-sc.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T13:56:32.000Z"
+        },
+        {
+          "clusterId": "66f908dc3a19b01c",
+          "slug": "373ef4440d5e8347",
+          "titulo": "Acidente com seis veículos interdita pista da Dutra em São José dos Campos",
+          "resumo": "Na manhã de quinta-feira, um acidente envolvendo seis veículos, incluindo carros e caminhão, bloqueou totalmente a pista expressa da Rodovia Presidente Dutra, no km 144, em São José dos Campos (SP). A Polícia Rodoviária Federal registrou três feridos, sendo um com ferimentos moderados e dois com ferimentos leves. Por volta das 10h40, a interdição gerou cerca de oito quilômetros de congestionamento no trecho.",
+          "porQueImporta": "A obstrução da principal via rodoviária gera congestionamento e risco para os usuários da rodovia.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/acidente-com-cinco-veiculos-deixa-tres-feridos-e-interdita-pista-da-dutra-em-sao-jose-dos-campos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T13:47:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MHMVE-pgq3ZPc1inHk8_pdPKBzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/AgeS2BRBWRGMqOkXKiFg/texto-do-seu-paragrafo-2026-08-13t104156.796.png"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "72593eb6b992d0eb",
+          "slug": "806cf9f7897bd784",
+          "titulo": "Mulher de 26 anos encontrada morta em casa incendiada em Pindamonhangaba",
+          "resumo": "Um incêndio na manhã de quinta-feira (13) na casa de uma mulher de 26 anos no bairro Araretama, em Pindamonhangaba, resultou na descoberta de seu corpo carbonizado. O Corpo de Bombeiros foi acionado por volta das 7h30, mas as chamas foram extintas pelos vizinhos. A Polícia Militar e a perícia foram acionadas para investigar a ocorrência. A suspeita inicial é de que a mulher já estava morta antes do incêndio, mas a causa ainda será determinada pela perícia.",
+          "porQueImporta": "O caso destaca a necessidade de investigação de mortes em incêndios residenciais.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/mulher-e-encontrada-morta-dentro-de-casa-incendiada-em-pindamonhangaba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T12:57:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/LRn1KLmfBM1xnX1k2uoBtCP1fcw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/s/iBpPAATzaBD4nuoQDgBQ/8dafab7f-0dc6-406b-93bd-958c84fc17f1.jpg"
+        },
+        {
+          "clusterId": "3c35fc392e936b52",
+          "slug": "9e2f8d7f162ddd7c",
+          "titulo": "Incêndio em balsa deixa um morto e 172 resgatados na Indonésia",
+          "resumo": "Uma balsa que partiu de Padangbai, em Bali, em direção a Lembar, em Lombok, pegou fogo nas águas próximas à ilha de Lombok. As autoridades locais resgataram 172 pessoas e registraram um óbito, enquanto continuam as buscas por passageiros desaparecidos. O incidente foi reportado na quarta‑feira.",
+          "porQueImporta": "O acidente evidencia riscos de transporte marítimo em rotas turísticas da Indonésia",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/incendio-em-balsana-indonesia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-12T06:18:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xBALSsJ8bJsIUNBhUI2P6DCIhjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/3/WJVxazToeNABKOCIPWUg/2026-08-12t050425z-1762985661-rc2swma0ulnr-rtrmadp-3-indonesia-shipwreck-fire.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "seca",
+      "label": "Seca",
+      "stories": [
+        {
+          "clusterId": "cd7d6243750d7e6b",
+          "slug": "ba41c2bff4d25a84",
+          "titulo": "Defesa Civil alerta para onda de calor e tempo seco em São Paulo",
+          "resumo": "A Defesa Civil emitiu alerta vermelho devido a uma forte onda de calor que deve atingir o estado até a próxima quarta-feira. As condições incluem temperaturas elevadas e umidade relativa do ar abaixo de 30% em algumas áreas. O alerta indica risco de incêndios e desconforto térmico para a população. As autoridades recomendam cuidados como hidratação e evitar exposição prolongada ao sol.",
+          "porQueImporta": "O calor intenso pode agravar riscos de incêndios e afetar a saúde da população",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-vermelho-para-onda-de-calor-em-sao-paulo/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/defesa-civil-faz-alerta-sobre-calor-intenso-e-tempo-seco-em-veranico"
+            }
+          ],
+          "updatedAt": "2026-08-13T13:59:25.000Z",
+          "imageUrl": "https://images.metroimg.com/0dbc82dd-onda-de-calor-em-sao-paulo.jpg"
+        }
+      ]
+    },
+    {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "105f9de8084fe5d9",
-          "slug": "0890775e8719d68d",
-          "titulo": "Chuvas, granizo e tornado causam danos em mais de 30 mil propriedades rurais no Rio Grande do Sul",
-          "resumo": "Intensas chuvas, granizo e um tornado que ocorreram entre 20 e 23 de julho afetaram 30.007 propriedades rurais em 101 municípios do Rio Grande do Sul, segundo levantamento da Emater/RS. Os eventos provocaram danos à infraestrutura rural, à produção agrícola, à pecuária e ao abastecimento de água, atingindo 1.606 localidades.",
-          "porQueImporta": "Os prejuízos comprometem a produção de alimentos e a segurança hídrica da região",
+          "clusterId": "78aa5ad94ae67d2c",
+          "slug": "459473d5bfcf8dfc",
+          "titulo": "Paraná volta a ficar sob alerta de tempestades intensas",
+          "resumo": "O tempo começou a mudar nesta quinta-feira, com aumento das temperaturas e risco de chuvas fortes no estado. A Defesa Civil e o Simepar emitiram alerta de temporais que devem se intensificar na sexta, especialmente nos Campos Gerais e na região metropolitana de Curitiba. Os temporais devem iniciar de forma mais amena ao longo do dia na faixa sul do estado.",
+          "porQueImporta": "O alerta indica risco de alagamentos e danos à população e infraestrutura",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/13/chuvas-granizo-tornado-deixam-destruicao-propriedades-rurais-danificam-lavouras-no-rs-levantamento.ghtml"
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/13/tempo-vira-e-parte-do-parana-recebe-novo-alerta-de-tempestades-intensas-veja-onde-e-a-previsao-do-tempo.ghtml"
             }
           ],
-          "updatedAt": "2026-08-13T05:00:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ZjBMBo69NJRtyN1TcBK70ndYESo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/1/0ZU9MzR8aLc9rtBBmmYA/6165066-bab195015bdfb77.jpg"
-        },
-        {
-          "clusterId": "89b7d9806a70c033",
-          "slug": "cd6d28aa9a485492",
-          "titulo": "Casal de aposentados tenta reconstruir casa destruída por temporal em Ribeirão Preto",
-          "resumo": "Três semanas após um temporal com ventas de até 160 km/h derrubar parte do teto de uma residência no Jardim Jóquei Clube, zona norte de Ribeirão Preto, o casal de 71 anos continua sem abrigo e chegou a dormir no carro. Um pedreiro iniciou a reconstrução, mas a obra ainda não foi concluída. A casa apresenta rachaduras e está sem condições de servir de moradia.",
-          "porQueImporta": "Ilustra a vulnerabilidade de moradias a eventos climáticos extremos e a necessidade de apoio à reconstrução.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/13/aposentados-ainda-tentam-reconstruir-casa-3-semanas-apos-temporal-com-ventos-de-ate-160-kmh-em-ribeirao-preto.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T04:29:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jCM2UAo2bxu6Bl5sROohqJmGmtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/c/D3GKrRTNyIabYeNwa4tg/vlcsnap-2026-08-12-20h27m36s085.png"
+          "updatedAt": "2026-08-13T12:50:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/O2jYoMe_6tUVtGw0nxBA4k-9ai8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/4jTYRATnaVxBchZuXnfw/carlos-eduardo.jpg"
         }
       ]
     },
@@ -429,52 +643,6 @@
           ],
           "updatedAt": "2026-08-12T11:39:06.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/vZT533s_h-ucEdTyd_Wibi1P048=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/0/dZwk0cT6egxeBmlgl8Ew/f589e430-95b5-11f1-b2ab-0dd01740f9f6.png-redimensionado-para-1200x651.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "3c35fc392e936b52",
-          "slug": "9e2f8d7f162ddd7c",
-          "titulo": "Incêndio em balsa deixa um morto e resgata 172 pessoas na Indonésia",
-          "resumo": "Autoridades indonésias resgataram 172 passageiros após a balsa KM Putri Yasmin pegar fogo nas águas próximas a Lombok. A embarcação partiu de Padangbai, em Bali, com destino a Lembar, em Lombok. Uma mulher de 19 anos morreu no acidente e buscas continuam por passageiros desaparecidos. O caso está sob investigação.",
-          "porQueImporta": "O incidente evidencia riscos de transporte marítimo em rotas turísticas da Indonésia",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/incendio-em-balsana-indonesia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-12T06:18:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xBALSsJ8bJsIUNBhUI2P6DCIhjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/3/WJVxazToeNABKOCIPWUg/2026-08-12t050425z-1762985661-rc2swma0ulnr-rtrmadp-3-indonesia-shipwreck-fire.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "d9b615f9de868d26",
-          "slug": "a28331d3a96002b2",
-          "titulo": "Rússia usou mísseis norte-coreanos em bombardeio que matou seis pessoas em Zaporizhzhia",
-          "resumo": "O presidente da Ucrânia, Volodymer Zelensky, afirmou que a Rússia empregou mísseis de origem norte-coreana em um ataque aéreo sobre Zaporizhzhia. O bombardeio resultou em seis mortes e provocou incêndios em edifícios e veículos, conforme imagens divulgadas pelo governador regional Ivan Fedorov. Autoridades locais relataram que outras vinte pessoas ficaram feridas. O incidente ocorreu na terça‑feira, 11 de agosto de 2026.",
-          "porQueImporta": "O uso de armamento estrangeiro em conflitos eleva o risco de escalada regional e afeta a segurança civil.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/11/russia-utilizou-misseis-norte-coreanos-bombardeio-com-mortes-diz-zelensky.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-11T16:21:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MblCN45JNzM5y0NplZSKEGeRvao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/F/dAQVNtQMAEQ2KfGmuejg/hpbgl5wwiaaophr.jpg"
         }
       ]
     }
