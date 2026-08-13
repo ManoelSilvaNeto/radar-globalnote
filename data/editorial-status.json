@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-08-12T13:59:15.211Z",
-  "editionDate": "2026-08-12",
-  "hourUtc": 13,
-  "outcome": "generated",
-  "reason": "\"Incidentes de desastres e acidentes se concentram em eventos sísmicos na Colômbia e em ocorrências de trânsito no Brasil\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-08-13T03:10:04.892Z",
+  "editionDate": "2026-08-13",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
