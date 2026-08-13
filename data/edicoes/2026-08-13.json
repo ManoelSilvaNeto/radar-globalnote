@@ -1,198 +1,184 @@
 {
   "date": "2026-08-13",
-  "generatedAt": "2026-08-13T13:59:44.083Z",
+  "generatedAt": "2026-08-13T17:31:02.898Z",
   "home": [
     {
-      "clusterId": "d507bb0247e261d8",
-      "slug": "ffbc97938cfe35bc",
-      "titulo": "Explosão no porto de Roterdã deixa um morto e vários feridos",
-      "resumo": "Uma explosão ocorreu no porto de Roterdã, na Holanda, por volta das 11h30. O local foi isolado para perícia. A polícia investigou a hipótese de sabotagem. Um porta-voz informou que a explosão causou uma morte e vários feridos.",
-      "porQueImporta": "O porto de Roterdã é o maior da Europa e abriga instalações petroquímicas, tornando o incidente relevante para a segurança e economia regional.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
+      "clusterId": "796aa008539d05a2",
+      "slug": "cbefd27c52e25408",
+      "titulo": "Mortes chegam a 265 e desaparecidos a quase 500 após terremoto de magnitude 7,4 na Colômbia",
+      "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia na segunda‑feira (10), provocando o maior abalo sísmico do país na última década. O balanço oficial indica 265 mortos, cerca de 496 desaparecidos e quase 4 mil feridos. As buscas por sobreviventes continuam em áreas como Cali e Pereira, enquanto autoridades declararam desastre nacional e solicitaram ajuda internacional.",
+      "porQueImporta": "O desastre gera necessidade urgente de socorro e mobiliza recursos de assistência humanitária.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/13/explosao-e-registrada-em-porto-de-roterdam-na-holanda-e-causa-morte.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/explosao-em-porto-deixa-um-morto-e-varios-feridos-na-holanda"
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/11/video-cachorro-e-resgatado-de-escombros-de-terremoto-na-colombia.ghtml"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/explosao-em-porto-na-holanda-deixa-um-morto-e-varios-feridos-diz-policia/"
+          "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-273-o-numero-de-mortos-pelo-terremoto-na-colombia/"
         }
       ],
-      "updatedAt": "2026-08-13T13:44:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/KeZuoTFi0Hr10USN3___twBXaSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/X/SAQj2KQm6QercA5oad8Q/rotterdam-.png"
+      "updatedAt": "2026-08-13T16:51:47.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/hQlRpd2RzCy0LPIBeEBWBznFM_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/1uPBbtRzmiOwSnFqBjLg/2026-08-11t161740z-1407267129-rc2gwma6hxop-rtrmadp-3-colombia-quake.jpg"
     },
     {
-      "clusterId": "cd7d6243750d7e6b",
-      "slug": "ba41c2bff4d25a84",
-      "titulo": "Defesa Civil alerta para onda de calor e tempo seco em São Paulo",
-      "resumo": "A Defesa Civil emitiu alerta vermelho devido a uma forte onda de calor que deve atingir o estado até a próxima quarta-feira. As condições incluem temperaturas elevadas e umidade relativa do ar abaixo de 30% em algumas áreas. O alerta indica risco de incêndios e desconforto térmico para a população. As autoridades recomendam cuidados como hidratação e evitar exposição prolongada ao sol.",
-      "porQueImporta": "O calor intenso pode agravar riscos de incêndios e afetar a saúde da população",
+      "clusterId": "05037e0d8c2878f6",
+      "slug": "4fecac1496c90a02",
+      "titulo": "Cinturão de Fogo do Pacífico abrange a Colômbia e concentra 90% dos terremotos globais",
+      "resumo": "O Cinturão de Fogo do Pacífico, também chamado de Anel de Fogo, inclui diversos países da América e da Ásia, entre eles a Colômbia. A região é responsável por cerca de 90% dos terremotos ocorridos no mundo.",
+      "porQueImporta": "Entender a localização do Cinturão de Fogo ajuda a avaliar riscos sísmicos em áreas vulneráveis",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c24m2nge2g1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/o-que-e-o-circulo-de-fogo-do-pacifico-ligado-a-90-dos-terremotos-do-mundo/"
+        }
+      ],
+      "updatedAt": "2026-08-13T15:53:29.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7eab/live/282ad550-6d37-11f0-aa88-77561a9e72c7.jpg"
+    },
+    {
+      "clusterId": "706f3d227e3ffb8c",
+      "slug": "3e2f2dd4f5d654e9",
+      "titulo": "Região de Piracicaba entra em alerta por baixa umidade do ar",
+      "resumo": "A Defesa Civil de São Paulo e o Inmet emitiram alerta para 18 cidades da região de Piracicaba a partir desta quinta-feira, com previsão de umidade do ar em torno de 20%. A condição é considerada abaixo do índice recomendado de 60% e pode elevar o risco de incêndios florestais. A massa de ar seco deve permanecer na região até, pelo menos, a próxima quarta-feira. As temperaturas máximas podem alcançar 31°C durante o período.",
+      "porQueImporta": "A combinação de baixa umidade e altas temperaturas aumenta a vulnerabilidade a incêndios, exigindo medidas preventivas da população.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/13/umidade-do-ar-pode-cair-a-20percent-e-regiao-de-piracicaba-entra-em-alerta-para-risco-de-incendios-veja-recomendacoes.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-13T16:48:52.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EpSxJypjU4iCLAqrVKCVJK59R5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/CwXVxcTE63pEjsZpB2UQ/whatsapp-image-2026-08-12-at-13.17.34.jpeg"
+    },
+    {
+      "clusterId": "ef37d6e24cae5d91",
+      "slug": "2e6319b9370a20fb",
+      "titulo": "Adolescente internado após acidente de moto tem larvas encontradas no curativo em pronto‑socorro de Várzea Grande",
+      "resumo": "Um adolescente de 17 anos, vítima de acidente de moto, foi internado no pronto‑socorro de Várzea Grande, MT. Durante a internação, a família relatou a presença de larvas no curativo do braço, alegando que o curativo não foi trocado por dois dias e que o jovem ficou sem banho nesse período. A prefeitura local não respondeu ao contato da reportagem. O caso ocorreu na região metropolitana de Cuiabá.",
+      "porQueImporta": "Destaca falhas no manejo de curativos e risco de infecção em ambientes hospitalares.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/13/adolescente-internado-encontra-larvas-em-curativo-no-pronto-socorro-de-varzea-grande-mt.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-13T16:44:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/mpn_eU2NbR49SJbjvykYvK9AUeE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/o/GPBt2kRba9UchxGrhQYQ/videos-g1-37-.jpg"
+    },
+    {
+      "clusterId": "85c40f68855a97a7",
+      "slug": "d4f3968cd5f23f56",
+      "titulo": "Campinas instala 19 estações meteorológicas em escolas municipais",
+      "resumo": "A Defesa Civil de Campinas está instalando 19 estações meteorológicas em escolas municipais para ampliar o monitoramento das condições do tempo. Os primeiros equipamentos foram colocados em unidades como o Centro de Educação Infantil Doutor Perseu Leite de Barros e a Emefeja Oziel Alves Pereira. As unidades fazem parte da expansão da rede de monitoramento e estão em fase de validação. A medida visa fortalecer a prevenção diante de eventos climáticos extremos.",
+      "porQueImporta": "Amplia a capacidade de alerta precoce e de prevenção contra eventos climáticos severos na região",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/13/monitoramento-climatico-entenda-por-que-campinas-vai-instalar-19-estacoes-meteorologicas-em-escolas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-13T16:18:40.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/3VxhZIAe5K2Q-RuUz8trNGJyvH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/6/XvjVO9QxaZADVFjZvSYA/whatsapp-image-2026-08-13-at-12.00.31.jpeg"
+    },
+    {
+      "clusterId": "e6583b166e7cef94",
+      "slug": "ecae80f5f36f55a5",
+      "titulo": "Cavalos são atropelados na rodovia Régis Bittencourt em Juquiá",
+      "resumo": "Dois cavalos foram atingidos por veículos na rodovia Régis Bittencourt (BR-116), no km 408, sentido São Paulo, na madrugada de quinta-feira. O acidente envolveu quatro veículos, e o motorista de um deles deixou o local. As imagens mostram os animais invadindo a pista antes da colisão.",
+      "porQueImporta": "O incidente evidencia riscos de acidentes envolvendo animais na via, afetando a segurança dos usuários da rodovia.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/13/cavalos-invadem-pista-e-morrem-atropelados-em-rodovia-de-sp-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-13T16:07:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Zx7-jI5Wse7_lqQjsSd991zIPPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/s/AxOHHAT6SJMu736fhAxQ/inserir-um-titulo-2026-08-13t105521.959.jpg"
+    },
+    {
+      "clusterId": "e5b0ae861371e922",
+      "slug": "00f4d30459ece631",
+      "titulo": "Justiça mantém condenação do Estado do Acre e determina pagamento de R$ 150 mil a familiares de aluna morta em acidente de ônibus escolar",
+      "resumo": "A Segunda Câmara Cível do Tribunal de Justiça do Acre confirmou a responsabilidade do Estado pela morte de Kelly Pereira da Silva, de 15 anos, em acidente com ônibus escolar ocorrido em 2019. A decisão, unânime, estabelece que três familiares receberão R$ 50 mil cada, totalizando R$ 150 mil. A sentença foi publicada no Diário do TJ-AC nesta quarta-feira. A Procuradoria‑Geral do Estado foi notificada da decisão.",
+      "porQueImporta": "Define a responsabilidade do poder público e garante indenização às vítimas de acidentes de transporte escolar",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/08/13/estado-deve-pagar-r-150-mil-a-familiares-de-aluna-morta-em-acidente-no-acre.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-13T16:02:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_ykHv41KP8xStHrC1GmBMvqWNps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/S/Lm9fAlSoSlkCGszqBY9A/midia-de-distribuicao-g1-2026-08-13t102833.804.png"
+    },
+    {
+      "clusterId": "67c7d3386055c28f",
+      "slug": "eefc6189aa34cb34",
+      "titulo": "Noroeste de SP entra em alerta vermelho por baixa umidade e onda de calor",
+      "resumo": "Cidades do noroeste paulista foram colocadas em alerta vermelho na quarta‑feira devido a índices de umidade relativa muito baixos. O aviso da Defesa Civil coincide com o início de uma onda de calor que pode elevar as temperaturas em até 7 °C acima da média esperada para a estação. As medições do Inmet e do Ciiagro apontam Jales e Santa Fé do Sul como as localidades com a tarde mais seca. O alerta permanece em vigor enquanto persistirem as condições de seca e calor intenso.",
+      "porQueImporta": "A combinação de baixa umidade e calor extremo aumenta o risco de incêndios e agrava a situação de recursos hídricos na região",
       "categoria": "Seca",
       "categoriaSlug": "seca",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-vermelho-para-onda-de-calor-em-sao-paulo/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/defesa-civil-faz-alerta-sobre-calor-intenso-e-tempo-seco-em-veranico"
-        }
-      ],
-      "updatedAt": "2026-08-13T13:59:25.000Z",
-      "imageUrl": "https://images.metroimg.com/0dbc82dd-onda-de-calor-em-sao-paulo.jpg"
-    },
-    {
-      "clusterId": "666cb666558b3533",
-      "slug": "668ace8ef26cbe63",
-      "titulo": "Sobrevivente relata forte terremoto na Colômbia",
-      "resumo": "Um terremoto ocorreu na Colômbia na segunda‑feira (10), sendo descrito como muito mais intenso que os demais registrados na região. Andrés Salinas, de 34 anos, morador de Cali, contou que sentiu o tremor enquanto estava parado no sinal vermelho, percebendo um forte impacto no pneu do carro. O Serviço Geológico Colombiano indica cerca de 80 tremores diários no país, embora a maioria seja imperceptível.",
-      "porQueImporta": "O evento evidencia o risco sísmico em áreas densamente povoadas e a necessidade de preparação para desastres naturais.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/13/sobrevivente-de-outros-terremotos-da-relato-sobre-tragedia-na-colombia-muito-muitissimo-mais-forte.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/colombia-e-preparada-para-terremotos-mas-dois-fatores-pioraram-tragedia/"
+          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/13/noroeste-de-sp-entra-em-alerta-vermelho-por-baixa-umidade-com-onda-de-calor.ghtml"
         }
       ],
-      "updatedAt": "2026-08-13T13:12:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/hQlRpd2RzCy0LPIBeEBWBznFM_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/1uPBbtRzmiOwSnFqBjLg/2026-08-11t161740z-1407267129-rc2gwma6hxop-rtrmadp-3-colombia-quake.jpg"
+      "updatedAt": "2026-08-13T15:44:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EpSxJypjU4iCLAqrVKCVJK59R5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/CwXVxcTE63pEjsZpB2UQ/whatsapp-image-2026-08-12-at-13.17.34.jpeg"
     },
     {
-      "clusterId": "09c3fa1fd2b3813d",
-      "slug": "75d38f6d5ff31eea",
-      "titulo": "Psicóloga presta primeiros socorros após colapso de escola em Cali",
-      "resumo": "Durante um terremoto em Cali, a psicóloga Kelly Díaz retornou à escola de sua filha de 10 anos após o edifício desabar. Ela realizou os primeiros socorros enquanto a menina morreu em seus braços. O incidente ocorreu no contexto de um colapso estrutural causado pelo sismo.",
-      "porQueImporta": "Ilustra a vulnerabilidade de escolas a terremotos e a necessidade de protocolos de emergência.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cd7lpzw11w9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/13/ao-sentir-terremoto-voltei-a-escola-da-minha-filha-e-menina-de-10-anos-morreu-em-meus-bracos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-13T04:41:45.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e70/live/85b71980-9677-11f1-82fc-4d0c496681c3.jpg"
-    },
-    {
-      "clusterId": "b9c93d42e0d300f8",
-      "slug": "c791d230379b53a2",
-      "titulo": "Terremoto de magnitude 7,4 atinge a Colômbia e eleva número de mortos para 265",
-      "resumo": "Um sismo de magnitude 7,4 ocorreu na segunda‑feira (10) no oeste da Colômbia, com epicentro em San José del Palmar. O balanço oficial indica 265 mortos, quase 500 desaparecidos e cerca de 4 mil feridos. Autoridades declararam desastre nacional e solicitaram ajuda internacional, incluindo apoio humanitário do Brasil.",
-      "porQueImporta": "O evento representa o maior terremoto registrado no país na última década, demandando resposta de emergência e cooperação internacional.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rr/roraima/noticia/2026/08/11/foi-desesperador-diz-brasileira-que-viveu-terremoto-durante-ferias-na-colombia.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-08-12T22:40:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lnJnikAiGx73HpWnJV_S75e4Ov8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/5/Ug2Co2SbuuLndXe3eiAA/hellen-crys-e-a-amiga-eduarda-santos.jpeg"
-    },
-    {
-      "clusterId": "9b3f5046b1206660",
-      "slug": "f45ac8c853e4c619",
-      "titulo": "Acidente entre caminhão e camionete deixa mortos e bloqueia BR-470 em Pouso Redondo",
-      "resumo": "Na manhã desta quinta-feira, um caminhão colidiu com uma camionete na BR-470, km 169,3, em Pouso Redondo, no Vale do Itajaí. A colisão resultou em pelo menos duas mortes. Até as 10h40 o trânsito ficou bloqueado nos dois sentidos e o Corpo de Bombeiros foi acionado para atender as vítimas.",
-      "porQueImporta": "O acidente interrompeu o tráfego em uma rodovia importante da região, afetando a mobilidade e demandando resposta de emergência.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/13/acidente-mortos-bloqueia-br-470-sc.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-13T13:56:32.000Z"
-    },
-    {
-      "clusterId": "66f908dc3a19b01c",
-      "slug": "373ef4440d5e8347",
-      "titulo": "Acidente com seis veículos interdita pista da Dutra em São José dos Campos",
-      "resumo": "Na manhã de quinta-feira, um acidente envolvendo seis veículos, incluindo carros e caminhão, bloqueou totalmente a pista expressa da Rodovia Presidente Dutra, no km 144, em São José dos Campos (SP). A Polícia Rodoviária Federal registrou três feridos, sendo um com ferimentos moderados e dois com ferimentos leves. Por volta das 10h40, a interdição gerou cerca de oito quilômetros de congestionamento no trecho.",
-      "porQueImporta": "A obstrução da principal via rodoviária gera congestionamento e risco para os usuários da rodovia.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/acidente-com-cinco-veiculos-deixa-tres-feridos-e-interdita-pista-da-dutra-em-sao-jose-dos-campos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-13T13:47:05.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/MHMVE-pgq3ZPc1inHk8_pdPKBzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/AgeS2BRBWRGMqOkXKiFg/texto-do-seu-paragrafo-2026-08-13t104156.796.png"
-    },
-    {
-      "clusterId": "ca5e64b73f7e1b60",
-      "slug": "6ebc6bb0e3f7e125",
-      "titulo": "Socorristas buscam 111 desaparecidos após terremoto de magnitude 7,4 em Cali, Colômbia",
-      "resumo": "Autoridades informam que o terremoto de magnitude 7,4 atingiu Cali, deixando 111 pessoas desaparecidas. Mais de 1.800 profissionais estão envolvidos nas buscas. As equipes de socorro continuam as operações de localização e resgate. A situação permanece crítica na cidade.",
-      "porQueImporta": "O desastre pode gerar um grande número de vítimas e requer mobilização de recursos de emergência",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/socorristas-correm-contra-o-tempo-na-colombia-em-busca-de-desaparecidos/"
-        }
-      ],
-      "updatedAt": "2026-08-13T13:43:59.000Z"
-    },
-    {
-      "clusterId": "aa6238a0917464da",
-      "slug": "e97e1275d826d303",
-      "titulo": "Sagui resgatado após sofrer descarga elétrica em Valença",
-      "resumo": "No domingo, um sagui foi encontrado na Rua Júlio Furtado, bairro Parque Pentagna, após receber uma descarga elétrica na fiação. A Vigilância Ambiental de Valença foi acionada por uma moradora e realizou o resgate do animal. O mamífero recebeu primeiros atendimentos veterinários antes de ser liberado. A ocorrência foi divulgada pela prefeitura na quarta-feira.",
-      "porQueImporta": "Mostra a necessidade de atenção à infraestrutura elétrica para evitar acidentes com fauna urbana",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/13/sagui-e-resgatado-apos-sofrer-descarga-eletrica-em-valenca.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-13T13:43:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/0c1LsNgMpplK4rlVFmJxqbfq2YY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/f/IJwiTLRMKd1fNjkGEIsg/whatsapp-image-2026-08-13-at-08.50.20-3-.jpeg"
-    },
-    {
-      "clusterId": "e7bd1aa2994541a5",
-      "slug": "03eabd21a58c1a13",
-      "titulo": "Pedestre fica gravemente ferido após ser atropelado na Dutra, em Taubaté",
-      "resumo": "Um pedestre ficou gravemente ferido após ser atropelado por um veículo utilitário na manhã desta quinta-feira (13), na Rodovia Presidente Dutra, em Taubaté (SP). Segundo a concessionária RioSP, responsável pelo trecho, o acidente aconteceu por volta das 8h, no km 106,250, na pista sentido São Paulo. A vítima foi socorrida e levada para o Hospital Regional de Taubaté. Não há informações sobre o estado de saúde da vítima. ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e região no WhatsApp Por causa do acidente, a faixa da esquerda precisou ser interditada. A pista foi liberada por…",
+      "clusterId": "eb601f1b6dda13c0",
+      "slug": "4b8cefdf400b5043",
+      "titulo": "Motociclista fica em estado grave após bater em micro-ônibus escolar que desviava de buraco em Cosmópolis",
+      "resumo": "Motociclista fica em estado grave após bater em micro-ônibus escolar que desviava de buraco em Cosmópolis Portal On Cosmópolis Um motociclista ficou gravemente ferido após bater na lateral de um micro-ônibus na tarde desta quarta-feira (12), na Rua Benedito Grassi, no bairro Primeiro de Maio, em Cosmópolis (SP). Ele perdeu o controle da moto e caiu. O acidente aconteceu perto de um buraco na via. Segundo o delegado responsável pela ocorrência, o micro-ônibus desviou do buraco. Nesse momento, o motociclista raspou na lateral do veículo, perdeu o controle da moto e caiu. O micro-ônibus teve…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/pedestre-fica-gravemente-ferido-apos-ser-atropelado-na-dutra-em-taubate.ghtml"
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/13/motociclista-fica-em-estado-grave-apos-bater-em-micro-onibus-escolar-que-desviava-de-buraco-em-cosmopolis.ghtml"
         }
       ],
-      "updatedAt": "2026-08-13T13:04:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/GWZk7_shYErN08Zsf0My2Wa39m4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/F/KhcVB7SkKwFPU5noBz0Q/texto-do-seu-paragrafo-50-.png"
+      "updatedAt": "2026-08-13T15:34:18.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/q7a8LqGjbTeMd-E7MD3pwUCZ3Mc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/c/wAaBmZREy9h8wcsXKPTA/design-sem-nome-3-.jpg"
+    },
+    {
+      "clusterId": "58261c6a3b19f662",
+      "slug": "cf9cd45416e52e58",
+      "titulo": "Acidente entre carro e moto deixa homem ferido em Barra Mansa",
+      "resumo": "Um carro colidiu com uma moto na Rua Miguel Gomes de Souza, bairro Boa Vista 1, em Barra Mansa (RJ), por volta das 11h15 desta quinta-feira. A vítima, um homem, foi socorrida pelo SAMU e encaminhada à Santa Casa. O estado de saúde do paciente ainda não foi divulgado. A dinâmica do acidente e a identidade da vítima não foram confirmadas.",
+      "porQueImporta": "Acidentes de trânsito podem gerar ferimentos graves e demandam resposta rápida dos serviços de emergência.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/13/acidente-entre-carro-e-moto-deixa-homem-ferido-em-barra-mansa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-13T15:30:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HOqw1uCTnAaXjcdMNcW5TgCRha8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/t/F/GDY9ikQQOi5sxuJ2dkeQ/whatsapp-image-2023-02-27-at-10.43.36.jpeg"
     }
   ],
   "categorias": [
@@ -201,110 +187,58 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "09c3fa1fd2b3813d",
-          "slug": "75d38f6d5ff31eea",
-          "titulo": "Psicóloga presta primeiros socorros após colapso de escola em Cali",
-          "resumo": "Durante um terremoto em Cali, a psicóloga Kelly Díaz retornou à escola de sua filha de 10 anos após o edifício desabar. Ela realizou os primeiros socorros enquanto a menina morreu em seus braços. O incidente ocorreu no contexto de um colapso estrutural causado pelo sismo.",
-          "porQueImporta": "Ilustra a vulnerabilidade de escolas a terremotos e a necessidade de protocolos de emergência.",
+          "clusterId": "05037e0d8c2878f6",
+          "slug": "4fecac1496c90a02",
+          "titulo": "Cinturão de Fogo do Pacífico abrange a Colômbia e concentra 90% dos terremotos globais",
+          "resumo": "O Cinturão de Fogo do Pacífico, também chamado de Anel de Fogo, inclui diversos países da América e da Ásia, entre eles a Colômbia. A região é responsável por cerca de 90% dos terremotos ocorridos no mundo.",
+          "porQueImporta": "Entender a localização do Cinturão de Fogo ajuda a avaliar riscos sísmicos em áreas vulneráveis",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cd7lpzw11w9o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/portuguese/articles/c24m2nge2g1o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/13/ao-sentir-terremoto-voltei-a-escola-da-minha-filha-e-menina-de-10-anos-morreu-em-meus-bracos.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/o-que-e-o-circulo-de-fogo-do-pacifico-ligado-a-90-dos-terremotos-do-mundo/"
             }
           ],
-          "updatedAt": "2026-08-13T04:41:45.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e70/live/85b71980-9677-11f1-82fc-4d0c496681c3.jpg"
+          "updatedAt": "2026-08-13T15:53:29.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7eab/live/282ad550-6d37-11f0-aa88-77561a9e72c7.jpg"
         },
         {
-          "clusterId": "aa6238a0917464da",
-          "slug": "e97e1275d826d303",
-          "titulo": "Sagui resgatado após sofrer descarga elétrica em Valença",
-          "resumo": "No domingo, um sagui foi encontrado na Rua Júlio Furtado, bairro Parque Pentagna, após receber uma descarga elétrica na fiação. A Vigilância Ambiental de Valença foi acionada por uma moradora e realizou o resgate do animal. O mamífero recebeu primeiros atendimentos veterinários antes de ser liberado. A ocorrência foi divulgada pela prefeitura na quarta-feira.",
-          "porQueImporta": "Mostra a necessidade de atenção à infraestrutura elétrica para evitar acidentes com fauna urbana",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/13/sagui-e-resgatado-apos-sofrer-descarga-eletrica-em-valenca.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T13:43:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0c1LsNgMpplK4rlVFmJxqbfq2YY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/f/IJwiTLRMKd1fNjkGEIsg/whatsapp-image-2026-08-13-at-08.50.20-3-.jpeg"
-        },
-        {
-          "clusterId": "e7bd1aa2994541a5",
-          "slug": "03eabd21a58c1a13",
-          "titulo": "Pedestre fica gravemente ferido após ser atropelado na Dutra, em Taubaté",
-          "resumo": "Um pedestre ficou gravemente ferido após ser atropelado por um veículo utilitário na manhã desta quinta-feira (13), na Rodovia Presidente Dutra, em Taubaté (SP). Segundo a concessionária RioSP, responsável pelo trecho, o acidente aconteceu por volta das 8h, no km 106,250, na pista sentido São Paulo. A vítima foi socorrida e levada para o Hospital Regional de Taubaté. Não há informações sobre o estado de saúde da vítima. ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e região no WhatsApp Por causa do acidente, a faixa da esquerda precisou ser interditada. A pista foi liberada por…",
+          "clusterId": "eb601f1b6dda13c0",
+          "slug": "4b8cefdf400b5043",
+          "titulo": "Motociclista fica em estado grave após bater em micro-ônibus escolar que desviava de buraco em Cosmópolis",
+          "resumo": "Motociclista fica em estado grave após bater em micro-ônibus escolar que desviava de buraco em Cosmópolis Portal On Cosmópolis Um motociclista ficou gravemente ferido após bater na lateral de um micro-ônibus na tarde desta quarta-feira (12), na Rua Benedito Grassi, no bairro Primeiro de Maio, em Cosmópolis (SP). Ele perdeu o controle da moto e caiu. O acidente aconteceu perto de um buraco na via. Segundo o delegado responsável pela ocorrência, o micro-ônibus desviou do buraco. Nesse momento, o motociclista raspou na lateral do veículo, perdeu o controle da moto e caiu. O micro-ônibus teve…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/pedestre-fica-gravemente-ferido-apos-ser-atropelado-na-dutra-em-taubate.ghtml"
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/13/motociclista-fica-em-estado-grave-apos-bater-em-micro-onibus-escolar-que-desviava-de-buraco-em-cosmopolis.ghtml"
             }
           ],
-          "updatedAt": "2026-08-13T13:04:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/GWZk7_shYErN08Zsf0My2Wa39m4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/F/KhcVB7SkKwFPU5noBz0Q/texto-do-seu-paragrafo-50-.png"
+          "updatedAt": "2026-08-13T15:34:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/q7a8LqGjbTeMd-E7MD3pwUCZ3Mc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/c/wAaBmZREy9h8wcsXKPTA/design-sem-nome-3-.jpg"
         },
         {
-          "clusterId": "3136fdb93b076504",
-          "slug": "9d02776f842a049a",
-          "titulo": "Parque Estadual de Terra Ronca tem mais de 10 mil hectares atingidos por incêndio, diz Lasa",
-          "resumo": "Incêndio já destruiu 8 mil hectares na região do Parque Estadual Terra Ronca Um incêndio que atinge a região do Parque Estadual de Terra Ronca, em São Domingos e Guarani de Goiás, no nordeste do estado, já atingiu 10.332 hectares dentro da unidade de conservação, segundo dados do Laboratório de Aplicações de Satélites Ambientais da Universidade Federal do Rio de Janeiro (Lasa/UFRJ). O número corresponde a 18,13% da área do parque, que tem aproximadamente 57 mil hectares. ✅ Clique e siga o canal do g1 GO no WhatsApp Os primeiros focos de incêndio foram detectados no dia 10 de agosto. Segundo o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "clusterId": "341371298d24d790",
+          "slug": "7a1ea092334103ef",
+          "titulo": "Polícia Rodoviária Federal desmente divulgação de vídeo falso sobre suposto “Caçador de Tornados” no Paraná",
+          "resumo": "A Polícia Rodoviária Federal (PRF) afirmou que imagens circulando nas redes sociais, supostamente mostrando a apreensão de um veículo de um “caçador de tornados” no Paraná, foram geradas por inteligência artificial. A instituição alertou que o conteúdo é falso e não corresponde a nenhuma operação real. O alerta foi divulgado após a viralização do material, que gerou dúvidas sobre a veracidade da ação policial. Não há registro de apreensão ou investigação relacionada ao tema.",
+          "porQueImporta": "Esclarece a população sobre desinformação que pode gerar pânico e confusão",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/08/13/parque-estadual-de-terra-ronca-tem-mais-de-10-mil-hectares-atingidos-por-incendio-diz-lasa.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/prf-desmente-apreensao-de-veiculo-de-cacador-de-tornados-no-parana/"
             }
           ],
-          "updatedAt": "2026-08-13T13:02:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vA7Ece6PySQ0ffMGIBUneRUYHX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/L/n3va6rTfi87SZnhcfUBg/fogo-terra-ronca-2.png"
-        },
-        {
-          "clusterId": "a15382b7d892488f",
-          "slug": "773df7a8e104128b",
-          "titulo": "Coopama amplia oferta de tratores Landini e serviços para produtores da região",
-          "resumo": "A Concessionária Coopama passou a disponibilizar uma linha completa de tratores Landini, incluindo peças, assistência técnica e manutenção especializada. A iniciativa visa atender às demandas de diferentes produtores, oferecendo maior segurança e confiabilidade no uso dos equipamentos agrícolas.",
-          "porQueImporta": "A ampliação facilita a mecanização agrícola, contribuindo para aumento de produtividade e redução de custos operacionais",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/coopama-cooperativa-coopama/noticia/2026/08/13/coopama-amplia-solucoes-com-concessionaria-landini-para-diferentes-produtores.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T12:54:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/r_tnYuN2FzU4KvCxmQ7oIZHvDNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/V/icEj7nRO6ugDIUroFH1w/1.png"
-        },
-        {
-          "clusterId": "6723b8cf92975b15",
-          "slug": "fbb8e66192194ba0",
-          "titulo": "Rodovia segue interditada em Natividade cinco meses após desmoronamento",
-          "resumo": "Moradores de Natividade denunciam falta de solução para desmoronamento na RJ-198 Quase cinco meses após o desmoronamento que atingiu a RJ-198, em Natividade, no Noroeste Fluminense, a rodovia segue sem solução definitiva. Moradores e comerciantes relatam prejuízos com a queda no movimento e temem novos deslizamentos com a chegada das chuvas. O trecho prejudicado fica entre os distritos de Ourânia e Bom Jesus do Querendo. O Departamento de Estradas de Rodagem do Rio de Janeiro (DER-RJ) afirma que o processo de licitação para obras de contenção está em andamento, mas ainda não há prazo definido…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/08/13/rodovia-segue-interditada-em-natividade-cinco-meses-apos-desmoronamento.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T12:41:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/EhRwZV8OYOQwlt_AjqOJ-FejIbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/d/dbzj6XRHqaonJ8sxB1Iw/transito-em-natividade.jpg"
+          "updatedAt": "2026-08-13T15:21:19.000Z"
         },
         {
           "clusterId": "df17e8da0f83470a",
@@ -324,21 +258,95 @@
           "imageUrl": "https://s2-g1.glbimg.com/txP_6XGcfKUNVEs_iSJ_MeyOjsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/K/FomzAJStm5LTrOR8WasA/fotojet-2026-08-13t085530.505.jpg"
         },
         {
-          "clusterId": "28d6ad616612e7b8",
-          "slug": "4fecac1496c90a02",
-          "titulo": "Cinturão de Fogo do Pacífico abrange a Colômbia e concentra 90% dos terremotos globais",
-          "resumo": "O Cinturão de Fogo do Pacífico, também chamado de Anel de Fogo, inclui diversos países da América e da Ásia, entre eles a Colômbia. A região é responsável por cerca de 90% dos terremotos ocorridos no mundo.",
-          "porQueImporta": "Entender a localização do Cinturão de Fogo ajuda a avaliar riscos sísmicos em áreas vulneráveis",
+          "clusterId": "679df4a4b6dc6a54",
+          "slug": "e8e3aed99120f1a0",
+          "titulo": "Presidente da Colômbia reconhece soberania de Israel sobre as Colinas de Golã",
+          "resumo": "O presidente recém-empossado da Colômbia, Abelardo de la Espriella, reconheceu a soberania de Israel sobre as Colinas de Golã. A declaração gerou condenação de diversos países árabes, configurando uma crise diplomática logo nos primeiros dias de governo.",
+          "porQueImporta": "O posicionamento pode afetar as relações da Colômbia com nações árabes e influenciar a política externa regional.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c24m2nge2g1o?at_medium=RSS&at_campaign=rss"
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/presidente-espriella-colombia-reconhece-soberania-israel-colinas-de-gola-arabes-repudiam.ghtml"
             }
           ],
-          "updatedAt": "2026-08-12T09:42:09.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7eab/live/282ad550-6d37-11f0-aa88-77561a9e72c7.jpg"
+          "updatedAt": "2026-08-12T16:57:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/LaxhuAvRajUB-s2Hl1hQA9mmW1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/2eTCHGQsSNLpq2e2xYRA/2026-08-07t221138z-1641111850-rc2wtma8zhct-rtrmadp-3-colombia-politics.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "ef37d6e24cae5d91",
+          "slug": "2e6319b9370a20fb",
+          "titulo": "Adolescente internado após acidente de moto tem larvas encontradas no curativo em pronto‑socorro de Várzea Grande",
+          "resumo": "Um adolescente de 17 anos, vítima de acidente de moto, foi internado no pronto‑socorro de Várzea Grande, MT. Durante a internação, a família relatou a presença de larvas no curativo do braço, alegando que o curativo não foi trocado por dois dias e que o jovem ficou sem banho nesse período. A prefeitura local não respondeu ao contato da reportagem. O caso ocorreu na região metropolitana de Cuiabá.",
+          "porQueImporta": "Destaca falhas no manejo de curativos e risco de infecção em ambientes hospitalares.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/13/adolescente-internado-encontra-larvas-em-curativo-no-pronto-socorro-de-varzea-grande-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T16:44:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mpn_eU2NbR49SJbjvykYvK9AUeE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/o/GPBt2kRba9UchxGrhQYQ/videos-g1-37-.jpg"
+        },
+        {
+          "clusterId": "e6583b166e7cef94",
+          "slug": "ecae80f5f36f55a5",
+          "titulo": "Cavalos são atropelados na rodovia Régis Bittencourt em Juquiá",
+          "resumo": "Dois cavalos foram atingidos por veículos na rodovia Régis Bittencourt (BR-116), no km 408, sentido São Paulo, na madrugada de quinta-feira. O acidente envolveu quatro veículos, e o motorista de um deles deixou o local. As imagens mostram os animais invadindo a pista antes da colisão.",
+          "porQueImporta": "O incidente evidencia riscos de acidentes envolvendo animais na via, afetando a segurança dos usuários da rodovia.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/13/cavalos-invadem-pista-e-morrem-atropelados-em-rodovia-de-sp-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T16:07:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Zx7-jI5Wse7_lqQjsSd991zIPPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/s/AxOHHAT6SJMu736fhAxQ/inserir-um-titulo-2026-08-13t105521.959.jpg"
+        },
+        {
+          "clusterId": "e5b0ae861371e922",
+          "slug": "00f4d30459ece631",
+          "titulo": "Justiça mantém condenação do Estado do Acre e determina pagamento de R$ 150 mil a familiares de aluna morta em acidente de ônibus escolar",
+          "resumo": "A Segunda Câmara Cível do Tribunal de Justiça do Acre confirmou a responsabilidade do Estado pela morte de Kelly Pereira da Silva, de 15 anos, em acidente com ônibus escolar ocorrido em 2019. A decisão, unânime, estabelece que três familiares receberão R$ 50 mil cada, totalizando R$ 150 mil. A sentença foi publicada no Diário do TJ-AC nesta quarta-feira. A Procuradoria‑Geral do Estado foi notificada da decisão.",
+          "porQueImporta": "Define a responsabilidade do poder público e garante indenização às vítimas de acidentes de transporte escolar",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/08/13/estado-deve-pagar-r-150-mil-a-familiares-de-aluna-morta-em-acidente-no-acre.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T16:02:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_ykHv41KP8xStHrC1GmBMvqWNps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/S/Lm9fAlSoSlkCGszqBY9A/midia-de-distribuicao-g1-2026-08-13t102833.804.png"
+        },
+        {
+          "clusterId": "58261c6a3b19f662",
+          "slug": "cf9cd45416e52e58",
+          "titulo": "Acidente entre carro e moto deixa homem ferido em Barra Mansa",
+          "resumo": "Um carro colidiu com uma moto na Rua Miguel Gomes de Souza, bairro Boa Vista 1, em Barra Mansa (RJ), por volta das 11h15 desta quinta-feira. A vítima, um homem, foi socorrida pelo SAMU e encaminhada à Santa Casa. O estado de saúde do paciente ainda não foi divulgado. A dinâmica do acidente e a identidade da vítima não foram confirmadas.",
+          "porQueImporta": "Acidentes de trânsito podem gerar ferimentos graves e demandam resposta rápida dos serviços de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/13/acidente-entre-carro-e-moto-deixa-homem-ferido-em-barra-mansa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T15:30:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HOqw1uCTnAaXjcdMNcW5TgCRha8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/t/F/GDY9ikQQOi5sxuJ2dkeQ/whatsapp-image-2023-02-27-at-10.43.36.jpeg"
         }
       ]
     },
@@ -347,7 +355,28 @@
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "666cb666558b3533",
+          "clusterId": "796aa008539d05a2",
+          "slug": "cbefd27c52e25408",
+          "titulo": "Mortes chegam a 265 e desaparecidos a quase 500 após terremoto de magnitude 7,4 na Colômbia",
+          "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia na segunda‑feira (10), provocando o maior abalo sísmico do país na última década. O balanço oficial indica 265 mortos, cerca de 496 desaparecidos e quase 4 mil feridos. As buscas por sobreviventes continuam em áreas como Cali e Pereira, enquanto autoridades declararam desastre nacional e solicitaram ajuda internacional.",
+          "porQueImporta": "O desastre gera necessidade urgente de socorro e mobiliza recursos de assistência humanitária.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/11/video-cachorro-e-resgatado-de-escombros-de-terremoto-na-colombia.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-273-o-numero-de-mortos-pelo-terremoto-na-colombia/"
+            }
+          ],
+          "updatedAt": "2026-08-13T16:51:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hQlRpd2RzCy0LPIBeEBWBznFM_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/1uPBbtRzmiOwSnFqBjLg/2026-08-11t161740z-1407267129-rc2gwma6hxop-rtrmadp-3-colombia-quake.jpg"
+        },
+        {
+          "clusterId": "5678facbbc6ab795",
           "slug": "668ace8ef26cbe63",
           "titulo": "Sobrevivente relata forte terremoto na Colômbia",
           "resumo": "Um terremoto ocorreu na Colômbia na segunda‑feira (10), sendo descrito como muito mais intenso que os demais registrados na região. Andrés Salinas, de 34 anos, morador de Cali, contou que sentiu o tremor enquanto estava parado no sinal vermelho, percebendo um forte impacto no pneu do carro. O Serviço Geológico Colombiano indica cerca de 80 tremores diários no país, embora a maioria seja imperceptível.",
@@ -358,51 +387,10 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/08/13/sobrevivente-de-outros-terremotos-da-relato-sobre-tragedia-na-colombia-muito-muitissimo-mais-forte.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/colombia-e-preparada-para-terremotos-mas-dois-fatores-pioraram-tragedia/"
             }
           ],
-          "updatedAt": "2026-08-13T13:12:12.000Z",
+          "updatedAt": "2026-08-13T07:01:56.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/hQlRpd2RzCy0LPIBeEBWBznFM_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/1uPBbtRzmiOwSnFqBjLg/2026-08-11t161740z-1407267129-rc2gwma6hxop-rtrmadp-3-colombia-quake.jpg"
-        },
-        {
-          "clusterId": "b9c93d42e0d300f8",
-          "slug": "c791d230379b53a2",
-          "titulo": "Terremoto de magnitude 7,4 atinge a Colômbia e eleva número de mortos para 265",
-          "resumo": "Um sismo de magnitude 7,4 ocorreu na segunda‑feira (10) no oeste da Colômbia, com epicentro em San José del Palmar. O balanço oficial indica 265 mortos, quase 500 desaparecidos e cerca de 4 mil feridos. Autoridades declararam desastre nacional e solicitaram ajuda internacional, incluindo apoio humanitário do Brasil.",
-          "porQueImporta": "O evento representa o maior terremoto registrado no país na última década, demandando resposta de emergência e cooperação internacional.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rr/roraima/noticia/2026/08/11/foi-desesperador-diz-brasileira-que-viveu-terremoto-durante-ferias-na-colombia.ghtml"
-            },
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-08-12T22:40:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lnJnikAiGx73HpWnJV_S75e4Ov8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/5/Ug2Co2SbuuLndXe3eiAA/hellen-crys-e-a-amiga-eduarda-santos.jpeg"
-        },
-        {
-          "clusterId": "ca5e64b73f7e1b60",
-          "slug": "6ebc6bb0e3f7e125",
-          "titulo": "Socorristas buscam 111 desaparecidos após terremoto de magnitude 7,4 em Cali, Colômbia",
-          "resumo": "Autoridades informam que o terremoto de magnitude 7,4 atingiu Cali, deixando 111 pessoas desaparecidas. Mais de 1.800 profissionais estão envolvidos nas buscas. As equipes de socorro continuam as operações de localização e resgate. A situação permanece crítica na cidade.",
-          "porQueImporta": "O desastre pode gerar um grande número de vítimas e requer mobilização de recursos de emergência",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/socorristas-correm-contra-o-tempo-na-colombia-em-busca-de-desaparecidos/"
-            }
-          ],
-          "updatedAt": "2026-08-13T13:43:59.000Z"
         },
         {
           "clusterId": "c60a2af64d00a482",
@@ -424,11 +412,120 @@
       ]
     },
     {
+      "slug": "desabamento",
+      "label": "Desabamento",
+      "stories": [
+        {
+          "clusterId": "a3e2096cdf6962b4",
+          "slug": "6384c9d0523d6059",
+          "titulo": "Colapso de escola deixa menina de 10 anos morta após terremoto",
+          "resumo": "Um terremoto provocou o desabamento de uma escola onde estava a filha da voluntária Kelly Díaz. A menina de 10 anos morreu nos braços da mãe durante o colapso. Voluntários, incluindo Kelly, carregaram os corpos para fora do local. A psicóloga relata estar em estado de alerta enquanto continua ajudando nas buscas.",
+          "porQueImporta": "O incidente evidencia a vulnerabilidade de estruturas escolares a eventos sísmicos e a necessidade de protocolos de segurança.",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/13/ao-sentir-terremoto-voltei-a-escola-da-minha-filha-e-menina-de-10-anos-morreu-em-meus-bracos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T04:41:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/t6g9MfIOC7zkBwJZXyynpGTerWY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/W/tvjQTwSm2hrBoz1ed8LQ/1-cali-bbcnewsmundo.jpg"
+        },
+        {
+          "clusterId": "943b5866fc1df557",
+          "slug": "2fce9b836c55b779",
+          "titulo": "Busca por sobreviventes após desabamento de edifício em Torres del Limonar, Colômbia",
+          "resumo": "Um edifício residencial chamado Torres del Limonar desabou na Colômbia, soterrando um homem de 80 anos e sua esposa. Seu irmão, Efraín Gallego, expressou esperança a cada alerta de que alguém ainda poderia estar vivo, apesar da emoção ao relatar o caso. As equipes de resgate continuam procurando vítimas entre os escombros.",
+          "porQueImporta": "O desabamento evidencia a vulnerabilidade de construções e a necessidade de respostas rápidas de socorro em emergências urbanas",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/a-desesperada-busca-por-sobreviventes-na-colombia-cada-vez-que-anunciam-uma-pessoa-com-vida-espero-ser-meu-irmao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-12T11:39:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vZT533s_h-ucEdTyd_Wibi1P048=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/0/dZwk0cT6egxeBmlgl8Ew/f589e430-95b5-11f1-b2ab-0dd01740f9f6.png-redimensionado-para-1200x651.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "706f3d227e3ffb8c",
+          "slug": "3e2f2dd4f5d654e9",
+          "titulo": "Região de Piracicaba entra em alerta por baixa umidade do ar",
+          "resumo": "A Defesa Civil de São Paulo e o Inmet emitiram alerta para 18 cidades da região de Piracicaba a partir desta quinta-feira, com previsão de umidade do ar em torno de 20%. A condição é considerada abaixo do índice recomendado de 60% e pode elevar o risco de incêndios florestais. A massa de ar seco deve permanecer na região até, pelo menos, a próxima quarta-feira. As temperaturas máximas podem alcançar 31°C durante o período.",
+          "porQueImporta": "A combinação de baixa umidade e altas temperaturas aumenta a vulnerabilidade a incêndios, exigindo medidas preventivas da população.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/13/umidade-do-ar-pode-cair-a-20percent-e-regiao-de-piracicaba-entra-em-alerta-para-risco-de-incendios-veja-recomendacoes.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T16:48:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EpSxJypjU4iCLAqrVKCVJK59R5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/CwXVxcTE63pEjsZpB2UQ/whatsapp-image-2026-08-12-at-13.17.34.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "85c40f68855a97a7",
+          "slug": "d4f3968cd5f23f56",
+          "titulo": "Campinas instala 19 estações meteorológicas em escolas municipais",
+          "resumo": "A Defesa Civil de Campinas está instalando 19 estações meteorológicas em escolas municipais para ampliar o monitoramento das condições do tempo. Os primeiros equipamentos foram colocados em unidades como o Centro de Educação Infantil Doutor Perseu Leite de Barros e a Emefeja Oziel Alves Pereira. As unidades fazem parte da expansão da rede de monitoramento e estão em fase de validação. A medida visa fortalecer a prevenção diante de eventos climáticos extremos.",
+          "porQueImporta": "Amplia a capacidade de alerta precoce e de prevenção contra eventos climáticos severos na região",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/13/monitoramento-climatico-entenda-por-que-campinas-vai-instalar-19-estacoes-meteorologicas-em-escolas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T16:18:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/3VxhZIAe5K2Q-RuUz8trNGJyvH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/6/XvjVO9QxaZADVFjZvSYA/whatsapp-image-2026-08-13-at-12.00.31.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "seca",
+      "label": "Seca",
+      "stories": [
+        {
+          "clusterId": "67c7d3386055c28f",
+          "slug": "eefc6189aa34cb34",
+          "titulo": "Noroeste de SP entra em alerta vermelho por baixa umidade e onda de calor",
+          "resumo": "Cidades do noroeste paulista foram colocadas em alerta vermelho na quarta‑feira devido a índices de umidade relativa muito baixos. O aviso da Defesa Civil coincide com o início de uma onda de calor que pode elevar as temperaturas em até 7 °C acima da média esperada para a estação. As medições do Inmet e do Ciiagro apontam Jales e Santa Fé do Sul como as localidades com a tarde mais seca. O alerta permanece em vigor enquanto persistirem as condições de seca e calor intenso.",
+          "porQueImporta": "A combinação de baixa umidade e calor extremo aumenta o risco de incêndios e agrava a situação de recursos hídricos na região",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/13/noroeste-de-sp-entra-em-alerta-vermelho-por-baixa-umidade-com-onda-de-calor.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-13T15:44:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EpSxJypjU4iCLAqrVKCVJK59R5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/CwXVxcTE63pEjsZpB2UQ/whatsapp-image-2026-08-12-at-13.17.34.jpeg"
+        }
+      ]
+    },
+    {
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
         {
-          "clusterId": "d507bb0247e261d8",
+          "clusterId": "dbdd5cd7dd13cfe0",
           "slug": "ffbc97938cfe35bc",
           "titulo": "Explosão no porto de Roterdã deixa um morto e vários feridos",
           "resumo": "Uma explosão ocorreu no porto de Roterdã, na Holanda, por volta das 11h30. O local foi isolado para perícia. A polícia investigou a hipótese de sabotagem. Um porta-voz informou que a explosão causou uma morte e vários feridos.",
@@ -439,164 +536,10 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/08/13/explosao-e-registrada-em-porto-de-roterdam-na-holanda-e-causa-morte.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/explosao-em-porto-deixa-um-morto-e-varios-feridos-na-holanda"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/explosao-em-porto-na-holanda-deixa-um-morto-e-varios-feridos-diz-policia/"
             }
           ],
-          "updatedAt": "2026-08-13T13:44:37.000Z",
+          "updatedAt": "2026-08-13T11:41:46.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/KeZuoTFi0Hr10USN3___twBXaSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/X/SAQj2KQm6QercA5oad8Q/rotterdam-.png"
-        },
-        {
-          "clusterId": "d9b615f9de868d26",
-          "slug": "a28331d3a96002b2",
-          "titulo": "Rússia usou mísseis norte-coreanos em bombardeio que matou seis pessoas em Zaporizhzhia",
-          "resumo": "O presidente da Ucrânia, Volodymer Zelensky, afirmou que a Rússia empregou mísseis de origem norte-coreana em um ataque aéreo sobre Zaporizhzhia. O bombardeio resultou em seis mortes e provocou incêndios em edifícios e veículos, conforme imagens divulgadas pelo governador regional Ivan Fedorov. Autoridades locais relataram que outras vinte pessoas ficaram feridas. O incidente ocorreu na terça‑feira, 11 de agosto de 2026.",
-          "porQueImporta": "O uso de armamento estrangeiro em conflitos eleva o risco de escalada regional e afeta a segurança civil.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/11/russia-utilizou-misseis-norte-coreanos-bombardeio-com-mortes-diz-zelensky.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-11T16:21:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MblCN45JNzM5y0NplZSKEGeRvao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/F/dAQVNtQMAEQ2KfGmuejg/hpbgl5wwiaaophr.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "9b3f5046b1206660",
-          "slug": "f45ac8c853e4c619",
-          "titulo": "Acidente entre caminhão e camionete deixa mortos e bloqueia BR-470 em Pouso Redondo",
-          "resumo": "Na manhã desta quinta-feira, um caminhão colidiu com uma camionete na BR-470, km 169,3, em Pouso Redondo, no Vale do Itajaí. A colisão resultou em pelo menos duas mortes. Até as 10h40 o trânsito ficou bloqueado nos dois sentidos e o Corpo de Bombeiros foi acionado para atender as vítimas.",
-          "porQueImporta": "O acidente interrompeu o tráfego em uma rodovia importante da região, afetando a mobilidade e demandando resposta de emergência.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/13/acidente-mortos-bloqueia-br-470-sc.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T13:56:32.000Z"
-        },
-        {
-          "clusterId": "66f908dc3a19b01c",
-          "slug": "373ef4440d5e8347",
-          "titulo": "Acidente com seis veículos interdita pista da Dutra em São José dos Campos",
-          "resumo": "Na manhã de quinta-feira, um acidente envolvendo seis veículos, incluindo carros e caminhão, bloqueou totalmente a pista expressa da Rodovia Presidente Dutra, no km 144, em São José dos Campos (SP). A Polícia Rodoviária Federal registrou três feridos, sendo um com ferimentos moderados e dois com ferimentos leves. Por volta das 10h40, a interdição gerou cerca de oito quilômetros de congestionamento no trecho.",
-          "porQueImporta": "A obstrução da principal via rodoviária gera congestionamento e risco para os usuários da rodovia.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/acidente-com-cinco-veiculos-deixa-tres-feridos-e-interdita-pista-da-dutra-em-sao-jose-dos-campos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T13:47:05.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MHMVE-pgq3ZPc1inHk8_pdPKBzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/AgeS2BRBWRGMqOkXKiFg/texto-do-seu-paragrafo-2026-08-13t104156.796.png"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "72593eb6b992d0eb",
-          "slug": "806cf9f7897bd784",
-          "titulo": "Mulher de 26 anos encontrada morta em casa incendiada em Pindamonhangaba",
-          "resumo": "Um incêndio na manhã de quinta-feira (13) na casa de uma mulher de 26 anos no bairro Araretama, em Pindamonhangaba, resultou na descoberta de seu corpo carbonizado. O Corpo de Bombeiros foi acionado por volta das 7h30, mas as chamas foram extintas pelos vizinhos. A Polícia Militar e a perícia foram acionadas para investigar a ocorrência. A suspeita inicial é de que a mulher já estava morta antes do incêndio, mas a causa ainda será determinada pela perícia.",
-          "porQueImporta": "O caso destaca a necessidade de investigação de mortes em incêndios residenciais.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/13/mulher-e-encontrada-morta-dentro-de-casa-incendiada-em-pindamonhangaba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T12:57:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/LRn1KLmfBM1xnX1k2uoBtCP1fcw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/s/iBpPAATzaBD4nuoQDgBQ/8dafab7f-0dc6-406b-93bd-958c84fc17f1.jpg"
-        },
-        {
-          "clusterId": "3c35fc392e936b52",
-          "slug": "9e2f8d7f162ddd7c",
-          "titulo": "Incêndio em balsa deixa um morto e 172 resgatados na Indonésia",
-          "resumo": "Uma balsa que partiu de Padangbai, em Bali, em direção a Lembar, em Lombok, pegou fogo nas águas próximas à ilha de Lombok. As autoridades locais resgataram 172 pessoas e registraram um óbito, enquanto continuam as buscas por passageiros desaparecidos. O incidente foi reportado na quarta‑feira.",
-          "porQueImporta": "O acidente evidencia riscos de transporte marítimo em rotas turísticas da Indonésia",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/incendio-em-balsana-indonesia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-12T06:18:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xBALSsJ8bJsIUNBhUI2P6DCIhjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/3/WJVxazToeNABKOCIPWUg/2026-08-12t050425z-1762985661-rc2swma0ulnr-rtrmadp-3-indonesia-shipwreck-fire.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "seca",
-      "label": "Seca",
-      "stories": [
-        {
-          "clusterId": "cd7d6243750d7e6b",
-          "slug": "ba41c2bff4d25a84",
-          "titulo": "Defesa Civil alerta para onda de calor e tempo seco em São Paulo",
-          "resumo": "A Defesa Civil emitiu alerta vermelho devido a uma forte onda de calor que deve atingir o estado até a próxima quarta-feira. As condições incluem temperaturas elevadas e umidade relativa do ar abaixo de 30% em algumas áreas. O alerta indica risco de incêndios e desconforto térmico para a população. As autoridades recomendam cuidados como hidratação e evitar exposição prolongada ao sol.",
-          "porQueImporta": "O calor intenso pode agravar riscos de incêndios e afetar a saúde da população",
-          "categoria": "Seca",
-          "categoriaSlug": "seca",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-vermelho-para-onda-de-calor-em-sao-paulo/"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/defesa-civil-faz-alerta-sobre-calor-intenso-e-tempo-seco-em-veranico"
-            }
-          ],
-          "updatedAt": "2026-08-13T13:59:25.000Z",
-          "imageUrl": "https://images.metroimg.com/0dbc82dd-onda-de-calor-em-sao-paulo.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "78aa5ad94ae67d2c",
-          "slug": "459473d5bfcf8dfc",
-          "titulo": "Paraná volta a ficar sob alerta de tempestades intensas",
-          "resumo": "O tempo começou a mudar nesta quinta-feira, com aumento das temperaturas e risco de chuvas fortes no estado. A Defesa Civil e o Simepar emitiram alerta de temporais que devem se intensificar na sexta, especialmente nos Campos Gerais e na região metropolitana de Curitiba. Os temporais devem iniciar de forma mais amena ao longo do dia na faixa sul do estado.",
-          "porQueImporta": "O alerta indica risco de alagamentos e danos à população e infraestrutura",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/13/tempo-vira-e-parte-do-parana-recebe-novo-alerta-de-tempestades-intensas-veja-onde-e-a-previsao-do-tempo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T12:50:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/O2jYoMe_6tUVtGw0nxBA4k-9ai8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/4jTYRATnaVxBchZuXnfw/carlos-eduardo.jpg"
         }
       ]
     },
@@ -624,25 +567,25 @@
       ]
     },
     {
-      "slug": "desabamento",
-      "label": "Desabamento",
+      "slug": "incendio",
+      "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "943b5866fc1df557",
-          "slug": "2fce9b836c55b779",
-          "titulo": "Busca por sobreviventes após desabamento de edifício em Torres del Limonar, Colômbia",
-          "resumo": "Um edifício residencial chamado Torres del Limonar desabou na Colômbia, soterrando um homem de 80 anos e sua esposa. Seu irmão, Efraín Gallego, expressou esperança a cada alerta de que alguém ainda poderia estar vivo, apesar da emoção ao relatar o caso. As equipes de resgate continuam procurando vítimas entre os escombros.",
-          "porQueImporta": "O desabamento evidencia a vulnerabilidade de construções e a necessidade de respostas rápidas de socorro em emergências urbanas",
-          "categoria": "Desabamento",
-          "categoriaSlug": "desabamento",
+          "clusterId": "3c35fc392e936b52",
+          "slug": "9e2f8d7f162ddd7c",
+          "titulo": "Incêndio em balsa deixa um morto e 172 resgatados na Indonésia",
+          "resumo": "Uma balsa que partiu de Padangbai, em Bali, em direção a Lembar, em Lombok, pegou fogo nas águas próximas à ilha de Lombok. As autoridades locais resgataram 172 pessoas e registraram um óbito, enquanto continuam as buscas por passageiros desaparecidos. O incidente foi reportado na quarta‑feira.",
+          "porQueImporta": "O acidente evidencia riscos de transporte marítimo em rotas turísticas da Indonésia",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/a-desesperada-busca-por-sobreviventes-na-colombia-cada-vez-que-anunciam-uma-pessoa-com-vida-espero-ser-meu-irmao.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/12/incendio-em-balsana-indonesia.ghtml"
             }
           ],
-          "updatedAt": "2026-08-12T11:39:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vZT533s_h-ucEdTyd_Wibi1P048=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/0/dZwk0cT6egxeBmlgl8Ew/f589e430-95b5-11f1-b2ab-0dd01740f9f6.png-redimensionado-para-1200x651.jpeg"
+          "updatedAt": "2026-08-12T06:18:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xBALSsJ8bJsIUNBhUI2P6DCIhjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/3/WJVxazToeNABKOCIPWUg/2026-08-12t050425z-1762985661-rc2swma0ulnr-rtrmadp-3-indonesia-shipwreck-fire.jpg"
         }
       ]
     }
