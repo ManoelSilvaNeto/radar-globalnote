@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-08-13T17:31:02.898Z",
-  "editionDate": "2026-08-13",
-  "hourUtc": 17,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito e eventos climáticos dominam o panorama nacional enquanto terremoto na Colômbia eleva vítimas\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: erro — sem cota (429)",
-    "cerebras: ok"
-  ]
+  "ranAt": "2026-08-14T03:08:40.989Z",
+  "editionDate": "2026-08-14",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
