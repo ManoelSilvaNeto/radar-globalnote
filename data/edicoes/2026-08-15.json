@@ -1,38 +1,34 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-15T08:56:31.756Z",
+  "generatedAt": "2026-08-15T13:09:19.569Z",
   "home": [
     {
-      "clusterId": "d7d6151a739a39e6",
-      "slug": "2f752b95cca04d08",
-      "titulo": "Terremoto de magnitude 7,7 atinge a Indonésia",
-      "resumo": "Um terremoto de magnitude 7,7 abalou a região de Flores, no leste da Indonésia, com profundidade entre 10 e 35 km. A Agência de Meteorologia, Climatologia e Geofísica (BMKG) e o EMSC emitiram alerta preliminar de tsunami. O evento causou estragos e resultou em pelo menos duas mortes, segundo autoridades locais.",
-      "porQueImporta": "O terremoto pode gerar ondas de tsunami e já provocou fatalidades e danos na região.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
+      "clusterId": "05156f64dd9f5288",
+      "slug": "d950a3311b5452df",
+      "titulo": "Desabamento de prédio residencial deixa vítimas resgatadas em São Bernardo do Campo",
+      "resumo": "Um prédio residencial desabou na manhã de sábado na Rua Jorge Amado, em São Bernardo do Campo. Bombeiros retiraram três pessoas dos escombros – um homem de 37 anos, uma menina de 11 anos e uma mulher adulta – e as encaminharam a hospitais locais; outra pessoa permanece sob os destroços. A prefeitura evacuou as residências vizinhas como medida preventiva.",
+      "porQueImporta": "O incidente evidencia riscos estruturais e a necessidade de resposta rápida de emergência em áreas urbanas.",
+      "categoria": "Desabamento",
+      "categoriaSlug": "desabamento",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-atinge-a-indonesia.ghtml"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/terremoto-de-magnitude-77-atinge-indonesia-e-provoca-alerta-de-tsunami/"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-77-deixa-mortos-na-indonesia/"
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/edificio-desaba-e-deixa-quatro-vitimas-em-sao-bernardo-do-campo-sp/"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/terremoto-de-magnitude-77-atinge-a-indonesia/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/quatro-pessoas-resgatadas-desabamento-sao-bernardo"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/15/desabamento-em-sao-bernardo-do-campo-vitima-ao-menos-tres-pessoas.ghtml"
         }
       ],
-      "updatedAt": "2026-08-15T02:37:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zAxLP491NpqLQTRKHGvz3aQyUpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/l/8TZw8TQqav7bPCCXkHdg/afp-20260815-c4pu6c4-v1-midres-indonesiaquake.jpg"
+      "updatedAt": "2026-08-15T12:20:37.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/local-desabamento-sao-bernardo.jpg"
     },
     {
-      "clusterId": "0d053c07713cb379",
+      "clusterId": "23f5c691641fdd7c",
       "slug": "9c166d733b8e4dcb",
       "titulo": "Mortes aumentam após terremoto de magnitude 7,4 na Colômbia",
       "resumo": "O terremoto que atingiu a Colômbia na segunda‑feira (10) elevou o número de mortos para 288, conforme divulgado pelas autoridades. Mais de 3,9 mil pessoas ficaram feridas e 379 permanecem desaparecidas. O governador Abelardo de la Espriella visitou Pereira e anunciou auxílio para aluguel, além da reconstrução de residências, escolas e hospitais. As buscas por sobreviventes continuam, mas a esperança de encontrar novas vítimas diminuiu.",
@@ -46,234 +42,258 @@
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-288-o-numero-de-mortos-pelo-terremoto-na-colombia/"
+          "url": "https://www.cnnbrasil.com.br/internacional/colombia-entra-no-sexto-dia-de-buscas-por-sobreviventes-apos-terremoto/"
         }
       ],
-      "updatedAt": "2026-08-15T00:18:56.000Z",
+      "updatedAt": "2026-08-15T09:00:21.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/MZjbwEdZusHsIaVNzUg7d2fX73c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/4/Oh5BMES5iAwCtbXJwQyg/2026-08-13t154431z-1667020931-rc2pxma3a5zw-rtrmadp-3-colombia-quake.jpg"
     },
     {
-      "clusterId": "1d3aa2d3309aea24",
-      "slug": "ebdb817390d72625",
-      "titulo": "Terremoto de magnitude 7,7 deixa ao menos 20 mortos na Indonésia",
-      "resumo": "Um sismo de magnitude 7,7 atingiu uma ilha da Indonésia, provocando pânico entre turistas. O terremoto resultou em pelo menos 20 mortes e gerou preocupação nas áreas afetadas. As autoridades pedem calma e orientam a população a evitar entrar em pânico. A situação está sendo monitorada pelas equipes de socorro locais.",
-      "porQueImporta": "O evento evidencia a vulnerabilidade a grandes sismos em áreas turísticas da Indonésia",
+      "clusterId": "013bf4c194cf3b72",
+      "slug": "2f752b95cca04d08",
+      "titulo": "Terremoto de magnitude 7,7 atinge a Indonésia",
+      "resumo": "Um terremoto de magnitude 7,7 abalou a região de Flores, no leste da Indonésia, com profundidade entre 10 e 35 km. A Agência de Meteorologia, Climatologia e Geofísica (BMKG) e o EMSC emitiram alerta preliminar de tsunami. O evento causou estragos e resultou em pelo menos duas mortes, segundo autoridades locais.",
+      "porQueImporta": "O terremoto pode gerar ondas de tsunami e já provocou fatalidades e danos na região.",
       "categoria": "Terremoto",
       "categoriaSlug": "terremoto",
       "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-atinge-a-indonesia.ghtml"
+        },
         {
           "name": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/noticias/nao-entrem-em-panico-terremoto-assusta-turistas-em-ilha-na-indonesia/"
         }
       ],
-      "updatedAt": "2026-08-15T08:31:42.000Z"
+      "updatedAt": "2026-08-15T08:31:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YdOuqHsKssvO-MlNXLuK9SBP33s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/N/ywhk5ATHC4s8kFAmnlaw/2026-08-15t014457z-1040189082-rc2pyma8kquy-rtrmadp-3-indonesia-quake-1-.jpg"
     },
     {
-      "clusterId": "124e75d8fdba2657",
-      "slug": "dfe476443a9633b0",
-      "titulo": "Acidentes com patinete elétrico apresentam lesões graves comparadas a motocicletas",
-      "resumo": "Estudos apontam que quedas de patinetes elétricos podem causar traumatismos cranianos, danos a órgãos internos e fraturas complexas, mesmo em velocidades moderadas. Os ferimentos relatados são mais severos do que os observados em acidentes semelhantes envolvendo motocicletas. Cirurgiões de trauma têm registrado esses casos à medida que o uso de patinetes elétricos aumenta.",
-      "porQueImporta": "A gravidade das lesões destaca a necessidade de medidas de segurança e de políticas públicas para o uso desses veículos",
+      "clusterId": "031b0c8c9e82cbda",
+      "slug": "547208048b3fb221",
+      "titulo": "Motorista e criança são hospitalizados após capotamento na BR-040",
+      "resumo": "Na manhã de sábado, por volta das 7h45, um veículo capotou na BR-040, em Santa Maria. O motorista e a criança a bordo sofreram ferimentos leves e foram levados ao hospital. As autoridades registraram o acidente e iniciaram as investigações. Não foram informados outros envolvidos ou vítimas graves.",
+      "porQueImporta": "O acidente evidencia riscos de tráfego na rodovia e a necessidade de atenção dos motoristas.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/ciencia/noticia/2026/08/15/patinete-eletrico-ou-moto-estudo-encontra-diferenca-surpreendente-nas-lesoes-apos-acidentes.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/motorista-e-crianca-sao-hospitalizados-apos-capotamento-na-br-040"
         }
       ],
-      "updatedAt": "2026-08-15T07:02:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Fu7v1yjR28_aLFr8RCWh7v-z024=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Q/h/YY3okyQKWKiFIxASHFKw/2023-04-01t144236z-1985629492-rc2p50aqn3zy-rtrmadp-3-paris-scooters.jpg"
+      "updatedAt": "2026-08-15T12:57:15.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/acidente-cbmdf.jpg"
     },
     {
-      "clusterId": "7c9cf98c32af8378",
-      "slug": "6d6cc09210c5aa2b",
-      "titulo": "Excesso de opções e falta de tempo dificultam relacionamentos em São Paulo",
-      "resumo": "Na capital paulista, a combinação de trânsito intenso, rotina de trabalho exigente e aplicativos de relacionamento gera a sensação de que há sempre uma alternativa melhor. Profissionais que atendem pacientes e pessoas solteiras relatam que manter um relacionamento está se tornando cada vez mais desafiador. A questão ganha destaque nesta semana, que inclui a celebração do Dia do Solteiro em 15 de agosto.",
-      "porQueImporta": "Reflete mudanças sociais que podem influenciar bem‑estar emocional da população urbana",
+      "clusterId": "52c4c4662b18a4ed",
+      "slug": "772ac50712429835",
+      "titulo": "Rio tem fim de semana de tempo instável e previsão de chuva",
+      "resumo": "Céu com nuvens visto da Ponte Rio-Niterói Patrícia Teixeira/ g1 O sábado (15) começou com tempo instável no Rio de Janeiro devido à aproximação de áreas de instabilidade, segundo a Climatempo. Há risco de temporais com elevados volumes de chuva, o que pode provocar alagamentos, além de ventos fortes e descargas elétricas na Região Metropolitana, na Costa Verde, nas regiões Serrana e dos Lagos. As rajadas podem chegar a 70 km/h. Com menor presença do sol ao longo do dia, as temperaturas permanecem mais amenas, com máxima prevista de 27°C. 📱Baixe o app do g1 para ver notícias do RJ em tempo…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/15/amores-vaporosos-excesso-de-opcoes-e-falta-de-tempo-desafiam-relacionamentos-em-sao-paulo.ghtml"
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/15/rio-tem-fim-de-semana-de-tempo-instavel.ghtml"
         }
       ],
-      "updatedAt": "2026-08-15T07:00:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/cjS3p-DqCzIRMJP2Ena6-P9mC_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/P/9xCr9zTt6qMnxFvL4f9g/bloco-1-novo-frame-at-4m38s.jpg"
+      "updatedAt": "2026-08-15T12:53:18.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0-jWXWzR1fzFs5Lt8CarMCyvg2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/H/Wq6JrUTdAnTpQbBJLCjQ/g1-ponte.jpg"
     },
     {
-      "clusterId": "31acbeaec06085f3",
-      "slug": "84314fc1f2f9ad6d",
-      "titulo": "Meteorologista norte-americano Reed Timmer planeja visitar sul do Brasil para observar tornados",
-      "resumo": "Reed Timmer, caçador de tempestades e meteorologista dos Estados Unidos, anunciou nas redes sociais que pretende viajar ao Rio Grande do Sul e ao Paraná nas próximas semanas. Ele pretende observar os tornados recentes na região, citando que o fenômeno El Niño está intensificando o Corredor de Tornados da América do Sul. A visita será feita com sua equipe, a Team Dominator. O anúncio foi feito no dia 9.",
-      "porQueImporta": "A presença de um especialista internacional pode ampliar a compreensão dos eventos de tornados na região",
+      "clusterId": "e1bbd605116a1373",
+      "slug": "2aacc21b681356c0",
+      "titulo": "Capotamento após colisão entre três veículos deixa quatro feridos em Aracaju",
+      "resumo": "Na manhã de sábado, três veículos colidiram na Avenida Coelho e Campos, em Aracaju, resultando no capotamento de um deles. O acidente envolveu dois carros e uma moto, e deixou quatro pessoas feridas, incluindo o condutor da moto, uma passageira de 42 anos e uma jovem de 18 anos. As vítimas foram atendidas no local pelo Corpo de Bombeiros. Não há informações sobre vítimas fatais.",
+      "porQueImporta": "Acidentes de trânsito com múltiplas vítimas exigem atenção das autoridades e da população para prevenção de novos incidentes.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/08/15/acidente-deixa-feridos-em-aracaju.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-15T12:45:29.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EO1MhdKzurZ4X3gQ5ePMh3a85UA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/nY7qaYSg2IIgWR4MNCPw/whatsapp-image-2026-08-15-at-09.28.13.jpeg"
+    },
+    {
+      "clusterId": "10347314064f54ce",
+      "slug": "38d2a7dca66006e7",
+      "titulo": "Paraná em alerta laranja de tempestades para 114 cidades",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta laranja para temporais no Paraná, abrangendo 114 municípios da região sul. Na sexta-feira (14) foram registrados fortes chuvas com granizo, e meteorologistas apontam risco de chuvas intensas, ventos acima de 60 km/h e granizo neste sábado (15). O aviso indica precipitação pontual de até 30 mm/h ou até 50 mm/dia. As autoridades recomendam atenção à população nas áreas afetadas.",
+      "porQueImporta": "O alerta indica risco de danos materiais e à segurança da população em ampla região do estado",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/15/conhecido-cacador-de-tempestades-dos-eua-planeja-vir-ao-sul-do-brasil-para-observar-tornados.ghtml"
+          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/15/parana-novo-alerta-tempestades-veja-previsao-do-tempo.ghtml"
         }
       ],
-      "updatedAt": "2026-08-15T06:00:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PZZrJsioAiX1voTxEsfPmJjK_Zo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/L/bvsKmyTgCSTnnIAvjo4g/g1-8-.png"
+      "updatedAt": "2026-08-15T12:35:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/uAUMtAnB1wd91ylwU-RC8ir6_RQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/8/EAfSBDR9yjQAE5iMCOKQ/20250605-agb-chuva-29.jpg"
     },
     {
-      "clusterId": "50ded664759a34b3",
-      "slug": "d3b00baa24b433c9",
-      "titulo": "Peru realiza simulação de terremoto de magnitude 8,8 após abalos na Colômbia e Venezuela",
-      "resumo": "Autoridades peruanas conduziram um exercício para avaliar a resposta a um tremor de magnitude 8,8, liderado pela presidente Keiko Fujimori. A ação foi motivada pelos recentes terremotos ocorridos na Colômbia e na Venezuela.",
-      "porQueImporta": "A simulação busca aprimorar a preparação do país frente a possíveis grandes sismos",
+      "clusterId": "86cbc29f9ec30fb3",
+      "slug": "b737f39106b10493",
+      "titulo": "Incêndio atinge galpão da Associação de Catadores de Papel em Belo Horizonte",
+      "resumo": "Um incêndio de grandes proporções começou na madrugada de sábado no galpão da Associação de Catadores de Papel, Papelão e Materiais Reaproveitáveis, localizado no Bairro Prado, Região Oeste de Belo Horizonte. O Corpo de Bombeiros controlou as chamas por volta das 9h e realizou o rescaldo. Não houve feridos. O local funciona como ponto de coleta e triagem de materiais reutilizáveis.",
+      "porQueImporta": "O evento evidencia riscos em instalações de coleta de materiais recicláveis e mobiliza recursos de emergência urbana.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/15/video-incendio-atinge-galpao-de-materiais-reciclaveis-em-bh-e-mobiliza-bombeiros.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-15T12:35:06.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/lsw8DO15K5m69BXuJadt-_LOtUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/6/KD2eFfT5ybVtRKrr5c3w/captura-de-tela-2026-08-15-094540.png"
+    },
+    {
+      "clusterId": "04171588dbd3dcb4",
+      "slug": "ac5972b4678b9343",
+      "titulo": "Semirreboque se solta de caminhão e mata sete pessoas na MS-180",
+      "resumo": "Na noite de sexta‑feira, um semirreboque acoplado a um caminhão‑cegonha se desprendeu na rodovia MS‑180, entre Iguatemi e Japorã, e colidiu com um Chevrolet Spin que trafegava no sentido contrário. O impacto fez com que o carro ficasse preso ao semirreboque, que tombou, resultando em sete óbitos. As investigações preliminares do Batalhão de Polícia Militar Rodoviária de Mato Grosso do Sul apontam a queda do semirreboque como causa do acidente.",
+      "porQueImporta": "O acidente evidencia riscos de transporte de carga em rodovias e a necessidade de inspeções de segurança.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/15/semirreboque-se-solta-de-caminhao-e-mata-7-pessoas-em-acidente-na-ms-180.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-15T12:24:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/lpv8ChDP7UuEGYLl1hq5HMWJ7jA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/v/UEBsbfSMOMv51gqnWbkw/acidente-180.jpg"
+    },
+    {
+      "clusterId": "48373775cd6e968f",
+      "slug": "0e8c2b859b4e2b19",
+      "titulo": "Capital paulista está toda em atenção para alagamentos neste sábado",
+      "resumo": "Bairros do Jabaquara e de Santo Amaro, na zona Sul da capital paulista, estão em estado de alerta",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/peru-faz-simulacao-para-desastres-apos-terremotos-na-colombia-e-venezuela/"
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/capital-paulista-esta-toda-em-atencao-para-alagamentos-neste-sabado/"
         }
       ],
-      "updatedAt": "2026-08-15T05:08:04.000Z"
-    },
-    {
-      "clusterId": "4e9d9b96cf3eb6f5",
-      "slug": "ec3aa32f316c621b",
-      "titulo": "Onda de calor e chuvas intensas atingem Centro-Oeste, Sudeste, Norte e Sul",
-      "resumo": "A partir de sábado (15), uma onda de calor eleva as temperaturas acima do normal em várias regiões do Brasil, enquanto o Sul enfrenta chuvas fortes e temporais até quinta-feira (20). Em Santa Catarina, os acumulados podem superar 100 mm no litoral, e no Rio Grande do Sul são esperados até 70 mm, granizo e rajadas de vento de até 80 km/h. Os alertas de tempestade foram emitidos pelo Inmet e pela Climatempo para diferentes áreas do estado gaúcho.",
-      "porQueImporta": "As condições combinam risco de calor extremo e inundações, afetando população e infraestrutura",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/15/granizo-chuva-forte-rajadas-de-ate-80-kmh-veja-como-fica-o-tempo-no-fim-de-semana-no-rs.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-15T03:00:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/n3utcn2u57AlwtUW4LP_OJ37dgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/J/AIdtaOQ1AngEH6dPGtCA/g1-2-.png"
-    },
-    {
-      "clusterId": "2cb337b0f74197ec",
-      "slug": "3ef766577dce5163",
-      "titulo": "Seis trabalhadores ficam presos após explosão em mina na Colômbia",
-      "resumo": "Uma explosão ocorreu em uma mina no município de Cucunubá, na Colômbia, deixando seis trabalhadores presos e incomunicáveis. As equipes de resgate atuam simultaneamente nas áreas afetadas por um terremoto de magnitude 7,4 que já causou centenas de mortes. Um sétimo trabalhador conseguiu sair por seus próprios meios. As autoridades continuam as buscas pelos desaparecidos.",
-      "porQueImporta": "O incidente evidencia riscos de segurança em mineração em contexto de desastre natural",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/14/trabalhadores-ficam-presos-apos-explosao-em-mina-na-colombia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-14T19:17:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/onkgAxUwFgUh9xP5n9WP3sBGlIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/0/aJCCW5Qm2QnAhkK7AR2w/1280px-cucunuba-cundinamarca-colombia-.jpg"
-    },
-    {
-      "clusterId": "dea29b6f9c33e02b",
-      "slug": "aa5d2648703ce4a6",
-      "titulo": "Ciclista britânico de 19 anos morre em acidente na Volta de Portugal",
-      "resumo": "Finlay Tarling, de 19 anos, morreu na sexta‑feira durante a oitava etapa da 87ª Volta a Portugal. O acidente ocorreu quando o ciclista foi atingido por um carro que não fazia parte da competição. O organizador do evento divulgou o falecimento em comunicado nas redes sociais. A emissora portuguesa RTP confirmou o ocorrido.",
-      "porQueImporta": "A morte destaca os riscos de segurança envolvendo veículos em provas de ciclismo de grande porte",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/14/ciclista-britanico-finlay-tarling-de-19-anos-morre-em-acidente-na-volta-de-portugal.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-14T16:37:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vhL--hdmYp6NLwWMUgTBir0zc1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/DPWgKnRjmwYfX96GO88g/fotojet-2026-08-14t134354.144.jpg"
+      "updatedAt": "2026-08-15T12:03:23.000Z"
     }
   ],
   "categorias": [
     {
-      "slug": "terremoto",
-      "label": "Terremoto",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "d7d6151a739a39e6",
-          "slug": "2f752b95cca04d08",
-          "titulo": "Terremoto de magnitude 7,7 atinge a Indonésia",
-          "resumo": "Um terremoto de magnitude 7,7 abalou a região de Flores, no leste da Indonésia, com profundidade entre 10 e 35 km. A Agência de Meteorologia, Climatologia e Geofísica (BMKG) e o EMSC emitiram alerta preliminar de tsunami. O evento causou estragos e resultou em pelo menos duas mortes, segundo autoridades locais.",
-          "porQueImporta": "O terremoto pode gerar ondas de tsunami e já provocou fatalidades e danos na região.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
+          "clusterId": "031b0c8c9e82cbda",
+          "slug": "547208048b3fb221",
+          "titulo": "Motorista e criança são hospitalizados após capotamento na BR-040",
+          "resumo": "Na manhã de sábado, por volta das 7h45, um veículo capotou na BR-040, em Santa Maria. O motorista e a criança a bordo sofreram ferimentos leves e foram levados ao hospital. As autoridades registraram o acidente e iniciaram as investigações. Não foram informados outros envolvidos ou vítimas graves.",
+          "porQueImporta": "O acidente evidencia riscos de tráfego na rodovia e a necessidade de atenção dos motoristas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/motorista-e-crianca-sao-hospitalizados-apos-capotamento-na-br-040"
+            }
+          ],
+          "updatedAt": "2026-08-15T12:57:15.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/acidente-cbmdf.jpg"
+        },
+        {
+          "clusterId": "e1bbd605116a1373",
+          "slug": "2aacc21b681356c0",
+          "titulo": "Capotamento após colisão entre três veículos deixa quatro feridos em Aracaju",
+          "resumo": "Na manhã de sábado, três veículos colidiram na Avenida Coelho e Campos, em Aracaju, resultando no capotamento de um deles. O acidente envolveu dois carros e uma moto, e deixou quatro pessoas feridas, incluindo o condutor da moto, uma passageira de 42 anos e uma jovem de 18 anos. As vítimas foram atendidas no local pelo Corpo de Bombeiros. Não há informações sobre vítimas fatais.",
+          "porQueImporta": "Acidentes de trânsito com múltiplas vítimas exigem atenção das autoridades e da população para prevenção de novos incidentes.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-atinge-a-indonesia.ghtml"
-            },
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-internacional/terremoto-de-magnitude-77-atinge-indonesia-e-provoca-alerta-de-tsunami/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-77-deixa-mortos-na-indonesia/"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/terremoto-de-magnitude-77-atinge-a-indonesia/"
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/08/15/acidente-deixa-feridos-em-aracaju.ghtml"
             }
           ],
-          "updatedAt": "2026-08-15T02:37:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zAxLP491NpqLQTRKHGvz3aQyUpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/l/8TZw8TQqav7bPCCXkHdg/afp-20260815-c4pu6c4-v1-midres-indonesiaquake.jpg"
+          "updatedAt": "2026-08-15T12:45:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EO1MhdKzurZ4X3gQ5ePMh3a85UA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/nY7qaYSg2IIgWR4MNCPw/whatsapp-image-2026-08-15-at-09.28.13.jpeg"
         },
         {
-          "clusterId": "0d053c07713cb379",
-          "slug": "9c166d733b8e4dcb",
-          "titulo": "Mortes aumentam após terremoto de magnitude 7,4 na Colômbia",
-          "resumo": "O terremoto que atingiu a Colômbia na segunda‑feira (10) elevou o número de mortos para 288, conforme divulgado pelas autoridades. Mais de 3,9 mil pessoas ficaram feridas e 379 permanecem desaparecidas. O governador Abelardo de la Espriella visitou Pereira e anunciou auxílio para aluguel, além da reconstrução de residências, escolas e hospitais. As buscas por sobreviventes continuam, mas a esperança de encontrar novas vítimas diminuiu.",
-          "porQueImporta": "A tragédia evidencia a necessidade de resposta rápida e apoio à população afetada por desastres sísmicos.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
+          "clusterId": "04171588dbd3dcb4",
+          "slug": "ac5972b4678b9343",
+          "titulo": "Semirreboque se solta de caminhão e mata sete pessoas na MS-180",
+          "resumo": "Na noite de sexta‑feira, um semirreboque acoplado a um caminhão‑cegonha se desprendeu na rodovia MS‑180, entre Iguatemi e Japorã, e colidiu com um Chevrolet Spin que trafegava no sentido contrário. O impacto fez com que o carro ficasse preso ao semirreboque, que tombou, resultando em sete óbitos. As investigações preliminares do Batalhão de Polícia Militar Rodoviária de Mato Grosso do Sul apontam a queda do semirreboque como causa do acidente.",
+          "porQueImporta": "O acidente evidencia riscos de transporte de carga em rodovias e a necessidade de inspeções de segurança.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/13/terremoto-na-colombia-numero-de-mortos-sobe-para-273-desaparecidos-agora-sao-377.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-288-o-numero-de-mortos-pelo-terremoto-na-colombia/"
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/15/semirreboque-se-solta-de-caminhao-e-mata-7-pessoas-em-acidente-na-ms-180.ghtml"
             }
           ],
-          "updatedAt": "2026-08-15T00:18:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MZjbwEdZusHsIaVNzUg7d2fX73c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/4/Oh5BMES5iAwCtbXJwQyg/2026-08-13t154431z-1667020931-rc2pxma3a5zw-rtrmadp-3-colombia-quake.jpg"
+          "updatedAt": "2026-08-15T12:24:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lpv8ChDP7UuEGYLl1hq5HMWJ7jA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/v/UEBsbfSMOMv51gqnWbkw/acidente-180.jpg"
         },
         {
-          "clusterId": "1d3aa2d3309aea24",
-          "slug": "ebdb817390d72625",
-          "titulo": "Terremoto de magnitude 7,7 deixa ao menos 20 mortos na Indonésia",
-          "resumo": "Um sismo de magnitude 7,7 atingiu uma ilha da Indonésia, provocando pânico entre turistas. O terremoto resultou em pelo menos 20 mortes e gerou preocupação nas áreas afetadas. As autoridades pedem calma e orientam a população a evitar entrar em pânico. A situação está sendo monitorada pelas equipes de socorro locais.",
-          "porQueImporta": "O evento evidencia a vulnerabilidade a grandes sismos em áreas turísticas da Indonésia",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/noticias/nao-entrem-em-panico-terremoto-assusta-turistas-em-ilha-na-indonesia/"
-            }
-          ],
-          "updatedAt": "2026-08-15T08:31:42.000Z"
-        },
-        {
-          "clusterId": "47c2c6b1769cd7b6",
-          "slug": "1675b666b512370e",
-          "titulo": "Terremoto de magnitude 7,4 deixa única sobrevivente em prédio desabado em Cali",
-          "resumo": "Um forte terremoto de magnitude 7,4 atingiu a Colômbia, provocando o desabamento de um prédio em Cali onde vivia a família de Ana María Saavedra. Os pais da jovem morreram abraçados e as duas irmãs faleceram, enquanto Ana María, trigêmea, sobreviveu. Ela enfrenta o desafio de recomeçar a vida sem sua família. As autoridades declararam emergência econômica para acelerar as medidas de apoio.",
-          "porQueImporta": "O caso evidencia a gravidade do sismo e a necessidade de resposta rápida para as vítimas.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
+          "clusterId": "75ac4f6af1f04f61",
+          "slug": "d07f9a9565072021",
+          "titulo": "Caminhão tombado deixa criança presa às ferragens na BR-116 em Leopoldina",
+          "resumo": "Na madrugada de sábado, por volta das 5h30, um caminhão que trafegava no km 774 da BR-116 em Leopoldina tombou. A motorista de 27 anos e a filha de 2 anos ficaram feridas; a menina ficou presa nas ferragens da cabine e foi resgatada pelo Corpo de Bombeiros antes de ser encaminhada para atendimento médico.",
+          "porQueImporta": "O acidente evidencia riscos de acidentes rodoviários e a necessidade de respostas rápidas de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/14/adoravam-salsa-diz-primo-da-unica-sobrevivente-de-familia-devastada-por-terremoto-na-colombia.ghtml"
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/15/crianca-fica-presa-as-ferragens-apos-caminhao-tombar-em-serra-da-br-116.ghtml"
             }
           ],
-          "updatedAt": "2026-08-14T12:16:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bPwqV4WbHRubv0fR7KCN1Dvm3hA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/a/ByWxNlTL25Py5XixAJ8A/afp-20260813-c4lb2t9-v3-midres-topshotcolombiaearthquakeaftermath.jpg"
+          "updatedAt": "2026-08-15T11:59:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-NTaGbBTAmTB3WFYrrPiMmsDzhU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/ShVsGUSxuefTXlMcqEPg/acidente-116.jpeg"
+        },
+        {
+          "clusterId": "f7e45f8766ae741a",
+          "slug": "3d2a5e691fd6245d",
+          "titulo": "Três mortos em colisão de duas carretas na rodovia Fernão Dias em Brumadinho",
+          "resumo": "Na noite de sexta‑feira (14), duas carretas que trafegavam no mesmo sentido colidiram na Serra de Igarapé, sentido São Paulo. A colisão fez com que uma das carretas pegasse fogo, resultando na morte de dois homens no local. Na manhã de sábado (15), a equipe de resgate encontrou o corpo da terceira vítima no mesmo ponto. As autoridades registraram três óbitos em decorrência do acidente.",
+          "porQueImporta": "O acidente evidencia riscos de colisões envolvendo veículos de grande porte nas rodovias brasileiras.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/15/dois-homens-morrem-em-acidente-envolvendo-duas-carretas-na-grande-bh.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-15T10:54:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mNUfmWc_fkwYPWTxylTnF_Xa4BM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/f/brnNtuSxqZlZ2Vq9zyHQ/captura-de-tela-2026-08-15-075250.png"
+        },
+        {
+          "clusterId": "dea29b6f9c33e02b",
+          "slug": "aa5d2648703ce4a6",
+          "titulo": "Ciclista britânico de 19 anos morre em acidente na Volta de Portugal",
+          "resumo": "Finlay Tarling, de 19 anos, morreu na sexta‑feira durante a oitava etapa da 87ª Volta a Portugal. O acidente ocorreu quando o ciclista foi atingido por um carro que não fazia parte da competição. O organizador do evento divulgou o falecimento em comunicado nas redes sociais. A emissora portuguesa RTP confirmou o ocorrido.",
+          "porQueImporta": "A morte destaca os riscos de segurança envolvendo veículos em provas de ciclismo de grande porte",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/14/ciclista-britanico-finlay-tarling-de-19-anos-morre-em-acidente-na-volta-de-portugal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-14T16:37:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vhL--hdmYp6NLwWMUgTBir0zc1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/DPWgKnRjmwYfX96GO88g/fotojet-2026-08-14t134354.144.jpg"
         }
       ]
     },
@@ -282,37 +302,53 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "7c9cf98c32af8378",
-          "slug": "6d6cc09210c5aa2b",
-          "titulo": "Excesso de opções e falta de tempo dificultam relacionamentos em São Paulo",
-          "resumo": "Na capital paulista, a combinação de trânsito intenso, rotina de trabalho exigente e aplicativos de relacionamento gera a sensação de que há sempre uma alternativa melhor. Profissionais que atendem pacientes e pessoas solteiras relatam que manter um relacionamento está se tornando cada vez mais desafiador. A questão ganha destaque nesta semana, que inclui a celebração do Dia do Solteiro em 15 de agosto.",
-          "porQueImporta": "Reflete mudanças sociais que podem influenciar bem‑estar emocional da população urbana",
+          "clusterId": "52c4c4662b18a4ed",
+          "slug": "772ac50712429835",
+          "titulo": "Rio tem fim de semana de tempo instável e previsão de chuva",
+          "resumo": "Céu com nuvens visto da Ponte Rio-Niterói Patrícia Teixeira/ g1 O sábado (15) começou com tempo instável no Rio de Janeiro devido à aproximação de áreas de instabilidade, segundo a Climatempo. Há risco de temporais com elevados volumes de chuva, o que pode provocar alagamentos, além de ventos fortes e descargas elétricas na Região Metropolitana, na Costa Verde, nas regiões Serrana e dos Lagos. As rajadas podem chegar a 70 km/h. Com menor presença do sol ao longo do dia, as temperaturas permanecem mais amenas, com máxima prevista de 27°C. 📱Baixe o app do g1 para ver notícias do RJ em tempo…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/15/amores-vaporosos-excesso-de-opcoes-e-falta-de-tempo-desafiam-relacionamentos-em-sao-paulo.ghtml"
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/15/rio-tem-fim-de-semana-de-tempo-instavel.ghtml"
             }
           ],
-          "updatedAt": "2026-08-15T07:00:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cjS3p-DqCzIRMJP2Ena6-P9mC_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/P/9xCr9zTt6qMnxFvL4f9g/bloco-1-novo-frame-at-4m38s.jpg"
+          "updatedAt": "2026-08-15T12:53:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0-jWXWzR1fzFs5Lt8CarMCyvg2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/H/Wq6JrUTdAnTpQbBJLCjQ/g1-ponte.jpg"
         },
         {
-          "clusterId": "50ded664759a34b3",
-          "slug": "d3b00baa24b433c9",
-          "titulo": "Peru realiza simulação de terremoto de magnitude 8,8 após abalos na Colômbia e Venezuela",
-          "resumo": "Autoridades peruanas conduziram um exercício para avaliar a resposta a um tremor de magnitude 8,8, liderado pela presidente Keiko Fujimori. A ação foi motivada pelos recentes terremotos ocorridos na Colômbia e na Venezuela.",
-          "porQueImporta": "A simulação busca aprimorar a preparação do país frente a possíveis grandes sismos",
+          "clusterId": "48373775cd6e968f",
+          "slug": "0e8c2b859b4e2b19",
+          "titulo": "Capital paulista está toda em atenção para alagamentos neste sábado",
+          "resumo": "Bairros do Jabaquara e de Santo Amaro, na zona Sul da capital paulista, estão em estado de alerta",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/peru-faz-simulacao-para-desastres-apos-terremotos-na-colombia-e-venezuela/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/capital-paulista-esta-toda-em-atencao-para-alagamentos-neste-sabado/"
             }
           ],
-          "updatedAt": "2026-08-15T05:08:04.000Z"
+          "updatedAt": "2026-08-15T12:03:23.000Z"
+        },
+        {
+          "clusterId": "aab15c5d3810ca07",
+          "slug": "a8daff55a5b68a0a",
+          "titulo": "Defesa Civil emite alerta severo para chuva forte, raios e ventos em SP",
+          "resumo": "Mensagem foi recebida nos celulares de moradores da capital paulista por volta das 8h05",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-chuva-forte-raios-e-ventos-em-sp/"
+            }
+          ],
+          "updatedAt": "2026-08-15T11:11:12.000Z"
         },
         {
           "clusterId": "7481dcdb4fc0559c",
@@ -351,42 +387,50 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "terremoto",
+      "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "124e75d8fdba2657",
-          "slug": "dfe476443a9633b0",
-          "titulo": "Acidentes com patinete elétrico apresentam lesões graves comparadas a motocicletas",
-          "resumo": "Estudos apontam que quedas de patinetes elétricos podem causar traumatismos cranianos, danos a órgãos internos e fraturas complexas, mesmo em velocidades moderadas. Os ferimentos relatados são mais severos do que os observados em acidentes semelhantes envolvendo motocicletas. Cirurgiões de trauma têm registrado esses casos à medida que o uso de patinetes elétricos aumenta.",
-          "porQueImporta": "A gravidade das lesões destaca a necessidade de medidas de segurança e de políticas públicas para o uso desses veículos",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "23f5c691641fdd7c",
+          "slug": "9c166d733b8e4dcb",
+          "titulo": "Mortes aumentam após terremoto de magnitude 7,4 na Colômbia",
+          "resumo": "O terremoto que atingiu a Colômbia na segunda‑feira (10) elevou o número de mortos para 288, conforme divulgado pelas autoridades. Mais de 3,9 mil pessoas ficaram feridas e 379 permanecem desaparecidas. O governador Abelardo de la Espriella visitou Pereira e anunciou auxílio para aluguel, além da reconstrução de residências, escolas e hospitais. As buscas por sobreviventes continuam, mas a esperança de encontrar novas vítimas diminuiu.",
+          "porQueImporta": "A tragédia evidencia a necessidade de resposta rápida e apoio à população afetada por desastres sísmicos.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ciencia/noticia/2026/08/15/patinete-eletrico-ou-moto-estudo-encontra-diferenca-surpreendente-nas-lesoes-apos-acidentes.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/13/terremoto-na-colombia-numero-de-mortos-sobe-para-273-desaparecidos-agora-sao-377.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/colombia-entra-no-sexto-dia-de-buscas-por-sobreviventes-apos-terremoto/"
             }
           ],
-          "updatedAt": "2026-08-15T07:02:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Fu7v1yjR28_aLFr8RCWh7v-z024=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Q/h/YY3okyQKWKiFIxASHFKw/2023-04-01t144236z-1985629492-rc2p50aqn3zy-rtrmadp-3-paris-scooters.jpg"
+          "updatedAt": "2026-08-15T09:00:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MZjbwEdZusHsIaVNzUg7d2fX73c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/4/Oh5BMES5iAwCtbXJwQyg/2026-08-13t154431z-1667020931-rc2pxma3a5zw-rtrmadp-3-colombia-quake.jpg"
         },
         {
-          "clusterId": "dea29b6f9c33e02b",
-          "slug": "aa5d2648703ce4a6",
-          "titulo": "Ciclista britânico de 19 anos morre em acidente na Volta de Portugal",
-          "resumo": "Finlay Tarling, de 19 anos, morreu na sexta‑feira durante a oitava etapa da 87ª Volta a Portugal. O acidente ocorreu quando o ciclista foi atingido por um carro que não fazia parte da competição. O organizador do evento divulgou o falecimento em comunicado nas redes sociais. A emissora portuguesa RTP confirmou o ocorrido.",
-          "porQueImporta": "A morte destaca os riscos de segurança envolvendo veículos em provas de ciclismo de grande porte",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "013bf4c194cf3b72",
+          "slug": "2f752b95cca04d08",
+          "titulo": "Terremoto de magnitude 7,7 atinge a Indonésia",
+          "resumo": "Um terremoto de magnitude 7,7 abalou a região de Flores, no leste da Indonésia, com profundidade entre 10 e 35 km. A Agência de Meteorologia, Climatologia e Geofísica (BMKG) e o EMSC emitiram alerta preliminar de tsunami. O evento causou estragos e resultou em pelo menos duas mortes, segundo autoridades locais.",
+          "porQueImporta": "O terremoto pode gerar ondas de tsunami e já provocou fatalidades e danos na região.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/14/ciclista-britanico-finlay-tarling-de-19-anos-morre-em-acidente-na-volta-de-portugal.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-atinge-a-indonesia.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/noticias/nao-entrem-em-panico-terremoto-assusta-turistas-em-ilha-na-indonesia/"
             }
           ],
-          "updatedAt": "2026-08-14T16:37:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vhL--hdmYp6NLwWMUgTBir0zc1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/DPWgKnRjmwYfX96GO88g/fotojet-2026-08-14t134354.144.jpg"
+          "updatedAt": "2026-08-15T08:31:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YdOuqHsKssvO-MlNXLuK9SBP33s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/N/ywhk5ATHC4s8kFAmnlaw/2026-08-15t014457z-1040189082-rc2pyma8kquy-rtrmadp-3-indonesia-quake-1-.jpg"
         }
       ]
     },
@@ -395,78 +439,38 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "31acbeaec06085f3",
-          "slug": "84314fc1f2f9ad6d",
-          "titulo": "Meteorologista norte-americano Reed Timmer planeja visitar sul do Brasil para observar tornados",
-          "resumo": "Reed Timmer, caçador de tempestades e meteorologista dos Estados Unidos, anunciou nas redes sociais que pretende viajar ao Rio Grande do Sul e ao Paraná nas próximas semanas. Ele pretende observar os tornados recentes na região, citando que o fenômeno El Niño está intensificando o Corredor de Tornados da América do Sul. A visita será feita com sua equipe, a Team Dominator. O anúncio foi feito no dia 9.",
-          "porQueImporta": "A presença de um especialista internacional pode ampliar a compreensão dos eventos de tornados na região",
+          "clusterId": "10347314064f54ce",
+          "slug": "38d2a7dca66006e7",
+          "titulo": "Paraná em alerta laranja de tempestades para 114 cidades",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta laranja para temporais no Paraná, abrangendo 114 municípios da região sul. Na sexta-feira (14) foram registrados fortes chuvas com granizo, e meteorologistas apontam risco de chuvas intensas, ventos acima de 60 km/h e granizo neste sábado (15). O aviso indica precipitação pontual de até 30 mm/h ou até 50 mm/dia. As autoridades recomendam atenção à população nas áreas afetadas.",
+          "porQueImporta": "O alerta indica risco de danos materiais e à segurança da população em ampla região do estado",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/15/conhecido-cacador-de-tempestades-dos-eua-planeja-vir-ao-sul-do-brasil-para-observar-tornados.ghtml"
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/15/parana-novo-alerta-tempestades-veja-previsao-do-tempo.ghtml"
             }
           ],
-          "updatedAt": "2026-08-15T06:00:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PZZrJsioAiX1voTxEsfPmJjK_Zo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/L/bvsKmyTgCSTnnIAvjo4g/g1-8-.png"
+          "updatedAt": "2026-08-15T12:35:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uAUMtAnB1wd91ylwU-RC8ir6_RQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/8/EAfSBDR9yjQAE5iMCOKQ/20250605-agb-chuva-29.jpg"
         },
         {
-          "clusterId": "4e9d9b96cf3eb6f5",
-          "slug": "ec3aa32f316c621b",
-          "titulo": "Onda de calor e chuvas intensas atingem Centro-Oeste, Sudeste, Norte e Sul",
-          "resumo": "A partir de sábado (15), uma onda de calor eleva as temperaturas acima do normal em várias regiões do Brasil, enquanto o Sul enfrenta chuvas fortes e temporais até quinta-feira (20). Em Santa Catarina, os acumulados podem superar 100 mm no litoral, e no Rio Grande do Sul são esperados até 70 mm, granizo e rajadas de vento de até 80 km/h. Os alertas de tempestade foram emitidos pelo Inmet e pela Climatempo para diferentes áreas do estado gaúcho.",
-          "porQueImporta": "As condições combinam risco de calor extremo e inundações, afetando população e infraestrutura",
+          "clusterId": "7a39cd20b604cca5",
+          "slug": "d7d3adf7419cb75f",
+          "titulo": "Granizo do tamanho de bolas de tênis atinge cidades do Paraná",
+          "resumo": "Na tarde de sexta‑feira (15) e madrugada de sábado (16) temporais com granizo foram registradas em várias cidades do Paraná, com maior intensidade nos Campos Gerais e na região central. Em Reserva, as pedras de gelo atingiram o tamanho de bolas de tênis, cobrindo quintais e gerando relatos de áreas parecendo cobertas de neve. Os moradores registraram o fenômeno em vídeo. As tempestades causaram estragos locais.",
+          "porQueImporta": "O evento evidencia risco de granizo intenso que pode danificar propriedades e colocar a população em alerta.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/15/granizo-chuva-forte-rajadas-de-ate-80-kmh-veja-como-fica-o-tempo-no-fim-de-semana-no-rs.ghtml"
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/15/temporal-granizo-forte-parana.ghtml"
             }
           ],
-          "updatedAt": "2026-08-15T03:00:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/n3utcn2u57AlwtUW4LP_OJ37dgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/J/AIdtaOQ1AngEH6dPGtCA/g1-2-.png"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "2cb337b0f74197ec",
-          "slug": "3ef766577dce5163",
-          "titulo": "Seis trabalhadores ficam presos após explosão em mina na Colômbia",
-          "resumo": "Uma explosão ocorreu em uma mina no município de Cucunubá, na Colômbia, deixando seis trabalhadores presos e incomunicáveis. As equipes de resgate atuam simultaneamente nas áreas afetadas por um terremoto de magnitude 7,4 que já causou centenas de mortes. Um sétimo trabalhador conseguiu sair por seus próprios meios. As autoridades continuam as buscas pelos desaparecidos.",
-          "porQueImporta": "O incidente evidencia riscos de segurança em mineração em contexto de desastre natural",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/14/trabalhadores-ficam-presos-apos-explosao-em-mina-na-colombia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-14T19:17:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/onkgAxUwFgUh9xP5n9WP3sBGlIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/0/aJCCW5Qm2QnAhkK7AR2w/1280px-cucunuba-cundinamarca-colombia-.jpg"
-        },
-        {
-          "clusterId": "dbdd5cd7dd13cfe0",
-          "slug": "ffbc97938cfe35bc",
-          "titulo": "Explosão no porto de Roterdã deixa um morto e vários feridos",
-          "resumo": "Uma explosão ocorreu no porto de Roterdã, na Holanda, resultando em uma morte e múltiplas vítimas. A polícia local informou que a hipótese de sabotagem está sendo investigada. O porto, o maior da Europa, abriga instalações petroquímicas, incluindo uma refinaria de petróleo. As autoridades continuam analisando as causas do incidente.",
-          "porQueImporta": "O porto de Roterdã é estratégico para o comércio europeu, e incidentes desse tipo podem afetar a cadeia de suprimentos e a segurança regional.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/13/explosao-e-registrada-em-porto-de-roterdam-na-holanda-e-causa-morte.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-13T11:41:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/KeZuoTFi0Hr10USN3___twBXaSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/X/SAQj2KQm6QercA5oad8Q/rotterdam-.png"
+          "updatedAt": "2026-08-15T10:51:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DXw8SdC2nno6C_75XkigbUuQDsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/O/2ucgr1Si6XOUC6zBMg2g/g1-6-.png"
         }
       ]
     },
@@ -507,6 +511,106 @@
           ],
           "updatedAt": "2026-08-14T13:52:27.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/aO1CvvSzWkzkCZJY3lr77qaU3p0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/I/pehN0rTsmHD1pEffVFzA/2026-08-14t042148z-108522067-rc24ymawc53y-rtrmadp-3-europe-weather-croatia-wildfire.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "desabamento",
+      "label": "Desabamento",
+      "stories": [
+        {
+          "clusterId": "05156f64dd9f5288",
+          "slug": "d950a3311b5452df",
+          "titulo": "Desabamento de prédio residencial deixa vítimas resgatadas em São Bernardo do Campo",
+          "resumo": "Um prédio residencial desabou na manhã de sábado na Rua Jorge Amado, em São Bernardo do Campo. Bombeiros retiraram três pessoas dos escombros – um homem de 37 anos, uma menina de 11 anos e uma mulher adulta – e as encaminharam a hospitais locais; outra pessoa permanece sob os destroços. A prefeitura evacuou as residências vizinhas como medida preventiva.",
+          "porQueImporta": "O incidente evidencia riscos estruturais e a necessidade de resposta rápida de emergência em áreas urbanas.",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/edificio-desaba-e-deixa-quatro-vitimas-em-sao-bernardo-do-campo-sp/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/quatro-pessoas-resgatadas-desabamento-sao-bernardo"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/15/desabamento-em-sao-bernardo-do-campo-vitima-ao-menos-tres-pessoas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-15T12:20:37.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/local-desabamento-sao-bernardo.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "86cbc29f9ec30fb3",
+          "slug": "b737f39106b10493",
+          "titulo": "Incêndio atinge galpão da Associação de Catadores de Papel em Belo Horizonte",
+          "resumo": "Um incêndio de grandes proporções começou na madrugada de sábado no galpão da Associação de Catadores de Papel, Papelão e Materiais Reaproveitáveis, localizado no Bairro Prado, Região Oeste de Belo Horizonte. O Corpo de Bombeiros controlou as chamas por volta das 9h e realizou o rescaldo. Não houve feridos. O local funciona como ponto de coleta e triagem de materiais reutilizáveis.",
+          "porQueImporta": "O evento evidencia riscos em instalações de coleta de materiais recicláveis e mobiliza recursos de emergência urbana.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/15/video-incendio-atinge-galpao-de-materiais-reciclaveis-em-bh-e-mobiliza-bombeiros.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-15T12:35:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lsw8DO15K5m69BXuJadt-_LOtUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/6/KD2eFfT5ybVtRKrr5c3w/captura-de-tela-2026-08-15-094540.png"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "0574e62b9536bd68",
+          "slug": "3243e0d8525feeda",
+          "titulo": "Trabalhador morre após estrutura metálica desabar sobre caminhão em mineradora em Arcos",
+          "resumo": "Um trabalhador de 31 anos morreu e três pessoas ficaram feridas quando uma estrutura metálica desabou sobre um caminhão na mineradora Belocal, localizada na BR-354, em Arcos, na segunda‑feira (10). O acidente ocorreu dentro da empresa e resultou em fatalidade e ferimentos múltiplos.",
+          "porQueImporta": "O incidente evidencia riscos de segurança em operações de mineração e a necessidade de medidas preventivas.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/15/voce-viu-trabalhador-morrem-em-mineradora-idoso-esfaqueado-em-bicicleta-e-vacas-deixam-pasto-para-viver-em-cama.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-15T10:00:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yx1j5p75UzevpiDLbg5TZ6U0dAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/d/ycftEyRFuNBkBpVqWEJw/voce-viu-co-1508.png"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "2cb337b0f74197ec",
+          "slug": "3ef766577dce5163",
+          "titulo": "Seis trabalhadores ficam presos após explosão em mina na Colômbia",
+          "resumo": "Uma explosão ocorreu em uma mina no município de Cucunubá, na Colômbia, deixando seis trabalhadores presos e incomunicáveis. As equipes de resgate atuam simultaneamente nas áreas afetadas por um terremoto de magnitude 7,4 que já causou centenas de mortes. Um sétimo trabalhador conseguiu sair por seus próprios meios. As autoridades continuam as buscas pelos desaparecidos.",
+          "porQueImporta": "O incidente evidencia riscos de segurança em mineração em contexto de desastre natural",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/14/trabalhadores-ficam-presos-apos-explosao-em-mina-na-colombia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-14T19:17:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/onkgAxUwFgUh9xP5n9WP3sBGlIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/0/aJCCW5Qm2QnAhkK7AR2w/1280px-cucunuba-cundinamarca-colombia-.jpg"
         }
       ]
     }
