@@ -1,9 +1,30 @@
 {
   "date": "2026-08-16",
-  "generatedAt": "2026-08-16T16:52:56.831Z",
+  "generatedAt": "2026-08-16T20:50:16.725Z",
   "home": [
     {
-      "clusterId": "685b4d0582a2be71",
+      "clusterId": "d0738ad4ad56e849",
+      "slug": "991cf11ab0cac263",
+      "titulo": "Furacão Lala atinge Havaí com ventos de 120 km/h",
+      "resumo": "A tempestade tropical Lala se transformou em furacão de categoria 1 e avançou sobre o arquipélago do Havaí. As autoridades dos EUA registraram ventos de cerca de 120 km/h e chuvas intensas, provocando cortes generalizados de energia. A tempestade não deve tocar o solo, mas já causa estragos nas áreas afetadas.",
+      "porQueImporta": "O evento pode gerar interrupções de energia e danos materiais em uma região habitada.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/15/tempestade-lala-se-torna-furacao-e-avanca-sobre-o-havai-com-ventos-de-120-kmh.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/quase-200-mil-pessoas-no-havai-ficam-sem-energia-apos-o-furacao-lala/"
+        }
+      ],
+      "updatedAt": "2026-08-16T19:57:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
+    },
+    {
+      "clusterId": "559c135a2cf4b49d",
       "slug": "2f752b95cca04d08",
       "titulo": "Terremoto de magnitude 7,7 mata ao menos 47 pessoas na Indonésia",
       "resumo": "Um terremoto de magnitude 7,7 atingiu a costa da ilha de Flores na madrugada de sábado, causando o colapso de vários edifícios e deixando ao menos 47 mortos. O Serviço Geológico dos Estados Unidos registrou o sismo por volta das 5h58 (horário local) a uma profundidade de 10 km, e mais de 200 réplicas foram sentidas. Equipes de busca e resgate continuam atuando na região para localizar sobreviventes.",
@@ -16,171 +37,146 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-atinge-a-indonesia.ghtml"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/terremoto-na-indonesia-deixa-53-mortos-e-milhares-de-desabrigados/"
-        },
-        {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cpq88dz14epo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-08-16T13:46:06.000Z",
+      "updatedAt": "2026-08-16T11:31:51.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/Mw5JF2FX2VAMviIiPOtmzteCT5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/n/NKZEB7QeiFFxWEUcNmEg/2026-08-15t061133z-1486367647-rc2djq8x8org-rtrmadp-3-indonesia-quake.jpg"
     },
     {
-      "clusterId": "27e6a46b1cafe803",
-      "slug": "341ecbb80a901546",
-      "titulo": "Mulher resgatada após quase 37 horas sob escombros de terremoto na Colômbia morre no hospital",
-      "resumo": "Daniela Largo, de 32 anos, foi retirada dos destroços do terremoto em Pereira na terça‑feira após quase 37 horas presa. Ela foi levada ao hospital e faleceu na noite de sexta‑feira. Familiares confirmaram o óbito e ela deixa um filho de 12 anos.",
-      "porQueImporta": "O caso ilustra as graves consequências dos sismos e a vulnerabilidade das vítimas em áreas afetadas",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/15/morre-mulher-que-ficou-por-mais-tempo-sob-os-escombros-do-terremoto-na-colombia.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/veja-brasileiros-resgatam-cachorra-apos-100-horas-em-escombros-na-colombia/"
-        }
-      ],
-      "updatedAt": "2026-08-16T13:24:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/WpdtzPEA75IPLnpGTrpdKj01uIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/BNvzQqQnuCFPdbkq5h1Q/2026-08-12t015529z-301134894-rc2pwma28tw4-rtrmadp-3-colombia-quake.jpg"
-    },
-    {
-      "clusterId": "7175b85c366e4ae7",
-      "slug": "3f1ef002803bae88",
-      "titulo": "Motorista embriagado mata motociclista em Alto Alegre e personal trainer morre em acidente de moto em Boa Vista",
-      "resumo": "Em Alto Alegre, na RR-452, um motorista de caminhonete sob efeito de álcool colidiu com uma motocicleta, resultando na morte da vítima. Em Boa Vista, uma personal trainer também faleceu após cair de motocicleta. Ambos os acidentes foram registrados na primeira quinzena de agosto de 2026 em Roraima.",
-      "porQueImporta": "Os acidentes evidenciam riscos de trânsito e a necessidade de fiscalização de álcool ao volante na região.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rr/roraima/noticia/2026/08/16/voce-viu-militar-do-exercito-desaparecido-encontro-de-motos-e-mais-em-roraima.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-16T16:43:32.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/akSMaPI-_G4uvb5jRWSwyJt8Cu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/e/ACfxo4Sg2CcZJOybNP9Q/militar-sumido-.jpg"
-    },
-    {
-      "clusterId": "76a9b37bdbff8e99",
-      "slug": "3b796b408e93c4a5",
-      "titulo": "Colombianas mortas em acidente de helicóptero são veladas no Rio",
-      "resumo": "Após a cerimônia, os corpos de Rocío Cubillos, Wendy Manrique e Sofía Murillo serão levados para sepultamento no Colômbia",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/colombianas-mortas-em-acidente-de-helicoptero-sao-veladas-no-rio/"
-        }
-      ],
-      "updatedAt": "2026-08-16T16:37:06.000Z"
-    },
-    {
-      "clusterId": "1b6e513ed6e57c62",
-      "slug": "6b0659a201b8f1e5",
-      "titulo": "Defesa Civil recomenda demolição ou reconstrução de madeireira e três comércios atingidos por incêndio em Campinas",
-      "resumo": "Na manhã de sábado, um incêndio atingiu um barracão na Estrada da Rhodia, em Campinas, afetando uma madeireira e três estabelecimentos comerciais. A Defesa Civil interditou os imóveis e recomendou que os proprietários contratem engenheiro para decidir entre demolição ou reconstrução. A vistoria contou com a presença da Secretaria Municipal de Urbanismo. A madeireira não possuía alvará de funcionamento municipal.",
-      "porQueImporta": "A medida visa garantir a segurança pública e a regularização dos estabelecimentos afetados",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/16/defesa-civil-recomenda-demolicao-de-madeireira-e-tres-comercios-atingidos-por-incendio-em-campinas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-16T16:27:57.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/7l6DSNGeGTYVDQMpDvWV-0f-Ies=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/DrkrCpSNW3AT5NwXbEVQ/capas-ana.jpg"
-    },
-    {
-      "clusterId": "cdbaa60376406dbc",
-      "slug": "08d1a2390438a60f",
-      "titulo": "Duas pessoas sofrem ferimentos leves após carro bater contra mureta central da Via Dutra em Jacareí",
-      "resumo": "Duas pessoas sofreram ferimentos leves após o carro em que estavam bater contra a mureta central da Via Dutra, no trecho de Jacareí (SP), no fim da manhã deste domingo (16). De acordo com a concessionária que administra a rodovia, elas recusaram o encaminhamento para atendimento médico. Acidente na Via Dutra, em Jacareí Imagem cedida/Luis Cimino O acidente ocorreu às 11h56, no km 175 da pista sentido Rio de Janeiro. O veículo de passeio se chocou contra a barreira de concreto central. A causa da batida não foi informada. A faixa três da rodovia ficou interditada para o atendimento da…",
+      "clusterId": "ea623137403e56ee",
+      "slug": "e6db57f6985054d8",
+      "titulo": "Ipês florescem e colorem ruas e estradas durante a seca no Pantanal de MS",
+      "resumo": "Árvores coloridas mudam a paisagem durante o mês de agosto A florada dos ipês muda a paisagem de Corumbá, no oeste de Mato Grosso do Sul, durante o período de estiagem. Entre junho e o início da primavera, árvores com flores roxas, rosas, amarelas e brancas podem ser vistas pelas ruas e estradas da região. Em agosto, quando costuma chover menos, a floração ganha destaque. A florada começa pelos ipês roxos e rosados, que costumam aparecer em junho. Depois, florescem os amarelos e, por último, os brancos. Em agosto, período de pouca chuva na região, a presença das flores aumenta. ✅ Clique aqui…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/16/duas-pessoas-sofrem-ferimentos-leves-apos-carro-bater-contra-mureta-central-da-via-dutra-em-jacarei.ghtml"
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/16/ipes-florescem-e-colorem-ruas-e-estradas-durante-a-seca-no-pantanal-de-ms.ghtml"
         }
       ],
-      "updatedAt": "2026-08-16T16:12:23.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/DORBtL4fDbCqzEFfV2CT0XeZX5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Q/q5G5eNRS6RC2rdoVhRdQ/acidente.jpg"
+      "updatedAt": "2026-08-16T20:00:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/xKKUYYVK_NNgrEvyx7kqkccWLYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Y/Irvtx6S32bqAiTKpkpYA/design-sem-nome-2026-06-05t140903.297.jpg"
     },
     {
-      "clusterId": "af7b038f32e752ba",
-      "slug": "50f0b8abb87b7d78",
-      "titulo": "Incêndio destrói igreja da Assembleia de Deus na Avenida Caxangá, Recife",
-      "resumo": "Um incêndio começou por volta das 8h30 neste domingo em um depósito de uma igreja da Assembleia de Deus Vitória em Cristo, localizada na Avenida Caxangá, zona oeste do Recife. O Corpo de Bombeiros controlou as chamas e o prédio ficou completamente destruído. Não havia pessoas no local e não foram registradas vítimas.",
-      "porQueImporta": "A destruição de um local de culto gera impacto na comunidade e demanda recursos para reconstrução.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/08/16/incendio-destroi-igreja-da-assembleia-de-deus-em-avenida-do-recife-video.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-16T16:03:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/--ouV_En4TUikRLumD5UdSoMp0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/T/Ag3FegSgy6WJt1qzUffA/igreja-incendio.jpg"
-    },
-    {
-      "clusterId": "91b490ba358b3d4c",
-      "slug": "c5a7f198c7c12655",
-      "titulo": "Mulher morre e homem fica ferido após colisão entre moto e carro em Miracema, Tocantins",
-      "resumo": "No domingo, uma motocicleta que transportava um casal foi atingida por um carro no centro de Miracema, interior do Tocantins. A mulher não resistiu aos ferimentos e morreu no local, enquanto o homem sofreu ferimentos e ficou hospitalizado. Não foram divulgadas informações sobre a identidade da vítima nem sobre o condutor do carro. A Polícia Militar foi acionada e isolou a área do acidente.",
-      "porQueImporta": "O acidente evidencia riscos de colisões entre veículos em vias urbanas e a necessidade de atenção no trânsito local",
+      "clusterId": "4af697ec9b6e20cc",
+      "slug": "81158cee4a7292b9",
+      "titulo": "Duas carretas pegam fogo após colisão na BR-251",
+      "resumo": "Por volta das 10h de domingo, duas carretas colidiram no km 270 da BR-251, próximo a Curral de Dentro, e ficaram em chamas. As equipes do Corpo de Bombeiros Militar encontraram os veículos incendiados e retiraram duas pessoas feridas do local.",
+      "porQueImporta": "Incêndios em veículos podem gerar acidentes graves e demandam resposta rápida dos serviços de emergência.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/16/mulher-morre-apos-moto-ser-atingida-por-carro-no-interior-do-tocantins.ghtml"
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/16/duas-carretas-pegam-fogo-apos-batida-na-br-251-e-duas-pessoas-ficam-feridas.ghtml"
         }
       ],
-      "updatedAt": "2026-08-16T15:56:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/C-9W0p5IPVcEnaIDCwPalaY2S5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Q/CTJS3LRtCBMuPEHvwCMQ/foto-e-montagem-vertical-86-.jpg"
+      "updatedAt": "2026-08-16T19:59:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/fICzXo2MZWEF46jAS0SraPeLPkA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/d/9yL0rcR0e5XY9L43i2JQ/1200x675-16-.jpg"
     },
     {
-      "clusterId": "012a5a655c02e4d7",
-      "slug": "0a9ae1aa5ed0d4b8",
-      "titulo": "Busca continua na Colômbia após terremoto de magnitude 7,4",
-      "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia, resultando em 289 mortos e centenas de feridos e desaparecidos. As buscas pelos desaparecidos prosseguem neste domingo, dia 16. As autoridades continuam avaliando os danos e prestando socorro às áreas afetadas.",
-      "porQueImporta": "O sismo gera uma crise humanitária que exige resposta imediata de socorro e reconstrução.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/buscas-continuam-na-colombia-neste-domingo-16-apos-terremoto-de-74/"
-        }
-      ],
-      "updatedAt": "2026-08-16T15:52:30.000Z"
-    },
-    {
-      "clusterId": "811d6247d569d80a",
-      "slug": "442187e1021ecb19",
-      "titulo": "Incêndio destrói barracas e parte de construção em Romaria",
-      "resumo": "Um incêndio atingiu barracas e um pavimento de uma construção na manhã de domingo em Romaria. O Corpo de Bombeiros chegou ao local com as chamas já controladas e não registrou feridos. Cerca de três barracas foram consumidas pelo fogo, que foi combatido com o apoio de um caminhão‑pipa da prefeitura.",
-      "porQueImporta": "O incidente demonstra a necessidade de vigilância e recursos de combate a incêndios em áreas comerciais rurais",
+      "clusterId": "c88a2e9c0f386a83",
+      "slug": "3664612a54710cfe",
+      "titulo": "Incêndio atinge vegetação na Avenida Margarita, em Manaus",
+      "resumo": "Um incêndio foi registrado em área de vegetação ao longo da Avenida Margarita, no bairro Nova Cidade, zona norte de Manaus, neste domingo. O fogo começou à tarde e se espalhou rapidamente, atingindo o lado direito da pista próximo a uma ladeira entre o supermercado DB e o Museu da Amazônia. O Corpo de Bombeiros Militar do Amazonas enviou viaturas ao local para combater as chamas. Não foram divulgadas informações sobre feridos.",
+      "porQueImporta": "O evento demonstra risco de incêndios em áreas urbanas e a necessidade de resposta rápida das autoridades",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/16/incendio-atinge-barracas-e-parte-de-construcao-em-romaria.ghtml"
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/16/incendio-atinge-vegetacao-as-margens-da-avenida-margarita-em-manaus.ghtml"
         }
       ],
-      "updatedAt": "2026-08-16T15:45:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/-f-owZabcqHiZ7tzenZkTCKySyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/5/cHPkRVSUu30bbJDRhYoQ/design-sem-nome-3-.png"
+      "updatedAt": "2026-08-16T19:54:29.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/iDL9KvxcwZE_X7ICKqGzx4p0nQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/A/eswmyFR4AJyKcIMciPqw/g1-incendio-avenida-margarita.jpg"
+    },
+    {
+      "clusterId": "854f0d0874e14f9d",
+      "slug": "ddb5b8560e6750b4",
+      "titulo": "Jogador do Vasco sente dores e é substituído no primeiro tempo contra o Santos",
+      "resumo": "O atleta do Vasco foi retirado do campo ainda no primeiro tempo da partida contra o Santos devido a dores. Ele havia retornado recentemente de uma grave lesão antes do jogo. A substituição ocorreu antes do intervalo. A situação gerou preocupação entre os torcedores do Vasco.",
+      "porQueImporta": "A lesão de um jogador pode impactar o desempenho da equipe nas próximas partidas.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/jair-preocupa-vasco-apos-sair-com-dores-em-jogo-contra-o-santos/"
+        }
+      ],
+      "updatedAt": "2026-08-16T19:50:32.000Z"
+    },
+    {
+      "clusterId": "ceb8dd0195a87f7a",
+      "slug": "6dbc9dac1832ee20",
+      "titulo": "Nuvem funil é registrada na orla da Atalaia em Aracaju",
+      "resumo": "Na manhã de domingo, uma nuvem funil foi observada na Orla da Atalaia, zona sul de Aracaju, chamando a atenção de quem estava no local. A meteorologista Wanda Tathyana de Castro, da Secretaria de Estado do Meio Ambiente e Ações Climáticas, explicou que o fenômeno consiste em uma coluna de ar giratória que se estende a partir de uma nuvem de tempestade, geralmente associada a supercélulas.",
+      "porQueImporta": "O registro do fenômeno alerta a população sobre condições atmosféricas potencialmente severas na região",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/08/16/video-nuvem-funil-e-registrada-em-aracaju-e-chama-atencao.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-16T19:48:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/o_X1KzHjJs4H6qxGsfw7MiJGc5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/B/pAjgb6RWi627Poxd7qqQ/nuvem-funil.jpg"
+    },
+    {
+      "clusterId": "8a7c449adc2e6b59",
+      "slug": "a0d44624fe4acb0d",
+      "titulo": "Terremoto de magnitude 7,4 na Colômbia deixa centenas de mortos e presidente pede suspensão de tarifas a Trump",
+      "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia na segunda‑feira, causando entre 289 e 294 mortes, milhares de feridos e dezenas de milhares de casas destruídas ou danificadas. A Unidade Nacional para a Gestão do Risco de Desastres informou que ainda há centenas de desaparecidos. O presidente colombiano, Abelardo de la Espriella, solicitou ao presidente dos Estados Unidos, Donald Trump, a suspensão temporária de tarifas sobre produtos colombianos para apoiar a recuperação. O pedido foi feito durante conversa entre os dois líderes na noite de sábado.",
+      "porQueImporta": "A gravidade do desastre e a solicitação de apoio comercial internacional afetam a resposta humanitária e a economia da região",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/15/terremoto-na-colombia-numero-de-mortos-sobe-para-294.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-16T19:47:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/vjiTKZMneLMUunfzFE_MMResgrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/oR5pWJSD23wiZzruHDjA/2026-08-15t183800z-2044037466-rc24zmaf3zum-rtrmadp-3-colombia-quake.jpg"
+    },
+    {
+      "clusterId": "384281f4f3106a7c",
+      "slug": "26c2f4cec944db4b",
+      "titulo": "Incêndio florestal na Grécia deixa dois mortos e casas destruídas",
+      "resumo": "Um incêndio florestal atingiu áreas litorâneas de Kolones e Saterli, na Grécia, resultando em duas mortes e destruição de residências. Mais de 500 pessoas foram evacuadas com o auxílio de embarcações.",
+      "porQueImporta": "O evento evidencia riscos de incêndios em áreas costeiras e a necessidade de respostas de emergência eficazes.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/incendio-florestal-na-grecia-deixa-dois-mortos-e-casas-destruidas/"
+        }
+      ],
+      "updatedAt": "2026-08-16T19:34:16.000Z"
+    },
+    {
+      "clusterId": "dd6967886b9f4153",
+      "slug": "3c0dc14c2bda3924",
+      "titulo": "Parentes buscam informações no IML após acidente com 10 mortos em Petrópolis: 'Não sei se morreu, se está machucado'",
+      "resumo": "Tombamento de ônibus deixa mortos em Petrópolis, no RJ Parentes de vítimas do acidente com dez mortos na BR-040, em Petrópolis, na Região Serrana do Rio, começaram a chegar ao Instituto Médico Legal, no bairro Corrêas, na tarde deste domingo (16), em busca de informações. No local funciona o Posto Regional de Polícia Técnico-Científica (PRPTC), está responsável pelos exames periciais. Até a última atualização desta reportagem, ainda não havia a identificação dos mortos no acidente, entre eles oito mulheres e uma criança. \"Não sei se morreu, se está machucado e em algum hospital, ou se perdeu…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/16/parentes-buscam-informacoes-no-iml-apos-acidente-com-10-mortos-em-petropolis-nao-sei-se-morreu-se-esta-machucado.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-16T19:17:24.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/gDtz9wZfWy7Gy13hxfPERR5KfN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/h/s5wOq1TLWTW9KLAHdvgw/corpos-foram-encaminhado-para-o-iml-de-petropolis.png"
     }
   ],
   "categorias": [
@@ -189,121 +185,206 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "76a9b37bdbff8e99",
-          "slug": "3b796b408e93c4a5",
-          "titulo": "Colombianas mortas em acidente de helicóptero são veladas no Rio",
-          "resumo": "Após a cerimônia, os corpos de Rocío Cubillos, Wendy Manrique e Sofía Murillo serão levados para sepultamento no Colômbia",
+          "clusterId": "ea623137403e56ee",
+          "slug": "e6db57f6985054d8",
+          "titulo": "Ipês florescem e colorem ruas e estradas durante a seca no Pantanal de MS",
+          "resumo": "Árvores coloridas mudam a paisagem durante o mês de agosto A florada dos ipês muda a paisagem de Corumbá, no oeste de Mato Grosso do Sul, durante o período de estiagem. Entre junho e o início da primavera, árvores com flores roxas, rosas, amarelas e brancas podem ser vistas pelas ruas e estradas da região. Em agosto, quando costuma chover menos, a floração ganha destaque. A florada começa pelos ipês roxos e rosados, que costumam aparecer em junho. Depois, florescem os amarelos e, por último, os brancos. Em agosto, período de pouca chuva na região, a presença das flores aumenta. ✅ Clique aqui…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/16/ipes-florescem-e-colorem-ruas-e-estradas-durante-a-seca-no-pantanal-de-ms.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T20:00:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xKKUYYVK_NNgrEvyx7kqkccWLYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Y/Irvtx6S32bqAiTKpkpYA/design-sem-nome-2026-06-05t140903.297.jpg"
+        },
+        {
+          "clusterId": "854f0d0874e14f9d",
+          "slug": "ddb5b8560e6750b4",
+          "titulo": "Jogador do Vasco sente dores e é substituído no primeiro tempo contra o Santos",
+          "resumo": "O atleta do Vasco foi retirado do campo ainda no primeiro tempo da partida contra o Santos devido a dores. Ele havia retornado recentemente de uma grave lesão antes do jogo. A substituição ocorreu antes do intervalo. A situação gerou preocupação entre os torcedores do Vasco.",
+          "porQueImporta": "A lesão de um jogador pode impactar o desempenho da equipe nas próximas partidas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/jair-preocupa-vasco-apos-sair-com-dores-em-jogo-contra-o-santos/"
+            }
+          ],
+          "updatedAt": "2026-08-16T19:50:32.000Z"
+        },
+        {
+          "clusterId": "dd6967886b9f4153",
+          "slug": "3c0dc14c2bda3924",
+          "titulo": "Parentes buscam informações no IML após acidente com 10 mortos em Petrópolis: 'Não sei se morreu, se está machucado'",
+          "resumo": "Tombamento de ônibus deixa mortos em Petrópolis, no RJ Parentes de vítimas do acidente com dez mortos na BR-040, em Petrópolis, na Região Serrana do Rio, começaram a chegar ao Instituto Médico Legal, no bairro Corrêas, na tarde deste domingo (16), em busca de informações. No local funciona o Posto Regional de Polícia Técnico-Científica (PRPTC), está responsável pelos exames periciais. Até a última atualização desta reportagem, ainda não havia a identificação dos mortos no acidente, entre eles oito mulheres e uma criança. \"Não sei se morreu, se está machucado e em algum hospital, ou se perdeu…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/16/parentes-buscam-informacoes-no-iml-apos-acidente-com-10-mortos-em-petropolis-nao-sei-se-morreu-se-esta-machucado.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T19:17:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gDtz9wZfWy7Gy13hxfPERR5KfN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/h/s5wOq1TLWTW9KLAHdvgw/corpos-foram-encaminhado-para-o-iml-de-petropolis.png"
+        },
+        {
+          "clusterId": "4371aaa9d4baec41",
+          "slug": "a91d7d60aaff1bfb",
+          "titulo": "Marcelo Maranata (PSDB) inicia campanha eleitoral em Porto Alegre",
+          "resumo": "O candidato ao governo do Rio Grande do Sul, Marcelo Maranata, realizou o ato de abertura da campanha no Quarto Distrito, na Zona Norte de Porto Alegre. O evento contou com discurso do candidato e apresentação musical, e foi escolhido por ele em referência às enchentes que afetaram o estado em 2024.",
+          "porQueImporta": "Marca o início da disputa eleitoral para o governo do RS, tema relevante para o eleitorado local",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/16/marcelo-maranata-candidato-do-psdb-ao-governo-do-rs-comeca-campanha-eleitoral-com-inauguracao-do-comite.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T18:29:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TS16wb6Mhz1tOvTVM2nRjoD0Z6Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/m/81aOHNR0uHvAen8ML18g/maranata.jpg"
+        },
+        {
+          "clusterId": "a8d848fcbc5b5726",
+          "slug": "f45ca8a2eda70b33",
+          "titulo": "Criança de 3 anos morre após caminhão capotar e atingir carro na MGC-122",
+          "resumo": "Criança de 3 anos morre após caminhão capotar e atingir carro na MGC-122 em Janaúba. Corpo de Bombeiros Uma criança de aproximadamente três anos morreu após um caminhão capotar e atingir um carro na manhã deste domingo (16), na MGC-122, em Janaúba. Segundo o Corpo de Bombeiros, o acidente envolveu uma caminhonete, um carro e um caminhão. 📲Clique aqui para seguir o canal do g1 Grande Minas no WhatsApp De acordo com o relato do motorista da caminhonete aos bombeiros, os três veículos seguiam pela rodovia. A caminhonete e o carro, onde estava uma família, seguiam de Janaúba para Montes Claros,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/16/crianca-de-3-anos-morre-apos-caminhao-capotar-e-atingir-carro-na-mgc-122.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T18:27:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UpD1StHVnjGW11YiG9HMfm2k11k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/Ka1TdtTH2GHgshW8a47A/vitimasfatais-2-.png"
+        },
+        {
+          "clusterId": "c36e2d45748bc81f",
+          "slug": "89eb6c242128d917",
+          "titulo": "Incêndio atinge depósito de borracha em Carmo do Cajuru",
+          "resumo": "Um incêndio atingiu um depósito usado para armazenar granulado de borracha na manhã deste domingo (16) no bairro Industrial II, em Carmo do Cajuru, no Centro-Oeste de Minas. 🔎 Granulado de borracha é borracha triturada em pequenos pedaços, usada na fabricação de pisos, revestimentos e campos de futebol, por exemplo. Segundo o Corpo de Bombeiros, três viaturas e sete militares foram mobilizados para a ocorrência, por volta das 10h26. Ninguém ficou ferido. ✅ Clique aqui para seguir o canal do g1 Centro-Oeste de Minas no WhatsApp As equipes controlaram as chamas e permaneceram no local para…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/16/incendio-atinge-deposito-de-borracha-em-carmo-do-cajuru.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T18:24:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/nPguymf8l5V63dOf8-1I2Vln6mc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/L/L2KalAQDGurAi5DF08Tg/whatsapp-image-2026-08-16-at-14.45.18.jpeg"
+        },
+        {
+          "clusterId": "0e7c8b73d04585f3",
+          "slug": "7d637710c0ff6823",
+          "titulo": "Veja como ocorreu atropelamento de participantes da Marcha pra Jesus, em Terra Santa; VÍDEO",
+          "resumo": "Carro desgovernado atropela participantes da Marcha para Jesus em Terra Santa, no Pará Um vídeo registrou o momento que ocorreu o atropelamento de participantes da Marcha pra Jesus, em Terra Santa, no Oeste do Pará. O acidente foi neste sábado (15), e deixou uma pessoa morta e 11 feridas. A Polícia Civil confirmou que o motorista não tinha CNH. ✅ Clique aqui e siga o canal g1 Santarém e Região no WhatsApp Uma idosa, identificada como Dulcinéia Oliveira Pantoja, morreu e outras 11 pessoas ficaram feridas. Entre elas, participantes que eram transportados na carroceria do veículo. A Secretaria…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/08/16/veja-como-ocorreu-atropelamento-de-participantes-da-marcha-pra-jesus-em-terra-santa-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T18:18:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1XQnc0pKdRxDX_LCeno70sk_9y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/o/FMmRMyQjCl8ANr0cty7Q/gemini-generated-image-a98hwda98hwda98h.jfif"
+        },
+        {
+          "clusterId": "7ee23e9b14737642",
+          "slug": "1c6589026f7f6ab0",
+          "titulo": "Acidente deixa uma pessoa morta, nove feridas e interdita Mogi-Bertioga",
+          "resumo": "Acidente na Mogi-Bertioga deixou uma pessoa morta em Mogi das Cruzes Paula Moreira / TV Diário Um acidente envolvendo três carros e uma caminhonete deixou uma pessoa morta e nove feridos na Rodovia Dom Paulo Rolim Loureiro, conhecida como Mogi-Bertioga, em Mogi das Cruzes. A ocorrência foi registrada por volta das 14h20, na altura do km 64, no sentido Bertioga. A pista ficou totalmente interditada após o acidente. Segundo a Concessionária Novo Litoral (CNL), por volta das 15h57 as faixas da rodovia foram liberadas. Por volta das 17h30, o trecho foi interditado para ação da perícia durante…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/16/acidente-interdita-totalmente-mogi-bertioga.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T18:14:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/swZnOeCGcACzYByHov3uLRWCY3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/GH7LE9QoCpAaJ9TF85nQ/whatsapp-image-2026-08-16-at-16.22.50.jpeg"
+        },
+        {
+          "clusterId": "b65ce45ba0062c59",
+          "slug": "becebb8a609acc73",
+          "titulo": "Caminhoneiro envolvido em acidente que matou líder indígena e família de 7 pessoas se apresenta à polícia em MS",
+          "resumo": "Líder indígena, esposa e filhos morrem em acidente durante intercâmbio em MS O caminhoneiro Everton Salin Santin, envolvido no acidente que matou um líder indígena e outras seis pessoas da mesma família, se apresentou à polícia neste sábado (15), em Iguatemi. Acompanhado do advogado Higo dos Santos Ferre, ele prestou depoimento e foi liberado. Segundo a polícia, Everton não foi preso porque não estava em situação de flagrante e não havia mandado de prisão contra ele. A investigação continua, e o delegado responsável pode pedir a prisão preventiva do motorista caso identifique elementos que…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/16/caminhoneiro-envolvido-em-acidente-que-matou-lider-indigena-e-familia-de-7-pessoas-se-apresenta-a-policia-em-ms.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T18:10:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fh4Hk5gOH1UImdpBepgYft_5tTE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/3/u8WsCsTOOHR667X9PMRA/canva-2026-08-15t164039.713.png"
+        },
+        {
+          "clusterId": "ad9e407f90799369",
+          "slug": "753196e02be1990f",
+          "titulo": "VÍDEO: Motorista sem habilitação fica ferido após capotar carro na entrada de fazenda em MG",
+          "resumo": "Motorista sem habilitação fica ferido após capotar carro na entrada de fazenda em MG Um homem de 36 anos ficou ferido após capotar o carro que dirigia na entrada de uma fazenda em Nova Resende (MG). Segundo a Polícia Militar, ele não possuía Carteira Nacional de Habilitação (CNH) nem permissão para dirigir. O acidente, que aconteceu na noite de sexta-feira (14), foi flagrado por uma câmera de segurança. 📲 Siga a página do g1 Sul de Minas no Instagram As imagens mostram o veículo seguindo no sentido Mata do Sino. De acordo com a PM, o motorista seguia de Nova Resende para São Pedro da União…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/08/16/acidentes-transito.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T17:51:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/iIJMiASpm-VdSvmU1BSqcJyvGrM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/e/QCQdGiQrCoBRqyxdXMBw/montagemcapota.jpg"
+        },
+        {
+          "clusterId": "33cdc7ad6cdeb974",
+          "slug": "b644aa084781b8b1",
+          "titulo": "Motorista morre após invadir pista contrária e capotar carro na rodovia Washington Luís em Rio Preto",
+          "resumo": "Motorista morre após invadir pista contrária e capotar carro na rodovia Washington Luís em São José do Rio Preto (SP) Artesp/divulgação Um homem morreu após invadir a pista contrária e capotar o carro na Rodovia Washington Luís (SP-310), na noite deste sábado (15), em São José do Rio Preto (SP). Segundo o boletim de ocorrência, o acidente foi registrado no km 436 da via quando, por motivos a serem esclarecidos, o motorista perdeu o controle da direção e bateu de frente com um carro que trafegava na pista contrária e não teve tempo de desviar ou frear. 📲 Participe do canal do g1 Rio Preto e…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/16/motorista-morre-apos-invadir-pista-contraria-e-capotar-carro-na-rodovia-washington-luis-em-rio-preto.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T17:32:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6HEv1caL5VqOdT_9ABDxhC8FYlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Z/snEWwHS9GWLMHpsJbp5A/design-sem-nome-10-.png"
+        },
+        {
+          "clusterId": "05253bfcc3420b7c",
+          "slug": "d23fe1a2c196271d",
+          "titulo": "Acidente de ônibus no RJ: Sobe para 10 número de mortos em viagem turística",
+          "resumo": "Ao todo, o tombamento do coletivo deixou 49 vítimas; coletivo ia para Copacabana",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/colombianas-mortas-em-acidente-de-helicoptero-sao-veladas-no-rio/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/acidente-de-onibus-no-rj-sobe-para-10-numero-de-mortos-em-viagem-turistica/"
             }
           ],
-          "updatedAt": "2026-08-16T16:37:06.000Z"
-        },
-        {
-          "clusterId": "cdbaa60376406dbc",
-          "slug": "08d1a2390438a60f",
-          "titulo": "Duas pessoas sofrem ferimentos leves após carro bater contra mureta central da Via Dutra em Jacareí",
-          "resumo": "Duas pessoas sofreram ferimentos leves após o carro em que estavam bater contra a mureta central da Via Dutra, no trecho de Jacareí (SP), no fim da manhã deste domingo (16). De acordo com a concessionária que administra a rodovia, elas recusaram o encaminhamento para atendimento médico. Acidente na Via Dutra, em Jacareí Imagem cedida/Luis Cimino O acidente ocorreu às 11h56, no km 175 da pista sentido Rio de Janeiro. O veículo de passeio se chocou contra a barreira de concreto central. A causa da batida não foi informada. A faixa três da rodovia ficou interditada para o atendimento da…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/16/duas-pessoas-sofrem-ferimentos-leves-apos-carro-bater-contra-mureta-central-da-via-dutra-em-jacarei.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T16:12:23.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DORBtL4fDbCqzEFfV2CT0XeZX5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Q/q5G5eNRS6RC2rdoVhRdQ/acidente.jpg"
-        },
-        {
-          "clusterId": "d8cf89543ed92f71",
-          "slug": "6d89bc6a2e2984e0",
-          "titulo": "Motociclista fica gravemente ferido após colisão e helicóptero Águia é acionado em Tietê",
-          "resumo": "Rodovia SP-113 precisou ser interditada nos dois sentidos para socorro à vítima, levada pelo helicóptero Águia Portal CCM – ARTESP (ccm.artesp.sp.gov.br)/Divulgação Um motociclista ficou gravemente ferido e precisou ser socorrido pelo helicóptero Águia, da Polícia Militar (PM), após uma colisão na Rodovia Doutor João José Rodrigues (SP-113), neste sábado (15), em Tietê (SP). Segundo a Agência de Transportes do Estado de São Paulo (Artesp), o motociclista trafegava no sentido Sul da rodovia, quando, na altura do quilômetro 2, perdeu o controle da direção, invadiu o acostamento e bateu contra…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/16/motociclista-fica-gravemente-ferido-apos-colisao-e-helicoptero-aguia-e-acionado-em-tiete.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T14:39:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/QbCXo1IIMzxwAVjnQWjfTAOWvjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/M/IDqN1xSvGDyTU2QHPa7g/ab003292-f91d-44c0-b615-63aef99c05fb.jpg"
-        },
-        {
-          "clusterId": "f4c8fe7930fb9ae1",
-          "slug": "1bc3c37331ce4e95",
-          "titulo": "Acidente com ônibus deixa nove pessoas mortas na região serrana do RJ",
-          "resumo": "Coletivo tombou na madrugada deste domingo (16) na BR-040; vítimas foram levadas para hospitais de Petrópolis e da Baixada Fluminense",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/acidente-com-onibus-deixa-pessoas-mortas-na-regiao-serrana-do-rj/"
-            }
-          ],
-          "updatedAt": "2026-08-16T14:30:37.000Z"
-        },
-        {
-          "clusterId": "3b1c79730eccebb8",
-          "slug": "0ca37f4af73121b4",
-          "titulo": "Projeto de revitalização e combate a enchentes prevê retirada de 943 árvores em avenida de Rio Preto",
-          "resumo": "Projeto de drenagem prevê corte de quase mil árvores na Avenida Murchid Honsi em Rio Preto Um projeto de revitalização e combate a enchentes na Avenida Murchid Homsi, uma das principais vias de São José do Rio Preto (SP), virou debate em audiências públicas promovidas na Câmara Municipal. Recentemente, o Ministério Público entrou no caso e pediu explicações ao Poder Executivo. Estimada em R$ 29 milhões, a proposta da Prefeitura prevê a remoção de 943 das 1.323 árvores existentes ao longo do canteiro e no entorno da via. O alto número de supressões gerou preocupação entre ambientalistas e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/16/projeto-de-revitalizacao-e-combate-a-enchentes-preve-retirada-de-943-arvores-em-avenida-de-rio-preto.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T14:01:28.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jg1nAttM6c70mS_V7s53EvLQ6VM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/K/SBbJlYTuCfyMKhJj7giA/formato-padrao-imagens-g1-2026-08-14t172813.692.png"
-        },
-        {
-          "clusterId": "d5ed66d23b34c368",
-          "slug": "fac030dda7dac272",
-          "titulo": "Deslizamento atinge casa em SC e deixa família ferida após chuvas; criança foi achada em parada cardíaca",
-          "resumo": "Um deslizamento de terra soterrou parte de uma casa e deixou quatro pessoas da mesma família feridas em Santo Amaro da Imperatriz, na Grande Florianópolis, na madrugada deste domingo (16). Uma das vítimas, menina de 10 anos, foi encontrada em parada cardíaca. O deslizamento aconteceu por volta das 3h, durante as fortes chuvas, quando um casal e os dois filhos estavam na casa, segundo o Corpo de Bombeiros. A mãe e o filho já haviam sido levados ao hospital antes da chegada dos socorristas. Já o pai e a menina permaneceram no local. ✅Clique e siga o canal do g1 SC no WhatsApp O homem estava com…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/16/deslizamento-casa-familia-ferida-sc-crianca-parada-cardiorrespiratoria.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T13:55:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/oJidLm3AQQ53VkumVeeXJeFppJo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/v/FN9fQfQ56Bnyu0kB2Xdg/um-deslizamento-de-terra-soterrou-parte-de-uma-casa-e-deixou-quatro-pessoas-da-mesma-familia-feridas-em-santo-amaro-da-imperatriz-na-grande-florianopolis-na-madrugada-deste-domingo-16-.-uma-das-vitimas-de-10.jpeg"
-        },
-        {
-          "clusterId": "2d7a9c8c48dd1ab8",
-          "slug": "331af6cec0fe0d7a",
-          "titulo": "Dois motociclistas morrem em acidente entre motos em Itatiba",
-          "resumo": "Dois motociclistas morreram em um acidente de trânsito, na noite deste sábado (15), em Itatiba (SP). A polícia investiga as causas do acidente. Policiais militares que atenderam a ocorrência, no bairro San Martin, relataram que uma das vítimas, Nilson Rodrigues dos Santos foi encontrado na via, ao lado da motocicleta que pilotava, e apresentava sangramento intenso na região da cabeça, além de afundamento de crânio. 📲 Participe do canal do g1 Sorocaba e Jundiaí no WhatsApp No registro da ocorrência, os policiais disseram que o outro motociclista, Higor Mota Costa, estava caído em uma área de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/16/dois-motociclistas-morrem-em-acidente-entre-motos-em-itatiba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T13:50:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TMPUhtUlmDMs6xlDpJ7Ec8FkgyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/T/huhAw7RcKL1ppA4sL6kA/whatsapp-image-2026-06-02-at-14.10.58.jpeg"
+          "updatedAt": "2026-08-16T16:53:24.000Z"
         },
         {
           "clusterId": "1c061da2f5e0b479",
@@ -321,89 +402,6 @@
           ],
           "updatedAt": "2026-08-16T13:48:47.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/_5ksZt7uHdQXzjTo97mSwlDFf6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/6/6TbqWrQESFrbSp3f5k4w/2026-08-12t212330z-1624684030-rc29xma8ww2n-rtrmadp-3-zimbabwe-boat-accident.jpg"
-        },
-        {
-          "clusterId": "7c22dd8916a42ee5",
-          "slug": "1f9d0431933b3d9c",
-          "titulo": "VÍDEO: carro fica destruído após bater de frente com ônibus com turistas a caminho do Convento da Penha; sete ficaram feridos",
-          "resumo": "Carro fica destruído após bater de frente com ônibus com turistas a caminho do Convento Um carro com cinco ocupantes bateu de frente com um ônibus que levava 42 turistas de Nova Venécia, no Noroeste do Espírito Santo, para o Convento da Penha, em Vila Velha, na Grande Vitória. O acidente na BR-101 deixou pelo menos sete pessoas feridas. Ninguém morreu. Com o impacto, o carro ficou completamente destruído (assista acima). Segundo a Polícia Rodoviária Federal (PRF), o ônibus seguia sentido Vitória e o carro trafegava no sentido contrário. O motorista do veículo de passeio tentou fazer uma…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/08/16/video-carro-fica-destruido-apos-bater-de-frente-com-onibus-com-turistas-a-caminho-do-convento-da-penha-no-es.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T13:39:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/qT-ZUOe-yaVPCgl_eBaEM3STiX0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/v/abr6tRQ4eGzGbwBXbaJw/thumb-fotos-37-.jpg"
-        },
-        {
-          "clusterId": "f3f67b35f154ce52",
-          "slug": "0eed996afbc3197f",
-          "titulo": "Paraná entra em nova onda de calor; entenda o que significa e veja a previsão do tempo por região",
-          "resumo": "Granizo danifica casas e assusta moradores no Paraná Após registrar fortes temporais de granizo no início do fim de semana, o Paraná está entrando em uma nova onda de calor. Segundo a Climatempo, esta será a terceira de 2026. Para que um episódio seja classificado dessa forma, as temperaturas precisam permanecer pelo menos 5°C acima da média por cinco dias consecutivos. A Climatempo indica essa condição até quinta-feira (20) na faixa norte do estado. Nas outras regiões paranaenses, a previsão é que os termômetros fiquem entre 3ºC e 5ºC acima da média. Veja a previsão do tempo por região mais…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/16/parana-entra-em-nova-onda-de-calor-entenda-o-que-significa-e-veja-a-previsao-do-tempo-por-regiao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T13:33:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bKxxCCyPTH1UZbzdB3MFc8s5t0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/y/b3VBteRli7XaQrnTOehw/g1-10-.png"
-        },
-        {
-          "clusterId": "1de2c35ded5b5919",
-          "slug": "266bb67f9a68e212",
-          "titulo": "Duas pessoas morrem e três ficam feridas em acidente envolvendo carro de aplicativo em Uberlândia",
-          "resumo": "Duas pessoas morrem e três ficam feridas em acidente na MGC-455 em Uberlândia Duas pessoas morreram e outras três ficaram feridas em um acidente de trânsito registrado na noite de sábado (15), em Uberlândia, na avenida Olímpio de Freitas, no bairro Jardim das Palmeiras, no acesso à MGC-455, O caso mobilizou equipes do Corpo de Bombeiros, do Serviço de Atendimento Móvel de Urgência (Samu), da Polícia Militar e da Polícia Civil. De acordo com os bombeiros, cinco pessoas estavam envolvidas na ocorrência. Quatro delas ocupavam um carro de aplicativo, um BYD, e a quinta vítima era o motorista de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/16/duas-pessoas-morrem-e-tres-ficam-feridas-em-acidente-envolvendo-carro-de-aplicativo-em-uberlandia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T13:27:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6XgXc8fBmJD4QsxgsE051iC8HhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/2/aTYAGQRLOn08iaO9R57A/design-sem-nome-1-.png"
-        },
-        {
-          "clusterId": "e29c579e939c9fbb",
-          "slug": "a1274b1cd2191c3c",
-          "titulo": "Onda de calor extrema pressiona economia europeia",
-          "resumo": "Temperaturas elevadas na Europa estão gerando aumento de custos energéticos e operacionais, ampliando os impactos já provocados por tarifas de energia dos EUA e conflitos no Oriente Médio. Estimativas apontam que a onda de calor pode elevar o prejuízo econômico em cerca de 180 bilhões de euros. As autoridades europeias consideram medidas drásticas para mitigar os efeitos da alta temperatura nas cadeias de produção e consumo.",
-          "porQueImporta": "O aumento de custos pode afetar a estabilidade econômica e o bem‑estar da população europeia",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/onda-de-calor-extrema-pressiona-economia-europeia-e-forca-medidas-drasticas/"
-            }
-          ],
-          "updatedAt": "2026-08-16T12:20:41.000Z"
-        },
-        {
-          "clusterId": "db32595c77ca72a5",
-          "slug": "99cdd6cd102a6514",
-          "titulo": "Defesa Civil envia dois alertas vermelhos para chuvas em quatro horas no RS",
-          "resumo": "Moradores do estado gaúcho receberam mensagens nos celulares por volta das 23h deste sábado e pouco antes das 3h deste domingo",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-envia-dois-alertas-vermelhos-para-chuvas-em-quatro-horas-no-rs/"
-            }
-          ],
-          "updatedAt": "2026-08-16T11:09:18.000Z"
         },
         {
           "clusterId": "a53514745d3a1a0e",
@@ -440,23 +438,6 @@
           "imageUrl": "https://s2-g1.glbimg.com/egDwZ6eFLKGhQUfAy6KnVXtfaN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/K/rdVIW9QKOFKlPlO60BBg/2026-08-16t090834z-1069700491-rc2ezma4clah-rtrmadp-3-ukraine-crisis-russia-wildberries-moscow.jpg"
         },
         {
-          "clusterId": "d888669d7d4a4deb",
-          "slug": "a0d44624fe4acb0d",
-          "titulo": "Terremoto na Colômbia: número de mortos sobe para 294; presidente pede suspensão de tarifas a Trump",
-          "resumo": "Terremoto na Colômbia: número de mortos sobe para 294 Na Colômbia, o número de mortos pelo terremoto que atingiu o país na segunda-feira (10) subiu para 294, de acordo com a Unidade Nacional para a Gestão do Risco de Desastres (UNGRD). O órgão ainda aponta que 320 pessoas seguem desaparecidas, além de que, até o momento, são 3.935 pessoas feridas, 14.493 casas destruídas e 81.506 casas danificadas. Milhares de colombianos vivem em acampamentos enquanto as equipes de resgate procuram sobreviventes entre os escombros. Cinco dias depois do tremor, a expectativa de encontrar alguém com vida…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/15/terremoto-na-colombia-numero-de-mortos-sobe-para-294.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-15T21:54:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vjiTKZMneLMUunfzFE_MMResgrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/oR5pWJSD23wiZzruHDjA/2026-08-15t183800z-2044037466-rc24zmaf3zum-rtrmadp-3-colombia-quake.jpg"
-        },
-        {
           "clusterId": "0782192615510f97",
           "slug": "87bb36787b53bbf1",
           "titulo": "A tragédia de Ana María Saavedra, a jovem que perdeu as duas irmãs e os pais no terremoto na Colômbia",
@@ -476,102 +457,11 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "1b6e513ed6e57c62",
-          "slug": "6b0659a201b8f1e5",
-          "titulo": "Defesa Civil recomenda demolição ou reconstrução de madeireira e três comércios atingidos por incêndio em Campinas",
-          "resumo": "Na manhã de sábado, um incêndio atingiu um barracão na Estrada da Rhodia, em Campinas, afetando uma madeireira e três estabelecimentos comerciais. A Defesa Civil interditou os imóveis e recomendou que os proprietários contratem engenheiro para decidir entre demolição ou reconstrução. A vistoria contou com a presença da Secretaria Municipal de Urbanismo. A madeireira não possuía alvará de funcionamento municipal.",
-          "porQueImporta": "A medida visa garantir a segurança pública e a regularização dos estabelecimentos afetados",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/16/defesa-civil-recomenda-demolicao-de-madeireira-e-tres-comercios-atingidos-por-incendio-em-campinas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T16:27:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7l6DSNGeGTYVDQMpDvWV-0f-Ies=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/DrkrCpSNW3AT5NwXbEVQ/capas-ana.jpg"
-        },
-        {
-          "clusterId": "af7b038f32e752ba",
-          "slug": "50f0b8abb87b7d78",
-          "titulo": "Incêndio destrói igreja da Assembleia de Deus na Avenida Caxangá, Recife",
-          "resumo": "Um incêndio começou por volta das 8h30 neste domingo em um depósito de uma igreja da Assembleia de Deus Vitória em Cristo, localizada na Avenida Caxangá, zona oeste do Recife. O Corpo de Bombeiros controlou as chamas e o prédio ficou completamente destruído. Não havia pessoas no local e não foram registradas vítimas.",
-          "porQueImporta": "A destruição de um local de culto gera impacto na comunidade e demanda recursos para reconstrução.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/08/16/incendio-destroi-igreja-da-assembleia-de-deus-em-avenida-do-recife-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T16:03:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/--ouV_En4TUikRLumD5UdSoMp0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/T/Ag3FegSgy6WJt1qzUffA/igreja-incendio.jpg"
-        },
-        {
-          "clusterId": "811d6247d569d80a",
-          "slug": "442187e1021ecb19",
-          "titulo": "Incêndio destrói barracas e parte de construção em Romaria",
-          "resumo": "Um incêndio atingiu barracas e um pavimento de uma construção na manhã de domingo em Romaria. O Corpo de Bombeiros chegou ao local com as chamas já controladas e não registrou feridos. Cerca de três barracas foram consumidas pelo fogo, que foi combatido com o apoio de um caminhão‑pipa da prefeitura.",
-          "porQueImporta": "O incidente demonstra a necessidade de vigilância e recursos de combate a incêndios em áreas comerciais rurais",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/16/incendio-atinge-barracas-e-parte-de-construcao-em-romaria.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T15:45:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-f-owZabcqHiZ7tzenZkTCKySyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/5/cHPkRVSUu30bbJDRhYoQ/design-sem-nome-3-.png"
-        },
-        {
-          "clusterId": "18860fc9b0c2b7eb",
-          "slug": "e4c7ffaca770b07e",
-          "titulo": "Incêndio destrói casa de festas em Joinville",
-          "resumo": "Um incêndio ocorreu pouco antes das 23h durante um casamento em uma casa de festas em Joinville, no Norte de Santa Catarina. Nenhum ferido foi registrado, embora 36 pessoas estivessem presentes. A Defesa Civil constatou danos estruturais extensos, incluindo destruição da cobertura e colapso de elementos de madeira, alvenaria e instalações elétricas, e interditou o local.",
-          "porQueImporta": "O evento evidencia riscos de segurança em locais de eventos públicos e gera necessidade de inspeções e medidas preventivas.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/16/incendio-destroi-casa-de-festas-em-joinville.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T14:58:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pCzgHpllYUnIbDVVd5XPsK20OYI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/R/f1SUkPRKqGbdfYMlGk6A/incendio-destroi-casa-de-festas-em-joinville.jpg"
-        },
-        {
-          "clusterId": "27df006537759d9f",
-          "slug": "c5fe1c4d24983774",
-          "titulo": "Incêndio de grandes proporções atinge empresa em Cordeirópolis",
-          "resumo": "Um incêndio de grandes proporções foi registrado na manhã de domingo em uma empresa de gestão ambiental de resíduos industriais localizada na Estrada Municipal Jayme Alberto Bergstron, no bairro Perobas, em Cordeirópolis (SP). As chamas consumiram vários produtos químicos, mobilizando o Corpo de Bombeiros. Até o momento, não há informações sobre feridos. A situação permanece sob monitoramento das autoridades.",
-          "porQueImporta": "O incidente envolve risco químico e pode afetar a saúde pública e o meio ambiente local",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/16/incendio-imovel-cordeiropolis.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T14:52:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1qMwsMhKhpbwN7TBScDFULOv2Hs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/B/pw7qvHR5yEkzhoEZ7f4g/whatsapp-image-2026-08-16-at-11.46.28.jpeg"
-        }
-      ]
-    },
-    {
       "slug": "terremoto",
       "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "685b4d0582a2be71",
+          "clusterId": "559c135a2cf4b49d",
           "slug": "2f752b95cca04d08",
           "titulo": "Terremoto de magnitude 7,7 mata ao menos 47 pessoas na Indonésia",
           "resumo": "Um terremoto de magnitude 7,7 atingiu a costa da ilha de Flores na madrugada de sábado, causando o colapso de vários edifícios e deixando ao menos 47 mortos. O Serviço Geológico dos Estados Unidos registrou o sismo por volta das 5h58 (horário local) a uma profundidade de 10 km, e mais de 200 réplicas foram sentidas. Equipes de busca e resgate continuam atuando na região para localizar sobreviventes.",
@@ -584,19 +474,32 @@
               "url": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-atinge-a-indonesia.ghtml"
             },
             {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/terremoto-na-indonesia-deixa-53-mortos-e-milhares-de-desabrigados/"
-            },
-            {
               "name": "BBC Brasil",
               "url": "https://www.bbc.com/portuguese/articles/cpq88dz14epo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "updatedAt": "2026-08-16T13:46:06.000Z",
+          "updatedAt": "2026-08-16T11:31:51.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/Mw5JF2FX2VAMviIiPOtmzteCT5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/n/NKZEB7QeiFFxWEUcNmEg/2026-08-15t061133z-1486367647-rc2djq8x8org-rtrmadp-3-indonesia-quake.jpg"
         },
         {
-          "clusterId": "27e6a46b1cafe803",
+          "clusterId": "8a7c449adc2e6b59",
+          "slug": "a0d44624fe4acb0d",
+          "titulo": "Terremoto de magnitude 7,4 na Colômbia deixa centenas de mortos e presidente pede suspensão de tarifas a Trump",
+          "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia na segunda‑feira, causando entre 289 e 294 mortes, milhares de feridos e dezenas de milhares de casas destruídas ou danificadas. A Unidade Nacional para a Gestão do Risco de Desastres informou que ainda há centenas de desaparecidos. O presidente colombiano, Abelardo de la Espriella, solicitou ao presidente dos Estados Unidos, Donald Trump, a suspensão temporária de tarifas sobre produtos colombianos para apoiar a recuperação. O pedido foi feito durante conversa entre os dois líderes na noite de sábado.",
+          "porQueImporta": "A gravidade do desastre e a solicitação de apoio comercial internacional afetam a resposta humanitária e a economia da região",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/15/terremoto-na-colombia-numero-de-mortos-sobe-para-294.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T19:47:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vjiTKZMneLMUunfzFE_MMResgrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/oR5pWJSD23wiZzruHDjA/2026-08-15t183800z-2044037466-rc24zmaf3zum-rtrmadp-3-colombia-quake.jpg"
+        },
+        {
+          "clusterId": "4e82c31c502c9323",
           "slug": "341ecbb80a901546",
           "titulo": "Mulher resgatada após quase 37 horas sob escombros de terremoto na Colômbia morre no hospital",
           "resumo": "Daniela Largo, de 32 anos, foi retirada dos destroços do terremoto em Pereira na terça‑feira após quase 37 horas presa. Ela foi levada ao hospital e faleceu na noite de sexta‑feira. Familiares confirmaram o óbito e ela deixa um filho de 12 anos.",
@@ -607,30 +510,150 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/08/15/morre-mulher-que-ficou-por-mais-tempo-sob-os-escombros-do-terremoto-na-colombia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-15T19:25:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WpdtzPEA75IPLnpGTrpdKj01uIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/BNvzQqQnuCFPdbkq5h1Q/2026-08-12t015529z-301134894-rc2pwma28tw4-rtrmadp-3-colombia-quake.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "c88a2e9c0f386a83",
+          "slug": "3664612a54710cfe",
+          "titulo": "Incêndio atinge vegetação na Avenida Margarita, em Manaus",
+          "resumo": "Um incêndio foi registrado em área de vegetação ao longo da Avenida Margarita, no bairro Nova Cidade, zona norte de Manaus, neste domingo. O fogo começou à tarde e se espalhou rapidamente, atingindo o lado direito da pista próximo a uma ladeira entre o supermercado DB e o Museu da Amazônia. O Corpo de Bombeiros Militar do Amazonas enviou viaturas ao local para combater as chamas. Não foram divulgadas informações sobre feridos.",
+          "porQueImporta": "O evento demonstra risco de incêndios em áreas urbanas e a necessidade de resposta rápida das autoridades",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/16/incendio-atinge-vegetacao-as-margens-da-avenida-margarita-em-manaus.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T19:54:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/iDL9KvxcwZE_X7ICKqGzx4p0nQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/A/eswmyFR4AJyKcIMciPqw/g1-incendio-avenida-margarita.jpg"
+        },
+        {
+          "clusterId": "732aab7f390ff4d2",
+          "slug": "82d76e56d8b580b2",
+          "titulo": "Carreta carregada com café pega fogo e interdita pista da D. Pedro I em Campinas",
+          "resumo": "Na tarde de domingo, uma carreta com cerca de 30 toneladas de café incendiou-se próximo ao km 137 da Rodovia D. Pedro I, sentido Rodovia Anhanguera, ao redor das 15h10. O motorista parou no acostamento e o fogo provocou a interdição da pista, com o trânsito sendo desviado para a marginal. Não houve vítimas. O trecho permaneceu interditado até a última atualização da reportagem.",
+          "porQueImporta": "O incidente interrompeu o fluxo viário em uma importante rodovia da região metropolitana de Campinas.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/16/carreta-carregada-com-cafe-pega-fogo-e-interdita-pista-da-d-pedro-i-em-campinas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T19:08:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/5rNe8lTPonqKRekOEipBDIhlWi0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/Y/FroX6DRL2AuTedocyNug/whatsapp-image-2026-08-16-at-15.47.56.jpeg"
+        },
+        {
+          "clusterId": "113b5e44506c08e9",
+          "slug": "81eb495c95b22c03",
+          "titulo": "Mulher morre após casa ser incendiada em Cacoal, RO",
+          "resumo": "Uma mulher identificada como Dilma morreu na noite de sábado (15) em Cacoal (RO) depois que o ex‑companheiro, identificado como Alessandro, ateou fogo na residência. A polícia informou que o homem agrediu a vítima, a fez desmaiar, incendiou o imóvel e amarrou o portão, impedindo fuga. Alessandro foi preso em flagrante em um bar logo após o crime. O caso foi registrado como homicídio e incêndio criminoso.",
+          "porQueImporta": "O caso evidencia violência doméstica e crime de incêndio, demandando atenção das autoridades de segurança pública.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/08/16/mulher-morre-apos-companheiro-incendiar-casa-e-deixar-ela-presa-em-cacoal-ro.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T18:28:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "d0738ad4ad56e849",
+          "slug": "991cf11ab0cac263",
+          "titulo": "Furacão Lala atinge Havaí com ventos de 120 km/h",
+          "resumo": "A tempestade tropical Lala se transformou em furacão de categoria 1 e avançou sobre o arquipélago do Havaí. As autoridades dos EUA registraram ventos de cerca de 120 km/h e chuvas intensas, provocando cortes generalizados de energia. A tempestade não deve tocar o solo, mas já causa estragos nas áreas afetadas.",
+          "porQueImporta": "O evento pode gerar interrupções de energia e danos materiais em uma região habitada.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/15/tempestade-lala-se-torna-furacao-e-avanca-sobre-o-havai-com-ventos-de-120-kmh.ghtml"
             },
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/veja-brasileiros-resgatam-cachorra-apos-100-horas-em-escombros-na-colombia/"
+              "url": "https://www.cnnbrasil.com.br/internacional/quase-200-mil-pessoas-no-havai-ficam-sem-energia-apos-o-furacao-lala/"
             }
           ],
-          "updatedAt": "2026-08-16T13:24:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WpdtzPEA75IPLnpGTrpdKj01uIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/BNvzQqQnuCFPdbkq5h1Q/2026-08-12t015529z-301134894-rc2pwma28tw4-rtrmadp-3-colombia-quake.jpg"
+          "updatedAt": "2026-08-16T19:57:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
         },
         {
-          "clusterId": "012a5a655c02e4d7",
-          "slug": "0a9ae1aa5ed0d4b8",
-          "titulo": "Busca continua na Colômbia após terremoto de magnitude 7,4",
-          "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia, resultando em 289 mortos e centenas de feridos e desaparecidos. As buscas pelos desaparecidos prosseguem neste domingo, dia 16. As autoridades continuam avaliando os danos e prestando socorro às áreas afetadas.",
-          "porQueImporta": "O sismo gera uma crise humanitária que exige resposta imediata de socorro e reconstrução.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
+          "clusterId": "ceb8dd0195a87f7a",
+          "slug": "6dbc9dac1832ee20",
+          "titulo": "Nuvem funil é registrada na orla da Atalaia em Aracaju",
+          "resumo": "Na manhã de domingo, uma nuvem funil foi observada na Orla da Atalaia, zona sul de Aracaju, chamando a atenção de quem estava no local. A meteorologista Wanda Tathyana de Castro, da Secretaria de Estado do Meio Ambiente e Ações Climáticas, explicou que o fenômeno consiste em uma coluna de ar giratória que se estende a partir de uma nuvem de tempestade, geralmente associada a supercélulas.",
+          "porQueImporta": "O registro do fenômeno alerta a população sobre condições atmosféricas potencialmente severas na região",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/08/16/video-nuvem-funil-e-registrada-em-aracaju-e-chama-atencao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T19:48:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/o_X1KzHjJs4H6qxGsfw7MiJGc5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/B/pAjgb6RWi627Poxd7qqQ/nuvem-funil.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "384281f4f3106a7c",
+          "slug": "26c2f4cec944db4b",
+          "titulo": "Incêndio florestal na Grécia deixa dois mortos e casas destruídas",
+          "resumo": "Um incêndio florestal atingiu áreas litorâneas de Kolones e Saterli, na Grécia, resultando em duas mortes e destruição de residências. Mais de 500 pessoas foram evacuadas com o auxílio de embarcações.",
+          "porQueImporta": "O evento evidencia riscos de incêndios em áreas costeiras e a necessidade de respostas de emergência eficazes.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/buscas-continuam-na-colombia-neste-domingo-16-apos-terremoto-de-74/"
+              "url": "https://www.cnnbrasil.com.br/internacional/incendio-florestal-na-grecia-deixa-dois-mortos-e-casas-destruidas/"
             }
           ],
-          "updatedAt": "2026-08-16T15:52:30.000Z"
+          "updatedAt": "2026-08-16T19:34:16.000Z"
+        },
+        {
+          "clusterId": "feaa9caabf9e11a0",
+          "slug": "4e642e3b51615da2",
+          "titulo": "Drone registra maior incêndio florestal da história da Bélgica",
+          "resumo": "Um incêndio florestal atingiu o parque de Altos Fens, no leste da Bélgica, e já queimou cerca de 2.700 hectares. Bombeiros belgas, alemães e luxemburgueses, além do exército e agricultores locais, trabalham para conter as chamas desde a sexta‑feira. O fogo foi capturado por um drone usado pelos bombeiros neste sábado. A situação permanece ativa.",
+          "porQueImporta": "O incêndio representa o maior registro histórico de queimada na Bélgica, demandando resposta conjunta de vários países.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/15/video-drone-captura-maior-incendio-florestal-da-historia-da-belgica.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-15T21:34:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SpAR57O9pAknl6IbCE6m_MqtUeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/MAea3VSWybGVsLwSvJaw/afp-20260815-c4r769f-v1-midres-belgiumenvironmentclimateweatherwildifre.jpg"
         }
       ]
     },
@@ -639,55 +662,90 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "7175b85c366e4ae7",
-          "slug": "3f1ef002803bae88",
-          "titulo": "Motorista embriagado mata motociclista em Alto Alegre e personal trainer morre em acidente de moto em Boa Vista",
-          "resumo": "Em Alto Alegre, na RR-452, um motorista de caminhonete sob efeito de álcool colidiu com uma motocicleta, resultando na morte da vítima. Em Boa Vista, uma personal trainer também faleceu após cair de motocicleta. Ambos os acidentes foram registrados na primeira quinzena de agosto de 2026 em Roraima.",
-          "porQueImporta": "Os acidentes evidenciam riscos de trânsito e a necessidade de fiscalização de álcool ao volante na região.",
+          "clusterId": "4af697ec9b6e20cc",
+          "slug": "81158cee4a7292b9",
+          "titulo": "Duas carretas pegam fogo após colisão na BR-251",
+          "resumo": "Por volta das 10h de domingo, duas carretas colidiram no km 270 da BR-251, próximo a Curral de Dentro, e ficaram em chamas. As equipes do Corpo de Bombeiros Militar encontraram os veículos incendiados e retiraram duas pessoas feridas do local.",
+          "porQueImporta": "Incêndios em veículos podem gerar acidentes graves e demandam resposta rápida dos serviços de emergência.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rr/roraima/noticia/2026/08/16/voce-viu-militar-do-exercito-desaparecido-encontro-de-motos-e-mais-em-roraima.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/16/duas-carretas-pegam-fogo-apos-batida-na-br-251-e-duas-pessoas-ficam-feridas.ghtml"
             }
           ],
-          "updatedAt": "2026-08-16T16:43:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/akSMaPI-_G4uvb5jRWSwyJt8Cu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/e/ACfxo4Sg2CcZJOybNP9Q/militar-sumido-.jpg"
-        },
+          "updatedAt": "2026-08-16T19:59:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fICzXo2MZWEF46jAS0SraPeLPkA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/d/9yL0rcR0e5XY9L43i2JQ/1200x675-16-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-trabalho",
+      "label": "Acidente de trabalho",
+      "stories": [
         {
-          "clusterId": "91b490ba358b3d4c",
-          "slug": "c5a7f198c7c12655",
-          "titulo": "Mulher morre e homem fica ferido após colisão entre moto e carro em Miracema, Tocantins",
-          "resumo": "No domingo, uma motocicleta que transportava um casal foi atingida por um carro no centro de Miracema, interior do Tocantins. A mulher não resistiu aos ferimentos e morreu no local, enquanto o homem sofreu ferimentos e ficou hospitalizado. Não foram divulgadas informações sobre a identidade da vítima nem sobre o condutor do carro. A Polícia Militar foi acionada e isolou a área do acidente.",
-          "porQueImporta": "O acidente evidencia riscos de colisões entre veículos em vias urbanas e a necessidade de atenção no trânsito local",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "0f319e1b9e572c06",
+          "slug": "cacabd70ce50e59e",
+          "titulo": "Trabalhador de 40 anos morre preso em esteira de rolamento de usina em Platina (SP)",
+          "resumo": "Um homem de 40 anos sofreu acidente de trabalho no galpão de uma usina no bairro Mumbuca, em Platina (SP), na tarde de sábado. Enquanto operava uma esteira de rolamento, ficou preso ao equipamento e sofreu ferimentos graves, não resistindo ao atendimento. A área foi isolada para perícia técnica que realizou os exames necessários.",
+          "porQueImporta": "O caso evidencia riscos de segurança em ambientes industriais e a necessidade de medidas preventivas.",
+          "categoria": "Acidente de trabalho",
+          "categoriaSlug": "acidente-de-trabalho",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/16/mulher-morre-apos-moto-ser-atingida-por-carro-no-interior-do-tocantins.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/16/trabalhador-de-40-anos-morre-apos-ficar-preso-em-esteira-de-rolamento-de-usina-no-interior-de-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-08-16T15:56:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/C-9W0p5IPVcEnaIDCwPalaY2S5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Q/CTJS3LRtCBMuPEHvwCMQ/foto-e-montagem-vertical-86-.jpg"
-        },
+          "updatedAt": "2026-08-16T19:01:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DHjkQORLb_wOWnaShtrH4hj8KW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/c/lVp1E3SySSLQtSrNMyqg/design-sem-nome-73-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "seca",
+      "label": "Seca",
+      "stories": [
         {
-          "clusterId": "1152525a8ef6b38c",
-          "slug": "def2dd5c0057c275",
-          "titulo": "Engavetamento deixa motociclista ferido e motorista foge sem prestar socorro em Itupeva",
-          "resumo": "Na madrugada de domingo, três veículos colidiram na Rodovia dos Bandeirantes, em Itupeva, resultando em ferimento de um motociclista. O motorista de um carro atingiu a traseira da moto e, após a colisão, o motociclista foi arremessado contra um ônibus. O condutor do carro deixou o local sem prestar socorro à vítima. A via ficou parcialmente interditada por pouco mais de uma hora.",
-          "porQueImporta": "O caso evidencia risco de fuga de motoristas após acidentes, exigindo maior fiscalização nas rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "47563cac1e9fff46",
+          "slug": "0770d4849d5b76c4",
+          "titulo": "Especialistas alertam sobre risco de super El Niño e relembram a Grande Seca de 1877",
+          "resumo": "Especialistas apontam aumento da probabilidade de um super El Niño em 2026 e citam a Grande Seca de 1877 como referência histórica de devastação no Nordeste brasileiro, que causou fome, migrações e a morte de centenas de milhares de pessoas. A entrevista com o historiador Durval Muniz destaca que, atualmente, o país dispõe de estrutura e rede de proteção social que podem impedir que uma nova seca alcance proporções semelhantes.",
+          "porQueImporta": "Entender o potencial impacto de um super El Niño ajuda a mobilizar políticas de prevenção e mitigação de secas graves.",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/16/engavetamento-deixa-um-ferido-e-motorista-envolvido-foge-sem-prestar-socorro-em-itupeva.ghtml"
+              "url": "https://g1.globo.com/fantastico/noticia/2026/08/16/isso-e-fantastico-os-impactos-da-grande-seca-na-historia-do-brasil.ghtml"
             }
           ],
-          "updatedAt": "2026-08-16T15:16:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fPp0_NRFEzKm2ZcWN70vK9ZRzXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/e/9rDF71TlmHx2iFyb0nIw/e8b5585a-e789-4a33-9e05-fcda5f94e7ff.jpg"
+          "updatedAt": "2026-08-16T18:40:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yd7zw9SGY0CVEi6VXfuGfpzWqcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/O/T7fn2wRjWpyFHBk9vQRQ/fant-el-nino-campos-ceara-jn-frame-3891.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "ccd95cd31310ad8f",
+          "slug": "e3228800ef030ec5",
+          "titulo": "Deslizamento causado por chuvas mata mulher e fere filha em Santa Catarina",
+          "resumo": "Chuvas intensas provocaram deslizamentos em mais de dez cidades de Santa Catarina, atingindo cerca de 100 casas e danificando estradas e pontes. Em Santo Amaro da Imperatriz, o deslizamento matou uma mulher de 44 anos e deixou a filha ferida. Os registros de ocorrências começaram na quinta‑feira anterior, segundo a Defesa Civil estadual.",
+          "porQueImporta": "O evento evidencia risco de deslizamentos em áreas vulneráveis durante períodos de chuva forte.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/16/chuva-estragos-atinge-casas-mulher-morre-cidades-sc.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T18:27:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
         }
       ]
     },
@@ -711,92 +769,6 @@
           ],
           "updatedAt": "2026-08-16T01:50:38.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/8e79_Cnrz4OBgMPdrqyJNANe9oQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/c/mA6B5ARxOG3SBL510IuQ/afp-20260816-c4rf8g6-v1-midres-ukrainerussiaconflictwar.jpg"
-        },
-        {
-          "clusterId": "2cb337b0f74197ec",
-          "slug": "3ef766577dce5163",
-          "titulo": "Seis trabalhadores ficam presos após explosão em mina na Colômbia",
-          "resumo": "Uma explosão ocorreu em uma mina no município de Cucunubá, na Colômbia, deixando seis trabalhadores presos e incomunicáveis. As equipes de resgate também atuam nas áreas afetadas por um terremoto de magnitude 7,4 que atingiu o país no início da semana. Um sétimo trabalhador conseguiu sair por seus próprios meios. O incidente aconteceu nesta sexta-feira.",
-          "porQueImporta": "O acidente evidencia riscos adicionais em regiões já afetadas por desastres naturais, dificultando as operações de socorro.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/14/trabalhadores-ficam-presos-apos-explosao-em-mina-na-colombia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-14T19:17:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/onkgAxUwFgUh9xP5n9WP3sBGlIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/0/aJCCW5Qm2QnAhkK7AR2w/1280px-cucunuba-cundinamarca-colombia-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
-        {
-          "clusterId": "8f37122004f72d93",
-          "slug": "23fd218d7ac13089",
-          "titulo": "Kitesurfista fica ferido após colidir com barco na Praia de Raposa",
-          "resumo": "Um praticante de kitesurf sofreu ferimentos ao colidir com uma embarcação durante uma manobra na Praia de Raposa, na Região Metropolitana de São Luís. O acidente ocorreu no sábado, 8 de agosto, durante um evento local. A vítima recebeu atendimento médico no local. Não foram informados outros feridos ou danos materiais significativos.",
-          "porQueImporta": "O caso evidencia riscos de prática esportiva em áreas de navegação compartilhada.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/08/16/vc-viu-kitesurfista-desaparece-no-mar-mulher-trans-e-agredida-em-bar-e-candidatos-declaram-bens-ao-tse-e-outras-noticias-da-semana-no-g1-ma.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T14:51:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MtTjmGSOI1IgO_j1c1LbkEAqttQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/Md4NbcT8WBcHNUml2mWg/montagens-1920-x-1080-px-4-.png"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "feaa9caabf9e11a0",
-          "slug": "4e642e3b51615da2",
-          "titulo": "Drone registra maior incêndio florestal da história da Bélgica",
-          "resumo": "Um incêndio florestal atingiu o parque de Altos Fens, no leste da Bélgica, e já queimou cerca de 2.700 hectares. Bombeiros belgas, alemães e luxemburgueses, além do exército e agricultores locais, trabalham para conter as chamas desde a sexta‑feira. O fogo foi capturado por um drone usado pelos bombeiros neste sábado. A situação permanece ativa.",
-          "porQueImporta": "O incêndio representa o maior registro histórico de queimada na Bélgica, demandando resposta conjunta de vários países.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/15/video-drone-captura-maior-incendio-florestal-da-historia-da-belgica.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-15T21:34:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SpAR57O9pAknl6IbCE6m_MqtUeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/MAea3VSWybGVsLwSvJaw/afp-20260815-c4r769f-v1-midres-belgiumenvironmentclimateweatherwildifre.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "6dec72b19f4e0705",
-          "slug": "991cf11ab0cac263",
-          "titulo": "Furacão Lala atinge Havaí com ventos de 120 km/h",
-          "resumo": "A tempestade tropical Lala se transformou em furacão de categoria 1 e avançou sobre o arquipélago do Havaí. As autoridades dos EUA registraram ventos de cerca de 120 km/h e chuvas intensas, provocando cortes generalizados de energia. A tempestade não deve tocar o solo, mas já causa estragos nas áreas afetadas.",
-          "porQueImporta": "O evento pode gerar interrupções de energia e danos materiais em uma região habitada.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/15/tempestade-lala-se-torna-furacao-e-avanca-sobre-o-havai-com-ventos-de-120-kmh.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-15T21:15:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
         }
       ]
     },
