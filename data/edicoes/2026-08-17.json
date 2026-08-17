@@ -1,48 +1,52 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T05:10:24.051Z",
+  "generatedAt": "2026-08-17T09:10:44.482Z",
   "home": [
     {
-      "clusterId": "9bf16478235983e0",
-      "slug": "99d29884ad9db39e",
-      "titulo": "Acidente de ônibus deixa dez mortos em Petrópolis",
-      "resumo": "Um ônibus tombou na BR-040, trecho de descida da Serra de Petrópolis, na madrugada de domingo, resultando em dez óbitos. Entre as vítimas estão uma gestante de quatro meses e uma menina de sete anos, cujos nomes foram divulgados pela Polícia Civil. O marido da gestante, que sofreu ferimentos leves, relatou que o motorista conduzia o veículo em alta velocidade. As autoridades continuam investigando as causas do acidente.",
-      "porQueImporta": "O acidente evidencia riscos de alta velocidade em vias serranas e gera impacto na comunidade local.",
+      "clusterId": "70f3f1eb9cf228c9",
+      "slug": "16bfabb15b21856f",
+      "titulo": "Acidente de ônibus de turismo deixa 10 mortos e dezenas de feridos em Petrópolis",
+      "resumo": "Um ônibus de turismo que partiu de Belo Horizonte com destino a Copacabana tombou na madrugada de domingo na BR-040, em Petrópolis, na Região Serrana do Rio. Dez pessoas morreram e quase 40 ficaram feridas. A concessionária informou que havia 56 pessoas a bordo, incluindo motorista e ajudantes. A ANTT constatou que o veículo não possuía autorização para transporte interestadual de passageiros.",
+      "porQueImporta": "O acidente evidencia riscos de transporte clandestino e a necessidade de fiscalização adequada.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/16/gravida-de-quatro-meses-esta-entre-os-10-mortos-no-acidente-em-petropolis-marido-sofreu-ferimentos-leves.ghtml"
-        },
-        {
           "name": "Veja",
           "url": "https://veja.abril.com.br/brasil/agencia-aponta-transporte-clandestino-de-passageiros-em-acidente-que-matou-dez-pessoas-no-rio/"
-        }
-      ],
-      "updatedAt": "2026-08-17T03:00:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/cg18U6kuHNMqQc-UpHpXL3mrwnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/R/2PkNtpQmOhQ0OwcYhU4A/design-sem-nome-16-.png"
-    },
-    {
-      "clusterId": "d0738ad4ad56e849",
-      "slug": "991cf11ab0cac263",
-      "titulo": "Furacão Lala atinge Havaí com ventos de 120 km/h",
-      "resumo": "A tempestade tropical Lala se transformou em furacão de categoria 1 e avançou sobre o arquipélago do Havaí. As autoridades dos EUA registraram ventos de cerca de 120 km/h e chuvas intensas, provocando cortes generalizados de energia. A tempestade não deve tocar o solo, mas já causa estragos nas áreas afetadas.",
-      "porQueImporta": "O evento pode gerar interrupções de energia e danos materiais em uma região habitada.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/15/tempestade-lala-se-torna-furacao-e-avanca-sobre-o-havai-com-ventos-de-120-kmh.ghtml"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/quase-200-mil-pessoas-no-havai-ficam-sem-energia-apos-o-furacao-lala/"
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-acidente-de-onibus-de-turismo-que-deixou-10-mortos-no-rj/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/17/acidente-de-onibus-em-petropolis-veja-o-que-se-sabe-sobre-tombamento-que-deixou-10-mortos.ghtml"
         }
       ],
-      "updatedAt": "2026-08-16T19:57:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
+      "updatedAt": "2026-08-17T06:34:40.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/serrapetropolis.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "6634ebc74ed7ba01",
+      "slug": "b81f7d89196f0a14",
+      "titulo": "Chuva forte causa morte e deslizamento em Santo Amaro da Imperatriz",
+      "resumo": "Uma forte chuva provocou um deslizamento de terra que atingiu uma casa em Santo Amaro da Imperatriz, na região metropolitana de Florianópolis, resultando em um óbito. O evento também gerou estragos em pelo menos dez cidades de Santa Catarina. Duas cidades declararam estado de emergência no estado.",
+      "porQueImporta": "O incidente destaca a vulnerabilidade das áreas urbanas a eventos climáticos extremos e a necessidade de medidas de prevenção e resposta rápida.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/chuva-forte-deixa-um-morto-e-causa-estragos-em-ao-menos-10-cidades-de-sc/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/17/apos-estragos-morte-chuva-sc-tera-sol-e-calor-com-maximas-de-32c.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-17T07:00:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
     },
     {
       "clusterId": "2ea24e4e533fd843",
@@ -77,22 +81,6 @@
       ],
       "updatedAt": "2026-08-17T03:00:30.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/Epj6hpnwzh4vI2qotnF-LOY4OTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/Jul4IgQyaKO7hWhQQHXA/95d722e7-95c7-4456-8268-c799d87890ca.jpg"
-    },
-    {
-      "clusterId": "728c05f5e50045d9",
-      "slug": "b81f7d89196f0a14",
-      "titulo": "Chuva forte causa morte e deslizamento em Santo Amaro da Imperatriz",
-      "resumo": "Uma forte chuva provocou um deslizamento de terra que atingiu uma casa em Santo Amaro da Imperatriz, na região metropolitana de Florianópolis, resultando em um óbito. O evento também gerou estragos em pelo menos dez cidades de Santa Catarina. Duas cidades declararam estado de emergência no estado.",
-      "porQueImporta": "O incidente destaca a vulnerabilidade das áreas urbanas a eventos climáticos extremos e a necessidade de medidas de prevenção e resposta rápida.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/chuva-forte-deixa-um-morto-e-causa-estragos-em-ao-menos-10-cidades-de-sc/"
-        }
-      ],
-      "updatedAt": "2026-08-17T01:16:43.000Z"
     },
     {
       "clusterId": "e1addf1df039af1e",
@@ -146,185 +134,57 @@
       "imageUrl": "https://s2-g1.glbimg.com/bwXhTI0Cq1hU4apo0NBnFMQm_3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/O/QaGTsSSZC7hKnDbp8bOw/canva-2026-08-09t150711.643.png"
     },
     {
-      "clusterId": "3d41038c965931b0",
-      "slug": "97c2721d1d634d87",
-      "titulo": "Acidentes na BR-153 deixam feridos e mortos em Goiás e Tocantins",
-      "resumo": "Dois acidentes ocorreram na BR-153 neste domingo. Em Uruaçu, Goiás, um choque entre um caminhão e três carros deixou cinco pessoas feridas, que foram encaminhadas ao Hospital do Centro‑Norte Goiano. Em Talismã, Tocantins, a colisão entre dois caminhões resultou em três óbitos, com as vítimas sendo socorridas e levadas a um hospital em Porangatu, Goiás. As autoridades de bombeiros atenderam ambos os ocorridos.",
-      "porQueImporta": "Os acidentes ressaltam a necessidade de atenção e medidas de segurança nas rodovias federais da região",
+      "clusterId": "f9f41480eb683be6",
+      "slug": "9911a3a970747399",
+      "titulo": "Cinco feridos em colisão entre caminhão e três carros na BR-153 em Uruaçu, Goiás",
+      "resumo": "Um caminhão colidiu com três automóveis na BR-153, na zona rural de Uruaçu, neste domingo. O acidente envolveu oito pessoas, resultando em cinco feridos que foram transportados por ambulâncias do Corpo de Bombeiros e da concessionária Ecovias do Araguaia ao Hospital do Centro-Norte Goiano. O acidente ocorreu por volta das 14h20, na altura do km 206. As autoridades foram acionadas para prestar apoio no atendimento.",
+      "porQueImporta": "O incidente evidencia riscos de tráfego em rodovias rurais e a necessidade de resposta rápida dos serviços de emergência.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/16/acidente-entre-caminhoes-deixa-um-morto-e-dois-feridos-na-br-153.ghtml"
+          "url": "https://g1.globo.com/go/goias/transito/noticia/2026/08/16/oito-pessoas-ficam-feridas-apos-batida-entre-caminhao-e-tres-carros-na-br-153-em-goias.ghtml"
         }
       ],
       "updatedAt": "2026-08-16T23:20:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jPZMdAjp3VNo4dIPUrJXJPGXkf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/2/3A1LHaTtueed0lycChfQ/foto-e-montagem-vertical-50-.jpg"
+      "imageUrl": "https://s2-g1.glbimg.com/lO1JKGEqp2BlrQb7OpiTdBLK3Ec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/R/ezLI7pTAiiye5e69U4eg/copia-de-copia-de-padrao-foto-g1-goias-6-.jpg"
     },
     {
-      "clusterId": "452c00d854d984a7",
-      "slug": "372a38c709f47899",
-      "titulo": "Motociclista de 50 anos morre em acidente na Rodovia Paulo Virgínio em Guaratinguetá",
-      "resumo": "Um motociclista de 50 anos foi encontrado sem sinais vitais após colidir com um carro na Rodovia Paulo Virgínio (SP-171), em Guaratinguetá, no interior de São Paulo. O SAMU foi acionado às 13h25 pelo Corpo de Bombeiros e a área foi isolada para perícia. O acidente ocorreu por volta das 13h20, no sentido sul da rodovia, segundo o DER-SP.",
-      "porQueImporta": "O caso evidencia riscos de colisões entre veículos leves e pesados em rodovias estaduais, demandando atenção à segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "c710ba92d9d28dad",
+      "slug": "26773190315c30a9",
+      "titulo": "Brasil enfrenta nova onda de calor extremo entre 15 e 20 de agosto",
+      "resumo": "Nos próximos dias, entre 15 e 20 de agosto, o país deverá passar por uma nova onda de calor com temperaturas previstas entre 39°C e 42°C. A previsão indica que o calor será extremo em várias regiões do território nacional.",
+      "porQueImporta": "O calor intenso pode gerar riscos à saúde e sobrecarga nos sistemas de energia e água",
+      "categoria": "Calor",
+      "categoriaSlug": "calor",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/nova-onda-de-calor-deve-atingir-o-brasil-nos-proximos-dias-veja-previsao/"
+        }
+      ],
+      "updatedAt": "2026-08-16T23:00:08.000Z"
+    },
+    {
+      "clusterId": "8a7c449adc2e6b59",
+      "slug": "a0d44624fe4acb0d",
+      "titulo": "Terremoto de magnitude 7,4 na Colômbia deixa centenas de mortos e presidente pede suspensão de tarifas a Trump",
+      "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia na segunda‑feira, causando entre 289 e 294 mortes, milhares de feridos e dezenas de milhares de casas destruídas ou danificadas. A Unidade Nacional para a Gestão do Risco de Desastres informou que ainda há centenas de desaparecidos. O presidente colombiano, Abelardo de la Espriella, solicitou ao presidente dos Estados Unidos, Donald Trump, a suspensão temporária de tarifas sobre produtos colombianos para apoiar a recuperação. O pedido foi feito durante conversa entre os dois líderes na noite de sábado.",
+      "porQueImporta": "A gravidade do desastre e a solicitação de apoio comercial internacional afetam a resposta humanitária e a economia da região",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/16/motociclista-de-50-anos-morre-apos-acidente-com-carro-em-rodovia-de-guaratingueta.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/15/terremoto-na-colombia-numero-de-mortos-sobe-para-294.ghtml"
         }
       ],
-      "updatedAt": "2026-08-16T23:10:18.000Z"
+      "updatedAt": "2026-08-16T19:47:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/vjiTKZMneLMUunfzFE_MMResgrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/oR5pWJSD23wiZzruHDjA/2026-08-15t183800z-2044037466-rc24zmaf3zum-rtrmadp-3-colombia-quake.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "9bf16478235983e0",
-          "slug": "99d29884ad9db39e",
-          "titulo": "Acidente de ônibus deixa dez mortos em Petrópolis",
-          "resumo": "Um ônibus tombou na BR-040, trecho de descida da Serra de Petrópolis, na madrugada de domingo, resultando em dez óbitos. Entre as vítimas estão uma gestante de quatro meses e uma menina de sete anos, cujos nomes foram divulgados pela Polícia Civil. O marido da gestante, que sofreu ferimentos leves, relatou que o motorista conduzia o veículo em alta velocidade. As autoridades continuam investigando as causas do acidente.",
-          "porQueImporta": "O acidente evidencia riscos de alta velocidade em vias serranas e gera impacto na comunidade local.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/16/gravida-de-quatro-meses-esta-entre-os-10-mortos-no-acidente-em-petropolis-marido-sofreu-ferimentos-leves.ghtml"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/agencia-aponta-transporte-clandestino-de-passageiros-em-acidente-que-matou-dez-pessoas-no-rio/"
-            }
-          ],
-          "updatedAt": "2026-08-17T03:00:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cg18U6kuHNMqQc-UpHpXL3mrwnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/R/2PkNtpQmOhQ0OwcYhU4A/design-sem-nome-16-.png"
-        },
-        {
-          "clusterId": "e1addf1df039af1e",
-          "slug": "d056d5098b6d717c",
-          "titulo": "Acidente entre carretas causa explosão e deixa 4 mortos na BR-163, em MS",
-          "resumo": "Um acidente envolvendo duas carretas e três veículos de passeio na BR-163, em Bandeirantes, a 70 km de Campo Grande, resultou em quatro mortes e seis feridos. A colisão frontal ocorreu no km 569, no sentido norte da rodovia, e uma das carretas transportava produto perigoso que provocou uma explosão. A rodovia foi interditada nos dois sentidos durante o atendimento. A polícia ainda não divulgou a natureza da carga.",
-          "porQueImporta": "O incidente destaca os riscos de transporte de produtos perigosos em rodovias de tráfego intenso.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/16/acidente-entre-carretas-causa-explosao-e-deixa-mortos-na-br-163-em-ms.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-17T00:28:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6xHTDKf1ZZsJohxqcoFJqI1reS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/C/0vuqkUSAirtVnfBEd5dQ/br-163-acidente.jpg"
-        },
-        {
-          "clusterId": "3d41038c965931b0",
-          "slug": "97c2721d1d634d87",
-          "titulo": "Acidentes na BR-153 deixam feridos e mortos em Goiás e Tocantins",
-          "resumo": "Dois acidentes ocorreram na BR-153 neste domingo. Em Uruaçu, Goiás, um choque entre um caminhão e três carros deixou cinco pessoas feridas, que foram encaminhadas ao Hospital do Centro‑Norte Goiano. Em Talismã, Tocantins, a colisão entre dois caminhões resultou em três óbitos, com as vítimas sendo socorridas e levadas a um hospital em Porangatu, Goiás. As autoridades de bombeiros atenderam ambos os ocorridos.",
-          "porQueImporta": "Os acidentes ressaltam a necessidade de atenção e medidas de segurança nas rodovias federais da região",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/16/acidente-entre-caminhoes-deixa-um-morto-e-dois-feridos-na-br-153.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T23:20:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jPZMdAjp3VNo4dIPUrJXJPGXkf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/2/3A1LHaTtueed0lycChfQ/foto-e-montagem-vertical-50-.jpg"
-        },
-        {
-          "clusterId": "452c00d854d984a7",
-          "slug": "372a38c709f47899",
-          "titulo": "Motociclista de 50 anos morre em acidente na Rodovia Paulo Virgínio em Guaratinguetá",
-          "resumo": "Um motociclista de 50 anos foi encontrado sem sinais vitais após colidir com um carro na Rodovia Paulo Virgínio (SP-171), em Guaratinguetá, no interior de São Paulo. O SAMU foi acionado às 13h25 pelo Corpo de Bombeiros e a área foi isolada para perícia. O acidente ocorreu por volta das 13h20, no sentido sul da rodovia, segundo o DER-SP.",
-          "porQueImporta": "O caso evidencia riscos de colisões entre veículos leves e pesados em rodovias estaduais, demandando atenção à segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/16/motociclista-de-50-anos-morre-apos-acidente-com-carro-em-rodovia-de-guaratingueta.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T23:10:18.000Z"
-        },
-        {
-          "clusterId": "2e590a0c68f114bc",
-          "slug": "c599d5e8038df15f",
-          "titulo": "Motociclista fica gravemente ferido após colisão envolvendo dois carros e moto na Rodovia Ayrton Senna",
-          "resumo": "Na manhã de domingo, por volta das 12h30, ocorreu colisão entre dois automóveis e uma motocicleta na Rodovia Ayrton Senna, km 35, em Itaquaquecetuba. O motociclista ficou gravemente ferido e foi encaminhado ao Hospital Santa Marcelina. Testemunhas relataram que a motocicleta pegou fogo após o impacto.",
-          "porQueImporta": "O acidente evidencia riscos de tráfego na rodovia e a necessidade de atenção dos motoristas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/16/batida-entre-dois-carros-e-moto-deixa-motociclista-gravemente-ferido-na-ayrton-senna.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T21:45:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-u1kc94jA1q7YltDZSQt0ulp8co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/f/u4ZlsHRKyMEEPfLgiD6g/imagem-4-.jpg"
-        },
-        {
-          "clusterId": "79c2187b963e5468",
-          "slug": "cf5426f42ddd9603",
-          "titulo": "Irmãos morrem após carro capotar na TO-070",
-          "resumo": "Dois irmãos, Beatriz Costa Azevedo, 26, e Atanael Costa Azevedo, 27, morreram quando o motorista perdeu o controle do veículo e capotou na rodovia TO-070, em Brejinho de Nazaré. O carro seguia de Gurupi para Porto Nacional e atingiu uma guia lateral antes de capotar. Três ocupantes restantes – um homem, uma mulher e uma criança – foram socorridos. O acidente ocorreu neste domingo.",
-          "porQueImporta": "O acidente evidencia riscos nas rodovias estaduais e a necessidade de atenção ao dirigir em trechos críticos.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/16/irmaos-morrem-apos-carro-capotar-na-to-070-diz-familia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T21:41:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TbpRRVF2Dga3VvXd1qkuPp6CClw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/ezSVAsSyCtmN576mpj6Q/foto-e-montagem-vertical.png"
-        },
-        {
-          "clusterId": "5f24ee027cba0a91",
-          "slug": "8756d97d308d35cf",
-          "titulo": "Motorista atropela policial militar e duas pessoas em rodovia no interior de SP",
-          "resumo": "Três pessoas foram atingidas por um carro na Rodovia Marechal Rondon, em São Manuel, durante uma abordagem policial. A policial militar conduzia a abordagem de um motociclista com garupa quando o veículo invadiu o acostamento e as atingiu. O boletim de ocorrência registra acidente com lesão corporal, embriaguez ao volante e condução sem habilitação. As vítimas foram socorridas e o motorista foi detido.",
-          "porQueImporta": "O caso evidencia riscos de acidentes envolvendo autoridades em operações de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/16/motorista-atropela-pm-e-outras-duas-pessoas-durante-abordagem-em-rodovia-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T21:29:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cJmk5DX1FlL_3Ke9XDeyVtO_0GI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/x0glQ1Q5mMuBfjhrJlqA/delpolbotucatu.png"
-        },
-        {
-          "clusterId": "ebd47b492b32e117",
-          "slug": "e3d42b0a0f7e59a6",
-          "titulo": "Carro fica partido ao meio após acidente na rodovia Mogi-Bertioga",
-          "resumo": "Um acidente ocorrido na rodovia Dom Paulo Rolim Loureiro, no sentido Bertioga, deixou um morto e nove feridos. O impacto foi tão forte que o veículo ficou dividido ao meio. A ocorrência aconteceu por volta das 14h20, no km 64, e a pista foi totalmente interditada.",
-          "porQueImporta": "O acidente causou fatalidade, múltiplas vítimas e interrupção total do tráfego na rodovia.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/16/carro-fica-partido-ao-meio-em-acidente-que-deixou-um-morto-e-nove-feridos-na-mogi-bertioga-veja.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T21:05:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/u06bJPNRnXnvUM4OMc0oveOhTZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/o/ruhSnBRYmV2UBBnS1ydQ/imagem-3-.jpg"
-        }
-      ]
-    },
     {
       "slug": "terremoto",
       "label": "Terremoto",
@@ -417,59 +277,107 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "2ea24e4e533fd843",
-          "slug": "006f69bcb630bb90",
-          "titulo": "Incêndio em casa de Engenheiro Coelho deixa três crianças feridas",
-          "resumo": "Uma casa em Engenheiro Coelho (SP) pegou fogo por volta das 3h de domingo, deixando três crianças feridas. A mãe, de 29 anos, admitiu à polícia que deixou os filhos sozinhos para ir a um forró em cidade vizinha. Uma menina de 9 anos sofreu queimaduras nas mãos, braço e pernas, enquanto o irmão gêmeo e outra irmã de 5 anos foram atendidos por inalação de fumaça. A mulher foi presa por abandono de incapaz.",
-          "porQueImporta": "O caso evidencia risco de abandono de menores e necessidade de prevenção de incêndios domésticos.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "70f3f1eb9cf228c9",
+          "slug": "16bfabb15b21856f",
+          "titulo": "Acidente de ônibus de turismo deixa 10 mortos e dezenas de feridos em Petrópolis",
+          "resumo": "Um ônibus de turismo que partiu de Belo Horizonte com destino a Copacabana tombou na madrugada de domingo na BR-040, em Petrópolis, na Região Serrana do Rio. Dez pessoas morreram e quase 40 ficaram feridas. A concessionária informou que havia 56 pessoas a bordo, incluindo motorista e ajudantes. A ANTT constatou que o veículo não possuía autorização para transporte interestadual de passageiros.",
+          "porQueImporta": "O acidente evidencia riscos de transporte clandestino e a necessidade de fiscalização adequada.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/agencia-aponta-transporte-clandestino-de-passageiros-em-acidente-que-matou-dez-pessoas-no-rio/"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-acidente-de-onibus-de-turismo-que-deixou-10-mortos-no-rj/"
+            },
+            {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/17/mae-admite-que-deixou-3-criancas-sozinhas-em-casa-com-vela-acesa-para-ir-a-forro-menina-se-feriu-em-incendio.ghtml"
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/17/acidente-de-onibus-em-petropolis-veja-o-que-se-sabe-sobre-tombamento-que-deixou-10-mortos.ghtml"
             }
           ],
-          "updatedAt": "2026-08-17T05:00:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JTAUrxPWgK1dVQq7ycmF2lX9KTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/tBD27CSwKbQsmFqBovOQ/design-sem-nome-30-.png"
+          "updatedAt": "2026-08-17T06:34:40.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/serrapetropolis.jpg?quality=70&strip=info"
         },
         {
-          "clusterId": "246586cb236f9478",
-          "slug": "e03563eb08f8bc6d",
-          "titulo": "Idoso de 73 anos morre após queimaduras em incêndio doméstico em Varginha",
-          "resumo": "Um homem de 73 anos sofreu queimaduras em grande parte do corpo ao tentar acender um fogareiro com líquido inflamável durante um incêndio no bairro Nossa Senhora Aparecida, em Varginha (MG). Ele foi internado na Santa Casa de São Sebastião do Paraíso (MG) e faleceu. O corpo foi sepultado no Cemitério Municipal de Lambari.",
-          "porQueImporta": "O caso evidencia os riscos do uso de combustíveis inflamáveis em ambientes domésticos.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "e1addf1df039af1e",
+          "slug": "d056d5098b6d717c",
+          "titulo": "Acidente entre carretas causa explosão e deixa 4 mortos na BR-163, em MS",
+          "resumo": "Um acidente envolvendo duas carretas e três veículos de passeio na BR-163, em Bandeirantes, a 70 km de Campo Grande, resultou em quatro mortes e seis feridos. A colisão frontal ocorreu no km 569, no sentido norte da rodovia, e uma das carretas transportava produto perigoso que provocou uma explosão. A rodovia foi interditada nos dois sentidos durante o atendimento. A polícia ainda não divulgou a natureza da carga.",
+          "porQueImporta": "O incidente destaca os riscos de transporte de produtos perigosos em rodovias de tráfego intenso.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/08/16/idoso-que-teve-ate-90percent-do-corpo-queimado-em-incendio-em-varginha-morre-em-hospital.ghtml"
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/16/acidente-entre-carretas-causa-explosao-e-deixa-mortos-na-br-163-em-ms.ghtml"
             }
           ],
-          "updatedAt": "2026-08-16T21:28:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1GIVnoklGP-7NjLX9yXNXcS7Ca8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/6/xffKOUSAAkYw5QzAJswQ/idosoqueimado.png"
+          "updatedAt": "2026-08-17T00:28:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6xHTDKf1ZZsJohxqcoFJqI1reS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/C/0vuqkUSAirtVnfBEd5dQ/br-163-acidente.jpg"
         },
         {
-          "clusterId": "c772c92ecadb4b79",
-          "slug": "5b2af8bfafe1ee83",
-          "titulo": "Incêndio em depósito de recicláveis gera nuvem de fumaça preta em Divinópolis",
-          "resumo": "Na tarde de domingo, um incêndio atingiu um depósito de materiais recicláveis na avenida Governador Magalhães Pinto, no bairro São Geraldo, em Divinópolis. A fumaça preta foi observada pelos moradores e mobilizou o Corpo de Bombeiros, que chegou ao local por volta das 15h19. Três viaturas foram enviadas ao local e o fogo foi controlado sem que haja vítimas. Não foram registradas feridas entre os presentes.",
-          "porQueImporta": "O evento demonstra risco de incêndios em áreas de armazenamento de resíduos e a necessidade de resposta rápida dos serviços de emergência.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "f9f41480eb683be6",
+          "slug": "9911a3a970747399",
+          "titulo": "Cinco feridos em colisão entre caminhão e três carros na BR-153 em Uruaçu, Goiás",
+          "resumo": "Um caminhão colidiu com três automóveis na BR-153, na zona rural de Uruaçu, neste domingo. O acidente envolveu oito pessoas, resultando em cinco feridos que foram transportados por ambulâncias do Corpo de Bombeiros e da concessionária Ecovias do Araguaia ao Hospital do Centro-Norte Goiano. O acidente ocorreu por volta das 14h20, na altura do km 206. As autoridades foram acionadas para prestar apoio no atendimento.",
+          "porQueImporta": "O incidente evidencia riscos de tráfego em rodovias rurais e a necessidade de resposta rápida dos serviços de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/16/nuvem-de-fumaca-preta-chama-atencao-durante-incendio-em-deposito-de-reciclaveis-de-divinopolis-video.ghtml"
+              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/08/16/oito-pessoas-ficam-feridas-apos-batida-entre-caminhao-e-tres-carros-na-br-153-em-goias.ghtml"
             }
           ],
-          "updatedAt": "2026-08-16T20:46:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/VcOi8exyYxwgv73UyN2HPMu-7W4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/U/6MEBD5SNm2k9TSRo2oDw/whatsapp-image-2026-08-16-at-17.12.55-1-.jpeg"
+          "updatedAt": "2026-08-16T23:20:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lO1JKGEqp2BlrQb7OpiTdBLK3Ec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/R/ezLI7pTAiiye5e69U4eg/copia-de-copia-de-padrao-foto-g1-goias-6-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "8690bee3c1926282",
+          "slug": "ed9678bb3bdf9301",
+          "titulo": "Previsão de onda de calor e risco de granizo no Rio Grande do Sul",
+          "resumo": "A Climatempo indica que a onda de calor deve durar até quinta‑feira, com temperaturas entre 32°C e 34°C nas regiões Noroeste e Oeste do estado. A frente fria que avançava na segunda‑feira pode gerar instabilidade e possibilidade de granizo nos próximos dias. As mínimas registradas no domingo variaram de 12°C a 21°C, enquanto as máximas ficaram entre 16°C e 33°C.",
+          "porQueImporta": "Condições climáticas extremas podem impactar a população e demandar ações da Defesa Civil.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/17/onda-de-calor-e-chances-de-granizo-semana-comeca-com-previsao-de-chuva-no-rs.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T03:00:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Epj6hpnwzh4vI2qotnF-LOY4OTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/Jul4IgQyaKO7hWhQQHXA/95d722e7-95c7-4456-8268-c799d87890ca.jpg"
+        },
+        {
+          "clusterId": "6dec72b19f4e0705",
+          "slug": "991cf11ab0cac263",
+          "titulo": "Tempestade tropical Lala se transforma em furacão de categoria 1 e avança sobre o Havaí",
+          "resumo": "A tempestade tropical Lala foi reclassificada como furacão de categoria 1 neste sábado, segundo o Serviço Nacional de Meteorologia dos Estados Unidos. O furacão apresenta ventos de cerca de 120 km/h e segue em direção ao arquipélago do Havaí. O boletim meteorológico foi divulgado às 10h horário local, equivalente a 16h em Brasília.",
+          "porQueImporta": "O furacão pode gerar impactos significativos nas ilhas havaianas, exigindo monitoramento e medidas de proteção.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/15/tempestade-lala-se-torna-furacao-e-avanca-sobre-o-havai-com-ventos-de-120-kmh.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-15T21:15:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
         }
       ]
     },
@@ -495,23 +403,6 @@
           "imageUrl": "https://s2-g1.glbimg.com/bwXhTI0Cq1hU4apo0NBnFMQm_3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/O/QaGTsSSZC7hKnDbp8bOw/canva-2026-08-09t150711.643.png"
         },
         {
-          "clusterId": "d7a0df66af17f835",
-          "slug": "d5d01b37c9b82daa",
-          "titulo": "Motorista morre após carro sair da pista e cair de ribanceira na BR-040, na Grande BH",
-          "resumo": "Viatura da PRF PRF/Divulgação Um motorista morreu após um carro sair da pista e cair de uma ribanceira na BR-040, em Nova Lima, na Região Metropolitana de Belo Horizonte, na tarde deste domingo (16). Segundo a concessionária EPR Via Mineira, o acidente foi registrado por volta das 16h20, na altura do bairro Jardim Canadá. O veículo teria perdido o controle no km 551,8 da rodovia, no sentido Rio de Janeiro. ✅ Clique aqui para seguir o canal do g1 Minas no WhatsApp De acordo com o Corpo de Bombeiros, o motorista, que era o único ocupante do automóvel, foi encontrado fora do carro, em uma área…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/16/motorista-morre-apos-carro-sair-da-pista-e-cair-de-ribanceira-na-br-040-na-grande-bh.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T20:41:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/NqhMMna2vp84jWvIkQWGST-LyyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/mn1B9fSSeSg6K8jX9KTw/prf-viatura.jpg"
-        },
-        {
           "clusterId": "b3c1724051bae3c1",
           "slug": "7a4af0cf86847f69",
           "titulo": "Ucrânia lança quase 900 drones contra a Rússia e ataque mata seis pessoas",
@@ -534,23 +425,6 @@
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
-        {
-          "clusterId": "e8f962bf945d2ae9",
-          "slug": "31b0c1482e433ec7",
-          "titulo": "Guindaste cai sobre fios de alta tensão e provoca explosão em Manaus",
-          "resumo": "Um guindaste tombou sobre fios de alta tensão no Distrito Industrial I, em Manaus, neste domingo. O impacto provocou uma explosão na rede elétrica e feriu o condutor do equipamento, que foi atendido e encaminhado ao SAMU. O Corpo de Bombeiros Militar do Amazonas registrou o incidente. Não foram divulgadas outras informações sobre vítimas ou danos adicionais.",
-          "porQueImporta": "O acidente demonstra riscos de operação de máquinas pesadas próximas a infraestruturas elétricas críticas.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/16/guindaste-tomba-sobre-fios-de-alta-tensao-e-provoca-explosao-na-rede-eletrica-em-manaus.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T21:46:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/23oUtV4ILQUOQ-oJow6fIXmlPbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/U/8NSAD2T2qlXDCaZEkLhQ/g1-guindaste-tomba-manaus.jpg"
-        },
         {
           "clusterId": "a53514745d3a1a0e",
           "slug": "ccc0f24ff7815ecc",
@@ -588,55 +462,11 @@
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "d0738ad4ad56e849",
-          "slug": "991cf11ab0cac263",
-          "titulo": "Furacão Lala atinge Havaí com ventos de 120 km/h",
-          "resumo": "A tempestade tropical Lala se transformou em furacão de categoria 1 e avançou sobre o arquipélago do Havaí. As autoridades dos EUA registraram ventos de cerca de 120 km/h e chuvas intensas, provocando cortes generalizados de energia. A tempestade não deve tocar o solo, mas já causa estragos nas áreas afetadas.",
-          "porQueImporta": "O evento pode gerar interrupções de energia e danos materiais em uma região habitada.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/15/tempestade-lala-se-torna-furacao-e-avanca-sobre-o-havai-com-ventos-de-120-kmh.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/quase-200-mil-pessoas-no-havai-ficam-sem-energia-apos-o-furacao-lala/"
-            }
-          ],
-          "updatedAt": "2026-08-16T19:57:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
-        },
-        {
-          "clusterId": "8690bee3c1926282",
-          "slug": "ed9678bb3bdf9301",
-          "titulo": "Previsão de onda de calor e risco de granizo no Rio Grande do Sul",
-          "resumo": "A Climatempo indica que a onda de calor deve durar até quinta‑feira, com temperaturas entre 32°C e 34°C nas regiões Noroeste e Oeste do estado. A frente fria que avançava na segunda‑feira pode gerar instabilidade e possibilidade de granizo nos próximos dias. As mínimas registradas no domingo variaram de 12°C a 21°C, enquanto as máximas ficaram entre 16°C e 33°C.",
-          "porQueImporta": "Condições climáticas extremas podem impactar a população e demandar ações da Defesa Civil.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/17/onda-de-calor-e-chances-de-granizo-semana-comeca-com-previsao-de-chuva-no-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-17T03:00:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Epj6hpnwzh4vI2qotnF-LOY4OTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/Jul4IgQyaKO7hWhQQHXA/95d722e7-95c7-4456-8268-c799d87890ca.jpg"
-        }
-      ]
-    },
-    {
       "slug": "deslizamento",
       "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "728c05f5e50045d9",
+          "clusterId": "6634ebc74ed7ba01",
           "slug": "b81f7d89196f0a14",
           "titulo": "Chuva forte causa morte e deslizamento em Santo Amaro da Imperatriz",
           "resumo": "Uma forte chuva provocou um deslizamento de terra que atingiu uma casa em Santo Amaro da Imperatriz, na região metropolitana de Florianópolis, resultando em um óbito. O evento também gerou estragos em pelo menos dez cidades de Santa Catarina. Duas cidades declararam estado de emergência no estado.",
@@ -647,9 +477,37 @@
             {
               "name": "CNN Brasil",
               "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/chuva-forte-deixa-um-morto-e-causa-estragos-em-ao-menos-10-cidades-de-sc/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/17/apos-estragos-morte-chuva-sc-tera-sol-e-calor-com-maximas-de-32c.ghtml"
             }
           ],
-          "updatedAt": "2026-08-17T01:16:43.000Z"
+          "updatedAt": "2026-08-17T07:00:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "2ea24e4e533fd843",
+          "slug": "006f69bcb630bb90",
+          "titulo": "Incêndio em casa de Engenheiro Coelho deixa três crianças feridas",
+          "resumo": "Uma casa em Engenheiro Coelho (SP) pegou fogo por volta das 3h de domingo, deixando três crianças feridas. A mãe, de 29 anos, admitiu à polícia que deixou os filhos sozinhos para ir a um forró em cidade vizinha. Uma menina de 9 anos sofreu queimaduras nas mãos, braço e pernas, enquanto o irmão gêmeo e outra irmã de 5 anos foram atendidos por inalação de fumaça. A mulher foi presa por abandono de incapaz.",
+          "porQueImporta": "O caso evidencia risco de abandono de menores e necessidade de prevenção de incêndios domésticos.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/17/mae-admite-que-deixou-3-criancas-sozinhas-em-casa-com-vela-acesa-para-ir-a-forro-menina-se-feriu-em-incendio.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T05:00:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JTAUrxPWgK1dVQq7ycmF2lX9KTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/tBD27CSwKbQsmFqBovOQ/design-sem-nome-30-.png"
         }
       ]
     },
