@@ -1,190 +1,498 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T09:10:44.482Z",
+  "generatedAt": "2026-08-17T13:22:08.594Z",
   "home": [
     {
-      "clusterId": "70f3f1eb9cf228c9",
-      "slug": "16bfabb15b21856f",
-      "titulo": "Acidente de ônibus de turismo deixa 10 mortos e dezenas de feridos em Petrópolis",
-      "resumo": "Um ônibus de turismo que partiu de Belo Horizonte com destino a Copacabana tombou na madrugada de domingo na BR-040, em Petrópolis, na Região Serrana do Rio. Dez pessoas morreram e quase 40 ficaram feridas. A concessionária informou que havia 56 pessoas a bordo, incluindo motorista e ajudantes. A ANTT constatou que o veículo não possuía autorização para transporte interestadual de passageiros.",
-      "porQueImporta": "O acidente evidencia riscos de transporte clandestino e a necessidade de fiscalização adequada.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/agencia-aponta-transporte-clandestino-de-passageiros-em-acidente-que-matou-dez-pessoas-no-rio/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-acidente-de-onibus-de-turismo-que-deixou-10-mortos-no-rj/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/17/acidente-de-onibus-em-petropolis-veja-o-que-se-sabe-sobre-tombamento-que-deixou-10-mortos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-17T06:34:40.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/serrapetropolis.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "6634ebc74ed7ba01",
-      "slug": "b81f7d89196f0a14",
-      "titulo": "Chuva forte causa morte e deslizamento em Santo Amaro da Imperatriz",
-      "resumo": "Uma forte chuva provocou um deslizamento de terra que atingiu uma casa em Santo Amaro da Imperatriz, na região metropolitana de Florianópolis, resultando em um óbito. O evento também gerou estragos em pelo menos dez cidades de Santa Catarina. Duas cidades declararam estado de emergência no estado.",
-      "porQueImporta": "O incidente destaca a vulnerabilidade das áreas urbanas a eventos climáticos extremos e a necessidade de medidas de prevenção e resposta rápida.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/chuva-forte-deixa-um-morto-e-causa-estragos-em-ao-menos-10-cidades-de-sc/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/17/apos-estragos-morte-chuva-sc-tera-sol-e-calor-com-maximas-de-32c.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-17T07:00:38.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
-    },
-    {
-      "clusterId": "2ea24e4e533fd843",
-      "slug": "006f69bcb630bb90",
-      "titulo": "Incêndio em casa de Engenheiro Coelho deixa três crianças feridas",
-      "resumo": "Uma casa em Engenheiro Coelho (SP) pegou fogo por volta das 3h de domingo, deixando três crianças feridas. A mãe, de 29 anos, admitiu à polícia que deixou os filhos sozinhos para ir a um forró em cidade vizinha. Uma menina de 9 anos sofreu queimaduras nas mãos, braço e pernas, enquanto o irmão gêmeo e outra irmã de 5 anos foram atendidos por inalação de fumaça. A mulher foi presa por abandono de incapaz.",
-      "porQueImporta": "O caso evidencia risco de abandono de menores e necessidade de prevenção de incêndios domésticos.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/17/mae-admite-que-deixou-3-criancas-sozinhas-em-casa-com-vela-acesa-para-ir-a-forro-menina-se-feriu-em-incendio.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-17T05:00:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/JTAUrxPWgK1dVQq7ycmF2lX9KTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/tBD27CSwKbQsmFqBovOQ/design-sem-nome-30-.png"
-    },
-    {
-      "clusterId": "8690bee3c1926282",
-      "slug": "ed9678bb3bdf9301",
-      "titulo": "Previsão de onda de calor e risco de granizo no Rio Grande do Sul",
-      "resumo": "A Climatempo indica que a onda de calor deve durar até quinta‑feira, com temperaturas entre 32°C e 34°C nas regiões Noroeste e Oeste do estado. A frente fria que avançava na segunda‑feira pode gerar instabilidade e possibilidade de granizo nos próximos dias. As mínimas registradas no domingo variaram de 12°C a 21°C, enquanto as máximas ficaram entre 16°C e 33°C.",
-      "porQueImporta": "Condições climáticas extremas podem impactar a população e demandar ações da Defesa Civil.",
+      "clusterId": "b85c2730bb55c9ee",
+      "slug": "991cf11ab0cac263",
+      "titulo": "Tempestade tropical Lala se transforma em furacão de categoria 1 e avança sobre o Havaí",
+      "resumo": "A tempestade tropical Lala foi reclassificada como furacão de categoria 1 neste sábado, segundo o Serviço Nacional de Meteorologia dos Estados Unidos. O furacão apresenta ventos de cerca de 120 km/h e segue em direção ao arquipélago do Havaí. O boletim meteorológico foi divulgado às 10h horário local, equivalente a 16h em Brasília.",
+      "porQueImporta": "O furacão pode gerar impactos significativos nas ilhas havaianas, exigindo monitoramento e medidas de proteção.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/17/onda-de-calor-e-chances-de-granizo-semana-comeca-com-previsao-de-chuva-no-rs.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/15/tempestade-lala-se-torna-furacao-e-avanca-sobre-o-havai-com-ventos-de-120-kmh.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/mais-de-120-mil-seguem-sem-energia-no-havai-apos-furacao-causar-destruicao/"
         }
       ],
-      "updatedAt": "2026-08-17T03:00:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Epj6hpnwzh4vI2qotnF-LOY4OTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/Jul4IgQyaKO7hWhQQHXA/95d722e7-95c7-4456-8268-c799d87890ca.jpg"
+      "updatedAt": "2026-08-17T12:46:49.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
     },
     {
-      "clusterId": "e1addf1df039af1e",
-      "slug": "d056d5098b6d717c",
-      "titulo": "Acidente entre carretas causa explosão e deixa 4 mortos na BR-163, em MS",
-      "resumo": "Um acidente envolvendo duas carretas e três veículos de passeio na BR-163, em Bandeirantes, a 70 km de Campo Grande, resultou em quatro mortes e seis feridos. A colisão frontal ocorreu no km 569, no sentido norte da rodovia, e uma das carretas transportava produto perigoso que provocou uma explosão. A rodovia foi interditada nos dois sentidos durante o atendimento. A polícia ainda não divulgou a natureza da carga.",
-      "porQueImporta": "O incidente destaca os riscos de transporte de produtos perigosos em rodovias de tráfego intenso.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "411cdc82bce66c77",
+      "slug": "dd30005efc2f4104",
+      "titulo": "Ciclone extratropical vai atingir região do Brasil com tempestades e ventos de até 100 km/h",
+      "resumo": "Um ciclone extratropical se aproxima da costa brasileira, trazendo tempestades e ventos que podem chegar a 100 km/h. A região Sul do país deve registrar chuvas intensas e queda nas temperaturas ainda nesta semana. As autoridades alertam para possíveis interrupções em serviços e riscos de alagamentos em áreas baixas.",
+      "porQueImporta": "O fenômeno pode causar transtornos e riscos à população e infraestrutura local.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/16/acidente-entre-carretas-causa-explosao-e-deixa-mortos-na-br-163-em-ms.ghtml"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/agenda-verde/ciclone-extratropical-vai-atingir-regiao-do-brasil-com-tempestades-e-ventos-de-ate-100-km-h/"
         }
       ],
-      "updatedAt": "2026-08-17T00:28:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6xHTDKf1ZZsJohxqcoFJqI1reS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/C/0vuqkUSAirtVnfBEd5dQ/br-163-acidente.jpg"
+      "updatedAt": "2026-08-17T13:21:51.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/09/GettyImages-523709228.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "bbfbd669e73169fc",
-      "slug": "d3a31f4e9cc7f860",
-      "titulo": "Terremotos de magnitude 7,4 e 7,7 causam mortes e destruição na Colômbia e Indonésia",
-      "resumo": "Um terremoto de magnitude 7,4 atingiu o oeste da Colômbia, com epicentro em San José del Palmar (Chocó), matando mais de 290 pessoas e ferindo cerca de 4 mil. Em outro continente, um sismo de magnitude 7,7 abalou a Indonésia, provocando 47 mortes e numerosos desabamentos, com mais de 200 réplicas registradas. Ambos os eventos foram sentidos em capitais próximas e geraram ampla destruição nas áreas afetadas. As autoridades locais iniciaram operações de busca e socorro.",
-      "porQueImporta": "Os fortes sismos evidenciam a vulnerabilidade de regiões sísmicas e a necessidade de respostas emergenciais rápidas.",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/15/terremoto-de-magnitude-77-mata-47-pessoas-e-provoca-destruicao-na-indonesia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-17T00:03:53.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/rBhoM_Z0lTd0k7rlS-AAyAlU9Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/Z1r2bzTzKNSUA5Ijb6Gg/globo-canal-4-20260815-2000-frame-56522.jpeg"
-    },
-    {
-      "clusterId": "cd0d5edc44831cb5",
-      "slug": "5787a36545f30188",
-      "titulo": "Casal suspeito de sequestrar bebê Ayla em Campo Grande é composto por mãe de três filhos e foragido por homicídio de adolescente",
-      "resumo": "Suzilaine da Graça Costa, mãe de três filhos, teria fingido gravidez e participado do sequestro da bebê Ayla Emanuelly, em Campo Grande. Alex Melo de Abreu, seu marido, estava foragido após ser condenado a mais de 11 anos por homicídio de adolescente em acidente de trânsito. Ambos foram apontados pela Polícia Civil como suspeitos do caso. A investigação indica que a mentira sobre gravidez teria sido mantida perante a família.",
-      "porQueImporta": "O caso envolve crime de sequestro e a presença de um foragido violento, gerando preocupação de segurança pública",
+      "clusterId": "2cb62e490306d4a7",
+      "slug": "8cd3a8aaa977c872",
+      "titulo": "Rio: 9 dos 10 mortos em acidente de ônibus são identificados",
+      "resumo": "Segundo a Polícia Rodoviária Federal (PRF), o incidente ocorreu por volta das 4h30 e o ônibus sofreu uma queda no Km 91 da BR-040",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/16/mae-de-3-filhos-e-foragido-por-matar-adolescente-quem-e-o-casal-preso-por-sequestrar-bebe-ayla-em-ms.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/rio-9-dos-10-mortos-em-acidente-de-onibus-sao-identificados"
         }
       ],
-      "updatedAt": "2026-08-16T23:47:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bwXhTI0Cq1hU4apo0NBnFMQm_3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/O/QaGTsSSZC7hKnDbp8bOw/canva-2026-08-09t150711.643.png"
+      "updatedAt": "2026-08-17T13:20:19.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/whatsapp-image-2026-08-16-at-15-19-37-3x2-1.jpg"
     },
     {
-      "clusterId": "f9f41480eb683be6",
-      "slug": "9911a3a970747399",
-      "titulo": "Cinco feridos em colisão entre caminhão e três carros na BR-153 em Uruaçu, Goiás",
-      "resumo": "Um caminhão colidiu com três automóveis na BR-153, na zona rural de Uruaçu, neste domingo. O acidente envolveu oito pessoas, resultando em cinco feridos que foram transportados por ambulâncias do Corpo de Bombeiros e da concessionária Ecovias do Araguaia ao Hospital do Centro-Norte Goiano. O acidente ocorreu por volta das 14h20, na altura do km 206. As autoridades foram acionadas para prestar apoio no atendimento.",
-      "porQueImporta": "O incidente evidencia riscos de tráfego em rodovias rurais e a necessidade de resposta rápida dos serviços de emergência.",
+      "clusterId": "d953ebed68b6bd2b",
+      "slug": "908957a150a513b3",
+      "titulo": "Rio Grande do Sul inicia semana com alerta para forte tempestade",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta de risco de alagamentos, transbordamento de rios e deslizamentos no Rio Grande do Sul devido a uma forte tempestade prevista para a semana. As demais regiões do país deverão enfrentar calor e baixa umidade. As autoridades recomendam atenção redobrada e medidas preventivas. O alerta foi divulgado no início da semana.",
+      "porQueImporta": "O alerta indica risco imediato de danos e necessidade de preparação da população.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-sustentavel/rio-grande-do-sul-inicia-semana-com-alerta-para-forte-tempestade/"
+        }
+      ],
+      "updatedAt": "2026-08-17T13:18:09.000Z"
+    },
+    {
+      "clusterId": "0241c04bbc4d5273",
+      "slug": "32716746ccbe6b7e",
+      "titulo": "Bebê de cinco meses morre após carro colidir com poste em Rinópolis (SP)",
+      "resumo": "Na noite de sábado, uma bebê de cinco meses foi socorrada após o carro que a transportava colidir com um poste em Rinópolis, interior de São Paulo. A motorista, de 25 anos, relatou que perdeu o controle ao se dirigir à sogra. A criança foi levada ao hospital, mas não resistiu aos ferimentos e faleceu. O acidente ocorreu por volta das 21h23, segundo a Polícia Civil.",
+      "porQueImporta": "O caso evidencia riscos de acidentes de trânsito envolvendo crianças pequenas.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/go/goias/transito/noticia/2026/08/16/oito-pessoas-ficam-feridas-apos-batida-entre-caminhao-e-tres-carros-na-br-153-em-goias.ghtml"
+          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/17/bebe-de-5-meses-morre-apos-carro-atingir-poste-no-interior-de-sp.ghtml"
         }
       ],
-      "updatedAt": "2026-08-16T23:20:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lO1JKGEqp2BlrQb7OpiTdBLK3Ec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/R/ezLI7pTAiiye5e69U4eg/copia-de-copia-de-padrao-foto-g1-goias-6-.jpg"
+      "updatedAt": "2026-08-17T13:15:22.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EN59-qfgRY3rRrpjXrz6NJHx0Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/g/tI777xR7Kfndqldj94Zw/g1-2026-08-17t094144.008.png"
     },
     {
-      "clusterId": "c710ba92d9d28dad",
-      "slug": "26773190315c30a9",
-      "titulo": "Brasil enfrenta nova onda de calor extremo entre 15 e 20 de agosto",
-      "resumo": "Nos próximos dias, entre 15 e 20 de agosto, o país deverá passar por uma nova onda de calor com temperaturas previstas entre 39°C e 42°C. A previsão indica que o calor será extremo em várias regiões do território nacional.",
-      "porQueImporta": "O calor intenso pode gerar riscos à saúde e sobrecarga nos sistemas de energia e água",
-      "categoria": "Calor",
-      "categoriaSlug": "calor",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/nova-onda-de-calor-deve-atingir-o-brasil-nos-proximos-dias-veja-previsao/"
-        }
-      ],
-      "updatedAt": "2026-08-16T23:00:08.000Z"
-    },
-    {
-      "clusterId": "8a7c449adc2e6b59",
-      "slug": "a0d44624fe4acb0d",
-      "titulo": "Terremoto de magnitude 7,4 na Colômbia deixa centenas de mortos e presidente pede suspensão de tarifas a Trump",
-      "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia na segunda‑feira, causando entre 289 e 294 mortes, milhares de feridos e dezenas de milhares de casas destruídas ou danificadas. A Unidade Nacional para a Gestão do Risco de Desastres informou que ainda há centenas de desaparecidos. O presidente colombiano, Abelardo de la Espriella, solicitou ao presidente dos Estados Unidos, Donald Trump, a suspensão temporária de tarifas sobre produtos colombianos para apoiar a recuperação. O pedido foi feito durante conversa entre os dois líderes na noite de sábado.",
-      "porQueImporta": "A gravidade do desastre e a solicitação de apoio comercial internacional afetam a resposta humanitária e a economia da região",
-      "categoria": "Terremoto",
-      "categoriaSlug": "terremoto",
+      "clusterId": "07726bc54fe5c499",
+      "slug": "8bc007cb4a251a96",
+      "titulo": "Família se despede de vítimas de acidente na BR-020 em Goiás",
+      "resumo": "Maria José Andrade de Paiva, 52, e seu filho Cícero Andrade de Paiva, 31, morreram em acidente na BR-020, próximo a Formosa, Goiás, no dia 14 de agosto. Os corpos foram transportados de carro até Riachuelo, onde a família reside, chegando na noite de domingo. O velório foi realizado em Porto da Folha, no Alto Sertão sergipano, seguido de sepultamento.",
+      "porQueImporta": "O acidente resultou em duas mortes e mobilizou familiares em duas localidades distintas, evidenciando o impacto de acidentes rodoviários na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/15/terremoto-na-colombia-numero-de-mortos-sobe-para-294.ghtml"
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/08/17/familiares-e-amigos-se-despedem-de-sergipanos-vitimas-de-acidente-em-goias.ghtml"
         }
       ],
-      "updatedAt": "2026-08-16T19:47:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vjiTKZMneLMUunfzFE_MMResgrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/oR5pWJSD23wiZzruHDjA/2026-08-15t183800z-2044037466-rc24zmaf3zum-rtrmadp-3-colombia-quake.jpg"
+      "updatedAt": "2026-08-17T13:13:44.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/un6mqTZeL4rEKtuABti1J15yqXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/h/EVKiEHTGWSg9p4h0Wtng/mae-e-filha.png"
+    },
+    {
+      "clusterId": "8e38b354b456bfe2",
+      "slug": "509774d3d29acbe3",
+      "titulo": "Acidente entre dois veículos deixa dois idosos mortos e cinco feridos na MG-448",
+      "resumo": "Dois carros colidiram na rodovia MG-448, em Santa Bárbara do Tugúrio, por volta das 18h30 de domingo. Um dos veículos invadiu a contramão e colidiu frontalmente com o outro, que seguia em direção a Barbacena. Na colisão, dois idosos, de 65 e 75 anos, faleceram e cinco pessoas ficaram feridas. O veículo que invadiu a contramão transportava quatro ocupantes.",
+      "porQueImporta": "O acidente resultou em vítimas fatais e feridos, demandando resposta de emergência e investigação de causas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/17/batida-entre-dois-carros-deixa-dois-idosos-mortos-e-cinco-feridos-em-santa-barbara-do-tugurio.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-17T13:03:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HQINqPGhBd4IMMbv9wGGRzWcwfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/E/url3veSoiO4ASAAs2SPQ/whatsapp-image-2026-08-17-at-09.35.03.jpeg"
+    },
+    {
+      "clusterId": "5594de7279a89786",
+      "slug": "3fa4bc0af19be9cf",
+      "titulo": "Colisão entre duas motocicletas deixa jovem morto em Ubajara",
+      "resumo": "Na tarde de domingo, duas motocicletas colidiram em sentido contrário na localidade de Nova Veneza, zona rural de Ubajara, Ceará. Um dos condutores perdeu o controle, derrapou e atingiu a outra moto, provocando a morte de um jovem e ferindo o outro, que saiu em busca de socorro. O acidente foi registrado por câmera de segurança.",
+      "porQueImporta": "O caso evidencia riscos de colisões em vias rurais e a importância de atenção ao conduzir veículos de duas rodas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ce/ceara/noticia/2026/08/17/colisao-entre-motocicletas-deixa-jovem-morto-no-ceara-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-17T12:51:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/OPkxGGnqTsSFTMziZ6NQz8sPWuo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/4/LCHeiHSieko7beGIrv9g/acid-ubajara-3.jpg"
+    },
+    {
+      "clusterId": "82ca0fdb6d5480c9",
+      "slug": "61ec403e51a40e70",
+      "titulo": "Acidente grave entre quatro veículos deixa três mortos e dois feridos em Uberlândia",
+      "resumo": "Uma colisão envolvendo dois caminhões, um carro e uma motocicleta ocorreu na rodovia MGC-452, em Uberlândia, Minas Gerais. Três pessoas morreram no local e duas ficaram feridas, permanecendo presas nas ferragens até a chegada dos socorristas. As autoridades foram acionadas para atender as vítimas e remover os veículos. O incidente gerou interdição parcial da via enquanto as equipes de resgate trabalhavam.",
+      "porQueImporta": "O acidente evidencia a necessidade de atenção nas rodovias e mobiliza recursos de emergência para salvar vidas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/acidente-grave-entre-quatro-veiculos-deixa-3-mortos-e-2-feridos-em-mg"
+        }
+      ],
+      "updatedAt": "2026-08-17T12:49:48.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/metadinha-2x-1786968511195.jpg"
+    },
+    {
+      "clusterId": "04811611bb001245",
+      "slug": "f885fc49b8ba1057",
+      "titulo": "Criança de 10 anos fica em estado grave na UTI após deslizamento que matou a mãe em SC",
+      "resumo": "Na madrugada de domingo, um deslizamento de terra soterrou a casa de uma família em Santo Amaro da Imperatriz, SC, matando a mãe da criança, identificada como Katrina Karla do Nascimento dos Passos, de 44 anos. A filha, de 10 anos, foi resgatada ferida e está internada em estado grave na Unidade de Terapia Intensiva do Hospital Infantil Joana de Gusmão, em Florianópolis. O pai da menina, de 49 anos, e um jovem também estavam na residência, mas a situação deles não foi detalhada nas informações divulgadas.",
+      "porQueImporta": "O caso evidencia a vulnerabilidade de áreas sujeitas a deslizamentos e a necessidade de medidas de prevenção e resposta rápida.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/17/crianca-10-anos-ferida-deslizamento-onde-mae-morreu-segue-na-uti.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-17T12:48:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "2cb62e490306d4a7",
+          "slug": "8cd3a8aaa977c872",
+          "titulo": "Rio: 9 dos 10 mortos em acidente de ônibus são identificados",
+          "resumo": "Segundo a Polícia Rodoviária Federal (PRF), o incidente ocorreu por volta das 4h30 e o ônibus sofreu uma queda no Km 91 da BR-040",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/rio-9-dos-10-mortos-em-acidente-de-onibus-sao-identificados"
+            }
+          ],
+          "updatedAt": "2026-08-17T13:20:19.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/whatsapp-image-2026-08-16-at-15-19-37-3x2-1.jpg"
+        },
+        {
+          "clusterId": "fa14d3705fc4864e",
+          "slug": "4cc747ac03060ba9",
+          "titulo": "Acidente na BR-101 deixa homem morto e provoca engarrafamento quilométrico; VÍDEO",
+          "resumo": "Acidente com morte causa engarrafamento quilométrico na BR-101, no Recife Um homem morreu após um acidente de moto no quilômetro 57 da BR-101, no Recife, na manhã desta segunda-feira (17). O corpo da vítima e o veículo ficaram no meio da pista desse trecho da rodovia federal, provocando um engarrafamento quilométrico, como mostram imagens do Globocop exibidas ao vivo no Bom Dia Pernambuco, da TV Globo (veja vídeo acima). O nome e a idade da vítima não foram divulgados. O acidente aconteceu no sentido do Centro de Abastecimento e Logística de Pernambuco (Ceasa), por volta das 5h, horário em…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/08/17/acidente-na-br-101-deixa-homem-morto-e-provoca-engarrafamento-quilometrico-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T12:29:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7kMraqx11VD0pkk-rIsTETWslzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/E/5AxlA4QVeqiBTmH7otvg/moto-7-.jpeg"
+        },
+        {
+          "clusterId": "94e7a2997b333d3e",
+          "slug": "4c0f16a0a8ad1183",
+          "titulo": "Mãe e filho morrem após carro capotar em rodovia de MT",
+          "resumo": "Duas pessoas morreram e outras três ficaram feridas após um carro capotar no km 102 da MT-130, entre Primavera do Leste e Poxoréu, em Mato Grosso. As vítimas que morreram foram identificadas como Tânia e Nikolas Augusto, mãe e filho. Todos estavam no mesmo veículo. Segundo testemunhas, o motorista teria tentado desviar de um cone de sinalização na rodovia e perdeu o controle da direção. O carro saiu da pista e capotou. Tânia estava sem o cinto de segurança e foi arremessada para fora do veículo. Ela morreu ainda no local do acidente. Nikolas ficou preso às ferragens e também não resistiu aos…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/17/mae-e-filho-morrem-apos-carro-capotar-em-rodovia-de-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T12:12:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/pxgkMjqoNi_7cKKoOS8f5Z-t9X0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/J/xbhdhmRaiKY4qZU0IbuA/videos-g1-31-.jpg"
+        },
+        {
+          "clusterId": "0b43d968ac31d63e",
+          "slug": "d2df62d498558f41",
+          "titulo": "Europa arde e premiê francês é vaiado em visita a região devastada por incêndio; veja vídeo",
+          "resumo": "Bélgica, Grécia, Espanha, França e Portugal lutam contra o fogo em meio a nova onda de calor",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/mundo/europa-arde-e-premie-frances-e-vaiado-em-visita-a-regiao-devastada-por-incendio-veja-video/"
+            }
+          ],
+          "updatedAt": "2026-08-17T12:09:02.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/AFP__20260814__C4M66W4__v7__HighRes__TopshotFranceEnvironmentClimateWeatherWildfire.jpg?quality=70&strip=info"
+        },
+        {
+          "clusterId": "2439332c2bad6fad",
+          "slug": "43025701ba848a2c",
+          "titulo": "Onda de calor: Centro-Oeste e Norte devem ter 42ºC, e Sudeste quase 40ºC",
+          "resumo": "Previsão é de que fenômeno se estenda até o dia 20 de agosto; capitais como Cuiabá, Goiânia, Brasília, Palmas e Teresina correm o risco de bater novos recordes de calor",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/brasil/onda-de-calor-centro-oeste-e-norte-devem-ter-42oc-e-sudeste-quase-40oc/"
+            }
+          ],
+          "updatedAt": "2026-08-17T12:03:54.000Z"
+        },
+        {
+          "clusterId": "e27348a1385c64d4",
+          "slug": "e010a64a36879bbe",
+          "titulo": "Casal de cantores gospel morre em acidente na BR-116, em MG",
+          "resumo": "Um casal de cantores gospel morreu em um acidente no último sábado (15) na BR-116, em Orizânia, na Zona da Mata mineira. Segundo apuração da TV Integração, Suzana Silveira Rodrigues, de 46 anos, e Carlos Henrique Fialho Barbosa, de 42 anos, seguiam para um compromisso religioso quando o carro em que estavam bateu de frente com uma carreta. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp Ainda conforme a Polícia Rodoviária Federal (PRF), uma das vítimas, que dirigia o veículo, perdeu o controle da direção, rodou na pista e invadiu a contramão. Chovia no momento do acidente. O…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/17/casal-de-cantores-gospel-morre-em-acidente-na-br-116-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T11:57:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/6XFBu10ZF6mTyREZSM54dStIAVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/USjc9BTpaNBsmLrMgiWA/whatsapp-image-2026-08-17-at-08.17.14.jpeg"
+        },
+        {
+          "clusterId": "8a800386d7555579",
+          "slug": "04d8bcd01d9e53d4",
+          "titulo": "Empresário que dirigia bêbado e matou nutricionista vira réu por homicídio no litoral de SP",
+          "resumo": "Vídeo mostra acidente que matou nutricionista de 25 anos em SP; motorista foi preso A Justiça de Guarujá, no litoral de São Paulo, tornou réu o empresário Murilo Rabello Abite, de 26 anos. Ele é acusado de homicídio culposo e lesão corporal culposa após bater o carro que dirigia contra um poste enquanto estava embriagado. Ele responde em liberdade. A nutricionista Daniella Ferraz Rooth, de 25 anos, morreu no acidente. O veículo transportava outras sete pessoas. O Ministério Público (MP) denunciou Murilo pelo acidente, ocorrido no bairro Pitangueiras, em 18 de julho. Além da morte de Daniella,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/17/empresario-que-dirigia-bebado-e-matou-nutricionista-vira-reu-no-litoral-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T11:56:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8xZJQVH8wpqSuOzM837ICnFBer8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Q/ua40meSNOKIBxuFbycaA/inserir-um-titulo-2026-07-22t110113.692.jpg"
+        },
+        {
+          "clusterId": "974895ef0d09efbe",
+          "slug": "157097fefd8f9bba",
+          "titulo": "VÍDEO: Incêndio de grandes proporções destrói supermercado em Mirador no MA",
+          "resumo": "Incêndio de grandes proporções destrói supermercado no MA Um incêndio de grandes proporções atingiu um supermercado na madrugada de domingo (16), em Mirador, no Maranhão. Segundo o Corpo de Bombeiros Militar do Maranhão (CBMMA), as chamas começaram por volta das 2h30 e destruíram mercadorias, móveis, equipamentos e parte da estrutura do estabelecimento. Ninguém ficou ferido. 📲 Clique aqui e se inscreva no canal do g1 Maranhão no WhatsApp A ocorrência foi atendida por equipes do 18º Batalhão de Bombeiros Militar, sediado em Colinas, a cerca de 46 km de Mirador (Veja o vídeo acima). De acordo…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/08/17/video-incendio-de-grandes-proporcoes-destroi-supermercado-em-mirador-no-ma.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T11:48:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Rmm7EkLIeS7qCajJfyiBt7zA3ZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/P/p9BhsUT6GYODzmdBzYKg/montagens-1920-x-1080-px-2026-08-17t081446.995.jpg"
+        },
+        {
+          "clusterId": "837cfbd6a672cdf4",
+          "slug": "0042d4237ffca723",
+          "titulo": "Morador do DF perde movimentos do corpo após acidente em praia de PE",
+          "resumo": "Morador do DF perde movimentos do corpo após acidente em praia de PE Felipe de Freitas – morador de Águas Claras, no Distrito Federal – perdeu os movimentos do corpo após sofrer um acidente em uma praia de Recife (PE), no último dia 10. Segundo a família, uma onda acertou sua cervical (veja detalhes abaixo). Felipe foi resgatado e levado para a UTI de um hospital da capital pernambucana. Ele passou por uma cirurgia na sexta-feira (14) e deixou a UTI no domingo (16), mas segue internado. O laudo médico pede que a família permaneça em Recife para prestar apoio. A irmã dele, Paula Torres, relata…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/17/morador-do-df-perde-movimentos-do-corpo-apos-acidente-em-praia-de-pe.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T11:45:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/luhUpakK6_TgnqraJVDXPk9ystE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/u/GX7gciSs6g8yJXrq2K4Q/imagens-g1-2026-08-17t080942.864.png"
+        },
+        {
+          "clusterId": "26faa056bf42475f",
+          "slug": "4a1570367feac443",
+          "titulo": "Deslizamento na Coreia do Sul deixa um morto em meio a fortes chuvas",
+          "resumo": "Rios transbordaram e estradas ficaram alagadas, interrompendo tráfego e deixando moradores ilhados",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/deslizamento-na-coreia-do-sul-deixa-morto-em-meio-a-fortes-chuvas/"
+            }
+          ],
+          "updatedAt": "2026-08-17T11:11:30.000Z"
+        },
+        {
+          "clusterId": "b3c1724051bae3c1",
+          "slug": "7a4af0cf86847f69",
+          "titulo": "Ucrânia lança quase 900 drones contra a Rússia e ataque mata seis pessoas",
+          "resumo": "A Ucrânia enviou centenas de drones contra a Rússia neste domingo, sendo que o Ministério da Defesa russo informou ter abatido 822 deles durante a noite. Cerca de 600 drones foram detectados em direção a Moscou, com um terço destruído na região da capital. O ataque resultou em pelo menos seis mortes, incluindo vítimas em um galpão da Wildberries que pegou fogo. As autoridades russas relataram que a maioria dos drones foi interceptada antes de alcançar alvos críticos.",
+          "porQueImporta": "O incidente evidencia a escalada da guerra aérea entre Ucrânia e Rússia, afetando civis e infraestrutura urbana.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/16/ucrania-lanca-um-dos-maiores-ataques-aereos-da-guerra-e-deixa-mortos-na-russia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-16T09:28:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/egDwZ6eFLKGhQUfAy6KnVXtfaN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/K/rdVIW9QKOFKlPlO60BBg/2026-08-16t090834z-1069700491-rc2ezma4clah-rtrmadp-3-ukraine-crisis-russia-wildberries-moscow.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "0241c04bbc4d5273",
+          "slug": "32716746ccbe6b7e",
+          "titulo": "Bebê de cinco meses morre após carro colidir com poste em Rinópolis (SP)",
+          "resumo": "Na noite de sábado, uma bebê de cinco meses foi socorrada após o carro que a transportava colidir com um poste em Rinópolis, interior de São Paulo. A motorista, de 25 anos, relatou que perdeu o controle ao se dirigir à sogra. A criança foi levada ao hospital, mas não resistiu aos ferimentos e faleceu. O acidente ocorreu por volta das 21h23, segundo a Polícia Civil.",
+          "porQueImporta": "O caso evidencia riscos de acidentes de trânsito envolvendo crianças pequenas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/17/bebe-de-5-meses-morre-apos-carro-atingir-poste-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T13:15:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EN59-qfgRY3rRrpjXrz6NJHx0Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/g/tI777xR7Kfndqldj94Zw/g1-2026-08-17t094144.008.png"
+        },
+        {
+          "clusterId": "07726bc54fe5c499",
+          "slug": "8bc007cb4a251a96",
+          "titulo": "Família se despede de vítimas de acidente na BR-020 em Goiás",
+          "resumo": "Maria José Andrade de Paiva, 52, e seu filho Cícero Andrade de Paiva, 31, morreram em acidente na BR-020, próximo a Formosa, Goiás, no dia 14 de agosto. Os corpos foram transportados de carro até Riachuelo, onde a família reside, chegando na noite de domingo. O velório foi realizado em Porto da Folha, no Alto Sertão sergipano, seguido de sepultamento.",
+          "porQueImporta": "O acidente resultou em duas mortes e mobilizou familiares em duas localidades distintas, evidenciando o impacto de acidentes rodoviários na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/08/17/familiares-e-amigos-se-despedem-de-sergipanos-vitimas-de-acidente-em-goias.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T13:13:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/un6mqTZeL4rEKtuABti1J15yqXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/h/EVKiEHTGWSg9p4h0Wtng/mae-e-filha.png"
+        },
+        {
+          "clusterId": "8e38b354b456bfe2",
+          "slug": "509774d3d29acbe3",
+          "titulo": "Acidente entre dois veículos deixa dois idosos mortos e cinco feridos na MG-448",
+          "resumo": "Dois carros colidiram na rodovia MG-448, em Santa Bárbara do Tugúrio, por volta das 18h30 de domingo. Um dos veículos invadiu a contramão e colidiu frontalmente com o outro, que seguia em direção a Barbacena. Na colisão, dois idosos, de 65 e 75 anos, faleceram e cinco pessoas ficaram feridas. O veículo que invadiu a contramão transportava quatro ocupantes.",
+          "porQueImporta": "O acidente resultou em vítimas fatais e feridos, demandando resposta de emergência e investigação de causas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/17/batida-entre-dois-carros-deixa-dois-idosos-mortos-e-cinco-feridos-em-santa-barbara-do-tugurio.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T13:03:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HQINqPGhBd4IMMbv9wGGRzWcwfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/E/url3veSoiO4ASAAs2SPQ/whatsapp-image-2026-08-17-at-09.35.03.jpeg"
+        },
+        {
+          "clusterId": "5594de7279a89786",
+          "slug": "3fa4bc0af19be9cf",
+          "titulo": "Colisão entre duas motocicletas deixa jovem morto em Ubajara",
+          "resumo": "Na tarde de domingo, duas motocicletas colidiram em sentido contrário na localidade de Nova Veneza, zona rural de Ubajara, Ceará. Um dos condutores perdeu o controle, derrapou e atingiu a outra moto, provocando a morte de um jovem e ferindo o outro, que saiu em busca de socorro. O acidente foi registrado por câmera de segurança.",
+          "porQueImporta": "O caso evidencia riscos de colisões em vias rurais e a importância de atenção ao conduzir veículos de duas rodas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ce/ceara/noticia/2026/08/17/colisao-entre-motocicletas-deixa-jovem-morto-no-ceara-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T12:51:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OPkxGGnqTsSFTMziZ6NQz8sPWuo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/4/LCHeiHSieko7beGIrv9g/acid-ubajara-3.jpg"
+        },
+        {
+          "clusterId": "82ca0fdb6d5480c9",
+          "slug": "61ec403e51a40e70",
+          "titulo": "Acidente grave entre quatro veículos deixa três mortos e dois feridos em Uberlândia",
+          "resumo": "Uma colisão envolvendo dois caminhões, um carro e uma motocicleta ocorreu na rodovia MGC-452, em Uberlândia, Minas Gerais. Três pessoas morreram no local e duas ficaram feridas, permanecendo presas nas ferragens até a chegada dos socorristas. As autoridades foram acionadas para atender as vítimas e remover os veículos. O incidente gerou interdição parcial da via enquanto as equipes de resgate trabalhavam.",
+          "porQueImporta": "O acidente evidencia a necessidade de atenção nas rodovias e mobiliza recursos de emergência para salvar vidas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/acidente-grave-entre-quatro-veiculos-deixa-3-mortos-e-2-feridos-em-mg"
+            }
+          ],
+          "updatedAt": "2026-08-17T12:49:48.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/metadinha-2x-1786968511195.jpg"
+        },
+        {
+          "clusterId": "b88face9082a5ad1",
+          "slug": "d0c2c78ca8c5d9b4",
+          "titulo": "Motociclista de 25 anos morre em colisão frontal na BR-365 em Montes Claros",
+          "resumo": "Um motociclista de 25 anos colidiu frontalmente com um carro na BR-365, no km 10, em Montes Claros, ao invadir a contramão. A vítima foi intubada no local, mas não resistiu aos ferimentos. A Polícia Rodoviária Federal informou que o automóvel seguia em direção a Pirapora e a moto em direção a Montes Claros. O Samu registrou o atendimento ao acidente.",
+          "porQueImporta": "O acidente evidencia riscos de trânsito em rodovias estaduais e a necessidade de atenção ao tráfego em sentido contrário.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/17/motociclista-e-intubado-apos-acidente-na-br-365-mas-nao-resiste-aos-ferimentos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T12:33:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MF--e2AimHO2_B4tAhpSlALAdms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/BnAyjCTAiY5W11ZwL32Q/edicao-imagens-g1.png"
+        },
+        {
+          "clusterId": "fcef4965f14ed7d1",
+          "slug": "b53b6ec59f8e0dd5",
+          "titulo": "Batida frontal entre dois carros deixa duas pessoas feridas em Santo Antônio do Aracanguá",
+          "resumo": "Na manhã de segunda‑feira, dois veículos colidiram frontalmente na Rodovia Eliéser Montenegro Magalhães (SP‑463), em Santo Antônio do Aracanguá (SP). Um dos automóveis pegou fogo logo após o impacto e foi consumido pelas chamas. As duas vítimas foram socorridas e encaminhadas ao pronto‑socorro municipal. Até o momento, não há informações sobre vítimas fatais.",
+          "porQueImporta": "Acidentes com incêndio podem gerar risco de lesões graves e demandam resposta rápida dos serviços de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/17/batida-frontal-entre-carros-deixa-feridos-em-santo-antonio-do-aracangua.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-17T12:15:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yXnimmlY1qv5SkI0mfjfObH_V9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/E/GDRKNHSxa0pALdXbZieA/design-sem-nome-81-.jpg"
+        }
+      ]
+    },
     {
       "slug": "terremoto",
       "label": "Terremoto",
@@ -277,93 +585,11 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "70f3f1eb9cf228c9",
-          "slug": "16bfabb15b21856f",
-          "titulo": "Acidente de ônibus de turismo deixa 10 mortos e dezenas de feridos em Petrópolis",
-          "resumo": "Um ônibus de turismo que partiu de Belo Horizonte com destino a Copacabana tombou na madrugada de domingo na BR-040, em Petrópolis, na Região Serrana do Rio. Dez pessoas morreram e quase 40 ficaram feridas. A concessionária informou que havia 56 pessoas a bordo, incluindo motorista e ajudantes. A ANTT constatou que o veículo não possuía autorização para transporte interestadual de passageiros.",
-          "porQueImporta": "O acidente evidencia riscos de transporte clandestino e a necessidade de fiscalização adequada.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/agencia-aponta-transporte-clandestino-de-passageiros-em-acidente-que-matou-dez-pessoas-no-rio/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-acidente-de-onibus-de-turismo-que-deixou-10-mortos-no-rj/"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/17/acidente-de-onibus-em-petropolis-veja-o-que-se-sabe-sobre-tombamento-que-deixou-10-mortos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-17T06:34:40.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/serrapetropolis.jpg?quality=70&strip=info"
-        },
-        {
-          "clusterId": "e1addf1df039af1e",
-          "slug": "d056d5098b6d717c",
-          "titulo": "Acidente entre carretas causa explosão e deixa 4 mortos na BR-163, em MS",
-          "resumo": "Um acidente envolvendo duas carretas e três veículos de passeio na BR-163, em Bandeirantes, a 70 km de Campo Grande, resultou em quatro mortes e seis feridos. A colisão frontal ocorreu no km 569, no sentido norte da rodovia, e uma das carretas transportava produto perigoso que provocou uma explosão. A rodovia foi interditada nos dois sentidos durante o atendimento. A polícia ainda não divulgou a natureza da carga.",
-          "porQueImporta": "O incidente destaca os riscos de transporte de produtos perigosos em rodovias de tráfego intenso.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/16/acidente-entre-carretas-causa-explosao-e-deixa-mortos-na-br-163-em-ms.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-17T00:28:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6xHTDKf1ZZsJohxqcoFJqI1reS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/C/0vuqkUSAirtVnfBEd5dQ/br-163-acidente.jpg"
-        },
-        {
-          "clusterId": "f9f41480eb683be6",
-          "slug": "9911a3a970747399",
-          "titulo": "Cinco feridos em colisão entre caminhão e três carros na BR-153 em Uruaçu, Goiás",
-          "resumo": "Um caminhão colidiu com três automóveis na BR-153, na zona rural de Uruaçu, neste domingo. O acidente envolveu oito pessoas, resultando em cinco feridos que foram transportados por ambulâncias do Corpo de Bombeiros e da concessionária Ecovias do Araguaia ao Hospital do Centro-Norte Goiano. O acidente ocorreu por volta das 14h20, na altura do km 206. As autoridades foram acionadas para prestar apoio no atendimento.",
-          "porQueImporta": "O incidente evidencia riscos de tráfego em rodovias rurais e a necessidade de resposta rápida dos serviços de emergência.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/08/16/oito-pessoas-ficam-feridas-apos-batida-entre-caminhao-e-tres-carros-na-br-153-em-goias.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-16T23:20:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lO1JKGEqp2BlrQb7OpiTdBLK3Ec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/R/ezLI7pTAiiye5e69U4eg/copia-de-copia-de-padrao-foto-g1-goias-6-.jpg"
-        }
-      ]
-    },
-    {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "8690bee3c1926282",
-          "slug": "ed9678bb3bdf9301",
-          "titulo": "Previsão de onda de calor e risco de granizo no Rio Grande do Sul",
-          "resumo": "A Climatempo indica que a onda de calor deve durar até quinta‑feira, com temperaturas entre 32°C e 34°C nas regiões Noroeste e Oeste do estado. A frente fria que avançava na segunda‑feira pode gerar instabilidade e possibilidade de granizo nos próximos dias. As mínimas registradas no domingo variaram de 12°C a 21°C, enquanto as máximas ficaram entre 16°C e 33°C.",
-          "porQueImporta": "Condições climáticas extremas podem impactar a população e demandar ações da Defesa Civil.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/17/onda-de-calor-e-chances-de-granizo-semana-comeca-com-previsao-de-chuva-no-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-17T03:00:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Epj6hpnwzh4vI2qotnF-LOY4OTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/Jul4IgQyaKO7hWhQQHXA/95d722e7-95c7-4456-8268-c799d87890ca.jpg"
-        },
-        {
-          "clusterId": "6dec72b19f4e0705",
+          "clusterId": "b85c2730bb55c9ee",
           "slug": "991cf11ab0cac263",
           "titulo": "Tempestade tropical Lala se transforma em furacão de categoria 1 e avança sobre o Havaí",
           "resumo": "A tempestade tropical Lala foi reclassificada como furacão de categoria 1 neste sábado, segundo o Serviço Nacional de Meteorologia dos Estados Unidos. O furacão apresenta ventos de cerca de 120 km/h e segue em direção ao arquipélago do Havaí. O boletim meteorológico foi divulgado às 10h horário local, equivalente a 16h em Brasília.",
@@ -374,50 +600,47 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/08/15/tempestade-lala-se-torna-furacao-e-avanca-sobre-o-havai-com-ventos-de-120-kmh.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-15T21:15:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "cd0d5edc44831cb5",
-          "slug": "5787a36545f30188",
-          "titulo": "Casal suspeito de sequestrar bebê Ayla em Campo Grande é composto por mãe de três filhos e foragido por homicídio de adolescente",
-          "resumo": "Suzilaine da Graça Costa, mãe de três filhos, teria fingido gravidez e participado do sequestro da bebê Ayla Emanuelly, em Campo Grande. Alex Melo de Abreu, seu marido, estava foragido após ser condenado a mais de 11 anos por homicídio de adolescente em acidente de trânsito. Ambos foram apontados pela Polícia Civil como suspeitos do caso. A investigação indica que a mentira sobre gravidez teria sido mantida perante a família.",
-          "porQueImporta": "O caso envolve crime de sequestro e a presença de um foragido violento, gerando preocupação de segurança pública",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
+            },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/16/mae-de-3-filhos-e-foragido-por-matar-adolescente-quem-e-o-casal-preso-por-sequestrar-bebe-ayla-em-ms.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/mais-de-120-mil-seguem-sem-energia-no-havai-apos-furacao-causar-destruicao/"
             }
           ],
-          "updatedAt": "2026-08-16T23:47:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bwXhTI0Cq1hU4apo0NBnFMQm_3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/O/QaGTsSSZC7hKnDbp8bOw/canva-2026-08-09t150711.643.png"
+          "updatedAt": "2026-08-17T12:46:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
         },
         {
-          "clusterId": "b3c1724051bae3c1",
-          "slug": "7a4af0cf86847f69",
-          "titulo": "Ucrânia lança quase 900 drones contra a Rússia e ataque mata seis pessoas",
-          "resumo": "A Ucrânia enviou centenas de drones contra a Rússia neste domingo, sendo que o Ministério da Defesa russo informou ter abatido 822 deles durante a noite. Cerca de 600 drones foram detectados em direção a Moscou, com um terço destruído na região da capital. O ataque resultou em pelo menos seis mortes, incluindo vítimas em um galpão da Wildberries que pegou fogo. As autoridades russas relataram que a maioria dos drones foi interceptada antes de alcançar alvos críticos.",
-          "porQueImporta": "O incidente evidencia a escalada da guerra aérea entre Ucrânia e Rússia, afetando civis e infraestrutura urbana.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "411cdc82bce66c77",
+          "slug": "dd30005efc2f4104",
+          "titulo": "Ciclone extratropical vai atingir região do Brasil com tempestades e ventos de até 100 km/h",
+          "resumo": "Um ciclone extratropical se aproxima da costa brasileira, trazendo tempestades e ventos que podem chegar a 100 km/h. A região Sul do país deve registrar chuvas intensas e queda nas temperaturas ainda nesta semana. As autoridades alertam para possíveis interrupções em serviços e riscos de alagamentos em áreas baixas.",
+          "porQueImporta": "O fenômeno pode causar transtornos e riscos à população e infraestrutura local.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/16/ucrania-lanca-um-dos-maiores-ataques-aereos-da-guerra-e-deixa-mortos-na-russia.ghtml"
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/agenda-verde/ciclone-extratropical-vai-atingir-regiao-do-brasil-com-tempestades-e-ventos-de-ate-100-km-h/"
             }
           ],
-          "updatedAt": "2026-08-16T09:28:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/egDwZ6eFLKGhQUfAy6KnVXtfaN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/K/rdVIW9QKOFKlPlO60BBg/2026-08-16t090834z-1069700491-rc2ezma4clah-rtrmadp-3-ukraine-crisis-russia-wildberries-moscow.jpg"
+          "updatedAt": "2026-08-17T13:21:51.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/09/GettyImages-523709228.jpg?quality=70&strip=info"
+        },
+        {
+          "clusterId": "d953ebed68b6bd2b",
+          "slug": "908957a150a513b3",
+          "titulo": "Rio Grande do Sul inicia semana com alerta para forte tempestade",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta de risco de alagamentos, transbordamento de rios e deslizamentos no Rio Grande do Sul devido a uma forte tempestade prevista para a semana. As demais regiões do país deverão enfrentar calor e baixa umidade. As autoridades recomendam atenção redobrada e medidas preventivas. O alerta foi divulgado no início da semana.",
+          "porQueImporta": "O alerta indica risco imediato de danos e necessidade de preparação da população.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-sustentavel/rio-grande-do-sul-inicia-semana-com-alerta-para-forte-tempestade/"
+            }
+          ],
+          "updatedAt": "2026-08-17T13:18:09.000Z"
         }
       ]
     },
@@ -466,24 +689,20 @@
       "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "6634ebc74ed7ba01",
-          "slug": "b81f7d89196f0a14",
-          "titulo": "Chuva forte causa morte e deslizamento em Santo Amaro da Imperatriz",
-          "resumo": "Uma forte chuva provocou um deslizamento de terra que atingiu uma casa em Santo Amaro da Imperatriz, na região metropolitana de Florianópolis, resultando em um óbito. O evento também gerou estragos em pelo menos dez cidades de Santa Catarina. Duas cidades declararam estado de emergência no estado.",
-          "porQueImporta": "O incidente destaca a vulnerabilidade das áreas urbanas a eventos climáticos extremos e a necessidade de medidas de prevenção e resposta rápida.",
+          "clusterId": "04811611bb001245",
+          "slug": "f885fc49b8ba1057",
+          "titulo": "Criança de 10 anos fica em estado grave na UTI após deslizamento que matou a mãe em SC",
+          "resumo": "Na madrugada de domingo, um deslizamento de terra soterrou a casa de uma família em Santo Amaro da Imperatriz, SC, matando a mãe da criança, identificada como Katrina Karla do Nascimento dos Passos, de 44 anos. A filha, de 10 anos, foi resgatada ferida e está internada em estado grave na Unidade de Terapia Intensiva do Hospital Infantil Joana de Gusmão, em Florianópolis. O pai da menina, de 49 anos, e um jovem também estavam na residência, mas a situação deles não foi detalhada nas informações divulgadas.",
+          "porQueImporta": "O caso evidencia a vulnerabilidade de áreas sujeitas a deslizamentos e a necessidade de medidas de prevenção e resposta rápida.",
           "categoria": "Deslizamento",
           "categoriaSlug": "deslizamento",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/chuva-forte-deixa-um-morto-e-causa-estragos-em-ao-menos-10-cidades-de-sc/"
-            },
-            {
               "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/17/apos-estragos-morte-chuva-sc-tera-sol-e-calor-com-maximas-de-32c.ghtml"
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/17/crianca-10-anos-ferida-deslizamento-onde-mae-morreu-segue-na-uti.ghtml"
             }
           ],
-          "updatedAt": "2026-08-17T07:00:38.000Z",
+          "updatedAt": "2026-08-17T12:48:45.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
         }
       ]
@@ -493,43 +712,44 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "2ea24e4e533fd843",
-          "slug": "006f69bcb630bb90",
-          "titulo": "Incêndio em casa de Engenheiro Coelho deixa três crianças feridas",
-          "resumo": "Uma casa em Engenheiro Coelho (SP) pegou fogo por volta das 3h de domingo, deixando três crianças feridas. A mãe, de 29 anos, admitiu à polícia que deixou os filhos sozinhos para ir a um forró em cidade vizinha. Uma menina de 9 anos sofreu queimaduras nas mãos, braço e pernas, enquanto o irmão gêmeo e outra irmã de 5 anos foram atendidos por inalação de fumaça. A mulher foi presa por abandono de incapaz.",
-          "porQueImporta": "O caso evidencia risco de abandono de menores e necessidade de prevenção de incêndios domésticos.",
+          "clusterId": "8a896b3b3c0fc0a2",
+          "slug": "780560a37b7931b7",
+          "titulo": "Incêndio consome caminhão com carga de pepinos na BR-251",
+          "resumo": "Um caminhão que transportava pepinos pegou fogo na BR-251, próximo ao km 517, em Montes Claros, neste domingo. O incêndio destruiu o veículo e se espalhou para a vegetação nas margens da rodovia. Não foram registradas vítimas. As causas do fogo não foram informadas.",
+          "porQueImporta": "O incidente interrompeu o tráfego e evidencia riscos de incêndio em rodovias rurais",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/17/mae-admite-que-deixou-3-criancas-sozinhas-em-casa-com-vela-acesa-para-ir-a-forro-menina-se-feriu-em-incendio.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/17/incendio-consome-caminhao-e-carga-de-pepinos-na-br-251.ghtml"
             }
           ],
-          "updatedAt": "2026-08-17T05:00:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JTAUrxPWgK1dVQq7ycmF2lX9KTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/tBD27CSwKbQsmFqBovOQ/design-sem-nome-30-.png"
+          "updatedAt": "2026-08-17T12:18:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/waWUuqWBomXWWWCkxisWHmIPT6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/c/87WaHlR8G4mH9US2eUoQ/whatsapp-image-2026-08-16-at-19.42.28-1-1-.jpeg"
         }
       ]
     },
     {
-      "slug": "calor",
-      "label": "Calor",
+      "slug": "afogamento",
+      "label": "Afogamento",
       "stories": [
         {
-          "clusterId": "c710ba92d9d28dad",
-          "slug": "26773190315c30a9",
-          "titulo": "Brasil enfrenta nova onda de calor extremo entre 15 e 20 de agosto",
-          "resumo": "Nos próximos dias, entre 15 e 20 de agosto, o país deverá passar por uma nova onda de calor com temperaturas previstas entre 39°C e 42°C. A previsão indica que o calor será extremo em várias regiões do território nacional.",
-          "porQueImporta": "O calor intenso pode gerar riscos à saúde e sobrecarga nos sistemas de energia e água",
-          "categoria": "Calor",
-          "categoriaSlug": "calor",
+          "clusterId": "5190ca3a91da3e2b",
+          "slug": "51060c8504ec33de",
+          "titulo": "Dois homens morrem afogados em tanques na zona rural de Conceição do Coité",
+          "resumo": "Em 24 horas, dois casos de afogamento foram registrados em tanques na zona rural de Conceição do Coité, Bahia. O primeiro homem foi encontrado morto dentro de um tanque na manhã de sábado, após ter sido visto pescando na tarde de sexta-feira. No domingo, outro corpo foi localizado em outro tanque da mesma região. Ambos os óbitos foram confirmados pelas autoridades locais.",
+          "porQueImporta": "Os acidentes ressaltam riscos de segurança em áreas rurais e a necessidade de prevenção de afogamentos.",
+          "categoria": "Afogamento",
+          "categoriaSlug": "afogamento",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/nova-onda-de-calor-deve-atingir-o-brasil-nos-proximos-dias-veja-previsao/"
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/17/afogamentos-cidade-bahia.ghtml"
             }
           ],
-          "updatedAt": "2026-08-16T23:00:08.000Z"
+          "updatedAt": "2026-08-17T12:17:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XNK3mafbmYJHgVz398jRNwfvlak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/V/LATUAeSsCdDpfJFCS4IA/edimilsson-2026-08-17t085703.843.png"
         }
       ]
     },
