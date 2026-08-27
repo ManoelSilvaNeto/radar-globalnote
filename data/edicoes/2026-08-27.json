@@ -1,12 +1,33 @@
 {
   "date": "2026-08-27",
-  "generatedAt": "2026-08-27T10:11:02.664Z",
+  "generatedAt": "2026-08-27T22:31:02.249Z",
   "home": [
     {
-      "clusterId": "0dfc357163e98a9a",
+      "clusterId": "01a9c089aa93413f",
+      "slug": "adc940327683fa5e",
+      "titulo": "Inmet emite alerta de tempestade e vendaval em 738 municípios",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) alertou 675 municípios do Rio Grande do Sul, partes de Paraná e Santa Catarina para tempestades com chuvas de até 100 milímetros. Em Mato Grosso do Sul, 63 cidades receberam alerta amarelo para vendaval, com ventos previstos entre 40 e 60 quilômetros por hora. Os alertas foram emitidos a partir da noite desta quinta-feira (27).",
+      "porQueImporta": "O alerta indica risco de inundações e danos estruturais nas regiões afetadas.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/27/ms-tem-63-cidades-em-alerta-para-vendaval-com-ventos-de-ate-60-kmh-veja-onde.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/inmet-emite-alerta-de-perigo-para-tempestades-para-675-municipios-de-3-estados-veja-cidades/"
+        }
+      ],
+      "updatedAt": "2026-08-27T21:38:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KCzAo4NuLRtAgAmF_21DR76tmLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/K/xrZnIyTGqE4vtMQM9d0A/alerta-vendaval.jpg"
+    },
+    {
+      "clusterId": "2321be9e3057d431",
       "slug": "faf869c29d637246",
-      "titulo": "Em 2015, Nepal sofreu com ‘o pior terremoto em mais de 80 anos’ até então; número de mortos passou de 8,5 mil",
-      "resumo": "ID: 14905236 China e Nepal enfrentaram a fúria da natureza. Nesta quarta-feira (26), o Jornal Nacional mostrou que uma avalanche de gelo, pedra e lama provocou uma enxurrada que varreu vilarejos na fronteira entre os dois países. Os vales em “V” fizeram com que avalanche ganhasse ainda mais força, como em um funil. As causas desse desastre ainda estão sendo investigadas. O Centro Geológico dos EUA explicou que, na verdade, não teve terremoto. É que o deslizamento foi tão forte que os sensores registraram o impacto como se tivesse havido um tremor. Este texto e o vídeo acima são parte da série…",
+      "titulo": "Buscas por vítimas de avalanche no Nepal entram no 2º dia com cerca de 1.500 desaparecidos",
+      "resumo": "Avalanche no Nepal e Tibete: o que se sabe sobre a tragédia Equipes de resgate entraram no segundo dia de buscas nesta quarta-feira (26) por cerca de 1.500 pessoas desaparecidas após uma avalanche de água, gelo, lama e rochas atingir uma região montanhosa na fronteira entre o Nepal e a China. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Até a última atualização desta reportagem, as autoridades confirmavam mais de 300 mortos. Além disso, 577 turistas estão desaparecidos no território nepalês, a maioria deles estrangeiros. No Tibete, há ainda 558 desaparecidos. Vilarejos inteiros…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
@@ -17,177 +38,150 @@
         },
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/as-causas-da-inundacao-repentina-que-matou-ao-menos-270-pessoas-no-nepal-e-tibete/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/ce3rz25qeqdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-270-o-numero-de-mortos-em-enchentes-no-nepal/"
+          "url": "https://veja.abril.com.br/mundo/video-funcionario-de-hidreletrica-filma-fuga-de-avalanche-de-lama-no-nepal/"
         }
       ],
-      "updatedAt": "2026-08-27T09:48:15.000Z",
+      "updatedAt": "2026-08-27T21:26:16.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/OreBKLPKCjrWqyCbfzDZ_kFDF54=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/v/BF8MBYSqOCGBBRPyOsgA/rio.gif"
     },
     {
-      "clusterId": "b85515f0747d20e2",
-      "slug": "7d450e7297e4ba0d",
-      "titulo": "Incêndio em prédio na zona norte do Rio deixa dois mortos e dez feridos",
-      "resumo": "Um incêndio atingiu um prédio residencial na Rua do Bonfim, em São Cristóvão, na noite de quarta-feira. O fogo começou na borracharia do térreo e foi controlado por volta das 23h20. Dois homens foram encontrados sem vida e dez pessoas ficaram feridas, sendo quatro já altas. O Corpo de Bombeiros e a 17ª DP investigam as circunstâncias.",
-      "porQueImporta": "O incidente resultou em mortes e feridos, evidenciando riscos de incêndios em áreas urbanas densamente povoadas.",
+      "clusterId": "5c7ceb8d66759b5f",
+      "slug": "be48bbc4876af7ab",
+      "titulo": "Incêndio de grandes proporções atinge fábrica de pneus em Palmital e fábrica de tintas em Guarulhos",
+      "resumo": "Em Palmital, SP, um incêndio de grandes proporções começou em carcaças de pneus armazenadas na área externa e se espalhou para o barracão principal da fábrica, sem feridos. Em Guarulhos, um incêndio atingiu uma fábrica de tintas, com cerca de 14 viaturas empenhadas e sem registro de vítimas até o momento.",
+      "porQueImporta": "O fogo pode comprometer a produção e a segurança dos trabalhadores, além de representar risco ambiental.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/27/incendio-em-sao-cristovao.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-incendio-de-grandes-proporcoes-atinge-fabrica-de-tintas-em-guarulhos/"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/incendio-em-predio-deixa-dois-mortos-e-nove-feridos-na-zona-norte-do-rio/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/dois-morrem-e-10-ficam-feridos-em-incendio-no-rio-de-janeiro"
-        }
-      ],
-      "updatedAt": "2026-08-27T10:06:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bOT9N1FdM-usq6XWpN3K73-0NxM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/y/O9bN5WRhKdQfZolCAZOA/27fogo2.jpeg"
-    },
-    {
-      "clusterId": "883b5903d202f091",
-      "slug": "9ea537d5a683644a",
-      "titulo": "Deslizamentos no Nepal criam novo lago que pode causar segundo desastre",
-      "resumo": "Chuva intensa de três dias e desmoronamento de barragens de terra aumentaram a ameaça de deslizamentos, inundações e fluxos de lama. O acúmulo de água formou um lago novo, cuja ruptura pode desencadear um segundo desastre. Autoridades monitoram a situação para avaliar o risco de inundação em áreas próximas.",
-      "porQueImporta": "O potencial de um segundo desastre pode agravar perdas humanas e materiais em regiões já vulneráveis.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/deslizamentos-no-nepal-criam-novo-lago-que-pode-causar-segundo-desastre/"
-        }
-      ],
-      "updatedAt": "2026-08-27T10:01:01.000Z"
-    },
-    {
-      "clusterId": "f9e41be9471e95e9",
-      "slug": "6c976498dd305533",
-      "titulo": "Avalanche de lama destrói usina hidrelétrica na fronteira do Nepal com o Tibete",
-      "resumo": "Uma avalanche de lama atingiu uma usina hidrelétrica na fronteira do Nepal com o Tibete, causando destruição em vários locais. Um funcionário da usina, Vivek Shrestha, registrou a fuga desesperada de colegas em vídeo e postou nas redes sociais. O vídeo mostra a inundação se aproximando e a força da água, antes dos trabalhadores evacuarem.",
-      "porQueImporta": "O incidente destaca a vulnerabilidade de infraestruturas críticas a desastres naturais na região.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/27/avalanche-lama-nepal-tibete-funcionario-hidreletrica-fuga-desesperada-video.ghtml"
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/27/incendio-de-grandes-proporcoes-atinge-fabrica-de-pneus-no-interior-de-sp.ghtml"
         }
       ],
-      "updatedAt": "2026-08-27T09:59:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/voO79-_CQx_M4nQfBfrbfeBI9hk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/g/qVOiHISnqnCQ0qbwqPZw/ezgif.com-gif-maker-21-.gif"
+      "updatedAt": "2026-08-27T21:16:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/stkhc6mWYSZJ4QyAar_JOD5HKzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/L/UHvan5SEykRz4kzoBKOA/design-sem-nome-10-.png"
     },
     {
-      "clusterId": "127728ab158e2715",
-      "slug": "8f97fea22db80018",
-      "titulo": "Primeiro-ministro da China visita área devastada por enchente no Tibete",
-      "resumo": "O primeiro-ministro Li Qiang chegou à cidade de Gyirong para acompanhar equipes de resgate e atender pessoas desalojadas após a enchente que atingiu a fronteira com o Nepal. A visita tem como objetivo avaliar a situação e apoiar as ações de recuperação. A região sofreu danos significativos à infraestrutura e à comunidade local.",
-      "porQueImporta": "A presença do chefe do Estado demonstra a importância do desastre para a China e a necessidade de assistência internacional.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/primeiro-ministro-da-china-visita-area-devastada-por-enchente-no-tibete/"
-        }
-      ],
-      "updatedAt": "2026-08-27T09:54:20.000Z"
-    },
-    {
-      "clusterId": "97e1b6daa277319d",
-      "slug": "b43e474c12f2c662",
-      "titulo": "Homem morre após colisão entre duas motos na PB",
-      "resumo": "Um homem, identificado como Genivaldo Souza dos Santos, morreu no local de um acidente envolvendo duas motocicletas na rodovia estadual entre Nova Palmeira e Picuí, na Paraíba. O outro motociclista ficou ferido e foi socorrido para o Hospital de Trauma. O acidente ocorreu na tarde de quarta-feira.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança nas rodovias estaduais.",
+      "clusterId": "a76c03b195f9e490",
+      "slug": "211db12eb02a4a79",
+      "titulo": "Duas pessoas morrem em acidente envolvendo duas motos e um carro no Piauí",
+      "resumo": "Um acidente de trânsito ocorreu em Baixa Grande do Ribeiro, no Sul do Piauí, envolvendo duas motocicletas e um carro. O veículo teria atingido uma das motos, que colidiu com a outra. As vítimas fatais foram identificadas como Manoel Barros de Sousa, de 72 anos, e Idelto de Moura Araújo, de 54 anos. A Polícia Militar está conduzindo a investigação.",
+      "porQueImporta": "O incidente destaca a gravidade dos acidentes de trânsito na região e a necessidade de atenção à segurança viária.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/27/homem-morre-apos-colisao-entre-duas-motos-na-pb.ghtml"
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/27/pessoas-morrem-acidente.ghtml"
         }
       ],
-      "updatedAt": "2026-08-27T09:50:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/YIiD8BE6gCGTaxpx0EW9X7KmNlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/E/08WRJHRBiOHpIWPns6UA/tvcbacidente.jpg"
+      "updatedAt": "2026-08-27T22:06:57.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/9DeX0ICdLR6KDM15un_dVdma28g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/A/tXBBWHT5KRsAe6Zd9Gqg/edicao-imagens-g1-61-.png"
     },
     {
-      "clusterId": "5c8a3698dca5cda9",
-      "slug": "f0189832629662cc",
-      "titulo": "Caminhão-tanque pega fogo na MG-010 e motorista morre carbonizado",
-      "resumo": "Um caminhão-tanque transportando combustível pegou fogo na MG-010, próximo a Vespasiano, na Grande BH. O veículo foi completamente incendiado e o motorista ficou preso na cabine, morrendo carbonizado. As chamas eram intensas o suficiente para serem vistas de longe. Motoristas testemunharam o acidente e registraram imagens.",
-      "porQueImporta": "O incidente destaca os riscos de transporte de combustíveis em estradas urbanas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/noticia/2026/08/27/caminhao-tanque-pega-fogo-na-mg-010-na-grande-bh-e-motorista-morre-carbonizado.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-27T09:25:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/pjA0yhv8f7SgimgdFH-aDTy3PU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/J/5kQy6TSDqmDGpf6ko1HA/1-31-globocop-bdmg-27-agosto-27-aug-2026.mxf.png"
-    },
-    {
-      "clusterId": "e3a5214b5bff896f",
-      "slug": "c43ff80c38b87dbe",
-      "titulo": "Vídeo mostra queda que matou piloto de paramotor atingido por linha de pipa no litoral de SP",
-      "resumo": "Vídeo mostra queda que matou piloto de paramotor atingido por linha de pipa Imagens obtidas pelo g1 mostram o piloto de paramotor Adriano Azevedo dos Santos caindo de 10 metros de altura em Itanhaém, no litoral de São Paulo. Um dos vídeos foi gravado pelo instrutor de voo da vítima, que presenciou o acidente (assista acima). Ele deixou a esposa e uma filha. De acordo com testemunhas, o equipamento do paramotor perdeu sustentação após ser atingido por uma linha chilena de pipa. Adriano foi socorrido no domingo (23), mas morreu no hospital na segunda-feira (24). ✅ Clique aqui para seguir o novo…",
+      "clusterId": "48aa9bb6e2fcce8b",
+      "slug": "38b23bcfcb9cb054",
+      "titulo": "Brasileira morre afogada em rio dos EUA ao tentar salvar criança",
+      "resumo": "Batizado de Priscila, no Rio Delaware, aconteceu meses antes do acidente no mesmo local Arquivo pessoal A mineira Priscila Álvares Pereira dos Santos, de 33 anos, morreu afogada ao tentar salvar uma criança de 9 anos em um rio nos Estados Unidos. O acidente ocorreu nesta segunda-feira (24), no Rio Delaware, na cidade de mesmo nome, no estado de Nova Jersey. O corpo da vítima só foi encontrado 24 horas depois, no dia em que Priscila completaria 34 anos. A criança sobreviveu (leia mais abaixo). ✅Clique aqui para seguir o canal do g1 MG no WhatsApp Natural de Betim, cidade da Região…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/27/video-mostra-queda-que-matou-piloto-de-paramotor-atingido-por-linha-de-pipa-no-litoral-de-sp.ghtml"
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/27/brasileira-morre-afogada-em-rio-dos-eua-ao-tentar-salvar-crianca.ghtml"
         }
       ],
-      "updatedAt": "2026-08-27T08:25:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/0juAEHn-5LWXyGpAZskhE70K6QI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/2/zr6HAIRPSz4GxRdleJGw/piloto-paramotor-4-.jpg"
+      "updatedAt": "2026-08-27T22:06:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/VpRHB2wDKpYcGuURVJIuxuYxWfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Y/XHSVHVQESIDDLcBgyCsQ/morre-priscila-eua-1.jpeg"
     },
     {
-      "clusterId": "5f441ac59140fbfa",
-      "slug": "ae48983badfead76",
-      "titulo": "Vítima de acidente deixa hospital sem autorização médica e morre em seguida em MG",
-      "resumo": "Um homem de 59 anos morreu após deixar a Santa Casa de Patrocínio, no Alto Paranaíba, sem autorização médica, na manhã de terça-feira (25). Ademiro Kutz estava internado na unidade desde segunda-feira (24), após sofrer um acidente de carro no fim de semana. Segundo a Santa Casa, durante a internação, ele retirou o acesso usado para receber medicação, vestiu as próprias roupas e deixou o hospital sem autorização médica. ✅ Clique aqui para seguir o canal do g1 Triângulo no WhatsApp Logo após deixar o hospital, Ademiro passou mal nas proximidades. Pessoas que estavam no local acionaram o Serviço…",
+      "clusterId": "b98dfaf25e7a9d70",
+      "slug": "94f48f7313263f7a",
+      "titulo": "Socorristas retiram moradores ilhados após enchentes no Nepal; veja vídeo",
+      "resumo": "Tragédia já deixou pelo menos 389 mortos e centenas de desaparecidos",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/socorristas-retiram-moradores-ilhados-apos-enchentes-no-nepal-veja-video/"
+        }
+      ],
+      "updatedAt": "2026-08-27T22:03:25.000Z"
+    },
+    {
+      "clusterId": "c0c7959c67d6e90a",
+      "slug": "7ec83f98d6e61399",
+      "titulo": "Motociclista de 21 anos morre após atingir caminhão que fazia manobra em Italva",
+      "resumo": "Motociclista morre após atingir caminhão que fazia manobra em Italva Um jovem de 21 anos morreu após um acidente envolvendo uma motocicleta e um caminhão na BR-356, na altura do bairro Boa Vista, em Italva, no Noroeste Fluminense. Segundo testemunhas, Reinaldo Junior seguia de moto pela rodovia quando um caminhão de uma empresa de limpeza fazia uma manobra para entrar em uma garagem. As informações iniciais apontam que o motociclista atingiu o veículo. A vítima foi socorrida com vida e levada para o Pronto-Socorro Municipal de Italva, mas não resistiu aos ferimentos e morreu na unidade de…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/27/vitima-de-acidente-deixa-hospital-sem-autorizacao-medica-e-morre-em-seguida-em-mg.ghtml"
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/08/27/motociclista-de-21-anos-morre-apos-atingir-caminhao-que-fazia-manobra-em-italva.ghtml"
         }
       ],
-      "updatedAt": "2026-08-27T08:05:32.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/A0alhlvKfe_MJGgOyPsFUC6rYDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/t/1U53PCSIAXlnz3gapJTA/design-sem-nome-1-.png"
+      "updatedAt": "2026-08-27T21:52:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/SFXCxKwigoeDWOu0IXCv-B0-aFA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/D/yy8NnySvWGkT0qIBhE1A/moto.jpg"
     },
     {
-      "clusterId": "f9db79e8e8d3b19f",
-      "slug": "5c23e56f093483dc",
-      "titulo": "Acidente no Rodoanel deixa um morto em São Paulo",
-      "resumo": "Um acidente no km 27 do Rodoanel Mário Covas (SP-021), em Cotia, na Grande São Paulo, deixou um morto na madrugada desta quinta-feira (27). Uma moto teria sofrido uma pane mecânica, reduzido a velocidade e parado na faixa da esquerda, no sentido da rodovia Fernão Dias, quando um veículo utilitário não conseguiu frear e desviar a tempo, e acabou batendo na traseira da motocicleta. O motociclista morreu no local. O motorista do utilitário não sofreu ferimentos. A faixa está parcialmente interditada para atendimento da ocorrência, e não há registro de congestionamento. *Reportagem em atualização.",
+      "clusterId": "7364a5a908a60abe",
+      "slug": "cb821e3c9e22c4b2",
+      "titulo": "Carro pega fogo e fica destruído durante teste após manutenção em Juiz de Fora; VÍDEO",
+      "resumo": "Carro pega fogo logo após sair para teste após manutenção em Juiz de Fora Um motorista levou um susto na tarde desta quinta-feira (27), em Juiz de Fora, depois que o carro que ele dirigia pegou fogo e foi completamente destruído na rua Manoel Diniz da Silva, no bairro Francisco Bernardino. Segundo o Corpo de Bombeiros, quando as equipes chegaram ao local, o Ford Focus já estava completamente tomado pelas chamas. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp Aos militares, o motorista contou que havia acabado de fazer uma manutenção no sistema de suspensão e saiu para testar…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/27/acidente-no-rodoanel-em-sao-paulo.ghtml"
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/27/carro-pega-fogo-e-fica-destruido-durante-teste-apos-manutencao-em-juiz-de-fora-video.ghtml"
         }
       ],
-      "updatedAt": "2026-08-27T07:40:34.000Z"
+      "updatedAt": "2026-08-27T21:36:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/o9zGv1hReGwNTlp_8ybZv-rlS90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/fsnGI8QCedwvgmHTFhSw/carro-pega-fogo-juiz-de-fora.jpg"
+    },
+    {
+      "clusterId": "40ddee1b115ded41",
+      "slug": "96fdfe32f591c3a7",
+      "titulo": "Nepal confirma 389 mortes e busca mais de 900 desaparecidos em meio a risco de nova enchente",
+      "resumo": "Enchente repentina na fronteira entre Nepal e Tibete deixa mais de 300 mortos e centenas de desaparecidos, incluindo turistas de várias nacionalidades. Cerca de 24h após o desastre, equipes de resgate correm contra o tempo em busca de sobreviventes.",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cx2z52xznq7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-08-27T21:29:42.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/288c/live/66103d70-a197-11f1-9d54-6f26c2c0ae1e.jpg"
+    },
+    {
+      "clusterId": "0b7d944399543a15",
+      "slug": "cfe9395e9f3653a3",
+      "titulo": "VÍDEO mostra lago que pode se romper e provocar novas avalanches na fronteira entre China e Nepal",
+      "resumo": "Imagens mostram local com risco de nova avalanche entre o Nepal e o Tibete Imagens aéreas divulgadas nesta quinta-feira (27) pelo jornal oficial do Partido Comunista da China mostram um lago formado após um grande deslizamento de lama na região de Gyirong, no Tibete, próximo à fronteira com o Nepal. Veja no vídeo acima. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O lago é considerado uma nova ameaça porque a barreira natural que represou a água pode se romper nos próximos dias e provocar novas inundações e deslizamentos na região. O lago se formou perto da confluência dos rios…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/27/video-mostra-lago-que-pode-se-romper-e-provocar-novas-avalanches-na-fronteira-entre-china-e-nepal.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-27T21:12:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-MKwdc_ySbo2epkC1Ho0SGT26vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/H/NrOju6QcqIqer7vcDZLQ/captura-de-tela-2026-08-27-181006.png"
     }
   ],
   "categorias": [
@@ -196,10 +190,10 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "0dfc357163e98a9a",
+          "clusterId": "2321be9e3057d431",
           "slug": "faf869c29d637246",
-          "titulo": "Em 2015, Nepal sofreu com ‘o pior terremoto em mais de 80 anos’ até então; número de mortos passou de 8,5 mil",
-          "resumo": "ID: 14905236 China e Nepal enfrentaram a fúria da natureza. Nesta quarta-feira (26), o Jornal Nacional mostrou que uma avalanche de gelo, pedra e lama provocou uma enxurrada que varreu vilarejos na fronteira entre os dois países. Os vales em “V” fizeram com que avalanche ganhasse ainda mais força, como em um funil. As causas desse desastre ainda estão sendo investigadas. O Centro Geológico dos EUA explicou que, na verdade, não teve terremoto. É que o deslizamento foi tão forte que os sensores registraram o impacto como se tivesse havido um tremor. Este texto e o vídeo acima são parte da série…",
+          "titulo": "Buscas por vítimas de avalanche no Nepal entram no 2º dia com cerca de 1.500 desaparecidos",
+          "resumo": "Avalanche no Nepal e Tibete: o que se sabe sobre a tragédia Equipes de resgate entraram no segundo dia de buscas nesta quarta-feira (26) por cerca de 1.500 pessoas desaparecidas após uma avalanche de água, gelo, lama e rochas atingir uma região montanhosa na fronteira entre o Nepal e a China. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Até a última atualização desta reportagem, as autoridades confirmavam mais de 300 mortos. Além disso, 577 turistas estão desaparecidos no território nepalês, a maioria deles estrangeiros. No Tibete, há ainda 558 desaparecidos. Vilarejos inteiros…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
@@ -210,86 +204,230 @@
             },
             {
               "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/as-causas-da-inundacao-repentina-que-matou-ao-menos-270-pessoas-no-nepal-e-tibete/"
-            },
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/ce3rz25qeqdo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-270-o-numero-de-mortos-em-enchentes-no-nepal/"
+              "url": "https://veja.abril.com.br/mundo/video-funcionario-de-hidreletrica-filma-fuga-de-avalanche-de-lama-no-nepal/"
             }
           ],
-          "updatedAt": "2026-08-27T09:48:15.000Z",
+          "updatedAt": "2026-08-27T21:26:16.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/OreBKLPKCjrWqyCbfzDZ_kFDF54=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/v/BF8MBYSqOCGBBRPyOsgA/rio.gif"
         },
         {
-          "clusterId": "e3a5214b5bff896f",
-          "slug": "c43ff80c38b87dbe",
-          "titulo": "Vídeo mostra queda que matou piloto de paramotor atingido por linha de pipa no litoral de SP",
-          "resumo": "Vídeo mostra queda que matou piloto de paramotor atingido por linha de pipa Imagens obtidas pelo g1 mostram o piloto de paramotor Adriano Azevedo dos Santos caindo de 10 metros de altura em Itanhaém, no litoral de São Paulo. Um dos vídeos foi gravado pelo instrutor de voo da vítima, que presenciou o acidente (assista acima). Ele deixou a esposa e uma filha. De acordo com testemunhas, o equipamento do paramotor perdeu sustentação após ser atingido por uma linha chilena de pipa. Adriano foi socorrido no domingo (23), mas morreu no hospital na segunda-feira (24). ✅ Clique aqui para seguir o novo…",
+          "clusterId": "48aa9bb6e2fcce8b",
+          "slug": "38b23bcfcb9cb054",
+          "titulo": "Brasileira morre afogada em rio dos EUA ao tentar salvar criança",
+          "resumo": "Batizado de Priscila, no Rio Delaware, aconteceu meses antes do acidente no mesmo local Arquivo pessoal A mineira Priscila Álvares Pereira dos Santos, de 33 anos, morreu afogada ao tentar salvar uma criança de 9 anos em um rio nos Estados Unidos. O acidente ocorreu nesta segunda-feira (24), no Rio Delaware, na cidade de mesmo nome, no estado de Nova Jersey. O corpo da vítima só foi encontrado 24 horas depois, no dia em que Priscila completaria 34 anos. A criança sobreviveu (leia mais abaixo). ✅Clique aqui para seguir o canal do g1 MG no WhatsApp Natural de Betim, cidade da Região…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/27/video-mostra-queda-que-matou-piloto-de-paramotor-atingido-por-linha-de-pipa-no-litoral-de-sp.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/27/brasileira-morre-afogada-em-rio-dos-eua-ao-tentar-salvar-crianca.ghtml"
             }
           ],
-          "updatedAt": "2026-08-27T08:25:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0juAEHn-5LWXyGpAZskhE70K6QI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/2/zr6HAIRPSz4GxRdleJGw/piloto-paramotor-4-.jpg"
+          "updatedAt": "2026-08-27T22:06:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VpRHB2wDKpYcGuURVJIuxuYxWfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Y/XHSVHVQESIDDLcBgyCsQ/morre-priscila-eua-1.jpeg"
         },
         {
-          "clusterId": "5f441ac59140fbfa",
-          "slug": "ae48983badfead76",
-          "titulo": "Vítima de acidente deixa hospital sem autorização médica e morre em seguida em MG",
-          "resumo": "Um homem de 59 anos morreu após deixar a Santa Casa de Patrocínio, no Alto Paranaíba, sem autorização médica, na manhã de terça-feira (25). Ademiro Kutz estava internado na unidade desde segunda-feira (24), após sofrer um acidente de carro no fim de semana. Segundo a Santa Casa, durante a internação, ele retirou o acesso usado para receber medicação, vestiu as próprias roupas e deixou o hospital sem autorização médica. ✅ Clique aqui para seguir o canal do g1 Triângulo no WhatsApp Logo após deixar o hospital, Ademiro passou mal nas proximidades. Pessoas que estavam no local acionaram o Serviço…",
+          "clusterId": "b98dfaf25e7a9d70",
+          "slug": "94f48f7313263f7a",
+          "titulo": "Socorristas retiram moradores ilhados após enchentes no Nepal; veja vídeo",
+          "resumo": "Tragédia já deixou pelo menos 389 mortos e centenas de desaparecidos",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/27/vitima-de-acidente-deixa-hospital-sem-autorizacao-medica-e-morre-em-seguida-em-mg.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/socorristas-retiram-moradores-ilhados-apos-enchentes-no-nepal-veja-video/"
             }
           ],
-          "updatedAt": "2026-08-27T08:05:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/A0alhlvKfe_MJGgOyPsFUC6rYDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/t/1U53PCSIAXlnz3gapJTA/design-sem-nome-1-.png"
+          "updatedAt": "2026-08-27T22:03:25.000Z"
         },
         {
-          "clusterId": "f9db79e8e8d3b19f",
-          "slug": "5c23e56f093483dc",
-          "titulo": "Acidente no Rodoanel deixa um morto em São Paulo",
-          "resumo": "Um acidente no km 27 do Rodoanel Mário Covas (SP-021), em Cotia, na Grande São Paulo, deixou um morto na madrugada desta quinta-feira (27). Uma moto teria sofrido uma pane mecânica, reduzido a velocidade e parado na faixa da esquerda, no sentido da rodovia Fernão Dias, quando um veículo utilitário não conseguiu frear e desviar a tempo, e acabou batendo na traseira da motocicleta. O motociclista morreu no local. O motorista do utilitário não sofreu ferimentos. A faixa está parcialmente interditada para atendimento da ocorrência, e não há registro de congestionamento. *Reportagem em atualização.",
+          "clusterId": "c0c7959c67d6e90a",
+          "slug": "7ec83f98d6e61399",
+          "titulo": "Motociclista de 21 anos morre após atingir caminhão que fazia manobra em Italva",
+          "resumo": "Motociclista morre após atingir caminhão que fazia manobra em Italva Um jovem de 21 anos morreu após um acidente envolvendo uma motocicleta e um caminhão na BR-356, na altura do bairro Boa Vista, em Italva, no Noroeste Fluminense. Segundo testemunhas, Reinaldo Junior seguia de moto pela rodovia quando um caminhão de uma empresa de limpeza fazia uma manobra para entrar em uma garagem. As informações iniciais apontam que o motociclista atingiu o veículo. A vítima foi socorrida com vida e levada para o Pronto-Socorro Municipal de Italva, mas não resistiu aos ferimentos e morreu na unidade de…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/27/acidente-no-rodoanel-em-sao-paulo.ghtml"
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/08/27/motociclista-de-21-anos-morre-apos-atingir-caminhao-que-fazia-manobra-em-italva.ghtml"
             }
           ],
-          "updatedAt": "2026-08-27T07:40:34.000Z"
+          "updatedAt": "2026-08-27T21:52:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SFXCxKwigoeDWOu0IXCv-B0-aFA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/D/yy8NnySvWGkT0qIBhE1A/moto.jpg"
         },
         {
-          "clusterId": "38ab891a97df0731",
-          "slug": "1ab6f7046d006b87",
-          "titulo": "Empresário e mecânico são condenados 6 anos após morte de piloto em queda de avião em MG",
-          "resumo": "Avião em que Rodrigo estava PM/Divulgação A Justiça de Minas Gerais condenou o empresário Inácio Carlos Urban, ligado ao setor do agronegócio, e o mecânico Rogério Dalla Santa pela morte do piloto agrícola Rodrigo Carlos Pereira, de 39 anos. O acidente aéreo aconteceu em fevereiro de 2020, na zona rural de Coromandel, no Alto Paranaíba. A sentença foi assinada na segunda-feira (24) pela 1ª Vara Cível, Criminal e de Execuções Penais de Coromandel. Inácio e Rogério foram condenados por homicídio culposo — quando não há intenção de matar —, com aumento da pena pela inobservância de regra técnica…",
+          "clusterId": "7364a5a908a60abe",
+          "slug": "cb821e3c9e22c4b2",
+          "titulo": "Carro pega fogo e fica destruído durante teste após manutenção em Juiz de Fora; VÍDEO",
+          "resumo": "Carro pega fogo logo após sair para teste após manutenção em Juiz de Fora Um motorista levou um susto na tarde desta quinta-feira (27), em Juiz de Fora, depois que o carro que ele dirigia pegou fogo e foi completamente destruído na rua Manoel Diniz da Silva, no bairro Francisco Bernardino. Segundo o Corpo de Bombeiros, quando as equipes chegaram ao local, o Ford Focus já estava completamente tomado pelas chamas. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp Aos militares, o motorista contou que havia acabado de fazer uma manutenção no sistema de suspensão e saiu para testar…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/27/empresario-e-mecanico-sao-condenados-6-anos-apos-morte-de-piloto-em-queda-de-aviao-em-mg.ghtml"
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/27/carro-pega-fogo-e-fica-destruido-durante-teste-apos-manutencao-em-juiz-de-fora-video.ghtml"
             }
           ],
-          "updatedAt": "2026-08-27T07:01:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Truqvn4Bca__fgYy3cZ3XGvbI2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/l/KPyeSdTkqw0y4cjGHPmg/design-sem-nome.png"
+          "updatedAt": "2026-08-27T21:36:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/o9zGv1hReGwNTlp_8ybZv-rlS90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/fsnGI8QCedwvgmHTFhSw/carro-pega-fogo-juiz-de-fora.jpg"
+        },
+        {
+          "clusterId": "40ddee1b115ded41",
+          "slug": "96fdfe32f591c3a7",
+          "titulo": "Nepal confirma 389 mortes e busca mais de 900 desaparecidos em meio a risco de nova enchente",
+          "resumo": "Enchente repentina na fronteira entre Nepal e Tibete deixa mais de 300 mortos e centenas de desaparecidos, incluindo turistas de várias nacionalidades. Cerca de 24h após o desastre, equipes de resgate correm contra o tempo em busca de sobreviventes.",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cx2z52xznq7o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-08-27T21:29:42.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/288c/live/66103d70-a197-11f1-9d54-6f26c2c0ae1e.jpg"
+        },
+        {
+          "clusterId": "0b7d944399543a15",
+          "slug": "cfe9395e9f3653a3",
+          "titulo": "VÍDEO mostra lago que pode se romper e provocar novas avalanches na fronteira entre China e Nepal",
+          "resumo": "Imagens mostram local com risco de nova avalanche entre o Nepal e o Tibete Imagens aéreas divulgadas nesta quinta-feira (27) pelo jornal oficial do Partido Comunista da China mostram um lago formado após um grande deslizamento de lama na região de Gyirong, no Tibete, próximo à fronteira com o Nepal. Veja no vídeo acima. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O lago é considerado uma nova ameaça porque a barreira natural que represou a água pode se romper nos próximos dias e provocar novas inundações e deslizamentos na região. O lago se formou perto da confluência dos rios…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/27/video-mostra-lago-que-pode-se-romper-e-provocar-novas-avalanches-na-fronteira-entre-china-e-nepal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-27T21:12:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-MKwdc_ySbo2epkC1Ho0SGT26vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/H/NrOju6QcqIqer7vcDZLQ/captura-de-tela-2026-08-27-181006.png"
+        },
+        {
+          "clusterId": "e7771aae84d3de75",
+          "slug": "0f9c23fa3b99e86b",
+          "titulo": "VÍDEO: Chuva de 95 mm mobiliza Defesa Civil, causa alagamentos e queda de árvore em Vassouras",
+          "resumo": "VÍDEO: Chuva de 95 mm mobiliza Defesa Civil, causa alagamentos e queda de árvore no RJ Uma chuva de 95,6 milímetros em cerca de 24 horas provocou três pontos de alagamentos e uma queda de árvore nesta quinta-feira (27) em Vassouras (RJ). Segundo a Defesa Civil de Vassouras, o órgão registrou a queda de uma árvore de pequeno porte sobre a lateral de uma residência. O Corpo de Bombeiros foi acionado e, com o apoio da equipe da Defesa Civil, realizou o corte da árvore. Ainda segundo a Defesa Civil, em menos de 30 minutos, a própria rede de drenagem realizou o escoamento da água e as vias foram…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/27/video-chuva-de-95-mm-mobiliza-defesa-civil-causa-alagamentos-e-queda-de-arvore-em-vassouras.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-27T21:11:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/U3QLu5lWaXCscr9Ug5-7yHF_ysA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/S/2GIWM8S4qlrXS3D9cDSQ/whatsapp-image-2026-08-27-at-17.39.53-2-.jpeg"
+        },
+        {
+          "clusterId": "f51df2b04b265247",
+          "slug": "dd6e0db6ec7ca2fd",
+          "titulo": "Engenheiro acusado de atropelar e matar motociclista em Teresina passa por audiência de instrução e julgamento",
+          "resumo": "Engenheiro é indiciado por atropelamento e morte de motociclista O engenheiro Carlos Eduardo Marques Ângelo, investigado por matar e atropelar o motociclista Edson Barbosa Dias em março deste ano, passou pela primeira audiência de instrução e julgamento, na 3ª Vara do Tribunal Popular do Júri, no Fórum Cível e Criminal, em Teresina, nesta quinta-feira (27). Um vídeo registrou o momento que o carro do engenheiro atingiu a traseira da moto de Edson, no cruzamento das avenidas Miguel Rosa e Frei Serafim. ✅ Siga o canal do g1 Piauí no WhatsApp Na audiência de instrução e julgamento, o juiz ouve…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/27/engenheiro-audiencia-julgamento.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-27T21:01:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RpJgp8HqAErxV9mjZsSCOwB0e3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/5/OkGWWORceZTTyFLDuGeQ/whatsapp-image-2026-03-16-at-9.09.58-am.jpeg"
+        },
+        {
+          "clusterId": "00990582c15f4466",
+          "slug": "50c42f4725339a1e",
+          "titulo": "Mulher fica ferida após cair de moto em Volta Redonda",
+          "resumo": "Uma mulher de 45 anos foi socorrida pelo Serviço de Atendimento Móvel de Urgência (Samu) após sofrer uma queda de motocicleta na manhã desta quinta-feira (27), em Volta Redonda (RJ). O acidente aconteceu na Avenida Sávio Gama, no bairro Retiro. De acordo com o registro do atendimento, a ocorrência foi aberta às 7h17 e classificada como urgente. A informação inicial era de que a motociclista havia caído após bater contra um carro. Segundo o SAMU, durante a avaliação, a paciente estava consciente e apresentava sinais vitais estáveis. Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1 no…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/27/mulher-fica-ferida-apos-cair-de-moto-em-volta-redonda.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-27T20:50:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jgE7i6Y1m1zHvCGKHLXdSRDsMGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/E/SzAAMjQOaDHO2wFJAmtg/whatsapp-image-2026-04-17-at-10.44.18.jpeg"
+        },
+        {
+          "clusterId": "8982cafab6ec4241",
+          "slug": "36dad1d7eabd0842",
+          "titulo": "Onda de calor sufocante em São Paulo: mapa mostra regiões que vão ‘ferver’ até a próxima segunda-feira",
+          "resumo": "Termômetros devem registrar temperaturas que podem se aproximar dos 40°C nas regiões norte e noroeste do estado",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/onda-de-calor-sufocante-em-sao-paulo-mapa-mostra-regioes-que-vao-ferver-ate-a-proxima-segunda-feira/"
+            }
+          ],
+          "updatedAt": "2026-08-27T20:48:42.000Z"
+        },
+        {
+          "clusterId": "7a1b8a258476e00b",
+          "slug": "6f628fabeb09f076",
+          "titulo": "Permafrost: degelo de solo congelado pode ajudar a explicar desastre no Nepal",
+          "resumo": "Langtang Lirung no Nepal Wikimedia Commons Ao menos 362 pessoas morreram e 1.468 estão desaparecidas após uma avalanche de gelo e rochas provocar uma enorme enxurrada de água, lama e detritos na fronteira entre o Nepal e o Tibete, na China. Entre os desaparecidos estão mais de 900 estrangeiros. A onda avançou pelo vale do rio Bhote Koshi, uma das principais rotas de ligação entre Katmandu e o Tibete, destruindo casas, pontes e estradas. Houve pouco aviso prévio. As imagens da enchente repentina carregada de detritos são chocantes. Infelizmente, isso não é surpreendente. Como especialista em…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/27/permafrost-degelo-de-solo-congelado-pode-ajudar-a-explicar-desastre-no-nepal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-27T18:12:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ok3seFbiyAiccrGWk3-vNxcXKp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/M/u3yx8gRzmCBXPKtznnNQ/2026-08-26t105018z-1755018233-rc2a6nasuin0-rtrmadp-3-nepal-floods.jpg"
+        },
+        {
+          "clusterId": "650a4da7b60c0d0b",
+          "slug": "adee5979dca83e36",
+          "titulo": "Carro-bomba mata militar russo perto de São Petersburgo, diz agência",
+          "resumo": "Agentes ucranianos inspecionam restos de uma arma aérea após um ataque em Kiev. SERGEI SUPINSKY/AFP A explosão de um automóvel provocou a morte de uma pessoa em São Petersburgo nesta quinta-feira (27), informaram investigadores russos, enquanto a imprensa local afirma que se trata de um oficial do Exército. A Ucrânia realizou uma série de assassinatos de militares russos de alta patente desde que começou a ofensiva da Rússia há mais de quatro anos. Os investigadores informaram que uma pessoa morreu e outra foi hospitalizada quando um automóvel explodiu no distrito de Pushkinski. O canal de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/27/carro-bomba-mata-militar-russo-perto-de-sao-petersburgo-diz-agencia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-27T12:34:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mBTFJTM6_81gzEph0fYTckJOuSs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/q/flqnJUSWAaITqIJVNwOA/afp-20260827-c6m8864-v1-highres-ukrainerussiaconflictwarstrike-redimensionado-para-grande.jpeg"
+        },
+        {
+          "clusterId": "2dadb81a5d8ffc4f",
+          "slug": "35d39e8f6666fb47",
+          "titulo": "Colapso glacial: o fenômeno que causou a enchente repentina na fronteira entre Nepal e Tibete",
+          "resumo": "Inicialmente, os cientistas acreditavam que a causa do evento havia sido um terremoto. Mas depois descobriram que os tremores estavam relacionados a um colapso glacial.",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c70l4jen7qro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-08-27T11:57:55.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70ae/live/cfc0b1b0-a20e-11f1-a291-b542ee92de7c.jpg"
         },
         {
           "clusterId": "9ae56878153d5d5a",
@@ -309,6 +447,40 @@
           "imageUrl": "https://s2-g1.glbimg.com/ZWRQ97pEfINGKF4b_7EO-ZH-ZWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/I/i2WO5yT7uLYoQBVAE9Rg/afp-20260827-c6l439e-v1-highres-unevoiturefoncedanslafouleacaenfaisantonzevicti.jpg"
         },
         {
+          "clusterId": "3efb313de82a6f4a",
+          "slug": "2f0d75ee70b717c5",
+          "titulo": "As imagens de satélite do Nepal que mostram o antes e depois das áreas destruídas pela enxurrada",
+          "resumo": "Mais de 150 pessoas morreram e centenas de turistas estão desaparecidos na tragédia.",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c3d7vn1l3zgo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-08-26T18:47:41.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd6d/live/8bfed140-a17e-11f1-9619-edac4fa7937f.jpg"
+        },
+        {
+          "clusterId": "675c04f7b754ce78",
+          "slug": "1e211155ddcbce9d",
+          "titulo": "Desastres mortais no Himalaia são frequentes e já deixaram centenas de vítimas na área montanhosa; relembre",
+          "resumo": "Após deslizamento, imagens mostram a escala da destruição no Nepal Uma grande inundação repentina matou dezenas de pessoas e deixou centenas de desaparecidos nesta quarta-feira (26) em uma região do Himalaia na fronteira entre o Nepal e o Tibete. A água destruiu vilarejos e danificou estradas, pontes e redes de energia. A região do Himalaia, área de cordilheira que se estende por vários países da Ásia, registrou grandes desastres nos últimos 12 anos. Analistas atribuem parte dos eventos às mudanças climáticas e à expansão de construções na região. Veja alguns dos principais episódios: Agosto…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/26/desastres-mortais-no-himalaia-relembre-tragedias-dos-ultimos-12-anos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-26T14:14:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/voO79-_CQx_M4nQfBfrbfeBI9hk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/g/qVOiHISnqnCQ0qbwqPZw/ezgif.com-gif-maker-21-.gif"
+        },
+        {
           "clusterId": "a8cbee0b32f70acc",
           "slug": "96d56c5f6f707a75",
           "titulo": "Transição política dos EUA na Venezuela entra em crise, diz pesquisa",
@@ -324,23 +496,6 @@
           ],
           "updatedAt": "2026-08-26T09:00:41.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/NScKNcyk09grWWjJqXUFHC1ICLE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/y/cItjTQQ6a5akEiOTBJ7Q/2026-07-30t025433z-579479266-rc2ynmaunt94-rtrmadp-3-venezuela-quake.jpg"
-        },
-        {
-          "clusterId": "658f94356aecc1cf",
-          "slug": "796bc41b967881a5",
-          "titulo": "VÍDEO mostra destruição após passagem de tornado raro na França",
-          "resumo": "Imagens mostram destruição após passagem de tornado raro na França O número de feridos após a passagem de um raro tornado pela vila de Pomas, na região de Aude, no sudoeste da França, subiu para 39 - sendo dois em estado crítico -, de acordo com autoridades. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Nesta terça-feira (25), os moradores, que foram evacuados para que a Defesa Civil avaliasse o estado estrutural de todos os imóveis da cidade, voltaram ao local e lamentaram o alcance da destruição deixada, que foi registrada pela emissora francesa BFM TV (veja no vídeo acima).…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/25/video-mostra-destruicao-apos-passagem-de-tornado-raro-na-franca.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-25T11:13:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/spg5PSqo06qfyUqho4_jCCM1BDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/a/dtmVN7T4CpKoFlckUMhw/2026-08-25t110657z-1405591183-rc2n5naj3bbz-rtrmadp-3-france-weather-tornado.jpg"
         }
       ]
     },
@@ -349,29 +504,25 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "b85515f0747d20e2",
-          "slug": "7d450e7297e4ba0d",
-          "titulo": "Incêndio em prédio na zona norte do Rio deixa dois mortos e dez feridos",
-          "resumo": "Um incêndio atingiu um prédio residencial na Rua do Bonfim, em São Cristóvão, na noite de quarta-feira. O fogo começou na borracharia do térreo e foi controlado por volta das 23h20. Dois homens foram encontrados sem vida e dez pessoas ficaram feridas, sendo quatro já altas. O Corpo de Bombeiros e a 17ª DP investigam as circunstâncias.",
-          "porQueImporta": "O incidente resultou em mortes e feridos, evidenciando riscos de incêndios em áreas urbanas densamente povoadas.",
+          "clusterId": "5c7ceb8d66759b5f",
+          "slug": "be48bbc4876af7ab",
+          "titulo": "Incêndio de grandes proporções atinge fábrica de pneus em Palmital e fábrica de tintas em Guarulhos",
+          "resumo": "Em Palmital, SP, um incêndio de grandes proporções começou em carcaças de pneus armazenadas na área externa e se espalhou para o barracão principal da fábrica, sem feridos. Em Guarulhos, um incêndio atingiu uma fábrica de tintas, com cerca de 14 viaturas empenhadas e sem registro de vítimas até o momento.",
+          "porQueImporta": "O fogo pode comprometer a produção e a segurança dos trabalhadores, além de representar risco ambiental.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/27/incendio-em-sao-cristovao.ghtml"
-            },
-            {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/incendio-em-predio-deixa-dois-mortos-e-nove-feridos-na-zona-norte-do-rio/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-incendio-de-grandes-proporcoes-atinge-fabrica-de-tintas-em-guarulhos/"
             },
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/dois-morrem-e-10-ficam-feridos-em-incendio-no-rio-de-janeiro"
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/27/incendio-de-grandes-proporcoes-atinge-fabrica-de-pneus-no-interior-de-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-08-27T10:06:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bOT9N1FdM-usq6XWpN3K73-0NxM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/y/O9bN5WRhKdQfZolCAZOA/27fogo2.jpeg"
+          "updatedAt": "2026-08-27T21:16:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/stkhc6mWYSZJ4QyAar_JOD5HKzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/L/UHvan5SEykRz4kzoBKOA/design-sem-nome-10-.png"
         },
         {
           "clusterId": "c0e7b1d5c6d3bf33",
@@ -393,41 +544,29 @@
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "883b5903d202f091",
-          "slug": "9ea537d5a683644a",
-          "titulo": "Deslizamentos no Nepal criam novo lago que pode causar segundo desastre",
-          "resumo": "Chuva intensa de três dias e desmoronamento de barragens de terra aumentaram a ameaça de deslizamentos, inundações e fluxos de lama. O acúmulo de água formou um lago novo, cuja ruptura pode desencadear um segundo desastre. Autoridades monitoram a situação para avaliar o risco de inundação em áreas próximas.",
-          "porQueImporta": "O potencial de um segundo desastre pode agravar perdas humanas e materiais em regiões já vulneráveis.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/deslizamentos-no-nepal-criam-novo-lago-que-pode-causar-segundo-desastre/"
-            }
-          ],
-          "updatedAt": "2026-08-27T10:01:01.000Z"
-        },
-        {
-          "clusterId": "f9e41be9471e95e9",
-          "slug": "6c976498dd305533",
-          "titulo": "Avalanche de lama destrói usina hidrelétrica na fronteira do Nepal com o Tibete",
-          "resumo": "Uma avalanche de lama atingiu uma usina hidrelétrica na fronteira do Nepal com o Tibete, causando destruição em vários locais. Um funcionário da usina, Vivek Shrestha, registrou a fuga desesperada de colegas em vídeo e postou nas redes sociais. O vídeo mostra a inundação se aproximando e a força da água, antes dos trabalhadores evacuarem.",
-          "porQueImporta": "O incidente destaca a vulnerabilidade de infraestruturas críticas a desastres naturais na região.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "01a9c089aa93413f",
+          "slug": "adc940327683fa5e",
+          "titulo": "Inmet emite alerta de tempestade e vendaval em 738 municípios",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) alertou 675 municípios do Rio Grande do Sul, partes de Paraná e Santa Catarina para tempestades com chuvas de até 100 milímetros. Em Mato Grosso do Sul, 63 cidades receberam alerta amarelo para vendaval, com ventos previstos entre 40 e 60 quilômetros por hora. Os alertas foram emitidos a partir da noite desta quinta-feira (27).",
+          "porQueImporta": "O alerta indica risco de inundações e danos estruturais nas regiões afetadas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/27/avalanche-lama-nepal-tibete-funcionario-hidreletrica-fuga-desesperada-video.ghtml"
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/27/ms-tem-63-cidades-em-alerta-para-vendaval-com-ventos-de-ate-60-kmh-veja-onde.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/inmet-emite-alerta-de-perigo-para-tempestades-para-675-municipios-de-3-estados-veja-cidades/"
             }
           ],
-          "updatedAt": "2026-08-27T09:59:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/voO79-_CQx_M4nQfBfrbfeBI9hk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/g/qVOiHISnqnCQ0qbwqPZw/ezgif.com-gif-maker-21-.gif"
+          "updatedAt": "2026-08-27T21:38:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KCzAo4NuLRtAgAmF_21DR76tmLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/K/xrZnIyTGqE4vtMQM9d0A/alerta-vendaval.jpg"
         }
       ]
     },
@@ -436,60 +575,21 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "97e1b6daa277319d",
-          "slug": "b43e474c12f2c662",
-          "titulo": "Homem morre após colisão entre duas motos na PB",
-          "resumo": "Um homem, identificado como Genivaldo Souza dos Santos, morreu no local de um acidente envolvendo duas motocicletas na rodovia estadual entre Nova Palmeira e Picuí, na Paraíba. O outro motociclista ficou ferido e foi socorrido para o Hospital de Trauma. O acidente ocorreu na tarde de quarta-feira.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança nas rodovias estaduais.",
+          "clusterId": "a76c03b195f9e490",
+          "slug": "211db12eb02a4a79",
+          "titulo": "Duas pessoas morrem em acidente envolvendo duas motos e um carro no Piauí",
+          "resumo": "Um acidente de trânsito ocorreu em Baixa Grande do Ribeiro, no Sul do Piauí, envolvendo duas motocicletas e um carro. O veículo teria atingido uma das motos, que colidiu com a outra. As vítimas fatais foram identificadas como Manoel Barros de Sousa, de 72 anos, e Idelto de Moura Araújo, de 54 anos. A Polícia Militar está conduzindo a investigação.",
+          "porQueImporta": "O incidente destaca a gravidade dos acidentes de trânsito na região e a necessidade de atenção à segurança viária.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/27/homem-morre-apos-colisao-entre-duas-motos-na-pb.ghtml"
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/27/pessoas-morrem-acidente.ghtml"
             }
           ],
-          "updatedAt": "2026-08-27T09:50:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YIiD8BE6gCGTaxpx0EW9X7KmNlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/E/08WRJHRBiOHpIWPns6UA/tvcbacidente.jpg"
-        },
-        {
-          "clusterId": "5c8a3698dca5cda9",
-          "slug": "f0189832629662cc",
-          "titulo": "Caminhão-tanque pega fogo na MG-010 e motorista morre carbonizado",
-          "resumo": "Um caminhão-tanque transportando combustível pegou fogo na MG-010, próximo a Vespasiano, na Grande BH. O veículo foi completamente incendiado e o motorista ficou preso na cabine, morrendo carbonizado. As chamas eram intensas o suficiente para serem vistas de longe. Motoristas testemunharam o acidente e registraram imagens.",
-          "porQueImporta": "O incidente destaca os riscos de transporte de combustíveis em estradas urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/noticia/2026/08/27/caminhao-tanque-pega-fogo-na-mg-010-na-grande-bh-e-motorista-morre-carbonizado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-27T09:25:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pjA0yhv8f7SgimgdFH-aDTy3PU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/J/5kQy6TSDqmDGpf6ko1HA/1-31-globocop-bdmg-27-agosto-27-aug-2026.mxf.png"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "127728ab158e2715",
-          "slug": "8f97fea22db80018",
-          "titulo": "Primeiro-ministro da China visita área devastada por enchente no Tibete",
-          "resumo": "O primeiro-ministro Li Qiang chegou à cidade de Gyirong para acompanhar equipes de resgate e atender pessoas desalojadas após a enchente que atingiu a fronteira com o Nepal. A visita tem como objetivo avaliar a situação e apoiar as ações de recuperação. A região sofreu danos significativos à infraestrutura e à comunidade local.",
-          "porQueImporta": "A presença do chefe do Estado demonstra a importância do desastre para a China e a necessidade de assistência internacional.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/primeiro-ministro-da-china-visita-area-devastada-por-enchente-no-tibete/"
-            }
-          ],
-          "updatedAt": "2026-08-27T09:54:20.000Z"
+          "updatedAt": "2026-08-27T22:06:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9DeX0ICdLR6KDM15un_dVdma28g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/A/tXBBWHT5KRsAe6Zd9Gqg/edicao-imagens-g1-61-.png"
         }
       ]
     },
