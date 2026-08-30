@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-08-30T05:42:29.323Z",
+  "ranAt": "2026-08-30T13:57:23.289Z",
   "editionDate": "2026-08-30",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Acidentes e desastres dominam panorama do dia\" (2 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
