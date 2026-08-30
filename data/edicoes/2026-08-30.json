@@ -1,183 +1,196 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T13:57:23.289Z",
+  "generatedAt": "2026-08-30T19:23:44.021Z",
   "home": [
     {
-      "clusterId": "681e506f0fc956cc",
-      "slug": "919103515e6818c4",
-      "titulo": "Enchentes no Himalaia deixam mais de 700 mortos e 3 mil desaparecidos",
-      "resumo": "As fortes chuvas na região do Himalaia provocaram inundações e deslizamentos que resultaram em mais de 700 mortes no Nepal e no Tibete. Aproximadamente 3.044 pessoas ficaram desaparecidas, incluindo 540 estrangeiros. Milhares de agentes de segurança foram mobilizados para buscas e resgates, e o governo nepalesa aceitou ajuda internacional para reforçar as operações.",
-      "porQueImporta": "O desastre afeta comunidades locais, turistas e trabalhadores de usinas hidrelétricas, com impactos humanitários e econômicos significativos.",
+      "clusterId": "b500806b8f89afed",
+      "slug": "7f00468441604f11",
+      "titulo": "Desastres no Nepal deixam mais de 3 mil estrangeiros desaparecidos",
+      "resumo": "Enchentes e deslizamentos no Nepal, provocados pelo colapso de uma geleira no Himalaia, resultaram em mais de 3.000 estrangeiros desaparecidos. O hospital local exibe cartazes com mais de 2.000 nomes, enquanto o governo aceita ajuda internacional para reforçar buscas e salvamentos. Operações de resgate foram retomadas após suspensão causada por chuva intensa e nevoeiro.",
+      "porQueImporta": "A situação destaca a necessidade de cooperação internacional em emergências naturais e a vulnerabilidade de viajantes em regiões de risco.",
+      "categoria": "Desastre",
+      "categoriaSlug": "desastre",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/29/governo-do-nepal-volta-atras-e-aceita-ajuda-internacional-cerca-de-3-mil-seguem-desaparecidos.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/ao-menos-511-estrangeiros-estao-desaparecidos-no-nepal-veja-nacionalidades"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/hospital-do-nepal-exibe-centenas-de-cartazes-com-desaparecidos-em-enchentes/"
+        }
+      ],
+      "updatedAt": "2026-08-30T18:12:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/PeJmZrpGWqf7AGwVUULYGHLCJM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/a/4QgIOaToAzFiG8TmrROA/ap26239389270089.jpg"
+    },
+    {
+      "clusterId": "c7baf67f9fb97c7f",
+      "slug": "4dfab5edbbef3e4e",
+      "titulo": "Defesa Civil emite alerta severo para chuvas em São Paulo",
+      "resumo": "A Defesa Civil emitiu alerta severo para chuvas nas regiões sul e leste de São Paulo, incluindo o ABC e Embu das Artes. O aviso, divulgado às 15h22 de domingo, prevê raios, ventos fortes e granizo em diversas áreas do estado. A medida visa prevenir alagamentos e danos causados pela chuva intensa.",
+      "porQueImporta": "O alerta informa a população sobre riscos de inundações e danos, permitindo precauções e preparação.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-chuvas-em-sp/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/defesa-civil-emite-alerta-severo-para-chuvas-apos-dia-virar-noite-em-sp"
+        }
+      ],
+      "updatedAt": "2026-08-30T19:10:07.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/chuva-sp.jpg"
+    },
+    {
+      "clusterId": "206406ada250ffd0",
+      "slug": "7556e38c27f8bf75",
+      "titulo": "Cidades de SC decretam situação de emergência após chuvas intensas com granizo",
+      "resumo": "Defesa Civil acompanha o cenário com mais de mil residências afetadas e já iniciou a entrega de itens de assistência humanitária aos municípios atingidos",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/temporal-no-sul-cidades-de-sc-decretam-emergencia-rs-tem-7-feridos/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/cidades-de-sc-decretam-situacao-de-emergencia-apos-chuvas-intensas-com-granizo/"
+        }
+      ],
+      "updatedAt": "2026-08-30T17:19:01.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-30-at-14.22.36.jpeg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "d651c05e5e8017b1",
+      "slug": "80106decccd891a3",
+      "titulo": "Diretor de escola evacua 900 alunos para evitar inundações no Nepal",
+      "resumo": "O diretor Rajendra Dawadi, da Escola de Ensino Médio Tribhuvan Trishuli, em Nuwakot, recebeu quatro avisos de risco de inundação em poucos minutos e decidiu evacuar cerca de 900 estudantes para um local seguro. A escola tem pouco mais de 1.600 alunos. A evacuação evitou que os alunos e o diretor fossem atingidos pelas enchentes.",
+      "porQueImporta": "A ação rápida do diretor salvou centenas de vidas durante um desastre natural.",
       "categoria": "Enchente",
       "categoriaSlug": "enchente",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/29/por-que-as-imagens-das-inundacoes-no-nepal-e-no-tibete-nao-sao-mostradas-na-china-e-se-sabe-pouco-sobre-as-vitimas-no-pais.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/numero-de-mortos-em-enchentes-no-nepal-e-na-china-ultrapassa-800/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-em-enchentes-no-nepal-e-tibete-sobe-para-734/"
-        }
-      ],
-      "updatedAt": "2026-08-30T13:04:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/acOGYH79l1DDCzX5XuIWCmtYZ9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/b/YFhx3cSGazmPBzA7PQyg/ap26240128743012.jpg"
-    },
-    {
-      "clusterId": "5d1dee8c17a56172",
-      "slug": "bfe2b7e154c6595a",
-      "titulo": "Homem morre após ônibus atingir caminhão em que ele descarregava materiais",
-      "resumo": "O acidente aconteceu na tarde de sábado (29/8), em Samambaia; a vítima estava retirando os itens quando o ônibus bateu na porta traseira",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/homem-morre-enquanto-descarregava-materiais-apos-onibus-atingir-caminhao"
-        }
-      ],
-      "updatedAt": "2026-08-30T13:43:21.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/foto-acidente-homem-samambaia.jpg"
-    },
-    {
-      "clusterId": "3551081fb13f6f58",
-      "slug": "a7a09f42dc7a3e4c",
-      "titulo": "Morre segunda vítima de explosão causada por vazamento de gás na Bahia",
-      "resumo": "Adolescente de 14 anos não resistiu às queimaduras após dias internada. Acidente aconteceu em Santo Antônio de Jesus, na Bahia",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/morre-segunda-vitima-de-explosao-causada-por-vazamento-de-gas-na-bahia"
-        }
-      ],
-      "updatedAt": "2026-08-30T13:42:52.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/mortasmaeefilha.jpg"
-    },
-    {
-      "clusterId": "1344007c49a3135a",
-      "slug": "80106decccd891a3",
-      "titulo": "O diretor de escola que salvou 900 estudantes das inundações no Nepal",
-      "resumo": "'Se tivéssemos tomado essa decisão 10 minutos mais tarde, nenhum de nós — nem eu, nem os alunos — estaria aqui hoje', relata o diretor da escola à BBC",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/30/o-diretor-de-escola-que-salvou-900-estudantes-das-inundacoes-no-nepal.ghtml"
         }
       ],
-      "updatedAt": "2026-08-30T13:40:40.000Z",
+      "updatedAt": "2026-08-30T15:27:24.000Z",
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b03/live/1f2a22a0-a475-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "clusterId": "9467d48da7003737",
-      "slug": "d030968dbdc9c237",
-      "titulo": "Motorista de carro de luxo bate em duas motos e mata motociclista em Cuiabá",
-      "resumo": "No cruzamento com a Rua Joaquim Murtinho, ele bateu na motocicleta conduzida por Paulo. Com o impacto, Paulo morreu no local. Reprodução Um jovem de 22 anos, sem Carteira Nacional de Habilitação (CNH), dirigia um carro de luxo quando bateu em duas motocicletas e matou um motociclista de 23 anos, na madrugada deste domingo (30), em Cuiabá. Após a segunda colisão, ele fugiu a pé e abandonou o veículo em frente ao Hospital Municipal e Pronto-Socorro da capital. A vítima foi identificada como Paulo Messias Simão Costa, de 23 anos. Segundo a Polícia Militar, antes da batida que matou Paulo, o…",
+      "clusterId": "86c1ccc53474d4f1",
+      "slug": "0a166b24108de411",
+      "titulo": "Balsa vira no norte do Chipre, deixando 8 mortos e 17 desaparecidos",
+      "resumo": "Uma balsa com cerca de 270 pessoas a bordo virou no norte do Chipre, resultando em oito mortes e 17 desaparecidos. O barco partiu do porto de Kyrenia e começou a entrar água imediatamente após a partida. Os sobreviventes relataram movimentos erráticos antes do impacto final com a superfície da água. As autoridades investigam as causas do acidente.",
+      "porQueImporta": "O incidente destaca riscos de transporte marítimo em rotas regionais e a necessidade de medidas de segurança adequadas.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/30/naufragio-de-balsa-no-norte-do-chipre-deixa-8-mortos-e-17-desaparecidos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-30T18:57:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/seWE1cJBOkzWIfQN7dAIlY4S904=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/A/k9NbTxTOqBN1MYdpfjDw/fotos-g1-1920-x-1080-px-2026-08-30t155152.690.png"
+    },
+    {
+      "clusterId": "3cbc5cfb631bb583",
+      "slug": "84a47335d75d9814",
+      "titulo": "Temporais causam danos em cidades do Paraná",
+      "resumo": "Ventos fortes arrancaram árvores em Cascavel, com uma delas atingindo a fiação de postes. Em Pinhão, granizo danificou sete comunidades, incluindo casas que tiveram coberturas arrancadas. A Defesa Civil registrou danos em diversas áreas e alertou sobre a falta de energia.",
+      "porQueImporta": "Os eventos aumentam o risco de acidentes e interrupções de serviços públicos.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/30/estragos-temporais-parana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-30T18:48:20.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/VF9n7wBo4b9cThAC4Szp-7djWIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/mY49utSiepWAgJFzuWmQ/whatsapp-image-2026-08-30-at-14.40.35.jpeg"
+    },
+    {
+      "clusterId": "d4fd2beab8c1ebc9",
+      "slug": "a61f531db824e976",
+      "titulo": "Incêndio atinge vegetação em Caapiranga",
+      "resumo": "Um incêndio começou na estrada do Membeca, em Caapiranga, no interior do Amazonas, e se espalhou pela vegetação local. Moradores relatam temor de que as chamas atinjam sítios próximos. Vídeos mostram a extensão do fogo e a Rede Amazônica registrou pelo menos três pacas mortas carbonizadas.",
+      "porQueImporta": "O fogo pode ameaçar propriedades rurais e a fauna local.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/30/incendio-atinge-vegetacao-em-caapiranga-e-moradores-temem-que-sitios-sejam-destruidos-a-gente-esta-arriscando-a-vida.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-30T18:46:22.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GpzNr02s9RDmoBrzuv5IimYUoX0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/f/hjyZAqQUALbEDT3A9AbQ/captura-de-tela-2026-08-30-140126.png"
+    },
+    {
+      "clusterId": "81f78602e47dec2d",
+      "slug": "c413dc47b2145452",
+      "titulo": "Chuva forte destelha estádio, causa queda de energia e pontos de alagamento em Promissão",
+      "resumo": "Chuva forte destelha estádio, causa queda de energia e pontos de alagamento em Promissão Uma chuva forte acompanhada de rajadas de vento causou queda de energia e pontos de alagamento em Promissão (SP), na manhã deste domingo (30). Não há registro de feridos ou desalojados. Segundo a prefeitura, o Estádio Municipal \"Verano Piromalli\" foi a estrutura mais atingida da cidade. A cobertura da arquibancada do local e o telhado do vestiário caíram com a força do vento e, com isso, parte dos danos atingiram a rede elétrica do estádio. Assista acima. 📲 Participe do canal do g1 Bauru e Marília no…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/30/motorista-de-carro-de-luxo-bate-em-duas-motos-e-mata-motociclista-em-cuiaba.ghtml"
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/30/chuva-forte-destelha-estadio-causa-queda-de-energia-e-pontos-de-alagamento-em-promissao.ghtml"
         }
       ],
-      "updatedAt": "2026-08-30T13:28:47.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/X9umr_EhRqx3kzltJ51My1u4TUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/q/6ONAstQNqstkYyI6GN5A/videos-g1-35-.jpg"
+      "updatedAt": "2026-08-30T18:43:20.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/7H-mfeI539ynetpZDbqppiuX8FM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/fO0H6PSoeXYPD9RAuTMg/untitled.jpg"
     },
     {
-      "clusterId": "2056daa92754179e",
-      "slug": "a216c32df17637f3",
-      "titulo": "Barco com centenas a bordo naufraga perto do Chipre e ao menos sete morrem",
-      "resumo": "Imagens do local do naufrágio mostram dezenas de pessoas na lateral da embarcação e outras na água, vestindo coletes salva-vidas",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/barco-com-centenas-a-bordo-naufraga-perto-do-chipre/"
-        }
-      ],
-      "updatedAt": "2026-08-30T13:25:24.000Z"
-    },
-    {
-      "clusterId": "7137f7bd99c04989",
-      "slug": "7c306f982e563e8e",
-      "titulo": "Homem morre atropelado ao tentar atravessar Via Anchieta",
-      "resumo": "Pedestre é atropelado e morre após invadir pista da Rodovia Anchieta, em Cubatão CCI Artesp Um homem, cuja identidade não foi divulgada, morreu após ser atropelado na Via Anchieta, na madrugada deste domingo (30), em Cubatão (SP). Segundo a Agência de Transporte do Estado de São Paulo (Artesp), a vítima foi atingida por um carro enquanto tentava atravessar a rodovia. O acidente aconteceu por volta das 0h30, na altura do km 56, no sentido São Paulo. De acordo com a Artesp, o motorista trafegava pela faixa da esquerda quando o pedestre apareceu na pista e ele não conseguiu desviar ou frear a…",
+      "clusterId": "4d206f1440df9f1d",
+      "slug": "2894bef18323bb3d",
+      "titulo": "Câmeras mostram momento em que carro de luxo atinge motociclista que morreu em Cuiabá; veja vídeo",
+      "resumo": "Motorista bateu em duas motos, abandonou o carro no pronto-socorro e fugiu a pé Câmeras de segurança registraram o momento em que uma BMW atinge a motocicleta de um jovem de 23 anos, que morreu no local, na Avenida Isaac Póvoas, em Cuiabá, nesta domingo (30). O motorista, de 22 anos, também bateu em outra moto antes do acidente fatal e fugiu a pé após abandonar o carro em frente ao pronto-socorro da capital. A vítima foi identificada como Paulo Messias Simão Costa, de 23 anos. O suspeito não teve a identidade divulgada. Nas imagens, é possível ver o momento em que o carro de luxo segue pela…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/30/homem-morre-atropelado-ao-tentar-atravessar-via-anchieta.ghtml"
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/30/cameras-mostram-momento-em-que-carro-de-luxo-atinge-motociclista-que-morreu-em-cuiaba-veja-video.ghtml"
         }
       ],
-      "updatedAt": "2026-08-30T13:10:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6daric3l6vSB4hXffE2VlAWcFJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/2TxQwMSCey7Zu4j0d3nA/inserir-um-titulo-2026-08-30t080500.267.jpg"
+      "updatedAt": "2026-08-30T18:40:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/uNp9IoddnaxjXe7R-y_mlT9wiso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/J/qM7rEVSRyFEQgXg4VCtg/videos-g1-80-.jpg"
     },
     {
-      "clusterId": "352eddd43fc96054",
-      "slug": "58baff07925052b3",
-      "titulo": "Duas pessoas ficam feridas em acidente em Montes Claros; motorista fugiu",
-      "resumo": "Caminhonete bateu contra poste de energia elétrica na madrugada de sábado para domingo em Montes Claros, Minas Gerais",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/duas-pessoas-ficam-feridas-em-acidente-em-montes-claros-motorista-fugiu"
-        }
-      ],
-      "updatedAt": "2026-08-30T12:54:11.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/4945229665811500034-3x2-1.jpg"
-    },
-    {
-      "clusterId": "756b34779b83aaee",
-      "slug": "05dd7152041f7c4f",
-      "titulo": "Motorista embriagado e sem CNH é preso após acidente que matou motociclista em Campo Grande",
-      "resumo": "Vídeo mostra momento em que motociclista fica entre dois carros em Campo Grande Celso Pires dos Santos foi preso em flagrante após causar o acidente que matou um motociclista de 29 anos, neste sábado (29), no bairro Nova Lima, em Campo Grande, segundo a polícia. Ele não tinha habilitação e o teste do bafômetro apontou 0,49 mg/L de álcool por litro de ar expelido. A vítima foi identificada no registro policial apenas pelo primeiro nome, Luciel. O g1 não conseguiu localizar a defesa de Celso até a última atualização desta reportagem. ✅ Clique aqui para seguir o canal do g1 MS no WhatsApp O…",
+      "clusterId": "5ca2afcf322fd8ab",
+      "slug": "b15dfd1a9b7bf497",
+      "titulo": "Idoso de 73 anos morre após ser atropelado por quadriciclo na calçada de casa no PI",
+      "resumo": "Pereira dos Santos, de 73 anos, morreu após ser atropelado por um quadriciclo, na tarde de sábado (29), enquanto estava sentado na calçada de casa, na Rua Coronel Juraci B Marques, bairro Milonga, em São Raimundo Nonato, no Sul do Piauí. Segundo a Polícia Civil, o piloto do quadriciclo fugiu do local sem prestar socorro. Ao g1, o delegado José Wellington informou que um inquérito policial foi instaurado para identificar o piloto e as circunstâncias do atropelamento. ✅ Siga o canal do g1 Piauí no WhatsApp \"Por algum motivo ainda não definido, o condutor do quadriciclo perdeu o controle do…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/30/motorista-embriagado-e-sem-cnh-e-preso-apos-acidente-que-matou-motociclista-em-campo-grande.ghtml"
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/30/idoso-atropelado-quadriciclo.ghtml"
         }
       ],
-      "updatedAt": "2026-08-30T12:52:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/iwW1domB4qRBvQSyD8xy6mJt3nc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/K/mYDdLQTPmAY8hOxV0ysA/hnjnkm-k.png"
-    },
-    {
-      "clusterId": "1299f492eba5c874",
-      "slug": "c4c3aae31e85ddf9",
-      "titulo": "Morre segunda vítima de explosão que atingiu três casas no interior da BA",
-      "resumo": "Morreu na noite do sábado (29), em Salvador, a segunda vítima da explosão de gás que atingiu três casas na cidade de Santo Antônio de Jesus, no Recôncavo da Bahia. Talita dos Santos Nascimento, de 14 anos, estava internada Hospital Geral do Estado (HGE) desde 19 de agosto, quando o acidente aconteceu. A informação foi confirmada pela equipe médica. Na última terça-feira (25), Diana Guimarães, de 42 anos, morreu na mesma unidade de saúde após complicações em um procedimento cirúrgico. Diana era mãe de Talita e teve quase todo o corpo queimado. No mesmo dia da morte da mãe, Talita teve uma…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/30/morre-vitima-de-explosao-que-atingiu-casas-no-interior-da-ba.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-30T12:33:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/gJAVrCkfUuAgBBF-v3vDnrKeb9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/T/WOTIz3SI6QwfYeKVzTeg/diana-e-talita.jpg"
+      "updatedAt": "2026-08-30T18:39:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Oq6U7RMHEkS1XVjVnCBDrfYO18A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/j/EC0ro0RgqTIJghIzokig/edicao-imagens-g1-53-.png"
     }
   ],
   "categorias": [
@@ -186,358 +199,461 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "5d1dee8c17a56172",
-          "slug": "bfe2b7e154c6595a",
-          "titulo": "Homem morre após ônibus atingir caminhão em que ele descarregava materiais",
-          "resumo": "O acidente aconteceu na tarde de sábado (29/8), em Samambaia; a vítima estava retirando os itens quando o ônibus bateu na porta traseira",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/homem-morre-enquanto-descarregava-materiais-apos-onibus-atingir-caminhao"
-            }
-          ],
-          "updatedAt": "2026-08-30T13:43:21.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/08/foto-acidente-homem-samambaia.jpg"
-        },
-        {
-          "clusterId": "3551081fb13f6f58",
-          "slug": "a7a09f42dc7a3e4c",
-          "titulo": "Morre segunda vítima de explosão causada por vazamento de gás na Bahia",
-          "resumo": "Adolescente de 14 anos não resistiu às queimaduras após dias internada. Acidente aconteceu em Santo Antônio de Jesus, na Bahia",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/morre-segunda-vitima-de-explosao-causada-por-vazamento-de-gas-na-bahia"
-            }
-          ],
-          "updatedAt": "2026-08-30T13:42:52.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/08/mortasmaeefilha.jpg"
-        },
-        {
-          "clusterId": "1344007c49a3135a",
-          "slug": "80106decccd891a3",
-          "titulo": "O diretor de escola que salvou 900 estudantes das inundações no Nepal",
-          "resumo": "'Se tivéssemos tomado essa decisão 10 minutos mais tarde, nenhum de nós — nem eu, nem os alunos — estaria aqui hoje', relata o diretor da escola à BBC",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-08-30T13:40:40.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b03/live/1f2a22a0-a475-11f1-a291-b542ee92de7c.jpg"
-        },
-        {
-          "clusterId": "9467d48da7003737",
-          "slug": "d030968dbdc9c237",
-          "titulo": "Motorista de carro de luxo bate em duas motos e mata motociclista em Cuiabá",
-          "resumo": "No cruzamento com a Rua Joaquim Murtinho, ele bateu na motocicleta conduzida por Paulo. Com o impacto, Paulo morreu no local. Reprodução Um jovem de 22 anos, sem Carteira Nacional de Habilitação (CNH), dirigia um carro de luxo quando bateu em duas motocicletas e matou um motociclista de 23 anos, na madrugada deste domingo (30), em Cuiabá. Após a segunda colisão, ele fugiu a pé e abandonou o veículo em frente ao Hospital Municipal e Pronto-Socorro da capital. A vítima foi identificada como Paulo Messias Simão Costa, de 23 anos. Segundo a Polícia Militar, antes da batida que matou Paulo, o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/30/motorista-de-carro-de-luxo-bate-em-duas-motos-e-mata-motociclista-em-cuiaba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-30T13:28:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/X9umr_EhRqx3kzltJ51My1u4TUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/q/6ONAstQNqstkYyI6GN5A/videos-g1-35-.jpg"
-        },
-        {
-          "clusterId": "2056daa92754179e",
-          "slug": "a216c32df17637f3",
-          "titulo": "Barco com centenas a bordo naufraga perto do Chipre e ao menos sete morrem",
-          "resumo": "Imagens do local do naufrágio mostram dezenas de pessoas na lateral da embarcação e outras na água, vestindo coletes salva-vidas",
+          "clusterId": "206406ada250ffd0",
+          "slug": "7556e38c27f8bf75",
+          "titulo": "Cidades de SC decretam situação de emergência após chuvas intensas com granizo",
+          "resumo": "Defesa Civil acompanha o cenário com mais de mil residências afetadas e já iniciou a entrega de itens de assistência humanitária aos municípios atingidos",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/barco-com-centenas-a-bordo-naufraga-perto-do-chipre/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/temporal-no-sul-cidades-de-sc-decretam-emergencia-rs-tem-7-feridos/"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/cidades-de-sc-decretam-situacao-de-emergencia-apos-chuvas-intensas-com-granizo/"
             }
           ],
-          "updatedAt": "2026-08-30T13:25:24.000Z"
+          "updatedAt": "2026-08-30T17:19:01.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-30-at-14.22.36.jpeg?quality=70&strip=info"
         },
         {
-          "clusterId": "7137f7bd99c04989",
-          "slug": "7c306f982e563e8e",
-          "titulo": "Homem morre atropelado ao tentar atravessar Via Anchieta",
-          "resumo": "Pedestre é atropelado e morre após invadir pista da Rodovia Anchieta, em Cubatão CCI Artesp Um homem, cuja identidade não foi divulgada, morreu após ser atropelado na Via Anchieta, na madrugada deste domingo (30), em Cubatão (SP). Segundo a Agência de Transporte do Estado de São Paulo (Artesp), a vítima foi atingida por um carro enquanto tentava atravessar a rodovia. O acidente aconteceu por volta das 0h30, na altura do km 56, no sentido São Paulo. De acordo com a Artesp, o motorista trafegava pela faixa da esquerda quando o pedestre apareceu na pista e ele não conseguiu desviar ou frear a…",
+          "clusterId": "81f78602e47dec2d",
+          "slug": "c413dc47b2145452",
+          "titulo": "Chuva forte destelha estádio, causa queda de energia e pontos de alagamento em Promissão",
+          "resumo": "Chuva forte destelha estádio, causa queda de energia e pontos de alagamento em Promissão Uma chuva forte acompanhada de rajadas de vento causou queda de energia e pontos de alagamento em Promissão (SP), na manhã deste domingo (30). Não há registro de feridos ou desalojados. Segundo a prefeitura, o Estádio Municipal \"Verano Piromalli\" foi a estrutura mais atingida da cidade. A cobertura da arquibancada do local e o telhado do vestiário caíram com a força do vento e, com isso, parte dos danos atingiram a rede elétrica do estádio. Assista acima. 📲 Participe do canal do g1 Bauru e Marília no…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/30/homem-morre-atropelado-ao-tentar-atravessar-via-anchieta.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/30/chuva-forte-destelha-estadio-causa-queda-de-energia-e-pontos-de-alagamento-em-promissao.ghtml"
             }
           ],
-          "updatedAt": "2026-08-30T13:10:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6daric3l6vSB4hXffE2VlAWcFJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/2TxQwMSCey7Zu4j0d3nA/inserir-um-titulo-2026-08-30t080500.267.jpg"
+          "updatedAt": "2026-08-30T18:43:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7H-mfeI539ynetpZDbqppiuX8FM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/fO0H6PSoeXYPD9RAuTMg/untitled.jpg"
         },
         {
-          "clusterId": "352eddd43fc96054",
-          "slug": "58baff07925052b3",
-          "titulo": "Duas pessoas ficam feridas em acidente em Montes Claros; motorista fugiu",
-          "resumo": "Caminhonete bateu contra poste de energia elétrica na madrugada de sábado para domingo em Montes Claros, Minas Gerais",
+          "clusterId": "4d206f1440df9f1d",
+          "slug": "2894bef18323bb3d",
+          "titulo": "Câmeras mostram momento em que carro de luxo atinge motociclista que morreu em Cuiabá; veja vídeo",
+          "resumo": "Motorista bateu em duas motos, abandonou o carro no pronto-socorro e fugiu a pé Câmeras de segurança registraram o momento em que uma BMW atinge a motocicleta de um jovem de 23 anos, que morreu no local, na Avenida Isaac Póvoas, em Cuiabá, nesta domingo (30). O motorista, de 22 anos, também bateu em outra moto antes do acidente fatal e fugiu a pé após abandonar o carro em frente ao pronto-socorro da capital. A vítima foi identificada como Paulo Messias Simão Costa, de 23 anos. O suspeito não teve a identidade divulgada. Nas imagens, é possível ver o momento em que o carro de luxo segue pela…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/30/cameras-mostram-momento-em-que-carro-de-luxo-atinge-motociclista-que-morreu-em-cuiaba-veja-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T18:40:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uNp9IoddnaxjXe7R-y_mlT9wiso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/J/qM7rEVSRyFEQgXg4VCtg/videos-g1-80-.jpg"
+        },
+        {
+          "clusterId": "5ca2afcf322fd8ab",
+          "slug": "b15dfd1a9b7bf497",
+          "titulo": "Idoso de 73 anos morre após ser atropelado por quadriciclo na calçada de casa no PI",
+          "resumo": "Pereira dos Santos, de 73 anos, morreu após ser atropelado por um quadriciclo, na tarde de sábado (29), enquanto estava sentado na calçada de casa, na Rua Coronel Juraci B Marques, bairro Milonga, em São Raimundo Nonato, no Sul do Piauí. Segundo a Polícia Civil, o piloto do quadriciclo fugiu do local sem prestar socorro. Ao g1, o delegado José Wellington informou que um inquérito policial foi instaurado para identificar o piloto e as circunstâncias do atropelamento. ✅ Siga o canal do g1 Piauí no WhatsApp \"Por algum motivo ainda não definido, o condutor do quadriciclo perdeu o controle do…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/30/idoso-atropelado-quadriciclo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T18:39:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Oq6U7RMHEkS1XVjVnCBDrfYO18A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/j/EC0ro0RgqTIJghIzokig/edicao-imagens-g1-53-.png"
+        },
+        {
+          "clusterId": "c4e94279932703ea",
+          "slug": "96c0cc2ccd876b52",
+          "titulo": "Mulher morre atropelada após sair de bar na Avenida na Dante Michelini, em Vitória",
+          "resumo": "Uma mulher de 46 anos morreu após ser atropelada em uma avenida de Vitória, no Espírito Santo, na madrugada deste domingo (30). A vítima, identificada como Wanessa Martha Gonçalves, chegou a ser socorrida pelo Serviço de Atendimento Móvel de Urgência (Samu) e levada ao hospital, mas não resistiu aos ferimentos. De acordo com a Polícia Militar, o atropelamento ocorreu depois que a vítima saiu de um bar localizado na Avenida Dante Michelini, na orla da Praia de Camburi. O motorista do carro permaneceu no local e realizou o teste do bafômetro, que deu negativo para o consumo de álcool. 📲 Clique…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/30/mulher-morre-atropelada-apos-sair-de-bar-na-avenida-na-dante-michelini-em-vitoria.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T18:34:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VtwTRS8BORvD_1gX4madV-wLgIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/1/Ma2MQdShGbzB2JfeB49A/thumb-fotos-2026-08-30t152552.782.jpg"
+        },
+        {
+          "clusterId": "080c48a630f87e54",
+          "slug": "3b2e3b1dde23a0f3",
+          "titulo": "Forte chuva e ventania arrastam barracas na Feira Hippie em BH",
+          "resumo": "Defesa Civil emitiu alerta de pancadas de chuva, com possibilidade de raios e rajadas de ventos, até a manhã desta segunda-feira",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/duas-pessoas-ficam-feridas-em-acidente-em-montes-claros-motorista-fugiu"
+              "url": "https://www.metropoles.com/minas-gerais/forte-chuva-e-ventania-arrastam-barracas-na-feira-hippie-em-bh"
             }
           ],
-          "updatedAt": "2026-08-30T12:54:11.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/08/4945229665811500034-3x2-1.jpg"
+          "updatedAt": "2026-08-30T18:34:07.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/whatsapp-image-2026-08-30-at-14-47-51-3x2-1.jpg"
         },
         {
-          "clusterId": "756b34779b83aaee",
-          "slug": "05dd7152041f7c4f",
-          "titulo": "Motorista embriagado e sem CNH é preso após acidente que matou motociclista em Campo Grande",
-          "resumo": "Vídeo mostra momento em que motociclista fica entre dois carros em Campo Grande Celso Pires dos Santos foi preso em flagrante após causar o acidente que matou um motociclista de 29 anos, neste sábado (29), no bairro Nova Lima, em Campo Grande, segundo a polícia. Ele não tinha habilitação e o teste do bafômetro apontou 0,49 mg/L de álcool por litro de ar expelido. A vítima foi identificada no registro policial apenas pelo primeiro nome, Luciel. O g1 não conseguiu localizar a defesa de Celso até a última atualização desta reportagem. ✅ Clique aqui para seguir o canal do g1 MS no WhatsApp O…",
+          "clusterId": "31c46798641186fd",
+          "slug": "9944a9b0e6b6a654",
+          "titulo": "Oito acidentes deixam três mortos no fim de semana em cidade no interior da Bahia",
+          "resumo": "Acidente ocorreu na manhã deste domingo, na BA-409, entre as cidades de Conceição do Coité e Serrinha Brigada Voluntária Águia Resgate Oito acidentes com três mortes foram registrados entre sábado (29) e domingo (30) em Conceição do Coité, no interior da Bahia. As informações são da Brigada Voluntária Águia Resgate. O caso mais recente ocorreu na manhã deste domingo, na BA-409, entre as cidades de Conceição do Coité e Serrinha. Duas pessoas morreram e uma terceira ficou ferida em um acidente entre duas motos. Conforme apurado pela TV Subaé, um dos mortos foi identificado como Carlos André da…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/30/motorista-embriagado-e-sem-cnh-e-preso-apos-acidente-que-matou-motociclista-em-campo-grande.ghtml"
+              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/30/acidentes-deixam-mortos-no-fim-de-semana-no-interior-da-ba.ghtml"
             }
           ],
-          "updatedAt": "2026-08-30T12:52:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/iwW1domB4qRBvQSyD8xy6mJt3nc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/K/mYDdLQTPmAY8hOxV0ysA/hnjnkm-k.png"
+          "updatedAt": "2026-08-30T18:12:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Qh709lNo7BVKudvfowFUtAaM99w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/o/KdvNQiQSCG4LrPFhZVxA/whatsapp-image-2026-08-30-at-11.40.58.jpeg"
         },
         {
-          "clusterId": "1299f492eba5c874",
-          "slug": "c4c3aae31e85ddf9",
-          "titulo": "Morre segunda vítima de explosão que atingiu três casas no interior da BA",
-          "resumo": "Morreu na noite do sábado (29), em Salvador, a segunda vítima da explosão de gás que atingiu três casas na cidade de Santo Antônio de Jesus, no Recôncavo da Bahia. Talita dos Santos Nascimento, de 14 anos, estava internada Hospital Geral do Estado (HGE) desde 19 de agosto, quando o acidente aconteceu. A informação foi confirmada pela equipe médica. Na última terça-feira (25), Diana Guimarães, de 42 anos, morreu na mesma unidade de saúde após complicações em um procedimento cirúrgico. Diana era mãe de Talita e teve quase todo o corpo queimado. No mesmo dia da morte da mãe, Talita teve uma…",
+          "clusterId": "34c19b02781bda65",
+          "slug": "ecc3d62e8700e51e",
+          "titulo": "Dia vira noite após tarde abafada, e SP tem chuva e vento forte",
+          "resumo": "Tempo fecha em SP neste domimgo Rodrigo Rodrigues/g1 A tarde deste domingo (30) foi de sol entre nuvens, calor e tempo abafado na Grande São Paulo. Mas o cenário mudou: a chegada de áreas de instabilidade aumentou a quantidade de nuvens e provocou pancadas de chuva, com raios e rajadas de vento que podem superar os 50 km/h. Às 15h05, a Defesa Civil emitiu alerta severo para região de Embu, Zona Oeste e Sul da capital, com previsão de raios, vento e condição para granizo. Pouco depois, o alerta foi emitido para a Zona Leste e região do ABC Paulista. De acordo com o Centro de Gerenciamento de…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/30/morre-vitima-de-explosao-que-atingiu-casas-no-interior-da-ba.ghtml"
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/30/dia-vira-noite-apos-tarde-abafada-e-sp-tem-chuva-e-vento-forte.ghtml"
             }
           ],
-          "updatedAt": "2026-08-30T12:33:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gJAVrCkfUuAgBBF-v3vDnrKeb9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/T/WOTIz3SI6QwfYeKVzTeg/diana-e-talita.jpg"
+          "updatedAt": "2026-08-30T18:12:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vsKSYM392GHiXMIFOcfN9y_WoLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/T/abWqetQaA7b75FjXELjg/chuva-sp.jpeg"
         },
         {
-          "clusterId": "94854c560f859468",
-          "slug": "7c19568edf649db2",
-          "titulo": "Mulher morre após moto ser atingida por caminhão na Zona Oeste de Manaus",
-          "resumo": "Corpo da motociclista foi removido pelo IML g1 Amazonas Uma mulher identificada como Isabela Oliveira Teixeira, de 37 anos, morreu após ter a motocicleta atingida por um caminhão na Avenida São Jorge, no bairro São Jorge, Zona Oeste de Manaus, neste sábado (29). De acordo com as informações apuradas pelo g1, a vítima era moradora do bairro Santo Antônio e havia saído de casa por volta do meio-dia para comprar comida quando o acidente aconteceu. A motocicleta em que ela estava foi atingida por um caminhão de uma empresa de transportes. 📲 Participe do canal do g1 AM no WhatsApp Com o impacto…",
+          "clusterId": "3e4992e2b3e58db5",
+          "slug": "82c2b0c1fa00c171",
+          "titulo": "Funcionário de açougue morre atingido por ônibus enquanto fazia descarga de caminhão no DF",
+          "resumo": "Um funcionário de um açougue morreu neste sábado (29) enquanto fazia a descarga de um caminhão que estava estacionado, em Samambaia, no Distrito Federal. Ele foi atingido por um ônibus que passava pela via. De acordo com a Polícia Militar (PMDF), a vítima realizava o descarregamento de materiais na parte traseira do caminhão, que estava com uma das portas aberta, quando o ônibus colidiu contra a porta do veículo. O acidente foi por volta das 14h30. O açougue West Carnes publicou nas redes sociais uma nota de pesar pelo funcionário identificado como Matheus Nunes Oliveira. \"Neste momento de…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/30/mulher-morre-apos-moto-ser-atingida-por-caminhao-na-zona-oeste-de-manaus.ghtml"
+              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/30/funcionario-de-acougue-morre-atingido-por-onibus-enquanto-fazia-descarga-de-caminhao-no-df.ghtml"
             }
           ],
-          "updatedAt": "2026-08-30T12:20:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3gvJJaKURGDWW0QVPpQZa14Z0jU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/m/W/dJ2v97S6q4YgE8FY5Dsw/whatsapp-image-2019-03-25-at-07.37.06.jpeg"
+          "updatedAt": "2026-08-30T18:08:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8EpMRWBp6j5Vu8tls9Fc9qy92AE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/t/GQ6fEST8WvxBEas0HvNw/up-clb-obito-samambaia-west-6-297f-30082026-frame-31.jpeg"
         },
         {
-          "clusterId": "e0acd38f5843c40c",
-          "slug": "794ffd981ce5ed2a",
-          "titulo": "Pedestre morre após ser atropelado por carro enquanto atravessava a Rodovia Castello Branco em Itu",
-          "resumo": "Um pedestre morreu após ser atropelado por um carro enquanto tentava atravessar a Rodovia Castello Branco (SP-280), em Itu (SP), na noite de sábado (29). Segundo informações da Agência de Transportes do Estado de São Paulo (Artesp), o acidente aconteceu no quilômetro 69, da pista sentido interior. A vítima foi arremessada pelo veículo e, com o impacto, acabou sendo atropelada novamente por outro carro. 📲 Participe do canal do g1 Sorocaba e Jundiaí no WhatsApp A vítima morreu na hora e o primeiro motorista fugiu sem prestar socorro. Devido ao acidente, as faixas 1, 2 e o acostamento da…",
+          "clusterId": "85485b5ed9339205",
+          "slug": "4ac4d692f4ce1733",
+          "titulo": "Motociclista morre após acidente entre carro e moto no TO",
+          "resumo": "Carros do IML do Tocantins Divulgação/SSPTO O motociclista Lucimar Ribeiro da Silva, de 51 anos, morreu após um acidente envolvendo um carro e uma moto em Santa Fé do Araguaia, na região norte do Tocantins. A batida aconteceu na entrada da cidade, na manhã deste domingo (30). Segundo a Polícia Militar, o Serviço de Atendimento Móvel de Urgência (Samu) ainda foi chamado, mas apenas constatou a morte no local. O passageiro da motocicleta, filho da vítima, de 19 anos, prestou informações à equipe policial. 📱 Clique aqui para seguir o canal do g1 TO no WhatsApp A Polícia Militar realizou o…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/30/pedestre-morre-apos-ser-atropelado-por-carro-enquanto-atravessava-a-rodovia-castello-branco-em-itu.ghtml"
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/30/motociclista-morre-apos-acidente-entre-carro-e-moto-no-to.ghtml"
             }
           ],
-          "updatedAt": "2026-08-30T12:18:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hDAC1CUkHsHbJqj73yHcd8_YtQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/W/uQHUyFTDCmRZemHUE40w/06994f71-3b72-4e1a-b881-527d54f15f03.jpg"
+          "updatedAt": "2026-08-30T18:02:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wsGfGDD3pyBM6o9PqTWT0TJW9cg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/N/HlgHXfSRCE02SGjnZQgA/carro-iml-palmas.png"
         },
         {
-          "clusterId": "76129cac694b2e5d",
-          "slug": "df5c8d816375f853",
-          "titulo": "Ciclista morre após ser atropelado enquanto tentava atravessar via na faixa de pedestres, em João Pessoa",
-          "resumo": "Um ciclista morreu após ser atingido por um carro na faixa de pedestres, na noite deste sábado (29), em João Pessoa. O caso ocorreu ao lado do estádio Almeidão, no bairro do Cristo. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp De acordo com informações da Polícia Civil no local do acidente, a vítima, identificada como Jonas da Silva Oliveira, tentava atravessar na faixa de pedestres quando foi atropelada. O motorista do automóvel foi preso e submetido ao teste do bafômetro, que deu positivo para ingestão de álcool. Após bater no ciclista, o motorista perdeu o controle da direção e…",
+          "clusterId": "d543c61265fc98a6",
+          "slug": "294aaa81ccc639dc",
+          "titulo": "Mãe salva filha de atropelamento e acaba atingida por moto no Pará",
+          "resumo": "Mulher é atropelada por motocicleta em Floresta do Araguaia, no Pará Uma mulher foi atingida por uma motocicleta ao correr para retirar a filha da pista e evitar que a criança fosse atropelada, em Floresta do Araguaia, no sul do Pará. O acidente ocorreu na quarta-feira (26) e foi registrado por uma câmera de segurança. As imagens mostram a menina deixando a calçada e caminhando em direção à avenida. Ao perceber a aproximação da criança da área de circulação dos veículos, a mãe corre para alcançá-la. Durante a tentativa de retirar a filha da pista, a mulher é atingida de frente por uma…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/30/ciclista-morre-apos-ser-atropelado-enquanto-tentava-atravessar-via-na-faixa-de-pedestres-em-joao-pessoa.ghtml"
+              "url": "https://g1.globo.com/pa/para/noticia/2026/08/30/mae-salva-filha-de-atropelamento-e-acaba-atingida-por-moto-no-para.ghtml"
             }
           ],
-          "updatedAt": "2026-08-30T12:02:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hRUY9e1PlB29BEx513AGUIzCOvk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/n/DmAiCyRFS2Y5AtY2G2yg/ciclista-atropelado.png"
+          "updatedAt": "2026-08-30T17:57:15.000Z"
         },
         {
-          "clusterId": "cb279e78411386ed",
-          "slug": "23c03af4d28a4cf8",
-          "titulo": "Corpo de jovem que desapareceu após se afogar em barragem no Sudoeste do Piauí é encontrado",
-          "resumo": "Corpo de jovem que desapareceu em barragem após se afogar é encontrado Reprodução O corpo de Fabiana Sousa Nunes, de 25 anos, foi encontrado na manhã deste domingo (30). A jovem havia desaparecido após se afogar na Barragem do Vale, em Itaueira, no Sudoeste do Piauí, na manhã de sábado (29). ✅ Siga o canal do g1 Piauí no WhatsApp Segundo a Polícia Militar (PM), Fabiana estava no local com o companheiro quando entrou na água. Conforme a PM, após algum tempo, o companheiro percebeu que Fabiana não conseguia voltar para a margem e estava se afogando. Ele informou aos policiais que não sabe nadar…",
+          "clusterId": "3a4b1f57faf06fde",
+          "slug": "7e0dfd2bc0e2eb37",
+          "titulo": "Acidente deixa um morto e seis feridos no Noroeste do RS",
+          "resumo": "Veículo capotou na ERS-514; jovem de 20 anos morreu no local Marcio Santos, Caçadores de Notícias Um jovem morreu e seis pessoas ficaram feridas em um acidente no km75 da ERS-514, em Ajuricaba, no Noroeste do RS. A colisão foi por volta das 5h deste domingo (30), segundo o Comando Rodoviário da Brigada Militar. A vítima foi identificada como Nathanael Soares, 20 anos, que conduzia um Civic. 📲 Acesse o canal do g1 RS no WhatsApp Conforme a BM, o Civic seguia no sentido Ijuí–Ajuricaba quando colidiu lateralmente com uma S10, que vinha no sentido contrário. Depois do impacto, o Civic capotou…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/30/corpo-jovem-desapareceu-barragem-encontrado.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/30/acidente-deixa-um-morto-e-seis-feridos-no-noroeste-do-rs.ghtml"
             }
           ],
-          "updatedAt": "2026-08-30T11:41:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RDLkpK4jbtAdH_BrVxSQXazaQgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/6/FaLaMPQ1uf8wlHebxyAQ/edicao-imagens-g1-5-.png"
+          "updatedAt": "2026-08-30T17:50:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sgBUrsC-xqSDUzIMiOCo0Ex-LVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/G/E673HnQPOIgvdjHecNTQ/whatsapp-image-2026-08-30-at-13.19.54.jpeg"
         },
         {
-          "clusterId": "451b1330e6377a84",
-          "slug": "8f0fe409f0419e3e",
-          "titulo": "PF contra fraude no INSS, alertas de temporal e lixão: veja as mais lidas da semana",
-          "resumo": "Uma operação da Polícia Federal contra fraudes de R$ 86 milhões em benefícios do INSS, alertas de tempestades no Leste de Minas e a situação de uma área de transbordo de resíduos em Governador Valadares estiveram entre os assuntos que mais chamaram a atenção dos leitores nesta semana. Também entrou entre os destaques o acidente na BR-116, em Dom Cavati, que terminou com a morte de três pessoas da mesma família. 📲 Clique aqui para seguir o canal do g1 Vales no WhatsApp A seguir, confira os destaques mais lidos da semana: PF faz operação contra fraude de R$ 86 milhões em benefícios do INSS em…",
+          "clusterId": "f6dc3b04c35ef0fe",
+          "slug": "320f17947e644f4a",
+          "titulo": "Colisão entre carro e motocicletas deixa três mortos na BR-364, no interior do Acre",
+          "resumo": "Colisão entre carro e motocicletas deixa três mortos na BR-364 Uma colisão entre um carro e duas motocicletas deixou três pessoas mortas no quilômetro 16 da BR-364 entre Tarauacá e Feijó, no interior do Acre, na madrugada deste domingo (30). Uma outra pessoa ficou ferida e foi levada em estado grave a Cruzeiro do Sul. As vítimas foram identificadas como Antônio Carlos Parente da Silva, Nahyure Antonieta Gomes de Oliveira e Verony da Costa Viana Silva. A quarta pessoa não teve a identidade divulgada. 📲 Participe do canal do g1 AC no WhatsApp Antônio Carlos Parente da Silva, Nahyure Antonieta…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/30/pf-contra-fraude-no-inss-alertas-de-temporal-e-lixao-veja-as-mais-lidas-da-semana.ghtml"
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/08/30/colisao-entre-carro-e-motocicletas-deixa-tres-mortos-na-br-364-no-interior-do-acre.ghtml"
             }
           ],
-          "updatedAt": "2026-08-30T11:26:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fLD-WDsGvB7eIEn4WTRyN4yh7oQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/X/A2VzuSQNWvVcd8NbVOeg/chuva-parana-1-.png"
+          "updatedAt": "2026-08-30T17:49:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/X4IFHDn4eMtrieDS-Qy_in0KUbU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/d/FCzutMR2KwhxKJcvsmqg/midia-de-distribuicao-g1.png"
         },
         {
-          "clusterId": "5073bfecd26e092e",
-          "slug": "6140b6a4f413b5d1",
-          "titulo": "Clarões no céu, explosão e fogo: incêndio em subestação de energia assusta moradores em Goiás; vídeo",
-          "resumo": "Incêndio em subestação de energia de Ipameri assusta moradores Moradores de Ipameri e Campo Alegre de Goiás, no sudeste do estado, ficaram sem energia depois que um incêndio atingiu a subestação de energia de Ipameri. O incidente assustou quem mora perto do local, em função das chamas e dos clarões no céu causados por uma explosão (veja acima registros do momento). O incêndio aconteceu na noite de sexta-feira (28). De acordo com a Equatorial Goiás, houve perda de um transformador de força, seguida de incêndio nas instalações. Não houve vítimas, e as causas da ocorrência ainda são…",
+          "clusterId": "b69e90dffc38a22f",
+          "slug": "273c900b578bf5b6",
+          "titulo": "Homem invade restaurante atrás da ex, provoca incêndio com gasolina e morre queimado em SC",
+          "resumo": "Homem invade restaurante atrás da ex, provoca incêndio e morre queimado em SC Um homem morreu queimado após invadir um restaurante e incendiar o local com combustível em Joinville, no Norte de Santa Catarina. Segundo a Polícia Militar, o invasor estava à procura da ex-companheira, que não estava no local. Segundo a Polícia Civil, o homem trancou a porta do restaurante antes de atear fogo. Funcionários tentaram impedir a ação, mas não conseguiram evitar o incêndio e ficaram feridos. ✅Clique e siga o canal do g1 SC no WhatsApp O crime ocorreu no sábado (29). Câmeras de segurança de um imóvel…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/08/30/claroes-no-ceu-explosao-e-fogo-incendio-em-subestacao-de-energia-assusta-moradores-em-goias-video.ghtml"
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/30/homem-invade-restaurante-atras-ex-gasolina-incendio-morre-queimado-joinville.ghtml"
             }
           ],
-          "updatedAt": "2026-08-30T11:22:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/nVuFQv-ET-_8g7v0QhP34ruHPBc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/0/GAsWAuT4Ch72zaBR5p0w/fogo-estacao-ipameri-goias.jpg"
+          "updatedAt": "2026-08-30T17:37:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HgntlVJXuGJB4BZ-Z0sh4RPKdX0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/5/ZY2fzoQEm3d6BIAd86Kw/fotojet.jpg"
         },
         {
-          "clusterId": "5670e460b0e0b1a8",
-          "slug": "7e373c229adc5d86",
-          "titulo": "Acidente com 4 carretas na BR-251 e apreensão de máquinas agrícolas: veja as notícias mais lidas da semana",
-          "resumo": "O g1 Grande Minas reúne as cinco notícias mais lidas nos últimos sete dias para você encerrar a semana bem informado. Entre os assuntos mais acessos pelos internautas estão: A liberação do trânsito após um acidente com quatro carretas na BR-251, a apreensão de maquinários, implementos agrícolas e motos durante uma operação de combate a crimes ambientais e uma carreta destruída por um incêndio na BR-251. 📲Clique aqui para seguir o canal do g1 Grande Minas no WhatsApp Veja os destaques Trânsito interditado na BR-251 Local ond eo acidente ocorreu Samu A notícias mais lida da semana foi sobre a…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/30/acidente-com-4-carretas-na-br-251-e-apreensao-de-maquinas-agricolas-veja-as-noticias-mais-lidas-da-semana.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-30T11:21:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WyEp9YI21fF7DxCJu4-_A9QbEtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/W/DqNnrUTPAOedWtilm5fQ/whatsapp-image-2026-08-22-at-11.27.49-2-1-.jpeg"
-        },
-        {
-          "clusterId": "ef83c198c6991431",
-          "slug": "87aaa012e2cb7f49",
-          "titulo": "VÍDEO: Equipamento de energia explode e provoca incêndio em subestação de Interlagos, na Zona Sul de SP",
-          "resumo": "Equipamento de energia explode e provoca incêndio em subestação na Zona Sul de SP Um equipamento da Subestação Interlagos, da ISA Energia Brasil, apresentou uma explosão seguida de incêndio na madrugada deste domingo (30), na Zona Sul de São Paulo. O caso foi registrado por volta da 1h17, na unidade localizada na Avenida Gregório Bezerra, 303. Segundo a ISA Energia Brasil, o incidente não provocou interrupção de carga e o fornecimento de energia permaneceu normal na região. Não houve registro de pessoas feridas. Equipamento de energia explode e provoca incêndio em subestação de Interlagos, na…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/30/video-equipamento-de-energia-explode-e-provoca-incendio-em-subestacao-de-interlagos-na-zona-sul-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-30T10:43:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/V_bkFSe2U_xnhl4X4NnSwqXvGCI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/o/ULcy2QQj6fWqCO6IWk7Q/fotojet-2026-08-30t083448.532.jpg"
-        },
-        {
-          "clusterId": "ce3811226f313ba8",
-          "slug": "36ddb3a5b9f5be9d",
-          "titulo": "“Terremoto”: Como o Irã ameaça responder à ofensiva financeira dos EUA",
-          "resumo": "Teerã destaca sua capacidade de causar danos recíprocos, alertando para ataques ampliados contra produtores de petróleo da região e países europeus",
+          "clusterId": "bb39df130f689f61",
+          "slug": "3773981aca7a3a30",
+          "titulo": "Nepal enterra quase 200 corpos em floresta por lotação de necrotérios",
+          "resumo": "Equipes de resgate recuperaram 272 corpos não identificados provenientes do Tibete, na China, após as enchentes devastadoras na região do Himalaia",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-como-o-ira-ameaca-responder-a-ofensiva-financeira-dos-eua/"
+              "url": "https://www.cnnbrasil.com.br/internacional/nepal-enterra-quase-200-corpos-em-floresta-por-lotacao-de-necroterios/"
             }
           ],
-          "updatedAt": "2026-08-30T10:00:19.000Z"
+          "updatedAt": "2026-08-30T17:29:53.000Z"
         },
         {
-          "clusterId": "2dadb81a5d8ffc4f",
-          "slug": "35d39e8f6666fb47",
-          "titulo": "Colapso glacial: o fenômeno que causou a enchente repentina na fronteira entre Nepal e Tibete",
-          "resumo": "Inicialmente, os cientistas acreditavam que a causa do evento havia sido um terremoto. Mas depois descobriram que os tremores estavam relacionados a um colapso glacial.",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c70l4jen7qro?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-08-30T09:31:39.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70ae/live/cfc0b1b0-a20e-11f1-a291-b542ee92de7c.jpg"
-        },
-        {
-          "clusterId": "6c330aa17c2e59fe",
-          "slug": "73229fd4d88edcd3",
-          "titulo": "Câmeras e agulhas: cientistas australianos desenvolvem baratas-robô para salvar vidas; VÍDEO",
-          "resumo": "Pesquisadores querem usar baratas para resgates em desastres Um enxame de baratas gigantes pode parecer coisa de pesadelo, mas pesquisadores australianos afirmam que os insetos poderão, no futuro, ser usados por equipes de busca e resgate para levar medicamentos que podem salvar vidas a pessoas presas após desastres. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Cientistas da Universidade de Queensland e da Universidade de Nova Gales do Sul desenvolveram baratas-ciborgues paramédicas, apelidadas de “paraborgs”, equipadas com pequenos dispositivos de injeção e câmeras. A…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ciencia/noticia/2026/08/30/cameras-e-agulhas-cientistas-australianos-desenvolvem-baratas-robo-para-salvar-vidas-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-30T08:00:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bP5UM-Tu3V2ulbr7pkeJzpYUV7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/3/t2OFCYTvCmS1hPLxRikQ/2026-08-27t094421z-185562462-rc2nqmax5zc6-rtrmadp-3-australia-tech-cockroach.jpg"
-        },
-        {
-          "clusterId": "a95c93e5ffd4dd75",
-          "slug": "002473be91371bd9",
-          "titulo": "Deslizamento forma novo lago perto da fronteira entre China e Nepal",
-          "resumo": "Equipes de resgate próximas ao porto de Gyirong evacuaram a área",
+          "clusterId": "44397a00c9e9f328",
+          "slug": "41eebce5aa4feea4",
+          "titulo": "“Me sinto perdida”, diz mulher no Nepal ao perder 17 familiares em enchente",
+          "resumo": "Número de mortos em inundações no Nepal e na China ultrapassou 800 pessoas, de acordo com a atualização da polícia local deste domingo (30)",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/deslizamento-forma-novo-lago-perto-da-fronteira-entre-china-e-nepal/"
+              "url": "https://www.cnnbrasil.com.br/internacional/me-sinto-perdida-diz-mulher-no-nepal-ao-perder-17-familiares-em-enchente/"
             }
           ],
-          "updatedAt": "2026-08-30T06:43:01.000Z"
+          "updatedAt": "2026-08-30T17:16:44.000Z"
+        },
+        {
+          "clusterId": "10697127698ee4e4",
+          "slug": "1a26369b70306335",
+          "titulo": "Novo ciclone extratropical se forma no Sul e deve intensificar chuvas",
+          "resumo": "Previsão é de precipitação intensa, com volumes de 150 a 200mm em alguns pontos dos estados, há risco de alagamento e deslizamentos a partir de segunda-feira (31)",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/novo-ciclone-extratropical-se-forma-no-sul-e-deve-intensificar-chuvas/"
+            }
+          ],
+          "updatedAt": "2026-08-30T16:58:40.000Z"
+        },
+        {
+          "clusterId": "a3d34a784d2587bb",
+          "slug": "9434337042881810",
+          "titulo": "Capotamento na viagem de Laranjal do Jari a Macapá deixa uma pessoa morta e três feridas",
+          "resumo": "Um capotamento deixou uma pessoa morta e três gravemente feridas na manhã deste domingo (30), em um trecho da BR-156 próximo à comunidade de Água Branca do Cajari, no trecho que liga Laranjal do Jari a Macapá. Com o impacto do acidente, a vítima fatal ficou presa às ferragens do veículo, segundo informações do Corpo Bombeiros Militar do Amapá (CBM). ✅ Clique aqui para seguir o canal do g1 AP no WhatsApp Agora no g1 Equipes do Grupo Tático Aéreo (GTA), Polícia Rodoviária Federal (PRF), Bombeiros e Polícia Científica do Amapá (PCA) foram acionadas ao local para realizar a soltura do corpo e…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ap/amapa/noticia/2026/08/30/capotamento-na-viagem-de-laranjal-do-jari-a-macapa-deixa-uma-pessoa-morta-e-duas-feridas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T16:47:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vl0hKqHLduifHOtPS2bPWA8QcUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/F/uDfvuqQiiSKEQEFzrcUg/aleixo-g1-1-.jpg"
+        },
+        {
+          "clusterId": "2de24958cb177d64",
+          "slug": "613835bf2700fe7a",
+          "titulo": "Batida entre dois carros deixa três pessoas mortas e duas feridas em Paraguaçu",
+          "resumo": "Três pessoas morreram e duas ficaram feridas em uma batida envolvendo dois veículos, na manhã deste domingo (30), na CMG-491, em Paraguaçu (MG). 📲 Siga a página do g1 Sul de Minas no Instagram De acordo com informações da concessionária EPR Vias do Café, responsável pelo trecho, a colisão foi registrada às 8h06, no km 196. Em um dos veículos, um Fiat Uno, estava um casal de namorados, moradores de Paraguaçu, que morreu no local. O homem foi identificado como Wesley Alves da Silva, de 25 anos. A identidade da namorada dele, de 30 anos, não havia sido confirmada até a última atualização desta…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/08/30/acidentes-de-transito-no-sul-de-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T16:34:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/clYQeBr5Twwq4Gzx0lT-MCDMto4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/u/tJBUPSTPiM49f96T7qIQ/acidente-paraguacu.jpeg"
+        },
+        {
+          "clusterId": "7536d8c056fcc50b",
+          "slug": "3b6cb941445092e7",
+          "titulo": "Acidente entre moto e carro deixa homem ferido na Via Dutra, em Barra Mansa",
+          "resumo": "Um acidente entre carro e moto deixou um homem ferido no início da tarde deste domingo (30) na Via Dutra, em Barra Mansa (RJ). O caso aconteceu na altura do km 271, na pista sentido São Paulo, por volta de 11h52. Segundo a Polícia Rodoviária Federal, a vítima, que pilotava a motocicleta, foi socorrido com ferimentos. Os agentes estão no local para o atendimento da ocorrência. De acordo com a CCR RioSP, concessionária que administra o trecho, equipes da concessionária estão no local para prestar socorro e orientar o tráfego de veículos. Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/30/acidente-entre-moto-e-carro-deixa-homem-ferido-na-via-dutra-em-barra-mansa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T16:34:30.000Z"
+        },
+        {
+          "clusterId": "3d80e09c1fb2af87",
+          "slug": "5abf3219c3277706",
+          "titulo": "Nepal enterra centenas de vítimas não identificadas após enchentes",
+          "resumo": "No sábado (29), as autoridades enterraram 96 corpos não identificados na floresta e planejavam enterrar mais de 100 neste domingo",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/nepal-enterra-centenas-de-vitimas-nao-identificadas-apos-enchentes/"
+            }
+          ],
+          "updatedAt": "2026-08-30T16:24:51.000Z"
+        },
+        {
+          "clusterId": "7ededd97146e0d68",
+          "slug": "a67cb201cd765be9",
+          "titulo": "Motociclista morre após invadir contramão e atingir lateral de carreta em rodovia no ES",
+          "resumo": "Motociclista morre após invadir contramão e atingir lateral de carreta em rodovia no ES Um motociclista de 29 anos morreu após bater na lateral de uma carreta na zona rural de São Mateus, no Norte do Espírito Santo, na tarde deste sábado (29). A vítima, que não teve a identidade divulgada, teve a morte constatada ainda no local da colisão. O acidente foi registrado em vídeo por um carro que passava pelo trecho, na Rodovia Miguel Curry Carneiro (veja acima). Nas imagens, é possível ver o momento em que o piloto da moto trocou de faixa e se deparou com o caminhão vindo no sentido contrário. 📲…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/08/30/motociclista-morre-apos-invadir-contramao-e-atingir-lateral-de-carreta-em-rodovia-no-es.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T16:14:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jOs6knoQu2vdEMbpR4HhOJ3CV2Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/G/PADYSZSVOJdLxexVud4g/thumb-fotos-2026-08-30t131217.834.jpg"
+        },
+        {
+          "clusterId": "7d6cc89ebf3a8ff5",
+          "slug": "65945cfa0f8c9353",
+          "titulo": "Homem morre após acidente de moto na zona rural de Monsenhor Gil",
+          "resumo": "Luciano da Silva Santos morreu após um acidente de moto na madrugada deste domingo (30), na PI-350, próximo ao povoado Monte Alegre, na zona rural de Monsenhor Gil, a cerca de 60 km de Teresina. Segundo a Polícia Militar, o acidente ocorreu por volta das 3h30. ✅ Siga o canal do g1 Piauí no WhatsApp Uma equipe do Serviço de Atendimento Móvel de Urgência (Samu) foi acionada e constatou que a vítima já estava sem vida quando os socorristas chegaram ao local. A área foi isolada pela Polícia Militar. Em seguida, os policiais acionaram o Instituto de Medicina Legal (IML) e a Perícia Criminal para…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/30/homem-acidente-moto-monsenhor-gil.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T16:07:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mIIX588zlZe5uVQFsDzQCLzxaLg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/m/AuBgt1QP6kY7523ZsCBA/edicao-imagens-g1-6-.png"
+        },
+        {
+          "clusterId": "6a42db38decf0c89",
+          "slug": "7d7584363f569d03",
+          "titulo": "Homem esfaqueado em festa morre após acidente de carro a caminho do hospital em São Miguel do Guamá, no Pará",
+          "resumo": "Homem morre após ser esfaqueado e sofrer acidente de carro a caminho do hospital no Pará. Reprodução / Redes sociais Um homem conhecido como \"Zé Orico\" em São Miguel do Guamá, no nordeste do Pará, morreu após ter sido esfaqueado durante um evento festivo e, a caminho do hospital, o carro em que ele estava sofrer um acidente de trânsito na madrugada deste domingo (30). De acordo com a polícia, o crime de agressão por arma branca ocorreu no bairro Umarizal. Após ser atingido pelos golpes, Zé Orico foi socorrido por um amigo, que o colocou em um veículo particular e dirigiu em direção ao…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/08/30/homem-esfaqueado-em-festa-morre-apos-acidente-de-carro-a-caminho-do-hospital-em-sao-miguel-do-guama-no-para.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T16:04:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/G1nSlpMh7qoXGyHpI_ELGai1Mao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/A/B0fstnTtATxZAoaJIk2w/sem-titulo.png"
+        },
+        {
+          "clusterId": "864c7e60b24f623b",
+          "slug": "2f317742df03e2af",
+          "titulo": "Caminhonete bate em poste, deixa dois feridos e interdita parte de avenida em Montes Claros",
+          "resumo": "Acidente foi em Montes Claros e deixou dois feridos Corpo de Bombeiros Militar Uma caminhonete bateu em um poste de energia elétrica e deixou duas pessoas feridas na madrugada de 30 de agosto, em Montes Claros. Segundo o Corpo de Bombeiros, o acidente ocorreu por volta de 1h15, na Avenida Comendador Antônio Loureiro Ramos, nas proximidades do Distrito Industrial. De acordo com os bombeiros, informações apuradas no local apontam que o motorista da Chevrolet S-10 teria perdido o controle da direção e batido de frente no poste. 📲Clique aqui para seguir o canal do g1 Grande Minas no WhatsApp…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/30/caminhonete-bate-em-poste-deixa-dois-feridos-e-interdita-parte-de-avenida-em-montes-claros.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T15:50:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/buXL0tn4zV8wiJhUNiqBdgu0sD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/X/A2H4YvSvuD0ITOiP3zZA/batida-montes-claros.jpg"
+        },
+        {
+          "clusterId": "978dddd8fee16788",
+          "slug": "c9c4adadec660da8",
+          "titulo": "Corpo de mulher é encontrado carbonizado em canavial após incêndio no interior de SP",
+          "resumo": "Caso é investigo pela Delegacia de Penápolis (SP) Arquivo pessoal O corpo de uma mulher foi encontrado carbonizado em um canavial atingido por um incêndio na manhã deste domingo (30) na Estrada José Vigilato de Castilho, em Penápolis (SP). Segundo o boletim de ocorrência, o dono da plantação foi avisado por um vizinho sobre o fogo. Ele foi até o local, acompanhado de um funcionário, e usou um caminhão-pipa para apagar as chamas. 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Agora no g1 Depois que o incêndio foi controlado, os dois encontraram o corpo da mulher em meio à área…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/30/corpo-de-mulher-e-encontrado-carbonizado-em-canavial-apos-incendio-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T15:45:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/oik4Map6xefDd5CE2ZxVc7jVEK4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/Z/BCdnSfRpuYSJZGuzeR5Q/whatsapp-image-2026-08-30-at-13.27.18.jpeg"
+        },
+        {
+          "clusterId": "167162924725ddca",
+          "slug": "e2625bfdcf381ad9",
+          "titulo": "VÍDEO mostra resgate de menina no Nepal dois dias após avalanche destruir casa onde ela estava",
+          "resumo": "Criança é resgatada no Nepal dois dias após deslizamento A Força Armada Policial do Nepal divulgou neste sábado (29) o resgate de uma menina dos escombros de uma casa após a avalanche que atingiu o país. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Segundo a postagem da corporação nas redes sociais, a retirada da criança ocorreu na sexta-feira (28), dois dias após a tragédia. O resgate ocorreu em uma casa perto do posto de fronteira de Timure, que divide o Nepal e o Tibete chinês. Não foram divulgadas informações sobre a idade da criança, sua situação de saúde ou se ela perdeu…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/29/video-mostra-resgate-de-menina-no-nepal-dois-dias-apos-avalanche-destruir-casa-onde-ela-estava.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-29T20:09:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/i7XhkJ9GDjziAwbMf9E9LttEBRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/hzEFbrRxKexoFiCMjogA/vlcsnap-2026-08-29-17h26m40s902.png"
         },
         {
           "clusterId": "030ac03ccf0972bb",
@@ -555,23 +671,6 @@
           ],
           "updatedAt": "2026-08-29T18:05:11.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/acOGYH79l1DDCzX5XuIWCmtYZ9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/b/YFhx3cSGazmPBzA7PQyg/ap26240128743012.jpg"
-        },
-        {
-          "clusterId": "f6e376a9fe596fb2",
-          "slug": "b5f7056b9d5b2d63",
-          "titulo": "Mãe reencontra filho de 8 anos que subiu em árvores para sobreviver à avalanche no Nepal: 'Achei que tivesse morrido'",
-          "resumo": "Ghale, de 8 anos, correu para uma floresta e subiu em árvores para escapar das enchentes que devastaram o norte do Nepal. Resgatado sozinho de helicóptero, com uma perna quebrada e ferimentos no rosto, ele conseguiu reencontrar a mãe nesta sexta-feira (28), um dia depois de ela começar a temer que os dois filhos tivessem morrido. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Enquanto o menino era levado para um hospital em Katmandu, a mãe, Matti Maya Tamang, de 28 anos, passava por abrigos e pontos de coleta à procura dos filhos desaparecidos. Os dois estavam na escola quando a…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/28/mae-reencontra-filho-de-8-anos-que-subiu-em-arvores-para-sobreviver-a-avalanche-no-nepal-achei-que-tivesse-morrido.ghtml"
-            }
-          ],
-          "updatedAt": "2026-08-28T19:16:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/nFM_VfWjXx_b1QgtHJZQFQicWFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/R/xbMfAHReqPD8VZwTQ1Tw/2026-08-28t171112z-773593332-rc2k7na5ovna-rtrmadp-3-nepal-floods-reunion.jpg"
         }
       ]
     },
@@ -580,7 +679,45 @@
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "681e506f0fc956cc",
+          "clusterId": "d651c05e5e8017b1",
+          "slug": "80106decccd891a3",
+          "titulo": "Diretor de escola evacua 900 alunos para evitar inundações no Nepal",
+          "resumo": "O diretor Rajendra Dawadi, da Escola de Ensino Médio Tribhuvan Trishuli, em Nuwakot, recebeu quatro avisos de risco de inundação em poucos minutos e decidiu evacuar cerca de 900 estudantes para um local seguro. A escola tem pouco mais de 1.600 alunos. A evacuação evitou que os alunos e o diretor fossem atingidos pelas enchentes.",
+          "porQueImporta": "A ação rápida do diretor salvou centenas de vidas durante um desastre natural.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/30/o-diretor-de-escola-que-salvou-900-estudantes-das-inundacoes-no-nepal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T15:27:24.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b03/live/1f2a22a0-a475-11f1-a291-b542ee92de7c.jpg"
+        },
+        {
+          "clusterId": "b579de4960228d5c",
+          "slug": "6b90db3f995cb004",
+          "titulo": "Número de mortos após inundações no Nepal e na China sobe para 750",
+          "resumo": "As fortes chuvas que atingiram o Nepal e o Tibete chinês resultaram em 750 mortes, segundo autoridades de ambos os países. Mais de 3.000 pessoas permanecem desaparecidas, com 2.426 no Nepal e 554 na China. A maioria dos desaparecidos são estrangeiros, incluindo turistas e trabalhadores de usinas hidrelétricas. A reconstrução pode custar até R$ 26 bilhões.",
+          "porQueImporta": "O aumento no número de vítimas destaca a gravidade das enchentes e a necessidade de ações de socorro e reconstrução.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/29/numero-de-mortos-enchentes-no-nepal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T06:21:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/LdIkmHKFipzQYfC4ZLk7-9YlEpE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/n/zxbc17QouJdWZoxLi5YQ/globo-canal-4-20260828-2000-frame-109397.jpeg"
+        },
+        {
+          "clusterId": "4f031915f8f55ffd",
           "slug": "919103515e6818c4",
           "titulo": "Enchentes no Himalaia deixam mais de 700 mortos e 3 mil desaparecidos",
           "resumo": "As fortes chuvas na região do Himalaia provocaram inundações e deslizamentos que resultaram em mais de 700 mortes no Nepal e no Tibete. Aproximadamente 3.044 pessoas ficaram desaparecidas, incluindo 540 estrangeiros. Milhares de agentes de segurança foram mobilizados para buscas e resgates, e o governo nepalesa aceitou ajuda internacional para reforçar as operações.",
@@ -591,41 +728,131 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/08/29/por-que-as-imagens-das-inundacoes-no-nepal-e-no-tibete-nao-sao-mostradas-na-china-e-se-sabe-pouco-sobre-as-vitimas-no-pais.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/numero-de-mortos-em-enchentes-no-nepal-e-na-china-ultrapassa-800/"
-            },
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-internacional/numero-de-mortos-em-enchentes-no-nepal-e-tibete-sobe-para-734/"
             }
           ],
-          "updatedAt": "2026-08-30T13:04:34.000Z",
+          "updatedAt": "2026-08-30T05:25:15.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/acOGYH79l1DDCzX5XuIWCmtYZ9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/b/YFhx3cSGazmPBzA7PQyg/ap26240128743012.jpg"
         }
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "e69eaddf09730f35",
-          "slug": "01153dae8744277d",
-          "titulo": "Menina de 6 anos resgatada após avalanche no Nepal",
-          "resumo": "Uma menina de 6 anos foi retirada viva dos escombros de uma casa que caiu durante uma avalanche no Nepal. O resgate ocorreu em uma casa próxima ao posto de fronteira de Timure, entre Nepal e Tibete chinês, dois dias após o desastre. Imagens mostram a família, incluindo a criança, presa em uma varanda enquanto a enchente de lama e entulho avançava. A operação foi realizada pela Força Armada Policial do Nepal.",
-          "porQueImporta": "Ilustra os perigos de deslizamentos em regiões montanhosas e a necessidade de respostas rápidas de emergência.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "c7baf67f9fb97c7f",
+          "slug": "4dfab5edbbef3e4e",
+          "titulo": "Defesa Civil emite alerta severo para chuvas em São Paulo",
+          "resumo": "A Defesa Civil emitiu alerta severo para chuvas nas regiões sul e leste de São Paulo, incluindo o ABC e Embu das Artes. O aviso, divulgado às 15h22 de domingo, prevê raios, ventos fortes e granizo em diversas áreas do estado. A medida visa prevenir alagamentos e danos causados pela chuva intensa.",
+          "porQueImporta": "O alerta informa a população sobre riscos de inundações e danos, permitindo precauções e preparação.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-chuvas-em-sp/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/defesa-civil-emite-alerta-severo-para-chuvas-apos-dia-virar-noite-em-sp"
+            }
+          ],
+          "updatedAt": "2026-08-30T19:10:07.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/chuva-sp.jpg"
+        },
+        {
+          "clusterId": "3cbc5cfb631bb583",
+          "slug": "84a47335d75d9814",
+          "titulo": "Temporais causam danos em cidades do Paraná",
+          "resumo": "Ventos fortes arrancaram árvores em Cascavel, com uma delas atingindo a fiação de postes. Em Pinhão, granizo danificou sete comunidades, incluindo casas que tiveram coberturas arrancadas. A Defesa Civil registrou danos em diversas áreas e alertou sobre a falta de energia.",
+          "porQueImporta": "Os eventos aumentam o risco de acidentes e interrupções de serviços públicos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/08/28/avalanche-no-nepal-video-mostra-familia-ilhada-em-casa-cercada-pela-enchente.ghtml"
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/30/estragos-temporais-parana.ghtml"
             }
           ],
-          "updatedAt": "2026-08-29T20:09:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SrbkAHJmf8UJEJDzLM1IUkK6fic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/7/V7uKiqTmWIGLQ84tNtAg/novo-projeto-8-.jpg"
+          "updatedAt": "2026-08-30T18:48:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VF9n7wBo4b9cThAC4Szp-7djWIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/mY49utSiepWAgJFzuWmQ/whatsapp-image-2026-08-30-at-14.40.35.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "desastre",
+      "label": "Desastre",
+      "stories": [
+        {
+          "clusterId": "b500806b8f89afed",
+          "slug": "7f00468441604f11",
+          "titulo": "Desastres no Nepal deixam mais de 3 mil estrangeiros desaparecidos",
+          "resumo": "Enchentes e deslizamentos no Nepal, provocados pelo colapso de uma geleira no Himalaia, resultaram em mais de 3.000 estrangeiros desaparecidos. O hospital local exibe cartazes com mais de 2.000 nomes, enquanto o governo aceita ajuda internacional para reforçar buscas e salvamentos. Operações de resgate foram retomadas após suspensão causada por chuva intensa e nevoeiro.",
+          "porQueImporta": "A situação destaca a necessidade de cooperação internacional em emergências naturais e a vulnerabilidade de viajantes em regiões de risco.",
+          "categoria": "Desastre",
+          "categoriaSlug": "desastre",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/29/governo-do-nepal-volta-atras-e-aceita-ajuda-internacional-cerca-de-3-mil-seguem-desaparecidos.ghtml"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/ao-menos-511-estrangeiros-estao-desaparecidos-no-nepal-veja-nacionalidades"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/hospital-do-nepal-exibe-centenas-de-cartazes-com-desaparecidos-em-enchentes/"
+            }
+          ],
+          "updatedAt": "2026-08-30T18:12:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PeJmZrpGWqf7AGwVUULYGHLCJM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/a/4QgIOaToAzFiG8TmrROA/ap26239389270089.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "86c1ccc53474d4f1",
+          "slug": "0a166b24108de411",
+          "titulo": "Balsa vira no norte do Chipre, deixando 8 mortos e 17 desaparecidos",
+          "resumo": "Uma balsa com cerca de 270 pessoas a bordo virou no norte do Chipre, resultando em oito mortes e 17 desaparecidos. O barco partiu do porto de Kyrenia e começou a entrar água imediatamente após a partida. Os sobreviventes relataram movimentos erráticos antes do impacto final com a superfície da água. As autoridades investigam as causas do acidente.",
+          "porQueImporta": "O incidente destaca riscos de transporte marítimo em rotas regionais e a necessidade de medidas de segurança adequadas.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/08/30/naufragio-de-balsa-no-norte-do-chipre-deixa-8-mortos-e-17-desaparecidos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T18:57:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/seWE1cJBOkzWIfQN7dAIlY4S904=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/A/k9NbTxTOqBN1MYdpfjDw/fotos-g1-1920-x-1080-px-2026-08-30t155152.690.png"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "d4fd2beab8c1ebc9",
+          "slug": "a61f531db824e976",
+          "titulo": "Incêndio atinge vegetação em Caapiranga",
+          "resumo": "Um incêndio começou na estrada do Membeca, em Caapiranga, no interior do Amazonas, e se espalhou pela vegetação local. Moradores relatam temor de que as chamas atinjam sítios próximos. Vídeos mostram a extensão do fogo e a Rede Amazônica registrou pelo menos três pacas mortas carbonizadas.",
+          "porQueImporta": "O fogo pode ameaçar propriedades rurais e a fauna local.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/30/incendio-atinge-vegetacao-em-caapiranga-e-moradores-temem-que-sitios-sejam-destruidos-a-gente-esta-arriscando-a-vida.ghtml"
+            }
+          ],
+          "updatedAt": "2026-08-30T18:46:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GpzNr02s9RDmoBrzuv5IimYUoX0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/f/hjyZAqQUALbEDT3A9AbQ/captura-de-tela-2026-08-30-140126.png"
         }
       ]
     }
