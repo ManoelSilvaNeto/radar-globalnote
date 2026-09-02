@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-09-02T04:57:26.758Z",
+  "ranAt": "2026-09-02T12:55:30.507Z",
   "editionDate": "2026-09-02",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Desastres e acidentes dominam o cenário global e nacional\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
