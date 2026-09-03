@@ -1,182 +1,361 @@
 {
   "date": "2026-09-03",
-  "generatedAt": "2026-09-03T04:55:22.085Z",
+  "generatedAt": "2026-09-03T12:57:59.616Z",
   "home": [
     {
-      "clusterId": "7c7c909907e83b9d",
-      "slug": "e929a6363f90d6a8",
-      "titulo": "Frente fria traz chuva ao RS e risco de granizo",
-      "resumo": "Uma frente fria chegará ao Rio Grande do Sul nesta quinta, interrompendo o tempo estável e trazendo aumento da nebulosidade e chuva em várias regiões. A previsão indica possibilidade de granizo e rajadas de vento de até 70 km/h no extremo sul do estado. As temperaturas devem cair, criando condições favoráveis à formação de geada no fim de semana. O interior do país permanece com tempo seco e quente.",
-      "porQueImporta": "Mudanças bruscas de tempo podem afetar atividades ao ar livre, mobilidade e segurança dos moradores.",
+      "clusterId": "33a226f7a5e32c18",
+      "slug": "7ef7a3873a0a4f5b",
+      "titulo": "Acidente entre moto e carro deixa ferido na Dutra em Taubaté",
+      "resumo": "Um carro e uma moto colidiram na Rodovia Presidente Dutra, km 112, em Taubaté, deixando uma pessoa ferida. O acidente ocorreu por volta das 7h47, segundo a concessionária RioSP. Não há informações sobre o estado de saúde da vítima. O congestionamento atingiu 10 km, do km 113 ao 123.",
+      "porQueImporta": "O incidente destaca riscos de trânsito na Dutra e a necessidade de atenção ao dirigir em condições de tráfego intenso.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/03/acidente-entre-moto-e-carro-deixa-um-ferido-na-dutra-em-taubate.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-03T12:41:09.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/JopqjBmNTlZPYgTHfRebf66VS-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/S/9YsEB8QGuzOrX1vSAzig/foto-g1-12-.png"
+    },
+    {
+      "clusterId": "28847c6da781a5b3",
+      "slug": "cd4e99498083b1d4",
+      "titulo": "Goiano cria app para checar histórico de pessoas antes de encontros",
+      "resumo": "Lindon Johnson Cândido Fonseca Mendes, de 25 anos, desenvolveu um aplicativo chamado Checking que reúne dados de fontes públicas para avaliar riscos de segurança em pessoas. A ideia surgiu após a amiga de Lindon ter sido vítima de violência por seu namorado, que possuía histórico anterior de agressões. O app permite checar histórico antes de um primeiro encontro.",
+      "porQueImporta": "O aplicativo pode prevenir situações de violência ao oferecer informações de risco antes de encontros pessoais.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/go/goias/noticia/2026/09/03/goiano-cria-app-para-checar-historico-da-pessoa-antes-de-primeiro-encontro-apos-trauma-vivido-por-amiga.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-03T12:36:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_7ML8GwhFsPF1siT2mIFFdC771s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/O/xEobbpTVOAM1B5pYMyNA/padrao-foto-texto-g1-2026-09-03t090757.692.jpg"
+    },
+    {
+      "clusterId": "16392bcac8387d5e",
+      "slug": "e38b9b7feb17a6f9",
+      "titulo": "ONU prevê El Niño muito forte e alerta para extremos",
+      "resumo": "A ONU prevê que o fenômeno El Niño atingirá pico de intensidade no fim de 2026. Secas, enchentes e ondas de calor podem se prolongar no próximo ano. O alerta destaca a possibilidade de extremos climáticos em diversas regiões.",
+      "porQueImporta": "O aumento da intensidade do El Niño pode agravar eventos climáticos extremos, afetando populações e infraestrutura.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/ciencia/onu-preve-el-nino-muito-forte-alerta-para-extremos-e-projeta-pico-em-2026/"
+        }
+      ],
+      "updatedAt": "2026-09-03T12:25:54.000Z"
+    },
+    {
+      "clusterId": "7c71cbf385d395d6",
+      "slug": "ec582a44309390d5",
+      "titulo": "Motorista morre após caminhonete bater em árvore na MGC-401",
+      "resumo": "Um motorista de 42 anos morreu na madrugada de quinta-feira (2) ao bater sua caminhonete contra uma árvore na MGC-401, em Jaíba. O acidente ocorreu perto do km 54, enquanto o condutor se dirigia a Matias Cardoso. O Corpo de Bombeiros e o Samu chegaram ao local, mas a vítima já estava em óbito. A Polícia Civil iniciou a perícia para apurar as causas.",
+      "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito em rodovias de Minas Gerais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/03/motorista-morre-apos-caminhonete-bater-em-arvore-na-mgc-401.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-03T12:25:24.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/jMPkZGvOpHt1zb4BLQ6-iteLLIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/M/mIF6SrQcWobIhJ1zzJCA/mgc401.jpeg"
+    },
+    {
+      "clusterId": "8518caea0d48eb1a",
+      "slug": "42d1a5e8a5a92a76",
+      "titulo": "Incêndio destrói propriedade rural em Santa Helena de Goiás",
+      "resumo": "Um incêndio que queimou quase mil hectares atingiu a propriedade de Francisco Rodrigues Sobrinho em Santa Helena de Goiás, resultando na perda da casa, lavouras e animais. O agricultor saiu apenas com roupas e documentos. A chuva ajudou a apagar as chamas.",
+      "porQueImporta": "O evento demonstra o impacto de incêndios florestais na segurança e na economia rural.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/go/goias/noticia/2026/09/03/agricultor-se-emociona-ao-falar-de-incendio-em-que-perdeu-tudo-saimos-so-com-a-roupa-do-corpo.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-03T12:13:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/fd3sufUZcaxtq2J7EIzVTFQcA2E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/g/ZLqhKmRMy9VSIa1zCZlQ/agricultor-perde-tudo-incendio-santa-helena-de-goias.jpg"
+    },
+    {
+      "clusterId": "c436ea65126e5b28",
+      "slug": "036af7828f607df5",
+      "titulo": "Frente fria se aproxima e traz chuva para o Paraná",
+      "resumo": "A frente fria que avançou no fim de semana trouxe tempestades ao Paraná, mas o tempo firmou na segunda-feira. A Climatempo prevê que a quinta-feira ainda será ensolarada, com mudança de clima na sexta, principalmente no sul do estado. No sábado as chuvas se espalharão e no domingo perderão força.",
+      "porQueImporta": "A previsão de chuva pode afetar mobilidade e atividades ao ar livre no estado.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/09/03/frente-fria-bahia-veja-previsao-do-tempo.ghtml"
+          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/03/frente-fria-se-aproxima-e-faz-chuvas-terem-data-para-voltar-ao-parana-veja-previsao-do-tempo.ghtml"
         }
       ],
-      "updatedAt": "2026-09-03T04:00:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lV-EqJJPqDKl3y9d7eombjIoScc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/h/o/r9L1kqTPmBzX70VYIgRQ/whatsapp-image-2025-05-02-at-08.31.02.jpeg"
+      "updatedAt": "2026-09-03T11:43:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/h9Ud6NhFUhwREWNOyQpTRfP-h-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/4/v0eBG5T2WaMG9LWoq7vg/g1-16-.png"
     },
     {
-      "clusterId": "8f1963dc16c68be3",
-      "slug": "58c37aadbf68193c",
-      "titulo": "Mensagens trocadas entre banqueiro e ministro do STF revelam possíveis interações",
-      "resumo": "A imprensa internacional destacou a divulgação de mensagens trocadas entre Daniel Vorcaro, banqueiro do Banco Master, e um número atribuído ao ministro Alexandre de Moraes, do Supremo Tribunal Federal. As mensagens sugerem interações entre Vorcaro e o ministro, além de contatos com pessoas ligadas à família de Moraes. O caso foi relatado pelo jornal O Estado de S. Paulo e repercutido por veículos internacionais.",
-      "porQueImporta": "A troca de mensagens pode indicar influência indevida de um banqueiro sobre decisões judiciais.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "7037014efc3a7dbb",
+      "slug": "086548150ade29da",
+      "titulo": "Governo do Nepal anuncia reconstrução de 20 mil casas após deslizamento",
+      "resumo": "O governo nepalesa informou que será necessário reconstruir 20 mil casas destruídas por um deslizamento de terra. Equipes de resgate continuam buscando trabalhadores presos em túneis de projetos hidrelétricos. Milhares de pessoas permanecem desaparecidas. A situação exige esforços coordenados de resgate e reconstrução.",
+      "porQueImporta": "O desastre afeta milhares de famílias e compromete infraestrutura crítica do país.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
       "sources": [
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cd79eygy3zjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/nepal-precisara-reconstruir-20-mil-casas-apos-deslizamento-diz-governo/"
         }
       ],
-      "updatedAt": "2026-09-02T08:45:15.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c02/live/5fdbdac0-a6a3-11f1-b048-153395f36aa1.jpg"
+      "updatedAt": "2026-09-03T11:37:00.000Z"
     },
     {
-      "clusterId": "be27c7ff25f5aefd",
-      "slug": "5e7c2d27d3871c88",
-      "titulo": "Água invade túnel de hidrelétrica no Nepal e trabalhadores desaparecem",
-      "resumo": "A enchente do rio Trishuli inundou o túnel da hidrelétrica de Rasuwagadhi, no distrito de Rasuwa, e deixou cerca de 30 trabalhadores desaparecidos. Um drone com câmera térmica não encontrou sinais de vida no interior do túnel. Um trabalhador nepalês relatou ter corrido por 20 minutos antes de ser resgatado. As equipes de resgate continuam procurando por sobreviventes.",
-      "porQueImporta": "O incidente destaca os riscos de construção em áreas sujeitas a enchentes repentinas.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/01/video-drone-nao-encontra-sinais-de-vida-em-tunel-de-hidreletrica-onde-ha-desaparecidos-no-nepal.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-03T03:00:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Vhsc_64MQNKEOVxAxAXKHhaBcnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/K/PxM5mcSfACQgSYtnbrpA/ezgif-339ae84400f59072.gif"
-    },
-    {
-      "clusterId": "b2714dd07cf2bc22",
-      "slug": "34ef7f6ec37f9f9d",
-      "titulo": "Roraima decreta emergência por seca e cria gabinete para enfrentar El Niño",
-      "resumo": "O governo do estado de Roraima decretou estado de emergência devido à seca que já afeta a produção agrícola e reduz o nível dos rios. Foi criado um gabinete específico para lidar com os efeitos do fenômeno El Niño. A situação aumenta o risco de incêndios florestais no estado. As autoridades buscam medidas para mitigar os impactos da estiagem.",
-      "porQueImporta": "A seca compromete a segurança alimentar e aumenta a vulnerabilidade a incêndios, afetando comunidades e ecossistemas locais.",
-      "categoria": "Seca",
-      "categoriaSlug": "seca",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/roraima-decreta-emergencia-por-seca-e-cria-gabinete-para-enfrentar-el-nino"
-        }
-      ],
-      "updatedAt": "2026-09-03T00:53:30.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/governo-de-roraima-e-setor-produtivo-unem-forcas-contra-os-efeitos-do-el-nino-neto-figueredo-secom-rr.jpg"
-    },
-    {
-      "clusterId": "638346100e25e179",
-      "slug": "4fcc00e358661704",
-      "titulo": "Cantor perde duas pernas em acidente de trânsito na Bahia",
-      "resumo": "O cantor Robert Astro perdeu as duas pernas após ser prensado entre veículos em um acidente de trânsito na Bahia. Ele foi internado no Hospital Clériston Andrade em Feira de Santana em 23 de agosto e passou 11 dias hospitalizado, incluindo cinco dias na UTI. Recebeu alta nesta quarta-feira.",
-      "porQueImporta": "O caso destaca os riscos de acidentes de trânsito e a necessidade de cuidados com a segurança viária.",
+      "clusterId": "161f15e7f0baa5e2",
+      "slug": "b5025cdedf6a09ac",
+      "titulo": "Músico morre em acidente de trânsito enquanto se dirige a show em Porto Alegre",
+      "resumo": "Diego Sanches, conhecido como Branco, de 42 anos, morreu em colisão envolvendo dois carros na noite de quarta-feira em Porto Alegre. Ele estava a caminho de um bar para tocar em um show. Amigos descrevem-no como alegre e generoso, que não cobrava por tocar em aniversários. O acidente ocorreu na região onde o veículo colidiu com outro, resultando na morte do músico.",
+      "porQueImporta": "A morte de um músico com mais de 20 anos de carreira representa uma perda cultural para a comunidade local.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/02/cantor-que-perdeu-pernas-em-acidente-na-bahia-recebe-alta.ghtml"
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/quem-era-musico-que-morreu-a-caminho-de-show-no-rs.ghtml"
         }
       ],
-      "updatedAt": "2026-09-03T00:35:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/V0O_Rqs3tLmTVBdTNpMC00PY5VA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/Hrv7GEQm2ZNdwvMcDS4A/fotos-g1ba-12-.jpg"
+      "updatedAt": "2026-09-03T11:33:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1PJjuxlY7HAO6eu22J-1sDn4ypU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/3/F6RWaRRkSV74QZDegXQg/g1-2-.jpg"
     },
     {
-      "clusterId": "b8d7fd2c4c311751",
-      "slug": "8e4ef74594df9831",
-      "titulo": "Adolescente de 16 anos capota Audi na Zona Sul de SP e fica preso nas ferragens",
-      "resumo": "Um adolescente de 16 anos capotou um Audi na Avenida Nova Independência, no Brooklin, na tarde de quarta-feira. O veículo bateu em um VW T-Cross, derrubou parte de um muro de oficina mecânica e danificou um Fiat Siena. O jovem ficou gravemente ferido e preso nas ferragens do Audi. Policiais militares atenderam a ocorrência após acionamento do Centro de Operações da Polícia Militar.",
-      "porQueImporta": "O acidente resultou em ferimentos graves e evidenciou riscos de capotamento em vias urbanas.",
+      "clusterId": "ff04fceb969469fa",
+      "slug": "abe216cea5965c27",
+      "titulo": "Acidente entre carros e motos causa congestionamento na BR-101 em Natal",
+      "resumo": "Um acidente envolvendo três carros e duas motos na BR-101, em Natal, gerou congestionamento próximo ao pórtico dos Reis Magos na manhã desta quinta-feira. A colisão ocorreu na pista central, no sentido de Parnamirim para Natal. Nenhum passageiro ficou gravemente ferido.",
+      "porQueImporta": "O incidente bloqueou a via principal, afetando o tráfego regional.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/02/adolescente-de-16-anos-capota-audi-na-zona-sul-de-sp-e-fica-preso-as-ferragens.ghtml"
+          "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/acidente-congestionamento-br-101-natal.ghtml"
         }
       ],
-      "updatedAt": "2026-09-03T00:23:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/q1xznZRvGuB-Y_imkW-Tx0x93VM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/c/iBsWFYQ1W4w914Bl3j1Q/fotojet-2026-09-02t211358.175.jpg"
+      "updatedAt": "2026-09-03T11:30:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/jJaUjlTDs_6-Tw6U0MIAcFlZxu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/i/AlYbfgTkycPgppoZAN1w/whatsapp-image-2026-09-03-at-08.07.38.jpeg"
     },
     {
-      "clusterId": "504ed1887d1115bc",
-      "slug": "f3cdcf24c0795ced",
-      "titulo": "Famílias organizam funerais sem corpos no Nepal uma semana após avalanche mortal",
-      "resumo": "Mortes em enxurrada no Nepal e no Tibete sobem para 1200 Famílias nepalesas organizaram cerimônias fúnebres simbólicas nesta quarta-feira (2) para \"libertar\" as almas dos parentes desaparecidos após a súbita e letal avalanche que, há uma semana, sepultou vilarejos na região do Himalaia, na fronteira com a China. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Em 26 de agosto, uma gigantesca onda de água gelada, rochas e detritos, provocada pelo colapso parcial de uma geleira, causou a tragédia que deixou mais de 1.200 mortos nos dois países e quase 4.700 desaparecidos. No Nepal,…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/01/como-a-china-censura-imagens-da-catastrofe-no-tibete-e-nepal.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-02T19:47:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ok3seFbiyAiccrGWk3-vNxcXKp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/M/u3yx8gRzmCBXPKtznnNQ/2026-08-26t105018z-1755018233-rc2a6nasuin0-rtrmadp-3-nepal-floods.jpg"
-    },
-    {
-      "clusterId": "2f35e0658e5226bd",
-      "slug": "88af4216becba85d",
-      "titulo": "Tragédia no Nepal causa mais de 1.100 mortes e quase 4.000 desaparecidos",
-      "resumo": "A avalanche causada pelo colapso de uma geleira no Nepal resultou em mais de 1.100 mortos e cerca de 3.900 desaparecidos, incluindo turistas estrangeiros. Operações de busca e resgate continuam uma semana após o desastre. O Ministério das Relações Exteriores informou que 324 estrangeiros foram resgatados até o momento. Ainda há 590 pessoas de 39 países desaparecidas.",
-      "porQueImporta": "O número elevado de vítimas e desaparecidos destaca a gravidade da crise humanitária no Nepal.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/02/numero-de-mortos-em-enchentes-no-nepal-passa-de-1100-turistas-desaparecidos-conseguem-contato.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-02T10:10:07.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/96itZMBFU2sji0TCwenSFUySLv8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/3/LTaHAfSxS6CwVXBjRTNg/ap26244501576492.jpg"
-    },
-    {
-      "clusterId": "b5e5e549134f253b",
-      "slug": "34d2f8ec015e27ea",
-      "titulo": "Explosão em estação de trem de Augsburg causa ferimentos leves",
-      "resumo": "Um objeto desconhecido explodiu em uma passagem interna de um prédio na estação de trem de Augsburg, no Sul da Alemanha. Duas pessoas de origem ucraniana ficaram feridas com lesões leves. A estação foi interditada após a descoberta do objeto suspeito. A polícia informou que o incidente ocorreu na quarta-feira.",
-      "porQueImporta": "O incidente pode afetar a segurança e o fluxo de passageiros na principal estação ferroviária da cidade.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/02/explosao-em-estacao-de-trem-na-alemanha.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-02T06:15:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zU5DDuhiV8w_WhmAdyOlJ_871mI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/p/5V0YPqQhCigtLvqxygtg/1366x768-cmsv2-357638f9-b189-5dc3-86b1-bfa6ad1e7ad0-9898075.webp"
-    },
-    {
-      "clusterId": "66c66a56dc7ff93b",
-      "slug": "821deb2246c230c4",
-      "titulo": "Acidente de ônibus no Egito deixa 21 mortos e dezenas de feridos",
-      "resumo": "Um ônibus colidiu na estrada Dahab-Nuweibaa, no leste do Egito, na Península do Sinai, resultando em 21 mortes e dezenas de feridos. O veículo transportava 43 pessoas, incluindo egípcios e jordanianos. Pelo menos 10 jordanianos morreram e outros ficaram feridos.",
-      "porQueImporta": "O acidente destaca a vulnerabilidade de rotas turísticas na região e a necessidade de medidas de segurança viária.",
+      "clusterId": "6d175276b292a440",
+      "slug": "9705da6de06997ed",
+      "titulo": "Vereador morre após ser arremessado de lancha que bateu em banco de areia no Rio Solimões",
+      "resumo": "O vereador Alvarães Edgar Litaiff Mendes Junior, conhecido como \"Edgarzinho\", morreu quando a lancha em que estava foi arremessada de um banco de areia no Rio Solimões, próximo ao município de Alvarães, no interior do Amazonas. O acidente ocorreu por volta das 22h de quarta-feira, quando o grupo retornava de Uarini para Alvarães. O vereador estava sentado na parte dianteira da embarcação aberta e teria sido lançado para a frente pelo impacto. A lancha continuou em movimento e passou sobre o vereador.",
+      "porQueImporta": "O incidente destaca a vulnerabilidade de embarcações abertas em rios de águas profundas e a necessidade de medidas de segurança para usuários e autoridades locais.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/02/acidente-de-onibus-no-egito.ghtml"
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/03/vereador-de-alvaraes-morre-apos-lancha-bater-em-banco-de-areia-no-rio-solimoes.ghtml"
         }
       ],
-      "updatedAt": "2026-09-02T06:02:31.000Z"
+      "updatedAt": "2026-09-03T11:20:56.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zRezwsNZVNWOfHupLFDxC9_QQv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/O/28kIJoTO2uYEVv57zY5w/vereador-de-alvaraes-edgar-litaiff-mendes-junior-1-.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "33a226f7a5e32c18",
+          "slug": "7ef7a3873a0a4f5b",
+          "titulo": "Acidente entre moto e carro deixa ferido na Dutra em Taubaté",
+          "resumo": "Um carro e uma moto colidiram na Rodovia Presidente Dutra, km 112, em Taubaté, deixando uma pessoa ferida. O acidente ocorreu por volta das 7h47, segundo a concessionária RioSP. Não há informações sobre o estado de saúde da vítima. O congestionamento atingiu 10 km, do km 113 ao 123.",
+          "porQueImporta": "O incidente destaca riscos de trânsito na Dutra e a necessidade de atenção ao dirigir em condições de tráfego intenso.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/03/acidente-entre-moto-e-carro-deixa-um-ferido-na-dutra-em-taubate.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-03T12:41:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JopqjBmNTlZPYgTHfRebf66VS-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/S/9YsEB8QGuzOrX1vSAzig/foto-g1-12-.png"
+        },
+        {
+          "clusterId": "7c71cbf385d395d6",
+          "slug": "ec582a44309390d5",
+          "titulo": "Motorista morre após caminhonete bater em árvore na MGC-401",
+          "resumo": "Um motorista de 42 anos morreu na madrugada de quinta-feira (2) ao bater sua caminhonete contra uma árvore na MGC-401, em Jaíba. O acidente ocorreu perto do km 54, enquanto o condutor se dirigia a Matias Cardoso. O Corpo de Bombeiros e o Samu chegaram ao local, mas a vítima já estava em óbito. A Polícia Civil iniciou a perícia para apurar as causas.",
+          "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito em rodovias de Minas Gerais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/03/motorista-morre-apos-caminhonete-bater-em-arvore-na-mgc-401.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-03T12:25:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jMPkZGvOpHt1zb4BLQ6-iteLLIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/M/mIF6SrQcWobIhJ1zzJCA/mgc401.jpeg"
+        },
+        {
+          "clusterId": "161f15e7f0baa5e2",
+          "slug": "b5025cdedf6a09ac",
+          "titulo": "Músico morre em acidente de trânsito enquanto se dirige a show em Porto Alegre",
+          "resumo": "Diego Sanches, conhecido como Branco, de 42 anos, morreu em colisão envolvendo dois carros na noite de quarta-feira em Porto Alegre. Ele estava a caminho de um bar para tocar em um show. Amigos descrevem-no como alegre e generoso, que não cobrava por tocar em aniversários. O acidente ocorreu na região onde o veículo colidiu com outro, resultando na morte do músico.",
+          "porQueImporta": "A morte de um músico com mais de 20 anos de carreira representa uma perda cultural para a comunidade local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/quem-era-musico-que-morreu-a-caminho-de-show-no-rs.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-03T11:33:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1PJjuxlY7HAO6eu22J-1sDn4ypU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/3/F6RWaRRkSV74QZDegXQg/g1-2-.jpg"
+        },
+        {
+          "clusterId": "ff04fceb969469fa",
+          "slug": "abe216cea5965c27",
+          "titulo": "Acidente entre carros e motos causa congestionamento na BR-101 em Natal",
+          "resumo": "Um acidente envolvendo três carros e duas motos na BR-101, em Natal, gerou congestionamento próximo ao pórtico dos Reis Magos na manhã desta quinta-feira. A colisão ocorreu na pista central, no sentido de Parnamirim para Natal. Nenhum passageiro ficou gravemente ferido.",
+          "porQueImporta": "O incidente bloqueou a via principal, afetando o tráfego regional.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/acidente-congestionamento-br-101-natal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-03T11:30:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/jJaUjlTDs_6-Tw6U0MIAcFlZxu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/i/AlYbfgTkycPgppoZAN1w/whatsapp-image-2026-09-03-at-08.07.38.jpeg"
+        },
+        {
+          "clusterId": "6d175276b292a440",
+          "slug": "9705da6de06997ed",
+          "titulo": "Vereador morre após ser arremessado de lancha que bateu em banco de areia no Rio Solimões",
+          "resumo": "O vereador Alvarães Edgar Litaiff Mendes Junior, conhecido como \"Edgarzinho\", morreu quando a lancha em que estava foi arremessada de um banco de areia no Rio Solimões, próximo ao município de Alvarães, no interior do Amazonas. O acidente ocorreu por volta das 22h de quarta-feira, quando o grupo retornava de Uarini para Alvarães. O vereador estava sentado na parte dianteira da embarcação aberta e teria sido lançado para a frente pelo impacto. A lancha continuou em movimento e passou sobre o vereador.",
+          "porQueImporta": "O incidente destaca a vulnerabilidade de embarcações abertas em rios de águas profundas e a necessidade de medidas de segurança para usuários e autoridades locais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/03/vereador-de-alvaraes-morre-apos-lancha-bater-em-banco-de-areia-no-rio-solimoes.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-03T11:20:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zRezwsNZVNWOfHupLFDxC9_QQv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/O/28kIJoTO2uYEVv57zY5w/vereador-de-alvaraes-edgar-litaiff-mendes-junior-1-.jpg"
+        },
+        {
+          "clusterId": "66c66a56dc7ff93b",
+          "slug": "821deb2246c230c4",
+          "titulo": "Acidente de ônibus no Egito deixa 21 mortos e dezenas de feridos",
+          "resumo": "Um ônibus colidiu na estrada Dahab-Nuweibaa, no leste do Egito, na Península do Sinai, resultando em 21 mortes e dezenas de feridos. O veículo transportava 43 pessoas, incluindo egípcios e jordanianos. Pelo menos 10 jordanianos morreram e outros ficaram feridos.",
+          "porQueImporta": "O acidente destaca a vulnerabilidade de rotas turísticas na região e a necessidade de medidas de segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/02/acidente-de-onibus-no-egito.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-02T06:02:31.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "28847c6da781a5b3",
+          "slug": "cd4e99498083b1d4",
+          "titulo": "Goiano cria app para checar histórico de pessoas antes de encontros",
+          "resumo": "Lindon Johnson Cândido Fonseca Mendes, de 25 anos, desenvolveu um aplicativo chamado Checking que reúne dados de fontes públicas para avaliar riscos de segurança em pessoas. A ideia surgiu após a amiga de Lindon ter sido vítima de violência por seu namorado, que possuía histórico anterior de agressões. O app permite checar histórico antes de um primeiro encontro.",
+          "porQueImporta": "O aplicativo pode prevenir situações de violência ao oferecer informações de risco antes de encontros pessoais.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/09/03/goiano-cria-app-para-checar-historico-da-pessoa-antes-de-primeiro-encontro-apos-trauma-vivido-por-amiga.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-03T12:36:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_7ML8GwhFsPF1siT2mIFFdC771s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/O/xEobbpTVOAM1B5pYMyNA/padrao-foto-texto-g1-2026-09-03t090757.692.jpg"
+        },
+        {
+          "clusterId": "16392bcac8387d5e",
+          "slug": "e38b9b7feb17a6f9",
+          "titulo": "ONU prevê El Niño muito forte e alerta para extremos",
+          "resumo": "A ONU prevê que o fenômeno El Niño atingirá pico de intensidade no fim de 2026. Secas, enchentes e ondas de calor podem se prolongar no próximo ano. O alerta destaca a possibilidade de extremos climáticos em diversas regiões.",
+          "porQueImporta": "O aumento da intensidade do El Niño pode agravar eventos climáticos extremos, afetando populações e infraestrutura.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/ciencia/onu-preve-el-nino-muito-forte-alerta-para-extremos-e-projeta-pico-em-2026/"
+            }
+          ],
+          "updatedAt": "2026-09-03T12:25:54.000Z"
+        },
+        {
+          "clusterId": "8f1963dc16c68be3",
+          "slug": "58c37aadbf68193c",
+          "titulo": "Mensagens trocadas entre banqueiro e ministro do STF revelam possíveis interações",
+          "resumo": "A imprensa internacional destacou a divulgação de mensagens trocadas entre Daniel Vorcaro, banqueiro do Banco Master, e um número atribuído ao ministro Alexandre de Moraes, do Supremo Tribunal Federal. As mensagens sugerem interações entre Vorcaro e o ministro, além de contatos com pessoas ligadas à família de Moraes. O caso foi relatado pelo jornal O Estado de S. Paulo e repercutido por veículos internacionais.",
+          "porQueImporta": "A troca de mensagens pode indicar influência indevida de um banqueiro sobre decisões judiciais.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cd79eygy3zjo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-02T08:45:15.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c02/live/5fdbdac0-a6a3-11f1-b048-153395f36aa1.jpg"
+        },
+        {
+          "clusterId": "a03e9618397a623d",
+          "slug": "6f82c2da5d153e72",
+          "titulo": "Famílias organizam funerais sem corpos no Nepal uma semana após avalanche mortal",
+          "resumo": "Mortes em enxurrada no Nepal e no Tibete sobem para 1200 Famílias nepalesas organizaram cerimônias fúnebres simbólicas nesta quarta-feira (2) para \"libertar\" as almas dos parentes desaparecidos após a súbita e letal avalanche que, há uma semana, sepultou vilarejos na região do Himalaia, na fronteira com a China. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Em 26 de agosto, uma gigantesca onda de água gelada, rochas e detritos, provocada pelo colapso parcial de uma geleira, causou a tragédia que deixou mais de 1.200 mortos nos dois países e quase 4.700 desaparecidos. No Nepal,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/02/os-minutos-que-antecederam-a-avalanche-de-lama-na-fronteira-entre-nepal-e-china.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-02T19:47:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ok3seFbiyAiccrGWk3-vNxcXKp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/M/u3yx8gRzmCBXPKtznnNQ/2026-08-26t105018z-1755018233-rc2a6nasuin0-rtrmadp-3-nepal-floods.jpg"
+        }
+      ]
+    },
     {
       "slug": "enchente",
       "label": "Enchente",
@@ -201,9 +380,9 @@
         {
           "clusterId": "2f35e0658e5226bd",
           "slug": "88af4216becba85d",
-          "titulo": "Tragédia no Nepal causa mais de 1.100 mortes e quase 4.000 desaparecidos",
-          "resumo": "A avalanche causada pelo colapso de uma geleira no Nepal resultou em mais de 1.100 mortos e cerca de 3.900 desaparecidos, incluindo turistas estrangeiros. Operações de busca e resgate continuam uma semana após o desastre. O Ministério das Relações Exteriores informou que 324 estrangeiros foram resgatados até o momento. Ainda há 590 pessoas de 39 países desaparecidas.",
-          "porQueImporta": "O número elevado de vítimas e desaparecidos destaca a gravidade da crise humanitária no Nepal.",
+          "titulo": "Número de mortos em enchentes no Himalaia passa de 1.200",
+          "resumo": "A avalanche no Nepal e no Tibete deixou mais de 1.225 mortos e mais de 4.757 desaparecidos. Cerca de 590 estrangeiros foram resgatados, enquanto 324 turistas ainda mantêm contato com autoridades. As buscas continuam uma semana depois da tragédia. O Ministério das Relações Exteriores relata que 39 países têm pessoas desaparecidas.",
+          "porQueImporta": "O desastre resultou em milhares de vítimas e continua afetando a segurança de turistas internacionais.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
@@ -252,106 +431,6 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "638346100e25e179",
-          "slug": "4fcc00e358661704",
-          "titulo": "Cantor perde duas pernas em acidente de trânsito na Bahia",
-          "resumo": "O cantor Robert Astro perdeu as duas pernas após ser prensado entre veículos em um acidente de trânsito na Bahia. Ele foi internado no Hospital Clériston Andrade em Feira de Santana em 23 de agosto e passou 11 dias hospitalizado, incluindo cinco dias na UTI. Recebeu alta nesta quarta-feira.",
-          "porQueImporta": "O caso destaca os riscos de acidentes de trânsito e a necessidade de cuidados com a segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/02/cantor-que-perdeu-pernas-em-acidente-na-bahia-recebe-alta.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-03T00:35:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/V0O_Rqs3tLmTVBdTNpMC00PY5VA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/Hrv7GEQm2ZNdwvMcDS4A/fotos-g1ba-12-.jpg"
-        },
-        {
-          "clusterId": "b8d7fd2c4c311751",
-          "slug": "8e4ef74594df9831",
-          "titulo": "Adolescente de 16 anos capota Audi na Zona Sul de SP e fica preso nas ferragens",
-          "resumo": "Um adolescente de 16 anos capotou um Audi na Avenida Nova Independência, no Brooklin, na tarde de quarta-feira. O veículo bateu em um VW T-Cross, derrubou parte de um muro de oficina mecânica e danificou um Fiat Siena. O jovem ficou gravemente ferido e preso nas ferragens do Audi. Policiais militares atenderam a ocorrência após acionamento do Centro de Operações da Polícia Militar.",
-          "porQueImporta": "O acidente resultou em ferimentos graves e evidenciou riscos de capotamento em vias urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/02/adolescente-de-16-anos-capota-audi-na-zona-sul-de-sp-e-fica-preso-as-ferragens.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-03T00:23:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/q1xznZRvGuB-Y_imkW-Tx0x93VM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/c/iBsWFYQ1W4w914Bl3j1Q/fotojet-2026-09-02t211358.175.jpg"
-        },
-        {
-          "clusterId": "66c66a56dc7ff93b",
-          "slug": "821deb2246c230c4",
-          "titulo": "Acidente de ônibus no Egito deixa 21 mortos e dezenas de feridos",
-          "resumo": "Um ônibus colidiu na estrada Dahab-Nuweibaa, no leste do Egito, na Península do Sinai, resultando em 21 mortes e dezenas de feridos. O veículo transportava 43 pessoas, incluindo egípcios e jordanianos. Pelo menos 10 jordanianos morreram e outros ficaram feridos.",
-          "porQueImporta": "O acidente destaca a vulnerabilidade de rotas turísticas na região e a necessidade de medidas de segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/02/acidente-de-onibus-no-egito.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-02T06:02:31.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "8f1963dc16c68be3",
-          "slug": "58c37aadbf68193c",
-          "titulo": "Mensagens trocadas entre banqueiro e ministro do STF revelam possíveis interações",
-          "resumo": "A imprensa internacional destacou a divulgação de mensagens trocadas entre Daniel Vorcaro, banqueiro do Banco Master, e um número atribuído ao ministro Alexandre de Moraes, do Supremo Tribunal Federal. As mensagens sugerem interações entre Vorcaro e o ministro, além de contatos com pessoas ligadas à família de Moraes. O caso foi relatado pelo jornal O Estado de S. Paulo e repercutido por veículos internacionais.",
-          "porQueImporta": "A troca de mensagens pode indicar influência indevida de um banqueiro sobre decisões judiciais.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cd79eygy3zjo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-02T08:45:15.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c02/live/5fdbdac0-a6a3-11f1-b048-153395f36aa1.jpg"
-        },
-        {
-          "clusterId": "504ed1887d1115bc",
-          "slug": "f3cdcf24c0795ced",
-          "titulo": "Famílias organizam funerais sem corpos no Nepal uma semana após avalanche mortal",
-          "resumo": "Mortes em enxurrada no Nepal e no Tibete sobem para 1200 Famílias nepalesas organizaram cerimônias fúnebres simbólicas nesta quarta-feira (2) para \"libertar\" as almas dos parentes desaparecidos após a súbita e letal avalanche que, há uma semana, sepultou vilarejos na região do Himalaia, na fronteira com a China. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Em 26 de agosto, uma gigantesca onda de água gelada, rochas e detritos, provocada pelo colapso parcial de uma geleira, causou a tragédia que deixou mais de 1.200 mortos nos dois países e quase 4.700 desaparecidos. No Nepal,…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/01/como-a-china-censura-imagens-da-catastrofe-no-tibete-e-nepal.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-02T19:47:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ok3seFbiyAiccrGWk3-vNxcXKp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/M/u3yx8gRzmCBXPKtznnNQ/2026-08-26t105018z-1755018233-rc2a6nasuin0-rtrmadp-3-nepal-floods.jpg"
-        }
-      ]
-    },
-    {
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
@@ -392,48 +471,48 @@
       ]
     },
     {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "8518caea0d48eb1a",
+          "slug": "42d1a5e8a5a92a76",
+          "titulo": "Incêndio destrói propriedade rural em Santa Helena de Goiás",
+          "resumo": "Um incêndio que queimou quase mil hectares atingiu a propriedade de Francisco Rodrigues Sobrinho em Santa Helena de Goiás, resultando na perda da casa, lavouras e animais. O agricultor saiu apenas com roupas e documentos. A chuva ajudou a apagar as chamas.",
+          "porQueImporta": "O evento demonstra o impacto de incêndios florestais na segurança e na economia rural.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/09/03/agricultor-se-emociona-ao-falar-de-incendio-em-que-perdeu-tudo-saimos-so-com-a-roupa-do-corpo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-03T12:13:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fd3sufUZcaxtq2J7EIzVTFQcA2E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/g/ZLqhKmRMy9VSIa1zCZlQ/agricultor-perde-tudo-incendio-santa-helena-de-goias.jpg"
+        }
+      ]
+    },
+    {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "7c7c909907e83b9d",
-          "slug": "e929a6363f90d6a8",
-          "titulo": "Frente fria traz chuva ao RS e risco de granizo",
-          "resumo": "Uma frente fria chegará ao Rio Grande do Sul nesta quinta, interrompendo o tempo estável e trazendo aumento da nebulosidade e chuva em várias regiões. A previsão indica possibilidade de granizo e rajadas de vento de até 70 km/h no extremo sul do estado. As temperaturas devem cair, criando condições favoráveis à formação de geada no fim de semana. O interior do país permanece com tempo seco e quente.",
-          "porQueImporta": "Mudanças bruscas de tempo podem afetar atividades ao ar livre, mobilidade e segurança dos moradores.",
+          "clusterId": "c436ea65126e5b28",
+          "slug": "036af7828f607df5",
+          "titulo": "Frente fria se aproxima e traz chuva para o Paraná",
+          "resumo": "A frente fria que avançou no fim de semana trouxe tempestades ao Paraná, mas o tempo firmou na segunda-feira. A Climatempo prevê que a quinta-feira ainda será ensolarada, com mudança de clima na sexta, principalmente no sul do estado. No sábado as chuvas se espalharão e no domingo perderão força.",
+          "porQueImporta": "A previsão de chuva pode afetar mobilidade e atividades ao ar livre no estado.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/09/03/frente-fria-bahia-veja-previsao-do-tempo.ghtml"
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/03/frente-fria-se-aproxima-e-faz-chuvas-terem-data-para-voltar-ao-parana-veja-previsao-do-tempo.ghtml"
             }
           ],
-          "updatedAt": "2026-09-03T04:00:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lV-EqJJPqDKl3y9d7eombjIoScc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/h/o/r9L1kqTPmBzX70VYIgRQ/whatsapp-image-2025-05-02-at-08.31.02.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "seca",
-      "label": "Seca",
-      "stories": [
-        {
-          "clusterId": "b2714dd07cf2bc22",
-          "slug": "34ef7f6ec37f9f9d",
-          "titulo": "Roraima decreta emergência por seca e cria gabinete para enfrentar El Niño",
-          "resumo": "O governo do estado de Roraima decretou estado de emergência devido à seca que já afeta a produção agrícola e reduz o nível dos rios. Foi criado um gabinete específico para lidar com os efeitos do fenômeno El Niño. A situação aumenta o risco de incêndios florestais no estado. As autoridades buscam medidas para mitigar os impactos da estiagem.",
-          "porQueImporta": "A seca compromete a segurança alimentar e aumenta a vulnerabilidade a incêndios, afetando comunidades e ecossistemas locais.",
-          "categoria": "Seca",
-          "categoriaSlug": "seca",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/roraima-decreta-emergencia-por-seca-e-cria-gabinete-para-enfrentar-el-nino"
-            }
-          ],
-          "updatedAt": "2026-09-03T00:53:30.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/09/governo-de-roraima-e-setor-produtivo-unem-forcas-contra-os-efeitos-do-el-nino-neto-figueredo-secom-rr.jpg"
+          "updatedAt": "2026-09-03T11:43:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/h9Ud6NhFUhwREWNOyQpTRfP-h-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/4/v0eBG5T2WaMG9LWoq7vg/g1-16-.png"
         }
       ]
     },
@@ -442,21 +521,66 @@
       "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "76bed802d3c89d90",
-          "slug": "133108cfe3ca7a40",
-          "titulo": "Avalanche no Himalaia bloqueia túneis de projeto hidrelétrico",
-          "resumo": "Um operador de drone, Manish Maharjan, relatou que túneis do projeto hidrelétrico Rashuwaghadi, no Nepal, ficaram cheios de lama após a avalanche. Ele usou sua experiência para auxiliar nas operações de resgate na região. A tragédia ocorreu na semana anterior à sua chegada ao país. As obras do hidrelétrico foram interrompidas devido ao bloqueio.",
-          "porQueImporta": "O bloqueio dos túneis pode atrasar a construção de energia e comprometer a segurança da região.",
+          "clusterId": "7037014efc3a7dbb",
+          "slug": "086548150ade29da",
+          "titulo": "Governo do Nepal anuncia reconstrução de 20 mil casas após deslizamento",
+          "resumo": "O governo nepalesa informou que será necessário reconstruir 20 mil casas destruídas por um deslizamento de terra. Equipes de resgate continuam buscando trabalhadores presos em túneis de projetos hidrelétricos. Milhares de pessoas permanecem desaparecidas. A situação exige esforços coordenados de resgate e reconstrução.",
+          "porQueImporta": "O desastre afeta milhares de famílias e compromete infraestrutura crítica do país.",
           "categoria": "Deslizamento",
           "categoriaSlug": "deslizamento",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/01/tudo-lotado-de-lama-operador-de-drones-relata-dificuldades-em-resgates-em-tuneis-no-nepal.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/nepal-precisara-reconstruir-20-mil-casas-apos-deslizamento-diz-governo/"
             }
           ],
-          "updatedAt": "2026-09-01T11:25:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/N7OI-cZQgqD7umlVObIZOBwXij8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/Q/l6TP3ZTHO1tBfYZnremg/ap26244307502686.jpg"
+          "updatedAt": "2026-09-03T11:37:00.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "c01a01f96e8fc3c1",
+          "slug": "a099478957f5321f",
+          "titulo": "Líder comunitária morre após choque elétrico com lavadora de alta pressão em Santa Catarina",
+          "resumo": "Carla Lúcia Wartha Sturm, 38 anos, morreu depois de sofrer descarga elétrica enquanto usava lavadora de alta pressão em um clube comunitário em Princesa, Santa Catarina. O acidente ocorreu na terça-feira (1º). Ela foi socorrida e levada ao hospital, mas não resistiu. A identidade da vítima foi confirmada pelo município.",
+          "porQueImporta": "O incidente destaca riscos de uso de equipamentos elétricos em ambientes comunitários.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/lider-comunitaria-morre-choque-eletrico-lavadora-alta-pressao-sc.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-03T11:15:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Wosk1-75sUmt676I0cPnlqunQo8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/6/MFtfPBSW23MvVZVKorgg/image-22-.png"
+        }
+      ]
+    },
+    {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "10928aa5e56daafe",
+          "slug": "22225f44403019e7",
+          "titulo": "Terremotos de magnitude 4,8 e 5 registram-se próximo ao Tibete",
+          "resumo": "Um terremoto de magnitude 5 ocorreu na região de Xizang, no Tibete, próximo à fronteira com a Índia, segundo o Centro Alemão de Pesquisa em Geociências. Horas depois, às 8h39, um segundo abalo de magnitude 4,8 foi registrado na cidade de Mianyang, em Sichuan, também no planalto tibetano. Ambos os eventos foram confirmados pelo Serviço Geológico dos Estados Unidos e pelo Centro de Redes Sismológicas da China.",
+          "porQueImporta": "Os sismos podem indicar atividade tectônica intensa na região, com potencial de afetar comunidades locais.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/03/terremoto-de-magnitude-5-atinge-tibete-uma-semana-apos-avalanche-historica.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-03T09:26:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8-IZJaHc3cdThkZIS4ksXGnMTmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/hrDAXCQSGgsWMjKBjTaA/captura-de-tela-2026-09-03-064311.png"
         }
       ]
     }
