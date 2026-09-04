@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-09-04T04:59:39.017Z",
+  "ranAt": "2026-09-04T12:53:01.180Z",
   "editionDate": "2026-09-04",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Desastres e acidentes mantêm foco em esforços de resgate e segurança viária\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
