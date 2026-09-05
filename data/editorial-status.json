@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-09-05T04:52:06.154Z",
+  "ranAt": "2026-09-05T11:58:53.627Z",
   "editionDate": "2026-09-05",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 11,
+  "outcome": "generated",
+  "reason": "\"Desastres naturais e acidentes continuam a abalar regiões em escala global\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
