@@ -1,7 +1,163 @@
 {
   "date": "2026-09-06",
-  "generatedAt": "2026-09-06T04:59:36.717Z",
+  "generatedAt": "2026-09-06T12:16:50.824Z",
   "home": [
+    {
+      "clusterId": "cb69ce4182436372",
+      "slug": "9a47eb89ee2187ef",
+      "titulo": "Incêndio atinge galpão na Ceagesp",
+      "resumo": "Um incêndio de grandes proporções atingiu um galpão da Ceagesp, na zona oeste de São Paulo. O Corpo de Bombeiros mobilizou 16 viaturas para combater as chamas. Até o momento, não há vítimas.",
+      "porQueImporta": "O fogo pode comprometer a infraestrutura de abastecimento de combustível da região.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/incendio-atinge-galpao-na-ceagesp-na-zona-oeste-de-sao-paulo/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/incendio-de-grandes-proporcoes-atinge-galpao-na-ceagesp-em-sp"
+        }
+      ],
+      "updatedAt": "2026-09-06T10:12:02.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/ceagesp-incendio.jpeg"
+    },
+    {
+      "clusterId": "b4687f97e3ae2129",
+      "slug": "c1aed64b8f4573a9",
+      "titulo": "Cemaden alerta para riscos de alagamentos e deslizamentos no Vale do Paraíba",
+      "resumo": "O Centro Nacional de Monitoramento e Alertas de Desastres Naturais (Cemaden) identificou risco moderado de alagamentos e deslizamentos de terra em cidades do Vale do Paraíba neste domingo. A região está sob uma frente fria com chuvas, podendo causar extravasamento de córregos, enxurradas e alagamentos urbanos. As autoridades recomendam atenção e precauções nas áreas afetadas.",
+      "porQueImporta": "A previsão de eventos hidrológicos pode afetar a segurança e a mobilidade das comunidades locais.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/06/cemaden-aponta-riscos-de-alagamentos-e-deslizamentos-de-terra-no-vale-do-paraiba-neste-domingo-6.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-06T12:07:15.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/XC5bDZnFTKECiuhlKk_8ajnbqgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/n/RxfwPARSeLBNDMcvQBAQ/6fc916a4-3c76-4de6-8c63-b81e64bfd96b.jpg"
+    },
+    {
+      "clusterId": "552d6d551c77dfa3",
+      "slug": "3bb474105d2bbf01",
+      "titulo": "EUA cortaram ajuda a programa que monitorava deslizamentos no Nepal em 2025",
+      "resumo": "Iniciativa identificava áreas de risco no Himalaia e teve verba suspensa em janeiro do ano passado pelo governo Trump",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/eua-cortaram-ajuda-a-programa-que-monitorava-deslizamentos-no-nepal-em-2025/"
+        }
+      ],
+      "updatedAt": "2026-09-06T12:00:52.000Z"
+    },
+    {
+      "clusterId": "8b5b570a900c4bd8",
+      "slug": "1c8b27edb6825640",
+      "titulo": "Acidente na BR-364 deixa três mortos",
+      "resumo": "Uma colisão entre um carro e duas motocicletas no quilômetro 16 da BR-364, entre Tarauacá e Feijó, no Acre, resultou em três mortes. O motorista, João Victor Casas, é suspeito de causar o acidente e trabalha como assessor especial na Casa Civil.",
+      "porQueImporta": "O fato envolve um funcionário público de alto nível e destaca a gravidade de acidentes de trânsito no interior do Acre.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/09/06/voce-viu-sabatina-com-candidatos-ao-senado-mulher-achada-morta-trisal-anuncia-chegada-de-bebe-e-mais.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-06T12:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/emOoI5DsOkbZmHSC8EjvE64KEt8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/d/CDX3DuQNSKher91KuBVg/midia-de-distribuicao-g1-68-.jpg"
+    },
+    {
+      "clusterId": "fc74a8ed4df18a92",
+      "slug": "7f13332da9939f78",
+      "titulo": "Chinês de 49 anos é resgatado após 10 dias preso em túnel de hidrelétrica no Nepal",
+      "resumo": "Um trabalhador chinês de 49 anos, Lu Haitao, ficou 10 dias preso em um túnel de 225 metros de extensão de uma hidrelétrica no Nepal, após enchentes. Ele foi localizado e retirado de forma segura por equipes de resgate e levado de helicóptero a um hospital. A família relatou angústia durante a espera e só acreditou no resgate depois de ver uma foto dele. A condição de Lu Haitao foi considerada estável pela emissora estatal chinesa CCTV.",
+      "porQueImporta": "Ilustra a capacidade de resgate em ambientes de risco extremo e a importância da comunicação com familiares.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-06T11:15:54.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UCIE1tfESKzuyxy8sroDT1Y7wRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/lPxoARTzynEcN1iyMV7Q/793122321-1573552824519191-7950969273975718106-n.jpg"
+    },
+    {
+      "clusterId": "04fd9df77a1c462c",
+      "slug": "1c0b26af3ab26b30",
+      "titulo": "Temperatura cai em BH e há chance de chuva forte neste domingo",
+      "resumo": "Após sábado de calor com 34,3 °C, a temperatura em Belo Horizonte diminuiu no domingo, com mínima de 16,7 °C e máxima estimada de 23 °C. A Defesa Civil relata possibilidade de chuva forte, pancadas, raios e rajadas de vento a qualquer hora. A madrugada já registrou 9 mm de chuva, principalmente no Barreiro. O clima permanece nublado e instável.",
+      "porQueImporta": "A mudança brusca de temperatura e a possibilidade de chuva forte podem afetar atividades ao ar livre e mobilidade urbana.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/06/temperaturas-caem-bh-chance-chuva-domingo-previsao.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-06T11:06:13.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-5tFecSaqWsNfJ4cBAWx5v_nDkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/w/B/QpYAeCTJeFFP1wXZijDg/tempo-mesbla-frame-3274.jpg"
+    },
+    {
+      "clusterId": "04d23c8bcba3aa47",
+      "slug": "a59d6f6cdede5276",
+      "titulo": "Terremoto institucional no STF envolve Fachin, Lula, prece e Kassab",
+      "resumo": "O programa de Ricardo Noblat analisou o conflito no STF, destacando quatro momentos marcantes: a atuação de Fachin, o aviso de Lula, a prece e a participação de Kassab. A discussão centrou-se nas decisões e nas tensões entre os membros do tribunal. O debate evidenciou a complexidade das decisões judiciais em meio a pressões políticas.",
+      "porQueImporta": "O episódio reflete a tensão entre poderes e a influência de decisões judiciais em questões políticas nacionais.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/blog-do-noblat/4-lances-do-terremoto-institucional-fachin-aviso-de-lula-prece-e-kassab"
+        }
+      ],
+      "updatedAt": "2026-09-06T11:00:17.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/lula-tse.jpg"
+    },
+    {
+      "clusterId": "2c39aedb521ad32d",
+      "slug": "0198531f0589efc0",
+      "titulo": "Israel volta a bombardear sul do Líbano e emite ordem de evacuação",
+      "resumo": "Desde a noite de sábado, 5 de setembro, ataques israelenses no sul do Líbano resultaram em pelo menos quatro mortes e dezenas de feridos, segundo autoridades libanesas. A escalada ocorreu após o Hezbollah lançar dois drones contra soldados israelenses, sem causar vítimas. Em resposta, Israel intensificou os bombardeios e emitiu ordem de retirada para moradores da região.",
+      "porQueImporta": "A situação aumenta a tensão regional e coloca civis em risco.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/06/sul-do-libano-bombardeios.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-06T10:44:55.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Ex23uOZDVQ6cdK2iHvR-dKauLzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/q/DBo2Q8SQyt9aVKgfHLDg/afp-20260905-c7fh7m7-v1-midres-lebanonisraeliranuswar.jpg"
+    },
+    {
+      "clusterId": "f29b6e89e24511c9",
+      "slug": "4f87db20bd1ba88f",
+      "titulo": "Frio ganha força no Centro-Sul e chuva atinge Sudeste e Centro-Oeste",
+      "resumo": "No domingo (6), uma frente fria avançou pelo Centro-Sul do Brasil, trazendo temperaturas mais baixas e geada em vários pontos do Sul. Enquanto isso, áreas de chuva permanecem sobre grande parte do Sudeste e do Centro-Oeste, com núcleos de tempestade observados no Centro-Oeste e na Amazônia. A combinação de frio intenso e precipitação pode afetar atividades agrícolas e aumentar riscos de acidentes de trânsito.",
+      "porQueImporta": "O fenômeno pode impactar a agricultura, a mobilidade urbana e a segurança pública.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/09/06/frio-previsao-domingo-chuva.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-06T10:20:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HqbGrfTaAhJYot9dMeocHDOfvJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/w/mvFHBzSnabqoLDsFeaNw/imagem-cortada.jpg"
+    },
     {
       "clusterId": "e8f6974dcfe16c80",
       "slug": "90eb9296fb92d480",
@@ -22,289 +178,78 @@
       ],
       "updatedAt": "2026-09-05T12:00:57.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/q_7KRav2F29w4ir6RILSdK_jk3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/U/uO1BPZShWITJKIuoNOpQ/viacha.jpg"
-    },
-    {
-      "clusterId": "96b2d9874958baf1",
-      "slug": "97a6ca26f37b7c8d",
-      "titulo": "Previsão de sol com pancadas de chuva e temporal na noite de domingo em Ribeirão das Neves, Contagem e Betim",
-      "resumo": "Para o domingo, as cidades de Ribeirão das Neves, Contagem e Betim registrarão sol com muitas nuvens e pancadas de chuva no período da tarde. À noite, cada local terá temporal com trovoadas. As temperaturas máximas ficam em torno de 27ºC e mínimas em 20ºC.",
-      "porQueImporta": "A previsão indica risco de chuvas fortes e temporais que podem afetar mobilidade e segurança urbana.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/06/previsao-do-tempo-hoje-para-betim-mg-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-06T04:03:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Lnc0RZ03ysMuio1dF_pWpxrawAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/R/lcDOB6R6a02kanlyRHhw/previsao-tempo-betim-20260906-010236.jpeg"
-    },
-    {
-      "clusterId": "e3c8fcd0184de80b",
-      "slug": "5f19ed345cc69cdb",
-      "titulo": "Incêndio atinge galpão no Ceagesp",
-      "resumo": "Um incêndio atingiu um galpão da Companhia de Entrepostos e Armazéns Gerais de São Paulo na noite de sábado, 5, no bairro da Vila Leopoldina, zona Oeste da capital. O Corpo de Bombeiros registrou a ocorrência por volta das 23h20 e mobilizou 16 viaturas na Avenida Dr. Gastão Vidigal, 1946. Até o momento não há registro de vítimas.",
-      "porQueImporta": "O fato pode afetar a logística e o abastecimento de mercadorias na região.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/06/incendio-atinge-galpao-no-ceagesp-bombeiros-trabalham-no-combate-as-chamas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-06T04:01:33.000Z"
-    },
-    {
-      "clusterId": "d4bc6639f1ef794f",
-      "slug": "73fe0ce7fe364fc4",
-      "titulo": "Pedestre acusado de matar PM ao ser atropelado por ele é absolvido",
-      "resumo": "Um pedestre foi acusado de matar um policial militar (PM) ao ser atropelado por ele. Durante a perseguição ao suspeito, o PM atropelou o pedestre e caiu, morrendo no local. O réu foi acusado de homicídio com dolo eventual, mas foi absolvido.",
-      "porQueImporta": "O caso destaca a complexidade de processos envolvendo violência policial e a aplicação da lei.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/pedestre-atropelado-pm-absolvido"
-        }
-      ],
-      "updatedAt": "2026-09-06T02:27:01.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/pedestre-pm-absolvido.jpg"
-    },
-    {
-      "clusterId": "125ccb2a0cbe1644",
-      "slug": "2f875d149a143e6d",
-      "titulo": "Adolescente mineiro de 17 anos morre afogado em praia de Cabo Frio",
-      "resumo": "Um adolescente de 17 anos, originário de Minas Gerais, morreu afogado na Praia do Forte, em Cabo Frio, após ser levado pela correnteza. Ele visitava a praia pela primeira vez. Um amigo que acompanhava o jovem também se afogou, mas sobreviveu.",
-      "porQueImporta": "O incidente destaca os riscos de correntes marítimas em praias brasileiras e a necessidade de atenção à segurança em áreas de banho.",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/adolescente-mineiro-de-17-anos-morre-afogado-em-praia-de-cabo-frio-rj"
-        }
-      ],
-      "updatedAt": "2026-09-06T01:03:32.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/kerlon-e1788656548390.jpg"
-    },
-    {
-      "clusterId": "f12517aa674090fd",
-      "slug": "a28e9e40e2974da0",
-      "titulo": "Dois sobreviventes resgatados dez dias após avalanche no Nepal",
-      "resumo": "Dez dias depois da avalanche no Nepal, equipes de resgate encontraram e salvaram mais dois sobreviventes. Uma mulher de 64 anos foi localizada em sua casa, que estava parcialmente soterrada pela lama. As equipes continuam procurando mais 900 pessoas que podem estar em túneis. O esforço de resgate continua em andamento.",
-      "porQueImporta": "A operação demonstra a persistência das equipes de emergência em salvar vidas em condições extremas.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/dez-dias-apos-avalanche-no-nepal-socorristas-resgatam-mais-dois-sobreviventes.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-06T00:02:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/HxkQ78e9DWNbi40GOjVbHx3W3xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/D/3gnJbsRpKamrE6ExDB9A/globo-canal-4-20260905-2000-frame-102587.jpeg"
-    },
-    {
-      "clusterId": "d15b59b4b1b47882",
-      "slug": "46b041c16e1afc54",
-      "titulo": "Bebê de 3 meses gravemente ferido em acidente de trânsito em Vista Alegre",
-      "resumo": "Um bebê de três meses ficou gravemente ferido em um acidente de trânsito no interior de Vista Alegre, na Serra Gaúcha. A criança sofreu politraumatismos e foi levada inicialmente ao Hospital São João Batista, em Nova Prata. Devido à gravidade, o helicóptero da Polícia Rodoviária Federal transportou o bebê, com equipe médica a bordo, até um hospital em Caxias do Sul.",
-      "porQueImporta": "O caso destaca a necessidade de atenção e resposta rápida em acidentes envolvendo crianças.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/bebe-ferido-acidente-resgate-helicoptero-rs.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-05T23:51:09.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ohwN3BRe3SenP_dtCnSIcuR8ZRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/2/lPn5JlTRS9sx4sf7BouQ/g1-9-.jpg"
-    },
-    {
-      "clusterId": "ca1e4b3d9e526242",
-      "slug": "8605a360ef19ba96",
-      "titulo": "Motorista morre após bater de frente com carreta na Rodovia Zeferino Vaz",
-      "resumo": "O motorista Geraldo Caetano, de 49 anos, morreu ao bater de frente com uma carreta na Rodovia Zeferino Vaz (SP-332), em Paulínia, na manhã de sábado. O acidente foi registrado pelas câmeras de segurança da rodovia. Caetano estava sozinho no veículo, que ficou com a lataria retorcida e o corpo preso às ferragens.",
-      "porQueImporta": "O incidente destaca os riscos de colisões frontais em rodovias e a necessidade de atenção ao dirigir em alta velocidade.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/05/quem-era-motorista-que-morreu-ao-bater-de-frente-com-carreta-na-rodovia-zeferino-vaz-em-paulinia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-05T23:41:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PPjY7aA2hASnwPe1u11E00V8T2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/I/ddIHBAS4SLEABUlhkwsQ/geraldo-caetano-.jpg"
-    },
-    {
-      "clusterId": "0df98504b5043be0",
-      "slug": "c159a897f7f2d587",
-      "titulo": "Parte de estrutura de shopping desaba e atinge carro em Poços de Caldas",
-      "resumo": "Em Poços de Caldas, MG, parte da estrutura de um shopping desabou e atingiu um carro que estava parado na rampa de acesso ao estacionamento. O impacto deixou dois feridos. O acidente ocorreu por volta das 16h, quando ventos fortes estavam soprando na região. A Defesa Civil relatou que a placa de revestimento se soltou e caiu sobre o veículo.",
-      "porQueImporta": "O incidente demonstra risco de acidentes em áreas comerciais devido a condições climáticas adversas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/05/parte-de-estrutura-de-shopping-desaba-e-atinge-carro-em-pocos-de-caldas-mg.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-05T23:29:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mTt8UyXFcAl0vn3syIqh8QWDOx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/x/A4oUFIQ0WCn4AI6t5IxA/carro-shopping2.png"
-    },
-    {
-      "clusterId": "b727fe48ba47f850",
-      "slug": "47243a4b7404c32c",
-      "titulo": "Jovem de 18 anos morre após perder o controle da direção e bater moto contra árvore em Cândido Mota",
-      "resumo": "Jovem morro após colidir motocicleta em árvore, na Rodovia Benedito Pires, em Cândido Mota Redes Sociais Uma jovem de 18 anos morreu e outra, de 16, ficou gravemente ferida após a motocicleta em que estavam colidir contra uma árvore na Rodovia Benedito Pires, em Cândido Mota (SP), neste sábado (5). No mesmo dia, um acidente entre dois carros na Rodovia Osni Mateus (SP-261), em Pederneiras (SP), deixou um homem morto e duas pessoas em estado grave. Em Cândido Mota, segundo a Polícia Militar Rodoviária, as duas jovens trafegavam pela via quando a condutora perdeu o controle da direção e colidiu…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/05/acidente-moto-candido-mota.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-05T23:27:50.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/pBiWpHVh80i18N8XRdUcPGoXdY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/1/DNAno2TLeC4CpW7XWVdg/design-sem-nome-42-.png"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "d4bc6639f1ef794f",
-          "slug": "73fe0ce7fe364fc4",
-          "titulo": "Pedestre acusado de matar PM ao ser atropelado por ele é absolvido",
-          "resumo": "Um pedestre foi acusado de matar um policial militar (PM) ao ser atropelado por ele. Durante a perseguição ao suspeito, o PM atropelou o pedestre e caiu, morrendo no local. O réu foi acusado de homicídio com dolo eventual, mas foi absolvido.",
-          "porQueImporta": "O caso destaca a complexidade de processos envolvendo violência policial e a aplicação da lei.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/pedestre-atropelado-pm-absolvido"
-            }
-          ],
-          "updatedAt": "2026-09-06T02:27:01.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/09/pedestre-pm-absolvido.jpg"
-        },
-        {
-          "clusterId": "d15b59b4b1b47882",
-          "slug": "46b041c16e1afc54",
-          "titulo": "Bebê de 3 meses gravemente ferido em acidente de trânsito em Vista Alegre",
-          "resumo": "Um bebê de três meses ficou gravemente ferido em um acidente de trânsito no interior de Vista Alegre, na Serra Gaúcha. A criança sofreu politraumatismos e foi levada inicialmente ao Hospital São João Batista, em Nova Prata. Devido à gravidade, o helicóptero da Polícia Rodoviária Federal transportou o bebê, com equipe médica a bordo, até um hospital em Caxias do Sul.",
-          "porQueImporta": "O caso destaca a necessidade de atenção e resposta rápida em acidentes envolvendo crianças.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/bebe-ferido-acidente-resgate-helicoptero-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-05T23:51:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ohwN3BRe3SenP_dtCnSIcuR8ZRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/2/lPn5JlTRS9sx4sf7BouQ/g1-9-.jpg"
-        },
-        {
-          "clusterId": "ca1e4b3d9e526242",
-          "slug": "8605a360ef19ba96",
-          "titulo": "Motorista morre após bater de frente com carreta na Rodovia Zeferino Vaz",
-          "resumo": "O motorista Geraldo Caetano, de 49 anos, morreu ao bater de frente com uma carreta na Rodovia Zeferino Vaz (SP-332), em Paulínia, na manhã de sábado. O acidente foi registrado pelas câmeras de segurança da rodovia. Caetano estava sozinho no veículo, que ficou com a lataria retorcida e o corpo preso às ferragens.",
-          "porQueImporta": "O incidente destaca os riscos de colisões frontais em rodovias e a necessidade de atenção ao dirigir em alta velocidade.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/05/quem-era-motorista-que-morreu-ao-bater-de-frente-com-carreta-na-rodovia-zeferino-vaz-em-paulinia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-05T23:41:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PPjY7aA2hASnwPe1u11E00V8T2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/I/ddIHBAS4SLEABUlhkwsQ/geraldo-caetano-.jpg"
-        },
-        {
-          "clusterId": "0df98504b5043be0",
-          "slug": "c159a897f7f2d587",
-          "titulo": "Parte de estrutura de shopping desaba e atinge carro em Poços de Caldas",
-          "resumo": "Em Poços de Caldas, MG, parte da estrutura de um shopping desabou e atingiu um carro que estava parado na rampa de acesso ao estacionamento. O impacto deixou dois feridos. O acidente ocorreu por volta das 16h, quando ventos fortes estavam soprando na região. A Defesa Civil relatou que a placa de revestimento se soltou e caiu sobre o veículo.",
-          "porQueImporta": "O incidente demonstra risco de acidentes em áreas comerciais devido a condições climáticas adversas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/05/parte-de-estrutura-de-shopping-desaba-e-atinge-carro-em-pocos-de-caldas-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-05T23:29:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mTt8UyXFcAl0vn3syIqh8QWDOx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/x/A4oUFIQ0WCn4AI6t5IxA/carro-shopping2.png"
-        },
-        {
-          "clusterId": "891ab8693f02eda7",
-          "slug": "99704e20e49b048b",
-          "titulo": "Motociclista morre após colisão traseira com picape na Rodovia Raposo Tavares",
-          "resumo": "Um motociclista foi atingido na traseira por uma picape na Rodovia Raposo Tavares, km 592, em Presidente Bernardes, SP, por volta das 23h30. Ambos os veículos trafegavam pela mesma faixa de rolamento quando ocorreu a colisão. O impacto foi forte o suficiente para que a motocicleta fosse lançada e o motociclista faleceu no local. A Polícia Militar Rodoviária e a concessionária do trecho confirmaram os fatos.",
-          "porQueImporta": "O acidente destaca a necessidade de atenção ao tráfego em rodovias, especialmente em condições de baixa visibilidade e em horários noturnos.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/05/motociclista-morre-apos-ser-atingido-por-picape-em-rodovia-de-presidente-bernardes.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-05T22:56:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YsTZ79iUZhVpE6A1Safv_bCRDWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/h/bqwAOLRxAhb9nODbxqKA/befunky-collage-1-.jpg"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "b727fe48ba47f850",
-          "slug": "47243a4b7404c32c",
-          "titulo": "Jovem de 18 anos morre após perder o controle da direção e bater moto contra árvore em Cândido Mota",
-          "resumo": "Jovem morro após colidir motocicleta em árvore, na Rodovia Benedito Pires, em Cândido Mota Redes Sociais Uma jovem de 18 anos morreu e outra, de 16, ficou gravemente ferida após a motocicleta em que estavam colidir contra uma árvore na Rodovia Benedito Pires, em Cândido Mota (SP), neste sábado (5). No mesmo dia, um acidente entre dois carros na Rodovia Osni Mateus (SP-261), em Pederneiras (SP), deixou um homem morto e duas pessoas em estado grave. Em Cândido Mota, segundo a Polícia Militar Rodoviária, as duas jovens trafegavam pela via quando a condutora perdeu o controle da direção e colidiu…",
+          "clusterId": "552d6d551c77dfa3",
+          "slug": "3bb474105d2bbf01",
+          "titulo": "EUA cortaram ajuda a programa que monitorava deslizamentos no Nepal em 2025",
+          "resumo": "Iniciativa identificava áreas de risco no Himalaia e teve verba suspensa em janeiro do ano passado pelo governo Trump",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/05/acidente-moto-candido-mota.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/eua-cortaram-ajuda-a-programa-que-monitorava-deslizamentos-no-nepal-em-2025/"
             }
           ],
-          "updatedAt": "2026-09-05T23:27:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pBiWpHVh80i18N8XRdUcPGoXdY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/1/DNAno2TLeC4CpW7XWVdg/design-sem-nome-42-.png"
+          "updatedAt": "2026-09-06T12:00:52.000Z"
         },
         {
-          "clusterId": "ea62b41a0fdb8ac3",
-          "slug": "e465eac47a5f7a16",
-          "titulo": "Carro de PM furtado durante formatura recuperado em Boa Vista",
-          "resumo": "Um veículo de um policial militar de 45 anos, furtado durante uma cerimônia de promoção, foi localizado em uma casa no bairro Primavera, zona Oeste de Boa Vista. O suspeito, jovem de 25 anos, foi levado à delegacia. A mãe do suspeito entregou o veículo à polícia.",
-          "porQueImporta": "A recuperação do veículo demonstra ação rápida das autoridades e a prisão de um suspeito em caso de furto em evento oficial.",
+          "clusterId": "04d23c8bcba3aa47",
+          "slug": "a59d6f6cdede5276",
+          "titulo": "Terremoto institucional no STF envolve Fachin, Lula, prece e Kassab",
+          "resumo": "O programa de Ricardo Noblat analisou o conflito no STF, destacando quatro momentos marcantes: a atuação de Fachin, o aviso de Lula, a prece e a participação de Kassab. A discussão centrou-se nas decisões e nas tensões entre os membros do tribunal. O debate evidenciou a complexidade das decisões judiciais em meio a pressões políticas.",
+          "porQueImporta": "O episódio reflete a tensão entre poderes e a influência de decisões judiciais em questões políticas nacionais.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/blog-do-noblat/4-lances-do-terremoto-institucional-fachin-aviso-de-lula-prece-e-kassab"
+            }
+          ],
+          "updatedAt": "2026-09-06T11:00:17.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/09/lula-tse.jpg"
+        },
+        {
+          "clusterId": "5136fd74e29d0b81",
+          "slug": "d4957c2e4a8d6717",
+          "titulo": "Mar avança 5 metros por ano, destruindo casas na areia",
+          "resumo": "A cidade enfrenta erosão costeira extrema, com o mar avançando cerca de cinco metros por ano e destruindo casas construídas na areia. A situação tem sido estudada como laboratório urbano de adaptação climática, empregando técnicas geológicas e hidrossedimentológicas para conter o avanço do oceano. A comunidade local está sendo afetada pela perda de moradias e pela necessidade de medidas de mitigação.",
+          "porQueImporta": "A erosão ameaça a segurança e a habitação das populações costeiras, exigindo ações de adaptação e mitigação.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/curiosidades/a-cidade-onde-o-mar-avanca-cerca-de-5-metros-por-ano-e-destroi-casas-na-areia/"
+            }
+          ],
+          "updatedAt": "2026-09-06T09:10:04.000Z"
+        },
+        {
+          "clusterId": "3bb8f31e3a3595af",
+          "slug": "aacefcf369f60427",
+          "titulo": "Calor, enchentes e apagões ameaçam a cadeia de frio das vacinas no Brasil",
+          "resumo": "A rede de frio que transporta vacinas do ponto de produção ao posto de saúde enfrenta riscos de temperatura elevada, inundações e quedas de energia. Esses fatores podem comprometer a eficácia das doses se não mantidas em condições adequadas. O sistema depende de câmaras, caminhões e geladeiras para preservar a temperatura constante necessária. Problemas na cadeia de frio podem atrasar ou invalidar a vacinação em massa.",
+          "porQueImporta": "Garantir a eficácia das vacinas é essencial para a saúde pública e a imunização da população.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/05/carro-de-pm-furtado-durante-formatura-e-recuperado-e-jovem-e-levado-a-delegacia-em-boa-vista.ghtml"
+              "url": "https://g1.globo.com/saude/noticia/2026/09/06/a-viagem-gelada-da-vacina-como-calor-enchentes-e-apagoes-ameacam-cada-dose-de-imunizantes-no-brasil.ghtml"
             }
           ],
-          "updatedAt": "2026-09-05T22:48:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ND_Jn3_5533fHraL2FsMRp7hVNg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/U/yaSkhoQmSMlvXrQrcAEA/carro-furtado-em-boa-vista.jpg"
+          "updatedAt": "2026-09-06T07:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XitfbBJhzArJqnsEQkl0dC9joR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/Y/Db50n3RbAA124LeKWFXw/bernardo-portella.jpg"
         },
         {
           "clusterId": "ce0037b57623a00c",
@@ -343,97 +288,115 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "e3c8fcd0184de80b",
-          "slug": "5f19ed345cc69cdb",
-          "titulo": "Incêndio atinge galpão no Ceagesp",
-          "resumo": "Um incêndio atingiu um galpão da Companhia de Entrepostos e Armazéns Gerais de São Paulo na noite de sábado, 5, no bairro da Vila Leopoldina, zona Oeste da capital. O Corpo de Bombeiros registrou a ocorrência por volta das 23h20 e mobilizou 16 viaturas na Avenida Dr. Gastão Vidigal, 1946. Até o momento não há registro de vítimas.",
-          "porQueImporta": "O fato pode afetar a logística e o abastecimento de mercadorias na região.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "8b5b570a900c4bd8",
+          "slug": "1c8b27edb6825640",
+          "titulo": "Acidente na BR-364 deixa três mortos",
+          "resumo": "Uma colisão entre um carro e duas motocicletas no quilômetro 16 da BR-364, entre Tarauacá e Feijó, no Acre, resultou em três mortes. O motorista, João Victor Casas, é suspeito de causar o acidente e trabalha como assessor especial na Casa Civil.",
+          "porQueImporta": "O fato envolve um funcionário público de alto nível e destaca a gravidade de acidentes de trânsito no interior do Acre.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/06/incendio-atinge-galpao-no-ceagesp-bombeiros-trabalham-no-combate-as-chamas.ghtml"
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/09/06/voce-viu-sabatina-com-candidatos-ao-senado-mulher-achada-morta-trisal-anuncia-chegada-de-bebe-e-mais.ghtml"
             }
           ],
-          "updatedAt": "2026-09-06T04:01:33.000Z"
+          "updatedAt": "2026-09-06T12:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/emOoI5DsOkbZmHSC8EjvE64KEt8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/d/CDX3DuQNSKher91KuBVg/midia-de-distribuicao-g1-68-.jpg"
         },
         {
-          "clusterId": "06ae293f3cc0b934",
-          "slug": "dbed325d6679cd78",
-          "titulo": "Incêndio atinge prédio da Apae em Martinópolis",
-          "resumo": "Um incêndio de pequenas proporções atingiu o prédio da Associação de Pais e Amigos dos Excepcionais (Apae) em Martinópolis, SP, no início da tarde de sábado. O fogo danificou cinco salas da instituição, mas não deixou feridos. Vizinhos perceberam a fumaça por volta das 13h e acionaram o Corpo de Bombeiros, que chegou ao local.",
-          "porQueImporta": "O incidente pode afetar a continuidade dos serviços oferecidos pela Apae à comunidade local.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "d91799fb9cf6c4ec",
+          "slug": "ec8970b33935d1df",
+          "titulo": "Piloto salva colega de carro em chamas após acidente em corrida na China",
+          "resumo": "Durante uma corrida na China, o piloto Loek Hartog abandonou a prova para usar um extintor e retirar o colega Ollie Millroy do veículo em chamas. Millroy, britânico, sofreu fraturas e lesão no pulmão. O incidente ocorreu em um cenário de competição motorizada, exigindo ação rápida dos pilotos.",
+          "porQueImporta": "Ilustra a importância da prontidão e solidariedade entre pilotos em situações de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/05/incendio-atinge-predio-da-apae-de-martinopolis-e-danifica-salas.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/piloto-salva-colega-de-carro-em-chamas-apos-acidente-em-corrida-na-china/"
             }
           ],
-          "updatedAt": "2026-09-05T23:03:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/oIZramOq6b9FCdGaeoak7YhbGFc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/S/BuUNzfShOEkH6f9SXtIQ/design-sem-nome-36-.png"
+          "updatedAt": "2026-09-06T09:33:17.000Z"
         },
         {
-          "clusterId": "e5fafce1fd98c25d",
-          "slug": "ead55811b1acf5ea",
-          "titulo": "Carregador de celular pega fogo e queima colchão em João Pessoa",
-          "resumo": "Um carregador de celular incendiou na madrugada de sexta-feira (4) em João Pessoa, causando a queima parcial de um colchão enquanto um jovem de 21 anos dormia. O incidente foi registrado em vídeo pelo pai do rapaz e circulou nas redes sociais. Nenhuma pessoa ficou ferida.",
-          "porQueImporta": "Ilustra risco de incêndio doméstico causado por dispositivos eletrônicos.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "93ccd957eb7f339c",
+          "slug": "99ef8f5e4f3c184b",
+          "titulo": "Caixão temático guitarra em Gana celebra músico falecido em acidente de trânsito",
+          "resumo": "O músico ganês Frederick Teiko Ofori morreu em acidente de trânsito e sua família pediu que a guitarra que o acompanhou na vida fosse incorporada ao caixão, que foi construído no formato de uma enorme guitarra. O funeral, realizado em Adjen Kotoku Amoama, atraiu atenção pela singularidade do caixão. Caixões temáticos são comuns em Gana, especialmente entre os músicos.",
+          "porQueImporta": "Ilustra como a cultura local incorpora objetos simbólicos no luto, refletindo tradições e valores da comunidade.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/05/carregador-de-celular-pega-fogo-e-queima-colchao-enquanto-jovem-dormia-em-joao-pessoa.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/em-gana-caixoes-personalizados-contam-a-historia-de-quem-morreu.ghtml"
             }
           ],
-          "updatedAt": "2026-09-05T23:00:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6x5BSqgmO3uQu8_Sq39WWsQQQag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/U/TCcy7rT5m5z6HKN5pHeA/whatsapp-image-2026-09-05-at-14.50.57-1-.jpeg"
+          "updatedAt": "2026-09-06T09:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UKBYMlfQt-7HyKcXaIV0DGOyLhU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/o/RX1hU9TguBtKSxioalWw/whatsapp-image-2026-09-03-at-18.49.40.jpeg"
+        },
+        {
+          "clusterId": "596831a8fc9fea03",
+          "slug": "48a25b34e06a4cae",
+          "titulo": "Cantora católica morre em colisão entre moto e carreta no interior do Ceará",
+          "resumo": "Rafaela Cavalcante, de 24 anos, era cantora do ministério de música da Paróquia da Sagrada Família de Ocara. Na madrugada de sábado, a motocicleta que ela dirigia colidiu com uma carreta na BR-122, próximo ao quilômetro 34. A Polícia Rodoviária Federal relatou que o acidente ocorreu por volta das 2h. A vítima era conhecida e querida na comunidade católica local.",
+          "porQueImporta": "A morte de uma jovem integrante de uma comunidade religiosa local destaca a vulnerabilidade de motoristas em rodovias rurais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/06/quem-era-a-cantora-catolica-que-morreu-em-colisao-entre-moto-e-carreta-no-interior-do-ceara.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T07:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/b1aztDp1gfr9DD_3bol8I0uAIk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/c/J2nAvXSMyiua8X45EDNQ/cantora-1-1-.jpg"
         }
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "f12517aa674090fd",
-          "slug": "a28e9e40e2974da0",
-          "titulo": "Dois sobreviventes resgatados dez dias após avalanche no Nepal",
-          "resumo": "Dez dias depois da avalanche no Nepal, equipes de resgate encontraram e salvaram mais dois sobreviventes. Uma mulher de 64 anos foi localizada em sua casa, que estava parcialmente soterrada pela lama. As equipes continuam procurando mais 900 pessoas que podem estar em túneis. O esforço de resgate continua em andamento.",
-          "porQueImporta": "A operação demonstra a persistência das equipes de emergência em salvar vidas em condições extremas.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "04fd9df77a1c462c",
+          "slug": "1c0b26af3ab26b30",
+          "titulo": "Temperatura cai em BH e há chance de chuva forte neste domingo",
+          "resumo": "Após sábado de calor com 34,3 °C, a temperatura em Belo Horizonte diminuiu no domingo, com mínima de 16,7 °C e máxima estimada de 23 °C. A Defesa Civil relata possibilidade de chuva forte, pancadas, raios e rajadas de vento a qualquer hora. A madrugada já registrou 9 mm de chuva, principalmente no Barreiro. O clima permanece nublado e instável.",
+          "porQueImporta": "A mudança brusca de temperatura e a possibilidade de chuva forte podem afetar atividades ao ar livre e mobilidade urbana.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/dez-dias-apos-avalanche-no-nepal-socorristas-resgatam-mais-dois-sobreviventes.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/06/temperaturas-caem-bh-chance-chuva-domingo-previsao.ghtml"
             }
           ],
-          "updatedAt": "2026-09-06T00:02:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/HxkQ78e9DWNbi40GOjVbHx3W3xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/D/3gnJbsRpKamrE6ExDB9A/globo-canal-4-20260905-2000-frame-102587.jpeg"
+          "updatedAt": "2026-09-06T11:06:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-5tFecSaqWsNfJ4cBAWx5v_nDkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/w/B/QpYAeCTJeFFP1wXZijDg/tempo-mesbla-frame-3274.jpg"
         },
         {
-          "clusterId": "12cbd71b4b123c03",
-          "slug": "ddbdb84ac52b120b",
-          "titulo": "Deslizamento na China deixa um morto e 11 desaparecidos",
-          "resumo": "Um deslizamento de terra atingiu a cidade de Gaoping, no condado de Suichuan, em Jiangxi, por volta das 4h da madrugada de sábado, após fortes chuvas provocadas pelo tufão Saudel. O evento causou a morte de uma pessoa e deixou 11 desaparecidas. Doze casas foram danificadas.",
-          "porQueImporta": "O incidente destaca os riscos de desastres naturais associados a eventos climáticos extremos na região.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "f29b6e89e24511c9",
+          "slug": "4f87db20bd1ba88f",
+          "titulo": "Frio ganha força no Centro-Sul e chuva atinge Sudeste e Centro-Oeste",
+          "resumo": "No domingo (6), uma frente fria avançou pelo Centro-Sul do Brasil, trazendo temperaturas mais baixas e geada em vários pontos do Sul. Enquanto isso, áreas de chuva permanecem sobre grande parte do Sudeste e do Centro-Oeste, com núcleos de tempestade observados no Centro-Oeste e na Amazônia. A combinação de frio intenso e precipitação pode afetar atividades agrícolas e aumentar riscos de acidentes de trânsito.",
+          "porQueImporta": "O fenômeno pode impactar a agricultura, a mobilidade urbana e a segurança pública.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/05/deslizamento-jiangxi-china.ghtml"
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/09/06/frio-previsao-domingo-chuva.ghtml"
             }
           ],
-          "updatedAt": "2026-09-05T04:52:13.000Z"
+          "updatedAt": "2026-09-06T10:20:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HqbGrfTaAhJYot9dMeocHDOfvJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/w/mvFHBzSnabqoLDsFeaNw/imagem-cortada.jpg"
         }
       ]
     },
@@ -441,6 +404,23 @@
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
+        {
+          "clusterId": "2c39aedb521ad32d",
+          "slug": "0198531f0589efc0",
+          "titulo": "Israel volta a bombardear sul do Líbano e emite ordem de evacuação",
+          "resumo": "Desde a noite de sábado, 5 de setembro, ataques israelenses no sul do Líbano resultaram em pelo menos quatro mortes e dezenas de feridos, segundo autoridades libanesas. A escalada ocorreu após o Hezbollah lançar dois drones contra soldados israelenses, sem causar vítimas. Em resposta, Israel intensificou os bombardeios e emitiu ordem de retirada para moradores da região.",
+          "porQueImporta": "A situação aumenta a tensão regional e coloca civis em risco.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/sul-do-libano-bombardeios.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T10:44:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Ex23uOZDVQ6cdK2iHvR-dKauLzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/q/DBo2Q8SQyt9aVKgfHLDg/afp-20260905-c7fh7m7-v1-midres-lebanonisraeliranuswar.jpg"
+        },
         {
           "clusterId": "e8f6974dcfe16c80",
           "slug": "90eb9296fb92d480",
@@ -465,48 +445,52 @@
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
+      "slug": "incendio",
+      "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "96b2d9874958baf1",
-          "slug": "97a6ca26f37b7c8d",
-          "titulo": "Previsão de sol com pancadas de chuva e temporal na noite de domingo em Ribeirão das Neves, Contagem e Betim",
-          "resumo": "Para o domingo, as cidades de Ribeirão das Neves, Contagem e Betim registrarão sol com muitas nuvens e pancadas de chuva no período da tarde. À noite, cada local terá temporal com trovoadas. As temperaturas máximas ficam em torno de 27ºC e mínimas em 20ºC.",
-          "porQueImporta": "A previsão indica risco de chuvas fortes e temporais que podem afetar mobilidade e segurança urbana.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
+          "clusterId": "cb69ce4182436372",
+          "slug": "9a47eb89ee2187ef",
+          "titulo": "Incêndio atinge galpão na Ceagesp",
+          "resumo": "Um incêndio de grandes proporções atingiu um galpão da Ceagesp, na zona oeste de São Paulo. O Corpo de Bombeiros mobilizou 16 viaturas para combater as chamas. Até o momento, não há vítimas.",
+          "porQueImporta": "O fogo pode comprometer a infraestrutura de abastecimento de combustível da região.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/09/06/previsao-do-tempo-hoje-para-betim-mg-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/incendio-atinge-galpao-na-ceagesp-na-zona-oeste-de-sao-paulo/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/incendio-de-grandes-proporcoes-atinge-galpao-na-ceagesp-em-sp"
             }
           ],
-          "updatedAt": "2026-09-06T04:03:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Lnc0RZ03ysMuio1dF_pWpxrawAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/R/lcDOB6R6a02kanlyRHhw/previsao-tempo-betim-20260906-010236.jpeg"
+          "updatedAt": "2026-09-06T10:12:02.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/09/ceagesp-incendio.jpeg"
         }
       ]
     },
     {
-      "slug": "naufragio",
-      "label": "Naufrágio",
+      "slug": "enchente",
+      "label": "Enchente",
       "stories": [
         {
-          "clusterId": "125ccb2a0cbe1644",
-          "slug": "2f875d149a143e6d",
-          "titulo": "Adolescente mineiro de 17 anos morre afogado em praia de Cabo Frio",
-          "resumo": "Um adolescente de 17 anos, originário de Minas Gerais, morreu afogado na Praia do Forte, em Cabo Frio, após ser levado pela correnteza. Ele visitava a praia pela primeira vez. Um amigo que acompanhava o jovem também se afogou, mas sobreviveu.",
-          "porQueImporta": "O incidente destaca os riscos de correntes marítimas em praias brasileiras e a necessidade de atenção à segurança em áreas de banho.",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
+          "clusterId": "b4687f97e3ae2129",
+          "slug": "c1aed64b8f4573a9",
+          "titulo": "Cemaden alerta para riscos de alagamentos e deslizamentos no Vale do Paraíba",
+          "resumo": "O Centro Nacional de Monitoramento e Alertas de Desastres Naturais (Cemaden) identificou risco moderado de alagamentos e deslizamentos de terra em cidades do Vale do Paraíba neste domingo. A região está sob uma frente fria com chuvas, podendo causar extravasamento de córregos, enxurradas e alagamentos urbanos. As autoridades recomendam atenção e precauções nas áreas afetadas.",
+          "porQueImporta": "A previsão de eventos hidrológicos pode afetar a segurança e a mobilidade das comunidades locais.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/adolescente-mineiro-de-17-anos-morre-afogado-em-praia-de-cabo-frio-rj"
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/06/cemaden-aponta-riscos-de-alagamentos-e-deslizamentos-de-terra-no-vale-do-paraiba-neste-domingo-6.ghtml"
             }
           ],
-          "updatedAt": "2026-09-06T01:03:32.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/09/kerlon-e1788656548390.jpg"
+          "updatedAt": "2026-09-06T12:07:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XC5bDZnFTKECiuhlKk_8ajnbqgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/n/RxfwPARSeLBNDMcvQBAQ/6fc916a4-3c76-4de6-8c63-b81e64bfd96b.jpg"
         }
       ]
     },
@@ -515,21 +499,43 @@
       "label": "Acidente",
       "stories": [
         {
-          "clusterId": "8f005ac5f603d038",
-          "slug": "2b9fa71e36bd91f7",
-          "titulo": "Neplês resgatado após 9 dias preso em túnel de hidrelétrica",
-          "resumo": "O encarregado mecânico Sanjay Sah ficou preso em um túnel de uma usina hidrelétrica no Nepal por nove dias, após uma avalanche que soterrou a estrutura. Ele relatou ter permanecido no local para ajudar colegas a se salvarem, em vez de fugir. Foi resgatado nesta sexta-feira (4) e levado ao hospital.",
-          "porQueImporta": "Ilustra os riscos de acidentes em usinas hidrelétricas e a coragem dos trabalhadores em situações de emergência.",
+          "clusterId": "fc74a8ed4df18a92",
+          "slug": "7f13332da9939f78",
+          "titulo": "Chinês de 49 anos é resgatado após 10 dias preso em túnel de hidrelétrica no Nepal",
+          "resumo": "Um trabalhador chinês de 49 anos, Lu Haitao, ficou 10 dias preso em um túnel de 225 metros de extensão de uma hidrelétrica no Nepal, após enchentes. Ele foi localizado e retirado de forma segura por equipes de resgate e levado de helicóptero a um hospital. A família relatou angústia durante a espera e só acreditou no resgate depois de ver uma foto dele. A condição de Lu Haitao foi considerada estável pela emissora estatal chinesa CCTV.",
+          "porQueImporta": "Ilustra a capacidade de resgate em ambientes de risco extremo e a importância da comunicação com familiares.",
           "categoria": "Acidente",
           "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/04/trabalhador-resgatado-apos-9-dias-em-tunel-no-nepal-diz-que-ficou-para-salvar-colegas.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml"
             }
           ],
-          "updatedAt": "2026-09-04T11:23:59.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UrMdDfYEaHIBOgW-_QnHOYkXCfo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/B/gSo1kMTjyySVLEaZPi0g/design-sem-nome.png"
+          "updatedAt": "2026-09-06T11:15:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UCIE1tfESKzuyxy8sroDT1Y7wRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/lPxoARTzynEcN1iyMV7Q/793122321-1573552824519191-7950969273975718106-n.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "12cbd71b4b123c03",
+          "slug": "ddbdb84ac52b120b",
+          "titulo": "Deslizamento na China deixa um morto e 11 desaparecidos",
+          "resumo": "Um deslizamento de terra atingiu a cidade de Gaoping, no condado de Suichuan, em Jiangxi, por volta das 4h da madrugada de sábado, após fortes chuvas provocadas pelo tufão Saudel. O evento causou a morte de uma pessoa e deixou 11 desaparecidas. Doze casas foram danificadas.",
+          "porQueImporta": "O incidente destaca os riscos de desastres naturais associados a eventos climáticos extremos na região.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/05/deslizamento-jiangxi-china.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-05T04:52:13.000Z"
         }
       ]
     }

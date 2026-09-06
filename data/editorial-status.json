@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-09-06T04:59:36.717Z",
+  "ranAt": "2026-09-06T12:16:50.824Z",
   "editionDate": "2026-09-06",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Incidentes de fogo, chuva e explosões marcam o dia com riscos de mobilidade e segurança\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
