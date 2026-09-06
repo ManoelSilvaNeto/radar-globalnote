@@ -1,64 +1,30 @@
 {
   "date": "2026-09-06",
-  "generatedAt": "2026-09-06T15:41:53.663Z",
+  "generatedAt": "2026-09-06T18:34:27.288Z",
   "home": [
     {
-      "clusterId": "bfdaf56463fef648",
-      "slug": "329207d68be971de",
-      "titulo": "Incêndio destrói galpão do Ceagesp",
-      "resumo": "Um incêndio atingiu um galpão do Ceagesp, causando danos a mais de 300 boxes e a estruturas de todo o quarteirão de galpões. Não houve registro de vítimas. O prejuízo estimado pode ultrapassar 40 milhões de reais.",
-      "porQueImporta": "O evento pode impactar a logística e o comércio local, gerando perdas econômicas significativas.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "c1cddd7d3329715e",
+      "slug": "872422ecea893755",
+      "titulo": "Vendaval derruba estruturas em eventos de Pato de Minas e Sete Lagoas",
+      "resumo": "Um vendaval atingiu o Parque de Exposições de Pato de Minas e a área de Sete Lagoas, derrubando estruturas de dois eventos distintos. As quedas ocorreram no sábado, dia 5, durante chuvas fortes e ventos intensos. O número de feridos relatado varia entre 18 e 25 pessoas, dependendo da fonte. As autoridades locais estão avaliando os danos e prestando assistência às vítimas.",
+      "porQueImporta": "O incidente destaca a vulnerabilidade de estruturas temporárias a condições meteorológicas severas, exigindo revisão de normas de segurança em eventos públicos.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
       "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/incendio-destroi-pavilhao-do-ceagesp-na-madrugada-deste-domingo/"
-        },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-galpao-na-ceagesp-ao-menos-320-boxes-foram-atingidos/"
-        }
-      ],
-      "updatedAt": "2026-09-06T14:47:29.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-06-at-09.32.24.jpeg"
-    },
-    {
-      "clusterId": "9228f072c4d6fd8b",
-      "slug": "5b4e757722e34c23",
-      "titulo": "Acidente na BR-135 deixa três mortos em Presidente Dutra",
-      "resumo": "Três pessoas morreram em um acidente envolvendo dois veículos na BR-135, em Presidente Dutra, a cerca de 350 km de São Luís. O incidente ocorreu na tarde de domingo, 30 de agosto. A Polícia Rodoviária Federal investigou o ocorrido. Não há relatos de feridos vivos.",
-      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária na região.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/vendaval-derruba-estruturas-em-festivais-sertanejos-e-deixa-feridos-em-mg/"
+        },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/06/vc-viu-jovem-e-baleado-apos-sair-de-academia-em-sao-luis-adolescente-e-morta-a-facadas-e-onca-e-vista-circulando-pelas-ruas-de-imperatriz.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/de-novo-temporal-derruba-estruturas-na-exposete-e-deixa-25-feridos-em-mg"
         }
       ],
-      "updatedAt": "2026-09-06T15:23:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/grKBv_vQoi8ii-kUTS1fR2i79Hc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/P/FuBD0DRUqlIa1ASf0zZw/montagens-1920-x-1080-px-70-.jpg"
+      "updatedAt": "2026-09-06T18:22:49.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/metadinha-2x-1788717485200.jpg"
     },
     {
-      "clusterId": "9a925ba9ee912039",
-      "slug": "18d850433a666abd",
-      "titulo": "Corpos de professora, idosa e criança são velados em MG após acidente na BR-146",
-      "resumo": "Três pessoas morreram em colisão entre carro e caminhão na BR-146, em Guaxupé, MG. As vítimas eram Marilda Aparecida Teixeira, 67 anos, Maria Antônia dos Reis Arruda, 86 anos, e Gabriel Abrão Arruda, 4 anos. Os corpos serão sepultados em Monte Belo no domingo. A Polícia Civil investiga as causas da batida.",
-      "porQueImporta": "O acidente resultou em três mortes, incluindo uma criança, destacando a gravidade de colisões em rodovias estaduais.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/06/acidente-na-br-146-deixa-mortos-em-guaxupe-mg-veja-quem-eram-as-vitimas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-06T15:22:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kgWnIegoefeQUS59L7_cY-kORGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/H/p03STATXGwOTqeIRbNXg/acidente-br146.jpeg"
-    },
-    {
-      "clusterId": "294d63512e21973e",
+      "clusterId": "4e405f2ff7793521",
       "slug": "5d8047f6f90e527b",
       "titulo": "Incêndio atinge ao menos 20 barracos na Comunidade do Verde",
       "resumo": "Um incêndio começou por volta das 9h35 na Rua Giuseppe Marino e atingiu pelo menos 20 barracos na Comunidade do Verde, onde vivem cerca de 400 famílias, na Zona Norte de São Paulo. Nenhum ferido foi registrado. Ainda não há levantamento sobre moradores desalojados nem extensão dos prejuízos. Equipes do Corpo de Bombeiros permanecem no local combatendo as chamas.",
@@ -69,112 +35,150 @@
         {
           "name": "G1",
           "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/06/incendio-atinge-ao-menos-20-barracos-em-comunidade-com-cerca-de-400-familias-na-zona-norte-de-sp.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-atinge-mais-de-25-moradias-em-comunidade-na-zona-norte-de-sp/"
         }
       ],
-      "updatedAt": "2026-09-06T15:18:38.000Z",
+      "updatedAt": "2026-09-06T17:41:38.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/vkNm6PwZvfAqJigBP9u0IKXBXK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/5/0BHH2uRaaIk1uo0pPL2g/montagem-horizontal-1200px-15-.jpg"
     },
     {
-      "clusterId": "87be0bac78ea6ec8",
-      "slug": "7b15a7510a456a3a",
-      "titulo": "Estrutura de evento desaba em Patos de Minas",
-      "resumo": "Durante um temporal em Patos de Minas, parte da estrutura de um evento no Parque de Exposições cedeu, ferindo cinco pessoas e deixando uma mulher grávida com mal-estar. O Corpo de Bombeiros relatou que o palco desabou enquanto a chuva atingia a cidade. O Serviço de Atendimento Móvel de Urgência foi acionado para atender cerca de 100 vítimas e possíveis fraturas graves. Três viaturas do Samu foram deslocadas ao local.",
-      "porQueImporta": "O incidente demonstra risco de acidentes em eventos durante condições climáticas adversas.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/06/cinco-pessoas-ficam-feridas-e-gravida-passa-mal-apos-estrutura-de-evento-desabar-durante-temporal-em-patos-de-minas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-06T15:15:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4pa20Mj_ZgkOBwR5o0lwPDshFiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/b/hLgWQ9RJ6BaAOPuJIwnw/whatsapp-image-2026-09-05-at-20.00.55.jpeg"
-    },
-    {
-      "clusterId": "6d3258b10ac401ee",
-      "slug": "ce529c1d055f7db0",
-      "titulo": "Raio atinge imóvel e provoca incêndio em central de monitoramento em Bastos",
-      "resumo": "Um raio atingiu um imóvel na zona rural de Bastos, SP, causando incêndio na central de monitoramento e no painel elétrico. O fogo já estava em um dos cômodos, que abriga comércio e banheiros, quando os serviços de Defesa Civil chegaram. Ninguém ficou ferido e os colaboradores tentaram conter as chamas com extintores, sem sucesso. O incêndio foi controlado posteriormente.",
-      "porQueImporta": "O evento demonstra a vulnerabilidade de estruturas rurais a descargas atmosféricas e a importância de medidas de prevenção e resposta rápida.",
+      "clusterId": "ae61720d59374854",
+      "slug": "78f66ad59c337d6d",
+      "titulo": "Ônibus do transporte público é destruído por incêndio em Campinas",
+      "resumo": "Um ônibus da linha BRT 25 de Campinas pegou fogo na noite de sábado na estação BRT Vila Teixeira. O incêndio teria sido causado por um curto‑circuito na parte traseira do veículo. Dois passageiros e o motorista estavam a bordo, mas ninguém se feriu. O ônibus ficou completamente queimado e o Corpo de Bombeiros foi acionado.",
+      "porQueImporta": "O incidente demonstra riscos de segurança em veículos de transporte público, afetando a confiança dos usuários.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/06/raio-atinge-imovel-e-provoca-incendio-em-central-de-monitoramento-em-bastos.ghtml"
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/06/onibus-do-transporte-publico-e-destruido-por-incendio-em-campinas.ghtml"
         }
       ],
-      "updatedAt": "2026-09-06T14:58:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/5CTIHfhtNlRKr988P-Qq2loIpB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/de8rfHR0qBtCR1S1ZYIQ/edicao-g1-agenda-52-.png"
+      "updatedAt": "2026-09-06T18:03:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DdeKiCRDNkVr2Ahia_fuz9woSUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/m/eyLvHMQeW6t10tl52kXQ/design-sem-nome-34-.png"
     },
     {
-      "clusterId": "f6391e6879ac04a6",
-      "slug": "64cfa6ce4d9815c4",
-      "titulo": "Homem é preso por dirigir bêbado e sem CNH após avançar sinal vermelho e bater de frente com moto em MS",
-      "resumo": "Um homem de 47 anos foi preso em flagrante por dirigir embriagado e sem Carteira Nacional de Habilitação após avançar o sinal vermelho e colidir frontalmente com uma motocicleta. O motociclista, de 24 anos, também foi detido por não ter habilitação e por avançar o sinal vermelho no momento da colisão. O motociclista sofreu ferimentos no joelho, punho e antebraço esquerdo.",
-      "porQueImporta": "O caso destaca a gravidade de dirigir sem habilitação e sob influência de álcool, reforçando a necessidade de fiscalização e prevenção de acidentes de trânsito.",
+      "clusterId": "3778e423d39f31fc",
+      "slug": "7f13332da9939f78",
+      "titulo": "Chinês de 49 anos é resgatado após 10 dias preso em túnel de hidrelétrica no Nepal",
+      "resumo": "Um trabalhador chinês de 49 anos, Lu Haitao, ficou 10 dias preso em um túnel de 225 metros de extensão de uma hidrelétrica no Nepal, após enchentes. Ele foi localizado e retirado de forma segura por equipes de resgate e levado de helicóptero a um hospital. A família relatou angústia durante a espera e só acreditou no resgate depois de ver uma foto dele. A condição de Lu Haitao foi considerada estável pela emissora estatal chinesa CCTV.",
+      "porQueImporta": "Ilustra a capacidade de resgate em ambientes de risco extremo e a importância da comunicação com familiares.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-06T17:21:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UCIE1tfESKzuyxy8sroDT1Y7wRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/lPxoARTzynEcN1iyMV7Q/793122321-1573552824519191-7950969273975718106-n.jpg"
+    },
+    {
+      "clusterId": "e5d57f775951de1e",
+      "slug": "ff053b3185048a63",
+      "titulo": "Carro capota, pega fogo e deixa passageiros feridos em Jaguariúna",
+      "resumo": "Um carro capotou na pista marginal da Rodovia SP-107, na Rua das Dálias, em Jaguariúna, e pegou fogo. O acidente deixou três passageiros com ferimentos leves, enquanto o motorista não sofreu lesões. O veículo transportava cinco pessoas no total. Não houve interdição nem congestionamento na via.",
+      "porQueImporta": "O incidente destaca a importância da segurança viária e do controle de incêndios em veículos.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/06/homem-e-preso-por-dirigir-bebado-e-sem-cnh-apos-avancar-sinal-vermelho-e-bater-de-frente-com-moto-em-ms.ghtml"
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/06/carro-capota-pega-fogo-e-deixa-passageiros-feridos-em-jaguariuna.ghtml"
         }
       ],
-      "updatedAt": "2026-09-06T14:53:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/3MxFz-uMXdSWfSgbNmaSAJ6mEdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/2/uLQH87QBSDHf1BPtiHaw/design-sem-nome-2025-10-26t131852.688.jpg"
+      "updatedAt": "2026-09-06T17:16:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HDg74-p8hUnB35M4s7kuNihbMlU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Z/wGlbSSRlaHm7kAqIhMPQ/design-sem-nome-33-.png"
     },
     {
-      "clusterId": "b2544aa9dcbd6874",
-      "slug": "438d1f8cafd05c51",
-      "titulo": "Caminhoneiro tenta frear quando carro invade pista contrária em rodovia",
-      "resumo": "Na Rodovia Zeferino Vaz, em Paulínia, um carro atravessou o canteiro central e invadiu a pista contrária, colidindo frontalmente com uma carreta. O motorista da carreta tentou frear, mas não teve tempo de reação. O acidente, ocorrido no sábado, resultou na morte de Geraldo Caetano, de 49 anos, que dirigia o carro. A Polícia Civil está investigando as causas.",
-      "porQueImporta": "O incidente destaca riscos de invasão de pista em rodovias e a necessidade de fiscalização e segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "12e6e908b39bb7f9",
+      "slug": "79c6dca81240566d",
+      "titulo": "Motorista é socorrido em estado grave após perder controle da direção e bater carro em rodovia de Itapetininga",
+      "resumo": "Um motorista foi socorrido em estado grave após perder o controle da direção e bater contra uma defensa metálica na Rodovia Raposo Tavares (SP-270), em Itapetininga (SP), na madrugada de sábado (5). Segundo informações da Agência de Transportes do Estado de São Paulo (Artesp), o acidente ocorreu no quilômetro 187, da pista sentido interior. Um segundo passageiro também teve ferimentos graves, enquanto a terceira vítima sofreu apenas ferimentos leves. 📲 Participe do canal do g1 Itapetininga e Região no WhatsApp Devido ao acidente, todas as faixas e o acostamento precisaram ser interditados,…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/06/foi-surpreendido-caminhoneiro-diz-a-policiais-que-tentou-frear-ao-ver-carro-invadir-pista-contraria-de-rodovia.ghtml"
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/06/motorista-e-socorrido-em-estado-grave-apos-perder-controle-da-direcao-e-bater-carro-em-rodovia-de-itapetininga.ghtml"
         }
       ],
-      "updatedAt": "2026-09-06T14:50:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/DJoYXzbXxrXpxe4QrQarOPcfcFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/z/D4RdNmTDuGw3uTO3wO9g/design-sem-nome-2026-09-05t114523.062.jpg"
+      "updatedAt": "2026-09-06T17:09:13.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_xIun3JkXEUSwItM_4mDB2fx55c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Z/AihdmySpOfxieb24MmVw/c4d76728-e717-44c7-a902-2c2f9de53509-1-.jpg"
     },
     {
-      "clusterId": "ab4c7499e52d232d",
-      "slug": "d97ecafde32a7507",
-      "titulo": "Motociclista de 19 anos morre em colisão traseira na BR-304 no RN",
-      "resumo": "Um motociclista de 19 anos morreu após ser atingido na traseira por um carro na madrugada de domingo na BR-304, em Assú, RN. O motorista do veículo, de 33 anos, foi preso em flagrante por sinais de embriaguez confirmados por equipe médica da PRF. O acidente ocorreu por volta das 4h30. Os nomes da vítima e do condutor não foram divulgados.",
-      "porQueImporta": "O caso destaca os riscos de dirigir embriagado em rodovias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "8e31ccee9f59a8a5",
+      "slug": "9088095613f78ece",
+      "titulo": "Garupa de moto morre em acidente envolvendo ônibus em BH",
+      "resumo": "Acidente envolvendo moto e ônibus deixa uma pessoa morta, no bairro Califórnia, em BH Um homem de 23 anos que estava na garupa de uma moto morreu em um acidente envolvendo um ônibus, no bairro Califórnia, na Região Noroeste de Belo Horizonte, na madrugada deste domingo (6). Câmeras de segurança registraram a ocorrência. O coletivo, da linha 9414 (Santa Inês/ João Pinheiro) estava seguindo na faixa da direita da Avenida Vereador Cícero Ildefonso, em direção ao Anel Rodoviário, quando a moto se aproximou pela faixa da esquerda. O motociclista perdeu o equilíbrio, e o veículo tombou (veja vídeo…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/06/jovem-morre-acidente-rn-condutor-carro-preso-prf.ghtml"
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/06/garupa-de-moto-morre-em-acidente-envolvendo-onibus-em-bh.ghtml"
         }
       ],
-      "updatedAt": "2026-09-06T14:50:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/NqhMMna2vp84jWvIkQWGST-LyyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/mn1B9fSSeSg6K8jX9KTw/prf-viatura.jpg"
+      "updatedAt": "2026-09-06T16:57:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/TDnmWfEjpSVBb6e4agXtvw_LYLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/c/Ou0XuSTa6H5iBnlQ4cdw/card-17-acidente-fatal-derrapa-moto-0002-frame-1005.jpeg"
     },
     {
-      "clusterId": "76925d8d47eb8d15",
-      "slug": "2193104112595153",
-      "titulo": "Ex-secretário de Saúde do Tocantins permanece na UTI após acidente de carro",
-      "resumo": "O ex-secretário de Estado da Saúde do Tocantins, Renato Jayme da Silva, de 58 anos, permanece internado na Unidade de Terapia Intensiva do Hospital Regional de Gurupi após sofrer um grave acidente de carro na rodovia TO-070. A esposa, Olívia Aparecida Amaral Silva, de 52 anos, morreu no local, enquanto o filho, Vitor Faleiro, recebeu alta na mesma semana.",
-      "porQueImporta": "O acidente envolve um alto cargo público e resultou em perda de vidas, destacando riscos de trânsito no estado.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "29a94742419a795c",
+      "slug": "5ad4538bcfbda879",
+      "titulo": "Servidor público morre em acidente na BR-459, em MG, durante volta de motorromaria a Aparecida",
+      "resumo": "Servidor público morre em acidente na BR-459, em MG, durante volta de motorromaria Um motociclista de 41 anos morreu após perder o controle da moto, atingir o canteiro central e ser arremessado para a pista contrária na BR-459, em Santa Rita do Sapucaí (MG), no fim da tarde deste sábado (5). Na sequência, ele foi atingido por um carro que seguia no sentido oposto. A vítima foi identificada como Emerson Tavares de Oliveira, servidor público municipal de Varginha (MG). 📲 Siga a página do g1 Sul de Minas no Instagram O acidente aconteceu por volta das 16h, no km 129 da rodovia, na chamada Curva…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/06/ex-secretario-de-saude-do-to-chega-ao-3o-dia-na-uti-apos-acidente-de-carro-em-que-a-esposa-morreu.ghtml"
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/06/morte-motociclista-br-459.ghtml"
         }
       ],
-      "updatedAt": "2026-09-06T14:32:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/HNXKKpALveQvYhba3eS__7ozQJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/1/MRXpc0TO6AGDZzO1srFg/saveclip.app-626762794-18139497055477304-7102532642213968530-n.jpg"
+      "updatedAt": "2026-09-06T16:50:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/9Qg6hZLCI0rL3BG0yfeF01KgQE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/E/IVIYGiRxCqTXlSLQ6UAg/acidente-br459-4.png"
+    },
+    {
+      "clusterId": "54f30992815c681d",
+      "slug": "b4a4244da0677b07",
+      "titulo": "Homem morre após ser atropelado na SP-294, em Tupã; motorista fugiu",
+      "resumo": "Um homem morreu atropelado por um carro após entrar em uma das faixas da Rodovia Comandante João Ribeiro de Barros (SP-294), em Tupã (SP), na noite de sexta-feira (4). O motorista fugiu. Segundo informações da Agência de Transporte do Estado de São Paulo (Artesp), o acidente aconteceu no quilômetro 534, na pista sentido interior. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp A vítima caiu enquanto caminhava pelo canteiro central e se arrastou até o acostamento, onde se levantou e continuou andando. Depois, o homem entrou na faixa da rodovia e foi atingido pelo carro. Ele morreu no…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/06/homem-morre-apos-ser-atropelado-na-sp-294-em-tupa-motorista-fugiu.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-06T16:37:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/K35UXJ9b26Z1yMC71DtfBJYrM5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/2/URVUnNRc6hmXkh2jK5zg/8ea9f73e-c707-45b1-aa8b-8c3d7c000d40.jpg"
+    },
+    {
+      "clusterId": "699fec0582b6adb6",
+      "slug": "cd1e7a32861a71a5",
+      "titulo": "Tremor de terra de magnitude 3,7 é registrado na região sul do Tocantins",
+      "resumo": "Um tremor de terra de magnitude 3,7 foi registrado em Sandolândia, na região sul do Tocantins. O abalo foi detectado pelo Centro de Sismologia da Universidade de São Paulo (USP). Conforme o relatório, o abalo ocorreu às 8h45, de quinta-feira (4), com latitude: de 12.68°S, e longitude: 50.46°W. Há relatos que alguns moradores perceberam um leve tremor na região. 📱 Clique aqui para seguir o canal do g1 TO no WhatsApp Conforme José Alexandre Nogueira, sismólogo no Centro de Sismologia da USP, teremotos dessa magnitude não oferecem tantos riscos à população. “Ainda mais na região que ocorreu,…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/06/tremor-de-terra-de-magnitude-37-e-registrado-na-regiao-sul-do-tocantins.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-06T16:10:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/elYaieMprlF1ve4X5QRAgtKLxdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/5/n79jISQG2ZawrgyB0vVQ/foto-e-montagem-vertical-2026-09-06t140707.379.jpg"
     }
   ],
   "categorias": [
@@ -183,72 +187,189 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "b09155a264b24aad",
-          "slug": "80eab8098e80daed",
-          "titulo": "Acidente derruba três postes e interdita avenida em Coronel Fabriciano",
-          "resumo": "Acidente derruba três postes e interdita avenida em Coronel Fabriciano Gracielle Sol/Inter TV dos Vales Um acidente deixou três postes derrubados e interditou a Avenida Presidente Almeida Neves, no bairro Aparecida do Norte, em Coronel Fabriciano, na manhã deste domingo (6). A batida aconteceu no trecho conhecido como “Curva da Morte”. Segundo informações apuradas pela reportagem, o motorista, de 29 anos, estava sozinho no carro. Ele é morador de Timóteo e voltava de Ipatinga, onde havia passado a noite na casa de amigos, quando sofreu o acidente. 📲 Clique aqui para seguir o canal do g1…",
+          "clusterId": "12e6e908b39bb7f9",
+          "slug": "79c6dca81240566d",
+          "titulo": "Motorista é socorrido em estado grave após perder controle da direção e bater carro em rodovia de Itapetininga",
+          "resumo": "Um motorista foi socorrido em estado grave após perder o controle da direção e bater contra uma defensa metálica na Rodovia Raposo Tavares (SP-270), em Itapetininga (SP), na madrugada de sábado (5). Segundo informações da Agência de Transportes do Estado de São Paulo (Artesp), o acidente ocorreu no quilômetro 187, da pista sentido interior. Um segundo passageiro também teve ferimentos graves, enquanto a terceira vítima sofreu apenas ferimentos leves. 📲 Participe do canal do g1 Itapetininga e Região no WhatsApp Devido ao acidente, todas as faixas e o acostamento precisaram ser interditados,…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/06/acidente-derruba-tres-postes-e-interdita-avenida-em-coronel-fabriciano.ghtml"
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/06/motorista-e-socorrido-em-estado-grave-apos-perder-controle-da-direcao-e-bater-carro-em-rodovia-de-itapetininga.ghtml"
             }
           ],
-          "updatedAt": "2026-09-06T14:12:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RiylT96AqIseYcW_N0iDHq2L4aI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/7/RzO927Q9mEcoRtiFqABw/whatsapp-image-2026-09-06-at-09.52.37.jpg"
+          "updatedAt": "2026-09-06T17:09:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_xIun3JkXEUSwItM_4mDB2fx55c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Z/AihdmySpOfxieb24MmVw/c4d76728-e717-44c7-a902-2c2f9de53509-1-.jpg"
         },
         {
-          "clusterId": "fd8e03471695e2cf",
-          "slug": "1e3ef74edf5abdab",
-          "titulo": "Adolescente morre em grave acidente de carro no interior de SP",
-          "resumo": "Caso foi registrado no Plantão Policial de Araraquara (SP) Walter Strozzi/acidadeon e Redes sociais Um grave acidente de trânsito matou um adolescente de 17 anos em Araraquara (SP) na madrugada deste domingo (6). A vítima foi identificada como Matheus Monte Franqueira. 📱 Siga o g1 São Carlos e Araraquara no Instagram Outros quatro jovens que estavam no veículo ficaram feridos e foram socorridos para hospitais da cidade. O estado de saúde deles não havia sido divulgado até a última atualização desta reportagem. O acidente aconteceu na Avenida Antônia Camargo de Oliveira, conhecida como Via…",
+          "clusterId": "8e31ccee9f59a8a5",
+          "slug": "9088095613f78ece",
+          "titulo": "Garupa de moto morre em acidente envolvendo ônibus em BH",
+          "resumo": "Acidente envolvendo moto e ônibus deixa uma pessoa morta, no bairro Califórnia, em BH Um homem de 23 anos que estava na garupa de uma moto morreu em um acidente envolvendo um ônibus, no bairro Califórnia, na Região Noroeste de Belo Horizonte, na madrugada deste domingo (6). Câmeras de segurança registraram a ocorrência. O coletivo, da linha 9414 (Santa Inês/ João Pinheiro) estava seguindo na faixa da direita da Avenida Vereador Cícero Ildefonso, em direção ao Anel Rodoviário, quando a moto se aproximou pela faixa da esquerda. O motociclista perdeu o equilíbrio, e o veículo tombou (veja vídeo…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/06/adolescente-morre-em-grave-acidente-de-carro-no-interior-de-sp.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/06/garupa-de-moto-morre-em-acidente-envolvendo-onibus-em-bh.ghtml"
             }
           ],
-          "updatedAt": "2026-09-06T14:12:05.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vwLvQU9p-8eAF71sm-aPGqjsDX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/R/3hKY2CTbKiORtwYiQ5iQ/acidente-jovem-1-.jpg"
+          "updatedAt": "2026-09-06T16:57:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TDnmWfEjpSVBb6e4agXtvw_LYLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/c/Ou0XuSTa6H5iBnlQ4cdw/card-17-acidente-fatal-derrapa-moto-0002-frame-1005.jpeg"
         },
         {
-          "clusterId": "0d5c7b685d97062e",
-          "slug": "12a01ceb27562e85",
-          "titulo": "Vendaval derruba estruturas, e 13 pessoas ficam feridas em festival sertanejo em MG",
-          "resumo": "Vendaval derruba estruturas, e pessoas ficam feridas em evento sertanejo em Sete Lagoas Horas após uma estrutura desabar e deixar 12 feridos na Exposete, evento que reúne shows sertanejos em Sete Lagoas, na Região Central de Minas Gerais, uma nova ocorrência foi registrada no local, na noite deste sábado (5), com 13 pessoas feridas. Segundo o Corpo de Bombeiros, por volta das 22h35, três pórticos com placas não suportaram a chuva e o vendaval. Os feridos foram atendidos pelos militares, pelo Serviço de Atendimento Móvel de Urgência (Samu) e por uma ambulância do evento. Um vídeo mostra a área…",
+          "clusterId": "29a94742419a795c",
+          "slug": "5ad4538bcfbda879",
+          "titulo": "Servidor público morre em acidente na BR-459, em MG, durante volta de motorromaria a Aparecida",
+          "resumo": "Servidor público morre em acidente na BR-459, em MG, durante volta de motorromaria Um motociclista de 41 anos morreu após perder o controle da moto, atingir o canteiro central e ser arremessado para a pista contrária na BR-459, em Santa Rita do Sapucaí (MG), no fim da tarde deste sábado (5). Na sequência, ele foi atingido por um carro que seguia no sentido oposto. A vítima foi identificada como Emerson Tavares de Oliveira, servidor público municipal de Varginha (MG). 📲 Siga a página do g1 Sul de Minas no Instagram O acidente aconteceu por volta das 16h, no km 129 da rodovia, na chamada Curva…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/06/nova-ocorrencia-exposete-noite-sabado.ghtml"
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/06/morte-motociclista-br-459.ghtml"
             }
           ],
-          "updatedAt": "2026-09-06T13:46:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/EEFopShHLfDqO7Jsxs-oj54fTf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/V/BeLd1KQk2P7mpN9ZgsWA/exposete.png"
+          "updatedAt": "2026-09-06T16:50:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9Qg6hZLCI0rL3BG0yfeF01KgQE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/E/IVIYGiRxCqTXlSLQ6UAg/acidente-br459-4.png"
         },
         {
-          "clusterId": "0e8728cd29782a93",
-          "slug": "05f9b712bf05bf2a",
-          "titulo": "Temporal provoca morte de quatro vacas eletrocutadas e causa estragos na região de Rio Preto",
-          "resumo": "Quatro vacas morreram eletrocutadas após a queda de um poste durante temporal em Cosmorama (SP) Arquivo pessoal/Divulgação O temporal que atingiu a região de São José do Rio Preto, neste sábado (5), provocou diversas quedas de árvores, interrupção de energia, destelhamentos de casas e a morte de quatro vacas eletrocutadas. A morte dos animais ocorreu em Cosmorama (SP). Segundo o proprietário da fazenda, durante o temporal, um poste de energia caiu e os fios energizados atingiram as vacas. 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Já em Tanabi (SP), de acordo com o Corpo de…",
+          "clusterId": "54f30992815c681d",
+          "slug": "b4a4244da0677b07",
+          "titulo": "Homem morre após ser atropelado na SP-294, em Tupã; motorista fugiu",
+          "resumo": "Um homem morreu atropelado por um carro após entrar em uma das faixas da Rodovia Comandante João Ribeiro de Barros (SP-294), em Tupã (SP), na noite de sexta-feira (4). O motorista fugiu. Segundo informações da Agência de Transporte do Estado de São Paulo (Artesp), o acidente aconteceu no quilômetro 534, na pista sentido interior. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp A vítima caiu enquanto caminhava pelo canteiro central e se arrastou até o acostamento, onde se levantou e continuou andando. Depois, o homem entrou na faixa da rodovia e foi atingido pelo carro. Ele morreu no…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/06/temporal-provoca-morte-de-quatro-vacas-eletrocutadas-e-causa-estragos-na-regiao-de-rio-preto.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/06/homem-morre-apos-ser-atropelado-na-sp-294-em-tupa-motorista-fugiu.ghtml"
             }
           ],
-          "updatedAt": "2026-09-06T13:41:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/tKYJmIh5mkEe6MiQMDwpJZRdst0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/u/0Ir9QxQr6h0V3adELo4A/edicao-g1-agenda-51-.png"
+          "updatedAt": "2026-09-06T16:37:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/K35UXJ9b26Z1yMC71DtfBJYrM5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/2/URVUnNRc6hmXkh2jK5zg/8ea9f73e-c707-45b1-aa8b-8c3d7c000d40.jpg"
+        },
+        {
+          "clusterId": "699fec0582b6adb6",
+          "slug": "cd1e7a32861a71a5",
+          "titulo": "Tremor de terra de magnitude 3,7 é registrado na região sul do Tocantins",
+          "resumo": "Um tremor de terra de magnitude 3,7 foi registrado em Sandolândia, na região sul do Tocantins. O abalo foi detectado pelo Centro de Sismologia da Universidade de São Paulo (USP). Conforme o relatório, o abalo ocorreu às 8h45, de quinta-feira (4), com latitude: de 12.68°S, e longitude: 50.46°W. Há relatos que alguns moradores perceberam um leve tremor na região. 📱 Clique aqui para seguir o canal do g1 TO no WhatsApp Conforme José Alexandre Nogueira, sismólogo no Centro de Sismologia da USP, teremotos dessa magnitude não oferecem tantos riscos à população. “Ainda mais na região que ocorreu,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/06/tremor-de-terra-de-magnitude-37-e-registrado-na-regiao-sul-do-tocantins.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T16:10:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/elYaieMprlF1ve4X5QRAgtKLxdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/5/n79jISQG2ZawrgyB0vVQ/foto-e-montagem-vertical-2026-09-06t140707.379.jpg"
+        },
+        {
+          "clusterId": "01ad81a7e0640be5",
+          "slug": "bf5a950f53d05699",
+          "titulo": "Adolescente morre afogado em balneário de Santa Luzia d'Oeste, RO",
+          "resumo": "Armando Gabriel Marcelino Aires, de 16 anos, morreu afogado no último sábado (5), no Balneário Municipal de Santa Luzia d'Oeste (RO). O corpo do jovem foi resgatado pelo Corpo de Bombeiros. De acordo com o Corpo de Bombeiros de Rolim de Moura (RO), o afogamento aconteceu no início da tarde. A equipe foi acionada e, no local, testemunhas relataram que o jovem havia desaparecido na água havia cerca de uma hora. Após buscas realizadas por meio de mergulho, o corpo foi localizado, mas o adolescente já estava sem vida. A vítima foi retirada da água e levada até uma viatura municipal, onde a equipe…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/09/06/adolescente-morre-afogado-em-balneario-de-santa-luzia-doeste-ro.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T16:03:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/IBdMnVLo4SRRyOw2jTI8wp1u4LU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/U/c5AMm6QuK9arhjffofCg/g1-ro-2026-2-.jpg"
+        },
+        {
+          "clusterId": "eb0b2f9142bee905",
+          "slug": "7f70b0f1860f097d",
+          "titulo": "Mulher morre atropelada após ser empurrada durante discussão em bar no ES",
+          "resumo": "Uma mulher de 43 anos morreu após ser atropelada em uma avenida de São Gabriel da Palha, no Noroeste do Espírito Santo, na madrugada deste sábado (5). Segundo testemunhas ouvidas pela Polícia Militar, a vítima, identificada como Luciana Coutinho Pereira, foi atingida por um carro após ser empurrada durante uma discussão em um bar. O motorista envolvido no atropelamento, de 34 anos, disse que fugiu do local por medo de ser linchado. Ele foi ouvido na Delegacia Regional de Nova Venécia e liberado e, segundo a Polícia Civil, o caso é investigado pela Delegacia de Polícia (DP) de São Gabriel da…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/09/06/mulher-morre-atropelada-apos-ser-empurrada-durante-discussao-em-bar-no-es.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T15:59:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lCHYJ4N6u4aI3STlvBjQF0ZM3dM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/r/BcyAXrR5SKrAjAFJqSkg/thumb-fotos-2026-09-06t124455.925.jpg"
+        },
+        {
+          "clusterId": "1ecb580251d150d3",
+          "slug": "c7093b98eac36e5e",
+          "titulo": "Equipes da China vasculham ruínas em fronteira devastada por enchentes",
+          "resumo": "Passagem se tornou símbolo sombrio da devastação causada por colapso de geleira no lado nepalês",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/equipes-da-china-vasculham-ruinas-em-fronteira-devastada-por-enchentes/"
+            }
+          ],
+          "updatedAt": "2026-09-06T15:56:02.000Z"
+        },
+        {
+          "clusterId": "38bc7897e6f915e2",
+          "slug": "4070ccfb5307b6e0",
+          "titulo": "Duas pessoas morrem após carro capotar na Rua da Marinha, em Belém",
+          "resumo": "Duas pessoas morreram em um acidente na madrugada deste domingo (6), na rotatória da Rua da Marinha, no bairro da Marambaia, em Belém. De acordo com a Polícia Civil, o condutor perdeu o controle do veículo e acabou colidindo com uma mureta da via. Com o impacto, o motorista e um passageiro foram lançados contra o painel do carro. Os dois morreram no local. ✅ Siga o canal do g1 Pará no WhatsApp A identidade das vítimas ainda não foi oficialmente divulgada. Equipes do Corpo de Bombeiros foram acionadas para atender à ocorrência. Ainda segundo informações da Polícia Civil , a Seccional da…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/09/06/duas-pessoas-morrem-apos-carro-capotar-na-rua-da-marinha-em-belem.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T15:51:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/LucV2hhXqMXpd7DsECygQOyZhqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/E/FQobBtSUak1FCmOu2ZBQ/acidente-rua-d-amarinha.jpg"
+        },
+        {
+          "clusterId": "be12d3f732312570",
+          "slug": "1b926eb90c82e917",
+          "titulo": "Incêndio em prédio deixa ao menos quatro pessoas mortas em Capanema, no Pará",
+          "resumo": "Incêndio em prédio deixa pessoas mortas em Capanema, no Pará Um incêndio de grandes proporções foi registrado na noite de sábado (5), no bairro São José, em Capanema, no nordeste do Pará. Ao menos quatro pessoas da mesma família morreram, segundo moradores. Ainda não há confirmação oficial sobre o número de mortos. O g1 solicitou mais informações ao Corpo de Bombeiros, mas ainda não havia obtido resposta até a última atualização da reportagem. De acordo com informações preliminares, o fogo atingiu uma loja de peças de automóveis e uma residência no mesmo prédio. A família estava no segundo…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/09/06/incendio-deixa-mortos-em-capanema-no-para.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T15:50:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Ec_oSj_XLcctabkZWnOTzuKmqIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/1/uksPRBRriHTJ4ANnS9ZQ/incendio-em-capanema.jpg"
+        },
+        {
+          "clusterId": "d24a0cf08b01124b",
+          "slug": "99543601762fdcc7",
+          "titulo": "Incêndio em galpão na Ceagesp: ao menos 320 boxes foram atingidos",
+          "resumo": "Fogo também provocou danos generalizados nas estruturas de todo o quarteirão formado por galpões; não houve registro de vítimas",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-galpao-na-ceagesp-ao-menos-320-boxes-foram-atingidos/"
+            }
+          ],
+          "updatedAt": "2026-09-06T14:47:29.000Z"
         },
         {
           "clusterId": "3c940ac7058d02d7",
@@ -265,123 +386,6 @@
             }
           ],
           "updatedAt": "2026-09-06T13:04:24.000Z"
-        },
-        {
-          "clusterId": "901cf576e3c1a4f5",
-          "slug": "dd947fd9c263772b",
-          "titulo": "Com seca, catraieiro relata dificuldade em manter trabalho no Rio Acre: ‘Estamos na luta’",
-          "resumo": "Com avanço da estiagem, seca prejudica quem precisa dos rios para trabalhar no Acre A rotina do catraieiro Antônio Viana mudou com a diminuição do nível do Rio Acre e com a aproximação do período mais crítico da estiagem. Entre os desafios que ele tem que enfrentar estão os bancos de areia, trechos rasos e obstáculos que podem dificultar a navegação. O catraieiro trabalha na capital Rio Branco e relata que, com a mudança de cenário conforme a água do manancial baixa, os usuários de catraia, um meio de transporte comum para quem depende do rio, preferem não descer ou subir o barranco. ✅ Clique…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/09/06/com-seca-catraieiro-relata-dificuldade-em-manter-trabalho-no-rio-acre-estamos-na-luta.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T13:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/qOegcx7AJyUQhq7VWhpzLjFhQvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/j/AesODqTF2iAP2ZbqO7Rw/midia-de-distribuicao-g1-2026-09-03t110500.822.png"
-        },
-        {
-          "clusterId": "105040a43513c320",
-          "slug": "8662e915a1f9a927",
-          "titulo": "Adolescente envolvido em acidente fatal em Macapá é levado para Centro de Internação Provisória",
-          "resumo": "Mãe e filha vítimas de acidente de carro foram veladas na Fazendinha a O adolescente de 16 anos que dirigia o carro no acidente que matou mãe e filha na Zona Sul de Macapá passou por audiência de custódia neste sábado (5). Ele foi encaminhado ao Centro de Internação Provisória (CIP), onde deve ficar internado por 45 dias. A batida aconteceu na madrugada de sexta-feira (4) no cruzamento da Rua Hildemar Maia, no bairro do Buritizal. No carro estava uma família com quatro pessoas: pai, mãe e dois filhos. A mãe, Elen Alves Cardoso, de 33 anos, e a filha de 1 ano morreram no local. O pai, de 32…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/06/adolescente-envolvido-em-acidente-fatal-em-macapa-e-levado-para-centro-de-internacao-provisorio.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T12:53:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/LQxeNh_q89yQoBZo2BZrGGPFo4E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/z/vJffppTSiJBZ2ATQ1mLA/whatsapp-image-2026-09-04-at-08.34.23.jpeg"
-        },
-        {
-          "clusterId": "4031cd076d80c779",
-          "slug": "51ad834bffa2a398",
-          "titulo": "Parte da estrutura de camarote da Festa do Peão cede e 24 pessoas ficam feridas em Campo Limpo Paulista",
-          "resumo": "Parte da estrutura de camarote cede e 24 pessoas ficam feridas em Festa do Peão Parte da estrutura de um dos camarotes da 22ª Festa do Peão de Campo Limpo Paulista (SP) cedeu, na madrugada deste domingo (6). Segundo a Defesa Civil, 24 pessoas ficaram feridas e precisaram ser encaminhadas ao hospital. Imagens que circulam nas redes sociais registraram o tumulto logo após a queda da área reservada ao camarote avulso. Também é possível observar pessoas se equilibrando e se apoiando em grades. 📲 Participe do canal do g1 Sorocaba e Jundiaí no WhatsApp A organização do evento afirmou que está…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/06/parte-da-estrutura-de-camarote-da-festa-do-peao-cede-e-24-pessoas-ficam-feridas-em-campo-limpo-paulista.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T12:46:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/AtMr7cu5i6VpOmjdJXt4mOoiB_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/A/NqqHvoRja4BNluew0oSA/edicao-g1-agenda-48-.png"
-        },
-        {
-          "clusterId": "d56245471359c8fb",
-          "slug": "1a8fe5876041104c",
-          "titulo": "Acidente envolvendo carro, moto e carreta deixa feridos na Via Expressa, em Contagem",
-          "resumo": "Acidente envolvendo carreta, moto e carro na Via Expressa, em Contagem Luiz Henrique Cisi/ TV Globo Um acidente envolvendo um carro, uma carreta e uma moto deixou pessoas feridas na Via Expressa, no bairro Cincão, em Contagem, na Grande BH, na manhã deste domingo (6). Segundo informações da Polícia Militar, o automóvel seguia em direção a Betim quando o motorista perdeu o controle da direção, invadiu a pista no sentido contrário e atingiu a moto e a carreta. Uma ocupante do carro disse à TV Globo que o condutor passou mal antes da batida. ✅Clique aqui para seguir o canal do g1 MG no WhatsApp…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/06/acidente-feridos-via-expressa-contagem.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T12:39:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/8921kU88A3C3sAiQzIzAjRcFpQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/T/RIZeSHTIaS7Vgwf8xM8g/whatsapp-image-2026-09-06-at-09.20.55-1-.jpeg"
-        },
-        {
-          "clusterId": "0aa78b73df7a23dd",
-          "slug": "ad7dd1a25d299735",
-          "titulo": "Médico recusa teste do etilômetro após invadir loja com veículo e atropelar 5 pessoas",
-          "resumo": "Encontro das Águas Um grave acidente de trânsito mobilizou forças de segurança e equipes de socorro na noite de sábado (5), no cruzamento da Avenida Borges Leal com a Rua Antônio Justa, no bairro Caranazal, em Santarém, oeste do Pará. Um carro desgovernado invadiu uma loja de peças automotivas e atingiu cinco pessoas que estavam no local. ✅ Siga o canal g1 Santarém e Região no WhatsApp Entre os feridos, três precisaram ser socorridos e encaminhados ao Pronto Socorro do Hospital Municipal de Santarém (HMS) com suspeitas de fraturas. Uma das vítimas apresentava quadro grave com fratura exposta.…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/06/medico-recusa-teste-do-etilometro-apos-invadir-loja-com-veiculo-e-atropelar-5-pessoas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T12:35:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/f33rEF5HEnUTixtiXiZLyQnLW74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/A/7msCkeRBa3AJSCkgnv9A/whatsapp-image-2026-09-06-at-09.33.19.jpeg"
-        },
-        {
-          "clusterId": "552d6d551c77dfa3",
-          "slug": "3bb474105d2bbf01",
-          "titulo": "EUA cortaram ajuda a programa que monitorava deslizamentos no Nepal em 2025",
-          "resumo": "Iniciativa identificava áreas de risco no Himalaia e teve verba suspensa em janeiro do ano passado pelo governo Trump",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/eua-cortaram-ajuda-a-programa-que-monitorava-deslizamentos-no-nepal-em-2025/"
-            }
-          ],
-          "updatedAt": "2026-09-06T12:00:52.000Z"
-        },
-        {
-          "clusterId": "5136fd74e29d0b81",
-          "slug": "d4957c2e4a8d6717",
-          "titulo": "Mar avança 5 metros por ano, destruindo casas na areia",
-          "resumo": "A cidade enfrenta erosão costeira extrema, com o mar avançando cerca de cinco metros por ano e destruindo casas construídas na areia. A situação tem sido estudada como laboratório urbano de adaptação climática, empregando técnicas geológicas e hidrossedimentológicas para conter o avanço do oceano. A comunidade local está sendo afetada pela perda de moradias e pela necessidade de medidas de mitigação.",
-          "porQueImporta": "A erosão ameaça a segurança e a habitação das populações costeiras, exigindo ações de adaptação e mitigação.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/curiosidades/a-cidade-onde-o-mar-avanca-cerca-de-5-metros-por-ano-e-destroi-casas-na-areia/"
-            }
-          ],
-          "updatedAt": "2026-09-06T09:10:04.000Z"
         },
         {
           "clusterId": "ce0037b57623a00c",
@@ -406,6 +410,23 @@
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
+        {
+          "clusterId": "e5d57f775951de1e",
+          "slug": "ff053b3185048a63",
+          "titulo": "Carro capota, pega fogo e deixa passageiros feridos em Jaguariúna",
+          "resumo": "Um carro capotou na pista marginal da Rodovia SP-107, na Rua das Dálias, em Jaguariúna, e pegou fogo. O acidente deixou três passageiros com ferimentos leves, enquanto o motorista não sofreu lesões. O veículo transportava cinco pessoas no total. Não houve interdição nem congestionamento na via.",
+          "porQueImporta": "O incidente destaca a importância da segurança viária e do controle de incêndios em veículos.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/06/carro-capota-pega-fogo-e-deixa-passageiros-feridos-em-jaguariuna.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T17:16:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HDg74-p8hUnB35M4s7kuNihbMlU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Z/wGlbSSRlaHm7kAqIhMPQ/design-sem-nome-33-.png"
+        },
         {
           "clusterId": "9228f072c4d6fd8b",
           "slug": "5b4e757722e34c23",
@@ -475,73 +496,6 @@
           "imageUrl": "https://s2-g1.glbimg.com/DJoYXzbXxrXpxe4QrQarOPcfcFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/z/D4RdNmTDuGw3uTO3wO9g/design-sem-nome-2026-09-05t114523.062.jpg"
         },
         {
-          "clusterId": "ab4c7499e52d232d",
-          "slug": "d97ecafde32a7507",
-          "titulo": "Motociclista de 19 anos morre em colisão traseira na BR-304 no RN",
-          "resumo": "Um motociclista de 19 anos morreu após ser atingido na traseira por um carro na madrugada de domingo na BR-304, em Assú, RN. O motorista do veículo, de 33 anos, foi preso em flagrante por sinais de embriaguez confirmados por equipe médica da PRF. O acidente ocorreu por volta das 4h30. Os nomes da vítima e do condutor não foram divulgados.",
-          "porQueImporta": "O caso destaca os riscos de dirigir embriagado em rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/06/jovem-morre-acidente-rn-condutor-carro-preso-prf.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T14:50:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/NqhMMna2vp84jWvIkQWGST-LyyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/mn1B9fSSeSg6K8jX9KTw/prf-viatura.jpg"
-        },
-        {
-          "clusterId": "76925d8d47eb8d15",
-          "slug": "2193104112595153",
-          "titulo": "Ex-secretário de Saúde do Tocantins permanece na UTI após acidente de carro",
-          "resumo": "O ex-secretário de Estado da Saúde do Tocantins, Renato Jayme da Silva, de 58 anos, permanece internado na Unidade de Terapia Intensiva do Hospital Regional de Gurupi após sofrer um grave acidente de carro na rodovia TO-070. A esposa, Olívia Aparecida Amaral Silva, de 52 anos, morreu no local, enquanto o filho, Vitor Faleiro, recebeu alta na mesma semana.",
-          "porQueImporta": "O acidente envolve um alto cargo público e resultou em perda de vidas, destacando riscos de trânsito no estado.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/06/ex-secretario-de-saude-do-to-chega-ao-3o-dia-na-uti-apos-acidente-de-carro-em-que-a-esposa-morreu.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T14:32:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/HNXKKpALveQvYhba3eS__7ozQJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/1/MRXpc0TO6AGDZzO1srFg/saveclip.app-626762794-18139497055477304-7102532642213968530-n.jpg"
-        },
-        {
-          "clusterId": "8b5b570a900c4bd8",
-          "slug": "1c8b27edb6825640",
-          "titulo": "Acidente na BR-364 deixa três mortos",
-          "resumo": "Uma colisão entre um carro e duas motocicletas no quilômetro 16 da BR-364, entre Tarauacá e Feijó, no Acre, resultou em três mortes. O motorista, João Victor Casas, é suspeito de causar o acidente e trabalha como assessor especial na Casa Civil.",
-          "porQueImporta": "O fato envolve um funcionário público de alto nível e destaca a gravidade de acidentes de trânsito no interior do Acre.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/09/06/voce-viu-sabatina-com-candidatos-ao-senado-mulher-achada-morta-trisal-anuncia-chegada-de-bebe-e-mais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T12:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/emOoI5DsOkbZmHSC8EjvE64KEt8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/d/CDX3DuQNSKher91KuBVg/midia-de-distribuicao-g1-68-.jpg"
-        },
-        {
-          "clusterId": "d91799fb9cf6c4ec",
-          "slug": "ec8970b33935d1df",
-          "titulo": "Piloto salva colega de carro em chamas após acidente em corrida na China",
-          "resumo": "Durante uma corrida na China, o piloto Loek Hartog abandonou a prova para usar um extintor e retirar o colega Ollie Millroy do veículo em chamas. Millroy, britânico, sofreu fraturas e lesão no pulmão. O incidente ocorreu em um cenário de competição motorizada, exigindo ação rápida dos pilotos.",
-          "porQueImporta": "Ilustra a importância da prontidão e solidariedade entre pilotos em situações de emergência.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/piloto-salva-colega-de-carro-em-chamas-apos-acidente-em-corrida-na-china/"
-            }
-          ],
-          "updatedAt": "2026-09-06T09:33:17.000Z"
-        },
-        {
           "clusterId": "93ccd957eb7f339c",
           "slug": "99ef8f5e4f3c184b",
           "titulo": "Caixão temático guitarra em Gana celebra músico falecido em acidente de trânsito",
@@ -565,28 +519,7 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "bfdaf56463fef648",
-          "slug": "329207d68be971de",
-          "titulo": "Incêndio destrói galpão do Ceagesp",
-          "resumo": "Um incêndio atingiu um galpão do Ceagesp, causando danos a mais de 300 boxes e a estruturas de todo o quarteirão de galpões. Não houve registro de vítimas. O prejuízo estimado pode ultrapassar 40 milhões de reais.",
-          "porQueImporta": "O evento pode impactar a logística e o comércio local, gerando perdas econômicas significativas.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/incendio-destroi-pavilhao-do-ceagesp-na-madrugada-deste-domingo/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-galpao-na-ceagesp-ao-menos-320-boxes-foram-atingidos/"
-            }
-          ],
-          "updatedAt": "2026-09-06T14:47:29.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-06-at-09.32.24.jpeg"
-        },
-        {
-          "clusterId": "294d63512e21973e",
+          "clusterId": "4e405f2ff7793521",
           "slug": "5d8047f6f90e527b",
           "titulo": "Incêndio atinge ao menos 20 barracos na Comunidade do Verde",
           "resumo": "Um incêndio começou por volta das 9h35 na Rua Giuseppe Marino e atingiu pelo menos 20 barracos na Comunidade do Verde, onde vivem cerca de 400 famílias, na Zona Norte de São Paulo. Nenhum ferido foi registrado. Ainda não há levantamento sobre moradores desalojados nem extensão dos prejuízos. Equipes do Corpo de Bombeiros permanecem no local combatendo as chamas.",
@@ -597,10 +530,31 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/06/incendio-atinge-ao-menos-20-barracos-em-comunidade-com-cerca-de-400-familias-na-zona-norte-de-sp.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-atinge-mais-de-25-moradias-em-comunidade-na-zona-norte-de-sp/"
             }
           ],
-          "updatedAt": "2026-09-06T15:18:38.000Z",
+          "updatedAt": "2026-09-06T17:41:38.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/vkNm6PwZvfAqJigBP9u0IKXBXK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/5/0BHH2uRaaIk1uo0pPL2g/montagem-horizontal-1200px-15-.jpg"
+        },
+        {
+          "clusterId": "ae61720d59374854",
+          "slug": "78f66ad59c337d6d",
+          "titulo": "Ônibus do transporte público é destruído por incêndio em Campinas",
+          "resumo": "Um ônibus da linha BRT 25 de Campinas pegou fogo na noite de sábado na estação BRT Vila Teixeira. O incêndio teria sido causado por um curto‑circuito na parte traseira do veículo. Dois passageiros e o motorista estavam a bordo, mas ninguém se feriu. O ônibus ficou completamente queimado e o Corpo de Bombeiros foi acionado.",
+          "porQueImporta": "O incidente demonstra riscos de segurança em veículos de transporte público, afetando a confiança dos usuários.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/06/onibus-do-transporte-publico-e-destruido-por-incendio-em-campinas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T18:03:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DdeKiCRDNkVr2Ahia_fuz9woSUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/m/eyLvHMQeW6t10tl52kXQ/design-sem-nome-34-.png"
         },
         {
           "clusterId": "6d3258b10ac401ee",
@@ -626,6 +580,23 @@
       "label": "Acidente",
       "stories": [
         {
+          "clusterId": "3778e423d39f31fc",
+          "slug": "7f13332da9939f78",
+          "titulo": "Chinês de 49 anos é resgatado após 10 dias preso em túnel de hidrelétrica no Nepal",
+          "resumo": "Um trabalhador chinês de 49 anos, Lu Haitao, ficou 10 dias preso em um túnel de 225 metros de extensão de uma hidrelétrica no Nepal, após enchentes. Ele foi localizado e retirado de forma segura por equipes de resgate e levado de helicóptero a um hospital. A família relatou angústia durante a espera e só acreditou no resgate depois de ver uma foto dele. A condição de Lu Haitao foi considerada estável pela emissora estatal chinesa CCTV.",
+          "porQueImporta": "Ilustra a capacidade de resgate em ambientes de risco extremo e a importância da comunicação com familiares.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T17:21:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UCIE1tfESKzuyxy8sroDT1Y7wRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/lPxoARTzynEcN1iyMV7Q/793122321-1573552824519191-7950969273975718106-n.jpg"
+        },
+        {
           "clusterId": "87be0bac78ea6ec8",
           "slug": "7b15a7510a456a3a",
           "titulo": "Estrutura de evento desaba em Patos de Minas",
@@ -641,23 +612,6 @@
           ],
           "updatedAt": "2026-09-06T15:15:59.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/4pa20Mj_ZgkOBwR5o0lwPDshFiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/b/hLgWQ9RJ6BaAOPuJIwnw/whatsapp-image-2026-09-05-at-20.00.55.jpeg"
-        },
-        {
-          "clusterId": "fc74a8ed4df18a92",
-          "slug": "7f13332da9939f78",
-          "titulo": "Chinês de 49 anos é resgatado após 10 dias preso em túnel de hidrelétrica no Nepal",
-          "resumo": "Um trabalhador chinês de 49 anos, Lu Haitao, ficou 10 dias preso em um túnel de 225 metros de extensão de uma hidrelétrica no Nepal, após enchentes. Ele foi localizado e retirado de forma segura por equipes de resgate e levado de helicóptero a um hospital. A família relatou angústia durante a espera e só acreditou no resgate depois de ver uma foto dele. A condição de Lu Haitao foi considerada estável pela emissora estatal chinesa CCTV.",
-          "porQueImporta": "Ilustra a capacidade de resgate em ambientes de risco extremo e a importância da comunicação com familiares.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T11:15:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UCIE1tfESKzuyxy8sroDT1Y7wRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/lPxoARTzynEcN1iyMV7Q/793122321-1573552824519191-7950969273975718106-n.jpg"
         }
       ]
     },
@@ -702,6 +656,33 @@
       ]
     },
     {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "c1cddd7d3329715e",
+          "slug": "872422ecea893755",
+          "titulo": "Vendaval derruba estruturas em eventos de Pato de Minas e Sete Lagoas",
+          "resumo": "Um vendaval atingiu o Parque de Exposições de Pato de Minas e a área de Sete Lagoas, derrubando estruturas de dois eventos distintos. As quedas ocorreram no sábado, dia 5, durante chuvas fortes e ventos intensos. O número de feridos relatado varia entre 18 e 25 pessoas, dependendo da fonte. As autoridades locais estão avaliando os danos e prestando assistência às vítimas.",
+          "porQueImporta": "O incidente destaca a vulnerabilidade de estruturas temporárias a condições meteorológicas severas, exigindo revisão de normas de segurança em eventos públicos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/vendaval-derruba-estruturas-em-festivais-sertanejos-e-deixa-feridos-em-mg/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/de-novo-temporal-derruba-estruturas-na-exposete-e-deixa-25-feridos-em-mg"
+            }
+          ],
+          "updatedAt": "2026-09-06T18:22:49.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/09/metadinha-2x-1788717485200.jpg"
+        }
+      ]
+    },
+    {
       "slug": "deslizamento",
       "label": "Deslizamento",
       "stories": [
@@ -721,29 +702,6 @@
           ],
           "updatedAt": "2026-09-06T13:17:36.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/f_cOroQvJVz9teof7mfJ99SqS5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Q/Ag2uLnTrOEiYg4bHNjGQ/ap26248654582877.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "b4687f97e3ae2129",
-          "slug": "c1aed64b8f4573a9",
-          "titulo": "Cemaden alerta para riscos de alagamentos e deslizamentos no Vale do Paraíba",
-          "resumo": "O Centro Nacional de Monitoramento e Alertas de Desastres Naturais (Cemaden) identificou risco moderado de alagamentos e deslizamentos de terra em cidades do Vale do Paraíba neste domingo. A região está sob uma frente fria com chuvas, podendo causar extravasamento de córregos, enxurradas e alagamentos urbanos. As autoridades recomendam atenção e precauções nas áreas afetadas.",
-          "porQueImporta": "A previsão de eventos hidrológicos pode afetar a segurança e a mobilidade das comunidades locais.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/06/cemaden-aponta-riscos-de-alagamentos-e-deslizamentos-de-terra-no-vale-do-paraiba-neste-domingo-6.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T12:07:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/XC5bDZnFTKECiuhlKk_8ajnbqgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/n/RxfwPARSeLBNDMcvQBAQ/6fc916a4-3c76-4de6-8c63-b81e64bfd96b.jpg"
         }
       ]
     }
