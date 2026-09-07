@@ -1,175 +1,178 @@
 {
   "date": "2026-09-07",
-  "generatedAt": "2026-09-07T14:23:55.152Z",
+  "generatedAt": "2026-09-07T20:06:06.866Z",
   "home": [
     {
-      "clusterId": "6b6c8c877ef3bb28",
-      "slug": "31dfe080bacc65ef",
-      "titulo": "Incêndio em galpão de telhas em Juiz de Fora",
-      "resumo": "Um galpão de aproximadamente 500 metros quadrados, localizado no Distrito Industrial de Juiz de Fora, pegou fogo na manhã de segunda-feira, por volta das 7h30. O local armazenava telhas de fibra de celulose e duas empilhadeiras. As chamas consumiram parte da estrutura. Nenhum ferido foi registrado.",
-      "porQueImporta": "O incêndio pode afetar a produção e distribuição de telhas na região, impactando a cadeia de abastecimento local.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "db88a6df08efce2b",
+      "slug": "7f13332da9939f78",
+      "titulo": "Dia de luto nacional no Nepal 13 dias após avalanche devastadora",
+      "resumo": "O Nepal decretou um dia de luto nacional em memória das vítimas da avalanche de 26 de agosto, que causou mais de 1.400 mortes e mais de 5.500 desaparecidos. Bandeiras foram hasteadas a meio-mastro em prédios públicos. Enquanto isso, equipes de resgate continuam procurando sobreviventes e vítimas em áreas afetadas por enchentes e deslizamentos.",
+      "porQueImporta": "O evento destaca a magnitude da tragédia e a resposta contínua das autoridades e equipes de resgate.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/07/galpao-de-empresa-de-telhas-pega-fogo-em-juiz-de-fora.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/nepal-decreta-luto-nacional-treze-dias-apos-desastre-que-matou-1-400-pessoas/"
         }
       ],
-      "updatedAt": "2026-09-07T14:16:27.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Q2vc-cFxAsSTbvWPbCZu122JIGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/X/kgX5EHQz6bkuzqN75tMw/whatsapp-image-2026-09-07-at-10.51.57-2-.jpeg"
+      "updatedAt": "2026-09-07T19:05:55.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UCIE1tfESKzuyxy8sroDT1Y7wRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/lPxoARTzynEcN1iyMV7Q/793122321-1573552824519191-7950969273975718106-n.jpg"
     },
     {
-      "clusterId": "106241bb11e96681",
-      "slug": "8562641a633ca63b",
-      "titulo": "Professora aposentada do DF morre em acidente de carro no Espírito Santo",
-      "resumo": "Cláudia Lélis, professora aposentada do Distrito Federal, faleceu em um acidente de carro no Espírito Santo. O incidente ocorreu na última sexta-feira e a velada foi realizada no domingo, dia 6 de setembro. O Sinpro-DF emitiu nota de pesar e destacou a trajetória profissional da vítima.",
-      "porQueImporta": "O falecimento de uma profissional reconhecida destaca a importância da segurança no trânsito.",
+      "clusterId": "c58a6ec88eecedf1",
+      "slug": "d4074d0829fb3b20",
+      "titulo": "Carro tomba em acidente na Dutra e uma pessoa sofre ferimentos leves",
+      "resumo": "Uma colisão lateral entre dois veículos na Via Dutra, no km 59 sentido São Paulo, resultou em um carro tombado e uma pessoa com ferimentos leves. O acidente ocorreu por volta das 15h40, no trecho de Guaratinguetá. Quatro pessoas saíram ilesas, enquanto a vítima recebeu atendimento da equipe de emergência da concessionária e recusou remoção para o hospital.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária na rodovia.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/07/carro-tomba-em-acidente-na-dutra-e-uma-pessoa-sofre-ferimentos-leves.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-07T19:56:28.000Z"
+    },
+    {
+      "clusterId": "cc83ec1150107361",
+      "slug": "716ea8527635b62f",
+      "titulo": "Criança de 7 anos morre após possível afogamento em parque aquático em Paço do Lumiar",
+      "resumo": "Uma criança de 7 anos morreu depois de um possível afogamento em uma piscina do Valparaíso Adventure Park, localizado no bairro Pindoba, em Paço do Lumiar, na Grande São Luís. Equipes de salvamento retiraram a criança da água e prestaram primeiros socorros, mas a vítima não resistiu. O parque confirmou o incidente em nota oficial.",
+      "porQueImporta": "O caso destaca a importância da vigilância e dos protocolos de segurança em parques aquáticos.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/07/crianca-de-7-anos-morre-apos-possivel-afogamento-em-parque-aquatico-em-paco-do-lumiar.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-07T19:32:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/gKUpi2uqqsKMkbKg0kGcmUj60Lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/h/gTuLB5TAyiRoKBhGAAbA/montagens-1920-x-1080-px-2026-09-07t162547.206.png"
+    },
+    {
+      "clusterId": "ab533d42b3cd977d",
+      "slug": "ac10f9d98979b433",
+      "titulo": "Veículos 4x4 batem de frente em duna de cidade turística na Grande Natal",
+      "resumo": "Dois veículos 4x4 colidiram de frente na Duna do P, em Nísia Floresta, na Grande Natal. O acidente ocorreu em área turística e foi relatado pela Associação Potiguar Off Road. Nenhum ferido foi registrado. As autoridades locais investigam as circunstâncias do choque.",
+      "porQueImporta": "O incidente destaca riscos de condução off‑road em áreas de lazer, podendo alertar motoristas sobre precauções necessárias.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/na-mira/professora-aposentada-do-df-morre-em-acidente-de-carro-no-espirito-santo"
+          "url": "https://www.metropoles.com/brasil/veiculos-4x4-batem-de-frente-em-duna-de-cidade-turistica-na-grande-natal"
         }
       ],
-      "updatedAt": "2026-09-07T14:07:56.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/professora-do-df-morre-em-acidente-de-carro.jpg"
+      "updatedAt": "2026-09-07T19:24:09.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/foto-acidente4x4.jpg"
     },
     {
-      "clusterId": "be5671a7014298a3",
-      "slug": "61c01573425c10b6",
-      "titulo": "Agricultor recebe alta após ser atropelado por advogado na BR-364",
-      "resumo": "O agricultor Ocelio José Sousa da Silva foi atropelado na madrugada de domingo, 30, na BR-364, ao sair da ExpoTarauacá, junto com sua esposa Verony da Costa Viana Silva, Antônio Carlos Parente da Silva e Nahyure Antonieta Gomes de Oliveira. O agressor foi o advogado e assessor especial da Casa Civil do Acre, João Victor Casas Lopes. Ocelio permaneceu internado por uma semana no Hospital do Juruá, em Cruzeiro do Sul, e recebeu alta na noite de domingo, 6.",
-      "porQueImporta": "O caso envolve um acidente de trânsito com vítimas de um agricultor e sua família, destacando a gravidade de colisões em vias rurais.",
+      "clusterId": "de6d9bbea944bf39",
+      "slug": "7d0ee3ec596b2182",
+      "titulo": "Passageira de moto morre após colisão com carro na BR-101 em Natal",
+      "resumo": "Uma mulher de 21 anos morreu após uma colisão lateral entre uma motocicleta e um carro na BR-101, na Grande Natal, por volta das 11h30. O carro seguia pela faixa da direita da pista central, enquanto a motocicleta trafegava pela faixa à esquerda. A Polícia Rodoviária Federal indica que o motociclista tentou acessar a via marginal à direita sem se posicionar na faixa.",
+      "porQueImporta": "O acidente destaca a importância da atenção e do posicionamento correto nas vias de tráfego.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/09/07/agricultor-atropelado-por-advogado-em-saida-de-feira-agropecuaria-recebe-alta-no-acre.ghtml"
+          "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/07/passageira-de-moto-morre-apos-colisao-com-carro-na-br-101-em-natal.ghtml"
         }
       ],
-      "updatedAt": "2026-09-07T13:44:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/hSXuIyRz683Dewc63fiTLtqeK0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/K/Y3Xe7hS5idV6opoNVdeg/midia-de-distribuicao-g1-24-.png"
+      "updatedAt": "2026-09-07T19:17:12.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ZSwEYZSKiPL1bgyREitdusJgJTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/E/PqGS0pS9eisxpxKO9yYw/whatsapp-image-2026-09-07-at-16.10.41.jpeg"
     },
     {
-      "clusterId": "e9c9c979c1aeab7d",
-      "slug": "eae19c677a73135e",
-      "titulo": "Jovem de 27 anos morre afogado na praia de Ponta de Pedras em Santarém",
-      "resumo": "Jefferson Reis, 27 anos, morreu afogado na tarde de domingo na praia de Ponta de Pedras, em Santarém, no oeste do Pará. O Corpo de Bombeiros resgatou o corpo. A vítima era um jovem local. O incidente ocorreu na mesma tarde em que o corpo foi recuperado.",
-      "porQueImporta": "O caso destaca os riscos de afogamento em praias do Pará, reforçando a necessidade de vigilância e prevenção em áreas litorâneas.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/07/jovem-de-27-anos-morre-afogado-na-praia-de-ponta-de-pedras-em-santarem.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-07T13:34:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/iVVsP28BY9ufnQUx_IzcGTNDBA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/t/AlDkiXTbGB8AQovM0Syg/whatsapp-image-2026-09-07-at-09.39.48.jpeg"
-    },
-    {
-      "clusterId": "9f63af6dab00bf85",
-      "slug": "d83ea836799b0a20",
-      "titulo": "Mulher morre após perfuração intestinal em colonoscopia",
-      "resumo": "Mariana Candido, 41 anos, faleceu após perfuração do intestino durante colonoscopia. O laudo pericial apontou infecção pulmonar e renal. A morte ocorreu em São Paulo. O caso destaca riscos associados a procedimentos médicos.",
-      "porQueImporta": "Ilustra a possibilidade de complicações fatais em exames médicos comuns.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-mulher-morreu-apos-perfuracao-do-intestino-em-colonoscopia-diz-laudo/"
-        }
-      ],
-      "updatedAt": "2026-09-07T13:31:47.000Z"
-    },
-    {
-      "clusterId": "0b673e315cff6aaa",
-      "slug": "f36459e496b7d7f6",
-      "titulo": "Assessor de vereador morre após bater motocicleta em árvore na Bahia",
-      "resumo": "David Macedo Oliveira, 20 anos, assessor do vereador Boy do Bonfim, morreu depois de bater a motocicleta que conduzia em uma árvore na entrada de Ipirá, Bahia. O acidente ocorreu por volta das 5h, no bairro Mirante. A namorada de Oliveira estava no veículo e ficou ferida. Ele foi socorrido e levado à Unidade de Pronto Atendimento (UPA) de Ipirá.",
-      "porQueImporta": "O incidente destaca a gravidade de acidentes de trânsito que resultam em fatalidades e lesões.",
+      "clusterId": "69d417467f851008",
+      "slug": "8ef907775260accf",
+      "titulo": "Acidente entre carro e carreta deixa duas pessoas mortas na BR-381 em Minas Gerais",
+      "resumo": "Um carro com seis ocupantes invadiu a contramão na BR-381, km 379, e colidiu frontalmente com uma carreta, causando a morte de duas pessoas e ferindo quatro outras. O acidente ocorreu em São Gonçalo do Rio Abaixo, na Região Central de Minas Gerais, na tarde de segunda-feira. Os feridos foram encaminhados ao Hospital Municipal de São Gonçalo do Rio Abaixo.",
+      "porQueImporta": "O incidente destaca os riscos de condução imprudente em rodovias de grande circulação.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/07/jovem-morre-apos-acidente-com-motocicleta-na-bahia.ghtml"
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/07/acidente-carro-carreta-pessoas-mortas-br-381-sao-goncalo-do-rio-abaixo-mg.ghtml"
         }
       ],
-      "updatedAt": "2026-09-07T13:31:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/20FQ53k3Yk68EeL45fWQghQav8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/c/q2aCSfRV2TSv2FlIPMAw/foto-no-tamanho-home-2026-09-07t102547.891.png"
+      "updatedAt": "2026-09-07T19:11:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/JNYbX_MpLJZXzsMpex6mnbndPHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/tku8EcSziCIiZq77oT1A/mortes-acidente-381-frame-85-2-1-.jpeg"
     },
     {
-      "clusterId": "b002ee56cd191a1f",
-      "slug": "3a6996163e1dcd2a",
-      "titulo": "Recém-nascido encontrado dormindo em colo após acidente que deixou mulher gravemente ferida em SC",
-      "resumo": "Um acidente entre uma caminhonete Toyota Hilux e um Chevrolet Onix em Maravilha, Santa Catarina, deixou uma mulher de 34 anos gravemente ferida. O veículo menor estava conduzido pela vítima. Em um dos veículos havia um bebê de 18 dias, que foi encontrado dormindo no colo de moradores e não apresentava ferimentos. O socorro foi acionado por volta das 21h de sábado.",
-      "porQueImporta": "O caso destaca a necessidade de atenção à segurança de crianças em veículos durante acidentes.",
+      "clusterId": "08193c1c0817bb93",
+      "slug": "95dbdd7f568b4872",
+      "titulo": "Mulher morre após moto ser atingida por caminhão na BR-010 em Imperatriz",
+      "resumo": "Uma mulher de 44 anos morreu na manhã de segunda-feira (7) após ser atropelada por um caminhão enquanto atravessava a BR-010, no trecho urbano que dá acesso à Rua Antônio de Miranda, em Imperatriz. A vítima, identificada como Perpétua Santos Araújo, estava de moto quando ocorreu a colisão. O motorista do caminhão deixou o local e foi localizado pela Polícia Militar, segundo testemunhas.",
+      "porQueImporta": "O acidente destaca a necessidade de atenção e fiscalização no tráfego de veículos de grande porte em rodovias urbanas.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/recem-nascidoencontrado-dormindo-colo-acidente-mulher-gravemente-ferida-sc.ghtml"
+          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/07/mulher-morre-apos-moto-ser-atingida-por-caminhao-na-br-010-em-imperatriz.ghtml"
         }
       ],
-      "updatedAt": "2026-09-07T13:28:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ZFI1YT2ICeemXf6IPmG_BTzxM5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/L/ciw6mdSmWK9O0BlsaGBg/acidente2.jpg"
+      "updatedAt": "2026-09-07T19:04:31.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/7FQxj1AI6QFA46xmGcyILkwIwYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Z/6iiVnRSyaGwmQZ38HxDw/montagens-1920-x-1080-px-2026-09-07t155117.094.png"
     },
     {
-      "clusterId": "844a607972b09a35",
-      "slug": "2530a3e407e42789",
-      "titulo": "Motociclista morre após colisão na BR-423 em Lajedo",
-      "resumo": "Um homem morreu depois de colidir com um carro na BR-423, em Lajedo, Pernambuco, por volta das 4h do domingo. A vítima conduzia uma motocicleta que teria acessado a contramão da rodovia. A passageira da moto ficou ferida e foi socorrida para um hospital local. O caso foi registrado pela Polícia Rodoviária Federal.",
-      "porQueImporta": "O acidente destaca a importância da segurança viária e dos riscos de dirigir em contramão.",
+      "clusterId": "b985dbfba8c8740a",
+      "slug": "a42b316bc4895755",
+      "titulo": "Servidor de Piracanjuba morre em acidente com motos aquáticas em Goiás",
+      "resumo": "Thaís Moreira da Silva Luro, 29 anos, servidora da Prefeitura de Piracanjuba, faleceu após colisão entre motos aquáticas em Luziânia, Entorno do Distrito Federal. A Polícia Civil relatou que duas outras mulheres ficaram feridas no acidente. A Prefeitura expressou profundo pesar pelo falecimento da funcionária.",
+      "porQueImporta": "O incidente destaca os riscos associados ao uso de motos aquáticas em áreas próximas a capitais.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/07/motociclista-morre-apos-colisao-na-br-423-em-lajedo.ghtml"
+          "url": "https://g1.globo.com/go/goias/noticia/2026/09/07/morte-de-servidora-em-acidente-com-moto-aquatica-causa-comocao-em-goias.ghtml"
         }
       ],
-      "updatedAt": "2026-09-07T13:21:07.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/LF3qSihTObqz2DKUZtlNcfI8_I0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/e/VOaYRHSLSpWiuKwwSZiA/design-sem-nome-2026-09-07t101556.096.png"
+      "updatedAt": "2026-09-07T19:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KAshpOYl-SqE38ksOMfn_93fwG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/S/XlUUnGThyDRpjM8JmWwQ/copia-de-copia-de-padrao-foto-g1-goias-19-.jpg"
     },
     {
-      "clusterId": "3995c87c75e3f50a",
-      "slug": "49a1f1aa06cf6b1b",
-      "titulo": "Tocantins alerta para chuvas intensas e temperaturas de até 37 graus durante feriados",
-      "resumo": "O Instituto Nacional de Meteorologia emitiu alertas amarelos para chuvas intensas, tempestade e baixa umidade nas regiões central, sul e sudoeste do Tocantins. As chuvas podem chegar a 50 mm por dia e as temperaturas podem atingir 37 °C. O aviso permanece até 23h59 da segunda-feira (7).",
-      "porQueImporta": "A previsão pode afetar a mobilidade e a segurança dos moradores durante o feriado prolongado.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/07/tempestade-e-baixa-umidade-to-deve-registrar-chuvas-e-temperaturas-de-ate-37-graus-durante-feriados.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-07T13:14:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/2SkHvAWyHUQxsp2D-4SxzDZJF9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/F/6AjLeNRSG5Ao6Nbab6Kw/c3feec8a-a77d-4825-a29f-947d31857185-ttlk7av.jpg"
-    },
-    {
-      "clusterId": "8d92fa2841219fc7",
-      "slug": "728957892f6f0dca",
-      "titulo": "Acidente entre dois carros deixa uma pessoa presa às ferragens e outros quatro feridos em Arandu",
-      "resumo": "Na Rodovia Diamantino Monteiro da Gama, em Arandu, dois carros colidiram de frente no quilômetro um, na pista sentido sul. Um dos ocupantes ficou preso às ferragens e foi socorrido em estado grave. As outras quatro vítimas sofreram ferimentos leves e foram encaminhadas ao Hospital Municipal de Avaré.",
-      "porQueImporta": "O acidente destaca a importância da atenção ao dirigir em rodovias e os riscos de colisões frontais.",
+      "clusterId": "c9cd0457925e00cf",
+      "slug": "025fee157f41a1bf",
+      "titulo": "Motociclista morre após perder controle da direção e bater em plantação de eucalipto na ES-422",
+      "resumo": "Um motociclista de 34 anos perdeu o controle do veículo na rodovia ES-422, em Conceição da Barra, e invadiu uma plantação de eucalipto nas margens da via. O acidente ocorreu na noite de sábado. A vítima, identificada como Ackson Zuliani Quartezani, morreu no local. A Polícia Militar confirmou a morte por equipe do Serviço de Atendimento.",
+      "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito em áreas rurais e a necessidade de atenção à segurança viária.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/07/acidente-entre-dois-carros-deixa-tres-feridos-em-rodovia-em-franca-sp.ghtml"
+          "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/09/07/motociclista-morre-apos-perder-controle-da-direcao-sair-da-pista-e-bater-em-pe-de-eucalipto-as-margens-da-es-422.ghtml"
         }
       ],
-      "updatedAt": "2026-09-07T13:13:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/_O59B1ftz2h4rfHUBJoPGDe-UAo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/f/papKCyT2iORwhLLK0Xkg/design-sem-nome.png"
+      "updatedAt": "2026-09-07T18:48:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wMM_mWcitARs0WXaBu-XXvxyq5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/I/noOtPZS2mbHG2m9pW3dQ/thumb-fotos-2026-09-07t154611.733.jpg"
+    },
+    {
+      "clusterId": "0d3df2343723dac0",
+      "slug": "bba2bcf791d3e18d",
+      "titulo": "Motociclista morre após bater contra ônibus em cruzamento de São José dos Campos",
+      "resumo": "Um homem de 42 anos morreu depois de bater a moto contra um ônibus no cruzamento da Rua Água Marinha, em São José dos Campos, por volta das 22h45. O motociclista foi encontrado inconsciente com ferimentos graves, incluindo traumatismo cranioencefálico e fraturas. Equipes do Corpo de Bombeiros e do Samu atenderam o local.",
+      "porQueImporta": "O acidente destaca a necessidade de atenção redobrada em cruzamentos urbanos.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/07/motociclista-morre-apos-bater-contra-onibus-em-cruzamento-de-sao-jose-dos-campos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-07T18:46:23.000Z"
     }
   ],
   "categorias": [
@@ -178,140 +181,138 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "106241bb11e96681",
-          "slug": "8562641a633ca63b",
-          "titulo": "Professora aposentada do DF morre em acidente de carro no Espírito Santo",
-          "resumo": "Cláudia Lélis, professora aposentada do Distrito Federal, faleceu em um acidente de carro no Espírito Santo. O incidente ocorreu na última sexta-feira e a velada foi realizada no domingo, dia 6 de setembro. O Sinpro-DF emitiu nota de pesar e destacou a trajetória profissional da vítima.",
-          "porQueImporta": "O falecimento de uma profissional reconhecida destaca a importância da segurança no trânsito.",
+          "clusterId": "c58a6ec88eecedf1",
+          "slug": "d4074d0829fb3b20",
+          "titulo": "Carro tomba em acidente na Dutra e uma pessoa sofre ferimentos leves",
+          "resumo": "Uma colisão lateral entre dois veículos na Via Dutra, no km 59 sentido São Paulo, resultou em um carro tombado e uma pessoa com ferimentos leves. O acidente ocorreu por volta das 15h40, no trecho de Guaratinguetá. Quatro pessoas saíram ilesas, enquanto a vítima recebeu atendimento da equipe de emergência da concessionária e recusou remoção para o hospital.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária na rodovia.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/07/carro-tomba-em-acidente-na-dutra-e-uma-pessoa-sofre-ferimentos-leves.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-07T19:56:28.000Z"
+        },
+        {
+          "clusterId": "ab533d42b3cd977d",
+          "slug": "ac10f9d98979b433",
+          "titulo": "Veículos 4x4 batem de frente em duna de cidade turística na Grande Natal",
+          "resumo": "Dois veículos 4x4 colidiram de frente na Duna do P, em Nísia Floresta, na Grande Natal. O acidente ocorreu em área turística e foi relatado pela Associação Potiguar Off Road. Nenhum ferido foi registrado. As autoridades locais investigam as circunstâncias do choque.",
+          "porQueImporta": "O incidente destaca riscos de condução off‑road em áreas de lazer, podendo alertar motoristas sobre precauções necessárias.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/na-mira/professora-aposentada-do-df-morre-em-acidente-de-carro-no-espirito-santo"
+              "url": "https://www.metropoles.com/brasil/veiculos-4x4-batem-de-frente-em-duna-de-cidade-turistica-na-grande-natal"
             }
           ],
-          "updatedAt": "2026-09-07T14:07:56.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/09/professora-do-df-morre-em-acidente-de-carro.jpg"
+          "updatedAt": "2026-09-07T19:24:09.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/09/foto-acidente4x4.jpg"
         },
         {
-          "clusterId": "be5671a7014298a3",
-          "slug": "61c01573425c10b6",
-          "titulo": "Agricultor recebe alta após ser atropelado por advogado na BR-364",
-          "resumo": "O agricultor Ocelio José Sousa da Silva foi atropelado na madrugada de domingo, 30, na BR-364, ao sair da ExpoTarauacá, junto com sua esposa Verony da Costa Viana Silva, Antônio Carlos Parente da Silva e Nahyure Antonieta Gomes de Oliveira. O agressor foi o advogado e assessor especial da Casa Civil do Acre, João Victor Casas Lopes. Ocelio permaneceu internado por uma semana no Hospital do Juruá, em Cruzeiro do Sul, e recebeu alta na noite de domingo, 6.",
-          "porQueImporta": "O caso envolve um acidente de trânsito com vítimas de um agricultor e sua família, destacando a gravidade de colisões em vias rurais.",
+          "clusterId": "de6d9bbea944bf39",
+          "slug": "7d0ee3ec596b2182",
+          "titulo": "Passageira de moto morre após colisão com carro na BR-101 em Natal",
+          "resumo": "Uma mulher de 21 anos morreu após uma colisão lateral entre uma motocicleta e um carro na BR-101, na Grande Natal, por volta das 11h30. O carro seguia pela faixa da direita da pista central, enquanto a motocicleta trafegava pela faixa à esquerda. A Polícia Rodoviária Federal indica que o motociclista tentou acessar a via marginal à direita sem se posicionar na faixa.",
+          "porQueImporta": "O acidente destaca a importância da atenção e do posicionamento correto nas vias de tráfego.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/09/07/agricultor-atropelado-por-advogado-em-saida-de-feira-agropecuaria-recebe-alta-no-acre.ghtml"
+              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/07/passageira-de-moto-morre-apos-colisao-com-carro-na-br-101-em-natal.ghtml"
             }
           ],
-          "updatedAt": "2026-09-07T13:44:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hSXuIyRz683Dewc63fiTLtqeK0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/K/Y3Xe7hS5idV6opoNVdeg/midia-de-distribuicao-g1-24-.png"
+          "updatedAt": "2026-09-07T19:17:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ZSwEYZSKiPL1bgyREitdusJgJTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/E/PqGS0pS9eisxpxKO9yYw/whatsapp-image-2026-09-07-at-16.10.41.jpeg"
         },
         {
-          "clusterId": "0b673e315cff6aaa",
-          "slug": "f36459e496b7d7f6",
-          "titulo": "Assessor de vereador morre após bater motocicleta em árvore na Bahia",
-          "resumo": "David Macedo Oliveira, 20 anos, assessor do vereador Boy do Bonfim, morreu depois de bater a motocicleta que conduzia em uma árvore na entrada de Ipirá, Bahia. O acidente ocorreu por volta das 5h, no bairro Mirante. A namorada de Oliveira estava no veículo e ficou ferida. Ele foi socorrido e levado à Unidade de Pronto Atendimento (UPA) de Ipirá.",
-          "porQueImporta": "O incidente destaca a gravidade de acidentes de trânsito que resultam em fatalidades e lesões.",
+          "clusterId": "69d417467f851008",
+          "slug": "8ef907775260accf",
+          "titulo": "Acidente entre carro e carreta deixa duas pessoas mortas na BR-381 em Minas Gerais",
+          "resumo": "Um carro com seis ocupantes invadiu a contramão na BR-381, km 379, e colidiu frontalmente com uma carreta, causando a morte de duas pessoas e ferindo quatro outras. O acidente ocorreu em São Gonçalo do Rio Abaixo, na Região Central de Minas Gerais, na tarde de segunda-feira. Os feridos foram encaminhados ao Hospital Municipal de São Gonçalo do Rio Abaixo.",
+          "porQueImporta": "O incidente destaca os riscos de condução imprudente em rodovias de grande circulação.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/07/jovem-morre-apos-acidente-com-motocicleta-na-bahia.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/07/acidente-carro-carreta-pessoas-mortas-br-381-sao-goncalo-do-rio-abaixo-mg.ghtml"
             }
           ],
-          "updatedAt": "2026-09-07T13:31:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/20FQ53k3Yk68EeL45fWQghQav8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/c/q2aCSfRV2TSv2FlIPMAw/foto-no-tamanho-home-2026-09-07t102547.891.png"
+          "updatedAt": "2026-09-07T19:11:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JNYbX_MpLJZXzsMpex6mnbndPHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/tku8EcSziCIiZq77oT1A/mortes-acidente-381-frame-85-2-1-.jpeg"
         },
         {
-          "clusterId": "b002ee56cd191a1f",
-          "slug": "3a6996163e1dcd2a",
-          "titulo": "Recém-nascido encontrado dormindo em colo após acidente que deixou mulher gravemente ferida em SC",
-          "resumo": "Um acidente entre uma caminhonete Toyota Hilux e um Chevrolet Onix em Maravilha, Santa Catarina, deixou uma mulher de 34 anos gravemente ferida. O veículo menor estava conduzido pela vítima. Em um dos veículos havia um bebê de 18 dias, que foi encontrado dormindo no colo de moradores e não apresentava ferimentos. O socorro foi acionado por volta das 21h de sábado.",
-          "porQueImporta": "O caso destaca a necessidade de atenção à segurança de crianças em veículos durante acidentes.",
+          "clusterId": "08193c1c0817bb93",
+          "slug": "95dbdd7f568b4872",
+          "titulo": "Mulher morre após moto ser atingida por caminhão na BR-010 em Imperatriz",
+          "resumo": "Uma mulher de 44 anos morreu na manhã de segunda-feira (7) após ser atropelada por um caminhão enquanto atravessava a BR-010, no trecho urbano que dá acesso à Rua Antônio de Miranda, em Imperatriz. A vítima, identificada como Perpétua Santos Araújo, estava de moto quando ocorreu a colisão. O motorista do caminhão deixou o local e foi localizado pela Polícia Militar, segundo testemunhas.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção e fiscalização no tráfego de veículos de grande porte em rodovias urbanas.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/recem-nascidoencontrado-dormindo-colo-acidente-mulher-gravemente-ferida-sc.ghtml"
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/07/mulher-morre-apos-moto-ser-atingida-por-caminhao-na-br-010-em-imperatriz.ghtml"
             }
           ],
-          "updatedAt": "2026-09-07T13:28:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ZFI1YT2ICeemXf6IPmG_BTzxM5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/L/ciw6mdSmWK9O0BlsaGBg/acidente2.jpg"
+          "updatedAt": "2026-09-07T19:04:31.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7FQxj1AI6QFA46xmGcyILkwIwYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Z/6iiVnRSyaGwmQZ38HxDw/montagens-1920-x-1080-px-2026-09-07t155117.094.png"
         },
         {
-          "clusterId": "844a607972b09a35",
-          "slug": "2530a3e407e42789",
-          "titulo": "Motociclista morre após colisão na BR-423 em Lajedo",
-          "resumo": "Um homem morreu depois de colidir com um carro na BR-423, em Lajedo, Pernambuco, por volta das 4h do domingo. A vítima conduzia uma motocicleta que teria acessado a contramão da rodovia. A passageira da moto ficou ferida e foi socorrida para um hospital local. O caso foi registrado pela Polícia Rodoviária Federal.",
-          "porQueImporta": "O acidente destaca a importância da segurança viária e dos riscos de dirigir em contramão.",
+          "clusterId": "b985dbfba8c8740a",
+          "slug": "a42b316bc4895755",
+          "titulo": "Servidor de Piracanjuba morre em acidente com motos aquáticas em Goiás",
+          "resumo": "Thaís Moreira da Silva Luro, 29 anos, servidora da Prefeitura de Piracanjuba, faleceu após colisão entre motos aquáticas em Luziânia, Entorno do Distrito Federal. A Polícia Civil relatou que duas outras mulheres ficaram feridas no acidente. A Prefeitura expressou profundo pesar pelo falecimento da funcionária.",
+          "porQueImporta": "O incidente destaca os riscos associados ao uso de motos aquáticas em áreas próximas a capitais.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/07/motociclista-morre-apos-colisao-na-br-423-em-lajedo.ghtml"
+              "url": "https://g1.globo.com/go/goias/noticia/2026/09/07/morte-de-servidora-em-acidente-com-moto-aquatica-causa-comocao-em-goias.ghtml"
             }
           ],
-          "updatedAt": "2026-09-07T13:21:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/LF3qSihTObqz2DKUZtlNcfI8_I0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/e/VOaYRHSLSpWiuKwwSZiA/design-sem-nome-2026-09-07t101556.096.png"
+          "updatedAt": "2026-09-07T19:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KAshpOYl-SqE38ksOMfn_93fwG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/S/XlUUnGThyDRpjM8JmWwQ/copia-de-copia-de-padrao-foto-g1-goias-19-.jpg"
         },
         {
-          "clusterId": "8d92fa2841219fc7",
-          "slug": "728957892f6f0dca",
-          "titulo": "Acidente entre dois carros deixa uma pessoa presa às ferragens e outros quatro feridos em Arandu",
-          "resumo": "Na Rodovia Diamantino Monteiro da Gama, em Arandu, dois carros colidiram de frente no quilômetro um, na pista sentido sul. Um dos ocupantes ficou preso às ferragens e foi socorrido em estado grave. As outras quatro vítimas sofreram ferimentos leves e foram encaminhadas ao Hospital Municipal de Avaré.",
-          "porQueImporta": "O acidente destaca a importância da atenção ao dirigir em rodovias e os riscos de colisões frontais.",
+          "clusterId": "c9cd0457925e00cf",
+          "slug": "025fee157f41a1bf",
+          "titulo": "Motociclista morre após perder controle da direção e bater em plantação de eucalipto na ES-422",
+          "resumo": "Um motociclista de 34 anos perdeu o controle do veículo na rodovia ES-422, em Conceição da Barra, e invadiu uma plantação de eucalipto nas margens da via. O acidente ocorreu na noite de sábado. A vítima, identificada como Ackson Zuliani Quartezani, morreu no local. A Polícia Militar confirmou a morte por equipe do Serviço de Atendimento.",
+          "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito em áreas rurais e a necessidade de atenção à segurança viária.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/07/acidente-entre-dois-carros-deixa-tres-feridos-em-rodovia-em-franca-sp.ghtml"
+              "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/09/07/motociclista-morre-apos-perder-controle-da-direcao-sair-da-pista-e-bater-em-pe-de-eucalipto-as-margens-da-es-422.ghtml"
             }
           ],
-          "updatedAt": "2026-09-07T13:13:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_O59B1ftz2h4rfHUBJoPGDe-UAo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/f/papKCyT2iORwhLLK0Xkg/design-sem-nome.png"
+          "updatedAt": "2026-09-07T18:48:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wMM_mWcitARs0WXaBu-XXvxyq5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/I/noOtPZS2mbHG2m9pW3dQ/thumb-fotos-2026-09-07t154611.733.jpg"
         },
         {
-          "clusterId": "1209829ca3ea5c94",
-          "slug": "f7a805a90f3d7585",
-          "titulo": "Caminhão desgovernado atinge casa e veículos em SP",
-          "resumo": "Um caminhão perdeu o controle e bateu na frente de uma casa, atingindo também dois carros estacionados. O impacto danificou parte do imóvel e dos veículos. O motorista sofreu escoriações e foi socorrido, sendo levado ao hospital. Nenhum residente do imóvel ficou ferido.",
-          "porQueImporta": "O acidente demonstra risco de acidentes de transporte pesado em áreas residenciais.",
+          "clusterId": "0d3df2343723dac0",
+          "slug": "bba2bcf791d3e18d",
+          "titulo": "Motociclista morre após bater contra ônibus em cruzamento de São José dos Campos",
+          "resumo": "Um homem de 42 anos morreu depois de bater a moto contra um ônibus no cruzamento da Rua Água Marinha, em São José dos Campos, por volta das 22h45. O motociclista foi encontrado inconsciente com ferimentos graves, incluindo traumatismo cranioencefálico e fraturas. Equipes do Corpo de Bombeiros e do Samu atenderam o local.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção redobrada em cruzamentos urbanos.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/07/motorista-de-caminhao-perde-controle-e-atinge-casa-e-carros-estacionados-em-ribeirao-preto-sp.ghtml"
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/07/motociclista-morre-apos-bater-contra-onibus-em-cruzamento-de-sao-jose-dos-campos.ghtml"
             }
           ],
-          "updatedAt": "2026-09-07T13:09:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9ZjLbtsCAZXivNKGtKDMGna45d4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/0/N5XzFsQXGfiNqQmTpOfQ/design-sem-nome.png"
-        },
-        {
-          "clusterId": "f83d236fa85b8c66",
-          "slug": "d1e55eb0bfb5136a",
-          "titulo": "Motociclista morre após perder controle e bater contra barreira na MG-050",
-          "resumo": "Um motociclista de 31 anos perdeu o controle da moto e bateu em uma barreira metálica na rodovia MG-050, em Itaúna, por volta das 22h. O acidente ocorreu no km 80, próximo a uma curva, enquanto o motociclista seguia no sentido Itaúna - Mateus Leme. A causa do perda de controle ainda não foi esclarecida pela Polícia Militar Rodoviária.",
-          "porQueImporta": "O incidente destaca a importância da segurança viária e dos riscos associados ao uso de motocicletas em rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/07/motociclista-morre-apos-perder-controle-e-bater-contra-barreira-metalica-na-mg-050.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-07T12:48:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/oSzLONMSOYl19wdZAm3xdlu6e94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/e/7iEBlGTAScozhanByilQ/whatsapp-image-2026-09-07-at-09.23.13.jpeg"
+          "updatedAt": "2026-09-07T18:46:23.000Z"
         },
         {
           "clusterId": "3c940ac7058d02d7",
@@ -353,37 +354,89 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "9f63af6dab00bf85",
-          "slug": "d83ea836799b0a20",
-          "titulo": "Mulher morre após perfuração intestinal em colonoscopia",
-          "resumo": "Mariana Candido, 41 anos, faleceu após perfuração do intestino durante colonoscopia. O laudo pericial apontou infecção pulmonar e renal. A morte ocorreu em São Paulo. O caso destaca riscos associados a procedimentos médicos.",
-          "porQueImporta": "Ilustra a possibilidade de complicações fatais em exames médicos comuns.",
+          "clusterId": "cc83ec1150107361",
+          "slug": "716ea8527635b62f",
+          "titulo": "Criança de 7 anos morre após possível afogamento em parque aquático em Paço do Lumiar",
+          "resumo": "Uma criança de 7 anos morreu depois de um possível afogamento em uma piscina do Valparaíso Adventure Park, localizado no bairro Pindoba, em Paço do Lumiar, na Grande São Luís. Equipes de salvamento retiraram a criança da água e prestaram primeiros socorros, mas a vítima não resistiu. O parque confirmou o incidente em nota oficial.",
+          "porQueImporta": "O caso destaca a importância da vigilância e dos protocolos de segurança em parques aquáticos.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-mulher-morreu-apos-perfuracao-do-intestino-em-colonoscopia-diz-laudo/"
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/07/crianca-de-7-anos-morre-apos-possivel-afogamento-em-parque-aquatico-em-paco-do-lumiar.ghtml"
             }
           ],
-          "updatedAt": "2026-09-07T13:31:47.000Z"
+          "updatedAt": "2026-09-07T19:32:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gKUpi2uqqsKMkbKg0kGcmUj60Lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/h/gTuLB5TAyiRoKBhGAAbA/montagens-1920-x-1080-px-2026-09-07t162547.206.png"
         },
         {
-          "clusterId": "b33624cde603e016",
-          "slug": "0c5c0aca2e9065c1",
-          "titulo": "Adolescente morre após carro sair da pista na BR-116, entre Itambacuri e Campanário",
-          "resumo": "Adolescente morre após carro sair da pista na BR-116, entre Itambacuri e Campanário Polícia Rodoviária Federal Uma adolescente de 16 anos morreu após o carro em que estava sair da pista na manhã deste domingo (6), na BR-116, entre os municípios de Itambacuri e Campanário, no Leste de Minas. A vítima foi identificada como Raiane Alves da Silva. Segundo a Polícia Rodoviária Federal (PRF), o acidente foi classificado como uma saída do leito carroçável. O carro em que Raiane estava saiu da pista, bateu contra uma placa de sinalização e, em seguida, atingiu uma área com bambus. 📲 Clique aqui para…",
+          "clusterId": "ea8271cfb874ca3e",
+          "slug": "f7f8ba6114304990",
+          "titulo": "Polícia procura suspeito de queimar e agredir companheira em Catanduva",
+          "resumo": "A polícia militar de Catanduva está procurando um homem de 38 anos acusado de tentar matar sua companheira, de 36 anos, que foi encontrada com graves queimaduras e agredida na madrugada de segunda-feira. A vítima estava caída na calçada do bairro Bom Pastor, gritando de dor. O boletim de ocorrência relata que a equipe de polícia foi acionada para atender um caso de violência doméstica.",
+          "porQueImporta": "O caso destaca a ocorrência de violência doméstica e a necessidade de investigação e proteção às vítimas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/07/policia-procura-suspeito-de-queimar-e-agredir-companheira-em-catanduva.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-07T18:09:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/e8zAfl9cF-fymtLWX-SZxmN9VII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/w/L2oK1gTUGEonAZx2cRgQ/captura-de-tela-2025-12-07-115700.png"
+        },
+        {
+          "clusterId": "56fcd4cec9ffd4e5",
+          "slug": "de81295c9210d4ba",
+          "titulo": "Menino de 4 anos desaparece e comportas de barragem são fechadas para buscas em SC",
+          "resumo": "Criança desaparecida no Alto Vale As comportas da barragem de Ituporanga, no Vale do Itajaí, em Santa Catarina, foram fechadas nesta segunda-feira (7) para ajudar nas buscas por um menino de 4 anos. A criança, que é autista, está desaparecida desde domingo (6), segundo o Corpo de Bombeiros. O desaparecimento ocorreu na região de Salto Grande, perto do Rio Itajaí do Sul. As equipes de resgate concentram os trabalhos no trecho do rio que fica próximo à casa da família. O nome do menino não foi divulgado. ✅Clique e siga o canal do g1 SC no WhatsApp Uma câmera de segurança registrou o menino por…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/07/adolescente-morre-apos-carro-sair-da-pista-na-br-116-entre-itambacuri-e-campanario.ghtml"
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/menino-4-anos-desaparece-comportas-barragem-fechadas-buscas-sc.ghtml"
             }
           ],
-          "updatedAt": "2026-09-07T12:45:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WJ_wm4_GQ4f4TCl69PqB9A9tc50=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/C/BWNcNJQFOErMP06p2gpg/whatsapp-image-2026-09-07-at-07.27.37.jpg"
+          "updatedAt": "2026-09-07T17:51:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xQXc7Zk95O1pnmDw1TpKt6WjlnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/C/PG85WXRAqCF8OV8XAtZw/comportas-de-barragem-sao-fechadas-para-ajudar-bucas-por-crianca-de-4-anos-que-desapareceu-em-sc.jpg"
+        },
+        {
+          "clusterId": "569767e873295b05",
+          "slug": "03dd29a3b80603b9",
+          "titulo": "'Achei que fosse bomba', diz dono de carros atingidos por caminhão desgovernado no interior de São Paulo",
+          "resumo": "Carreta desgovernada: três casas e três carros foram atingidos entre Paulínia e Cosmópolis A Defesa Civil de Cosmópolis (SP) informou, nesta segunda-feira (7), que existe risco de desabamento nas casas atingidas pelo caminhão desgovernado na tarde deste domingo (6). Moradores relataram o susto no momento do acidente. \"Pensei que fosse trovão\", disse um morador. \"Achei que fosse bomba\", contou o dono de dois carros levados pela carreta. A área segue isolada para trabalhos da perícia e Defesa Civil. Há chances de desabamentos. Uma das residências ficou mais destruída e, segundo o órgão, oferece…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/07/achei-que-fosse-bomba-diz-dono-de-carros-atingidos-por-caminhao-desgovernado-no-interior-de-sao-paulo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-07T17:23:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/IYD3PNadfX-WwaP2jXRFqfCFd3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/0/ts9vv4QAiFOOjrIGydLA/gcm-2-.jpeg"
+        },
+        {
+          "clusterId": "c1f9f8b1b26d4c24",
+          "slug": "670e57282590fab5",
+          "titulo": "Barco com passageiros afunda no rio Tocantins, em Marabá, no Pará",
+          "resumo": "Um barco de pequeno porte que transportava vários passageiros naufragou nas águas do Rio Tocantins, na tarde de domingo (6), em Marabá, no sudeste do Pará. Todas as pessoas que estavam a bordo foram retiradas da água em segurança. O naufrágio aconteceu na altura da região conhecida como Transmangueira e assustou banhistas e moradores que passavam pelo local. ✅ Siga o canal do g1 Pará no WhatsApp O momento exato em que a embarcação começa a submergir foi registrado em vídeo por testemunhas que estavam às margens do rio. Embarcação com passageiros naufraga no rio Tocantins, em Marabá.…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/09/07/barco-com-passageiros-afunda-no-rio-tocantins-em-maraba-no-para.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-07T17:22:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/cFSarr_QAwJS1YAB45HDeKDzqsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/G/SBCBXzTTyCZJeLhpzDVA/naufragio-maraba.png"
         },
         {
           "clusterId": "a562536b1ba61e87",
@@ -401,57 +454,6 @@
           ],
           "updatedAt": "2026-09-07T12:35:08.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/p45xzuyECpvU6iLQxxXF-_V_sf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/G/kIwr0aQ5a4xhgTmrAHMA/2026-09-07t121110z-333886968-rc2cenab44us-rtrmadp-3-germany-election-saxony-anhalt-cdu-reaction.jpg"
-        },
-        {
-          "clusterId": "cb798ac9c75d6764",
-          "slug": "398fcec991fecd15",
-          "titulo": "Motociclista avança sinal vermelho, bate em ônibus e garupa morre em Jundiaí",
-          "resumo": "Jundiaí registra dois acidentes graves no fim de semana e nesta madrugada Um motociclista avançou o sinal vermelho, bateu em um ônibus e seu passageiro que estava na garupa morreu, na segunda-feira (7), em Jundiaí (SP). O acidente aconteceu no cruzamento entre as ruas Rangel Pestana e Siqueira de Moraes, na região central. 📲 Participe do canal do g1 Sorocaba e Jundiaí no WhatsApp Motociclista avançou o sinal vermelho, bateu em um ônibus e seu garupa morreu em Jundiaí (SP), na madrugada desta segunda-feira (7) Departamento de Trânsito de Jundiaí/Divulgação Com o impacto, o passageiro sofreu…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/07/motociclista-avanca-sinal-vermelho-bate-em-onibus-e-garupa-morre-em-jundiai.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-07T12:21:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/I7-vo7KTl1aIxT7xhIgkmtwIhGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/1/5e80QnSSGCPA1CccCgzA/moto-2-.jpg"
-        },
-        {
-          "clusterId": "cfe4b492929d5ff1",
-          "slug": "7d5c6ae6a2f60790",
-          "titulo": "Conheça cidade com menos de 4 mil habitantes no TO que registrou tremor de magnitude 3,7",
-          "resumo": "Conheça cidade com menos de 4 mil habitantes no TO que registrou tremor de magnitude 3,7 Sandolândia passou por um tremor de terra de magnitude 3,7 na última semana. A cidade fica na região sudoeste do Tocantins e conta com uma área territorial de 3.535,135 km². Conforme dados do Instituto Brasileiro de Geografia e Estatística (IBGE), o município tem uma população estimada em 3.927 habitantes para 2026. 📱 Clique aqui para seguir o canal do g1 TO no WhatsApp O abalo foi detectado na manhã de sexta-feira (4) pelo Centro de Sismologia da Universidade de São Paulo (USP). O sismólogo José…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/07/conheca-cidade-com-menos-de-4-mil-habitantes-no-to-que-registrou-tremor-de-magnitude-37.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-07T11:59:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WYgBDGz0gUM6IaG24OD9rRaQZNo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/c/knllBcTc22QUUwcAuvsg/encontro-dos-dois-rios-riso-verde-e-rio-javae.jpg"
-        },
-        {
-          "clusterId": "e10e80b061acef39",
-          "slug": "6e7fa85b6f0092bb",
-          "titulo": "Moradores pedem ajuda para combater incêndio que ameaça casas e plantações em Manacapuru, no AM",
-          "resumo": "Moradores de comunidades localizadas em uma área próxima à mata, em Manacapuru, no interior do Amazonas, pediram ajuda para combater um incêndio que avançou durante a noite e a madrugada desta segunda-feira (7). Segundo os relatos, as chamas se aproximaram de casas e plantações, causando medo entre as famílias. A ocorrência foi registrada no quilômetro 17 da rodovia AM-352, nas proximidades do Ramal da Família e da comunidade Nova Conquista. Em um vídeo divulgado pelos moradores, uma mulher faz um apelo por ajuda da Defesa Civil, do Corpo de Bombeiros e da Prefeitura de Manacapuru. Segundo…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/07/moradores-pedem-ajuda-para-combater-incendio-que-ameaca-casas-e-plantacoes-em-manacapuru-no-am.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-07T11:50:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Sx5k3qaGtTyp6BnusWpgYAni02A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/Q/hAjxAcTseAJDSw8RnxgQ/incendio-mpu.jpg"
         },
         {
           "clusterId": "b3f8aa6bb380083b",
@@ -503,188 +505,23 @@
           ],
           "updatedAt": "2026-09-07T01:15:34.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/-wmsLv7g6uWGITWY_Jc1n_yx2YU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/w/VbC7flSlazz1pXiCO9bQ/zj3n9dm7nh4dwsrtmzfypfg2tyhntnxcv1cxtcki7czjq-m57id9ldja-3wut5by3yizhdupjwbpnw-uzlnvyrmmak3ytqzxguew3zavgo6kgd3t3cwyywf1u4v5g7dr9exaq8hxeluhugbgctaoizgczdvf9.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
-        {
-          "clusterId": "e9c9c979c1aeab7d",
-          "slug": "eae19c677a73135e",
-          "titulo": "Jovem de 27 anos morre afogado na praia de Ponta de Pedras em Santarém",
-          "resumo": "Jefferson Reis, 27 anos, morreu afogado na tarde de domingo na praia de Ponta de Pedras, em Santarém, no oeste do Pará. O Corpo de Bombeiros resgatou o corpo. A vítima era um jovem local. O incidente ocorreu na mesma tarde em que o corpo foi recuperado.",
-          "porQueImporta": "O caso destaca os riscos de afogamento em praias do Pará, reforçando a necessidade de vigilância e prevenção em áreas litorâneas.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/07/jovem-de-27-anos-morre-afogado-na-praia-de-ponta-de-pedras-em-santarem.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-07T13:34:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/iVVsP28BY9ufnQUx_IzcGTNDBA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/t/AlDkiXTbGB8AQovM0Syg/whatsapp-image-2026-09-07-at-09.39.48.jpeg"
         },
         {
-          "clusterId": "24b841323f145e3b",
-          "slug": "7f13332da9939f78",
-          "titulo": "Chinês de 49 anos é resgatado após 10 dias preso em túnel de hidrelétrica no Nepal",
-          "resumo": "Um trabalhador chinês de 49 anos, Lu Haitao, ficou 10 dias preso em um túnel de 225 metros de extensão de uma hidrelétrica no Nepal, após enchentes. Ele foi localizado e retirado de forma segura por equipes de resgate e levado de helicóptero a um hospital. A família relatou angústia durante a espera e só acreditou no resgate depois de ver uma foto dele. A condição de Lu Haitao foi considerada estável pela emissora estatal chinesa CCTV.",
-          "porQueImporta": "Ilustra a capacidade de resgate em ambientes de risco extremo e a importância da comunicação com familiares.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
+          "clusterId": "c5b1f34fcf03eb95",
+          "slug": "a87f748b88a75aa6",
+          "titulo": "VÍDEO mostra queda e explosão de caça durante show aéreo na Grécia",
+          "resumo": "Espectador registra queda de avião militar que deixou dois mortos em show aéreo na Grécia Um espectador registrou o momento em que um caça F-4 Phantom caiu na tarde deste sábado (5) em uma base aérea próxima a Atenas durante uma exibição aérea. Os dois pilotos que estavam a bordo da aeronave morreram. O caça havia acabado de decolar quando perdeu altitude repentinamente e caiu. Após a queda, houve uma explosão Milhares de pessoas se reuniram para assistir à apresentação \"Athens Flying Week\", evento que reúne equipes de aviação militar e civil de dezenas de países. Caça grego cai durante…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-07T11:59:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UCIE1tfESKzuyxy8sroDT1Y7wRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/lPxoARTzynEcN1iyMV7Q/793122321-1573552824519191-7950969273975718106-n.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "3995c87c75e3f50a",
-          "slug": "49a1f1aa06cf6b1b",
-          "titulo": "Tocantins alerta para chuvas intensas e temperaturas de até 37 graus durante feriados",
-          "resumo": "O Instituto Nacional de Meteorologia emitiu alertas amarelos para chuvas intensas, tempestade e baixa umidade nas regiões central, sul e sudoeste do Tocantins. As chuvas podem chegar a 50 mm por dia e as temperaturas podem atingir 37 °C. O aviso permanece até 23h59 da segunda-feira (7).",
-          "porQueImporta": "A previsão pode afetar a mobilidade e a segurança dos moradores durante o feriado prolongado.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/07/tempestade-e-baixa-umidade-to-deve-registrar-chuvas-e-temperaturas-de-ate-37-graus-durante-feriados.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-07T13:14:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/2SkHvAWyHUQxsp2D-4SxzDZJF9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/F/6AjLeNRSG5Ao6Nbab6Kw/c3feec8a-a77d-4825-a29f-947d31857185-ttlk7av.jpg"
-        },
-        {
-          "clusterId": "b2e6fcda091d2d71",
-          "slug": "44fbee34aff75808",
-          "titulo": "Frente fria traz temperaturas de até 15°C em Campinas e alerta de tempestade",
-          "resumo": "A frente fria faz a máxima térmica cair para 15°C em Campinas, com ventos de até 50 km/h. A temperatura deve subir para 24°C na terça-feira, mas a quarta-feira volta a cair para 21°C, acompanhada de pancadas de chuva e trovoadas. O Inmet emitiu alerta amarelo para tempestade, com possibilidade de chuva forte.",
-          "porQueImporta": "O clima pode afetar deslocamentos e atividades ao ar livre na região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/07/ate-quando-fica-frio-na-regiao-de-campinas-veja-a-previsao-para-a-semana.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-07T13:04:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/iPEY63OPS4DURBMja3bSojCXbS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/ddUKiwRrSGClySHgfpRA/ras20260906013.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "3600fff79b9ba295",
-          "slug": "a9b2c5e20de45c16",
-          "titulo": "Explosão de fogos de artifício em missa mata 10 pessoas no México",
-          "resumo": "Durante uma celebração religiosa em Santa María Canchesdá, um incêndio causado por fogos de artifício explodiu, resultando na morte de 10 pessoas e ferindo 64 outras, incluindo dois padres. O incidente ocorreu enquanto a comunidade se reunia para a missa. As autoridades investigam as causas do acidente.",
-          "porQueImporta": "O evento destaca os riscos associados ao uso de fogos de artifício em ambientes públicos e a necessidade de medidas de segurança adequadas.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-internacional/explosao-de-fogos-de-artificio-em-missa-mata-10-pessoas-no-mexico/"
-            }
-          ],
-          "updatedAt": "2026-09-07T13:04:20.000Z"
-        },
-        {
-          "clusterId": "2c39aedb521ad32d",
-          "slug": "0198531f0589efc0",
-          "titulo": "Israel volta a bombardear sul do Líbano e emite ordem de evacuação",
-          "resumo": "Desde a noite de sábado, 5 de setembro, ataques israelenses no sul do Líbano resultaram em pelo menos quatro mortes e dezenas de feridos, segundo autoridades libanesas. A escalada ocorreu após o Hezbollah lançar dois drones contra soldados israelenses, sem causar vítimas. Em resposta, Israel intensificou os bombardeios e emitiu ordem de retirada para moradores da região.",
-          "porQueImporta": "A situação aumenta a tensão regional e coloca civis em risco.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/sul-do-libano-bombardeios.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T10:44:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Ex23uOZDVQ6cdK2iHvR-dKauLzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/q/DBo2Q8SQyt9aVKgfHLDg/afp-20260905-c7fh7m7-v1-midres-lebanonisraeliranuswar.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "90269c8e29f34335",
-          "slug": "7b3e4874e2e22404",
-          "titulo": "Avião cargueiro da Amazon sai da pista em Miami e deixa 5 mortos",
-          "resumo": "Um avião cargueiro Boeing 767, operado pela 21 Air para a Amazon, saiu da pista ao pousar no Aeroporto Internacional de Miami e atravessou uma estrada próxima, incendiando-se parcialmente. O acidente resultou em pelo menos cinco mortes e três feridos em estado crítico. As autoridades confirmaram o ocorrido e a prefeita do condado de Miami-Dade, Daniella Levine Cava, divulgou os detalhes.",
-          "porQueImporta": "O incidente destaca riscos de segurança em aeroportos internacionais e pode impactar operações de carga aérea.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/aviao-amazon-cai.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-06T19:10:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/z-LWC_-H6XAIPpyVaviyWSzmaVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/hIpdcrRCy1CH0mIUR7rQ/2026-09-06t194934z-1184906547-rc2vdna036ma-rtrmadp-3-usa-crash-plane-miami.jpg"
-        },
-        {
-          "clusterId": "ce0037b57623a00c",
-          "slug": "7c77374de7a9577d",
-          "titulo": "Caça grego cai e explode durante exibição aérea",
-          "resumo": "Um caça F-4 Phantom caiu na tarde de sábado em uma base aérea próxima a Atenas durante a Athens Flying Week. O avião perdeu altitude imediatamente após decolar, resultando em sua queda e subsequente explosão. Os dois pilotos a bordo morreram. Milhares de espectadores assistiram ao incidente.",
-          "porQueImporta": "O acidente destaca riscos associados a exibições aéreas militares.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/05/aviao-da-forca-aerea-da-grecia-cai-durante-exibicao.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/05/video-mostra-queda-e-explosao-de-caca-durante-show-aereo-na-grecia.ghtml"
             }
           ],
           "updatedAt": "2026-09-05T22:47:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PWzg4ZJNjnua1Sxc898X4N1nqDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/R/UFDHB0S4atqIDP8ZZBNw/2026-09-05t131751z-1533318629-rc21dna1q96n-rtrmadp-3-greece-airshow-crash.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "6b6c8c877ef3bb28",
-          "slug": "31dfe080bacc65ef",
-          "titulo": "Incêndio em galpão de telhas em Juiz de Fora",
-          "resumo": "Um galpão de aproximadamente 500 metros quadrados, localizado no Distrito Industrial de Juiz de Fora, pegou fogo na manhã de segunda-feira, por volta das 7h30. O local armazenava telhas de fibra de celulose e duas empilhadeiras. As chamas consumiram parte da estrutura. Nenhum ferido foi registrado.",
-          "porQueImporta": "O incêndio pode afetar a produção e distribuição de telhas na região, impactando a cadeia de abastecimento local.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/07/galpao-de-empresa-de-telhas-pega-fogo-em-juiz-de-fora.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-07T14:16:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Q2vc-cFxAsSTbvWPbCZu122JIGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/X/kgX5EHQz6bkuzqN75tMw/whatsapp-image-2026-09-07-at-10.51.57-2-.jpeg"
+          "imageUrl": "https://s2-g1.glbimg.com/Oq5xAiLU5DSklm-H3rg2w_Ctz9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/b/dDj1QhTpqbq0Qu37SxHQ/2026-09-05t134857z-1087671500-rc21dna3kl9d-rtrmadp-3-greece-airshow-crash.jpg"
         }
       ]
     },
@@ -692,6 +529,27 @@
       "slug": "deslizamento",
       "label": "Deslizamento",
       "stories": [
+        {
+          "clusterId": "db88a6df08efce2b",
+          "slug": "7f13332da9939f78",
+          "titulo": "Dia de luto nacional no Nepal 13 dias após avalanche devastadora",
+          "resumo": "O Nepal decretou um dia de luto nacional em memória das vítimas da avalanche de 26 de agosto, que causou mais de 1.400 mortes e mais de 5.500 desaparecidos. Bandeiras foram hasteadas a meio-mastro em prédios públicos. Enquanto isso, equipes de resgate continuam procurando sobreviventes e vítimas em áreas afetadas por enchentes e deslizamentos.",
+          "porQueImporta": "O evento destaca a magnitude da tragédia e a resposta contínua das autoridades e equipes de resgate.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/mundo/nepal-decreta-luto-nacional-treze-dias-apos-desastre-que-matou-1-400-pessoas/"
+            }
+          ],
+          "updatedAt": "2026-09-07T19:05:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UCIE1tfESKzuyxy8sroDT1Y7wRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/lPxoARTzynEcN1iyMV7Q/793122321-1573552824519191-7950969273975718106-n.jpg"
+        },
         {
           "clusterId": "51ed554be2eef632",
           "slug": "b1a6dba8b97c58ff",
@@ -708,6 +566,109 @@
           ],
           "updatedAt": "2026-09-06T13:17:36.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/f_cOroQvJVz9teof7mfJ99SqS5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Q/Ag2uLnTrOEiYg4bHNjGQ/ap26248654582877.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "a40cec4c544ec7b0",
+          "slug": "31cfa8c82e9e1259",
+          "titulo": "Dona de restaurante morre após incêndio em Joinville",
+          "resumo": "Alice das Graças Teodoro, dona de restaurante em Joinville, morreu no domingo após oito dias internada. O incêndio aconteceu em 29 de agosto quando um homem que procurava a ex-companheira trancou a porta do estabelecimento. Alice era uma das cinco feridas no crime. O autor do incêndio morreu no local.",
+          "porQueImporta": "O caso destaca a violência doméstica e os riscos de incêndios em estabelecimentos comerciais.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/dona-restaurante-incendiado-homem-procurava-ex-morre-joinville.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-07T18:44:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/t79wAE4sMIqcQ4KDhyQguJeZ5DY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/E/r0G38fTly0HGdzQrxmmQ/alice-restaurante-joinville-sc.jpg"
+        },
+        {
+          "clusterId": "4118fab93b1e6ef9",
+          "slug": "313e7e4a3d64db96",
+          "titulo": "Incêndio atinge apartamento e quebra janela no segundo andar de prédio em Governador Valadares",
+          "resumo": "Um incêndio começou no segundo pavimento de um prédio no bairro Nossa Senhora das Graças, em Governador Valadares, e atingiu principalmente um quarto da suíte. A janela do cômodo foi quebrada e estilhaços de vidro foram projetados para fora do imóvel. O calor e a fumaça chegaram aos demais ambientes do apartamento.",
+          "porQueImporta": "O incidente destaca riscos de incêndio em edificações residenciais e a necessidade de medidas de prevenção e evacuação.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/07/incendio-atinge-apartamento-e-quebra-janela-no-segundo-andar-de-predio-em-governador-valadares.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-07T18:38:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0i4Xm87p-G5eya1aTRKZLRAv2lM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/w/wupVNZSGmZyZj67bY8Jg/ocorrencias-horizontal-48-.png"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "b4f94d265d8293c5",
+          "slug": "0c0884bb3ea5daea",
+          "titulo": "Homem morre em acidente de paraglider no Morro Ferrabraz",
+          "resumo": "Um homem de 52 anos morreu após um acidente de paraglider no Morro Ferrabraz, em Sapiranga, na Região Metropolitana de Porto Alegre, na tarde de segunda-feira (7). O Samu e os Bombeiros atenderam a ocorrência e o socorriam em estado grave, mas não resistiu. O local já havia sido palco de queda de piloto de asa-delta há duas semanas.",
+          "porQueImporta": "O incidente destaca a ocorrência de acidentes de voo livre em áreas de risco na região.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/acidente-paraglider-sapiranga.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-07T18:32:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/iHXFgaeHZI8wt92m_WHxvltoCOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/I/DpEROyT2Sol6y5P9WM7g/whatsapp-image-2026-09-07-at-14.50.51.jpeg"
+        },
+        {
+          "clusterId": "90269c8e29f34335",
+          "slug": "7b3e4874e2e22404",
+          "titulo": "Avião cargueiro da Amazon sai da pista em Miami e deixa 5 mortos",
+          "resumo": "Um avião cargueiro Boeing 767, operado pela 21 Air para a Amazon, saiu da pista ao pousar no Aeroporto Internacional de Miami e atravessou uma estrada próxima, incendiando-se parcialmente. O acidente resultou em pelo menos cinco mortes e três feridos em estado crítico. As autoridades confirmaram o ocorrido e a prefeita do condado de Miami-Dade, Daniella Levine Cava, divulgou os detalhes.",
+          "porQueImporta": "O incidente destaca riscos de segurança em aeroportos internacionais e pode impactar operações de carga aérea.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/aviao-amazon-cai.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T19:10:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/z-LWC_-H6XAIPpyVaviyWSzmaVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/hIpdcrRCy1CH0mIUR7rQ/2026-09-06t194934z-1184906547-rc2vdna036ma-rtrmadp-3-usa-crash-plane-miami.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "2c39aedb521ad32d",
+          "slug": "0198531f0589efc0",
+          "titulo": "Israel volta a bombardear sul do Líbano e emite ordem de evacuação",
+          "resumo": "Desde a noite de sábado, 5 de setembro, ataques israelenses no sul do Líbano resultaram em pelo menos quatro mortes e dezenas de feridos, segundo autoridades libanesas. A escalada ocorreu após o Hezbollah lançar dois drones contra soldados israelenses, sem causar vítimas. Em resposta, Israel intensificou os bombardeios e emitiu ordem de retirada para moradores da região.",
+          "porQueImporta": "A situação aumenta a tensão regional e coloca civis em risco.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/06/sul-do-libano-bombardeios.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-06T10:44:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Ex23uOZDVQ6cdK2iHvR-dKauLzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/q/DBo2Q8SQyt9aVKgfHLDg/afp-20260905-c7fh7m7-v1-midres-lebanonisraeliranuswar.jpg"
         }
       ]
     }
