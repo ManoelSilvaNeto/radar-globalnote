@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-09-07T05:07:19.547Z",
+  "ranAt": "2026-09-07T14:23:55.152Z",
   "editionDate": "2026-09-07",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e eventos climáticos dominam o cenário nacional\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
