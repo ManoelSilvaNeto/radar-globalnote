@@ -1,15 +1,14 @@
 {
-  "ranAt": "2026-09-08T19:31:36.497Z",
+  "ranAt": "2026-09-08T22:55:23.309Z",
   "editionDate": "2026-09-08",
-  "hourUtc": 19,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 22,
+  "outcome": "generated",
+  "reason": "\"Incidências de infraestrutura, segurança e clima marcam o panorama do dia\" (3 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
-    "groq: erro — Error: groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for mo",
-    "cerebras: erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "groq: ok"
   ]
 }
