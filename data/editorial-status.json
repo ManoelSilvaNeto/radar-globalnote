@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-09-08T22:55:23.309Z",
-  "editionDate": "2026-09-08",
-  "hourUtc": 22,
-  "outcome": "generated",
-  "reason": "\"Incidências de infraestrutura, segurança e clima marcam o panorama do dia\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-09-09T05:04:20.160Z",
+  "editionDate": "2026-09-09",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
