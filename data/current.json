@@ -1,231 +1,341 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-09T19:24:32.097Z",
+  "generatedAt": "2026-09-09T22:42:08.676Z",
   "home": [
     {
-      "clusterId": "9dbf58e3f36fd9bc",
-      "slug": "ddfe1b3e14150c50",
-      "titulo": "Ex-candidato a governo de Roraima morre em capotamento na BR-432",
-      "resumo": "Juraci Escurinho, ex-candidato ao governo de Roraima nas eleições de 2022, morreu em um capotamento na BR-432, no município do Cantá, ao norte de Roraima. O acidente ocorreu por volta das 10h de quarta-feira. Ele dirigia um Toyota SW4 e perdeu o controle do veículo. Na caminhonete também estavam duas mulheres, mãe e filha, que sobreviveram.",
-      "porQueImporta": "O falecimento de um político local em acidente de trânsito destaca a importância da segurança viária na região.",
+      "clusterId": "ab6dc762d877da21",
+      "slug": "cddc17134a5ff154",
+      "titulo": "Peça de trem causa descarrilamento e paralisações no Metrô da Asa Sul",
+      "resumo": "Um trecho de trem se desprendeu, provocando descarrilamento e bloqueio de estações do Metrô da Asa Sul. A companhia não informou de qual composição a peça teria se desprendido. As interrupções afetaram o tráfego de passageiros nas linhas da região. A situação está sob investigação da comissão da CLDF.",
+      "porQueImporta": "O incidente interrompeu o transporte público de milhares de usuários e pode indicar falhas na manutenção dos trens.",
+      "categoria": "Acidente de trem",
+      "categoriaSlug": "acidente-de-trem",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/peca-de-trem-causou-descarrilamento-que-parou-estacoes-do-metro-da-asa-sul"
+        }
+      ],
+      "updatedAt": "2026-09-09T22:28:30.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/metro-df.jpg"
+    },
+    {
+      "clusterId": "1338add8d694628a",
+      "slug": "785cc5e7a4e662c1",
+      "titulo": "Adolescente de 17 anos e jovem de 19 anos morrem em colisão na SP-255",
+      "resumo": "Na noite de segunda-feira, 7, um acidente na Rodovia Comandante João Ribeiro de Barros (SP-255), em Bocaina, resultou na morte de Gabriel Souza Santos, de 17 anos, e de Ágata Priscila da Silva, de 19 anos. A colisão envolveu dois carros e deixou duas pessoas feridas. Os corpos foram enterrados em Boa Esperança do Sul e no Cemitério Municipal de Dourado.",
+      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária nas rodovias estaduais.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/09/juraci-escurinho-ex-candidato-ao-governo-de-roraima-morre-em-capotamento-no-canta.ghtml"
+          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/09/adolescente-de-17-anos-e-a-segunda-vitima-fatal-de-grave-acidente-no-interior-de-sp.ghtml"
         }
       ],
-      "updatedAt": "2026-09-09T18:47:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/WaeUMZoCKFnMqJZydEUyqZrsg8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/x/t/AhFLx9R6aFU4yGk16lNA/juraciescurinho.jpeg"
+      "updatedAt": "2026-09-09T22:20:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/vIokTdGzndPSyDLtx7DC6eka4Gc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/o/VBQ9n3QtScxcV1tiaELA/gabriel-souza-santos.jpg"
     },
     {
-      "clusterId": "8011bc042e382174",
-      "slug": "a1aebfff74f542df",
-      "titulo": "Interdições na Washington Luís por obra de ponte em Rio Preto",
-      "resumo": "A Rodovia Washington Luís (SP‑310) teve faixas parcialmente interditadas a partir de quarta-feira (9) no trecho sobre o Córrego dos Macacos, em São José do Rio Preto. A obra visa adequação estrutural da ponte localizada no km 434,8 e inclui perfuração de estacas. As interdições devem continuar até 1º de outubro.",
-      "porQueImporta": "As interdições afetam o tráfego local, exigindo desvios e impactando a mobilidade da região.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/09/obras-na-ponte-sobre-o-corrego-dos-macacos-provocam-interdicoes-na-washington-luis-em-rio-preto.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-09T18:18:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/7W-XFXEq8I1Ezfl-L2iD9nyz_Ak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/t/cpDN9MRs25E9dUk4ducA/obras-wl1.jpeg"
-    },
-    {
-      "clusterId": "e2aabc7fa8adf548",
-      "slug": "4ef60376e74dd1c1",
-      "titulo": "Alerta de tempestade com possibilidade de granizo atinge municípios de MT",
-      "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta amarelo para 49 municípios de Mato Grosso, prevendo chuva de até 50 mm, ventos de até 60 km/h e possibilidade de granizo. As temperaturas registraram mais de 40ºC antes da ocorrência. O aviso permanece válido até 23h59. A previsão indica risco de danos a propriedades e infraestrutura local.",
-      "porQueImporta": "O alerta pode causar prejuízos e riscos à segurança pública na região.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/09/alerta-de-tempestade-com-possibilidade-de-granizo-atinge-municipios-de-mt-entenda.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-09T18:13:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/F9LRzgCNiiLsV4ZEqrnURxwCuGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/6/rVUFtlRLSOfWBDh96pkA/whatsapp-image-2025-01-06-at-07.18.53.jpeg"
-    },
-    {
-      "clusterId": "6c9fd09f34ac835f",
-      "slug": "7fc0cefc7bac8597",
-      "titulo": "Suspeito é preso após incêndio em loja de veículos em Montes Claros",
-      "resumo": "Um homem de 41 anos foi detido pela Guarda Municipal após incêndio que danificou um carro e três motos na loja de veículos da Avenida Dulce Sarmento. As chamas foram detectadas pelo sistema de videomonitoramento Guardiã dos Montes. O suspeito foi identificado durante os levantamentos pós-incêndio.",
-      "porQueImporta": "O caso demonstra a atuação rápida das autoridades em prevenir danos maiores em estabelecimentos comerciais.",
+      "clusterId": "c79af75420f07a49",
+      "slug": "932a2d3ea2caf709",
+      "titulo": "Deck de madeira na Gameleira é destruído por incêndio",
+      "resumo": "Um deck de madeira no Calçadão da Gameleira, em Rio Branco, ficou parcialmente destruído após um incêndio que teria sido intencional. A estrutura consumida deixou um grande buraco e a área não possui sinalização de alerta. O dano foi denunciado à Rede Amazônica Acre e o incidente ocorreu desde 24 de agosto.",
+      "porQueImporta": "O incêndio compromete a segurança e o uso público da área, além de indicar possível vandalismo.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/09/suspeito-de-atear-fogo-em-loja-de-veiculos-em-montes-claros-e-preso.ghtml"
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/09/09/deck-do-calcadao-da-gameleira-e-atingido-por-incendio-em-rio-branco.ghtml"
         }
       ],
-      "updatedAt": "2026-09-09T18:10:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/sdRroEH7oywII7upioQJmI-EQLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/7/j9koB1Tga45su1CaIZ9w/gemini-generated-image-f3ikhf3ikhf3ikhf-1-1-.jpg"
+      "updatedAt": "2026-09-09T22:18:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/mdFrbGKaXdxhZzJPQsP4SL9EBbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/C/ERmTLoQwS4SLJYHAAVLg/midia-de-distribuicao-g1-2026-09-09t163506.103.jpg"
     },
     {
-      "clusterId": "df539e552e885f49",
-      "slug": "88e3f77625e8057a",
-      "titulo": "Cratera gigante se abre em mansão de Nicolas Cage em Malibu",
-      "resumo": "Uma cratera de grande porte se formou na propriedade de Nicolas Cage em Malibu, resultando no colapso parcial da estrutura e na ruptura de uma tubulação de gás. O incidente exigiu a intervenção do corpo de bombeiros para controlar a situação e garantir a segurança dos moradores. A origem da cratera não foi detalhada pelas fontes disponíveis.",
-      "porQueImporta": "O evento destaca riscos de segurança em residências de alto padrão e a necessidade de monitoramento de estruturas em áreas costeiras.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/cratera-gigante-se-abre-em-mansao-de-nicolas-cage-em-malibu-veja/"
-        }
-      ],
-      "updatedAt": "2026-09-09T17:58:37.000Z"
-    },
-    {
-      "clusterId": "123cbcd5fce56c5a",
-      "slug": "bc61e3d9986280cb",
-      "titulo": "INMET emite alerta de tempestade para 21 cidades do Leste de Minas",
-      "resumo": "O Instituto Nacional de Meteorologia emitiu alerta amarelo de tempestade para 21 cidades da região Leste de Minas Gerais. O aviso, classificado como perigo potencial, prevê chuva entre 20 e 30 mm por hora ou 50 mm por dia, ventos de 40 a 60 km/h e possibilidade de granizo. O alerta entrou em vigor às 8h e permanece válido até 23h59.",
-      "porQueImporta": "O alerta informa risco de condições meteorológicas adversas que podem afetar a mobilidade e a segurança das populações locais.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/09/inmet-emite-alerta-de-tempestade-para-21-cidades-do-leste-de-minas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-09T17:55:13.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/DXMHoHj5iGVN32L9mLiFa7UXxGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/2/GrEYJqQWACzPkNLT2p5g/6159919-44914c682a2a3aa.jpg"
-    },
-    {
-      "clusterId": "e76060468a255677",
-      "slug": "ddbc3244c19e44df",
-      "titulo": "Vereador morre esmagado por carga de 1 tonelada de batatas em SC um dia após aniversário de 63 anos",
-      "resumo": "Nivaldo Magagnin, de 63 anos, morreu na manhã desta quarta-feira (9) Câmara de Vereadores de Treze de Maio/Divulgação O parlamentar, conhecido no meio político como \"Nivaldo da Batata\" , tinha uma empresa de comercializçhavia completado 63 anos na terça-feira (8). Ele trabalhava no momento do acidente, por volta das 8h20. O vereador Nivaldo Magagnin (MDB), de Treze de Maio , no Sul de Santa Catarina, morreu na manhã desta quarta-feira (9) após ser atingido por uma carga de aproximadamente uma tonelada de batatas. O parlamentar, conhecido no meio político como “Nivaldo da Batata”, era dono de…",
+      "clusterId": "f72027953c5e71d6",
+      "slug": "c3a90ae491fd62d1",
+      "titulo": "Quem era o vereador que morreu esmagado por carga de 1 tonelada de batatas em SC: 'Adeus, meu melhor amigo'",
+      "resumo": "Vereador Nivaldo da Batata morre esmagado por carga de batatas em Santa Catarina Nivaldo Magagnin, de 63 anos, que morreu após ser atingido por uma carga de quase uma tonelada de batatas, era vereador no município de Treze de Maio, no Sul de Santa Catarina. Também era dono de uma empresa de comércio e beneficiamento do alimento, por essa razão, era conhecido como \"Nivaldo da Batata\". O apelido, inclusive, foi o usado por ele nas urnas na eleição de 2024, a qual foi eleito com 437 votos. ✅Clique e siga o canal do g1 SC no WhatsApp O acidente ocorreu na manhã de quarta-feira (9), um dia após o…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/vereador-morre-esmagado-carga-batatas-sc-apos-aniversario.ghtml"
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/quem-era-vereador-esmagado-batatas-nivaldo-magagnin.ghtml"
         }
       ],
-      "updatedAt": "2026-09-09T17:27:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/VkEcz6U8yjyg7lEPxtuPxiZHeA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/7/HPEO80Rympgzhrds7ozw/vereador-morreu-apos-ser-atingido-por-saco-de-batata.png"
+      "updatedAt": "2026-09-09T21:49:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/qOomym7GY3AG9WKOD0PIJGgTEyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/L/5qjYzUTv2qBhI7WB4WRA/nivaldo-das-batatas.png"
     },
     {
-      "clusterId": "2018dbe4b16b0669",
-      "slug": "bdd0b879717e2195",
-      "titulo": "Autoridades dos EUA recuperam caixa-preta de avião da Amazon após acidente em Miami",
-      "resumo": "Um avião de carga da Amazon saiu da pista ao pousar em Miami, atravessou uma estrada e pegou fogo, resultando em cinco mortes. As autoridades americanas recuperaram o gravador de dados de voo e o gravador de voz da cabine. A presidente do NTSB, Jennifer Homendy, confirmou a recuperação dos dispositivos em coletiva de imprensa.",
-      "porQueImporta": "A recuperação dos gravadores pode esclarecer as causas do acidente e prevenir futuros incidentes.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
+      "clusterId": "32c02d94cdc8694b",
+      "slug": "3b7e299b2d357cc0",
+      "titulo": "Incêndio atinge anexo do Ministério Público do Piauí em Teresina",
+      "resumo": "Um anexo do prédio do Ministério Público do Piauí pegou fogo na tarde de quarta-feira, 9, na Rua Álvaro Mendes, no Centro de Teresina. O Corpo de Bombeiros Militar do Piauí relatou que o incêndio foi de média proporção e não deixou feridos. As equipes levaram cerca de uma hora e meia para controlar as chamas. O imóvel vizinho foi evacuado.",
+      "porQueImporta": "O incidente ocorreu em um edifício público, exigindo atenção das autoridades e dos serviços de emergência.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/08/autoridades-americanas-recuperam-caixa-preta-de-aviao-da-amazon-apos-acidente-que-matou-cinco-em-miami.ghtml"
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/09/incendio-anexo-do-ministerio-publico.ghtml"
         }
       ],
-      "updatedAt": "2026-09-08T20:00:38.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/z-LWC_-H6XAIPpyVaviyWSzmaVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/hIpdcrRCy1CH0mIUR7rQ/2026-09-06t194934z-1184906547-rc2vdna036ma-rtrmadp-3-usa-crash-plane-miami.jpg"
+      "updatedAt": "2026-09-09T21:49:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/x_yQBG-G9I4YlItr_oCZD55C8-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/B/k0F6jMRAmnSTBdHPTB7A/edicao-imagens-g1-2026-09-09t182706.508.png"
     },
     {
-      "clusterId": "46ff0f61af219ff5",
-      "slug": "ce39ea9a5dee2988",
-      "titulo": "Houthis atacam instalações de energia na Arábia Saudita",
-      "resumo": "Os Houthis lançaram um ataque com míssil balístico contra caminhões que transportavam equipamentos militares da Arábia Saudita, causando incêndios em instalações de energia. O ataque interrompeu temporariamente as operações energéticas do reino e deixou pelo menos 73 pessoas feridas.",
-      "porQueImporta": "O incidente pode intensificar o conflito regional e afetar a segurança energética do país.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
+      "clusterId": "bc658f5872ca5f4c",
+      "slug": "f498f9b5e639132a",
+      "titulo": "Tragédia na BR-163 deixa pai e filhas mortos",
+      "resumo": "Antônio Pedro Zardin Filho, 42 anos, e suas filhas Maria Fernanda, 15, e Maria Carolina, 11, morreram em colisão na BR-163, km 626, em São Gabriel do Oeste, MS. A cadelinha da família também faleceu. O acidente ocorreu na última segunda-feira. A família já havia perdido a mãe e os avós no início de 2025.",
+      "porQueImporta": "O evento destaca a tragédia familiar e a vulnerabilidade de famílias em áreas rurais ao risco de acidentes de trânsito.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/08/houthis-atacam-instalacoes-de-energia-na-arabia-saudita-e-anunciam-escalada-do-conflito.ghtml"
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/09/sequencia-de-perdas-filhas-morreram-ao-lado-do-pai-em-tragedia-na-br-163-meses-apos-perderem-mae-e-avos.ghtml"
         }
       ],
-      "updatedAt": "2026-09-08T06:48:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9vqHpP617PxctAgYBkJQjVcRTx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/q/XdcqrJSnKpUczJ2WXVNQ/afp-20260907-c7kr9ke-v2-midres-yemenconflict.jpg"
+      "updatedAt": "2026-09-09T21:38:34.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/2XVFKSJayhP1J5GWaViZtBiTs6U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/2/7mhTvFT2i3xOdWJL1Ecg/design-sem-nome-26-.png"
     },
     {
-      "clusterId": "dad6a1b35289b621",
-      "slug": "911cb2b80be3f2e3",
-      "titulo": "Rússia e Ucrânia trocam ataques enquanto acordo de paz é tentado",
-      "resumo": "Na madrugada de terça-feira, a Rússia lançou mísseis e drones contra Kiev, resultando em duas mortes e dez feridos, além de incêndios e danos em residências. Poucas horas depois, enviados americanos saíram da capital ucraniana. Em resposta, autoridades da região de Saratov relataram que drones ucranianos atingiram infraestrutura civil na Rússia, ferindo pessoas.",
-      "porQueImporta": "A escalada de hostilidades pode comprometer os esforços de paz na região.",
+      "clusterId": "04dd40b24bac6b91",
+      "slug": "ce45ef997c489c9c",
+      "titulo": "Carreta com cimento e utilitário com hortifruti tombam no mesmo trecho da SP-127 em Tatuí",
+      "resumo": "No quilômetro 110 da Rodovia Antônio Romano Schincariol (SP-127), em Tatuí, duas ocorrências ocorreram na manhã de quarta-feira. A primeira, por volta das 7h41, envolveu uma carreta carregada de cimento que tombou no canteiro central, derrubando parte da carga na pista. A segunda ocorrência, envolvendo um utilitário com hortifruti, aconteceu no mesmo trecho e sentido norte, mas não há detalhes adicionais sobre o tombamento. Em ambos os casos, ninguém ficou ferido e as duas faixas da rodovia precisaram ser fechadas para destombamento e remoção dos veículos.",
+      "porQueImporta": "O acidente pode ter causado congestionamento e risco de colisões em uma rodovia de tráfego intenso.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/09/carreta-com-cimento-e-utilitario-com-hortifruti-tombam-no-mesmo-trecho-da-sp-127-em-tatui.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-09T21:37:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/VSEnv3sV1Z4b0abWnpu2FsQhJcM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/G/kqqwUxQj6OY8sRGX9BoQ/whatsapp-image-2026-09-09-at-18.17.54.jpeg"
+    },
+    {
+      "clusterId": "fccf1fd27a9f278d",
+      "slug": "aa76156b06992dd1",
+      "titulo": "Ônibus de pacientes sofre acidente na PA-151",
+      "resumo": "Um ônibus que transportava pacientes do Tratamento Fora de Domicílio (TFD) bateu na PA-151, nas proximidades do distrito de Curuçambaba, no Pará, na tarde de quarta-feira. O veículo, com cerca de 25 passageiros, sofreu colisão durante o retorno de Belém para Cametá. Cinco pacientes ficaram com escoriações e uma pessoa ficou presa às ferragens, exigindo socorro. As autoridades locais mobilizaram equipes para retirar a vítima e atender os feridos.",
+      "porQueImporta": "O acidente destaca a vulnerabilidade de transporte de pacientes em estradas de difícil acesso.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pa/para/noticia/2026/09/09/onibus-de-transporte-de-pacientes-sofre-acidente-na-pa-151-deixa-feridos-e-uma-pessoa-presa-as-ferragens.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-09T21:36:47.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/G9Eak8yrwQJbblKUZPYaRaBieIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/v/KUUZOgSC62VOL42MKfUA/cameta.png"
+    },
+    {
+      "clusterId": "c04a75408292d250",
+      "slug": "dcdb446b6739bd57",
+      "titulo": "Temporal causa alagamentos em vários bairros de Pouso Alegre e abre cratera na Avenida do Foch",
+      "resumo": "Um temporal atingiu Pouso Alegre, MG, na tarde de quarta-feira, provocando alagamentos nas ruas do Centro, São Geraldo, Nova Pouso Alegre e Faisqueira. Carros ficaram ilhados e a água invadiu áreas comerciais, dificultando a circulação. O asfalto cedeu, abrindo uma cratera na Avenida Prefeito Tuany Toledo, conhecida como Avenida do Foch.",
+      "porQueImporta": "O evento comprometeu a mobilidade urbana e pode causar danos materiais e riscos à segurança dos moradores.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/09/chuva-pouso-alegre.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-09T21:34:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_RNDgXT49GSnvlAtj6RDMaqKy4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/R/nUJSVIQZO99nh1XVKmAw/montagemchuva.jpg"
+    },
+    {
+      "clusterId": "708b9892b5a9df4e",
+      "slug": "2d2ddf1f1d3630b1",
+      "titulo": "MPF investiga empresa Voare por queda de helicóptero que matou dois indígenas na Terra Yanomami",
+      "resumo": "MPF abre inquérito sobre queda de helicóptero que matou dois indígenas O Ministério Público Federal (MPF) abriu nesta quarta-feira (9) uma investigação contra a empresa Voare Táxi Aéreo por suspeitas de irregularidades no acidente com um helicóptero que matou dois indígenas na Terra Indígena Yanomami, em Roraima. A queda ocorreu em julho do ano passado, quando ocorria a remoção de pacientes na região de Surucucu. O g1 entrou em contato com a empresa Voare Táxi Aéreo, mas até o momento não houve resposta. A aeronave fazia um voo de transporte de um paciente quando caiu e pegou fogo logo após a…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/08/russia-bombardeia-kiev-em-meio-a-tentativa-de-acordo-de-paz.ghtml"
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/09/mpf-investiga-empresa-voare-por-queda-de-helicoptero-que-matou-dois-indigenas-na-terra-yanomami.ghtml"
         }
       ],
-      "updatedAt": "2026-09-08T06:27:09.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mheIv9s9BDPadaAUnlHyJ5XMlgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/PrBic2ShiRuYoQ8L44hw/2026-09-08t053020z-1107695325-rc2qenai0w2p-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+      "updatedAt": "2026-09-09T21:33:10.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/i35jRxYGLgSfhzeQ-PH9Yi-YWUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/L/PMMhiYTmGnfIROJgHDIQ/acidente-7-.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "1338add8d694628a",
+          "slug": "785cc5e7a4e662c1",
+          "titulo": "Adolescente de 17 anos e jovem de 19 anos morrem em colisão na SP-255",
+          "resumo": "Na noite de segunda-feira, 7, um acidente na Rodovia Comandante João Ribeiro de Barros (SP-255), em Bocaina, resultou na morte de Gabriel Souza Santos, de 17 anos, e de Ágata Priscila da Silva, de 19 anos. A colisão envolveu dois carros e deixou duas pessoas feridas. Os corpos foram enterrados em Boa Esperança do Sul e no Cemitério Municipal de Dourado.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária nas rodovias estaduais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/09/adolescente-de-17-anos-e-a-segunda-vitima-fatal-de-grave-acidente-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T22:20:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vIokTdGzndPSyDLtx7DC6eka4Gc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/o/VBQ9n3QtScxcV1tiaELA/gabriel-souza-santos.jpg"
+        },
+        {
+          "clusterId": "bc658f5872ca5f4c",
+          "slug": "f498f9b5e639132a",
+          "titulo": "Tragédia na BR-163 deixa pai e filhas mortos",
+          "resumo": "Antônio Pedro Zardin Filho, 42 anos, e suas filhas Maria Fernanda, 15, e Maria Carolina, 11, morreram em colisão na BR-163, km 626, em São Gabriel do Oeste, MS. A cadelinha da família também faleceu. O acidente ocorreu na última segunda-feira. A família já havia perdido a mãe e os avós no início de 2025.",
+          "porQueImporta": "O evento destaca a tragédia familiar e a vulnerabilidade de famílias em áreas rurais ao risco de acidentes de trânsito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/09/sequencia-de-perdas-filhas-morreram-ao-lado-do-pai-em-tragedia-na-br-163-meses-apos-perderem-mae-e-avos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:38:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2XVFKSJayhP1J5GWaViZtBiTs6U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/2/7mhTvFT2i3xOdWJL1Ecg/design-sem-nome-26-.png"
+        },
+        {
+          "clusterId": "04dd40b24bac6b91",
+          "slug": "ce45ef997c489c9c",
+          "titulo": "Carreta com cimento e utilitário com hortifruti tombam no mesmo trecho da SP-127 em Tatuí",
+          "resumo": "No quilômetro 110 da Rodovia Antônio Romano Schincariol (SP-127), em Tatuí, duas ocorrências ocorreram na manhã de quarta-feira. A primeira, por volta das 7h41, envolveu uma carreta carregada de cimento que tombou no canteiro central, derrubando parte da carga na pista. A segunda ocorrência, envolvendo um utilitário com hortifruti, aconteceu no mesmo trecho e sentido norte, mas não há detalhes adicionais sobre o tombamento. Em ambos os casos, ninguém ficou ferido e as duas faixas da rodovia precisaram ser fechadas para destombamento e remoção dos veículos.",
+          "porQueImporta": "O acidente pode ter causado congestionamento e risco de colisões em uma rodovia de tráfego intenso.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/09/carreta-com-cimento-e-utilitario-com-hortifruti-tombam-no-mesmo-trecho-da-sp-127-em-tatui.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:37:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VSEnv3sV1Z4b0abWnpu2FsQhJcM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/G/kqqwUxQj6OY8sRGX9BoQ/whatsapp-image-2026-09-09-at-18.17.54.jpeg"
+        },
+        {
+          "clusterId": "fccf1fd27a9f278d",
+          "slug": "aa76156b06992dd1",
+          "titulo": "Ônibus de pacientes sofre acidente na PA-151",
+          "resumo": "Um ônibus que transportava pacientes do Tratamento Fora de Domicílio (TFD) bateu na PA-151, nas proximidades do distrito de Curuçambaba, no Pará, na tarde de quarta-feira. O veículo, com cerca de 25 passageiros, sofreu colisão durante o retorno de Belém para Cametá. Cinco pacientes ficaram com escoriações e uma pessoa ficou presa às ferragens, exigindo socorro. As autoridades locais mobilizaram equipes para retirar a vítima e atender os feridos.",
+          "porQueImporta": "O acidente destaca a vulnerabilidade de transporte de pacientes em estradas de difícil acesso.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/09/09/onibus-de-transporte-de-pacientes-sofre-acidente-na-pa-151-deixa-feridos-e-uma-pessoa-presa-as-ferragens.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:36:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/G9Eak8yrwQJbblKUZPYaRaBieIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/v/KUUZOgSC62VOL42MKfUA/cameta.png"
+        },
+        {
+          "clusterId": "0776b440d7b82a2d",
+          "slug": "7f80871cc411415a",
+          "titulo": "Motorista de 19 anos recebe liberdade provisória após acidente que matou adolescente",
+          "resumo": "O motorista Igor Rodrigues dos Santos, de 19 anos, foi preso em flagrante depois de causar um acidente na Via Expressa em Araraquara que resultou na morte de Matheus Monte Franqueira, de 17 anos, e feriu mais três jovens. O teste de bafômetro apontou álcool no organismo do condutor. Durante a audiência de custódia, a Justiça concedeu a liberdade provisória ao motorista. Os feridos foram atendidos na Unidade de Pronto Atendimento Central.",
+          "porQueImporta": "O caso destaca a gravidade de dirigir sob influência de álcool e a aplicação de medidas cautelares no sistema de justiça.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/09/justica-solta-motorista-de-acidente-que-matou-adolescente-bafometro-apontou-consumo-de-alcool.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:09:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9Ej-EgTVhe0zCwkpvUkcAHCgfzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/7/YQBLZORBi8cpWfxm77Aw/design-sem-nome-2026-09-07t141937.825.png"
+        },
+        {
+          "clusterId": "7195a546559459b7",
+          "slug": "0b77f18d15148d52",
+          "titulo": "Caminhão tombou na Via Dutra em São José dos Campos",
+          "resumo": "Um caminhão perdeu o controle e bateu na defesa do canteiro central na Via Dutra, km 157, em São José dos Campos, SP, por volta das 16h20. O veículo tombou na pista expressa no sentido São Paulo. O motorista estava sozinho e não sofreu ferimentos. O caminhão foi o único veículo envolvido.",
+          "porQueImporta": "O acidente pode ter causado bloqueio da via e risco de acidentes subsequentes.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/09/caminhao-tomba-na-pista-expressa-da-via-dutra-em-sao-jose-dos-campos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:04:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DZ4vWtWzn_YIjEIvn8i8_dPTO8o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/C/jMYgqXRaaG6DnTlUH51Q/foto-g1-24-.png"
+        }
+      ]
+    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "8011bc042e382174",
-          "slug": "a1aebfff74f542df",
-          "titulo": "Interdições na Washington Luís por obra de ponte em Rio Preto",
-          "resumo": "A Rodovia Washington Luís (SP‑310) teve faixas parcialmente interditadas a partir de quarta-feira (9) no trecho sobre o Córrego dos Macacos, em São José do Rio Preto. A obra visa adequação estrutural da ponte localizada no km 434,8 e inclui perfuração de estacas. As interdições devem continuar até 1º de outubro.",
-          "porQueImporta": "As interdições afetam o tráfego local, exigindo desvios e impactando a mobilidade da região.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/09/obras-na-ponte-sobre-o-corrego-dos-macacos-provocam-interdicoes-na-washington-luis-em-rio-preto.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-09T18:18:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7W-XFXEq8I1Ezfl-L2iD9nyz_Ak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/t/cpDN9MRs25E9dUk4ducA/obras-wl1.jpeg"
-        },
-        {
-          "clusterId": "df539e552e885f49",
-          "slug": "88e3f77625e8057a",
-          "titulo": "Cratera gigante se abre em mansão de Nicolas Cage em Malibu",
-          "resumo": "Uma cratera de grande porte se formou na propriedade de Nicolas Cage em Malibu, resultando no colapso parcial da estrutura e na ruptura de uma tubulação de gás. O incidente exigiu a intervenção do corpo de bombeiros para controlar a situação e garantir a segurança dos moradores. A origem da cratera não foi detalhada pelas fontes disponíveis.",
-          "porQueImporta": "O evento destaca riscos de segurança em residências de alto padrão e a necessidade de monitoramento de estruturas em áreas costeiras.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/pop/celebridades/cratera-gigante-se-abre-em-mansao-de-nicolas-cage-em-malibu-veja/"
-            }
-          ],
-          "updatedAt": "2026-09-09T17:58:37.000Z"
-        },
-        {
-          "clusterId": "e76060468a255677",
-          "slug": "ddbc3244c19e44df",
-          "titulo": "Vereador morre esmagado por carga de 1 tonelada de batatas em SC um dia após aniversário de 63 anos",
-          "resumo": "Nivaldo Magagnin, de 63 anos, morreu na manhã desta quarta-feira (9) Câmara de Vereadores de Treze de Maio/Divulgação O parlamentar, conhecido no meio político como \"Nivaldo da Batata\" , tinha uma empresa de comercializçhavia completado 63 anos na terça-feira (8). Ele trabalhava no momento do acidente, por volta das 8h20. O vereador Nivaldo Magagnin (MDB), de Treze de Maio , no Sul de Santa Catarina, morreu na manhã desta quarta-feira (9) após ser atingido por uma carga de aproximadamente uma tonelada de batatas. O parlamentar, conhecido no meio político como “Nivaldo da Batata”, era dono de…",
+          "clusterId": "f72027953c5e71d6",
+          "slug": "c3a90ae491fd62d1",
+          "titulo": "Quem era o vereador que morreu esmagado por carga de 1 tonelada de batatas em SC: 'Adeus, meu melhor amigo'",
+          "resumo": "Vereador Nivaldo da Batata morre esmagado por carga de batatas em Santa Catarina Nivaldo Magagnin, de 63 anos, que morreu após ser atingido por uma carga de quase uma tonelada de batatas, era vereador no município de Treze de Maio, no Sul de Santa Catarina. Também era dono de uma empresa de comércio e beneficiamento do alimento, por essa razão, era conhecido como \"Nivaldo da Batata\". O apelido, inclusive, foi o usado por ele nas urnas na eleição de 2024, a qual foi eleito com 437 votos. ✅Clique e siga o canal do g1 SC no WhatsApp O acidente ocorreu na manhã de quarta-feira (9), um dia após o…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/vereador-morre-esmagado-carga-batatas-sc-apos-aniversario.ghtml"
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/quem-era-vereador-esmagado-batatas-nivaldo-magagnin.ghtml"
             }
           ],
-          "updatedAt": "2026-09-09T17:27:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/VkEcz6U8yjyg7lEPxtuPxiZHeA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/7/HPEO80Rympgzhrds7ozw/vereador-morreu-apos-ser-atingido-por-saco-de-batata.png"
+          "updatedAt": "2026-09-09T21:49:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/qOomym7GY3AG9WKOD0PIJGgTEyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/L/5qjYzUTv2qBhI7WB4WRA/nivaldo-das-batatas.png"
+        },
+        {
+          "clusterId": "708b9892b5a9df4e",
+          "slug": "2d2ddf1f1d3630b1",
+          "titulo": "MPF investiga empresa Voare por queda de helicóptero que matou dois indígenas na Terra Yanomami",
+          "resumo": "MPF abre inquérito sobre queda de helicóptero que matou dois indígenas O Ministério Público Federal (MPF) abriu nesta quarta-feira (9) uma investigação contra a empresa Voare Táxi Aéreo por suspeitas de irregularidades no acidente com um helicóptero que matou dois indígenas na Terra Indígena Yanomami, em Roraima. A queda ocorreu em julho do ano passado, quando ocorria a remoção de pacientes na região de Surucucu. O g1 entrou em contato com a empresa Voare Táxi Aéreo, mas até o momento não houve resposta. A aeronave fazia um voo de transporte de um paciente quando caiu e pegou fogo logo após a…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/09/mpf-investiga-empresa-voare-por-queda-de-helicoptero-que-matou-dois-indigenas-na-terra-yanomami.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:33:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/i35jRxYGLgSfhzeQ-PH9Yi-YWUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/L/PMMhiYTmGnfIROJgHDIQ/acidente-7-.jpg"
+        },
+        {
+          "clusterId": "02abc180043157d5",
+          "slug": "29a6e87cf428b804",
+          "titulo": "Homem morre após se assustar com tiros em ação policial na BR-040",
+          "resumo": "Um homem de 69 anos morreu após sofrer infarto ao se assustar com troca de tiros durante ação policial na BR-040, em Luziânia. Ele estava caminhando quando presenciou confronto entre policiais militares e suspeito de tráfico de drogas. A família relatou que o homem havia sofrido AVC dois meses antes e desde então fazia caminhadas. O incidente ocorreu na manhã de terça-feira (8).",
+          "porQueImporta": "Ilustra riscos de saúde em situações de tensão pública e a necessidade de precauções em áreas de operação policial.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/09/09/homem-passa-mal-e-morre-as-margens-de-br-040.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:00:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HhEO9Y2v7Yp1nm3DBcTb58eIhR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/H/fa8OT5TjCi3V33FVAZSg/copia-de-copia-de-copia-de-padrao-foto-g1-goias-11-.jpg"
         },
         {
           "clusterId": "dad6a1b35289b621",
@@ -247,88 +357,105 @@
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "e2aabc7fa8adf548",
-          "slug": "4ef60376e74dd1c1",
-          "titulo": "Alerta de tempestade com possibilidade de granizo atinge municípios de MT",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta amarelo para 49 municípios de Mato Grosso, prevendo chuva de até 50 mm, ventos de até 60 km/h e possibilidade de granizo. As temperaturas registraram mais de 40ºC antes da ocorrência. O aviso permanece válido até 23h59. A previsão indica risco de danos a propriedades e infraestrutura local.",
-          "porQueImporta": "O alerta pode causar prejuízos e riscos à segurança pública na região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/09/alerta-de-tempestade-com-possibilidade-de-granizo-atinge-municipios-de-mt-entenda.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-09T18:13:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/F9LRzgCNiiLsV4ZEqrnURxwCuGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/6/rVUFtlRLSOfWBDh96pkA/whatsapp-image-2025-01-06-at-07.18.53.jpeg"
-        },
-        {
-          "clusterId": "123cbcd5fce56c5a",
-          "slug": "bc61e3d9986280cb",
-          "titulo": "INMET emite alerta de tempestade para 21 cidades do Leste de Minas",
-          "resumo": "O Instituto Nacional de Meteorologia emitiu alerta amarelo de tempestade para 21 cidades da região Leste de Minas Gerais. O aviso, classificado como perigo potencial, prevê chuva entre 20 e 30 mm por hora ou 50 mm por dia, ventos de 40 a 60 km/h e possibilidade de granizo. O alerta entrou em vigor às 8h e permanece válido até 23h59.",
-          "porQueImporta": "O alerta informa risco de condições meteorológicas adversas que podem afetar a mobilidade e a segurança das populações locais.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/09/inmet-emite-alerta-de-tempestade-para-21-cidades-do-leste-de-minas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-09T17:55:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DXMHoHj5iGVN32L9mLiFa7UXxGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/2/GrEYJqQWACzPkNLT2p5g/6159919-44914c682a2a3aa.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "9dbf58e3f36fd9bc",
-          "slug": "ddfe1b3e14150c50",
-          "titulo": "Ex-candidato a governo de Roraima morre em capotamento na BR-432",
-          "resumo": "Juraci Escurinho, ex-candidato ao governo de Roraima nas eleições de 2022, morreu em um capotamento na BR-432, no município do Cantá, ao norte de Roraima. O acidente ocorreu por volta das 10h de quarta-feira. Ele dirigia um Toyota SW4 e perdeu o controle do veículo. Na caminhonete também estavam duas mulheres, mãe e filha, que sobreviveram.",
-          "porQueImporta": "O falecimento de um político local em acidente de trânsito destaca a importância da segurança viária na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rr/roraima/noticia/2026/09/09/juraci-escurinho-ex-candidato-ao-governo-de-roraima-morre-em-capotamento-no-canta.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-09T18:47:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WaeUMZoCKFnMqJZydEUyqZrsg8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/x/t/AhFLx9R6aFU4yGk16lNA/juraciescurinho.jpeg"
-        }
-      ]
-    },
-    {
       "slug": "incendio",
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "6c9fd09f34ac835f",
-          "slug": "7fc0cefc7bac8597",
-          "titulo": "Suspeito é preso após incêndio em loja de veículos em Montes Claros",
-          "resumo": "Um homem de 41 anos foi detido pela Guarda Municipal após incêndio que danificou um carro e três motos na loja de veículos da Avenida Dulce Sarmento. As chamas foram detectadas pelo sistema de videomonitoramento Guardiã dos Montes. O suspeito foi identificado durante os levantamentos pós-incêndio.",
-          "porQueImporta": "O caso demonstra a atuação rápida das autoridades em prevenir danos maiores em estabelecimentos comerciais.",
+          "clusterId": "c79af75420f07a49",
+          "slug": "932a2d3ea2caf709",
+          "titulo": "Deck de madeira na Gameleira é destruído por incêndio",
+          "resumo": "Um deck de madeira no Calçadão da Gameleira, em Rio Branco, ficou parcialmente destruído após um incêndio que teria sido intencional. A estrutura consumida deixou um grande buraco e a área não possui sinalização de alerta. O dano foi denunciado à Rede Amazônica Acre e o incidente ocorreu desde 24 de agosto.",
+          "porQueImporta": "O incêndio compromete a segurança e o uso público da área, além de indicar possível vandalismo.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/09/suspeito-de-atear-fogo-em-loja-de-veiculos-em-montes-claros-e-preso.ghtml"
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/09/09/deck-do-calcadao-da-gameleira-e-atingido-por-incendio-em-rio-branco.ghtml"
             }
           ],
-          "updatedAt": "2026-09-09T18:10:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sdRroEH7oywII7upioQJmI-EQLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/7/j9koB1Tga45su1CaIZ9w/gemini-generated-image-f3ikhf3ikhf3ikhf-1-1-.jpg"
+          "updatedAt": "2026-09-09T22:18:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mdFrbGKaXdxhZzJPQsP4SL9EBbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/C/ERmTLoQwS4SLJYHAAVLg/midia-de-distribuicao-g1-2026-09-09t163506.103.jpg"
+        },
+        {
+          "clusterId": "32c02d94cdc8694b",
+          "slug": "3b7e299b2d357cc0",
+          "titulo": "Incêndio atinge anexo do Ministério Público do Piauí em Teresina",
+          "resumo": "Um anexo do prédio do Ministério Público do Piauí pegou fogo na tarde de quarta-feira, 9, na Rua Álvaro Mendes, no Centro de Teresina. O Corpo de Bombeiros Militar do Piauí relatou que o incêndio foi de média proporção e não deixou feridos. As equipes levaram cerca de uma hora e meia para controlar as chamas. O imóvel vizinho foi evacuado.",
+          "porQueImporta": "O incidente ocorreu em um edifício público, exigindo atenção das autoridades e dos serviços de emergência.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/09/incendio-anexo-do-ministerio-publico.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:49:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/x_yQBG-G9I4YlItr_oCZD55C8-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/B/k0F6jMRAmnSTBdHPTB7A/edicao-imagens-g1-2026-09-09t182706.508.png"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "c04a75408292d250",
+          "slug": "dcdb446b6739bd57",
+          "titulo": "Temporal causa alagamentos em vários bairros de Pouso Alegre e abre cratera na Avenida do Foch",
+          "resumo": "Um temporal atingiu Pouso Alegre, MG, na tarde de quarta-feira, provocando alagamentos nas ruas do Centro, São Geraldo, Nova Pouso Alegre e Faisqueira. Carros ficaram ilhados e a água invadiu áreas comerciais, dificultando a circulação. O asfalto cedeu, abrindo uma cratera na Avenida Prefeito Tuany Toledo, conhecida como Avenida do Foch.",
+          "porQueImporta": "O evento comprometeu a mobilidade urbana e pode causar danos materiais e riscos à segurança dos moradores.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/09/chuva-pouso-alegre.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:34:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_RNDgXT49GSnvlAtj6RDMaqKy4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/R/nUJSVIQZO99nh1XVKmAw/montagemchuva.jpg"
+        },
+        {
+          "clusterId": "8150b66a05ad6dc0",
+          "slug": "0dc6ac4e0dd7acd8",
+          "titulo": "Exército do Nepal usa drones para entregar ajuda a vítimas de inundações",
+          "resumo": "O exército nepalesa empregou pequenas aeronaves para transportar alimentos, medicamentos e outros itens essenciais a comunidades isoladas afetadas por inundações. Os drones foram utilizados para superar obstáculos naturais e garantir a entrega rápida de suprimentos. A operação demonstra a adaptação de recursos militares para apoio humanitário em situações de desastre. O uso de tecnologia aérea facilita o acesso a áreas de difícil acesso.",
+          "porQueImporta": "A iniciativa mostra como recursos militares podem ser mobilizados para auxiliar populações em crise, melhorando a eficiência da resposta a desastres.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/mundo/nepal-recorre-a-drones-para-enviar-ajuda-humanitaria-a-vitimas-de-inundacoes/"
+            }
+          ],
+          "updatedAt": "2026-09-09T21:05:40.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/AFP__20260828__C6QL8UU__v1__HighRes__NepalDisasterFlood.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-trem",
+      "label": "Acidente de trem",
+      "stories": [
+        {
+          "clusterId": "ab6dc762d877da21",
+          "slug": "cddc17134a5ff154",
+          "titulo": "Peça de trem causa descarrilamento e paralisações no Metrô da Asa Sul",
+          "resumo": "Um trecho de trem se desprendeu, provocando descarrilamento e bloqueio de estações do Metrô da Asa Sul. A companhia não informou de qual composição a peça teria se desprendido. As interrupções afetaram o tráfego de passageiros nas linhas da região. A situação está sob investigação da comissão da CLDF.",
+          "porQueImporta": "O incidente interrompeu o transporte público de milhares de usuários e pode indicar falhas na manutenção dos trens.",
+          "categoria": "Acidente de trem",
+          "categoriaSlug": "acidente-de-trem",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/peca-de-trem-causou-descarrilamento-que-parou-estacoes-do-metro-da-asa-sul"
+            }
+          ],
+          "updatedAt": "2026-09-09T22:28:30.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/08/metro-df.jpg"
         }
       ]
     },
