@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-09-09T22:42:08.676Z",
-  "editionDate": "2026-09-09",
-  "hourUtc": 22,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito e eventos de infraestrutura dominam o panorama diário\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-09-10T05:06:47.601Z",
+  "editionDate": "2026-09-10",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
