@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-09-10T05:06:47.601Z",
+  "ranAt": "2026-09-10T13:04:29.319Z",
   "editionDate": "2026-09-10",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Incêndios, tempestades e acidentes de trânsito e aéreos dominam o panorama de riscos\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
