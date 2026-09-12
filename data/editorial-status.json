@@ -1,15 +1,14 @@
 {
-  "ranAt": "2026-09-12T12:19:22.350Z",
+  "ranAt": "2026-09-12T15:45:53.251Z",
   "editionDate": "2026-09-12",
-  "hourUtc": 12,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 15,
+  "outcome": "generated",
+  "reason": "\"Acidentes e desastres urbanos e marítimos concentram-se em condições climáticas adversas\" (4 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
-    "groq: reprovado — poucos parágrafos (1)",
-    "cerebras: erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "groq: ok"
   ]
 }
