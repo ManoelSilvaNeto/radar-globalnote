@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-09-13T05:16:41.111Z",
+  "ranAt": "2026-09-13T13:25:44.878Z",
   "editionDate": "2026-09-13",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Incidentes urbanos e naturais marcam dia de alertas e perdas\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }

@@ -1,178 +1,182 @@
 {
   "date": "2026-09-13",
-  "generatedAt": "2026-09-13T05:16:41.111Z",
+  "generatedAt": "2026-09-13T13:25:44.878Z",
   "home": [
     {
-      "clusterId": "82557657476b7072",
-      "slug": "43c92e775901b6ba",
-      "titulo": "Desabamento de prédio na Zona Leste de São Paulo deixa duas mulheres mortas",
-      "resumo": "Um prédio na Rua Tequici, na Penha, desabou durante a madrugada, atingindo uma casa vizinha e resultando em duas mortes, uma delas de uma mulher grávida. A Prefeitura abriu apuração na Controladoria Geral do Município para investigar a fiscalização da obra. A construção já havia sido alvo de ação judicial em 2021, quando a Prefeitura solicitou sua demolição após decisões de fiscalização, ordem de interdição e multas.",
-      "porQueImporta": "O incidente evidencia falhas na fiscalização de construções irregulares, colocando em risco a segurança da população.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
+      "clusterId": "7d4edc92772fc9eb",
+      "slug": "20fed4361c42de06",
+      "titulo": "Desabamento de prédio na Zona Leste de SP deixa cinco mortos",
+      "resumo": "Um prédio em construção na Penha, Zona Leste de São Paulo, desabou sobre uma casa, resultando em cinco mortes e três desaparecidos. A obra já havia sido interditada e alvo de multas por irregularidades. O Corpo de Bombeiros identificou os corpos de um homem e de duas mulheres, enquanto uma criança permanece desaparecida. As buscas continuam em andamento.",
+      "porQueImporta": "O incidente evidencia os riscos associados a construções irregulares em áreas urbanas.",
+      "categoria": "Desabamento",
+      "categoriaSlug": "desabamento",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/predio-que-desabou-na-zona-leste-de-sp-ja-havia-sido-alvo-de-acao-judicial/"
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/13/sobe-para-3-numero-de-mortos-apos-predio-em-construcao-desabar-sobre-casa-na-zona-leste-de-sp-3-seguem-desaparecidos.ghtml"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/13/prefeitura-abre-apuracao-sobre-fiscalizacao-de-obra-que-desabou-e-deixou-vitimas-na-zona-leste-de-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-13T05:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/pzakoh5k6YbCAaBi5DinhyidNRQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/C/EJl2AYQkW4z9AnN1HokQ/acervo-bdsab-limpo-20260912-0630-frame-132943.jpeg"
-    },
-    {
-      "clusterId": "f793ad2d525065ea",
-      "slug": "850f2b7460dd79fd",
-      "titulo": "Naufrágio deixa mais de 30 desaparecidos em Vanuatu",
-      "resumo": "A balsa MV Matui afundou na costa de Vanuatu, resultando em pelo menos uma morte e mais de 30 desaparecidos. Operações de busca e resgate continuam na ilha, com 15 pessoas encontradas vivas. O incidente ocorreu enquanto a embarcação transportava passageiros e tripulantes entre ilhas.",
-      "porQueImporta": "O evento destaca a vulnerabilidade de transporte marítimo em regiões remotas do Pacífico.",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/13/naufragio-deixa-mais-de-30-desaparecidos-em-vanuatu-no-pacifico.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-13T04:30:35.000Z"
-    },
-    {
-      "clusterId": "6ba250cf777055cd",
-      "slug": "6376c17fea981e75",
-      "titulo": "Vilarejo oferece variedade, estoque e atendimento especializado para obras",
-      "resumo": "A empresa Vilarejo destaca a importância de reunir variedade de materiais, estoque suficiente e atendimento especializado em um único local para atender todas as etapas de uma obra. O objetivo é garantir que as decisões tomadas no início do projeto sejam mantidas até a entrega dos acabamentos finais. O serviço facilita a comparação de produtos, a compreensão de suas aplicações e a escolha dos materiais mais adequados a cada ambiente.",
-      "porQueImporta": "Consolida recursos essenciais para a execução eficiente de projetos de construção e reforma.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/09/13/vilarejo-reune-variedade-estoque-e-atendimento-para-cada-etapa-da-obra.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-13T03:04:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lsopZf3MS7NKupXHiXLTRu7tie0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/u/7fSsOjRHm07sB8M4Vuxw/foto-1-1.png"
-    },
-    {
-      "clusterId": "1f7c1456414386cc",
-      "slug": "56cc8d1188e36bbb",
-      "titulo": "PF revela estrutura de produção de documentos falsos no caso Master",
-      "resumo": "A Polícia Federal detalhou como funcionários do Banco Master produziram documentos falsos usados em operações de cessão de créditos ao Banco de Brasília. O material foi divulgado após o ministro André Mendonça do STF solicitar a liberação de sigilo das investigações. Os documentos tornaram-se públicos nesta sexta-feira (11).",
-      "porQueImporta": "A revelação expõe práticas ilícitas em transações bancárias de grande escala.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/09/13/documentos-banco-master-relatorio-pf.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-13T03:00:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/BBO7QfYs51RmtjzqOhxRlo5YAKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/z/YgrxcuTLObKr9dBZJTvA/banco-master.jpg"
-    },
-    {
-      "clusterId": "7edf5d0146f87b16",
-      "slug": "54f8b90cdc7a031b",
-      "titulo": "Temporal em São Paulo causa alagamentos e deixa desaparecidos",
-      "resumo": "Um temporal no sábado provocou alagamentos em vários pontos da capital e da Grande São Paulo, gerando transtornos no trânsito e ocorrências graves. Dois homens foram arrastados pela correnteza de um rio em Jandira e estão desaparecidos. A previsão indica chuva contínua no domingo, com temperaturas entre 14ºC e 16ºC.",
-      "porQueImporta": "O evento compromete a mobilidade urbana e gera risco de vida para os moradores.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/13/sao-paulo-tera-domingo-chuvoso-e-frio-apos-temporal-causar-alagamentos-e-deixar-desaparecidos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-13T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/5GCzBOaLx2sl2HbfV8A7wopsCz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/z/6zFwUBTBAOF4agFbVGQQ/rua20250203006.jpg"
-    },
-    {
-      "clusterId": "0a3c0fbbe529202b",
-      "slug": "4eb0818509eb821d",
-      "titulo": "Chuvas intensas causam estragos em diversas regiões do estado de São Paulo",
-      "resumo": "O estado de São Paulo registrou chuvas fortes nas últimas 24 horas, provocando alagamentos que interditaram dez pontos da cidade, incluindo trecho da Marginal Tietê e o Jardim Pantanal. Um raio incendiou uma subestação de energia da concessionária de trens da capital. Duas pessoas desapareceram durante o temporal.",
-      "porQueImporta": "O evento compromete a infraestrutura urbana e a segurança da população.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/12/chuvas-intensas-causam-estragos-em-diversas-regioes-do-estado-de-sao-paulo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-13T00:37:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/7QGbngAbTKPZ3crM2Bg-mPqgmS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/S/Bde9RJQ8mws1vJ5ZP9SA/jn-1209-chuvassp.jpg"
-    },
-    {
-      "clusterId": "d9c87fbae8a567fb",
-      "slug": "e79092ad8baf1a1b",
-      "titulo": "Desabamento de prédio em São Paulo deixa duas mulheres mortas e quatro desaparecidos",
-      "resumo": "Um prédio em construção em São Paulo desabou pouco antes das 2h da manhã, resultando em duas mortes e quatro desaparecidos. A obra, de 11 andares, tinha problemas estruturais e já havia sido ordenada a demolição pela prefeitura. A queda atingiu uma casa onde moravam três famílias bolivianas, de onde um homem e uma criança de cinco anos foram resgatados com vida.",
-      "porQueImporta": "O incidente destaca falhas na fiscalização de obras e a necessidade de cumprimento de normas de segurança.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/12/desabamento-de-predio-em-sao-paulo-deixa-duas-mulheres-mortas-e-quatro-pessoas-desaparecidas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-13T00:31:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/MXgcPnXWiuCTWLcukuHrNxZNC3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/i/ulXjl3TeAFOCxMP54zUQ/jn-1209-predioemsp.jpg"
-    },
-    {
-      "clusterId": "519840962a5b95d2",
-      "slug": "f264fb319ab5f4d9",
-      "titulo": "Construtora será presa por não cumprir ordem de demolição",
-      "resumo": "A construtora responsável pelo prédio que desabou em São Paulo será presa, segundo a autoridade Nunes. O prefeito afirma que os proprietários cometeram crime ao descumprirem ordem de demolição emitida em 2024. A demolição era necessária para evitar riscos à população.",
-      "porQueImporta": "A decisão demonstra a aplicação de responsabilidade legal em casos de infrações à segurança pública.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/desabamento-de-predio-na-zona-leste-de-sp-deixa-cinco-mortos-obra-estava-irregular/"
+        },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/donos-de-construtora-de-predio-que-desabou-em-sp-serao-presos-diz-nunes/"
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sobe-para-3-numero-de-mortos-apos-desabamento-de-predio-na-zona-leste-de-sp/"
         }
       ],
-      "updatedAt": "2026-09-13T00:08:35.000Z"
+      "updatedAt": "2026-09-13T12:50:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/bbPpPUeMaZzk3uBjKUhPF6yj81w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/W/wlIeI6RKycmSEfhcl1AQ/bdsp-desmoronamento-penha-20260913-0450-frame-428181.jpeg"
     },
     {
-      "clusterId": "46e56950fb6a373a",
-      "slug": "26155d9914379a83",
-      "titulo": "São Paulo registra maior chuva em 24 horas do Brasil e setembro entra em lista dos meses mais chuvosos",
-      "resumo": "Entre sexta-feira (11) e sábado (12), a estação do Inmet no Mirante de Santana registrou 75,4 mm de chuva, o maior volume acumulado em 24 horas já registrado no país. O volume de precipitação fez setembro de 2026 entrar no ranking dos meses mais chuvosos da capital desde 1943. A Defesa Civil relatou alagamentos e desaparecidos na região.",
-      "porQueImporta": "O volume extremo de chuva pode causar alagamentos, interrupções de serviços e riscos à população.",
+      "clusterId": "eed6960f0baf4b01",
+      "slug": "b4cc124b857cee1e",
+      "titulo": "Rio Ribeira de Iguape continua subindo e transborda em pontos",
+      "resumo": "O nível das águas do Rio Ribeira de Iguape, que corta os municípios do Vale do Ribeira, continua em tendência de elevação, segundo a Defesa Civil Estadual. A cheia fez com que cerca de 60 pessoas fossem deslocadas para abrigos municipais e outras 60 famílias precisassem deixar suas residências. As áreas suscetíveis a inundações estão em condição de alerta e o órgão mantém monitoramento das condições hidrológicas.",
+      "porQueImporta": "O aumento do nível da água pode causar mais inundações e deslocamentos de moradores na região.",
       "categoria": "Enchente",
       "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/12/sao-paulo-tem-maior-chuva-do-brasil-em-24-horas-e-setembro-ja-e-o-4o-mais-chuvoso-desde-1943.ghtml"
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/13/rio-ribeira-segue-subindo-transborda-em-alguns-pontos-e-defesa-civil-faz-alerta.ghtml"
         }
       ],
-      "updatedAt": "2026-09-12T23:54:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/JfTI-XkTV88wQpVGZAMcuvvyDYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/4/lIvFLbRXyaMVpFbzCoVw/fta20260306232.jpg"
+      "updatedAt": "2026-09-13T13:02:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/kWfYSbBiKSlLIGCDPyb39fJlDgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/9/rAZwBZSBeT6ACU5W31dA/foto-tradicional.png"
     },
     {
-      "clusterId": "113f28b5ea64d2a2",
-      "slug": "9214749943a007d3",
-      "titulo": "Motociclista morre ao bater em caminhão em chamas na BR-153",
-      "resumo": "Um motociclista de 40 anos morreu carbonizado depois de colidir com um caminhão incendiado na BR-153, entre Paraíso e Barrolândia, Tocantins. O acidente ocorreu enquanto equipes do Corpo de Bombeiros tentavam conter o fogo no veículo. A vítima foi identificada como Divino Ronildo Santos Mendes.",
-      "porQueImporta": "O incidente destaca os riscos de acidentes envolvendo veículos em chamas durante operações de combate a incêndios.",
+      "clusterId": "b5e093e12797cff9",
+      "slug": "4df1db5faea3a94d",
+      "titulo": "Alerta de tempestade, morte de criança e atropelamento em Pintópolis",
+      "resumo": "O Instituto Nacional de Meteorologia emitiu alerta de tempestade para 129 cidades de Minas Gerais. Em São Francisco, uma criança morreu ao ser atingida por um muro. Em Pintópolis, uma mulher foi atropelada por um carro conduzido pela esposa do prefeito.",
+      "porQueImporta": "A ocorrência reúne riscos climáticos e acidentes de trânsito que afetam a população.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/13/alerta-de-tempestade-morte-de-crianca-atingida-por-muro-e-mulher-atropelada-por-esposa-de-prefeito-veja-as-noticias-mais-lidas-da-semana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-13T12:57:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/LkM4gBBog3-U_UKMZN_rKCB6eNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/2/ZQPOLGTgOFsfmuDdvACw/whatsapp-image-2026-08-20-at-09.33.56-1-.jpeg"
+    },
+    {
+      "clusterId": "e75b24659afc0c9f",
+      "slug": "0bda97abb9247e4a",
+      "titulo": "Risco de morte prematura é 60% maior em pessoas com transtorno bipolar",
+      "resumo": "Estudo aponta que indivíduos com transtorno bipolar tipo 2 apresentam risco de mortalidade prematura 60% maior que a população geral. A maior mortalidade está associada a doenças clínicas, acidentes e suicídio. A pesquisa destaca a necessidade de atenção médica e psicológica específica para esses pacientes.",
+      "porQueImporta": "A informação alerta para a vulnerabilidade de saúde desses indivíduos, orientando políticas de prevenção e cuidado.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-saude/risco-de-morte-prematura-e-60-maior-em-pessoas-com-transtorno-bipolar/"
+        }
+      ],
+      "updatedAt": "2026-09-13T12:40:05.000Z"
+    },
+    {
+      "clusterId": "c957bf3c2aaf5ace",
+      "slug": "f30ba078664d4285",
+      "titulo": "Avião com cantor Rey Vaqueiro pega fogo após sair da pista em pouso no interior do RN",
+      "resumo": "Um jato executivo com o cantor Rey Vaqueiro e cinco passageiros, além do piloto e copiloto, saiu da pista durante o pouso na madrugada de domingo em Parelhas, RN, e pegou fogo. O Corpo de Bombeiros combateu as chamas e a aeronave ficou destruída. Nenhum ferido foi registrado.",
+      "porQueImporta": "O incidente destaca riscos de segurança em operações de aviação executiva em aeroportos regionais.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/13/aviao-cantor-rey-vaqueiro-acidente-rn.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-13T12:36:40.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/614TUj4JSN_w2MpBG5dQNx400gs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/l/wTGv8YQaCGoGtK9wc2nw/whatsapp-image-2026-09-13-at-09.47.14-1-.jpeg"
+    },
+    {
+      "clusterId": "3acb08cbeb8076cb",
+      "slug": "9154dc9dc7957a6b",
+      "titulo": "Prédio de 12 andares desaba na zona leste de São Paulo",
+      "resumo": "Um edifício de 12 andares desabou durante a madrugada de sábado na zona leste de São Paulo, resultando em pelo menos três mortes. A construtora responsável já havia sido multada em R$ 119 mil por infrações de segurança. O colapso ocorreu em um período de alta ocupação, aumentando o risco de vítimas. As autoridades investigam as causas do desastre.",
+      "porQueImporta": "O incidente destaca falhas na fiscalização de obras e a necessidade de reforçar normas de segurança em construções urbanas.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/construtora-do-predio-que-desabou-em-sp-havia-sido-multada-em-r-119-mil/"
+        }
+      ],
+      "updatedAt": "2026-09-13T12:30:29.000Z"
+    },
+    {
+      "clusterId": "26bc7066415843bf",
+      "slug": "6e7fda49ca953cc9",
+      "titulo": "Dois homens morrem em batida frontal entre motocicletas na PA-370",
+      "resumo": "Dois motociclistas morreram em uma colisão frontal na manhã de domingo, 13, na PA-370, rodovia Curuá-Una, próximo ao bairro Jaderlândia, em Santarém, Pará. O acidente mobilizou equipes do SAMU, Polícia Militar e Secretaria Municipal de Mobilidade e Trânsito. O trânsito ficou parcialmente interrompido no trecho afetado.",
+      "porQueImporta": "O incidente destaca a gravidade dos acidentes de trânsito envolvendo motocicletas na região.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/12/motociclista-bate-contra-caminhao-em-chamas-durante-combate-a-incendio-e-morre-carbonizado-na-br-153.ghtml"
+          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/13/dois-homens-morrem-apos-colisao-frontal-entre-motocicletas-na-pa-370-em-santarem.ghtml"
         }
       ],
-      "updatedAt": "2026-09-12T23:40:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kWqjICBOqT36rPtZF9LO-182XWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/0/GEsF0VQIaB0GBQBNyeEA/frame-2.jpg.jpeg"
+      "updatedAt": "2026-09-13T12:14:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/mhrQ8BBllPQ3xjNegHUWQqjdkAo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/s/vK3Gu9T0GPxHUid6fBIQ/whatsapp-image-2026-09-13-at-09.10.48.jpeg"
+    },
+    {
+      "clusterId": "08522fbb85635069",
+      "slug": "ecb7d629247ef428",
+      "titulo": "Desabamento de prédio na Penha deixa 3 mortos e 3 desaparecidos",
+      "resumo": "Um prédio em obra desabou na Penha, resultando em três mortes e três pessoas soterradas que ainda não foram encontradas. Os bombeiros continuam as buscas após 30 horas de operação. A ocorrência ocorreu no sábado, 12 de setembro.",
+      "porQueImporta": "O incidente destaca riscos de construções em fase de obra e a necessidade de fiscalização adequada.",
+      "categoria": "Desabamento",
+      "categoriaSlug": "desabamento",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/busca-3-vitimas-desabamento-predio"
+        }
+      ],
+      "updatedAt": "2026-09-13T11:51:04.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/predio-desaba-penha-zl-sp-2.jpg"
+    },
+    {
+      "clusterId": "cbe723dab7ef271b",
+      "slug": "62a829c7b8c71e4b",
+      "titulo": "Serra Antiga da Tamoios segue interditada neste domingo por alto volume de chuvas",
+      "resumo": "A Serra Antiga da Rodovia dos Tamoios permanece interditada na manhã de domingo (13) devido ao alto volume de chuvas e ao risco de queda de barreira. A concessionária responsável pela rodovia, em conjunto com a Polícia Militar Rodoviária e a Defesa Civil, realizará uma reavaliação das condições da estrada durante a manhã. Foi iniciada a operação comboio no sentido São José dos Campos, na Serra Nova, mantendo o trânsito no sistema pare e siga, alternando os sentidos. A previsão é de que o tráfego seja mudado para o sentido litoral às 10h.",
+      "porQueImporta": "O fechamento da estrada pode afetar o deslocamento de veículos e a logística na região.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/13/serra-antiga-da-tamoios-segue-interditada-neste-domingo-por-alto-volume-de-chuvas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-13T11:39:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/I2W4Z9j9NgEAabW0zCz6HNdUY4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/L/anTDxHQey0pgOfdBDABQ/foto-g1-29-.png"
+    },
+    {
+      "clusterId": "734bb42ca1856e29",
+      "slug": "a13b661d2db2bfe6",
+      "titulo": "Quase cinco meses após acidente que matou filha de 6 anos, mãe morre em hospital no Paraná",
+      "resumo": "Criança morre após carro onde ela estava com a mãe ser arrastado por caminhão na BR-277 Morreu neste sábado (12), aos 41 anos, Fabiane Grando Brotto, que estava internada há quase cinco meses após sofrer um grave acidente na BR-277, em Céu Azul, no Oeste do Paraná. Na batida, ocorrida em 22 de abril, a filha dela, Bianca Grando Brotto, de seis anos, morreu no local. ✅ Siga o g1 Foz do Iguaçu e região no WhatsApp Ela estava internada no Hospital Universitário de Cascavel desde o acidente. Fabiane ficou gravemente ferida após o carro em que estava com a filha ser atingido e arrastado por um…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/13/mae-acidente-morre-filha-parana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-13T11:19:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/o90uZSP-BzXxW58G-WprYLa4Fck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/mTE2wCRHu6uY2HgTgqGg/fundo-vermelho-5-.png"
     }
   ],
   "categorias": [
@@ -181,87 +185,171 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "6ba250cf777055cd",
-          "slug": "6376c17fea981e75",
-          "titulo": "Vilarejo oferece variedade, estoque e atendimento especializado para obras",
-          "resumo": "A empresa Vilarejo destaca a importância de reunir variedade de materiais, estoque suficiente e atendimento especializado em um único local para atender todas as etapas de uma obra. O objetivo é garantir que as decisões tomadas no início do projeto sejam mantidas até a entrega dos acabamentos finais. O serviço facilita a comparação de produtos, a compreensão de suas aplicações e a escolha dos materiais mais adequados a cada ambiente.",
-          "porQueImporta": "Consolida recursos essenciais para a execução eficiente de projetos de construção e reforma.",
+          "clusterId": "e75b24659afc0c9f",
+          "slug": "0bda97abb9247e4a",
+          "titulo": "Risco de morte prematura é 60% maior em pessoas com transtorno bipolar",
+          "resumo": "Estudo aponta que indivíduos com transtorno bipolar tipo 2 apresentam risco de mortalidade prematura 60% maior que a população geral. A maior mortalidade está associada a doenças clínicas, acidentes e suicídio. A pesquisa destaca a necessidade de atenção médica e psicológica específica para esses pacientes.",
+          "porQueImporta": "A informação alerta para a vulnerabilidade de saúde desses indivíduos, orientando políticas de prevenção e cuidado.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/09/13/vilarejo-reune-variedade-estoque-e-atendimento-para-cada-etapa-da-obra.ghtml"
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-saude/risco-de-morte-prematura-e-60-maior-em-pessoas-com-transtorno-bipolar/"
             }
           ],
-          "updatedAt": "2026-09-13T03:04:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lsopZf3MS7NKupXHiXLTRu7tie0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/u/7fSsOjRHm07sB8M4Vuxw/foto-1-1.png"
+          "updatedAt": "2026-09-13T12:40:05.000Z"
         },
         {
-          "clusterId": "1f7c1456414386cc",
-          "slug": "56cc8d1188e36bbb",
-          "titulo": "PF revela estrutura de produção de documentos falsos no caso Master",
-          "resumo": "A Polícia Federal detalhou como funcionários do Banco Master produziram documentos falsos usados em operações de cessão de créditos ao Banco de Brasília. O material foi divulgado após o ministro André Mendonça do STF solicitar a liberação de sigilo das investigações. Os documentos tornaram-se públicos nesta sexta-feira (11).",
-          "porQueImporta": "A revelação expõe práticas ilícitas em transações bancárias de grande escala.",
+          "clusterId": "3acb08cbeb8076cb",
+          "slug": "9154dc9dc7957a6b",
+          "titulo": "Prédio de 12 andares desaba na zona leste de São Paulo",
+          "resumo": "Um edifício de 12 andares desabou durante a madrugada de sábado na zona leste de São Paulo, resultando em pelo menos três mortes. A construtora responsável já havia sido multada em R$ 119 mil por infrações de segurança. O colapso ocorreu em um período de alta ocupação, aumentando o risco de vítimas. As autoridades investigam as causas do desastre.",
+          "porQueImporta": "O incidente destaca falhas na fiscalização de obras e a necessidade de reforçar normas de segurança em construções urbanas.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/economia/noticia/2026/09/13/documentos-banco-master-relatorio-pf.ghtml"
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/construtora-do-predio-que-desabou-em-sp-havia-sido-multada-em-r-119-mil/"
             }
           ],
-          "updatedAt": "2026-09-13T03:00:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/BBO7QfYs51RmtjzqOhxRlo5YAKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/z/YgrxcuTLObKr9dBZJTvA/banco-master.jpg"
+          "updatedAt": "2026-09-13T12:30:29.000Z"
         },
         {
-          "clusterId": "519840962a5b95d2",
-          "slug": "f264fb319ab5f4d9",
-          "titulo": "Construtora será presa por não cumprir ordem de demolição",
-          "resumo": "A construtora responsável pelo prédio que desabou em São Paulo será presa, segundo a autoridade Nunes. O prefeito afirma que os proprietários cometeram crime ao descumprirem ordem de demolição emitida em 2024. A demolição era necessária para evitar riscos à população.",
-          "porQueImporta": "A decisão demonstra a aplicação de responsabilidade legal em casos de infrações à segurança pública.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/donos-de-construtora-de-predio-que-desabou-em-sp-serao-presos-diz-nunes/"
-            }
-          ],
-          "updatedAt": "2026-09-13T00:08:35.000Z"
-        },
-        {
-          "clusterId": "4b325aa0d5f3646f",
-          "slug": "4d8a99a7d29598c7",
-          "titulo": "Trabalhador prende dedo em amaciador de carne e é levado junto com a máquina ao hospital em Manaus",
-          "resumo": "Um trabalhador não identificado teve um dedo preso em um amaciador de carne no local de trabalho, no bairro São Geraldo, Manaus. O Corpo de Bombeiros Militar do Amazonas socorreu a vítima e a transportou junto com o aparelho para o Hospital e Pronto-Socorro 28 de Agosto. O procedimento de liberação do dedo foi realizado na unidade de saúde.",
-          "porQueImporta": "O incidente destaca a necessidade de segurança no uso de equipamentos industriais.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/12/trabalhador-prende-dedo-em-amaciador-de-carne-e-e-levado-junto-com-a-maquina-ao-hospital-em-manaus.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-12T23:22:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7fBTLR-eWfRsCTmrpCcRjnAs_DM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/T/7N3WAoQf22DYMp5iXxBg/g1-3-.jpg"
-        },
-        {
-          "clusterId": "3a39d27e1278f942",
-          "slug": "48b212998c1438b1",
-          "titulo": "9 das 10 maiores temperaturas do ano em BH foram registradas no inverno, aponta Defesa Civil",
-          "resumo": "Calor desafia moradores de BH O inverno em Belo Horizonte tem tido ares de verão. Das dez maiores temperaturas registradas neste ano na capital mineira, nove ocorreram durante a estação que ocorre entre junho e setembro, segundo dados da Defesa Civil da capital mineira. No fim de agosto, a cidade chegou ao recorde de calor de 2026: 35,4°C. Neste sábado (12), os termômetros voltaram a subir bastante e passaram dos 34°C, chegando a 34,6°C. As últimas semanas têm sido marcadas por variações em Belo Horizonte. A capital teve calor, tempo seco, frio e chuva forte. ✅Clique aqui para seguir o canal…",
+          "clusterId": "734bb42ca1856e29",
+          "slug": "a13b661d2db2bfe6",
+          "titulo": "Quase cinco meses após acidente que matou filha de 6 anos, mãe morre em hospital no Paraná",
+          "resumo": "Criança morre após carro onde ela estava com a mãe ser arrastado por caminhão na BR-277 Morreu neste sábado (12), aos 41 anos, Fabiane Grando Brotto, que estava internada há quase cinco meses após sofrer um grave acidente na BR-277, em Céu Azul, no Oeste do Paraná. Na batida, ocorrida em 22 de abril, a filha dela, Bianca Grando Brotto, de seis anos, morreu no local. ✅ Siga o g1 Foz do Iguaçu e região no WhatsApp Ela estava internada no Hospital Universitário de Cascavel desde o acidente. Fabiane ficou gravemente ferida após o carro em que estava com a filha ser atingido e arrastado por um…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/12/nove-das-dez-maiores-temperaturas-do-ano-em-bh-foram-registradas-no-inverno-aponta-defesa-civil.ghtml"
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/13/mae-acidente-morre-filha-parana.ghtml"
             }
           ],
-          "updatedAt": "2026-09-12T22:57:50.000Z"
+          "updatedAt": "2026-09-13T11:19:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/o90uZSP-BzXxW58G-WprYLa4Fck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/mTE2wCRHu6uY2HgTgqGg/fundo-vermelho-5-.png"
+        },
+        {
+          "clusterId": "fe9e5f4d8a808a16",
+          "slug": "b0e6c7b5d3223148",
+          "titulo": "Chefe de tráfico de drogas em Governador Valadares é preso após 8 anos de fuga",
+          "resumo": "Um homem apontado como chefe do tráfico de drogas em Governador Valadares foi preso após oito anos de fuga. A prisão ocorreu durante uma operação policial que também resultou na suspensão das atividades da maior produtora de lítio do país e em ações contra o tráfico em Almenara. Além disso, a semana contou com um incêndio em Ipatinga e um acidente com fatalidade na BR-262.",
+          "porQueImporta": "A prisão de um líder de tráfico e as medidas de segurança reforçam o combate ao crime organizado no estado.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/13/chefe-do-trafico-preso-suspensao-de-mineradora-e-operacao-policial-veja-as-mais-lidas-da-semana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-13T11:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mJ70Q9flzzig6TzrgDScdWMexRo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/i/PuEtpwQku0E90PkEDQJg/redimensao-18-.png"
+        },
+        {
+          "clusterId": "2a7227188cf2460c",
+          "slug": "2b50bd11c90fb843",
+          "titulo": "Motoqueiro campeão de enduro morre na serraria da família em SC",
+          "resumo": "O piloto de enduro Gian Taffarel, de 30 anos, morreu em acidente na serraria da família em Caxambu do Sul, Santa Catarina. Ele sofreu perfuração no tórax por um pedaço de madeira e foi resgatado pelo Serviço de Atendimento e Resgate Aeromédico de Fronteira. O acidente ocorreu na tarde de sexta-feira (11).",
+          "porQueImporta": "A morte de um atleta reconhecido na modalidade enduro destaca a importância da segurança em atividades laborais em ambientes industriais.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/13/motoqueiro-campeao-de-enduro-morre.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-13T09:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mrpFge4xOW8ntewBp73STR5g0jk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/Z/nAzcokTS6ki98BNYefHg/colagem-gian.jpg"
+        },
+        {
+          "clusterId": "f9190b8e87df6f18",
+          "slug": "f24eb05d3b62aa0d",
+          "titulo": "Periquito, 'furacão' e verde e branco: conheça os símbolos do Uberlândia Esporte Clube, que decide a Série D neste domingo",
+          "resumo": "O Uberlândia Esporte Clube, que já venceu o primeiro jogo da final da Série D por 2 a 0, volta a campo neste domingo no estádio Parque do Sabiá, em Uberlândia, para enfrentar o ASA de Arapiraca. A partida será marcada pelos símbolos centenários do clube, como o periquito, o furacão e as cores verde e branco, que representam a história e os personagens do time. A torcida local pode acompanhar o duelo e apoiar o Verdão em busca do título.",
+          "porQueImporta": "A final da Série D do Campeonato Brasileiro é um momento decisivo para o Uberlândia Esporte Clube, que busca consolidar sua trajetória no futebol nacional.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/13/periquito-furacao-e-verde-e-branco-conheca-os-simbolos-do-uberlandia-esporte-clube-que-decide-a-serie-d-neste-domingo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-13T09:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OhufBDR6ap8ILyYWhLX52CgKPis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/D/Goc05mTfetJkWTwERnUg/camisa-84-4-1-.jpg"
+        },
+        {
+          "clusterId": "564645fc46cf1b78",
+          "slug": "305433137a7ee94a",
+          "titulo": "Mais de 140 desaparecem após balsa com 243 pessoas afundar no Mar de Java, na Indonésia",
+          "resumo": "Naufrágio deixa 140 desaparecidos na Indonésia Equipes de resgate da Indonésia procuravam neste domingo (13) cerca de 140 pessoas desaparecidas após uma balsa de passageiros afundar no Mar de Java durante uma tempestade. Segundo as autoridades, 102 pessoas foram resgatadas com vida e uma morte foi confirmada. A embarcação, identificada como Virgo Transport 8, transportava 243 pessoas, entre elas 213 passageiros e 30 tripulantes. O navio fazia a rota entre Surabaya, a segunda maior cidade da Indonésia, na província de Java Oriental, e Banjarmasin, em Kalimantan do Sul, na ilha de Bornéu. A…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/13/desaparecidos-apos-balsa-com-243-pessoas-afundar-no-mar-de-java-na-indonesia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-13T08:19:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/onUspGXJqHcx47uIxtWudBtwRvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/S/1NzkS9SSWxuhj46HLIAA/ap26256222438314.jpg"
+        },
+        {
+          "clusterId": "41c2ca228a886671",
+          "slug": "884ee45cc29860f0",
+          "titulo": "Veja impactos sofridos em SP após cidade registrar maior chuva do Brasil",
+          "resumo": "Desabamentos, enxurradas e desaparecimentos foram registradas entre sexta-feira (11) e sábado (12)",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/veja-impactos-sofridos-em-sp-apos-cidade-registrar-maior-chuva-do-brasil/"
+            }
+          ],
+          "updatedAt": "2026-09-13T07:01:13.000Z"
+        },
+        {
+          "clusterId": "99a9e6c4d3876334",
+          "slug": "fb4553ac7cc46edc",
+          "titulo": "Raio-X dos tornados no Brasil: com mais de 500 registros, fenômeno é mais frequente e mais intenso no Sul",
+          "resumo": "Mapa mostra distribuição de tornados pelo país Infográfico/g1 O Brasil esteve sob alerta de tornado nesta semana. No Paraná, foram dois episódios da categoria mais intensa em menos de 24 horas, que deixaram um rastro de estragos em cidades do estado. Dados a que o g1 teve acesso com exclusividade mostram que nos últimos nove anos o país teve 524 registros de tornados e a maior parte deles no Sul do país. O Brasil não tem um banco de dados oficial dedicado a rastrear essas ocorrências. Os números usados nesta reportagem são do Prevots, projeto mantido por pesquisadores da Universidade Federal…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/09/13/raio-x-dos-tornados-no-brasil-com-mais-de-500-registros-fenomeno-e-mais-frequente-e-mais-intenso-no-sul.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-13T07:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Wu4-2TGJhHzn4xPctMZ5RPVh3dI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/p/Cd59M5SzSOg7lAUFabLA/966fe737-2982-44ca-97a5-88198c3f435b.png"
+        },
+        {
+          "clusterId": "5e931ca8bbc2622b",
+          "slug": "d85004ad66b2f625",
+          "titulo": "VÍDEO: um Porsche é mesmo difícil de 'domar'? g1 testou esportivo de 711 cv e R$ 2,1 milhões",
+          "resumo": "Um Porsche é mesmo difícil de 'domar'? g1 testou esportivo de 711 cv e R$ 2,1 milhões Nos últimos anos, algumas manchetes de acidentes com carros da Porsche deram a impressão de que os carros da marca seriam difíceis de controlar. Desde 2024, foram 16 casos com manchetes em grandes portais de notícias, sendo que metade deles só em 2016. Um caso mais recente aconteceu no começo de setembro em São Paulo, quando um jovem de 21 anos, sem habilitação, avançou um sinal vermelho e feriu dois policiais. Ele dirigia um Porsche. ✅ Clique aqui para seguir o canal do g1 Carros no WhatsApp A cada notícia,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/carros/noticia/2026/09/13/um-porsche-e-mesmo-dificil-de-domar-g1-testou-esportivo-de-711-cv-e-r-21-milhoes.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-13T07:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vsGygu5YbydJ7XOV2Teo6nRr0MU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/P/XUbsiuQpmKJFVPj0lm5w/dsc08423.jpg"
         },
         {
           "clusterId": "ccb03861affe2190",
@@ -313,23 +401,54 @@
           ],
           "updatedAt": "2026-09-11T14:03:31.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a25/live/5e2f4360-adce-11f1-a540-61c3f7fc4e6c.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "desabamento",
+      "label": "Desabamento",
+      "stories": [
         {
-          "clusterId": "c15e81bc4e6eaede",
-          "slug": "77267cc4f3f02ca5",
-          "titulo": "Prefeito muçulmano de Nova York enfrenta oposição em cerimônia de 11 de setembro",
-          "resumo": "O prefeito Zohran Mamdani, de origem muçulmana, compareceu à cerimônia em memória das vítimas dos ataques de 11 de setembro de 2001. Seus detratores, incluindo republicanos e parentes das vítimas, tentaram impedir sua presença. A tentativa de exclusão reflete a crescente polarização política do país.",
-          "porQueImporta": "Ilustra como questões religiosas e políticas podem influenciar eventos de memória coletiva.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "7d4edc92772fc9eb",
+          "slug": "20fed4361c42de06",
+          "titulo": "Desabamento de prédio na Zona Leste de SP deixa cinco mortos",
+          "resumo": "Um prédio em construção na Penha, Zona Leste de São Paulo, desabou sobre uma casa, resultando em cinco mortes e três desaparecidos. A obra já havia sido interditada e alvo de multas por irregularidades. O Corpo de Bombeiros identificou os corpos de um homem e de duas mulheres, enquanto uma criança permanece desaparecida. As buscas continuam em andamento.",
+          "porQueImporta": "O incidente evidencia os riscos associados a construções irregulares em áreas urbanas.",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/09/11/por-que-a-presenca-de-mamdani-e-contestada-por-republicanos-e-parentes-das-vitimas-do-119.ghtml"
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/13/sobe-para-3-numero-de-mortos-apos-predio-em-construcao-desabar-sobre-casa-na-zona-leste-de-sp-3-seguem-desaparecidos.ghtml"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/desabamento-de-predio-na-zona-leste-de-sp-deixa-cinco-mortos-obra-estava-irregular/"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sobe-para-3-numero-de-mortos-apos-desabamento-de-predio-na-zona-leste-de-sp/"
             }
           ],
-          "updatedAt": "2026-09-11T11:50:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OIVUViQZ4CQ7HQRYfPUaRdJ_YKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/6/kett4hRaCwBi4Mz49RJw/2026-09-11t115206z-1382281723-rc2zgnajuygk-rtrmadp-3-usa-sept11-new-york.jpg"
+          "updatedAt": "2026-09-13T12:50:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bbPpPUeMaZzk3uBjKUhPF6yj81w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/W/wlIeI6RKycmSEfhcl1AQ/bdsp-desmoronamento-penha-20260913-0450-frame-428181.jpeg"
+        },
+        {
+          "clusterId": "08522fbb85635069",
+          "slug": "ecb7d629247ef428",
+          "titulo": "Desabamento de prédio na Penha deixa 3 mortos e 3 desaparecidos",
+          "resumo": "Um prédio em obra desabou na Penha, resultando em três mortes e três pessoas soterradas que ainda não foram encontradas. Os bombeiros continuam as buscas após 30 horas de operação. A ocorrência ocorreu no sábado, 12 de setembro.",
+          "porQueImporta": "O incidente destaca riscos de construções em fase de obra e a necessidade de fiscalização adequada.",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/busca-3-vitimas-desabamento-predio"
+            }
+          ],
+          "updatedAt": "2026-09-13T11:51:04.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/09/predio-desaba-penha-zl-sp-2.jpg"
         }
       ]
     },
@@ -338,116 +457,77 @@
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "7edf5d0146f87b16",
-          "slug": "54f8b90cdc7a031b",
-          "titulo": "Temporal em São Paulo causa alagamentos e deixa desaparecidos",
-          "resumo": "Um temporal no sábado provocou alagamentos em vários pontos da capital e da Grande São Paulo, gerando transtornos no trânsito e ocorrências graves. Dois homens foram arrastados pela correnteza de um rio em Jandira e estão desaparecidos. A previsão indica chuva contínua no domingo, com temperaturas entre 14ºC e 16ºC.",
-          "porQueImporta": "O evento compromete a mobilidade urbana e gera risco de vida para os moradores.",
+          "clusterId": "eed6960f0baf4b01",
+          "slug": "b4cc124b857cee1e",
+          "titulo": "Rio Ribeira de Iguape continua subindo e transborda em pontos",
+          "resumo": "O nível das águas do Rio Ribeira de Iguape, que corta os municípios do Vale do Ribeira, continua em tendência de elevação, segundo a Defesa Civil Estadual. A cheia fez com que cerca de 60 pessoas fossem deslocadas para abrigos municipais e outras 60 famílias precisassem deixar suas residências. As áreas suscetíveis a inundações estão em condição de alerta e o órgão mantém monitoramento das condições hidrológicas.",
+          "porQueImporta": "O aumento do nível da água pode causar mais inundações e deslocamentos de moradores na região.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/13/sao-paulo-tera-domingo-chuvoso-e-frio-apos-temporal-causar-alagamentos-e-deixar-desaparecidos.ghtml"
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/13/rio-ribeira-segue-subindo-transborda-em-alguns-pontos-e-defesa-civil-faz-alerta.ghtml"
             }
           ],
-          "updatedAt": "2026-09-13T03:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5GCzBOaLx2sl2HbfV8A7wopsCz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/z/6zFwUBTBAOF4agFbVGQQ/rua20250203006.jpg"
+          "updatedAt": "2026-09-13T13:02:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kWfYSbBiKSlLIGCDPyb39fJlDgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/9/rAZwBZSBeT6ACU5W31dA/foto-tradicional.png"
         },
         {
-          "clusterId": "0a3c0fbbe529202b",
-          "slug": "4eb0818509eb821d",
-          "titulo": "Chuvas intensas causam estragos em diversas regiões do estado de São Paulo",
-          "resumo": "O estado de São Paulo registrou chuvas fortes nas últimas 24 horas, provocando alagamentos que interditaram dez pontos da cidade, incluindo trecho da Marginal Tietê e o Jardim Pantanal. Um raio incendiou uma subestação de energia da concessionária de trens da capital. Duas pessoas desapareceram durante o temporal.",
-          "porQueImporta": "O evento compromete a infraestrutura urbana e a segurança da população.",
+          "clusterId": "cbe723dab7ef271b",
+          "slug": "62a829c7b8c71e4b",
+          "titulo": "Serra Antiga da Tamoios segue interditada neste domingo por alto volume de chuvas",
+          "resumo": "A Serra Antiga da Rodovia dos Tamoios permanece interditada na manhã de domingo (13) devido ao alto volume de chuvas e ao risco de queda de barreira. A concessionária responsável pela rodovia, em conjunto com a Polícia Militar Rodoviária e a Defesa Civil, realizará uma reavaliação das condições da estrada durante a manhã. Foi iniciada a operação comboio no sentido São José dos Campos, na Serra Nova, mantendo o trânsito no sistema pare e siga, alternando os sentidos. A previsão é de que o tráfego seja mudado para o sentido litoral às 10h.",
+          "porQueImporta": "O fechamento da estrada pode afetar o deslocamento de veículos e a logística na região.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/12/chuvas-intensas-causam-estragos-em-diversas-regioes-do-estado-de-sao-paulo.ghtml"
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/13/serra-antiga-da-tamoios-segue-interditada-neste-domingo-por-alto-volume-de-chuvas.ghtml"
             }
           ],
-          "updatedAt": "2026-09-13T00:37:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7QGbngAbTKPZ3crM2Bg-mPqgmS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/S/Bde9RJQ8mws1vJ5ZP9SA/jn-1209-chuvassp.jpg"
-        },
-        {
-          "clusterId": "46e56950fb6a373a",
-          "slug": "26155d9914379a83",
-          "titulo": "São Paulo registra maior chuva em 24 horas do Brasil e setembro entra em lista dos meses mais chuvosos",
-          "resumo": "Entre sexta-feira (11) e sábado (12), a estação do Inmet no Mirante de Santana registrou 75,4 mm de chuva, o maior volume acumulado em 24 horas já registrado no país. O volume de precipitação fez setembro de 2026 entrar no ranking dos meses mais chuvosos da capital desde 1943. A Defesa Civil relatou alagamentos e desaparecidos na região.",
-          "porQueImporta": "O volume extremo de chuva pode causar alagamentos, interrupções de serviços e riscos à população.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/12/sao-paulo-tem-maior-chuva-do-brasil-em-24-horas-e-setembro-ja-e-o-4o-mais-chuvoso-desde-1943.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-12T23:54:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JfTI-XkTV88wQpVGZAMcuvvyDYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/4/lIvFLbRXyaMVpFbzCoVw/fta20260306232.jpg"
-        },
-        {
-          "clusterId": "4521a8ded60d5312",
-          "slug": "7c8162485b1ce394",
-          "titulo": "Alagamentos e água parada dificultam rotina de moradores no Balneário",
-          "resumo": "Moradores da Rua Visconde de Albuquerque, em São Pedro da Aldeia, relatam lama e transtornos devido a alagamentos frequentes. A água invade parte da via, dificultando a circulação, especialmente em dias de chuva. A rua aparece cadastrada como asfaltada pela prefeitura, mas a realidade local difere. Os moradores destacam a necessidade de intervenção para resolver o problema.",
-          "porQueImporta": "O alagamento afeta a mobilidade e a qualidade de vida dos residentes locais.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/12/alagamento-e-agua-parada-dificultam-a-rotina-de-moradores-no-bairro-balneario-em-sao-pedro-da-aldeia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-12T23:16:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YmgSmx8vKLL5v9nM9dn0qUSAZ9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/j/p6atAhTrCYyfxBPzWeDw/rua-alagada-sao-pedro.jpg"
+          "updatedAt": "2026-09-13T11:39:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/I2W4Z9j9NgEAabW0zCz6HNdUY4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/L/anTDxHQey0pgOfdBDABQ/foto-g1-29-.png"
         }
       ]
     },
     {
-      "slug": "acidente",
-      "label": "Acidente",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "82557657476b7072",
-          "slug": "43c92e775901b6ba",
-          "titulo": "Desabamento de prédio na Zona Leste de São Paulo deixa duas mulheres mortas",
-          "resumo": "Um prédio na Rua Tequici, na Penha, desabou durante a madrugada, atingindo uma casa vizinha e resultando em duas mortes, uma delas de uma mulher grávida. A Prefeitura abriu apuração na Controladoria Geral do Município para investigar a fiscalização da obra. A construção já havia sido alvo de ação judicial em 2021, quando a Prefeitura solicitou sua demolição após decisões de fiscalização, ordem de interdição e multas.",
-          "porQueImporta": "O incidente evidencia falhas na fiscalização de construções irregulares, colocando em risco a segurança da população.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
+          "clusterId": "b5e093e12797cff9",
+          "slug": "4df1db5faea3a94d",
+          "titulo": "Alerta de tempestade, morte de criança e atropelamento em Pintópolis",
+          "resumo": "O Instituto Nacional de Meteorologia emitiu alerta de tempestade para 129 cidades de Minas Gerais. Em São Francisco, uma criança morreu ao ser atingida por um muro. Em Pintópolis, uma mulher foi atropelada por um carro conduzido pela esposa do prefeito.",
+          "porQueImporta": "A ocorrência reúne riscos climáticos e acidentes de trânsito que afetam a população.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/13/alerta-de-tempestade-morte-de-crianca-atingida-por-muro-e-mulher-atropelada-por-esposa-de-prefeito-veja-as-noticias-mais-lidas-da-semana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-13T12:57:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/LkM4gBBog3-U_UKMZN_rKCB6eNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/2/ZQPOLGTgOFsfmuDdvACw/whatsapp-image-2026-08-20-at-09.33.56-1-.jpeg"
+        },
+        {
+          "clusterId": "22ff8906e8fed524",
+          "slug": "8bfc0e5fa6440a68",
+          "titulo": "São Paulo permanece em alerta de perigo por tempestades",
+          "resumo": "Na Grande São Paulo, a previsão indica chuva generalizada com intensidade moderada a forte durante o domingo (13). A cidade de São Paulo registrou o maior volume de chuva em 24 horas de todo o Brasil. Autoridades mantêm o alerta de perigo para tempestades na região.",
+          "porQueImporta": "A intensidade da chuva pode causar inundações e transtornos urbanos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/predio-que-desabou-na-zona-leste-de-sp-ja-havia-sido-alvo-de-acao-judicial/"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/13/prefeitura-abre-apuracao-sobre-fiscalizacao-de-obra-que-desabou-e-deixou-vitimas-na-zona-leste-de-sp.ghtml"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-segue-em-alerta-de-perigo-para-tempestades-veja-previsao/"
             }
           ],
-          "updatedAt": "2026-09-13T05:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pzakoh5k6YbCAaBi5DinhyidNRQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/C/EJl2AYQkW4z9AnN1HokQ/acervo-bdsab-limpo-20260912-0630-frame-132943.jpeg"
-        },
-        {
-          "clusterId": "d9c87fbae8a567fb",
-          "slug": "e79092ad8baf1a1b",
-          "titulo": "Desabamento de prédio em São Paulo deixa duas mulheres mortas e quatro desaparecidos",
-          "resumo": "Um prédio em construção em São Paulo desabou pouco antes das 2h da manhã, resultando em duas mortes e quatro desaparecidos. A obra, de 11 andares, tinha problemas estruturais e já havia sido ordenada a demolição pela prefeitura. A queda atingiu uma casa onde moravam três famílias bolivianas, de onde um homem e uma criança de cinco anos foram resgatados com vida.",
-          "porQueImporta": "O incidente destaca falhas na fiscalização de obras e a necessidade de cumprimento de normas de segurança.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/12/desabamento-de-predio-em-sao-paulo-deixa-duas-mulheres-mortas-e-quatro-pessoas-desaparecidas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-13T00:31:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MXgcPnXWiuCTWLcukuHrNxZNC3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/i/ulXjl3TeAFOCxMP54zUQ/jn-1209-predioemsp.jpg"
+          "updatedAt": "2026-09-13T11:04:55.000Z"
         }
       ]
     },
@@ -491,47 +571,48 @@
       ]
     },
     {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "c957bf3c2aaf5ace",
+          "slug": "f30ba078664d4285",
+          "titulo": "Avião com cantor Rey Vaqueiro pega fogo após sair da pista em pouso no interior do RN",
+          "resumo": "Um jato executivo com o cantor Rey Vaqueiro e cinco passageiros, além do piloto e copiloto, saiu da pista durante o pouso na madrugada de domingo em Parelhas, RN, e pegou fogo. O Corpo de Bombeiros combateu as chamas e a aeronave ficou destruída. Nenhum ferido foi registrado.",
+          "porQueImporta": "O incidente destaca riscos de segurança em operações de aviação executiva em aeroportos regionais.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/13/aviao-cantor-rey-vaqueiro-acidente-rn.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-13T12:36:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/614TUj4JSN_w2MpBG5dQNx400gs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/l/wTGv8YQaCGoGtK9wc2nw/whatsapp-image-2026-09-13-at-09.47.14-1-.jpeg"
+        }
+      ]
+    },
+    {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "113f28b5ea64d2a2",
-          "slug": "9214749943a007d3",
-          "titulo": "Motociclista morre ao bater em caminhão em chamas na BR-153",
-          "resumo": "Um motociclista de 40 anos morreu carbonizado depois de colidir com um caminhão incendiado na BR-153, entre Paraíso e Barrolândia, Tocantins. O acidente ocorreu enquanto equipes do Corpo de Bombeiros tentavam conter o fogo no veículo. A vítima foi identificada como Divino Ronildo Santos Mendes.",
-          "porQueImporta": "O incidente destaca os riscos de acidentes envolvendo veículos em chamas durante operações de combate a incêndios.",
+          "clusterId": "26bc7066415843bf",
+          "slug": "6e7fda49ca953cc9",
+          "titulo": "Dois homens morrem em batida frontal entre motocicletas na PA-370",
+          "resumo": "Dois motociclistas morreram em uma colisão frontal na manhã de domingo, 13, na PA-370, rodovia Curuá-Una, próximo ao bairro Jaderlândia, em Santarém, Pará. O acidente mobilizou equipes do SAMU, Polícia Militar e Secretaria Municipal de Mobilidade e Trânsito. O trânsito ficou parcialmente interrompido no trecho afetado.",
+          "porQueImporta": "O incidente destaca a gravidade dos acidentes de trânsito envolvendo motocicletas na região.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/12/motociclista-bate-contra-caminhao-em-chamas-durante-combate-a-incendio-e-morre-carbonizado-na-br-153.ghtml"
+              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/13/dois-homens-morrem-apos-colisao-frontal-entre-motocicletas-na-pa-370-em-santarem.ghtml"
             }
           ],
-          "updatedAt": "2026-09-12T23:40:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kWqjICBOqT36rPtZF9LO-182XWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/0/GEsF0VQIaB0GBQBNyeEA/frame-2.jpg.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "d2cdbcd95b01cec7",
-          "slug": "ba3a106b3f268d78",
-          "titulo": "Incêndio em casa de repouso no Chile deixa 16 mortos",
-          "resumo": "Um incêndio atingiu uma casa de repouso no Chile, resultando em 16 óbitos. O presidente José Antonio Kast enviou condolências às vítimas e ordenou que o governo avalie a situação das instituições de longa permanência para idosos no país.",
-          "porQueImporta": "O evento destaca a necessidade de revisão das normas de segurança em estabelecimentos de cuidados a idosos.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/incendio-em-casa-de-repouso-no-chile-deixa-mortos/"
-            }
-          ],
-          "updatedAt": "2026-09-12T21:59:40.000Z"
+          "updatedAt": "2026-09-13T12:14:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mhrQ8BBllPQ3xjNegHUWQqjdkAo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/s/vK3Gu9T0GPxHUid6fBIQ/whatsapp-image-2026-09-13-at-09.10.48.jpeg"
         }
       ]
     },
@@ -555,29 +636,6 @@
           ],
           "updatedAt": "2026-09-12T15:04:58.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/KnglP9OvvDZF9SjVqSyXo48opks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/C/bBlLpHQLWzSHcBTpHALA/afp-20260911-c83b9ut-v1-midres-francetransportrailwayaccident.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
-      "stories": [
-        {
-          "clusterId": "1c8fb97c2965acb6",
-          "slug": "9e3c5a11b9cca3ce",
-          "titulo": "Nepl anuncia custo bilionário de reconstrução após avalanche na fronteira com Tibete",
-          "resumo": "O Nepal estimou que a reconstrução após a avalanche de lama na fronteira com o Tibete custará US$ 4,78 bilhões, equivalente a cerca de R$ 24 bilhões. O valor inclui US$ 57,7 milhões (R$ 295 milhões) para ações imediatas. O anúncio foi feito pelo porta-voz do Ministério das Relações Exteriores, Lok Bahadur Chhetri, 15 dias após o desastre.",
-          "porQueImporta": "O montante reflete a necessidade de apoio internacional para reparar danos em um país montanhoso em rápida transformação.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/11/nepal-preve-custo-de-r-24-bilhoes-para-reconstrucao-do-pais-apos-avalanche.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-11T10:19:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/j_TGYCI6z-gDaKIY7TR3I3n36W4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/0pAwSJQ6C2BN6xEKkijQ/2026-09-04t035428z-1329684602-rc22cnaix90g-rtrmadp-3-nepal-floods.jpg"
         }
       ]
     }
