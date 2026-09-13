@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-09-12T15:45:53.251Z",
-  "editionDate": "2026-09-12",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Acidentes e desastres urbanos e marítimos concentram-se em condições climáticas adversas\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-09-13T05:16:41.111Z",
+  "editionDate": "2026-09-13",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
