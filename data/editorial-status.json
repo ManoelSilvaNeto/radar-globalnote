@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-09-15T05:12:00.640Z",
+  "ranAt": "2026-09-15T13:48:59.112Z",
   "editionDate": "2026-09-15",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito dominam panorama, com alerta climático no leste de Minas\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
