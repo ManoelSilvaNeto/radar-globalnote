@@ -1,388 +1,233 @@
 {
   "date": "2026-09-15",
-  "generatedAt": "2026-09-15T13:48:59.112Z",
+  "generatedAt": "2026-09-15T19:47:10.900Z",
   "home": [
     {
-      "clusterId": "e1b03c980ed448af",
-      "slug": "62d2505798f8df50",
-      "titulo": "INMET emite alerta de tempestade para 88 cidades do Leste de Minas",
-      "resumo": "O Instituto Nacional de Meteorologia emitiu um alerta amarelo de tempestade para 88 cidades do Leste de Minas Gerais, com previsão de chuva entre 20 e 30 mm por hora e ventos de 40 a 60 km/h. O aviso, classificado como perigo potencial, inclui possibilidade de queda de granizo. O alerta começou a valer às 00h da terça-feira e vai até as 23h59 do mesmo dia. O INMET recomenda precauções às autoridades e população.",
-      "porQueImporta": "O alerta indica risco de condições climáticas severas que podem afetar a segurança e a infraestrutura das cidades afetadas.",
+      "clusterId": "d2a785ec2d89cf05",
+      "slug": "d6074aa586f25888",
+      "titulo": "Homem é resgatado após colheitadeira de milho capotar três vezes em Cedro de São João",
+      "resumo": "Um homem de 48 anos foi resgatado depois que a colheitadeira de milho que operava capotou três vezes em Cedro de São João, Sergipe. O acidente ocorreu na BR‑101, próximo ao trevo de acesso ao povoado Pissarreira, durante a colheita em terreno inclinado. O veículo perdeu a estabilidade e capotou repetidamente, deixando o operador sozinho no interior do caminhão.",
+      "porQueImporta": "O incidente destaca os riscos de operação de máquinas agrícolas em terrenos inclinados e a importância de medidas de segurança no campo.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/09/15/homem-e-resgatado-apos-colheitadeira-de-milho-capotar-em-cedro-de-sao-joao.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-15T19:26:29.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/81kZE8URTGqMAgV-DdZi73keunc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/GndLA4SBAATV3Aa1d5nQ/crop-foto-29-.png"
+    },
+    {
+      "clusterId": "de27422432c1f42b",
+      "slug": "535c918573a0c8e4",
+      "titulo": "Trabalhador morre durante manutenção de colheitadeira em fazenda no Sul do PI",
+      "resumo": "Um trabalhador, identificado como Carlos Miguel, faleceu na tarde de terça-feira (15) enquanto realizava manutenção de peças de uma colheitadeira em uma fazenda de soja em Baixa Grande do Ribeiro, Piauí. Testemunhas afirmam que uma peça da máquina teria se desprendido e atingido o trabalhador. A perícia ainda não confirmou a causa do acidente.",
+      "porQueImporta": "O incidente destaca os riscos de segurança no trabalho agrícola, especialmente em operações de manutenção de maquinário pesado.",
+      "categoria": "Acidente de trabalho",
+      "categoriaSlug": "acidente-de-trabalho",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/15/trabalhador-morre-fazenda.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-15T19:24:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/C9iGUB_cAkdJ1c3LyrO1CE8odCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/O/9ZaVFfTGy40k9y4zPoig/edicao-imagens-g1-2026-09-15t161544.319.png"
+    },
+    {
+      "clusterId": "6966caf70b80af9c",
+      "slug": "0e9001ca0862f75d",
+      "titulo": "Belo Horizonte em alerta para possibilidade de granizo",
+      "resumo": "A Defesa Civil de Belo Horizonte emitiu alerta para a possibilidade de granizo nas próximas duas horas. O aviso segue dias de chuva forte que causaram alagamentos, principalmente na Região do Barreiro. A população foi orientada a se proteger e acompanhar atualizações pelos canais oficiais.",
+      "porQueImporta": "O risco de granizo pode causar danos a veículos, propriedades e representar perigo à população.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/15/bh-fica-sob-alerta-para-possibilidade-de-granizo-nas-proximas-horas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-15T19:21:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GYQNcj3uDanBof-fvyplTPAAA7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/c/nGZkwDR4AJxqIqIJ6BTQ/34-12-mg1-acervo-14-sep-2026160.mxf.png"
+    },
+    {
+      "clusterId": "5437e3b3d5b25dcd",
+      "slug": "01d8f4e47d0c4dbf",
+      "titulo": "Temporal com ventania afasta apoiadores de Flavio Bolsonaro em frente ao STF",
+      "resumo": "Um temporal com ventania forte atingiu a Praça dos Três Poderes, afastando os apoiadores de Flavio Bolsonaro que protestavam contra o presidente da Câmara. A chuva intensa fez com que uma tenda de apoio a jornalistas desabasse, gerando preocupação entre os presentes. O evento ocorreu em frente ao Supremo Tribunal Federal, onde o protesto estava concentrado.",
+      "porQueImporta": "O episódio demonstra como condições meteorológicas podem interferir em manifestações públicas e comprometer a segurança de participantes e jornalistas.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/mg-temporal-granizo-e-ventos-de-ate-60-km-h-deixam-661-cidades-sob-alerta"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/15/inmet-emite-alerta-de-tempestade-para-88-cidades-do-leste-de-minas.ghtml"
+          "url": "https://www.metropoles.com/distrito-federal/chuva-e-vento-forte-espantam-publico-que-protestava-contra-moraes-no-df"
         }
       ],
-      "updatedAt": "2026-09-15T13:41:26.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/WhatsApp-Image-2022-11-16-at-18.jpg"
+      "updatedAt": "2026-09-15T19:17:04.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/patriota-protesta-na-chuva.jpeg"
     },
     {
-      "clusterId": "6af3251815e85deb",
-      "slug": "d9ca844b4eb7ece6",
-      "titulo": "Homem recebe alta após acidente que matou esposa e filha",
-      "resumo": "Jonathan Nazaré Ferreira, 32 anos, recebeu alta do Hospital de Emergência de Macapá após dez dias de internação. O acidente ocorreu em 4 de setembro, no cruzamento da Rua Hildemar Maia, quando seu veículo foi atingido por outro conduzido por um adolescente de 16 anos. A esposa, Elen Alves Cardoso, 33 anos, e a filha de 1 ano morreram; o filho de 7 anos ficou ferido e já havia sido liberado.",
-      "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito envolvendo menores de idade como condutores.",
+      "clusterId": "8d31aa1dd08f320a",
+      "slug": "b34d373e942ec438",
+      "titulo": "Motociclista sai da UTI após acidente na BR-364",
+      "resumo": "Moises Sena Souza, de 25 anos, saiu da Unidade de Terapia Intensiva depois de oito dias de internação. Ele sofreu fraturas no rosto e na bacia e outros ferimentos corporais em colisão entre duas motocicletas no km 4 da BR-364, próximo à Ufac, em Rio Branco. O motociclista permanece na enfermaria do Pronto-Socorro aguardando avaliação médica para decidir se pode voltar para casa.",
+      "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito envolvendo motociclistas em rodovias do Acre.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/15/pai-que-perdeu-esposa-e-filha-em-acidente-no-ap-e-recebido-em-casa-com-desenho-do-filho-sobrevivente.ghtml"
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/09/15/motociclista-envolvido-em-acidente-na-br-364-fraturou-rosto-e-bacia-vitima-segue-internada.ghtml"
         }
       ],
-      "updatedAt": "2026-09-15T13:31:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bx4X57ZqNvZMQNNYuHM0PmbmvLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/t/iwaCfDRYuJXEj011VqPA/aleixo-g1-2026-09-15t100638.761.jpg"
+      "updatedAt": "2026-09-15T19:12:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_EccRnlGpuTAgL-IKi265dKp5ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/f/VcsPOMRmC1uOquRY2cWw/befunky-collage-2026-09-15t140624.880.jpg"
     },
     {
-      "clusterId": "13f73cb0219cdbf5",
-      "slug": "94df535f89712f7a",
-      "titulo": "Servidor morre após colisão entre caminhonete e caminhão de gado na BR-230",
-      "resumo": "Um servidor público de 48 anos, Wanderley Ribeiro da Silva, morreu na noite de segunda-feira (14) quando sua caminhonete colidiu frontalmente com um caminhão carregado de gado na Rodovia Transamazônica, entre Araguatins e Macaúba. O impacto destruiu a caminhonete e prendeu o condutor às ferragens.",
-      "porQueImporta": "O acidente resultou na morte de um servidor público, destacando a gravidade de colisões em rodovias de tráfego intenso.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "c765c71345483e2a",
+      "slug": "faf608ef4c910764",
+      "titulo": "Polícia prende suspeito de incêndio que destruiu ponte em Pinheiro",
+      "resumo": "Na zona rural de Pinheiro, no Maranhão, a polícia prendeu um homem suspeito de liderar o incêndio que destruiu a ponte entre os povoados Fortaleza e Bacabal. A prisão ocorreu na segunda-feira (14) após buscas iniciadas no domingo (13) para apurar as circunstâncias do fogo e os danos à estrutura usada pela população para deslocamento. O incêndio criminoso causou transtornos à comunidade local.",
+      "porQueImporta": "A ponte era essencial para a mobilidade entre as localidades, e sua destruição gerou interrupções no deslocamento da população.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/15/servidor-publico-morre-apos-caminhonete-bater-de-frente-com-caminhao-carregado-com-gado.ghtml"
+          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/15/policia-prende-suspeito-de-liderar-incendio-que-destruiu-ponte-em-pinheiro.ghtml"
         }
       ],
-      "updatedAt": "2026-09-15T13:23:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/TTn6wfOJTYdC6loosAONHGDbC3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/B/HoD9VhSeeioAtIHqAyrA/foto-e-montagem-vertical-81-.png"
+      "updatedAt": "2026-09-15T18:49:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/XK7Qs4VA1ywBE5LIMOMV9P0hVlE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/7/qkRKBtT0CA8Lmx4PQMbw/montagens-1920-x-1080-px-24-.png"
     },
     {
-      "clusterId": "5765cf5c7b5ad6bf",
-      "slug": "7f7780aeb492d295",
-      "titulo": "Criança de 8 anos morre e família fica ferida em capotamento na MGC-496",
-      "resumo": "Uma criança de 8 anos morreu e quatro pessoas ficaram feridas em um acidente de carro na MGC-496, em Várzea da Palma, na noite de segunda-feira (14). As vítimas pertencem à mesma família e viajavam de Belo Horizonte para Pirapora. O motorista perdeu o controle do veículo no km 25, o carro capotou várias vezes e parou nas margens da rodovia. A mãe foi arremessada durante o acidente e sofreu pequenas escoriações.",
-      "porQueImporta": "O acidente resultou na morte de uma criança e ferimentos em membros da família, destacando riscos de segurança viária na região.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "84228eada2ae451b",
+      "slug": "20d6e317aa76ec90",
+      "titulo": "Incêndio destrói restaurante japonês de mais de 50 anos em Porto Alegre",
+      "resumo": "Um incêndio de grandes proporções atingiu o restaurante japonês Sakaes, localizado no bairro Moinhos de Vento, em Porto Alegre, na tarde de terça-feira (15). O estabelecimento, com 53 anos de existência, foi considerado o mais antigo do estado. Equipes do Corpo de Bombeiros foram acionadas e conseguiram controlar as chamas, sem registro de feridos.",
+      "porQueImporta": "O incidente afeta um ponto de referência cultural e gastronômica da cidade, representando a perda de um patrimônio histórico local.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/15/crianca-de-8-anos-morre-e-familia-fica-ferida-em-capotamento-na-mgc-496.ghtml"
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/15/incendio-atinge-restaurante-porto-alegre.ghtml"
         }
       ],
-      "updatedAt": "2026-09-15T13:16:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/e303kDmorEQajbV9zbvrNvPl5A8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/QFPC5bQdyRUyn21A5V0w/carroacidente.jpeg"
+      "updatedAt": "2026-09-15T18:34:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DUq16DxRyo-IVbAdTjF88S34ML4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/S/1OBCAdS326pfUqpBAGoA/g1-2026-09-15t153210.553.jpg"
     },
     {
-      "clusterId": "462dfcbd582a78b2",
-      "slug": "17af5cd28fc1d998",
-      "titulo": "Pedestre morre após ser atingido por barras de ferro que se soltaram de caminhão em Cariacica",
-      "resumo": "Um ambulante de 59 anos morreu na segunda-feira (14) após ser atingido na cabeça por barras de ferro que se soltaram de um caminhão enquanto caminhava pela calçada em Cariacica, no ES. O acidente ocorreu no bairro Tabajara, quando o caminhão estava trafegando em sentido contrário a outro veículo. Testemunhas relataram que os dois caminhões colidiram, provocando a queda das barras. O irmão da vítima, Jurandir Lubase, afirmou que o homem voltava da casa de um fornecedor na manhã de quinta-feira (10).",
-      "porQueImporta": "O incidente destaca os riscos de transporte de cargas perigosas em vias urbanas e a necessidade de fiscalização e medidas de segurança para proteger pedestres.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/15/pedestre-morre-apos-ser-atingido-por-barras-de-ferro-que-se-soltaram-de-caminhao-em-cariacica.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-15T13:04:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/7qOOIRhZbVeEtKhYbpxO09r7JcU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/p/vARH8vTdGQYwKkIXG4cw/thumb-videos-g1-2-.jpg"
-    },
-    {
-      "clusterId": "a8f438d4551f5147",
-      "slug": "eca791c5daefe44c",
-      "titulo": "Granizo atinge Perdigão, Minas Gerais",
-      "resumo": "Uma pancada de chuva com granizo atingiu Perdigão, no Centro-Oeste de Minas Gerais, na noite de segunda-feira, 14. Moradores relataram a queda de pedras de gelo. O Corpo de Bombeiros informou que a chuva continuou na madrugada de terça-feira, 15, sem registrar ocorrências. Vídeos nas redes sociais mostram a reação da população.",
-      "porQueImporta": "O evento demonstra a ocorrência de granizo intenso, que pode causar danos e alertar sobre condições climáticas adversas.",
+      "clusterId": "ab0bf444ec88c5cb",
+      "slug": "8873734d43943c9b",
+      "titulo": "INMET emite alerta amarelo de tempestade para 33 cidades de Minas Gerais",
+      "resumo": "O Instituto Nacional de Meteorologia emitiu, na madrugada de terça-feira, um alerta amarelo de \"tempestade\" para 33 cidades das regiões Norte, Centro e Noroeste de Minas Gerais. O aviso indica risco de chuva entre 20 e 30 mm por hora, ou 50 mm por dia, com ventos de 40 a 60 km/h e possibilidade de granizo. O alerta entrou em vigor às 00h e permanece válido até a próxima manhã.",
+      "porQueImporta": "O alerta informa condições climáticas perigosas que podem afetar a mobilidade e a segurança das populações locais.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/15/video-pancada-de-chuva-de-granizo-chama-atencao-de-moradores-em-mg-choveu-pedras.ghtml"
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/15/inmet-emite-alerta-de-tempestade-para-33-cidades-do-norte-centro-e-noroeste-de-mg.ghtml"
         }
       ],
-      "updatedAt": "2026-09-15T13:03:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/STreuTuE_y34KM5_RmF9KmjUul0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/y/XrogOnQZmdgtoY2nbICQ/whatsapp-image-2026-09-15-at-07.44.55.jpeg"
+      "updatedAt": "2026-09-15T18:25:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/OeecydfWdmpEMNHCCzQO0N30KhM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/3/k7qM1TTjqdBdoea3jCcQ/arvores-chuva.jpg"
     },
     {
-      "clusterId": "2d30d0ddb2f86ec7",
-      "slug": "50f4885ddda4ab0f",
-      "titulo": "Motorista de micro-ônibus fica preso após bater em muro de casa em Manaus",
-      "resumo": "O motorista de 52 anos, identificado como Eliseu da Silva, perdeu o controle do micro-ônibus e bateu no muro de uma residência na Rua Goiânia, bairro Redenção, em Manaus. Ele ficou preso às ferragens do veículo e foi socorrido pela equipe de emergência. O condutor foi encaminhado ao Hospital e Pronto-Socorro 28 de Agosto, na Zona Centro-Sul da capital.",
-      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança no trânsito e à manutenção de veículos de transporte privado.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "920598e8168f2b09",
+      "slug": "24340b0d61cd2ffa",
+      "titulo": "Incêndio criminoso em restaurante de Joinville causa morte de terceira vítima",
+      "resumo": "Um homem invadiu um restaurante em Joinville, Santa Catarina, com combustível para procurar a ex-companheira e incendiou o local. Ele trancou as portas, impedindo a saída dos funcionários, e morreu queimado. A terceira vítima, Letícia das Graças Teodoro, de 24 anos, filha da proprietária, faleceu na madrugada de terça-feira.",
+      "porQueImporta": "O incidente destaca a violência e o risco de incêndios criminosos em estabelecimentos comerciais.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/15/motorista-fica-preso-as-ferragens-apos-micro-onibus-bater-em-muro-de-casa-na-zona-centro-oeste-de-manaus-video.ghtml"
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/15/morre-terceira-vitima-incendio-provocado-homem-que-procurava-ex-restaurante-joinville.ghtml"
         }
       ],
-      "updatedAt": "2026-09-15T12:55:07.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/UbeQ6swC9XydNKDuB0xG8IkS9Ao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/K/jFA6XTRGy7M2UDFCHIzg/micro-onibus-colide-com-muro-de-casa-na-zona-centro-oeste-de-manaus-foto-jucelio-paiva-rede-amazonica.jpeg"
+      "updatedAt": "2026-09-15T18:25:51.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/nQ8s1gJ9p1_T_kHoK5KRifQDqiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/a/m8gz6BRyy1TCxAHP9Qpg/fotojet.jpg"
     },
     {
-      "clusterId": "0dfee8f5ba39fed9",
-      "slug": "b4cdbb561939eaf7",
-      "titulo": "Dois filmes mineiros pré-selecionados para Melhor Filme no Oscar 2027",
-      "resumo": "A Academia Brasileira de Cinema anunciou que \"Vicentina Pede Desculpas\", de Gabriel Martins, e \"Nosso Segredo\", de Grace Passô, estão entre os pré-selecionados para representar o Brasil na categoria de Melhor Filme Internacional do Oscar 2027. O primeiro conta a história de uma mãe em Belo Horizonte que tenta lidar com o luto após a morte do filho, motorista de ônibus envolvido em tragédia, e decide pedir desculpas às famílias das vítimas. O segundo retrata uma família negra em Belo Horizonte. Ambos os filmes foram filmados na capital mineira.",
-      "porQueImporta": "A pré-seleção destaca a produção cinematográfica brasileira e pode aumentar a visibilidade internacional de filmes mineiros.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "a6ed3699b8fd33fd",
+      "slug": "7ce39f0e56dd9b81",
+      "titulo": "Prefeitura de Campo Limpo Paulista decreta situação de emergência após fortes chuvas",
+      "resumo": "A Prefeitura de Campo Limpo Paulista (SP) decretou situação de emergência de nível 2 devido a fortes chuvas. O encharcamento do solo, deslizamentos e movimentação de massas geraram crateras e comprometeram serviços essenciais. O decreto foi publicado no Diário Oficial de segunda-feira (14).",
+      "porQueImporta": "A medida visa garantir a segurança e a continuidade dos serviços públicos diante das condições climáticas adversas.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/15/dois-filmes-mineiros-sao-pre-selecionados-para-categoria-de-melhor-filme-no-oscar-2027.ghtml"
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/15/prefeitura-de-campo-limpo-paulista-decreta-situacao-de-emergencia-apos-fortes-chuvas.ghtml"
         }
       ],
-      "updatedAt": "2026-09-15T12:41:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kM79xbDR0OMD8MYrkHUVFLt_nP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/W/wMsZaeRTSNBzMVx0pguA/chuva-distrito-paulo-camilo-1-1-.png"
-    },
-    {
-      "clusterId": "022a91569b0a1293",
-      "slug": "8214d0c50fcdc275",
-      "titulo": "Motorista morre após bater de frente com ônibus universitário na BR-364",
-      "resumo": "Um motorista de 32 anos morreu quando seu carro invadiu a pista contrária e colidiu frontalmente com um ônibus da Prefeitura de Frutal na BR-364, em Planura. O acidente ocorreu por volta das 23h de segunda-feira. O ônibus, que transportava universitários entre Triângulo Mineiro e Barretos, estava sem estudantes no momento da colisão.",
-      "porQueImporta": "O acidente resultou na morte de um condutor e destaca a importância da segurança viária em rodovias de grande circulação.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/15/motorista-morre-apos-bater-de-frente-com-onibus-universitario-da-prefeitura-de-frutal-na-br-364.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-15T12:40:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/aVfVLiMblboX8B5WzQzA-u5LcLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/Q/hBqaVNSsu3k7HjVrrSpg/morango-cravejado-udi.png"
-    },
-    {
-      "clusterId": "98f6fa55d0f6fd95",
-      "slug": "28c9c6effbc26faa",
-      "titulo": "Carro invade casa em Passos e deixa três feridos",
-      "resumo": "Um carro em alta velocidade invadiu uma residência no cruzamento da Rua Paraguaçu com a Avenida dos Expedicionários, em Passos, MG. O motorista perdeu o controle, atingiu o muro e foi levado desacordado para a Santa Casa. Três pessoas ficaram feridas no incidente.",
-      "porQueImporta": "O acidente demonstra risco de colisões em áreas residenciais e destaca a necessidade de fiscalização de velocidade.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/15/ocorrencias-de-transito-sul-de-minas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-15T12:38:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/flUS6osf5symeiIBvSXF3icwSoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/n/vkpL0tQsAVXu1N9QYQSg/carro-residencia.jpeg"
+      "updatedAt": "2026-09-15T18:15:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/irJoWY2hj15o2Rlo2refOwayQow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/B/sTAWlrSjmJ2LbU7EBM5A/campo-limpo.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "6af3251815e85deb",
-          "slug": "d9ca844b4eb7ece6",
-          "titulo": "Homem recebe alta após acidente que matou esposa e filha",
-          "resumo": "Jonathan Nazaré Ferreira, 32 anos, recebeu alta do Hospital de Emergência de Macapá após dez dias de internação. O acidente ocorreu em 4 de setembro, no cruzamento da Rua Hildemar Maia, quando seu veículo foi atingido por outro conduzido por um adolescente de 16 anos. A esposa, Elen Alves Cardoso, 33 anos, e a filha de 1 ano morreram; o filho de 7 anos ficou ferido e já havia sido liberado.",
-          "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito envolvendo menores de idade como condutores.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/15/pai-que-perdeu-esposa-e-filha-em-acidente-no-ap-e-recebido-em-casa-com-desenho-do-filho-sobrevivente.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-15T13:31:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bx4X57ZqNvZMQNNYuHM0PmbmvLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/t/iwaCfDRYuJXEj011VqPA/aleixo-g1-2026-09-15t100638.761.jpg"
-        },
-        {
-          "clusterId": "13f73cb0219cdbf5",
-          "slug": "94df535f89712f7a",
-          "titulo": "Servidor morre após colisão entre caminhonete e caminhão de gado na BR-230",
-          "resumo": "Um servidor público de 48 anos, Wanderley Ribeiro da Silva, morreu na noite de segunda-feira (14) quando sua caminhonete colidiu frontalmente com um caminhão carregado de gado na Rodovia Transamazônica, entre Araguatins e Macaúba. O impacto destruiu a caminhonete e prendeu o condutor às ferragens.",
-          "porQueImporta": "O acidente resultou na morte de um servidor público, destacando a gravidade de colisões em rodovias de tráfego intenso.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/09/15/servidor-publico-morre-apos-caminhonete-bater-de-frente-com-caminhao-carregado-com-gado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-15T13:23:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TTn6wfOJTYdC6loosAONHGDbC3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/B/HoD9VhSeeioAtIHqAyrA/foto-e-montagem-vertical-81-.png"
-        },
-        {
-          "clusterId": "5765cf5c7b5ad6bf",
-          "slug": "7f7780aeb492d295",
-          "titulo": "Criança de 8 anos morre e família fica ferida em capotamento na MGC-496",
-          "resumo": "Uma criança de 8 anos morreu e quatro pessoas ficaram feridas em um acidente de carro na MGC-496, em Várzea da Palma, na noite de segunda-feira (14). As vítimas pertencem à mesma família e viajavam de Belo Horizonte para Pirapora. O motorista perdeu o controle do veículo no km 25, o carro capotou várias vezes e parou nas margens da rodovia. A mãe foi arremessada durante o acidente e sofreu pequenas escoriações.",
-          "porQueImporta": "O acidente resultou na morte de uma criança e ferimentos em membros da família, destacando riscos de segurança viária na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/15/crianca-de-8-anos-morre-e-familia-fica-ferida-em-capotamento-na-mgc-496.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-15T13:16:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/e303kDmorEQajbV9zbvrNvPl5A8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/QFPC5bQdyRUyn21A5V0w/carroacidente.jpeg"
-        },
-        {
-          "clusterId": "462dfcbd582a78b2",
-          "slug": "17af5cd28fc1d998",
-          "titulo": "Pedestre morre após ser atingido por barras de ferro que se soltaram de caminhão em Cariacica",
-          "resumo": "Um ambulante de 59 anos morreu na segunda-feira (14) após ser atingido na cabeça por barras de ferro que se soltaram de um caminhão enquanto caminhava pela calçada em Cariacica, no ES. O acidente ocorreu no bairro Tabajara, quando o caminhão estava trafegando em sentido contrário a outro veículo. Testemunhas relataram que os dois caminhões colidiram, provocando a queda das barras. O irmão da vítima, Jurandir Lubase, afirmou que o homem voltava da casa de um fornecedor na manhã de quinta-feira (10).",
-          "porQueImporta": "O incidente destaca os riscos de transporte de cargas perigosas em vias urbanas e a necessidade de fiscalização e medidas de segurança para proteger pedestres.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/15/pedestre-morre-apos-ser-atingido-por-barras-de-ferro-que-se-soltaram-de-caminhao-em-cariacica.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-15T13:04:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7qOOIRhZbVeEtKhYbpxO09r7JcU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/p/vARH8vTdGQYwKkIXG4cw/thumb-videos-g1-2-.jpg"
-        },
-        {
-          "clusterId": "2d30d0ddb2f86ec7",
-          "slug": "50f4885ddda4ab0f",
-          "titulo": "Motorista de micro-ônibus fica preso após bater em muro de casa em Manaus",
-          "resumo": "O motorista de 52 anos, identificado como Eliseu da Silva, perdeu o controle do micro-ônibus e bateu no muro de uma residência na Rua Goiânia, bairro Redenção, em Manaus. Ele ficou preso às ferragens do veículo e foi socorrido pela equipe de emergência. O condutor foi encaminhado ao Hospital e Pronto-Socorro 28 de Agosto, na Zona Centro-Sul da capital.",
-          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança no trânsito e à manutenção de veículos de transporte privado.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/15/motorista-fica-preso-as-ferragens-apos-micro-onibus-bater-em-muro-de-casa-na-zona-centro-oeste-de-manaus-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-15T12:55:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UbeQ6swC9XydNKDuB0xG8IkS9Ao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/K/jFA6XTRGy7M2UDFCHIzg/micro-onibus-colide-com-muro-de-casa-na-zona-centro-oeste-de-manaus-foto-jucelio-paiva-rede-amazonica.jpeg"
-        },
-        {
-          "clusterId": "022a91569b0a1293",
-          "slug": "8214d0c50fcdc275",
-          "titulo": "Motorista morre após bater de frente com ônibus universitário na BR-364",
-          "resumo": "Um motorista de 32 anos morreu quando seu carro invadiu a pista contrária e colidiu frontalmente com um ônibus da Prefeitura de Frutal na BR-364, em Planura. O acidente ocorreu por volta das 23h de segunda-feira. O ônibus, que transportava universitários entre Triângulo Mineiro e Barretos, estava sem estudantes no momento da colisão.",
-          "porQueImporta": "O acidente resultou na morte de um condutor e destaca a importância da segurança viária em rodovias de grande circulação.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/15/motorista-morre-apos-bater-de-frente-com-onibus-universitario-da-prefeitura-de-frutal-na-br-364.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-15T12:40:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/aVfVLiMblboX8B5WzQzA-u5LcLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/Q/hBqaVNSsu3k7HjVrrSpg/morango-cravejado-udi.png"
-        },
-        {
-          "clusterId": "98f6fa55d0f6fd95",
-          "slug": "28c9c6effbc26faa",
-          "titulo": "Carro invade casa em Passos e deixa três feridos",
-          "resumo": "Um carro em alta velocidade invadiu uma residência no cruzamento da Rua Paraguaçu com a Avenida dos Expedicionários, em Passos, MG. O motorista perdeu o controle, atingiu o muro e foi levado desacordado para a Santa Casa. Três pessoas ficaram feridas no incidente.",
-          "porQueImporta": "O acidente demonstra risco de colisões em áreas residenciais e destaca a necessidade de fiscalização de velocidade.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/15/ocorrencias-de-transito-sul-de-minas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-15T12:38:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/flUS6osf5symeiIBvSXF3icwSoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/n/vkpL0tQsAVXu1N9QYQSg/carro-residencia.jpeg"
-        }
-      ]
-    },
     {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "e1b03c980ed448af",
-          "slug": "62d2505798f8df50",
-          "titulo": "INMET emite alerta de tempestade para 88 cidades do Leste de Minas",
-          "resumo": "O Instituto Nacional de Meteorologia emitiu um alerta amarelo de tempestade para 88 cidades do Leste de Minas Gerais, com previsão de chuva entre 20 e 30 mm por hora e ventos de 40 a 60 km/h. O aviso, classificado como perigo potencial, inclui possibilidade de queda de granizo. O alerta começou a valer às 00h da terça-feira e vai até as 23h59 do mesmo dia. O INMET recomenda precauções às autoridades e população.",
-          "porQueImporta": "O alerta indica risco de condições climáticas severas que podem afetar a segurança e a infraestrutura das cidades afetadas.",
+          "clusterId": "6966caf70b80af9c",
+          "slug": "0e9001ca0862f75d",
+          "titulo": "Belo Horizonte em alerta para possibilidade de granizo",
+          "resumo": "A Defesa Civil de Belo Horizonte emitiu alerta para a possibilidade de granizo nas próximas duas horas. O aviso segue dias de chuva forte que causaram alagamentos, principalmente na Região do Barreiro. A população foi orientada a se proteger e acompanhar atualizações pelos canais oficiais.",
+          "porQueImporta": "O risco de granizo pode causar danos a veículos, propriedades e representar perigo à população.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/15/bh-fica-sob-alerta-para-possibilidade-de-granizo-nas-proximas-horas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-15T19:21:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GYQNcj3uDanBof-fvyplTPAAA7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/c/nGZkwDR4AJxqIqIJ6BTQ/34-12-mg1-acervo-14-sep-2026160.mxf.png"
+        },
+        {
+          "clusterId": "5437e3b3d5b25dcd",
+          "slug": "01d8f4e47d0c4dbf",
+          "titulo": "Temporal com ventania afasta apoiadores de Flavio Bolsonaro em frente ao STF",
+          "resumo": "Um temporal com ventania forte atingiu a Praça dos Três Poderes, afastando os apoiadores de Flavio Bolsonaro que protestavam contra o presidente da Câmara. A chuva intensa fez com que uma tenda de apoio a jornalistas desabasse, gerando preocupação entre os presentes. O evento ocorreu em frente ao Supremo Tribunal Federal, onde o protesto estava concentrado.",
+          "porQueImporta": "O episódio demonstra como condições meteorológicas podem interferir em manifestações públicas e comprometer a segurança de participantes e jornalistas.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/mg-temporal-granizo-e-ventos-de-ate-60-km-h-deixam-661-cidades-sob-alerta"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/15/inmet-emite-alerta-de-tempestade-para-88-cidades-do-leste-de-minas.ghtml"
+              "url": "https://www.metropoles.com/distrito-federal/chuva-e-vento-forte-espantam-publico-que-protestava-contra-moraes-no-df"
             }
           ],
-          "updatedAt": "2026-09-15T13:41:26.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/09/WhatsApp-Image-2022-11-16-at-18.jpg"
+          "updatedAt": "2026-09-15T19:17:04.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/09/patriota-protesta-na-chuva.jpeg"
         },
         {
-          "clusterId": "a8f438d4551f5147",
-          "slug": "eca791c5daefe44c",
-          "titulo": "Granizo atinge Perdigão, Minas Gerais",
-          "resumo": "Uma pancada de chuva com granizo atingiu Perdigão, no Centro-Oeste de Minas Gerais, na noite de segunda-feira, 14. Moradores relataram a queda de pedras de gelo. O Corpo de Bombeiros informou que a chuva continuou na madrugada de terça-feira, 15, sem registrar ocorrências. Vídeos nas redes sociais mostram a reação da população.",
-          "porQueImporta": "O evento demonstra a ocorrência de granizo intenso, que pode causar danos e alertar sobre condições climáticas adversas.",
+          "clusterId": "ab0bf444ec88c5cb",
+          "slug": "8873734d43943c9b",
+          "titulo": "INMET emite alerta amarelo de tempestade para 33 cidades de Minas Gerais",
+          "resumo": "O Instituto Nacional de Meteorologia emitiu, na madrugada de terça-feira, um alerta amarelo de \"tempestade\" para 33 cidades das regiões Norte, Centro e Noroeste de Minas Gerais. O aviso indica risco de chuva entre 20 e 30 mm por hora, ou 50 mm por dia, com ventos de 40 a 60 km/h e possibilidade de granizo. O alerta entrou em vigor às 00h e permanece válido até a próxima manhã.",
+          "porQueImporta": "O alerta informa condições climáticas perigosas que podem afetar a mobilidade e a segurança das populações locais.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/15/video-pancada-de-chuva-de-granizo-chama-atencao-de-moradores-em-mg-choveu-pedras.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/15/inmet-emite-alerta-de-tempestade-para-33-cidades-do-norte-centro-e-noroeste-de-mg.ghtml"
             }
           ],
-          "updatedAt": "2026-09-15T13:03:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/STreuTuE_y34KM5_RmF9KmjUul0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/y/XrogOnQZmdgtoY2nbICQ/whatsapp-image-2026-09-15-at-07.44.55.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "0dfee8f5ba39fed9",
-          "slug": "b4cdbb561939eaf7",
-          "titulo": "Dois filmes mineiros pré-selecionados para Melhor Filme no Oscar 2027",
-          "resumo": "A Academia Brasileira de Cinema anunciou que \"Vicentina Pede Desculpas\", de Gabriel Martins, e \"Nosso Segredo\", de Grace Passô, estão entre os pré-selecionados para representar o Brasil na categoria de Melhor Filme Internacional do Oscar 2027. O primeiro conta a história de uma mãe em Belo Horizonte que tenta lidar com o luto após a morte do filho, motorista de ônibus envolvido em tragédia, e decide pedir desculpas às famílias das vítimas. O segundo retrata uma família negra em Belo Horizonte. Ambos os filmes foram filmados na capital mineira.",
-          "porQueImporta": "A pré-seleção destaca a produção cinematográfica brasileira e pode aumentar a visibilidade internacional de filmes mineiros.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/15/dois-filmes-mineiros-sao-pre-selecionados-para-categoria-de-melhor-filme-no-oscar-2027.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-15T12:41:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kM79xbDR0OMD8MYrkHUVFLt_nP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/W/wMsZaeRTSNBzMVx0pguA/chuva-distrito-paulo-camilo-1-1-.png"
-        },
-        {
-          "clusterId": "40cc558f04839c58",
-          "slug": "8c25806a2bbffad3",
-          "titulo": "Servidora afastada após atestar demolição de prédio que caiu em SP",
-          "resumo": "Viviane Rodrigues de Palma, servidora responsável pelo relatório que atestou a demolição do prédio que desabou no sábado 12 na zona Leste de São Paulo, foi afastada. O colapso do edifício resultou na morte de seis pessoas. A medida faz parte da investigação sobre a demolição e possíveis irregularidades.",
-          "porQueImporta": "Ilustra a atuação das autoridades na fiscalização de obras e a busca por responsabilização em acidentes de construção.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/servidora-que-atestou-demolicao-de-predio-que-caiu-em-sp-e-afastada/"
-            }
-          ],
-          "updatedAt": "2026-09-15T12:25:11.000Z"
+          "updatedAt": "2026-09-15T18:25:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OeecydfWdmpEMNHCCzQO0N30KhM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/3/k7qM1TTjqdBdoea3jCcQ/arvores-chuva.jpg"
         }
       ]
     },
@@ -391,38 +236,118 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "c0e011c51681b8de",
-          "slug": "b3f4516e4376b480",
-          "titulo": "Incêndio em prédio de Campinas mata criança de 3 anos",
-          "resumo": "Um incêndio no último andar de um edifício na Rua Itapemirim, em Campinas, resultou na morte de uma criança de 3 anos e deixou duas outras feridas em estado grave. As vítimas sobreviventes são irmãs que conseguiram sair do apartamento em chamas, mas sofreram queimaduras faciais. A Polícia Militar relatou que o fogo ocorreu na manhã de terça-feira.",
-          "porQueImporta": "O incidente destaca a necessidade de medidas de segurança contra incêndios em edifícios residenciais.",
+          "clusterId": "c765c71345483e2a",
+          "slug": "faf608ef4c910764",
+          "titulo": "Polícia prende suspeito de incêndio que destruiu ponte em Pinheiro",
+          "resumo": "Na zona rural de Pinheiro, no Maranhão, a polícia prendeu um homem suspeito de liderar o incêndio que destruiu a ponte entre os povoados Fortaleza e Bacabal. A prisão ocorreu na segunda-feira (14) após buscas iniciadas no domingo (13) para apurar as circunstâncias do fogo e os danos à estrutura usada pela população para deslocamento. O incêndio criminoso causou transtornos à comunidade local.",
+          "porQueImporta": "A ponte era essencial para a mobilidade entre as localidades, e sua destruição gerou interrupções no deslocamento da população.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/15/incendio-atinge-predio-em-campinas-e-deixa-feridos.ghtml"
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/09/15/policia-prende-suspeito-de-liderar-incendio-que-destruiu-ponte-em-pinheiro.ghtml"
             }
           ],
-          "updatedAt": "2026-09-15T12:36:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/FbBThgENxYCsmIlKf5i1XOpRhOo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/9/4gfj7DSNy9tvJUERGZ6g/whatsapp-image-2026-09-15-at-09.36.16.jpeg"
+          "updatedAt": "2026-09-15T18:49:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XK7Qs4VA1ywBE5LIMOMV9P0hVlE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/7/qkRKBtT0CA8Lmx4PQMbw/montagens-1920-x-1080-px-24-.png"
         },
         {
-          "clusterId": "dd30c1e969b53f9b",
-          "slug": "48c5c0eeb2da95d3",
-          "titulo": "Incêndio destrói barracas e parte de shopping no Paraguai",
-          "resumo": "Um incêndio começou por volta das 17h40 na Avenida Leonardo Ramírez Rolón com Camilo Recalde, durante manutenção com equipamentos de solda nas barracas. O fogo destruiu cerca de sete barracas de venda e parte de um shopping no microcentro de Cidade do Leste. Equipes do Corpo de Bombeiros Voluntários e a polícia local combateram as chamas. Não há registro de feridos.",
-          "porQueImporta": "O incidente afetou comércio local e pode impactar a economia da região.",
+          "clusterId": "84228eada2ae451b",
+          "slug": "20d6e317aa76ec90",
+          "titulo": "Incêndio destrói restaurante japonês de mais de 50 anos em Porto Alegre",
+          "resumo": "Um incêndio de grandes proporções atingiu o restaurante japonês Sakaes, localizado no bairro Moinhos de Vento, em Porto Alegre, na tarde de terça-feira (15). O estabelecimento, com 53 anos de existência, foi considerado o mais antigo do estado. Equipes do Corpo de Bombeiros foram acionadas e conseguiram controlar as chamas, sem registro de feridos.",
+          "porQueImporta": "O incidente afeta um ponto de referência cultural e gastronômica da cidade, representando a perda de um patrimônio histórico local.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/15/incendio-destroi-barracas-no-paraguai.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/15/incendio-atinge-restaurante-porto-alegre.ghtml"
             }
           ],
-          "updatedAt": "2026-09-15T12:16:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/f8GGGeOPRngXYc37xwnYp3o9EOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/K/dJ1k9iRo67VwrthhaGBg/g1-pr-2026-09-15t083059.373.jpg"
+          "updatedAt": "2026-09-15T18:34:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DUq16DxRyo-IVbAdTjF88S34ML4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/S/1OBCAdS326pfUqpBAGoA/g1-2026-09-15t153210.553.jpg"
+        },
+        {
+          "clusterId": "920598e8168f2b09",
+          "slug": "24340b0d61cd2ffa",
+          "titulo": "Incêndio criminoso em restaurante de Joinville causa morte de terceira vítima",
+          "resumo": "Um homem invadiu um restaurante em Joinville, Santa Catarina, com combustível para procurar a ex-companheira e incendiou o local. Ele trancou as portas, impedindo a saída dos funcionários, e morreu queimado. A terceira vítima, Letícia das Graças Teodoro, de 24 anos, filha da proprietária, faleceu na madrugada de terça-feira.",
+          "porQueImporta": "O incidente destaca a violência e o risco de incêndios criminosos em estabelecimentos comerciais.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/15/morre-terceira-vitima-incendio-provocado-homem-que-procurava-ex-restaurante-joinville.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-15T18:25:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/nQ8s1gJ9p1_T_kHoK5KRifQDqiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/a/m8gz6BRyy1TCxAHP9Qpg/fotojet.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "d2a785ec2d89cf05",
+          "slug": "d6074aa586f25888",
+          "titulo": "Homem é resgatado após colheitadeira de milho capotar três vezes em Cedro de São João",
+          "resumo": "Um homem de 48 anos foi resgatado depois que a colheitadeira de milho que operava capotou três vezes em Cedro de São João, Sergipe. O acidente ocorreu na BR‑101, próximo ao trevo de acesso ao povoado Pissarreira, durante a colheita em terreno inclinado. O veículo perdeu a estabilidade e capotou repetidamente, deixando o operador sozinho no interior do caminhão.",
+          "porQueImporta": "O incidente destaca os riscos de operação de máquinas agrícolas em terrenos inclinados e a importância de medidas de segurança no campo.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/09/15/homem-e-resgatado-apos-colheitadeira-de-milho-capotar-em-cedro-de-sao-joao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-15T19:26:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/81kZE8URTGqMAgV-DdZi73keunc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/GndLA4SBAATV3Aa1d5nQ/crop-foto-29-.png"
+        },
+        {
+          "clusterId": "8d31aa1dd08f320a",
+          "slug": "b34d373e942ec438",
+          "titulo": "Motociclista sai da UTI após acidente na BR-364",
+          "resumo": "Moises Sena Souza, de 25 anos, saiu da Unidade de Terapia Intensiva depois de oito dias de internação. Ele sofreu fraturas no rosto e na bacia e outros ferimentos corporais em colisão entre duas motocicletas no km 4 da BR-364, próximo à Ufac, em Rio Branco. O motociclista permanece na enfermaria do Pronto-Socorro aguardando avaliação médica para decidir se pode voltar para casa.",
+          "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito envolvendo motociclistas em rodovias do Acre.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/09/15/motociclista-envolvido-em-acidente-na-br-364-fraturou-rosto-e-bacia-vitima-segue-internada.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-15T19:12:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_EccRnlGpuTAgL-IKi265dKp5ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/f/VcsPOMRmC1uOquRY2cWw/befunky-collage-2026-09-15t140624.880.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-trabalho",
+      "label": "Acidente de trabalho",
+      "stories": [
+        {
+          "clusterId": "de27422432c1f42b",
+          "slug": "535c918573a0c8e4",
+          "titulo": "Trabalhador morre durante manutenção de colheitadeira em fazenda no Sul do PI",
+          "resumo": "Um trabalhador, identificado como Carlos Miguel, faleceu na tarde de terça-feira (15) enquanto realizava manutenção de peças de uma colheitadeira em uma fazenda de soja em Baixa Grande do Ribeiro, Piauí. Testemunhas afirmam que uma peça da máquina teria se desprendido e atingido o trabalhador. A perícia ainda não confirmou a causa do acidente.",
+          "porQueImporta": "O incidente destaca os riscos de segurança no trabalho agrícola, especialmente em operações de manutenção de maquinário pesado.",
+          "categoria": "Acidente de trabalho",
+          "categoriaSlug": "acidente-de-trabalho",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/15/trabalhador-morre-fazenda.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-15T19:24:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/C9iGUB_cAkdJ1c3LyrO1CE8odCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/O/9ZaVFfTGy40k9y4zPoig/edicao-imagens-g1-2026-09-15t161544.319.png"
         }
       ]
     },
@@ -431,21 +356,66 @@
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "729b4a5d3e3bc313",
-          "slug": "7be92e49264c197b",
-          "titulo": "Trinta pessoas precisam de abrigo após chuvas em Itaquaquecetuba",
-          "resumo": "As fortes chuvas entre sábado e domingo deixaram 30 pessoas necessitando de abrigo. A prefeitura encaminhou sete famílias para acolhimento institucional no Centro de Convivência da Melhor Idade. Os acolhidos recebem abrigo, alimentação e acompanhamento socioassistencial. Um corpo de mulher foi encontrado em via alagada e a cidade também registrou desmoronamento.",
-          "porQueImporta": "O evento demonstra a vulnerabilidade urbana a inundações e a necessidade de resposta rápida das autoridades.",
+          "clusterId": "a6ed3699b8fd33fd",
+          "slug": "7ce39f0e56dd9b81",
+          "titulo": "Prefeitura de Campo Limpo Paulista decreta situação de emergência após fortes chuvas",
+          "resumo": "A Prefeitura de Campo Limpo Paulista (SP) decretou situação de emergência de nível 2 devido a fortes chuvas. O encharcamento do solo, deslizamentos e movimentação de massas geraram crateras e comprometeram serviços essenciais. O decreto foi publicado no Diário Oficial de segunda-feira (14).",
+          "porQueImporta": "A medida visa garantir a segurança e a continuidade dos serviços públicos diante das condições climáticas adversas.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/15/trinta-pessoas-precisam-de-abrigo-apos-chuvas-em-itaquaquecetuba.ghtml"
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/15/prefeitura-de-campo-limpo-paulista-decreta-situacao-de-emergencia-apos-fortes-chuvas.ghtml"
             }
           ],
-          "updatedAt": "2026-09-15T12:19:28.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xIGhBKLduDh27Qxcy53jhVv3-2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/4/Lsz7zrRtim0m2wGPPIxw/whatsapp-image-2026-09-13-at-17..jpg"
+          "updatedAt": "2026-09-15T18:15:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/irJoWY2hj15o2Rlo2refOwayQow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/B/sTAWlrSjmJ2LbU7EBM5A/campo-limpo.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "3cbe3aee7fa42e91",
+          "slug": "6882bcce276cff24",
+          "titulo": "Gambiarra caseira transforma garrafa PET em coletor de pó para evitar sujeira durante a perfuração",
+          "resumo": "Uma técnica simples usa uma garrafa PET cortada ao meio como funil para concentrar o pó gerado na perfuração de paredes. A solução evita que a poeira se espalhe pelo ambiente, mantendo a limpeza. A montagem requer apenas cortar a garrafa e posicioná‑la sobre a furadeira. A prática tem sido compartilhada em redes sociais como dica de economia doméstica.",
+          "porQueImporta": "Reduz a exposição à poeira e facilita a limpeza em trabalhos de perfuração.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/curiosidades/gambiarra-caseira-transforma-garrafa-pet-em-coletor-de-po-para-evitar-sujeira-durante-a-perfuracao-saiba-como-fazer/"
+            }
+          ],
+          "updatedAt": "2026-09-15T17:55:43.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "70323d3d15763a07",
+          "slug": "4961a965eb0bd7e4",
+          "titulo": "Teto de cabine de Boeing 737 cai durante voo no Irã",
+          "resumo": "Um Boeing 737 da Sepehran Airlines teve o teto da cabine cair em pleno voo no Irã, causando susto entre os passageiros. O incidente ocorreu em 25 de agosto, quando a aeronave precisou fazer um pouso de emergência no aeroporto de Mashhad, sem o trem de pouso frontal. O avião retornou ao aeroporto de origem após o pouso. Não há relatos de feridos.",
+          "porQueImporta": "O evento demonstra falha estrutural em voo comercial, levantando questões de segurança aérea.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/15/video-teto-de-cabine-de-aviao-cai-durante-voo-no-ira.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-15T16:38:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/y08lyuTojngMahY2b2JF_FcgRUA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/KGie9nQ26U6PaLjAJrzA/fotojet-5-.jpg"
         }
       ]
     },
