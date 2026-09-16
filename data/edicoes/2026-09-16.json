@@ -1,179 +1,180 @@
 {
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T19:39:25.820Z",
+  "generatedAt": "2026-09-16T23:12:03.609Z",
   "home": [
     {
-      "clusterId": "2f12f88dbd0de530",
-      "slug": "6f930d82300cce2e",
-      "titulo": "Helicóptero de reportagem da NBC cai em Los Angeles",
-      "resumo": "Um helicóptero de reportagem da NBC caiu na noite de terça-feira (15) em Los Angeles, enquanto cobria um acidente envolvendo um ônibus e um carro no bairro de Chatsworth. A âncora Eliana Moreno, de 38 anos, e o piloto George Marciniw, ambos funcionários da emissora, morreram na queda. Uma terceira vítima, que estava em solo, também não resistiu.",
-      "porQueImporta": "O acidente resultou na morte de profissionais de mídia e evidenciou os riscos de cobertura de eventos em campo.",
+      "clusterId": "5bd7c6a56b84b1ff",
+      "slug": "12d74e88b81d0b45",
+      "titulo": "Desabamento de mina de ouro no Sudão deixa mais de 80 mortos",
+      "resumo": "Poços da mina de Al‑Zaraa, perto de El‑Nahud, em Kordofan Ocidental, começaram a ruir na terça-feira, resultando em mais de 80 mortes e 50 feridos. Operações de resgate foram realizadas com métodos rudimentares e ainda há suspeita de vítimas presas sob escombros.",
+      "porQueImporta": "O incidente destaca os riscos associados a mineração informal em regiões remotas.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/16/mina-de-ouro-desaba-e-deixa-mais-de-80-mortos-no-sudao.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/desabamento-de-mina-de-ouro-no-sudao-deixa-mais-de-80-mortos/"
+        }
+      ],
+      "updatedAt": "2026-09-16T21:15:39.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/HSV7c_VWEAA4aSl.jpg"
+    },
+    {
+      "clusterId": "fe0be2094972903b",
+      "slug": "c429ac6e156a22bd",
+      "titulo": "Ônibus atingido por fogo na BA-160 deixa sete feridos",
+      "resumo": "Um ônibus que transportava pacientes foi atingido por chamas enquanto atravessava a BA-160, entre Barra e Xique-Xique, no oeste da Bahia. O veículo retornava de Irecê após os passageiros terem recebido tratamento. Sete pessoas ficaram feridas e foram internadas no Hospital Julieta Viana, sendo três já com regulação aprovada para transferência.",
+      "porQueImporta": "O incidente destaca a vulnerabilidade de veículos de transporte de pacientes em áreas de incêndio florestal.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/16/pessoas-ficam-feridas-apos-acidente-no-oeste-da-bahia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-16T22:58:54.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/WVes1RS5xjmHqFDkapIZOxB4Aoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/1/JgJSHqTfA5ZtWT1zCziw/fotos-g1ba-38-.jpg"
+    },
+    {
+      "clusterId": "3350c1ffc76cc1aa",
+      "slug": "85e2aafab37dee90",
+      "titulo": "Motorista morre após acidente com caminhão-tanque na BR-080 em Brazlândia",
+      "resumo": "Um motorista de carro foi atingido por um caminhão-tanque na BR-080, em Brazlândia, e ficou preso às ferragens. Ele não resistiu aos ferimentos e faleceu. O condutor do caminhão-tanque não foi ao hospital.",
+      "porQueImporta": "O acidente resultou em fatalidade e destaca riscos de colisões com veículos de grande porte em rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/motorista-morre-apos-acidente-com-caminhao-tanque-na-br-080-em-brazlandia"
+        }
+      ],
+      "updatedAt": "2026-09-16T22:36:22.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/acidente080brazlandia-caminhaotanquecarro2.jpeg"
+    },
+    {
+      "clusterId": "10d48c6c4db8b0f6",
+      "slug": "60ccaaa3a71ace45",
+      "titulo": "Acidente na BR-381 deixa uma pessoa morta em João Monlevade",
+      "resumo": "Um caminhão colidiu com um carro na BR-381, na região do km 342, conhecida como Ponte Torta, em João Monlevade. O impacto resultou na morte de uma pessoa. As autoridades ainda investigam as causas do acidente. O local permanece em alerta para motoristas.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção nas áreas de tráfego intenso da BR-381.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/acidente-na-br-381-deixa-uma-pessoa-morta-em-joao-monlevade"
+        }
+      ],
+      "updatedAt": "2026-09-16T22:36:07.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/4997227962985811201-3x2-1.jpg"
+    },
+    {
+      "clusterId": "1a98043ae6a37f3a",
+      "slug": "150311eb2fc6120d",
+      "titulo": "Motorista de BMW indiciado por homicídio doloso após morte de entregador em Cuiabá",
+      "resumo": "Hercílio Junio Freitas Cordeiro, de 22 anos, foi indiciado por homicídio doloso depois de dirigir a 177 km/h e bater em Paulo Messias Simão da Costa, de 23 anos, na madrugada de 30 de agosto, em Cuiabá. O inquérito concluiu que o motorista também tentou fugir do local e não prestou socorro ao vítima. O processo foi protocolado no dia 12 de agosto.",
+      "porQueImporta": "O caso destaca a gravidade de dirigir em alta velocidade e a responsabilidade penal em acidentes de trânsito.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/16/motorista-de-carro-de-luxo-e-indiciado-por-homicidio-doloso-apos-morte-de-entregador-em-cuiaba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-16T22:31:24.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/U4h8wRBKeP_Wr3iQHhaFpSnfAW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/u/tRZBTKTTmukSDwG4oaCg/videos-g1-49-.jpg"
+    },
+    {
+      "clusterId": "ae24ccdfd6735f06",
+      "slug": "074a21a0ac6f7e6c",
+      "titulo": "Homem de 25 anos é preso em Buritizeiro após ameaçar matar ex-namorada",
+      "resumo": "Um homem de 25 anos foi detido em Buritizeiro depois de sair de casa ameaçando matar a ex-namorada. A Polícia Militar apreendeu duas armas adaptadas para calibre .22, munições, supressores de ruído artesanais, rádios comunicadores, uma réplica de arma e um celular. A ocorrência foi finalizada nesta quarta-feira (16).",
+      "porQueImporta": "O caso destaca a necessidade de vigilância sobre ameaças de violência doméstica e o porte ilegal de armas.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/16/apos-sair-de-casa-dizendo-que-mataria-a-ex-homem-e-preso-com-armas-e-municoes-em-buritizeiro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-16T22:15:34.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DVSJ4JiEJvgOogtIDVgMK63aR0Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Z/6EuBMMRGyC4o7g5GBLHw/whatsapp-image-2026-09-16-at-13.33.52-1-1-.jpeg"
+    },
+    {
+      "clusterId": "47cec7c2091b70fa",
+      "slug": "0b29e3d1f3389b09",
+      "titulo": "Acidente entre carreta e ônibus na BR-116 deixa seis mortos e mais de 30 feridos",
+      "resumo": "Um acidente envolvendo uma carreta e um ônibus na BR-116, em Cachoeira de Pajeú, resultou na morte de seis pessoas e deixou mais de 30 feridos. As vítimas mortas foram identificadas como cinco mulheres e um homem, com idades entre 25 e 70 anos, todos oriundos da região Norte da Bahia. Os corpos ainda não tiveram os nomes divulgados.",
+      "porQueImporta": "O incidente destaca a gravidade dos acidentes de trânsito na região e a necessidade de medidas de segurança viária.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/16/vitimas-de-acidente-entre-carreta-e-onibus-na-br-116-sao-identificadas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-16T22:00:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/252-p2dzhfPqNEr0YNbJFKuxfyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/2/lljkE5Souv7VBI2TUpIQ/whatsapp-image-2026-09-16-at-16.18.02.jpeg"
+    },
+    {
+      "clusterId": "9af07f90c5299320",
+      "slug": "876f1b22f2394a3c",
+      "titulo": "Carro encontrado soterrado na faixa de areia da Praia da Gaivota em Itanhaém",
+      "resumo": "Um veículo ficou parcialmente enterrado na areia da Praia da Gaivota, em Itanhaém, litoral de São Paulo. Apenas o teto do carro permaneceu exposto. A Prefeitura de Itanhaém ainda não divulgou detalhes sobre quando e como o veículo ficou soterrado. O caso foi registrado em imagens divulgadas pelo G1.",
+      "porQueImporta": "O incidente pode indicar condições de risco na praia e requer atenção das autoridades locais.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/16/carro-e-encontrado-soterrado-na-faixa-de-areia-de-praia-em-sp-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-16T21:52:16.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/tBBUvkkeNfmenklna4mjalzo1b0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/W/j36l2CQe6mTXeoLsJsaQ/carro-atolado.jpg"
+    },
+    {
+      "clusterId": "4508c5593a7341c4",
+      "slug": "341e06d0ae45b646",
+      "titulo": "Acidente entre dois carros deixa duas pessoas feridas em estrada vicinal em SP",
+      "resumo": "Um acidente de colisão frontal entre um veículo Saveiro e um Cobalt ocorreu por volta das 11h54 em uma curva próxima à linha férrea na Estrada Vicinal Graciano da Ressurreição Affonso, ligando o distrito de Bueno de Andrada a Araraquara. Os veículos trafegavam em sentidos contrários. O impacto acionou o airbag de um dos carros, resultando em ferimentos em duas pessoas.",
+      "porQueImporta": "O incidente destaca riscos de tráfego em estradas vicinais e a necessidade de atenção em curvas próximas a linhas férreas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/16/video-grave-acidente-entre-carros-deixa-2-pessoas-feridas-em-estrada-vicinal-no-interior-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-16T21:51:12.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/c6eDux7YLh5CUe4_LywP1tuFYc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/A/nuSeMFQZSAmFf2Gaf2NQ/acidente-vicinal-bueno-de-andrada-araraquara-1-.jpg"
+    },
+    {
+      "clusterId": "7d5449d4aa769f3c",
+      "slug": "a689fe3c9bacbab0",
+      "titulo": "Anunciam morte de equipe da NBC em queda de helicóptero em Los Angeles",
+      "resumo": "Durante o jornal noturno da NBC em Los Angeles, a âncora informou que um helicóptero da emissora caiu na cidade. A queda resultou na morte da repórter Eliana Moreno, de 38 anos, e do piloto George Marciniw, ambos funcionários da NBC. A notícia foi divulgada ao vivo pela própria âncora.",
+      "porQueImporta": "O incidente destaca a ocorrência de acidentes aéreos envolvendo veículos de mídia.",
       "categoria": "Acidente aéreo",
       "categoriaSlug": "acidente-aereo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/16/reporter-e-piloto-sao-identificados-entre-vitimas-de-queda-de-helicoptero-nos-eua.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/ancora-de-tv-dos-eua-anuncia-morte-de-colegas-ao-vivo-em-acidente-de-helicoptero/"
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/16/video-ancora-da-nbc-anuncia-ao-vivo-morte-de-equipe-da-rede-de-tv-em-queda-de-helicoptero.ghtml"
         }
       ],
-      "updatedAt": "2026-09-16T18:28:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PoDfqMgQy_wX19XEjzJG3mtkk7E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/cMNyxzQB2ANQMNKUOFUA/its-nationalaviationday-im-so-blessed-to-get-to-fly-in-newschopper4-for-nbcla-telemu-1-.jpg"
-    },
-    {
-      "clusterId": "c00661c27d5c2268",
-      "slug": "a7840cd2e066d3e8",
-      "titulo": "Santarém decreta emergência no Quilombo do Arapemã por avanço de terras caídas",
-      "resumo": "A Prefeitura de Santarém decretou situação de emergência na Comunidade Quilombo do Arapemã, na região de Urucurituba, em área de várzea. A medida foi tomada devido à continuidade e agravamento da erosão das margens do rio, conhecida localmente como \"terras caídas\". O decreto municipal nº 736/2026 classifica o desastre como Erosão de Margem Fluvial, código COBRADE 1.1.4.2.0, e como Desastre de Nível II.",
-      "porQueImporta": "A emergência indica risco iminente à segurança e à infraestrutura da comunidade afetada.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/16/santarem-decreta-emergencia-no-quilombo-do-arapema-por-avanco-de-terras-caidas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-16T19:28:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/54DRWpEopKNopBdtZzsX_HilFsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/h/jOz5z4TPa5R0V7e6678A/tda2uax6gdvosxizwu9ullcuszrunmyqepen0vo0.jpg"
-    },
-    {
-      "clusterId": "2c952d5c6fda1620",
-      "slug": "6782cfad2a88be50",
-      "titulo": "Socio de construtora pede revogação de prisão após desabamento",
-      "resumo": "O sócio de uma construtora que teve um prédio desabado está preso desde o último domingo (13). Na terça-feira (15), o Tribunal de Justiça de São Paulo decidiu manter a prisão. A defesa solicitou a revogação da prisão preventiva. O caso faz parte das investigações sobre o desabamento.",
-      "porQueImporta": "Ilustra a continuidade das ações judiciais após o acidente de construção.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-de-socio-de-construtora-de-predio-que-desabou-pede-revogacao-de-prisao/"
-        }
-      ],
-      "updatedAt": "2026-09-16T19:28:34.000Z"
-    },
-    {
-      "clusterId": "9212aa7c91146c38",
-      "slug": "2f51dbd574868337",
-      "titulo": "Rua de bairro de Atibaia permanece alagada cinco dias após fortes chuvas",
-      "resumo": "O Jardim Kanimar, em Atibaia, continua com ruas alagadas cinco dias depois das chuvas intensas. A Defesa Civil registrou 165 mm de precipitação entre 10 e 12 de setembro, mais que o dobro da média mensal. A prefeitura precisou atender 61 famílias afetadas. A água está gradualmente diminuindo.",
-      "porQueImporta": "O alagamento prolongado pode afetar a saúde e a mobilidade dos moradores.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/16/cinco-dias-apos-fortes-chuvas-ruas-de-bairro-de-atibaia-seguem-alagadas-veja-como-ajudar-as-familias-afetadas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-16T19:01:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/oIqoE8p9JHUxv5WczoYbR-jb904=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/N/WfYm6AR5e03CzbwRWKvQ/foto-g1-34-.png"
-    },
-    {
-      "clusterId": "bcb3d312b24a5f52",
-      "slug": "f878f353baac89dc",
-      "titulo": "Servidor público de 21 anos morre em colisão entre carro e carreta na BR-163",
-      "resumo": "Um servidor público de 21 anos, Werick Santana da Silva Igreja, morreu após um acidente entre um carro e uma carreta na BR-163, km 534, entre Jangada e Rosário Oeste, na direção Sinop. O veículo em que o servidor estava envolveu-se na batida com a carreta. Ele foi socorrido pela equipe da concessionária Rota Oeste e encaminhado ao Hospital Municipal de Cuiabá, onde faleceu.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção e segurança nas rodovias federais.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/16/servidor-publico-de-21-anos-morre-apos-acidente-entre-carro-e-carreta-na-br-163-em-mt.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-16T18:42:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6fLRnFuJ2kOvmX2ybodfGHuY4oQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/1/zWAdILQyGpYJDyClVSvQ/videos-g1-25-.jpg"
-    },
-    {
-      "clusterId": "91870f42563ac6d8",
-      "slug": "52a44385bdb39220",
-      "titulo": "Pedreiro de 67 anos fica ferido após cair de telhado em Limeira",
-      "resumo": "Um pedreiro de 67 anos sofreu uma lesão na cabeça ao cair do telhado de uma obra na Rua Lydia Soares Alves, no bairro Jardim Grêmio, em Limeira (SP). O acidente ocorreu na tarde de quarta-feira (16). A vítima foi socorrida e encaminhada com o helicóptero Águia ao Hospital Estadual de Sumaré. O estado de saúde é considerado grave, segundo a Polícia Militar.",
-      "porQueImporta": "O incidente destaca os riscos de trabalho em altura e a necessidade de medidas de segurança adequadas.",
-      "categoria": "Acidente de trabalho",
-      "categoriaSlug": "acidente-de-trabalho",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/16/pedreiro-fica-ferido-apos-cair-de-telhado-em-limeira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-16T18:36:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IvuqP4I0A2IdBDLBBKxP_MnwdrY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/g/yyr3pNQpWxAK6P0XY6hA/pedreiro-limeira.jpg"
-    },
-    {
-      "clusterId": "10b3f682cd333c53",
-      "slug": "6c0c4cffb3605332",
-      "titulo": "Homem encontrado morto após o barco virar em Saquarema era empresário e pescava por lazer",
-      "resumo": "Pescador desaparece após barco virar no mar de Saquarema Após cerca de dez horas de buscas equipes do Corpo de Bombeiros encontraram o corpo de Carlos Magno Espíndola Borges, 56 anos, na praia de Vilatur, em Saquarema , na Região dos Lagos do Rio. Carlos estava pescando quando desapareceu, segundo seus amigos, após o barco em que estava virar, na madrugada desta quarta-feira (16). Ele estava acompanhado de outro pescador, que conseguiu se salvar. O acidente aconteceu na altura de Itaúna. Carlos Magno, conhecido como Maguinho era empresário e dono de loja de material de construção em Rio…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/16/homem-encontrado-morto-apos-o-barco-virar-em-saquarema-era-empresario-e-pescava-por-lazer.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-16T18:30:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Q1colfxNStE1aw2gcqoQKKCq8pQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/5/gbrbfLSGKBaJp64f09Rw/maguinho.jpg"
-    },
-    {
-      "clusterId": "63dbcf8b3ec753ac",
-      "slug": "9d3b6c3a84b22b44",
-      "titulo": "Carro cai no Rio Matapi e suspeita de pertencimento a pessoa desaparecida",
-      "resumo": "Um veículo caiu e submergiu nas águas do Rio Matapi, no trecho abaixo da ponte que liga Santana e Mazagão, no Amapá. O acidente ocorreu no último domingo, 13, e as buscas foram iniciadas na quarta-feira, 16. Os Bombeiros apontam que o carro pode pertencer a uma pessoa oficialmente dada como desaparecida, com suspeita de que o motorista estivesse dentro no momento da queda.",
-      "porQueImporta": "O incidente envolve um veículo possivelmente ligado a um desaparecimento, exigindo investigação e busca.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/16/carro-cai-no-rio-matapi-e-suspeita-e-de-que-veiculo-pertenca-a-pessoa-desaparecida-no-ap-video.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-16T18:21:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ZoXml1fwZ7LaWM7IWycHhcEp44A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/r/3n5gebSKi2sU6ztpHexw/aleixo-g1-23-.jpg"
-    },
-    {
-      "clusterId": "0a9becb51a2b1c42",
-      "slug": "d700458055c51b67",
-      "titulo": "Grupo percorre mais de 180 km para doar sangue a jovem vítima de acidente de moto no AC",
-      "resumo": "Um grupo de 14 pessoas saiu de Xapuri e percorreu mais de 180 quilômetros até o Centro de Hematologia e Hemoterapia do Acre para doar sangue à Luane Ferreira Castelo, de 21 anos, que ficou internada na UTI após sofrer um acidente de moto na BR-364 em Rio Branco. O acidente ocorreu na tarde de 3 de setembro. A doação foi realizada nesta quarta-feira, 16 de setembro.",
-      "porQueImporta": "A ação demonstra mobilização comunitária em apoio a vítimas de acidentes de trânsito.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/09/16/grupo-percorre-mais-de-180-km-para-doar-sangue-para-jovem-que-sofreu-acidente-de-moto-no-ac-ato-de-amor.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-16T18:08:10.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/MTDRVpNaKf-4HyFf4D95qIMqbGo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/Ll66bATweXqXwInecrFA/midia-de-distribuicao-g1-2026-09-16t121517.495.png"
-    },
-    {
-      "clusterId": "d9db4fdad6652fb9",
-      "slug": "c7b7ecdcb7cfaf6d",
-      "titulo": "Acidente na BR-343 deixa jovem morto e primeira-dama ferida",
-      "resumo": "Na noite de terça-feira, 15, um motociclista colidiu frontalmente com uma caminhonete na BR-343, em Amarante, Piauí. O motociclista, João Henrique Moraes Silva, de 24 anos, morreu no local, enquanto a primeira-dama de Floriano, Carmélia de Almeida Reis, sofreu ferimentos. A Polícia Rodoviária Federal aponta a ultrapassagem em local inadequado como principal hipótese do acidente.",
-      "porQueImporta": "O incidente destaca riscos de ultrapassagens inseguras em rodovias brasileiras.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/16/acidente-matou-jovem.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-16T17:38:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/B9oD124I6ZkQGU7tkoAw8OuzCKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/A/pfcNXMT7Gde1CfsrqGMA/edicao-imagens-g1-2026-09-16t092650.872.png"
+      "updatedAt": "2026-09-16T14:48:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/R3DuZWb81GfP08uvEzMfC9-9CXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/7g7zxmQu2HEOjS4r0u6Q/fotojet-1-.jpg"
     }
   ],
   "categorias": [
@@ -182,95 +183,112 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "bcb3d312b24a5f52",
-          "slug": "f878f353baac89dc",
-          "titulo": "Servidor público de 21 anos morre em colisão entre carro e carreta na BR-163",
-          "resumo": "Um servidor público de 21 anos, Werick Santana da Silva Igreja, morreu após um acidente entre um carro e uma carreta na BR-163, km 534, entre Jangada e Rosário Oeste, na direção Sinop. O veículo em que o servidor estava envolveu-se na batida com a carreta. Ele foi socorrido pela equipe da concessionária Rota Oeste e encaminhado ao Hospital Municipal de Cuiabá, onde faleceu.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção e segurança nas rodovias federais.",
+          "clusterId": "fe0be2094972903b",
+          "slug": "c429ac6e156a22bd",
+          "titulo": "Ônibus atingido por fogo na BA-160 deixa sete feridos",
+          "resumo": "Um ônibus que transportava pacientes foi atingido por chamas enquanto atravessava a BA-160, entre Barra e Xique-Xique, no oeste da Bahia. O veículo retornava de Irecê após os passageiros terem recebido tratamento. Sete pessoas ficaram feridas e foram internadas no Hospital Julieta Viana, sendo três já com regulação aprovada para transferência.",
+          "porQueImporta": "O incidente destaca a vulnerabilidade de veículos de transporte de pacientes em áreas de incêndio florestal.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/16/servidor-publico-de-21-anos-morre-apos-acidente-entre-carro-e-carreta-na-br-163-em-mt.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/16/pessoas-ficam-feridas-apos-acidente-no-oeste-da-bahia.ghtml"
             }
           ],
-          "updatedAt": "2026-09-16T18:42:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6fLRnFuJ2kOvmX2ybodfGHuY4oQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/1/zWAdILQyGpYJDyClVSvQ/videos-g1-25-.jpg"
+          "updatedAt": "2026-09-16T22:58:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WVes1RS5xjmHqFDkapIZOxB4Aoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/1/JgJSHqTfA5ZtWT1zCziw/fotos-g1ba-38-.jpg"
         },
         {
-          "clusterId": "63dbcf8b3ec753ac",
-          "slug": "9d3b6c3a84b22b44",
-          "titulo": "Carro cai no Rio Matapi e suspeita de pertencimento a pessoa desaparecida",
-          "resumo": "Um veículo caiu e submergiu nas águas do Rio Matapi, no trecho abaixo da ponte que liga Santana e Mazagão, no Amapá. O acidente ocorreu no último domingo, 13, e as buscas foram iniciadas na quarta-feira, 16. Os Bombeiros apontam que o carro pode pertencer a uma pessoa oficialmente dada como desaparecida, com suspeita de que o motorista estivesse dentro no momento da queda.",
-          "porQueImporta": "O incidente envolve um veículo possivelmente ligado a um desaparecimento, exigindo investigação e busca.",
+          "clusterId": "3350c1ffc76cc1aa",
+          "slug": "85e2aafab37dee90",
+          "titulo": "Motorista morre após acidente com caminhão-tanque na BR-080 em Brazlândia",
+          "resumo": "Um motorista de carro foi atingido por um caminhão-tanque na BR-080, em Brazlândia, e ficou preso às ferragens. Ele não resistiu aos ferimentos e faleceu. O condutor do caminhão-tanque não foi ao hospital.",
+          "porQueImporta": "O acidente resultou em fatalidade e destaca riscos de colisões com veículos de grande porte em rodovias.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/16/carro-cai-no-rio-matapi-e-suspeita-e-de-que-veiculo-pertenca-a-pessoa-desaparecida-no-ap-video.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/motorista-morre-apos-acidente-com-caminhao-tanque-na-br-080-em-brazlandia"
             }
           ],
-          "updatedAt": "2026-09-16T18:21:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ZoXml1fwZ7LaWM7IWycHhcEp44A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/r/3n5gebSKi2sU6ztpHexw/aleixo-g1-23-.jpg"
+          "updatedAt": "2026-09-16T22:36:22.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/09/acidente080brazlandia-caminhaotanquecarro2.jpeg"
         },
         {
-          "clusterId": "0a9becb51a2b1c42",
-          "slug": "d700458055c51b67",
-          "titulo": "Grupo percorre mais de 180 km para doar sangue a jovem vítima de acidente de moto no AC",
-          "resumo": "Um grupo de 14 pessoas saiu de Xapuri e percorreu mais de 180 quilômetros até o Centro de Hematologia e Hemoterapia do Acre para doar sangue à Luane Ferreira Castelo, de 21 anos, que ficou internada na UTI após sofrer um acidente de moto na BR-364 em Rio Branco. O acidente ocorreu na tarde de 3 de setembro. A doação foi realizada nesta quarta-feira, 16 de setembro.",
-          "porQueImporta": "A ação demonstra mobilização comunitária em apoio a vítimas de acidentes de trânsito.",
+          "clusterId": "10d48c6c4db8b0f6",
+          "slug": "60ccaaa3a71ace45",
+          "titulo": "Acidente na BR-381 deixa uma pessoa morta em João Monlevade",
+          "resumo": "Um caminhão colidiu com um carro na BR-381, na região do km 342, conhecida como Ponte Torta, em João Monlevade. O impacto resultou na morte de uma pessoa. As autoridades ainda investigam as causas do acidente. O local permanece em alerta para motoristas.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção nas áreas de tráfego intenso da BR-381.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/09/16/grupo-percorre-mais-de-180-km-para-doar-sangue-para-jovem-que-sofreu-acidente-de-moto-no-ac-ato-de-amor.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/acidente-na-br-381-deixa-uma-pessoa-morta-em-joao-monlevade"
             }
           ],
-          "updatedAt": "2026-09-16T18:08:10.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MTDRVpNaKf-4HyFf4D95qIMqbGo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/Ll66bATweXqXwInecrFA/midia-de-distribuicao-g1-2026-09-16t121517.495.png"
+          "updatedAt": "2026-09-16T22:36:07.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/09/4997227962985811201-3x2-1.jpg"
         },
         {
-          "clusterId": "d9db4fdad6652fb9",
-          "slug": "c7b7ecdcb7cfaf6d",
-          "titulo": "Acidente na BR-343 deixa jovem morto e primeira-dama ferida",
-          "resumo": "Na noite de terça-feira, 15, um motociclista colidiu frontalmente com uma caminhonete na BR-343, em Amarante, Piauí. O motociclista, João Henrique Moraes Silva, de 24 anos, morreu no local, enquanto a primeira-dama de Floriano, Carmélia de Almeida Reis, sofreu ferimentos. A Polícia Rodoviária Federal aponta a ultrapassagem em local inadequado como principal hipótese do acidente.",
-          "porQueImporta": "O incidente destaca riscos de ultrapassagens inseguras em rodovias brasileiras.",
+          "clusterId": "1a98043ae6a37f3a",
+          "slug": "150311eb2fc6120d",
+          "titulo": "Motorista de BMW indiciado por homicídio doloso após morte de entregador em Cuiabá",
+          "resumo": "Hercílio Junio Freitas Cordeiro, de 22 anos, foi indiciado por homicídio doloso depois de dirigir a 177 km/h e bater em Paulo Messias Simão da Costa, de 23 anos, na madrugada de 30 de agosto, em Cuiabá. O inquérito concluiu que o motorista também tentou fugir do local e não prestou socorro ao vítima. O processo foi protocolado no dia 12 de agosto.",
+          "porQueImporta": "O caso destaca a gravidade de dirigir em alta velocidade e a responsabilidade penal em acidentes de trânsito.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/16/acidente-matou-jovem.ghtml"
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/16/motorista-de-carro-de-luxo-e-indiciado-por-homicidio-doloso-apos-morte-de-entregador-em-cuiaba.ghtml"
             }
           ],
-          "updatedAt": "2026-09-16T17:38:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/B9oD124I6ZkQGU7tkoAw8OuzCKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/A/pfcNXMT7Gde1CfsrqGMA/edicao-imagens-g1-2026-09-16t092650.872.png"
+          "updatedAt": "2026-09-16T22:31:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/U4h8wRBKeP_Wr3iQHhaFpSnfAW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/u/tRZBTKTTmukSDwG4oaCg/videos-g1-49-.jpg"
         },
         {
-          "clusterId": "55d7c85a57fb8ac7",
-          "slug": "353f1da538db8e8e",
-          "titulo": "Ônibus sem licença causa acidente com seis mortos em MG",
-          "resumo": "Um ônibus da Transportes Turísticos Papatur Ltda. colidiu na BR-116, em Cachoeira de Pajeú, resultando em seis mortes e mais de 20 feridos. O veículo não possuía licença de viagem emitida para o trajeto. A ANTT informou que o ônibus estava em processo de inclusão na frota de outra empresa, mas a análise ainda não havia sido concluída.",
-          "porQueImporta": "O acidente destaca falhas na fiscalização de licenças de transporte terrestre.",
+          "clusterId": "47cec7c2091b70fa",
+          "slug": "0b29e3d1f3389b09",
+          "titulo": "Acidente entre carreta e ônibus na BR-116 deixa seis mortos e mais de 30 feridos",
+          "resumo": "Um acidente envolvendo uma carreta e um ônibus na BR-116, em Cachoeira de Pajeú, resultou na morte de seis pessoas e deixou mais de 30 feridos. As vítimas mortas foram identificadas como cinco mulheres e um homem, com idades entre 25 e 70 anos, todos oriundos da região Norte da Bahia. Os corpos ainda não tiveram os nomes divulgados.",
+          "porQueImporta": "O incidente destaca a gravidade dos acidentes de trânsito na região e a necessidade de medidas de segurança viária.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/16/antt-onibus-envolvido-em-acidente-com-6-mortos-em-mg-nao-tinha-licenca-para-viagem.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/16/vitimas-de-acidente-entre-carreta-e-onibus-na-br-116-sao-identificadas.ghtml"
             }
           ],
-          "updatedAt": "2026-09-16T17:36:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/NmOlS7jfSScxTWFarJqx5s8iSJQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/t/Z5Py1ZTcWcXrJvon63FQ/whatsapp-image-2026-09-16-at-12.59.23-1-1-.jpeg"
+          "updatedAt": "2026-09-16T22:00:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/252-p2dzhfPqNEr0YNbJFKuxfyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/2/lljkE5Souv7VBI2TUpIQ/whatsapp-image-2026-09-16-at-16.18.02.jpeg"
+        },
+        {
+          "clusterId": "4508c5593a7341c4",
+          "slug": "341e06d0ae45b646",
+          "titulo": "Acidente entre dois carros deixa duas pessoas feridas em estrada vicinal em SP",
+          "resumo": "Um acidente de colisão frontal entre um veículo Saveiro e um Cobalt ocorreu por volta das 11h54 em uma curva próxima à linha férrea na Estrada Vicinal Graciano da Ressurreição Affonso, ligando o distrito de Bueno de Andrada a Araraquara. Os veículos trafegavam em sentidos contrários. O impacto acionou o airbag de um dos carros, resultando em ferimentos em duas pessoas.",
+          "porQueImporta": "O incidente destaca riscos de tráfego em estradas vicinais e a necessidade de atenção em curvas próximas a linhas férreas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/16/video-grave-acidente-entre-carros-deixa-2-pessoas-feridas-em-estrada-vicinal-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-16T21:51:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/c6eDux7YLh5CUe4_LywP1tuFYc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/A/nuSeMFQZSAmFf2Gaf2NQ/acidente-vicinal-bueno-de-andrada-araraquara-1-.jpg"
         },
         {
           "clusterId": "9d4261e25581ad69",
           "slug": "86920ba61be4b59f",
-          "titulo": "Motorista de ônibus dorme ao volante e bate em árvores na Geórgia",
-          "resumo": "Um ônibus na Geórgia, EUA, bateu em árvores quando o motorista adormecia no volante. O acidente ocorreu enquanto o veículo estava parado em semáforo. Três pessoas ficaram feridas. Imagens internas do ônibus registraram o momento do acidente.",
+          "titulo": "Motorista de ônibus dorme ao volante e bate em árvores nos EUA",
+          "resumo": "Em Geórgia, um motorista de ônibus adormece enquanto o veículo está parado em semáforo. Aproximadamente dez minutos depois, ele volta a dormir e o ônibus colide com árvores. Três pessoas ficaram feridas. Câmeras internas registraram o acidente.",
           "porQueImporta": "O incidente destaca riscos de fadiga ao dirigir veículos de transporte coletivo.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
@@ -290,25 +308,38 @@
       "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "2f12f88dbd0de530",
-          "slug": "6f930d82300cce2e",
-          "titulo": "Helicóptero de reportagem da NBC cai em Los Angeles",
-          "resumo": "Um helicóptero de reportagem da NBC caiu na noite de terça-feira (15) em Los Angeles, enquanto cobria um acidente envolvendo um ônibus e um carro no bairro de Chatsworth. A âncora Eliana Moreno, de 38 anos, e o piloto George Marciniw, ambos funcionários da emissora, morreram na queda. Uma terceira vítima, que estava em solo, também não resistiu.",
-          "porQueImporta": "O acidente resultou na morte de profissionais de mídia e evidenciou os riscos de cobertura de eventos em campo.",
+          "clusterId": "7d5449d4aa769f3c",
+          "slug": "a689fe3c9bacbab0",
+          "titulo": "Anunciam morte de equipe da NBC em queda de helicóptero em Los Angeles",
+          "resumo": "Durante o jornal noturno da NBC em Los Angeles, a âncora informou que um helicóptero da emissora caiu na cidade. A queda resultou na morte da repórter Eliana Moreno, de 38 anos, e do piloto George Marciniw, ambos funcionários da NBC. A notícia foi divulgada ao vivo pela própria âncora.",
+          "porQueImporta": "O incidente destaca a ocorrência de acidentes aéreos envolvendo veículos de mídia.",
           "categoria": "Acidente aéreo",
           "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/16/reporter-e-piloto-sao-identificados-entre-vitimas-de-queda-de-helicoptero-nos-eua.ghtml"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/ancora-de-tv-dos-eua-anuncia-morte-de-colegas-ao-vivo-em-acidente-de-helicoptero/"
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/16/video-ancora-da-nbc-anuncia-ao-vivo-morte-de-equipe-da-rede-de-tv-em-queda-de-helicoptero.ghtml"
             }
           ],
-          "updatedAt": "2026-09-16T18:28:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PoDfqMgQy_wX19XEjzJG3mtkk7E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/cMNyxzQB2ANQMNKUOFUA/its-nationalaviationday-im-so-blessed-to-get-to-fly-in-newschopper4-for-nbcla-telemu-1-.jpg"
+          "updatedAt": "2026-09-16T14:48:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/R3DuZWb81GfP08uvEzMfC9-9CXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/7g7zxmQu2HEOjS4r0u6Q/fotojet-1-.jpg"
+        },
+        {
+          "clusterId": "bf444ddfcb2e8fd8",
+          "slug": "84ccbb9ef3fcaba2",
+          "titulo": "Helicóptero de reportagem cai em Los Angeles",
+          "resumo": "Um helicóptero de reportagem caiu próximo ao local de um acidente de ônibus em Los Angeles, no Vale de San Fernando. Três pessoas foram declaradas mortas no local, enquanto uma foi levada a um hospital. O incêndio causado pela queda foi controlado pelos bombeiros. A aeronave pertencia à NBC Los Angeles.",
+          "porQueImporta": "O acidente resultou em mortes e pode impactar a cobertura jornalística local.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/16/helicoptero-cai-em-los-angeles.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-16T12:17:47.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vIZ9e-OmBQAIKASeflRf2yEcQic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/6/j8nF94Rsu99mNTsfjW4w/ap26259134327869.jpg"
         },
         {
           "clusterId": "81d493161325d434",
@@ -328,28 +359,11 @@
           "imageUrl": "https://s2-g1.glbimg.com/yJzjMzDo8Kab9SWqkGABrErCMZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/z/9QxUYATgWQg5X5LmAVxw/ap26259234800808.jpg"
         },
         {
-          "clusterId": "43249d5c8bdb85c6",
-          "slug": "84ccbb9ef3fcaba2",
-          "titulo": "Helicóptero de reportagem cai em Los Angeles",
-          "resumo": "Um helicóptero de reportagem caiu próximo ao local de um acidente de ônibus em Los Angeles, no Vale de San Fernando. Três pessoas foram declaradas mortas no local, enquanto uma foi levada a um hospital. O incêndio causado pela queda foi controlado pelos bombeiros. A aeronave pertencia à NBC Los Angeles.",
-          "porQueImporta": "O acidente resultou em mortes e pode impactar a cobertura jornalística local.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/16/helicoptero-cai-em-los-angeles.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-16T03:14:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vIZ9e-OmBQAIKASeflRf2yEcQic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/6/j8nF94Rsu99mNTsfjW4w/ap26259134327869.jpg"
-        },
-        {
           "clusterId": "70323d3d15763a07",
           "slug": "4961a965eb0bd7e4",
           "titulo": "Teto de cabine de Boeing 737 cai durante voo no Irã",
-          "resumo": "Um Boeing 737 da Sepehran Airlines teve o teto da cabine cair em pleno voo no Irã, causando susto entre os passageiros. O incidente ocorreu em 25 de agosto, quando a aeronave precisou fazer um pouso de emergência no aeroporto de Mashhad, sem o trem de pouso frontal. O avião retornou ao aeroporto de origem após o pouso. Não há relatos de feridos.",
-          "porQueImporta": "O evento demonstra falha estrutural em voo comercial, levantando questões de segurança aérea.",
+          "resumo": "Em voo no Irã, o teto da cabine de um Boeing 737 da Sepehran Airlines caiu em pleno voo. A aeronave realizou pouso de emergência no aeroporto de Mashhad, sem o trem de pouso frontal. Não há registro de feridos ou danos a passageiros. O incidente foi registrado no dia 25 de agosto.",
+          "porQueImporta": "O acidente demonstra falha estrutural que pode comprometer a segurança de passageiros em voos comerciais.",
           "categoria": "Acidente aéreo",
           "categoriaSlug": "acidente-aereo",
           "sources": [
@@ -368,54 +382,38 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "c00661c27d5c2268",
-          "slug": "a7840cd2e066d3e8",
-          "titulo": "Santarém decreta emergência no Quilombo do Arapemã por avanço de terras caídas",
-          "resumo": "A Prefeitura de Santarém decretou situação de emergência na Comunidade Quilombo do Arapemã, na região de Urucurituba, em área de várzea. A medida foi tomada devido à continuidade e agravamento da erosão das margens do rio, conhecida localmente como \"terras caídas\". O decreto municipal nº 736/2026 classifica o desastre como Erosão de Margem Fluvial, código COBRADE 1.1.4.2.0, e como Desastre de Nível II.",
-          "porQueImporta": "A emergência indica risco iminente à segurança e à infraestrutura da comunidade afetada.",
+          "clusterId": "ae24ccdfd6735f06",
+          "slug": "074a21a0ac6f7e6c",
+          "titulo": "Homem de 25 anos é preso em Buritizeiro após ameaçar matar ex-namorada",
+          "resumo": "Um homem de 25 anos foi detido em Buritizeiro depois de sair de casa ameaçando matar a ex-namorada. A Polícia Militar apreendeu duas armas adaptadas para calibre .22, munições, supressores de ruído artesanais, rádios comunicadores, uma réplica de arma e um celular. A ocorrência foi finalizada nesta quarta-feira (16).",
+          "porQueImporta": "O caso destaca a necessidade de vigilância sobre ameaças de violência doméstica e o porte ilegal de armas.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/16/santarem-decreta-emergencia-no-quilombo-do-arapema-por-avanco-de-terras-caidas.ghtml"
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/16/apos-sair-de-casa-dizendo-que-mataria-a-ex-homem-e-preso-com-armas-e-municoes-em-buritizeiro.ghtml"
             }
           ],
-          "updatedAt": "2026-09-16T19:28:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/54DRWpEopKNopBdtZzsX_HilFsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/h/jOz5z4TPa5R0V7e6678A/tda2uax6gdvosxizwu9ullcuszrunmyqepen0vo0.jpg"
+          "updatedAt": "2026-09-16T22:15:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DVSJ4JiEJvgOogtIDVgMK63aR0Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Z/6EuBMMRGyC4o7g5GBLHw/whatsapp-image-2026-09-16-at-13.33.52-1-1-.jpeg"
         },
         {
-          "clusterId": "2c952d5c6fda1620",
-          "slug": "6782cfad2a88be50",
-          "titulo": "Socio de construtora pede revogação de prisão após desabamento",
-          "resumo": "O sócio de uma construtora que teve um prédio desabado está preso desde o último domingo (13). Na terça-feira (15), o Tribunal de Justiça de São Paulo decidiu manter a prisão. A defesa solicitou a revogação da prisão preventiva. O caso faz parte das investigações sobre o desabamento.",
-          "porQueImporta": "Ilustra a continuidade das ações judiciais após o acidente de construção.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-de-socio-de-construtora-de-predio-que-desabou-pede-revogacao-de-prisao/"
-            }
-          ],
-          "updatedAt": "2026-09-16T19:28:34.000Z"
-        },
-        {
-          "clusterId": "10b3f682cd333c53",
-          "slug": "6c0c4cffb3605332",
-          "titulo": "Homem encontrado morto após o barco virar em Saquarema era empresário e pescava por lazer",
-          "resumo": "Pescador desaparece após barco virar no mar de Saquarema Após cerca de dez horas de buscas equipes do Corpo de Bombeiros encontraram o corpo de Carlos Magno Espíndola Borges, 56 anos, na praia de Vilatur, em Saquarema , na Região dos Lagos do Rio. Carlos estava pescando quando desapareceu, segundo seus amigos, após o barco em que estava virar, na madrugada desta quarta-feira (16). Ele estava acompanhado de outro pescador, que conseguiu se salvar. O acidente aconteceu na altura de Itaúna. Carlos Magno, conhecido como Maguinho era empresário e dono de loja de material de construção em Rio…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "clusterId": "9af07f90c5299320",
+          "slug": "876f1b22f2394a3c",
+          "titulo": "Carro encontrado soterrado na faixa de areia da Praia da Gaivota em Itanhaém",
+          "resumo": "Um veículo ficou parcialmente enterrado na areia da Praia da Gaivota, em Itanhaém, litoral de São Paulo. Apenas o teto do carro permaneceu exposto. A Prefeitura de Itanhaém ainda não divulgou detalhes sobre quando e como o veículo ficou soterrado. O caso foi registrado em imagens divulgadas pelo G1.",
+          "porQueImporta": "O incidente pode indicar condições de risco na praia e requer atenção das autoridades locais.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/16/homem-encontrado-morto-apos-o-barco-virar-em-saquarema-era-empresario-e-pescava-por-lazer.ghtml"
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/16/carro-e-encontrado-soterrado-na-faixa-de-areia-de-praia-em-sp-video.ghtml"
             }
           ],
-          "updatedAt": "2026-09-16T18:30:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Q1colfxNStE1aw2gcqoQKKCq8pQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/5/gbrbfLSGKBaJp64f09Rw/maguinho.jpg"
+          "updatedAt": "2026-09-16T21:52:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/tBBUvkkeNfmenklna4mjalzo1b0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/W/j36l2CQe6mTXeoLsJsaQ/carro-atolado.jpg"
         },
         {
           "clusterId": "903c5de9709d0061",
@@ -437,48 +435,29 @@
       ]
     },
     {
-      "slug": "enchente",
-      "label": "Enchente",
+      "slug": "acidente",
+      "label": "Acidente",
       "stories": [
         {
-          "clusterId": "9212aa7c91146c38",
-          "slug": "2f51dbd574868337",
-          "titulo": "Rua de bairro de Atibaia permanece alagada cinco dias após fortes chuvas",
-          "resumo": "O Jardim Kanimar, em Atibaia, continua com ruas alagadas cinco dias depois das chuvas intensas. A Defesa Civil registrou 165 mm de precipitação entre 10 e 12 de setembro, mais que o dobro da média mensal. A prefeitura precisou atender 61 famílias afetadas. A água está gradualmente diminuindo.",
-          "porQueImporta": "O alagamento prolongado pode afetar a saúde e a mobilidade dos moradores.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "5bd7c6a56b84b1ff",
+          "slug": "12d74e88b81d0b45",
+          "titulo": "Desabamento de mina de ouro no Sudão deixa mais de 80 mortos",
+          "resumo": "Poços da mina de Al‑Zaraa, perto de El‑Nahud, em Kordofan Ocidental, começaram a ruir na terça-feira, resultando em mais de 80 mortes e 50 feridos. Operações de resgate foram realizadas com métodos rudimentares e ainda há suspeita de vítimas presas sob escombros.",
+          "porQueImporta": "O incidente destaca os riscos associados a mineração informal em regiões remotas.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/16/cinco-dias-apos-fortes-chuvas-ruas-de-bairro-de-atibaia-seguem-alagadas-veja-como-ajudar-as-familias-afetadas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-16T19:01:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/oIqoE8p9JHUxv5WczoYbR-jb904=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/N/WfYm6AR5e03CzbwRWKvQ/foto-g1-34-.png"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-trabalho",
-      "label": "Acidente de trabalho",
-      "stories": [
-        {
-          "clusterId": "91870f42563ac6d8",
-          "slug": "52a44385bdb39220",
-          "titulo": "Pedreiro de 67 anos fica ferido após cair de telhado em Limeira",
-          "resumo": "Um pedreiro de 67 anos sofreu uma lesão na cabeça ao cair do telhado de uma obra na Rua Lydia Soares Alves, no bairro Jardim Grêmio, em Limeira (SP). O acidente ocorreu na tarde de quarta-feira (16). A vítima foi socorrida e encaminhada com o helicóptero Águia ao Hospital Estadual de Sumaré. O estado de saúde é considerado grave, segundo a Polícia Militar.",
-          "porQueImporta": "O incidente destaca os riscos de trabalho em altura e a necessidade de medidas de segurança adequadas.",
-          "categoria": "Acidente de trabalho",
-          "categoriaSlug": "acidente-de-trabalho",
-          "sources": [
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/16/mina-de-ouro-desaba-e-deixa-mais-de-80-mortos-no-sudao.ghtml"
+            },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/16/pedreiro-fica-ferido-apos-cair-de-telhado-em-limeira.ghtml"
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/mundo/desabamento-de-mina-de-ouro-no-sudao-deixa-mais-de-80-mortos/"
             }
           ],
-          "updatedAt": "2026-09-16T18:36:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/IvuqP4I0A2IdBDLBBKxP_MnwdrY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/g/yyr3pNQpWxAK6P0XY6hA/pedreiro-limeira.jpg"
+          "updatedAt": "2026-09-16T21:15:39.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/HSV7c_VWEAA4aSl.jpg"
         }
       ]
     },
