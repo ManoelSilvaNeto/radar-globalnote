@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-09-16T19:39:25.820Z",
-  "editionDate": "2026-09-16",
-  "hourUtc": 19,
-  "outcome": "generated",
-  "reason": "\"Acidentes e desastres dominam o panorama, com foco em rodovias e eventos naturais\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-09-17T05:12:23.768Z",
+  "editionDate": "2026-09-17",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
