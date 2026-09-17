@@ -1,15 +1,14 @@
 {
-  "ranAt": "2026-09-17T13:43:29.159Z",
+  "ranAt": "2026-09-17T19:48:25.072Z",
   "editionDate": "2026-09-17",
-  "hourUtc": 13,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 19,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e eventos climáticos dominam a edição\" (4 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
-    "groq: erro — Error: groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for mo",
-    "cerebras: erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "groq: ok"
   ]
 }
