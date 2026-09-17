@@ -1,345 +1,197 @@
 {
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T19:48:25.072Z",
+  "generatedAt": "2026-09-17T23:00:40.546Z",
   "home": [
     {
-      "clusterId": "9398c5b723452a93",
-      "slug": "799f0d2d52a672b9",
-      "titulo": "Precisamos fortalecer a Defesa Civil, diz Cappelli após chuvas no DF",
-      "resumo": "O candidato visitou as regiões próximas às áreas atingidas por chuvas e vendaval no Distrito Federal. Ele destacou a necessidade de fortalecer a Defesa Civil diante dos eventos climáticos. A visita ocorreu na última quarta-feira, 16 de setembro. A mensagem reforça a importância de ações preventivas e de resposta rápida.",
-      "porQueImporta": "Mostra a urgência de melhorar a capacidade de resposta a eventos climáticos extremos no país.",
+      "clusterId": "6e43144ac9a77dde",
+      "slug": "886ce3ef980b65bc",
+      "titulo": "Piloto de pequeno avião morre em queda em Sergipe",
+      "resumo": "Um avião de pequeno porte caiu na zona rural de Macambira, Sergipe, matando o piloto de 61 anos, Orácio José dos Anjos, conhecido como Chitão. O acidente ocorreu nesta quinta-feira (17). O piloto era hobby e havia pilotado há cerca de cinco anos. O amigo Fábio Reis descreveu o falecimento como o fim de um sonho de infância.",
+      "porQueImporta": "O incidente destaca os riscos associados à aviação recreativa em áreas rurais.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/se/sergipe/noticia/2026/09/17/ele-sempre-teve-esse-sonho-de-voar-diz-amigo-de-piloto-que-morreu-apos-queda-de-aeronave-em-sergipe.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-17T22:51:57.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/gEqbIaRGnCIvp0WfTUXItWuD7AY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/T/3pfAEgRkycXyj4ybAEDg/aviao.jpg"
+    },
+    {
+      "clusterId": "aa90487b903cfbb1",
+      "slug": "fc17bd37be67964c",
+      "titulo": "Homem morre soterrado enquanto abria vala para instalar tanque de combustível",
+      "resumo": "Um homem de 58 anos morreu soterrado enquanto escava uma vala para instalar um tanque de combustível em Nova Porteirinha. A vítima trabalhava com duas outras pessoas na escavação. O Corpo de Bombeiros foi acionado às 15h46 e chegou ao local com militares de Janaúba.",
+      "porQueImporta": "O acidente destaca os riscos de trabalho em escavações sem proteção adequada.",
+      "categoria": "Acidente de trabalho",
+      "categoriaSlug": "acidente-de-trabalho",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/17/homem-morre-soterrado-enquanto-abria-vala-para-instalar-tanque-de-combustivel-em-nova-porteirinha.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-17T22:50:44.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Wfit64liIZ7Y2fhPfqUwk4HVSJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/y/t8vj7hQkmW9xsy6zfAyw/whatsapp-image-2026-09-17-at-19.14.29.jpeg"
+    },
+    {
+      "clusterId": "1da7fda8311bac12",
+      "slug": "07e68e8400214a25",
+      "titulo": "Homem morre após cair de andaime de 5 metros em Araxá",
+      "resumo": "Um homem de 45 anos morreu depois de cair de um andaime de aproximadamente cinco metros de altura na rua Santo Antônio, bairro Santo Antônio, em Araxá. O Corpo de Bombeiros encontrou a vítima em parada cardiorrespiratória com múltiplos ferimentos. Os socorristas iniciaram primeiros socorros e reanimação, mas não conseguiram salvar o homem.",
+      "porQueImporta": "O acidente destaca os riscos de trabalho em altura e a necessidade de medidas de segurança adequadas.",
+      "categoria": "Acidente de trabalho",
+      "categoriaSlug": "acidente-de-trabalho",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/17/homem-morre-apos-cair-de-andaime-de-5-metros-em-araxa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-17T22:40:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/IhdeGBzPjmb1jB9FfbQTvY5f86U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/9/PUQiR7R0eK2WZmgQVBIQ/design-sem-nome-2-.png"
+    },
+    {
+      "clusterId": "91c34b0ec6550e57",
+      "slug": "89e8ded1d3a0b095",
+      "titulo": "Ciclone atinge Santa Catarina com ventos de até 100 km/h",
+      "resumo": "O Instituto Nacional de Meteorologia emitiu alerta laranja de perigo para todo o estado de Santa Catarina, Paraná e o noroeste do Rio Grande do Sul. O ciclone chegou ao fim de semana, trazendo ventos de até 100 km/h. As autoridades recomendam precauções e monitoramento constante.",
+      "porQueImporta": "O alerta indica risco de danos e necessidade de preparação das comunidades afetadas.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/precisamos-fortalecer-a-defesa-civil-diz-cappelli-apos-chuvas-no-df"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/ciclone-atinge-santa-catarina-neste-fim-de-semana-com-ventos-de-ate-100km/"
         }
       ],
-      "updatedAt": "2026-09-17T19:37:47.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/cappelli-agenda-planaltina.jpg"
+      "updatedAt": "2026-09-17T22:36:25.000Z"
     },
     {
-      "clusterId": "fb534540589a05d9",
-      "slug": "d3985f5e0964cfd1",
-      "titulo": "Biomédica morre após acidente na GO-305",
-      "resumo": "A biomédica Heloísa Garces Abrão, de 24 anos, morreu depois de perder o controle do carro e capotar na GO-305, perto de Goiandira, em Goiás. O veículo caiu em uma ribanceira e a vítima estava fora do carro quando os bombeiros chegaram. Ela foi resgatada com vida e encaminhada ao hospital, mas não resistiu.",
-      "porQueImporta": "O acidente destaca a importância da segurança no trânsito e os riscos de acidentes em rodovias.",
+      "clusterId": "af0b91cae6072b54",
+      "slug": "163c6b870f14c992",
+      "titulo": "Erik Marmo chamado de herói após ajudar atriz durante incêndio nos EUA",
+      "resumo": "O ator Erik Marmo foi reconhecido como herói depois de socorrer a atriz Marnie Prisand durante um incêndio que atingiu a residência de ex‑atleta da série \"Malhação\" no fim de semana. O incidente ocorreu nos Estados Unidos, onde o fogo também afetou o imóvel do ex‑ator. Marmo compartilhou o relato nas redes sociais, destacando a rapidez e a coragem no momento da emergência.",
+      "porQueImporta": "O episódio demonstra a importância da prontidão e da solidariedade em situações de incêndio residencial.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/erik-marmo-e-chamado-de-heroi-apos-ajudar-atriz-durante-incendio-nos-eua/"
+        }
+      ],
+      "updatedAt": "2026-09-17T22:35:43.000Z"
+    },
+    {
+      "clusterId": "31f2a441e0edc792",
+      "slug": "b7057e6914e113aa",
+      "titulo": "Dois meses após desabamento de casarão, Travessa 13 de Maio segue interditada no centro comercial de Belém",
+      "resumo": "Initial plugin text Dois meses após o desabamento parcial de um prédio, a Travessa 13 de Maio continua interditada para a circulação de veículos no centro comercial de Belém. O bloqueio permanece desde 6 de julho e tem alterado a rotina de trabalhadores, comerciantes, motoristas e pedestres que circulam pela área. Segundo a Secretaria Municipal de Segurança, Ordem Pública e Mobilidade (Segbel), ainda são realizados serviços de escoramento e estabilização do imóvel. O trabalho é executado por uma empresa privada contratada pelo proprietário do prédio, responsável pela manutenção e conservação…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pa/para/noticia/2026/09/17/dois-meses-apos-desabamento-de-casarao-travessa-13-de-maio-segue-interditada-no-centro-comercial-de-belem.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-17T22:14:32.000Z"
+    },
+    {
+      "clusterId": "abe628a7564f53c0",
+      "slug": "441908246ed6afdc",
+      "titulo": "Irmãos gêmeos morrem após colisão com retroescavadeira no Ceará",
+      "resumo": "Dois irmãos gêmeos, Francisco Wesley e Francisco Wendel Pereira de Andrade, de 29 anos, morreram em um acidente de trânsito na CE-060, na zona rural de Itapiúna, interior do Ceará. O carro em que estavam colidiu com uma retroescavadeira entre os distritos de Itans e Caio Prado.",
+      "porQueImporta": "O acidente destaca a necessidade de segurança viária em estradas rurais do estado.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/go/goias/noticia/2026/09/17/biomedica-morre-apos-carro-cair-em-ribanceira-na-go-305.ghtml"
+          "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/17/irmaos-gemeos-morrem-apos-carro-colidir-contra-retroescavadeira-em-estrada-do-ceara.ghtml"
         }
       ],
-      "updatedAt": "2026-09-17T19:34:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/HR3_gNVNA1DQn8O4PGyPo66GJe0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Z/LNR12NTHS0XAkqtEcBLg/copia-de-copia-de-padrao-foto-g1-goias-45-.jpg"
+      "updatedAt": "2026-09-17T21:47:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YGJb-A5nX02VMjg6NH306lqXf6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/q/Bd8agcQUuIiLTYEkzjRg/acidente-itapiuna.jpg"
     },
     {
-      "clusterId": "9181574017bd1e27",
-      "slug": "8058522f7556b586",
-      "titulo": "Estudo aponta sismo prévio e aquecimento global como fatores na queda da Langtang Lirung",
-      "resumo": "Um estudo científico indica que um terremoto anterior pode ter enfraquecido a montanha Langtang Lirung, contribuindo para seu colapso durante as inundações na fronteira entre Nepal e China. A pesquisa destaca que o aquecimento global aumentou a vulnerabilidade da região ao aumento do fluxo de água. O desabamento resultou em mortes e destruição de comunidades locais.",
-      "porQueImporta": "Entender os fatores que levaram ao desastre ajuda na prevenção de futuros desastres na região.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
+      "clusterId": "d5e994660e93ca75",
+      "slug": "79082cd359f9a35c",
+      "titulo": "Menino de 11 anos morre após ser atingido por trave de futebol em escola estadual",
+      "resumo": "Um menino de 11 anos, identificado como Fabian Alexander Zerpa Bermudez, morreu depois de ser atingido por uma trave de futebol em uma escola estadual de Caxias do Sul, no Rio Grande do Sul. A família descreve o garoto como dedicado aos estudos. A polícia aguarda laudos periciais e os parentes esperam respostas sobre o acidente.",
+      "porQueImporta": "O incidente destaca a necessidade de segurança em ambientes escolares.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/ciencia/o-que-cientistas-acreditam-ter-acontecido-na-onda-de-inundacoes-mortais-na-fronteira-entre-o-nepal-e-a-china/"
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/17/dor-fatal-diz-tia-menino-venezuelano-morto-atingido-goleira-escola-estadual-rs.ghtml"
         }
       ],
-      "updatedAt": "2026-09-17T19:11:28.000Z"
+      "updatedAt": "2026-09-17T21:23:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Xkxp_eBnMPLP24BbXZVFnl37Sbo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/j/QZAAkrQJC0rXrRKJiLwg/g1-2026-09-17t164601.762.jpg"
     },
     {
-      "clusterId": "3d670be1207f54b0",
-      "slug": "796b07a83aec3007",
-      "titulo": "Prefeitura de Três Corações declara emergência após temporal",
-      "resumo": "A Defesa Civil registrou mais de 700 chamados durante o temporal que atingiu Três Corações na última terça-feira. O município deverá decretar situação de emergência entre quinta e sexta-feira. As ações incluem remoção de árvores, desobstrução de vias e atendimento às famílias afetadas, especialmente no bairro Santa Tereza.",
-      "porQueImporta": "A declaração de emergência indica a gravidade dos danos e a necessidade de recursos urgentes para recuperação.",
+      "clusterId": "88a704a475f367a0",
+      "slug": "e97e0e20f2b12d32",
+      "titulo": "Ex-jogador do Uberlândia Esporte Clube morre afogado em pescaria em Uberlândia",
+      "resumo": "Adailton Casarotti, 74 anos, ex-jogador do Uberlândia Esporte Clube, morreu afogado em um pesqueiro no distrito de Martinésia, Uberlândia. O acidente ocorreu na tarde de quarta-feira. Casarotti era conhecido como “Galego” e manteve vínculos com o clube após a aposentadoria, inclusive no Conselho Deliberativo.",
+      "porQueImporta": "O falecimento de um ídolo local destaca a importância da segurança em atividades recreativas.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/17/quem-era-o-ex-jogador-do-uberlandia-esporte-clube-que-morreu-afogado-durante-pescaria-em-mg.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-17T21:18:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HWsYzAFsTvbkZAMx-7Njsudo0E0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/P/Qq2UR8Q7OPJhfwoAnK1g/design-sem-nome-1-.png"
+    },
+    {
+      "clusterId": "ff030e4d3913bf95",
+      "slug": "13920f56b50f66b7",
+      "titulo": "Estudo aponta influência das mudanças climáticas nas inundações no Nepal",
+      "resumo": "Um estudo revelou que as mudanças climáticas intensificaram as inundações e deslizamentos que ocorreram em agosto no Nepal, resultando em mais de 1,4 mil mortes e milhares de desaparecidos. As enchentes atingiram regiões montanhosas, onde a precipitação excessiva causou deslizamentos de terra. O relatório destaca que o aumento das temperaturas globais contribui para chuvas mais intensas e frequentes. As autoridades locais continuam buscando vítimas e avaliando os danos.",
+      "porQueImporta": "O achado reforça a ligação entre o aquecimento global e desastres naturais, indicando a necessidade de medidas de adaptação e mitigação.",
       "categoria": "Enchente",
       "categoriaSlug": "enchente",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/17/tres-coracoes-deve-decretar-situacao-de-emergencia-apos-temporal-que-destelhou-350-casas.ghtml"
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cmeq8vjx90e1o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-09-17T18:58:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mXzpoQHGd9q-OafhPG1dsmJPL-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/e/y7YVK2RCOd2TokcQ7ZQA/chuvatc.png"
-    },
-    {
-      "clusterId": "bc980daf20c5d59e",
-      "slug": "b3ba42194f046dfb",
-      "titulo": "Acidente em Criciúma causa morte de gêmea e ferimento grave de irmã",
-      "resumo": "Um veículo de alta velocidade atingiu duas gêmeas que iam de carro para a igreja em Criciúma, SC. A vítima de 15 anos morreu e a irmã, também de 15 anos, ficou gravemente ferida. O motorista, de 61 anos, permanece preso em regime de preventiva. O Ministério Público considera o caso como homicídio com dolo eventual.",
-      "porQueImporta": "O incidente destaca a gravidade de acidentes de trânsito e a necessidade de fiscalização rigorosa.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/17/mp-homicidio-dolo-eventual-gemeas-motorista-preso-sc.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-17T18:46:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6rJH4_casX-JRQlcCuPi5CbyEIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/p6YkS9TKCi27ETnw0JSw/mp-ve-homicidio-com-dolo-eventual-em-acidente-que-matou-gemea-deixou-irma-ferida-e-motorista-segue-preso.jpg"
-    },
-    {
-      "clusterId": "8ea63cb531d2682f",
-      "slug": "a2a141c996244c02",
-      "titulo": "Caminhonete bate em bicicleta elétrica e deixa pai e filha feridos na BR-163 em Campo Grande",
-      "resumo": "Na tarde de quinta-feira, uma caminhonete colidiu com uma bicicleta elétrica no anel rodoviário da BR-163, na região do Jardim Veraneio, em Campo Grande. O homem e a filha, de 2 ou 3 anos, foram arremessados para fora da pista e ficaram feridos; o pai foi encaminhado em estado grave ao hospital, enquanto a filha estava consciente e estável. A bicicleta elétrica ficou completamente destruída.",
-      "porQueImporta": "O acidente destaca os riscos de colisões entre veículos de grande porte e bicicletas elétricas em rodovias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/17/pai-e-filha-ficam-feridos-apos-bicicleta-eletrica-ser-atingida-por-caminhonete-na-br-163-em-campo-grande.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-17T18:34:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/MpG8EfdvlEngh9GJVJDXIYt0pzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/G/VnI1QSS5KKlr8rLxWhxg/1200-x-800-92-.jpg"
-    },
-    {
-      "clusterId": "6763dde0eada8146",
-      "slug": "e883cf5775c27cf1",
-      "titulo": "MP investiga rompimentos de adutoras em Manaus",
-      "resumo": "O Ministério Público do Amazonas abriu investigação após dois rompimentos de adutoras na Zona Oeste de Manaus, que causaram alagamentos, interdições de vias e afetaram o abastecimento de água. Os vazamentos ocorreram na quarta-feira (16) na Avenida Coronel Teixeira e na rua Guanapuri, no bairro Compensa. A investigação busca esclarecer as causas dos rompimentos e por que as falhas ocorreram repetidamente.",
-      "porQueImporta": "A investigação visa garantir a segurança e a continuidade do abastecimento de água na capital.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/17/mp-investiga-rompimentos-de-adutoras-e-cobra-explicacoes-sobre-falhas-recorrentes-em-manaus.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-17T18:12:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CywcfkUj285eHzVOgYPzDNkhkVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/H/ddVBeJRZ6yoJn8xqJAEQ/mp-investiga-rompimentos-de-adutoras-e-cobra-explicacoes-sobre-falhas-recorrentes-em-manaus-foto-divulgacao-mpam.jpeg"
-    },
-    {
-      "clusterId": "436e9af882e82816",
-      "slug": "e7834111d1d6ef25",
-      "titulo": "Carro fica espremido embaixo de caminhão e ocupantes saem ilesos",
-      "resumo": "Um Fiat Uno ficou espremido embaixo de um caminhão no km 102 da BR-060, em Anápolis, Goiás. O veículo ficou destruído, mas os passageiros, de 29 e 41 anos, não se feriram. O motorista do caminhão, de 42 anos, também saiu ileso. O acidente ocorreu quando o caminhão mudou de faixa para evitar bater em outro veículo.",
-      "porQueImporta": "O incidente demonstra a gravidade de colisões em rodovias e a importância de medidas de segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/go/goias/noticia/2026/09/17/carro-fica-espremido-embaixo-de-caminhao-mas-ocupantes-saem-ilesos-imagem-impressionante.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-17T17:58:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/eJ5eynoDa0YoS0FXew0UYflzJF0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/DZBlDYTzAtE45jQEOFQw/imagens-g1-31-.png"
-    },
-    {
-      "clusterId": "bd69463c005fa857",
-      "slug": "6925f7b115cd6bb7",
-      "titulo": "Perícia confirma que corpo achado em carro submerso no Rio Matapi é de motorista desaparecido no AP",
-      "resumo": "Corpo de Bombeiros retira carro que afundou no rio na madrugada de domingo A Secretaria de Estado de Justiça e Segurança Pública (Sejusp) confirmou nesta quinta-feira (17) que o corpo encontrado dentro de um carro submerso no Rio Matapi é do motorista de caminhão Marcelo Soares, que estava desaparecido desde o último domingo (13). O veículo foi localizado e retirado do rio na quarta-feira (16), no trecho abaixo da ponte entre Santana e Mazagão, a 17 km de Macapá. Exames da Polícia Científica do Amapá (PCA) identificaram a vítima e atestaram que a causa da morte foi afogamento. Motorista…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/17/pericia-confirma-que-corpo-achado-em-carro-submerso-no-rio-matapi-e-de-motorista-desaparecido-no-ap.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-17T17:45:07.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1XZP40y5EQxGpZZKm6RS10WDagc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/2/z4LBxVSWGdI8R2XrifcA/buscass-desaparecido-2.jpg"
-    },
-    {
-      "clusterId": "1947cfd643416754",
-      "slug": "79023f84274f40bc",
-      "titulo": "João Fonseca fala sobre lesão no US Open: “Muito chata”",
-      "resumo": "Após se recuperar de lesão, tenista brasileiro retorna às quadras pela Copa Davis e pode enfrentar o lendário Stan Wawrinka no Rio de Janeiro",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-fala-sobre-lesao-no-us-open-muito-chata/"
-        }
-      ],
-      "updatedAt": "2026-09-17T17:16:26.000Z"
+      "updatedAt": "2026-09-17T19:45:28.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7364/live/ed40ce00-b249-11f1-a45e-d7e94b0e7f98.jpg"
     }
   ],
   "categorias": [
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "fb534540589a05d9",
-          "slug": "d3985f5e0964cfd1",
-          "titulo": "Biomédica morre após acidente na GO-305",
-          "resumo": "A biomédica Heloísa Garces Abrão, de 24 anos, morreu depois de perder o controle do carro e capotar na GO-305, perto de Goiandira, em Goiás. O veículo caiu em uma ribanceira e a vítima estava fora do carro quando os bombeiros chegaram. Ela foi resgatada com vida e encaminhada ao hospital, mas não resistiu.",
-          "porQueImporta": "O acidente destaca a importância da segurança no trânsito e os riscos de acidentes em rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/09/17/biomedica-morre-apos-carro-cair-em-ribanceira-na-go-305.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-17T19:34:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/HR3_gNVNA1DQn8O4PGyPo66GJe0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Z/LNR12NTHS0XAkqtEcBLg/copia-de-copia-de-padrao-foto-g1-goias-45-.jpg"
-        },
-        {
-          "clusterId": "bc980daf20c5d59e",
-          "slug": "b3ba42194f046dfb",
-          "titulo": "Acidente em Criciúma causa morte de gêmea e ferimento grave de irmã",
-          "resumo": "Um veículo de alta velocidade atingiu duas gêmeas que iam de carro para a igreja em Criciúma, SC. A vítima de 15 anos morreu e a irmã, também de 15 anos, ficou gravemente ferida. O motorista, de 61 anos, permanece preso em regime de preventiva. O Ministério Público considera o caso como homicídio com dolo eventual.",
-          "porQueImporta": "O incidente destaca a gravidade de acidentes de trânsito e a necessidade de fiscalização rigorosa.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/17/mp-homicidio-dolo-eventual-gemeas-motorista-preso-sc.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-17T18:46:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6rJH4_casX-JRQlcCuPi5CbyEIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/p6YkS9TKCi27ETnw0JSw/mp-ve-homicidio-com-dolo-eventual-em-acidente-que-matou-gemea-deixou-irma-ferida-e-motorista-segue-preso.jpg"
-        },
-        {
-          "clusterId": "8ea63cb531d2682f",
-          "slug": "a2a141c996244c02",
-          "titulo": "Caminhonete bate em bicicleta elétrica e deixa pai e filha feridos na BR-163 em Campo Grande",
-          "resumo": "Na tarde de quinta-feira, uma caminhonete colidiu com uma bicicleta elétrica no anel rodoviário da BR-163, na região do Jardim Veraneio, em Campo Grande. O homem e a filha, de 2 ou 3 anos, foram arremessados para fora da pista e ficaram feridos; o pai foi encaminhado em estado grave ao hospital, enquanto a filha estava consciente e estável. A bicicleta elétrica ficou completamente destruída.",
-          "porQueImporta": "O acidente destaca os riscos de colisões entre veículos de grande porte e bicicletas elétricas em rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/17/pai-e-filha-ficam-feridos-apos-bicicleta-eletrica-ser-atingida-por-caminhonete-na-br-163-em-campo-grande.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-17T18:34:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MpG8EfdvlEngh9GJVJDXIYt0pzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/G/VnI1QSS5KKlr8rLxWhxg/1200-x-800-92-.jpg"
-        },
-        {
-          "clusterId": "436e9af882e82816",
-          "slug": "e7834111d1d6ef25",
-          "titulo": "Carro fica espremido embaixo de caminhão e ocupantes saem ilesos",
-          "resumo": "Um Fiat Uno ficou espremido embaixo de um caminhão no km 102 da BR-060, em Anápolis, Goiás. O veículo ficou destruído, mas os passageiros, de 29 e 41 anos, não se feriram. O motorista do caminhão, de 42 anos, também saiu ileso. O acidente ocorreu quando o caminhão mudou de faixa para evitar bater em outro veículo.",
-          "porQueImporta": "O incidente demonstra a gravidade de colisões em rodovias e a importância de medidas de segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/09/17/carro-fica-espremido-embaixo-de-caminhao-mas-ocupantes-saem-ilesos-imagem-impressionante.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-17T17:58:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/eJ5eynoDa0YoS0FXew0UYflzJF0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/DZBlDYTzAtE45jQEOFQw/imagens-g1-31-.png"
-        },
-        {
-          "clusterId": "9d4261e25581ad69",
-          "slug": "86920ba61be4b59f",
-          "titulo": "Motorista de ônibus dorme ao volante e bate em árvores nos EUA",
-          "resumo": "Em Geórgia, um motorista de ônibus adormece enquanto o veículo está parado em semáforo. Aproximadamente dez minutos depois, ele volta a dormir e o ônibus colide com árvores. Três pessoas ficaram feridas. Câmeras internas registraram o acidente.",
-          "porQueImporta": "O incidente destaca riscos de fadiga ao dirigir veículos de transporte coletivo.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/15/video-motorista-de-onibus-dorme-ao-volante-e-bate-em-arvores-nos-eua.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-15T22:11:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RluC-2SccoFPd4a5nIJAon80yD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/M/3t5tLwRkAyBMPdg3CXVQ/ezgif-54c5bf882651f4f5.gif"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "6763dde0eada8146",
-          "slug": "e883cf5775c27cf1",
-          "titulo": "MP investiga rompimentos de adutoras em Manaus",
-          "resumo": "O Ministério Público do Amazonas abriu investigação após dois rompimentos de adutoras na Zona Oeste de Manaus, que causaram alagamentos, interdições de vias e afetaram o abastecimento de água. Os vazamentos ocorreram na quarta-feira (16) na Avenida Coronel Teixeira e na rua Guanapuri, no bairro Compensa. A investigação busca esclarecer as causas dos rompimentos e por que as falhas ocorreram repetidamente.",
-          "porQueImporta": "A investigação visa garantir a segurança e a continuidade do abastecimento de água na capital.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/09/17/mp-investiga-rompimentos-de-adutoras-e-cobra-explicacoes-sobre-falhas-recorrentes-em-manaus.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-17T18:12:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CywcfkUj285eHzVOgYPzDNkhkVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/H/ddVBeJRZ6yoJn8xqJAEQ/mp-investiga-rompimentos-de-adutoras-e-cobra-explicacoes-sobre-falhas-recorrentes-em-manaus-foto-divulgacao-mpam.jpeg"
-        },
-        {
-          "clusterId": "bd69463c005fa857",
-          "slug": "6925f7b115cd6bb7",
-          "titulo": "Perícia confirma que corpo achado em carro submerso no Rio Matapi é de motorista desaparecido no AP",
-          "resumo": "Corpo de Bombeiros retira carro que afundou no rio na madrugada de domingo A Secretaria de Estado de Justiça e Segurança Pública (Sejusp) confirmou nesta quinta-feira (17) que o corpo encontrado dentro de um carro submerso no Rio Matapi é do motorista de caminhão Marcelo Soares, que estava desaparecido desde o último domingo (13). O veículo foi localizado e retirado do rio na quarta-feira (16), no trecho abaixo da ponte entre Santana e Mazagão, a 17 km de Macapá. Exames da Polícia Científica do Amapá (PCA) identificaram a vítima e atestaram que a causa da morte foi afogamento. Motorista…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/17/pericia-confirma-que-corpo-achado-em-carro-submerso-no-rio-matapi-e-de-motorista-desaparecido-no-ap.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-17T17:45:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1XZP40y5EQxGpZZKm6RS10WDagc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/2/z4LBxVSWGdI8R2XrifcA/buscass-desaparecido-2.jpg"
-        },
-        {
-          "clusterId": "1947cfd643416754",
-          "slug": "79023f84274f40bc",
-          "titulo": "João Fonseca fala sobre lesão no US Open: “Muito chata”",
-          "resumo": "Após se recuperar de lesão, tenista brasileiro retorna às quadras pela Copa Davis e pode enfrentar o lendário Stan Wawrinka no Rio de Janeiro",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-fala-sobre-lesao-no-us-open-muito-chata/"
-            }
-          ],
-          "updatedAt": "2026-09-17T17:16:26.000Z"
-        },
-        {
-          "clusterId": "903c5de9709d0061",
-          "slug": "5b8609f5261c90dd",
-          "titulo": "Tiktoker é condenado a 16 anos de prisão por atropelar e matar mãe e filha na Argentina",
-          "resumo": "Um tiktoker acusado de atropelar e matar mãe e filha foi condenado a 16 anos de prisão nesta terça-feira (15), na Argentina. Segundo as investigações, Agustín López Gagliasso dirigia a 120 km/h enquanto perseguia um motociclista com quem havia se desentendido. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O caso aconteceu em janeiro de 2025, em Rosário. Segundo o jornal Clarín, o influenciador digital, que hoje tem 22 anos, atropelou quatro pessoas de uma mesma família que visitavam a região durante as férias. De acordo com a imprensa argentina, as vítimas foram atropeladas em…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/09/15/tiktoker-e-condenado-a-16-anos-de-prisao-por-atropelar-e-matar-mae-e-filha-na-argentina.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-16T00:59:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dOumuaoBfJu-QGGDAhAmAakcPoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/W/AzWclPSsC9LBOCpfDKUw/tiktok.jpg"
-        }
-      ]
-    },
-    {
       "slug": "acidente-aereo",
       "label": "Acidente aéreo",
       "stories": [
+        {
+          "clusterId": "6e43144ac9a77dde",
+          "slug": "886ce3ef980b65bc",
+          "titulo": "Piloto de pequeno avião morre em queda em Sergipe",
+          "resumo": "Um avião de pequeno porte caiu na zona rural de Macambira, Sergipe, matando o piloto de 61 anos, Orácio José dos Anjos, conhecido como Chitão. O acidente ocorreu nesta quinta-feira (17). O piloto era hobby e havia pilotado há cerca de cinco anos. O amigo Fábio Reis descreveu o falecimento como o fim de um sonho de infância.",
+          "porQueImporta": "O incidente destaca os riscos associados à aviação recreativa em áreas rurais.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/09/17/ele-sempre-teve-esse-sonho-de-voar-diz-amigo-de-piloto-que-morreu-apos-queda-de-aeronave-em-sergipe.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-17T22:51:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gEqbIaRGnCIvp0WfTUXItWuD7AY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/T/3pfAEgRkycXyj4ybAEDg/aviao.jpg"
+        },
         {
           "clusterId": "73f4aac40a4494ab",
           "slug": "84ccbb9ef3fcaba2",
@@ -394,70 +246,98 @@
       ]
     },
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
+      "slug": "geral",
+      "label": "Geral",
       "stories": [
         {
-          "clusterId": "9398c5b723452a93",
-          "slug": "799f0d2d52a672b9",
-          "titulo": "Precisamos fortalecer a Defesa Civil, diz Cappelli após chuvas no DF",
-          "resumo": "O candidato visitou as regiões próximas às áreas atingidas por chuvas e vendaval no Distrito Federal. Ele destacou a necessidade de fortalecer a Defesa Civil diante dos eventos climáticos. A visita ocorreu na última quarta-feira, 16 de setembro. A mensagem reforça a importância de ações preventivas e de resposta rápida.",
-          "porQueImporta": "Mostra a urgência de melhorar a capacidade de resposta a eventos climáticos extremos no país.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/precisamos-fortalecer-a-defesa-civil-diz-cappelli-apos-chuvas-no-df"
-            }
-          ],
-          "updatedAt": "2026-09-17T19:37:47.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/09/cappelli-agenda-planaltina.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
-      "stories": [
-        {
-          "clusterId": "9181574017bd1e27",
-          "slug": "8058522f7556b586",
-          "titulo": "Estudo aponta sismo prévio e aquecimento global como fatores na queda da Langtang Lirung",
-          "resumo": "Um estudo científico indica que um terremoto anterior pode ter enfraquecido a montanha Langtang Lirung, contribuindo para seu colapso durante as inundações na fronteira entre Nepal e China. A pesquisa destaca que o aquecimento global aumentou a vulnerabilidade da região ao aumento do fluxo de água. O desabamento resultou em mortes e destruição de comunidades locais.",
-          "porQueImporta": "Entender os fatores que levaram ao desastre ajuda na prevenção de futuros desastres na região.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/ciencia/o-que-cientistas-acreditam-ter-acontecido-na-onda-de-inundacoes-mortais-na-fronteira-entre-o-nepal-e-a-china/"
-            }
-          ],
-          "updatedAt": "2026-09-17T19:11:28.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "3d670be1207f54b0",
-          "slug": "796b07a83aec3007",
-          "titulo": "Prefeitura de Três Corações declara emergência após temporal",
-          "resumo": "A Defesa Civil registrou mais de 700 chamados durante o temporal que atingiu Três Corações na última terça-feira. O município deverá decretar situação de emergência entre quinta e sexta-feira. As ações incluem remoção de árvores, desobstrução de vias e atendimento às famílias afetadas, especialmente no bairro Santa Tereza.",
-          "porQueImporta": "A declaração de emergência indica a gravidade dos danos e a necessidade de recursos urgentes para recuperação.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "31f2a441e0edc792",
+          "slug": "b7057e6914e113aa",
+          "titulo": "Dois meses após desabamento de casarão, Travessa 13 de Maio segue interditada no centro comercial de Belém",
+          "resumo": "Initial plugin text Dois meses após o desabamento parcial de um prédio, a Travessa 13 de Maio continua interditada para a circulação de veículos no centro comercial de Belém. O bloqueio permanece desde 6 de julho e tem alterado a rotina de trabalhadores, comerciantes, motoristas e pedestres que circulam pela área. Segundo a Secretaria Municipal de Segurança, Ordem Pública e Mobilidade (Segbel), ainda são realizados serviços de escoramento e estabilização do imóvel. O trabalho é executado por uma empresa privada contratada pelo proprietário do prédio, responsável pela manutenção e conservação…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/17/tres-coracoes-deve-decretar-situacao-de-emergencia-apos-temporal-que-destelhou-350-casas.ghtml"
+              "url": "https://g1.globo.com/pa/para/noticia/2026/09/17/dois-meses-apos-desabamento-de-casarao-travessa-13-de-maio-segue-interditada-no-centro-comercial-de-belem.ghtml"
             }
           ],
-          "updatedAt": "2026-09-17T18:58:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mXzpoQHGd9q-OafhPG1dsmJPL-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/e/y7YVK2RCOd2TokcQ7ZQA/chuvatc.png"
+          "updatedAt": "2026-09-17T22:14:32.000Z"
+        },
+        {
+          "clusterId": "d5e994660e93ca75",
+          "slug": "79082cd359f9a35c",
+          "titulo": "Menino de 11 anos morre após ser atingido por trave de futebol em escola estadual",
+          "resumo": "Um menino de 11 anos, identificado como Fabian Alexander Zerpa Bermudez, morreu depois de ser atingido por uma trave de futebol em uma escola estadual de Caxias do Sul, no Rio Grande do Sul. A família descreve o garoto como dedicado aos estudos. A polícia aguarda laudos periciais e os parentes esperam respostas sobre o acidente.",
+          "porQueImporta": "O incidente destaca a necessidade de segurança em ambientes escolares.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/17/dor-fatal-diz-tia-menino-venezuelano-morto-atingido-goleira-escola-estadual-rs.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-17T21:23:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Xkxp_eBnMPLP24BbXZVFnl37Sbo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/j/QZAAkrQJC0rXrRKJiLwg/g1-2026-09-17t164601.762.jpg"
+        },
+        {
+          "clusterId": "903c5de9709d0061",
+          "slug": "5b8609f5261c90dd",
+          "titulo": "Tiktoker é condenado a 16 anos de prisão por atropelar e matar mãe e filha na Argentina",
+          "resumo": "Um tiktoker acusado de atropelar e matar mãe e filha foi condenado a 16 anos de prisão nesta terça-feira (15), na Argentina. Segundo as investigações, Agustín López Gagliasso dirigia a 120 km/h enquanto perseguia um motociclista com quem havia se desentendido. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O caso aconteceu em janeiro de 2025, em Rosário. Segundo o jornal Clarín, o influenciador digital, que hoje tem 22 anos, atropelou quatro pessoas de uma mesma família que visitavam a região durante as férias. De acordo com a imprensa argentina, as vítimas foram atropeladas em…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/09/15/tiktoker-e-condenado-a-16-anos-de-prisao-por-atropelar-e-matar-mae-e-filha-na-argentina.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-16T00:59:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dOumuaoBfJu-QGGDAhAmAakcPoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/W/AzWclPSsC9LBOCpfDKUw/tiktok.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-trabalho",
+      "label": "Acidente de trabalho",
+      "stories": [
+        {
+          "clusterId": "aa90487b903cfbb1",
+          "slug": "fc17bd37be67964c",
+          "titulo": "Homem morre soterrado enquanto abria vala para instalar tanque de combustível",
+          "resumo": "Um homem de 58 anos morreu soterrado enquanto escava uma vala para instalar um tanque de combustível em Nova Porteirinha. A vítima trabalhava com duas outras pessoas na escavação. O Corpo de Bombeiros foi acionado às 15h46 e chegou ao local com militares de Janaúba.",
+          "porQueImporta": "O acidente destaca os riscos de trabalho em escavações sem proteção adequada.",
+          "categoria": "Acidente de trabalho",
+          "categoriaSlug": "acidente-de-trabalho",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/17/homem-morre-soterrado-enquanto-abria-vala-para-instalar-tanque-de-combustivel-em-nova-porteirinha.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-17T22:50:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Wfit64liIZ7Y2fhPfqUwk4HVSJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/y/t8vj7hQkmW9xsy6zfAyw/whatsapp-image-2026-09-17-at-19.14.29.jpeg"
+        },
+        {
+          "clusterId": "1da7fda8311bac12",
+          "slug": "07e68e8400214a25",
+          "titulo": "Homem morre após cair de andaime de 5 metros em Araxá",
+          "resumo": "Um homem de 45 anos morreu depois de cair de um andaime de aproximadamente cinco metros de altura na rua Santo Antônio, bairro Santo Antônio, em Araxá. O Corpo de Bombeiros encontrou a vítima em parada cardiorrespiratória com múltiplos ferimentos. Os socorristas iniciaram primeiros socorros e reanimação, mas não conseguiram salvar o homem.",
+          "porQueImporta": "O acidente destaca os riscos de trabalho em altura e a necessidade de medidas de segurança adequadas.",
+          "categoria": "Acidente de trabalho",
+          "categoriaSlug": "acidente-de-trabalho",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/17/homem-morre-apos-cair-de-andaime-de-5-metros-em-araxa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-17T22:40:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/IhdeGBzPjmb1jB9FfbQTvY5f86U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/9/PUQiR7R0eK2WZmgQVBIQ/design-sem-nome-2-.png"
         }
       ]
     },
@@ -465,6 +345,23 @@
       "slug": "acidente",
       "label": "Acidente",
       "stories": [
+        {
+          "clusterId": "88a704a475f367a0",
+          "slug": "e97e0e20f2b12d32",
+          "titulo": "Ex-jogador do Uberlândia Esporte Clube morre afogado em pescaria em Uberlândia",
+          "resumo": "Adailton Casarotti, 74 anos, ex-jogador do Uberlândia Esporte Clube, morreu afogado em um pesqueiro no distrito de Martinésia, Uberlândia. O acidente ocorreu na tarde de quarta-feira. Casarotti era conhecido como “Galego” e manteve vínculos com o clube após a aposentadoria, inclusive no Conselho Deliberativo.",
+          "porQueImporta": "O falecimento de um ídolo local destaca a importância da segurança em atividades recreativas.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/17/quem-era-o-ex-jogador-do-uberlandia-esporte-clube-que-morreu-afogado-durante-pescaria-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-17T21:18:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HWsYzAFsTvbkZAMx-7Njsudo0E0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/P/Qq2UR8Q7OPJhfwoAnK1g/design-sem-nome-1-.png"
+        },
         {
           "clusterId": "d6eae752a3bc8764",
           "slug": "12d74e88b81d0b45",
@@ -481,6 +378,96 @@
           ],
           "updatedAt": "2026-09-16T19:39:26.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/gAGjP8g4W0UqAmy0oHiXxWUL2SA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/L/ks9wbtSIefNg8zCxlVyw/7ca27baf-91ca-4432-b41d-c465bf263651.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "91c34b0ec6550e57",
+          "slug": "89e8ded1d3a0b095",
+          "titulo": "Ciclone atinge Santa Catarina com ventos de até 100 km/h",
+          "resumo": "O Instituto Nacional de Meteorologia emitiu alerta laranja de perigo para todo o estado de Santa Catarina, Paraná e o noroeste do Rio Grande do Sul. O ciclone chegou ao fim de semana, trazendo ventos de até 100 km/h. As autoridades recomendam precauções e monitoramento constante.",
+          "porQueImporta": "O alerta indica risco de danos e necessidade de preparação das comunidades afetadas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/ciclone-atinge-santa-catarina-neste-fim-de-semana-com-ventos-de-ate-100km/"
+            }
+          ],
+          "updatedAt": "2026-09-17T22:36:25.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "af0b91cae6072b54",
+          "slug": "163c6b870f14c992",
+          "titulo": "Erik Marmo chamado de herói após ajudar atriz durante incêndio nos EUA",
+          "resumo": "O ator Erik Marmo foi reconhecido como herói depois de socorrer a atriz Marnie Prisand durante um incêndio que atingiu a residência de ex‑atleta da série \"Malhação\" no fim de semana. O incidente ocorreu nos Estados Unidos, onde o fogo também afetou o imóvel do ex‑ator. Marmo compartilhou o relato nas redes sociais, destacando a rapidez e a coragem no momento da emergência.",
+          "porQueImporta": "O episódio demonstra a importância da prontidão e da solidariedade em situações de incêndio residencial.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/pop/celebridades/erik-marmo-e-chamado-de-heroi-apos-ajudar-atriz-durante-incendio-nos-eua/"
+            }
+          ],
+          "updatedAt": "2026-09-17T22:35:43.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "abe628a7564f53c0",
+          "slug": "441908246ed6afdc",
+          "titulo": "Irmãos gêmeos morrem após colisão com retroescavadeira no Ceará",
+          "resumo": "Dois irmãos gêmeos, Francisco Wesley e Francisco Wendel Pereira de Andrade, de 29 anos, morreram em um acidente de trânsito na CE-060, na zona rural de Itapiúna, interior do Ceará. O carro em que estavam colidiu com uma retroescavadeira entre os distritos de Itans e Caio Prado.",
+          "porQueImporta": "O acidente destaca a necessidade de segurança viária em estradas rurais do estado.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/17/irmaos-gemeos-morrem-apos-carro-colidir-contra-retroescavadeira-em-estrada-do-ceara.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-17T21:47:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YGJb-A5nX02VMjg6NH306lqXf6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/q/Bd8agcQUuIiLTYEkzjRg/acidente-itapiuna.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "ff030e4d3913bf95",
+          "slug": "13920f56b50f66b7",
+          "titulo": "Estudo aponta influência das mudanças climáticas nas inundações no Nepal",
+          "resumo": "Um estudo revelou que as mudanças climáticas intensificaram as inundações e deslizamentos que ocorreram em agosto no Nepal, resultando em mais de 1,4 mil mortes e milhares de desaparecidos. As enchentes atingiram regiões montanhosas, onde a precipitação excessiva causou deslizamentos de terra. O relatório destaca que o aumento das temperaturas globais contribui para chuvas mais intensas e frequentes. As autoridades locais continuam buscando vítimas e avaliando os danos.",
+          "porQueImporta": "O achado reforça a ligação entre o aquecimento global e desastres naturais, indicando a necessidade de medidas de adaptação e mitigação.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cmeq8vjx90e1o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-09-17T19:45:28.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7364/live/ed40ce00-b249-11f1-a45e-d7e94b0e7f98.jpg"
         }
       ]
     },
