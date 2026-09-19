@@ -1,327 +1,250 @@
 {
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T18:46:35.903Z",
+  "generatedAt": "2026-09-19T22:26:13.072Z",
   "home": [
     {
-      "clusterId": "faefc5be6e8da1ed",
-      "slug": "ae17eb0af81f05b8",
-      "titulo": "Alerta de perigo para tempestades no Paraná e Rio Grande do Sul",
-      "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta laranja para todo o Paraná, prevendo chuvas de 50 a 100 mm/dia e ventos de 60 a 100 km/h, com risco de alagamentos, cortes de energia e danos em plantações. O alerta se estende a cidades de Santa Catarina, Rio Grande do Sul e Mato Grosso do Sul. A previsão se mantém até segunda-feira (21).",
-      "porQueImporta": "O alerta indica condições que podem causar transtornos urbanos e agrícolas, exigindo atenção das autoridades e população.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-extratropical-favorece-tempestades-e-granizo-no-sul-veja-previsao/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/19/parana-esta-sob-alerta-laranja.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-19T16:41:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/h9Ud6NhFUhwREWNOyQpTRfP-h-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/4/v0eBG5T2WaMG9LWoq7vg/g1-16-.png"
-    },
-    {
-      "clusterId": "a1dfd819fe96b574",
-      "slug": "dd1662ca170eaee7",
-      "titulo": "Menino de 5 anos morre após desmoronamento de terra em buraco em Umuarama",
-      "resumo": "Um menino de 5 anos morreu na manhã de sábado após um desmoronamento de terra na zona rural de Serra dos Dourados, Umuarama, Paraná. A vítima estava brincando em um buraco de cerca de 2 metros de profundidade que estava sendo escavado para formar um açude. O solo úmido, causado por temporal, provocou o desmoronamento. Bombeiros precisaram escavar manualmente por cerca de 40 minutos para tentar resgatar a criança, mas não conseguiram salvar a vítima.",
-      "porQueImporta": "O incidente destaca os riscos de atividades em solos úmidos e a necessidade de atenção à segurança em áreas rurais.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/19/crianca-que-brincava-em-buraco-morre-soterrada-no-pr.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-19T18:14:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/HSEvvEGywcAagzPaI45oY2Me2JQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/f/776a2wQfKrleSVhT4Ctg/whatsapp-image-2026-09-19-at-15.01.10.jpeg"
-    },
-    {
-      "clusterId": "ebf2727211b1d938",
-      "slug": "d584b9e5c11fb557",
-      "titulo": "Caminhonete capota na BR-317 entre Brasiléia e Assis Brasil",
-      "resumo": "Uma caminhonete com seis ocupantes capotou na manhã de sábado, 19, na BR-317, entre Brasiléia e Assis Brasil, no Acre. O motorista perdeu o controle e o veículo saiu da pista, atingindo as margens da rodovia. O acidente resultou na morte do motorista e deixou cinco feridos, incluindo duas crianças, em estado grave. O local do acidente fica próximo a um balneário, entre os quilômetros 10 e 11 da rodovia.",
-      "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito em estradas remotas do Acre, afetando vidas e evidenciando a necessidade de atenção à segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/09/19/homem-morre-e-criancas-ficam-em-estado-grave-apos-caminhonete-capotar-em-estrada-no-acre.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-19T17:58:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ez-w-Glf0SFvS2rBHL9XV_o9pco=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/P/AdyUvSTmSt7deOWA6jXA/whatsapp-image-2026-09-19-at-12.44.50.jpeg"
-    },
-    {
-      "clusterId": "612629009787327a",
-      "slug": "12d45539e027d0b1",
-      "titulo": "Trabalhador é soterrado durante obra de pavimentação da MG-414 em Araguari",
-      "resumo": "Um trabalhador foi soterrado durante a execução de obra de pavimentação na MG-414, em Araguari. O indivíduo foi resgatado, atendido por médicos e já retornou para casa. As obras na via continuam em andamento.",
-      "porQueImporta": "O incidente destaca riscos associados a obras de pavimentação e a necessidade de medidas de segurança adequadas.",
+      "clusterId": "f0fa07b76b75327e",
+      "slug": "620c72ec883cab7f",
+      "titulo": "Égua morre após ficar 24 horas soterrada em Itapevi",
+      "resumo": "Uma égua foi encontrada morta depois de ficar cerca de 24 horas soterrada em uma área particular no bairro Parque Miraflores, em Itapevi (SP). O resgate ocorreu em operação de cinco horas envolvendo Bombeiros, Defesa Civil e voluntários. O alerta sobre o soterramento foi dado na tarde de quinta-feira por meio do gabinete da vereadora Marina Dornellas. Vídeos mostram o animal completamente coberto de lama.",
+      "porQueImporta": "O caso destaca a importância da rápida resposta de equipes de resgate em situações de animais soterrados.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/trabalhador-e-soterrado-durante-obra-de-pavimentacao-da-mg-414-em-araguari"
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/19/egua-e-resgatada-apos-ficar-24-horas-soterrada-e-coberta-de-lama-video.ghtml"
         }
       ],
-      "updatedAt": "2026-09-19T17:37:30.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/whatsapp-image-2026-09-19-at-13-59-00-1.jpeg"
+      "updatedAt": "2026-09-19T21:32:55.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/RrQS55f8Er4rW6JnH7qeEYSqAWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/sBPAnISoac5l1byzhBxw/resgate-egua.jpg"
     },
     {
-      "clusterId": "8f653805dd75280e",
-      "slug": "f73d39d7dd0b4103",
-      "titulo": "Acidente na Rodovia SP-338 deixa duas mortes e duas feridas",
-      "resumo": "Na tarde de sexta-feira (18), na Rodovia Abrão Assed (SP-338), em Mococa, um acidente envolvendo dois carros e um caminhão resultou em duas mortes e duas feridas. Entre as vítimas está o padre Guaraciba Lopes de Oliveira Junior, de 71 anos, pároco da Paróquia São Domingos de Poços de Caldas, e a mulher Márcia Bergamini, de 68 anos. O corpo do padre deverá ser velado no sábado (19) na Capela da Santa Casa da cidade.",
-      "porQueImporta": "O acidente afetou moradores do interior de São Paulo e do sul de Minas Gerais, destacando a importância da segurança viária nessas regiões.",
+      "clusterId": "c315790f48c62456",
+      "slug": "b1921266b1d81b55",
+      "titulo": "Acidente entre dois carros deixa quatro feridos na Rio-Santos",
+      "resumo": "Na sexta-feira (18), na Rodovia Rio-Santos (BR-101), em Angra dos Reis, um choque entre dois veículos feriu quatro pessoas. A concessionária CCR RioSP acionou equipes de resgate, com apoio do Corpo de Bombeiros e do SAMU. Uma vítima sofreu ferimentos leves e as outras três tiveram ferimentos moderados. Todos os ocupantes foram socorridos e levados ao hospital.",
+      "porQueImporta": "O acidente destaca a necessidade de atenção às condições de tráfego na BR-101, uma via de grande importância regional.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/19/grave-acidente-com-mortes-de-padre-e-mulher-veja-o-que-se-sabe-sobre-tragedia-no-interior-de-sp.ghtml"
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/19/acidente-entre-carros-deixa-quatro-pessoas-feridas-na-rio-santos-em-angra-dos-reis.ghtml"
         }
       ],
-      "updatedAt": "2026-09-19T17:19:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/iLc8QHAI4XzQb5DMLkXrzVoxDao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/JQQD0fTA67EE9I3gnR9Q/grave-acidente-em-mococa-sp-matou-padre-de-minas-gerais-e-mulher-1-.jpg"
+      "updatedAt": "2026-09-19T21:32:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Bb8NEr-39G7l86l1fYrKTc8107o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/E/a5AHMETeqIxBRBDed3ww/whatsapp-image-2026-09-19-at-18.12.20.jpg"
     },
     {
-      "clusterId": "5eb9f54926cc46e9",
-      "slug": "1ddaab576f4f61d6",
-      "titulo": "Carro capota na Rodovia do Contorno em Cariacica",
-      "resumo": "Cinco pessoas ficaram feridas após o carro em que estavam capotar na Rodovia do Contorno, km 287, em Cariacica, na manhã de sábado. Uma vítima ficou em estado grave e as outras quatro tiveram ferimentos de média gravidade. O acidente ocorreu por volta das 5h15 e foi registrado por câmera de monitoramento. O trânsito precisou ser desviado durante o atendimento.",
-      "porQueImporta": "O acidente causou ferimentos graves e interrompeu o tráfego na rodovia.",
+      "clusterId": "febaa79fd60e5266",
+      "slug": "1c7998c868fbfd6f",
+      "titulo": "Motorista ferido em colisão entre carro e caminhão na RJ-151",
+      "resumo": "Um motorista foi socorrido e levado ao hospital após colisão entre um carro de passeio e um caminhão na RJ-151, em Rio das Flores, no km 35. O acidente ocorreu na noite de sexta-feira, por volta das 21h30. Os veículos já haviam sido retirados da pista quando os policiais chegaram. O condutor do carro foi resgatado pelo SAMU.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção às condições de tráfego na rodovia.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/19/cinco-pessoas-ficam-feridas-apos-carro-capotar-na-rodovia-do-contorno-em-cariacica.ghtml"
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/19/motorista-fica-feriado-apos-acidente-entre-carro-e-caminhao-na-rj-151-em-rio-das-flores.ghtml"
         }
       ],
-      "updatedAt": "2026-09-19T16:49:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/XHjGjQ_sI_Pn6Mqty9l0firTnRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Q/Mfw1LWRsAljBEZD9NADg/thumb-fotos-2026-09-19t134825.766.jpg"
+      "updatedAt": "2026-09-19T21:29:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Yp0zb6JA745dNf6FIKmD_Hweq9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/Q/ZScnqjQQas1gvB9tD0Fg/whatsapp-image-2026-09-19-at-18.18.53.jpeg"
     },
     {
-      "clusterId": "6f4c54ae7f200456",
-      "slug": "573638876975a5ab",
-      "titulo": "Taxista em estado de álcool e drogas causa acidente que mata brasileira em Veneza",
-      "resumo": "Um taxista aquático estava sob efeito de álcool e entorpecentes quando colidiu com a embarcação de Gabriela Querino Elorriaga, resultando na morte da brasileira de 26 anos e de seu marido, pescador italiano de 25 anos. A advogada da família do marido afirmou que o condutor tentou se desfazer de bens, incluindo a licença da embarcação, para evitar responsabilidades. O incidente ocorreu no canal de Veneza.",
-      "porQueImporta": "O caso destaca os riscos de condução sob influência de substâncias em embarcações e a responsabilidade legal dos condutores.",
+      "clusterId": "811ce9ea4b76d19a",
+      "slug": "b467bbb38a46df33",
+      "titulo": "Motociclista de 19 anos morre após colisão com carro em cruzamento em MS",
+      "resumo": "Um motociclista de 19 anos, Alex Junior Vitorio de Souza, morreu após bater contra um carro na manhã de sábado no cruzamento da Rua da Saudade com a Avenida Antônio Joaquim de Moura Andrade, em Nova Andradina. O acidente foi registrado por câmeras de segurança e o boletim de ocorrência indica que o motorista do carro não parou completamente na sinalização de \"PARE\" e avançou sobre a via preferencial.",
+      "porQueImporta": "O incidente destaca a importância do cumprimento das sinalizações de trânsito para evitar fatalidades.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/19/taxista-estava-sob-efeito-de-alcool-e-drogas-diz-advogada-da-familia-de-italiano-morto-em-acidente-com-brasileira-em-veneza.ghtml"
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/19/motociclista-de-19-anos-morre-apos-carro-avancar-preferencial-em-ms-video.ghtml"
         }
       ],
-      "updatedAt": "2026-09-19T16:41:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mtMfK4IbEhSGPVXjMPfvdz2BQrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/a/JPIDuzSJeiT4BC2pKrjQ/chatgpt-image-15-de-set.-de-2026-17-56-34.png"
+      "updatedAt": "2026-09-19T21:15:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/WyEykb4uF9GCHPq_E9SNLdN3Ej8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/aOOPzpTjWAmZgVuRVllw/formato-g1-4-.jpg"
     },
     {
-      "clusterId": "efe09378871cc80e",
-      "slug": "ec32953994ef5cbb",
-      "titulo": "Ataque israelense atinge carro em Gaza e mata uma pessoa",
-      "resumo": "Forças Armadas de Israel afirmaram que o bombardeio em Sheikh Radwan teve como alvo um militante do Hamas, resultando na explosão que destruiu um veículo. A explosão matou uma pessoa. Autoridades locais confirmam a morte. O incidente ocorreu durante operações militares em Gaza.",
-      "porQueImporta": "O evento demonstra a continuidade de confrontos na região e o risco de vítimas civis em zonas de conflito.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/ataque-israelense-atinge-carro-em-gaza-mata-uma-pessoa-dizem-autoridades/"
-        }
-      ],
-      "updatedAt": "2026-09-19T16:17:17.000Z"
-    },
-    {
-      "clusterId": "0760422d0cbe4612",
-      "slug": "dfa279863e08514f",
-      "titulo": "Carro estacionado invade bar após colisão em Piracicaba",
-      "resumo": "Um veículo estacionado na Vila Rezende, Piracicaba, foi lançado para dentro de um bar depois de ser atingido por outro carro na Avenida Dona Francisca. O acidente ocorreu por volta das 22h30, na noite de sexta-feira. O motorista do veículo que colidiu apresentava sinais de embriaguez e foi detido pela Polícia Militar. Não houve feridos.",
-      "porQueImporta": "O incidente demonstra risco de violência urbana e a necessidade de fiscalização de trânsito em áreas de comércio.",
+      "clusterId": "873e26d2f35e2c5e",
+      "slug": "43e5dccd145d745d",
+      "titulo": "Moto pega fogo após bater em carro em Campinas",
+      "resumo": "Uma motocicleta pegou fogo depois de bater em um carro no cruzamento da Rua Aneyre com a Avenida Aglaia, em Campinas, SP. O motociclista saiu ileso, apesar de ter sido arremessado no asfalto. Imagens de câmeras de segurança registraram a colisão, que envolveu também um veículo branco. O fogo consumiu a moto, mas não houve feridos.",
+      "porQueImporta": "O incidente destaca a possibilidade de incêndio em veículos após colisões, alertando para a necessidade de atenção à segurança no trânsito.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/19/video-carro-estacionado-invade-bar-apos-ser-atingido-por-veiculo-em-avenida-de-piracicaba.ghtml"
+          "url": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/09/19/video-moto-pega-fogo-apos-bater-em-carro-em-campinas-motociclista-saiu-ileso.ghtml"
         }
       ],
-      "updatedAt": "2026-09-19T16:16:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Z61yfp7G_OwTmHpq0h2O__oC4_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/m/ASbH01RpyaVovPZyPWrw/carro2.jpg"
+      "updatedAt": "2026-09-19T21:14:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/hntBRJLLn4EfjIgYs1qGoh5n3DM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/K/bNPlgqRUm0ZFywFTvl5A/eptv2-1909-fogo-moto-nb-cp004hg0-2026-09-19-16-15-19.mxf-snapshot-00.47.841.jpg"
     },
     {
-      "clusterId": "94f2adf9f146c429",
-      "slug": "eaffeb7cee5b75ac",
-      "titulo": "Acidente entre picape e caminhão deixa vítima presa nas ferragens na Rodovia Anhanguera",
-      "resumo": "Na manhã de sábado, 19, uma picape colidiu com a traseira de um caminhão na Rodovia Anhanguera, km 34, em Cajamar, SP. O veículo ficou embaixo do caminhão, deixando uma vítima presa nas ferragens. O Corpo de Bombeiros foi acionado às 9h26 e a concessionária Motiva AutoBAn recebeu a ocorrência às 9h11. A vítima permanece presa e em atendimento.",
-      "porQueImporta": "O acidente destaca a necessidade de atenção às condições de tráfego nas rodovias e a importância da rápida intervenção de serviços de emergência.",
+      "clusterId": "a734cfcaa9de3bb7",
+      "slug": "ae5006820ce04cad",
+      "titulo": "Previsão de chuva e ventos fortes em São Paulo e possibilidade de granizo no Sul",
+      "resumo": "O Centro-Sul do país enfrenta instabilidades que podem gerar chuva e ventos fortes em São Paulo, além de granizo no Sul. As condições meteorológicas advindas de sistemas de baixa pressão podem afetar a região.",
+      "porQueImporta": "As condições podem causar transtornos no trânsito e riscos de danos materiais.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-domingo-sera-de-chuva-e-ventos-fortes-em-sao-paulo-e-possibilidade-de-granizo-no-sul/"
+        }
+      ],
+      "updatedAt": "2026-09-19T21:00:19.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/11/Chuva_3290991747.jpg"
+    },
+    {
+      "clusterId": "de217c7ff7a44b89",
+      "slug": "bfd881e627aa1c76",
+      "titulo": "Casal morre ao voltar de consulta médica em van na BR-163",
+      "resumo": "Odair Torres e sua esposa, Edimarcia Oliveira, morreram em um acidente na BR-163, em Itaquiraí, MS, ao retornarem de consulta médica em Dourados. A van da prefeitura estava conduzindo o casal quando colidiu. Além do casal, três outras pessoas também perderam a vida no mesmo acidente.",
+      "porQueImporta": "O incidente destaca a vulnerabilidade de veículos públicos em rodovias de tráfego intenso.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/19/acidente-entre-picape-e-caminhao-deixa-vitima-presa-nas-ferragens-na-rodovia-anhanguera-em-cajamar.ghtml"
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/19/casal-morre-lado-a-lado-ao-voltar-de-consulta-medica-em-van-na-br-163-outras-3-pessoas-morreram.ghtml"
         }
       ],
-      "updatedAt": "2026-09-19T15:41:47.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/8nOGpXXdrl6lczD3IVqr2aDMK30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/U/DWrhPNReK1QxxD6hQhFg/montagem-horizontal-1200px-14-.jpg"
+      "updatedAt": "2026-09-19T20:49:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/u2e2EAghfZ9IgIZRiU-oysUVZm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/T/OynBsOSAqDDGRuqAmdzQ/1200-x-800-99-.jpg"
+    },
+    {
+      "clusterId": "5577032a569f2c55",
+      "slug": "01cb36a0c22b1082",
+      "titulo": "Casarão desaba e atinge mãe e filha no Cosme Velho",
+      "resumo": "Na manhã de sábado, parte de um casarão na Rua Cosme Velho, Zona Sul do Rio, desabou sobre uma mulher de 43 anos e sua filha de 2 anos, que estava em carrinho de bebê. As vítimas ficaram feridas e foram levadas ao Hospital Municipal Miguel Couto, onde estavam em situação estável. Imagens de câmeras de segurança registraram o momento do desabamento.",
+      "porQueImporta": "O incidente destaca a necessidade de fiscalização e manutenção de imóveis antigos em áreas urbanas.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/camera-registra-momento-em-que-casarao-desaba-e-atinge-mae-e-filha-no-cosme-velho.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-19T20:42:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Vlb4WxPRjJ5ZjtEXyw8E_YzBFOw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/e/88dAVjQJarnr6oDJB7zA/g1-casarao2.jpg"
+    },
+    {
+      "clusterId": "3d4cf6eecdd1b45e",
+      "slug": "9f2373936acc1590",
+      "titulo": "Colisão entre carro e caminhão deixa dois mortos em Ipueiras",
+      "resumo": "Um acidente envolvendo um carro e um caminhão ocorreu na manhã de sábado em Ipueiras, interior do Ceará. Dois homens, de 66 e 83 anos, que estavam no carro, morreram no local. Uma terceira pessoa foi socorrida e encaminhada a uma unidade de saúde.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária em estradas rurais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/19/colisao-entre-carro-e-caminhao-deixa-dois-homens-mortos-no-interior-do-ceara.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-19T20:30:56.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wR76PUZ2vQ1y-UpdDmzaXQloj_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/P/TofmWYQfuIsAVucsFwQQ/acidente-deixa-dois-mortos-no-interior-do-ce..jpg"
+    },
+    {
+      "clusterId": "95de170caf8c465e",
+      "slug": "3533a0a79c9d85b5",
+      "titulo": "Incêndio em vegetação mata animais e destrói casebre em Monsenhor Gil",
+      "resumo": "Um incêndio começou na vegetação dos bairros Vila Nova e Incosa, em Monsenhor Gil, e destruiu um casebre. Aconteceu no sábado, 19, e resultou na morte de porcos e cabritos. A Prefeitura Municipal confirmou o fato e não há registro de feridos humanos.",
+      "porQueImporta": "O incêndio causou perda de fauna local e danos à propriedade, evidenciando riscos de queimadas em áreas rurais.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/19/video-incendio-monsenhor-gil.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-19T20:19:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/TK7PItRxYC_WmFHErvrCCzM5-IM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/I/3fi0S0Tm2aPt1MO60AbA/edicao-imagens-g1-99-.png"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "ebf2727211b1d938",
-          "slug": "d584b9e5c11fb557",
-          "titulo": "Caminhonete capota na BR-317 entre Brasiléia e Assis Brasil",
-          "resumo": "Uma caminhonete com seis ocupantes capotou na manhã de sábado, 19, na BR-317, entre Brasiléia e Assis Brasil, no Acre. O motorista perdeu o controle e o veículo saiu da pista, atingindo as margens da rodovia. O acidente resultou na morte do motorista e deixou cinco feridos, incluindo duas crianças, em estado grave. O local do acidente fica próximo a um balneário, entre os quilômetros 10 e 11 da rodovia.",
-          "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito em estradas remotas do Acre, afetando vidas e evidenciando a necessidade de atenção à segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/09/19/homem-morre-e-criancas-ficam-em-estado-grave-apos-caminhonete-capotar-em-estrada-no-acre.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-19T17:58:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ez-w-Glf0SFvS2rBHL9XV_o9pco=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/P/AdyUvSTmSt7deOWA6jXA/whatsapp-image-2026-09-19-at-12.44.50.jpeg"
-        },
-        {
-          "clusterId": "8f653805dd75280e",
-          "slug": "f73d39d7dd0b4103",
-          "titulo": "Acidente na Rodovia SP-338 deixa duas mortes e duas feridas",
-          "resumo": "Na tarde de sexta-feira (18), na Rodovia Abrão Assed (SP-338), em Mococa, um acidente envolvendo dois carros e um caminhão resultou em duas mortes e duas feridas. Entre as vítimas está o padre Guaraciba Lopes de Oliveira Junior, de 71 anos, pároco da Paróquia São Domingos de Poços de Caldas, e a mulher Márcia Bergamini, de 68 anos. O corpo do padre deverá ser velado no sábado (19) na Capela da Santa Casa da cidade.",
-          "porQueImporta": "O acidente afetou moradores do interior de São Paulo e do sul de Minas Gerais, destacando a importância da segurança viária nessas regiões.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/19/grave-acidente-com-mortes-de-padre-e-mulher-veja-o-que-se-sabe-sobre-tragedia-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-19T17:19:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/iLc8QHAI4XzQb5DMLkXrzVoxDao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/JQQD0fTA67EE9I3gnR9Q/grave-acidente-em-mococa-sp-matou-padre-de-minas-gerais-e-mulher-1-.jpg"
-        },
-        {
-          "clusterId": "5eb9f54926cc46e9",
-          "slug": "1ddaab576f4f61d6",
-          "titulo": "Carro capota na Rodovia do Contorno em Cariacica",
-          "resumo": "Cinco pessoas ficaram feridas após o carro em que estavam capotar na Rodovia do Contorno, km 287, em Cariacica, na manhã de sábado. Uma vítima ficou em estado grave e as outras quatro tiveram ferimentos de média gravidade. O acidente ocorreu por volta das 5h15 e foi registrado por câmera de monitoramento. O trânsito precisou ser desviado durante o atendimento.",
-          "porQueImporta": "O acidente causou ferimentos graves e interrompeu o tráfego na rodovia.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/19/cinco-pessoas-ficam-feridas-apos-carro-capotar-na-rodovia-do-contorno-em-cariacica.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-19T16:49:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/XHjGjQ_sI_Pn6Mqty9l0firTnRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Q/Mfw1LWRsAljBEZD9NADg/thumb-fotos-2026-09-19t134825.766.jpg"
-        },
-        {
-          "clusterId": "6f4c54ae7f200456",
-          "slug": "573638876975a5ab",
-          "titulo": "Taxista em estado de álcool e drogas causa acidente que mata brasileira em Veneza",
-          "resumo": "Um taxista aquático estava sob efeito de álcool e entorpecentes quando colidiu com a embarcação de Gabriela Querino Elorriaga, resultando na morte da brasileira de 26 anos e de seu marido, pescador italiano de 25 anos. A advogada da família do marido afirmou que o condutor tentou se desfazer de bens, incluindo a licença da embarcação, para evitar responsabilidades. O incidente ocorreu no canal de Veneza.",
-          "porQueImporta": "O caso destaca os riscos de condução sob influência de substâncias em embarcações e a responsabilidade legal dos condutores.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/19/taxista-estava-sob-efeito-de-alcool-e-drogas-diz-advogada-da-familia-de-italiano-morto-em-acidente-com-brasileira-em-veneza.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-19T16:41:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mtMfK4IbEhSGPVXjMPfvdz2BQrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/a/JPIDuzSJeiT4BC2pKrjQ/chatgpt-image-15-de-set.-de-2026-17-56-34.png"
-        },
-        {
-          "clusterId": "0760422d0cbe4612",
-          "slug": "dfa279863e08514f",
-          "titulo": "Carro estacionado invade bar após colisão em Piracicaba",
-          "resumo": "Um veículo estacionado na Vila Rezende, Piracicaba, foi lançado para dentro de um bar depois de ser atingido por outro carro na Avenida Dona Francisca. O acidente ocorreu por volta das 22h30, na noite de sexta-feira. O motorista do veículo que colidiu apresentava sinais de embriaguez e foi detido pela Polícia Militar. Não houve feridos.",
-          "porQueImporta": "O incidente demonstra risco de violência urbana e a necessidade de fiscalização de trânsito em áreas de comércio.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/19/video-carro-estacionado-invade-bar-apos-ser-atingido-por-veiculo-em-avenida-de-piracicaba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-19T16:16:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Z61yfp7G_OwTmHpq0h2O__oC4_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/m/ASbH01RpyaVovPZyPWrw/carro2.jpg"
-        },
-        {
-          "clusterId": "94f2adf9f146c429",
-          "slug": "eaffeb7cee5b75ac",
-          "titulo": "Acidente entre picape e caminhão deixa vítima presa nas ferragens na Rodovia Anhanguera",
-          "resumo": "Na manhã de sábado, 19, uma picape colidiu com a traseira de um caminhão na Rodovia Anhanguera, km 34, em Cajamar, SP. O veículo ficou embaixo do caminhão, deixando uma vítima presa nas ferragens. O Corpo de Bombeiros foi acionado às 9h26 e a concessionária Motiva AutoBAn recebeu a ocorrência às 9h11. A vítima permanece presa e em atendimento.",
-          "porQueImporta": "O acidente destaca a necessidade de atenção às condições de tráfego nas rodovias e a importância da rápida intervenção de serviços de emergência.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/19/acidente-entre-picape-e-caminhao-deixa-vitima-presa-nas-ferragens-na-rodovia-anhanguera-em-cajamar.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-19T15:41:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/8nOGpXXdrl6lczD3IVqr2aDMK30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/U/DWrhPNReK1QxxD6hQhFg/montagem-horizontal-1200px-14-.jpg"
-        },
-        {
-          "clusterId": "394c6a4767cec6b3",
-          "slug": "e2b60d876718c9a0",
-          "titulo": "Passageira de moto por aplicativo morre em acidente na avenida Centenário em Belém",
-          "resumo": "Uma mulher de 50 anos morreu ao ser atropelada enquanto estava na garupa de uma motocicleta de aplicativo na avenida Centenário, em Belém. O condutor ficou gravemente ferido e foi socorrido em estado grave. A vítima trabalhava como diarista. O nome e a condição atual do condutor não foram divulgados.",
-          "porQueImporta": "O acidente destaca os riscos associados ao transporte por aplicativo e a necessidade de atenção nas vias urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/09/19/passageira-morre-e-motociclista-fica-em-estado-grave-apos-acidente-na-avenida-centenario-em-belem.ghtml"
-            }
-          ],
-          "updatedAt": "2026-09-19T15:34:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_PvhHGEP7-pVD75VaCQNZxLQp5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/2/JJyQ4TTkGsvDuB8wdsLg/acidente-a.jpeg"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "612629009787327a",
-          "slug": "12d45539e027d0b1",
-          "titulo": "Trabalhador é soterrado durante obra de pavimentação da MG-414 em Araguari",
-          "resumo": "Um trabalhador foi soterrado durante a execução de obra de pavimentação na MG-414, em Araguari. O indivíduo foi resgatado, atendido por médicos e já retornou para casa. As obras na via continuam em andamento.",
-          "porQueImporta": "O incidente destaca riscos associados a obras de pavimentação e a necessidade de medidas de segurança adequadas.",
+          "clusterId": "f0fa07b76b75327e",
+          "slug": "620c72ec883cab7f",
+          "titulo": "Égua morre após ficar 24 horas soterrada em Itapevi",
+          "resumo": "Uma égua foi encontrada morta depois de ficar cerca de 24 horas soterrada em uma área particular no bairro Parque Miraflores, em Itapevi (SP). O resgate ocorreu em operação de cinco horas envolvendo Bombeiros, Defesa Civil e voluntários. O alerta sobre o soterramento foi dado na tarde de quinta-feira por meio do gabinete da vereadora Marina Dornellas. Vídeos mostram o animal completamente coberto de lama.",
+          "porQueImporta": "O caso destaca a importância da rápida resposta de equipes de resgate em situações de animais soterrados.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/trabalhador-e-soterrado-durante-obra-de-pavimentacao-da-mg-414-em-araguari"
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/19/egua-e-resgatada-apos-ficar-24-horas-soterrada-e-coberta-de-lama-video.ghtml"
             }
           ],
-          "updatedAt": "2026-09-19T17:37:30.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/09/whatsapp-image-2026-09-19-at-13-59-00-1.jpeg"
+          "updatedAt": "2026-09-19T21:32:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RrQS55f8Er4rW6JnH7qeEYSqAWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/sBPAnISoac5l1byzhBxw/resgate-egua.jpg"
+        },
+        {
+          "clusterId": "6dc611f949c70047",
+          "slug": "bd5654a8de0c48f5",
+          "titulo": "Moto roubada em Cabo Frio é recuperada após acidente em Iguaba Grande; suspeito é preso",
+          "resumo": "Moto foi recuperada em local de acidente Polícia Militar Um homem de 21 anos foi preso na madrugada deste sábado (19), em Iguaba Grande, na Região dos Lagos do Rio, após ser reconhecido como um dos envolvidos no roubo de uma motocicleta em Cabo Frio. O veículo foi recuperado na Rodovia Amaral Peixoto, onde policiais militares foram informados sobre um acidente envolvendo uma moto. Os agentes confirmaram, após consulta, que o veículo havia sido roubado. Durante as buscas, os policiais localizaram o suspeito escondido nas proximidades. A vítima compareceu ao local e, conforme a corporação,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/19/moto-roubada-em-cabo-frio-e-recuperada-apos-acidente-em-iguaba-grande-suspeito-e-preso.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T19:35:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uD0-noi_8jtEsRR6kt6UMDIz92Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/c/APKTD8RPmu2570y8y6iQ/moto-recuperada.jpg"
+        },
+        {
+          "clusterId": "50c17f6c7cff7db4",
+          "slug": "4efe28d196794bfb",
+          "titulo": "Motociclista morre em colisão com carro dirigido por motorista com sinais de embriaguez e sem habilitação no noroeste de SP",
+          "resumo": "Cruzamento das ruas das Aroeiras e Cabo Verde, em Cedral (SP), onde carro bateu em moto, provocando a morte de mulher de 31 anos, na noite de sexta (18) Google Street View/Reprodução Uma motociclista de 31 anos morreu após ser atingida por um carro dirigido por motorista sem habilitação e com sinais de embriaguez, nesta sexta-feira (18), em Cedral (SP). O acidente aconteceu no cruzamento das ruas das Aroeiras e Cabo Verde, no período da noite. Segundo a Polícia Civil, a mulher que conduzia o carro havia ingerido bebida alcoólica. 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp O…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/19/motociclista-morre-em-colisao-com-carro-dirigido-por-motorista-com-sinais-de-embriaguez-e-sem-habilitacao-no-noroeste-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T19:18:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mHRJJR4tQcQFhANT0QliHb69avU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/4/mnDQ6WS1StPyRpaoNRbQ/rua-cedral.jpeg"
+        },
+        {
+          "clusterId": "843ec81ce880d831",
+          "slug": "a7138a12e304f22f",
+          "titulo": "Médico gaúcho e motociclista morrem após batida entre carro e moto no Oeste de SC",
+          "resumo": "SAMU e helicóptero da Polícia Civil durante atendimento a acidente em Chapecó, SC O médico Atamis Omar Rübenich e um motociclista ainda não identificado morreram em um acidente entre um carro e uma moto na manhã deste sábado (19). O caso ocorreu em Chapecó, no Oeste de Santa Catarina, informou a Polícia Militar Rodoviária (PMRv). ✅Clique e siga o canal do g1 SC no WhatsApp O acidente foi registrado às 7h30 no km 162 da SC-480, perto do acesso à localidade de Goio-Ên. No momento do acidente, a pista estava molhada e com chuva, com possibilidade de neblina no local, conforme a PMRv. Com base na…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/19/medico-gaucho-motociclista-morrem-batida-carro-moto-chapeco.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T19:09:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/q8V6ssx-_zEmYY_oe0MviJiBCCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/9/RYKBs2SMebor6e4W2HKg/carro-chapeco-medico-atamis.jpg"
         },
         {
           "clusterId": "dc7628120fb1ec15",
@@ -394,74 +317,253 @@
       ]
     },
     {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "c315790f48c62456",
+          "slug": "b1921266b1d81b55",
+          "titulo": "Acidente entre dois carros deixa quatro feridos na Rio-Santos",
+          "resumo": "Na sexta-feira (18), na Rodovia Rio-Santos (BR-101), em Angra dos Reis, um choque entre dois veículos feriu quatro pessoas. A concessionária CCR RioSP acionou equipes de resgate, com apoio do Corpo de Bombeiros e do SAMU. Uma vítima sofreu ferimentos leves e as outras três tiveram ferimentos moderados. Todos os ocupantes foram socorridos e levados ao hospital.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção às condições de tráfego na BR-101, uma via de grande importância regional.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/19/acidente-entre-carros-deixa-quatro-pessoas-feridas-na-rio-santos-em-angra-dos-reis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T21:32:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Bb8NEr-39G7l86l1fYrKTc8107o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/E/a5AHMETeqIxBRBDed3ww/whatsapp-image-2026-09-19-at-18.12.20.jpg"
+        },
+        {
+          "clusterId": "febaa79fd60e5266",
+          "slug": "1c7998c868fbfd6f",
+          "titulo": "Motorista ferido em colisão entre carro e caminhão na RJ-151",
+          "resumo": "Um motorista foi socorrido e levado ao hospital após colisão entre um carro de passeio e um caminhão na RJ-151, em Rio das Flores, no km 35. O acidente ocorreu na noite de sexta-feira, por volta das 21h30. Os veículos já haviam sido retirados da pista quando os policiais chegaram. O condutor do carro foi resgatado pelo SAMU.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção às condições de tráfego na rodovia.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/19/motorista-fica-feriado-apos-acidente-entre-carro-e-caminhao-na-rj-151-em-rio-das-flores.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T21:29:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Yp0zb6JA745dNf6FIKmD_Hweq9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/Q/ZScnqjQQas1gvB9tD0Fg/whatsapp-image-2026-09-19-at-18.18.53.jpeg"
+        },
+        {
+          "clusterId": "811ce9ea4b76d19a",
+          "slug": "b467bbb38a46df33",
+          "titulo": "Motociclista de 19 anos morre após colisão com carro em cruzamento em MS",
+          "resumo": "Um motociclista de 19 anos, Alex Junior Vitorio de Souza, morreu após bater contra um carro na manhã de sábado no cruzamento da Rua da Saudade com a Avenida Antônio Joaquim de Moura Andrade, em Nova Andradina. O acidente foi registrado por câmeras de segurança e o boletim de ocorrência indica que o motorista do carro não parou completamente na sinalização de \"PARE\" e avançou sobre a via preferencial.",
+          "porQueImporta": "O incidente destaca a importância do cumprimento das sinalizações de trânsito para evitar fatalidades.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/19/motociclista-de-19-anos-morre-apos-carro-avancar-preferencial-em-ms-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T21:15:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WyEykb4uF9GCHPq_E9SNLdN3Ej8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/aOOPzpTjWAmZgVuRVllw/formato-g1-4-.jpg"
+        },
+        {
+          "clusterId": "873e26d2f35e2c5e",
+          "slug": "43e5dccd145d745d",
+          "titulo": "Moto pega fogo após bater em carro em Campinas",
+          "resumo": "Uma motocicleta pegou fogo depois de bater em um carro no cruzamento da Rua Aneyre com a Avenida Aglaia, em Campinas, SP. O motociclista saiu ileso, apesar de ter sido arremessado no asfalto. Imagens de câmeras de segurança registraram a colisão, que envolveu também um veículo branco. O fogo consumiu a moto, mas não houve feridos.",
+          "porQueImporta": "O incidente destaca a possibilidade de incêndio em veículos após colisões, alertando para a necessidade de atenção à segurança no trânsito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/09/19/video-moto-pega-fogo-apos-bater-em-carro-em-campinas-motociclista-saiu-ileso.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T21:14:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hntBRJLLn4EfjIgYs1qGoh5n3DM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/K/bNPlgqRUm0ZFywFTvl5A/eptv2-1909-fogo-moto-nb-cp004hg0-2026-09-19-16-15-19.mxf-snapshot-00.47.841.jpg"
+        },
+        {
+          "clusterId": "de217c7ff7a44b89",
+          "slug": "bfd881e627aa1c76",
+          "titulo": "Casal morre ao voltar de consulta médica em van na BR-163",
+          "resumo": "Odair Torres e sua esposa, Edimarcia Oliveira, morreram em um acidente na BR-163, em Itaquiraí, MS, ao retornarem de consulta médica em Dourados. A van da prefeitura estava conduzindo o casal quando colidiu. Além do casal, três outras pessoas também perderam a vida no mesmo acidente.",
+          "porQueImporta": "O incidente destaca a vulnerabilidade de veículos públicos em rodovias de tráfego intenso.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/19/casal-morre-lado-a-lado-ao-voltar-de-consulta-medica-em-van-na-br-163-outras-3-pessoas-morreram.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T20:49:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/u2e2EAghfZ9IgIZRiU-oysUVZm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/T/OynBsOSAqDDGRuqAmdzQ/1200-x-800-99-.jpg"
+        },
+        {
+          "clusterId": "3d4cf6eecdd1b45e",
+          "slug": "9f2373936acc1590",
+          "titulo": "Colisão entre carro e caminhão deixa dois mortos em Ipueiras",
+          "resumo": "Um acidente envolvendo um carro e um caminhão ocorreu na manhã de sábado em Ipueiras, interior do Ceará. Dois homens, de 66 e 83 anos, que estavam no carro, morreram no local. Uma terceira pessoa foi socorrida e encaminhada a uma unidade de saúde.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária em estradas rurais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ce/ceara/noticia/2026/09/19/colisao-entre-carro-e-caminhao-deixa-dois-homens-mortos-no-interior-do-ceara.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T20:30:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wR76PUZ2vQ1y-UpdDmzaXQloj_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/P/TofmWYQfuIsAVucsFwQQ/acidente-deixa-dois-mortos-no-interior-do-ce..jpg"
+        },
+        {
+          "clusterId": "b0a5027e9702d97e",
+          "slug": "75e88b2db72fc600",
+          "titulo": "Carro cai no córrego de Patos de Minas",
+          "resumo": "Um veículo perdeu o controle na Avenida Fátima Porto, em Patos de Minas, e caiu no Córrego do Monjolo por volta das 5h30 da manhã. O condutor já havia perdido a direção antes de despencar. Motoristas e pedestres ajudaram a vítima, mas o Corpo de Bombeiros e o SAMU não foram acionados.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em áreas próximas a corpos d’água.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/19/video-carro-perde-o-controle-e-cai-em-corrego-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T19:59:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QsdpJkESjv6U_OrWbfjugoZISUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/y/84wpHwTSK7lCuDH4TilQ/whatsapp-image-2026-09-19-at-08.32.08.jpg"
+        }
+      ]
+    },
+    {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "faefc5be6e8da1ed",
-          "slug": "ae17eb0af81f05b8",
-          "titulo": "Alerta de perigo para tempestades no Paraná e Rio Grande do Sul",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta laranja para todo o Paraná, prevendo chuvas de 50 a 100 mm/dia e ventos de 60 a 100 km/h, com risco de alagamentos, cortes de energia e danos em plantações. O alerta se estende a cidades de Santa Catarina, Rio Grande do Sul e Mato Grosso do Sul. A previsão se mantém até segunda-feira (21).",
-          "porQueImporta": "O alerta indica condições que podem causar transtornos urbanos e agrícolas, exigindo atenção das autoridades e população.",
+          "clusterId": "a734cfcaa9de3bb7",
+          "slug": "ae5006820ce04cad",
+          "titulo": "Previsão de chuva e ventos fortes em São Paulo e possibilidade de granizo no Sul",
+          "resumo": "O Centro-Sul do país enfrenta instabilidades que podem gerar chuva e ventos fortes em São Paulo, além de granizo no Sul. As condições meteorológicas advindas de sistemas de baixa pressão podem afetar a região.",
+          "porQueImporta": "As condições podem causar transtornos no trânsito e riscos de danos materiais.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-extratropical-favorece-tempestades-e-granizo-no-sul-veja-previsao/"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/19/parana-esta-sob-alerta-laranja.ghtml"
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-domingo-sera-de-chuva-e-ventos-fortes-em-sao-paulo-e-possibilidade-de-granizo-no-sul/"
             }
           ],
-          "updatedAt": "2026-09-19T16:41:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/h9Ud6NhFUhwREWNOyQpTRfP-h-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/4/v0eBG5T2WaMG9LWoq7vg/g1-16-.png"
+          "updatedAt": "2026-09-19T21:00:19.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/11/Chuva_3290991747.jpg"
+        },
+        {
+          "clusterId": "af2b2d52d0f7e9de",
+          "slug": "0b0d9455bed4672a",
+          "titulo": "Nuvem gigante forma-se sobre Maracaju e assusta moradores",
+          "resumo": "Em Maracaju, Mato Grosso do Sul, uma nuvem gigante foi registrada no céu, assustando moradores. O fenômeno, capturado em vídeo pela empresária Mirian Barreto, é classificado como nuvem prateleira, típica de tempestades intensas. O meteorologista Guilherme Borges explicou que essa formação baixa e horizontal aparece na frente de tempestades.",
+          "porQueImporta": "A nuvem indica a aproximação de tempestades, alertando a população sobre possíveis condições climáticas adversas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/19/nuvem-gigante-se-forma-sobre-cidade-e-assusta-moradores-no-interior-de-mato-grosso-do-sul.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T19:57:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wCR7dHQe7rmr6roOzCVdct2C93E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/K/Srr44eTn6sNAbyYtpfdQ/nuvem-cg-gigante.jpg"
         }
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "acidente",
+      "label": "Acidente",
       "stories": [
         {
-          "clusterId": "a1dfd819fe96b574",
-          "slug": "dd1662ca170eaee7",
-          "titulo": "Menino de 5 anos morre após desmoronamento de terra em buraco em Umuarama",
-          "resumo": "Um menino de 5 anos morreu na manhã de sábado após um desmoronamento de terra na zona rural de Serra dos Dourados, Umuarama, Paraná. A vítima estava brincando em um buraco de cerca de 2 metros de profundidade que estava sendo escavado para formar um açude. O solo úmido, causado por temporal, provocou o desmoronamento. Bombeiros precisaram escavar manualmente por cerca de 40 minutos para tentar resgatar a criança, mas não conseguiram salvar a vítima.",
-          "porQueImporta": "O incidente destaca os riscos de atividades em solos úmidos e a necessidade de atenção à segurança em áreas rurais.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "5577032a569f2c55",
+          "slug": "01cb36a0c22b1082",
+          "titulo": "Casarão desaba e atinge mãe e filha no Cosme Velho",
+          "resumo": "Na manhã de sábado, parte de um casarão na Rua Cosme Velho, Zona Sul do Rio, desabou sobre uma mulher de 43 anos e sua filha de 2 anos, que estava em carrinho de bebê. As vítimas ficaram feridas e foram levadas ao Hospital Municipal Miguel Couto, onde estavam em situação estável. Imagens de câmeras de segurança registraram o momento do desabamento.",
+          "porQueImporta": "O incidente destaca a necessidade de fiscalização e manutenção de imóveis antigos em áreas urbanas.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/19/crianca-que-brincava-em-buraco-morre-soterrada-no-pr.ghtml"
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/camera-registra-momento-em-que-casarao-desaba-e-atinge-mae-e-filha-no-cosme-velho.ghtml"
             }
           ],
-          "updatedAt": "2026-09-19T18:14:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/HSEvvEGywcAagzPaI45oY2Me2JQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/f/776a2wQfKrleSVhT4Ctg/whatsapp-image-2026-09-19-at-15.01.10.jpeg"
+          "updatedAt": "2026-09-19T20:42:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Vlb4WxPRjJ5ZjtEXyw8E_YzBFOw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/e/88dAVjQJarnr6oDJB7zA/g1-casarao2.jpg"
+        },
+        {
+          "clusterId": "777dc783ab326dc0",
+          "slug": "9a285e38a9cf9cb6",
+          "titulo": "Corpo de homem de 41 anos encontrado em represa de Araxá",
+          "resumo": "Um homem de 41 anos desapareceu há quase três dias em Araxá. Bombeiros localizaram roupas e itens pessoais na margem da represa, onde foi encontrado o corpo. A vítima teria se afogado. A ocorrência foi confirmada pelos serviços de emergência locais.",
+          "porQueImporta": "A descoberta traz fechamento para a família e destaca a necessidade de atenção à segurança em represas.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/bombeiros-encontram-corpo-de-homem-que-se-afogou-em-represa"
+            }
+          ],
+          "updatedAt": "2026-09-19T20:15:26.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/09/5006236132903161073-1.jpg"
         }
       ]
     },
     {
-      "slug": "explosao",
-      "label": "Explosão",
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
       "stories": [
         {
-          "clusterId": "efe09378871cc80e",
-          "slug": "ec32953994ef5cbb",
-          "titulo": "Ataque israelense atinge carro em Gaza e mata uma pessoa",
-          "resumo": "Forças Armadas de Israel afirmaram que o bombardeio em Sheikh Radwan teve como alvo um militante do Hamas, resultando na explosão que destruiu um veículo. A explosão matou uma pessoa. Autoridades locais confirmam a morte. O incidente ocorreu durante operações militares em Gaza.",
-          "porQueImporta": "O evento demonstra a continuidade de confrontos na região e o risco de vítimas civis em zonas de conflito.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "95de170caf8c465e",
+          "slug": "3533a0a79c9d85b5",
+          "titulo": "Incêndio em vegetação mata animais e destrói casebre em Monsenhor Gil",
+          "resumo": "Um incêndio começou na vegetação dos bairros Vila Nova e Incosa, em Monsenhor Gil, e destruiu um casebre. Aconteceu no sábado, 19, e resultou na morte de porcos e cabritos. A Prefeitura Municipal confirmou o fato e não há registro de feridos humanos.",
+          "porQueImporta": "O incêndio causou perda de fauna local e danos à propriedade, evidenciando riscos de queimadas em áreas rurais.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/ataque-israelense-atinge-carro-em-gaza-mata-uma-pessoa-dizem-autoridades/"
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/19/video-incendio-monsenhor-gil.ghtml"
             }
           ],
-          "updatedAt": "2026-09-19T16:17:17.000Z"
+          "updatedAt": "2026-09-19T20:19:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TK7PItRxYC_WmFHErvrCCzM5-IM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/I/3fi0S0Tm2aPt1MO60AbA/edicao-imagens-g1-99-.png"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "2c05ab2a630664ab",
+          "slug": "7fbde53787da5f57",
+          "titulo": "Incêndio atinge apartamento na Tijuca",
+          "resumo": "Bombeiros foram acionados por volta das 16h15 para combater fogo em apartamento do terceiro andar de prédio na Rua Conde de Bonfim, na Tijuca. O incêndio foi controlado e não houve feridos.",
+          "porQueImporta": "O fato demonstra a ocorrência de incêndio urbano e a eficácia da resposta dos bombeiros.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/incendio-atinge-apartamento-na-tijuca.ghtml"
+            }
+          ],
+          "updatedAt": "2026-09-19T20:19:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KcfH6ryKzI2e5FWQcG9-gB-wLgw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/VhODMARCCLancJl3bJEA/tijuca-cortada.jpg"
         }
       ]
     },
