@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-09-21T15:17:03.382Z",
+  "ranAt": "2026-09-21T20:30:39.315Z",
   "editionDate": "2026-09-21",
-  "hourUtc": 15,
+  "hourUtc": 20,
   "outcome": "not-generated",
   "reason": "IA fora ou validação reprovou",
   "providers": [
@@ -9,7 +9,7 @@
     "cerebras"
   ],
   "attempts": [
-    "groq: erro — Error: groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for mo",
+    "groq: reprovado — poucos parágrafos (1)",
     "cerebras: erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
   ]
 }
