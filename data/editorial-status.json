@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-09-23T05:03:34.555Z",
+  "ranAt": "2026-09-23T13:48:23.674Z",
   "editionDate": "2026-09-23",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Desastres e acidentes dominam a edição com foco em tempestades e acidentes aéreos\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
