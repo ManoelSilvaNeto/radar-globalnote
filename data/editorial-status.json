@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-09-26T19:19:19.073Z",
-  "editionDate": "2026-09-26",
-  "hourUtc": 19,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito dominam panorama, acompanhados por calor extremo e tempestade costeira\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-09-27T05:37:18.207Z",
+  "editionDate": "2026-09-27",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
