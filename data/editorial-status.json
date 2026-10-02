@@ -1,15 +1,9 @@
 {
-  "ranAt": "2026-10-01T21:14:24.912Z",
-  "editionDate": "2026-10-01",
-  "hourUtc": 21,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: reprovado — data inconsistente na análise",
-    "cerebras: erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
-  ]
+  "ranAt": "2026-10-02T06:04:22.108Z",
+  "editionDate": "2026-10-02",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
