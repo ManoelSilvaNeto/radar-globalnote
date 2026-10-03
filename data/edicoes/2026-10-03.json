@@ -1,224 +1,267 @@
 {
   "date": "2026-10-03",
-  "generatedAt": "2026-10-03T05:38:36.130Z",
+  "generatedAt": "2026-10-03T13:38:03.371Z",
   "home": [
     {
-      "clusterId": "56d27cf83c353f44",
-      "slug": "c2e5e7623097c8f2",
-      "titulo": "Arco de larvas de 500 anos do Havaí desaba após tempestade",
-      "resumo": "Um arco de larvas, com 27 metros de altura, localizado no Havaí, caiu depois de uma tempestade. A estrutura, que tem 500 anos, já apresentava sinais de instabilidade no litoral. O colapso ocorreu em meio a condições climáticas adversas. Não há relatos de feridos.",
-      "porQueImporta": "O evento destaca a vulnerabilidade de estruturas naturais antigas diante de eventos climáticos extremos.",
+      "clusterId": "1c4bd38a5f77701e",
+      "slug": "33c61d0641857398",
+      "titulo": "Motorista morre após capotar carro na Rodovia Raposo Tavares",
+      "resumo": "Um motorista perdeu o controle do veículo na curva do retorno da Rodovia Raposo Tavares, entre Araçoiaba da Serra e Capela do Alto, e o carro capotou. O acidente ocorreu no quilômetro 129 da rodovia. O condutor não sobreviveu ao acidente.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção às condições de tráfego e segurança nas rodovias estaduais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/03/motorista-morre-apos-perder-o-controle-e-capotar-carro-em-retorno-na-raposo-tavares.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-03T13:25:32.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HUXkbSnMDhB7DSMRm_I7Xy6ymoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/j/WzV5k7RcOQ4RfOwDcXow/acidente-3.jpg"
+    },
+    {
+      "clusterId": "1e8cfb55aebde328",
+      "slug": "2e927fe84b531b1e",
+      "titulo": "Motociclista morre após pneu estourar e veículo bater contra placa na rodovia de Flórida Paulista",
+      "resumo": "Um motociclista faleceu quando o pneu traseiro da moto estourou na Rodovia Comandante João Ribeiro de Barros (SP-294). O veículo perdeu o controle, saiu da pista e colidiu com uma placa de sinalização no km 614, trecho que liga Flórida Paulista a Pacaembu. O acidente foi registrado pela concessionária Eixo SP e confirmado pela equipe de resgate.",
+      "porQueImporta": "O incidente destaca os riscos de falhas mecânicas em rodovias e a necessidade de manutenção adequada de veículos.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/03/motociclista-morre-apos-veiculo-bater-contra-placa-depois-de-pneu-estourar-em-rodovia-de-florida-paulista.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-03T13:17:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/5fYBlHn8tSnG7f-t8rqBPvp7SAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/q/jxLV8nRACkEZjmltJdpw/g1-2026-10-03t091913.455.png"
+    },
+    {
+      "clusterId": "7e4d5ce79920572a",
+      "slug": "274a759f9c48ca4f",
+      "titulo": "Ciclista morre após acidente envolvendo carro na BR-153 no Tocantins",
+      "resumo": "Um ciclista de 32 anos morreu em um acidente na BR-153, em Gurupi, Tocantins, quando um carro colidiu com a bicicleta. A colisão ocorreu no quilômetro 669 da rodovia, na noite de sexta-feira. Um passageiro ficou gravemente ferido. O veículo envolvido capotou e ficou completamente destruído.",
+      "porQueImporta": "O incidente destaca os riscos de trânsito em rodovias brasileiras, especialmente em áreas com tráfego misto de veículos e bicicletas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/03/ciclista-morre-apos-acidente-envolvendo-carro-na-br-153-no-tocantins.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-03T13:05:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/96hg63_C0VDf3ML2ffGeOsxRtNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/V/APqosiSYmOfHAuYmc2hg/foto-e-montagem-vertical-2026-10-03t094548.465.png"
+    },
+    {
+      "clusterId": "74105ae90544733d",
+      "slug": "eb8238a3a6670e28",
+      "titulo": "Caminhonete invadiu contramão e colidiu com carro na rodovia de MG",
+      "resumo": "Na rodovia AMG-0320, em São Gonçalo do Pará, uma caminhonete que trafegava no sentido contrário colidiu frontalmente com um carro por volta das 2h do sábado. O motorista do carro, de 63 anos, e uma passageira, de 67 anos, morreram no local. Três pessoas ficaram feridas.",
+      "porQueImporta": "O acidente destaca os riscos de condução contramão em rodovias, afetando a segurança viária da região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/03/dois-morrem-e-tres-ficam-feridos-apos-caminhonete-invadir-contramao-em-rodovia-de-mg.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-03T12:35:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rcgAubWJ2bhx6FR4Da9nNTues_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/m/rGJ805TuOPZNqw701npw/acidnete-01.jfif"
+    },
+    {
+      "clusterId": "8682c1571bf60952",
+      "slug": "4816bc50a756afde",
+      "titulo": "Chuva provoca ocorrência por hora em Juiz de Fora; Defesa Civil alerta para deslizamentos",
+      "resumo": "Juiz de Fora registrou 24 ocorrências relacionadas às chuvas nas últimas 24 horas, equivalente a uma ocorrência por hora. O pluviômetro na Zona Oeste acumulou 60 milímetros de chuva. Entre os eventos estão escorregamento de talude, alagamento, trinca em piso e destelhamento. A Defesa Civil emitiu alerta de risco de deslizamentos válido até a manhã de segunda-feira.",
+      "porQueImporta": "A chuva intensa aumenta risco de deslizamentos, afetando a segurança pública.",
       "categoria": "Deslizamento",
       "categoriaSlug": "deslizamento",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/famoso-arco-de-larvas-de-500-anos-do-havai-desaba-apos-tempestade"
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/03/chuva-provoca-em-media-uma-ocorrencia-por-hora-em-juiz-de-fora-defesa-civil-alerta-para-deslizamentos.ghtml"
         }
       ],
-      "updatedAt": "2026-10-03T05:23:37.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/960-havo-20220718-holei-sea-arch-standing-j.jpg"
+      "updatedAt": "2026-10-03T12:30:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/IwhUcvYYDesE7khrb6ENO3kDW8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/x/LMtU6LSc69KwhWCOL9OA/2.png"
     },
     {
-      "clusterId": "554b68cfddaf542d",
-      "slug": "5c418685d402fc5e",
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde; à noite, temporal",
-      "resumo": "Previsão do tempo hoje em Ribeirão das Neves g1 A previsão do tempo para este sábado (3) para Ribeirão das Neves (MG) é de sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde. À noite, temporal. As máximas são de 23ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e trovoadas. À noite, chuva e trovoadas. Previsão do tempo para amanhã em Ribeirão das Neves, domingo (4) Para este domingo (4), a previsão é de sol com algumas nuvens. Chove rápido durante o dia e à noite. Veja a…",
+      "clusterId": "33452f5a3bb913c6",
+      "slug": "bafbb4760ceac8a4",
+      "titulo": "Menina de 2 anos fica ferida na cabeça após acidente com avó e outra criança na Bahia",
+      "resumo": "Uma criança de 2 anos, sua avó e outra criança ficaram feridas após colisão entre uma motocicleta e um carro na Praça dos Postos de Combustíveis, em Conceição do Coité, Bahia. O acidente ocorreu por volta das 16h de sexta-feira. A menina sofreu vários ferimentos na cabeça, principalmente no rosto, e foi levada ao Hospital Poruguês.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária em áreas urbanas da Bahia.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/03/acidente-interior-da-bahia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-03T12:00:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/R2lAN_lmPjw2uP0W0XlK9NXEdQU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/o/yxAgPWQbyjNohSvOvjqw/foto-no-tamanho-home-2026-10-03t085449.718.png"
+    },
+    {
+      "clusterId": "dd26d22786b3af68",
+      "slug": "34ad8ee2aa376427",
+      "titulo": "Inmet emite alerta vermelho para tempestades no domingo",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta vermelho para tempestades previstas para o domingo, dia 4, durante o período de eleição. A previsão indica chuvas intensas, com precipitação superior a 60 milímetros por hora, ventania acima de 100 quilômetros por hora e risco de queda de granizo. O temporal deverá afetar principalmente a região Sul do país.",
+      "porQueImporta": "O alerta pode impactar a segurança e a mobilidade durante o dia de votação.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/inmet-emite-alerta-vermelho-para-tempestades-no-domingo-4-de-eleicao/"
+        }
+      ],
+      "updatedAt": "2026-10-03T11:57:03.000Z"
+    },
+    {
+      "clusterId": "411a7addf075ffa1",
+      "slug": "6f5e2f363ad2abd2",
+      "titulo": "Acre registra salto de 80% nos focos de queimadas em setembro, aponta Inpe",
+      "resumo": "Acre registra 80% mais focos de queimadas em setembro do que em agosto O Acre registrou 877 focos de queimadas em setembro de 2026, segundo dados do Instituto Nacional de Pesquisas Espaciais (Inpe). O número representa um aumento de 80% em relação a agosto, quando o estado contabilizou 487 focos. Na comparação com setembro do ano passado, quando foram registrados 840 focos, a quantidade também aumentou. São 37 registros a mais, o equivalente a uma alta de 4,4% no mesmo período em um ano. ✅ Participe do canal do g1 AC no WhatsApp O crescimento ocorre após uma sequência de meses com números…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/10/03/previsao-do-tempo-hoje-para-contagem-mg-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml"
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/10/03/acre-registra-salto-de-80percent-nos-focos-de-queimadas-em-setembro-aponta-inpe.ghtml"
         }
       ],
-      "updatedAt": "2026-10-03T04:04:32.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/R022_fGZ8A9pkTyeGVKCkv3TiTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/x/195jCYRYSwlvvgGhBt1w/previsao-tempo-contagem-20261003-010235.jpeg"
+      "updatedAt": "2026-10-03T11:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/7OTi-QfjLFdC8YUWqH-sYkOiNlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/a/0j0TevS2uUQGrO1E30XQ/midia-de-distribuicao-g1.jpg"
     },
     {
-      "clusterId": "920a6a166ab35008",
-      "slug": "68f0f9eaccc4a6f0",
-      "titulo": "Mulher com 'pior dor do mundo' se forma, morte na BR-262 e desocupação de 90 famílias suspensa",
-      "resumo": "Carolina Arruda, que sofreu a pior dor do mundo, concluiu a graduação em Medicina Veterinária. Na mesma semana, um acidente na BR-262 resultou em morte e a desocupação de 90 famílias foi suspensa. Os eventos foram destaque na cobertura do G1 Centro‑Oeste.",
-      "porQueImporta": "A notícia reúne ocorrências de saúde, trânsito e questões sociais que impactam a comunidade local.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "22c0b0b178a00ffd",
+      "slug": "404018bde1bebc79",
+      "titulo": "Bicame de Nova Lima é isolado após chuva forte alterar estrutura",
+      "resumo": "A área ao redor do Aqueduto Bicame, em Nova Lima, foi isolada depois de uma forte chuva na tarde de sexta-feira. A prefeitura isolou o local imediatamente após identificar alteração na estrutura. A Defesa Civil, em conjunto com a AngloGold Ashanti, responsável pela estrutura, realizou vistorias. Moradores de residências próximas foram orientados a deixar o local por segurança.",
+      "porQueImporta": "A medida visa prevenir acidentes e garantir a segurança dos moradores e trabalhadores na região.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/03/voce-viu-mulher-com-a-pior-dor-do-mundo-se-forma-morte-na-br-262-e-desocupacao-de-90-familias-suspensa.ghtml"
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/03/bicame-de-nova-lima-e-isolado-apos-chuva-forte-alterar-estrutura.ghtml"
         }
       ],
-      "updatedAt": "2026-10-03T03:05:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/pb3_bRcHYIl_q-fbF_KXRok7_uc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/ybNTbvQ8qqOyOOQnqCNQ/voce-viu-co-0310.png"
+      "updatedAt": "2026-10-03T10:56:20.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/BOaTZxxTMjM2QqIClDX6y9ZwQeE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/q/qNHnjBRVStLLrG9LzTLw/1-28-card-31-interdita-bicame-nova-lima-0053.mxf.png"
     },
     {
-      "clusterId": "9062e86a01834d14",
-      "slug": "a62ebfec95a670d1",
-      "titulo": "Temporais voltam ao RS na véspera do primeiro turno",
-      "resumo": "O Rio Grande do Sul terá instabilidade climática a partir de sábado, com previsão de temporais, vento forte e possibilidade de granizo em diversas regiões. No domingo, dia da votação, a chuva deve persistir na madrugada e início da manhã, mas tende a melhorar ao longo do dia.",
-      "porQueImporta": "As condições climáticas podem afetar a participação e a segurança dos eleitores.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/03/eleicoes-chuva-temporais-rs-primeiro-turno-confira-previsao-do-tempo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-03T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/QoMHhVaAeC_-P9EzDBG_yrtgFY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/r/x5ZxZBTmShgm2WN3oXEw/g1.png"
-    },
-    {
-      "clusterId": "bb67023e3efddd84",
-      "slug": "4b74cf3af60dba32",
-      "titulo": "Piloto esfaqueado durante voo para Israel sobrevive e recupera em Abu Dhabi",
-      "resumo": "O comandante Smit Machchhar foi esfaqueado pelo copiloto enquanto conduzia voo da FlyDubai para Israel. Ele conseguiu evitar uma tragédia, mantendo o controle da aeronave. Machchhar está em recuperação em um hospital em Abu Dhabi. O incidente foi relatado ao primeiro-ministro da Índia, Narendra Modi, que expressou apoio.",
-      "porQueImporta": "O ataque interno a bordo de aeronave demonstra risco de segurança em operações aéreas.",
+      "clusterId": "f72cb4797c361b68",
+      "slug": "eeaefee26e4a25a9",
+      "titulo": "Ataque israelense mata cinco palestinos em prédio residencial na Cidade de Gaza",
+      "resumo": "Um ataque aéreo israelense destruiu um prédio residencial na Cidade de Gaza, resultando na morte de pelo menos cinco palestinos, incluindo quatro mulheres. Entre as vítimas, uma mulher cristã e sua filha foram identificadas pelas equipes médicas. O bombardeio provocou também um incêndio no local.",
+      "porQueImporta": "O incidente aumenta a tensão na região e destaca a vulnerabilidade de civis em zonas de conflito.",
       "categoria": "Acidente aéreo",
       "categoriaSlug": "acidente-aereo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/02/eu-tentava-me-salvar-mas-tambem-sabia-que-nao-podia-deixar-ninguem-morrer-conta-piloto-esfaqueado-em-pleno-voo.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/03/ataque-israelense-em-gaza-mata-incluindo-mae-e-filha-cristas-dizem-autoridades.ghtml"
         }
       ],
-      "updatedAt": "2026-10-03T00:33:48.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/iHWsmeEFxj-zrNDmfrzxPK-ssMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/q/coAY4kQzOrKIxoRaW80w/globo-canal-4-20261002-2000-frame-131659.jpeg"
-    },
-    {
-      "clusterId": "a2c6ea8a09ef9d7c",
-      "slug": "0db15750d0d2055c",
-      "titulo": "Repórter e cinegrafista são atropelados durante transmissão ao vivo em Monterrey",
-      "resumo": "Um repórter e um cinegrafista da emissora Gamavisión foram atropelados por uma caminhonete enquanto cobriam os impactos da chuva em Monterrey, México. Os veículos identificados como Alma de la Rosa e Cristo Morales foram atingidos durante a transmissão ao vivo. Eles foram atendidos no local pela Defesa Civil da cidade.",
-      "porQueImporta": "O incidente destaca os riscos enfrentados por profissionais de imprensa em áreas de desastre.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/02/video-reporter-e-cinegrafista-sao-atropelados-durante-entrava-ao-vivo-no-mexico.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-02T20:12:10.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/OEmkf3cMmdkaVDCkIlNYvGeB-Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/6/BOP1GuRxCQQwP2L1qFkg/fotojet-21-.jpg"
+      "updatedAt": "2026-10-03T10:44:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_eHw6p-_IFc_ihSLPVqylQmfx_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/0/0MWjMsTBSNSAi43pAV9Q/2026-10-03t060145z-993445354-rc2hvnadd7bq-rtrmadp-3-israel-palestinians-gaza-1-.jpg"
     }
   ],
   "categorias": [
     {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "554b68cfddaf542d",
-          "slug": "5c418685d402fc5e",
-          "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde; à noite, temporal",
-          "resumo": "Previsão do tempo hoje em Ribeirão das Neves g1 A previsão do tempo para este sábado (3) para Ribeirão das Neves (MG) é de sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde. À noite, temporal. As máximas são de 23ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e trovoadas. À noite, chuva e trovoadas. Previsão do tempo para amanhã em Ribeirão das Neves, domingo (4) Para este domingo (4), a previsão é de sol com algumas nuvens. Chove rápido durante o dia e à noite. Veja a…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/10/03/previsao-do-tempo-hoje-para-contagem-mg-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-03T04:04:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/R022_fGZ8A9pkTyeGVKCkv3TiTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/x/195jCYRYSwlvvgGhBt1w/previsao-tempo-contagem-20261003-010235.jpeg"
-        },
-        {
-          "clusterId": "920a6a166ab35008",
-          "slug": "68f0f9eaccc4a6f0",
-          "titulo": "Mulher com 'pior dor do mundo' se forma, morte na BR-262 e desocupação de 90 famílias suspensa",
-          "resumo": "Carolina Arruda, que sofreu a pior dor do mundo, concluiu a graduação em Medicina Veterinária. Na mesma semana, um acidente na BR-262 resultou em morte e a desocupação de 90 famílias foi suspensa. Os eventos foram destaque na cobertura do G1 Centro‑Oeste.",
-          "porQueImporta": "A notícia reúne ocorrências de saúde, trânsito e questões sociais que impactam a comunidade local.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/03/voce-viu-mulher-com-a-pior-dor-do-mundo-se-forma-morte-na-br-262-e-desocupacao-de-90-familias-suspensa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-03T03:05:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pb3_bRcHYIl_q-fbF_KXRok7_uc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/ybNTbvQ8qqOyOOQnqCNQ/voce-viu-co-0310.png"
-        }
-      ]
-    },
-    {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
-      "stories": [
-        {
-          "clusterId": "56d27cf83c353f44",
-          "slug": "c2e5e7623097c8f2",
-          "titulo": "Arco de larvas de 500 anos do Havaí desaba após tempestade",
-          "resumo": "Um arco de larvas, com 27 metros de altura, localizado no Havaí, caiu depois de uma tempestade. A estrutura, que tem 500 anos, já apresentava sinais de instabilidade no litoral. O colapso ocorreu em meio a condições climáticas adversas. Não há relatos de feridos.",
-          "porQueImporta": "O evento destaca a vulnerabilidade de estruturas naturais antigas diante de eventos climáticos extremos.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/famoso-arco-de-larvas-de-500-anos-do-havai-desaba-apos-tempestade"
-            }
-          ],
-          "updatedAt": "2026-10-03T05:23:37.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/10/960-havo-20220718-holei-sea-arch-standing-j.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "9062e86a01834d14",
-          "slug": "a62ebfec95a670d1",
-          "titulo": "Temporais voltam ao RS na véspera do primeiro turno",
-          "resumo": "O Rio Grande do Sul terá instabilidade climática a partir de sábado, com previsão de temporais, vento forte e possibilidade de granizo em diversas regiões. No domingo, dia da votação, a chuva deve persistir na madrugada e início da manhã, mas tende a melhorar ao longo do dia.",
-          "porQueImporta": "As condições climáticas podem afetar a participação e a segurança dos eleitores.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/03/eleicoes-chuva-temporais-rs-primeiro-turno-confira-previsao-do-tempo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-03T03:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/QoMHhVaAeC_-P9EzDBG_yrtgFY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/r/x5ZxZBTmShgm2WN3oXEw/g1.png"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "bb67023e3efddd84",
-          "slug": "4b74cf3af60dba32",
-          "titulo": "Piloto esfaqueado durante voo para Israel sobrevive e recupera em Abu Dhabi",
-          "resumo": "O comandante Smit Machchhar foi esfaqueado pelo copiloto enquanto conduzia voo da FlyDubai para Israel. Ele conseguiu evitar uma tragédia, mantendo o controle da aeronave. Machchhar está em recuperação em um hospital em Abu Dhabi. O incidente foi relatado ao primeiro-ministro da Índia, Narendra Modi, que expressou apoio.",
-          "porQueImporta": "O ataque interno a bordo de aeronave demonstra risco de segurança em operações aéreas.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/02/eu-tentava-me-salvar-mas-tambem-sabia-que-nao-podia-deixar-ninguem-morrer-conta-piloto-esfaqueado-em-pleno-voo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-03T00:33:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/iHWsmeEFxj-zrNDmfrzxPK-ssMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/q/coAY4kQzOrKIxoRaW80w/globo-canal-4-20261002-2000-frame-131659.jpeg"
-        }
-      ]
-    },
-    {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
+        {
+          "clusterId": "1c4bd38a5f77701e",
+          "slug": "33c61d0641857398",
+          "titulo": "Motorista morre após capotar carro na Rodovia Raposo Tavares",
+          "resumo": "Um motorista perdeu o controle do veículo na curva do retorno da Rodovia Raposo Tavares, entre Araçoiaba da Serra e Capela do Alto, e o carro capotou. O acidente ocorreu no quilômetro 129 da rodovia. O condutor não sobreviveu ao acidente.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção às condições de tráfego e segurança nas rodovias estaduais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/03/motorista-morre-apos-perder-o-controle-e-capotar-carro-em-retorno-na-raposo-tavares.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T13:25:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HUXkbSnMDhB7DSMRm_I7Xy6ymoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/j/WzV5k7RcOQ4RfOwDcXow/acidente-3.jpg"
+        },
+        {
+          "clusterId": "1e8cfb55aebde328",
+          "slug": "2e927fe84b531b1e",
+          "titulo": "Motociclista morre após pneu estourar e veículo bater contra placa na rodovia de Flórida Paulista",
+          "resumo": "Um motociclista faleceu quando o pneu traseiro da moto estourou na Rodovia Comandante João Ribeiro de Barros (SP-294). O veículo perdeu o controle, saiu da pista e colidiu com uma placa de sinalização no km 614, trecho que liga Flórida Paulista a Pacaembu. O acidente foi registrado pela concessionária Eixo SP e confirmado pela equipe de resgate.",
+          "porQueImporta": "O incidente destaca os riscos de falhas mecânicas em rodovias e a necessidade de manutenção adequada de veículos.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/03/motociclista-morre-apos-veiculo-bater-contra-placa-depois-de-pneu-estourar-em-rodovia-de-florida-paulista.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T13:17:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/5fYBlHn8tSnG7f-t8rqBPvp7SAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/q/jxLV8nRACkEZjmltJdpw/g1-2026-10-03t091913.455.png"
+        },
+        {
+          "clusterId": "7e4d5ce79920572a",
+          "slug": "274a759f9c48ca4f",
+          "titulo": "Ciclista morre após acidente envolvendo carro na BR-153 no Tocantins",
+          "resumo": "Um ciclista de 32 anos morreu em um acidente na BR-153, em Gurupi, Tocantins, quando um carro colidiu com a bicicleta. A colisão ocorreu no quilômetro 669 da rodovia, na noite de sexta-feira. Um passageiro ficou gravemente ferido. O veículo envolvido capotou e ficou completamente destruído.",
+          "porQueImporta": "O incidente destaca os riscos de trânsito em rodovias brasileiras, especialmente em áreas com tráfego misto de veículos e bicicletas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/03/ciclista-morre-apos-acidente-envolvendo-carro-na-br-153-no-tocantins.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T13:05:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/96hg63_C0VDf3ML2ffGeOsxRtNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/V/APqosiSYmOfHAuYmc2hg/foto-e-montagem-vertical-2026-10-03t094548.465.png"
+        },
+        {
+          "clusterId": "74105ae90544733d",
+          "slug": "eb8238a3a6670e28",
+          "titulo": "Caminhonete invadiu contramão e colidiu com carro na rodovia de MG",
+          "resumo": "Na rodovia AMG-0320, em São Gonçalo do Pará, uma caminhonete que trafegava no sentido contrário colidiu frontalmente com um carro por volta das 2h do sábado. O motorista do carro, de 63 anos, e uma passageira, de 67 anos, morreram no local. Três pessoas ficaram feridas.",
+          "porQueImporta": "O acidente destaca os riscos de condução contramão em rodovias, afetando a segurança viária da região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/03/dois-morrem-e-tres-ficam-feridos-apos-caminhonete-invadir-contramao-em-rodovia-de-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T12:35:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rcgAubWJ2bhx6FR4Da9nNTues_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/m/rGJ805TuOPZNqw701npw/acidnete-01.jfif"
+        },
+        {
+          "clusterId": "33452f5a3bb913c6",
+          "slug": "bafbb4760ceac8a4",
+          "titulo": "Menina de 2 anos fica ferida na cabeça após acidente com avó e outra criança na Bahia",
+          "resumo": "Uma criança de 2 anos, sua avó e outra criança ficaram feridas após colisão entre uma motocicleta e um carro na Praça dos Postos de Combustíveis, em Conceição do Coité, Bahia. O acidente ocorreu por volta das 16h de sexta-feira. A menina sofreu vários ferimentos na cabeça, principalmente no rosto, e foi levada ao Hospital Poruguês.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária em áreas urbanas da Bahia.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/03/acidente-interior-da-bahia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T12:00:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/R2lAN_lmPjw2uP0W0XlK9NXEdQU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/o/yxAgPWQbyjNohSvOvjqw/foto-no-tamanho-home-2026-10-03t085449.718.png"
+        },
         {
           "clusterId": "a2c6ea8a09ef9d7c",
           "slug": "0db15750d0d2055c",
@@ -235,6 +278,170 @@
           ],
           "updatedAt": "2026-10-02T20:12:10.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/OEmkf3cMmdkaVDCkIlNYvGeB-Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/6/BOP1GuRxCQQwP2L1qFkg/fotojet-21-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "411a7addf075ffa1",
+          "slug": "6f5e2f363ad2abd2",
+          "titulo": "Acre registra salto de 80% nos focos de queimadas em setembro, aponta Inpe",
+          "resumo": "Acre registra 80% mais focos de queimadas em setembro do que em agosto O Acre registrou 877 focos de queimadas em setembro de 2026, segundo dados do Instituto Nacional de Pesquisas Espaciais (Inpe). O número representa um aumento de 80% em relação a agosto, quando o estado contabilizou 487 focos. Na comparação com setembro do ano passado, quando foram registrados 840 focos, a quantidade também aumentou. São 37 registros a mais, o equivalente a uma alta de 4,4% no mesmo período em um ano. ✅ Participe do canal do g1 AC no WhatsApp O crescimento ocorre após uma sequência de meses com números…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/10/03/acre-registra-salto-de-80percent-nos-focos-de-queimadas-em-setembro-aponta-inpe.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T11:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7OTi-QfjLFdC8YUWqH-sYkOiNlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/a/0j0TevS2uUQGrO1E30XQ/midia-de-distribuicao-g1.jpg"
+        },
+        {
+          "clusterId": "00a3dab58bd7c79a",
+          "slug": "12a60165ab3ea8e8",
+          "titulo": "Desabamento de bar na Espanha deixa pelo menos 12 feridos",
+          "resumo": "Um bar na Espanha sofreu um desabamento que resultou em pelo menos 12 feridos. O incidente ocorreu quando o chão cedeu, seguido pelo colapso do teto. Aproximadamente 50 pessoas estavam dentro do estabelecimento no momento do acidente.",
+          "porQueImporta": "O colapso de um estabelecimento comercial pode causar fatalidades e destaca a necessidade de inspeções de segurança.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/desabamento-de-bar-na-espanha-deixa-feridos/"
+            }
+          ],
+          "updatedAt": "2026-10-03T10:40:35.000Z"
+        },
+        {
+          "clusterId": "a13b5ead36e74ebc",
+          "slug": "5a298bba216d0a7d",
+          "titulo": "Campanha eleitoral no Amazonas destaca transporte, serviços públicos e questões ambientais",
+          "resumo": "Na reta final da campanha para o Governo do Amazonas, os candidatos abordaram problemas históricos do estado, como a dificuldade de transporte entre municípios e a dependência da navegação fluvial. Também foram discutidos temas de interesse direto à população, incluindo saúde, educação e segurança pública. Os debates trouxeram à tona questões ambientais, como queimadas, fumaça de incêndios e cheias.",
+          "porQueImporta": "Os temas abordados refletem as principais preocupações dos cidadãos e podem influenciar as políticas públicas após a eleição.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/veja-quais-foram-os-temas-que-mais-marcaram-a-campanha-eleitoral-ao-governo-do-amazonas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T09:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9F82pwztuM5imVigLP38uW08MSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/6/mGOp5ORZqHJHASNnRXbQ/colagem-26-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "22c0b0b178a00ffd",
+          "slug": "404018bde1bebc79",
+          "titulo": "Bicame de Nova Lima é isolado após chuva forte alterar estrutura",
+          "resumo": "A área ao redor do Aqueduto Bicame, em Nova Lima, foi isolada depois de uma forte chuva na tarde de sexta-feira. A prefeitura isolou o local imediatamente após identificar alteração na estrutura. A Defesa Civil, em conjunto com a AngloGold Ashanti, responsável pela estrutura, realizou vistorias. Moradores de residências próximas foram orientados a deixar o local por segurança.",
+          "porQueImporta": "A medida visa prevenir acidentes e garantir a segurança dos moradores e trabalhadores na região.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/03/bicame-de-nova-lima-e-isolado-apos-chuva-forte-alterar-estrutura.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T10:56:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/BOaTZxxTMjM2QqIClDX6y9ZwQeE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/q/qNHnjBRVStLLrG9LzTLw/1-28-card-31-interdita-bicame-nova-lima-0053.mxf.png"
+        },
+        {
+          "clusterId": "e49ceb2e5eafb2da",
+          "slug": "91a765dd6caae0b2",
+          "titulo": "Enchentes em Madrigueras, Espanha, matam mulher de 102 anos e resgatam 90 pessoas",
+          "resumo": "Enchentes provocadas por fortes chuvas atingiram Madrigueras, no sudeste da Espanha, resultando na morte de uma mulher de 102 anos. Bombeiros resgataram 90 pessoas. A região foi atingida após o verão mais quente do país neste ano.",
+          "porQueImporta": "O incidente destaca o impacto de eventos climáticos extremos na segurança pública e na vulnerabilidade de populações idosas.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/03/enchentes-no-sudeste-da-espanha-matam-mulher-de-102-anos-e-deixam-pessoas-resgatadas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T10:29:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GHRv_fRRofhGFvVB2PdYDt2d8MA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/sEAsUTTOKFfgpXXWuVBw/2026-10-03t102211z-821642453-rc2mvnarvk19-rtrmadp-3-europe-weather-spain-floods-1-1-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "8682c1571bf60952",
+          "slug": "4816bc50a756afde",
+          "titulo": "Chuva provoca ocorrência por hora em Juiz de Fora; Defesa Civil alerta para deslizamentos",
+          "resumo": "Juiz de Fora registrou 24 ocorrências relacionadas às chuvas nas últimas 24 horas, equivalente a uma ocorrência por hora. O pluviômetro na Zona Oeste acumulou 60 milímetros de chuva. Entre os eventos estão escorregamento de talude, alagamento, trinca em piso e destelhamento. A Defesa Civil emitiu alerta de risco de deslizamentos válido até a manhã de segunda-feira.",
+          "porQueImporta": "A chuva intensa aumenta risco de deslizamentos, afetando a segurança pública.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/03/chuva-provoca-em-media-uma-ocorrencia-por-hora-em-juiz-de-fora-defesa-civil-alerta-para-deslizamentos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T12:30:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/IwhUcvYYDesE7khrb6ENO3kDW8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/x/LMtU6LSc69KwhWCOL9OA/2.png"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "dd26d22786b3af68",
+          "slug": "34ad8ee2aa376427",
+          "titulo": "Inmet emite alerta vermelho para tempestades no domingo",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta vermelho para tempestades previstas para o domingo, dia 4, durante o período de eleição. A previsão indica chuvas intensas, com precipitação superior a 60 milímetros por hora, ventania acima de 100 quilômetros por hora e risco de queda de granizo. O temporal deverá afetar principalmente a região Sul do país.",
+          "porQueImporta": "O alerta pode impactar a segurança e a mobilidade durante o dia de votação.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/brasil/inmet-emite-alerta-vermelho-para-tempestades-no-domingo-4-de-eleicao/"
+            }
+          ],
+          "updatedAt": "2026-10-03T11:57:03.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "f72cb4797c361b68",
+          "slug": "eeaefee26e4a25a9",
+          "titulo": "Ataque israelense mata cinco palestinos em prédio residencial na Cidade de Gaza",
+          "resumo": "Um ataque aéreo israelense destruiu um prédio residencial na Cidade de Gaza, resultando na morte de pelo menos cinco palestinos, incluindo quatro mulheres. Entre as vítimas, uma mulher cristã e sua filha foram identificadas pelas equipes médicas. O bombardeio provocou também um incêndio no local.",
+          "porQueImporta": "O incidente aumenta a tensão na região e destaca a vulnerabilidade de civis em zonas de conflito.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/03/ataque-israelense-em-gaza-mata-incluindo-mae-e-filha-cristas-dizem-autoridades.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-03T10:44:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_eHw6p-_IFc_ihSLPVqylQmfx_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/0/0MWjMsTBSNSAi43pAV9Q/2026-10-03t060145z-993445354-rc2hvnadd7bq-rtrmadp-3-israel-palestinians-gaza-1-.jpg"
         }
       ]
     }
