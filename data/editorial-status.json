@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-10-04T06:13:47.913Z",
+  "ranAt": "2026-10-04T14:18:29.885Z",
   "editionDate": "2026-10-04",
-  "hourUtc": 6,
-  "outcome": "skipped",
-  "reason": "fora da janela (6h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Desastres e acidentes dominam a pauta, com chuvas, deslizamentos e incidentes de trânsito e aéreo\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
