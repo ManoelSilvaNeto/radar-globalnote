@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-03T19:20:53.884Z",
-  "editionDate": "2026-10-03",
-  "hourUtc": 19,
-  "outcome": "generated",
-  "reason": "\"Acidentes e desastres em múltiplas frentes destacam riscos urbanos e climáticos\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-04T06:13:47.913Z",
+  "editionDate": "2026-10-04",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
