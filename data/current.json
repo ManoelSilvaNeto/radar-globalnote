@@ -1,229 +1,437 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T06:21:22.916Z",
+  "generatedAt": "2026-10-07T15:43:06.957Z",
   "home": [
     {
-      "clusterId": "a3b2b0b4da44682e",
-      "slug": "4db7a0f18fa4cf5b",
-      "titulo": "Previsão de chuva e tempestades em Divinópolis e região sul",
-      "resumo": "Divinópolis e áreas próximas estarão sob alerta de tempestade, com tempo nublado, temperaturas elevadas e possibilidade de chuvas isoladas de quarta a sexta-feira. O Instituto Nacional de Meteorologia indica pancadas de chuva acompanhadas de trovoadas na quarta, com mínima de 19 °C e máxima potencialmente mais alta. Enquanto isso, o sul do país, incluindo Rio Grande do Sul, Santa Catarina e Paraná, enfrentará chuvas fortes e temporais, com a possibilidade de formação de um ciclone extratropical no fim de semana.",
-      "porQueImporta": "As condições climáticas podem afetar deslocamentos, atividades agrícolas e a segurança pública na região.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/07/temporais-voltam-ao-sul-nesta-quarta-novo-ciclone.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-07T05:00:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/tJpGP8ypQ-2R_KW--Hlq5HH84kM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/9/pPe8OhSUCJ6wSb0UvKWQ/fta20261004374.jpg"
-    },
-    {
-      "clusterId": "05669d2a2bcc4fa1",
-      "slug": "fee5c91d126b275b",
-      "titulo": "Ibovespa dispara mais de 7% após resultados do 1º turno",
-      "resumo": "Na abertura do pregão de segunda-feira, o Ibovespa subiu mais de 7% e ultrapassou 200 mil pontos pela primeira vez. A curva de juros futuros caiu e o dólar ficou abaixo de R$5. A euforia se deve aos resultados das urnas no 1º turno, que favorecem Flávio Bolsonaro e um Congresso majoritariamente favorável a ele, gerando expectativa de aprovação de pautas econômicas liberais.",
-      "porQueImporta": "A movimentação do mercado reflete expectativas de mudanças na política econômica.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/07/a-reacao-do-mercado-ao-1o-turno-da-euforia-a-incerteza-o-assunto-1820.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-07T03:30:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/2BtBylssQmAnuTnZAf-Rg6VC8mM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/O/i/O5xlnlQBaCnXv9gROBug/ato20240712025.jpg"
-    },
-    {
-      "clusterId": "dd20ed87bacc267e",
-      "slug": "02fb8d152af9f0d2",
-      "titulo": "Morte de pai e filho em acidente em MG gera comoção no interior de SP",
-      "resumo": "Um acidente na MG-050, próximo a Piumhi, matou o motorista Lourival Camilo, de 54 anos, e seu filho Lucas Gabriel Camilo, de 22 anos. A colisão envolveu a van das vítimas e uma carreta, deixando o veículo destruído. O velório será realizado nesta quarta-feira em Boa Esperança do Sul, SP.",
-      "porQueImporta": "O incidente causou forte comoção na comunidade local e destaca a importância da segurança viária nas rodovias de Minas Gerais.",
+      "clusterId": "062ab9f42eb90d7d",
+      "slug": "4b76da9aaa6660dd",
+      "titulo": "Engavetamento na BR-040 em Nova Lima causa congestionamento de 8 km",
+      "resumo": "Um engavetamento envolvendo cerca de 20 a 25 veículos na BR-040, próximo ao km 548 em Nova Lima, bloqueou a rodovia no sentido Belo Horizonte por 8 km. O acidente, ocorrido por volta das 09h15, resultou em seis feridos, cinco dos quais em estado moderado e grave e encaminhados ao Hospital João XXIII. O Corpo de Bombeiros e a EPR Via Mineira confirmaram a ocorrência e a extensão do bloqueio.",
+      "porQueImporta": "O bloqueio prolongado na BR-040 afetou o tráfego regional, impactando o deslocamento de milhares de veículos e a logística local.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/07/morte-de-pai-e-filho-em-acidente-em-mg-gera-comocao-no-interior-de-sp-enterro-e-nesta-quarta.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-07T03:05:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/U5aHY4O8ixlR8SmP6bf30xvDXhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/1/VqQ7v9TwSFWW0dL14urg/pai-e-filho-2-.jpg"
-    },
-    {
-      "clusterId": "ee658e1bc78813b2",
-      "slug": "b32ed40a6fb29bba",
-      "titulo": "Morte de 12‑anos em colégio do Paraná após brincadeira",
-      "resumo": "Um adolescente de 12 anos, Luigi Gabriel da Cruz Sales, morreu em um colégio estadual de Castro, Paraná, depois de participar de uma brincadeira com colegas. O delegado Marcondes Ribeiro afirmou que não há evidências de intenção de causar dano. A Polícia Civil está investigando o caso como acidente. A morte ocorreu durante a atividade escolar.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança e supervisão em ambientes escolares.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/07/video-mostra-momento-que-carreta-perde-controle-e-bate-em-ao-menos-20-veiculos-na-br-040-na-grande-bh.ghtml"
+        },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/07/nao-acredito-que-houve-intencao-diz-delegado-sobre-brincadeira-que-terminou-com-morte-de-menino-em-escola-do-parana.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/mg-engavetamento-com-25-veiculos-causa-8-km-de-congestionamento-na-br-040"
         }
       ],
-      "updatedAt": "2026-10-07T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/FcVvdYwUjQ-8nlwSk1FpzCKDNMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/P/eY61j7Rd2WGcWeBVzZFg/design-sem-nome.png"
+      "updatedAt": "2026-10-07T15:09:24.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EFNspXIbuRUoDGmAi4w0DVgaS-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/X/it3cEqRLKCZChvHdVGMg/whatsapp-image-2026-10-07-at-10.21.24.jpeg"
     },
     {
-      "clusterId": "70041f35693cc652",
-      "slug": "0fdcb6c18ae71a22",
-      "titulo": "Temporais voltam a ganhar força no RS e podem trazer granizo e ventos acima de 80 km/h",
-      "resumo": "Na quarta-feira (7), o Rio Grande do Sul passa a registrar aumento das instabilidades, com possibilidade de chuva forte, rajadas de vento e queda de granizo em pontos isolados. As condições mais severas são previstas entre a tarde e a noite, principalmente nas regiões da Campanha, Oeste, Missões, Centro, Noroeste e Norte. O retorno das tempestades pode afetar atividades externas e mobilidade urbana.",
-      "porQueImporta": "As condições meteorológicas podem causar transtornos e riscos à população e à infraestrutura local.",
+      "clusterId": "56683d91952bc895",
+      "slug": "983bb6a25d05d478",
+      "titulo": "Ansiedade de Sandra Motta com chegada do Super El Niño",
+      "resumo": "A professora aposentada Sandra Motta, de 57 anos, vive ansiedade diante da previsão do Super El Niño, após ter sido afetada pelas inundações de 2024 no Rio Grande do Sul. Ela relata que a notícia faz sua mente “não parar de funcionar” e a leva a imaginar cenários catastróficos e a planejar medidas de prevenção. Motta participa de um projeto que ajuda pessoas com sofrimento mental ligado a tragédias climáticas.",
+      "porQueImporta": "A situação destaca o impacto psicológico de eventos climáticos extremos sobre vítimas anteriores.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cwp84zp54p5lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/07/temporais-voltam-ganhar-forca-rs-granizo-ventos-confira-previsao-do-tempo.ghtml"
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/07/a-ansiedade-com-chegada-do-super-el-nino-em-quem-ja-foi-vitima-de-tragedias-climaticas-vai-ser-pior.ghtml"
         }
       ],
-      "updatedAt": "2026-10-07T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/T33PHHEIxD6IIFm5kcxkSWJ5JpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/D/TtyfKwRRib9FvIlPJplQ/g1.png"
+      "updatedAt": "2026-10-07T14:17:14.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f749/live/0e5f6ed0-b3d4-11f1-82aa-6140089ac837.jpg"
     },
     {
-      "clusterId": "e1d013106c1d4f2f",
-      "slug": "10cd9c509dc0dd09",
-      "titulo": "Incêndio atinge fábrica na Zona Sul de SP e 27 viaturas tentam controlar",
-      "resumo": "Chamas intensas provocaram o desabamento do teto do imóvel na região do Jabaquara e bombeiros trabalham para controlar o fogo",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-atinge-fabrica-na-zona-sul-de-sp-e-27-viaturas-tentam-controlar/"
-        }
-      ],
-      "updatedAt": "2026-10-07T02:42:17.000Z"
-    },
-    {
-      "clusterId": "00c7bf25420c24b2",
-      "slug": "8fb4c430c839e4c5",
-      "titulo": "OMS acompanha possível vazamento de peste pneumônica após morte na Sibéria",
-      "resumo": "A Organização Mundial da Saúde está monitorando um possível vazamento da peste pneumônica na Sibéria, depois da morte de uma pesquisadora russa em um laboratório de pesquisa da bactéria. A ONU pediu cautela ao discutir o possível surto. A situação está sendo observada de perto pelas autoridades internacionais.",
-      "porQueImporta": "O incidente pode representar um risco de disseminação de uma doença bacteriana grave.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/oms-acompanha-possivel-vazamento-de-peste-pneumonica-apos-morte-na-siberia/"
-        }
-      ],
-      "updatedAt": "2026-10-07T00:57:06.000Z"
-    },
-    {
-      "clusterId": "ac8ceed8939abd8a",
-      "slug": "e16795028c6d5213",
-      "titulo": "Televangelista Jim Bakker morre aos 86 anos",
-      "resumo": "O televangelista Jim Bakker, conhecido por liderar o programa de TV “The PTL Club” junto à primeira esposa Tammy Faye, faleceu aos 86 anos. A morte foi comunicada pela segunda esposa, Lori Bakker, e a causa não foi divulgada. Bakker havia perdido seu império religioso após escândalo sexual e condenações por crimes financeiros. Ele morava perto de Branson, Missouri, onde gravava o programa “The Jim Bakker Show”.",
-      "porQueImporta": "A morte de uma figura proeminente do televangelismo destaca o fim de uma era de influência religiosa controversa.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "58f6db3d7dd7ac88",
+      "slug": "ace5317ab7491287",
+      "titulo": "Motociclista ferido após colisão com carro em Campinas",
+      "resumo": "Um motociclista de 19 anos ficou ferido depois de ser atingido por um carro no cruzamento da Avenida Princesa D'Oeste com a Rua Frei José de Monte Carmelo, em Campinas. O acidente ocorreu na manhã de quarta-feira. A faixa da direita foi interditada para o resgate, mas a via foi liberada por volta das 9h. Câmeras de segurança registraram o momento da colisão.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção ao tráfego em cruzamentos urbanos.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/06/televangelista-jim-bakker-morre-aos-86-pastor-perdeu-imperio-religioso-apos-escandalo-sexual.ghtml"
+          "url": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/10/07/video-motociclista-voa-apos-ser-atingido-por-carro-em-avenida-de-campinas.ghtml"
         }
       ],
-      "updatedAt": "2026-10-06T04:34:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/t5MMvs8Br8eVoUr_jkM9Ei_gRr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/x/mMdWsZQkmbD5nF8BoQNQ/ap23166671094526.jpg"
+      "updatedAt": "2026-10-07T15:40:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/M_BI9nWiya-1ICBPaWh-DPBG01w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/t/ftyygrTNuahGe9IGqPLA/voa-moto.png"
     },
     {
-      "clusterId": "dea9620ee369579c",
-      "slug": "9354304949ed47dc",
-      "titulo": "Nepal encerra operações de busca e resgate após avalanche; mais de 5 mil pessoas seguem desaparecidas",
-      "resumo": "Pessoas fogem de deslizamento de terra na fronteira do Nepal com o Tibete O Nepal encerrou, nesta segunda-feira (5), a operação de busca e resgate das pessoas que ainda estão desaparecidas após a devastadora avalanche de lama que atingiu a fronteira do país com o Tibete, na China, em agosto, informaram autoridades. Segundo o chefe do Centro Nacional de Operações de Emergência nepalense, Phanindra Paudel, o governo está avaliando como declarar legalmente as pessoas desaparecidas como falecidas, para permitir que suas famílias ou parentes concluam trâmites relacionados a seguros, bancos e…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "c23cba739a1119fe",
+      "slug": "3f417a629e6c9055",
+      "titulo": "Colisão frontal deixa vítimas presas às ferragens na BR-251",
+      "resumo": "Um furgão colidiu frontalmente com um Fiat Uno na BR-251, deixando duas pessoas presas às ferragens. O CBMDF foi acionado na quarta-feira (7/10) para socorrer os feridos. As vítimas foram hospitalizadas. O trecho da estrada foi liberado às 12h.",
+      "porQueImporta": "O acidente resultou em feridos e bloqueio de via, afetando a mobilidade local.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/colisao-frontal-deixa-vitimas-presas-as-ferragens-na-br-251"
+        }
+      ],
+      "updatedAt": "2026-10-07T15:39:31.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/acidente-br-251-cbmdf-7-de-outubro-2.jpeg"
+    },
+    {
+      "clusterId": "81c5974a2ce70c10",
+      "slug": "9833c6b30df668b2",
+      "titulo": "Incêndio destrói mais de 20 carros em pátio de locadora em Picos",
+      "resumo": "Um incêndio atingiu o pátio de uma locadora de veículos em Picos, Piauí, na manhã de quarta-feira (7). Mais de 20 carros estacionados ficaram carbonizados. O Corpo de Bombeiros foi acionado e não há registro de feridos.",
+      "porQueImporta": "O evento demonstra risco à segurança de veículos e à infraestrutura de locadoras.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/05/nepal-encerra-operacoes-de-busca-e-resgate-apos-enchente-e-passa-a-se-concentrar-na-reabilitacao.ghtml"
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/07/incendio-em-picos.ghtml"
         }
       ],
-      "updatedAt": "2026-10-05T15:24:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/5JsnAIwz0ywVI9sDmM4WcKeT6VY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/K/0nNmBuTduAeyG32pjqJQ/2026-08-30t133732z-35845283-rc2x8nafc30j-rtrmadp-3-nepal-floods.jpg"
+      "updatedAt": "2026-10-07T15:38:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/OgmhE2pP2lCrWFLnGDAnmzhdJDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/H/AOApRvS1GsYGNOfCK3mw/edicao-imagens-g1-2026-10-07t123051.618.png"
+    },
+    {
+      "clusterId": "96cc35bc762f406d",
+      "slug": "21e6a728660c97c7",
+      "titulo": "Morto tio de ministro em atropelamento após briga de trânsito em São Paulo",
+      "resumo": "O dentista Carlos Boulos, 80 anos, faleceu na madrugada de terça-feira (6) depois de ser atropelado em São Paulo. O acidente ocorreu durante uma discussão de trânsito. O ministro Guilherme Boulos lamentou a morte nas redes sociais e descreveu o tio como uma pessoa de caráter exemplar.",
+      "porQueImporta": "O caso envolve um membro público e destaca a violência urbana em trânsito.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/07/e-desolador-foi-vitima-de-uma-violencia-humanamente-inexplicavel-diz-boulos-sobre-a-morte-do-tio-apos-briga-de-transito-em-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-07T15:29:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/i9NokLu6dDKUaBB-FtZREE8-rRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/Q/gcD3DxS0qo12KadjsWhw/fotojet-2026-10-07t120842.740.jpg"
+    },
+    {
+      "clusterId": "f67489be1548d1c5",
+      "slug": "e95a4dfa646d4329",
+      "titulo": "Dois trabalhadores ficam feridos após andaime de obra despencar em Vila Velha",
+      "resumo": "Dois trabalhadores ficaram feridos quando um balancinho elétrico, usado para transportar funcionários em fachadas de prédios, se desprendeu durante a desmontagem em um edifício na Avenida Gil Veloso, em Vila Velha. O responsável pela obra, Douglas Demétrio, não estava no local no momento do acidente, mas conversou com um dos envolvidos. O equipamento caiu enquanto a estrutura estava sendo desmontada.",
+      "porQueImporta": "O acidente destaca riscos associados ao uso de andaimes elétricos em obras de fachada.",
+      "categoria": "Acidente de construção",
+      "categoriaSlug": "acidente-de-construcao",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/07/dois-trabalhadores-ficam-feridos-apos-andaime-de-obra-despencar-de-predio-em-vila-velha.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-07T15:21:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/t10WoZQXOMtYWHpU56MYDP_1bhE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/o/P25hflQQKEsxt69GW2oA/thumb-videos-g1-14-.jpg"
+    },
+    {
+      "clusterId": "9600079dc456e545",
+      "slug": "985f2fb66f67482c",
+      "titulo": "Motorista passa mal e bate de frente na Mogi-Bertioga",
+      "resumo": "Um motorista perdeu o controle do veículo na Rodovia Dom Paulo Rolim Loureiro (SP-098) após passar mal, invadindo a pista contrária e colidindo de frente com outro carro. O acidente ocorreu por volta das 9h50, no km 65, em Mogi das Cruzes. O impacto resultou em um fatal e cinco feridos, e a via ficou temporariamente interditada nos dois sentidos.",
+      "porQueImporta": "O incidente causou fatalidade e feridos, interrompendo o tráfego na rodovia.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/07/acidente-entre-dois-carros-deixa-feridos-na-mogi-bertioga.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-07T15:10:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/QYca_A3wxcEXVAgbSZ4L48t67tI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/I/tEZQG3QYC4E4nYGmU8Bg/montagem-2-fotos-1920x1080-4-.jpg"
+    },
+    {
+      "clusterId": "f2e3d444dd5a4079",
+      "slug": "c24a8bb475ff486e",
+      "titulo": "Carro capota após bater em outro veículo em Três Rios",
+      "resumo": "Um veículo capotou depois de colidir com outro na Avenida Castro Alves, em Três Rios, RJ, na manhã de quarta-feira. O acidente ocorreu perto do Trevo Purys. Três pessoas receberam primeiros socorros no local e se recusaram a ser encaminhadas para hospital.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/07/carro-capota-apos-bater-em-outro-veiculo-em-tres-rios.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-07T15:09:44.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EstKDWd9E_GezqmhQp6_YWd-Xk8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/i/RlKTnkT2mm876o7w1b1A/image-59-.jpg"
+    },
+    {
+      "clusterId": "c040badc9dd906a8",
+      "slug": "9550a5b81c0090c1",
+      "titulo": "Motociclista morre e criança fica ferida em acidente no Recife",
+      "resumo": "Um motociclista morreu na manhã de quarta-feira (7) após colidir com uma bicicleta na Avenida Abdias de Carvalho, no bairro do Bongi, na Zona Oeste do Recife. Duas pessoas ficaram feridas: a esposa do condutor da moto, de 28 anos, e uma criança de 11 anos que atravessava a via pedalando. Os nomes dos feridos não foram divulgados. A vítima que morreu foi identificada como Yuri Cid da Silva Lima, de 25 anos.",
+      "porQueImporta": "O acidente resultou em perda de vidas e destaca a necessidade de atenção à segurança viária na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/07/acidente-no-recife-deixa-motociclista-morto-e-dois-feridos-crianca-e-uma-das-vitimas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-07T15:09:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/V8JNUT77sqdExJGuleyAO_JZanE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/d/36qAhKSUGEwJscwRqZhA/artes-g1-38-.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "062ab9f42eb90d7d",
+          "slug": "4b76da9aaa6660dd",
+          "titulo": "Engavetamento na BR-040 em Nova Lima causa congestionamento de 8 km",
+          "resumo": "Um engavetamento envolvendo cerca de 20 a 25 veículos na BR-040, próximo ao km 548 em Nova Lima, bloqueou a rodovia no sentido Belo Horizonte por 8 km. O acidente, ocorrido por volta das 09h15, resultou em seis feridos, cinco dos quais em estado moderado e grave e encaminhados ao Hospital João XXIII. O Corpo de Bombeiros e a EPR Via Mineira confirmaram a ocorrência e a extensão do bloqueio.",
+          "porQueImporta": "O bloqueio prolongado na BR-040 afetou o tráfego regional, impactando o deslocamento de milhares de veículos e a logística local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/07/video-mostra-momento-que-carreta-perde-controle-e-bate-em-ao-menos-20-veiculos-na-br-040-na-grande-bh.ghtml"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/mg-engavetamento-com-25-veiculos-causa-8-km-de-congestionamento-na-br-040"
+            }
+          ],
+          "updatedAt": "2026-10-07T15:09:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EFNspXIbuRUoDGmAi4w0DVgaS-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/X/it3cEqRLKCZChvHdVGMg/whatsapp-image-2026-10-07-at-10.21.24.jpeg"
+        },
+        {
+          "clusterId": "58f6db3d7dd7ac88",
+          "slug": "ace5317ab7491287",
+          "titulo": "Motociclista ferido após colisão com carro em Campinas",
+          "resumo": "Um motociclista de 19 anos ficou ferido depois de ser atingido por um carro no cruzamento da Avenida Princesa D'Oeste com a Rua Frei José de Monte Carmelo, em Campinas. O acidente ocorreu na manhã de quarta-feira. A faixa da direita foi interditada para o resgate, mas a via foi liberada por volta das 9h. Câmeras de segurança registraram o momento da colisão.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção ao tráfego em cruzamentos urbanos.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/10/07/video-motociclista-voa-apos-ser-atingido-por-carro-em-avenida-de-campinas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T15:40:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/M_BI9nWiya-1ICBPaWh-DPBG01w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/t/ftyygrTNuahGe9IGqPLA/voa-moto.png"
+        },
+        {
+          "clusterId": "c23cba739a1119fe",
+          "slug": "3f417a629e6c9055",
+          "titulo": "Colisão frontal deixa vítimas presas às ferragens na BR-251",
+          "resumo": "Um furgão colidiu frontalmente com um Fiat Uno na BR-251, deixando duas pessoas presas às ferragens. O CBMDF foi acionado na quarta-feira (7/10) para socorrer os feridos. As vítimas foram hospitalizadas. O trecho da estrada foi liberado às 12h.",
+          "porQueImporta": "O acidente resultou em feridos e bloqueio de via, afetando a mobilidade local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/colisao-frontal-deixa-vitimas-presas-as-ferragens-na-br-251"
+            }
+          ],
+          "updatedAt": "2026-10-07T15:39:31.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/acidente-br-251-cbmdf-7-de-outubro-2.jpeg"
+        },
+        {
+          "clusterId": "96cc35bc762f406d",
+          "slug": "21e6a728660c97c7",
+          "titulo": "Morto tio de ministro em atropelamento após briga de trânsito em São Paulo",
+          "resumo": "O dentista Carlos Boulos, 80 anos, faleceu na madrugada de terça-feira (6) depois de ser atropelado em São Paulo. O acidente ocorreu durante uma discussão de trânsito. O ministro Guilherme Boulos lamentou a morte nas redes sociais e descreveu o tio como uma pessoa de caráter exemplar.",
+          "porQueImporta": "O caso envolve um membro público e destaca a violência urbana em trânsito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/07/e-desolador-foi-vitima-de-uma-violencia-humanamente-inexplicavel-diz-boulos-sobre-a-morte-do-tio-apos-briga-de-transito-em-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T15:29:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/i9NokLu6dDKUaBB-FtZREE8-rRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/Q/gcD3DxS0qo12KadjsWhw/fotojet-2026-10-07t120842.740.jpg"
+        },
+        {
+          "clusterId": "9600079dc456e545",
+          "slug": "985f2fb66f67482c",
+          "titulo": "Motorista passa mal e bate de frente na Mogi-Bertioga",
+          "resumo": "Um motorista perdeu o controle do veículo na Rodovia Dom Paulo Rolim Loureiro (SP-098) após passar mal, invadindo a pista contrária e colidindo de frente com outro carro. O acidente ocorreu por volta das 9h50, no km 65, em Mogi das Cruzes. O impacto resultou em um fatal e cinco feridos, e a via ficou temporariamente interditada nos dois sentidos.",
+          "porQueImporta": "O incidente causou fatalidade e feridos, interrompendo o tráfego na rodovia.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/07/acidente-entre-dois-carros-deixa-feridos-na-mogi-bertioga.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T15:10:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QYca_A3wxcEXVAgbSZ4L48t67tI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/I/tEZQG3QYC4E4nYGmU8Bg/montagem-2-fotos-1920x1080-4-.jpg"
+        },
+        {
+          "clusterId": "f2e3d444dd5a4079",
+          "slug": "c24a8bb475ff486e",
+          "titulo": "Carro capota após bater em outro veículo em Três Rios",
+          "resumo": "Um veículo capotou depois de colidir com outro na Avenida Castro Alves, em Três Rios, RJ, na manhã de quarta-feira. O acidente ocorreu perto do Trevo Purys. Três pessoas receberam primeiros socorros no local e se recusaram a ser encaminhadas para hospital.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/07/carro-capota-apos-bater-em-outro-veiculo-em-tres-rios.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T15:09:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EstKDWd9E_GezqmhQp6_YWd-Xk8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/i/RlKTnkT2mm876o7w1b1A/image-59-.jpg"
+        },
+        {
+          "clusterId": "c040badc9dd906a8",
+          "slug": "9550a5b81c0090c1",
+          "titulo": "Motociclista morre e criança fica ferida em acidente no Recife",
+          "resumo": "Um motociclista morreu na manhã de quarta-feira (7) após colidir com uma bicicleta na Avenida Abdias de Carvalho, no bairro do Bongi, na Zona Oeste do Recife. Duas pessoas ficaram feridas: a esposa do condutor da moto, de 28 anos, e uma criança de 11 anos que atravessava a via pedalando. Os nomes dos feridos não foram divulgados. A vítima que morreu foi identificada como Yuri Cid da Silva Lima, de 25 anos.",
+          "porQueImporta": "O acidente resultou em perda de vidas e destaca a necessidade de atenção à segurança viária na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/07/acidente-no-recife-deixa-motociclista-morto-e-dois-feridos-crianca-e-uma-das-vitimas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T15:09:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/V8JNUT77sqdExJGuleyAO_JZanE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/d/36qAhKSUGEwJscwRqZhA/artes-g1-38-.jpg"
+        },
+        {
+          "clusterId": "e7048b8bcd3cf1ec",
+          "slug": "722b4fe256ea8c42",
+          "titulo": "Motociclista morre após acidente com viatura da PM em Sertãozinho",
+          "resumo": "O motociclista Raudinei dos Santos Silva, de 31 anos, morreu na terça-feira (6) três dias depois de se envolver em um acidente com uma viatura da Polícia Militar em Sertãozinho, SP. Câmeras de segurança registraram que a vítima não respeitou a sinalização de pare, avançou com a moto e foi atingida pelo veículo da PM, que estava perseguindo outro veículo. A informação foi confirmada pela funerária responsável pelo corpo.",
+          "porQueImporta": "O caso destaca a importância do cumprimento das sinalizações de trânsito e os riscos de colisões envolvendo veículos policiais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/07/motociclista-morre-3-dias-depois-de-acidente-envolvendo-viatura-da-pm-em-sertaozinho-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T14:37:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xsQWG4vQU2f4Nx-LBJ2iq4cPRkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/a/4IXnPSSKyXnc2A2DANBA/design-sem-nome.png"
+        }
+      ]
+    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "05669d2a2bcc4fa1",
-          "slug": "fee5c91d126b275b",
-          "titulo": "Ibovespa dispara mais de 7% após resultados do 1º turno",
-          "resumo": "Na abertura do pregão de segunda-feira, o Ibovespa subiu mais de 7% e ultrapassou 200 mil pontos pela primeira vez. A curva de juros futuros caiu e o dólar ficou abaixo de R$5. A euforia se deve aos resultados das urnas no 1º turno, que favorecem Flávio Bolsonaro e um Congresso majoritariamente favorável a ele, gerando expectativa de aprovação de pautas econômicas liberais.",
-          "porQueImporta": "A movimentação do mercado reflete expectativas de mudanças na política econômica.",
+          "clusterId": "ce310325c25da5c1",
+          "slug": "ffb20f67d774efef",
+          "titulo": "Netflix divulga trailer de Vicentina Pede Desculpas",
+          "resumo": "O trailer do filme Vicentina Pede Desculpas, dirigido por Gabriel Martins, mostra a personagem Rejane Faria, uma professora aposentada, buscando as famílias das vítimas de um acidente para pedir desculpas em nome de seu filho. O longa explora temas de culpa, perdão e reconciliação. A produção já está em cartaz na plataforma de streaming.",
+          "porQueImporta": "O filme traz à tona questões emocionais e sociais sobre o impacto de acidentes em comunidades.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/cultura/netflix-divulga-trailer-de-vicentina-pede-desculpas-novo-filme-do-diretor-de-marte-um/"
+            }
+          ],
+          "updatedAt": "2026-10-07T14:43:33.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/VIC_20241010-VICENTINA_07186_R__1_.jpg"
+        },
+        {
+          "clusterId": "3a37ab7cfc33e21d",
+          "slug": "a1f200d61e7d53b8",
+          "titulo": "Com 10% de umidade, cidades do PI ficam entre as mais secas do país; Defesa Civil emite alerta",
+          "resumo": "Veja a previsão do tempo para esta quarta-feira (07) no Piauí Campo Maior e Piripiri, no Centro-Norte do Piauí registraram 10% de umidade relativa do ar e ficaram no topo do ranking das 10 cidades mais secas do Brasil na terça-feira (6), segundo o Instituto Nacional de Meteorologia. Ao todo, quatro municípios do estado estão na lista. De acordo com o Inmet, Teresina e Castelo de Piauí também ficaram com as taxas abaixo de 15%. Os mesmos municípios também ficaram entre os dez mais quentes. ✅ Siga o canal do g1 Piauí no WhatsApp Campo Maior e Piripiri alcançaram, respectivamente, 39.7 ºC e 38.9…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/07/a-reacao-do-mercado-ao-1o-turno-da-euforia-a-incerteza-o-assunto-1820.ghtml"
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/07/umidade-cidades-mais-secas.ghtml"
             }
           ],
-          "updatedAt": "2026-10-07T03:30:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/2BtBylssQmAnuTnZAf-Rg6VC8mM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/O/i/O5xlnlQBaCnXv9gROBug/ato20240712025.jpg"
+          "updatedAt": "2026-10-07T14:26:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-ftbuN4WeLbOEoFJ2B0Ivd1lSiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/T/Y9xwOhR9yNkx8q6KmA6g/umidade.jpg"
         },
         {
-          "clusterId": "ee658e1bc78813b2",
-          "slug": "b32ed40a6fb29bba",
-          "titulo": "Morte de 12‑anos em colégio do Paraná após brincadeira",
-          "resumo": "Um adolescente de 12 anos, Luigi Gabriel da Cruz Sales, morreu em um colégio estadual de Castro, Paraná, depois de participar de uma brincadeira com colegas. O delegado Marcondes Ribeiro afirmou que não há evidências de intenção de causar dano. A Polícia Civil está investigando o caso como acidente. A morte ocorreu durante a atividade escolar.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança e supervisão em ambientes escolares.",
+          "clusterId": "b418ff19478faaf9",
+          "slug": "db231227f871fb49",
+          "titulo": "Trecho de rua onde calçada afundou continua interditado oito meses depois em Jundiaí",
+          "resumo": "Trecho de rua onde calçada afundou continua interditado oito meses depois em Jundiaí O trecho da Rua Madrid, no bairro Jardim Sebastião, em Jundiaí (SP), que afundou após uma forte chuva atingir a região, segue interditado após oito meses. A calçada cedeu durante um deslizamento de terra em fevereiro deste ano e atingiu uma casa. Os moradores precisaram deixar o imóvel e ir para a casa de parentes, onde continuam até hoje. 📲 Participe do canal do g1 Sorocaba e Jundiaí no WhatsApp Conforme apurado pela TV TEM, o local conta com sinalização de trânsito com barreiras e um bloco de concreto para…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/07/nao-acredito-que-houve-intencao-diz-delegado-sobre-brincadeira-que-terminou-com-morte-de-menino-em-escola-do-parana.ghtml"
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/07/trecho-de-rua-onde-calcada-afundou-continua-interditado-oito-meses-depois-em-jundiai.ghtml"
             }
           ],
-          "updatedAt": "2026-10-07T03:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/FcVvdYwUjQ-8nlwSk1FpzCKDNMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/P/eY61j7Rd2WGcWeBVzZFg/design-sem-nome.png"
+          "updatedAt": "2026-10-07T14:16:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8W1qqyNME04xz6J7IOMqfaQc-l4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/l/SyO4rRR36TWVgipNVOUA/rua.jpg"
         },
         {
-          "clusterId": "e1d013106c1d4f2f",
-          "slug": "10cd9c509dc0dd09",
-          "titulo": "Incêndio atinge fábrica na Zona Sul de SP e 27 viaturas tentam controlar",
-          "resumo": "Chamas intensas provocaram o desabamento do teto do imóvel na região do Jabaquara e bombeiros trabalham para controlar o fogo",
+          "clusterId": "f0e1e88c9605ac02",
+          "slug": "0a3e6a63d473b03f",
+          "titulo": "Entregador morre após ser atingido por carro em estrada no interior de SP",
+          "resumo": "Entregador morre após ser atingido por carro em estrada no interior de SP Reprodução / Redes Sociais Um entregador de 48 anos morreu após ser atingido por um carro enquanto pilotava uma motocicleta na Estrada das Areias, em Registro, no interior de São Paulo. A vítima foi socorrida e levada à Unidade de Pronto Atendimento (UPA) da cidade, mas não resistiu aos ferimentos. O acidente aconteceu na segunda-feira (5), por volta das 12h. O Corpo de Bombeiros, que atendeu a ocorrência, encontrou o homem inconsciente, com múltiplas fraturas e hemorragia intensa. ✅ Clique aqui para seguir o novo canal…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/07/entregador-morre-atingido-carro-estrada-registro-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T14:15:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uHNOCoaoE_T_JlfL-0A2w4gtW-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/y/stOXq1QZC6IHArV3u3Xg/neymar-2012-40-.jpg"
+        },
+        {
+          "clusterId": "b0c98d0e737e98eb",
+          "slug": "712fd68859c01116",
+          "titulo": "Mulher morre após cair de moto e ser atropelada por carro em Macapá",
+          "resumo": "Mulher morre durante acidente de trânsito em Macapá Uma motociclista morreu na noite desta terça-feira (6), após um grave acidente de trânsito no cruzamento da Rua São Paulo com a Avenida Ceará, no bairro Pacoval, em Macapá. De acordo com informações da Polícia Militar, o acidente ocorreu por volta das 23h. Equipes do Serviço de Atendimento M de Urgência (Samu) e do Corpo de Bombeiros foram acionadas, mas a vítima já estava sem vida quando os socorristas chegaram ao local. ✅ Clique aqui para seguir o canal do g1 AP no WhatsApp Segundo o relatório policial, a mulher conduzia uma motocicleta…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/07/mulher-morre-apos-cair-de-moto-e-ser-atropelada-por-carro-em-macapa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T14:14:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Q3oDIyEByTpwAP7zPPl7SAir7yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/w/G/XDK3AfTaOQpBvaSTIb1w/whatsapp-image-2023-01-25-at-10.10.11.jpeg"
+        },
+        {
+          "clusterId": "176aba5efc826d51",
+          "slug": "62117aaee80b80e5",
+          "titulo": "Tempestade tropical Isaias ameaça Golfo do México como um furacão",
+          "resumo": "Este será primeiro furacão do ano na bacia do Atlântico, encerrando um período de espera recorde associado aos efeitos de um El Niño que provavelmente atingiu intensidade recorde",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-atinge-fabrica-na-zona-sul-de-sp-e-27-viaturas-tentam-controlar/"
+              "url": "https://www.cnnbrasil.com.br/internacional/tempestade-tropical-isaias-ameaca-golfo-do-mexico-como-um-furacao/"
             }
           ],
-          "updatedAt": "2026-10-07T02:42:17.000Z"
-        },
-        {
-          "clusterId": "00c7bf25420c24b2",
-          "slug": "8fb4c430c839e4c5",
-          "titulo": "OMS acompanha possível vazamento de peste pneumônica após morte na Sibéria",
-          "resumo": "A Organização Mundial da Saúde está monitorando um possível vazamento da peste pneumônica na Sibéria, depois da morte de uma pesquisadora russa em um laboratório de pesquisa da bactéria. A ONU pediu cautela ao discutir o possível surto. A situação está sendo observada de perto pelas autoridades internacionais.",
-          "porQueImporta": "O incidente pode representar um risco de disseminação de uma doença bacteriana grave.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/oms-acompanha-possivel-vazamento-de-peste-pneumonica-apos-morte-na-siberia/"
-            }
-          ],
-          "updatedAt": "2026-10-07T00:57:06.000Z"
+          "updatedAt": "2026-10-07T13:29:40.000Z"
         },
         {
           "clusterId": "ac8ceed8939abd8a",
@@ -241,23 +449,46 @@
           ],
           "updatedAt": "2026-10-06T04:34:31.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/t5MMvs8Br8eVoUr_jkM9Ei_gRr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/x/mMdWsZQkmbD5nF8BoQNQ/ap23166671094526.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
         {
-          "clusterId": "dea9620ee369579c",
-          "slug": "9354304949ed47dc",
-          "titulo": "Nepal encerra operações de busca e resgate após avalanche; mais de 5 mil pessoas seguem desaparecidas",
-          "resumo": "Pessoas fogem de deslizamento de terra na fronteira do Nepal com o Tibete O Nepal encerrou, nesta segunda-feira (5), a operação de busca e resgate das pessoas que ainda estão desaparecidas após a devastadora avalanche de lama que atingiu a fronteira do país com o Tibete, na China, em agosto, informaram autoridades. Segundo o chefe do Centro Nacional de Operações de Emergência nepalense, Phanindra Paudel, o governo está avaliando como declarar legalmente as pessoas desaparecidas como falecidas, para permitir que suas famílias ou parentes concluam trâmites relacionados a seguros, bancos e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "81c5974a2ce70c10",
+          "slug": "9833c6b30df668b2",
+          "titulo": "Incêndio destrói mais de 20 carros em pátio de locadora em Picos",
+          "resumo": "Um incêndio atingiu o pátio de uma locadora de veículos em Picos, Piauí, na manhã de quarta-feira (7). Mais de 20 carros estacionados ficaram carbonizados. O Corpo de Bombeiros foi acionado e não há registro de feridos.",
+          "porQueImporta": "O evento demonstra risco à segurança de veículos e à infraestrutura de locadoras.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/05/nepal-encerra-operacoes-de-busca-e-resgate-apos-enchente-e-passa-a-se-concentrar-na-reabilitacao.ghtml"
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/07/incendio-em-picos.ghtml"
             }
           ],
-          "updatedAt": "2026-10-05T15:24:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5JsnAIwz0ywVI9sDmM4WcKeT6VY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/K/0nNmBuTduAeyG32pjqJQ/2026-08-30t133732z-35845283-rc2x8nafc30j-rtrmadp-3-nepal-floods.jpg"
+          "updatedAt": "2026-10-07T15:38:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OgmhE2pP2lCrWFLnGDAnmzhdJDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/H/AOApRvS1GsYGNOfCK3mw/edicao-imagens-g1-2026-10-07t123051.618.png"
+        },
+        {
+          "clusterId": "d243c4c661f38540",
+          "slug": "b73d837d23a85418",
+          "titulo": "Carro pega fogo em estacionamento de Limeira",
+          "resumo": "Um veículo incendiou dentro de estacionamento na Avenida Lauro Corrêa da Silva, em Limeira, na noite de terça-feira. Câmeras de segurança registraram a fumaça e o início do fogo, que atingiu a parte dianteira do carro. O Corpo de Bombeiros foi acionado e chegou ao local, mas não houve feridos. O dono do estacionamento informou que os demais veículos permaneciam intactos.",
+          "porQueImporta": "O incidente destaca a necessidade de vigilância e prevenção de incêndios em áreas de estacionamento.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/07/video-carro-pega-fogo-dentro-de-estacionamento-e-mobiliza-bombeiros-em-limeira.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T14:54:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/H5ViNwEm_Q_xxZR6w64JeYHwwxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/f/BJsMhBSBGQ0sejS4ThBg/design-sem-nome-1-.png"
         }
       ]
     },
@@ -266,61 +497,71 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "a3b2b0b4da44682e",
-          "slug": "4db7a0f18fa4cf5b",
-          "titulo": "Previsão de chuva e tempestades em Divinópolis e região sul",
-          "resumo": "Divinópolis e áreas próximas estarão sob alerta de tempestade, com tempo nublado, temperaturas elevadas e possibilidade de chuvas isoladas de quarta a sexta-feira. O Instituto Nacional de Meteorologia indica pancadas de chuva acompanhadas de trovoadas na quarta, com mínima de 19 °C e máxima potencialmente mais alta. Enquanto isso, o sul do país, incluindo Rio Grande do Sul, Santa Catarina e Paraná, enfrentará chuvas fortes e temporais, com a possibilidade de formação de um ciclone extratropical no fim de semana.",
-          "porQueImporta": "As condições climáticas podem afetar deslocamentos, atividades agrícolas e a segurança pública na região.",
+          "clusterId": "56683d91952bc895",
+          "slug": "983bb6a25d05d478",
+          "titulo": "Ansiedade de Sandra Motta com chegada do Super El Niño",
+          "resumo": "A professora aposentada Sandra Motta, de 57 anos, vive ansiedade diante da previsão do Super El Niño, após ter sido afetada pelas inundações de 2024 no Rio Grande do Sul. Ela relata que a notícia faz sua mente “não parar de funcionar” e a leva a imaginar cenários catastróficos e a planejar medidas de prevenção. Motta participa de um projeto que ajuda pessoas com sofrimento mental ligado a tragédias climáticas.",
+          "porQueImporta": "A situação destaca o impacto psicológico de eventos climáticos extremos sobre vítimas anteriores.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/07/temporais-voltam-ao-sul-nesta-quarta-novo-ciclone.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-07T05:00:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/tJpGP8ypQ-2R_KW--Hlq5HH84kM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/9/pPe8OhSUCJ6wSb0UvKWQ/fta20261004374.jpg"
-        },
-        {
-          "clusterId": "70041f35693cc652",
-          "slug": "0fdcb6c18ae71a22",
-          "titulo": "Temporais voltam a ganhar força no RS e podem trazer granizo e ventos acima de 80 km/h",
-          "resumo": "Na quarta-feira (7), o Rio Grande do Sul passa a registrar aumento das instabilidades, com possibilidade de chuva forte, rajadas de vento e queda de granizo em pontos isolados. As condições mais severas são previstas entre a tarde e a noite, principalmente nas regiões da Campanha, Oeste, Missões, Centro, Noroeste e Norte. O retorno das tempestades pode afetar atividades externas e mobilidade urbana.",
-          "porQueImporta": "As condições meteorológicas podem causar transtornos e riscos à população e à infraestrutura local.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cwp84zp54p5lo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/07/temporais-voltam-ganhar-forca-rs-granizo-ventos-confira-previsao-do-tempo.ghtml"
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/07/a-ansiedade-com-chegada-do-super-el-nino-em-quem-ja-foi-vitima-de-tragedias-climaticas-vai-ser-pior.ghtml"
             }
           ],
-          "updatedAt": "2026-10-07T03:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/T33PHHEIxD6IIFm5kcxkSWJ5JpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/D/TtyfKwRRib9FvIlPJplQ/g1.png"
+          "updatedAt": "2026-10-07T14:17:14.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f749/live/0e5f6ed0-b3d4-11f1-82aa-6140089ac837.jpg"
         }
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "acidente-de-construcao",
+      "label": "Acidente de construção",
       "stories": [
         {
-          "clusterId": "dd20ed87bacc267e",
-          "slug": "02fb8d152af9f0d2",
-          "titulo": "Morte de pai e filho em acidente em MG gera comoção no interior de SP",
-          "resumo": "Um acidente na MG-050, próximo a Piumhi, matou o motorista Lourival Camilo, de 54 anos, e seu filho Lucas Gabriel Camilo, de 22 anos. A colisão envolveu a van das vítimas e uma carreta, deixando o veículo destruído. O velório será realizado nesta quarta-feira em Boa Esperança do Sul, SP.",
-          "porQueImporta": "O incidente causou forte comoção na comunidade local e destaca a importância da segurança viária nas rodovias de Minas Gerais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "f67489be1548d1c5",
+          "slug": "e95a4dfa646d4329",
+          "titulo": "Dois trabalhadores ficam feridos após andaime de obra despencar em Vila Velha",
+          "resumo": "Dois trabalhadores ficaram feridos quando um balancinho elétrico, usado para transportar funcionários em fachadas de prédios, se desprendeu durante a desmontagem em um edifício na Avenida Gil Veloso, em Vila Velha. O responsável pela obra, Douglas Demétrio, não estava no local no momento do acidente, mas conversou com um dos envolvidos. O equipamento caiu enquanto a estrutura estava sendo desmontada.",
+          "porQueImporta": "O acidente destaca riscos associados ao uso de andaimes elétricos em obras de fachada.",
+          "categoria": "Acidente de construção",
+          "categoriaSlug": "acidente-de-construcao",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/07/morte-de-pai-e-filho-em-acidente-em-mg-gera-comocao-no-interior-de-sp-enterro-e-nesta-quarta.ghtml"
+              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/07/dois-trabalhadores-ficam-feridos-apos-andaime-de-obra-despencar-de-predio-em-vila-velha.ghtml"
             }
           ],
-          "updatedAt": "2026-10-07T03:05:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/U5aHY4O8ixlR8SmP6bf30xvDXhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/1/VqQ7v9TwSFWW0dL14urg/pai-e-filho-2-.jpg"
+          "updatedAt": "2026-10-07T15:21:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/t10WoZQXOMtYWHpU56MYDP_1bhE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/o/P25hflQQKEsxt69GW2oA/thumb-videos-g1-14-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "b1871fc8eaa3d2f9",
+          "slug": "79aaf3fa8b187940",
+          "titulo": "Rio das Flores arrecada doações para 80 desabrigados após temporal",
+          "resumo": "A Prefeitura de Rio das Flores (RJ) abriu pontos de arrecadação para atender cerca de 80 pessoas desabrigadas pelo forte temporal ocorrido entre a noite de terça-feira e a madrugada de quarta-feira. Mais de 24 famílias tiveram casas atingidas, perdendo mantimentos e móveis. A prioridade é a coleta de água potável, alimentos não perecíveis, colchões, roupas de cama e banho, vestimentas e itens de higiene.",
+          "porQueImporta": "O apoio emergencial ajuda a mitigar os impactos imediatos do temporal sobre a comunidade local.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/07/rio-das-flores-arrecada-doacoes-para-desabrigados-apos-temporal.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-07T14:41:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vPp6wD2ba8Lx01WLQB2bZmsFJ70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/V/HT4BZvTP6QgELAt01law/whatsapp-image-2026-10-07-at-08.57.32.jpg"
         }
       ]
     }
