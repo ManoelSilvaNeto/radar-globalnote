@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-06T11:27:14.277Z",
-  "editionDate": "2026-10-06",
-  "hourUtc": 11,
-  "outcome": "generated",
-  "reason": "\"Incidentes de trânsito, incêndio industrial e alerta de chuvas fortes marcam o dia\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-07T06:21:22.916Z",
+  "editionDate": "2026-10-07",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
