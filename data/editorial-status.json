@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-07T15:43:06.957Z",
-  "editionDate": "2026-10-07",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito dominam o cenário, com bloqueios de rodovias e fatalidades em diversas regiões\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-08T06:32:48.198Z",
+  "editionDate": "2026-10-08",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
