@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-10-08T06:32:48.198Z",
+  "ranAt": "2026-10-08T15:48:43.799Z",
   "editionDate": "2026-10-08",
-  "hourUtc": 6,
-  "outcome": "skipped",
-  "reason": "fora da janela (6h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 15,
+  "outcome": "generated",
+  "reason": "\"Incêndios, colisões e tempestade marcam panorama de acidentes e eventos climáticos\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }

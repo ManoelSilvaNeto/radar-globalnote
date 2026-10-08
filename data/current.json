@@ -1,131 +1,502 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T06:32:48.198Z",
+  "generatedAt": "2026-10-08T15:48:43.799Z",
   "home": [
     {
-      "clusterId": "c1124148c4dfa17a",
-      "slug": "3dc1c397ab5d92a7",
-      "titulo": "Chuva aumenta no Sudeste nesta quinta e Sul tem risco de tornado; calor domina no Centro-Oeste",
-      "resumo": "A chuva volta a ganhar espaço no Sudeste nesta quinta-feira (8), depois de um começo de semana marcado por períodos mais secos em várias áreas da região. As pancadas devem atingir principalmente São Paulo e pontos de Minas Gerais e do Rio de Janeiro. No Sul, a previsão é de temporais mais fortes, risco de granizo, rajadas intensas e possibilidade de tornado no Rio Grande do Sul. Já em boa parte do Centro-Oeste e do Nordeste, o destaque será o calor forte e a umidade baixa.. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Em São Paulo, a chuva deve aparecer principalmente a…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/08/chuva-aumenta-no-sudeste-previsao-todo-o-pais.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-08T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Xqaaj--UqcgnJNONQhbxUAw70Tg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/R/OCLsqdRq6voLYqQdYtoQ/pro-bra-p05-048.png"
-    },
-    {
-      "clusterId": "101023b9fc1727e9",
-      "slug": "2cdccdc69a07e16d",
-      "titulo": "Alerta de temporais com granizo e ventos acima de 90 km/h no Rio Grande do Sul",
-      "resumo": "O Rio Grande do Sul recebeu alerta para temporais com risco de granizo, chuva intensa e rajadas de vento superiores a 90 km/h nesta quinta-feira. A previsão indica que as instabilidades se intensificarão entre a madrugada e a manhã, quando uma linha de tempestades avançará sobre o estado. A atuação de uma frente fria combinada com baixa pressão e um ciclone é responsável pelo tempo severo.",
-      "porQueImporta": "O alerta visa prevenir danos a propriedades e garantir a segurança da população diante de condições meteorológicas extremas.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/08/temporais-granizo-ventos-rs-alerta-quinta-feira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-08T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/t-BfikZBKA7WBKyZzCYMAOBXnGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/z/8IOkN2RhONArBG7bNi4g/g1-2-.jpg"
-    },
-    {
-      "clusterId": "c9035aa974fc9a73",
-      "slug": "468a5ad5117b8277",
-      "titulo": "Rio Uruguai volta a subir no RS e força retirada de famílias",
-      "resumo": "O Rio Uruguai subiu quase 1 metro acima da cota de inundação em Uruguaiana, no Rio Grande do Sul, forçando a evacuação de dezenas de famílias. A Defesa Civil e o Exército ajudaram os moradores a sair de suas casas. O vai e vem de água durou o dia inteiro, causando transtornos na região fronteiriça oeste do estado.",
-      "porQueImporta": "A inundação ameaça a segurança e a estabilidade das comunidades locais.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/07/rio-uruguai-volta-a-subir-no-rs-dezenas-de-familias-estao-fora-de-casa-na-fronteira-oeste-do-estado.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-08T01:25:19.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/wCtz6B0BnQZDolUrmoIVBPbVESc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/7/Yh20Q3RmWB2ljBMdeIsw/globo-canal-4-20261007-2000-frame-126197.jpeg"
-    },
-    {
-      "clusterId": "813bf3c5bffd9a3f",
-      "slug": "c47621790a1a1d49",
-      "titulo": "Incêndio atinge casa no bairro Aleixo, em Manaus",
-      "resumo": "Um incêndio atingiu uma casa na rua C, no bairro Aleixo, Zona Centro-Sul de Manaus, na noite de quarta-feira. O fogo se espalhou pela parte interna do imóvel, mas casas vizinhas não foram atingidas. O Corpo de Bombeiros Militar do Amazonas foi acionado e enviou ao menos uma viatura ao local. Até o momento, não há informações sobre feridos nem sobre a causa do incêndio.",
-      "porQueImporta": "O incidente pode representar risco à segurança dos moradores e à estabilidade do bairro.",
+      "clusterId": "ccd5de15e6a187bf",
+      "slug": "e6646a77471f7990",
+      "titulo": "Incêndio destrói prédio de pesquisas na UFPE",
+      "resumo": "Na noite de quarta-feira, um incêndio atingiu prédio de pesquisas da Universidade Federal de Pernambuco, no campus de Recife, causando prejuízo estimado em R$ 100 milhões em equipamentos e perda de amostras de 20 anos. O fogo não deixou feridos, mas abocanhou laboratórios que investigavam câncer, Covid‑19 e autismo. A Polícia Federal abriu investigação para verificar se houve ação criminosa.",
+      "porQueImporta": "O incidente comprometeu décadas de pesquisas científicas e recursos significativos da instituição.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/nordeste/pe/incendio-na-ufpe-causou-prejuizo-estimado-em-r-100-milhoes-diz-reitor/"
+        },
+        {
           "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/07/forte-incendio-atinge-casa-no-bairro-aleixo-em-manaus.ghtml"
+          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/08/destruicao-de-pesquisas-e-equipamentos-por-incendio-na-ufpe-preocupa-estudantes-e-devastador-fico-com-o-coracao-apertado.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/incendio-destroi-laboratorios-da-ufpe-e-leva-pf-a-investigar-possivel-acao-criminosa/"
         }
       ],
-      "updatedAt": "2026-10-08T00:51:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/NJKFzpqz_YZKNXHMeJytpVOrS0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/W0lZ67Tkeh3KSVreTZPw/g1-incendio-casa-aleixo.jpg"
+      "updatedAt": "2026-10-08T15:29:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ICFgnfX_Lh-FPPwNABbj23n60BE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/D/rhLoKGScCxxiLzBkh2BA/blank-3-grids-collage-3-.png"
     },
     {
-      "clusterId": "1078c8d91b4fd2a9",
-      "slug": "1ceb62aaaa293f65",
-      "titulo": "Engavetamento com 20 veículos bloqueia BR-040 na Região Metropolitana de Belo Horizonte",
-      "resumo": "Um engavetamento envolvendo 20 veículos bloqueou a rodovia BR-040, em Nova Lima, Grande BH. Um motorista, Euler Tadeu da Silva, relatou que, ao ouvir estalos e ver fumaça, esperou o impacto sem maiores danos. O engarrafamento foi agravado por uma carreta desgovernada que se aproximou do local.",
-      "porQueImporta": "O bloqueio de uma rodovia principal pode causar atrasos significativos no tráfego e risco de acidentes adicionais.",
+      "clusterId": "a4134a0873fca8a1",
+      "slug": "1f16d074ff255991",
+      "titulo": "Juiz encontrado morto dentro de carro em chamas em interior de São Paulo",
+      "resumo": "O juiz Gustavo de Castro Campos, de 45 anos, foi encontrado carbonizado dentro de um carro em uma estrada rural de São João da Boa Vista, na noite de quarta-feira (8). Ele atuava na Comarca de Mococa e tinha mais de uma década de experiência na magistratura, além de ter trabalhado como advogado e delegado da Polícia Civil.",
+      "porQueImporta": "O incidente evidencia riscos de segurança e a necessidade de investigação sobre causas de incêndio em veículos.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/07/engavetamento-com-20-veiculos-bloqueia-rodovia-br-040-na-regiao-metropolitana-de-belo-horizonte.ghtml"
+          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/08/quem-era-o-juiz-encontrado-morto-dentro-de-carro-em-chamas-no-interior-de-sp.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-seguranca-publica/juiz-e-encontrado-morto-dentro-de-carro-em-chamas-no-interior-de-sp/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/juiz-e-encontrado-morto-dentro-de-carro-em-chamas-no-interior-de-sao-paulo/"
         }
       ],
-      "updatedAt": "2026-10-08T00:45:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/cBSduElHbxu9SpB8yIhZx4pBjRo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/G/qtuVhPSZaOUVu8Ji8O5w/globo-canal-4-20261007-2000-frame-88092.jpeg"
+      "updatedAt": "2026-10-08T14:53:24.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-Cc249pDqyaKPP3YdKP_9_S6Vsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/c/HaDA5JQYKBQH8t3QVgSw/tamanho-post-materia-37-.jpg"
     },
     {
-      "clusterId": "31e887cfbde78e5e",
-      "slug": "983bb6a25d05d478",
-      "titulo": "Ansiedade cresce com chegada do Super El Niño em quem já sofreu tragédias climáticas",
-      "resumo": "Populações que já foram vítimas de eventos climáticos extremos sentem ansiedade diante da chegada do Super El Niño. Esse fenômeno pode desencadear um estresse climático antecipatório, aumentando a vulnerabilidade psicológica. As autoridades destacam a necessidade de apoio psicológico e medidas de mitigação para esses grupos.",
-      "porQueImporta": "O estresse climático pode agravar a saúde mental e a resiliência das comunidades afetadas.",
+      "clusterId": "08b592145095ed8c",
+      "slug": "04b9c95732aff0a7",
+      "titulo": "Ônibus invade feirão de roupas em Duque de Caxias",
+      "resumo": "Um ônibus perdeu o controle e colidiu com a traseira de um caminhão de reciclagens, invadindo o Feirão Moda Rio na Rodovia Washington Luiz, no sentido São Paulo. O caminhão tombou sobre um automóvel. A pista lateral foi fechada e os bombeiros tentaram retirar o motorista das ferragens. Até o último relato, não havia informações sobre feridos adicionais.",
+      "porQueImporta": "O acidente pode ter causado transtornos logísticos e riscos de segurança na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/10/08/onibus-invade-feirao-em-caxias.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-08T15:36:34.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/nxWICEaLcnrnMCswmheOcNpRPsQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Q/3BM1vNRhuDLJ4EoHNmnA/rj1-limpo-20261008-1115-frame-149358.jpeg"
+    },
+    {
+      "clusterId": "54ee4db114518953",
+      "slug": "77fff365cef318e9",
+      "titulo": "Engavetamento entre oito veículos bloqueia rodovia em Sorocaba",
+      "resumo": "Um engavetamento envolvendo oito veículos, incluindo um caminhão e uma carreta, bloqueou a Rodovia Celso Charuri (SP-91) em Sorocaba. O acidente ocorreu às 10h46, no quilômetro 1, sentido São Paulo / Castello Branco. O helicóptero Águia da Polícia Militar foi acionado para socorrer as vítimas. A concessionária responsável pelo trecho confirmou o bloqueio da via.",
+      "porQueImporta": "O bloqueio de uma rodovia principal pode causar atrasos significativos no tráfego e impactar a mobilidade da região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/08/engavetamento-bloqueia-rodovia-e-mobiliza-helicoptero-aguia-em-sorocaba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-08T15:30:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/OyC-AtIE135z1L-fCdiu8R4sr0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Q/teXe9EQwes6VuG8jXDWQ/carros.jpg"
+    },
+    {
+      "clusterId": "b1e14f4d467a9841",
+      "slug": "f8e1afd8e235cda7",
+      "titulo": "Acidente entre ônibus e carreta deixa 11 feridos em rodovia de Itaí",
+      "resumo": "Um ônibus bateu na traseira de uma carreta na Rodovia Eduardo Saigh (SP-255), em Itaí, causando 11 feridos leves. As vítimas foram encaminhadas ao pronto-socorro local. O trecho, no quilômetro 292, teve todas as faixas e o acostamento interditados.",
+      "porQueImporta": "O acidente interrompeu o tráfego e resultou em feridos, afetando a mobilidade na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/08/acidente-entre-onibus-e-carreta-deixa-feridos-em-rodovia-de-itai.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-08T15:24:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/NaJpY10a3WS14ZWb7OKExKS393g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/3/WgAadHRp2E8xB9Ydo1zg/whatsapp-image-2026-10-08-at-11.54.17.jpeg"
+    },
+    {
+      "clusterId": "852f8ad525aaf0eb",
+      "slug": "18b56330e33657f8",
+      "titulo": "Nova linha de ônibus opera na Zona Norte de Manaus",
+      "resumo": "A Prefeitura de Manaus inaugurou a linha complementar C-902, que liga o conjunto Manauara ao bairro Santa Etelvina à avenida Torquato Tapajós. A operação começa na próxima terça-feira. A linha visa ampliar o atendimento do transporte coletivo na região e facilitar o deslocamento de moradores de comunidades próximas. Os passageiros poderão usar integração temporal para embarcar em outras linhas.",
+      "porQueImporta": "A nova linha melhora o acesso ao transporte público na Zona Norte de Manaus.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/10/08/nova-linha-de-onibus-comeca-a-operar-na-zona-norte-de-manaus-veja-o-trajeto.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-08T15:22:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/bfaTe2bnRIh8DwkbD5DTG-J5rcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/e/M7pepASPa4SfPDyVir9g/onibus-circulando-em-manaus-foto-divulgacao-immu.jpeg"
+    },
+    {
+      "clusterId": "fd4261ce1d091fed",
+      "slug": "31e295c3343ccdfd",
+      "titulo": "FIA emite alerta de calor extremo para o GP de Singapura",
+      "resumo": "A Federação Internacional de Automobilismo (FIA) alertou sobre temperaturas muito altas que podem afetar o Grande Prêmio de Singapura. Pilotos e equipes devem se preparar para condições de calor intenso. Além disso, há possibilidade de tempestades no fim de semana. O alerta visa garantir a segurança e o bom andamento da corrida.",
+      "porQueImporta": "O clima extremo pode comprometer a performance dos pilotos e a segurança da competição.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/formula-1-fia-emite-alerta-de-calor-extremo-para-o-gp-de-singapura"
+        }
+      ],
+      "updatedAt": "2026-10-08T15:20:20.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/circuito-de-marinabay-singapura-formula-1.jpg"
+    },
+    {
+      "clusterId": "952bf3516f69a624",
+      "slug": "960736488216f66f",
+      "titulo": "Carro capota após colisão na Avenida Jerônimo de Albuquerque em São Luís",
+      "resumo": "Um carro capotou depois de colidir com outro veículo na manhã de quinta-feira na Avenida Jerônimo de Albuquerque, em frente à Assembleia Legislativa do Maranhão, na região do Cohafuma, em São Luís. A vítima, que ficou dentro do veículo, estava consciente no momento do socorro. O Serviço de Atendimento Móvel de Urgência (Samu) foi acionado para prestar assistência, mas não há informações sobre seu estado de saúde.",
+      "porQueImporta": "O acidente pode indicar riscos de segurança viária na região e a necessidade de atenção às condições das vias públicas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/08/carro-capota-apos-colisao-na-avenida-jeronimo-de-albuquerque-no-cohafuma-em-sao-luis.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-08T15:13:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/aGp6SLvcSNaq-F2KMsmrjefZXHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/G/Btx7pqTdeIOY9f9p001Q/montagens-1920-x-1080-px-.png"
+    },
+    {
+      "clusterId": "4ef05686c53220da",
+      "slug": "58eb326495548a23",
+      "titulo": "Polícia: motoristas foram responsáveis por acidente com 23 mortos no Paraná",
+      "resumo": "Acidente ocorreu em 19 de agosto entre um caminhão e um micro-ônibus em Ipiranga; investigação deve ser arquivada, uma vez que os dois motoristas morreram no acidente",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/policia-motoristas-foram-responsaveis-por-acidente-com-23-mortos-no-parana/"
+        }
+      ],
+      "updatedAt": "2026-10-08T15:06:25.000Z"
+    },
+    {
+      "clusterId": "b0b6d0d7d7ab56f8",
+      "slug": "12a1110e6bf8ad7b",
+      "titulo": "Tempestade Isaías vira furacão e avança em direção aos Estados Unidos",
+      "resumo": "A tempestade Isaías evoluiu para furacão, tornando-se o primeiro ciclone a se formar no Atlântico neste ano. O furacão está avançando em direção à costa dos Estados Unidos e pode atingir a região nos próximos dias.",
+      "porQueImporta": "O evento representa o início da temporada de furacões no Atlântico e pode trazer impactos significativos para as áreas costeiras dos EUA.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cwp84zp54p5lo?at_medium=RSS&at_campaign=rss"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/agenda-verde/tempestade-isaias-vira-furacao-e-avanca-em-direcao-aos-estados-unidos/"
         }
       ],
-      "updatedAt": "2026-10-07T12:47:50.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f749/live/0e5f6ed0-b3d4-11f1-82aa-6140089ac837.jpg"
+      "updatedAt": "2026-10-08T14:58:58.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/AFP__20261008__D2M88KE__v1__HighRes__UsMexicoWeatherHurricane.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "a4134a0873fca8a1",
+          "slug": "1f16d074ff255991",
+          "titulo": "Juiz encontrado morto dentro de carro em chamas em interior de São Paulo",
+          "resumo": "O juiz Gustavo de Castro Campos, de 45 anos, foi encontrado carbonizado dentro de um carro em uma estrada rural de São João da Boa Vista, na noite de quarta-feira (8). Ele atuava na Comarca de Mococa e tinha mais de uma década de experiência na magistratura, além de ter trabalhado como advogado e delegado da Polícia Civil.",
+          "porQueImporta": "O incidente evidencia riscos de segurança e a necessidade de investigação sobre causas de incêndio em veículos.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/08/quem-era-o-juiz-encontrado-morto-dentro-de-carro-em-chamas-no-interior-de-sp.ghtml"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-seguranca-publica/juiz-e-encontrado-morto-dentro-de-carro-em-chamas-no-interior-de-sp/"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/juiz-e-encontrado-morto-dentro-de-carro-em-chamas-no-interior-de-sao-paulo/"
+            }
+          ],
+          "updatedAt": "2026-10-08T14:53:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-Cc249pDqyaKPP3YdKP_9_S6Vsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/c/HaDA5JQYKBQH8t3QVgSw/tamanho-post-materia-37-.jpg"
+        },
+        {
+          "clusterId": "08b592145095ed8c",
+          "slug": "04b9c95732aff0a7",
+          "titulo": "Ônibus invade feirão de roupas em Duque de Caxias",
+          "resumo": "Um ônibus perdeu o controle e colidiu com a traseira de um caminhão de reciclagens, invadindo o Feirão Moda Rio na Rodovia Washington Luiz, no sentido São Paulo. O caminhão tombou sobre um automóvel. A pista lateral foi fechada e os bombeiros tentaram retirar o motorista das ferragens. Até o último relato, não havia informações sobre feridos adicionais.",
+          "porQueImporta": "O acidente pode ter causado transtornos logísticos e riscos de segurança na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/10/08/onibus-invade-feirao-em-caxias.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T15:36:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/nxWICEaLcnrnMCswmheOcNpRPsQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Q/3BM1vNRhuDLJ4EoHNmnA/rj1-limpo-20261008-1115-frame-149358.jpeg"
+        },
+        {
+          "clusterId": "54ee4db114518953",
+          "slug": "77fff365cef318e9",
+          "titulo": "Engavetamento entre oito veículos bloqueia rodovia em Sorocaba",
+          "resumo": "Um engavetamento envolvendo oito veículos, incluindo um caminhão e uma carreta, bloqueou a Rodovia Celso Charuri (SP-91) em Sorocaba. O acidente ocorreu às 10h46, no quilômetro 1, sentido São Paulo / Castello Branco. O helicóptero Águia da Polícia Militar foi acionado para socorrer as vítimas. A concessionária responsável pelo trecho confirmou o bloqueio da via.",
+          "porQueImporta": "O bloqueio de uma rodovia principal pode causar atrasos significativos no tráfego e impactar a mobilidade da região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/08/engavetamento-bloqueia-rodovia-e-mobiliza-helicoptero-aguia-em-sorocaba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T15:30:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OyC-AtIE135z1L-fCdiu8R4sr0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Q/teXe9EQwes6VuG8jXDWQ/carros.jpg"
+        },
+        {
+          "clusterId": "b1e14f4d467a9841",
+          "slug": "f8e1afd8e235cda7",
+          "titulo": "Acidente entre ônibus e carreta deixa 11 feridos em rodovia de Itaí",
+          "resumo": "Um ônibus bateu na traseira de uma carreta na Rodovia Eduardo Saigh (SP-255), em Itaí, causando 11 feridos leves. As vítimas foram encaminhadas ao pronto-socorro local. O trecho, no quilômetro 292, teve todas as faixas e o acostamento interditados.",
+          "porQueImporta": "O acidente interrompeu o tráfego e resultou em feridos, afetando a mobilidade na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/08/acidente-entre-onibus-e-carreta-deixa-feridos-em-rodovia-de-itai.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T15:24:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/NaJpY10a3WS14ZWb7OKExKS393g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/3/WgAadHRp2E8xB9Ydo1zg/whatsapp-image-2026-10-08-at-11.54.17.jpeg"
+        },
+        {
+          "clusterId": "952bf3516f69a624",
+          "slug": "960736488216f66f",
+          "titulo": "Carro capota após colisão na Avenida Jerônimo de Albuquerque em São Luís",
+          "resumo": "Um carro capotou depois de colidir com outro veículo na manhã de quinta-feira na Avenida Jerônimo de Albuquerque, em frente à Assembleia Legislativa do Maranhão, na região do Cohafuma, em São Luís. A vítima, que ficou dentro do veículo, estava consciente no momento do socorro. O Serviço de Atendimento Móvel de Urgência (Samu) foi acionado para prestar assistência, mas não há informações sobre seu estado de saúde.",
+          "porQueImporta": "O acidente pode indicar riscos de segurança viária na região e a necessidade de atenção às condições das vias públicas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/08/carro-capota-apos-colisao-na-avenida-jeronimo-de-albuquerque-no-cohafuma-em-sao-luis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T15:13:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aGp6SLvcSNaq-F2KMsmrjefZXHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/G/Btx7pqTdeIOY9f9p001Q/montagens-1920-x-1080-px-.png"
+        },
+        {
+          "clusterId": "bd6863660ac778eb",
+          "slug": "3d49e48ffc4faa0e",
+          "titulo": "Motociclista morre após colisão em cruzamento de Santarém",
+          "resumo": "Um motociclista faleceu na manhã de quinta-feira (8) após colidir com um carro de passeio no cruzamento da Avenida Tupaiulândia com a Travessa Turiano Meira, no bairro Diamantino, em Santarém, Pará. O acidente envolveu a moto da vítima e um veículo de passeio. O motorista acionou o socorro e depois se dirigiu à delegacia de Polícia Civil. A ambulância de suporte básico do SAMU realizou o resgate inicial.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção redobrada em cruzamentos urbanos para prevenir fatalidades.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/08/motociclista-morre-apos-colisao-em-cruzamento-de-santarem-em-24-horas-foram-registrados-10-acidentes-de-transito.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T14:48:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xoDOtKxdY7kZE3XnAoZ5t38atIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/i/xnfRgcRHCoWUT96WXuxg/jt1-3012.01-38-08-02.quadro003.jpg"
+        },
+        {
+          "clusterId": "c9c33192cb7fe204",
+          "slug": "e9297fc35302105a",
+          "titulo": "Três pessoas morrem em acidentes nas estradas do Sul de Minas",
+          "resumo": "Na manhã de quinta-feira, três pessoas perderam a vida em acidentes nas rodovias do Sul de Minas. Um motociclista de 19 anos foi atingido por caminhão na MG-050, próximo ao acesso de Pratápolis. Além disso, ocorreram acidentes na BR-146 e na Fernão Dias (BR-381).",
+          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária nas principais rodovias da região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/08/acidentes-sul-de-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T14:41:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YcXIYLUAtz5hyZ9twQQaO2jJKfY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/C/KC0BnrQjOaoJQnXvugjA/acidente-mg050.jpeg"
+        },
+        {
+          "clusterId": "bc75e4135529cc30",
+          "slug": "e7b40b671315ee84",
+          "titulo": "Engavetamento com vários veículos bloqueia BR-376 no litoral do Paraná",
+          "resumo": "Um engavetamento envolvendo pelo menos sete veículos bloqueou totalmente a BR-376, no km 667, em Tijucas do Sul, Região Metropolitana de Curitiba. O acidente ocorreu por volta das 9h35, quando um caminhão carregado com laranjas perdeu o controle e colidiu com três carros, uma van e dois caminhões. O motorista do caminhão que causou o acidente ficou ferido. A colisão bloqueou o trecho no sentido Santa Catarina.",
+          "porQueImporta": "O bloqueio de um trecho importante da rodovia pode causar atrasos e riscos de novos acidentes.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/parana/noticia/2026/10/08/engavetamento-br-376-parana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T14:32:58.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/eovL0hW9zPhLYQQH1rw20kJfW6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/f/FeoOBjRsmwdzS3XhPJLg/fundo-vermelho-g1-4-.png"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "852f8ad525aaf0eb",
+          "slug": "18b56330e33657f8",
+          "titulo": "Nova linha de ônibus opera na Zona Norte de Manaus",
+          "resumo": "A Prefeitura de Manaus inaugurou a linha complementar C-902, que liga o conjunto Manauara ao bairro Santa Etelvina à avenida Torquato Tapajós. A operação começa na próxima terça-feira. A linha visa ampliar o atendimento do transporte coletivo na região e facilitar o deslocamento de moradores de comunidades próximas. Os passageiros poderão usar integração temporal para embarcar em outras linhas.",
+          "porQueImporta": "A nova linha melhora o acesso ao transporte público na Zona Norte de Manaus.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/10/08/nova-linha-de-onibus-comeca-a-operar-na-zona-norte-de-manaus-veja-o-trajeto.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T15:22:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bfaTe2bnRIh8DwkbD5DTG-J5rcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/e/M7pepASPa4SfPDyVir9g/onibus-circulando-em-manaus-foto-divulgacao-immu.jpeg"
+        },
+        {
+          "clusterId": "fd4261ce1d091fed",
+          "slug": "31e295c3343ccdfd",
+          "titulo": "FIA emite alerta de calor extremo para o GP de Singapura",
+          "resumo": "A Federação Internacional de Automobilismo (FIA) alertou sobre temperaturas muito altas que podem afetar o Grande Prêmio de Singapura. Pilotos e equipes devem se preparar para condições de calor intenso. Além disso, há possibilidade de tempestades no fim de semana. O alerta visa garantir a segurança e o bom andamento da corrida.",
+          "porQueImporta": "O clima extremo pode comprometer a performance dos pilotos e a segurança da competição.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/esportes/formula-1-fia-emite-alerta-de-calor-extremo-para-o-gp-de-singapura"
+            }
+          ],
+          "updatedAt": "2026-10-08T15:20:20.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/circuito-de-marinabay-singapura-formula-1.jpg"
+        },
+        {
+          "clusterId": "4ef05686c53220da",
+          "slug": "58eb326495548a23",
+          "titulo": "Polícia: motoristas foram responsáveis por acidente com 23 mortos no Paraná",
+          "resumo": "Acidente ocorreu em 19 de agosto entre um caminhão e um micro-ônibus em Ipiranga; investigação deve ser arquivada, uma vez que os dois motoristas morreram no acidente",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/policia-motoristas-foram-responsaveis-por-acidente-com-23-mortos-no-parana/"
+            }
+          ],
+          "updatedAt": "2026-10-08T15:06:25.000Z"
+        },
+        {
+          "clusterId": "8a7462f8d7cf6709",
+          "slug": "b32009273230ae65",
+          "titulo": "Acidente com 23 mortos no PR: micro-ônibus da Saúde e caminhão estavam acima da velocidade máxima permitida, diz polícia",
+          "resumo": "Polícia aponta excesso de velocidade dos dois motoristas em acidente na BR-373 Polícia Civil do Paraná afirma que identificou que tanto o caminhão quanto o micro-ônibus que se envolveram em um acidente que matou 23 pessoas na madrugada de 19 de agosto na BR-373 estavam acima da velocidade máxima permitida no trecho, que tem pistas simples e fica entre Imbituva e Ipiranga, nos Campos Gerais do Paraná. No local, o limite de velocidade é 60 km/h. Segundo a corporação, o caminhão estava a 80 km/h e o micro-ônibus que transportava moradores de Imbituva para atendimento médico na região…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/08/acidente-23-mortos-parana-velocidade-micro-onibus-saude-caminhao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T14:39:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QhGdtjsGTtqmneHWHt8hwZ4RuHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/DvW4leSBeYeU4SqRBAvg/fundo-vermelho-10-.png"
+        },
+        {
+          "clusterId": "c4a4dcfd28a5f2d8",
+          "slug": "0ec60bcc22945cd8",
+          "titulo": "Após mais de 40 horas, bombeiros mantêm monitoramento em área atingida por incêndio em Manaus",
+          "resumo": "Péssima qualidade do ar: fogo em lixão no Distrito já equivale a 2 campos de futebol Mais de 40 horas após o início de um incêndio em uma área de descarte de resíduos no Distrito Industrial 2, na Zona Leste de Manaus, o local segue sendo monitorado por equipes do Corpo de Bombeiros Militar do Amazonas (CBMAM) nesta quinta-feira (8). O trabalho é concentrado no rescaldo e na prevenção de novos focos de fogo. O incêndio começou por volta das 15h de terça-feira (6), em um terreno de descarte de resíduos localizado na Avenida dos Oitis. Na quarta, os bombeiros informaram que as chamas atingiram…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/08/apos-mais-de-40-horas-bombeiros-mantem-monitoramento-em-area-atingida-por-incendio-em-manaus.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-08T14:26:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0vHN2IYhZ8TDrAlac2feffXofqg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/M1qBMNRWitGLRBKBRJEA/apos-mais-de-40-horas-bombeiros-mantem-monitoramento-em-area-atingida-por-incendio-em-manaus-foto-lucas-macedo-g1-am.jpeg"
+        },
+        {
+          "clusterId": "b41dbdefac978ae3",
+          "slug": "6945fb90253210ee",
+          "titulo": "Preços do petróleo têm alta firme com tensão no Oriente Médio",
+          "resumo": "Barris chegaram a saltar cerca de 5% durante a manhã com escalada de conflito no Estreito de Ormuz e interrupção de produção nos EUA por furacão",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/economia/money/mercado/precos-petroleo-8-outubro-2026/"
+            }
+          ],
+          "updatedAt": "2026-10-08T13:50:19.000Z"
+        },
+        {
+          "clusterId": "296de5bca46ac0d8",
+          "slug": "0f3ad35595083980",
+          "titulo": "Tempestade solar na Terra deve provocar auroras boreais; veja quando e onde",
+          "resumo": "Primeiros impactos no campo magnético da Terra são esperados para a sexta-feira (9); durante o final de semana, a segunda e a terceira nuvem de partículas devem atingir o planeta de raspão",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/ciencia/tempestade-solar-na-terra-deve-provocar-auroras-boreais-veja-quando-e-onde/"
+            }
+          ],
+          "updatedAt": "2026-10-08T13:36:52.000Z"
+        },
+        {
+          "clusterId": "487724b14833c2ec",
+          "slug": "cd09998701fe7a08",
+          "titulo": "Desabamento de prédio na Turquia mata duas pessoas e deixa três presas",
+          "resumo": "Operações de busca e resgate trabalham para localizar moradores em Istambul; causa do desabamento ainda não foi esclarecida",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/desabamento-de-predio-na-turquia-mata-duas-pessoas-e-deixa-tres-presas/"
+            }
+          ],
+          "updatedAt": "2026-10-08T13:16:28.000Z"
+        }
+      ]
+    },
     {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "101023b9fc1727e9",
-          "slug": "2cdccdc69a07e16d",
-          "titulo": "Alerta de temporais com granizo e ventos acima de 90 km/h no Rio Grande do Sul",
-          "resumo": "O Rio Grande do Sul recebeu alerta para temporais com risco de granizo, chuva intensa e rajadas de vento superiores a 90 km/h nesta quinta-feira. A previsão indica que as instabilidades se intensificarão entre a madrugada e a manhã, quando uma linha de tempestades avançará sobre o estado. A atuação de uma frente fria combinada com baixa pressão e um ciclone é responsável pelo tempo severo.",
-          "porQueImporta": "O alerta visa prevenir danos a propriedades e garantir a segurança da população diante de condições meteorológicas extremas.",
+          "clusterId": "b0b6d0d7d7ab56f8",
+          "slug": "12a1110e6bf8ad7b",
+          "titulo": "Tempestade Isaías vira furacão e avança em direção aos Estados Unidos",
+          "resumo": "A tempestade Isaías evoluiu para furacão, tornando-se o primeiro ciclone a se formar no Atlântico neste ano. O furacão está avançando em direção à costa dos Estados Unidos e pode atingir a região nos próximos dias.",
+          "porQueImporta": "O evento representa o início da temporada de furacões no Atlântico e pode trazer impactos significativos para as áreas costeiras dos EUA.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/08/temporais-granizo-ventos-rs-alerta-quinta-feira.ghtml"
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/agenda-verde/tempestade-isaias-vira-furacao-e-avanca-em-direcao-aos-estados-unidos/"
             }
           ],
-          "updatedAt": "2026-10-08T03:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/t-BfikZBKA7WBKyZzCYMAOBXnGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/z/8IOkN2RhONArBG7bNi4g/g1-2-.jpg"
+          "updatedAt": "2026-10-08T14:58:58.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/AFP__20261008__D2M88KE__v1__HighRes__UsMexicoWeatherHurricane.jpg"
         },
         {
           "clusterId": "31e887cfbde78e5e",
@@ -147,94 +518,33 @@
       ]
     },
     {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "c1124148c4dfa17a",
-          "slug": "3dc1c397ab5d92a7",
-          "titulo": "Chuva aumenta no Sudeste nesta quinta e Sul tem risco de tornado; calor domina no Centro-Oeste",
-          "resumo": "A chuva volta a ganhar espaço no Sudeste nesta quinta-feira (8), depois de um começo de semana marcado por períodos mais secos em várias áreas da região. As pancadas devem atingir principalmente São Paulo e pontos de Minas Gerais e do Rio de Janeiro. No Sul, a previsão é de temporais mais fortes, risco de granizo, rajadas intensas e possibilidade de tornado no Rio Grande do Sul. Já em boa parte do Centro-Oeste e do Nordeste, o destaque será o calor forte e a umidade baixa.. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Em São Paulo, a chuva deve aparecer principalmente a…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/08/chuva-aumenta-no-sudeste-previsao-todo-o-pais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-08T03:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Xqaaj--UqcgnJNONQhbxUAw70Tg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/R/OCLsqdRq6voLYqQdYtoQ/pro-bra-p05-048.png"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "c9035aa974fc9a73",
-          "slug": "468a5ad5117b8277",
-          "titulo": "Rio Uruguai volta a subir no RS e força retirada de famílias",
-          "resumo": "O Rio Uruguai subiu quase 1 metro acima da cota de inundação em Uruguaiana, no Rio Grande do Sul, forçando a evacuação de dezenas de famílias. A Defesa Civil e o Exército ajudaram os moradores a sair de suas casas. O vai e vem de água durou o dia inteiro, causando transtornos na região fronteiriça oeste do estado.",
-          "porQueImporta": "A inundação ameaça a segurança e a estabilidade das comunidades locais.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/07/rio-uruguai-volta-a-subir-no-rs-dezenas-de-familias-estao-fora-de-casa-na-fronteira-oeste-do-estado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-08T01:25:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/wCtz6B0BnQZDolUrmoIVBPbVESc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/7/Yh20Q3RmWB2ljBMdeIsw/globo-canal-4-20261007-2000-frame-126197.jpeg"
-        }
-      ]
-    },
-    {
       "slug": "incendio",
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "813bf3c5bffd9a3f",
-          "slug": "c47621790a1a1d49",
-          "titulo": "Incêndio atinge casa no bairro Aleixo, em Manaus",
-          "resumo": "Um incêndio atingiu uma casa na rua C, no bairro Aleixo, Zona Centro-Sul de Manaus, na noite de quarta-feira. O fogo se espalhou pela parte interna do imóvel, mas casas vizinhas não foram atingidas. O Corpo de Bombeiros Militar do Amazonas foi acionado e enviou ao menos uma viatura ao local. Até o momento, não há informações sobre feridos nem sobre a causa do incêndio.",
-          "porQueImporta": "O incidente pode representar risco à segurança dos moradores e à estabilidade do bairro.",
+          "clusterId": "ccd5de15e6a187bf",
+          "slug": "e6646a77471f7990",
+          "titulo": "Incêndio destrói prédio de pesquisas na UFPE",
+          "resumo": "Na noite de quarta-feira, um incêndio atingiu prédio de pesquisas da Universidade Federal de Pernambuco, no campus de Recife, causando prejuízo estimado em R$ 100 milhões em equipamentos e perda de amostras de 20 anos. O fogo não deixou feridos, mas abocanhou laboratórios que investigavam câncer, Covid‑19 e autismo. A Polícia Federal abriu investigação para verificar se houve ação criminosa.",
+          "porQueImporta": "O incidente comprometeu décadas de pesquisas científicas e recursos significativos da instituição.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/07/forte-incendio-atinge-casa-no-bairro-aleixo-em-manaus.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-08T00:51:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/NJKFzpqz_YZKNXHMeJytpVOrS0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/W0lZ67Tkeh3KSVreTZPw/g1-incendio-casa-aleixo.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "1078c8d91b4fd2a9",
-          "slug": "1ceb62aaaa293f65",
-          "titulo": "Engavetamento com 20 veículos bloqueia BR-040 na Região Metropolitana de Belo Horizonte",
-          "resumo": "Um engavetamento envolvendo 20 veículos bloqueou a rodovia BR-040, em Nova Lima, Grande BH. Um motorista, Euler Tadeu da Silva, relatou que, ao ouvir estalos e ver fumaça, esperou o impacto sem maiores danos. O engarrafamento foi agravado por uma carreta desgovernada que se aproximou do local.",
-          "porQueImporta": "O bloqueio de uma rodovia principal pode causar atrasos significativos no tráfego e risco de acidentes adicionais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/nordeste/pe/incendio-na-ufpe-causou-prejuizo-estimado-em-r-100-milhoes-diz-reitor/"
+            },
             {
               "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/07/engavetamento-com-20-veiculos-bloqueia-rodovia-br-040-na-regiao-metropolitana-de-belo-horizonte.ghtml"
+              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/08/destruicao-de-pesquisas-e-equipamentos-por-incendio-na-ufpe-preocupa-estudantes-e-devastador-fico-com-o-coracao-apertado.ghtml"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/politica/incendio-destroi-laboratorios-da-ufpe-e-leva-pf-a-investigar-possivel-acao-criminosa/"
             }
           ],
-          "updatedAt": "2026-10-08T00:45:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cBSduElHbxu9SpB8yIhZx4pBjRo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/G/qtuVhPSZaOUVu8Ji8O5w/globo-canal-4-20261007-2000-frame-88092.jpeg"
+          "updatedAt": "2026-10-08T15:29:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ICFgnfX_Lh-FPPwNABbj23n60BE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/D/rhLoKGScCxxiLzBkh2BA/blank-3-grids-collage-3-.png"
         }
       ]
     }
