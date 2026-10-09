@@ -1,273 +1,408 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T15:30:56.726Z",
+  "generatedAt": "2026-10-09T21:09:21.840Z",
   "home": [
     {
-      "clusterId": "8727ce730f10067c",
-      "slug": "5331e042b9662fa1",
-      "titulo": "Avião monomotor cai e entra em chamas no pátio do metrô em Belo Horizonte",
-      "resumo": "Um avião monomotor caiu no pátio de manutenção do Metrô BH, próximo à estação São Gabriel, e entrou em chamas. O único ocupante, o piloto, morreu carbonizado. O acidente ocorreu na manhã de sexta-feira, 9 de outubro. Imagens mostram a aeronave em chamas sobre os trilhos e a estrutura do galpão.",
-      "porQueImporta": "O incidente destaca riscos de operação de aeronaves em áreas urbanas próximas a infraestruturas críticas.",
+      "clusterId": "942a75e5bd297331",
+      "slug": "6a9fc312b8e8e245",
+      "titulo": "Terremoto de magnitude 7,7 atinge o Panamá",
+      "resumo": "Um terremoto de magnitude 7,7 abalou o Panamá nesta sexta-feira (9), com epicentro na região sul, a 12 km de profundidade. O tremor foi fortemente sentido na Cidade do Panamá e em cidades do sul, causando colapso parcial de um hotel em Penonomé e da torre de uma catedral em Santiago. Alertas de tsunami foram emitidos para a costa do Pacífico, mas posteriormente cancelados. Ação de suspensão de aulas, aeroportos e metrô foi realizada, e países vizinhos ofereceram ajuda.",
+      "porQueImporta": "O evento destaca a vulnerabilidade sísmica da região e a necessidade de medidas de mitigação e resposta rápida.",
+      "categoria": "Desastre",
+      "categoriaSlug": "desastre",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/09/terremoto-de-magnitude-80-atinge-o-panama.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/terremoto-de-magnitude-76-atinge-o-panama-e-alerta-de-tsunami-e-ativado/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/alerta-de-tsunami-e-cancelado-apos-terremoto-de-magnitude-77-no-panama/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/terremoto-de-magnitude-77-atinge-o-panama/"
+        }
+      ],
+      "updatedAt": "2026-10-09T20:55:29.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/PJTCJFJtS5MGqTPD06dqypPkU1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/l/ZRvAs3R8iohYBBX6yoCw/261009-info-mapa-terremoto-no-panama.jpg"
+    },
+    {
+      "clusterId": "ddfcc6fdfcc0e628",
+      "slug": "18c49417cff694a7",
+      "titulo": "Avião da Polícia Militar cai próximo a Ipatinga",
+      "resumo": "Um avião da Polícia Militar de Minas Gerais caiu nas proximidades do Aeroporto Regional do Vale do Aço, no Leste de Minas, na tarde de sexta-feira. Três integrantes da corporação morreram no acidente. O incidente envolveu a aeronave Pegasus 17, segundo a diretoria de comunicação da PM. O Corpo de Bombeiros foi acionado para atender ao local.",
+      "porQueImporta": "O acidente resultou na morte de três policiais, afetando a segurança pública na região.",
       "categoria": "Acidente aéreo",
       "categoriaSlug": "acidente-aereo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/09/imagens-mostram-aeronave-em-chamas-sob-trilhos-da-estacao-sao-gabriel-em-bh.ghtml"
+          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/10/09/queda-de-aviao-vale-do-aco.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/aviao-da-policia-militar-de-minas-gerais-cai-e-deixa-tres-mortos/"
+        }
+      ],
+      "updatedAt": "2026-10-09T21:00:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/yIm40E6VduiwLvEQ-dbVWdaawPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/U/M6cch1R1mSknASlE0PtA/whatsapp-image-2026-10-09-at-16.47.27.jpeg"
+    },
+    {
+      "clusterId": "3e0df3ffaf0c0cdd",
+      "slug": "83fd7b5f6ee3296c",
+      "titulo": "São Paulo entra em estado de atenção para alagamentos",
+      "resumo": "A Prefeitura de São Paulo, por meio do Centro de Gerenciamento de Emergências Climáticas, decretou estado de atenção para alagamentos em todas as regiões da cidade. O alerta, emitido às 17h33, abrange Norte, Sul, Leste, Oeste, Sudeste, Centro e as marginais Tietê e Pinheiros. A medida responde a áreas de instabilidade formadas pelo calor e pela brisa marítima, com chuvas concentradas principalmente no centro e na zona norte.",
+      "porQueImporta": "O alerta visa prevenir danos e garantir a segurança dos moradores diante de risco de alagamentos.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/chuva-cidade-de-sao-paulo-esta-em-estado-de-atencao-para-alagamentos"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/09/cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos-em-todas-as-regioes-nesta-sexta-feira.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-09T20:58:04.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/design-sem-nome-2026-10-09t174737-584.png"
+    },
+    {
+      "clusterId": "054ea0ed852bbb7f",
+      "slug": "e3f3b94ce7369994",
+      "titulo": "Avião da PM cai perto do Aeroporto de Ipatinga",
+      "resumo": "Um avião da Polícia Militar caiu na tarde de sexta-feira, 9 de outubro, em Santana do Paraíso, próximo ao Aeroporto de Ipatinga, Minas Gerais. O acidente resultou na morte de três policiais. O Corpo de Bombeiros foi acionado às 16h20. A ocorrência foi confirmada pela própria corporação.",
+      "porQueImporta": "O acidente causou a perda de vidas de policiais militares e destaca a necessidade de investigação sobre as causas do acidente.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/aviao-cai-perto-do-aeroporto-de-ipatinga-em-minas-gerais/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/imagens-mostram-aviao-destruido-apos-cair-e-deixar-piloto-morto-em-bh"
+          "url": "https://www.metropoles.com/minas-gerais/aviao-da-pm-cai-logo-apos-sair-do-aeroporto-de-ipatinga-mg-ha-3-vitimas"
         }
       ],
-      "updatedAt": "2026-10-09T15:16:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/u5u-l1jbqFtF0djyd-gx21iN9ks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/J/XQacOvQ3y9GvQDYbLtqw/imagem-1-.png"
+      "updatedAt": "2026-10-09T20:19:32.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/metadinha-2x-1791576278223.jpg"
     },
     {
-      "clusterId": "9c1a8bb0e5e348f7",
-      "slug": "24bccf59d0914889",
-      "titulo": "Furacão Isaias fortalece-se e ameaça costa da Flórida",
-      "resumo": "O furacão Isaias atingiu a categoria 3, com ventos sustentados de até 175 km/h, segundo o Centro Nacional de Furacões dos Estados Unidos. A tempestade se desloca pelo Golfo do México em direção à Flórida, onde autoridades ordenaram evacuações em áreas de risco de inundação. Aeroportos foram fechados e mais de 150 voos cancelados na região. Comerciantes na costa tomaram medidas de precaução, como proteger janelas com tábuas.",
-      "porQueImporta": "O evento pode causar danos significativos à infraestrutura e à população da Flórida.",
+      "clusterId": "17acb0bc67769ce3",
+      "slug": "77b289e6d54450d1",
+      "titulo": "Motorista morre em colisão com caminhão em rodovia no interior de SP",
+      "resumo": "Em Nova Granada, um homem de 39 anos morreu após seu carro bater de frente com um caminhão que transportava bois na BR‑153. O condutor do caminhão e dois passageiros foram socorridos com lesões. Em Guarantã, outro motorista de caminhão morreu quando sua carreta bateu na traseira do veículo e pegou fogo na Rodovia Marechal Rondon. O motorista da carreta saiu sem ferimentos.",
+      "porQueImporta": "Esses acidentes destacam a necessidade de atenção à segurança viária em rodovias de grande tráfego.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/09/motorista-morre-apos-bater-caminhao-em-carreta-e-um-dos-veiculo-pegar-fogo-no-interior-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-09T21:04:12.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ESfRqqEiL9jPe2DbeXavVICatEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/n/G4TNPySTeCtL7EUevDTA/acidente-morte-guaranta.jpg"
+    },
+    {
+      "clusterId": "f9616279754b48bc",
+      "slug": "0d869e91425cecec",
+      "titulo": "São Paulo terá chuva e Sul entra em alerta com ciclone",
+      "resumo": "A capital paulista pode atingir 30°C antes das pancadas de chuva. No Sul, alerta de ciclone foi emitido. As chuvas devem chegar no sábado.",
+      "porQueImporta": "A previsão pode afetar mobilidade e segurança das pessoas.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-neste-sabado-9-sao-paulo-tera-chuva-e-sul-entra-em-alerta-com-ciclone/"
+        }
+      ],
+      "updatedAt": "2026-10-09T21:00:49.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/09/GettyImages-523709228.jpg"
+    },
+    {
+      "clusterId": "18e3bc6306bee662",
+      "slug": "df9c61e65ef757bf",
+      "titulo": "Acidente em cruzamento deixa dois motociclistas feridos em Patos de Minas",
+      "resumo": "Dois motociclistas, de 21 e 52 anos, ficaram feridos em uma colisão em um cruzamento na rua dos Carijós, no bairro Caramuru, em Patos de Minas, Alto Paranaíba. O acidente ocorreu na tarde de quinta-feira (8) e os envolvidos foram encaminhados ao atendimento médico. Câmeras de monitoramento registraram a colisão, mostrando os motociclistas caídos no chão. O Serviço de Atendimento Móvel de Urgência (Samu) prestou atendimento no local.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção e segurança no tráfego de motociclistas em cruzamentos urbanos.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/09/video-acidente-em-cruzamento-deixa-dois-motociclistas-feridos-em-mg.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-09T20:55:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HlhIMIkm-UHXhUnP2bYdH0HfS44=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/V/T5Bp4wTyqgtBDK26jBrw/design-sem-nome-2026-10-09t162740.270.png"
+    },
+    {
+      "clusterId": "d5fb462f2a9854d1",
+      "slug": "0c04bd69446069ff",
+      "titulo": "Município de Vera, MT, declara emergência após tempestade",
+      "resumo": "A Prefeitura de Vera decretou situação de emergência depois de chuva forte e vendaval que duraram 30 minutos no último sábado. Trinta e três famílias foram afetadas, uma ficou desabrigada e está na casa de parentes aguardando reconstrução. O decreto foi assinado pelo prefeito Yago Giacomelli na segunda-feira, em razão dos danos, principalmente no bairro Bom Jesus.",
+      "porQueImporta": "A declaração de emergência indica a necessidade de recursos e apoio governamental para as famílias afetadas.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/09/furacao-isaias-se-fortalece-e-segue-rumo-aos-eua-com-ventos-de-175-kmh.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/furacao-isaias-fecha-aeroportos-e-cancela-mais-de-150-voos-na-florida/"
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/09/municipio-de-mt-decreta-emergencia-apos-tempestade-destruir-casas-veja-video.ghtml"
         }
       ],
-      "updatedAt": "2026-10-09T12:46:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/qTIZl8hP_Ee1f6tS7cU_bErbxCM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/0/XpWnnkQd2RUkxuSacsfw/2026-10-08t220051z-598254387-rc28zna4gszk-rtrmadp-3-storm-isaias.jpg"
+      "updatedAt": "2026-10-09T20:54:44.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/7Fxi0_YllqP84dG-9QCJ_dRsD8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/L/dBm4qWRyun3WdNA7ZiRg/videos-g1-2-.png"
     },
     {
-      "clusterId": "5eec131cf94b3ccb",
-      "slug": "b1e35247c42a80b0",
-      "titulo": "Alerta de baixa umidade do ar pode aumentar risco de incêndios",
-      "resumo": "A Defesa Civil emitiu alerta de que a umidade do ar pode chegar a 12% no fim de semana, aumentando o risco à saúde e de incêndios. O aviso começou nesta sexta-feira (9/10) e vai até as 21h de sábado (10).",
-      "porQueImporta": "Baixa umidade favorece a propagação de incêndios e pode agravar problemas respiratórios.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "c0ad6dcb130a5fc0",
+      "slug": "31a7671e6956094e",
+      "titulo": "Incêndio atinge vegetação atrás de empresa na Zona Norte de Manaus",
+      "resumo": "Um incêndio atingiu área de vegetação localizada atrás de uma empresa na Avenida Margarita, bairro Nova Cidade, Zona Norte de Manaus. Duas viaturas do Corpo de Bombeiros Militar do Amazonas foram enviadas ao local para combater as chamas. Até o último comunicado, não havia informações sobre a extensão do fogo ou feridos.",
+      "porQueImporta": "O incidente pode representar risco à fauna local e à segurança dos moradores e trabalhadores da região.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/umidade-do-ar-pode-chegar-a-12-no-fim-de-semana-defesa-civil-emite-alerta"
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/09/incendio-atinge-area-de-vegetacao-atras-de-empresa-na-zona-norte-de-manaus.ghtml"
         }
       ],
-      "updatedAt": "2026-10-09T15:28:08.000Z",
-      "imageUrl": "https://images.metroimg.com/2024/08/Brasilia-completa-100-dias-sem-chuva-calor-seca-baixa-humidade-Metropoles-3.jpg"
+      "updatedAt": "2026-10-09T20:52:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1jdH3gnGIYMDh7emxKHZTx6q4lw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/3cJ2oFTyKUhR3wsjqnwQ/whatsapp-image-2026-10-09-at-15.29.46.jpeg"
     },
     {
-      "clusterId": "6b19926a8d46ed39",
-      "slug": "c8a12b034651e4ec",
-      "titulo": "Mulher morre após queda de moto e atropelamento por carreta na Dutra, em São José dos Campos",
-      "resumo": "Mulher morre atropelada por carreta após queda de moto na Dutra Uma mulher de 32 anos morreu após cair de uma motocicleta e ser atropelada por uma carreta na Rodovia Presidente Dutra, em São José dos Campos (SP), na madrugada desta sexta-feira (9). Segundo a Polícia Rodoviária Federal (PRF), o acidente aconteceu na altura do km 145, no sentido Rio de Janeiro. A moto era ocupada pela mulher e pelo namorado dela, que conduzia o veículo. De acordo com o boletim de ocorrência, a motocicleta tombou por motivos ainda desconhecidos, e os dois ocupantes foram lançados ao chão. O motorista da carreta…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "clusterId": "5763c29ab43e15c3",
+      "slug": "061b0a00be293b1b",
+      "titulo": "Fachin nega acesso imediato de Fux a inquérito das fake news e diz que caso segue para arquivamento definitivo",
+      "resumo": "O presidente do STF, Edson Fachin, recusou o pedido do ministro Luiz Fux de acesso integral e imediato ao inquérito sobre fake news. Fachin afirmou que ainda existem 104 procedimentos que precisam ser analisados antes de tornar o processo público. Após essa análise, o inquérito seguirá para o arquivamento definitivo.",
+      "porQueImporta": "A decisão afeta a transparência e o andamento de investigações sobre desinformação no país.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/09/mulher-morre-apos-queda-de-moto-e-atropelamento-por-carreta-na-dutra-em-sao-jose-dos-campos.ghtml"
+          "url": "https://g1.globo.com/politica/noticia/2026/10/09/fachin-fux-fake-news.ghtml"
         }
       ],
-      "updatedAt": "2026-10-09T15:11:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PQwItfCHGwJI2xvGUkZBIZPAGpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/E/ozhj85SyeXB6pqsiAbiw/whatsapp-image-2025-12-18-at-09.16.23.jpeg"
-    },
-    {
-      "clusterId": "ee8e6ae57d6f666a",
-      "slug": "03e11f325f3dacd1",
-      "titulo": "Avião cai próximo de estação do metrô em Belo Horizonte",
-      "resumo": "Um avião caiu nas proximidades da estação de metrô de Belo Horizonte, provocando incêndio na aeronave. O Corpo de Bombeiros foi acionado para controlar as chamas e garantir a segurança da área. Não há relatos de vítimas ou feridos no momento. A ocorrência ocorreu em Belo Horizonte, na região de Belo Horizonte.",
-      "porQueImporta": "O acidente pode ter implicações na segurança aérea e no tráfego urbano da cidade.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/aviao-cai-proximo-de-estacao-do-metro-em-belo-horizonte/"
-        }
-      ],
-      "updatedAt": "2026-10-09T15:02:45.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-09-115847.jpg"
-    },
-    {
-      "clusterId": "047862e181d7624f",
-      "slug": "819eaa08ffd9fe2c",
-      "titulo": "Motociclista morre em colisões na Rodovia Santos Dumont e na BR-135",
-      "resumo": "Um motociclista de 20 anos morreu na manhã de sexta-feira após bater na traseira de um carro na Rodovia Santos Dumont, em Itu, e em outra ocasião na mesma manhã bateu de frente com um caminhão na BR-135, em Engenheiro Navarro. Em ambos os acidentes o motociclista não resistiu aos ferimentos e morreu no local, enquanto os condutores dos veículos não sofreram lesões. As colisões ocorreram nas primeiras horas da manhã, nas pistas sentido norte e sul, respectivamente.",
-      "porQueImporta": "Incidentes de trânsito envolvendo motociclistas ressaltam a necessidade de atenção e segurança nas rodovias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/09/motociclista-morre-apos-bater-de-frente-com-caminhao-na-br-135.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-09T14:34:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/AHQhSKXJVRQi9gAIDXKsdwSIwdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/z/r5CaDnQUWCRvHwBgzoKw/moto8.jpeg"
-    },
-    {
-      "clusterId": "39742c40851b7341",
-      "slug": "129043e40e16f55a",
-      "titulo": "Locutor de rodeio morre em acidente na PR-218",
-      "resumo": "Giovany Araújo, 62 anos, conhecido como 'Imperador do Paraná', morreu na noite de quinta-feira (8) quando a motocicleta em que estava na garupa bateu contra um carro na PR-218, em Iguaraçu, no Norte do Paraná. O veículo e o carro pegaram fogo após o impacto. O piloto da motocicleta era o filho de Araújo.",
-      "porQueImporta": "O falecimento de um locutor de rodeio de destaque destaca a gravidade de acidentes de trânsito na região.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/09/locutor-morre-acidente-parana.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-09T14:32:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mgm0LAl257JY15YIN4xaH0V867c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/Y/h1qpAAT3GI9irlmWiBUw/giovany-1.png"
-    },
-    {
-      "clusterId": "42b19ee8e05de9f8",
-      "slug": "0ba70162361ff3a6",
-      "titulo": "Incêndio na região do Lago do Canaçari continua há 20 dias",
-      "resumo": "O fogo na zona rural de Itacoatiara, no interior do Amazonas, já está em operação há 20 dias, cobrindo 1,3 mil hectares. A fumaça voltou a encobrir a cidade nas primeiras horas da sexta-feira, piorando a qualidade do ar na área urbana. A Defesa Civil emitiu alerta para uso de máscaras e evitar exposição prolongada. A Secretaria Municipal de Meio Ambiente investigou o incêndio como criminoso e identificou um suspeito.",
-      "porQueImporta": "O incêndio ameaça a fauna, flora e a saúde da população local.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/09/comunidade-canacari-em-itacoatiara-queima-ha-20-dias-de-incendio.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-09T14:29:29.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/FF_Jp76GQ9YkIOUaNTV2_o_MKlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/O/uyqy3vTMKxv4WMPXK2wg/animal-morto-em-incendio-na-comunidade-canacari-em-itacoatiara-8-de-outubro-de-2026-foto-liam-cavalcante-rede-amazonica.jpeg"
-    },
-    {
-      "clusterId": "ea85d929e22ecc9b",
-      "slug": "5fe6cd2cdc551430",
-      "titulo": "Ciclone aumenta risco de temporais no Paraná",
-      "resumo": "Um ciclone está elevando o risco de temporais no estado do Paraná. A frente fria associada ao fenômeno pode gerar chuva forte, granizo e rajadas de vento, principalmente no feriado. As regiões oeste e sudoeste do Paraná são as mais afetadas. As autoridades alertam para precauções e monitoramento das condições meteorológicas.",
-      "porQueImporta": "O aumento do risco de temporais pode causar danos à infraestrutura e à população local.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/ciclone-aumenta-risco-de-temporais-no-parana-veja-previsao-ate-segunda/"
-        }
-      ],
-      "updatedAt": "2026-10-09T14:26:51.000Z"
-    },
-    {
-      "clusterId": "c7884e492ad0740a",
-      "slug": "9dbb9a923b6edf8c",
-      "titulo": "Uso do fogo proibido em todo o Piauí até fim de outubro",
-      "resumo": "A Secretaria do Meio Ambiente e Recursos Hídricos do Piauí proibiu o uso de fogo em imóveis rurais em todo o estado até 30 de outubro. A medida foi tomada em razão das altas temperaturas, baixa umidade e estiagem, que aumentam o risco de incêndios florestais. A portaria nº 137 foi publicada no Diário Oficial do Estado.",
-      "porQueImporta": "A proibição visa reduzir o risco de incêndios florestais em um período de seca intensa.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/09/uso-fogo-piaui.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-09T14:25:27.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/UtPJWO_beJdbM8v0R2LRNiF56LQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/E/CqKhdkSiCYxoI0VvR1Jg/edicao-imagens-g1-98-.png"
+      "updatedAt": "2026-10-09T20:51:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/4_0OYDbEtBjspyGaDvbqyQyFyO8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/M/Nwo4fQShKDhI6FXcQigw/55532735584-deb1dd3ddf-k.jpg"
     }
   ],
   "categorias": [
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "geral",
+      "label": "Geral",
       "stories": [
         {
-          "clusterId": "047862e181d7624f",
-          "slug": "819eaa08ffd9fe2c",
-          "titulo": "Motociclista morre em colisões na Rodovia Santos Dumont e na BR-135",
-          "resumo": "Um motociclista de 20 anos morreu na manhã de sexta-feira após bater na traseira de um carro na Rodovia Santos Dumont, em Itu, e em outra ocasião na mesma manhã bateu de frente com um caminhão na BR-135, em Engenheiro Navarro. Em ambos os acidentes o motociclista não resistiu aos ferimentos e morreu no local, enquanto os condutores dos veículos não sofreram lesões. As colisões ocorreram nas primeiras horas da manhã, nas pistas sentido norte e sul, respectivamente.",
-          "porQueImporta": "Incidentes de trânsito envolvendo motociclistas ressaltam a necessidade de atenção e segurança nas rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "5763c29ab43e15c3",
+          "slug": "061b0a00be293b1b",
+          "titulo": "Fachin nega acesso imediato de Fux a inquérito das fake news e diz que caso segue para arquivamento definitivo",
+          "resumo": "O presidente do STF, Edson Fachin, recusou o pedido do ministro Luiz Fux de acesso integral e imediato ao inquérito sobre fake news. Fachin afirmou que ainda existem 104 procedimentos que precisam ser analisados antes de tornar o processo público. Após essa análise, o inquérito seguirá para o arquivamento definitivo.",
+          "porQueImporta": "A decisão afeta a transparência e o andamento de investigações sobre desinformação no país.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/09/motociclista-morre-apos-bater-de-frente-com-caminhao-na-br-135.ghtml"
+              "url": "https://g1.globo.com/politica/noticia/2026/10/09/fachin-fux-fake-news.ghtml"
             }
           ],
-          "updatedAt": "2026-10-09T14:34:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/AHQhSKXJVRQi9gAIDXKsdwSIwdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/z/r5CaDnQUWCRvHwBgzoKw/moto8.jpeg"
+          "updatedAt": "2026-10-09T20:51:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/4_0OYDbEtBjspyGaDvbqyQyFyO8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/M/Nwo4fQShKDhI6FXcQigw/55532735584-deb1dd3ddf-k.jpg"
         },
         {
-          "clusterId": "39742c40851b7341",
-          "slug": "129043e40e16f55a",
-          "titulo": "Locutor de rodeio morre em acidente na PR-218",
-          "resumo": "Giovany Araújo, 62 anos, conhecido como 'Imperador do Paraná', morreu na noite de quinta-feira (8) quando a motocicleta em que estava na garupa bateu contra um carro na PR-218, em Iguaraçu, no Norte do Paraná. O veículo e o carro pegaram fogo após o impacto. O piloto da motocicleta era o filho de Araújo.",
-          "porQueImporta": "O falecimento de um locutor de rodeio de destaque destaca a gravidade de acidentes de trânsito na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "41cc0b0220d5aa66",
+          "slug": "d3e5038413895182",
+          "titulo": "Carro de luxo é destruído e motorista fica gravemente ferido após batida na BR-101 em SC",
+          "resumo": "Helicóptero em atendimento a ferido de colisão na BR-101 em Araranguá, Sul de SC Um carro de luxo ficou destruído e um motorista teve ferimentos graves após uma colisão traseira na BR-101 em Araranguá, no Sul de Santa Catarina, na tarde desta sexta-feira (9). O acidente envolveu uma Range Rover e um furgão Mercedes-Benz Sprinter, conforme o Corpo de Bombeiros Militar. O motorista do SUV, um homem de 53 anos, ficou gravemente ferido e foi transportado pelo helicóptero da Polícia Civil ao hospital. ✅Clique e siga o canal do g1 SC no WhatsApp Os bombeiros foram chamados às 14h15. O acidente foi…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/09/locutor-morre-acidente-parana.ghtml"
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/09/carro-luxo-destruido-motorista-gravemente-ferido-atida-na-101-sc.ghtml"
             }
           ],
-          "updatedAt": "2026-10-09T14:32:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mgm0LAl257JY15YIN4xaH0V867c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/Y/h1qpAAT3GI9irlmWiBUw/giovany-1.png"
+          "updatedAt": "2026-10-09T20:28:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QVdm1uMPPThIjauQkgYs7rx6_PI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/i/wJHEAuT1Sj0zZJqSd5YQ/range-rover-ararangua.jpeg"
         },
         {
-          "clusterId": "d9a789d0f8793d04",
-          "slug": "4bb4a3e2f7f2a029",
-          "titulo": "Caminhão guindaste tombado destrói telhado de casa em Cuiabá",
-          "resumo": "Um caminhão guindaste tombou para a frente durante uma reforma em uma caixa d’água de um condomínio no bairro Jardim Imperial, em Cuiabá, e ficou de cabeça para baixo. O acidente causou a destruição do telhado de uma das casas. Moradores ouviram o barulho e saíram correndo com os filhos. Vídeos do local mostram o veículo tombado e os estragos.",
-          "porQueImporta": "O acidente pode ter causado danos materiais e risco à segurança dos moradores.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "db4c4249fe482d39",
+          "slug": "8f64165a54753e60",
+          "titulo": "Serra Preta decreta situação de emergência por estiagem e suspende festas e shows públicos",
+          "resumo": "Prefeitura de Serra Preta decretou situação de emergência por causa da estiagem Divulgação A Prefeitura de Serra Preta, a cerca de 50 km de Feira de Santana, decretou situação de emergência por causa da estiagem que afeta a zona rural do município. A medida foi oficializada na quarta-feira (7) e tem validade de 180 dias. Com a decisão, a prefeitura informou que estão suspensas a realização e o financiamento de festas, eventos comemorativos e shows públicos durante a vigência do decreto. Segundo o comunicado oficial, a medida busca priorizar os recursos municipais para o abastecimento de água…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/09/video-caminhao-guindaste-tomba-e-destroi-telhado-de-casa-durante-reforma-em-cuiaba.ghtml"
+              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/09/serra-preta-decreta-situacao-de-emergencia-por-estiagem-e-suspende-festas-e-shows-publicos.ghtml"
             }
           ],
-          "updatedAt": "2026-10-09T14:20:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vVrqwr6pFlgpD-iz7kNqjVMFlJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/i/UgVB2lSAS7Ymlz4voZfg/foto-g1-67-.jpg"
+          "updatedAt": "2026-10-09T20:28:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/S8A7pFjxn7AEmhEXLIwv4ijN8WQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/0/KHO90RRx2DLyeKNw6zeQ/tamanho-g1ba-16-.jpg"
         },
         {
-          "clusterId": "2487bd1c9e3aacb9",
-          "slug": "199192518cb32918",
-          "titulo": "Acidente com cinco veículos deixa três feridos na BR-101 em Casimiro de Abreu",
-          "resumo": "Um choque envolvendo um caminhão, uma carreta e três carros ocorreu por volta das 7h51, no quilômetro 208 da BR-101, direção Espírito Santo, em Casimiro de Abreu. Três pessoas ficaram feridas, duas com lesões moderadas e uma com lesões leves, e foram encaminhadas ao hospital. Sete demais ocupantes saíram ilesos e não houve vítimas fatais.",
-          "porQueImporta": "O acidente interrompeu o tráfego e causou lesões, afetando a mobilidade local.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "0a2b06876f50a266",
+          "slug": "4ed60f1e48050038",
+          "titulo": "Estagiário de academia morre e outro piloto fica ferido após batida entre motos no sudoeste da Bahia",
+          "resumo": "Acidente na Avenida Olívia Flores, em Vitória da Conquista Um jovem de 21 anos morreu depois que a motocicleta que pilotava bateu em outra e, em seguida, colidiu em um muro, na cidade de Vitória da Conquista, no sudoeste da Bahia. Segundo apurou a TV Sudoeste, afiliada da Rede Bahia na região, o acidente aconteceu na quinta-feira (8), em um trecho da Avenida Olívia Flores. O outro piloto ficou ferido. Os dois foram socorridos, mas Kevin Simões de Souza não resistiu aos ferimentos, mesmo após dar entrada no Hospital Geral de Vitória da Conquista (HGVC). Não há detalhes sobre a vítima que ficou…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/09/acidente-com-5-veiculos-na-br-101-deixa-feridos-e-transito-congestionado-em-casimiro-de-abreu.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/09/acidente-bahia.ghtml"
             }
           ],
-          "updatedAt": "2026-10-09T14:18:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/HFAv6bwzcFB9rbNG5z9JTPf73y0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/1/ve40VUTDSXat6cF4BsVg/acidente-na-br-101-deixou-tres-feridos-na-altura-de-casimiro-de-abreu.png"
+          "updatedAt": "2026-10-09T20:23:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/B472p4tNX1MS18dfQwiABIEaAaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/B0sbAlQfCQEcvydf4I6A/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-09t165046.786.jpg"
         },
         {
-          "clusterId": "eef924fa1f6d1f04",
-          "slug": "7446fc431240fcc3",
-          "titulo": "DJ Dani Brasil atropela e mata homem em SP",
-          "resumo": "DJ Dani Brasil atropelou um homem em São Paulo e o arrastou, tentando fugir da Polícia Militar. O homem, que estava sob efeito de álcool, foi preso em flagrante. O DJ foi detido pela polícia após o ocorrido. O incidente ocorreu em situação de vulnerabilidade social.",
-          "porQueImporta": "O caso destaca a violência urbana e a responsabilidade de celebridades em situações de risco.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "68cc6ea1d4d66a05",
+          "slug": "77dc61b0b36bd12b",
+          "titulo": "Rie Nagasako, campeã pan-americana de canoagem, morre após afogamento no Rio",
+          "resumo": "Rie Nagasako, campeã pan-americana de canoagem, morre após afogamento no Rio A remadora Rie Luciana Nagasako, de 48 anos, morreu nesta sexta-feira (9) após cair de uma canoa na última quinta (8). O acidente aconteceu na Barra da Tijuca, na altura do Quebra-Mar, na Zona Sudoeste do Rio. Rie foi campeã pan-americana de Va'a, modalidade de canoagem havaiana, em 2025. Ela também ganhou medalha de bronze na categoria sprint no Campeonato Mundial da categoria. A atleta fundou o clube Barra Va'a e o Projeto Somar. No momento do acidente, ela ministrava uma aula de canoagem. Ela tentou salvar seus…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/09/morte-rie-nagasako-campea-pan-americana-de-canoagem.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T20:22:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/NRXaZfrqVQXezVYYso1lATLRv4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/y/v1CmmBTqKRLzvqlMcKxg/rie1.jpeg"
+        },
+        {
+          "clusterId": "46bcd62bea6b81c6",
+          "slug": "fc5a6abf0f95ae70",
+          "titulo": "Defesa Civil alerta para riscos da fumaça que cobre céu de Manaus",
+          "resumo": "População do Amazonas é orientada a usar máscaras e evitar exposição; prefeitura cancelou aulas na rede municipal",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/defesa-civil-alerta-para-riscos-da-fumaca-que-cobre-ceu-de-manaus/"
+            }
+          ],
+          "updatedAt": "2026-10-09T20:09:37.000Z"
+        },
+        {
+          "clusterId": "5813c95e757a35b5",
+          "slug": "a88c64853e611c5c",
+          "titulo": "Família segue fora de casa após incêndio que destruiu apartamento em São Luís; moradores combateram fogo com baldes",
+          "resumo": "Família segue fora de casa após incêndio que destruiu apartamento em São Luís Uma família que teve o apartamento destruído por um incêndio na madrugada de terça-feira (6), em São Luís, ainda não conseguiu voltar para casa. O imóvel fica no condomínio Jomar Moraes, no bairro Parque Pindorama, na região da Vila dos Nobres. Durante o incêndio, moradores precisaram usar baldes de água para tentar controlar as chamas, já que não havia água suficiente na caixa d'água do condomínio e os hidrantes não estavam funcionando. ✅ Clique aqui para seguir o canal do g1 Maranhão no WhatsApp Ninguém ficou…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/09/familia-segue-fora-de-casa-apos-incendio-que-destruiu-apartamento-em-sao-luis-moradores-combateram-fogo-com-baldes.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T20:08:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YAd5milmV-WAdSg0AcXaR6nJLGs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/I/nq9P9zR9e53zAeiruJAw/montagens-1920-x-1080-px-.png"
+        },
+        {
+          "clusterId": "31d4200b01e6b2a9",
+          "slug": "4df7234baa198937",
+          "titulo": "Carreta carregada com pinus tomba e interdita a Raposo Tavares em Angatuba",
+          "resumo": "Uma carreta carregada com pinus tombou e interditou um trecho da Rodovia Raposo Tavares (SP-270), em Angatuba (SP), na tarde desta sexta-feira (9). Ninguém se feriu. Segundo informações da ViaRaposo, concessionária que administra a via, o acidente aconteceu no quilômetro 215. As circunstâncias do acidente ainda não foram apuradas. 📲 Participe do canal do g1 Itapetininga e Região no WhatsApp Devido ao acidente, todas as faixas e o acostamento da via foram interditados dos dois sentidos. A carga ficou espalhada pela pista, como mostra a imagem acima. A concessionária não divulgou informações…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/09/carreta-carregada-com-pinus-tomba-e-interdita-a-raposo-tavares-em-angatuba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T19:53:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HGP_-7u64tO0puomSPh0t0n0iSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/j/VyKlhCQPmONp8JIq21Pw/untitled.jpg"
+        },
+        {
+          "clusterId": "ddcc471bbf326f8b",
+          "slug": "b238eea27a863c40",
+          "titulo": "Incêndio na UFPE destruiu dados de 20 anos de pesquisa, dizem entidades científicas",
+          "resumo": "Incêndio que destruiu prédio da UFPE afetou cerca de 200 teses e dissertações O incêndio que destruiu laboratórios da Universidade Federal de Pernambuco (UFPE), no Recife, na noite de quarta-feira (7), provocou a perda de dados acumulados ao longo de aproximadamente 20 anos de pesquisa e comprometeu cerca de 80 dissertações de mestrado e teses de doutorado em andamento. A dimensão dos danos levou duas das principais entidades científicas do país, a Academia Brasileira de Ciências (ABC) e a Sociedade Brasileira para o Progresso da Ciência (SBPC), a divulgar uma nota conjunta nesta quinta-feira…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ciencia/noticia/2026/10/09/incendio-na-ufpe-destruiu-dados-de-20-anos-de-pesquisa-e-comprometeu-80-trabalhos-academicos-dizem-entidades-cientificas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T19:47:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ydNwFbWmLOLXbsUueAqWDEUH-kQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/u/BCg2hySzedp4gIYPwS3g/incendio-ufpe.jpg"
+        },
+        {
+          "clusterId": "f2ae48b9c279269b",
+          "slug": "af3d7d242f2a20fc",
+          "titulo": "Jovem de 19 anos morre soterrado em desmoronamento de areia em garimpo de MT",
+          "resumo": "Um jovem de 19 anos morreu soterrado após o desabamento de uma barreira de areia em um garimpo na zona rural de Peixoto de Azevedo, a 675 km de Cuiabá, nesta quinta-feira (8). A vítima foi identificada como Ricassio Vitor da Silva. O desmoronamento atingiu cerca de sete pessoas, mas os outros trabalhadores conseguiram sair do local sem ferimentos, segundo o Corpo de Bombeiros. Máquinas usadas no garimpo também foram soterradas. ✅ Clique aqui para seguir o canal do g1 MT no WhatsApp Os bombeiros foram acionados por funcionários do local e iniciaram as buscas com a ajuda dos trabalhadores e de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/09/jovem-de-19-anos-morre-soterrado-em-desmoronamento-de-areia-em-garimpo-de-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T19:44:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YiI39CNLSBU8MJVVfIkuf3fbVmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/j/uCbUtzTwS4qrkCvf8bxw/videos-g1-38-.jpg"
+        },
+        {
+          "clusterId": "51e2acbce0077993",
+          "slug": "d5302575d082fe1d",
+          "titulo": "Furacão nos EUA ameaça sistema energético global que opera perto do limite",
+          "resumo": "Tempestade se aproxima do centro de refino americano no pior momento em 25 anos, segundo especialistas do setor",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-dj-dani-brasil-atropela-homem-arrasta-vitima-e-tenta-fugir-em-sp/"
+              "url": "https://www.cnnbrasil.com.br/economia/money/mercado/furacao-nos-eua-ameaca-sistema-energetico-global-que-opera-perto-do-limite/"
             }
           ],
-          "updatedAt": "2026-10-09T14:15:14.000Z"
+          "updatedAt": "2026-10-09T19:34:59.000Z"
+        },
+        {
+          "clusterId": "4dcc088ffcecaf05",
+          "slug": "10497971bfcba7a1",
+          "titulo": "PM que matou jovem após acidente de trânsito no TO perde cargo e é condenado a 15 anos de prisão",
+          "resumo": "Caso foi julgado nesta quinta-feira Cecom/TJTO O policial militar Alisson Rocha de Barros foi condenado a 15 anos, sete meses e 15 dias de prisão, inicialmente em regime fechado, pela morte do lanterneiro Flávio Nunes Leite, em Palmas. O julgamento foi realizado nesta quinta-feira (8), na 1ª Vara Criminal da Comarca de Palmas. A sentença também determinou a perda do cargo público na Polícia Militar. Cabe recurso. 📱 Clique aqui para seguir o canal do g1 TO no WhatsApp Segundo a decisão, em fevereiro de 2020, Alisson se envolveu em um acidente de trânsito na região sul da capital e, em…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/09/policial-militar-que-matou-jovem-apos-acidente-de-transito-no-to-perde-cargo-e-e-condenado-a-15-anos-de-prisao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T19:33:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TAclUyowtf4hsU9RvjYEW09SC-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/D/tUXIC9RourhSS8jhMsMA/forumdepalmas2019.jpg"
         }
       ]
     },
@@ -276,42 +411,46 @@
       "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "8727ce730f10067c",
-          "slug": "5331e042b9662fa1",
-          "titulo": "Avião monomotor cai e entra em chamas no pátio do metrô em Belo Horizonte",
-          "resumo": "Um avião monomotor caiu no pátio de manutenção do Metrô BH, próximo à estação São Gabriel, e entrou em chamas. O único ocupante, o piloto, morreu carbonizado. O acidente ocorreu na manhã de sexta-feira, 9 de outubro. Imagens mostram a aeronave em chamas sobre os trilhos e a estrutura do galpão.",
-          "porQueImporta": "O incidente destaca riscos de operação de aeronaves em áreas urbanas próximas a infraestruturas críticas.",
+          "clusterId": "ddfcc6fdfcc0e628",
+          "slug": "18c49417cff694a7",
+          "titulo": "Avião da Polícia Militar cai próximo a Ipatinga",
+          "resumo": "Um avião da Polícia Militar de Minas Gerais caiu nas proximidades do Aeroporto Regional do Vale do Aço, no Leste de Minas, na tarde de sexta-feira. Três integrantes da corporação morreram no acidente. O incidente envolveu a aeronave Pegasus 17, segundo a diretoria de comunicação da PM. O Corpo de Bombeiros foi acionado para atender ao local.",
+          "porQueImporta": "O acidente resultou na morte de três policiais, afetando a segurança pública na região.",
           "categoria": "Acidente aéreo",
           "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/09/imagens-mostram-aeronave-em-chamas-sob-trilhos-da-estacao-sao-gabriel-em-bh.ghtml"
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/10/09/queda-de-aviao-vale-do-aco.ghtml"
             },
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/imagens-mostram-aviao-destruido-apos-cair-e-deixar-piloto-morto-em-bh"
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/aviao-da-policia-militar-de-minas-gerais-cai-e-deixa-tres-mortos/"
             }
           ],
-          "updatedAt": "2026-10-09T15:16:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/u5u-l1jbqFtF0djyd-gx21iN9ks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/J/XQacOvQ3y9GvQDYbLtqw/imagem-1-.png"
+          "updatedAt": "2026-10-09T21:00:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yIm40E6VduiwLvEQ-dbVWdaawPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/U/M6cch1R1mSknASlE0PtA/whatsapp-image-2026-10-09-at-16.47.27.jpeg"
         },
         {
-          "clusterId": "ee8e6ae57d6f666a",
-          "slug": "03e11f325f3dacd1",
-          "titulo": "Avião cai próximo de estação do metrô em Belo Horizonte",
-          "resumo": "Um avião caiu nas proximidades da estação de metrô de Belo Horizonte, provocando incêndio na aeronave. O Corpo de Bombeiros foi acionado para controlar as chamas e garantir a segurança da área. Não há relatos de vítimas ou feridos no momento. A ocorrência ocorreu em Belo Horizonte, na região de Belo Horizonte.",
-          "porQueImporta": "O acidente pode ter implicações na segurança aérea e no tráfego urbano da cidade.",
+          "clusterId": "054ea0ed852bbb7f",
+          "slug": "e3f3b94ce7369994",
+          "titulo": "Avião da PM cai perto do Aeroporto de Ipatinga",
+          "resumo": "Um avião da Polícia Militar caiu na tarde de sexta-feira, 9 de outubro, em Santana do Paraíso, próximo ao Aeroporto de Ipatinga, Minas Gerais. O acidente resultou na morte de três policiais. O Corpo de Bombeiros foi acionado às 16h20. A ocorrência foi confirmada pela própria corporação.",
+          "porQueImporta": "O acidente causou a perda de vidas de policiais militares e destaca a necessidade de investigação sobre as causas do acidente.",
           "categoria": "Acidente aéreo",
           "categoriaSlug": "acidente-aereo",
           "sources": [
             {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/aviao-cai-proximo-de-estacao-do-metro-em-belo-horizonte/"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/aviao-cai-perto-do-aeroporto-de-ipatinga-em-minas-gerais/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/aviao-da-pm-cai-logo-apos-sair-do-aeroporto-de-ipatinga-mg-ha-3-vitimas"
             }
           ],
-          "updatedAt": "2026-10-09T15:02:45.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-09-115847.jpg"
+          "updatedAt": "2026-10-09T20:19:32.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/metadinha-2x-1791576278223.jpg"
         },
         {
           "clusterId": "9b142d9afaf12838",
@@ -333,11 +472,102 @@
       ]
     },
     {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "17acb0bc67769ce3",
+          "slug": "77b289e6d54450d1",
+          "titulo": "Motorista morre em colisão com caminhão em rodovia no interior de SP",
+          "resumo": "Em Nova Granada, um homem de 39 anos morreu após seu carro bater de frente com um caminhão que transportava bois na BR‑153. O condutor do caminhão e dois passageiros foram socorridos com lesões. Em Guarantã, outro motorista de caminhão morreu quando sua carreta bateu na traseira do veículo e pegou fogo na Rodovia Marechal Rondon. O motorista da carreta saiu sem ferimentos.",
+          "porQueImporta": "Esses acidentes destacam a necessidade de atenção à segurança viária em rodovias de grande tráfego.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/09/motorista-morre-apos-bater-caminhao-em-carreta-e-um-dos-veiculo-pegar-fogo-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T21:04:12.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ESfRqqEiL9jPe2DbeXavVICatEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/n/G4TNPySTeCtL7EUevDTA/acidente-morte-guaranta.jpg"
+        },
+        {
+          "clusterId": "18e3bc6306bee662",
+          "slug": "df9c61e65ef757bf",
+          "titulo": "Acidente em cruzamento deixa dois motociclistas feridos em Patos de Minas",
+          "resumo": "Dois motociclistas, de 21 e 52 anos, ficaram feridos em uma colisão em um cruzamento na rua dos Carijós, no bairro Caramuru, em Patos de Minas, Alto Paranaíba. O acidente ocorreu na tarde de quinta-feira (8) e os envolvidos foram encaminhados ao atendimento médico. Câmeras de monitoramento registraram a colisão, mostrando os motociclistas caídos no chão. O Serviço de Atendimento Móvel de Urgência (Samu) prestou atendimento no local.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção e segurança no tráfego de motociclistas em cruzamentos urbanos.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/09/video-acidente-em-cruzamento-deixa-dois-motociclistas-feridos-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T20:55:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HlhIMIkm-UHXhUnP2bYdH0HfS44=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/V/T5Bp4wTyqgtBDK26jBrw/design-sem-nome-2026-10-09t162740.270.png"
+        },
+        {
+          "clusterId": "da7695806bd20c38",
+          "slug": "9d5c1336b51bf913",
+          "titulo": "Estudante de medicina morre em acidente entre carro e moto em Dourados",
+          "resumo": "Fiorella Lilian Villegas Yaranga, de 26 anos e estudante de medicina da UFGD, morreu na madrugada de sexta-feira (9) em Dourados, MS, após colisão entre um carro e uma moto no cruzamento das ruas Albino Torraca e Ponta Porã, no bairro Jardim América. O registro policial indica que a jovem foi socorrida e encaminhada ao Hospital da região, mas não resistiu.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em áreas urbanas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/09/estudante-de-medicina-de-26-anos-morre-em-acidente-entre-carro-e-moto-em-ms.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T20:36:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aiEBy_8CxaDktgrHOf-dUE0sa8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/EBIW7zTsm89SmMVJvyXA/design-sem-nome-68-.png"
+        }
+      ]
+    },
+    {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "9c1a8bb0e5e348f7",
+          "clusterId": "f9616279754b48bc",
+          "slug": "0d869e91425cecec",
+          "titulo": "São Paulo terá chuva e Sul entra em alerta com ciclone",
+          "resumo": "A capital paulista pode atingir 30°C antes das pancadas de chuva. No Sul, alerta de ciclone foi emitido. As chuvas devem chegar no sábado.",
+          "porQueImporta": "A previsão pode afetar mobilidade e segurança das pessoas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-neste-sabado-9-sao-paulo-tera-chuva-e-sul-entra-em-alerta-com-ciclone/"
+            }
+          ],
+          "updatedAt": "2026-10-09T21:00:49.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/09/GettyImages-523709228.jpg"
+        },
+        {
+          "clusterId": "d5fb462f2a9854d1",
+          "slug": "0c04bd69446069ff",
+          "titulo": "Município de Vera, MT, declara emergência após tempestade",
+          "resumo": "A Prefeitura de Vera decretou situação de emergência depois de chuva forte e vendaval que duraram 30 minutos no último sábado. Trinta e três famílias foram afetadas, uma ficou desabrigada e está na casa de parentes aguardando reconstrução. O decreto foi assinado pelo prefeito Yago Giacomelli na segunda-feira, em razão dos danos, principalmente no bairro Bom Jesus.",
+          "porQueImporta": "A declaração de emergência indica a necessidade de recursos e apoio governamental para as famílias afetadas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/09/municipio-de-mt-decreta-emergencia-apos-tempestade-destruir-casas-veja-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-09T20:54:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7Fxi0_YllqP84dG-9QCJ_dRsD8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/L/dBm4qWRyun3WdNA7ZiRg/videos-g1-2-.png"
+        },
+        {
+          "clusterId": "10c3c0d062f905e1",
           "slug": "24bccf59d0914889",
           "titulo": "Furacão Isaias fortalece-se e ameaça costa da Flórida",
           "resumo": "O furacão Isaias atingiu a categoria 3, com ventos sustentados de até 175 km/h, segundo o Centro Nacional de Furacões dos Estados Unidos. A tempestade se desloca pelo Golfo do México em direção à Flórida, onde autoridades ordenaram evacuações em áreas de risco de inundação. Aeroportos foram fechados e mais de 150 voos cancelados na região. Comerciantes na costa tomaram medidas de precaução, como proteger janelas com tábuas.",
@@ -348,30 +578,10 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/10/09/furacao-isaias-se-fortalece-e-segue-rumo-aos-eua-com-ventos-de-175-kmh.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/furacao-isaias-fecha-aeroportos-e-cancela-mais-de-150-voos-na-florida/"
             }
           ],
-          "updatedAt": "2026-10-09T12:46:39.000Z",
+          "updatedAt": "2026-10-09T12:40:41.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/qTIZl8hP_Ee1f6tS7cU_bErbxCM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/0/XpWnnkQd2RUkxuSacsfw/2026-10-08t220051z-598254387-rc28zna4gszk-rtrmadp-3-storm-isaias.jpg"
-        },
-        {
-          "clusterId": "ea85d929e22ecc9b",
-          "slug": "5fe6cd2cdc551430",
-          "titulo": "Ciclone aumenta risco de temporais no Paraná",
-          "resumo": "Um ciclone está elevando o risco de temporais no estado do Paraná. A frente fria associada ao fenômeno pode gerar chuva forte, granizo e rajadas de vento, principalmente no feriado. As regiões oeste e sudoeste do Paraná são as mais afetadas. As autoridades alertam para precauções e monitoramento das condições meteorológicas.",
-          "porQueImporta": "O aumento do risco de temporais pode causar danos à infraestrutura e à população local.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/ciclone-aumenta-risco-de-temporais-no-parana-veja-previsao-ate-segunda/"
-            }
-          ],
-          "updatedAt": "2026-10-09T14:26:51.000Z"
         }
       ]
     },
@@ -380,84 +590,145 @@
       "label": "Incêndio florestal",
       "stories": [
         {
-          "clusterId": "42b19ee8e05de9f8",
-          "slug": "0ba70162361ff3a6",
-          "titulo": "Incêndio na região do Lago do Canaçari continua há 20 dias",
-          "resumo": "O fogo na zona rural de Itacoatiara, no interior do Amazonas, já está em operação há 20 dias, cobrindo 1,3 mil hectares. A fumaça voltou a encobrir a cidade nas primeiras horas da sexta-feira, piorando a qualidade do ar na área urbana. A Defesa Civil emitiu alerta para uso de máscaras e evitar exposição prolongada. A Secretaria Municipal de Meio Ambiente investigou o incêndio como criminoso e identificou um suspeito.",
-          "porQueImporta": "O incêndio ameaça a fauna, flora e a saúde da população local.",
+          "clusterId": "c0ad6dcb130a5fc0",
+          "slug": "31a7671e6956094e",
+          "titulo": "Incêndio atinge vegetação atrás de empresa na Zona Norte de Manaus",
+          "resumo": "Um incêndio atingiu área de vegetação localizada atrás de uma empresa na Avenida Margarita, bairro Nova Cidade, Zona Norte de Manaus. Duas viaturas do Corpo de Bombeiros Militar do Amazonas foram enviadas ao local para combater as chamas. Até o último comunicado, não havia informações sobre a extensão do fogo ou feridos.",
+          "porQueImporta": "O incidente pode representar risco à fauna local e à segurança dos moradores e trabalhadores da região.",
           "categoria": "Incêndio florestal",
           "categoriaSlug": "incendio-florestal",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/09/comunidade-canacari-em-itacoatiara-queima-ha-20-dias-de-incendio.ghtml"
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/09/incendio-atinge-area-de-vegetacao-atras-de-empresa-na-zona-norte-de-manaus.ghtml"
             }
           ],
-          "updatedAt": "2026-10-09T14:29:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/FF_Jp76GQ9YkIOUaNTV2_o_MKlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/O/uyqy3vTMKxv4WMPXK2wg/animal-morto-em-incendio-na-comunidade-canacari-em-itacoatiara-8-de-outubro-de-2026-foto-liam-cavalcante-rede-amazonica.jpeg"
+          "updatedAt": "2026-10-09T20:52:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1jdH3gnGIYMDh7emxKHZTx6q4lw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/3cJ2oFTyKUhR3wsjqnwQ/whatsapp-image-2026-10-09-at-15.29.46.jpeg"
         },
         {
-          "clusterId": "c7884e492ad0740a",
-          "slug": "9dbb9a923b6edf8c",
-          "titulo": "Uso do fogo proibido em todo o Piauí até fim de outubro",
-          "resumo": "A Secretaria do Meio Ambiente e Recursos Hídricos do Piauí proibiu o uso de fogo em imóveis rurais em todo o estado até 30 de outubro. A medida foi tomada em razão das altas temperaturas, baixa umidade e estiagem, que aumentam o risco de incêndios florestais. A portaria nº 137 foi publicada no Diário Oficial do Estado.",
-          "porQueImporta": "A proibição visa reduzir o risco de incêndios florestais em um período de seca intensa.",
+          "clusterId": "39039eeef704ebb8",
+          "slug": "aadb549748731882",
+          "titulo": "Fumaça de queimadas cobre Manaus e região metropolitana",
+          "resumo": "Fumaça densa de queimadas florestais cobriu a cidade de Manaus e municípios da Região Metropolitana, como Itacoatiara e Careiro da Várzea, nesta sexta-feira, 9 de outubro de 2026. A poluição do ar atingiu níveis considerados péssimos. As queimadas também destruíram áreas de vegetação. O avanço das queimadas agravou a situação na semana.",
+          "porQueImporta": "A poluição do ar pode afetar a saúde da população e a qualidade de vida na região.",
           "categoria": "Incêndio florestal",
           "categoriaSlug": "incendio-florestal",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/09/uso-fogo-piaui.ghtml"
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/09/fotos-fumaca-encobre-cidades-e-queimadas-deixam-rastro-de-destruicao-no-amazonas-veja-registros.ghtml"
             }
           ],
-          "updatedAt": "2026-10-09T14:25:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UtPJWO_beJdbM8v0R2LRNiF56LQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/E/CqKhdkSiCYxoI0VvR1Jg/edicao-imagens-g1-98-.png"
+          "updatedAt": "2026-10-09T20:45:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/nxWb97h4T-t9KO4F5vunxyeCbrs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/S/LrtaVuS9SFCBrEPi7i3Q/ato20261009028.jpg"
         }
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "desastre",
+      "label": "Desastre",
       "stories": [
         {
-          "clusterId": "5eec131cf94b3ccb",
-          "slug": "b1e35247c42a80b0",
-          "titulo": "Alerta de baixa umidade do ar pode aumentar risco de incêndios",
-          "resumo": "A Defesa Civil emitiu alerta de que a umidade do ar pode chegar a 12% no fim de semana, aumentando o risco à saúde e de incêndios. O aviso começou nesta sexta-feira (9/10) e vai até as 21h de sábado (10).",
-          "porQueImporta": "Baixa umidade favorece a propagação de incêndios e pode agravar problemas respiratórios.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "942a75e5bd297331",
+          "slug": "6a9fc312b8e8e245",
+          "titulo": "Terremoto de magnitude 7,7 atinge o Panamá",
+          "resumo": "Um terremoto de magnitude 7,7 abalou o Panamá nesta sexta-feira (9), com epicentro na região sul, a 12 km de profundidade. O tremor foi fortemente sentido na Cidade do Panamá e em cidades do sul, causando colapso parcial de um hotel em Penonomé e da torre de uma catedral em Santiago. Alertas de tsunami foram emitidos para a costa do Pacífico, mas posteriormente cancelados. Ação de suspensão de aulas, aeroportos e metrô foi realizada, e países vizinhos ofereceram ajuda.",
+          "porQueImporta": "O evento destaca a vulnerabilidade sísmica da região e a necessidade de medidas de mitigação e resposta rápida.",
+          "categoria": "Desastre",
+          "categoriaSlug": "desastre",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/09/terremoto-de-magnitude-80-atinge-o-panama.ghtml"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/mundo/terremoto-de-magnitude-76-atinge-o-panama-e-alerta-de-tsunami-e-ativado/"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/alerta-de-tsunami-e-cancelado-apos-terremoto-de-magnitude-77-no-panama/"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/terremoto-de-magnitude-77-atinge-o-panama/"
+            }
+          ],
+          "updatedAt": "2026-10-09T20:55:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PJTCJFJtS5MGqTPD06dqypPkU1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/l/ZRvAs3R8iohYBBX6yoCw/261009-info-mapa-terremoto-no-panama.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "3e0df3ffaf0c0cdd",
+          "slug": "83fd7b5f6ee3296c",
+          "titulo": "São Paulo entra em estado de atenção para alagamentos",
+          "resumo": "A Prefeitura de São Paulo, por meio do Centro de Gerenciamento de Emergências Climáticas, decretou estado de atenção para alagamentos em todas as regiões da cidade. O alerta, emitido às 17h33, abrange Norte, Sul, Leste, Oeste, Sudeste, Centro e as marginais Tietê e Pinheiros. A medida responde a áreas de instabilidade formadas pelo calor e pela brisa marítima, com chuvas concentradas principalmente no centro e na zona norte.",
+          "porQueImporta": "O alerta visa prevenir danos e garantir a segurança dos moradores diante de risco de alagamentos.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/umidade-do-ar-pode-chegar-a-12-no-fim-de-semana-defesa-civil-emite-alerta"
+              "url": "https://www.metropoles.com/sao-paulo/chuva-cidade-de-sao-paulo-esta-em-estado-de-atencao-para-alagamentos"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/09/cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos-em-todas-as-regioes-nesta-sexta-feira.ghtml"
             }
           ],
-          "updatedAt": "2026-10-09T15:28:08.000Z",
-          "imageUrl": "https://images.metroimg.com/2024/08/Brasilia-completa-100-dias-sem-chuva-calor-seca-baixa-humidade-Metropoles-3.jpg"
+          "updatedAt": "2026-10-09T20:58:04.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/design-sem-nome-2026-10-09t174737-584.png"
         }
       ]
     },
     {
-      "slug": "geral",
-      "label": "Geral",
+      "slug": "deslizamento",
+      "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "6b19926a8d46ed39",
-          "slug": "c8a12b034651e4ec",
-          "titulo": "Mulher morre após queda de moto e atropelamento por carreta na Dutra, em São José dos Campos",
-          "resumo": "Mulher morre atropelada por carreta após queda de moto na Dutra Uma mulher de 32 anos morreu após cair de uma motocicleta e ser atropelada por uma carreta na Rodovia Presidente Dutra, em São José dos Campos (SP), na madrugada desta sexta-feira (9). Segundo a Polícia Rodoviária Federal (PRF), o acidente aconteceu na altura do km 145, no sentido Rio de Janeiro. A moto era ocupada pela mulher e pelo namorado dela, que conduzia o veículo. De acordo com o boletim de ocorrência, a motocicleta tombou por motivos ainda desconhecidos, e os dois ocupantes foram lançados ao chão. O motorista da carreta…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "dd3be5ff85b82f9b",
+          "slug": "6a9cd471935b86e8",
+          "titulo": "Chile decreta alerta vermelho após deslizamento em Santiago",
+          "resumo": "O Chile emitiu alerta vermelho depois de um deslizamento que atingiu a capital, Santiago. A enxurrada de água e lama danificou casas e veículos. As chuvas são associadas ao fenômeno El Niño.",
+          "porQueImporta": "O alerta indica risco de novas ocorrências e mobiliza recursos de emergência.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/chile-decreta-alerta-vermelho-depois-de-deslizamento-em-santiago/"
+            }
+          ],
+          "updatedAt": "2026-10-09T20:42:43.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "f00a021ba30e4017",
+          "slug": "ca16e899ad122257",
+          "titulo": "Homem sofre choque ao trocar transformador no interior do Acre",
+          "resumo": "Um trabalhador sofreu queimaduras graves após receber uma descarga elétrica enquanto trocava um transformador de energia no Ramal do Feijão Insosso, em Mâncio Lima, interior do Acre. O acidente ocorreu na quinta-feira (8). O homem estava em um poste quando teve o choque e foi resgatado consciente. Ele sobreviveu ao incidente.",
+          "porQueImporta": "O caso destaca os riscos de trabalho com energia elétrica em áreas remotas.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/09/mulher-morre-apos-queda-de-moto-e-atropelamento-por-carreta-na-dutra-em-sao-jose-dos-campos.ghtml"
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/10/09/homem-leva-choque-ao-tentar-trocar-transformador-em-ramal-no-interior-do-acre.ghtml"
             }
           ],
-          "updatedAt": "2026-10-09T15:11:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PQwItfCHGwJI2xvGUkZBIZPAGpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/E/ozhj85SyeXB6pqsiAbiw/whatsapp-image-2025-12-18-at-09.16.23.jpeg"
+          "updatedAt": "2026-10-09T20:31:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FLuXC38wlV2c_yGRYyYx21p6nGQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/J/jwAzTzTEqz7oTTAzzOUg/midia-de-distribuicao-g1-2026-10-09t145335.407.jpg"
         }
       ]
     }
