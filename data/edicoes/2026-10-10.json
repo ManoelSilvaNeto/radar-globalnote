@@ -1,31 +1,48 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T14:38:31.355Z",
+  "generatedAt": "2026-10-10T20:16:41.887Z",
   "home": [
     {
-      "clusterId": "d9c6042a08e8035a",
-      "slug": "24bccf59d0914889",
-      "titulo": "Furacão Isaias fortalece-se e ameaça costa da Flórida",
-      "resumo": "O furacão Isaias atingiu a categoria 3, com ventos sustentados de até 175 km/h, segundo o Centro Nacional de Furacões dos Estados Unidos. A tempestade se desloca pelo Golfo do México em direção à Flórida, onde autoridades ordenaram evacuações em áreas de risco de inundação. Aeroportos foram fechados e mais de 150 voos cancelados na região. Comerciantes na costa tomaram medidas de precaução, como proteger janelas com tábuas.",
-      "porQueImporta": "O evento pode causar danos significativos à infraestrutura e à população da Flórida.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "b5cb5592fcd88b13",
+      "slug": "3b611d632f6572ad",
+      "titulo": "Explosão atinge aeroporto de Riade e deixa feridos",
+      "resumo": "Uma explosão ocorreu no aeroporto internacional Rei Khalid, em Riade, na Arábia Saudita, resultando em feridos. O governo saudita classificou o incidente como bombardeio e suspendeu os voos. Testemunhas e autoridades locais confirmaram o ataque na tarde do sábado. Os números de feridos ainda estão sendo contabilizados.",
+      "porQueImporta": "O ataque interrompe o tráfego aéreo e aumenta a tensão em instalações de aviação civil no país.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/09/furacao-isaias-se-fortalece-e-segue-rumo-aos-eua-com-ventos-de-175-kmh.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/10/explosao-no-aeroporto-de-riade.ghtml"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/furacao-isaias-atinge-costa-dos-eua-com-ventos-de-169-km-h-e-provoca-inundacoes/"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/explosao-atinge-aeroporto-de-riade-e-deixa-feridos/"
+        }
+      ],
+      "updatedAt": "2026-10-10T20:13:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wVYKKm2tJ2RIILLD6GICOZ7TT3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/V/Jz2DhvRASP2oBA8yyp6g/ap26280417209184.jpg"
+    },
+    {
+      "clusterId": "ed1804ae5d3ee06f",
+      "slug": "acd71055f8f96079",
+      "titulo": "DJ Dani Brasil recebe prisão preventiva após atropelar e matar morador de rua em São Paulo",
+      "resumo": "Daniel Santana de Jesus, DJ Dani Brasil, foi preso em flagrante após atropelar e matar Carlos Alberto Minotti, de 57 anos, em Santo Amaro. O juiz converteu a prisão em preventiva durante audiência de custódia. O acusado enfrenta seis crimes, incluindo homicídio com dolo eventual, desobediência e embriaguez ao volante. Ele testou positivo no bafômetro e tentou fugir pulando em piscina.",
+      "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito envolvendo motoristas alcoolizados e a aplicação de prisão preventiva em crimes graves.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/10/justica-converte-em-preventiva-prisao-do-dj-dani-brasil-preso-apos-atropelar-e-matar-morador-de-rua-em-sp.ghtml"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/furacao-isaias-deixa-770-mil-sem-energia-no-sudeste-dos-eua/"
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-decreta-prisao-preventiva-de-dj-que-atropelou-e-matou-homem-em-sp/"
         }
       ],
-      "updatedAt": "2026-10-10T13:14:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/qTIZl8hP_Ee1f6tS7cU_bErbxCM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/0/XpWnnkQd2RUkxuSacsfw/2026-10-08t220051z-598254387-rc28zna4gszk-rtrmadp-3-storm-isaias.jpg"
+      "updatedAt": "2026-10-10T17:00:54.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/I6xebR6QZ7cyWF851y6TVyJgxO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/D/6x0vJqTVqwiS5fisWLWA/fotojet-2026-10-09t090334.201.jpg"
     },
     {
       "clusterId": "55c7111e9dffe764",
@@ -49,142 +66,123 @@
       "imageUrl": "https://s2-g1.glbimg.com/PJTCJFJtS5MGqTPD06dqypPkU1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/l/ZRvAs3R8iohYBBX6yoCw/261009-info-mapa-terremoto-no-panama.jpg"
     },
     {
-      "clusterId": "43db459f9c2ab97e",
-      "slug": "0c57055d595ba84e",
-      "titulo": "Acidente na BR-393 em Barra do Piraí deixa cinco mortos e nove feridos",
-      "resumo": "Um acidente na BR-393, próximo a Barra do Piraí, resultou na morte de cinco pessoas e deixou nove feridos. A colisão envolveu veículos e as vítimas foram encaminhadas a hospitais. O trecho da rodovia foi interditado pela PRF e não há previsão de liberação.",
-      "porQueImporta": "O incidente destaca a gravidade de acidentes de trânsito na região e a necessidade de atenção às condições da rodovia.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "30e0bfd3966dd00b",
+      "slug": "c6bffeee01de560b",
+      "titulo": "Busca por barqueiro desaparecido no Rio Juruá encerra após cinco dias",
+      "resumo": "O barqueiro Moisés Rodrigues da Silva, de 82 anos, desapareceu no Rio Juruá, em Cruzeiro do Sul, Acre. As buscas, realizadas por cinco dias, foram encerradas na tarde de sexta-feira. Em homenagem, familiares soltaram balões na região da Praia Grande.",
+      "porQueImporta": "O caso destaca a dificuldade de localizar pessoas em áreas de rios no Acre e a importância de apoio familiar em situações de desaparecimento.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/acidente-entre-veiculos-deixa-mortos-e-feridos-na-br-393-no-rj/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/acidente-br-393-mortos-feridos-rio-de-janeiro"
+          "name": "G1",
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/10/10/video-familiares-soltam-baloes-em-homenagem-a-barqueiro-de-82-anos-que-desapareceu-em-rio-no-acre.ghtml"
         }
       ],
-      "updatedAt": "2026-10-10T13:43:47.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/acidente-na-br-393-deixa-cinco-mortos-e-nove-feridos-no-rio-de-janeiro.jpg"
+      "updatedAt": "2026-10-10T19:59:52.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YAp7IC2bSVFob1OnktRjGmCXSsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/q/Qr2RDyTEuxxM0vuwqwCg/befunky-collage-2026-10-10t150154.378.jpg"
     },
     {
-      "clusterId": "a526583c981a1790",
-      "slug": "3c3838dbeec24346",
-      "titulo": "Ministério do Meio Ambiente reforça combate a incêndios no Amazonas",
-      "resumo": "O Ministério do Meio Ambiente enviou seis aeronaves, incluindo quatro Air Tractor e dois helicópteros, e 290 brigadistas ao Amazonas para intensificar o combate aos incêndios florestais. O reforço ocorre após divergência entre o governo federal e o Corpo de Bombeiros Militar do Amazonas sobre a oferta de apoio. O objetivo é aumentar a capacidade de lançamento de água e apoio terrestre nas áreas afetadas.",
-      "porQueImporta": "A ação visa conter a expansão dos incêndios que ameaçam ecossistemas e comunidades no estado.",
+      "clusterId": "3418fd0c34db46c5",
+      "slug": "5bc2ce53415d7f2f",
+      "titulo": "Ministério Público de Contas questiona aluguel de avião para combate a incêndios no Amazonas",
+      "resumo": "O Ministério Público de Contas do Amazonas deu prazo de dez dias para a Defesa Civil justificar o aluguel emergencial de um avião por R$ 2,1 milhões. A aeronave tem capacidade de lançar menos de 2 mil litros de água por voo, considerada insuficiente para grandes focos de queimadas. A denúncia foi apresentada por um professor da Universidade Federal do Amazonas.",
+      "porQueImporta": "O caso levanta dúvidas sobre a eficiência e a gestão de recursos públicos no combate a incêndios florestais.",
       "categoria": "Incêndio florestal",
       "categoriaSlug": "incendio-florestal",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/10/ministerio-do-meio-ambiente-anuncia-reforco-de-6-aeronaves-e-290-brigadistas-para-combater-incendios-no-amazonas.ghtml"
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/10/ministerio-publico-de-contas-questiona-aviao-de-r-21-milhoes-para-combater-incendios-no-am-defesa-civil-tem-10-dias-para-explicar.ghtml"
         }
       ],
-      "updatedAt": "2026-10-10T14:29:28.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/z0g4Fqx4ccMBEGG4DyygA_9k_yE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/H/mZH3LKR3ipX9SeJGy4Zg/whatsapp-image-2026-10-08-at-11.13.56-1-.jpeg"
+      "updatedAt": "2026-10-10T19:59:07.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/nhcmbyK3r-T1qjTTSuwENAIsXCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/f/QSZPJPQW2kqCGmG1iLkw/whatsapp-image-2026-10-07-at-20.25.33.jpeg"
     },
     {
-      "clusterId": "c2eaa21b75e811bd",
-      "slug": "0ab01c6bc14366a9",
-      "titulo": "Estudante de medicina morre em acidente de moto em Dourados",
-      "resumo": "Fiorella Lilian Villegas Yaranga, 26 anos, estudante de medicina da UFGD, morreu na madrugada de sexta-feira (9) em Dourados, MS, após sua moto bater em outro veículo. A família decidiu cremar o corpo no Brasil e enviar as cinzas ao Peru, país de origem da jovem. O local da cerimônia não foi divulgado.",
-      "porQueImporta": "O caso destaca a necessidade de atenção à segurança no trânsito e a logística de repatriação de restos mortais.",
+      "clusterId": "52abd9b035b80bac",
+      "slug": "5c057f189a039ccd",
+      "titulo": "Motociclista morre e adolescente fica ferida em acidente em Itaquaquecetuba",
+      "resumo": "Um motociclista de 26 anos morreu e uma adolescente de 15 anos ficou ferida quando a moto em que estavam bateu em um carro preto na manhã de sábado, no Jardim Nascente, em Itaquaquecetuba. O motorista do automóvel deixou o local sem prestar socorro. O Corpo de Bombeiros socorreu a adolescente e a encaminhou ao hospital, onde ela permaneceu internada. O motociclista morreu no local.",
+      "porQueImporta": "O caso destaca a necessidade de cumprimento da lei de prestação de socorro em acidentes de trânsito.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/10/estudante-de-medicina-que-morreu-em-acidente-de-moto-em-ms-sera-cremada-e-as-cinzas-irao-para-o-peru.ghtml"
+          "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/10/motociclista-morre-em-acidente-em-itaquaquecetuba-motorista-foge-sem-prestar-socorro.ghtml"
         }
       ],
-      "updatedAt": "2026-10-10T14:23:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/aiEBy_8CxaDktgrHOf-dUE0sa8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/EBIW7zTsm89SmMVJvyXA/design-sem-nome-68-.png"
+      "updatedAt": "2026-10-10T19:58:33.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UZtrUzGq-T_kxVd7ozstgJjsWmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/f/xdCe5RSOaMYKcFe2W9hw/img-7805.jpg.jpeg"
     },
     {
-      "clusterId": "4acc86559211e5df",
-      "slug": "cc5976cb5cb894f7",
-      "titulo": "Ciclista evita ser atropelado por caminhonete que capota na BR-163",
-      "resumo": "Um ciclista na manhã de sábado, 10, conseguiu pular a bicicleta antes de ser atingido por uma caminhonete que perdeu o controle e capotou várias vezes na BR-163, em Marechal Cândido Rondon, Paraná. O veículo atingiu a bicicleta, mas o ciclista escapou sem ferimentos. A Polícia Rodoviária Federal relatou o acidente e o vídeo mostra a sequência de capotamentos.",
-      "porQueImporta": "O incidente destaca a importância da atenção e segurança nas rodovias, especialmente para ciclistas em vias de alto tráfego.",
+      "clusterId": "602c1ccb6aec244c",
+      "slug": "d74f9f5ffafdc4d0",
+      "titulo": "Acidente entre carro e VLT deixa dois feridos em passagem clandestina no Grande Recife",
+      "resumo": "Um trem da linha Veículo Leve sobre Trilhos (VLT) colidiu com um carro em Jaboatão dos Guararapes, no Grande Recife, na tarde de sábado. Duas pessoas, um homem e uma mulher, ficaram feridas e foram levadas a unidades de saúde. Os ocupantes do veículo foram socorridos por passageiros do VLT. A Companhia Brasileira de Trens Urbanos (CBTU) confirmou a colisão.",
+      "porQueImporta": "O acidente destaca riscos de colisões entre veículos terrestres e sistemas de transporte público em áreas de passagem clandestina.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/10/-ciclista-escapa-caminhonete-capota.ghtml"
+          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/10/acidente-carro-vlt-feridos-grande-recife.ghtml"
         }
       ],
-      "updatedAt": "2026-10-10T14:22:38.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/SPhIid1CADtKmcHr7-irGPz-vo8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/O/CN494hTsALZNhSCu215w/g1-pr-2026-10-10t111910.800.jpg"
+      "updatedAt": "2026-10-10T19:51:29.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/SP7HQU2e4SqNXTPsKQZ3Wy6L198=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/9dDj5QRl2XPEjmaevjQQ/whatsapp-image-2026-10-10-at-15.39.18.jpeg"
     },
     {
-      "clusterId": "ab04fcc4f2d8b914",
-      "slug": "509cf36b9e9c5040",
-      "titulo": "Adolescente de 15 anos morre após buggy ser arrastado por enchente em Santa Branca",
-      "resumo": "Um adolescente de 15 anos morreu quando o buggy em que estava foi arrastado pela correnteza durante uma enchente em Santa Branca, interior de São Paulo. Dois buggies tentaram atravessar uma ponte e foram levados pela água. O veículo com o adolescente foi localizado quando a chuva diminuiu, mas o jovem estava preso pelo cinto de segurança.",
-      "porQueImporta": "O incidente destaca os perigos de tentar atravessar áreas alagadas durante enchentes.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
+      "clusterId": "1b0c45d2d09d6c26",
+      "slug": "013f9623803b523c",
+      "titulo": "Incêndio destrói apartamento na Zona Sul de São José dos Campos",
+      "resumo": "Um incêndio atingiu um apartamento no bairro Jardim Oriente, em São José dos Campos, por volta das 14h de sábado. O Corpo de Bombeiros registrou que a proprietária foi resgatada em crise de ansiedade, mas não sofreu ferimentos. Não houve registro de vítimas. O fogo deixou o imóvel completamente destruído.",
+      "porQueImporta": "O incidente destaca a necessidade de vigilância e prevenção de incêndios em residências urbanas.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/10/adolescente-de-15-anos-morre-apos-buggy-ser-arrastado-por-enchente-em-santa-branca-no-interior-de-sp.ghtml"
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/10/apartamento-fica-destruido-apos-incendio-na-zona-sul-de-sao-jose-dos-campos.ghtml"
         }
       ],
-      "updatedAt": "2026-10-10T14:19:31.000Z"
+      "updatedAt": "2026-10-10T19:43:27.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/pDbXpJJDlerfLXW1bOG73giGcCI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/a/Iap49xTueTj0WlWtQ9hA/ft-g1-1-.png"
     },
     {
-      "clusterId": "d087e54ef3779e75",
-      "slug": "9dc912408c498f35",
-      "titulo": "Chuva provoca quedas de árvores e deslizamento de terra em Itatiaia",
-      "resumo": "No início da noite de sexta-feira, chuva intensa atingiu Itatiaia, resultando em quedas de árvores e um deslizamento de terra. A Defesa Civil registrou 21,5 mm de chuva no centro, acima dos 17 mm previstos, e 28,9 mm em Penedo. Árvores caíram na Rua 9, Jardim Itatiaia, e na Avenida Penedo. Equipes da Defesa Civil atenderam e removeram as ocorrências.",
-      "porQueImporta": "O evento pode causar danos à infraestrutura e risco à população local.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
+      "clusterId": "7b744ab4600d66d7",
+      "slug": "fe43dd0f3b6272e6",
+      "titulo": "Motociclista morre ao invadir contramão e provocar acidente na MGC-452",
+      "resumo": "Uma motociclista morreu ao invadir a contramão na MGC-452, em Uberlândia, e colidir com um Chevrolet Onix. O impacto também envolveu mais dois carros e um reboque puxado pelo veículo atingido. O acidente ocorreu no km 155 da rodovia, na tarde de sábado.",
+      "porQueImporta": "O acidente resultou na morte de uma pessoa e evidenciou riscos de condução perigosa em rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/10/chuva-provoca-quedas-de-arvores-e-deslizamento-de-terra-em-itatiaia.ghtml"
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/10/motociclista-morre-ao-invadir-contramao-e-provocar-acidente-com-mais-tres-veiculos-na-mgc-452-em-uberlandia.ghtml"
         }
       ],
-      "updatedAt": "2026-10-10T14:18:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zeAH39XZz-stVPZw5tiMXazCROI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/5/S4Uf12RNqj6370vFwCOg/whatsapp-image-2026-10-10-at-11.03.39.jpeg"
+      "updatedAt": "2026-10-10T19:31:10.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/vvBMRVRy7gt1NvuFy3mLB-MemR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/D/uBLumBSQukAEA5WH6Vcg/design-sem-nome-9-.png"
     },
     {
-      "clusterId": "5690c5204bcf2e79",
-      "slug": "43c49aefd7e9e91a",
-      "titulo": "NASA prepara nova versão de tecnologia que monitora enchentes e El Niño",
-      "resumo": "A NASA está desenvolvendo uma nova geração do projeto Grace‑FO, que deve ser lançada entre 2020 e 2031. O sistema usa satélites para monitorar enchentes e fenômenos El Niño, além de detectar minerais, petróleo e gás. A atualização pretende melhorar a precisão e a cobertura das observações. O projeto faz parte de esforços contínuos da agência para aprimorar a vigilância climática e ambiental.",
-      "porQueImporta": "A tecnologia pode oferecer dados mais precisos para prevenção de desastres naturais e exploração de recursos.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-tech/nasa-prepara-nova-versao-de-tecnologia-que-monitora-enchentes-e-el-nino/"
-        }
-      ],
-      "updatedAt": "2026-10-10T14:11:55.000Z"
-    },
-    {
-      "clusterId": "019a87e0052e11a6",
-      "slug": "6d8294ed1f4ab6c7",
-      "titulo": "Avião da Polícia Militar cai perto do Aeroporto do Vale do Aço",
-      "resumo": "Um avião da Polícia Militar caiu nas proximidades do Aeroporto Regional do Vale do Aço, em Santana do Paraíso, na sexta-feira. Os três ocupantes, todos pilotos, morreram na queda. O presidente Luiz Inácio Lula da Silva expressou solidariedade aos familiares e às autoridades. A aeronave realizava missões de transporte de órgãos para transplante.",
-      "porQueImporta": "O acidente resultou na morte de três policiais militares, afetando a segurança pública e as operações de transporte de órgãos.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
+      "clusterId": "10caec309f97b23a",
+      "slug": "aea9b598d39d073b",
+      "titulo": "Moto bate em caminhonete no centro de Boa Vista",
+      "resumo": "Um motociclista de 29 anos ficou ferido quando sua moto colidiu com uma caminhonete no cruzamento da Avenida Ville Roy com a Rua Coronel Pinto, no centro de Boa Vista. O acidente ocorreu no sábado. O motorista da caminhonete, de 71 anos, relatou que estava atravessando a avenida quando foi atingido. O motociclista foi levado ao Hospital Geral de Roraima.",
+      "porQueImporta": "O acidente resultou em ferimento e destaca a necessidade de atenção no cruzamento mencionado.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/10/lula-se-manifesta-apos-queda-de-aviao-da-pm-em-mg-deixo-a-minha-solidariedade.ghtml"
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/10/acidente-entre-moto-e-caminhonete-deixa-homem-ferido-no-centro-de-boa-vista.ghtml"
         }
       ],
-      "updatedAt": "2026-10-10T14:06:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zCsCLGstOPWvzGfEUqYTlrz-Ab0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/I/VyFeb1Tu2Qy6ag4dDO4w/chuva-distrito-paulo-camilo-1-11-.png"
+      "updatedAt": "2026-10-10T19:22:27.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1JnUKlFim_ha6G5Wk7_WstguQBg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/F/lmAUFoS1yS2CPuttyqKg/hj.jpg"
     }
   ],
   "categorias": [
@@ -193,138 +191,206 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "5690c5204bcf2e79",
-          "slug": "43c49aefd7e9e91a",
-          "titulo": "NASA prepara nova versão de tecnologia que monitora enchentes e El Niño",
-          "resumo": "A NASA está desenvolvendo uma nova geração do projeto Grace‑FO, que deve ser lançada entre 2020 e 2031. O sistema usa satélites para monitorar enchentes e fenômenos El Niño, além de detectar minerais, petróleo e gás. A atualização pretende melhorar a precisão e a cobertura das observações. O projeto faz parte de esforços contínuos da agência para aprimorar a vigilância climática e ambiental.",
-          "porQueImporta": "A tecnologia pode oferecer dados mais precisos para prevenção de desastres naturais e exploração de recursos.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-tech/nasa-prepara-nova-versao-de-tecnologia-que-monitora-enchentes-e-el-nino/"
-            }
-          ],
-          "updatedAt": "2026-10-10T14:11:55.000Z"
-        },
-        {
-          "clusterId": "7f7032bda62bce21",
-          "slug": "cba654d69baf837b",
-          "titulo": "Adolescente morre afogado em Barra Mansa",
-          "resumo": "Brum Um adolescente, de aproximadamente 17 anos, foi encontrado sem vida na tarde de sexta-feira (10) em Barra Mansa (RJ). O caso aconteceu no bairro São Domingos. Segundo o Corpo de Bombeiros, os militares foram acionados por volta das 16h para resgate de uma vitima de afogamento. No local, eles encontraram o adolescente em um açude já sem vida. O recolhimento do corpo ocorreu por volta das 1h da manhã de sábado (10). Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1 no WhatsApp Ainda segundo o Corpo de Bombeiros, o corpo foi levado para o Instituto Médico Legal (IML) de Volta…",
+          "clusterId": "9090b083f7bb4b64",
+          "slug": "fe604086d76a686c",
+          "titulo": "MPF cobra na Justiça R$ 541 milhões em reparação da Shell por enchente no RS",
+          "resumo": "Perobelli O Ministério Público Federal (MPF) e o Instituto Preservar ingressaram com uma ação na Justiça contra a Shell Brasil buscando reparação parcial dos danos decorrentes das catástrofes climáticas no Rio Grande do Sul, especialmente das enchentes de abril e maio de 2024. Os pedidos somam mais de R$ 541 milhões. Na Ação Civil Pública climática, MPF e o instituto sustentam que há ligação entre as emissões da cadeia dos combustíveis fósseis, o aquecimento global e a intensificação das chuvas responsáveis pela devastação do estado naquele período. 📲 Acesse o canal do g1 RS no WhatsApp A…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/10/adolescente-morre-afogado-em-barra-mansa.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/10/reparacao-shell-enchente-rs.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T12:40:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/FgR52TU7jA3yXVUCys03NcUTS0M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/2/J/1rxZriQfm7EOIIzNSiyg/whatsapp-image-2021-12-30-at-11.14.30.jpeg"
+          "updatedAt": "2026-10-10T18:38:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Y7asiuZz1v0JT4DDe58IG9hzd3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/4/2/F6k6neRQmqqX8IHoYFXw/2024-05-07t023645z-1113557444-rc28l7axzrke-rtrmadp-3-brazil-rains.jpg"
         },
         {
-          "clusterId": "64bace0b859d406d",
-          "slug": "145757c2cde6a6ed",
-          "titulo": "Motorista morre atropelado após estacionar caminhão e tentar atravessar a MG-050 a pé, em Itaúna",
-          "resumo": "Atropelamento MG-050, em Itaúna PMRv/Divulgação Um caminhoneiro, de 48 anos, morreu atropelado por um carro na MG-050, em Itaúna, na noite de sexta-feira (9). O motorista do carro disse à Polícia Militar Rodoviaria (PMRv) , que a vítima havia estacionado seu caminhão às margens da rodovia e tentou atravessar a pista a pé. Ainda segundo relatos do condutor, o homem atravessou a pista sem observar o fluxo de veículos e ele não conseguiu parar a tempo de evitar o acidente. ✅ Clique aqui para seguir o canal do g1 Centro-Oeste de Minas no WhatsApp Testemunhas contaram que a vítima foi arremessada…",
+          "clusterId": "3941ba0ec45cc359",
+          "slug": "322edc11da941fd4",
+          "titulo": "Homem de 46 anos morre após ser atropelado por ônibus ao tentar atravessar pista na Estrutural DF",
+          "resumo": "Homem de 46 anos morre após ser atropelado por ônibus ao tentar atravessar pista no DF Um homem de 46 anos morreu após ser atropelado por um ônibus na na Via Estrutural, no Distrito Federal, no início da tarde deste sábado (10). O acidente aconteceu no início da tarde. Segundo a Polícia Militar, o Corpo de Bombeiros, uma equipe médica particular e o Samu tentaram atender a vítima, mas constataram a morte no local. ✅ Clique aqui para seguir o canal do g1 no WhatsApp. De acordo com o relato do motorista à PMDF, ele trafegava pela faixa da direita quando o pedestre teria passado pela defensa…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/10/motorista-morre-atropelado-apos-estacionar-caminhao-e-tentar-atravessar-a-mg-050-a-pe-em-itauna.ghtml"
+              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/homem-de-46-anos-morre-apos-ser-atropelado-por-onibus-ao-tentar-atravessar-pista-na-estrutural-df.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T12:18:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/yLLQEeI6FL1YLpGA_agG5oEFIMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Z/xbft5JTMOMPPSzJRYsAQ/whatsapp-image-2026-10-10-at-09.02.52.jpeg"
+          "updatedAt": "2026-10-10T18:37:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GPIP5FrZcHRCpgY7REUpW23ZrKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/a/fDbnplSOuILtwkOe8zNw/imagem-g1-57-.jpg"
         },
         {
-          "clusterId": "cf0c63a623ce4cdc",
-          "slug": "7090efe2e33035bc",
-          "titulo": "Temporal com rajadas de vento de 76 km/h derruba árvores e deixa moradores desalojados em Resende",
-          "resumo": "Civil PMR. Um temporal com rajadas de vento de até 76,3 km/h provocaram a queda de árvores e deixou moradores desalojados na sexta-feira (9) em Resende (RJ). Pelo menos nove bairros foram afetados. Segundo a Defesa Civil, as equipes receberam informações sobre as ocorrências por volta das 17h49. Foram registradas três rajadas de vento, sendo a mais forte de 76,3 km/h, as outras duas atingiram 57,6 km/h e 44,6 km/h. No bairro Surubi Velho, uma residência ficou destelhada e o morador precisou deixar o imóvel e ir para a casa de parentes. Na mesa região, a queda da estrutura de uma parede também…",
+          "clusterId": "73901a0a3f82b153",
+          "slug": "2e59274b9d596d5e",
+          "titulo": "Dois homens morrem após caminhão tombar ao tentar subir ladeira na Serra do Tepequém",
+          "resumo": "Dois homens morrem após caminhão tombar ao tentar subir ladeira na Serra do Tepequém Dois homens morreram e outros dois ficaram feridos após um caminhão descer de ré e tombar ao tentar subir a Ladeira do Garrafa, localizada na Serra do Tepequém, no município de Amajari, ao Norte de Roraima, neste sábado (10). O trecho em que ocorreu o acidente está interditado. A Prefeitura de Amajari informou que o caminhão transportava postes de concreto para serviços particulares. Os feridos foram socorridos e levados ao hospital na sede do município, mas já foram encaminhados ao Hospital Geral de Roraima…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/10/temporal-com-rajadas-de-vento-de-76-kmh-derruba-arvores-e-deixa-moradores-desalojados-em-resende.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/10/dois-homens-morrem-apos-caminhao-tombar-ao-tentar-subir-ladeira-na-serra-do-tepequem.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T12:18:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rffhvjIwDX_UN9DNFsvyDvzt4DU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/u/JysfoTQfqbaxOc8XaHjw/whatsapp-image-2026-10-10-at-09.15.53.jpeg"
+          "updatedAt": "2026-10-10T18:21:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/5zfpSC-VaQ6bNocFg7C12MlZoPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/i/D4ZAzbQgmRzqwPf8eTSA/caminhao-1-.jpg"
         },
         {
-          "clusterId": "6c56595c7596a4c8",
-          "slug": "57e4d9976d92b8d5",
-          "titulo": "93 horas de Black Friday e estreia da Carreta Furacão em Ciudad del Este",
-          "resumo": "A Black Friday de Ciudad del Este terá uma programação especial na New Zone Importados. A loja anunciou 93 horas consecutivas de funcionamento, de 19 a 22 de novembro, permitindo que consumidores façam compras durante o dia, à noite e também na madrugada. New Zone/Divulgação. A abertura do nosso Black Friday terá uma atração inédita. Pela primeira vez, a Carreta Furacão participará da programação da loja, levando música, dança e personagens para as ruas do centro de Ciudad del Este. Á meia noite do dia 18 de novembro, dando início ao dia 19 de novembro, marcando oficialmente o início dessa…",
+          "clusterId": "ee6cffc3ebb124c2",
+          "slug": "8a195dd8e443ef99",
+          "titulo": "Petroleiro explode após atingir mina no Estreito de Ormuz, afirma Guarda Revolucionária do Irã",
+          "resumo": "Embarcações perto de Ormuz. Reuters A Guarda Revolucionária do Irã afirmou neste sábado (10) que um petroleiro explodiu e pegou fogo após atingir uma mina naval enquanto atravessava o Estreito de Ormuz, uma das principais rotas de transporte de petróleo do mundo. A informação foi divulgada pela imprensa estatal iraniana. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Os militares não informaram o nome, a bandeira ou a origem da embarcação. Também não foram divulgados detalhes sobre possíveis vítimas ou a extensão dos danos. Até o momento, não há confirmação independente das…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/parana/especial-publicitario/new-zone-importados/noticia/2026/10/10/93-horas-de-black-friday-e-estreia-da-carreta-furacao-em-ciudad-del-este.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/10/petroleiro-explode-apos-atingir-mina-no-estreito-de-ormuz-afirma-guarda-revolucionaria-do-ira.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T12:00:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/oOFKR4a9gFZuvs7A1Nivqi-FwIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/X/rr55POS1y3a2WovmsFJw/comp-final-01-4k-.00-00-41-10.quadro007.png"
+          "updatedAt": "2026-10-10T18:21:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zsmfODQH5bmwVuFzpBJBlU2RTMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/IueoH0RuiQRx5MJuKhcw/2026-08-17t134126z-1571278001-rc2c0naakvh3-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
         },
         {
-          "clusterId": "19202f2f6ad2c76b",
-          "slug": "9cdbdc4f91c3fb5e",
-          "titulo": "Motociclista morre após bater em mureta e ser atropelado na Via Dutra, em Piraí",
-          "resumo": "Um motociclista, de 58 anos, morreu e um passageiro, de 27, ficou ferido em um acidente na manhã deste sábado (10) na Via Dutra, em Piraí (RJ). A batida aconteceu por volta de 5h30, na altura do km 251, na pista sentido São Paulo. Segundo a Polícia Rodoviária Federal, o condutor perdeu o controle da moto e bateu na mureta central. Com o impacto, ele caiu na faixa da esquerda e foi atropelado por veículos que passavam pela rodovia. Ele morreu no local. Ainda de acordo com a PRF, o passageiro permaneceu sobre a motocicleta após a colisão e caiu no acostamento. Ele foi socorrido com ferimentos e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/10/motociclista-morre-apos-bater-em-mureta-e-ser-atropelado-na-via-dutra-em-pirai.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-10T11:56:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ojuVT3dWeB0wztyaQdP8beIlCpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/n/ejYfIOQfABxYLYGbeeTQ/whatsapp-image-2026-10-10-at-08.55.35.jpeg"
-        },
-        {
-          "clusterId": "28c24a3365b69b1a",
-          "slug": "fba06389bb2d53c1",
-          "titulo": "VÍDEO: temporais derrubam capela centenária, arrancam telhado de barracão e causam estragos no Paraná",
-          "resumo": "Temporal derruba capela com mais de 100 anos na área rural de Rebouças Os temporais que atingiram o Paraná provocaram estragos em propriedades rurais de diferentes regiões do estado. Em Rebouças, no centro-sul, uma capela de madeira com mais de 100 anos desabou durante a chuva. Já em Goioerê, no centro-oeste, um vendaval arrancou o telhado de um barracão de 2,4 mil metros quadrados. Câmeras de segurança registraram a força do vento. Veja o vídeo acima. ✅ Siga o canal do g1 Paraná no WhatsApp Em Rebouças, a capela centenária, localizada na área rural, ficou completamente destruída após o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/10/temporais-derrubam-capela-centenaria.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-10T11:28:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sclxMkbSyCSBdcHVXJAkvco37jw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/b/3Iw17cTueW4EmvvdskzQ/g1-pr-2026-10-10t082533.399.jpg"
-        },
-        {
-          "clusterId": "87b89d74e567166b",
-          "slug": "4151cd73aa811dbd",
-          "titulo": "Chuva forte e calor intenso: veja como será o final de semana pelo Brasil",
-          "resumo": "Frente fria e ciclone provocam temporais e ventos de até 70 km/h no Sul e Sudeste, enquanto Centro-Oeste registra pancadas intensas e o interior do Norte e Nordeste enfrentam dias de calor",
+          "clusterId": "be17446b44ad4dfe",
+          "slug": "66ee979f07553a0f",
+          "titulo": "Furacão Isaías paralisa 69% da produção de petróleo no Golfo do México",
+          "resumo": "Segundo a Administração de Minerais Marinhos, pessoal foi evacuado de 113 plataformas de produção, o que representa 30,46% das 371 plataformas tripuladas no Golfo",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/chuva-forte-e-calor-intenso-veja-como-sera-o-final-de-semana-pelo-brasil/"
+              "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/furacao-isaias-paralisa-69-da-producao-de-petroleo-no-golfo-do-mexico/"
             }
           ],
-          "updatedAt": "2026-10-10T10:25:13.000Z"
+          "updatedAt": "2026-10-10T18:02:46.000Z"
+        },
+        {
+          "clusterId": "22d3161182413234",
+          "slug": "29437ef390eafebc",
+          "titulo": "Incêndio atinge área com ambulâncias do Samu em Salvador",
+          "resumo": "Incêndio atinge área com ambulâncias do Samu em Salvador Um incêndio atingiu, neste sábado (10), uma área onde estavam estacionadas diversas ambulâncias do Serviço de Atendimento Móvel de Urgência (Samu), em Salvador. A informação foi confirmada pela Secretaria Municipal da Saúde (SMS). Segundo informações preliminares, há indícios de que o fogo tenha sido provocado de forma intencional, o que levanta a suspeita de uma ação criminosa. Não havia registro de feridos até a publicação desta reportagem. Conforme apuração da reportagem da TV Bahia, cerca de 24 ambulâncias foram atigindas. O…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/10/incendio-atinge-ambulancias-do-samu-em-salvador.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-10T17:45:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FDvEup11GaD-nR8t0Oo_3z5f3HE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/YthXkUQiCjkb3dFTkaWQ/incendio.jpeg"
+        },
+        {
+          "clusterId": "0548151f2fad9cf5",
+          "slug": "2c3ebb5b5013b454",
+          "titulo": "Caminhonete pega fogo em avenida de Americana",
+          "resumo": "Caminhonete pega fogo em avenida de Americana Uma caminhonete foi destruída por um incêndio na Avenida Campos Sales, no Bairro Jardim Girassol, em Americana (SP), na manhã deste sábado (10). A ocorrência mobilizou o Corpo de Bombeiros. Ninguém ficou ferido. Segundo a Guarda Municipal de Americana, ao estacionar o veículo no local, o condutor percebeu fumaça saindo do painel e tentou utilizar o extintor próprio para conter as chamas, mas não teve sucesso. ✅ Participe do canal do g1 Campinas no WhatsApp Motoristas de carros próximos se mobilizaram para tentar apagar o incêndio com outros…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/10/caminhonete-pega-fogo-em-avenida-de-americana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-10T17:45:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CS5dWu2VSCKlOjcc0sm3Q1tBygw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/N/BKIAuWS9Wyx6qKqqhwkQ/design-sem-nome-6-.png"
+        },
+        {
+          "clusterId": "df3b532cfe98f7c5",
+          "slug": "a74fe126025a71a6",
+          "titulo": "Defesa de DJ Dani Brasil alega surto hipnótico antes de atropelamento em SP",
+          "resumo": "Advogados afirmam que artista ingeriu álcool e remédio para dormir após a morte do cachorro dele e diz não se lembrar de ter dirigido; após atropelar vítima, DJ se jogou em piscina e tentou fugir, mas foi preso",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-de-dj-dani-brasil-alega-surto-hipnotico-antes-de-atropelamento-em-sp/"
+            }
+          ],
+          "updatedAt": "2026-10-10T17:23:56.000Z"
+        },
+        {
+          "clusterId": "8c63316582ab90dd",
+          "slug": "05349c0511f5f415",
+          "titulo": "Equipes de Barra do Piraí ajudam a liberar BR-393 após acidente com cinco mortos",
+          "resumo": "Equipes de Barra do Piraí ajudam a liberar BR-393 após acidente com cinco mortos Divulgação/PMBP. Equipes da Secretaria Municipal de Serviços Públicos de Barra do Piraí (RJ) foram mobilizadas para ajudar na liberação da BR-393 após um acidente que deixou cinco pessoas mortas e outras feridas na madrugada deste sábado (10). A colisão envolveu uma carreta carregada com materiais de revestimento e quatro carros. A carga ficou espalhada pela pista, e o trecho foi interditado. Segundo a prefeitura, as vítimas estavam em deslocamento de Juiz de Fora (MG) para Angra dos Reis (RJ). Leia também:…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/10/equipes-de-barra-do-pirai-ajudam-a-liberar-br-393-apos-acidente-com-cinco-mortos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-10T17:07:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-48bI0So_P2i-6NzUrfXecXNps0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/PZgvLHRta87DidNoGTDA/captura-de-tela-2026-10-10-140003-1-.png"
+        },
+        {
+          "clusterId": "ed173fe65b78d3b7",
+          "slug": "5c42fb38686c94aa",
+          "titulo": "Pai é preso por tentativa de vicaricídio após incendiar casa com filhos dentro no litoral de SP",
+          "resumo": "Homem de 57 anos foi preso por tentativa de vicaricídio após agredir a própria esposa, de 38, e atear fogo na garagem da residência onde o casal vivia em Praia Grande Reprodução e Prefeitura de Praia Grande Um homem de 57 anos foi preso por tentativa de vicaricídio após agredir a esposa, de 38, e incendiar a garagem da casa onde a família vivia, em Praia Grande, no litoral de São Paulo. Conforme apurado pelo g1, os filhos do casal, de 8 e 10 anos, ficaram presos no imóvel em chamas e precisaram ser resgatados pelo Corpo de Bombeiros. O crime ocorreu na noite de sexta-feira (9), na Av.…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/10/pai-preso-tentativa-vicaricidio-incendio-casa-filhos-praia-grande.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-10T17:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8d_ZKJkqKNBU9Ph4IXGXJT8yMZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/E/mvTFBaRkmeHGQPuFcZ3Q/inserir-um-titulo-2026-10-10t124731.757.jpg"
+        },
+        {
+          "clusterId": "6b2391a438f6f011",
+          "slug": "5483aa1b39bcaa5c",
+          "titulo": "Assustados, moradores passam noite nas ruas após terremotos no Panamá",
+          "resumo": "Pessoas observam a paisagem do lado de fora de um prédio após um terremoto atingir a Cidade do Panamá, na sexta-feira, 9 de outubro de 2026. AP/Alma Solis Moradores de cidades atingidas pelos fortes terremotos que sacudiram o Panamá na sexta-feira (9) passaram a noite nas ruas, com medo de voltar para casa diante das dezenas de réplicas registradas nas horas seguintes. Neste sábado (10), famílias continuavam abrigadas em tendas improvisadas, enquanto equipes de emergência avaliavam os danos. Os dois terremotos, de magnitude 7,7 e 6,6, provocaram desabamentos, abriram rachaduras em estradas e…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/10/assustados-moradores-passam-noite-nas-ruas-apos-terremotos-no-panama.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-10T16:29:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-31tMlKilchEnbZ76TWq8jlozhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/l/JjjqBiSt2KHwGZSvK2Nw/ap26282718200597.jpg"
+        },
+        {
+          "clusterId": "960cfc2bb93f2051",
+          "slug": "faa691157254f63c",
+          "titulo": "Por que EUA querem retomar execuções públicas após quase um século?",
+          "resumo": "Estima-se que uma multidão de 20 mil pessoas se reuniu no Kentucky em 1936 para o enforcamento público de Rainey Bethea. Getty Images via BBC Eles vieram aos milhares, de perto e de longe. Homens, mulheres e crianças formaram fila na margem de um rio no Kentucky para o enforcamento público de um homem negro condenado por estuprar e matar uma viúva branca idosa. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Era 14 de agosto de 1936 em Owensboro, Kentucky, uma sexta-feira escaldante em meio a uma onda de calor lendária. Alguns dormiram perto da forca para garantir seus lugares.…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/10/por-que-eua-querem-retomar-execucoes-publicas-apos-quase-um-seculo.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-10T16:16:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rHabpao4Tjw4Pr89QjyuURYrzig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/S/0A6yVAQlqe3JzsUt7eAA/design-sem-nome-2026-10-10t132209.424.jpg"
         },
         {
           "clusterId": "318d6cbe5b2f8e7a",
@@ -350,110 +416,166 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "43db459f9c2ab97e",
-          "slug": "0c57055d595ba84e",
-          "titulo": "Acidente na BR-393 em Barra do Piraí deixa cinco mortos e nove feridos",
-          "resumo": "Um acidente na BR-393, próximo a Barra do Piraí, resultou na morte de cinco pessoas e deixou nove feridos. A colisão envolveu veículos e as vítimas foram encaminhadas a hospitais. O trecho da rodovia foi interditado pela PRF e não há previsão de liberação.",
-          "porQueImporta": "O incidente destaca a gravidade de acidentes de trânsito na região e a necessidade de atenção às condições da rodovia.",
+          "clusterId": "ed1804ae5d3ee06f",
+          "slug": "acd71055f8f96079",
+          "titulo": "DJ Dani Brasil recebe prisão preventiva após atropelar e matar morador de rua em São Paulo",
+          "resumo": "Daniel Santana de Jesus, DJ Dani Brasil, foi preso em flagrante após atropelar e matar Carlos Alberto Minotti, de 57 anos, em Santo Amaro. O juiz converteu a prisão em preventiva durante audiência de custódia. O acusado enfrenta seis crimes, incluindo homicídio com dolo eventual, desobediência e embriaguez ao volante. Ele testou positivo no bafômetro e tentou fugir pulando em piscina.",
+          "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito envolvendo motoristas alcoolizados e a aplicação de prisão preventiva em crimes graves.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/acidente-entre-veiculos-deixa-mortos-e-feridos-na-br-393-no-rj/"
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/10/justica-converte-em-preventiva-prisao-do-dj-dani-brasil-preso-apos-atropelar-e-matar-morador-de-rua-em-sp.ghtml"
             },
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/acidente-br-393-mortos-feridos-rio-de-janeiro"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-decreta-prisao-preventiva-de-dj-que-atropelou-e-matou-homem-em-sp/"
             }
           ],
-          "updatedAt": "2026-10-10T13:43:47.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/10/acidente-na-br-393-deixa-cinco-mortos-e-nove-feridos-no-rio-de-janeiro.jpg"
+          "updatedAt": "2026-10-10T17:00:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/I6xebR6QZ7cyWF851y6TVyJgxO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/D/6x0vJqTVqwiS5fisWLWA/fotojet-2026-10-09t090334.201.jpg"
         },
         {
-          "clusterId": "c2eaa21b75e811bd",
-          "slug": "0ab01c6bc14366a9",
-          "titulo": "Estudante de medicina morre em acidente de moto em Dourados",
-          "resumo": "Fiorella Lilian Villegas Yaranga, 26 anos, estudante de medicina da UFGD, morreu na madrugada de sexta-feira (9) em Dourados, MS, após sua moto bater em outro veículo. A família decidiu cremar o corpo no Brasil e enviar as cinzas ao Peru, país de origem da jovem. O local da cerimônia não foi divulgado.",
-          "porQueImporta": "O caso destaca a necessidade de atenção à segurança no trânsito e a logística de repatriação de restos mortais.",
+          "clusterId": "52abd9b035b80bac",
+          "slug": "5c057f189a039ccd",
+          "titulo": "Motociclista morre e adolescente fica ferida em acidente em Itaquaquecetuba",
+          "resumo": "Um motociclista de 26 anos morreu e uma adolescente de 15 anos ficou ferida quando a moto em que estavam bateu em um carro preto na manhã de sábado, no Jardim Nascente, em Itaquaquecetuba. O motorista do automóvel deixou o local sem prestar socorro. O Corpo de Bombeiros socorreu a adolescente e a encaminhou ao hospital, onde ela permaneceu internada. O motociclista morreu no local.",
+          "porQueImporta": "O caso destaca a necessidade de cumprimento da lei de prestação de socorro em acidentes de trânsito.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/10/estudante-de-medicina-que-morreu-em-acidente-de-moto-em-ms-sera-cremada-e-as-cinzas-irao-para-o-peru.ghtml"
+              "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/10/motociclista-morre-em-acidente-em-itaquaquecetuba-motorista-foge-sem-prestar-socorro.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T14:23:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/aiEBy_8CxaDktgrHOf-dUE0sa8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/EBIW7zTsm89SmMVJvyXA/design-sem-nome-68-.png"
+          "updatedAt": "2026-10-10T19:58:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UZtrUzGq-T_kxVd7ozstgJjsWmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/f/xdCe5RSOaMYKcFe2W9hw/img-7805.jpg.jpeg"
         },
         {
-          "clusterId": "4acc86559211e5df",
-          "slug": "cc5976cb5cb894f7",
-          "titulo": "Ciclista evita ser atropelado por caminhonete que capota na BR-163",
-          "resumo": "Um ciclista na manhã de sábado, 10, conseguiu pular a bicicleta antes de ser atingido por uma caminhonete que perdeu o controle e capotou várias vezes na BR-163, em Marechal Cândido Rondon, Paraná. O veículo atingiu a bicicleta, mas o ciclista escapou sem ferimentos. A Polícia Rodoviária Federal relatou o acidente e o vídeo mostra a sequência de capotamentos.",
-          "porQueImporta": "O incidente destaca a importância da atenção e segurança nas rodovias, especialmente para ciclistas em vias de alto tráfego.",
+          "clusterId": "602c1ccb6aec244c",
+          "slug": "d74f9f5ffafdc4d0",
+          "titulo": "Acidente entre carro e VLT deixa dois feridos em passagem clandestina no Grande Recife",
+          "resumo": "Um trem da linha Veículo Leve sobre Trilhos (VLT) colidiu com um carro em Jaboatão dos Guararapes, no Grande Recife, na tarde de sábado. Duas pessoas, um homem e uma mulher, ficaram feridas e foram levadas a unidades de saúde. Os ocupantes do veículo foram socorridos por passageiros do VLT. A Companhia Brasileira de Trens Urbanos (CBTU) confirmou a colisão.",
+          "porQueImporta": "O acidente destaca riscos de colisões entre veículos terrestres e sistemas de transporte público em áreas de passagem clandestina.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/10/-ciclista-escapa-caminhonete-capota.ghtml"
+              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/10/acidente-carro-vlt-feridos-grande-recife.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T14:22:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SPhIid1CADtKmcHr7-irGPz-vo8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/O/CN494hTsALZNhSCu215w/g1-pr-2026-10-10t111910.800.jpg"
+          "updatedAt": "2026-10-10T19:51:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SP7HQU2e4SqNXTPsKQZ3Wy6L198=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/9dDj5QRl2XPEjmaevjQQ/whatsapp-image-2026-10-10-at-15.39.18.jpeg"
         },
         {
-          "clusterId": "80d7a4763b3235cf",
-          "slug": "f8aa2a9ca2e78c7b",
-          "titulo": "Passageiro de moto morre em acidente na BR-304, em Mossoró",
-          "resumo": "Um homem de 20 anos morreu após colisão traseira entre uma motocicleta e outro veículo na BR-304, em Mossoró, na noite de sexta-feira (9). O motorista do outro veículo fugiu do local sem prestar socorro, segundo a Polícia Rodoviária Federal. A vítima era passageira da motocicleta. O acidente ocorreu por volta das 21h20, no km 6,25 da rodovia.",
-          "porQueImporta": "O incidente destaca a importância da responsabilidade no trânsito e os riscos de colisões traseiras em rodovias.",
+          "clusterId": "7b744ab4600d66d7",
+          "slug": "fe43dd0f3b6272e6",
+          "titulo": "Motociclista morre ao invadir contramão e provocar acidente na MGC-452",
+          "resumo": "Uma motociclista morreu ao invadir a contramão na MGC-452, em Uberlândia, e colidir com um Chevrolet Onix. O impacto também envolveu mais dois carros e um reboque puxado pelo veículo atingido. O acidente ocorreu no km 155 da rodovia, na tarde de sábado.",
+          "porQueImporta": "O acidente resultou na morte de uma pessoa e evidenciou riscos de condução perigosa em rodovias.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/10/passageiro-de-moto-morre-em-acidente-na-br-304-em-mossoro-motorista-fugiu.ghtml"
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/10/motociclista-morre-ao-invadir-contramao-e-provocar-acidente-com-mais-tres-veiculos-na-mgc-452-em-uberlandia.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T13:54:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pK28KUJEKT6qc1iVz4VvZ_eaOXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/I/lx5Qc8QWCrYx9RHbBlJA/br-304-.jpg"
+          "updatedAt": "2026-10-10T19:31:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vvBMRVRy7gt1NvuFy3mLB-MemR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/D/uBLumBSQukAEA5WH6Vcg/design-sem-nome-9-.png"
         },
         {
-          "clusterId": "466316e19a3243d4",
-          "slug": "eb12a03529642b40",
-          "titulo": "Policial da Rotam morre em acidente entre viatura e carro na GO-521",
-          "resumo": "O sargento Elessandro Leite Alves, do Batalhão de Rondas Ostensivas Táticas Metropolitanas, faleceu em acidente envolvendo sua viatura e um veículo na GO-521, em Cidade Ocidental. Amigos e colegas descrevem-no como educado e guerreiro, vindo de família humilde. O incidente ocorreu durante o deslocamento da viatura.",
-          "porQueImporta": "O falecimento de um policial em serviço destaca os riscos enfrentados pelos agentes de segurança pública.",
+          "clusterId": "10caec309f97b23a",
+          "slug": "aea9b598d39d073b",
+          "titulo": "Moto bate em caminhonete no centro de Boa Vista",
+          "resumo": "Um motociclista de 29 anos ficou ferido quando sua moto colidiu com uma caminhonete no cruzamento da Avenida Ville Roy com a Rua Coronel Pinto, no centro de Boa Vista. O acidente ocorreu no sábado. O motorista da caminhonete, de 71 anos, relatou que estava atravessando a avenida quando foi atingido. O motociclista foi levado ao Hospital Geral de Roraima.",
+          "porQueImporta": "O acidente resultou em ferimento e destaca a necessidade de atenção no cruzamento mencionado.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/10/10/educado-e-guerreiro-veja-quem-era-o-sargento-da-rotam-que-morreu-em-acidente-com-viatura.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/10/acidente-entre-moto-e-caminhonete-deixa-homem-ferido-no-centro-de-boa-vista.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T13:50:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_p0GQz8s0oSVM-XD4M-lFJS1yrs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/b/Kj5pzLQgAa4pdjD4XvvQ/whatsapp-image-2026-10-08-at-19.58.48-1-.jpeg"
+          "updatedAt": "2026-10-10T19:22:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1JnUKlFim_ha6G5Wk7_WstguQBg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/F/lmAUFoS1yS2CPuttyqKg/hj.jpg"
         },
         {
-          "clusterId": "4d553dd59476eb9d",
-          "slug": "ac3a82ec009d5716",
-          "titulo": "Acidente entre caminhão e carro deixa feridos na Rodovia Presidente Dutra",
-          "resumo": "Um caminhão colidiu com um carro na Rodovia Presidente Dutra, entre Taubaté e Pindamonhangaba, no interior de São Paulo. O acidente ocorreu por volta das 9h, na altura do km 103, sentido São Paulo. Duas pessoas ficaram feridas, e um motorista ficou preso às ferragens do veículo.",
-          "porQueImporta": "O incidente destaca a importância da segurança viária em trechos movimentados da Dutra.",
+          "clusterId": "33daadc8f7cd713f",
+          "slug": "aab25917aee55959",
+          "titulo": "Acidente entre moto e carro provoca congestionamento na Rodovia dos Bandeirantes em Jundiaí",
+          "resumo": "Uma moto colidiu com a traseira de um veículo de passeio na Rodovia dos Bandeirantes (SP-348), em Jundiaí, e tombou, deixando o piloto e o garupa feridos. O motorista do carro mudou de faixa de forma repentina, impedindo o motociclista de desviar. O acidente causou congestionamento de até 5 km no sentido capital. Uma vítima sofreu ferimentos leves.",
+          "porQueImporta": "O acidente bloqueou parte da rodovia, afetando o tráfego e a mobilidade dos usuários.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/10/acidente-entre-caminhao-e-carro-deixa-feridos-na-rodovia-presidente-dutra.ghtml"
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/10/acidente-entre-moto-e-carro-provoca-congestionamento-na-rodovia-dos-bandeirantes-em-jundiai.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T12:45:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/txho3IqsL_AIA6-sv-oKn2vv5xE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/F/MiSOBpSRqUn8OeW9ALBQ/copia-de-foto-g1-2-.png"
+          "updatedAt": "2026-10-10T18:53:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/upBsKhH1XteHa4vpDEcdp7embdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/4/vMAJBuQ8aMNBvd1kbwDg/acidente-moto.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "3418fd0c34db46c5",
+          "slug": "5bc2ce53415d7f2f",
+          "titulo": "Ministério Público de Contas questiona aluguel de avião para combate a incêndios no Amazonas",
+          "resumo": "O Ministério Público de Contas do Amazonas deu prazo de dez dias para a Defesa Civil justificar o aluguel emergencial de um avião por R$ 2,1 milhões. A aeronave tem capacidade de lançar menos de 2 mil litros de água por voo, considerada insuficiente para grandes focos de queimadas. A denúncia foi apresentada por um professor da Universidade Federal do Amazonas.",
+          "porQueImporta": "O caso levanta dúvidas sobre a eficiência e a gestão de recursos públicos no combate a incêndios florestais.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/10/ministerio-publico-de-contas-questiona-aviao-de-r-21-milhoes-para-combater-incendios-no-am-defesa-civil-tem-10-dias-para-explicar.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-10T19:59:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/nhcmbyK3r-T1qjTTSuwENAIsXCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/f/QSZPJPQW2kqCGmG1iLkw/whatsapp-image-2026-10-07-at-20.25.33.jpeg"
+        },
+        {
+          "clusterId": "ee5aa88c2bb2246b",
+          "slug": "0bf8cbf0617a32ec",
+          "titulo": "Governo do Amazonas solicita ajuda federal para combater queimadas e recebe helicópteros",
+          "resumo": "O governo do Amazonas pediu apoio federal para combater queimadas florestais, mas a equipe de brigadistas foi retirada antes de chegar ao estado, segundo o Ministério do Meio Ambiente. Posteriormente, o governo federal enviou dois helicópteros do Ibama para Manaus, que pousaram no Aeroporto Internacional Eduardo Gomes.",
+          "porQueImporta": "A resposta federal ao aumento das queimadas no estado demonstra a coordenação entre os níveis de governo na gestão de desastres ambientais.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/10/refoco-governo-federal-queimadas-am.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-10T19:01:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/C0YptfmJ4WP5qe5W_dRc5t-LOuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/h/DDo3GuSEWPPPqq0eepNA/g1-helicopteros-governo-federal-queimdas-amazonas.jpg"
+        },
+        {
+          "clusterId": "dd3bcdcfa46b554a",
+          "slug": "9b6f9575ab269015",
+          "titulo": "Deputado Nikolas Ferreira critica Lula por queimadas e cobra artistas em vídeo",
+          "resumo": "O deputado Nikolas Ferreira acusou o presidente Lula de ter permitido recordes de queimadas na Amazônia e na Mata Atlântica, alegando omissão por parte do governo. Ele pediu que artistas façam vídeos denunciando a situação. A crítica destaca a responsabilidade do governo na gestão de incêndios florestais.",
+          "porQueImporta": "A fala do deputado pode influenciar a percepção pública sobre a gestão ambiental do governo.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-congresso/nikolas-ferreira-critica-lula-por-queimadas-e-cobra-artistas-em-video/"
+            }
+          ],
+          "updatedAt": "2026-10-10T18:59:45.000Z"
         }
       ]
     },
@@ -462,7 +584,23 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "d9c6042a08e8035a",
+          "clusterId": "b601cb2981f02498",
+          "slug": "1ece365c362ff0a4",
+          "titulo": "Furacão Isaias ameaça refinas dos EUA em contexto de tolerância zero",
+          "resumo": "O furacão Isaias, de categoria 3, pode afetar refinas americanas, colocando em risco o fornecimento global de combustível e petróleo. A situação ocorre em meio a pressão adicional da guerra no Oriente Médio. As autoridades adotam postura de tolerância zero para evitar falhas operacionais. A ameaça pode agravar a já tensa situação de abastecimento mundial.",
+          "porQueImporta": "O impacto nas refinas pode reduzir a oferta de combustíveis, afetando preços e logística internacional.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/economia/money/mercado/refinarias-dos-eua-sao-ameacadas-em-momento-de-tolerancia-zero-para-erros/"
+            }
+          ],
+          "updatedAt": "2026-10-10T19:12:22.000Z"
+        },
+        {
+          "clusterId": "ab832d57ecda23c5",
           "slug": "24bccf59d0914889",
           "titulo": "Furacão Isaias fortalece-se e ameaça costa da Flórida",
           "resumo": "O furacão Isaias atingiu a categoria 3, com ventos sustentados de até 175 km/h, segundo o Centro Nacional de Furacões dos Estados Unidos. A tempestade se desloca pelo Golfo do México em direção à Flórida, onde autoridades ordenaram evacuações em áreas de risco de inundação. Aeroportos foram fechados e mais de 150 voos cancelados na região. Comerciantes na costa tomaram medidas de precaução, como proteger janelas com tábuas.",
@@ -473,109 +611,37 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/10/09/furacao-isaias-se-fortalece-e-segue-rumo-aos-eua-com-ventos-de-175-kmh.ghtml"
-            },
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/mundo/furacao-isaias-atinge-costa-dos-eua-com-ventos-de-169-km-h-e-provoca-inundacoes/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/furacao-isaias-deixa-770-mil-sem-energia-no-sudeste-dos-eua/"
             }
           ],
-          "updatedAt": "2026-10-10T13:14:35.000Z",
+          "updatedAt": "2026-10-10T12:06:48.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/qTIZl8hP_Ee1f6tS7cU_bErbxCM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/0/XpWnnkQd2RUkxuSacsfw/2026-10-08t220051z-598254387-rc28zna4gszk-rtrmadp-3-storm-isaias.jpg"
-        },
-        {
-          "clusterId": "192a4a869ec2a55c",
-          "slug": "7640bf79bf58ab68",
-          "titulo": "Chuva forte derruba árvores e provoca estragos no interior do Tocantins",
-          "resumo": "Um temporal intenso atingiu Colinas do Tocantins, no norte do estado, derrubando cerca de 30 árvores na área urbana. Os ventos também causaram danos a muros e tendas. Não há registro de feridos. As equipes da Defesa Civil trabalharam na remoção das árvores na manhã seguinte.",
-          "porQueImporta": "O evento demonstra a vulnerabilidade de áreas urbanas a tempestades fortes, exigindo atenção às medidas de prevenção e resposta.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/10/chuva-forte-derruba-arvores-e-provoca-estragos-no-interior-do-tocantins-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-10T14:05:10.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/78yYgtcv4QpzPyfQISuVWZvxNV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/d/lNjynLSBSnOduK4qMNBQ/foto-e-montagem-vertical-2026-10-10t110302.038.png"
-        },
-        {
-          "clusterId": "27000cece23122ab",
-          "slug": "3d41457face01b63",
-          "titulo": "Chuvas fortes atingem Porto Alegre e provocam alerta de tempestades",
-          "resumo": "Moradores de Porto Alegre esperavam ônibus em uma parada quando a chuvarada atingiu a cidade, obrigando-os a subir em um banco e usar guarda-chuvas. A Climatempo prevê cerca de 20 mm de chuva no sábado. O Instituto Nacional de Meteorologia emitiu aviso de perigo para tempestades no fim de semana, com foco no Norte e Noroeste do estado. A Defesa Civil também alerta sobre possíveis riscos.",
-          "porQueImporta": "A ocorrência pode causar transtornos e riscos de acidentes em vias públicas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/10/chuva-porto-alegre-previsao-tempo-sabado-domingo-rs-feriado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-10T14:04:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6vVk2ovY65TFdj_ZKQWrxhWFpvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/f/ucGdMDQguQZtOOUqsrAw/chuva-poa-ja-1010-0006.mov-frame-59.jpg"
-        },
-        {
-          "clusterId": "33c8e6ea6df975a6",
-          "slug": "ef361b6256084697",
-          "titulo": "SP pode ter tempestades com granizo neste sábado, diz Defesa Civil",
-          "resumo": "A Defesa Civil alerta que uma nova frente fria pode gerar tempestades com granizo em São Paulo neste sábado. A instabilidade pode trazer chuvas fortes acompanhadas de queda de granizo em diversas regiões do estado. A previsão destaca a necessidade de atenção especial em áreas urbanas e rurais.",
-          "porQueImporta": "A informação ajuda a população a se preparar e evitar danos e acidentes.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/sao-paulo/sp-pode-tempestades-granizo-sabado"
-            }
-          ],
-          "updatedAt": "2026-10-10T12:47:10.000Z",
-          "imageUrl": "https://images.metroimg.com/2025/09/26102658/Apos-temporais-veja-previsao-do-tempo-no-final-de-semana-em-Sao-Paulo.jpg"
         }
       ]
     },
     {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
+      "slug": "explosao",
+      "label": "Explosão",
       "stories": [
         {
-          "clusterId": "019a87e0052e11a6",
-          "slug": "6d8294ed1f4ab6c7",
-          "titulo": "Avião da Polícia Militar cai perto do Aeroporto do Vale do Aço",
-          "resumo": "Um avião da Polícia Militar caiu nas proximidades do Aeroporto Regional do Vale do Aço, em Santana do Paraíso, na sexta-feira. Os três ocupantes, todos pilotos, morreram na queda. O presidente Luiz Inácio Lula da Silva expressou solidariedade aos familiares e às autoridades. A aeronave realizava missões de transporte de órgãos para transplante.",
-          "porQueImporta": "O acidente resultou na morte de três policiais militares, afetando a segurança pública e as operações de transporte de órgãos.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
+          "clusterId": "b5cb5592fcd88b13",
+          "slug": "3b611d632f6572ad",
+          "titulo": "Explosão atinge aeroporto de Riade e deixa feridos",
+          "resumo": "Uma explosão ocorreu no aeroporto internacional Rei Khalid, em Riade, na Arábia Saudita, resultando em feridos. O governo saudita classificou o incidente como bombardeio e suspendeu os voos. Testemunhas e autoridades locais confirmaram o ataque na tarde do sábado. Os números de feridos ainda estão sendo contabilizados.",
+          "porQueImporta": "O ataque interrompe o tráfego aéreo e aumenta a tensão em instalações de aviação civil no país.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/10/lula-se-manifesta-apos-queda-de-aviao-da-pm-em-mg-deixo-a-minha-solidariedade.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-10T14:06:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zCsCLGstOPWvzGfEUqYTlrz-Ab0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/I/VyFeb1Tu2Qy6ag4dDO4w/chuva-distrito-paulo-camilo-1-11-.png"
-        },
-        {
-          "clusterId": "9b142d9afaf12838",
-          "slug": "da4a7b47233aa3fa",
-          "titulo": "Avião da Saudi Arabian Airlines atingido em ataque no aeroporto de Riade",
-          "resumo": "Um avião comercial da companhia estatal Saudi Arabian Airlines foi atingido por um ataque no aeroporto de Riade, capital da Arábia Saudita, nesta quinta-feira (8). O avião estava estacionado em um terminal quando foi atingido, causando coloração de fumaça e danos ao fuselagem. Imagens mostram a pista com fumaça e o avião parcialmente carbonizado. As autoridades sauditas confirmam o incidente e investigam o responsável.",
-          "porQueImporta": "O ataque demonstra a vulnerabilidade de infraestrutura civil em zonas de conflito, afetando a segurança aérea internacional.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/10/explosao-no-aeroporto-de-riade.ghtml"
+            },
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/08/video-mostra-aviao-atingido-em-ataque-a-aeroporto-da-arabia-saudita.ghtml"
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-internacional/explosao-atinge-aeroporto-de-riade-e-deixa-feridos/"
             }
           ],
-          "updatedAt": "2026-10-08T18:08:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dWOn3uyvoOYLHdG6Ss01Wx85Em0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/z/WuSRHIQVWTtmuyMaMxBQ/2026-10-08t170517z-1387630975-rc24zna4231i-rtrmadp-3-iran-crisis-saudi-airport.jpg"
+          "updatedAt": "2026-10-10T20:13:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wVYKKm2tJ2RIILLD6GICOZ7TT3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/V/Jz2DhvRASP2oBA8yyp6g/ap26280417209184.jpg"
         }
       ]
     },
@@ -607,47 +673,48 @@
       ]
     },
     {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
+      "slug": "naufragio",
+      "label": "Naufrágio",
       "stories": [
         {
-          "clusterId": "a526583c981a1790",
-          "slug": "3c3838dbeec24346",
-          "titulo": "Ministério do Meio Ambiente reforça combate a incêndios no Amazonas",
-          "resumo": "O Ministério do Meio Ambiente enviou seis aeronaves, incluindo quatro Air Tractor e dois helicópteros, e 290 brigadistas ao Amazonas para intensificar o combate aos incêndios florestais. O reforço ocorre após divergência entre o governo federal e o Corpo de Bombeiros Militar do Amazonas sobre a oferta de apoio. O objetivo é aumentar a capacidade de lançamento de água e apoio terrestre nas áreas afetadas.",
-          "porQueImporta": "A ação visa conter a expansão dos incêndios que ameaçam ecossistemas e comunidades no estado.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
+          "clusterId": "30e0bfd3966dd00b",
+          "slug": "c6bffeee01de560b",
+          "titulo": "Busca por barqueiro desaparecido no Rio Juruá encerra após cinco dias",
+          "resumo": "O barqueiro Moisés Rodrigues da Silva, de 82 anos, desapareceu no Rio Juruá, em Cruzeiro do Sul, Acre. As buscas, realizadas por cinco dias, foram encerradas na tarde de sexta-feira. Em homenagem, familiares soltaram balões na região da Praia Grande.",
+          "porQueImporta": "O caso destaca a dificuldade de localizar pessoas em áreas de rios no Acre e a importância de apoio familiar em situações de desaparecimento.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/10/ministerio-do-meio-ambiente-anuncia-reforco-de-6-aeronaves-e-290-brigadistas-para-combater-incendios-no-amazonas.ghtml"
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/10/10/video-familiares-soltam-baloes-em-homenagem-a-barqueiro-de-82-anos-que-desapareceu-em-rio-no-acre.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T14:29:28.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/z0g4Fqx4ccMBEGG4DyygA_9k_yE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/H/mZH3LKR3ipX9SeJGy4Zg/whatsapp-image-2026-10-08-at-11.13.56-1-.jpeg"
+          "updatedAt": "2026-10-10T19:59:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YAp7IC2bSVFob1OnktRjGmCXSsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/q/Qr2RDyTEuxxM0vuwqwCg/befunky-collage-2026-10-10t150154.378.jpg"
         }
       ]
     },
     {
-      "slug": "enchente",
-      "label": "Enchente",
+      "slug": "incendio",
+      "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "ab04fcc4f2d8b914",
-          "slug": "509cf36b9e9c5040",
-          "titulo": "Adolescente de 15 anos morre após buggy ser arrastado por enchente em Santa Branca",
-          "resumo": "Um adolescente de 15 anos morreu quando o buggy em que estava foi arrastado pela correnteza durante uma enchente em Santa Branca, interior de São Paulo. Dois buggies tentaram atravessar uma ponte e foram levados pela água. O veículo com o adolescente foi localizado quando a chuva diminuiu, mas o jovem estava preso pelo cinto de segurança.",
-          "porQueImporta": "O incidente destaca os perigos de tentar atravessar áreas alagadas durante enchentes.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "1b0c45d2d09d6c26",
+          "slug": "013f9623803b523c",
+          "titulo": "Incêndio destrói apartamento na Zona Sul de São José dos Campos",
+          "resumo": "Um incêndio atingiu um apartamento no bairro Jardim Oriente, em São José dos Campos, por volta das 14h de sábado. O Corpo de Bombeiros registrou que a proprietária foi resgatada em crise de ansiedade, mas não sofreu ferimentos. Não houve registro de vítimas. O fogo deixou o imóvel completamente destruído.",
+          "porQueImporta": "O incidente destaca a necessidade de vigilância e prevenção de incêndios em residências urbanas.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/10/adolescente-de-15-anos-morre-apos-buggy-ser-arrastado-por-enchente-em-santa-branca-no-interior-de-sp.ghtml"
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/10/apartamento-fica-destruido-apos-incendio-na-zona-sul-de-sao-jose-dos-campos.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T14:19:31.000Z"
+          "updatedAt": "2026-10-10T19:43:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/pDbXpJJDlerfLXW1bOG73giGcCI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/a/Iap49xTueTj0WlWtQ9hA/ft-g1-1-.png"
         }
       ]
     },
@@ -656,21 +723,21 @@
       "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "d087e54ef3779e75",
-          "slug": "9dc912408c498f35",
-          "titulo": "Chuva provoca quedas de árvores e deslizamento de terra em Itatiaia",
-          "resumo": "No início da noite de sexta-feira, chuva intensa atingiu Itatiaia, resultando em quedas de árvores e um deslizamento de terra. A Defesa Civil registrou 21,5 mm de chuva no centro, acima dos 17 mm previstos, e 28,9 mm em Penedo. Árvores caíram na Rua 9, Jardim Itatiaia, e na Avenida Penedo. Equipes da Defesa Civil atenderam e removeram as ocorrências.",
-          "porQueImporta": "O evento pode causar danos à infraestrutura e risco à população local.",
+          "clusterId": "8cbcaebd5ad05efb",
+          "slug": "b422e3261ce715b9",
+          "titulo": "Desabamento de talude bloqueia acesso à rodovia SP-294 em Marília",
+          "resumo": "Um talude desabou na manhã de sábado, bloqueando a alça de acesso à Rua Aimorés na rodovia SP-294, em Marília. A concessionária EIXO SP/Artesp interdisso a faixa após identificar trincas e fendas no pavimento próximo à sarjeta. A equipe de engenharia está avaliando as condições do trecho.",
+          "porQueImporta": "O bloqueio impede o tráfego na rodovia, afetando a mobilidade da região.",
           "categoria": "Deslizamento",
           "categoriaSlug": "deslizamento",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/10/chuva-provoca-quedas-de-arvores-e-deslizamento-de-terra-em-itatiaia.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/10/desabamento-de-talude-interdita-alca-de-acesso-da-rodovia-sp-294-em-marilia.ghtml"
             }
           ],
-          "updatedAt": "2026-10-10T14:18:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zeAH39XZz-stVPZw5tiMXazCROI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/5/S4Uf12RNqj6370vFwCOg/whatsapp-image-2026-10-10-at-11.03.39.jpeg"
+          "updatedAt": "2026-10-10T19:16:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/QgAHaEM2GEzrRmRrWkKqlBfenMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/1/8sYbPFR3Gt5BC2CQldtw/novo-projeto-2026-10-10t160717.822.png"
         }
       ]
     }
