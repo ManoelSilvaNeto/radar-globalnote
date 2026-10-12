@@ -1,7 +1,49 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T20:30:25.992Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T06:23:47.693Z",
   "home": [
+    {
+      "clusterId": "2716b5a527028db5",
+      "slug": "d35236343ba5888d",
+      "titulo": "Terremoto de magnitude 7,7 atinge Panamá e gera mais de 200 réplicas",
+      "resumo": "Um terremoto de magnitude 7,7 abalou o Panamá, deixando ao menos 27 feridos e danificando cerca de 900 casas. O abalo principal provocou desabamentos e estradas danificadas, com os maiores impactos no centro do país. Após o evento, mais de 200 tremores secundários foram registrados, incluindo um de magnitude superior a 6,0 que causou novos danos em áreas já afetadas.",
+      "porQueImporta": "O evento demonstra a vulnerabilidade estrutural e a necessidade de preparação para grandes abalos sísmicos na região.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/10/terremoto-no-panama-tem-mais-de-80-replicas-entenda-por-que-a-terra-continua-tremendo-e-se-e-possivel-prever-novos-abalos.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/panama-tem-mais-de-200-tremores-secundarios-apos-terremoto-de-magnitude-77/"
+        }
+      ],
+      "updatedAt": "2026-10-11T23:54:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UezYXwo92rgvPgKSnCecjFeF1_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/u/6Z4wsjR4Sp8CyKXlvNfQ/globo-canal-4-20261009-2000-frame-129954.jpeg"
+    },
+    {
+      "clusterId": "60bb302e4a090118",
+      "slug": "393e4c8e3de062bd",
+      "titulo": "Capital paulista entra em estado de atenção para alagamentos neste domingo",
+      "resumo": "A Defesa Civil estadual emitiu 29 avisos de chuva intensa, ventania e possibilidade de granizo na véspera de feriado. Toda a cidade de São Paulo foi colocada em estado de atenção para alagamentos às 18h58 do domingo, abrangendo todas as zonas e as marginais Tietê e Pinheiros. O Centro de Gerenciamento de Emergências Climáticas (CGE) alertou para áreas de instabilidade formadas pelo calor.",
+      "porQueImporta": "O alerta visa prevenir danos e garantir a segurança dos moradores diante de possíveis alagamentos.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/11/cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos-neste-domingo.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/capital-paulista-entra-em-estado-de-atencao-para-alagamentos-neste-domingo/"
+        }
+      ],
+      "updatedAt": "2026-10-11T22:52:13.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/MB8bRmuNp3t5GTs5k-VENzS45bU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/x/K274K9R7KxHJgmj7rZgw/fta20250922024.jpg"
+    },
     {
       "clusterId": "928c1cab9244174c",
       "slug": "b8444b22f9410afe",
@@ -24,155 +66,120 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9ca/live/e4acb640-b0fb-11f1-a451-6b1ff10ed362.jpg"
     },
     {
-      "clusterId": "7da448c0fc31d1fe",
-      "slug": "c0611a950f20fc51",
-      "titulo": "FAB envia reforço aéreo para combater queimadas no Amazonas",
-      "resumo": "A Força Aérea Brasileira enviou aeronaves de combate a incêndios para o estado do Amazonas, onde os incêndios florestais têm deteriorado a qualidade do ar na capital e em cinco municípios. O reforço aéreo visa auxiliar as equipes de combate e reduzir a propagação das queimadas. A operação ocorre em meio a preocupações com a poluição do ar e a preservação ambiental.",
-      "porQueImporta": "O apoio aéreo pode acelerar a contenção dos incêndios e proteger a saúde pública e o meio ambiente.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/fab-envia-reforco-aereo-para-combater-queimadas-no-amazonas"
-        }
-      ],
-      "updatedAt": "2026-10-11T20:23:28.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/aeronave-fab-incendio.jpg"
-    },
-    {
-      "clusterId": "3476981034f9a6ea",
-      "slug": "8c21ec7ada1f6787",
-      "titulo": "Temporal provoca granizo e queda de árvores em Ribeirão Preto",
-      "resumo": "Um temporal atingiu cinco cidades da região de Ribeirão Preto, incluindo Sertãozinho, onde moradores registraram chuva de granizo. Em Cravinhos, ventos fortes causaram queda de árvores. A ocorrência foi relatada na tarde de domingo.",
-      "porQueImporta": "O evento pode causar danos materiais e riscos à segurança pública.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/11/temporal-atinge-regiao-de-ribeirao-preto-sp-e-provoca-chuva-de-granizo-e-queda-de-arvores.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-11T20:18:09.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/nb15cX86oCJGDX0gEtpOsWkz2iU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/E/a4F2pASIKOjoNIAUMetg/design-sem-nome-2-.png"
-    },
-    {
-      "clusterId": "6e2865cb70a80d8a",
-      "slug": "ed53368f8408d0e5",
-      "titulo": "Carro pega fogo em frente a shopping no Centro de Teresópolis",
-      "resumo": "Um carro incendiou na tarde de domingo em frente a um shopping no Centro de Teresópolis, gerando fumaça densa na Avenida Delfim Moreira. O 16º Grupamento de Bombeiros Militar chegou rapidamente e controlou as chamas. Não há relatos de feridos e as causas do incêndio permanecem desconhecidas.",
-      "porQueImporta": "O incidente pode representar risco à segurança pública e à infraestrutura local.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/11/carro-pega-fogo-em-frente-a-shopping-no-centro-de-teresopolis.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-11T20:16:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lcqf3-MBDrBiXt0F8kQk2propt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/N/MCTEabSBmAYLIKKMxAuQ/6035.jpg"
-    },
-    {
-      "clusterId": "cd8b721406219747",
-      "slug": "cb43b7078b7df2c4",
-      "titulo": "Família de cinco mortos em acidente na BR-393 é sepultada em Juiz de Fora",
-      "resumo": "Cinco integrantes de uma mesma família morreram em acidente de carro na BR-393, em Barra do Piraí (RJ). Os corpos foram levados ao cemitério Parque da Saudade, em Juiz de Fora, onde familiares e amigos se despediram. O casal Anderson Nocelli Clemente e Jussara Oliveira Tertuliano Clemente, a filha Sarah Nocelli, a irmã Marcela Tertuliano e o filho Bernardo Tertuliano Visona foram enterrados.",
-      "porQueImporta": "O falecimento de cinco pessoas em um único acidente destaca a gravidade de acidentes de trânsito na região.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/11/familia-que-morreu-em-acidente-na-br-393-e-sepultada-em-juiz-de-fora.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-11T20:04:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/B-zDcQ08P0c-UdvxoG90pOy7bIA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/H/o9czgaT3uM4xgZOCfB4Q/whatsapp-image-2026-10-10-at-12.09.22.jpeg"
-    },
-    {
-      "clusterId": "4e2989626e3bef30",
-      "slug": "1dc2edb3a667199f",
-      "titulo": "Vereador de Mato Grosso morre em acidente de carro na MT-109",
-      "resumo": "O vereador Andreilson da Silva de Souza, de 40 anos, morreu quando o carro em que estava capotou na rodovia MT-109. Duas mulheres que acompanhavam o veículo também perderam a vida. Bombeiros foram acionados após receberem informações de que o carro branco havia capotado e que uma das vítimas estava presa às ferragens. A Câmara Municipal de Mato Grosso decretou luto oficial.",
-      "porQueImporta": "O falecimento de um político local em acidente de trânsito destaca a importância da segurança viária e das medidas de prevenção.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/11/vereador-de-mt-morre-em-acidente-de-carro-na-mt-109-e-camara-municipal-decreta-luto-oficial.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-11T20:02:50.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/e_b_zauLaab4HolpoXdU74W9OZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/O/PVsWi4T8yPAGLCDrxKCQ/videos-g1-23-1-.jpg"
-    },
-    {
-      "clusterId": "f2a19eb2c4065254",
-      "slug": "d5c8d88631ccc6f2",
-      "titulo": "BP prepara retomada da produção de petróleo no Golfo do México",
-      "resumo": "A BP planeja retomar a produção de petróleo no Golfo do México após a interrupção causada pelo furacão Isaías. A tempestade forçou a suspensão das operações diárias de petróleo e gás natural na região. A empresa está avaliando as condições de segurança antes de reiniciar a produção. A retomada dependerá da evolução do clima e da avaliação de riscos.",
-      "porQueImporta": "A retomada das atividades pode impactar a oferta de energia e a economia da região.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bp-prepara-retomada-da-producao-de-petroleo-no-golfo-do-mexico/"
-        }
-      ],
-      "updatedAt": "2026-10-11T19:52:44.000Z"
-    },
-    {
-      "clusterId": "a073721e01e8c36c",
-      "slug": "51f8a61e7d425806",
-      "titulo": "Exército do Nepal resgata 49 pessoas após transbordamento de rio",
-      "resumo": "O rio Budhi Gandaki transbordou no distrito de Gorkha, após um deslizamento de terra, inundando áreas próximas. O Exército do Nepal realizou operações de resgate que salvaram 49 pessoas. Cinco pessoas ficaram desaparecidas no local. O incidente evidenciou a vulnerabilidade das comunidades nas regiões montanhosas do Nepal.",
-      "porQueImporta": "O evento destaca a necessidade de monitoramento e preparação para desastres naturais em áreas de risco.",
+      "clusterId": "4290156d1d8f3d09",
+      "slug": "b11fe98a5c17475c",
+      "titulo": "Brasil sob extremos: chuvas de até 300 mm e inundações ameaçam o Centro-Sul",
+      "resumo": "Instabilidades meteorológicas se estendem por pelo menos cinco estados do Centro-Sul do Brasil, com chuvas previstas de até 300 mm nos próximos dez dias. As autoridades alertam para risco de inundações em áreas urbanas e rurais. A região pode enfrentar alagamentos que comprometam infraestrutura e mobilidade.",
+      "porQueImporta": "O aumento das chuvas pode causar danos significativos à população e ao meio ambiente.",
       "categoria": "Enchente",
       "categoriaSlug": "enchente",
       "sources": [
         {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/brasil-sob-extremos-chuvas-de-ate-300-mm-e-inundacoes-ameacam-o-centro-sul"
+        }
+      ],
+      "updatedAt": "2026-10-12T05:30:27.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/chuva4sp.jpg"
+    },
+    {
+      "clusterId": "196338331cecbcf6",
+      "slug": "8819c6fe337bd0ec",
+      "titulo": "Drone mostra devastação causada pela tempestade Isaias na costa americana",
+      "resumo": "Imagens de drone revelam a extensão da destruição na costa dos Estados Unidos após a chegada da tempestade Isaias. A tempestade atingiu a região no sábado, 10, e resultou em pelo menos quatro mortes. Os relatos indicam danos significativos a propriedades e infraestrutura local. A situação permanece em avaliação pelas autoridades.",
+      "porQueImporta": "O evento demonstra o impacto imediato de tempestades de grande porte na infraestrutura e na vida das comunidades costeiras.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/exercito-do-nepal-resgata-49-pessoas-apos-transbordamento-de-rio/"
+          "url": "https://www.cnnbrasil.com.br/internacional/imagens-de-drone-mostram-devastacao-causada-pela-tempestade-isaias-nos-eua/"
         }
       ],
-      "updatedAt": "2026-10-11T19:44:40.000Z"
+      "updatedAt": "2026-10-12T05:22:11.000Z"
     },
     {
-      "clusterId": "8b92e3667097750f",
-      "slug": "78ee2ca6c13ce323",
-      "titulo": "Mãe e filho morrem após caminhonete capotar na BR-153",
-      "resumo": "Uma caminhonete capotou na BR-153, em Itumbiara, Goiás, matando a motorista de 70 anos e seu filho de 45 anos. O veículo estava a caminho de Morrinhos quando o motorista perdeu o controle e saiu da pista. As vítimas morreram no local do acidente. A perícia da PRF e da Polícia Científica ainda deve esclarecer as circunstâncias.",
-      "porQueImporta": "O acidente destaca a importância da segurança viária e dos riscos de capotamento em rodovias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "87c787c2dd505a04",
+      "slug": "270243a8e44faa30",
+      "titulo": "Previsão do tempo para Santo André e Guarulhos",
+      "resumo": "Na segunda-feira, 12, ambos os municípios registram sol com muitas nuvens e pancadas de chuva à tarde e à noite, com temperaturas máximas de 25ºC em Santo André e 27ºC em Guarulhos. As manhãs permanecem ensolaradas, enquanto a tarde traz trovoadas. À noite, as chuvas continuam, com possibilidade de temporais.",
+      "porQueImporta": "A previsão ajuda a população a planejar atividades externas e a se proteger de possíveis chuvas e trovoadas.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/go/goias/transito/noticia/2026/10/11/mae-e-filho-morrem-apos-caminhonete-capotar-na-br-153.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/12/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml"
         }
       ],
-      "updatedAt": "2026-10-11T19:41:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Hue66IlxGhuT26wiCzJPssJig0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/d/f5C8kjQeqN9KrBKNhtkQ/g1-2026-10-11t163754.529.jpg"
+      "updatedAt": "2026-10-12T04:06:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/8opfGuUuuV6jpmqOgIMVgE_H4xM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/q/deNHC8SNW3eBz8d5s3qg/previsao-tempo-guarulhos-20261012-010536.jpeg"
     },
     {
-      "clusterId": "6a3cc0902a298167",
-      "slug": "f660be13bc07697d",
-      "titulo": "Acidente de trânsito resulta em morte de jovem e de motorista em diferentes estados",
-      "resumo": "Em São Gabriel da Palha, no Norte do Espírito Santo, uma jovem de 24 anos morreu após moto e carro colidirem em curva na zona rural. Em Remígio, na Paraíba, um homem de 65 anos, identificado como José Nascimento da Silva, faleceu ao perder o controle do veículo e bater em estrutura de concreto. Em ambos os casos, câmeras de segurança registraram o momento dos acidentes.",
-      "porQueImporta": "Os incidentes destacam a importância da segurança viária em áreas rurais e urbanas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "7438917aadc74d81",
+      "slug": "6eb3998474f2c868",
+      "titulo": "PM morto em tiroteio entre policiais na Gardênia Azul era irmão de sargento morto na megaoperação da Penha",
+      "resumo": "Gláucio (E), morto na Gardênia Azul, era irmão de Heber, que morreu na megaoperação da Penha há cerca de 1 ano Reprodução O subtenente da Polícia Militar Glaucio Marcelo Fonseca da Silva, de 54 anos, morto em um tiroteio entre policiais na manhã deste domingo (11), na Gardênia Azul, na Zona Sudoeste do Rio, era irmão do sargento Heber Carvalho, do Batalhão de Operações Especiais (Bope), morto durante a megaoperação no Complexo da Penha há quase um ano. A ação foi considerada a mais letal da história do Rio de Janeiro, com mais de 120 mortos. Glaucio também integrava o Bope. Ele chegou a ser…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/11/motorista-morre-apos-perder-controle-de-carro-e-bater-contra-estrutura-de-concreto-em-remigio-na-pb-video.ghtml"
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/12/pm-morto-em-tiroteio-entre-policiais-na-gardenia-azul-era-irmao-de-sargento-morto-na-megaoperacao-da-penha.ghtml"
         }
       ],
-      "updatedAt": "2026-10-11T19:29:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kW7u40yv1Wr4rPk8shBfCAWmiV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/o/TnkT3XSAiYjSxAZZqEZA/frame-013.jpg"
+      "updatedAt": "2026-10-12T03:00:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KCrV6BJPn1NWuhtT1feRz2ZE9tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/JYo2ACSmKmgX9KdyTulQ/imagem-cortada-37-.jpg"
+    },
+    {
+      "clusterId": "2dd52952f57044d8",
+      "slug": "b55ec33e180c1c6c",
+      "titulo": "Furacão Simon enfraquece e causa inundações no México",
+      "resumo": "O furacão Simon perdeu força e passou para a categoria 3, mas continua forte ao se aproximar da costa centro‑oeste do México. Na cidade portuária de Manzanillo, o estado de Colima, a Marinha ajudou a retirar água de residências inundadas. O fenômeno ameaça ventos destrutivos, marés de tempestade e inundações fatais, levando autoridades a pedir que a população fique em casa.",
+      "porQueImporta": "O furacão representa risco à vida e à infraestrutura das comunidades costeiras mexicanas.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/mexico-pede-que-populacao-fique-em-casa-devido-ao-furacao-simon/"
+        }
+      ],
+      "updatedAt": "2026-10-12T02:31:01.000Z"
+    },
+    {
+      "clusterId": "c4bb0875842d5ef1",
+      "slug": "c31d883328d4090b",
+      "titulo": "Minas Gerais registra nove acidentes aéreos neste ano, dois fatais",
+      "resumo": "Minas Gerais contabilizou nove acidentes aéreos no ano, com dois classificados como fatais e quatro mortes. Nos últimos dez anos, o estado registrou 140 acidentes aéreos. Na última semana, duas aeronaves caíram. Os dados foram divulgados pela Cenipa.",
+      "porQueImporta": "Os acidentes aéreos aumentam o risco à segurança pública e exigem revisão das normas de aviação.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/minas-gerais-registrou-140-acidentes-aereos-nos-ultimos-10-anos-diz-cenipa/"
+        }
+      ],
+      "updatedAt": "2026-10-12T00:45:38.000Z"
+    },
+    {
+      "clusterId": "5feae5f5df2c8442",
+      "slug": "7cb9dc0d99ad019f",
+      "titulo": "Piloto de avião cai em Minas Gerais e é sepultado na Bahia",
+      "resumo": "O piloto Daniel da Silva de Souza Salomão, de 31 anos, morreu em queda de avião no pátio de manutenção do metrô de Belo Horizonte, próximo à Estação São Gabriel, na sexta-feira (9). Ele era o único ocupante do monomotor, que pertencia a uma empresa de agronegócio baiana. O corpo foi transferido de Belo Horizonte para Salvador na noite de sábado e sepultado em Salvador no domingo (11).",
+      "porQueImporta": "O acidente destaca a necessidade de segurança em operações de aeronaves de pequeno porte.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/piloto-vitima-de-queda-de-aviao-em-mg-e-sepultado-na-ba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-12T00:10:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/fmdQ5ZGAhLxQGYhVI0fE5F939nU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/V/VtDBs1SRWHq8krnZo0uQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-11t195116.591.jpg"
     }
   ],
   "categorias": [
@@ -202,156 +209,89 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9ca/live/e4acb640-b0fb-11f1-a451-6b1ff10ed362.jpg"
         },
         {
-          "clusterId": "d3c045d743c11919",
-          "slug": "aa91daaa250df138",
-          "titulo": "Acidente envolvendo dois carros deixa um morto e quatro feridos em Pitangueiras, SP",
-          "resumo": "Acidente envolvendo dois carros deixa um morto e quatro feridos em Pitangueiras, SP Portal CCM – ARTESP Uma pessoa morreu e quatro ficaram feridas em um acidente envolvendo dois veículos na noite de sábado (10), em Pitangueiras (SP). A batida aconteceu por volta das 19h, na altura do km 369 da Rodovia Armando de Salles Oliveira (SP-322). A suspeita é de que o motorista do Fiat Uno, Anderson Francisco dos Santos, de 43 anos, perdeu o controle da direção do veículo e foi atingido por um Chevrolet Onix, que vinha na sequência e o motorista não teve tempo hábil de frear. ✅Clique aqui para seguir…",
+          "clusterId": "87c787c2dd505a04",
+          "slug": "270243a8e44faa30",
+          "titulo": "Previsão do tempo para Santo André e Guarulhos",
+          "resumo": "Na segunda-feira, 12, ambos os municípios registram sol com muitas nuvens e pancadas de chuva à tarde e à noite, com temperaturas máximas de 25ºC em Santo André e 27ºC em Guarulhos. As manhãs permanecem ensolaradas, enquanto a tarde traz trovoadas. À noite, as chuvas continuam, com possibilidade de temporais.",
+          "porQueImporta": "A previsão ajuda a população a planejar atividades externas e a se proteger de possíveis chuvas e trovoadas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/10/12/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T04:06:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8opfGuUuuV6jpmqOgIMVgE_H4xM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/q/deNHC8SNW3eBz8d5s3qg/previsao-tempo-guarulhos-20261012-010536.jpeg"
+        },
+        {
+          "clusterId": "7438917aadc74d81",
+          "slug": "6eb3998474f2c868",
+          "titulo": "PM morto em tiroteio entre policiais na Gardênia Azul era irmão de sargento morto na megaoperação da Penha",
+          "resumo": "Gláucio (E), morto na Gardênia Azul, era irmão de Heber, que morreu na megaoperação da Penha há cerca de 1 ano Reprodução O subtenente da Polícia Militar Glaucio Marcelo Fonseca da Silva, de 54 anos, morto em um tiroteio entre policiais na manhã deste domingo (11), na Gardênia Azul, na Zona Sudoeste do Rio, era irmão do sargento Heber Carvalho, do Batalhão de Operações Especiais (Bope), morto durante a megaoperação no Complexo da Penha há quase um ano. A ação foi considerada a mais letal da história do Rio de Janeiro, com mais de 120 mortos. Glaucio também integrava o Bope. Ele chegou a ser…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/11/acidente-envolvendo-dois-carros-deixa-um-morto-e-quatro-feridos-em-pitangueiras-sp.ghtml"
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/12/pm-morto-em-tiroteio-entre-policiais-na-gardenia-azul-era-irmao-de-sargento-morto-na-megaoperacao-da-penha.ghtml"
             }
           ],
-          "updatedAt": "2026-10-11T19:26:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hHCB7w6uSjSqrrLbeQ83bR0A4Ss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/0B9dISTrmbUcOZuqCpBQ/5acb98ed-26bb-4ec3-9d44-e0893e368334.jpg"
+          "updatedAt": "2026-10-12T03:00:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KCrV6BJPn1NWuhtT1feRz2ZE9tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/JYo2ACSmKmgX9KdyTulQ/imagem-cortada-37-.jpg"
         },
         {
-          "clusterId": "5c3b0b111fea226b",
-          "slug": "c32373ae38108801",
-          "titulo": "CPFL Atende abre 290 vagas de emprego em duas cidades de SP",
-          "resumo": "A CPFL Atende anunciou a abertura de 290 vagas de emprego, com 160 posições em Araraquara nas áreas de telemarketing e atendimento e 130 vagas em Ourinhos. As contratações fazem parte de um mutirão que visa ampliar as equipes da empresa e criar oportunidades de trabalho nas duas cidades. As admissões estão previstas entre outubro e dezembro deste ano.",
-          "porQueImporta": "A iniciativa gera novas oportunidades de emprego em regiões do interior de São Paulo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/11/cpfl-atende-abre-290-vagas-para-atendimento-em-duas-cidades-do-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T18:56:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PC93GYKBf2mvD-QW2TWwRbjgJtg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Y/ShTQsaReS6QoIbZUOlfQ/atende3.jpg"
-        },
-        {
-          "clusterId": "eb8bfe3a63027a08",
-          "slug": "178b18b68da4883a",
-          "titulo": "'Mais grave do que eu imaginava', diz ministro sobre queimadas no AM após sobrevoo em áreas afetadas",
-          "resumo": "'Mais grave do que imaginava', diz ministro sobre queimadas no AM após sobrevoo Após sobrevoar áreas atingidas por incêndios florestais no Amazonas, o ministro do Meio Ambiente e Mudança do Clima do Brasil João Paulo Capobianco, classificou o cenário observado na região como mais grave do que o previsto. A declaração foi feita durante entrevista coletiva na Base Aérea de Manaus (BAMN), neste domingo (11). ➡️A decolagem da aeronave da comitiva do governo federal, que estava prevista para ocorrer no início da manhã, sofreu um atraso temporário devido à densa camada de fumaça sobre Manaus, que…",
+          "clusterId": "dd9961d3513fbb1b",
+          "slug": "ed56735597bb832c",
+          "titulo": "Temporal provoca alagamentos em vias e imóveis na região de Campinas",
+          "resumo": "Temporal provoca alagamentos na região de Campinas O temporal que atingiu a região de Campinas neste domingo (11) provocou alagamentos em diferentes vias da metrópole e também causou transtornos em Paulínia. Às 16h, a velocidade do vento chegou a 29,6 km/h na estação meteorológica no Campo dos Amarais. No mesmo horário, a estação do Aeroporto de Viracopos registrou rajada de vento de até 38 km/h. Choveu 59,2 mm na cidade. A Defesa Civil informou que registrou, até às 18h26, três alagamentos de imóveis, uma queda de árvore e uma queda de galho: Alagamento imóvel no Bosque das Palmeiras - Av.…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/11/mais-grave-do-que-eu-imaginava-diz-ministro-sobre-queimadas-no-am-apos-sobrevoo-em-areas-afetadas.ghtml"
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/11/temporal-provoca-alagamentos-na-regiao-de-campinas.ghtml"
             }
           ],
-          "updatedAt": "2026-10-11T18:40:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Y9M_hZcSqjfeEy5E-XKzu7idN5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/N/rmzxsBQxCfB1mTAbR2yQ/whatsapp-image-2026-10-11-at-14.15.09.jpeg"
+          "updatedAt": "2026-10-11T21:45:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Ow5m_IlwJcP8au6PWMLWlW0gLYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/b/fqihLBRIqJHBEqVfGzMA/alaga-vias-.png"
         },
         {
-          "clusterId": "42bdefe05af793f3",
-          "slug": "81ee5aa0eb0e5249",
-          "titulo": "Elefante-marinho descansa na Praia de Itaipuaçu, em Maricá, neste domingo",
-          "resumo": "Elefante-marinho descansa em Itaipuaçu, no Rio de Janeiro Um elefante-marinho foi visto descansando na Praia de Itaipuaçu, em Maricá, neste domingo (11). Guardas municipais isolaram a área para evitar o contato do animal com banhistas. O animal foi visto descansando na areia em dois momentos. O primeiro foi por volta das 11h, na Praia do Recanto, próximo à Pedra do Elefante. Já o segundo aconteceu por volta das 12h50, próximo à base da Defesa Civil de Itaipuaçu. A presença do elefante-marinho chamou a atenção de moradores e turistas, que levantaram a hipótese de que seja o mesmo animal que…",
+          "clusterId": "bfdc69d8402b4ff9",
+          "slug": "d5d9610398ddda50",
+          "titulo": "Governo reconhece estado de emergência em 36 cidades do Amazonas por avanço de incêndios",
+          "resumo": "De acordo com o Ministério do Meio Ambiente, já foram apagados 229 focos de incêndio nas florestas do estado desde o início do período de estiagem, em julho",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/governo-reconhece-estado-de-emergencia-em-36-cidades-do-amazonas-por-avanco-de-incendios/"
+            }
+          ],
+          "updatedAt": "2026-10-11T21:30:45.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/ibama-vinicius_mendonca_ibama.jpg"
+        },
+        {
+          "clusterId": "979fb5ea05b0f039",
+          "slug": "e6ef1ce65fe4a11f",
+          "titulo": "Casal morre e bebê fica ferido após batida entre carros na MG-252, em Perdigão",
+          "resumo": "Bombeiros Um homem de 36 anos e uma mulher de 28 morreram após uma batida frontal entre dois carros na MG-252, em Perdigão. O bebê do casal também estava no veículo e ficou ferido, conforme informações da Polícia Militar Rodoviária (PMRv). O estado de saúde da criança não foi informado. O acidente aconteceu na manhã de sábado (10), na altura do km 38 da rodovia, que liga a cidade à BR-494. Segundo a PMRv, um motorista de 31 anos teria invadido a contramão em uma curva e atingido o carro do casal de frente. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp O Corpo de Bombeiros…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/11/elefante-marinho-descansa-na-praia-de-itaipuacu-em-marica-neste-domingo.ghtml"
+              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/11/casal-morre-e-bebe-fica-ferido-apos-batida-entre-carros-na-mg-252-em-perdigao.ghtml"
             }
           ],
-          "updatedAt": "2026-10-11T18:30:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PqgUnrMTSCyrkCt2dJE7ANeZN7A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/D/fF3oVrTDWEXAFirBqRGw/imagem-cortada-36-.jpg"
-        },
-        {
-          "clusterId": "a8062382a8340ef9",
-          "slug": "91031c1d7af72059",
-          "titulo": "VÍDEO: igreja pega fogo depois da missa e tem estrutura danificada no Sul de SC",
-          "resumo": "Incêndio atinge Igreja Matriz de Treze de Maio, no Sul de Santa Catarina f A Igreja Matriz de Treze de Maio, município no Sul de Santa Catarina, ficou parcialmente destruída após pegar fogo na manhã deste domingo (11). Ninguém ficou ferido. ✅Clique e siga o canal do g1 SC no WhatsApp Perto das 12h, o incêndio já estava controlado e era feito o rescaldo. Toda a estrutura da igreja foi danificada, de acordo com os Bombeiros Voluntários de Jaguaruna. As causas vão ser apuradas em perícia posterior. A Paróquia de Treze de Maio se manifestou por nota nas redes sociais: \"O incêndio deixou marcas em…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/11/video-igreja-pega-fogo-treze-maio.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T18:13:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Q1qiYmChiGubm2weiZlIzAS-9Q4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/x/MAANGKQDexKBlUuphFWw/igreja-incendio-treze-de-maio-sc.jpg"
-        },
-        {
-          "clusterId": "db51c3d7434e246c",
-          "slug": "cc1747e620958eb6",
-          "titulo": "Incêndio em área de mata deixa famílias desalojadas no Careiro da Várzea, no Amazonas",
-          "resumo": "Incêndio em área de mata deixa famílias desalojadas no Careiro da Várzea, no Amazonas Um incêndio em uma área de mata deixou famílias desalojadas no Careiro da Várzea, na Região Metropolitana de Manaus. De acordo com a Secretaria de Defesa Civil da cidade, equipes seguem no combate às chamas na manhã deste domingo (11). Moradores precisaram deixar suas casas por segurança. Vídeos do incêndio mostram o fogo se aproximando de uma área residencial do município na noite de sábado (10). (Confira o vídeo acima) Segundo o secretário da Defesa Civil do município, Jean Souza, as equipes conseguiram…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/11/incendio-em-area-de-mata-deixa-familias-desalojadas-no-careiro-da-varzea-no-amazonas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T18:08:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/IKgxOfVbwjp2tnFU7_9wf9451tM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/y/dwA7eZR5KXwxONFIzhJQ/careiro-fogo.jpg"
-        },
-        {
-          "clusterId": "c932866d0d1e5da0",
-          "slug": "a7fe82234cceb94b",
-          "titulo": "Categoria 4, furacão Simon muda de trajetória na costa do México",
-          "resumo": "Centro dos Estados Unidos alertou que tempestade é \"extremamente perigosa\" e ficará mais tempo na região de Jalisco, no oeste do país norte-americano",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/categoria-4-furacao-simon-muda-de-trajetoria-na-costa-do-mexico/"
-            }
-          ],
-          "updatedAt": "2026-10-11T18:06:23.000Z"
-        },
-        {
-          "clusterId": "b1d275add7c50845",
-          "slug": "cbb731db4c378c84",
-          "titulo": "Carro tenta fazer retorno e bate em caminhonete na MGC-251, em Unaí",
-          "resumo": "Um acidente entre um carro e uma caminhonete deixou duas pessoas feridas na MGC-251, na altura do quilômetro 844, em Unaí, no Noroeste de Minas. A batida aconteceu neste sábado (10) quando o motorista do carro tentou fazer uma manobra de retorno, segundo informações da Polícia Militar. De acordo com a PM, o motorista do carro percebeu que havia passado da entrada do local onde iria e iniciou a manobra de retorno. Durante a tentativa, o veículo foi atingido na lateral esquerda pela caminhonete, que trafegava no mesmo sentido. 📲Clique aqui para seguir o canal do g1 Grande Minas no WhatsApp O…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/11/carro-tenta-fazer-retorno-e-bate-em-caminhonete-na-mgc-251-em-unai.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T17:52:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bfzo5K16hXlGlJi6a6XT2u2i7fM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/c/3o7n36S827Ri1EgnkJrw/carol-22-.png"
-        },
-        {
-          "clusterId": "03aeceef84b46a86",
-          "slug": "b6ad2f75daf5dbbb",
-          "titulo": "FOTOS E VÍDEOS: fumaça cobre Manaus pelo quarto dia seguido neste domingo (11)",
-          "resumo": "Imagens mostram Manaus encoberta por fumaça pelo quarto dia seguido neste domingo (11) A densa fumaça de queimadas continua afetando a qualidade do ar e a visibilidade em Manaus e na Região Metropolitana neste domingo (11). Às 8h, a qualidade do ar era considerada péssima em todas as zonas de Manaus. No bairro do Coroado, na Zona Leste, a concentração de partículas poluentes no ar chegou a 227,8 µg/m³. Fumaça cobrindo região residencial em Manaus. Alexandre Pereira 📲 Participe do canal do g1 AM no WhatsApp Veja, na galeria abaixo, imagens dos impactos da fumaça e o cenário em Manaus neste…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/11/fotos-e-videos-fumaca-cobre-manaus-pelo-quarto-dia-seguido-neste-domingo-11.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T16:52:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/dK7-ZNk1yzYQcNcxnKUqgEWDnm0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/R/NhDbMERHq6ILNH3UdYgg/drone-5.png"
+          "updatedAt": "2026-10-11T21:14:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Ac3t7Z9FNVsjHwOK7r4_ce2DMsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/D/TYw9ISRkqQhIG8KmB49g/whatsapp-image-2026-10-11-at-18.11.45.jpeg"
         },
         {
           "clusterId": "1667fdaad326d0ef",
@@ -386,74 +326,6 @@
           ],
           "updatedAt": "2026-10-11T16:34:36.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/-uGno1jbAKsAtCmlW4kskYb2f3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/K/vpAfsdTXKZrMlmCSqyYQ/2026-10-11t151134z-30047978-rc221oank0rk-rtrmadp-3-yemen-crisis-migrants.jpg"
-        },
-        {
-          "clusterId": "43d8102fd10fb77a",
-          "slug": "e77cb0c5f522ebb5",
-          "titulo": "Motorista atropela três romeiros na Dutra e é preso por embriaguez ao volante no interior de SP",
-          "resumo": "Um motorista foi preso em flagrante por embriaguez ao volante e lesão corporal culposa na direção de veículo após atropelar três romeiros que estavam indo para o Santuário Nacional de Aparecida na madrugada deste domingo (11), na Rodovia Presidente Dutra, em Taubaté. Segundo a Polícia Rodoviária Federal (PRF), o acidente aconteceu por volta das 4h10, na altura do Km 112 da rodovia. O motorista dirigia um Volkswagen Gol quando entrou em um recuo de ponto de ônibus e atingiu os três romeiros, que estavam fora da faixa de rolamento. ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/11/motorista-atropela-tres-romeiros-na-dutra-e-e-preso-por-embriaguez-ao-volante-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T16:25:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/W8RHlSNgtjLa_vyBla-GEy59PL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/A/WtIh3yTMODFlCcHgXSwQ/ft-g1-6-.png"
-        },
-        {
-          "clusterId": "d19b11fd3cebf53d",
-          "slug": "e1a68c8bd4e38e5d",
-          "titulo": "Homem morre enquanto tentava apagar incêndio em pastagem na zona rural de Nova União, RO",
-          "resumo": "Um homem identificado como Rosimiro Ramos de Oliveira morreu enquanto tentava apagar um incêndio em uma pastagem de sua propriedade, na zona rural de Nova União (RO). O caso ocorreu na sexta-feira (9) e será investigado pela Polícia Civil. De acordo com o boletim de ocorrência, uma testemunha que trabalhava em uma propriedade vizinha viu Rosimiro tentando conter as chamas. Segundo o relato, o fogo estava baixo, pois a vegetação da pastagem também era rasteira. Ao retornar à área, a testemunha percebeu que uma cerca havia caído e que o fogo poderia se alastrar para outra parte da pastagem. Ao…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/11/homem-morre-enquanto-tentava-apagar-incendio-em-pastagem-na-zona-rural-de-nova-uniao-ro.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T16:22:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/N3j51JsfgD58Y0ch6Ni3_mh2Iag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/E/m/yePTMtRmA7M9dPCPQr2A/img-20241011-wa0057.jpg"
-        },
-        {
-          "clusterId": "f5e4308507329206",
-          "slug": "4f6df1e05f0199af",
-          "titulo": "Após chuva, imóvel abandonado desaba e destroços atingem terreno de casa em Juiz de Fora",
-          "resumo": "Imóvel abandonado desaba no Bairro Centenário, em Juiz de Fora Contribuição do leitor Um imóvel abandonado desabou na manhã deste domingo (11), na Rua Vitório Saggioro, no bairro Centenário, em Juiz de Fora. Os destroços atingiram o terreno de uma casa e provocaram a queda parcial do muro de divisa da propriedade, localizada na Rua João Cardoso. A Defesa Civil esteve no local e orientou que a área próxima ao muro não seja ocupada. Ninguém se feriu. O desabamento aconteceu após as chuvas que atingiram Juiz de Fora na noite de sábado (10). Nas últimas 24 horas, o volume acumulado chegou a 49,3…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/11/apos-chuva-imovel-abandonado-desaba-e-destrocos-atingem-terreno-de-casa-em-juiz-de-fora.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T16:18:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rDgFDhS7i9LkQq4x2wfElibbJjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/i/eSHKcmSVK0USuR87Vulw/whatsapp-image-2026-10-11-at-09.04.30.jpeg"
-        },
-        {
-          "clusterId": "94f16fde8c0372c4",
-          "slug": "b211aa56bfc26fc3",
-          "titulo": "Motociclista morre após bater de frente com carro na BR-304, no RN",
-          "resumo": "Motociclista morreu em acidente em Assú (Créditos: Assú Todo Dia) Um motociclista de 39 anos morreu após bater de frente, na manhã deste domingo (11) com um carro na BR-304, em Assú, na Região Oeste do Rio Grande do Norte. A vítima foi identificada como Francisco Lenilson Alves da Silva. Segundo informações da Polícia Rodoviária Federal (PRF), a colisão aconteceu quando o motociclista tentar fazer a curva para entrar na estrada que dá acesso à cidade de Paraú. 📳 Clique aqui para seguir o canal do g1 RN no WhatsApp A PRF informou que o motorista do carro envolvido na colisão fazia o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/11/motociclista-morre-batida-br-304-assu.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T15:57:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Q-FzHog5IL8fMEbRzYawCuHlOhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/h/vdirR9SLAJ9KT3Fx0vAA/acidente834298.jpg"
         },
         {
           "clusterId": "5e40cf62f5e9fe91",
@@ -507,23 +379,6 @@
           "imageUrl": "https://s2-g1.glbimg.com/rHabpao4Tjw4Pr89QjyuURYrzig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/S/0A6yVAQlqe3JzsUt7eAA/design-sem-nome-2026-10-10t132209.424.jpg"
         },
         {
-          "clusterId": "f95dc889890428ee",
-          "slug": "bc7bec7473e39715",
-          "titulo": "Segundo terremoto de magnitude 6,6 atinge o Panamá",
-          "resumo": "Vídeo mostra pessoas nas ruas após forte terremoto atingir o Panamá Um segundo forte terremoto de magnitude 6,6 atingiu o Panamá nesta sexta-feira (9), informou o Serviço Geológico dos Estados Unidos (USGS, na sigla em inglês). O novo abalo ocorre na esteira de uma série de tremores secundários que se seguiram ao primeiro tremor, de magnitude 7,7. A profundidade do segundo tremor foi de 10 quilômetros e ocorreu em terra, na região de Río Grande, no oeste do país. Segundo boletim do Sistema Nacional de Proteção Civil do Panamá, não há mortes confirmadas, mas há registro de feridos encaminhados…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/09/segundo-terremoto-de-magnitude-66-atinge-o-panama.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-10T14:14:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5cAVJe-1H08-GgfCmQaxte-PpDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/g/Esluc4SsirInLOwomCIw/2026-10-09t190605z-119910366-rc2uznag2slo-rtrmadp-3-panama-quake.jpg"
-        },
-        {
           "clusterId": "4ea0ebf302d35e4e",
           "slug": "4a6b6d28d20a6a62",
           "titulo": "Furacão Isaías perde força, mas mantém risco de enchentes e tornados nos EUA",
@@ -543,93 +398,163 @@
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "enchente",
+      "label": "Enchente",
       "stories": [
         {
-          "clusterId": "cd8b721406219747",
-          "slug": "cb43b7078b7df2c4",
-          "titulo": "Família de cinco mortos em acidente na BR-393 é sepultada em Juiz de Fora",
-          "resumo": "Cinco integrantes de uma mesma família morreram em acidente de carro na BR-393, em Barra do Piraí (RJ). Os corpos foram levados ao cemitério Parque da Saudade, em Juiz de Fora, onde familiares e amigos se despediram. O casal Anderson Nocelli Clemente e Jussara Oliveira Tertuliano Clemente, a filha Sarah Nocelli, a irmã Marcela Tertuliano e o filho Bernardo Tertuliano Visona foram enterrados.",
-          "porQueImporta": "O falecimento de cinco pessoas em um único acidente destaca a gravidade de acidentes de trânsito na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "60bb302e4a090118",
+          "slug": "393e4c8e3de062bd",
+          "titulo": "Capital paulista entra em estado de atenção para alagamentos neste domingo",
+          "resumo": "A Defesa Civil estadual emitiu 29 avisos de chuva intensa, ventania e possibilidade de granizo na véspera de feriado. Toda a cidade de São Paulo foi colocada em estado de atenção para alagamentos às 18h58 do domingo, abrangendo todas as zonas e as marginais Tietê e Pinheiros. O Centro de Gerenciamento de Emergências Climáticas (CGE) alertou para áreas de instabilidade formadas pelo calor.",
+          "porQueImporta": "O alerta visa prevenir danos e garantir a segurança dos moradores diante de possíveis alagamentos.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/11/familia-que-morreu-em-acidente-na-br-393-e-sepultada-em-juiz-de-fora.ghtml"
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/11/cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos-neste-domingo.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/capital-paulista-entra-em-estado-de-atencao-para-alagamentos-neste-domingo/"
             }
           ],
-          "updatedAt": "2026-10-11T20:04:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/B-zDcQ08P0c-UdvxoG90pOy7bIA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/H/o9czgaT3uM4xgZOCfB4Q/whatsapp-image-2026-10-10-at-12.09.22.jpeg"
+          "updatedAt": "2026-10-11T22:52:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MB8bRmuNp3t5GTs5k-VENzS45bU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/x/K274K9R7KxHJgmj7rZgw/fta20250922024.jpg"
         },
         {
-          "clusterId": "4e2989626e3bef30",
-          "slug": "1dc2edb3a667199f",
-          "titulo": "Vereador de Mato Grosso morre em acidente de carro na MT-109",
-          "resumo": "O vereador Andreilson da Silva de Souza, de 40 anos, morreu quando o carro em que estava capotou na rodovia MT-109. Duas mulheres que acompanhavam o veículo também perderam a vida. Bombeiros foram acionados após receberem informações de que o carro branco havia capotado e que uma das vítimas estava presa às ferragens. A Câmara Municipal de Mato Grosso decretou luto oficial.",
-          "porQueImporta": "O falecimento de um político local em acidente de trânsito destaca a importância da segurança viária e das medidas de prevenção.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "4290156d1d8f3d09",
+          "slug": "b11fe98a5c17475c",
+          "titulo": "Brasil sob extremos: chuvas de até 300 mm e inundações ameaçam o Centro-Sul",
+          "resumo": "Instabilidades meteorológicas se estendem por pelo menos cinco estados do Centro-Sul do Brasil, com chuvas previstas de até 300 mm nos próximos dez dias. As autoridades alertam para risco de inundações em áreas urbanas e rurais. A região pode enfrentar alagamentos que comprometam infraestrutura e mobilidade.",
+          "porQueImporta": "O aumento das chuvas pode causar danos significativos à população e ao meio ambiente.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/11/vereador-de-mt-morre-em-acidente-de-carro-na-mt-109-e-camara-municipal-decreta-luto-oficial.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/brasil-sob-extremos-chuvas-de-ate-300-mm-e-inundacoes-ameacam-o-centro-sul"
             }
           ],
-          "updatedAt": "2026-10-11T20:02:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/e_b_zauLaab4HolpoXdU74W9OZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/O/PVsWi4T8yPAGLCDrxKCQ/videos-g1-23-1-.jpg"
+          "updatedAt": "2026-10-12T05:30:27.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/chuva4sp.jpg"
         },
         {
-          "clusterId": "8b92e3667097750f",
-          "slug": "78ee2ca6c13ce323",
-          "titulo": "Mãe e filho morrem após caminhonete capotar na BR-153",
-          "resumo": "Uma caminhonete capotou na BR-153, em Itumbiara, Goiás, matando a motorista de 70 anos e seu filho de 45 anos. O veículo estava a caminho de Morrinhos quando o motorista perdeu o controle e saiu da pista. As vítimas morreram no local do acidente. A perícia da PRF e da Polícia Científica ainda deve esclarecer as circunstâncias.",
-          "porQueImporta": "O acidente destaca a importância da segurança viária e dos riscos de capotamento em rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "25d9448281101ef1",
+          "slug": "fa697568c2a198e2",
+          "titulo": "Chuva forte causa alagamentos e queda de árvore em Cosmópolis",
+          "resumo": "A forte chuva atingiu Cosmópolis na tarde de domingo, provocando alagamentos em bairros como Jardim Paineiras, Bela Vista e Vila Kalil. A Defesa Civil registrou acúmulo de água no cruzamento da Rua Monte Castelo com a Rua Francisco Cezário de Azevedo e danos na cobertura de um supermercado. Na Avenida Severino Beraldo, uma árvore caiu durante o temporal.",
+          "porQueImporta": "O evento pode comprometer a mobilidade urbana e a segurança dos moradores.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/10/11/mae-e-filho-morrem-apos-caminhonete-capotar-na-br-153.ghtml"
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/11/chuva-forte-causa-alagamentos-queda-de-arvore-e-danos-em-supermercado-em-cosmopolis.ghtml"
             }
           ],
-          "updatedAt": "2026-10-11T19:41:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Hue66IlxGhuT26wiCzJPssJig0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/d/f5C8kjQeqN9KrBKNhtkQ/g1-2026-10-11t163754.529.jpg"
+          "updatedAt": "2026-10-11T23:34:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/X3NNfby01CEKEsPkdR18B0ox5WU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/D/jSJr4YSfK5iSVFVleoDQ/chuva-cosmopolis.png"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "c4bb0875842d5ef1",
+          "slug": "c31d883328d4090b",
+          "titulo": "Minas Gerais registra nove acidentes aéreos neste ano, dois fatais",
+          "resumo": "Minas Gerais contabilizou nove acidentes aéreos no ano, com dois classificados como fatais e quatro mortes. Nos últimos dez anos, o estado registrou 140 acidentes aéreos. Na última semana, duas aeronaves caíram. Os dados foram divulgados pela Cenipa.",
+          "porQueImporta": "Os acidentes aéreos aumentam o risco à segurança pública e exigem revisão das normas de aviação.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/minas-gerais-registrou-140-acidentes-aereos-nos-ultimos-10-anos-diz-cenipa/"
+            }
+          ],
+          "updatedAt": "2026-10-12T00:45:38.000Z"
         },
         {
-          "clusterId": "6a3cc0902a298167",
-          "slug": "f660be13bc07697d",
-          "titulo": "Acidente de trânsito resulta em morte de jovem e de motorista em diferentes estados",
-          "resumo": "Em São Gabriel da Palha, no Norte do Espírito Santo, uma jovem de 24 anos morreu após moto e carro colidirem em curva na zona rural. Em Remígio, na Paraíba, um homem de 65 anos, identificado como José Nascimento da Silva, faleceu ao perder o controle do veículo e bater em estrutura de concreto. Em ambos os casos, câmeras de segurança registraram o momento dos acidentes.",
-          "porQueImporta": "Os incidentes destacam a importância da segurança viária em áreas rurais e urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "5feae5f5df2c8442",
+          "slug": "7cb9dc0d99ad019f",
+          "titulo": "Piloto de avião cai em Minas Gerais e é sepultado na Bahia",
+          "resumo": "O piloto Daniel da Silva de Souza Salomão, de 31 anos, morreu em queda de avião no pátio de manutenção do metrô de Belo Horizonte, próximo à Estação São Gabriel, na sexta-feira (9). Ele era o único ocupante do monomotor, que pertencia a uma empresa de agronegócio baiana. O corpo foi transferido de Belo Horizonte para Salvador na noite de sábado e sepultado em Salvador no domingo (11).",
+          "porQueImporta": "O acidente destaca a necessidade de segurança em operações de aeronaves de pequeno porte.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/11/motorista-morre-apos-perder-controle-de-carro-e-bater-contra-estrutura-de-concreto-em-remigio-na-pb-video.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/piloto-vitima-de-queda-de-aviao-em-mg-e-sepultado-na-ba.ghtml"
             }
           ],
-          "updatedAt": "2026-10-11T19:29:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kW7u40yv1Wr4rPk8shBfCAWmiV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/o/TnkT3XSAiYjSxAZZqEZA/frame-013.jpg"
+          "updatedAt": "2026-10-12T00:10:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fmdQ5ZGAhLxQGYhVI0fE5F939nU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/V/VtDBs1SRWHq8krnZo0uQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-11t195116.591.jpg"
         },
         {
-          "clusterId": "dcc122fbb168700d",
-          "slug": "50abcc3c108f3e44",
-          "titulo": "Acidente entre carro e carreta deixa vítima em estado grave na BR-163",
-          "resumo": "Na madrugada de domingo, por volta das 1h16, um carro colidiu frontalmente com uma carreta na BR-163, km 795, em Sonora, MS. O impacto fez o caminhão tombar no canteiro lateral, derramando sacos de grãos na pista e envolvendo um veículo utilitário. A vítima ficou em estado grave, mas não há informações sobre seu estado de saúde. O acidente causou bloqueio da via e risco de acidentes subsequentes.",
-          "porQueImporta": "O incidente destaca a importância da segurança viária em rodovias de grande porte, onde colisões podem resultar em vítimas graves e interrupção do tráfego.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "8b01eb5ec7eb2a95",
+          "slug": "482753fb760891cd",
+          "titulo": "Militares mortos em acidente aéreo em Santana do Paraíso",
+          "resumo": "Na última sexta-feira, um acidente aéreo em Santana do Paraíso, no Vale do Aço, resultou na morte de duas tenentes, Alice dos Santos Almeida e Gabriela Emília Soares Resende, e do tenente-coronel Luis Fernando Silvestre, piloto da aeronave. Os corpos foram enterrados no Cemitério Bosque da Esperança, em Belo Horizonte, e o tenente-coronel foi cremado no fim da tarde. Cerimônias contou com a presença de representantes de todas as forças de segurança, familiares e amigos.",
+          "porQueImporta": "O incidente destaca a vulnerabilidade de operações aéreas militares e a necessidade de investigação sobre causas e medidas preventivas.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/11/acidente-com-carreta-interdita-br-163-e-deixa-vitima-em-estado-grave.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/11/familiares-amigos-e-colegas-se-despedem-de-militares-vitimas-de-acidente-aereo.ghtml"
             }
           ],
-          "updatedAt": "2026-10-11T19:09:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/BIpM3B42htYUbPKmuaFOLl6c8QQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/x/vYcdlNR7Gn26Qnh97vHA/acidente-163.jpg"
+          "updatedAt": "2026-10-11T21:50:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mrOCJTSp5JfDXrfPS9oNMlm409w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/o/i9mB1ZQB62css2pc8HGA/design-sem-nome-2026-10-09t185857.530.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "2716b5a527028db5",
+          "slug": "d35236343ba5888d",
+          "titulo": "Terremoto de magnitude 7,7 atinge Panamá e gera mais de 200 réplicas",
+          "resumo": "Um terremoto de magnitude 7,7 abalou o Panamá, deixando ao menos 27 feridos e danificando cerca de 900 casas. O abalo principal provocou desabamentos e estradas danificadas, com os maiores impactos no centro do país. Após o evento, mais de 200 tremores secundários foram registrados, incluindo um de magnitude superior a 6,0 que causou novos danos em áreas já afetadas.",
+          "porQueImporta": "O evento demonstra a vulnerabilidade estrutural e a necessidade de preparação para grandes abalos sísmicos na região.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/10/terremoto-no-panama-tem-mais-de-80-replicas-entenda-por-que-a-terra-continua-tremendo-e-se-e-possivel-prever-novos-abalos.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/panama-tem-mais-de-200-tremores-secundarios-apos-terremoto-de-magnitude-77/"
+            }
+          ],
+          "updatedAt": "2026-10-11T23:54:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/UezYXwo92rgvPgKSnCecjFeF1_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/u/6Z4wsjR4Sp8CyKXlvNfQ/globo-canal-4-20261009-2000-frame-129954.jpeg"
+        },
+        {
+          "clusterId": "6b2391a438f6f011",
+          "slug": "5483aa1b39bcaa5c",
+          "titulo": "Moradores do Panamá passam noite nas ruas após terremotos",
+          "resumo": "Dois terremotos de magnitude 7,7 e 6,6 atingiram a Cidade do Panamá na sexta-feira, 9 de outubro de 2026, causando desabamentos e rachaduras em estradas. Moradores ficaram assustados e passaram a noite nas ruas, temendo retornar às casas diante das dezenas de réplicas. No sábado, 10, famílias continuavam abrigadas em tendas improvisadas enquanto equipes de emergência avaliavam os danos.",
+          "porQueImporta": "O evento destaca a vulnerabilidade urbana a sismos e a necessidade de medidas de segurança e evacuação eficazes.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/10/assustados-moradores-passam-noite-nas-ruas-apos-terremotos-no-panama.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-10T16:29:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-31tMlKilchEnbZ76TWq8jlozhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/l/JjjqBiSt2KHwGZSvK2Nw/ap26282718200597.jpg"
         }
       ]
     },
@@ -638,156 +563,104 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "3476981034f9a6ea",
-          "slug": "8c21ec7ada1f6787",
-          "titulo": "Temporal provoca granizo e queda de árvores em Ribeirão Preto",
-          "resumo": "Um temporal atingiu cinco cidades da região de Ribeirão Preto, incluindo Sertãozinho, onde moradores registraram chuva de granizo. Em Cravinhos, ventos fortes causaram queda de árvores. A ocorrência foi relatada na tarde de domingo.",
-          "porQueImporta": "O evento pode causar danos materiais e riscos à segurança pública.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/11/temporal-atinge-regiao-de-ribeirao-preto-sp-e-provoca-chuva-de-granizo-e-queda-de-arvores.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T20:18:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/nb15cX86oCJGDX0gEtpOsWkz2iU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/E/a4F2pASIKOjoNIAUMetg/design-sem-nome-2-.png"
-        },
-        {
-          "clusterId": "f2a19eb2c4065254",
-          "slug": "d5c8d88631ccc6f2",
-          "titulo": "BP prepara retomada da produção de petróleo no Golfo do México",
-          "resumo": "A BP planeja retomar a produção de petróleo no Golfo do México após a interrupção causada pelo furacão Isaías. A tempestade forçou a suspensão das operações diárias de petróleo e gás natural na região. A empresa está avaliando as condições de segurança antes de reiniciar a produção. A retomada dependerá da evolução do clima e da avaliação de riscos.",
-          "porQueImporta": "A retomada das atividades pode impactar a oferta de energia e a economia da região.",
+          "clusterId": "196338331cecbcf6",
+          "slug": "8819c6fe337bd0ec",
+          "titulo": "Drone mostra devastação causada pela tempestade Isaias na costa americana",
+          "resumo": "Imagens de drone revelam a extensão da destruição na costa dos Estados Unidos após a chegada da tempestade Isaias. A tempestade atingiu a região no sábado, 10, e resultou em pelo menos quatro mortes. Os relatos indicam danos significativos a propriedades e infraestrutura local. A situação permanece em avaliação pelas autoridades.",
+          "porQueImporta": "O evento demonstra o impacto imediato de tempestades de grande porte na infraestrutura e na vida das comunidades costeiras.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bp-prepara-retomada-da-producao-de-petroleo-no-golfo-do-mexico/"
+              "url": "https://www.cnnbrasil.com.br/internacional/imagens-de-drone-mostram-devastacao-causada-pela-tempestade-isaias-nos-eua/"
             }
           ],
-          "updatedAt": "2026-10-11T19:52:44.000Z"
+          "updatedAt": "2026-10-12T05:22:11.000Z"
         },
         {
-          "clusterId": "ae3a895f4836f429",
-          "slug": "975fc36dec8a743d",
-          "titulo": "Chuva forte causa queda de árvores e falta de energia no Sul de Minas",
-          "resumo": "Em Andradas, a chuva forte provocou queda de árvores, galhos, postes e um outdoor, além de danos a dois carros. Em Cambuí, houve quedas de árvores e alagamentos em ruas e rodovias. As Defesas Civis dos municípios relataram que não houve feridos nem desabrigados.",
-          "porQueImporta": "O evento demonstra a vulnerabilidade das infraestruturas urbanas a condições climáticas extremas.",
+          "clusterId": "2dd52952f57044d8",
+          "slug": "b55ec33e180c1c6c",
+          "titulo": "Furacão Simon enfraquece e causa inundações no México",
+          "resumo": "O furacão Simon perdeu força e passou para a categoria 3, mas continua forte ao se aproximar da costa centro‑oeste do México. Na cidade portuária de Manzanillo, o estado de Colima, a Marinha ajudou a retirar água de residências inundadas. O fenômeno ameaça ventos destrutivos, marés de tempestade e inundações fatais, levando autoridades a pedir que a população fique em casa.",
+          "porQueImporta": "O furacão representa risco à vida e à infraestrutura das comunidades costeiras mexicanas.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/11/chuvas.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/mexico-pede-que-populacao-fique-em-casa-devido-ao-furacao-simon/"
             }
           ],
-          "updatedAt": "2026-10-11T19:11:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/l3YRBT0IbsUoWMJ6i377RBcTDy4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/A/EfwJlTRvKob7KqB8Txyg/chuva-andradas.jpeg"
+          "updatedAt": "2026-10-12T02:31:01.000Z"
         }
       ]
     },
     {
-      "slug": "enchente",
-      "label": "Enchente",
+      "slug": "acidente",
+      "label": "Acidente",
       "stories": [
         {
-          "clusterId": "a073721e01e8c36c",
-          "slug": "51f8a61e7d425806",
-          "titulo": "Exército do Nepal resgata 49 pessoas após transbordamento de rio",
-          "resumo": "O rio Budhi Gandaki transbordou no distrito de Gorkha, após um deslizamento de terra, inundando áreas próximas. O Exército do Nepal realizou operações de resgate que salvaram 49 pessoas. Cinco pessoas ficaram desaparecidas no local. O incidente evidenciou a vulnerabilidade das comunidades nas regiões montanhosas do Nepal.",
-          "porQueImporta": "O evento destaca a necessidade de monitoramento e preparação para desastres naturais em áreas de risco.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "476648b35ba48786",
+          "slug": "221f0c5f7bc8ac50",
+          "titulo": "Irmão de deputado morre afogado em praia de Fortaleza",
+          "resumo": "O empresário e agricultor Valtenir Costa, de 49 anos, morreu afogado na Praia da Sabiaguaba, em Fortaleza, durante uma viagem em família. O afogamento ocorreu por trás da barreira de pedras, em ponto cego da torre de guarda‑vidas, no lado oposto ao Rio Cocó. Valtenir era irmão do deputado estadual Nizo Costa (PT) e estava acompanhado de mãe, irmãos, esposa, filho, sobrinhos e cunhados.",
+          "porQueImporta": "O incidente destaca a importância da segurança em praias e a vulnerabilidade de áreas de difícil visualização.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/11/irmao-de-deputado-morre-afogado-em-praia-de-fortaleza.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-11T22:06:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2As8ivluAta0_X7Cw0Mq-ItHTk4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/w/UiDjgPTrO6RULHYDyTHw/valtenir-e-nizo.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "desastre",
+      "label": "Desastre",
+      "stories": [
+        {
+          "clusterId": "737bf075ab43499b",
+          "slug": "8e807b5e45b42aac",
+          "titulo": "Terremoto de magnitude 5,3 atinge a Indonésia",
+          "resumo": "Um terremoto de magnitude 5,3 foi registrado na Indonésia, com profundidade de 103 km. A Agência de Agências de Notícias dos EUA confirmou o evento. Até o momento, não há relatos de danos ou feridos. As autoridades locais monitoram a situação.",
+          "porQueImporta": "O evento pode indicar atividade sísmica na região, exigindo vigilância contínua.",
+          "categoria": "Desastre",
+          "categoriaSlug": "desastre",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/exercito-do-nepal-resgata-49-pessoas-apos-transbordamento-de-rio/"
+              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-53-atinge-a-indonesia-diz-agencia-dos-eua/"
             }
           ],
-          "updatedAt": "2026-10-11T19:44:40.000Z"
-        },
-        {
-          "clusterId": "61493f0baae663f9",
-          "slug": "43816793cc56192f",
-          "titulo": "Defesa Civil envia kits de limpeza e cestas básicas a famílias afetadas pela chuva em Cruzeiro",
-          "resumo": "A Defesa Civil do estado e o Fundo Social de São Paulo enviaram kits de limpeza e cestas básicas a moradores de Cruzeiro, interior de São Paulo, após fortes chuvas que causaram alagamentos e danos em cerca de 50 residências. A região central foi a mais afetada, com queda de árvores, danos no calçamento e queda de muro de uma residência. Uma pessoa ficou desalojada. A ajuda foi entregue no domingo (11).",
-          "porQueImporta": "A intervenção demonstra a resposta imediata das autoridades a eventos climáticos que geram vulnerabilidade nas comunidades locais.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/11/defesa-civil-envia-kits-de-limpeza-e-cestas-basicas-a-familias-afetadas-pela-chuva-em-cruzeiro-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-11T18:42:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CMlvc3Y3l6HwTnIC3czNMc5_V1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/u/brM3gyRUym5b1qoN20Kw/foto-g1-45-.png"
-        },
-        {
-          "clusterId": "318d6cbe5b2f8e7a",
-          "slug": "f4aa09845827b2e5",
-          "titulo": "Chile declara zona de desastre em Las Condes após enchentes",
-          "resumo": "O governo chileno decretou calamidade na região de Las Condes, distrito de Santiago, depois de fortes chuvas que causaram enchentes e deslizamentos de terra. Pelo menos seis pessoas ficaram feridas e várias áreas foram evacuadas. A medida permite que órgãos públicos adotem ações extraordinárias para assistência emergencial e avaliação de danos.",
-          "porQueImporta": "A declaração facilita a mobilização de recursos e ajuda na recuperação das áreas afetadas.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/09/video-mostra-enxurrada-de-agua-e-lama-invadindo-ruas-no-chile-pais-decretou-calamidade.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-09T22:08:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/owaJsVouKBq1xE62iuOOkXG0tKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/J/VWkI7AQX2rfCo58uIBhg/2026-10-09t185513z-1155181755-rc2pzna0d6l7-rtrmadp-3-chile-weather-floods.jpg"
+          "updatedAt": "2026-10-11T22:02:49.000Z"
         }
       ]
     },
     {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "7da448c0fc31d1fe",
-          "slug": "c0611a950f20fc51",
-          "titulo": "FAB envia reforço aéreo para combater queimadas no Amazonas",
-          "resumo": "A Força Aérea Brasileira enviou aeronaves de combate a incêndios para o estado do Amazonas, onde os incêndios florestais têm deteriorado a qualidade do ar na capital e em cinco municípios. O reforço aéreo visa auxiliar as equipes de combate e reduzir a propagação das queimadas. A operação ocorre em meio a preocupações com a poluição do ar e a preservação ambiental.",
-          "porQueImporta": "O apoio aéreo pode acelerar a contenção dos incêndios e proteger a saúde pública e o meio ambiente.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/fab-envia-reforco-aereo-para-combater-queimadas-no-amazonas"
-            }
-          ],
-          "updatedAt": "2026-10-11T20:23:28.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/10/aeronave-fab-incendio.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "6e2865cb70a80d8a",
-          "slug": "ed53368f8408d0e5",
-          "titulo": "Carro pega fogo em frente a shopping no Centro de Teresópolis",
-          "resumo": "Um carro incendiou na tarde de domingo em frente a um shopping no Centro de Teresópolis, gerando fumaça densa na Avenida Delfim Moreira. O 16º Grupamento de Bombeiros Militar chegou rapidamente e controlou as chamas. Não há relatos de feridos e as causas do incêndio permanecem desconhecidas.",
-          "porQueImporta": "O incidente pode representar risco à segurança pública e à infraestrutura local.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "4ec0674376591ba5",
+          "slug": "91d167f782c7e163",
+          "titulo": "Jovem de Goiás morre em acidente que matou vereador e mulher em Mato Grosso",
+          "resumo": "Ana Vitória Santana Alves, de 19 anos, morreu em acidente de trânsito em Mato Grosso. O mesmo acidente também causou a morte de um vereador estadual e de uma mulher. A vítima era autônoma e não tinha filhos.",
+          "porQueImporta": "O acidente resultou em três mortes, incluindo um político local, destacando a gravidade do incidente.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/11/carro-pega-fogo-em-frente-a-shopping-no-centro-de-teresopolis.ghtml"
+              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/10/11/jovem-de-goias-morre-em-acidente-que-matou-vereador-e-mulher-no-mt.ghtml"
             }
           ],
-          "updatedAt": "2026-10-11T20:16:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lcqf3-MBDrBiXt0F8kQk2propt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/N/MCTEabSBmAYLIKKMxAuQ/6035.jpg"
+          "updatedAt": "2026-10-11T21:52:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/p_wGXYXPwOMI-vU0M1EtmQmUgkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/y/GBmDHoTT60oUF4bRcUeg/opopular-montagem-de-fotos-e-video-para-o-site-4-.jpg"
         }
       ]
     },
@@ -811,29 +684,6 @@
           ],
           "updatedAt": "2026-10-10T18:21:13.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/zsmfODQH5bmwVuFzpBJBlU2RTMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/IueoH0RuiQRx5MJuKhcw/2026-08-17t134126z-1571278001-rc2c0naakvh3-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "terremoto",
-      "label": "Terremoto",
-      "stories": [
-        {
-          "clusterId": "6b2391a438f6f011",
-          "slug": "5483aa1b39bcaa5c",
-          "titulo": "Moradores do Panamá passam noite nas ruas após terremotos",
-          "resumo": "Dois terremotos de magnitude 7,7 e 6,6 atingiram a Cidade do Panamá na sexta-feira, 9 de outubro de 2026, causando desabamentos e rachaduras em estradas. Moradores ficaram assustados e passaram a noite nas ruas, temendo retornar às casas diante das dezenas de réplicas. No sábado, 10, famílias continuavam abrigadas em tendas improvisadas enquanto equipes de emergência avaliavam os danos.",
-          "porQueImporta": "O evento destaca a vulnerabilidade urbana a sismos e a necessidade de medidas de segurança e evacuação eficazes.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/10/assustados-moradores-passam-noite-nas-ruas-apos-terremotos-no-panama.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-10T16:29:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-31tMlKilchEnbZ76TWq8jlozhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/l/JjjqBiSt2KHwGZSvK2Nw/ap26282718200597.jpg"
         }
       ]
     }

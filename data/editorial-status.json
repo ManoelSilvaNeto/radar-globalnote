@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-11T15:02:11.154Z",
-  "editionDate": "2026-10-11",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Incidentes de trânsito e desastres naturais marcam o dia\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-12T06:23:47.693Z",
+  "editionDate": "2026-10-12",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
