@@ -1,9 +1,51 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T18:08:50.949Z",
+  "generatedAt": "2026-10-13T02:12:03.191Z",
   "home": [
     {
-      "clusterId": "d039a116e1b03da7",
+      "clusterId": "41c539e6855df7e0",
+      "slug": "1dc0de6ae6aa5838",
+      "titulo": "Terremoto de magnitude 6,1 atinge o Panamá",
+      "resumo": "Um terremoto de magnitude 6,1 ocorreu na província de Veraguas, Panamá, a uma profundidade de 10 quilômetros. O evento aconteceu três dias após um tremor de magnitude 7,7 ter atingido o país. O USGS relatou a profundidade e a magnitude do novo sismo.",
+      "porQueImporta": "O sismo pode causar danos e representar risco à população local.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-61-atinge-o-panama-diz-agencia/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/panama-registra-novo-terremoto-tres-dias-apos-grande-tremor"
+        }
+      ],
+      "updatedAt": "2026-10-13T01:06:44.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/terremoto-panama-3.jpg"
+    },
+    {
+      "clusterId": "a173406c37f8f176",
+      "slug": "7e7d7d8ea8af9d8b",
+      "titulo": "Acidente com chalana no Rio Grande leva a naufrágio e resgate de 25 pessoas",
+      "resumo": "Uma chalana navegando no Rio Grande, próximo a Sacramento, afundou, deixando cerca de 25 pessoas a bordo. O piloto, José Eduardo Goulart de Andrade, afirmou que a embarcação estava com documentação em dia e que agiu rapidamente para garantir a segurança dos passageiros. Todos os ocupantes foram resgatados sem ferimentos por civis. A Marinha iniciou investigação sobre o incidente.",
+      "porQueImporta": "O caso destaca a importância da segurança em embarcações recreativas e a necessidade de fiscalização adequada.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/12/piloto-diz-que-chalana-estava-em-dia-e-que-agiu-rapido-antes-de-naufragio-no-rio-grande-colete-em-todo-mundo.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/marinha-investiga-acidente-com-chalana-no-rio-grande-em-minas-gerais/"
+        }
+      ],
+      "updatedAt": "2026-10-13T01:03:51.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/sA8vyMj4s6kNUNwKtHQxt6EsfMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/G/AcOqS6Q7aPKQC7ZxLfww/vlcsnap-2026-10-12-20h58m28s457.png"
+    },
+    {
+      "clusterId": "c82d75f8826261fc",
       "slug": "0f1f62d1dbf88472",
       "titulo": "Explosão mata adolescente durante excursão escolar no norte de Israel",
       "resumo": "Uma explosão atingiu um grupo de alunos e professores em uma excursão escolar perto de Ramim Ridge, no norte de Israel, próximo à fronteira com o Líbano. O incidente resultou na morte de um jovem de 15 anos e deixou cerca de 19 feridos, muitos adolescentes. Militares suspeitam que a causa seja um artefato explosivo não detonado, possivelmente relacionado ao Hezbollah. O local da explosão estava próximo a Neot Mordechai.",
@@ -16,164 +58,129 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/10/12/explosao-deixa-cerca-de-20-feridos-incluindo-criancas-e-professores-no-norte-de-israel.ghtml"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/explosao-mata-adolescente-durante-excursao-escolar-entre-libano-e-israel/"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/explosao-no-norte-de-israel-deixa-um-morto-e-mais-de-20-feridos-em-excursao-de-estudantes/"
         }
       ],
-      "updatedAt": "2026-10-12T16:00:50.000Z",
+      "updatedAt": "2026-10-12T20:34:37.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/s4qgrSJvcn_PAbNJTYkwx1xepuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Q/Fvw9jbThALWvrTJGhicA/whatsapp-image-2026-10-12-at-15.45.08.jpeg"
     },
     {
-      "clusterId": "9e2f37fa5141cae5",
-      "slug": "9975e3702226a8c5",
-      "titulo": "Acidente entre duas motos deixa pessoa morta e outra ferida na PE-22",
-      "resumo": "Um acidente envolvendo duas motocicletas na PE-22, no Loteamento Nossa Senhora da Conceição, em Paulista, no Grande Recife, resultou em uma morte e uma vítima ferida. O Corpo de Bombeiros socorreu a pessoa ferida, que foi encaminhada ao SAMU; a unidade de saúde de destino ainda não foi informada. Os nomes das vítimas não foram divulgados.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança no trânsito em vias estaduais.",
+      "clusterId": "ed6bebe8a4d0d1bc",
+      "slug": "31d229524d5a2f35",
+      "titulo": "Temporais causam alagamentos e destruição em cidades da região de Campinas",
+      "resumo": "Temporais provocaram alagamentos e destruição em cidades da região de Campinas, no interior de São Paulo. Famílias nas ruas de acesso à parte baixa de Cosmópolis passaram o dia limpando lama após a enxurrada derrubar muros e invadir quatro casas. O alagamento trouxe destroços, móveis e tijolos, resultando em perdas totais para os moradores.",
+      "porQueImporta": "O evento demonstra a vulnerabilidade das áreas urbanas à ocorrência de tempestades intensas, afetando a segurança e a infraestrutura local.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/temporais-provocam-alagamentos-e-destruicao-em-cidades-da-regiao-de-campinas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-13T00:48:35.000Z"
+    },
+    {
+      "clusterId": "4f7f9bc6e536eaad",
+      "slug": "a5ce0a911988e6fb",
+      "titulo": "Idosa de 72 anos morre após ser atropelada por motocicleta em Itabuna",
+      "resumo": "Uma idosa de 72 anos, Elezelita São Pedro, morreu depois de ser atingida por uma motocicleta enquanto retornava da igreja com uma amiga em Itabuna, sul da Bahia. O acidente ocorreu em local escuro, causado por queda de energia. A segunda mulher envolvida sofreu ferimentos no braço. O corpo da vítima foi sepultado na segunda-feira seguinte.",
+      "porQueImporta": "O caso destaca a necessidade de atenção à segurança viária em áreas com falhas de iluminação pública.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/12/acidente-motos-pe-22-grande-recife.ghtml"
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/idosa-morre-atropelada-na-bahia.ghtml"
         }
       ],
-      "updatedAt": "2026-10-12T17:34:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/OZkkxxZBKiByy8bdPgwFAS7nWrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/L/prcnFKQ4aLCHbJG36yCQ/pe22ne1-pgmhd189.sub.01-frame-404.jpeg"
+      "updatedAt": "2026-10-13T00:27:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/BYNxcK58kITuz41QlgOXbOOXUc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/6/UpQldBTEW2SpnwIClpYg/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-12t212352.955.jpg"
     },
     {
-      "clusterId": "4d221f41f6dcfd5c",
-      "slug": "ca07280b824cb6bb",
-      "titulo": "Menina de 10 anos morre após afogamento em parque aquático no Ceará",
-      "resumo": "Uma menina de 10 anos morreu após se afogar em um parque aquático no Ceará. O incidente ocorreu na manhã de domingo, 11 de outubro. Não há detalhes adicionais sobre as circunstâncias do afogamento. As autoridades investigam o ocorrido.",
-      "porQueImporta": "O caso destaca a necessidade de segurança em locais de lazer aquático.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/menina-de-10-anos-morre-apos-afogamento-em-parque-aquatico-no-ceara"
-        }
-      ],
-      "updatedAt": "2026-10-12T17:33:42.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/isis-1.jpg"
-    },
-    {
-      "clusterId": "5df3b538a87b1448",
-      "slug": "c81769547659eada",
-      "titulo": "Homem e mulher encontrados mortos em residência no sul do Amapá",
-      "resumo": "Polícia Civil do Amapá investiga a morte de uma mulher de 23 anos e de um homem ainda não identificado, encontrados com vários tiros em uma residência na Baixada do Furacão, em Laranjal do Jari. O local foi registrado por volta das 23h50 de domingo, na Rua Recife, e equipes da Polícia Militar chegaram primeiro para verificar a situação.",
-      "porQueImporta": "O caso envolve homicídio em área rural, exigindo investigação para esclarecer circunstâncias e responsabilizar envolvidos.",
+      "clusterId": "0864213248c79ed3",
+      "slug": "92a5b3eef7293556",
+      "titulo": "Athletico amassa a Chapecoense e retoma a terceira posição do Brasileirão",
+      "resumo": "O Athletico-PR venceu a Chapecoense por 2 a 0, na partida realizada no Estádio do Morumbi. O resultado elevou o clube à terceira colocação na tabela do Brasileirão. A equipe não tinha conhecimento de que a Chapecoense estava na última posição antes do jogo. O triunfo reforça a busca do Athletico pelos líderes do campeonato.",
+      "porQueImporta": "A vitória altera a posição na tabela, influenciando a disputa pelo título e pela classificação para competições internacionais.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/12/policia-investiga-caso-em-que-homem-e-mulher-foram-encontrados-mortos-no-sul-do-amapa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-12T17:31:50.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kzffij5QVS4zJYcR5iHTB5IfC7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/H/dqi8rJRQqsWK97CeRXuw/whatsapp-image-2026-07-06-at-18.15.44.jpeg"
-    },
-    {
-      "clusterId": "226a129da6f32148",
-      "slug": "1fbaf7df4fc6e853",
-      "titulo": "Homem afoga em praia e motociclista morre em colisão com caminhonete em João Pessoa",
-      "resumo": "Um homem de 30 anos se afogou na praia de Cabo Branco e foi internado em estado grave. Em outra ocorrência, um motociclista de 35 anos morreu após colidir com uma caminhonete no bairro do Cuiá. A mãe do motociclista exige que o suspeito se apresente à polícia.",
-      "porQueImporta": "Os dois incidentes refletem riscos de segurança pública na cidade.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/12/mae-de-homem-morto-por-motorista-de-caminhonete-em-joao-pessoa-cobra-justica-que-ele-se-apresente-que-a-policia-pegue-ele.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-12T17:29:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/K-cmX2O31l0AptkFIkt78Mrfi0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Y/kOhy8mQKu35KvCC1KSVQ/prisao-.png"
-    },
-    {
-      "clusterId": "7c6a330477f2a1c5",
-      "slug": "c46b15a79767cabd",
-      "titulo": "Motorista é indiciada por homicídio após dirigir na contramão por 2 km e matar estudante em Florianópolis",
-      "resumo": "Carro na contramão em acidente com morte Uma motorista de 40 anos foi indiciada por homicídio com dolo eventual (quando assume o risco de matar) e embriaguez ao volante pela morte do estudante de enfermagem Felipe Maffioletti Contreira, de 25 anos. O jovem pilotava uma moto na SC-401, em Florianópolis, quando foi atingido de frente pelo carro da investigada, que trafegava na contramão. Segundo a Polícia Militar Rodoviária, que atendeu a ocorrência na época, a motorista dirigiu no sentido contrário da rodovia por cerca de dois quilômetros em 29 de agosto. ✅Clique e siga o canal do g1 SC no…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/12/motorista-indiciada-dirigir-contramao-matar-estudante-florianopolis.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-12T17:24:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Abf0hh1c2Gd8RHVTcXBW-QavbKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/J/rdYdrSSDWvneIjhBuPKA/captura-de-tela-2026-10-12-135325.png"
-    },
-    {
-      "clusterId": "5fc0a83ad8ce4f8e",
-      "slug": "47b1ccfc7bb5346f",
-      "titulo": "Incêndio deixa apartamento em Porto Velho com móveis queimados e fumaça",
-      "resumo": "Um incêndio atingiu um apartamento em um condomínio residencial na Zona Norte de Porto Velho, no sábado (9). A jovem de 19 anos e sua cadelinha foram resgatadas. O fogo causou danos a móveis, teto, paredes e espalhou cinzas pelos cômodos.",
-      "porQueImporta": "O incidente destaca a necessidade de segurança contra incêndios em residências.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/12/video-imagens-mostram-estragos-em-apartamento-apos-incendio-em-porto-velho.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-12T17:22:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/j5K5MItatkBBVRny0A-_8IDgetA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/n/iT1Bf2R6a5H2EdsytjuA/montagem-de-apartamento-apos-incendio.png"
-    },
-    {
-      "clusterId": "064a5eccb03cba2f",
-      "slug": "b29c1df5fdcad5e9",
-      "titulo": "Adolescente de 12 anos morre após ser lançada de carro que capotou na BR-235",
-      "resumo": "A adolescente Solange Abreu Batista, de 12 anos, morreu depois de ser lançada para fora de um carro que capotou na BR-235, em Tabocão. A menina era participante do Programa Educacional Bombeiro Mirim (PROEBOM) de Guaraí. A equipe do PROEBOM expressou pesar e ofereceu apoio aos familiares.",
-      "porQueImporta": "O caso destaca a vulnerabilidade de crianças em acidentes de trânsito e a importância de medidas de segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/12/alegre-e-carinhosa-quem-era-a-adolescente-que-morreu-apos-ser-lancada-para-fora-de-carro-em-rodovia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-12T17:17:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/pQFHoi6ACgW8_iTFfP0-MvIiA24=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/5KwkiRQnCKeqcS5hyYwQ/foto-e-montagem-vertical-2026-10-11t091838.167.jpg"
-    },
-    {
-      "clusterId": "b1e389b042188f4f",
-      "slug": "db72863558061d55",
-      "titulo": "Idoso de 71 anos morre após casa ser destruída por incêndio no AP",
-      "resumo": "Um idoso de 71 anos morreu quando a casa onde morava foi destruída por incêndio na noite de domingo, 11, na comunidade do Carmo do Macacoari, em Itaubal, a 108 km de Macapá. O fogo teria iniciado por volta das 22h, segundo familiares. O falecido, Raimundo José Corrêa Picanço, morava sozinho e era tio do prefeito de Itaubal, Jaisom da Costa Picanço. A Polícia Científica investigará as causas do incêndio.",
-      "porQueImporta": "O incidente destaca a vulnerabilidade de residências em áreas rurais e a necessidade de medidas de prevenção de incêndios.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/12/idoso-de-71-anos-morre-apos-casa-ser-destruida-por-incendio-no-ap-video.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-12T17:09:50.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/23WqVxCdL3tEadwrYJhWprgT0h8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/o/PmeUlfTCiq8e8ZW8rKng/aleixo-g1-40-.jpg"
-    },
-    {
-      "clusterId": "c4334ece31044a1a",
-      "slug": "21c750bf35c17922",
-      "titulo": "Menina morre após ser atingida por trave de futebol em festa no Paraná",
-      "resumo": "Uma menina morreu depois de ser atingida por uma trave de futebol durante uma festa de comemoração do Dia das Crianças em Imbaú, Paraná. O acidente aconteceu no domingo, 11, nos Campos Gerais do estado. A vítima foi socorrida, mas não resistiu ao ferimento. O local do incidente foi identificado como a área da festa.",
-      "porQueImporta": "O caso destaca os riscos de acidentes em eventos recreativos e a necessidade de segurança adequada.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/menina-morre-apos-ser-atingida-por-trave-de-futebol-em-festa-no-parana/"
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-amassa-a-chapecoense-e-retoma-a-terceira-posicao-do-brasileirao/"
         }
       ],
-      "updatedAt": "2026-10-12T16:59:38.000Z"
+      "updatedAt": "2026-10-13T00:26:09.000Z"
+    },
+    {
+      "clusterId": "e15d5a105b0af5bc",
+      "slug": "c2e60126accc01d2",
+      "titulo": "Centenas de moradores fora de casa por cheias no Rio Grande do Sul",
+      "resumo": "Centenas de pessoas ficaram fora de casa por quase duas semanas devido às cheias de rios no Rio Grande do Sul. Em Uruguaiana, moradores como Rosa Maria Minho Viana montaram barracas em frente às casas para acompanhar o avanço das águas. A situação mantém a população deslocada e em busca de segurança.",
+      "porQueImporta": "A inundação afeta a vida cotidiana e a segurança de comunidades inteiras.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/familias-atingidas-pela-cheia-no-rs.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-13T00:09:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/5zp1DX3v8npMXBxf1290tau8fl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/I/JWoqY6R7yLYpm0CV6dGw/captura-de-tela-2026-10-12-210851.png"
+    },
+    {
+      "clusterId": "47a048b45a089ac0",
+      "slug": "db831759af3a3dd0",
+      "titulo": "Homem e cavalo morrem após atropelamento por pick-up em rodovia de Piracicaba",
+      "resumo": "Um homem de 53 anos e seu cavalo foram mortos na Rodovia Geraldo de Barros, km 172, em Piracicaba, após serem atingidos por uma pick-up. O acidente ocorreu na noite de segunda-feira. O motorista da pick-up foi socorrido e encaminhado a um hospital particular.",
+      "porQueImporta": "O incidente destaca riscos de transporte de animais em rodovias e a necessidade de atenção ao tráfego em áreas rurais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/12/homem-montado-a-cavalo-morre-apos-ser-atropelado-por-pick-up-em-rodovia-de-piracicaba-animal-tambem-morreu.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-13T00:05:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Lefol2tK95Njw-c36peOyteRbqU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/bdw2fZRc24a0o2pswXUg/carro-cavalo.jpg"
+    },
+    {
+      "clusterId": "5abb41732c9b18a0",
+      "slug": "d0ac4c46cdfebc5b",
+      "titulo": "Motociclista morre após invadir contramão e bater de frente com caminhonete em Alto Alegre",
+      "resumo": "Uma motociclista de 34 anos morreu ao bater de frente com uma caminhonete na Comunidade Indígena da Barata, em Alto Alegre, Roraima. A motocicleta transportava uma menina de 16 anos como passageira e estava em velocidade acima do permitido. O motorista da caminhonete, de 19 anos, relatou ter visto a motocicleta vindo em sua direção na faixa contrária. O acidente foi registrado pela Polícia Militar local.",
+      "porQueImporta": "O incidente destaca a importância da segurança viária e do respeito às regras de trânsito em áreas rurais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/12/motociclista-morre-apos-invadir-a-contramao-e-bater-de-frente-com-caminhonete-em-alto-alegre.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-12T23:59:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/BWLKTtjKTHFjN2pNBsz0UvraGXo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/B/mIMKTRSE2gy7qh4yPZIw/acidente-taiano.jpg"
+    },
+    {
+      "clusterId": "2633195187b8d002",
+      "slug": "e81d345ecda7d2c1",
+      "titulo": "Manaus suspende aulas da rede municipal por mau ar",
+      "resumo": "A Prefeitura de Manaus manteve a suspensão das aulas da rede municipal nesta terça-feira, 13, em razão da má qualidade do ar na capital amazonense. A medida preventiva visa reduzir a exposição de estudantes e profissionais da educação à fumaça proveniente de queimadas em municípios do interior do Amazonas. A suspensão já havia ocorrido na sexta-feira, 9, quando a qualidade do ar também ficou abaixo dos padrões.",
+      "porQueImporta": "A decisão protege a saúde de crianças e professores diante de riscos respiratórios.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/12/manaus-mantem-suspensao-das-aulas-da-rede-municipal-nesta-terca-feira-devido-a-ma-qualidade-do-ar.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-12T23:41:56.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ENGJhMkzVh10GaV_h8SbgnkwD6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/x/GNo9HERvmA6nzt8GCdww/fumaca-em-manaus-2-.jpg"
     }
   ],
   "categorias": [
@@ -182,241 +189,223 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "5df3b538a87b1448",
-          "slug": "c81769547659eada",
-          "titulo": "Homem e mulher encontrados mortos em residência no sul do Amapá",
-          "resumo": "Polícia Civil do Amapá investiga a morte de uma mulher de 23 anos e de um homem ainda não identificado, encontrados com vários tiros em uma residência na Baixada do Furacão, em Laranjal do Jari. O local foi registrado por volta das 23h50 de domingo, na Rua Recife, e equipes da Polícia Militar chegaram primeiro para verificar a situação.",
-          "porQueImporta": "O caso envolve homicídio em área rural, exigindo investigação para esclarecer circunstâncias e responsabilizar envolvidos.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/12/policia-investiga-caso-em-que-homem-e-mulher-foram-encontrados-mortos-no-sul-do-amapa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T17:31:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kzffij5QVS4zJYcR5iHTB5IfC7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/H/dqi8rJRQqsWK97CeRXuw/whatsapp-image-2026-07-06-at-18.15.44.jpeg"
-        },
-        {
-          "clusterId": "226a129da6f32148",
-          "slug": "1fbaf7df4fc6e853",
-          "titulo": "Homem afoga em praia e motociclista morre em colisão com caminhonete em João Pessoa",
-          "resumo": "Um homem de 30 anos se afogou na praia de Cabo Branco e foi internado em estado grave. Em outra ocorrência, um motociclista de 35 anos morreu após colidir com uma caminhonete no bairro do Cuiá. A mãe do motociclista exige que o suspeito se apresente à polícia.",
-          "porQueImporta": "Os dois incidentes refletem riscos de segurança pública na cidade.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/12/mae-de-homem-morto-por-motorista-de-caminhonete-em-joao-pessoa-cobra-justica-que-ele-se-apresente-que-a-policia-pegue-ele.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T17:29:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/K-cmX2O31l0AptkFIkt78Mrfi0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Y/kOhy8mQKu35KvCC1KSVQ/prisao-.png"
-        },
-        {
-          "clusterId": "7c6a330477f2a1c5",
-          "slug": "c46b15a79767cabd",
-          "titulo": "Motorista é indiciada por homicídio após dirigir na contramão por 2 km e matar estudante em Florianópolis",
-          "resumo": "Carro na contramão em acidente com morte Uma motorista de 40 anos foi indiciada por homicídio com dolo eventual (quando assume o risco de matar) e embriaguez ao volante pela morte do estudante de enfermagem Felipe Maffioletti Contreira, de 25 anos. O jovem pilotava uma moto na SC-401, em Florianópolis, quando foi atingido de frente pelo carro da investigada, que trafegava na contramão. Segundo a Polícia Militar Rodoviária, que atendeu a ocorrência na época, a motorista dirigiu no sentido contrário da rodovia por cerca de dois quilômetros em 29 de agosto. ✅Clique e siga o canal do g1 SC no…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/12/motorista-indiciada-dirigir-contramao-matar-estudante-florianopolis.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T17:24:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Abf0hh1c2Gd8RHVTcXBW-QavbKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/J/rdYdrSSDWvneIjhBuPKA/captura-de-tela-2026-10-12-135325.png"
-        },
-        {
-          "clusterId": "dd0429ed7ccc62d0",
-          "slug": "956dd70f4cbcac8f",
-          "titulo": "Caminhão tomba e motorista fica ferido na BR-393, em Três Rios",
-          "resumo": "Um tombamento de caminhão deixou um homem ferido na manhã desta segunda-feira (12), em Três Rios (RJ). O acidente ocorreu na BR-393, na altura do bairro Grama. Segundo o Corpo de Bombeiros, o ferio é o motorista do veículo de carga e sofreu ferimentos leves. Ele foi socorrido e encaminhado para o Hospital de de Clinicas Nossa Senhora da Conceição. De acordo com a Polícia Rodoviária Federal, o acidente não provocou interdições na pista, e o trânsito segue normalmente no trecho. Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1 no WhatsApp O g1 entrou em contato com a unidade médica para…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/12/caminhao-tomba-e-motorista-fica-ferido-na-br-393-em-tres-rios.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:21:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/siJqwa56VFuCxYwCUZxREMjXpQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/J/f8nijMTq6fDeTE7Rl9UQ/image.png"
-        },
-        {
-          "clusterId": "6c7b3b264563bf22",
-          "slug": "d009722a2ce830ef",
-          "titulo": "'Surreal o que aconteceu. Perdi tudo', diz moradora que teve casa destruída por temporal em Cosmópolis",
-          "resumo": "'Surreal', diz moradora que teve casa destruída por temporal em Cosmópolis Uma moradora de Cosmópolis (SP) teve a casa destruída pelo temporal que atingiu a cidade na tarde deste domingo (11). À EPTV, afiliada da TV Globo, a proprietária da residência, Jaqueline Inocêncio, destacou que perdeu praticamente tudo. \"Sou uma pessoa muito trabalhadora. Trabalho de segunda a segunda, praticamente, daí ver minha casa assim. Eu não tenho muito. Surreal o que aconteceu comigo, mas, graças ao bom Deus, minha família está bem. Perdi tudo: roupa, documento. Só o que estava com a gente era a roupa do…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/12/surreal-o-que-aconteceu-perdi-tudo-diz-moradora-que-teve-casa-destruida-por-temporal-em-cosmopolis.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:19:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/tsWUB1Y6fJks7e44Yj2rZ9FRdgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/u/YZHQFxRnqRBqI6jCenTw/vlcsnap-2026-10-12-13h18m22s958.png"
-        },
-        {
-          "clusterId": "aa1c82b41eaaa35f",
-          "slug": "dd8ca2682c7e8bf0",
-          "titulo": "Irmão conta que tentou salvar idoso que morreu após ser picado por formiga durante pescaria: 'Todo mundo chocado'",
-          "resumo": "Idoso morre após ser picado por formigas enquanto pescava em São João da Paraúna Um dos irmãos do serralheiro que morreu após ser picado por formigas durante uma pescaria contou que todos da família estão em choque. Jorge Alves Lopes, de 61 anos, morava em Goiânia e foi para São João da Paraúna, no oeste de Goiás, a passeio, para visitar o irmão, o pedreiro Benedito dos Reis Lopes, de 58 anos, quando o incidente aconteceu. \"Está todo mundo chocado, né?... Estava de boa conversando com nós aqui e aconteceu uma tragédia dessa\", desabafou Benedito. O incidente aconteceu no último sábado (10). Em…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/10/12/irmao-conta-que-tentou-salvar-serralheiro-que-morreu-apos-ser-picado-por-formiga-durante-pescaria-familia-em-choque.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:13:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/AkgGhJkph7hDJJr5Uiir_F1J8K8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/L/wnwNceTJiGcrasHIehDw/jorge-alves-lopes-picada-de-formiga.jpg"
-        },
-        {
-          "clusterId": "2b3536343a1a8dac",
-          "slug": "4223ab7b4bd787c4",
-          "titulo": "Família enterra pé de estudante morta em rodovia após mais de 4 meses de espera por identificação",
-          "resumo": "Após mais de 4 meses de espera, a família de Jhenyfer Camilly Alves dos Santos, de 22 anos, conseguiu a confirmação de que um pé encontrado na BR-010, em Palmas, pertence à estudante. O membro foi enterrado na última quarta-feira (8). \"Conseguimos. Infelizmente não pudemos enterrar junto [com Jhenyfer], mas ao lado\", disse a mãe, Maria Aparecida. Jhenyfer foi morta em um acidente de trânsito no km 3 da rodovia no dia 17 de maio. Ela estava em uma motocicleta com o companheiro e, durante o impacto da batida contra um carro, teve o pé amputado. O pé foi encontrado dias depois a alguns…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/12/familia-enterra-pe-de-estudante-morta-em-rodovia-apos-mais-de-4-meses-de-espera-por-identificacao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:10:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/W1SHUVpleDSLrdcW_QfGyKib858=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/I/LvP5IOT5GXLd58ZK32lA/foto-e-montagem-vertical-2026-10-12t124152.188.jpg"
-        },
-        {
-          "clusterId": "7976d95b3905828b",
-          "slug": "16b26ce252b2c51b",
-          "titulo": "Batida envolvendo dois carros deixa três feridos em Teodoro Sampaio",
-          "resumo": "Uma batida envolvendo dois carros deixou três feridos, sendo duas vítimas em estado grave, na tarde deste domingo (11), em Teodoro Sampaio (SP). Conforme a Polícia Civil, o acidente foi por volta das 17h10, no cruzamento da Rua Antonio Duveza com a Rua Patrício Teixeira da Silva, Vila Furlan. 📲 Participe do canal do g1 Presidente Prudente e Região no WhatsApp A Polícia Militar informou que o veículo conduzido por um homem de 53 anos teria atravessado o cruzamento após desrespeitar a sinalização de parada. O carro bateu contra um outro veículo conduzido por uma mulher de 50 anos. Veja os…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/12/batida-envolvendo-dois-carros-deixa-tres-feridos-em-teodoro-sampaio.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:09:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3_UhJ0mTkDePCSNUAkqAG_6mD8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/q8p0lyT9aEmAZzlNwAbQ/1200x800-3-84-.jpg"
-        },
-        {
-          "clusterId": "fce83b504b142f20",
-          "slug": "e48f381f9e302cc7",
-          "titulo": "Homem coloca fogo em casa após desavença com proprietário em Manhuaçu",
-          "resumo": "Homem coloca fogo em casa após desavença com proprietário em Manhuaçu Corpo de Bombeiros Uma casa foi incendiada no distrito de Vila Nova, em Manhuaçu, na tarde deste domingo (11). Segundo relatos de vizinhos repassados ao Corpo de Bombeiros, um homem, que não foi identificado, teria colocado fogo no imóvel após uma desavença com o proprietário da residência. Quando os bombeiros chegaram ao local, encontraram o incêndio já avançado. As chamas haviam consumido materiais na sala e atingido um dos quartos da casa, onde ainda havia focos de incêndio 📲 Clique aqui para seguir o canal do g1 Vales…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/10/12/homem-coloca-fogo-em-casa-apos-desavenca-com-proprietario-em-manhuacu.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:08:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zlHVJxgXXUfIvqqlpRuMEaQp8KY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/u/EqHkDvTSaIm9IvA63Vrg/ocorrencias-horizontal-58-.png"
-        },
-        {
-          "clusterId": "b3883edefba25504",
-          "slug": "1caebc5026b6468d",
-          "titulo": "Incêndio de grandes proporções destrói pastagens no sudoeste do Pará",
-          "resumo": "Incêndio destruiu área de zona rural em Medicilândia, no Pará. Reprodução / TV Liberal Um incêndio de grandes proporções foi registrado na zona rural de Medicilândia, sudoeste do Pará, neste fim de semana. O fogo começou em uma fazenda localizada na vicinal conhecida como \"km 100 Norte\", próxima à Transamazônica, e as chamas se alastraram por uma área de pastagem que foi totalmente destruída. Segundo moradores, o incêndio começou na noite do último sábado (10) e continuou durante todo o domingo (11). O fogo alto também foi registrado na vicinal \"km 95 Norte\", em outra fazenda que foi…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/10/12/queimadas-incendio-de-grandes-proporcoes-destroi-pastagens-no-sudoeste-do-para.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:03:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/QIpA-4M8trkFq4nQuMiTYOOXaNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/1/l7Hb1QTPK5IgD4RkvRGA/geral-g1.png"
-        },
-        {
-          "clusterId": "83ac94acb9137596",
-          "slug": "50bb782b2dee915a",
-          "titulo": "Motociclista morre após perder controle da direção e bater em cerca na zona rural de Nova Porteirinha",
-          "resumo": "Um motociclista de 39 anos morreu em um acidente na zona rural de Nova Porteirinha, na noite deste domingo (11). Testemunhas contaram à polícia que a vítima estava em uma propriedade rural de amigos e retornava para sua residência, na Colonização III, quando, por motivos desconhecidos, perdeu o controle da moto. Em seguida, o veículo saiu da estrada e atingiu uma cerca de arame liso. 📲Clique aqui para seguir o canal do g1 Grande Minas no WhatsApp Com o impacto, o motociclista foi arremessado a uma distância estimada entre oito e dez metros e morreu no local. Uma equipe do Samu foi acionada e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/12/motociclista-morre-apos-perder-controle-da-direcao-e-bater-em-cerca-na-zona-rural-de-nova-porteirinha.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:02:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MF--e2AimHO2_B4tAhpSlALAdms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/BnAyjCTAiY5W11ZwL32Q/edicao-imagens-g1.png"
-        },
-        {
-          "clusterId": "22983e591054aeb6",
-          "slug": "37dc70ab9ed6b344",
-          "titulo": "Chuva causa alagamentos, arrasta carros e danifica imóveis no interior de SP",
-          "resumo": "Chuva de granizo alaga ruas e causa transtornos em Pirassununga A força da chuva e dos ventos provocou alagamentos, transbordamento de córregos, danos em imóveis e veículos em Pirassununga (SP) e Tambaú (SP), no domingo (11). No sábado (10), o temporal também alagou casas e desalojou três famílias em Casa Branca (SP). Ninguém ficou ferido nas três cidades. 📱 Siga o g1 São Carlos e Araraquara no Instagram Segundo a Defea Civil dos municípios, em Pirassununga foram registrados cerca de 65 milímetros de chuva em apenas 20 minutos. Já em Tambaú, uma casa foi destelhada, árvores caíram e houve…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/12/chuva-causa-alagamentos-arrasta-carros-e-danifica-imoveis-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T15:55:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/G8RKpta1IxyhdbjBPUIwnX9c3dI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/X/UPeG6dSaedLsMDExvnGA/tamanho-post-materia-52-.jpg"
-        },
-        {
-          "clusterId": "c6f48f3c0228d474",
-          "slug": "575ddd5008be22fe",
-          "titulo": "Polícia investiga incêndio em igreja matriz logo após missa em SC; veja o que se sabe sobre o caso",
-          "resumo": "Incêndio atinge Igreja Matriz de Treze de Maio, no Sul de Santa Catarina f A Polícia Civil investiga as causas do incêndio que atingiu a Igreja Matriz de Treze de Maio, município no Sul de Santa Catarina a cerca de 165 quilômetros de Florianópolis. A ocorrência foi registrada logo após a missa, no domingo (11). Ninguém ficou ferido. Investigadores estiveram no local e iniciaram as diligências, com buscas de depoimentos, imagens de câmeras no local, e aguardam o laudo dos bombeiros e a vistoria técnica de engenharia sobre a estrutura da igreja. Veja o que se sabe e o que falta saber sobre o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/12/incendio-igreja-matriz-apos-missa-investigacao-sc-o-que-sabe-sobre-o-caso.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T15:51:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Q1qiYmChiGubm2weiZlIzAS-9Q4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/x/MAANGKQDexKBlUuphFWw/igreja-incendio-treze-de-maio-sc.jpg"
-        },
-        {
-          "clusterId": "52a01515c9876437",
-          "slug": "7262e224c1b43ae5",
-          "titulo": "Alpinista de 53 anos realizou o sonho de escalar montanha de quase 4 mil metros e enviou mensagem de vitória — mas nunca voltou para casa",
-          "resumo": "Brian Seibert chegou ao cume do Monte Morgan, nos Estados Unidos, assinou o livro de registro e, logo após avisar que estava descendo, sofreu acidente fatal",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "clusterId": "0864213248c79ed3",
+          "slug": "92a5b3eef7293556",
+          "titulo": "Athletico amassa a Chapecoense e retoma a terceira posição do Brasileirão",
+          "resumo": "O Athletico-PR venceu a Chapecoense por 2 a 0, na partida realizada no Estádio do Morumbi. O resultado elevou o clube à terceira colocação na tabela do Brasileirão. A equipe não tinha conhecimento de que a Chapecoense estava na última posição antes do jogo. O triunfo reforça a busca do Athletico pelos líderes do campeonato.",
+          "porQueImporta": "A vitória altera a posição na tabela, influenciando a disputa pelo título e pela classificação para competições internacionais.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/curiosidades/alpinista-de-53-anos-realizou-o-sonho-de-escalar-montanha-de-quase-4-mil-metros-e-enviou-mensagem-de-vitoria-mas-nunca-voltou-para-casa/"
+              "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-amassa-a-chapecoense-e-retoma-a-terceira-posicao-do-brasileirao/"
             }
           ],
-          "updatedAt": "2026-10-12T15:20:11.000Z"
+          "updatedAt": "2026-10-13T00:26:09.000Z"
+        },
+        {
+          "clusterId": "142e57f40c632579",
+          "slug": "3a196b19c883aabd",
+          "titulo": "Homem morre após cair de montanha-russa no Six Flags Over Georgia",
+          "resumo": "Um homem faleceu depois de cair de uma montanha-russa no parque Six Flags Over Georgia, nos Estados Unidos. O acidente deixou feridos e ocorreu duas semanas após a franquia anunciar o fechamento de outro brinquedo por histórico de lesões cerebrais. O incidente reforça a preocupação com a segurança em atrações de parques temáticos.",
+          "porQueImporta": "Incidência de acidentes em parques temáticos destaca necessidade de segurança",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/homem-morre-apos-cair-de-montanha-russa-em-parque-de-diversoes-nos-eua/"
+            }
+          ],
+          "updatedAt": "2026-10-12T23:34:27.000Z"
+        },
+        {
+          "clusterId": "da26ee4049e0ca3e",
+          "slug": "a43b7867a1febb0c",
+          "titulo": "Acidente com carro capotado causa lentidão no Anel Rodoviário de BH na volta do feriadão",
+          "resumo": "Carro capota no Anel Rodoviário em BH O retorno do feriado prolongado provocou congestionamentos nas principais rodovias que dão acesso a Belo Horizonte na noite desta segunda-feira (12). No Anel Rodoviário, um carro capotou e causou lentidão no trânsito. O acidente aconteceu na altura do viaduto do bairro São Francisco, na Região da Pampulha, no sentido RJ. Segundo o motorista, ele teria sido fechado por outro veículo e perdeu o controle da direção. Três ocupantes foram retirados e socorridos. O estado de saúde deles não foi informado. ✅ Clique aqui para seguir o canal do g1 Minas no…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/12/acidente-com-carro-capotado-causa-lentidao-no-anel-rodoviario-de-bh-na-volta-do-feriadao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T22:32:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/xN2Yi-PdKCktpzpZRH6KNwqANUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/l/16DLdhQbGS193kf8eDtQ/53-24-mg2-acervo-12-oct-2026184.mxf.png"
+        },
+        {
+          "clusterId": "a41ba20ecd25c9b2",
+          "slug": "be5405659a09d4a6",
+          "titulo": "Criança morre após ser arremessada de moto em acidente com carro no Agreste da Paraíba",
+          "resumo": "Criança morre arremessada em acidente entre carro e moto, no Agreste da Paraíba Corpo de Bombeiros Uma criança de 10 anos, identificada como Samuel Luccas Rodrigues Araújo, morreu após ser arremessada de uma motocicleta em um acidente que envolveu um carro e a moto em que a vítima estava, na PB-095, no município de Massaranduba, no Agreste da Paraíba, no fim da tarde desta segunda-feira (12). As informações foram confirmadas pela Polícia Militar. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp De acordo com o Comando de Policiamento de Trânsito (CPTran), a criança tem aproximadamente…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/12/crianca-morre-arremessada-em-acidente-entre-carro-e-moto-no-agreste-da-paraiba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T22:27:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CzDECc4U-t4DP4cFhEL8gS66n1M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/nP0dPPTbmCCsUWQBt4Xw/whatsapp-image-2026-10-12-at-18.54.31.jpeg"
+        },
+        {
+          "clusterId": "5b6b5cf810c4e6d2",
+          "slug": "f6391bb78d8cc010",
+          "titulo": "Acidente entre carro e caminhonete deixa quatro mortos em rodovia de Piacatu",
+          "resumo": "Acidente deixa 4 mortos e 4 feridos em rodovia de Piacatu Um acidente entre um carro e uma caminhonete deixou quatro pessoas mortas e quatro feridas na tarde desta segunda-feira (12), na Rodovia Vicinal Domingos Antunes Guimarães, em Piacatu (SP). Segundo o Corpo de Bombeiros, a batida frontal ocorreu por volta das 13h50 no km 1 da pista em direção a Rinópolis (SP). 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Acidente na Rodovia Vicinal Domingos Antunes Guimarães em Piacatu (SP) Arquivo pessoal No total, oito pessoas foram socorridas e quatro, entre elas uma criança, não…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/12/acidente-entre-carro-e-caminhonete-deixa-mortos-e-feridos-em-rodovia-de-piacatu.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T22:24:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Hy9a4Nq8oPx-ZNBCmw27R14btEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/e/q4MY5BQ2exZwZuI4bz7A/design-sem-nome-2026-10-12t191529.448.jpg"
+        },
+        {
+          "clusterId": "be733e3c1dbb0b31",
+          "slug": "bc936c0c090b3a63",
+          "titulo": "Quatro pessoas são salvas de afogamento no AP; criança foi socorrida em estado grave",
+          "resumo": "Um menino de 11 anos foi socorrido em estado grave após um afogamento na região do Lontra da Pedreira, na zona rural de Macapá, nesta segunda-feira (12). Em outro caso, na orla da capital, outras três pessoas, sendo duas crianças de 12 anos e uma jovem de 20, também foram resgatadas pelo Corpo de Bombeiros Militar (CBM) no mesmo dia. ✅ Clique aqui para seguir o canal do g1 AP no WhatsApp Agora no g1 Atendimento na zona rural No caso da zona rural, a criança de 11 anos teria ficado cerca de 10 minutos submersa. O menino era transportado por familiares em um carro particular em direção à…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/12/quatro-pessoas-sao-salvas-de-afogamento-no-ap-crianca-foi-socorrida-em-estado-grave.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T22:18:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/VJSFHLW2irrtBjsS57IIMkU8Av8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/H/d3LcegTRik5okq98ENFQ/aleixo-g1-1-.jpg"
+        },
+        {
+          "clusterId": "83451f1f9244f090",
+          "slug": "f0805ae555ded201",
+          "titulo": "Vítima de acidente no interior de SP administrava escritório de contabilidade em MT",
+          "resumo": "Cleuza Vieira de Brito foi socorrida e encaminhada para a Santa Casa de Araraquara, mas não resistiu aos ferimentos Redes sociais Cleuza Vieira de Brito, de 58 anos, uma das vítimas do acidente entre um carro e uma carreta, na noite de domingo (11), em Araraquara (SP), era administradora de um escritório de contabilidade na região central de Colniza, a cerca de 1.000 km de Cuiabá. Ela e o pai, José Carlos Vieira, de 82 anos, morreram após o acidente. O marido e o filho de Cleuza também trabalham no escritório, que decretou luto oficial após o acidente. O g1 tenta obter informações sobre o…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/12/vitima-de-acidente-no-interior-de-sp-administrava-escritorio-de-contabilidade-em-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T22:09:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lKtOlLUcai6SBW1GSSPdGiJv-s8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/1/a9CiATTxioRH369WcOsA/tamanho-post-materia-54-.jpg"
+        },
+        {
+          "clusterId": "f86ec5f286dfcf93",
+          "slug": "b7f43ad180d4833c",
+          "titulo": "VÍDEO: Incêndio destrói cinco veículos em fábrica de refrigerantes em Caxias, no Maranhão",
+          "resumo": "Incêndio atinge distribuidora de refrigerante em Caxias Um incêndio destruiu cinco veículos no estacionamento de uma fábrica de refrigerantes, no bairro Seriema, em Caxias, no Maranhão, na tarde desta segunda-feira (12). Segundo o Corpo de Bombeiros Militar do Maranhão (CBMMA), ninguém ficou ferido. 📲 Clique aqui e se inscreva no canal do g1 Maranhão no WhatsApp O fogo também destruiu uma pilha de paletes, estruturas usadas para armazenar e transportar mercadorias. Uma pilha de engradados e um caminhão foram parcialmente atingidos pelas chamas. De acordo com o Corpo de Bombeiros, o 5º…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/12/video-incendio-destroi-cinco-veiculos-em-fabrica-de-refrigerantes-em-caxias-no-maranhao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T22:07:54.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Ciiq5_KgjzyVWCCXOvW6YKceHbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/K/S1D8K4TKeWahZiD9cKEA/montagens-1920-x-1080-px-2026-10-12t185823.185.png"
+        },
+        {
+          "clusterId": "10041163ec967266",
+          "slug": "14147c50677b4732",
+          "titulo": "Motorista envolvido em acidente que matou motociclista em João Pessoa já tinha passagem por violência doméstica, diz polícia",
+          "resumo": "Motociclista morre após colisão com caminhonete em João Pessoa O motorista da caminhonete que se envolveu no acidente que matou o motociclista Anderson França, de 35 anos, em João Pessoa, já tinha passagem pela polícia por violência doméstica e por outro crime de trânsito. A informação sobre os antecedentes foi confirmada pela Polícia Civil. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp Itálo Jansen de Melo Chaves, suspeito do acidente, se entregou à Polícia Militar nesta segunda-feira (12) e foi preso em flagrante. Segundo o delegado Sylvio Rabelo, o motorista pode responder por…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/12/motorista-caminhonete-suspeito-acidente-matou-motociclista-pb-passagem-violencia-domestica-diz-policia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T22:03:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vDOt-HN_hSbkxUXWEez313Cau0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/8/Llss3HSUqKPBjoU6r1MQ/motorista-cuia.jpeg"
+        },
+        {
+          "clusterId": "4373156ccec3cc32",
+          "slug": "cb6bc1dadfacaf57",
+          "titulo": "Condenado por matar professor atropelado durante fuga de assalto é preso em Macapá",
+          "resumo": "Condenado a 21 anos de prisão por assaltos e morte de professor é preso em Macapá. GTA/Divulgação Um homem de 30 anos, condenado a mais de 21 anos de prisão por roubos e pela morte por atropelamento de um professor no Ceará, foi preso na tarde desta segunda-feira (12), no Centro de Macapá. A prisão ocorreu em cumprimento a um mandado de condenação definitiva expedido pelo Tribunal de Justiça do Estado do Ceará (TJ-CE). ✅ Clique aqui para seguir o canal do g1 AP no WhatsApp Agora no g1 A ação foi realizada por uma equipe do Grupo Tático Aéreo (GTA), com apoio da inteligência policial, do…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/12/homem-que-matou-professor-atropelado-durante-fuga-de-assalto-e-preso-em-macapa.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T21:52:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/98NnGWwhMPPI6FkVv_BAI7MyVm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/N/yjjT3TRAa0tv99sZuQAQ/whatsapp-image-2026-10-12-at-18.21.21-1-.jpeg"
+        },
+        {
+          "clusterId": "58458ecc41d879e5",
+          "slug": "8d2ac3d9f61c2090",
+          "titulo": "VÍDEO: nuvens gigantes formam 'paredão' no céu antes de temporal causar estragos em MS",
+          "resumo": "Nuvem forma 'muralha' no céu e temporal deixa rastro de destruição em MS Uma enorme formação de nuvens escuras, que parecia um paredão tomando conta do céu, chamou a atenção em Amambai, no sul de Mato Grosso do Sul, nesta segunda-feira (12). As imagens impressionantes foram registradas antes de um temporal que derrubou árvores e danificou imóveis na cidade. Veja o vídeo acima. ✅ Clique aqui para seguir o canal do g1 MS no WhatsApp Na gravação, é possível ver as nuvens se estendendo pelo horizonte, enquanto parte da cidade ainda aparece iluminada. Apesar da aparência, o meteorologista Natálio…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/12/video-nuvens-gigantes-formam-paredao-no-ceu-antes-de-temporal-causar-estragos-em-ms.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T21:50:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7N111ZjTdqNp3mgo7S64TuppfOM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/u/HxvcpJT46K159kphVRYQ/nuvem-gigante-gif.gif"
+        },
+        {
+          "clusterId": "96122429120fe334",
+          "slug": "34f246838a6d478d",
+          "titulo": "Polícia Civil investiga incêndio que destruiu parte de casa em Serrania; ex-namorado da moradora é suspeito",
+          "resumo": "Polícia Civil investiga incêndio que destruiu parte de casa em Serrania A Polícia Civil vai investigar um incêndio que destruiu parte de uma casa em Serrania (MG). De acordo com a Polícia Militar, o principal suspeito é o ex-namorado da moradora do imóvel. 📲 Siga a página do g1 Sul de Minas no Instagram Segundo a PM, imagens de câmeras de segurança teriam mostrado o homem chegando à residência na manhã de domingo (11). Ainda conforme os policiais, ele teria arrombado a grade, entrado na casa e sido visto deixando o local pouco tempo depois. Viatura da Polícia Militar (PM) de Minas Gerais.…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/12/policia-civil-investiga-incendio-que-destruiu-parte-de-casa-em-serrania-ex-namorado-da-moradora-e-suspeito.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T21:45:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gt3TcfkLuTnewfLJMM-f12qJJS4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/1/D/mBEsOsQKOkYf3Rmssxuw/whatsapp-image-2021-01-08-at-12.31.45.jpeg"
+        },
+        {
+          "clusterId": "d44905e77caf97fd",
+          "slug": "7cb459e54b4dacd0",
+          "titulo": "Carreta carregada com soja tomba e motorista morre em rodovia no interior de MG",
+          "resumo": "Veículo tombou em um trecho de curva PMRv/Divulgação Um motorista morreu após a carreta que dirigia, carregada com soja a granel, tombar na manhã desta segunda-feira (12), na MG-188, em Vazante, no Noroeste de Minas Gerais. Segundo a Polícia Militar Rodoviária (PMRv), o acidente aconteceu no km 289 da rodovia. Quando os militares chegaram ao local, encontraram os dois veículos da combinação de carga tombados às margens da pista, à direita do sentido em que trafegavam. ✅ Clique aqui para seguir o canal do g1 Triângulo no WhatsApp O motorista estava dentro da cabine e teve o óbito constatado…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/12/carreta-carregada-com-soja-tomba-e-motorista-em-rodovia-no-interior-de-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T21:41:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OD7z4E7NrGUA5-7AwQYPwpdSO4w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/H/2tas4URNqFG32FPZIemw/design-sem-nome-3-.png"
         },
         {
           "clusterId": "4b0f0080bc7338f9",
@@ -544,55 +533,165 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "9e2f37fa5141cae5",
-          "slug": "9975e3702226a8c5",
-          "titulo": "Acidente entre duas motos deixa pessoa morta e outra ferida na PE-22",
-          "resumo": "Um acidente envolvendo duas motocicletas na PE-22, no Loteamento Nossa Senhora da Conceição, em Paulista, no Grande Recife, resultou em uma morte e uma vítima ferida. O Corpo de Bombeiros socorreu a pessoa ferida, que foi encaminhada ao SAMU; a unidade de saúde de destino ainda não foi informada. Os nomes das vítimas não foram divulgados.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança no trânsito em vias estaduais.",
+          "clusterId": "4f7f9bc6e536eaad",
+          "slug": "a5ce0a911988e6fb",
+          "titulo": "Idosa de 72 anos morre após ser atropelada por motocicleta em Itabuna",
+          "resumo": "Uma idosa de 72 anos, Elezelita São Pedro, morreu depois de ser atingida por uma motocicleta enquanto retornava da igreja com uma amiga em Itabuna, sul da Bahia. O acidente ocorreu em local escuro, causado por queda de energia. A segunda mulher envolvida sofreu ferimentos no braço. O corpo da vítima foi sepultado na segunda-feira seguinte.",
+          "porQueImporta": "O caso destaca a necessidade de atenção à segurança viária em áreas com falhas de iluminação pública.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/12/acidente-motos-pe-22-grande-recife.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/idosa-morre-atropelada-na-bahia.ghtml"
             }
           ],
-          "updatedAt": "2026-10-12T17:34:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OZkkxxZBKiByy8bdPgwFAS7nWrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/L/prcnFKQ4aLCHbJG36yCQ/pe22ne1-pgmhd189.sub.01-frame-404.jpeg"
+          "updatedAt": "2026-10-13T00:27:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/BYNxcK58kITuz41QlgOXbOOXUc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/6/UpQldBTEW2SpnwIClpYg/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-12t212352.955.jpg"
         },
         {
-          "clusterId": "064a5eccb03cba2f",
-          "slug": "b29c1df5fdcad5e9",
-          "titulo": "Adolescente de 12 anos morre após ser lançada de carro que capotou na BR-235",
-          "resumo": "A adolescente Solange Abreu Batista, de 12 anos, morreu depois de ser lançada para fora de um carro que capotou na BR-235, em Tabocão. A menina era participante do Programa Educacional Bombeiro Mirim (PROEBOM) de Guaraí. A equipe do PROEBOM expressou pesar e ofereceu apoio aos familiares.",
-          "porQueImporta": "O caso destaca a vulnerabilidade de crianças em acidentes de trânsito e a importância de medidas de segurança viária.",
+          "clusterId": "47a048b45a089ac0",
+          "slug": "db831759af3a3dd0",
+          "titulo": "Homem e cavalo morrem após atropelamento por pick-up em rodovia de Piracicaba",
+          "resumo": "Um homem de 53 anos e seu cavalo foram mortos na Rodovia Geraldo de Barros, km 172, em Piracicaba, após serem atingidos por uma pick-up. O acidente ocorreu na noite de segunda-feira. O motorista da pick-up foi socorrido e encaminhado a um hospital particular.",
+          "porQueImporta": "O incidente destaca riscos de transporte de animais em rodovias e a necessidade de atenção ao tráfego em áreas rurais.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/12/alegre-e-carinhosa-quem-era-a-adolescente-que-morreu-apos-ser-lancada-para-fora-de-carro-em-rodovia.ghtml"
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/12/homem-montado-a-cavalo-morre-apos-ser-atropelado-por-pick-up-em-rodovia-de-piracicaba-animal-tambem-morreu.ghtml"
             }
           ],
-          "updatedAt": "2026-10-12T17:17:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pQFHoi6ACgW8_iTFfP0-MvIiA24=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/5KwkiRQnCKeqcS5hyYwQ/foto-e-montagem-vertical-2026-10-11t091838.167.jpg"
+          "updatedAt": "2026-10-13T00:05:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Lefol2tK95Njw-c36peOyteRbqU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/bdw2fZRc24a0o2pswXUg/carro-cavalo.jpg"
         },
         {
-          "clusterId": "e8a5a5c123c1f50d",
-          "slug": "4dddeec2aab7d9d6",
-          "titulo": "Acidente de moto deixa dois mortos em Angra dos Reis",
-          "resumo": "Dois homens morreram após a motocicleta em que estavam sofreram falha mecânica, desgovernando e capotando na Avenida Antônio Bertholdo da Silva Jordão, em Angra dos Reis. A colisão ocorreu no bairro Ponta Leste, quando a corrente do veículo arrebentou. Equipes de resgate do Corpo de Bombeiros chegaram por volta das 17h10, mas os ocupantes, de 23 e 35 anos, não resistiram aos ferimentos.",
-          "porQueImporta": "O acidente resultou em duas fatalidades, destacando riscos de falhas mecânicas em motocicletas.",
+          "clusterId": "5abb41732c9b18a0",
+          "slug": "d0ac4c46cdfebc5b",
+          "titulo": "Motociclista morre após invadir contramão e bater de frente com caminhonete em Alto Alegre",
+          "resumo": "Uma motociclista de 34 anos morreu ao bater de frente com uma caminhonete na Comunidade Indígena da Barata, em Alto Alegre, Roraima. A motocicleta transportava uma menina de 16 anos como passageira e estava em velocidade acima do permitido. O motorista da caminhonete, de 19 anos, relatou ter visto a motocicleta vindo em sua direção na faixa contrária. O acidente foi registrado pela Polícia Militar local.",
+          "porQueImporta": "O incidente destaca a importância da segurança viária e do respeito às regras de trânsito em áreas rurais.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/12/acidente-de-moto-deixa-dois-mortos-em-angra-dos-reis.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/12/motociclista-morre-apos-invadir-a-contramao-e-bater-de-frente-com-caminhonete-em-alto-alegre.ghtml"
             }
           ],
-          "updatedAt": "2026-10-12T16:53:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YtBOzPVK-ys3BHkUybE4QFHHF4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/2/ZLThFOQBqB6C3TFaselw/whatsapp-image-2026-09-18-at-15.22.33-1-.jpeg"
+          "updatedAt": "2026-10-12T23:59:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/BWLKTtjKTHFjN2pNBsz0UvraGXo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/B/mIMKTRSE2gy7qh4yPZIw/acidente-taiano.jpg"
+        },
+        {
+          "clusterId": "e0e6d07b33cd1d7f",
+          "slug": "08c9768d40384f53",
+          "titulo": "Carro pega fogo após motorista perder controle da direção em São Luís",
+          "resumo": "Um veículo bateu na Avenida Três, no bairro Itapiracó, em São Luís, e depois pegou fogo. O motorista perdeu o controle da direção antes do acidente. Uma pessoa ficou ferida e recebeu atendimento no local. Bombeiros foram acionados para combater as chamas e avaliar risco de explosão.",
+          "porQueImporta": "O incidente destaca a importância da segurança viária e da pronta resposta de emergência.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/12/carro-pega-fogo-apos-motorista-perder-controle-da-direcao-em-sao-luis-uma-pessoa-fica-ferida.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-12T23:20:27.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/F1qYA3f2hoPifbYpLu-6DJBa97Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/H/5SeWhiQPAAg6sCQGaobA/montagens-1920-x-1080-px-2026-10-12t201304.147.png"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "ed6bebe8a4d0d1bc",
+          "slug": "31d229524d5a2f35",
+          "titulo": "Temporais causam alagamentos e destruição em cidades da região de Campinas",
+          "resumo": "Temporais provocaram alagamentos e destruição em cidades da região de Campinas, no interior de São Paulo. Famílias nas ruas de acesso à parte baixa de Cosmópolis passaram o dia limpando lama após a enxurrada derrubar muros e invadir quatro casas. O alagamento trouxe destroços, móveis e tijolos, resultando em perdas totais para os moradores.",
+          "porQueImporta": "O evento demonstra a vulnerabilidade das áreas urbanas à ocorrência de tempestades intensas, afetando a segurança e a infraestrutura local.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/temporais-provocam-alagamentos-e-destruicao-em-cidades-da-regiao-de-campinas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-13T00:48:35.000Z"
+        },
+        {
+          "clusterId": "e15d5a105b0af5bc",
+          "slug": "c2e60126accc01d2",
+          "titulo": "Centenas de moradores fora de casa por cheias no Rio Grande do Sul",
+          "resumo": "Centenas de pessoas ficaram fora de casa por quase duas semanas devido às cheias de rios no Rio Grande do Sul. Em Uruguaiana, moradores como Rosa Maria Minho Viana montaram barracas em frente às casas para acompanhar o avanço das águas. A situação mantém a população deslocada e em busca de segurança.",
+          "porQueImporta": "A inundação afeta a vida cotidiana e a segurança de comunidades inteiras.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/familias-atingidas-pela-cheia-no-rs.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-13T00:09:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/5zp1DX3v8npMXBxf1290tau8fl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/I/JWoqY6R7yLYpm0CV6dGw/captura-de-tela-2026-10-12-210851.png"
+        }
+      ]
+    },
+    {
+      "slug": "terremoto",
+      "label": "Terremoto",
+      "stories": [
+        {
+          "clusterId": "41c539e6855df7e0",
+          "slug": "1dc0de6ae6aa5838",
+          "titulo": "Terremoto de magnitude 6,1 atinge o Panamá",
+          "resumo": "Um terremoto de magnitude 6,1 ocorreu na província de Veraguas, Panamá, a uma profundidade de 10 quilômetros. O evento aconteceu três dias após um tremor de magnitude 7,7 ter atingido o país. O USGS relatou a profundidade e a magnitude do novo sismo.",
+          "porQueImporta": "O sismo pode causar danos e representar risco à população local.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-61-atinge-o-panama-diz-agencia/"
+            },
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/panama-registra-novo-terremoto-tres-dias-apos-grande-tremor"
+            }
+          ],
+          "updatedAt": "2026-10-13T01:06:44.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/terremoto-panama-3.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "a173406c37f8f176",
+          "slug": "7e7d7d8ea8af9d8b",
+          "titulo": "Acidente com chalana no Rio Grande leva a naufrágio e resgate de 25 pessoas",
+          "resumo": "Uma chalana navegando no Rio Grande, próximo a Sacramento, afundou, deixando cerca de 25 pessoas a bordo. O piloto, José Eduardo Goulart de Andrade, afirmou que a embarcação estava com documentação em dia e que agiu rapidamente para garantir a segurança dos passageiros. Todos os ocupantes foram resgatados sem ferimentos por civis. A Marinha iniciou investigação sobre o incidente.",
+          "porQueImporta": "O caso destaca a importância da segurança em embarcações recreativas e a necessidade de fiscalização adequada.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/12/piloto-diz-que-chalana-estava-em-dia-e-que-agiu-rapido-antes-de-naufragio-no-rio-grande-colete-em-todo-mundo.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/marinha-investiga-acidente-com-chalana-no-rio-grande-em-minas-gerais/"
+            }
+          ],
+          "updatedAt": "2026-10-13T01:03:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sA8vyMj4s6kNUNwKtHQxt6EsfMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/G/AcOqS6Q7aPKQC7ZxLfww/vlcsnap-2026-10-12-20h58m28s457.png"
         }
       ]
     },
@@ -601,7 +700,7 @@
       "label": "Explosão",
       "stories": [
         {
-          "clusterId": "d039a116e1b03da7",
+          "clusterId": "c82d75f8826261fc",
           "slug": "0f1f62d1dbf88472",
           "titulo": "Explosão mata adolescente durante excursão escolar no norte de Israel",
           "resumo": "Uma explosão atingiu um grupo de alunos e professores em uma excursão escolar perto de Ramim Ridge, no norte de Israel, próximo à fronteira com o Líbano. O incidente resultou na morte de um jovem de 15 anos e deixou cerca de 19 feridos, muitos adolescentes. Militares suspeitam que a causa seja um artefato explosivo não detonado, possivelmente relacionado ao Hezbollah. O local da explosão estava próximo a Neot Mordechai.",
@@ -614,108 +713,57 @@
               "url": "https://g1.globo.com/mundo/noticia/2026/10/12/explosao-deixa-cerca-de-20-feridos-incluindo-criancas-e-professores-no-norte-de-israel.ghtml"
             },
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/explosao-mata-adolescente-durante-excursao-escolar-entre-libano-e-israel/"
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/mundo/explosao-no-norte-de-israel-deixa-um-morto-e-mais-de-20-feridos-em-excursao-de-estudantes/"
             }
           ],
-          "updatedAt": "2026-10-12T16:00:50.000Z",
+          "updatedAt": "2026-10-12T20:34:37.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/s4qgrSJvcn_PAbNJTYkwx1xepuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Q/Fvw9jbThALWvrTJGhicA/whatsapp-image-2026-10-12-at-15.45.08.jpeg"
-        },
-        {
-          "clusterId": "ee6cffc3ebb124c2",
-          "slug": "8a195dd8e443ef99",
-          "titulo": "Petroleiro explode após atingir mina no Estreito de Ormuz",
-          "resumo": "Um petroleiro explodiu e pegou fogo depois de colidir com uma mina naval no Estreito de Ormuz, segundo a Guarda Revolucionária do Irã. A embarcação, cujo nome, bandeira e origem não foram divulgados, não teve detalhes sobre vítimas ou extensão dos danos. Não há confirmação independente do incidente.",
-          "porQueImporta": "O Estreito de Ormuz é uma rota crítica para o transporte de petróleo, e qualquer acidente pode afetar a segurança e os preços globais.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/10/petroleiro-explode-apos-atingir-mina-no-estreito-de-ormuz-afirma-guarda-revolucionaria-do-ira.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-10T18:21:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zsmfODQH5bmwVuFzpBJBlU2RTMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/IueoH0RuiQRx5MJuKhcw/2026-08-17t134126z-1571278001-rc2c0naakvh3-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
         }
       ]
     },
     {
-      "slug": "acidente",
-      "label": "Acidente",
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
       "stories": [
         {
-          "clusterId": "4d221f41f6dcfd5c",
-          "slug": "ca07280b824cb6bb",
-          "titulo": "Menina de 10 anos morre após afogamento em parque aquático no Ceará",
-          "resumo": "Uma menina de 10 anos morreu após se afogar em um parque aquático no Ceará. O incidente ocorreu na manhã de domingo, 11 de outubro. Não há detalhes adicionais sobre as circunstâncias do afogamento. As autoridades investigam o ocorrido.",
-          "porQueImporta": "O caso destaca a necessidade de segurança em locais de lazer aquático.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
+          "clusterId": "2633195187b8d002",
+          "slug": "e81d345ecda7d2c1",
+          "titulo": "Manaus suspende aulas da rede municipal por mau ar",
+          "resumo": "A Prefeitura de Manaus manteve a suspensão das aulas da rede municipal nesta terça-feira, 13, em razão da má qualidade do ar na capital amazonense. A medida preventiva visa reduzir a exposição de estudantes e profissionais da educação à fumaça proveniente de queimadas em municípios do interior do Amazonas. A suspensão já havia ocorrido na sexta-feira, 9, quando a qualidade do ar também ficou abaixo dos padrões.",
+          "porQueImporta": "A decisão protege a saúde de crianças e professores diante de riscos respiratórios.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
           "sources": [
             {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/menina-de-10-anos-morre-apos-afogamento-em-parque-aquatico-no-ceara"
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/12/manaus-mantem-suspensao-das-aulas-da-rede-municipal-nesta-terca-feira-devido-a-ma-qualidade-do-ar.ghtml"
             }
           ],
-          "updatedAt": "2026-10-12T17:33:42.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/10/isis-1.jpg"
-        },
+          "updatedAt": "2026-10-12T23:41:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ENGJhMkzVh10GaV_h8SbgnkwD6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/x/GNo9HERvmA6nzt8GCdww/fumaca-em-manaus-2-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
         {
-          "clusterId": "c4334ece31044a1a",
-          "slug": "21c750bf35c17922",
-          "titulo": "Menina morre após ser atingida por trave de futebol em festa no Paraná",
-          "resumo": "Uma menina morreu depois de ser atingida por uma trave de futebol durante uma festa de comemoração do Dia das Crianças em Imbaú, Paraná. O acidente aconteceu no domingo, 11, nos Campos Gerais do estado. A vítima foi socorrida, mas não resistiu ao ferimento. O local do incidente foi identificado como a área da festa.",
-          "porQueImporta": "O caso destaca os riscos de acidentes em eventos recreativos e a necessidade de segurança adequada.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
+          "clusterId": "80595cf2b1925ac6",
+          "slug": "1bd430e9d6108c6b",
+          "titulo": "Viúva de Rick reflete sobre luto após acidente de helicóptero",
+          "resumo": "Geralda Helena, viúva do cantor Rick, compartilhou mensagens reflexivas sobre o luto. O cantor faleceu em 21 de setembro em um acidente de helicóptero. A viúva expressou como a perda mudou sua identidade. A publicação traz o relato de sua experiência de perda e adaptação.",
+          "porQueImporta": "O caso destaca o impacto emocional de acidentes aéreos em familiares de vítimas.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/menina-morre-apos-ser-atingida-por-trave-de-futebol-em-festa-no-parana/"
+              "url": "https://www.cnnbrasil.com.br/pop/celebridades/mudou-quem-eu-sou-diz-viuva-de-rick-em-reflexao-sobre-luto/"
             }
           ],
-          "updatedAt": "2026-10-12T16:59:38.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "5fc0a83ad8ce4f8e",
-          "slug": "47b1ccfc7bb5346f",
-          "titulo": "Incêndio deixa apartamento em Porto Velho com móveis queimados e fumaça",
-          "resumo": "Um incêndio atingiu um apartamento em um condomínio residencial na Zona Norte de Porto Velho, no sábado (9). A jovem de 19 anos e sua cadelinha foram resgatadas. O fogo causou danos a móveis, teto, paredes e espalhou cinzas pelos cômodos.",
-          "porQueImporta": "O incidente destaca a necessidade de segurança contra incêndios em residências.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/12/video-imagens-mostram-estragos-em-apartamento-apos-incendio-em-porto-velho.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T17:22:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/j5K5MItatkBBVRny0A-_8IDgetA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/n/iT1Bf2R6a5H2EdsytjuA/montagem-de-apartamento-apos-incendio.png"
-        },
-        {
-          "clusterId": "b1e389b042188f4f",
-          "slug": "db72863558061d55",
-          "titulo": "Idoso de 71 anos morre após casa ser destruída por incêndio no AP",
-          "resumo": "Um idoso de 71 anos morreu quando a casa onde morava foi destruída por incêndio na noite de domingo, 11, na comunidade do Carmo do Macacoari, em Itaubal, a 108 km de Macapá. O fogo teria iniciado por volta das 22h, segundo familiares. O falecido, Raimundo José Corrêa Picanço, morava sozinho e era tio do prefeito de Itaubal, Jaisom da Costa Picanço. A Polícia Científica investigará as causas do incêndio.",
-          "porQueImporta": "O incidente destaca a vulnerabilidade de residências em áreas rurais e a necessidade de medidas de prevenção de incêndios.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/12/idoso-de-71-anos-morre-apos-casa-ser-destruida-por-incendio-no-ap-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-12T17:09:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/23WqVxCdL3tEadwrYJhWprgT0h8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/o/PmeUlfTCiq8e8ZW8rKng/aleixo-g1-40-.jpg"
+          "updatedAt": "2026-10-12T22:58:54.000Z"
         }
       ]
     },
@@ -724,60 +772,21 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "231ec5f332e554b2",
-          "slug": "29493543d2327b18",
-          "titulo": "Furacão Simon rebaixado para categoria 2 e continua ameaçando México",
-          "resumo": "O furacão Simon foi rebaixado da categoria 3 para a categoria 2, mantendo ventos sustentados de 175 km/h. A tempestade permanece na costa mexicana, com risco de danos. No estado de Guerrero, uma pessoa morreu, conforme autoridades locais.",
-          "porQueImporta": "O evento representa risco contínuo à segurança e infraestrutura costeira do México.",
+          "clusterId": "e65a2f3f3c0a5cd3",
+          "slug": "468bf8108134def9",
+          "titulo": "Defesa Civil alerta para chuvas fortes em todo o estado",
+          "resumo": "A Defesa Civil informou que o tempo instável se manterá entre terça e quinta-feira, com chuvas fortes previstas em Sorocaba, Jundiaí, Bauru, Presidente Prudente e Itapetininga. As pancadas de chuva podem ocorrer em todo o estado, acompanhadas de raios, rajadas de vento e possibilidade de temporais e granizo pontual. O Inmet prevê ventos de até 100 km/h. Os acumulados podem ser expressivos, especialmente nas regiões oeste e sul.",
+          "porQueImporta": "O alerta indica risco de inundações e danos à infraestrutura urbana.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/furacao-simon-e-rebaixado-para-categoria-2-mas-ainda-ameaca-mexico/"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:50:04.000Z"
-        },
-        {
-          "clusterId": "5567d5db3d0620a2",
-          "slug": "8ce20d5566f0fab2",
-          "titulo": "Alerta de tempestade e previsão do tempo para semana do feriado de Nossa Senhora Aparecida",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) mantém alerta de perigo potencial de tempestade para as regiões Norte, Centro-Oeste, Sudeste e Sul. A baixa umidade afeta o Nordeste, reduzindo a probabilidade de chuvas fortes. O alerta cobre a semana do feriado de Nossa Senhora Aparecida, indicando risco de ventos fortes e chuvas intensas em áreas urbanas e rurais.",
-          "porQueImporta": "O alerta informa a população sobre condições meteorológicas adversas que podem causar transtornos e riscos à segurança.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/agenda-verde/o-alerta-de-tempestade-e-previsao-do-tempo-para-semana-do-feriado-de-nossa-senhora-aparecida/"
-            }
-          ],
-          "updatedAt": "2026-10-12T16:30:31.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/GettyImages-2193654222.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "9dde9e4d385d9ed8",
-          "slug": "803c42a053d7d43f",
-          "titulo": "Alerta vermelho para risco muito alto de inundação no Rio Uruguai",
-          "resumo": "A Defesa Civil do Rio Grande do Sul emitiu alerta vermelho indicando risco muito alto de inundação do Rio Uruguai entre segunda e terça-feira. O aviso é válido até 7h20 em São Borja e até 12h em Itaqui e Uruguaiana. Desde 2 de outubro, fortes chuvas elevaram o nível dos rios, deixando cerca de 484 pessoas fora de casa em Uruguaiana, Itaqui, São Borja e Alegrete.",
-          "porQueImporta": "O alerta destaca a vulnerabilidade de milhares de moradores diante de possíveis inundações.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/12/rio-uruguai-alerta-inundacao-rs.ghtml"
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/12/defesa-civil-alerta-para-chuvas-fortes-em-todo-o-estado-ate-quinta-feira-inmet-preve-ventos-de-100-kmh.ghtml"
             }
           ],
-          "updatedAt": "2026-10-12T16:29:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bKJ1LFnQKR5cQgAX-w1ZNLcTBkA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/9/CWqKRdSyyumh4bUFCEvA/g1.jpg"
+          "updatedAt": "2026-10-12T22:45:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dQ8rMJXgsSnEJMCl4Dii3tgdHrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/G/JvSqpCSGCgXcBmxvKgEg/edicao-g1-agenda.png"
         }
       ]
     }
