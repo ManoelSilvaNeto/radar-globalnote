@@ -1,15 +1,14 @@
 {
-  "ranAt": "2026-10-14T13:58:04.437Z",
+  "ranAt": "2026-10-14T20:17:37.649Z",
   "editionDate": "2026-10-14",
-  "hourUtc": 13,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 20,
+  "outcome": "generated",
+  "reason": "\"Eventos climáticos e acidentes de trânsito dominam o panorama do dia\" (4 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
-    "groq: erro — Error: groq 400: {\"error\":{\"message\":\"Generated JSON does not match the expected schema. Please adjust your prompt. See ",
-    "cerebras: erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "groq: ok"
   ]
 }
