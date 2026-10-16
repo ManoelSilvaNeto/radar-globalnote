@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-15T13:38:08.469Z",
-  "editionDate": "2026-10-15",
-  "hourUtc": 13,
-  "outcome": "generated",
-  "reason": "\"Incidentes de infraestrutura e acidentes de trânsito dominam o cenário nacional\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-16T04:52:25.834Z",
+  "editionDate": "2026-10-16",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
