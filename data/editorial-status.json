@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-10-16T04:52:25.834Z",
+  "ranAt": "2026-10-16T13:28:06.362Z",
   "editionDate": "2026-10-16",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito predominam, acompanhados por enchentes e tempestade\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
