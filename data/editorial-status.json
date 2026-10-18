@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-10-18T05:00:43.498Z",
+  "ranAt": "2026-10-18T12:45:23.229Z",
   "editionDate": "2026-10-18",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Incidências de violência, clima e adaptação empresarial marcam o panorama do dia\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
