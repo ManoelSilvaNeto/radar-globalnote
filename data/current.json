@@ -1,176 +1,176 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-20T13:48:06.687Z",
+  "generatedAt": "2026-10-20T20:05:23.159Z",
   "home": [
     {
-      "clusterId": "a8f9fc0c138842bb",
-      "slug": "273c0a359015317d",
-      "titulo": "Aulas da rede estadual de ensino em Manaus e Autazes suspensas por fumaça de queimadas",
-      "resumo": "As aulas da rede estadual de ensino em Manaus e Autazes permanecem suspensas em todos os turnos até sexta-feira (23) devido à fumaça das queimadas, que compromete a qualidade do ar. Na rede municipal de Manaus, as atividades presenciais também foram suspensas nesta terça-feira (20) por poluição. A qualidade do ar em Manaus variava de moderada a muito ruim na manhã de 20, segundo dados do IQAir e do Sistema Eletrônico de Vigilância Ambiental.",
-      "porQueImporta": "A suspensão das aulas reflete a preocupação com a saúde pública diante da poluição do ar.",
+      "clusterId": "942ad5136bcd9339",
+      "slug": "cd90e67a6b533f35",
+      "titulo": "Terras caídas ameaçam casas e obrigam ribeirinhos a mudar de endereço durante estiagem no Amazonas",
+      "resumo": "A estiagem no Amazonas intensifica o fenômeno das terras caídas, que provoca desmoronamentos nas margens dos rios e coloca em risco as casas das comunidades ribeirinhas. Na comunidade São Francisco da Mangueira, em Juruá, moradores já tiveram que mudar de residência várias vezes para escapar da erosão. O estudo da Universidade do Estado do Amazonas descreve o fenômeno como escavação causada pelas águas dos rios, resultando em desgaste intenso das margens.",
+      "porQueImporta": "O aumento das terras caídas coloca em risco a segurança e a habitação das populações ribeirinhas, exigindo adaptações e deslocamentos.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/20/terras-caidas-ameacam-casas-e-obrigam-ribeirinhos-a-mudar-de-endereco-durante-estiagem-no-am.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-20T19:51:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0WeQ_lz0G7aTkHNTQKnWjBzqw1k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/z/V4SvhJR66PjICk2BrWcQ/g1-terras-caidas-amazonas-jh.jpg"
+    },
+    {
+      "clusterId": "b9e929322631a9ba",
+      "slug": "2089c7c199a5d9bc",
+      "titulo": "Carro invade contramão e provoca acidente na BR-381",
+      "resumo": "Um carro invadiu a contramão na BR-381, próximo ao km 17 em Santa Luzia, e colidiu com outro veículo, levando um caminhão a descer um barranco. O caminhão, que seguia em sentido Vitória, acabou parando na mata para evitar mais colisões. Dois ocupantes ficaram feridos. O trecho da rodovia ficou parcialmente interditado.",
+      "porQueImporta": "O acidente interrompeu o tráfego e causou feridos, afetando a mobilidade na região.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/20/carro-invade-contramao-e-provoca-acidente-com-outros-veiculos-na-br-381-duas-pessoas-ficam-feridas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-20T19:33:40.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/M7RMDSaGpW3SIoQ69xYTUGFbfQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/L/aK1aIbSwOAAOWqZmZIxA/ezgif-5e76246b1d5b6eae.gif"
+    },
+    {
+      "clusterId": "cfe9a689c42803b8",
+      "slug": "3a9756a93a82d261",
+      "titulo": "Cão resgatado de carro em chamas enquanto dono estava dentro de mercado",
+      "resumo": "Bombeiros encontraram um cão escondido no interior de um carro em chamas e o resgataram. O veículo estava dentro de um estabelecimento comercial quando ocorreu o incêndio. O dono do animal permanecia no mercado no momento do acidente.",
+      "porQueImporta": "O caso demonstra a importância da rápida intervenção de serviços de emergência em situações de incêndio em veículos.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/e-o-bicho/cao-e-resgatado-de-carro-em-chamas-enquanto-dono-estava-dentro-de-mercado"
+        }
+      ],
+      "updatedAt": "2026-10-20T19:29:22.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/cao-incendio.jpg"
+    },
+    {
+      "clusterId": "1dec296986b1407c",
+      "slug": "62e7a7e1b92392e0",
+      "titulo": "Queimadas deixam animais mortos e destroem vegetação em Santarém e Belterra",
+      "resumo": "Imagens divulgadas pelo 4º Grupamento de Bombeiros Militar mostram animais mortos e áreas de vegetação destruídas pelo fogo no assentamento Chapadão, em Santarém, e em Belterra, no oeste do Pará. O fogo destrói sementes, mata árvores jovens, empobrece o solo e dificulta a regeneração da floresta.",
+      "porQueImporta": "O incêndio compromete a fauna, flora e a recuperação ambiental da região.",
       "categoria": "Incêndio florestal",
       "categoriaSlug": "incendio-florestal",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/20/aulas-da-rede-estadual-seguem-suspensas-em-manaus-e-autazes-ate-sexta-feira-23-por-causa-da-fumaca.ghtml"
+          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/20/video-queimadas-deixam-animais-mortos-e-destroem-vegetacao-em-santarem-e-belterra.ghtml"
         }
       ],
-      "updatedAt": "2026-10-20T13:40:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/U9okUG1LNK18WqTXbU0kBg5nBh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/1/o3nyY1RGqlmBDFPbtF1Q/aulas-1910.jpg"
+      "updatedAt": "2026-10-20T19:24:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ckUuRyGZgqYxYkhEIXO4gWz2EVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/1/n83NN1Tc6EqiKDyWExuw/whatsapp-image-2026-10-20-at-16.15.14.jpeg"
     },
     {
-      "clusterId": "804663f87cb0f9ff",
-      "slug": "9e275de5815db4cb",
-      "titulo": "Motorista bêbado atropela e mata advogado em Imbituva",
-      "resumo": "Um motorista, sob efeito de álcool, atropelou o advogado Roberto Daldim dos Santos, de 61 anos, enquanto ele caminhava com a esposa rezando o terço em Imbituva, Paraná. O acidente ocorreu por volta das 9h de sábado. A vítima morreu no local; a esposa não sofreu ferimentos. O condutor fugiu, mas retornou e foi testado, apresentando 0,7 mg/L de álcool no ar.",
-      "porQueImporta": "O caso destaca a gravidade de dirigir embriagado e a necessidade de fiscalização rigorosa.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/20/motorista-que-atropelou-e-matou-advogado-que-caminhava-rezando-o-terco-com-a-esposa-no-parana-estava-bebado-diz-policia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-20T13:34:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/rxznoek6iKPoMLMcvjKIHC3g1yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/l/pphvRJSMe2UhxV8JcH9A/g1-1-.png"
-    },
-    {
-      "clusterId": "3eb00526c176c32c",
-      "slug": "c6ee96853df9ad3b",
-      "titulo": "Criança de cinco anos morre atropelada por caminhão na Serra",
-      "resumo": "Uma criança de cerca de cinco anos morreu após ser atropelada por um caminhão na rua Usiminas, bairro Praiamar, na Serra, Grande Vitória, por volta das 9h30. O motorista do caminhão compareceu ao Destacamento de Polícia Militar de Nova Almeida e afirmou não ter visto a criança. A perícia foi realizada no local por volta das 10h30.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção e fiscalização no tráfego de veículos pesados em áreas urbanas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/20/crianca-morre-atropelada-por-caminhao-na-serra.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-20T13:29:38.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/DsrV2Ihbh3eEzvVy-AYRp_TzPuI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/k/bPBG0YR22R8Xxp5oNiIQ/thumb-fotos-6-.jpg"
-    },
-    {
-      "clusterId": "6ac8bfb3e1a028c9",
-      "slug": "8a0f9f66bc853028",
-      "titulo": "Carreta de granito pega fogo na BR-251 em Salinas",
-      "resumo": "Uma carreta carregada com granito pegou fogo na BR-251, em Salinas, na manhã de terça-feira. O incêndio teria iniciado nas rodas traseiras, na região do sistema de frenagem, enquanto seguia no sentido da BR-116. O condutor desengatou o cavalo-mecânico e permaneceu no local até a chegada dos bombeiros, sem ferimentos. As chamas foram controladas e a via foi interditada nos dois sentidos.",
-      "porQueImporta": "O incêndio bloqueou a via e pode causar atrasos no tráfego.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/20/carreta-carregada-com-granito-pega-fogo-e-interdita-br-251-nos-dois-sentidos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-20T13:19:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/L_SxWkdVlsZW9WD6Gnr_34jdrj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/5/o3q1A8R72iuNDa980NDw/carretagranito.jpeg"
-    },
-    {
-      "clusterId": "b74beae68a66d069",
-      "slug": "45ebb772c106a8a2",
-      "titulo": "Prefeitura de Óbidos decreta situação de emergência por seca e incêndios",
-      "resumo": "A prefeitura de Óbidos, no oeste do Pará, decretou situação de emergência devido à estiagem severa e ao avanço de incêndios florestais. A medida foi oficializada pelo prefeito Jaime Barbosa da Silva diante dos prejuízos causados pela falta de chuvas, redução histórica no nível dos rios e queimadas que ameaçam a região. A crise climática afeta diretamente moradores das zonas urbana e rural.",
-      "porQueImporta": "A declaração indica a gravidade da situação climática e a necessidade de recursos e ações emergenciais na região.",
+      "clusterId": "eb299f54a81e4c77",
+      "slug": "4c84407c4a2a1a26",
+      "titulo": "Ipirá decreta situação de emergência por estiagem prolongada",
+      "resumo": "A Prefeitura de Ipirá decretou situação de emergência em todo o município devido à estiagem prolongada. A medida foi oficializada na segunda-feira (19) e tem validade de 180 dias. A falta de chuvas provocou escassez de água para consumo humano, secagem de aguadas e reservatórios particulares, e níveis muito baixos de açudes.",
+      "porQueImporta": "A falta de água afeta a população urbana e rural, comprometendo o abastecimento e a qualidade de vida.",
       "categoria": "Seca",
       "categoriaSlug": "seca",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/20/obidos-decreta-situacao-de-emergencia-apos-seca-extrema-e-avanco-de-incendios-florestais.ghtml"
+          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/20/ipira-decreta-situacao-de-emergencia-apos-agravamento-do-periodo-de-estiagem.ghtml"
         }
       ],
-      "updatedAt": "2026-10-20T13:08:23.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/JG-MpGBqMVmrKNAvG60qe2zokoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/F/UdxKLcSEqBRErPWk69MA/obidos.jpg"
+      "updatedAt": "2026-10-20T19:20:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/fPhn6y5wIDfM2sQy7KauDAIiRuc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/g/Behue0TuAtSaD8GfyvNA/texto-do-seu-paragrafo-2025-10-24t152648.527.png"
     },
     {
-      "clusterId": "06452c24af81b181",
-      "slug": "535999fabd26260a",
-      "titulo": "Motociclista morre após perder controle de veículo ao passar por quebra-molas e bater em placa",
-      "resumo": "Simon Cunha Guilherme, de 32 anos, morreu em um acidente de moto na avenida B, Jardim Aureny IV, Palmas. O acidente ocorreu na noite de segunda-feira, 19, por volta das 21h05, quando o motociclista passou por um quebra-molas, perdeu o controle da moto e colidiu com uma placa de sinalização. O Serviço de Atendimento Móvel de Urgência (SAMU) constatou o óbito no local.",
-      "porQueImporta": "O incidente destaca a importância da atenção ao trafegar em áreas com sinalização de redução de velocidade.",
+      "clusterId": "1c78cfbdfefc5980",
+      "slug": "db3d2e31042d42b7",
+      "titulo": "Soldador morre em queda de 3 metros em empresa de Aguaí",
+      "resumo": "Carlos Antônio de Jesus Pereira, soldador de Mogi Guaçu, morreu após cair 3 metros em uma obra na empresa Paulispell, em Aguaí (SP). A queda ocorreu no sábado (17). A família exige justiça e afirma que a empresa ainda não tomou providências.",
+      "porQueImporta": "O acidente destaca a necessidade de segurança no trabalho em indústrias de soldagem.",
+      "categoria": "Acidente de trabalho",
+      "categoriaSlug": "acidente-de-trabalho",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/20/quem-era-carlos-pereira-soldador-que-morreu-em-grave-acidente-de-trabalho-no-interior-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-20T19:15:55.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/vH8z_m8x7I31KhDNkszTQJd6N4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/m/pyDUjeQEGKVjIn2upDjw/soldador.jpg"
+    },
+    {
+      "clusterId": "27705b3d94ff4ad4",
+      "slug": "7d31798d712d6d77",
+      "titulo": "MPT investiga morte de trabalhador chinês que caiu de 13 metros na fábrica da BYD na Bahia",
+      "resumo": "Um trabalhador terceirizado da BYD morreu após cair de cerca de 13 metros de altura na fábrica em Camaçari, na Região Metropolitana de Salvador. O acidente ocorreu na segunda-feira, enquanto o homem realizava serviço no teto de uma área da fábrica. O Ministério Público do Trabalho abriu inquérito para investigar a morte. O trabalhador foi identificado como Xiaoqing e era chinês.",
+      "porQueImporta": "O caso destaca a necessidade de fiscalização de segurança no trabalho em fábricas de veículos.",
+      "categoria": "Acidente de trabalho",
+      "categoriaSlug": "acidente-de-trabalho",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/20/mpt-investiga-morte-de-trabalhador-chines-da-byd.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-20T19:12:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/oc2v-_a_jcTi-gWtcf6ovgdUlQ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/x/OzcBdFToepzlmhuzRkpA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-19t181706.581-1-.jpg"
+    },
+    {
+      "clusterId": "7164d170325ee427",
+      "slug": "e0d1f6441e9ecbb8",
+      "titulo": "Motorista morre em batida de frente entre caminhões de gado e de sorvete na MG-285",
+      "resumo": "Na manhã de terça-feira, um acidente de trânsito na MG-285, em Piraúba, resultou na morte de um motorista e ferimento de outro. Os veículos, dirigindo em sentidos opostos, colidiram de frente. Um caminhão transportava 50 cabeças de gado, das quais cinco morreram e cinco ficaram feridos. Os animais sobreviventes foram retirados pelos bombeiros.",
+      "porQueImporta": "O acidente destaca os riscos de colisões entre veículos de carga pesada em rodovias de tráfego intenso.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/20/motociclista-morre-apos-perder-controle-de-veiculo-ao-passar-por-quebra-molas-e-bater-em-placa.ghtml"
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/20/motorista-morre-em-batida-de-frente-entre-caminhoes-de-gado-e-de-sorvete-na-mg-285.ghtml"
         }
       ],
-      "updatedAt": "2026-10-20T13:07:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/hB6A6R6e3OIfCkjgbE-XdXXDDVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/U/9W1HsATE2AqpldwinkDA/foto-e-montagem-vertical-2026-10-20t095800.524.png"
+      "updatedAt": "2026-10-20T19:11:52.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/vqobSbUYf6w8MJdRMGJFpCZEh5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/w/Us0U4OSUK87errArKPlw/uba-1-.png"
     },
     {
-      "clusterId": "a022e028aa2ddcc5",
-      "slug": "a7bca182543c550a",
-      "titulo": "Gari morre atropelado por caminhão de coleta de lixo em Ponta Porã",
-      "resumo": "Patrick Revert Borborema, 48 anos, morreu após ser atropelado por um caminhão de coleta de lixo na manhã de terça-feira, 20, em Ponta Porã (MS). O acidente ocorreu por volta das 6h50, no cruzamento das ruas Vasco da Gama e Américo Vespúcio, no bairro Jardim Primavera. O trabalhador desceu do caminhão enquanto o motorista manobrava em marcha à ré, e então caiu embaixo do veículo.",
-      "porQueImporta": "O incidente destaca riscos de segurança no trabalho de coleta de lixo.",
+      "clusterId": "a01897f5e0c2c2d4",
+      "slug": "03003aa586304000",
+      "titulo": "Sobrinho de Luiz Gonzaga e esposa morrem em acidente na BR-235",
+      "resumo": "Fausto Luiz Maciel, sobrinho do cantor Luiz Gonzaga, e sua esposa Maria Dalgilmar Barbosa de Amorim Maciel morreram após colisão entre um carro e um caminhão na BR-235, trecho de Casa Nova, no norte da Bahia. O acidente ocorreu na segunda-feira, 19, e as vítimas eram residentes de Petrolina, Pernambuco. As autoridades investigam o caso.",
+      "porQueImporta": "O falecimento de familiares de um ícone da música popular brasileira destaca a gravidade de acidentes de trânsito no país.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/20/gari-morre-atropelado-por-caminhao-de-coleta-de-lixo-durante-coleta-em-ponta-pora.ghtml"
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/20/acidente-entre-carro-e-caminhao-na-bahia.ghtml"
         }
       ],
-      "updatedAt": "2026-10-20T13:01:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/A5fwoKAb4ffNkef03bpolSD53bA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/w/c4oDBdR3e6WvpA3PhNMw/fgfnhbjm.png"
+      "updatedAt": "2026-10-20T18:58:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/PCdaJNubtmeIOd1aao0A5mcIwfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/N/cC6mW1QpKc8gMc5Gc0nA/whatsapp-image-2026-10-20-at-11.40.19.jpg"
     },
     {
-      "clusterId": "15b5bf1829024d9a",
-      "slug": "654b3cdd304f954a",
-      "titulo": "Colisão entre ônibus turístico e caminhão deixa 13 mortos no Egito",
-      "resumo": "Um ônibus turístico colidiu com um caminhão a oeste do Cairo, na rodovia que liga a capital a Asiut. A colisão resultou em 13 mortes e 34 feridos. As autoridades abriram a estrada e utilizaram guindaste para remover o ônibus. O incidente foi confirmado pela mídia estatal egípcia e pelo jornal Al Ahram.",
-      "porQueImporta": "O acidente destaca a necessidade de segurança viária em rotas de tráfego intenso no Egito.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "d8260d0db0b6e6e2",
+      "slug": "f74acc8dd75e12f1",
+      "titulo": "Defesa Civil irá treinar agentes da Baixada Santista para enfrentar impactos do El Niño",
+      "resumo": "A Defesa Civil de São Paulo capacitará agentes municipais da Baixada Santista nos dias 12 e 13 de novembro, em Peruíbe, para lidar com eventos climáticos extremos associados ao El Niño. O treinamento faz parte da operação SP Sempre Alerta 2026/2027, que prevê a formação de pelo menos 3,5 mil agentes em todo o estado até dezembro. O objetivo é preparar as equipes para alagamentos, enchentes, deslizamentos e demais ocorrências climáticas.",
+      "porQueImporta": "A capacitação visa reduzir os impactos de eventos climáticos extremos na região.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/20/colisao-onibus-turistico-caminhao-deixa-mortos-feridos-egito.ghtml"
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/20/defesa-civil-ira-treinar-agentes-da-baixada-santista-para-enfrentar-impactos-do-el-nino.ghtml"
         }
       ],
-      "updatedAt": "2026-10-20T12:51:45.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/h8C13Dw6VqNx7y7iOFs9aw_OWX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/l/XB0EI2TNmMZCAElOXFcw/afp-20261020-d3up2zq-v1-highres-egypttransportaccident.jpg"
-    },
-    {
-      "clusterId": "76d7834da860377e",
-      "slug": "9efb4fc702724f51",
-      "titulo": "Motorista fica ferido ao bater Fusca em árvores próximo ao Estádio Uberabão",
-      "resumo": "Um motorista de 33 anos ficou ferido após bater um Fusca contra árvores no canteiro central da avenida Gustavo Rodrigues da Cunha, em Uberaba, na madrugada de terça-feira (20). O impacto prendeu o condutor às ferragens e causou fraturas nos membros inferiores. O Corpo de Bombeiros atendeu ao local, mas não informou a causa do acidente.",
-      "porQueImporta": "O acidente demonstra risco de colisões em áreas urbanas próximas a pontos de grande circulação.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/20/motorista-fica-ferido-ao-bater-fusca-em-arvores-proximo-ao-estadio-uberabao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-20T12:49:50.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Uwnu0BDCCR-w4JZ4-3g9TszRaE4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/Nfm2DQS8uaaXQ5AJKQOQ/whatsapp-image-2026-10-20-at-07.34.00.jpeg"
-    },
-    {
-      "clusterId": "e4f4d7f3bb87012d",
-      "slug": "af4e0840b5e54db0",
-      "titulo": "Homem morre após laje desabar em terreno baldio em Vila Velha",
-      "resumo": "Um homem de 36 anos morreu quando uma laje desabou sobre ele em um terreno baldio no bairro Cobilândia, Vila Velha. Ele estava tentando quebrar a estrutura que servia como cobertura e estava descansando abaixo no momento do desabamento. A vítima foi identificada como Glaucio Daniel de Oliveira Xavier.",
-      "porQueImporta": "O incidente destaca os riscos de estruturas não regulamentadas em áreas urbanas.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/20/homem-morre-apos-laje-desabar-enquanto-descansava-em-terreno-baldio-em-vila-velha.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-20T12:44:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/S9g79VWj0GC9YLU_KWvlADhkIuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/e/PBWo0vRmuGBgfV2tIQvw/thumb-fotos-27-.jpg"
+      "updatedAt": "2026-10-20T18:16:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/oxarBYC2IzVTYHTeLifFdw5DXr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/w/U19ZVhR4uWaYzfGlq7Eg/defesa-civil.png"
     }
   ],
   "categorias": [
@@ -179,72 +179,55 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "804663f87cb0f9ff",
-          "slug": "9e275de5815db4cb",
-          "titulo": "Motorista bêbado atropela e mata advogado em Imbituva",
-          "resumo": "Um motorista, sob efeito de álcool, atropelou o advogado Roberto Daldim dos Santos, de 61 anos, enquanto ele caminhava com a esposa rezando o terço em Imbituva, Paraná. O acidente ocorreu por volta das 9h de sábado. A vítima morreu no local; a esposa não sofreu ferimentos. O condutor fugiu, mas retornou e foi testado, apresentando 0,7 mg/L de álcool no ar.",
-          "porQueImporta": "O caso destaca a gravidade de dirigir embriagado e a necessidade de fiscalização rigorosa.",
+          "clusterId": "b9e929322631a9ba",
+          "slug": "2089c7c199a5d9bc",
+          "titulo": "Carro invade contramão e provoca acidente na BR-381",
+          "resumo": "Um carro invadiu a contramão na BR-381, próximo ao km 17 em Santa Luzia, e colidiu com outro veículo, levando um caminhão a descer um barranco. O caminhão, que seguia em sentido Vitória, acabou parando na mata para evitar mais colisões. Dois ocupantes ficaram feridos. O trecho da rodovia ficou parcialmente interditado.",
+          "porQueImporta": "O acidente interrompeu o tráfego e causou feridos, afetando a mobilidade na região.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/20/motorista-que-atropelou-e-matou-advogado-que-caminhava-rezando-o-terco-com-a-esposa-no-parana-estava-bebado-diz-policia.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/20/carro-invade-contramao-e-provoca-acidente-com-outros-veiculos-na-br-381-duas-pessoas-ficam-feridas.ghtml"
             }
           ],
-          "updatedAt": "2026-10-20T13:34:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rxznoek6iKPoMLMcvjKIHC3g1yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/l/pphvRJSMe2UhxV8JcH9A/g1-1-.png"
+          "updatedAt": "2026-10-20T19:33:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/M7RMDSaGpW3SIoQ69xYTUGFbfQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/L/aK1aIbSwOAAOWqZmZIxA/ezgif-5e76246b1d5b6eae.gif"
         },
         {
-          "clusterId": "3eb00526c176c32c",
-          "slug": "c6ee96853df9ad3b",
-          "titulo": "Criança de cinco anos morre atropelada por caminhão na Serra",
-          "resumo": "Uma criança de cerca de cinco anos morreu após ser atropelada por um caminhão na rua Usiminas, bairro Praiamar, na Serra, Grande Vitória, por volta das 9h30. O motorista do caminhão compareceu ao Destacamento de Polícia Militar de Nova Almeida e afirmou não ter visto a criança. A perícia foi realizada no local por volta das 10h30.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção e fiscalização no tráfego de veículos pesados em áreas urbanas.",
+          "clusterId": "7164d170325ee427",
+          "slug": "e0d1f6441e9ecbb8",
+          "titulo": "Motorista morre em batida de frente entre caminhões de gado e de sorvete na MG-285",
+          "resumo": "Na manhã de terça-feira, um acidente de trânsito na MG-285, em Piraúba, resultou na morte de um motorista e ferimento de outro. Os veículos, dirigindo em sentidos opostos, colidiram de frente. Um caminhão transportava 50 cabeças de gado, das quais cinco morreram e cinco ficaram feridos. Os animais sobreviventes foram retirados pelos bombeiros.",
+          "porQueImporta": "O acidente destaca os riscos de colisões entre veículos de carga pesada em rodovias de tráfego intenso.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/20/crianca-morre-atropelada-por-caminhao-na-serra.ghtml"
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/20/motorista-morre-em-batida-de-frente-entre-caminhoes-de-gado-e-de-sorvete-na-mg-285.ghtml"
             }
           ],
-          "updatedAt": "2026-10-20T13:29:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DsrV2Ihbh3eEzvVy-AYRp_TzPuI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/k/bPBG0YR22R8Xxp5oNiIQ/thumb-fotos-6-.jpg"
+          "updatedAt": "2026-10-20T19:11:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vqobSbUYf6w8MJdRMGJFpCZEh5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/w/Us0U4OSUK87errArKPlw/uba-1-.png"
         },
         {
-          "clusterId": "06452c24af81b181",
-          "slug": "535999fabd26260a",
-          "titulo": "Motociclista morre após perder controle de veículo ao passar por quebra-molas e bater em placa",
-          "resumo": "Simon Cunha Guilherme, de 32 anos, morreu em um acidente de moto na avenida B, Jardim Aureny IV, Palmas. O acidente ocorreu na noite de segunda-feira, 19, por volta das 21h05, quando o motociclista passou por um quebra-molas, perdeu o controle da moto e colidiu com uma placa de sinalização. O Serviço de Atendimento Móvel de Urgência (SAMU) constatou o óbito no local.",
-          "porQueImporta": "O incidente destaca a importância da atenção ao trafegar em áreas com sinalização de redução de velocidade.",
+          "clusterId": "a01897f5e0c2c2d4",
+          "slug": "03003aa586304000",
+          "titulo": "Sobrinho de Luiz Gonzaga e esposa morrem em acidente na BR-235",
+          "resumo": "Fausto Luiz Maciel, sobrinho do cantor Luiz Gonzaga, e sua esposa Maria Dalgilmar Barbosa de Amorim Maciel morreram após colisão entre um carro e um caminhão na BR-235, trecho de Casa Nova, no norte da Bahia. O acidente ocorreu na segunda-feira, 19, e as vítimas eram residentes de Petrolina, Pernambuco. As autoridades investigam o caso.",
+          "porQueImporta": "O falecimento de familiares de um ícone da música popular brasileira destaca a gravidade de acidentes de trânsito no país.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/20/motociclista-morre-apos-perder-controle-de-veiculo-ao-passar-por-quebra-molas-e-bater-em-placa.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/20/acidente-entre-carro-e-caminhao-na-bahia.ghtml"
             }
           ],
-          "updatedAt": "2026-10-20T13:07:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hB6A6R6e3OIfCkjgbE-XdXXDDVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/U/9W1HsATE2AqpldwinkDA/foto-e-montagem-vertical-2026-10-20t095800.524.png"
-        },
-        {
-          "clusterId": "a022e028aa2ddcc5",
-          "slug": "a7bca182543c550a",
-          "titulo": "Gari morre atropelado por caminhão de coleta de lixo em Ponta Porã",
-          "resumo": "Patrick Revert Borborema, 48 anos, morreu após ser atropelado por um caminhão de coleta de lixo na manhã de terça-feira, 20, em Ponta Porã (MS). O acidente ocorreu por volta das 6h50, no cruzamento das ruas Vasco da Gama e Américo Vespúcio, no bairro Jardim Primavera. O trabalhador desceu do caminhão enquanto o motorista manobrava em marcha à ré, e então caiu embaixo do veículo.",
-          "porQueImporta": "O incidente destaca riscos de segurança no trabalho de coleta de lixo.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/20/gari-morre-atropelado-por-caminhao-de-coleta-de-lixo-durante-coleta-em-ponta-pora.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-20T13:01:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/A5fwoKAb4ffNkef03bpolSD53bA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/w/c4oDBdR3e6WvpA3PhNMw/fgfnhbjm.png"
+          "updatedAt": "2026-10-20T18:58:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PCdaJNubtmeIOd1aao0A5mcIwfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/N/cC6mW1QpKc8gMc5Gc0nA/whatsapp-image-2026-10-20-at-11.40.19.jpg"
         },
         {
           "clusterId": "15b5bf1829024d9a",
@@ -262,74 +245,6 @@
           ],
           "updatedAt": "2026-10-20T12:51:45.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/h8C13Dw6VqNx7y7iOFs9aw_OWX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/l/XB0EI2TNmMZCAElOXFcw/afp-20261020-d3up2zq-v1-highres-egypttransportaccident.jpg"
-        },
-        {
-          "clusterId": "76d7834da860377e",
-          "slug": "9efb4fc702724f51",
-          "titulo": "Motorista fica ferido ao bater Fusca em árvores próximo ao Estádio Uberabão",
-          "resumo": "Um motorista de 33 anos ficou ferido após bater um Fusca contra árvores no canteiro central da avenida Gustavo Rodrigues da Cunha, em Uberaba, na madrugada de terça-feira (20). O impacto prendeu o condutor às ferragens e causou fraturas nos membros inferiores. O Corpo de Bombeiros atendeu ao local, mas não informou a causa do acidente.",
-          "porQueImporta": "O acidente demonstra risco de colisões em áreas urbanas próximas a pontos de grande circulação.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/20/motorista-fica-ferido-ao-bater-fusca-em-arvores-proximo-ao-estadio-uberabao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-20T12:49:50.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Uwnu0BDCCR-w4JZ4-3g9TszRaE4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/Nfm2DQS8uaaXQ5AJKQOQ/whatsapp-image-2026-10-20-at-07.34.00.jpeg"
-        },
-        {
-          "clusterId": "90b334e2f6ecfad0",
-          "slug": "a9f7a0aeb01db425",
-          "titulo": "Engavetamento de veículos no elevado do Entroncamento causa lentidão em Belém",
-          "resumo": "Um engavetamento envolvendo dois carros, um ônibus e uma moto no elevado do Entroncamento, em Belém, provocou lentidão no trânsito. O acidente ocorreu quando um motociclista parou para pegar um celular caído, levando o motorista de um carro a frear bruscamente. Carros e ônibus que vinham atrás também se envolveram. Nenhum ferido foi registrado.",
-          "porQueImporta": "O incidente afetou o fluxo de veículos em uma via importante da cidade, gerando transtornos no trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/10/20/engavetamento-de-veiculos-no-elevado-do-entroncamento-causa-lentidao-em-belem.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-20T12:37:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/VrSQ6sTUEuogQehYm1DbGjs_ENg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/N/GGmBAUQ2i011FXFQlatA/geral-g1-49-.png"
-        },
-        {
-          "clusterId": "eb2f6b9b52c1c3a4",
-          "slug": "9196dfde573e8d27",
-          "titulo": "Caminhoneiro morre atropelado por carreta enquanto ajudava outro caminhão em Limeira",
-          "resumo": "Um caminhoneiro foi atropelado por uma carreta na Rodovia dos Bandeirantes, km 165, em Limeira, SP, enquanto oferecia suporte a um caminhão com pane mecânica no acostamento. A carreta Volvo colidiu lateralmente com dois caminhões, resultando na morte do caminhoneiro. O acidente ocorreu por volta das 19h, próximo à Ponte do Esqueleto.",
-          "porQueImporta": "O incidente destaca os riscos de segurança nas rodovias e a necessidade de precauções ao prestar assistência em acidentes.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/20/caminhoneiro-morre-atropelado-apos-parar-em-acostamento-de-rodovia-para-ajudar-motorista-em-limeira.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-20T12:23:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rCoOtZSEaAh9t2iQSIjF828kkpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/Bsp8QaRzKvJnrGEp3I5g/artesp-3-.jpg"
-        },
-        {
-          "clusterId": "d564e317c3a81697",
-          "slug": "715b2ea471fd8a34",
-          "titulo": "Motorista morre após caminhão cair em banhado na BR-116",
-          "resumo": "Um caminhão de aproximadamente 45 anos de idade saiu da pista e caiu em um banhado na BR-116, km 73 do Contorno Leste, em Quatro Barras, Região Metropolitana de Curitiba. O motorista perdeu o controle da direção e atravessou o canteiro central, ficando submerso no banhado. O acidente ocorreu por volta da meia-noite de terça-feira (20). A Polícia Rodoviária Federal confirma a morte do condutor.",
-          "porQueImporta": "O incidente destaca os riscos de acidentes em rodovias de grande circulação.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/parana/noticia/2026/10/20/motorista-morre-banhado-br-116-grande-curitiba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-20T12:23:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/W2kPF7dWpuiIm8C3dXUubyyNn3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/w/zwPbPdSweJSR7CgQ13xw/fundo-vermelho-g1-2-.png"
         }
       ]
     },
@@ -338,11 +253,28 @@
       "label": "Geral",
       "stories": [
         {
+          "clusterId": "d8260d0db0b6e6e2",
+          "slug": "f74acc8dd75e12f1",
+          "titulo": "Defesa Civil irá treinar agentes da Baixada Santista para enfrentar impactos do El Niño",
+          "resumo": "A Defesa Civil de São Paulo capacitará agentes municipais da Baixada Santista nos dias 12 e 13 de novembro, em Peruíbe, para lidar com eventos climáticos extremos associados ao El Niño. O treinamento faz parte da operação SP Sempre Alerta 2026/2027, que prevê a formação de pelo menos 3,5 mil agentes em todo o estado até dezembro. O objetivo é preparar as equipes para alagamentos, enchentes, deslizamentos e demais ocorrências climáticas.",
+          "porQueImporta": "A capacitação visa reduzir os impactos de eventos climáticos extremos na região.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/20/defesa-civil-ira-treinar-agentes-da-baixada-santista-para-enfrentar-impactos-do-el-nino.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-20T18:16:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/oxarBYC2IzVTYHTeLifFdw5DXr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/w/U19ZVhR4uWaYzfGlq7Eg/defesa-civil.png"
+        },
+        {
           "clusterId": "ab266216858ab714",
           "slug": "1d76c84357e16957",
-          "titulo": "Exército ucraniano usa drone para fazer salvamento inédito de soldado ferido; veja VÍDEO",
-          "resumo": "Ucrânia usa drone para resgatar soldado ferido na linha de frente Um soldado ucraniano ferido foi resgatado com a ajuda de um drone aéreo em uma operação inédita na linha de frente da guerra, segundo as Forças Terrestres da Ucrânia. O militar foi transportado até um ponto de evacuação e está em tratamento e reabilitação. Ele não corre mais risco de vida. De acordo com o exército ucraniano, o soldado foi ferido enquanto estava em uma posição militar. A presença de drones inimigos e o fato de a área ter sido dominada pelas forças adversárias impediram que ele fosse retirado pelo método…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "titulo": "Exército ucraniano usa drone para resgatar soldado ferido na linha de frente",
+          "resumo": "Um soldado ucraniano ferido foi retirado da linha de frente com a ajuda de um drone aéreo, em operação inédita. O militar foi levado a um ponto de evacuação e está em tratamento e reabilitação. A presença de drones inimigos e a ocupação da área impediram o uso de métodos tradicionais de resgate. O soldado não corre mais risco de morte.",
+          "porQueImporta": "Ilustra inovação tática no uso de drones em operações militares de resgate.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -353,22 +285,6 @@
           ],
           "updatedAt": "2026-10-20T11:24:14.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/ijeiuzB1lcZycX948ZDjHKo8sA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/b/Zjr4VjR6AcM2ZuE8Aafg/captura-de-tela-2026-10-20-081800.png"
-        },
-        {
-          "clusterId": "8e664c1118ba1815",
-          "slug": "7b658769245d1de2",
-          "titulo": "Desabamento de mina de ouro ilegal na Colômbia deixa 14 mortos",
-          "resumo": "Quatorze pessoas morreram e outras sete ficaram feridas após o desabamento de uma mina de ouro ilegal no sudoeste da Colômbia , informaram autoridades locais nesta segunda-feira (19). O acidente ocorreu no setor rural de Chambero, no município de Santa Barbara de Iscuande, localizado na província de Nariño. As operações de busca e resgate foram concluídas, afirmou o governador de Nariño, Luis Alfonso Escobar. O governador apelou ao governo nacional, à Agência Nacional de Mineração e ao Ministério de Minas e Energia para que acelerem o processo de formalização dos garimpeiros ilegais e de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/20/desabamento-de-mina-de-ouro-ilegal-na-colombia-deixa-mortos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-20T04:55:43.000Z"
         },
         {
           "clusterId": "239cf6ec9c881b5d",
@@ -403,23 +319,86 @@
           ],
           "updatedAt": "2026-10-19T06:00:00.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/TumyZc26xb3X20xcQZ2flzpyorw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/NfYtLZQLuKBtHWrABc7g/2026-10-14t080610z-2130914668-rc2o1oakubum-rtrmadp-3-israel-palestinians-gaza-olive-harvest.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-trabalho",
+      "label": "Acidente de trabalho",
+      "stories": [
         {
-          "clusterId": "b39ac204a00ab41e",
-          "slug": "05b7727257f1c490",
-          "titulo": "Militar da Força Aérea dos EUA morre após queda de rapel em jogo de futebol americano",
-          "resumo": "Um militar da Força Aérea dos Estados Unidos morreu no sábado (17) após cair durante uma demonstração de rapel antes de um jogo de futebol americano universitário no estádio Alamodome, em San Antonio, Texas. O acidente ocorreu enquanto ele descente rapidamente em direção ao chão, com os pés primeiro, diante de quase 23 mil torcedores. Vídeos do incidente circulam nas redes sociais.",
-          "porQueImporta": "O caso destaca riscos de atividades de treinamento militar em ambientes públicos.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "1c78cfbdfefc5980",
+          "slug": "db3d2e31042d42b7",
+          "titulo": "Soldador morre em queda de 3 metros em empresa de Aguaí",
+          "resumo": "Carlos Antônio de Jesus Pereira, soldador de Mogi Guaçu, morreu após cair 3 metros em uma obra na empresa Paulispell, em Aguaí (SP). A queda ocorreu no sábado (17). A família exige justiça e afirma que a empresa ainda não tomou providências.",
+          "porQueImporta": "O acidente destaca a necessidade de segurança no trabalho em indústrias de soldagem.",
+          "categoria": "Acidente de trabalho",
+          "categoriaSlug": "acidente-de-trabalho",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/18/militar-da-forca-aerea-dos-eua-morre-apos-cair-de-rapel-em-jogo-de-futebol-americano-no-texas.ghtml"
+              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/20/quem-era-carlos-pereira-soldador-que-morreu-em-grave-acidente-de-trabalho-no-interior-de-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-10-18T13:53:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0Im2IDlU1RAdHR_H7bmmIlBX9_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/5/YFV4rBQZCVXXz8LCbo5A/captura-de-tela-2026-10-18-104553.png"
+          "updatedAt": "2026-10-20T19:15:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/vH8z_m8x7I31KhDNkszTQJd6N4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/m/pyDUjeQEGKVjIn2upDjw/soldador.jpg"
+        },
+        {
+          "clusterId": "27705b3d94ff4ad4",
+          "slug": "7d31798d712d6d77",
+          "titulo": "MPT investiga morte de trabalhador chinês que caiu de 13 metros na fábrica da BYD na Bahia",
+          "resumo": "Um trabalhador terceirizado da BYD morreu após cair de cerca de 13 metros de altura na fábrica em Camaçari, na Região Metropolitana de Salvador. O acidente ocorreu na segunda-feira, enquanto o homem realizava serviço no teto de uma área da fábrica. O Ministério Público do Trabalho abriu inquérito para investigar a morte. O trabalhador foi identificado como Xiaoqing e era chinês.",
+          "porQueImporta": "O caso destaca a necessidade de fiscalização de segurança no trabalho em fábricas de veículos.",
+          "categoria": "Acidente de trabalho",
+          "categoriaSlug": "acidente-de-trabalho",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/20/mpt-investiga-morte-de-trabalhador-chines-da-byd.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-20T19:12:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/oc2v-_a_jcTi-gWtcf6ovgdUlQ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/x/OzcBdFToepzlmhuzRkpA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-19t181706.581-1-.jpg"
+        },
+        {
+          "clusterId": "00eb7daad3dffc6b",
+          "slug": "3eeaeb1582240cbd",
+          "titulo": "Trabalhador ferido após acidente em poço durante obra na Maré",
+          "resumo": "Um funcionário de empresa terceirizada da Águas do Rio sofreu ferimento no ombro ao ser atingido por equipamento que caiu sobre ele, durante obra na Rua José Moreira Pequeno, na Maré, Zona Norte do Rio. O acidente ocorreu na terça-feira (20) e o Corpo de Bombeiros foi acionado às 11h59 para realizar o resgate. O trabalhador foi retirado do poço e encaminhado para atendimento médico. A Águas do Rio confirmou o ocorrido e informou que o trabalhador está em tratamento.",
+          "porQueImporta": "O incidente destaca riscos de segurança em obras públicas e a necessidade de fiscalização adequada.",
+          "categoria": "Acidente de trabalho",
+          "categoriaSlug": "acidente-de-trabalho",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/20/trabalhador-fica-ferido-apos-acidente-em-poco-durante-obra-na-mare-na-zona-norte-do-rio.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-20T18:12:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Q7q5lsEBnIKioKoJT5zGHMgB_8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/p/qxlsMuS8e9npQZllAGAw/imagem-cortada-2026-10-20t135352.454.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "942ad5136bcd9339",
+          "slug": "cd90e67a6b533f35",
+          "titulo": "Terras caídas ameaçam casas e obrigam ribeirinhos a mudar de endereço durante estiagem no Amazonas",
+          "resumo": "A estiagem no Amazonas intensifica o fenômeno das terras caídas, que provoca desmoronamentos nas margens dos rios e coloca em risco as casas das comunidades ribeirinhas. Na comunidade São Francisco da Mangueira, em Juruá, moradores já tiveram que mudar de residência várias vezes para escapar da erosão. O estudo da Universidade do Estado do Amazonas descreve o fenômeno como escavação causada pelas águas dos rios, resultando em desgaste intenso das margens.",
+          "porQueImporta": "O aumento das terras caídas coloca em risco a segurança e a habitação das populações ribeirinhas, exigindo adaptações e deslocamentos.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/20/terras-caidas-ameacam-casas-e-obrigam-ribeirinhos-a-mudar-de-endereco-durante-estiagem-no-am.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-20T19:51:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0WeQ_lz0G7aTkHNTQKnWjBzqw1k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/z/V4SvhJR66PjICk2BrWcQ/g1-terras-caidas-amazonas-jh.jpg"
         }
       ]
     },
@@ -428,78 +407,21 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "6ac8bfb3e1a028c9",
-          "slug": "8a0f9f66bc853028",
-          "titulo": "Carreta de granito pega fogo na BR-251 em Salinas",
-          "resumo": "Uma carreta carregada com granito pegou fogo na BR-251, em Salinas, na manhã de terça-feira. O incêndio teria iniciado nas rodas traseiras, na região do sistema de frenagem, enquanto seguia no sentido da BR-116. O condutor desengatou o cavalo-mecânico e permaneceu no local até a chegada dos bombeiros, sem ferimentos. As chamas foram controladas e a via foi interditada nos dois sentidos.",
-          "porQueImporta": "O incêndio bloqueou a via e pode causar atrasos no tráfego.",
+          "clusterId": "cfe9a689c42803b8",
+          "slug": "3a9756a93a82d261",
+          "titulo": "Cão resgatado de carro em chamas enquanto dono estava dentro de mercado",
+          "resumo": "Bombeiros encontraram um cão escondido no interior de um carro em chamas e o resgataram. O veículo estava dentro de um estabelecimento comercial quando ocorreu o incêndio. O dono do animal permanecia no mercado no momento do acidente.",
+          "porQueImporta": "O caso demonstra a importância da rápida intervenção de serviços de emergência em situações de incêndio em veículos.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/20/carreta-carregada-com-granito-pega-fogo-e-interdita-br-251-nos-dois-sentidos.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/colunas/e-o-bicho/cao-e-resgatado-de-carro-em-chamas-enquanto-dono-estava-dentro-de-mercado"
             }
           ],
-          "updatedAt": "2026-10-20T13:19:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/L_SxWkdVlsZW9WD6Gnr_34jdrj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/5/o3q1A8R72iuNDa980NDw/carretagranito.jpeg"
-        },
-        {
-          "clusterId": "473e2ed89d3a319a",
-          "slug": "6cfaf6d3974875a1",
-          "titulo": "Incêndio em base militar de Alberta causa quatro mortes",
-          "resumo": "Um incêndio de grandes proporções ocorreu em uma base militar na província de Alberta, no Canadá, resultando em quatro mortes. O primeiro-ministro Mark Carney informou que não há indícios de terrorismo e que a causa ainda está sendo investigada. As Forças Armadas canadenses não divulgaram o número de feridos. A CBC News havia relatado inicialmente sete vítimas.",
-          "porQueImporta": "O incidente destaca a importância da segurança em instalações militares e a necessidade de investigações transparentes.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/18/incendio-em-base-militar-no-canada-deixa-diz-tv.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-18T16:19:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kKNIBsDYeVlbJKyvzeQsCTQ7bY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/3/jb1yBgRnCUG4XypUVVRQ/captura-de-tela-2026-10-18-031502.png"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
-        {
-          "clusterId": "e4f4d7f3bb87012d",
-          "slug": "af4e0840b5e54db0",
-          "titulo": "Homem morre após laje desabar em terreno baldio em Vila Velha",
-          "resumo": "Um homem de 36 anos morreu quando uma laje desabou sobre ele em um terreno baldio no bairro Cobilândia, Vila Velha. Ele estava tentando quebrar a estrutura que servia como cobertura e estava descansando abaixo no momento do desabamento. A vítima foi identificada como Glaucio Daniel de Oliveira Xavier.",
-          "porQueImporta": "O incidente destaca os riscos de estruturas não regulamentadas em áreas urbanas.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/20/homem-morre-apos-laje-desabar-enquanto-descansava-em-terreno-baldio-em-vila-velha.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-20T12:44:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/S9g79VWj0GC9YLU_KWvlADhkIuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/e/PBWo0vRmuGBgfV2tIQvw/thumb-fotos-27-.jpg"
-        },
-        {
-          "clusterId": "9524bc5cdda06a46",
-          "slug": "f04fff533581bc86",
-          "titulo": "Jovem desaparece ao tentar salvar pai no Rio Poti",
-          "resumo": "Pablo Vinícius Sousa de Sena, 24 anos, desapareceu no Rio Poti, em Teresina, após tentar resgatar seu pai, Antônio das Dores Ferreira de Sena, que caiu na água. O pai e o irmão da vítima, Vitor Dyerrisson Sousa de Sena, 26 anos, foram encontrados mortos. Os três costumavam pescar juntos no rio aos domingos. As buscas continuam no local.",
-          "porQueImporta": "O caso destaca o risco de acidentes aquáticos em atividades recreativas.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/20/jovem-desapareceu-rio.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-20T12:32:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rev_Bktv7QL_Fc_tjEMkoIH3R5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/A/ISWkFTSwmdHfdzjzAaAA/edicao-imagens-g1-2026-10-20t094931.115.jpg"
+          "updatedAt": "2026-10-20T19:29:22.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/cao-incendio.jpg"
         }
       ]
     },
@@ -508,21 +430,21 @@
       "label": "Incêndio florestal",
       "stories": [
         {
-          "clusterId": "a8f9fc0c138842bb",
-          "slug": "273c0a359015317d",
-          "titulo": "Aulas da rede estadual de ensino em Manaus e Autazes suspensas por fumaça de queimadas",
-          "resumo": "As aulas da rede estadual de ensino em Manaus e Autazes permanecem suspensas em todos os turnos até sexta-feira (23) devido à fumaça das queimadas, que compromete a qualidade do ar. Na rede municipal de Manaus, as atividades presenciais também foram suspensas nesta terça-feira (20) por poluição. A qualidade do ar em Manaus variava de moderada a muito ruim na manhã de 20, segundo dados do IQAir e do Sistema Eletrônico de Vigilância Ambiental.",
-          "porQueImporta": "A suspensão das aulas reflete a preocupação com a saúde pública diante da poluição do ar.",
+          "clusterId": "1dec296986b1407c",
+          "slug": "62e7a7e1b92392e0",
+          "titulo": "Queimadas deixam animais mortos e destroem vegetação em Santarém e Belterra",
+          "resumo": "Imagens divulgadas pelo 4º Grupamento de Bombeiros Militar mostram animais mortos e áreas de vegetação destruídas pelo fogo no assentamento Chapadão, em Santarém, e em Belterra, no oeste do Pará. O fogo destrói sementes, mata árvores jovens, empobrece o solo e dificulta a regeneração da floresta.",
+          "porQueImporta": "O incêndio compromete a fauna, flora e a recuperação ambiental da região.",
           "categoria": "Incêndio florestal",
           "categoriaSlug": "incendio-florestal",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/20/aulas-da-rede-estadual-seguem-suspensas-em-manaus-e-autazes-ate-sexta-feira-23-por-causa-da-fumaca.ghtml"
+              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/20/video-queimadas-deixam-animais-mortos-e-destroem-vegetacao-em-santarem-e-belterra.ghtml"
             }
           ],
-          "updatedAt": "2026-10-20T13:40:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/U9okUG1LNK18WqTXbU0kBg5nBh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/1/o3nyY1RGqlmBDFPbtF1Q/aulas-1910.jpg"
+          "updatedAt": "2026-10-20T19:24:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ckUuRyGZgqYxYkhEIXO4gWz2EVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/1/n83NN1Tc6EqiKDyWExuw/whatsapp-image-2026-10-20-at-16.15.14.jpeg"
         }
       ]
     },
@@ -531,21 +453,43 @@
       "label": "Seca",
       "stories": [
         {
-          "clusterId": "b74beae68a66d069",
-          "slug": "45ebb772c106a8a2",
-          "titulo": "Prefeitura de Óbidos decreta situação de emergência por seca e incêndios",
-          "resumo": "A prefeitura de Óbidos, no oeste do Pará, decretou situação de emergência devido à estiagem severa e ao avanço de incêndios florestais. A medida foi oficializada pelo prefeito Jaime Barbosa da Silva diante dos prejuízos causados pela falta de chuvas, redução histórica no nível dos rios e queimadas que ameaçam a região. A crise climática afeta diretamente moradores das zonas urbana e rural.",
-          "porQueImporta": "A declaração indica a gravidade da situação climática e a necessidade de recursos e ações emergenciais na região.",
+          "clusterId": "eb299f54a81e4c77",
+          "slug": "4c84407c4a2a1a26",
+          "titulo": "Ipirá decreta situação de emergência por estiagem prolongada",
+          "resumo": "A Prefeitura de Ipirá decretou situação de emergência em todo o município devido à estiagem prolongada. A medida foi oficializada na segunda-feira (19) e tem validade de 180 dias. A falta de chuvas provocou escassez de água para consumo humano, secagem de aguadas e reservatórios particulares, e níveis muito baixos de açudes.",
+          "porQueImporta": "A falta de água afeta a população urbana e rural, comprometendo o abastecimento e a qualidade de vida.",
           "categoria": "Seca",
           "categoriaSlug": "seca",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/20/obidos-decreta-situacao-de-emergencia-apos-seca-extrema-e-avanco-de-incendios-florestais.ghtml"
+              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/20/ipira-decreta-situacao-de-emergencia-apos-agravamento-do-periodo-de-estiagem.ghtml"
             }
           ],
-          "updatedAt": "2026-10-20T13:08:23.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JG-MpGBqMVmrKNAvG60qe2zokoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/F/UdxKLcSEqBRErPWk69MA/obidos.jpg"
+          "updatedAt": "2026-10-20T19:20:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fPhn6y5wIDfM2sQy7KauDAIiRuc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/g/Behue0TuAtSaD8GfyvNA/texto-do-seu-paragrafo-2025-10-24t152648.527.png"
+        }
+      ]
+    },
+    {
+      "slug": "desabamento",
+      "label": "Desabamento",
+      "stories": [
+        {
+          "clusterId": "8e664c1118ba1815",
+          "slug": "7b658769245d1de2",
+          "titulo": "Desabamento de mina de ouro ilegal na Colômbia deixa 14 mortos",
+          "resumo": "Quatorze pessoas morreram e sete ficaram feridas após o desabamento de uma mina de ouro ilegal no sudoeste da Colômbia. O acidente ocorreu no setor rural de Chambero, no município de Santa Barbara de Iscuande, província de Nariño. As operações de busca e resgate foram concluídas, informou o governador Luis Alfonso Escobar. O governador pediu ao governo nacional e às agências de mineração que acelerem a regularização dos garimpeiros ilegais.",
+          "porQueImporta": "O incidente destaca os riscos associados à mineração ilegal e a necessidade de fiscalização e regularização das atividades extrativas.",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/20/desabamento-de-mina-de-ouro-ilegal-na-colombia-deixa-mortos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-20T04:55:43.000Z"
         }
       ]
     },
