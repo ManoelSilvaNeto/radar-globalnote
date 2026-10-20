@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-19T15:49:14.926Z",
-  "editionDate": "2026-10-19",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito e desastres naturais dominam a edição\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-20T05:09:54.627Z",
+  "editionDate": "2026-10-20",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
