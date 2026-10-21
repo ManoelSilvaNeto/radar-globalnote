@@ -1,23 +1,140 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T20:19:10.608Z",
+  "generatedAt": "2026-10-21T23:33:05.680Z",
   "home": [
     {
-      "clusterId": "e80c2ec3ff7a3f43",
-      "slug": "74af4daedfde3f9e",
-      "titulo": "Supertufão Champi atinge Mar das Filipinas com força de furacão de categoria 5",
-      "resumo": "O supertufão Champi, chamado de ciclone monstro, atingiu o Mar das Filipinas com intensidade equivalente a um furacão de categoria 5. O fenômeno percorreu a região com velocidade e potência recordes. Autoridades monitoram a situação para avaliar possíveis impactos em áreas costeiras próximas.",
-      "porQueImporta": "O evento pode causar danos significativos a comunidades costeiras e infraestrutura marítima.",
+      "clusterId": "50cc5cd43ad35cdd",
+      "slug": "032bb77ac33b23c4",
+      "titulo": "Justiça torna 12 réus no caso da queda do avião da Voepass",
+      "resumo": "A Justiça Federal aceitou a denúncia do Ministério Público Federal e tornou réus 12 pessoas, entre diretores, gerentes, piloto-chefe, despachante de voo, mecânico e o dono da companhia, José Luiz Felício Filho, envolvidos na queda do avião da Voepass que matou 62 pessoas. Quatro outros indiciados firmaram acordos de confissão. A decisão reforça o trabalho da Polícia Federal e do MPF na investigação do acidente ocorrido em Vinhedo, SP.",
+      "porQueImporta": "Estabelece responsabilidade legal sobre os envolvidos em um dos maiores acidentes aéreos do Brasil.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/21/mae-da-vitima-mais-jovem-do-voo-da-voepass-ve-esperanca-apos-justica-tornar-12-denunciados-reus.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-21T23:07:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Hj0FdCqsN5GPqj9xULH-zcPntNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/RYOvIURP2XEE9wfYZjmQ/design-sem-nome-2026-10-21t191738.463.jpg"
+    },
+    {
+      "clusterId": "d1f23f6d7b42140f",
+      "slug": "5595f292cfc33157",
+      "titulo": "Bombeiros resgatam cachorro preso em destroços em Niterói",
+      "resumo": "Um cachorro chamado Romário foi encontrado preso em destroços de um imóvel que desabou em Niterói. O animal estava desaparecido há cinco dias, mas foi localizado quando vizinhos ouviram barulhos. Bombeiros conseguiram resgatá‑lo com segurança. O caso foi divulgado pela CNN Brasil.",
+      "porQueImporta": "Ilustra a importância da vigilância e da ação rápida em situações de desabamento para salvar animais.",
+      "categoria": "Desabamento",
+      "categoriaSlug": "desabamento",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/bombeiros-resgatam-cachorro-preso-em-destrocos-em-niteroi/"
+        }
+      ],
+      "updatedAt": "2026-10-21T23:28:32.000Z"
+    },
+    {
+      "clusterId": "1706a0bce2283f35",
+      "slug": "d82c7e73b2452024",
+      "titulo": "Defesa Civil põe estado de SP em atenção para as chuvas dos próximos dias",
+      "resumo": "São esperadas pancadas de chuva de intensidade variável, acompanhadas de raios e rajadas de vento, até sábado (24/10)",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/defesa-civil-poe-estado-de-sp-em-atencao-para-as-chuvas-dos-proximos-dias"
+        }
+      ],
+      "updatedAt": "2026-10-21T22:53:25.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/chuva-paulista4.jpg"
+    },
+    {
+      "clusterId": "624ce64f9f922b83",
+      "slug": "ad336c166e6975fc",
+      "titulo": "Altamira decreta situação de emergência por incêndios florestais",
+      "resumo": "A Prefeitura de Altamira decretou situação de emergência nas áreas atingidas por incêndios florestais, abrangendo regiões urbanas, rurais e ribeirinhas. A medida visa acelerar o combate ao fogo e o atendimento às famílias afetadas. De acordo com o Inpe, Altamira registrou o maior número de focos de incêndio no Brasil desde o início de 2026, com 618 focos entre 1 e 20 de outubro.",
+      "porQueImporta": "A emergência indica a gravidade dos incêndios e a necessidade de recursos imediatos para proteger a população e o meio ambiente.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pa/para/noticia/2026/10/21/altamira-decreta-situacao-de-emergencia-por-incendios-florestais-no-para.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-21T22:46:32.000Z"
+    },
+    {
+      "clusterId": "9b9f455db22f62b7",
+      "slug": "c48dba1efe17540a",
+      "titulo": "MPF recomenda suspensão da venda de combustíveis em galões no Amazonas",
+      "resumo": "O Ministério Público Federal recomendou à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis e ao governo do Amazonas que suspendam a venda de gasolina, etanol e diesel em galões, garrafas e bombonas em todo o estado. A medida deve vigorar enquanto durar a emergência provocada pelas queimadas. O objetivo é dificultar o transporte de combustíveis para impedir ou ampliar incêndios florestais.",
+      "porQueImporta": "A suspensão visa reduzir a disponibilidade de combustíveis que podem alimentar ou agravar incêndios em áreas de risco.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/21/mpf-recomenda-suspender-venda-de-combustiveis-em-galoes-no-amazonas-durante-emergencia-por-queimadas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-21T22:41:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/lSMee7KYs7qUUw9SuGuNurFmwpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/Q/GZ3OAhRoqGfjje6ZFMJQ/g1-recomendacao-venda-combustivel-galao.jpg"
+    },
+    {
+      "clusterId": "678ca1874e8b15d8",
+      "slug": "2bad9375f40a9f3e",
+      "titulo": "Motociclista morre após ser atingido por caminhão boiadeiro em Porto Velho",
+      "resumo": "Um motociclista morreu depois de ser atingido por um caminhão boiadeiro no km 994 da BR-364, entre Vista Alegre do Abunã e Extrema, em Porto Velho. O acidente foi registrado em vídeo, mostrando o motociclista fazendo zigue-zague na pista e quase colidindo com uma carreta antes de ser atingido. O incidente ocorreu no início da tarde desta quarta-feira.",
+      "porQueImporta": "O caso destaca os riscos de condução imprudente em rodovias e a necessidade de atenção ao tráfego de veículos pesados.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/21/video-motociclista-faz-zigue-zague-na-pista-e-morre-apos-ser-atingido-por-caminhao-boiadeiro-em-ro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-21T22:19:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/giB3KSNjqkoImyFBaYDyVxdMRGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/K/Y1EYuXSAAweXZxdQwpZg/g1-ro-2026-17-.jpg.jpeg"
+    },
+    {
+      "clusterId": "918f5b455883e8c1",
+      "slug": "9bb932e25c4a6446",
+      "titulo": "Incêndio atinge área de vegetação do campus da UFCG em Sousa",
+      "resumo": "Um incêndio atingiu a vegetação nas dependências da Universidade Federal de Campina Grande em Sousa, no Sertão da Paraíba. O fogo foi apagado em cerca de 22 minutos após o início das chamas. Não houve feridos. O Corpo de Bombeiros foi acionado e controlou a ocorrência.",
+      "porQueImporta": "O incidente demonstra a necessidade de monitoramento e prevenção de incêndios em áreas de vegetação próximas a instituições de ensino.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/21/incendio-atinge-area-da-ufcg-em-sousa-no-sertao-da-paraiba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-21T21:51:29.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/x-mxwjKBzsbU7adgxcFlkCjp6Wg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Y/CUM3dzTHCRKyFlDdcxKA/phoca-thumb-l-1.jpg"
+    },
+    {
+      "clusterId": "27023debaec06628",
+      "slug": "0f194b68c2ee7b69",
+      "titulo": "São Paulo em alerta por temporal, raios e risco de granizo",
+      "resumo": "Capital paulista terá pancadas de chuva e máxima de 24°C. Temporais avançam pelo Sul e Sudeste, com risco de granizo e raios. A previsão indica alerta para as áreas afetadas. As autoridades recomendam precauções e monitoramento contínuo.",
+      "porQueImporta": "A ocorrência pode causar transtornos urbanos e riscos à segurança pública.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/agenda-verde/os-efeitos-do-supertufao-champi-considerado-a-maior-tempestade-de-2026/"
+          "url": "https://veja.abril.com.br/brasil/temporais-raios-e-chance-de-granizo-colocam-areas-de-sao-paulo-em-alerta-amanha-confira-a-previsao-completa/"
         }
       ],
-      "updatedAt": "2026-10-21T20:05:15.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-21-170037.png"
+      "updatedAt": "2026-10-21T21:00:24.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2024/12/chuva_sp_1_1.webp"
     },
     {
       "clusterId": "4a351c77454dc4ed",
@@ -35,124 +152,6 @@
       ],
       "updatedAt": "2026-10-21T19:41:09.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/WeGBZj26WVDxbY68Eu4CDJ65d00=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/B/aHH5iSRQWBZvMs3rMZKw/20261016210000-20261019165000-h9-ahi-fd-geocolor-champi-becomes-a-sty-nolabels0.png"
-    },
-    {
-      "clusterId": "056a269b2c1667b1",
-      "slug": "ef50a055e5590467",
-      "titulo": "Idoso de 73 anos sofre capotamento na MGC-135 ao tentar evitar colisão",
-      "resumo": "Um idoso de 73 anos dirigindo uma caminhonete na MGC-135, em Mirabela, sofreu capotamento ao perceber falha nos freios. O veículo atingiu a estrutura de um radar de velocidade no km 319. O motorista tentou evitar colisão com outro veículo no sentido contrário. Ele ficou ferido.",
-      "porQueImporta": "O acidente destaca a importância da manutenção adequada de veículos de transporte de carga.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/21/apos-falha-nos-freios-idoso-tenta-evitar-batida-capota-caminhonete-e-atinge-radar-na-mgc-135.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-21T19:37:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/rrXy7vjNxOVTdJok8t9kogxQeqY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/j/wJFOjKRVyzr274qEU56A/whatsapp-image-2026-10-21-at-15.48.56-1-.jpeg"
-    },
-    {
-      "clusterId": "9754838eabefaef5",
-      "slug": "f4543069058344f4",
-      "titulo": "Simulado de acidente com carga perigosa mobiliza equipes na ViaLagos",
-      "resumo": "No km 21,5 da RJ-124, a concessionária CCR ViaLagos, da Motiva, realizou um simulado de acidente com carga perigosa e múltiplas vítimas. Dezenas de profissionais e veículos operacionais foram mobilizados para treinar o resgate e a evacuação. A atividade ocorreu no sentido Sul, próximo à praça de pedágio, em Rio Bonito, Região Metropolitana do Rio.",
-      "porQueImporta": "O exercício demonstra a preparação das equipes para responder a emergências envolvendo cargas perigosas, aumentando a segurança viária.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/21/simulado-na-vialagos-mobiliza-equipes-para-acidente-com-carga-perigosa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-21T19:24:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Z_eCEKGwEQ_G-5wz3h7MWeDQdvo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/N295T4TjqUabdIPJkitg/simulado-ccr.png"
-    },
-    {
-      "clusterId": "ad31d6fa00430155",
-      "slug": "7f5cf24d6e18685b",
-      "titulo": "Acidente entre van e carro deixa 29 feridos e danifica casa na Bahia",
-      "resumo": "Na manhã de quarta-feira, 21, na cidade de Planalto, no sudoeste da Bahia, uma van de transporte perdeu o controle e colidiu com um carro, resultando em 29 feridos. O veículo maior bateu em seguida contra o muro de uma casa, causando danos estruturais. O motorista da van ficou preso nas ferragens e precisou de socorro para ser retirado.",
-      "porQueImporta": "O acidente evidenciou riscos de trânsito em áreas rurais e urbanos, além de causar danos materiais e ferimentos em grande número de pessoas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/21/acidente-deixa-feridos-na-bahia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-21T19:20:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/eWCrwBzWTFoPyxcZl3IA_h8oCng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/X/lyB80AT560biGqUWnuYA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-21t163534.243.jpg"
-    },
-    {
-      "clusterId": "b339b801696592df",
-      "slug": "618f2ea01a3fea14",
-      "titulo": "Homem de 61 anos morre após ser atropelado na BR-116",
-      "resumo": "Um homem de 61 anos, identificado como Antonio José Anunciação de Jesus, morreu após ser atropelado por um carro na manhã de quarta-feira, 21, na BR-116, em Santa Bárbara, Bahia. O acidente ocorreu por volta das 5h, no quilômetro 390, na pista sentido Serrinha. O corpo foi encaminhado ao Departamento de Polícia Técnica de Feira de Santana. A Polícia Rodoviária Federal investigará as circunstâncias do atropelamento.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária nas rodovias federais.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/21/homem-morre-apos-ser-atropelado-em-serrinha.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-21T19:06:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/5f2KtdiTBfa1yO0x7RHmm3tswIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/b/B27SDxRWAYAOJJWjicgQ/foto-no-tamanho-home-96-.png"
-    },
-    {
-      "clusterId": "d2119558402fbc52",
-      "slug": "f30e9a0be23e6068",
-      "titulo": "Barco naufraga em Santarém e passageiros são resgatados",
-      "resumo": "Um barco chamado Pedro Tiago afundou por volta do meio-dia em Santarém, Pará, nas proximidades do Terminal Hidroviário da Atem. Testemunhas registraram vídeos do momento em que o navio começou a afundar e dos gritos de socorro. Os passageiros foram retirados da água com a ajuda de outra embarcação que passava pelo local. O resgate foi realizado sem relatos de feridos graves.",
-      "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança nas embarcações que trafegam no rio Amazonas.",
-      "categoria": "Naufrágio",
-      "categoriaSlug": "naufragio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/21/video-barco-naufraga-em-santarem-e-passageiros-sao-resgatados-do-rio.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-21T18:49:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/T7z-w_mx-kRYFrbFHFNGaAX9lnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/L/Fs0RaKTDAJY5cmCVe51A/whatsapp-image-2026-10-21-at-15.46.59.jpeg"
-    },
-    {
-      "clusterId": "ac2b55fef73ad7a8",
-      "slug": "7a865def6ee85553",
-      "titulo": "Carro cai de altura de cerca de 5 metros sobre veículos estacionados em Aparecida",
-      "resumo": "Um carro caiu de aproximadamente cinco metros sobre veículos estacionados na tarde de quarta-feira, 21, em Aparecida, SP. O motorista, de 80 anos, ficou ferido e foi levado ao pronto‑socorro local. O acidente ocorreu por volta das 14h23, quando o idoso tentava estacionar nas vagas em frente à Prefeitura, no bairro Santa Rita. O Corpo de Bombeiros atendeu ao local.",
-      "porQueImporta": "O acidente destaca a necessidade de atenção ao estacionar em áreas com risco de queda de veículos.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/21/carro-cai-de-altura-de-cerca-de-5-metros-sobre-veiculos-estacionados-em-aparecida-sp-idoso-fica-ferido.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-21T18:40:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IzOc6Fs8_WkjND816d-53FEKyMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/U/YakugSQSGuWSa89O3Aug/foto-g1.jpg"
-    },
-    {
-      "clusterId": "4b009a68f8d71d6e",
-      "slug": "2143a8114051f2b3",
-      "titulo": "Foco de calor na Amazônia aumenta mais de 60% em um ano",
-      "resumo": "O foco de calor na Amazônia cresceu mais de 60% em um ano, segundo analista de clima da CNN, Pedro Côrtes. Apesar do menor desmatamento em quase 40 anos, as queimadas continuam avançando na região. O fenômeno El Niño intensifica a seca e dificulta o combate aos incêndios.",
-      "porQueImporta": "O aumento do calor e das queimadas pode agravar a degradação ambiental e afetar a biodiversidade da Amazônia.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/analise-foco-de-calor-na-amazonia-aumenta-mais-de-60-em-um-ano/"
-        }
-      ],
-      "updatedAt": "2026-10-21T17:53:31.000Z"
     },
     {
       "clusterId": "16bbdb1806209323",
@@ -174,157 +173,26 @@
   ],
   "categorias": [
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "056a269b2c1667b1",
-          "slug": "ef50a055e5590467",
-          "titulo": "Idoso de 73 anos sofre capotamento na MGC-135 ao tentar evitar colisão",
-          "resumo": "Um idoso de 73 anos dirigindo uma caminhonete na MGC-135, em Mirabela, sofreu capotamento ao perceber falha nos freios. O veículo atingiu a estrutura de um radar de velocidade no km 319. O motorista tentou evitar colisão com outro veículo no sentido contrário. Ele ficou ferido.",
-          "porQueImporta": "O acidente destaca a importância da manutenção adequada de veículos de transporte de carga.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/21/apos-falha-nos-freios-idoso-tenta-evitar-batida-capota-caminhonete-e-atinge-radar-na-mgc-135.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-21T19:37:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rrXy7vjNxOVTdJok8t9kogxQeqY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/j/wJFOjKRVyzr274qEU56A/whatsapp-image-2026-10-21-at-15.48.56-1-.jpeg"
-        },
-        {
-          "clusterId": "9754838eabefaef5",
-          "slug": "f4543069058344f4",
-          "titulo": "Simulado de acidente com carga perigosa mobiliza equipes na ViaLagos",
-          "resumo": "No km 21,5 da RJ-124, a concessionária CCR ViaLagos, da Motiva, realizou um simulado de acidente com carga perigosa e múltiplas vítimas. Dezenas de profissionais e veículos operacionais foram mobilizados para treinar o resgate e a evacuação. A atividade ocorreu no sentido Sul, próximo à praça de pedágio, em Rio Bonito, Região Metropolitana do Rio.",
-          "porQueImporta": "O exercício demonstra a preparação das equipes para responder a emergências envolvendo cargas perigosas, aumentando a segurança viária.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/21/simulado-na-vialagos-mobiliza-equipes-para-acidente-com-carga-perigosa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-21T19:24:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Z_eCEKGwEQ_G-5wz3h7MWeDQdvo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/N295T4TjqUabdIPJkitg/simulado-ccr.png"
-        },
-        {
-          "clusterId": "ad31d6fa00430155",
-          "slug": "7f5cf24d6e18685b",
-          "titulo": "Acidente entre van e carro deixa 29 feridos e danifica casa na Bahia",
-          "resumo": "Na manhã de quarta-feira, 21, na cidade de Planalto, no sudoeste da Bahia, uma van de transporte perdeu o controle e colidiu com um carro, resultando em 29 feridos. O veículo maior bateu em seguida contra o muro de uma casa, causando danos estruturais. O motorista da van ficou preso nas ferragens e precisou de socorro para ser retirado.",
-          "porQueImporta": "O acidente evidenciou riscos de trânsito em áreas rurais e urbanos, além de causar danos materiais e ferimentos em grande número de pessoas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/21/acidente-deixa-feridos-na-bahia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-21T19:20:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/eWCrwBzWTFoPyxcZl3IA_h8oCng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/X/lyB80AT560biGqUWnuYA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-21t163534.243.jpg"
-        },
-        {
-          "clusterId": "b339b801696592df",
-          "slug": "618f2ea01a3fea14",
-          "titulo": "Homem de 61 anos morre após ser atropelado na BR-116",
-          "resumo": "Um homem de 61 anos, identificado como Antonio José Anunciação de Jesus, morreu após ser atropelado por um carro na manhã de quarta-feira, 21, na BR-116, em Santa Bárbara, Bahia. O acidente ocorreu por volta das 5h, no quilômetro 390, na pista sentido Serrinha. O corpo foi encaminhado ao Departamento de Polícia Técnica de Feira de Santana. A Polícia Rodoviária Federal investigará as circunstâncias do atropelamento.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária nas rodovias federais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/21/homem-morre-apos-ser-atropelado-em-serrinha.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-21T19:06:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5f2KtdiTBfa1yO0x7RHmm3tswIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/b/B27SDxRWAYAOJJWjicgQ/foto-no-tamanho-home-96-.png"
-        },
-        {
-          "clusterId": "ac2b55fef73ad7a8",
-          "slug": "7a865def6ee85553",
-          "titulo": "Carro cai de altura de cerca de 5 metros sobre veículos estacionados em Aparecida",
-          "resumo": "Um carro caiu de aproximadamente cinco metros sobre veículos estacionados na tarde de quarta-feira, 21, em Aparecida, SP. O motorista, de 80 anos, ficou ferido e foi levado ao pronto‑socorro local. O acidente ocorreu por volta das 14h23, quando o idoso tentava estacionar nas vagas em frente à Prefeitura, no bairro Santa Rita. O Corpo de Bombeiros atendeu ao local.",
-          "porQueImporta": "O acidente destaca a necessidade de atenção ao estacionar em áreas com risco de queda de veículos.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/21/carro-cai-de-altura-de-cerca-de-5-metros-sobre-veiculos-estacionados-em-aparecida-sp-idoso-fica-ferido.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-21T18:40:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/IzOc6Fs8_WkjND816d-53FEKyMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/U/YakugSQSGuWSa89O3Aug/foto-g1.jpg"
-        },
-        {
-          "clusterId": "15b5bf1829024d9a",
-          "slug": "654b3cdd304f954a",
-          "titulo": "Colisão entre ônibus turístico e caminhão deixa 13 mortos no Egito",
-          "resumo": "Um ônibus turístico colidiu com um caminhão a oeste do Cairo, na rodovia que liga a capital a Asiut. A colisão resultou em 13 mortes e 34 feridos. As autoridades abriram a estrada e utilizaram guindaste para remover o ônibus. A mídia estatal egípcia confirmou os números.",
-          "porQueImporta": "O acidente destaca a necessidade de segurança viária em rotas de tráfego intenso no Egito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/20/colisao-onibus-turistico-caminhao-deixa-mortos-feridos-egito.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-20T12:51:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/h8C13Dw6VqNx7y7iOFs9aw_OWX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/l/XB0EI2TNmMZCAElOXFcw/afp-20261020-d3up2zq-v1-highres-egypttransportaccident.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "e80c2ec3ff7a3f43",
-          "slug": "74af4daedfde3f9e",
-          "titulo": "Supertufão Champi atinge Mar das Filipinas com força de furacão de categoria 5",
-          "resumo": "O supertufão Champi, chamado de ciclone monstro, atingiu o Mar das Filipinas com intensidade equivalente a um furacão de categoria 5. O fenômeno percorreu a região com velocidade e potência recordes. Autoridades monitoram a situação para avaliar possíveis impactos em áreas costeiras próximas.",
-          "porQueImporta": "O evento pode causar danos significativos a comunidades costeiras e infraestrutura marítima.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/agenda-verde/os-efeitos-do-supertufao-champi-considerado-a-maior-tempestade-de-2026/"
-            }
-          ],
-          "updatedAt": "2026-10-21T20:05:15.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-21-170037.png"
-        },
-        {
-          "clusterId": "4a351c77454dc4ed",
-          "slug": "c0c9ea8d73f87c74",
-          "titulo": "Supertufão Champi atinge 296 km/h e forma olho gigante no Pacífico",
-          "resumo": "O supertufão Champi, formado no Oceano Pacífico, atingiu ventos sustentados de cerca de 296 km/h nesta semana. A tempestade passou por uma rápida mudança no tamanho de seu olho, criando uma região de calmaria no centro. A formação do supertufão foi confirmada pelo Centro Conjunto de Alerta de Tufões dos Estados Unidos.",
-          "porQueImporta": "O aumento de velocidade e a formação de olho gigante indicam potencial de impacto significativo em áreas costeiras próximas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/21/supertufao-champi-olho-gigante-no-pacifico.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-21T19:41:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WeGBZj26WVDxbY68Eu4CDJ65d00=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/B/aHH5iSRQWBZvMs3rMZKw/20261016210000-20261019165000-h9-ahi-fd-geocolor-champi-becomes-a-sty-nolabels0.png"
-        }
-      ]
-    },
-    {
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "1706a0bce2283f35",
+          "slug": "d82c7e73b2452024",
+          "titulo": "Defesa Civil põe estado de SP em atenção para as chuvas dos próximos dias",
+          "resumo": "São esperadas pancadas de chuva de intensidade variável, acompanhadas de raios e rajadas de vento, até sábado (24/10)",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/defesa-civil-poe-estado-de-sp-em-atencao-para-as-chuvas-dos-proximos-dias"
+            }
+          ],
+          "updatedAt": "2026-10-21T22:53:25.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/chuva-paulista4.jpg"
+        },
         {
           "clusterId": "16bbdb1806209323",
           "slug": "1d294c982d42b46d",
@@ -362,15 +230,88 @@
       ]
     },
     {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "624ce64f9f922b83",
+          "slug": "ad336c166e6975fc",
+          "titulo": "Altamira decreta situação de emergência por incêndios florestais",
+          "resumo": "A Prefeitura de Altamira decretou situação de emergência nas áreas atingidas por incêndios florestais, abrangendo regiões urbanas, rurais e ribeirinhas. A medida visa acelerar o combate ao fogo e o atendimento às famílias afetadas. De acordo com o Inpe, Altamira registrou o maior número de focos de incêndio no Brasil desde o início de 2026, com 618 focos entre 1 e 20 de outubro.",
+          "porQueImporta": "A emergência indica a gravidade dos incêndios e a necessidade de recursos imediatos para proteger a população e o meio ambiente.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/10/21/altamira-decreta-situacao-de-emergencia-por-incendios-florestais-no-para.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-21T22:46:32.000Z"
+        },
+        {
+          "clusterId": "9b9f455db22f62b7",
+          "slug": "c48dba1efe17540a",
+          "titulo": "MPF recomenda suspensão da venda de combustíveis em galões no Amazonas",
+          "resumo": "O Ministério Público Federal recomendou à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis e ao governo do Amazonas que suspendam a venda de gasolina, etanol e diesel em galões, garrafas e bombonas em todo o estado. A medida deve vigorar enquanto durar a emergência provocada pelas queimadas. O objetivo é dificultar o transporte de combustíveis para impedir ou ampliar incêndios florestais.",
+          "porQueImporta": "A suspensão visa reduzir a disponibilidade de combustíveis que podem alimentar ou agravar incêndios em áreas de risco.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/21/mpf-recomenda-suspender-venda-de-combustiveis-em-galoes-no-amazonas-durante-emergencia-por-queimadas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-21T22:41:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lSMee7KYs7qUUw9SuGuNurFmwpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/Q/GZ3OAhRoqGfjje6ZFMJQ/g1-recomendacao-venda-combustivel-galao.jpg"
+        },
+        {
+          "clusterId": "918f5b455883e8c1",
+          "slug": "9bb932e25c4a6446",
+          "titulo": "Incêndio atinge área de vegetação do campus da UFCG em Sousa",
+          "resumo": "Um incêndio atingiu a vegetação nas dependências da Universidade Federal de Campina Grande em Sousa, no Sertão da Paraíba. O fogo foi apagado em cerca de 22 minutos após o início das chamas. Não houve feridos. O Corpo de Bombeiros foi acionado e controlou a ocorrência.",
+          "porQueImporta": "O incidente demonstra a necessidade de monitoramento e prevenção de incêndios em áreas de vegetação próximas a instituições de ensino.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/21/incendio-atinge-area-da-ufcg-em-sousa-no-sertao-da-paraiba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-21T21:51:29.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/x-mxwjKBzsbU7adgxcFlkCjp6Wg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Y/CUM3dzTHCRKyFlDdcxKA/phoca-thumb-l-1.jpg"
+        }
+      ]
+    },
+    {
       "slug": "acidente-aereo",
       "label": "Acidente aéreo",
       "stories": [
         {
+          "clusterId": "50cc5cd43ad35cdd",
+          "slug": "032bb77ac33b23c4",
+          "titulo": "Justiça torna 12 réus no caso da queda do avião da Voepass",
+          "resumo": "A Justiça Federal aceitou a denúncia do Ministério Público Federal e tornou réus 12 pessoas, entre diretores, gerentes, piloto-chefe, despachante de voo, mecânico e o dono da companhia, José Luiz Felício Filho, envolvidos na queda do avião da Voepass que matou 62 pessoas. Quatro outros indiciados firmaram acordos de confissão. A decisão reforça o trabalho da Polícia Federal e do MPF na investigação do acidente ocorrido em Vinhedo, SP.",
+          "porQueImporta": "Estabelece responsabilidade legal sobre os envolvidos em um dos maiores acidentes aéreos do Brasil.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/21/mae-da-vitima-mais-jovem-do-voo-da-voepass-ve-esperanca-apos-justica-tornar-12-denunciados-reus.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-21T23:07:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Hj0FdCqsN5GPqj9xULH-zcPntNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/RYOvIURP2XEE9wfYZjmQ/design-sem-nome-2026-10-21t191738.463.jpg"
+        },
+        {
           "clusterId": "291596adea8a28da",
           "slug": "689b31caf5582ae4",
           "titulo": "Avião de pequeno porte cai em rua movimentada de San José",
-          "resumo": "Um avião de pequeno porte caiu em uma rodovia da Califórnia, atingindo um poste de iluminação e capotando antes de cair na rua. As três pessoas a bordo sobreviveram ao acidente. Nenhum ferido foi registrado no solo. O incidente foi registrado em vídeo por uma câmera de carro.",
-          "porQueImporta": "O acidente demonstra risco de acidentes aéreos em áreas urbanas densamente povoadas.",
+          "resumo": "Um avião de pequeno porte caiu em uma rodovia da Califórnia, atingindo um poste de iluminação antes de capotar e cair na rua. As três pessoas a bordo, dois adultos e uma criança, sobreviveram ao acidente. Nenhum passageiro em solo ficou ferido. O incidente foi registrado por uma câmera de um carro.",
+          "porQueImporta": "O acidente demonstra risco de acidentes aéreos em áreas urbanas e a possibilidade de ferimentos em pedestres.",
           "categoria": "Acidente aéreo",
           "categoriaSlug": "acidente-aereo",
           "sources": [
@@ -381,68 +322,108 @@
           ],
           "updatedAt": "2026-10-20T20:22:06.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/rjmugR7bUz_Jg4jv5CZmIdu8xgY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/e/NlBC7OSXyeCgKPJBSwvQ/mixcollage-20-oct-2026-05-15-pm-9340.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "678ca1874e8b15d8",
+          "slug": "2bad9375f40a9f3e",
+          "titulo": "Motociclista morre após ser atingido por caminhão boiadeiro em Porto Velho",
+          "resumo": "Um motociclista morreu depois de ser atingido por um caminhão boiadeiro no km 994 da BR-364, entre Vista Alegre do Abunã e Extrema, em Porto Velho. O acidente foi registrado em vídeo, mostrando o motociclista fazendo zigue-zague na pista e quase colidindo com uma carreta antes de ser atingido. O incidente ocorreu no início da tarde desta quarta-feira.",
+          "porQueImporta": "O caso destaca os riscos de condução imprudente em rodovias e a necessidade de atenção ao tráfego de veículos pesados.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/21/video-motociclista-faz-zigue-zague-na-pista-e-morre-apos-ser-atingido-por-caminhao-boiadeiro-em-ro.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-21T22:19:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/giB3KSNjqkoImyFBaYDyVxdMRGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/K/Y1EYuXSAAweXZxdQwpZg/g1-ro-2026-17-.jpg.jpeg"
         },
         {
-          "clusterId": "bdf6846f6267f5df",
-          "slug": "864d4865733d53a1",
-          "titulo": "Incêndio em asa de avião da Latam antes da decolagem no Peru",
-          "resumo": "Um avião da Latam apresentou incêndio em uma das asas antes da decolagem no Aeroporto Internacional Jorge Chávez, em Lima. Os passageiros foram retirados da aeronave de forma preventiva. Não houve feridos. O voo LA2302, que ligava Lima a Piura, foi cancelado.",
-          "porQueImporta": "O incidente destaca a importância dos protocolos de segurança em aeroportos internacionais.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
+          "clusterId": "15b5bf1829024d9a",
+          "slug": "654b3cdd304f954a",
+          "titulo": "Colisão entre ônibus turístico e caminhão deixa 13 mortos no Egito",
+          "resumo": "Um ônibus turístico colidiu com um caminhão a oeste do Cairo, na rodovia que liga a capital a Asiut. A colisão resultou em 13 mortes e 34 feridos. As autoridades abriram a estrada e utilizaram guindaste para remover o ônibus. A mídia estatal egípcia confirmou os números.",
+          "porQueImporta": "O acidente destaca a necessidade de segurança viária em rotas de tráfego intenso no Egito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/19/asa-de-aviao-da-latam-pega-fogo-antes-da-decolagem-no-peru-passageiros-desembarcam.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/20/colisao-onibus-turistico-caminhao-deixa-mortos-feridos-egito.ghtml"
             }
           ],
-          "updatedAt": "2026-10-19T22:07:23.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/iHptjkx3Q4zmuY8JoAMVcZccdqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/RCxA6ZQJmzUwzuvDmJNw/mixcollage-19-oct-2026-07-14-pm-2414.jpg"
+          "updatedAt": "2026-10-20T12:51:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/h8C13Dw6VqNx7y7iOFs9aw_OWX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/l/XB0EI2TNmMZCAElOXFcw/afp-20261020-d3up2zq-v1-highres-egypttransportaccident.jpg"
         }
       ]
     },
     {
-      "slug": "naufragio",
-      "label": "Naufrágio",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "d2119558402fbc52",
-          "slug": "f30e9a0be23e6068",
-          "titulo": "Barco naufraga em Santarém e passageiros são resgatados",
-          "resumo": "Um barco chamado Pedro Tiago afundou por volta do meio-dia em Santarém, Pará, nas proximidades do Terminal Hidroviário da Atem. Testemunhas registraram vídeos do momento em que o navio começou a afundar e dos gritos de socorro. Os passageiros foram retirados da água com a ajuda de outra embarcação que passava pelo local. O resgate foi realizado sem relatos de feridos graves.",
-          "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança nas embarcações que trafegam no rio Amazonas.",
-          "categoria": "Naufrágio",
-          "categoriaSlug": "naufragio",
+          "clusterId": "27023debaec06628",
+          "slug": "0f194b68c2ee7b69",
+          "titulo": "São Paulo em alerta por temporal, raios e risco de granizo",
+          "resumo": "Capital paulista terá pancadas de chuva e máxima de 24°C. Temporais avançam pelo Sul e Sudeste, com risco de granizo e raios. A previsão indica alerta para as áreas afetadas. As autoridades recomendam precauções e monitoramento contínuo.",
+          "porQueImporta": "A ocorrência pode causar transtornos urbanos e riscos à segurança pública.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/temporais-raios-e-chance-de-granizo-colocam-areas-de-sao-paulo-em-alerta-amanha-confira-a-previsao-completa/"
+            }
+          ],
+          "updatedAt": "2026-10-21T21:00:24.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2024/12/chuva_sp_1_1.webp"
+        },
+        {
+          "clusterId": "4a351c77454dc4ed",
+          "slug": "c0c9ea8d73f87c74",
+          "titulo": "Supertufão Champi atinge 296 km/h e forma olho gigante no Pacífico",
+          "resumo": "O supertufão Champi, formado no Oceano Pacífico, atingiu ventos sustentados de cerca de 296 km/h nesta semana. A tempestade passou por uma rápida mudança no tamanho de seu olho, criando uma região de calmaria no centro. A formação do supertufão foi confirmada pelo Centro Conjunto de Alerta de Tufões dos Estados Unidos.",
+          "porQueImporta": "O aumento de velocidade e a formação de olho gigante indicam potencial de impacto significativo em áreas costeiras próximas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/21/video-barco-naufraga-em-santarem-e-passageiros-sao-resgatados-do-rio.ghtml"
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/21/supertufao-champi-olho-gigante-no-pacifico.ghtml"
             }
           ],
-          "updatedAt": "2026-10-21T18:49:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/T7z-w_mx-kRYFrbFHFNGaAX9lnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/L/Fs0RaKTDAJY5cmCVe51A/whatsapp-image-2026-10-21-at-15.46.59.jpeg"
+          "updatedAt": "2026-10-21T19:41:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WeGBZj26WVDxbY68Eu4CDJ65d00=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/B/aHH5iSRQWBZvMs3rMZKw/20261016210000-20261019165000-h9-ahi-fd-geocolor-champi-becomes-a-sty-nolabels0.png"
         }
       ]
     },
     {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
+      "slug": "desabamento",
+      "label": "Desabamento",
       "stories": [
         {
-          "clusterId": "4b009a68f8d71d6e",
-          "slug": "2143a8114051f2b3",
-          "titulo": "Foco de calor na Amazônia aumenta mais de 60% em um ano",
-          "resumo": "O foco de calor na Amazônia cresceu mais de 60% em um ano, segundo analista de clima da CNN, Pedro Côrtes. Apesar do menor desmatamento em quase 40 anos, as queimadas continuam avançando na região. O fenômeno El Niño intensifica a seca e dificulta o combate aos incêndios.",
-          "porQueImporta": "O aumento do calor e das queimadas pode agravar a degradação ambiental e afetar a biodiversidade da Amazônia.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
+          "clusterId": "d1f23f6d7b42140f",
+          "slug": "5595f292cfc33157",
+          "titulo": "Bombeiros resgatam cachorro preso em destroços em Niterói",
+          "resumo": "Um cachorro chamado Romário foi encontrado preso em destroços de um imóvel que desabou em Niterói. O animal estava desaparecido há cinco dias, mas foi localizado quando vizinhos ouviram barulhos. Bombeiros conseguiram resgatá‑lo com segurança. O caso foi divulgado pela CNN Brasil.",
+          "porQueImporta": "Ilustra a importância da vigilância e da ação rápida em situações de desabamento para salvar animais.",
+          "categoria": "Desabamento",
+          "categoriaSlug": "desabamento",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/analise-foco-de-calor-na-amazonia-aumenta-mais-de-60-em-um-ano/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/bombeiros-resgatam-cachorro-preso-em-destrocos-em-niteroi/"
             }
           ],
-          "updatedAt": "2026-10-21T17:53:31.000Z"
+          "updatedAt": "2026-10-21T23:28:32.000Z"
         }
       ]
     },
