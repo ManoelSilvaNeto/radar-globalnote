@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-21T14:03:28.747Z",
-  "editionDate": "2026-10-21",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Tráfego urbano e incêndios residenciais dominam panorama de ocorrências\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-22T05:15:08.460Z",
+  "editionDate": "2026-10-22",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
