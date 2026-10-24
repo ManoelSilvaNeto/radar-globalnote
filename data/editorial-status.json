@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-23T20:02:13.556Z",
-  "editionDate": "2026-10-23",
-  "hourUtc": 20,
-  "outcome": "generated",
-  "reason": "\"Incidentes de emergência e riscos ambientais dominam o panorama do dia\" (5 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-24T04:56:25.598Z",
+  "editionDate": "2026-10-24",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }

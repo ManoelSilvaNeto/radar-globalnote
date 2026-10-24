@@ -1,27 +1,57 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T23:23:15.346Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T04:56:25.598Z",
   "home": [
     {
-      "clusterId": "a02be7f31fc482cf",
-      "slug": "968c72b2aabf6b78",
-      "titulo": "Jovem cria portal para localizar desaparecidos após terremoto na Venezuela",
-      "resumo": "O programador venezuelano Jorge Bastidas, que estava em Bogotá, percebeu a falta de informações sobre pessoas desaparecidas após terremotos na Venezuela. Ele desenvolveu um site usando inteligência artificial para permitir que familiares busquem dados sobre entes desaparecidos. A iniciativa surgiu devido à ausência de dados oficiais do governo venezuelano. O portal já está em funcionamento e recebe buscas de parentes de vítimas.",
-      "porQueImporta": "Facilita o acesso a informações sobre vítimas em situação de emergência, contribuindo para a busca e recuperação de desaparecidos.",
-      "categoria": "Desastre",
-      "categoriaSlug": "desastre",
+      "clusterId": "f279d71fe8a28846",
+      "slug": "d65774dc47a05442",
+      "titulo": "Terremoto de magnitude 6,9 ocorre próximo a Vanuatu",
+      "resumo": "Um terremoto de magnitude 6,9 foi registrado em águas próximas a Vanuatu, no Pacífico. O Centro de Alerta de Tsunamis do Pacífico emitiu um alerta de tsunami para a região, mas o alerta foi retirado posteriormente. Não há relatos de danos ou vítimas até o momento.",
+      "porQueImporta": "O evento pode representar risco de tsunami para comunidades costeiras da região.",
+      "categoria": "Terremoto",
+      "categoriaSlug": "terremoto",
       "sources": [
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cr15jpdvgp7zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/23/jovem-portal-localizar-desaparecidos-terremoto-venezuela.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-69-atinge-regiao-proxima-a-vanuatu-no-pacifico"
         }
       ],
-      "updatedAt": "2026-10-23T09:38:12.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0468/live/35cbcb80-cd42-11f1-ad2d-43fff3ff842f.jpg"
+      "updatedAt": "2026-10-24T04:49:07.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/terremoto-1.jpg"
+    },
+    {
+      "clusterId": "abfc09c5c4338845",
+      "slug": "f3d782972999e615",
+      "titulo": "Previsão do tempo para cidades brasileiras",
+      "resumo": "Para sábado, sol e nuvens com pancadas de chuva em vários municípios, incluindo Caxias do Sul, Florianópolis, Londrina, Sete Lagoas, Ribeirão das Neves, Contagem e Betim. À noite, a maioria das cidades terá temporal ou pancadas de chuva. As temperaturas máximas variam entre 19ºC e 31ºC, e as mínimas entre 15ºC e 20ºC.",
+      "porQueImporta": "Informação útil para planejamento de atividades externas e mobilidade urbana.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/10/24/previsao-do-tempo-hoje-para-betim-mg-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-24T04:13:51.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HLUKECz1pswIILOp7DijXJmjVHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/P/BH0HjPQQG9AvaEAjyamg/previsao-tempo-betim-20261024-010735.jpeg"
+    },
+    {
+      "clusterId": "d4d0600a3818d9e9",
+      "slug": "e5313164d33d089b",
+      "titulo": "Campanhas de Lula e Flávio Bolsonaro entregam documentos ao TSE, mas não abrem sigilos; temporal provoca estragos no Paraná",
+      "resumo": "As campanhas de Lula e de Flávio Bolsonaro entregaram documentos ao Tribunal Superior Eleitoral, mas não abriram os sigilos. O corregedor da Justiça Eleitoral concedeu 24 horas para a Meta e o X explicarem as regras de distribuição de conteúdo político nas redes sociais. Um temporal causou danos em diferentes regiões do Paraná.",
+      "porQueImporta": "A entrega de documentos e a falta de abertura de sigilos podem afetar a transparência do processo eleitoral, enquanto o temporal destaca a vulnerabilidade da região a eventos climáticos extremos.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/resumao-diario-do-jn-campanhas-de-lula-e-flavio-bolsonaro-entregam-documentos-ao-tse-mas-nao-abrem-os-sigilos-temporal-provoca-estragos-no-parana.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-24T02:26:57.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
     },
     {
       "clusterId": "33de563187a675d3",
@@ -40,218 +70,96 @@
       "updatedAt": "2026-10-23T23:18:13.000Z"
     },
     {
-      "clusterId": "ab8fc98cc6b75d7e",
-      "slug": "e8161c5a67140a68",
-      "titulo": "Incêndio atinge apartamento em Santo Antônio de Pádua",
-      "resumo": "Um incêndio atingiu um apartamento no bairro Cidade Nova, em Santo Antônio de Pádua, na noite de quinta-feira. Três pessoas estavam no imóvel, mas conseguiram sair a tempo e não ficaram feridas. O Corpo de Bombeiros foi acionado, controlou as chamas e realizou inspeção no local. A suspeita inicial aponta para um curto‑circuito na parte elétrica.",
-      "porQueImporta": "O incidente demonstra a importância da segurança elétrica em residências.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "815f670987e9e748",
+      "slug": "906e89d5ebaa857d",
+      "titulo": "Prédio de mais de 10 andares desaba em Nairobi",
+      "resumo": "Um prédio em construção com mais de 10 andares desabou na rua comercial Eastleigh, em Nairobi, deixando uma massa de concreto e mais de uma dúzia de andares sobrepostos. Ainda não há balanço oficial de vítimas. A polícia precisou usar gás lacrimogêneo para conter saqueadores nas lojas vizinhas.",
+      "porQueImporta": "O colapso pode ter causado vítimas e interrompido a atividade comercial da região.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/23/incendio-atinge-apartamento-em-santo-antonio-de-padua-ninguem-fica-ferido.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/23/predio-de-mais-de-10-andares-desaba-no-quenia-equipes-buscam-vitimas.ghtml"
         }
       ],
-      "updatedAt": "2026-10-23T23:04:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Kno05VPpCBsG_l2X-OhY2veRgyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/A/vBn41BTFSKJOwECHN01A/fogo.jpg"
+      "updatedAt": "2026-10-23T17:48:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/r8VchmAsierfwkB9t4s5ybX3dP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/r/JE3pdHRBWCF6pAqbav6A/ap26296473240217.jpg"
     },
     {
-      "clusterId": "0d80594622059b92",
-      "slug": "511dbc277f145243",
-      "titulo": "Multas ambientais em Itacoatiara somam mais de R$ 700 mil",
-      "resumo": "A Secretaria Municipal de Meio Ambiente de Itacoatiara registrou R$ 709.940 em multas aplicadas a 13 pessoas por crimes ambientais. As infrações incluíram desmatamento, queimadas e produção de carvão. R$ 464.220 dessas multas correspondem a desmatamento e queimadas.",
-      "porQueImporta": "O valor das multas reflete a atuação das autoridades na fiscalização e controle de atividades ilegais que ameaçam o meio ambiente.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "2f34fcfd629b8490",
+      "slug": "ea94a7119e40227c",
+      "titulo": "Jovem venezuelano cria portal para localizar desaparecidos após terremoto",
+      "resumo": "O programador venezuelano de 32 anos, que estava em Bogotá, desenvolveu uma plataforma para localizar pessoas desaparecidas após terremotos na Venezuela. Ele cancelou reuniões e tentou contato com a família, mas as ligações não completavam. A iniciativa visa reunir informações sobre vítimas e facilitar buscas.",
+      "porQueImporta": "A ferramenta pode acelerar a localização de desaparecidos em situações de desastre.",
+      "categoria": "Desastre",
+      "categoriaSlug": "desastre",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/23/queimadas-e-desmatamento-geram-mais-de-r-700-mil-em-multas-em-itacoatiara.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/23/jovem-portal-localizar-desaparecidos-terremoto-venezuela.ghtml"
         }
       ],
-      "updatedAt": "2026-10-23T22:56:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/NMPwZ5Q7fWPflLm_BaRZbu43fBU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/v/WEJruJT5ac9FgZabI6rA/whatsapp-image-2026-10-23-at-18.17.39.jpeg"
+      "updatedAt": "2026-10-23T09:38:12.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/bNbkidwVZghCqGP9EjanlZkgu-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/9/8422UFQnuge5HWTQYheg/novo-projeto-3-.jpg"
     },
     {
-      "clusterId": "97279a2a2c0bf68f",
-      "slug": "d189e8567dd65a89",
-      "titulo": "Trabalhador sofre queimaduras graves durante incêndio em pastelaria em Itaúna",
-      "resumo": "Um homem sofreu queimaduras graves durante um incêndio em uma pastelaria na região central de Itaúna, na tarde de sexta-feira. O Serviço de Atendimento Móvel de Urgência (Samu) socorreu a vítima, que foi levada ao Hospital Manoel Gonçalves. O Corpo de Bombeiros foi acionado para combater as chamas. O nome do estabelecimento não foi divulgado.",
-      "porQueImporta": "O incidente destaca a necessidade de segurança em estabelecimentos comerciais e a importância da resposta rápida de serviços de emergência.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "1984b19f714870c5",
+      "slug": "3531e5aa99897a6c",
+      "titulo": "Terremoto de magnitude 7,0 atinge Tibete",
+      "resumo": "Um terremoto de magnitude 7,0 atingiu o Tibete, região autônoma na China, causando 16 mortes e 32 feridos. Desabamentos de casas foram registrados e serviços de eletricidade e telecomunicações foram afetados.",
+      "porQueImporta": "O evento resultou em fatalidades e danos estruturais, afetando a infraestrutura local.",
+      "categoria": "Desastre",
+      "categoriaSlug": "desastre",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/23/video-trabalhador-sofre-queimaduras-graves-durante-incendio-em-pastelaria-em-itauna.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/22/terremoto-atinge-o-tibete.ghtml"
         }
       ],
-      "updatedAt": "2026-10-23T22:49:24.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vUywiEiABrk-77jc8KWXIwC-m0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/J/qNQpnMSa6ZAiXL26B4rw/fogo-itauna-.png"
+      "updatedAt": "2026-10-22T14:47:47.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/v2UbVCWXJqyptSQEOCUtLe5ijX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/4/YwIrsDT4KUc4cNaxk5Bg/nagqu.jpg"
     },
     {
-      "clusterId": "a83d0736ef0e9146",
-      "slug": "a560cd6ce499ae0c",
-      "titulo": "Com mais de 5 mil focos de incêndio em 2026, PI tem 3,3 mil brigadistas em campo",
-      "resumo": "Prevenção às queimadas: brigadas fazem aceiros e combatem focos de incêndio Mais de 3,3 mil brigadistas florestais atuam em ações de prevenção, monitoramento e combate aos incêndios em 197 dos 224 municípios do Piauí, segundo a Secretaria de Meio Ambiente e Recursos Hídricos (Semarh). Do total, mais de 130 profissionais foram certificados nesta sexta-feira (23). O Piauí registrou 5.164 focos de incêndio entre 1º de janeiro e 22 de outubro deste ano, de acordo com o Instituto Nacional de Pesquisas Espaciais (Inpe). ✅ Siga o canal do g1 Piauí no WhatsApp Os brigadistas certificados nesta sexta…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "a899bbd7823a35d7",
+      "slug": "c6cda57967d715a9",
+      "titulo": "Repórter da ABC resgata motorista de carro afundando em enchente na Austrália",
+      "resumo": "Um repórter da televisão pública australiana ABC, Will Murray, e um pedestre resgataram um motorista de um carro que estava afundando em meio a uma enchente no norte de Brisbane, estado de Queensland. O veículo ficou completamente submerso pouco depois que os dois retiraram o homem. O repórter estava fazendo reportagem sobre as inundações quando o incidente ocorreu.",
+      "porQueImporta": "Ilustra a intervenção rápida de profissionais de mídia em situações de emergência, destacando a importância da ação imediata em desastres naturais.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/23/brigadistas-incendio-piaui.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/22/reporter-de-tv-australiana-resgata-homem-de-carro-afundando-em-enchente.ghtml"
         }
       ],
-      "updatedAt": "2026-10-23T22:47:09.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/YRxMnid6JhiZLWbMELTQV0b-WXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/K/BpZw54TbaSRAgkBjlSwA/edicao-imagens-g1-2026-10-23t180315.943.png"
-    },
-    {
-      "clusterId": "e807cde6b2e71a50",
-      "slug": "2ae28144fbe0849e",
-      "titulo": "Acidentes em Volta Redonda: colisão de carro e moto e vítima morta por trem",
-      "resumo": "Na noite de sexta-feira (23), uma colisão entre um carro e uma moto no bairro Três Poços deixou uma pessoa ferida, atendida pelo Corpo de Bombeiros às 18h50. No mesmo bairro, um homem foi atingido por um trem e chegou ao local já falecido, com agentes de perícia acionados às 17h40. Até o momento, não há detalhes sobre as circunstâncias dos dois acidentes.",
-      "porQueImporta": "Os incidentes evidenciam riscos de segurança nas vias urbanas e ferroviárias de Volta Redonda.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/23/homem-morre-ao-ser-atingido-por-trem-em-volta-redonda.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-23T22:39:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/OHL-4TyWlKdSLsW93k2OLkOjpL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/X/x8ku3MQreaTWt9cMSq0w/whatsapp-image-2026-10-23-at-19.06.27-1-.jpeg"
-    },
-    {
-      "clusterId": "6e4fe0e70d4cc269",
-      "slug": "e43bfea598fec4fe",
-      "titulo": "Alerta de perigo para tempestade no sul do Brasil",
-      "resumo": "O sul do Brasil entrou em alerta de perigo para tempestade. A previsão inclui chuvas superiores a 100 milímetros por dia e ventos acima de 100 quilômetros por hora. Também se prevê queda de granizo neste sábado.",
-      "porQueImporta": "O alerta indica risco de danos materiais e de segurança para a população.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/sul-do-brasil-entra-em-alerta-de-perigo-para-tempestade-neste-sabado-24/"
-        }
-      ],
-      "updatedAt": "2026-10-23T22:31:57.000Z"
-    },
-    {
-      "clusterId": "abbd7ccea1ad3e7d",
-      "slug": "3d9c656a3d87f952",
-      "titulo": "Defesa Civil emite alerta de temporal para região de Itapetininga",
-      "resumo": "A Defesa Civil de São Paulo alertou para pancadas de chuva fortes e moderadas na região de Itapetininga, com previsão de até 128 mm de chuva em três dias. O aviso permanece válido até domingo. A cidade pode registrar raios e rajadas de vento.",
-      "porQueImporta": "O alerta visa prevenir alagamentos e garantir a segurança dos moradores.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/23/defesa-civil-emite-alerta-de-temporal-para-regiao-de-itapetininga-cidade-pode-registrar-mais-de-120-mm-em-tres-dias.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-23T21:54:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/5MVo6mw3QMDGmnk_m4SXJRL379M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/i/BnAoDCR42UCnaFhW6Hxg/unnamed-1-.jpg"
-    },
-    {
-      "clusterId": "bf79f5f7f57abd11",
-      "slug": "8c15fc65ecf04868",
-      "titulo": "Temporal com granizo e rajadas de vento na Grande BH",
-      "resumo": "Um forte temporal atingiu cidades da Região Metropolitana de Belo Horizonte na tarde de sexta-feira. Em Esmeraldas, houve queda de granizo e vendaval, enquanto em Ribeirão das Neves a chuva causou quedas de árvores. Na capital, a Defesa Civil emitiu alerta de pancadas com raios e rajadas de vento de até 60 km/h, válido até as 8h de sábado.",
-      "porQueImporta": "O evento pode causar danos materiais e riscos à segurança pública na região.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/23/grande-bh-tem-temporal-com-granizo-e-rajadas-de-vento.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-23T21:54:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kaXpdQQPBxEENK7qf5937a9G_Jg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/k/ApE5K3TBAObs5wWBMxuA/design-sem-nome-2026-10-23t184631.317.jpg"
+      "updatedAt": "2026-10-22T10:29:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/x2utcGKCQpSWhvW2nTJoyMXdCAY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/D/iV2aczSE6s1g6oOHPUHA/2026-10-22t031315z-1-lwd213322102026rp1-rtrwnev-c-2133-australia-floods-rescue1-ezgif.com-video-to-gif-converter.gif"
     }
   ],
   "categorias": [
     {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "6e4fe0e70d4cc269",
-          "slug": "e43bfea598fec4fe",
-          "titulo": "Alerta de perigo para tempestade no sul do Brasil",
-          "resumo": "O sul do Brasil entrou em alerta de perigo para tempestade. A previsão inclui chuvas superiores a 100 milímetros por dia e ventos acima de 100 quilômetros por hora. Também se prevê queda de granizo neste sábado.",
-          "porQueImporta": "O alerta indica risco de danos materiais e de segurança para a população.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/sul-do-brasil-entra-em-alerta-de-perigo-para-tempestade-neste-sabado-24/"
-            }
-          ],
-          "updatedAt": "2026-10-23T22:31:57.000Z"
-        },
-        {
-          "clusterId": "abbd7ccea1ad3e7d",
-          "slug": "3d9c656a3d87f952",
-          "titulo": "Defesa Civil emite alerta de temporal para região de Itapetininga",
-          "resumo": "A Defesa Civil de São Paulo alertou para pancadas de chuva fortes e moderadas na região de Itapetininga, com previsão de até 128 mm de chuva em três dias. O aviso permanece válido até domingo. A cidade pode registrar raios e rajadas de vento.",
-          "porQueImporta": "O alerta visa prevenir alagamentos e garantir a segurança dos moradores.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/23/defesa-civil-emite-alerta-de-temporal-para-regiao-de-itapetininga-cidade-pode-registrar-mais-de-120-mm-em-tres-dias.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-23T21:54:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5MVo6mw3QMDGmnk_m4SXJRL379M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/i/BnAoDCR42UCnaFhW6Hxg/unnamed-1-.jpg"
-        },
-        {
-          "clusterId": "bf79f5f7f57abd11",
-          "slug": "8c15fc65ecf04868",
-          "titulo": "Temporal com granizo e rajadas de vento na Grande BH",
-          "resumo": "Um forte temporal atingiu cidades da Região Metropolitana de Belo Horizonte na tarde de sexta-feira. Em Esmeraldas, houve queda de granizo e vendaval, enquanto em Ribeirão das Neves a chuva causou quedas de árvores. Na capital, a Defesa Civil emitiu alerta de pancadas com raios e rajadas de vento de até 60 km/h, válido até as 8h de sábado.",
-          "porQueImporta": "O evento pode causar danos materiais e riscos à segurança pública na região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/23/grande-bh-tem-temporal-com-granizo-e-rajadas-de-vento.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-23T21:54:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kaXpdQQPBxEENK7qf5937a9G_Jg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/k/ApE5K3TBAObs5wWBMxuA/design-sem-nome-2026-10-23t184631.317.jpg"
-        },
-        {
-          "clusterId": "3796d01e1d78ea67",
-          "slug": "287e0b134b22a83c",
-          "titulo": "Distribuidoras de energia reforçam plano para eleições por risco climático",
-          "resumo": "Companhias de energia aumentaram medidas de contingência diante de previsão de frente fria e ciclone extratropical que podem afetar o fornecimento elétrico durante as eleições. As distribuidoras reforçaram planos de reserva e coordenação com autoridades para garantir energia nas áreas mais vulneráveis. A iniciativa visa evitar interrupções que poderiam comprometer a realização da votação.",
-          "porQueImporta": "Garantir o fornecimento de energia é essencial para a continuidade dos processos eleitorais em condições climáticas adversas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/infra/distribuidoras-de-energia-reforcam-plano-para-eleicoes-por-risco-climatico/"
-            }
-          ],
-          "updatedAt": "2026-10-23T21:40:57.000Z"
-        }
-      ]
-    },
-    {
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "abfc09c5c4338845",
+          "slug": "f3d782972999e615",
+          "titulo": "Previsão do tempo para cidades brasileiras",
+          "resumo": "Para sábado, sol e nuvens com pancadas de chuva em vários municípios, incluindo Caxias do Sul, Florianópolis, Londrina, Sete Lagoas, Ribeirão das Neves, Contagem e Betim. À noite, a maioria das cidades terá temporal ou pancadas de chuva. As temperaturas máximas variam entre 19ºC e 31ºC, e as mínimas entre 15ºC e 20ºC.",
+          "porQueImporta": "Informação útil para planejamento de atividades externas e mobilidade urbana.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/10/24/previsao-do-tempo-hoje-para-betim-mg-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-24T04:13:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HLUKECz1pswIILOp7DijXJmjVHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/P/BH0HjPQQG9AvaEAjyamg/previsao-tempo-betim-20261024-010735.jpeg"
+        },
         {
           "clusterId": "33de563187a675d3",
           "slug": "baafa81bd9670cb9",
@@ -267,40 +175,6 @@
             }
           ],
           "updatedAt": "2026-10-23T23:18:13.000Z"
-        },
-        {
-          "clusterId": "0d80594622059b92",
-          "slug": "511dbc277f145243",
-          "titulo": "Multas ambientais em Itacoatiara somam mais de R$ 700 mil",
-          "resumo": "A Secretaria Municipal de Meio Ambiente de Itacoatiara registrou R$ 709.940 em multas aplicadas a 13 pessoas por crimes ambientais. As infrações incluíram desmatamento, queimadas e produção de carvão. R$ 464.220 dessas multas correspondem a desmatamento e queimadas.",
-          "porQueImporta": "O valor das multas reflete a atuação das autoridades na fiscalização e controle de atividades ilegais que ameaçam o meio ambiente.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/23/queimadas-e-desmatamento-geram-mais-de-r-700-mil-em-multas-em-itacoatiara.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-23T22:56:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/NMPwZ5Q7fWPflLm_BaRZbu43fBU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/v/WEJruJT5ac9FgZabI6rA/whatsapp-image-2026-10-23-at-18.17.39.jpeg"
-        },
-        {
-          "clusterId": "a83d0736ef0e9146",
-          "slug": "a560cd6ce499ae0c",
-          "titulo": "Com mais de 5 mil focos de incêndio em 2026, PI tem 3,3 mil brigadistas em campo",
-          "resumo": "Prevenção às queimadas: brigadas fazem aceiros e combatem focos de incêndio Mais de 3,3 mil brigadistas florestais atuam em ações de prevenção, monitoramento e combate aos incêndios em 197 dos 224 municípios do Piauí, segundo a Secretaria de Meio Ambiente e Recursos Hídricos (Semarh). Do total, mais de 130 profissionais foram certificados nesta sexta-feira (23). O Piauí registrou 5.164 focos de incêndio entre 1º de janeiro e 22 de outubro deste ano, de acordo com o Instituto Nacional de Pesquisas Espaciais (Inpe). ✅ Siga o canal do g1 Piauí no WhatsApp Os brigadistas certificados nesta sexta…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/23/brigadistas-incendio-piaui.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-23T22:47:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YRxMnid6JhiZLWbMELTQV0b-WXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/K/BpZw54TbaSRAgkBjlSwA/edicao-imagens-g1-2026-10-23t180315.943.png"
         }
       ]
     },
@@ -309,32 +183,28 @@
       "label": "Desastre",
       "stories": [
         {
-          "clusterId": "a02be7f31fc482cf",
-          "slug": "968c72b2aabf6b78",
-          "titulo": "Jovem cria portal para localizar desaparecidos após terremoto na Venezuela",
-          "resumo": "O programador venezuelano Jorge Bastidas, que estava em Bogotá, percebeu a falta de informações sobre pessoas desaparecidas após terremotos na Venezuela. Ele desenvolveu um site usando inteligência artificial para permitir que familiares busquem dados sobre entes desaparecidos. A iniciativa surgiu devido à ausência de dados oficiais do governo venezuelano. O portal já está em funcionamento e recebe buscas de parentes de vítimas.",
-          "porQueImporta": "Facilita o acesso a informações sobre vítimas em situação de emergência, contribuindo para a busca e recuperação de desaparecidos.",
+          "clusterId": "2f34fcfd629b8490",
+          "slug": "ea94a7119e40227c",
+          "titulo": "Jovem venezuelano cria portal para localizar desaparecidos após terremoto",
+          "resumo": "O programador venezuelano de 32 anos, que estava em Bogotá, desenvolveu uma plataforma para localizar pessoas desaparecidas após terremotos na Venezuela. Ele cancelou reuniões e tentou contato com a família, mas as ligações não completavam. A iniciativa visa reunir informações sobre vítimas e facilitar buscas.",
+          "porQueImporta": "A ferramenta pode acelerar a localização de desaparecidos em situações de desastre.",
           "categoria": "Desastre",
           "categoriaSlug": "desastre",
           "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cr15jpdvgp7zo?at_medium=RSS&at_campaign=rss"
-            },
             {
               "name": "G1",
               "url": "https://g1.globo.com/mundo/noticia/2026/10/23/jovem-portal-localizar-desaparecidos-terremoto-venezuela.ghtml"
             }
           ],
           "updatedAt": "2026-10-23T09:38:12.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0468/live/35cbcb80-cd42-11f1-ad2d-43fff3ff842f.jpg"
+          "imageUrl": "https://s2-g1.glbimg.com/bNbkidwVZghCqGP9EjanlZkgu-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/9/8422UFQnuge5HWTQYheg/novo-projeto-3-.jpg"
         },
         {
           "clusterId": "1984b19f714870c5",
           "slug": "3531e5aa99897a6c",
-          "titulo": "Terremoto de magnitude 7 no Tibete causa mortes e feridos",
-          "resumo": "Um terremoto de magnitude 7,0 atingiu o Tibete, na China, causando a morte de 16 pessoas e ferindo 32. O tremor provocou desabamentos de casas e interrompeu serviços de eletricidade e telecomunicações na região. A profundidade do sismo foi de 10 km e afetou um raio de 5 km ao redor do epicentro.",
-          "porQueImporta": "O evento resultou em perdas humanas e danos estruturais significativos, afetando a infraestrutura local.",
+          "titulo": "Terremoto de magnitude 7,0 atinge Tibete",
+          "resumo": "Um terremoto de magnitude 7,0 atingiu o Tibete, região autônoma na China, causando 16 mortes e 32 feridos. Desabamentos de casas foram registrados e serviços de eletricidade e telecomunicações foram afetados.",
+          "porQueImporta": "O evento resultou em fatalidades e danos estruturais, afetando a infraestrutura local.",
           "categoria": "Desastre",
           "categoriaSlug": "desastre",
           "sources": [
@@ -349,81 +219,48 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "terremoto",
+      "label": "Terremoto",
       "stories": [
         {
-          "clusterId": "ab8fc98cc6b75d7e",
-          "slug": "e8161c5a67140a68",
-          "titulo": "Incêndio atinge apartamento em Santo Antônio de Pádua",
-          "resumo": "Um incêndio atingiu um apartamento no bairro Cidade Nova, em Santo Antônio de Pádua, na noite de quinta-feira. Três pessoas estavam no imóvel, mas conseguiram sair a tempo e não ficaram feridas. O Corpo de Bombeiros foi acionado, controlou as chamas e realizou inspeção no local. A suspeita inicial aponta para um curto‑circuito na parte elétrica.",
-          "porQueImporta": "O incidente demonstra a importância da segurança elétrica em residências.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "f279d71fe8a28846",
+          "slug": "d65774dc47a05442",
+          "titulo": "Terremoto de magnitude 6,9 ocorre próximo a Vanuatu",
+          "resumo": "Um terremoto de magnitude 6,9 foi registrado em águas próximas a Vanuatu, no Pacífico. O Centro de Alerta de Tsunamis do Pacífico emitiu um alerta de tsunami para a região, mas o alerta foi retirado posteriormente. Não há relatos de danos ou vítimas até o momento.",
+          "porQueImporta": "O evento pode representar risco de tsunami para comunidades costeiras da região.",
+          "categoria": "Terremoto",
+          "categoriaSlug": "terremoto",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/23/incendio-atinge-apartamento-em-santo-antonio-de-padua-ninguem-fica-ferido.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-69-atinge-regiao-proxima-a-vanuatu-no-pacifico"
             }
           ],
-          "updatedAt": "2026-10-23T23:04:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Kno05VPpCBsG_l2X-OhY2veRgyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/A/vBn41BTFSKJOwECHN01A/fogo.jpg"
-        },
-        {
-          "clusterId": "97279a2a2c0bf68f",
-          "slug": "d189e8567dd65a89",
-          "titulo": "Trabalhador sofre queimaduras graves durante incêndio em pastelaria em Itaúna",
-          "resumo": "Um homem sofreu queimaduras graves durante um incêndio em uma pastelaria na região central de Itaúna, na tarde de sexta-feira. O Serviço de Atendimento Móvel de Urgência (Samu) socorreu a vítima, que foi levada ao Hospital Manoel Gonçalves. O Corpo de Bombeiros foi acionado para combater as chamas. O nome do estabelecimento não foi divulgado.",
-          "porQueImporta": "O incidente destaca a necessidade de segurança em estabelecimentos comerciais e a importância da resposta rápida de serviços de emergência.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/23/video-trabalhador-sofre-queimaduras-graves-durante-incendio-em-pastelaria-em-itauna.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-23T22:49:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vUywiEiABrk-77jc8KWXIwC-m0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/J/qNQpnMSa6ZAiXL26B4rw/fogo-itauna-.png"
+          "updatedAt": "2026-10-24T04:49:07.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/terremoto-1.jpg"
         }
       ]
     },
     {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
+      "slug": "tempestade",
+      "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "e807cde6b2e71a50",
-          "slug": "2ae28144fbe0849e",
-          "titulo": "Acidentes em Volta Redonda: colisão de carro e moto e vítima morta por trem",
-          "resumo": "Na noite de sexta-feira (23), uma colisão entre um carro e uma moto no bairro Três Poços deixou uma pessoa ferida, atendida pelo Corpo de Bombeiros às 18h50. No mesmo bairro, um homem foi atingido por um trem e chegou ao local já falecido, com agentes de perícia acionados às 17h40. Até o momento, não há detalhes sobre as circunstâncias dos dois acidentes.",
-          "porQueImporta": "Os incidentes evidenciam riscos de segurança nas vias urbanas e ferroviárias de Volta Redonda.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
+          "clusterId": "d4d0600a3818d9e9",
+          "slug": "e5313164d33d089b",
+          "titulo": "Campanhas de Lula e Flávio Bolsonaro entregam documentos ao TSE, mas não abrem sigilos; temporal provoca estragos no Paraná",
+          "resumo": "As campanhas de Lula e de Flávio Bolsonaro entregaram documentos ao Tribunal Superior Eleitoral, mas não abriram os sigilos. O corregedor da Justiça Eleitoral concedeu 24 horas para a Meta e o X explicarem as regras de distribuição de conteúdo político nas redes sociais. Um temporal causou danos em diferentes regiões do Paraná.",
+          "porQueImporta": "A entrega de documentos e a falta de abertura de sigilos podem afetar a transparência do processo eleitoral, enquanto o temporal destaca a vulnerabilidade da região a eventos climáticos extremos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/23/homem-morre-ao-ser-atingido-por-trem-em-volta-redonda.ghtml"
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/resumao-diario-do-jn-campanhas-de-lula-e-flavio-bolsonaro-entregam-documentos-ao-tse-mas-nao-abrem-os-sigilos-temporal-provoca-estragos-no-parana.ghtml"
             }
           ],
-          "updatedAt": "2026-10-23T22:39:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OHL-4TyWlKdSLsW93k2OLkOjpL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/X/x8ku3MQreaTWt9cMSq0w/whatsapp-image-2026-10-23-at-19.06.27-1-.jpeg"
-        },
-        {
-          "clusterId": "5101d9644b2071ca",
-          "slug": "a198a3f1236e60b3",
-          "titulo": "Acidente entre motos deixa duas pessoas feridas em Valença",
-          "resumo": "Na tarde de sexta-feira (23), duas motocicletas colidiram na RJ-147, perto do bairro Matadouro, em Valença (RJ). O Corpo de Bombeiros chegou por volta das 17h50 e atendeu as vítimas. Até o momento, não há informações sobre o estado de saúde das pessoas feridas nem sobre as causas do acidente.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança no trânsito local.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/23/acidente-entre-motos-deixa-duas-pessoas-feridas-em-valenca.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-23T21:35:49.000Z"
+          "updatedAt": "2026-10-24T02:26:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
         }
       ]
     },
