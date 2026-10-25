@@ -1,455 +1,210 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T19:12:21.314Z",
+  "generatedAt": "2026-10-25T22:45:36.558Z",
   "home": [
     {
-      "clusterId": "138cb4850f2be307",
-      "slug": "1f1d7ff65c3cdc62",
-      "titulo": "Viatura da PM arrastada por enchente em Araçoiaba da Serra",
-      "resumo": "Durante a madrugada deste domingo, uma viatura da Polícia Militar foi arrastada por uma enchente no bairro Campo do Meio, em Araçoiaba da Serra (SP). Os policiais conseguiram sair do veículo e foram encaminhados ao Pronto Atendimento com escoriações leves. A Defesa Civil atendeu a ocorrência e ajudou a recuperar os pertences que ficaram dentro do carro.",
-      "porQueImporta": "O incidente demonstra a vulnerabilidade de veículos de emergência a eventos climáticos extremos.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
+      "clusterId": "a7fc17c0f779bee9",
+      "slug": "64ab5fa64648dbef",
+      "titulo": "Deslizamento e buraco em rodovias causam interdições e lentidão no interior de SP",
+      "resumo": "Em Garça, fortes chuvas provocaram um deslizamento de talude no trecho de acesso à Rodovia Comandante João Ribeiro de Barros (SP-294), no km 0 da SPD 418/294. O Centro de Controle Operacional da concessionária Eixo SP relatou interdições e lentidão em Garça e Pederneiras. Motoristas do centro-oeste paulista enfrentam bloqueios e atrasos no domingo devido a danos na pista.",
+      "porQueImporta": "O incidente impede o tráfego normal, afetando a mobilidade e a logística na região.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/25/viatura-e-durante-temporal-em-aracoiaba-da-serra.ghtml"
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/25/deslizamento-e-buraco-em-rodovias-causam-interdicoes-e-lentidao-no-interior-de-sp.ghtml"
         }
       ],
-      "updatedAt": "2026-10-25T18:54:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/635vojMYXoQu3IRbVhIexaO5xiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/N7ob6kRQumXzMAqdCVkw/design-sem-nome-2026-10-25t151121.497.png"
+      "updatedAt": "2026-10-25T21:44:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/OKMN8TcNeUeSMudDXaH-uKSG3BY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/Q/BnIpk6SZA0Rt5ZW6H7lA/design-sem-nome-2026-10-25t155101.250.png"
     },
     {
-      "clusterId": "e02ea19e64ecfc27",
-      "slug": "381d98225f8c2556",
-      "titulo": "Homem de 71 anos é ferido no tórax durante tentativa de roubo em Presidente Prudente",
-      "resumo": "Um homem de 71 anos ficou ferido com um corte no tórax durante uma tentativa de roubo na noite de sábado, 24, em Presidente Prudente (SP). O ataque ocorreu por volta das 21h30 na Rua Doutor José Foz, na Vila São Jorge. Os suspeitos estavam armados com facas, segundo boletins de ocorrência. A Polícia Civil investigará o caso.",
-      "porQueImporta": "O incidente destaca a violência urbana e a necessidade de segurança nas áreas residenciais da cidade.",
+      "clusterId": "993c13160d237d80",
+      "slug": "0c06b5cd485f6a99",
+      "titulo": "Deslizamentos e alagamentos bloqueiam rodovias do Paraná",
+      "resumo": "Diversas rodovias do Paraná ficaram bloqueadas neste domingo (25) por deslizamentos, alagamentos e outros problemas causados pelos temporais do fim de semana. O Sistema de Tecnologia e Monitoramento Ambiental (Simepar) registrou mais de 20 cidades com volume de chuva superior a 100 mm no sábado (24), principalmente no centro‑sul, sudoeste e Região Metropolitana de Curitiba. As obras de bloqueio afetaram o tráfego em várias rotas estaduais.",
+      "porQueImporta": "O bloqueio das rodovias pode atrasar o transporte de mercadorias e dificultar deslocamentos de pessoas, impactando a economia e a mobilidade no estado.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/25/deslizamentos-e-alagamentos-provocam-bloqueio-de-diversas-rodovias-do-parana-veja-trechos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-25T20:55:55.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rVUtLuHSidlOmO0KxDvqqq2Fxis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/AUlx02Q06OcgY2dTHXyg/g1-12-.png"
+    },
+    {
+      "clusterId": "e2adc15bfd27daf1",
+      "slug": "69c061d8dc3abac9",
+      "titulo": "Temporal destelha creche e causa prejuízo de até R$ 500 mil no interior de SP",
+      "resumo": "Durante a madrugada deste domingo, um forte temporal atingiu a região de São Carlos, destelando parte da estrutura da creche filantrópica Aracy Pereira Lopes, na Vila Prado. O presidente da instituição estimou o prejuízo em mais de R$ 400 mil. O temporal também provocou quedas de árvores, danos à rede elétrica e alagamentos em diversas cidades da região.",
+      "porQueImporta": "O evento demonstra a vulnerabilidade de estruturas comunitárias a eventos climáticos extremos, com impactos financeiros significativos.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/25/temporal-destelha-creche-e-causa-prejuizo-de-ate-r-500-mil-no-interior-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-25T20:53:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/butrq_xLm3p_OBkkJU1u_NxC3PE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/U/xjkVCxRTuNeVJUHib6hQ/design-sem-nome-2026-10-25t164824.640.png"
+    },
+    {
+      "clusterId": "16f92e8928fa1900",
+      "slug": "dc6aa92a5b3bf4d5",
+      "titulo": "Presidente de seção eleitoral encontrado morto em casa em São José de Safira",
+      "resumo": "Almir Alves Coutinho, presidente da seção 33 da 247ª Zona Eleitoral, não compareceu ao trabalho no segundo turno das Eleições 2026 e foi encontrado morto em sua residência. A Polícia Militar observou o corpo deitado na cama através de um buraco na janela. A ausência de Almir levantou suspeitas entre os mesários, que alertaram as autoridades.",
+      "porQueImporta": "O caso destaca a necessidade de monitoramento e apoio aos responsáveis eleitorais durante o processo de votação.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/25/homem-de-71-anos-e-ferido-no-torax-durante-tentativa-de-roubo-em-presidente-prudente.ghtml"
+          "url": "https://g1.globo.com/mg/vales-mg/eleicoes/2026/noticia/2026/10/25/presidente-de-secao-eleitoral-falta-ao-trabalho-e-e-encontrado-morto-em-casa-em-mg.ghtml"
         }
       ],
-      "updatedAt": "2026-10-25T18:24:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/YBNMTgrqPP0vFCSV9a6HzH4MhnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/o/D/T9MKsDS8uQAuaCb6otFw/whatsapp-image-2021-05-17-at-09.37.13.jpeg"
+      "updatedAt": "2026-10-25T20:49:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_PytQbzLl541cl0Fn8nshTKwvII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/V/ttHdG9TmSBe9cxh8piZQ/saojosesafira.jpg"
     },
     {
-      "clusterId": "c9982549f897155d",
-      "slug": "c27d8a94b36e1379",
-      "titulo": "Acidente no Anel Rodoviário de BH envolve nove veículos",
-      "resumo": "Na tarde de domingo, um engavetamento no Anel Rodoviário, próximo ao bairro Engenho Nogueira, em Belo Horizonte, envolveu cerca de nove veículos. O acidente ocorreu no sentido Vitória. Um motociclista ficou ferido. O Corpo de Bombeiros registrou o incidente, mas a prefeitura não respondeu à solicitação de informações.",
-      "porQueImporta": "O acidente pode ter causado congestionamento e risco à segurança viária na região.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/25/veiculos-acidente-anel-rodoviario-bh.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-25T18:21:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/l507B8cQ6otOv_WKhIzgESFIN90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/p/qdVE58ScAa7mDAdiqkCg/captura-de-tela-2026-10-25-150255.png"
-    },
-    {
-      "clusterId": "8da044a082d8aa29",
-      "slug": "dedead0d51efe8c4",
-      "titulo": "Eleitores ilhados são resgatados de bote pelos bombeiros para votar em Águas de Chapecó",
-      "resumo": "Nove eleitores que ficaram ilhados em um bote foram resgatados pelos bombeiros e transportados para o local de votação em Águas de Chapecó, no Oeste de Santa Catarina. O resgate ocorreu por volta das 9h40 na localidade de Linha do Salto, onde a Defesa Civil municipal aguardava para conduzir os moradores aos locais de votação. Após o voto, os eleitores receberam apoio para retornar às suas casas.",
-      "porQueImporta": "Garantiu o direito ao voto de cidadãos que estavam impossibilitados de chegar ao local de votação.",
+      "clusterId": "acd35e507c34121b",
+      "slug": "a4b9db28193f3239",
+      "titulo": "Ministro Zanin determina prorrogação do horário de votação para 19h, mas escolas em Ribeirão Preto e Franca encerram às 17h",
+      "resumo": "O ministro Cristiano Zanin, do STF, ordenou que todas as seções do país prorrogassem o encerramento da votação para as 19h. Em Ribeirão Preto e Franca, escolas fecharam as urnas às 17h, contrariando a decisão. A medida foi tomada após pedido da coligação de Lula, que buscava prorrogação em municípios com problemas de transporte.",
+      "porQueImporta": "Reflete divergência entre decisões judiciais e práticas locais, afetando a logística eleitoral.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/25/eleitores-ilhados-resgatados-embarcacao-votar-aguas-chapeco.ghtml"
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/25/apesar-de-decisao-de-zanin-escolas-na-regiao-de-ribeirao-preto-e-franca-encerram-votacao-no-horario-regular.ghtml"
         }
       ],
-      "updatedAt": "2026-10-25T18:01:48.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/EtYpwgs3V1XLuMsDK1xJ37wMNMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/j/yaa4sMS7qAP54G0di5ww/fotojet.jpg"
+      "updatedAt": "2026-10-25T20:43:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/mnJdNkKaHb32uMX2BEpsxjy9JFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/L/VrSTB4TU2sLuhaALlJKg/franca-sp-eleicoes-2t-g1-20261025-0046.jpg"
     },
     {
-      "clusterId": "0384b4961ecba282",
-      "slug": "0d846c3a566ac83a",
-      "titulo": "Motociclistas morrem após colisão na BR 232",
-      "resumo": "Dois motociclistas morreram após colidirem na BR 232, em Vitória de Santo Antão, Pernambuco, no quilômetro 37,4, por volta das 7h30 de domingo. A PRF confirmou que as motos colidiram na transversal e suspeita que um dos condutores realizava retorno irregular. Um dos motociclistas morreu no local, enquanto o outro foi socorrido.",
-      "porQueImporta": "O acidente destaca riscos de retorno irregular em rodovias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "05ffd08f79bd411a",
+      "slug": "a06c9341b1b3378e",
+      "titulo": "Incêndio atinge área verde da UFRN em Natal",
+      "resumo": "Chamas consumiram parte da área verde da Universidade Federal do Rio Grande Norte em Natal. O incêndio ocorreu poucos dias após pancadaria entre apoiadores de Flávio Bolsonaro e Lula. A polícia está investigando o episódio. A ocorrência aconteceu a dois dias do segundo turno das eleições.",
+      "porQueImporta": "O fogo pode afetar a infraestrutura acadêmica e a segurança dos estudantes e funcionários da universidade.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/25/motociclistas-morrem-apos-colisao-na-br-232-um-condutor-nao-era-habilitado.ghtml"
+          "name": "DW Brasil",
+          "url": "https://www.dw.com/pt-br/ufrn-é-atingida-por-incêndio-a-dois-dias-do-2º-turno/a-79751725?maca=bra-rss-br-all-1030-rdf"
         }
       ],
-      "updatedAt": "2026-10-25T17:58:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/puWYCbmxizDH-Dag6_tMco6o16M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/o/UXG0oAQn2zsQt10dD0Pw/moto-2-acidente.jpeg"
-    },
-    {
-      "clusterId": "9d8a892eb6d3d5f7",
-      "slug": "15b066ae3da45a20",
-      "titulo": "Mulher morre e companheiro fica ferido em acidente na GO-320",
-      "resumo": "Uma mulher de 55 anos morreu após ser arremessada para fora do veículo durante um acidente na GO-320, na zona rural de Ivolândia. O companheiro, que dirigia o carro, ficou ferido com escoriações no braço esquerdo. O Serviço de Atendimento Móvel de Urgência (Samu) chegou ao local e encontrou a vítima sem vida. O motorista estava lúcido, orientado e caminhando no local.",
-      "porQueImporta": "O incidente destaca a importância da segurança viária em estradas rurais.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/go/goias/transito/noticia/2026/10/25/mulher-morre-e-motorista-fica-ferido-em-acidente-na-go-320.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-25T17:38:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lVIw87OOxFU-qwLnzhNeRybaEkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/J/lEAE0GR0ijmw9nj05BDA/dasjdsoadijas.jpg"
-    },
-    {
-      "clusterId": "f5110091e6c6ddf9",
-      "slug": "34b728f6a450772f",
-      "titulo": "Motociclista morre em acidente e motorista bêbado e sem CNH é preso em Colatina",
-      "resumo": "Um motociclista de 30 anos morreu em Colatina, no Espírito Santo, após colisão na BR-259. O motorista, 32 anos, foi preso pela PRF e estava sob influência de álcool ou outra substância e sem CNH. O acidente ocorreu no bairro Colúmbia, no sábado (24).",
-      "porQueImporta": "O caso destaca a gravidade de dirigir sem habilitação e sob efeito de álcool, reforçando a necessidade de fiscalização e prevenção de acidentes de trânsito.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/25/motociclista-morre-em-acidente-e-motorista-bebado-e-sem-cnh-e-preso-em-colatina.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-25T17:37:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PIMPSR1n0SFxYemw7Xw2BFIJLjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/p/U9DcgSRX6S8ytrcwqAEw/thumb-videos-g1-2026-10-25t142501.755.jpg"
-    },
-    {
-      "clusterId": "4796aa2207d5644f",
-      "slug": "ec79b1e20b26379c",
-      "titulo": "Homem morre após parada cardiorrespiratória em seção eleitoral em Maricá",
-      "resumo": "Um homem de aproximadamente 60 anos sofreu parada cardiorrespiratória dentro de uma seção eleitoral no Ciep 259, em Maricá, e foi socorrido pelo Corpo de Bombeiros. Ele foi encaminhado ao Hospital Municipal Conde Modesto Leal em estado grave, mas faleceu no local. O incidente ocorreu antes de o indivíduo votar. A Prefeitura não divulgou o nome do falecido.",
-      "porQueImporta": "O caso destaca riscos à saúde em ambientes públicos durante eventos eleitorais.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/eleicoes/2026/noticia/2026/10/25/homem-morre-apos-sofrer-parada-cardiorrespiratoria-em-secao-eleitoral-em-marica-no-rj.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-25T17:35:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/WMccwvV3IN34SodVygeUPXdveAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/R/Zx0wj5Q5eUKwRkKQLDBQ/homem-foi-socorrido-no-ciep-259-local-de-votacao-em-marica-mas-morreu-no-hospital-segundo-a-prefeitura.png"
-    },
-    {
-      "clusterId": "26fc4d450793b8d6",
-      "slug": "a404f7592c70c737",
-      "titulo": "Eleitores indígenas do Vale do Javari reclamam de falta de assistência durante votação no AM",
-      "resumo": "Representantes indígenas do Vale do Javari denunciaram dificuldades para chegar a Atalaia do Norte e obter alimentação durante o segundo turno das Eleições 2026. O transporte foi prejudicado por atraso na chegada de combustível e pela estiagem na região. As reclamações surgiram após polêmica sobre o transporte dos eleitores.",
-      "porQueImporta": "Garantia de acesso e condições adequadas de votação para comunidades indígenas.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/25/eleitores-indigenas-do-vale-do-javari-reclamam-de-falta-de-assistencia-durante-votacao-no-am.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-25T17:09:05.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/tdXm-8aPXIPFKp0EZRjR-8iGB_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/T/OKUxfkQJWRJeTAEmZORg/whatsapp-image-2026-10-21-at-09.18.55.jpeg"
-    },
-    {
-      "clusterId": "ef8017b2217ea305",
-      "slug": "a3c1e23434277b2d",
-      "titulo": "Morte de jovem após acidente em carreata em apoio a Flávio Bolsonaro",
-      "resumo": "Matheus Henrique Oliveira Silva, de 19 anos, morreu em acidente durante carreata em Goianésia, Goiás, em apoio a Flávio Bolsonaro. O jovem era filho de empresário do ramo automobilístico local. O Partido Liberal de Goianésia lamentou a morte e manifestou solidariedade aos familiares.",
-      "porQueImporta": "O incidente destaca a violência em eventos políticos e a vulnerabilidade de participantes em carreatas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/go/goias/noticia/2026/10/25/morte-de-filho-de-empresario-apos-acidente-em-carreata-causa-comocao-em-goias.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-25T16:56:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bYkLFN__M9JMLVcyxHbN_vPsKVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/7mh6OUTUOX3cN0p4szCg/goianesia-go.jpg"
+      "updatedAt": "2026-10-24T16:25:00.000Z"
     }
   ],
   "categorias": [
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "e02ea19e64ecfc27",
-          "slug": "381d98225f8c2556",
-          "titulo": "Homem de 71 anos é ferido no tórax durante tentativa de roubo em Presidente Prudente",
-          "resumo": "Um homem de 71 anos ficou ferido com um corte no tórax durante uma tentativa de roubo na noite de sábado, 24, em Presidente Prudente (SP). O ataque ocorreu por volta das 21h30 na Rua Doutor José Foz, na Vila São Jorge. Os suspeitos estavam armados com facas, segundo boletins de ocorrência. A Polícia Civil investigará o caso.",
-          "porQueImporta": "O incidente destaca a violência urbana e a necessidade de segurança nas áreas residenciais da cidade.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/25/homem-de-71-anos-e-ferido-no-torax-durante-tentativa-de-roubo-em-presidente-prudente.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T18:24:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YBNMTgrqPP0vFCSV9a6HzH4MhnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/o/D/T9MKsDS8uQAuaCb6otFw/whatsapp-image-2021-05-17-at-09.37.13.jpeg"
-        },
-        {
-          "clusterId": "8da044a082d8aa29",
-          "slug": "dedead0d51efe8c4",
-          "titulo": "Eleitores ilhados são resgatados de bote pelos bombeiros para votar em Águas de Chapecó",
-          "resumo": "Nove eleitores que ficaram ilhados em um bote foram resgatados pelos bombeiros e transportados para o local de votação em Águas de Chapecó, no Oeste de Santa Catarina. O resgate ocorreu por volta das 9h40 na localidade de Linha do Salto, onde a Defesa Civil municipal aguardava para conduzir os moradores aos locais de votação. Após o voto, os eleitores receberam apoio para retornar às suas casas.",
-          "porQueImporta": "Garantiu o direito ao voto de cidadãos que estavam impossibilitados de chegar ao local de votação.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/25/eleitores-ilhados-resgatados-embarcacao-votar-aguas-chapeco.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T18:01:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/EtYpwgs3V1XLuMsDK1xJ37wMNMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/j/yaa4sMS7qAP54G0di5ww/fotojet.jpg"
-        },
-        {
-          "clusterId": "4796aa2207d5644f",
-          "slug": "ec79b1e20b26379c",
-          "titulo": "Homem morre após parada cardiorrespiratória em seção eleitoral em Maricá",
-          "resumo": "Um homem de aproximadamente 60 anos sofreu parada cardiorrespiratória dentro de uma seção eleitoral no Ciep 259, em Maricá, e foi socorrido pelo Corpo de Bombeiros. Ele foi encaminhado ao Hospital Municipal Conde Modesto Leal em estado grave, mas faleceu no local. O incidente ocorreu antes de o indivíduo votar. A Prefeitura não divulgou o nome do falecido.",
-          "porQueImporta": "O caso destaca riscos à saúde em ambientes públicos durante eventos eleitorais.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/eleicoes/2026/noticia/2026/10/25/homem-morre-apos-sofrer-parada-cardiorrespiratoria-em-secao-eleitoral-em-marica-no-rj.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T17:35:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WMccwvV3IN34SodVygeUPXdveAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/R/Zx0wj5Q5eUKwRkKQLDBQ/homem-foi-socorrido-no-ciep-259-local-de-votacao-em-marica-mas-morreu-no-hospital-segundo-a-prefeitura.png"
-        },
-        {
-          "clusterId": "26fc4d450793b8d6",
-          "slug": "a404f7592c70c737",
-          "titulo": "Eleitores indígenas do Vale do Javari reclamam de falta de assistência durante votação no AM",
-          "resumo": "Representantes indígenas do Vale do Javari denunciaram dificuldades para chegar a Atalaia do Norte e obter alimentação durante o segundo turno das Eleições 2026. O transporte foi prejudicado por atraso na chegada de combustível e pela estiagem na região. As reclamações surgiram após polêmica sobre o transporte dos eleitores.",
-          "porQueImporta": "Garantia de acesso e condições adequadas de votação para comunidades indígenas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/25/eleitores-indigenas-do-vale-do-javari-reclamam-de-falta-de-assistencia-durante-votacao-no-am.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T17:09:05.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/tdXm-8aPXIPFKp0EZRjR-8iGB_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/T/OKUxfkQJWRJeTAEmZORg/whatsapp-image-2026-10-21-at-09.18.55.jpeg"
-        },
-        {
-          "clusterId": "6159c5c2b90560ff",
-          "slug": "fa579588ae40b77a",
-          "titulo": "Chuva forte causa transferência de local de votação em Itapevi (SP)",
-          "resumo": "Alagamentos tornaram inacessível a escola onde funcionariam duas seções eleitorais; TRE-SP orienta eleitores a consultar o endereço atualizado",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/chuva-forte-causa-transferencia-de-local-de-votacao-em-itapevi-sp/"
-            }
-          ],
-          "updatedAt": "2026-10-25T16:04:39.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/523747013563518-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "c9982549f897155d",
-          "slug": "c27d8a94b36e1379",
-          "titulo": "Acidente no Anel Rodoviário de BH envolve nove veículos",
-          "resumo": "Na tarde de domingo, um engavetamento no Anel Rodoviário, próximo ao bairro Engenho Nogueira, em Belo Horizonte, envolveu cerca de nove veículos. O acidente ocorreu no sentido Vitória. Um motociclista ficou ferido. O Corpo de Bombeiros registrou o incidente, mas a prefeitura não respondeu à solicitação de informações.",
-          "porQueImporta": "O acidente pode ter causado congestionamento e risco à segurança viária na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/25/veiculos-acidente-anel-rodoviario-bh.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T18:21:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/l507B8cQ6otOv_WKhIzgESFIN90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/p/qdVE58ScAa7mDAdiqkCg/captura-de-tela-2026-10-25-150255.png"
-        },
-        {
-          "clusterId": "0384b4961ecba282",
-          "slug": "0d846c3a566ac83a",
-          "titulo": "Motociclistas morrem após colisão na BR 232",
-          "resumo": "Dois motociclistas morreram após colidirem na BR 232, em Vitória de Santo Antão, Pernambuco, no quilômetro 37,4, por volta das 7h30 de domingo. A PRF confirmou que as motos colidiram na transversal e suspeita que um dos condutores realizava retorno irregular. Um dos motociclistas morreu no local, enquanto o outro foi socorrido.",
-          "porQueImporta": "O acidente destaca riscos de retorno irregular em rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/25/motociclistas-morrem-apos-colisao-na-br-232-um-condutor-nao-era-habilitado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T17:58:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/puWYCbmxizDH-Dag6_tMco6o16M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/o/UXG0oAQn2zsQt10dD0Pw/moto-2-acidente.jpeg"
-        },
-        {
-          "clusterId": "9d8a892eb6d3d5f7",
-          "slug": "15b066ae3da45a20",
-          "titulo": "Mulher morre e companheiro fica ferido em acidente na GO-320",
-          "resumo": "Uma mulher de 55 anos morreu após ser arremessada para fora do veículo durante um acidente na GO-320, na zona rural de Ivolândia. O companheiro, que dirigia o carro, ficou ferido com escoriações no braço esquerdo. O Serviço de Atendimento Móvel de Urgência (Samu) chegou ao local e encontrou a vítima sem vida. O motorista estava lúcido, orientado e caminhando no local.",
-          "porQueImporta": "O incidente destaca a importância da segurança viária em estradas rurais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/10/25/mulher-morre-e-motorista-fica-ferido-em-acidente-na-go-320.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T17:38:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lVIw87OOxFU-qwLnzhNeRybaEkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/J/lEAE0GR0ijmw9nj05BDA/dasjdsoadijas.jpg"
-        },
-        {
-          "clusterId": "f5110091e6c6ddf9",
-          "slug": "34b728f6a450772f",
-          "titulo": "Motociclista morre em acidente e motorista bêbado e sem CNH é preso em Colatina",
-          "resumo": "Um motociclista de 30 anos morreu em Colatina, no Espírito Santo, após colisão na BR-259. O motorista, 32 anos, foi preso pela PRF e estava sob influência de álcool ou outra substância e sem CNH. O acidente ocorreu no bairro Colúmbia, no sábado (24).",
-          "porQueImporta": "O caso destaca a gravidade de dirigir sem habilitação e sob efeito de álcool, reforçando a necessidade de fiscalização e prevenção de acidentes de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/25/motociclista-morre-em-acidente-e-motorista-bebado-e-sem-cnh-e-preso-em-colatina.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T17:37:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PIMPSR1n0SFxYemw7Xw2BFIJLjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/p/U9DcgSRX6S8ytrcwqAEw/thumb-videos-g1-2026-10-25t142501.755.jpg"
-        },
-        {
-          "clusterId": "ef8017b2217ea305",
-          "slug": "a3c1e23434277b2d",
-          "titulo": "Morte de jovem após acidente em carreata em apoio a Flávio Bolsonaro",
-          "resumo": "Matheus Henrique Oliveira Silva, de 19 anos, morreu em acidente durante carreata em Goianésia, Goiás, em apoio a Flávio Bolsonaro. O jovem era filho de empresário do ramo automobilístico local. O Partido Liberal de Goianésia lamentou a morte e manifestou solidariedade aos familiares.",
-          "porQueImporta": "O incidente destaca a violência em eventos políticos e a vulnerabilidade de participantes em carreatas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/10/25/morte-de-filho-de-empresario-apos-acidente-em-carreata-causa-comocao-em-goias.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T16:56:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bYkLFN__M9JMLVcyxHbN_vPsKVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/7mh6OUTUOX3cN0p4szCg/goianesia-go.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "138cb4850f2be307",
-          "slug": "1f1d7ff65c3cdc62",
-          "titulo": "Viatura da PM arrastada por enchente em Araçoiaba da Serra",
-          "resumo": "Durante a madrugada deste domingo, uma viatura da Polícia Militar foi arrastada por uma enchente no bairro Campo do Meio, em Araçoiaba da Serra (SP). Os policiais conseguiram sair do veículo e foram encaminhados ao Pronto Atendimento com escoriações leves. A Defesa Civil atendeu a ocorrência e ajudou a recuperar os pertences que ficaram dentro do carro.",
-          "porQueImporta": "O incidente demonstra a vulnerabilidade de veículos de emergência a eventos climáticos extremos.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/25/viatura-e-durante-temporal-em-aracoiaba-da-serra.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T18:54:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/635vojMYXoQu3IRbVhIexaO5xiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/N7ob6kRQumXzMAqdCVkw/design-sem-nome-2026-10-25t151121.497.png"
-        },
-        {
-          "clusterId": "36f5e678a090dc03",
-          "slug": "abeae39f415a9c5b",
-          "titulo": "Cheia do Rio Guareí provoca alagamentos em Guareí (SP)",
-          "resumo": "A cidade de Guareí, interior de São Paulo, registrou 100 milímetros de chuva entre a noite de sábado e a madrugada de domingo, equivalente à média mensal de outubro. O volume intenso causou alagamentos na Alameda Jair Martins de Siqueira e em outros pontos da cidade. Imagens aéreas mostram áreas completamente inundadas. A Defesa Civil municipal foi acionada para atender às ocorrências.",
-          "porQueImporta": "A inundação pode comprometer a infraestrutura urbana e a segurança dos moradores.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/25/imagem-aerea-mostra-areas-alagadas-apos-cheia-do-rio-guarei-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T16:35:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hqTLiZTO3DSbrZYfxMhhqLn33p4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/cvptsPSE2BHVBLsUpBDw/whatsapp-image-2026-10-25-at-13.31.45.jpg"
-        },
-        {
-          "clusterId": "18d360512059940c",
-          "slug": "cef5539b1740e760",
-          "titulo": "Urnas eletrônicas transportadas por moto, trator e barco em meio a alagamentos em Prudentópolis",
-          "resumo": "Em Prudentópolis, no Paraná, três urnas eletrônicas foram levadas a locais de votação por moto, trator e barco devido a alagamentos que impediram o acesso por via terrestre. Os alagamentos foram provocados por chuvas intensas, dificultando a mobilização de mesários e voluntários desde a manhã. A Justiça Eleitoral mobilizou recursos alternativos para garantir a continuidade do processo eleitoral.",
-          "porQueImporta": "Garantiu a continuidade das eleições apesar das condições adversas.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/25/transporte-urnas-eletronicas-parana.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T16:33:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/b8m01jltmq7OBGwfGw4ogSoP1ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/X/Cv30urT5OtKqpE0hfFYg/fundo-vermelho-g1.png"
-        },
-        {
-          "clusterId": "6bdaf443fac96a8a",
-          "slug": "4883a5ea3d7c5a41",
-          "titulo": "Alagamentos na Rodovia Anhanguera em Cajamar bloqueiam trecho durante eleições",
-          "resumo": "Durante a madrugada do domingo, dois pontos de alagamento foram registrados na Rodovia Anhanguera (SP-330) em Cajamar, na Grande São Paulo, entre a noite de sábado e a manhã deste domingo. No km 36, no sentido interior, dois carros ficaram submersos, mas os ocupantes saíram em segurança. Os trechos foram interditados, mas o tráfego foi normalizado pela manhã.",
-          "porQueImporta": "O bloqueio afetou a mobilidade durante o segundo turno das eleições, podendo impactar o deslocamento de eleitores e autoridades.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/25/alagamentos-atingem-dois-pontos-da-rodovia-anhanguera-em-cajamar-neste-domingo-de-eleicoes.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-25T16:31:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/V7QXirfFBcz19MtEyOrs1s8tHYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/E/ZBS9HeQ9OGfCAeRTFx4w/captura-de-tela-2026-10-25-133039.png"
-        }
-      ]
-    },
     {
       "slug": "deslizamento",
       "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "c716ead81534c567",
-          "slug": "2c0e308ef5466b21",
-          "titulo": "Chuvas provocam três deslizamentos em Apiaí, SP",
-          "resumo": "As fortes chuvas entre a noite de sábado e a madrugada de domingo causaram três deslizamentos de terra em Apiaí, SP. Um morador ficou ferido e dois imóveis foram interditados. Uma família de quatro pessoas precisou deixar a residência. Foram registrados 58,6 milímetros de chuva nas últimas 24 horas.",
-          "porQueImporta": "Os deslizamentos representam risco à vida e à infraestrutura local.",
+          "clusterId": "a7fc17c0f779bee9",
+          "slug": "64ab5fa64648dbef",
+          "titulo": "Deslizamento e buraco em rodovias causam interdições e lentidão no interior de SP",
+          "resumo": "Em Garça, fortes chuvas provocaram um deslizamento de talude no trecho de acesso à Rodovia Comandante João Ribeiro de Barros (SP-294), no km 0 da SPD 418/294. O Centro de Controle Operacional da concessionária Eixo SP relatou interdições e lentidão em Garça e Pederneiras. Motoristas do centro-oeste paulista enfrentam bloqueios e atrasos no domingo devido a danos na pista.",
+          "porQueImporta": "O incidente impede o tráfego normal, afetando a mobilidade e a logística na região.",
           "categoria": "Deslizamento",
           "categoriaSlug": "deslizamento",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/25/chuva-deslizamentos-ferido-imoveis-interditados-apiai.ghtml"
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/25/deslizamento-e-buraco-em-rodovias-causam-interdicoes-e-lentidao-no-interior-de-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-10-25T16:54:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/3l4LWDc47o0yU-FLGwktIqcecic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/aHxuFBQNKA9qnBB5gFDg/foto-defesa-civil-1-.jpg"
+          "updatedAt": "2026-10-25T21:44:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OKMN8TcNeUeSMudDXaH-uKSG3BY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/Q/BnIpk6SZA0Rt5ZW6H7lA/design-sem-nome-2026-10-25t155101.250.png"
+        },
+        {
+          "clusterId": "993c13160d237d80",
+          "slug": "0c06b5cd485f6a99",
+          "titulo": "Deslizamentos e alagamentos bloqueiam rodovias do Paraná",
+          "resumo": "Diversas rodovias do Paraná ficaram bloqueadas neste domingo (25) por deslizamentos, alagamentos e outros problemas causados pelos temporais do fim de semana. O Sistema de Tecnologia e Monitoramento Ambiental (Simepar) registrou mais de 20 cidades com volume de chuva superior a 100 mm no sábado (24), principalmente no centro‑sul, sudoeste e Região Metropolitana de Curitiba. As obras de bloqueio afetaram o tráfego em várias rotas estaduais.",
+          "porQueImporta": "O bloqueio das rodovias pode atrasar o transporte de mercadorias e dificultar deslocamentos de pessoas, impactando a economia e a mobilidade no estado.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/25/deslizamentos-e-alagamentos-provocam-bloqueio-de-diversas-rodovias-do-parana-veja-trechos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-25T20:55:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rVUtLuHSidlOmO0KxDvqqq2Fxis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/AUlx02Q06OcgY2dTHXyg/g1-12-.png"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "16f92e8928fa1900",
+          "slug": "dc6aa92a5b3bf4d5",
+          "titulo": "Presidente de seção eleitoral encontrado morto em casa em São José de Safira",
+          "resumo": "Almir Alves Coutinho, presidente da seção 33 da 247ª Zona Eleitoral, não compareceu ao trabalho no segundo turno das Eleições 2026 e foi encontrado morto em sua residência. A Polícia Militar observou o corpo deitado na cama através de um buraco na janela. A ausência de Almir levantou suspeitas entre os mesários, que alertaram as autoridades.",
+          "porQueImporta": "O caso destaca a necessidade de monitoramento e apoio aos responsáveis eleitorais durante o processo de votação.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/vales-mg/eleicoes/2026/noticia/2026/10/25/presidente-de-secao-eleitoral-falta-ao-trabalho-e-e-encontrado-morto-em-casa-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-25T20:49:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_PytQbzLl541cl0Fn8nshTKwvII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/V/ttHdG9TmSBe9cxh8piZQ/saojosesafira.jpg"
+        },
+        {
+          "clusterId": "acd35e507c34121b",
+          "slug": "a4b9db28193f3239",
+          "titulo": "Ministro Zanin determina prorrogação do horário de votação para 19h, mas escolas em Ribeirão Preto e Franca encerram às 17h",
+          "resumo": "O ministro Cristiano Zanin, do STF, ordenou que todas as seções do país prorrogassem o encerramento da votação para as 19h. Em Ribeirão Preto e Franca, escolas fecharam as urnas às 17h, contrariando a decisão. A medida foi tomada após pedido da coligação de Lula, que buscava prorrogação em municípios com problemas de transporte.",
+          "porQueImporta": "Reflete divergência entre decisões judiciais e práticas locais, afetando a logística eleitoral.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/25/apesar-de-decisao-de-zanin-escolas-na-regiao-de-ribeirao-preto-e-franca-encerram-votacao-no-horario-regular.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-25T20:43:59.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mnJdNkKaHb32uMX2BEpsxjy9JFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/L/VrSTB4TU2sLuhaALlJKg/franca-sp-eleicoes-2t-g1-20261025-0046.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "e2adc15bfd27daf1",
+          "slug": "69c061d8dc3abac9",
+          "titulo": "Temporal destelha creche e causa prejuízo de até R$ 500 mil no interior de SP",
+          "resumo": "Durante a madrugada deste domingo, um forte temporal atingiu a região de São Carlos, destelando parte da estrutura da creche filantrópica Aracy Pereira Lopes, na Vila Prado. O presidente da instituição estimou o prejuízo em mais de R$ 400 mil. O temporal também provocou quedas de árvores, danos à rede elétrica e alagamentos em diversas cidades da região.",
+          "porQueImporta": "O evento demonstra a vulnerabilidade de estruturas comunitárias a eventos climáticos extremos, com impactos financeiros significativos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/25/temporal-destelha-creche-e-causa-prejuizo-de-ate-r-500-mil-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-25T20:53:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/butrq_xLm3p_OBkkJU1u_NxC3PE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/U/xjkVCxRTuNeVJUHib6hQ/design-sem-nome-2026-10-25t164824.640.png"
         }
       ]
     },
@@ -460,9 +215,9 @@
         {
           "clusterId": "05ffd08f79bd411a",
           "slug": "a06c9341b1b3378e",
-          "titulo": "Incêndio na área verde da UFRN em Natal",
-          "resumo": "Chamas consumiram parte da área verde da Universidade Federal do Rio Grande Norte em Natal. O incêndio ocorreu a dois dias do segundo turno de votação. A polícia iniciou investigação sobre o episódio, que aconteceu dias após a pancadaria entre apoiadores de Flávio Bolsonaro e Lula.",
-          "porQueImporta": "O fogo pode comprometer a infraestrutura e a segurança dos estudantes e servidores da universidade.",
+          "titulo": "Incêndio atinge área verde da UFRN em Natal",
+          "resumo": "Chamas consumiram parte da área verde da Universidade Federal do Rio Grande Norte em Natal. O incêndio ocorreu poucos dias após pancadaria entre apoiadores de Flávio Bolsonaro e Lula. A polícia está investigando o episódio. A ocorrência aconteceu a dois dias do segundo turno das eleições.",
+          "porQueImporta": "O fogo pode afetar a infraestrutura acadêmica e a segurança dos estudantes e funcionários da universidade.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
