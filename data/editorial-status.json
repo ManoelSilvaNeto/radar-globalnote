@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-10-26T05:11:06.981Z",
+  "ranAt": "2026-10-26T15:24:13.976Z",
   "editionDate": "2026-10-26",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 15,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e fenômenos naturais marcam o dia com perdas humanas e mobilidade comprometida\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }

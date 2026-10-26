@@ -1,25 +1,393 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T05:11:06.981Z",
+  "generatedAt": "2026-10-26T15:24:13.976Z",
   "home": [
     {
-      "clusterId": "05ffd08f79bd411a",
-      "slug": "a06c9341b1b3378e",
-      "titulo": "Incêndio atinge área verde da UFRN em Natal",
-      "resumo": "Chamas consumiram parte da área verde da Universidade Federal do Rio Grande Norte em Natal. O incêndio ocorreu poucos dias após pancadaria entre apoiadores de Flávio Bolsonaro e Lula. A polícia está investigando o episódio. A ocorrência aconteceu a dois dias do segundo turno das eleições.",
-      "porQueImporta": "O fogo pode afetar a infraestrutura acadêmica e a segurança dos estudantes e funcionários da universidade.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "c29eb8ae8e086789",
+      "slug": "fd31df4a3958f390",
+      "titulo": "Acidente entre três veículos deixa quatro feridos em Juiz de Fora",
+      "resumo": "Na tarde de domingo, na MG-353, km 101, Juiz de Fora, um acidente envolvendo três veículos resultou em quatro feridos. O motorista de um dos carros perdeu o controle ao fazer curva em pista molhada, colidindo com outro veículo e depois batendo de frente em um terceiro. Os envolvidos foram atendidos no local.",
+      "porQueImporta": "O incidente destaca os riscos de condução em condições de pista molhada e a necessidade de atenção nas rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/ufrn-é-atingida-por-incêndio-a-dois-dias-do-2º-turno/a-79751725?maca=bra-rss-br-all-1030-rdf"
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/26/acidente-entre-tres-veiculos-deixa-quatro-pessoas-feridas-em-juiz-de-fora.ghtml"
         }
       ],
-      "updatedAt": "2026-10-24T16:25:00.000Z"
+      "updatedAt": "2026-10-26T14:54:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/JyaxwIoLI9QojQNEOuvv_A_eCQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/3/rACXl7QvqEAvEpPcPm6A/acidente-mg-353.png"
+    },
+    {
+      "clusterId": "a1984a10c43ff5c4",
+      "slug": "b7d400ca29a67f17",
+      "titulo": "Jovem morre após carro capotar no Piauí",
+      "resumo": "O jovem Gabriel Ferreira Silva morreu na madrugada de segunda-feira (26) após seu carro capotar na PI-252, nas proximidades de Angical, zona rural de Santa Luz, Piauí. Segundo a Polícia Militar, ele perdeu o controle do veículo em uma curva, que saiu da pista e se capotou. Pessoas que presenciaram o acidente socorreram o condutor antes de sua morte.",
+      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em estradas rurais do estado.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/26/jovem-morre-acidente-carro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-26T14:54:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/TkkkqLhEhnjCWxOY-rcqw8e9V94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/C/45rM8FQZKPGXRbTkAIMg/edicao-imagens-g1-2026-10-26t114528.328.jpg"
+    },
+    {
+      "clusterId": "90a2528306bd3bf1",
+      "slug": "308e151cd8586b02",
+      "titulo": "Motociclista morre após colisão entre motos na Avenida dos Holandeses",
+      "resumo": "Um motociclista, identificado como Cledson Nunes Sousa, morreu na manhã de segunda-feira (26) após colidir com outra moto na Avenida dos Holandeses, em São Luís. O acidente ocorreu em frente a uma concessionária de veículos. O impacto fez o motociclista atingir um poste, resultando em lesão grave.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção e segurança no trânsito urbano.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/26/motociclista-morre-apos-colisao-entre-motos-na-avenida-dos-holandeses-em-sao-luis.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-26T14:47:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/qpTOCpy8e4OrgccaO7K8fh4FnDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/b/wnzXnbSlqBYug1rSnrNg/montagens-1920-x-1080-px-23-.png"
+    },
+    {
+      "clusterId": "55ac364d59e1a13b",
+      "slug": "8490fe37eafeeb03",
+      "titulo": "Motociclista morre após bater contra defesa metálica em rodovia no interior de SP",
+      "resumo": "Um motociclista de 23 anos, identificado como José Carlos G. Batista, morreu ao colidir com uma defesa metálica na Rodovia Doutor Paulo Lauro (SP-215) em São Carlos, SP, no domingo. O corpo será velado na segunda-feira e enterrado no Cemitério Nossa Senhora do Carmo.",
+      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária em rodovias internas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/26/motociclista-morre-apos-bater-contra-defensa-metalica-em-rodovia-no-interior-de-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-26T14:45:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YmmWBlHLGwsLh6eVhRF--Pkbyck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/n/nhWiYhRAy3LfTM4F9BYQ/acidente-sanca-1-.jpg"
+    },
+    {
+      "clusterId": "959b9dec65335845",
+      "slug": "3346b5762f5c5a26",
+      "titulo": "Alagamentos na Rua do Porto e Estrada do Bongue em Piracicaba após transbordamento do Rio Piracicaba",
+      "resumo": "Imagens de drone mostram ruas totalmente submersas na Rua do Porto e na Estrada do Bongue em Piracicaba, SP, após o Rio Piracicaba transbordar. O manancial atingiu 5,91 metros, bloqueando as vias. As águas começaram a baixar, mas as ruas permaneceram interditadas.",
+      "porQueImporta": "O transbordamento comprometeu a mobilidade urbana e pode causar danos materiais e riscos à população.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/26/video-imagens-de-drone-mostram-alagamentos-na-rua-do-porto-apos-rio-piracicaba-transbordar.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-26T14:43:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/h29jgJCOYKPkim8QHzx2mO88YxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/l/gYEeAgTwugAFtmS3H2VA/design-sem-nome-33-.png"
+    },
+    {
+      "clusterId": "077120612e9def74",
+      "slug": "ac3b44f295845051",
+      "titulo": "Homem tetraplégico recebe ajuda para votar na Bahia",
+      "resumo": "Um homem de 52 anos, tetraplégico desde um acidente de moto há nove anos, recebeu apoio de uma equipe de resgate para votar no segundo turno das eleições em Conceição do Coité, Bahia. Ele mora com a mãe e sofre dores diárias que dificultam a locomoção. A equipe Águia Resgate providenciou transporte e assistência para que ele pudesse participar da votação.",
+      "porQueImporta": "Ilustra a inclusão de pessoas com deficiência em processos eleitorais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/26/homem-tetraplegico-ha-nove-anos-se-emociona-ao-receber-ajuda-para-votar-na-bahia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-26T14:35:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/fSxFxHq0LQLRGiD3n6sgA5gYVjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/P/Q0Scn0TgSNerCujlkE6A/foto-1-barros-reis-5-.png"
+    },
+    {
+      "clusterId": "af65fc4b26387eea",
+      "slug": "6dd39e7603e3f064",
+      "titulo": "Acidente na BR-373 deixa cinco mortos",
+      "resumo": "Na noite de domingo, na BR-373 em Candói, Paraná, uma caminhonete bateu de frente com o carro de uma família, resultando na morte de pai, mãe e três filhos. O motorista da caminhonete, de 18 anos, foi preso por embriaguez ao volante e por não possuir Carteira Nacional de Trânsito.",
+      "porQueImporta": "O caso destaca os riscos de dirigir embriagado e a necessidade de fiscalização rigorosa nas rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/26/pai-mae-e-tres-filhos-morrem-acidente-parana-motorista-preso-embriaguez.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-26T14:29:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/eIKDLRE4__u9T3T5nssFzWGBEog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/d/aXDwhUScqH9TCxmcjpmw/g1-16-.png"
+    },
+    {
+      "clusterId": "a7ac43603c7aeecc",
+      "slug": "df32d2030dc43fea",
+      "titulo": "Mulher morre asfixiada por capacete após bater motocicleta contra cavalo em Piracicaba",
+      "resumo": "Uma mulher de 48 anos morreu na manhã de segunda-feira (26) após bater a motocicleta que dirigia contra um cavalo na Estrada do Serrote, bairro Monjolinho, Piracicaba. O laudo médico apontou asfixia como causa da morte, causada pelo capacete de proteção que a vítima usava. O acidente ocorreu por volta das 5h30, enquanto a vítima se dirigia para a academia.",
+      "porQueImporta": "O caso destaca os riscos de acidentes envolvendo animais em vias públicas e a importância de medidas de segurança para motociclistas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/26/mulher-morre-asfixiada-por-capacete-apos-bater-motocicleta-contra-cavalo-em-piracicaba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-26T14:17:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/cfVFO0r5F3KTYAd4Al1xnZ3hLqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/R/YdABcaSLuFGmpoczWtkA/acidentecavalo.jpg"
+    },
+    {
+      "clusterId": "200f508b2cd3a3ab",
+      "slug": "059a1ea34595b0f4",
+      "titulo": "Corpo de menino de 12 anos encontrado após afogamento no Rio Candeias",
+      "resumo": "O corpo de um menino de 12 anos que desapareceu ao se afogar no Rio Candeias, em Candeias do Jamari (RO), foi localizado no sábado (24). O Corpo de Bombeiros confirmou a descoberta na segunda-feira (26), junto à família da vítima. As buscas foram conduzidas pela manhã de domingo (25) por equipes de mergulho do Grupamento de Busca e Salvamento (GBS).",
+      "porQueImporta": "A descoberta encerra a busca e traz encerramento à família e comunidade local.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/26/menino-afogado-em-candeias-do-jamari.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-26T14:13:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DibU9AanPPTFzAs355RcuRR7QAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/D/ApVmniRjOIRAffgWb6uA/ponte.jpg"
+    },
+    {
+      "clusterId": "c9f2a3b05a86468b",
+      "slug": "9241c65b1c04cdfe",
+      "titulo": "Ciclone extratropical aumenta risco de temporais pelo Brasil nesta semana",
+      "resumo": "Um ciclone extratropical está elevando o risco de temporais em várias regiões do Brasil. A Climatempo indica que uma frente fria que avançou pelo Sudeste deve chegar à Bahia, favorecendo tempestades no Norte e Nordeste. As autoridades alertam para possíveis chuvas intensas e deslizamentos. A situação pode afetar o tráfego e a infraestrutura local.",
+      "porQueImporta": "O aumento do risco de temporais pode causar inundações, deslizamentos e interrupções nos serviços públicos.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-extratropical-aumenta-risco-de-temporais-pelo-brasil-nesta-semana/"
+        }
+      ],
+      "updatedAt": "2026-10-26T12:30:09.000Z"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "c29eb8ae8e086789",
+          "slug": "fd31df4a3958f390",
+          "titulo": "Acidente entre três veículos deixa quatro feridos em Juiz de Fora",
+          "resumo": "Na tarde de domingo, na MG-353, km 101, Juiz de Fora, um acidente envolvendo três veículos resultou em quatro feridos. O motorista de um dos carros perdeu o controle ao fazer curva em pista molhada, colidindo com outro veículo e depois batendo de frente em um terceiro. Os envolvidos foram atendidos no local.",
+          "porQueImporta": "O incidente destaca os riscos de condução em condições de pista molhada e a necessidade de atenção nas rodovias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/26/acidente-entre-tres-veiculos-deixa-quatro-pessoas-feridas-em-juiz-de-fora.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-26T14:54:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/JyaxwIoLI9QojQNEOuvv_A_eCQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/3/rACXl7QvqEAvEpPcPm6A/acidente-mg-353.png"
+        },
+        {
+          "clusterId": "a1984a10c43ff5c4",
+          "slug": "b7d400ca29a67f17",
+          "titulo": "Jovem morre após carro capotar no Piauí",
+          "resumo": "O jovem Gabriel Ferreira Silva morreu na madrugada de segunda-feira (26) após seu carro capotar na PI-252, nas proximidades de Angical, zona rural de Santa Luz, Piauí. Segundo a Polícia Militar, ele perdeu o controle do veículo em uma curva, que saiu da pista e se capotou. Pessoas que presenciaram o acidente socorreram o condutor antes de sua morte.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em estradas rurais do estado.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/26/jovem-morre-acidente-carro.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-26T14:54:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TkkkqLhEhnjCWxOY-rcqw8e9V94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/C/45rM8FQZKPGXRbTkAIMg/edicao-imagens-g1-2026-10-26t114528.328.jpg"
+        },
+        {
+          "clusterId": "90a2528306bd3bf1",
+          "slug": "308e151cd8586b02",
+          "titulo": "Motociclista morre após colisão entre motos na Avenida dos Holandeses",
+          "resumo": "Um motociclista, identificado como Cledson Nunes Sousa, morreu na manhã de segunda-feira (26) após colidir com outra moto na Avenida dos Holandeses, em São Luís. O acidente ocorreu em frente a uma concessionária de veículos. O impacto fez o motociclista atingir um poste, resultando em lesão grave.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção e segurança no trânsito urbano.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/26/motociclista-morre-apos-colisao-entre-motos-na-avenida-dos-holandeses-em-sao-luis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-26T14:47:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/qpTOCpy8e4OrgccaO7K8fh4FnDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/b/wnzXnbSlqBYug1rSnrNg/montagens-1920-x-1080-px-23-.png"
+        },
+        {
+          "clusterId": "55ac364d59e1a13b",
+          "slug": "8490fe37eafeeb03",
+          "titulo": "Motociclista morre após bater contra defesa metálica em rodovia no interior de SP",
+          "resumo": "Um motociclista de 23 anos, identificado como José Carlos G. Batista, morreu ao colidir com uma defesa metálica na Rodovia Doutor Paulo Lauro (SP-215) em São Carlos, SP, no domingo. O corpo será velado na segunda-feira e enterrado no Cemitério Nossa Senhora do Carmo.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária em rodovias internas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/26/motociclista-morre-apos-bater-contra-defensa-metalica-em-rodovia-no-interior-de-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-26T14:45:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YmmWBlHLGwsLh6eVhRF--Pkbyck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/n/nhWiYhRAy3LfTM4F9BYQ/acidente-sanca-1-.jpg"
+        },
+        {
+          "clusterId": "077120612e9def74",
+          "slug": "ac3b44f295845051",
+          "titulo": "Homem tetraplégico recebe ajuda para votar na Bahia",
+          "resumo": "Um homem de 52 anos, tetraplégico desde um acidente de moto há nove anos, recebeu apoio de uma equipe de resgate para votar no segundo turno das eleições em Conceição do Coité, Bahia. Ele mora com a mãe e sofre dores diárias que dificultam a locomoção. A equipe Águia Resgate providenciou transporte e assistência para que ele pudesse participar da votação.",
+          "porQueImporta": "Ilustra a inclusão de pessoas com deficiência em processos eleitorais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/26/homem-tetraplegico-ha-nove-anos-se-emociona-ao-receber-ajuda-para-votar-na-bahia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-26T14:35:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fSxFxHq0LQLRGiD3n6sgA5gYVjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/P/Q0Scn0TgSNerCujlkE6A/foto-1-barros-reis-5-.png"
+        },
+        {
+          "clusterId": "af65fc4b26387eea",
+          "slug": "6dd39e7603e3f064",
+          "titulo": "Acidente na BR-373 deixa cinco mortos",
+          "resumo": "Na noite de domingo, na BR-373 em Candói, Paraná, uma caminhonete bateu de frente com o carro de uma família, resultando na morte de pai, mãe e três filhos. O motorista da caminhonete, de 18 anos, foi preso por embriaguez ao volante e por não possuir Carteira Nacional de Trânsito.",
+          "porQueImporta": "O caso destaca os riscos de dirigir embriagado e a necessidade de fiscalização rigorosa nas rodovias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/26/pai-mae-e-tres-filhos-morrem-acidente-parana-motorista-preso-embriaguez.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-26T14:29:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/eIKDLRE4__u9T3T5nssFzWGBEog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/d/aXDwhUScqH9TCxmcjpmw/g1-16-.png"
+        },
+        {
+          "clusterId": "a7ac43603c7aeecc",
+          "slug": "df32d2030dc43fea",
+          "titulo": "Mulher morre asfixiada por capacete após bater motocicleta contra cavalo em Piracicaba",
+          "resumo": "Uma mulher de 48 anos morreu na manhã de segunda-feira (26) após bater a motocicleta que dirigia contra um cavalo na Estrada do Serrote, bairro Monjolinho, Piracicaba. O laudo médico apontou asfixia como causa da morte, causada pelo capacete de proteção que a vítima usava. O acidente ocorreu por volta das 5h30, enquanto a vítima se dirigia para a academia.",
+          "porQueImporta": "O caso destaca os riscos de acidentes envolvendo animais em vias públicas e a importância de medidas de segurança para motociclistas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/26/mulher-morre-asfixiada-por-capacete-apos-bater-motocicleta-contra-cavalo-em-piracicaba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-26T14:17:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/cfVFO0r5F3KTYAd4Al1xnZ3hLqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/R/YdABcaSLuFGmpoczWtkA/acidentecavalo.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "959b9dec65335845",
+          "slug": "3346b5762f5c5a26",
+          "titulo": "Alagamentos na Rua do Porto e Estrada do Bongue em Piracicaba após transbordamento do Rio Piracicaba",
+          "resumo": "Imagens de drone mostram ruas totalmente submersas na Rua do Porto e na Estrada do Bongue em Piracicaba, SP, após o Rio Piracicaba transbordar. O manancial atingiu 5,91 metros, bloqueando as vias. As águas começaram a baixar, mas as ruas permaneceram interditadas.",
+          "porQueImporta": "O transbordamento comprometeu a mobilidade urbana e pode causar danos materiais e riscos à população.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/26/video-imagens-de-drone-mostram-alagamentos-na-rua-do-porto-apos-rio-piracicaba-transbordar.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-26T14:43:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/h29jgJCOYKPkim8QHzx2mO88YxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/l/gYEeAgTwugAFtmS3H2VA/design-sem-nome-33-.png"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "200f508b2cd3a3ab",
+          "slug": "059a1ea34595b0f4",
+          "titulo": "Corpo de menino de 12 anos encontrado após afogamento no Rio Candeias",
+          "resumo": "O corpo de um menino de 12 anos que desapareceu ao se afogar no Rio Candeias, em Candeias do Jamari (RO), foi localizado no sábado (24). O Corpo de Bombeiros confirmou a descoberta na segunda-feira (26), junto à família da vítima. As buscas foram conduzidas pela manhã de domingo (25) por equipes de mergulho do Grupamento de Busca e Salvamento (GBS).",
+          "porQueImporta": "A descoberta encerra a busca e traz encerramento à família e comunidade local.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/26/menino-afogado-em-candeias-do-jamari.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-26T14:13:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DibU9AanPPTFzAs355RcuRR7QAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/D/ApVmniRjOIRAffgWb6uA/ponte.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "c9f2a3b05a86468b",
+          "slug": "9241c65b1c04cdfe",
+          "titulo": "Ciclone extratropical aumenta risco de temporais pelo Brasil nesta semana",
+          "resumo": "Um ciclone extratropical está elevando o risco de temporais em várias regiões do Brasil. A Climatempo indica que uma frente fria que avançou pelo Sudeste deve chegar à Bahia, favorecendo tempestades no Norte e Nordeste. As autoridades alertam para possíveis chuvas intensas e deslizamentos. A situação pode afetar o tráfego e a infraestrutura local.",
+          "porQueImporta": "O aumento do risco de temporais pode causar inundações, deslizamentos e interrupções nos serviços públicos.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-extratropical-aumenta-risco-de-temporais-pelo-brasil-nesta-semana/"
+            }
+          ],
+          "updatedAt": "2026-10-26T12:30:09.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "cfcdd58f24e8ad6c",
+          "slug": "a1ec5e514996b950",
+          "titulo": "Desabamento durante demolição deixa três feridos em São João de Meriti",
+          "resumo": "Um desabamento ocorreu durante a demolição de um prédio em São João de Meriti, resultando em três feridos. Um adolescente de 13 anos ficou gravemente ferido e foi levado ao Hospital Geral de Nova Iguaçu. As outras duas vítimas foram socorridas e encaminhadas para atendimento médico.",
+          "porQueImporta": "O incidente destaca os riscos associados a obras de demolição e a necessidade de medidas de segurança adequadas.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/desabamento-durante-demolicao-deixa-tres-feridos-em-sao-joao-de-meriti-rj/"
+            }
+          ],
+          "updatedAt": "2026-10-26T11:57:34.000Z"
+        }
+      ]
+    },
     {
       "slug": "incendio",
       "label": "Incêndio",
