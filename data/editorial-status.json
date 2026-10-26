@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-25T19:12:21.314Z",
-  "editionDate": "2026-10-25",
-  "hourUtc": 19,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito e eventos climáticos dominam o panorama diário\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-26T05:11:06.981Z",
+  "editionDate": "2026-10-26",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }

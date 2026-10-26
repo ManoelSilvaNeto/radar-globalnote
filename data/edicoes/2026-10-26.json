@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T05:11:06.981Z",
+  "home": [
+    {
+      "clusterId": "05ffd08f79bd411a",
+      "slug": "a06c9341b1b3378e",
+      "titulo": "Incêndio atinge área verde da UFRN em Natal",
+      "resumo": "Chamas consumiram parte da área verde da Universidade Federal do Rio Grande Norte em Natal. O incêndio ocorreu poucos dias após pancadaria entre apoiadores de Flávio Bolsonaro e Lula. A polícia está investigando o episódio. A ocorrência aconteceu a dois dias do segundo turno das eleições.",
+      "porQueImporta": "O fogo pode afetar a infraestrutura acadêmica e a segurança dos estudantes e funcionários da universidade.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "DW Brasil",
+          "url": "https://www.dw.com/pt-br/ufrn-é-atingida-por-incêndio-a-dois-dias-do-2º-turno/a-79751725?maca=bra-rss-br-all-1030-rdf"
+        }
+      ],
+      "updatedAt": "2026-10-24T16:25:00.000Z"
+    }
+  ],
+  "categorias": [
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "05ffd08f79bd411a",
+          "slug": "a06c9341b1b3378e",
+          "titulo": "Incêndio atinge área verde da UFRN em Natal",
+          "resumo": "Chamas consumiram parte da área verde da Universidade Federal do Rio Grande Norte em Natal. O incêndio ocorreu poucos dias após pancadaria entre apoiadores de Flávio Bolsonaro e Lula. A polícia está investigando o episódio. A ocorrência aconteceu a dois dias do segundo turno das eleições.",
+          "porQueImporta": "O fogo pode afetar a infraestrutura acadêmica e a segurança dos estudantes e funcionários da universidade.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "DW Brasil",
+              "url": "https://www.dw.com/pt-br/ufrn-é-atingida-por-incêndio-a-dois-dias-do-2º-turno/a-79751725?maca=bra-rss-br-all-1030-rdf"
+            }
+          ],
+          "updatedAt": "2026-10-24T16:25:00.000Z"
+        }
+      ]
+    }
+  ]
+}
