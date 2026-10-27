@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-10-27T05:28:09.397Z",
+  "ranAt": "2026-10-27T14:51:02.164Z",
   "editionDate": "2026-10-27",
-  "hourUtc": 5,
-  "outcome": "skipped",
-  "reason": "fora da janela (5h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Incidentes de segurança e clima dominam a edição\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
