@@ -1,15 +1,14 @@
 {
-  "ranAt": "2026-10-29T15:27:57.077Z",
+  "ranAt": "2026-10-29T21:21:01.393Z",
   "editionDate": "2026-10-29",
-  "hourUtc": 15,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 21,
+  "outcome": "generated",
+  "reason": "\"Tragédias e riscos em múltiplos setores evidenciam fragilidade da infraestrutura e da segurança pública\" (4 parágrafos)",
   "providers": [
     "groq",
     "cerebras"
   ],
   "attempts": [
-    "groq: reprovado — poucos parágrafos (1)",
-    "cerebras: erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "groq: ok"
   ]
 }
