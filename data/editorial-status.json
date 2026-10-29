@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-28T15:21:55.785Z",
-  "editionDate": "2026-10-28",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Acidentes de trânsito e desastres naturais marcam dia de alertas e fatalidades\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-29T06:19:23.244Z",
+  "editionDate": "2026-10-29",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
