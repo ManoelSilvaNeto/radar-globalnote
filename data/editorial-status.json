@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-10-29T21:21:01.393Z",
-  "editionDate": "2026-10-29",
-  "hourUtc": 21,
-  "outcome": "generated",
-  "reason": "\"Tragédias e riscos em múltiplos setores evidenciam fragilidade da infraestrutura e da segurança pública\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-10-30T06:18:39.636Z",
+  "editionDate": "2026-10-30",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
