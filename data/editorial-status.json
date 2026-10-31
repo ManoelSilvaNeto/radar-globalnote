@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-10-31T06:10:14.340Z",
+  "ranAt": "2026-10-31T14:41:19.196Z",
   "editionDate": "2026-10-31",
-  "hourUtc": 6,
-  "outcome": "skipped",
-  "reason": "fora da janela (6h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Acidentes de trânsito e incêndios marcam o dia com perdas e alertas ambientais\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
