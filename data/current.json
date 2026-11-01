@@ -1,27 +1,107 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T23:36:43.442Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T06:42:11.580Z",
   "home": [
     {
-      "clusterId": "0c359d3c7b6493d6",
-      "slug": "2fc9072eb8d16a47",
-      "titulo": "Incêndio destrói galpão de empresa nas proximidades da BR-040 em Ribeirão das Neves",
-      "resumo": "Um galpão de empresa que trabalha com insumos inflamáveis, como capim e fibra de coco, foi consumido por um incêndio de grandes proporções próximo ao km 514,2 da BR-040, no bairro Nápoli, em Ribeirão das Neves. As chamas saíram do teto e permaneceram altas durante a noite. O local estava fechado e havia apenas um segurança, que não sofreu ferimentos. Seis viaturas do Corpo de Bombeiros foram mobilizadas para combater o fogo.",
-      "porQueImporta": "O incêndio pode representar risco à segurança pública e ao meio ambiente na região da Grande Belo Horizonte.",
+      "clusterId": "0e55f039cc9107a0",
+      "slug": "d1c3b3f5f8f548ef",
+      "titulo": "Sete Catacumbas de Jaboticabal: fatos e lendas sobre febre amarela",
+      "resumo": "A lenda das Sete Catacumbas de Jaboticabal, SP, diz que sete espanhóis foram enterrados no Cemitério São Bom Jesus do Lazareto durante uma epidemia de febre amarela no final do século XIX. A história inclui relatos de corpos queimados e pessoas enterradas vivas, mas não há comprovação documental. O mito mistura elementos de morte, doença e assombração, sendo transmitido de geração em geração.",
+      "porQueImporta": "A história reflete como comunidades locais lidam com epidemias e memórias coletivas, influenciando a percepção cultural e turística da região.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/01/cheiro-de-carne-queimada-febre-amarela-o-que-e-fato-e-o-que-e-lenda-sobre-as-sete-catacumbas-de-jaboticabal-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-01T06:01:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/dkienCzHIS6TjMX3_vl5_hY4bS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/g/jRKA7aTyKJitmmRmr3XQ/molduras-g1-99-.png"
+    },
+    {
+      "clusterId": "05217addb6bdc454",
+      "slug": "47e9ee4d40865dfc",
+      "titulo": "Biblioteca da USP vive de “solução temporária” cinco meses após alagamentos",
+      "resumo": "Biblioteca ficou interditada após alagamento em maio. Cinco meses depois, local permanece fechado e não há previsão para reabertura",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/biblioteca-da-usp-vive-de-solucao-temporaria-cinco-meses-apos-alagamentos"
+        }
+      ],
+      "updatedAt": "2026-11-01T05:15:39.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/2o-andar-goteiras-1.jpg"
+    },
+    {
+      "clusterId": "d16e5b0ce50d01ea",
+      "slug": "31914a437398668e",
+      "titulo": "Acidente entre ônibus e carro deixa um morto e um ferido na BR-101 em Campos dos Goytacazes",
+      "resumo": "Na tarde de sábado, um ônibus e um carro de passeio colidiram frontalmente na BR-101, em Campos dos Goytacazes, resultando em um homem morto e outro ferido. O falecido era um bombeiro militar reformado, cuja identidade ainda não foi divulgada. O Corpo de Bombeiros foi acionado às 16h25.",
+      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em trechos movimentados da BR-101.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/31/acidente-entre-onibus-e-carro-deixa-um-morto-e-um-ferido-na-br-101-em-campos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-01T01:20:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1_xZ1WPfUCkKuwpBM3samvf3OIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Q/8Qh4I1RJiosB0UG7bZBg/acidente-campos.png"
+    },
+    {
+      "clusterId": "1c964e3f194bbf97",
+      "slug": "b26acef30309b3eb",
+      "titulo": "Bolívia decreta estado de emergência por seca e enchentes causadas pelo super El Niño",
+      "resumo": "O presidente Rodrigo Paz decretou estado de emergência para enfrentar secas intensas e enchentes provocadas pelo super El Niño. A medida ampliará recursos financeiros e mobilizará equipes de resgate nas regiões mais afetadas. O governo afirma ter trabalhado para reduzir os impactos do fenômeno.",
+      "porQueImporta": "A decisão visa mitigar danos ambientais e sociais em meio a condições climáticas extremas.",
+      "categoria": "Seca",
+      "categoriaSlug": "seca",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/31/bolivia-decreta-emergencia-por-seca-e-enchentes-causadas-pelo-super-el-nino.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-01T01:04:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/R_QJ2jeLgEyTn8j3ZIYk52YEIC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/7/OHRalxQOiWJ9KUUl0AUw/ezgif-3424fd218abc279f-ezgif.com-optimize.gif"
+    },
+    {
+      "clusterId": "9151acd4dd003355",
+      "slug": "7b2cb774c6b4e4cf",
+      "titulo": "Incêndio de grandes proporções atinge galpão de fábrica em Mauá",
+      "resumo": "Um incêndio de grandes proporções atingiu um galpão de fábrica de óleo mineral na Rua Rosa Kasinski, em Mauá, no ABC Paulista, neste sábado. O fogo começou pouco antes das 17h e exigiu a mobilização de pelo menos 21 viaturas, com atuação em três frentes e uso de espuma. A explosão de um compartimento com sódio resultou em uma vítima, que não precisou ser encaminhada ao hospital. O galpão fica próximo à estação Capuava.",
+      "porQueImporta": "O incidente envolve risco de explosão e pode afetar a segurança pública e a infraestrutura local.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/31/incendio-br-040-ribeirao-das-neves.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/incendio-destroi-galpao-de-empresa-as-margens-da-br-040-na-grande-bh"
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/31/incendio-de-grandes-proporcoes-atinge-galpao-de-fabrica-em-maua-no-abc.ghtml"
         }
       ],
-      "updatedAt": "2026-10-31T23:12:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/_w5L1Lzz-IrRN6bYgQ3Sl9x_uNQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/n/ikFnTKSlmmBXKJpfsQ1Q/51-56-mg2-acervo-31-oct-2026201.mxf.png"
+      "updatedAt": "2026-10-31T23:45:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/9kdQqbxqbrFC_kdLsl3ttlQQlA0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/F/T2T9CYTIyyzWqLE9FezQ/fotojet-98-.jpg"
+    },
+    {
+      "clusterId": "ecacb9e8885609df",
+      "slug": "6420a0f40c154f41",
+      "titulo": "Amazonas registra queda de quase 40% nos focos de queimadas em outubro",
+      "resumo": "Em outubro, o estado do Amazonas registrou 2.258 focos de incêndio, representando quase 40% menos que no início do mês. O número de ocorrências acumuladas posicionou o estado na sexta posição do ranking nacional. A redução reflete esforços de monitoramento e combate às queimadas. O cenário ainda permanece alarmante, mas mostra progresso em relação ao início do mês.",
+      "porQueImporta": "A diminuição dos focos de incêndio indica avanços nas ações de prevenção e controle de queimadas na região.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/norte/am/amazonas-tem-queda-de-quase-40-nos-focos-de-queimadas-em-outubro-diz-inpe/"
+        }
+      ],
+      "updatedAt": "2026-10-31T23:39:27.000Z"
     },
     {
       "clusterId": "02a920bb840faccd",
@@ -89,91 +169,6 @@
       ],
       "updatedAt": "2026-10-31T22:34:13.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/yFKpxnuYYjAAfh20yjCzWQ2jq-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/N/BoDgerSCOoz1Xlh22smQ/praia-do-forte.png"
-    },
-    {
-      "clusterId": "7a5e6011530b655b",
-      "slug": "be5014dac0b5f604",
-      "titulo": "Incêndio em caminhão deixa ferido na Via Dutra em Jacareí",
-      "resumo": "Um caminhão teve a cabine incendiada na Rodovia Presidente Dutra, km 159, sentido São Paulo, no trecho de Jacareí, SP, por volta das 18h10. O fogo não atingiu o baú e o veículo ficou no acostamento. Uma pessoa ficou ferida e foi levada ao hospital. A Polícia Rodoviária Federal ainda não identificou a causa do incêndio.",
-      "porQueImporta": "O incidente destaca riscos de incêndios em veículos de carga em rodovias movimentadas, podendo afetar a segurança viária.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/31/video-incendio-em-caminhao-deixa-um-ferido-na-dutra-em-jacarei.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-31T22:05:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/MOoY_lqXRZnOIjynvi_9ZxEY2Z0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/9/5GWPAURCCssM02yITqDw/whatsapp-image-2026-10-31-at-18.20.30.jpeg"
-    },
-    {
-      "clusterId": "391a737a72cca3c8",
-      "slug": "e0c41ca7dae00328",
-      "titulo": "Menino de 10 anos morre após ser atropelado em Ribeirão Preto",
-      "resumo": "Um menino de 10 anos, Lorenzo Oliveira de Castro, estava de bicicleta quando foi atingido por uma motocicleta na Avenida dos Andradas, em Ribeirão Preto, SP, por volta das 19h de sexta-feira. O acidente ocorreu na zona oeste da cidade. O jovem faleceu em decorrência dos ferimentos.",
-      "porQueImporta": "O caso ressalta a necessidade de atenção e fiscalização no tráfego urbano para proteger pedestres e ciclistas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/31/menino-de-10-anos-morre-depois-de-ser-atropelado-ao-atravessar-avenida-em-ribeirao-preto-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-31T21:49:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/l4cGwo3XUN9lo4HtAosFcv3lVXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/P/9ZDKBMSDCeAulufzYhkg/design-sem-nome-1-.png"
-    },
-    {
-      "clusterId": "1526de3e4efbac2f",
-      "slug": "8dcac8825a6cd965",
-      "titulo": "Acidente entre dois carros deixa cinco feridos na BR-040 em Juiz de Fora",
-      "resumo": "Um acidente entre dois veículos na BR-040, km 789, próximo ao Expominas, resultou em cinco feridos. O condutor de um Hyundai HB20, de 35 anos, estava transportando passageiros por aplicativo. A pista ficou interditada durante o socorro, causando congestionamento. As vítimas foram avaliadas pelas equipes de emergência.",
-      "porQueImporta": "O incidente destaca riscos de transporte por aplicativo em rodovias movimentadas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/31/acidente-entre-dois-carros-deixa-5-feridos-na-br-040-em-juiz-de-fora.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-31T21:32:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/0Jyug418F9rAeTb2hw6AKv9vC_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/Pbcut1TzeE0vC0moVk3g/acidente-br-040.jpeg"
-    },
-    {
-      "clusterId": "a99c1eb3e1d31060",
-      "slug": "b7d7e0b4331d2418",
-      "titulo": "Acidente na BR-365 deixa quatro feridos e um morto",
-      "resumo": "Na BR-365, em Patos de Minas, uma carreta perdeu o controle e colidiu com um carro, ferindo quatro membros de uma mesma família. Em outra ocorrência na mesma rodovia, um carro tentou ultrapassar caminhões e bateu de frente com uma caminhonete, resultando na morte de um condutor de 52 anos.",
-      "porQueImporta": "O acidente demonstra riscos de condução imprudente em rodovias de alto tráfego.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/31/motorista-de-carro-tenta-ultrapassar-tres-caminhoes-e-bate-de-frente-com-caminhonete-na-br-365-em-mg.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-31T21:24:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Z5r7GYF7jNB4YR6i1D-nbdHW7hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/n/Ny0F4fRUiyxcaxKLFkMQ/whatsapp-image-2026-10-31-at-17.39.43.jpeg"
-    },
-    {
-      "clusterId": "310840a605ef3677",
-      "slug": "b23e16a94fc0f586",
-      "titulo": "Como vai ficar o tempo em novembro? El Niño mantém alerta para chuvas e calor no país",
-      "resumo": "Previsão da Climatempo aponta calor intenso no Norte e no Nordeste, além de risco de temporais, enchentes e deslizamentos em diferentes regiões do país",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/como-vai-ficar-o-tempo-em-novembro-el-nino-mantem-alerta-para-chuvas-e-calor-no-pais/"
-        }
-      ],
-      "updatedAt": "2026-10-31T21:15:14.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/GettyImages-2251240347.jpg"
     }
   ],
   "categorias": [
@@ -181,6 +176,23 @@
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
+        {
+          "clusterId": "d16e5b0ce50d01ea",
+          "slug": "31914a437398668e",
+          "titulo": "Acidente entre ônibus e carro deixa um morto e um ferido na BR-101 em Campos dos Goytacazes",
+          "resumo": "Na tarde de sábado, um ônibus e um carro de passeio colidiram frontalmente na BR-101, em Campos dos Goytacazes, resultando em um homem morto e outro ferido. O falecido era um bombeiro militar reformado, cuja identidade ainda não foi divulgada. O Corpo de Bombeiros foi acionado às 16h25.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em trechos movimentados da BR-101.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/31/acidente-entre-onibus-e-carro-deixa-um-morto-e-um-ferido-na-br-101-em-campos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-01T01:20:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1_xZ1WPfUCkKuwpBM3samvf3OIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Q/8Qh4I1RJiosB0UG7bZBg/acidente-campos.png"
+        },
         {
           "clusterId": "79a197cb8f69075f",
           "slug": "7c3b11dfb3febd2f",
@@ -216,79 +228,11 @@
           "imageUrl": "https://s2-g1.glbimg.com/bANmscFeM-M3f9joR5fcrOh08sE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/N/u0exj1R0iNCb243LBBRA/captura-de-tela-517-.png"
         },
         {
-          "clusterId": "391a737a72cca3c8",
-          "slug": "e0c41ca7dae00328",
-          "titulo": "Menino de 10 anos morre após ser atropelado em Ribeirão Preto",
-          "resumo": "Um menino de 10 anos, Lorenzo Oliveira de Castro, estava de bicicleta quando foi atingido por uma motocicleta na Avenida dos Andradas, em Ribeirão Preto, SP, por volta das 19h de sexta-feira. O acidente ocorreu na zona oeste da cidade. O jovem faleceu em decorrência dos ferimentos.",
-          "porQueImporta": "O caso ressalta a necessidade de atenção e fiscalização no tráfego urbano para proteger pedestres e ciclistas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/31/menino-de-10-anos-morre-depois-de-ser-atropelado-ao-atravessar-avenida-em-ribeirao-preto-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-31T21:49:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/l4cGwo3XUN9lo4HtAosFcv3lVXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/P/9ZDKBMSDCeAulufzYhkg/design-sem-nome-1-.png"
-        },
-        {
-          "clusterId": "1526de3e4efbac2f",
-          "slug": "8dcac8825a6cd965",
-          "titulo": "Acidente entre dois carros deixa cinco feridos na BR-040 em Juiz de Fora",
-          "resumo": "Um acidente entre dois veículos na BR-040, km 789, próximo ao Expominas, resultou em cinco feridos. O condutor de um Hyundai HB20, de 35 anos, estava transportando passageiros por aplicativo. A pista ficou interditada durante o socorro, causando congestionamento. As vítimas foram avaliadas pelas equipes de emergência.",
-          "porQueImporta": "O incidente destaca riscos de transporte por aplicativo em rodovias movimentadas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/31/acidente-entre-dois-carros-deixa-5-feridos-na-br-040-em-juiz-de-fora.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-31T21:32:44.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0Jyug418F9rAeTb2hw6AKv9vC_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/Pbcut1TzeE0vC0moVk3g/acidente-br-040.jpeg"
-        },
-        {
-          "clusterId": "a99c1eb3e1d31060",
-          "slug": "b7d7e0b4331d2418",
-          "titulo": "Acidente na BR-365 deixa quatro feridos e um morto",
-          "resumo": "Na BR-365, em Patos de Minas, uma carreta perdeu o controle e colidiu com um carro, ferindo quatro membros de uma mesma família. Em outra ocorrência na mesma rodovia, um carro tentou ultrapassar caminhões e bateu de frente com uma caminhonete, resultando na morte de um condutor de 52 anos.",
-          "porQueImporta": "O acidente demonstra riscos de condução imprudente em rodovias de alto tráfego.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/31/motorista-de-carro-tenta-ultrapassar-tres-caminhoes-e-bate-de-frente-com-caminhonete-na-br-365-em-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-31T21:24:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Z5r7GYF7jNB4YR6i1D-nbdHW7hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/n/Ny0F4fRUiyxcaxKLFkMQ/whatsapp-image-2026-10-31-at-17.39.43.jpeg"
-        },
-        {
-          "clusterId": "4d738b72ff30606d",
-          "slug": "18a6622fe1a58114",
-          "titulo": "Acidente entre caminhão, moto e bicicleta deixa um homem morto e outro ferido em João Pessoa",
-          "resumo": "Um caminhão da empresa Nordesa Distribuição perdeu o controle na via e colidiu com uma moto e uma bicicleta no bairro Cruz das Armas, em João Pessoa. O ciclista que bateu no caminhão não resistiu aos ferimentos e morreu no local. O motorista da moto ficou ferido e foi socorrido. O caminhão não tinha motorista no momento do acidente.",
-          "porQueImporta": "O incidente destaca a necessidade de fiscalização e controle de veículos de carga em vias urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/31/acidente-entre-caminhao-moto-e-bicicleta-deixa-um-homem-morto-e-outro-ferido-em-joao-pessoa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-31T21:04:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5myKCnKNTYfNHfZlLzgitdQsgH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/Gu6aSMTQaUUVjpuU2qJw/whatsapp-image-2026-10-31-at-17.20.11.jpeg"
-        },
-        {
           "clusterId": "f13d23311b4b0e71",
           "slug": "190f9e65bc1dc350",
-          "titulo": "Governo espanhol trabalha de forma incansável para identificar vítimas de acidente de trem",
-          "resumo": "O primeiro‑ministro Pedro Sánchez declarou que o governo está atuando de maneira incansável para localizar os 69 mortos na colisão de dois trens de alta velocidade em Urda, no centro da Espanha. A equipe de emergência está reunida para fornecer informações precisas e rápidas às famílias das vítimas. O esforço envolve todos os poderes do Estado e busca reduzir a angústia das famílias que ainda não encontraram seus entes queridos.",
-          "porQueImporta": "A rápida identificação das vítimas é crucial para o apoio às famílias e para a investigação do acidente.",
+          "titulo": "Governo espanhol trabalha para identificar vítimas de colisão de trens",
+          "resumo": "O primeiro-ministro Pedro Sánchez afirmou que o governo está trabalhando de forma incansável para identificar os 69 mortos na colisão de dois trens de alta velocidade em Urda, Espanha. A ação envolve todos os poderes do Estado e busca fornecer informações fidedignas aos familiares das vítimas. A reunião ocorreu perto de Urda, município no centro da Espanha.",
+          "porQueImporta": "A identificação das vítimas é crucial para o apoio às famílias e para a investigação do acidente.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
@@ -299,6 +243,23 @@
           ],
           "updatedAt": "2026-10-30T12:02:54.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/HAT66uztq-sxdzxdK9ZPmDZiKrY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/9/a9REQoQ3arzSJurPvIqQ/afp-20261028-d4nu46e-v1-highres-spainaccidenttransporttrain.jpg"
+        },
+        {
+          "clusterId": "7e2b82c386955f51",
+          "slug": "eb6903133380d722",
+          "titulo": "Acidente de trem deixa 74 mortos e dezenas de feridos na província de Toledo",
+          "resumo": "Na manhã de 28 de outubro, dois trens colidiram nas proximidades de Urda, em Castilla-La Mancha, resultando em pelo menos 74 mortes e dezenas de feridos. A comunidade local mobilizou-se rapidamente, com ambulâncias, bombeiros e moradores oferecendo apoio às vítimas. As autoridades estão investigando as causas do acidente.",
+          "porQueImporta": "O incidente destaca a necessidade de revisão das medidas de segurança ferroviária na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/10/30/nao-ha-palavras-para-descrever-a-dor-a-mobilizacao-de-um-vilarejo-para-ajudar-vitimas-de-acidente-de-trem-na-espanha.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-30T09:57:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zepWzEq1qcGeQUTqF3Tv9lGBDKo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/kaswrKQ6AQp7CF97hbLw/54826d7a-7361-4211-9434-20ea0f1d524b-1-.png"
         }
       ]
     },
@@ -306,6 +267,40 @@
       "slug": "geral",
       "label": "Geral",
       "stories": [
+        {
+          "clusterId": "0e55f039cc9107a0",
+          "slug": "d1c3b3f5f8f548ef",
+          "titulo": "Sete Catacumbas de Jaboticabal: fatos e lendas sobre febre amarela",
+          "resumo": "A lenda das Sete Catacumbas de Jaboticabal, SP, diz que sete espanhóis foram enterrados no Cemitério São Bom Jesus do Lazareto durante uma epidemia de febre amarela no final do século XIX. A história inclui relatos de corpos queimados e pessoas enterradas vivas, mas não há comprovação documental. O mito mistura elementos de morte, doença e assombração, sendo transmitido de geração em geração.",
+          "porQueImporta": "A história reflete como comunidades locais lidam com epidemias e memórias coletivas, influenciando a percepção cultural e turística da região.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/01/cheiro-de-carne-queimada-febre-amarela-o-que-e-fato-e-o-que-e-lenda-sobre-as-sete-catacumbas-de-jaboticabal-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-01T06:01:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dkienCzHIS6TjMX3_vl5_hY4bS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/g/jRKA7aTyKJitmmRmr3XQ/molduras-g1-99-.png"
+        },
+        {
+          "clusterId": "05217addb6bdc454",
+          "slug": "47e9ee4d40865dfc",
+          "titulo": "Biblioteca da USP vive de “solução temporária” cinco meses após alagamentos",
+          "resumo": "Biblioteca ficou interditada após alagamento em maio. Cinco meses depois, local permanece fechado e não há previsão para reabertura",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/biblioteca-da-usp-vive-de-solucao-temporaria-cinco-meses-apos-alagamentos"
+            }
+          ],
+          "updatedAt": "2026-11-01T05:15:39.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/10/2o-andar-goteiras-1.jpg"
+        },
         {
           "clusterId": "02a920bb840faccd",
           "slug": "d534f935b0813752",
@@ -338,74 +333,6 @@
           ],
           "updatedAt": "2026-10-31T21:15:14.000Z",
           "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/GettyImages-2251240347.jpg"
-        },
-        {
-          "clusterId": "2ab27185df3dd2b4",
-          "slug": "c064278c55fea678",
-          "titulo": "Camada esbranquiçada reduz visibilidade em Manaus",
-          "resumo": "Em Manaus, uma camada esbranquiçada reduziu a visibilidade no sábado (31). Dados de monitoramento apontam concentrações elevadas de material particulado fino (PM2,5). A meteorologista Andrea Ramos indica que a fumaça de queimadas tem participação relevante, mas não descarta a contribuição da umidade atmosférica.",
-          "porQueImporta": "O fenômeno pode afetar a mobilidade urbana e a saúde pública na capital.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/31/fumaca-ou-neblina-meteorologista-explica-camada-que-reduziu-visibilidade-em-manaus.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-31T21:09:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/TOh0bkNVh1wMR1AOMmUWaLTYchY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/M/9GhPTyRBuRDJNgyBifIg/captura-de-tela-2026-10-31-161210.png"
-        },
-        {
-          "clusterId": "14bb668cd4ea04a3",
-          "slug": "52238bb2104b1214",
-          "titulo": "Turista morre após afogamento na Praia Grande, em Arraial do Cabo",
-          "resumo": "O atendimento foi realizado por guarda-vidas do município e equipes do Serviço de Atendimento Móvel de Urgência (Samu). LN NOTÍCIAS Um turista de São Paulo, de 24 anos, morreu após se afogar na tarde deste sábado (31) na Praia Grande, em Arraial do Cabo, na Região dos Lagos do Rio. Segundo a Secretaria Municipal de Saúde, ele estava na cidade em uma excursão com a esposa. O atendimento foi realizado por guarda-vidas do município e equipes do Serviço de Atendimento Móvel de Urgência (Samu). O Corpo de Bombeiros também foi acionado para a ocorrência. A vítima foi socorrida e levada para o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/31/turista-morre-apos-afogamento-na-praia-grande-em-arraial-do-cabo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-31T20:55:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/KwR7daE0SZUO2GmJa5Bh1fCApXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/X/G0lcyBTdAABaJdtyZLKw/arraial-do-cabo-afogamento.png"
-        },
-        {
-          "clusterId": "58b12d9794d3c76b",
-          "slug": "728279c0f3bf96f8",
-          "titulo": "Jovem de 23 anos morre após bater moto contra poste em Diamantino (MT)",
-          "resumo": "Luan Espedito Cruz da Silva, de 23 anos, morreu vítima de um acidente em Diamantino (MT) Redes sociais Um jovem identificado como Luan Espedito Cruz da Silva, de 23 anos, morreu após bater a moto que pilotava contra um poste na Avenida Miguel Abib, em Diamantino, a 200 km de Cuiabá, na manhã deste sábado (31). Segundo a Polícia Militar, testemunhas relataram que a vítima trafegava pela avenida quando tentou ajustar o capacete e perdeu o controle da direção. Em seguida, bateu contra o canteiro central, atravessou a via, subiu na calçada e atingiu um poste de energia elétrica. Com o impacto, o…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/31/jovem-de-23-anos-morre-apos-bater-moto-contra-poste-em-diamantino-mt.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-31T20:52:05.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UR1Z3cOmPDoJWBM_UbPuQJFwPMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/ULSHr9QD2ItAX5B3Eanw/873072176-18099791774634641-7450423276388959332-n.jpg"
-        },
-        {
-          "clusterId": "7e2b82c386955f51",
-          "slug": "eb6903133380d722",
-          "titulo": "Acidente de trem na Espanha deixa 74 mortos",
-          "resumo": "Na manhã de 28 de outubro, dois trens colidiram nas proximidades de Urda, província de Toledo, Castilla-La Mancha, na Espanha. O impacto resultou em pelo menos 74 mortes e dezenas de feridos. A comunidade local mobilizou-se rapidamente, com ambulâncias, bombeiros e moradores ajudando nas primeiras horas.",
-          "porQueImporta": "Ilustra a gravidade de acidentes ferroviários e a importância da resposta imediata em comunidades afetadas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/10/30/nao-ha-palavras-para-descrever-a-dor-a-mobilizacao-de-um-vilarejo-para-ajudar-vitimas-de-acidente-de-trem-na-espanha.ghtml"
-            }
-          ],
-          "updatedAt": "2026-10-30T09:57:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zepWzEq1qcGeQUTqF3Tv9lGBDKo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/kaswrKQ6AQp7CF97hbLw/54826d7a-7361-4211-9434-20ea0f1d524b-1-.png"
         }
       ]
     },
@@ -414,7 +341,24 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "0c359d3c7b6493d6",
+          "clusterId": "9151acd4dd003355",
+          "slug": "7b2cb774c6b4e4cf",
+          "titulo": "Incêndio de grandes proporções atinge galpão de fábrica em Mauá",
+          "resumo": "Um incêndio de grandes proporções atingiu um galpão de fábrica de óleo mineral na Rua Rosa Kasinski, em Mauá, no ABC Paulista, neste sábado. O fogo começou pouco antes das 17h e exigiu a mobilização de pelo menos 21 viaturas, com atuação em três frentes e uso de espuma. A explosão de um compartimento com sódio resultou em uma vítima, que não precisou ser encaminhada ao hospital. O galpão fica próximo à estação Capuava.",
+          "porQueImporta": "O incidente envolve risco de explosão e pode afetar a segurança pública e a infraestrutura local.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/31/incendio-de-grandes-proporcoes-atinge-galpao-de-fabrica-em-maua-no-abc.ghtml"
+            }
+          ],
+          "updatedAt": "2026-10-31T23:45:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9kdQqbxqbrFC_kdLsl3ttlQQlA0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/F/T2T9CYTIyyzWqLE9FezQ/fotojet-98-.jpg"
+        },
+        {
+          "clusterId": "5bc674dcb1c19c3c",
           "slug": "2fc9072eb8d16a47",
           "titulo": "Incêndio destrói galpão de empresa nas proximidades da BR-040 em Ribeirão das Neves",
           "resumo": "Um galpão de empresa que trabalha com insumos inflamáveis, como capim e fibra de coco, foi consumido por um incêndio de grandes proporções próximo ao km 514,2 da BR-040, no bairro Nápoli, em Ribeirão das Neves. As chamas saíram do teto e permaneceram altas durante a noite. O local estava fechado e havia apenas um segurança, que não sofreu ferimentos. Seis viaturas do Corpo de Bombeiros foram mobilizadas para combater o fogo.",
@@ -425,31 +369,55 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/31/incendio-br-040-ribeirao-das-neves.ghtml"
-            },
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/minas-gerais/incendio-destroi-galpao-de-empresa-as-margens-da-br-040-na-grande-bh"
             }
           ],
-          "updatedAt": "2026-10-31T23:12:55.000Z",
+          "updatedAt": "2026-10-31T22:14:21.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/_w5L1Lzz-IrRN6bYgQ3Sl9x_uNQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/n/ikFnTKSlmmBXKJpfsQ1Q/51-56-mg2-acervo-31-oct-2026201.mxf.png"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "seca",
+      "label": "Seca",
+      "stories": [
         {
-          "clusterId": "7a5e6011530b655b",
-          "slug": "be5014dac0b5f604",
-          "titulo": "Incêndio em caminhão deixa ferido na Via Dutra em Jacareí",
-          "resumo": "Um caminhão teve a cabine incendiada na Rodovia Presidente Dutra, km 159, sentido São Paulo, no trecho de Jacareí, SP, por volta das 18h10. O fogo não atingiu o baú e o veículo ficou no acostamento. Uma pessoa ficou ferida e foi levada ao hospital. A Polícia Rodoviária Federal ainda não identificou a causa do incêndio.",
-          "porQueImporta": "O incidente destaca riscos de incêndios em veículos de carga em rodovias movimentadas, podendo afetar a segurança viária.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "1c964e3f194bbf97",
+          "slug": "b26acef30309b3eb",
+          "titulo": "Bolívia decreta estado de emergência por seca e enchentes causadas pelo super El Niño",
+          "resumo": "O presidente Rodrigo Paz decretou estado de emergência para enfrentar secas intensas e enchentes provocadas pelo super El Niño. A medida ampliará recursos financeiros e mobilizará equipes de resgate nas regiões mais afetadas. O governo afirma ter trabalhado para reduzir os impactos do fenômeno.",
+          "porQueImporta": "A decisão visa mitigar danos ambientais e sociais em meio a condições climáticas extremas.",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/31/video-incendio-em-caminhao-deixa-um-ferido-na-dutra-em-jacarei.ghtml"
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/31/bolivia-decreta-emergencia-por-seca-e-enchentes-causadas-pelo-super-el-nino.ghtml"
             }
           ],
-          "updatedAt": "2026-10-31T22:05:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MOoY_lqXRZnOIjynvi_9ZxEY2Z0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/9/5GWPAURCCssM02yITqDw/whatsapp-image-2026-10-31-at-18.20.30.jpeg"
+          "updatedAt": "2026-11-01T01:04:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/R_QJ2jeLgEyTn8j3ZIYk52YEIC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/7/OHRalxQOiWJ9KUUl0AUw/ezgif-3424fd218abc279f-ezgif.com-optimize.gif"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "ecacb9e8885609df",
+          "slug": "6420a0f40c154f41",
+          "titulo": "Amazonas registra queda de quase 40% nos focos de queimadas em outubro",
+          "resumo": "Em outubro, o estado do Amazonas registrou 2.258 focos de incêndio, representando quase 40% menos que no início do mês. O número de ocorrências acumuladas posicionou o estado na sexta posição do ranking nacional. A redução reflete esforços de monitoramento e combate às queimadas. O cenário ainda permanece alarmante, mas mostra progresso em relação ao início do mês.",
+          "porQueImporta": "A diminuição dos focos de incêndio indica avanços nas ações de prevenção e controle de queimadas na região.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/norte/am/amazonas-tem-queda-de-quase-40-nos-focos-de-queimadas-em-outubro-diz-inpe/"
+            }
+          ],
+          "updatedAt": "2026-10-31T23:39:27.000Z"
         }
       ]
     },
@@ -473,67 +441,6 @@
           ],
           "updatedAt": "2026-10-31T22:34:13.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/yFKpxnuYYjAAfh20yjCzWQ2jq-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/N/BoDgerSCOoz1Xlh22smQ/praia-do-forte.png"
-        },
-        {
-          "clusterId": "6acf76b56ad30700",
-          "slug": "20091755cdb00fc1",
-          "titulo": "Reitor da PUC-PR morto em acidente nos EUA será velado em Curitiba",
-          "resumo": "O reitor da PUC-PR, Rogério Renato Mateucci, faleceu após ser atingido na cabeça durante uma viagem ao Arizona. O velório está marcado para a próxima quarta-feira na capital paranaense. A morte ocorreu em circunstâncias de acidente. O evento será conduzido pelas autoridades da universidade e da cidade.",
-          "porQueImporta": "A perda de um líder acadêmico afeta a comunidade universitária e a gestão da instituição.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/reitor-da-puc-pr-morto-em-acidente-nos-eua-sera-velado-em-curitiba/"
-            }
-          ],
-          "updatedAt": "2026-10-31T17:58:43.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "0e0d774648e6c61e",
-          "slug": "09accf66e3c8e04e",
-          "titulo": "Tempestade tropical inunda estado mexicano e carros são arrastados ao mar",
-          "resumo": "Uma tempestade tropical atingiu o estado mexicano, causando inundações que arrastaram veículos para o mar. Pelo menos duas pessoas morreram presas em uma ponte enquanto o carro era levado pela correnteza. A forte correnteza também deslocou outros veículos para a água. A ocorrência resultou em fatalidades e danos significativos à infraestrutura local.",
-          "porQueImporta": "O evento demonstra o risco de desastres naturais em áreas costeiras, destacando a necessidade de medidas de segurança e evacuação.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/tempestade-tropical-inunda-estado-mexicano-e-carros-sao-arrastados-ao-mar"
-            }
-          ],
-          "updatedAt": "2026-10-31T21:13:43.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/10/carros-mar-enchente-mexico.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "76dda5b34a43c238",
-          "slug": "ee4d4c847f0c61c9",
-          "titulo": "Defesa Civil alerta para chuva forte em Belo Horizonte",
-          "resumo": "A Defesa Civil de Belo Horizonte emitiu alerta de chuva forte com pancadas, raios e ventos de até 50 km/h. O aviso se estende até 1º de novembro. A previsão inclui possibilidade de chuvas intensas e condições de risco para a população.",
-          "porQueImporta": "O alerta visa prevenir acidentes e danos causados por condições meteorológicas adversas na capital mineira.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-brasil/defesa-civil-alerta-para-chuva-forte-em-belo-horizonte/"
-            }
-          ],
-          "updatedAt": "2026-10-31T21:08:06.000Z"
         }
       ]
     },
