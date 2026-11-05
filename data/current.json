@@ -1,176 +1,173 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T12:40:43.907Z",
+  "generatedAt": "2026-11-05T22:12:17.023Z",
   "home": [
     {
-      "clusterId": "e5d2bbd9f4b01aa3",
-      "slug": "4b11f01c79167b10",
-      "titulo": "Chuva forte e ventos derrubam árvores e causam interrupções no interior de São Paulo",
-      "resumo": "Na tarde e noite de quarta-feira, ventos fortes associados a chuvas provocaram a queda de nove árvores na Rodovia Assis Chateaubriand em Martinópolis e de outras em Rancharia. Em Ourinhos, a tempestade causou destelhamento e interrupção no fornecimento de energia elétrica. A Defesa Civil mantém alerta laranja para risco de temporais em grande parte do estado, com previsão de instabilidades até o fim de semana.",
-      "porQueImporta": "As quedas de árvores e a falta de energia podem representar risco à segurança pública e à infraestrutura local.",
+      "clusterId": "5fe6595fb1d5ec31",
+      "slug": "712b78b967448dda",
+      "titulo": "Carro invadiu loja em Manaus e deixou atendente ferida",
+      "resumo": "Um Jeep Renegade perdeu o controle e invadiu a loja de roupas Guta Store na Avenida João Valério, bairro Vieralves, em Manaus, por volta das 16h30. A condutora alegou ter dormido ao volante. A atendente do estabelecimento ficou ferida e o Serviço de Atendimento Móvel de Urgência foi acionado.",
+      "porQueImporta": "O incidente destaca a importância da segurança no trânsito e dos procedimentos de emergência em áreas urbanas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/05/video-carro-invade-loja-e-deixa-atendente-ferida-no-vieralves-em-manaus.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-05T22:00:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/db5GyWQPOsfZU6FHAFMBKOaoev4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/78B06DSVOcWBkzpYVdsw/carro.png"
+    },
+    {
+      "clusterId": "eba6582b2c0501bd",
+      "slug": "bd823bfb48f83527",
+      "titulo": "Temporal transforma ruas em \"piscinão\" e provoca transtornos em BH",
+      "resumo": "Um temporal intenso causou inundações nas ruas de Belo Horizonte, transformando-as em grandes poças de água. A região da Pampulha foi uma das mais afetadas, com ruas inundadas e mobilidade comprometida. As autoridades emitiram alerta para rajadas de vento de até 50 km/h, pedindo cautela aos moradores. O evento gerou transtornos significativos no tráfego e na rotina dos habitantes.",
+      "porQueImporta": "O fenômeno compromete a mobilidade urbana e pode representar risco à segurança pública.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/05/chuva-forte-causa-queda-de-arvores-destelhamentos-e-falta-de-energia-no-interior-de-sp.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/video-temporal-transforma-ruas-em-piscinao-e-provoca-transtornos-em-bh/"
         }
       ],
-      "updatedAt": "2026-11-05T12:33:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4mwtXOyym8ylNjNb7u2xeat3A-k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/f/A4dB2HR8y81DBMSHkwqA/design-sem-nome-2026-11-05t075851.536.png"
+      "updatedAt": "2026-11-05T22:00:28.000Z"
     },
     {
-      "clusterId": "7fbee6f8026ab324",
-      "slug": "db4fda9849b5c76e",
-      "titulo": "Colisão entre carro e caminhão deixa quatro feridos em Araçoiaba da Serra",
-      "resumo": "Quatro pessoas ficaram feridas após colisão entre automóvel e caminhão na Rodovia Raposo Tavares, quilômetro 113,5, em Araçoiaba da Serra. O socorro foi acionado às 5h54, na alça de saída da via. Entre os feridos, uma está em estado grave, outra com ferimentos moderados e duas com ferimentos leves.",
-      "porQueImporta": "O acidente demonstra risco de trânsito em rodovias estaduais, afetando a segurança dos usuários.",
+      "clusterId": "712e2aa05aa40731",
+      "slug": "4ffc5380a53f77c2",
+      "titulo": "Motorista preso após atropelar duas jovens em Abaetetuba",
+      "resumo": "Um motorista em Abaetetuba, Pará, atropelou duas jovens que estavam em motocicleta e fugiu sem prestar socorro. O acidente ocorreu no domingo e foi registrado por câmeras de segurança. O condutor tentou fazer uma conversão irregular na contramão, avançando sobre a pista e colidindo com a motocicleta. A Polícia Civil prendeu o motorista na quarta-feira.",
+      "porQueImporta": "O caso destaca a gravidade de manobras perigosas e a falha em prestar socorro às vítimas.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/05/batida-entre-carro-e-caminhao-deixa-quatro-pessoas-feridas-em-aracoiaba-da-serra.ghtml"
+          "url": "https://g1.globo.com/pa/para/noticia/2026/11/05/motorista-que-atropelou-duas-jovens-e-fugiu-sem-prestar-socorro-e-preso-em-abaetetuba-no-para.ghtml"
         }
       ],
-      "updatedAt": "2026-11-05T12:31:24.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/eU-jt3C1ly4HbQdZZ9zI5i0mKi8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/P/SnbAYSTgGMu1yOhugrkw/fundo-desfocado.png"
+      "updatedAt": "2026-11-05T21:59:48.000Z"
     },
     {
-      "clusterId": "3374e2b1a2f51161",
-      "slug": "03f223cc6d8d7887",
-      "titulo": "Moradores do Jardim Maravilha enfrentam ruas alagadas após temporal",
-      "resumo": "Moradores do Jardim Maravilha, em Guaratiba, ficaram ilhados em alguns pontos após forte chuva que atingiu a cidade durante a madrugada. Parte da Avenida Campo Mourão ficou alagada, com água ultrapassando a altura dos tornozelos em trechos. A situação dificultou a passagem de pedestres e impediu a circulação de carros de passeio. Os moradores usam galochas para tentar atravessar as ruas alagadas.",
-      "porQueImporta": "A inundação bloqueia vias de acesso e impede o deslocamento normal da população.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/11/05/moradores-do-jardim-maravilha-voltam-a-enfrentar-ruas-alagadas-apos-temporal-da-madrugada.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-05T12:30:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Ciz8Nj9rUg3mtg9vVi7-Ogcxl9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/V/EkK9w5SSidxRU37RvFqw/imagem-cortada-2026-11-05t091611.194.jpg"
-    },
-    {
-      "clusterId": "cd8267d62334a364",
-      "slug": "5cefaea643cb9cbd",
-      "titulo": "Moradores cobram obras de contenção após alerta para risco de deslizamentos em Itaperuna",
-      "resumo": "A Defesa Civil alertou para possibilidade de temporais e deslizamentos de terra em Itaperuna, no Noroeste Fluminense, devido aos efeitos do El Niño. O trecho do Morro do Cristo continua oferecendo riscos, levando à interrupção da circulação de ônibus. Moradores exigem a conclusão de obras de contenção e outras ações preventivas pelo poder público.",
-      "porQueImporta": "O risco de deslizamentos pode colocar em perigo a vida dos moradores e a mobilidade urbana da região.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/05/moradores-cobram-obras-de-contencao-apos-alerta-para-risco-de-deslizamentos-em-itaperuna.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-05T12:21:28.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/EvXDA22a8KWV31queAk-SF3blaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/0/4xmuitRZSBiipNFk9eUg/itaperuna-morro-do-cristo.png"
-    },
-    {
-      "clusterId": "b68dae867ce4b9b0",
-      "slug": "8a6f664c7b5d58ea",
-      "titulo": "Agricultor tem moradia destruída por temporal no Rio Grande do Sul",
-      "resumo": "Entre os mais de 300 afetados pelos temporais no Rio Grande do Sul, o agricultor Jonas Zoia perdeu a casa em Tuparendi, no noroeste do estado. A residência, onde morava com a esposa, foi totalmente destruída. A família ficou sem abrigo, enquanto as autoridades continuam a atender os deslocados. O caso destaca a vulnerabilidade das comunidades rurais diante de eventos climáticos extremos.",
-      "porQueImporta": "Ilustra o impacto direto de eventos climáticos na segurança e bem‑estar de famílias rurais.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/05/temporal-rs-casas-destruidas-familias-fora-de-casa-sem-luz.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-05T12:17:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/_zvrrkliLtd7oqT-GHXhJH-c7C8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/p/CVBrJXQGuqpobKrJ7ZRw/g1-15-.jpg"
-    },
-    {
-      "clusterId": "65c400373134901f",
-      "slug": "1733a3792835dbbc",
-      "titulo": "Vídeo flagra sequência de curtos-circuitos em rede elétrica no Centro de Piracicaba durante temporal",
-      "resumo": "Curtos-circuitos em sequência assustam moradores em Piracicaba Imagens de câmeras de segurança registraram uma sequência de curtos-circuitos na rede elétrica durante um temporal com ventos intensos na região central de Piracicaba (SP), na noite desta quarta-feira (4). Um vídeo recebido pela EPTV, afiliada da Globo para Piracicaba e região, mostra pelo menos três curtos-circuitos, com clarões seguidos de faíscas na rede elétrica, em um trecho do cruzamento da Rua Boa Morte com a Rua José Ferraz de Carvalho. No vídeo, também é possível perceber a força do vento no momento. O curto-circuito…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/05/video-flagra-sequencia-de-curtos-circuitos-em-rede-eletrica-no-centro-de-piracicaba-durante-temporal.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-05T12:15:38.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/gPl8Kb3pzd6hIQV-9zK3pBBE0TY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/J/GbBt0cTymk4g1VslP7yA/curtos.jpg"
-    },
-    {
-      "clusterId": "eb3b1bd7d78376e3",
-      "slug": "693262bd044b06a1",
-      "titulo": "Caminhoneiro gravemente ferido em colisão entre três veículos na AMG-215",
-      "resumo": "Um caminhoneiro de 40 anos ficou gravemente ferido após colisão envolvendo uma caminhonete, uma carreta e um caminhão na AMG-215, em São Sebastião do Oeste, Minas. O motorista ficou preso às ferragens e foi socorrido pelo Corpo de Bombeiros. O Serviço de Atendimento Móvel de Urgência o transportou para a Sala Vermelha do Complexo de Saúde São João de Deus, em Divinópolis.",
-      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias de tráfego intenso.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/05/batida-entre-tres-veiculos-deixa-caminhoneiro-gravemente-ferido-na-amg-215.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-05T12:15:27.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/8gTsPVFS8N77L3svO4hCBt6FDsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/R/tqKszzQdChrPujsz5mYw/whatsapp-image-2026-11-05-at-09.01.17.jpeg"
-    },
-    {
-      "clusterId": "338efe70f5ff7201",
-      "slug": "ec89422a3081a2cf",
-      "titulo": "Fogo em transporte escolar deixa criança de 5 anos dentro do veículo",
-      "resumo": "Um veículo usado no transporte escolar em Laranjal, Paraná, pegou fogo enquanto estava com uma criança de 5 anos a bordo. O incêndio começou quando o veículo iniciava a rota para a escola, antes de pegar os demais alunos. O motorista retirou a criança a tempo, que não sofreu lesões, e ele também não se feriu. A polícia está investigando a situação.",
-      "porQueImporta": "O incidente destaca riscos de segurança em transportes escolares rurais.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/05/fogo-toma-conta-de-transporte-escolar-com-crianca-de-5-anos-dentro-no-parana-policia-investiga-a-situacao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-05T12:11:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/SmDM2z3wGGWVA83YsY9hg5RBask=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/P/wcST4RRNmgbInwnr2bGg/g1-2-.png"
-    },
-    {
-      "clusterId": "fc09cce93379f83e",
-      "slug": "bd2acefc37da33fd",
-      "titulo": "Menino de 12 anos é resgatado após ter pé perfurado por vergalhão em córrego de Jacareí",
-      "resumo": "Um menino de 12 anos foi resgatado pelo Corpo de Bombeiros depois de ter o pé esquerdo perfurado por um vergalhão enquanto nadava em um córrego na Estrada do Campo Grande, em Jacareí, interior de São Paulo. O acidente ocorreu na quarta-feira (4) e a ocorrência foi comunicada na manhã da quinta (5). O vergalhão era uma barra de aço usada na construção civil.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança em corpos d'água e a importância de respostas rápidas de serviços de emergência.",
+      "clusterId": "11be8b223b91a1db",
+      "slug": "6db101407d8fa068",
+      "titulo": "Homem morre após ser atingido por raio enquanto trabalhava em telhado na zona rural de Ariquemes",
+      "resumo": "Um homem de 61 anos, Sirinei Aparecido de Oliveira, morreu ao ser atingido por um raio enquanto mantinha o telhado de um barracão em Ariquemes, Rondônia. O acidente ocorreu no Travessão B-40 Sul, sentido distrito de Joelândia, na tarde de quinta-feira. Nenhuma outra pessoa ficou ferida. A Polícia Civil realizou perícia para apurar as circunstâncias.",
+      "porQueImporta": "O incidente destaca os riscos de trabalho em áreas expostas a tempestades e a necessidade de precauções de segurança.",
       "categoria": "Acidente",
       "categoriaSlug": "acidente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/05/menino-de-12-anos-e-resgatado-apos-ter-pe-perfurado-por-vergalhao-em-corrego-de-jacarei-no-interior-de-sp.ghtml"
+          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/05/homem-morre-apos-ser-atingido-por-raio-enquanto-trabalhava-em-telhado-na-zona-rural-de-ariquemes-ro.ghtml"
         }
       ],
-      "updatedAt": "2026-11-05T12:06:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/c6O6IFew6TCY7Xj2s-u_cK1-qRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/t/0UPQUGThAhnxArcAoYpQ/foto-g1-49-.png"
+      "updatedAt": "2026-11-05T21:58:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/SpLqUbUL09hxYtLQ9mvYK94F69c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/M/vnkaa2TrSXyzn3g6AXpw/design-sem-nome-15-.png"
     },
     {
-      "clusterId": "a3541dc247e326b8",
-      "slug": "f26cd0f03c718d6f",
-      "titulo": "De detalhes sobre Leo a Marília fazer história, Maiara emociona com carta nos cinco anos da morte da cantora",
-      "resumo": "A cantora Marília Mendonça morreu em um acidente aéreo em novembro de 2021 Divulgação/Globoplay A cantora Maiara emocionou internautas com uma carta dedicada à Marília Mendonça nesta quinta-feira (5), data em que completa 5 anos da morte da cantora. Na homenagem, a amiga disse que Marília continua presente em tudo, nos palcos, nos repertórios, nas rádios, na rua e no coração do Brasil. Além disso, ela destacou o crescimento do filho da artista, Leo. \"Você continua fazendo história, sendo referência e transformando o impossível em possível. O Leo está cada vez mais lindo, inteligente e mais…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "clusterId": "589b5aeec89ff605",
+      "slug": "d773b8152dfefb55",
+      "titulo": "Temporal deixa quase 27 mil imóveis sem energia em BH",
+      "resumo": "Um forte temporal atingiu Belo Horizonte, causando quedas de árvores e objetos que danificaram a rede elétrica. A Companhia Energética de Minas Gerais relatou que 26.900 imóveis ficaram sem luz, cerca de 2,7% dos clientes na capital. As regiões Noroeste, Pampulha e Leste foram as mais afetadas. A Cemig prevê que a energia será restabelecida durante a noite.",
+      "porQueImporta": "A interrupção de energia afetou milhares de moradores e pode impactar serviços essenciais.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/05/temporal-deixa-quase-27-mil-imoveis-sem-energia-em-bh-diz-cemig.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-05T21:36:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DrtqgtO7vLvtbw9AeDHWEojMRZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/n/gDBZz6T8AGmNBwz6BPlQ/gif-chuva.gif"
+    },
+    {
+      "clusterId": "3c16fd2d6a0cb481",
+      "slug": "93c369ad7e57ecf6",
+      "titulo": "Tornado destila Aeroporto de Chapecó",
+      "resumo": "Na última quarta-feira, um tornado atingiu o Aeroporto Serafim Enoss Bertaso, em Chapecó, Santa Catarina, causando danos que impediram a reabertura do aeroporto. As autoridades ainda não estabeleceram previsão de retorno das operações. O local permanece fechado enquanto as equipes avaliam os prejuízos e planejam as reparações.",
+      "porQueImporta": "O fechamento do aeroporto afeta a mobilidade regional e pode impactar o transporte de passageiros e cargas na região.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/aeroporto-de-chapeco-segue-sem-previsao-de-reabertura-apos-tornado/"
+        }
+      ],
+      "updatedAt": "2026-11-05T21:25:44.000Z"
+    },
+    {
+      "clusterId": "c4780823e4d40a59",
+      "slug": "5b9baff6894b22b4",
+      "titulo": "Mulher encontrada morta na linha férrea de Salto",
+      "resumo": "Uma mulher foi localizada morta na linha férrea do Jardim Marília, em Salto, SP, com lesões e sinais de atropelamento. O corpo ainda não foi identificado. Equipes de perícia científica foram acionadas para preservar o local. O caso será investigado pela Polícia Civil de Itu.",
+      "porQueImporta": "Revela a vulnerabilidade de pessoas em áreas de tráfego ferroviário.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/05/policia-investiga-morte-de-mulher-encontrada-em-linha-ferrea-em-salto.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-05T21:19:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/31gBeA8pJlZQXqL2k7NkEcziHTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/j/CXn86lQrqMoKvOGHaMnA/14589804-2026-11-05t170132.486.png"
+    },
+    {
+      "clusterId": "71e14729a1e0d513",
+      "slug": "2368e3db3454ed20",
+      "titulo": "Morte de Raquel Las-Casas em acidente de trânsito",
+      "resumo": "Raquel Las-Casas, irmã da ex-jogadora de vôlei Sheilla Castro, faleceu em acidente de trânsito em rodovia mineira. O incidente ocorreu quando o veículo em que ela estava colidiu com outro. As autoridades investigam as circunstâncias do acidente. A família lamenta a perda da artista.",
+      "porQueImporta": "O falecimento de uma figura pública próxima a uma atleta conhecida gera atenção e compaixão na comunidade.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/quem-era-raquel-las-casas-irma-da-ex-jogadora-de-volei-sheilla-castro"
+        }
+      ],
+      "updatedAt": "2026-11-05T21:18:22.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/capa-raquel.jpg"
+    },
+    {
+      "clusterId": "2a599992ca14a7ad",
+      "slug": "39a085de2f3c3fac",
+      "titulo": "Jovem morre após cair do 7º andar de hotel em São Luís",
+      "resumo": "Uma jovem de 26 anos caiu do sétimo andar de um hotel no bairro Ponta d’Areia, em São Luís, e faleceu. O acidente gerou questionamentos sobre a segurança de janelas e estruturas de edifícios. O Corpo de Bombeiros Militar do Maranhão realizou vistoria no local, mas os resultados ainda não foram divulgados.",
+      "porQueImporta": "O caso destaca a necessidade de fiscalização e cumprimento de normas de segurança em edificações públicas e privadas.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/go/goias/noticia/2026/11/05/maiara-emociona-com-carta-a-marilia-mendonca-nos-cinco-anos-da-morte-da-cantora-leo-cada-vez-mais-parecido-com-voce.ghtml"
+          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/11/05/apos-queda-de-jovem-do-7o-andar-de-hotel-no-ma-especialistas-explicam-regras-de-seguranca-para-janelas-em-edificios.ghtml"
         }
       ],
-      "updatedAt": "2026-11-05T12:03:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/90JNGd0oxYcnt_FhBTUkJ6dTiFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/V/Uu8KIVQFCwkQ0dMacwKg/marilia-mendonca-sertaneja.jpg"
+      "updatedAt": "2026-11-05T21:14:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/fyXAW1bs1TbI6jsGwdXKoc2gEI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/T/QjKoYkT0uBjKo1LzV7Hg/montagens-1920-x-1080-px-2026-11-03t102431.066.png"
+    },
+    {
+      "clusterId": "dcf113a0454dbfd8",
+      "slug": "134e448393e316e4",
+      "titulo": "Vendaval com ventos de até 110 km/h derruba seis torres e deixa cidades sem energia em MS",
+      "resumo": "Um vendaval com rajadas de até 110 km/h atingiu a região de Maracaju, a 160 km de Campo Grande, derrubando seis torres de transmissão de energia. O temporal ocorreu por volta das 13h40, segundo a Energisa, concessionária local. Sete municípios – Jardim, Porto Murtinho, Bela Vista, Caracol, Nioaque, Antônio João e Guia Lopes de … – ficaram sem luz.",
+      "porQueImporta": "A queda das torres interrompeu o fornecimento de energia para várias comunidades, afetando serviços essenciais.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/05/vendaval-com-ventos-de-ate-110-kmh-derruba-seis-torres-e-deixa-cidades-sem-energia-em-ms.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-05T21:11:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/D_X-ctYkrdL-PmUT73YiZCIgaMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/T/W1APVAS46A5Ho4UOPqOA/para-o-g1-2026-11-05t170922.893.jpg"
     }
   ],
   "categorias": [
@@ -179,41 +176,75 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "65c400373134901f",
-          "slug": "1733a3792835dbbc",
-          "titulo": "Vídeo flagra sequência de curtos-circuitos em rede elétrica no Centro de Piracicaba durante temporal",
-          "resumo": "Curtos-circuitos em sequência assustam moradores em Piracicaba Imagens de câmeras de segurança registraram uma sequência de curtos-circuitos na rede elétrica durante um temporal com ventos intensos na região central de Piracicaba (SP), na noite desta quarta-feira (4). Um vídeo recebido pela EPTV, afiliada da Globo para Piracicaba e região, mostra pelo menos três curtos-circuitos, com clarões seguidos de faíscas na rede elétrica, em um trecho do cruzamento da Rua Boa Morte com a Rua José Ferraz de Carvalho. No vídeo, também é possível perceber a força do vento no momento. O curto-circuito…",
+          "clusterId": "2a599992ca14a7ad",
+          "slug": "39a085de2f3c3fac",
+          "titulo": "Jovem morre após cair do 7º andar de hotel em São Luís",
+          "resumo": "Uma jovem de 26 anos caiu do sétimo andar de um hotel no bairro Ponta d’Areia, em São Luís, e faleceu. O acidente gerou questionamentos sobre a segurança de janelas e estruturas de edifícios. O Corpo de Bombeiros Militar do Maranhão realizou vistoria no local, mas os resultados ainda não foram divulgados.",
+          "porQueImporta": "O caso destaca a necessidade de fiscalização e cumprimento de normas de segurança em edificações públicas e privadas.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/11/05/apos-queda-de-jovem-do-7o-andar-de-hotel-no-ma-especialistas-explicam-regras-de-seguranca-para-janelas-em-edificios.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-05T21:14:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fyXAW1bs1TbI6jsGwdXKoc2gEI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/T/QjKoYkT0uBjKo1LzV7Hg/montagens-1920-x-1080-px-2026-11-03t102431.066.png"
+        },
+        {
+          "clusterId": "ba12d9e9b67837c4",
+          "slug": "cee1e2f36e733409",
+          "titulo": "Motociclista morre atropelado após bater em caminhão na BR-101",
+          "resumo": "Acidente deixa motociclista morto e causa engarrafamento na BR-101, em Jaboatão Um motociclista morreu após um acidente, na tarde desta quinta-feira (5), na BR-101, em Jaboatão dos Guararapes, no Grande Recife. Segundo a Polícia Rodoviária Federal (PRF), o piloto bateu num caminhão e foi atropelado ao cair na pista. O nome da vítima, que tinha 36 anos, não foi divulgado. Imagens gravadas por um motorista que passou pelo local mostram um grande engarrafamento no trecho onde houve o acidente (veja vídeo acima). ✅ Receba no WhatsApp as notícias do g1 PE A batida aconteceu por volta das 12h30, no…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/05/video-flagra-sequencia-de-curtos-circuitos-em-rede-eletrica-no-centro-de-piracicaba-durante-temporal.ghtml"
+              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/05/motociclista-morre-atropelado-apos-bater-em-caminhao-na-br-101.ghtml"
             }
           ],
-          "updatedAt": "2026-11-05T12:15:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gPl8Kb3pzd6hIQV-9zK3pBBE0TY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/J/GbBt0cTymk4g1VslP7yA/curtos.jpg"
+          "updatedAt": "2026-11-05T20:44:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hpBvivcfKimUOBSLwzsq9d4yRI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/Yc4cUbSPSSNualoWxLXg/ne2-gcop-frame-75598.jpeg"
         },
         {
-          "clusterId": "a3541dc247e326b8",
-          "slug": "f26cd0f03c718d6f",
-          "titulo": "De detalhes sobre Leo a Marília fazer história, Maiara emociona com carta nos cinco anos da morte da cantora",
-          "resumo": "A cantora Marília Mendonça morreu em um acidente aéreo em novembro de 2021 Divulgação/Globoplay A cantora Maiara emocionou internautas com uma carta dedicada à Marília Mendonça nesta quinta-feira (5), data em que completa 5 anos da morte da cantora. Na homenagem, a amiga disse que Marília continua presente em tudo, nos palcos, nos repertórios, nas rádios, na rua e no coração do Brasil. Além disso, ela destacou o crescimento do filho da artista, Leo. \"Você continua fazendo história, sendo referência e transformando o impossível em possível. O Leo está cada vez mais lindo, inteligente e mais…",
+          "clusterId": "1c31cd679ad51099",
+          "slug": "e74c8b44528cba8b",
+          "titulo": "VÍDEO: homem morre após acidente com motocicleta elétrica em Salvador",
+          "resumo": "Homem morre após acidente em Stella Maris Um homem de 38 anos morreu após sofrer um acidente com a motocicleta elétrica que pilotava, na tarde desta quinta-feira (5), no bairro de Stella Maris, em Salvador. Segundo a Superintendência de Trânsito (Transalvador), o caso aconteceu em um trecho da rua Capitão Melo, uma das principais vias do bairro. Uma câmera de segurança instalada na região filmou a situação. (Assista acima) Nas imagens, é possível ver que o condutor do veículo perdeu o controle da direção e, em seguida, tombou com o veículo. A motocicleta caiu por cima do corpo. 📲 Clique aqui…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/11/05/maiara-emociona-com-carta-a-marilia-mendonca-nos-cinco-anos-da-morte-da-cantora-leo-cada-vez-mais-parecido-com-voce.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/05/homem-morre-apos-acidente-em-salvador.ghtml"
             }
           ],
-          "updatedAt": "2026-11-05T12:03:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/90JNGd0oxYcnt_FhBTUkJ6dTiFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/V/Uu8KIVQFCwkQ0dMacwKg/marilia-mendonca-sertaneja.jpg"
+          "updatedAt": "2026-11-05T20:20:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/5tFeJrP67dOu1VuJDydSEnZQozI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/w/bIWSWRQWuZlxtDksZAcA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-11-05t170435.848.jpg"
         },
         {
-          "clusterId": "1d99abfce81606e6",
+          "clusterId": "f4e3720dcf6077e7",
+          "slug": "df54d962ed3270a8",
+          "titulo": "VÍDEO: trecho de ponte cede após fortes chuvas entre Sarutaiá e Timburi",
+          "resumo": "Trecho de ponte cede após fortes chuvas entre Sarutaiá e Timburi Parte do asfalto cedeu e uma cratera se abriu em um trecho de uma ponte entre os municípios de Sarutaiá e Timburi (SP), na manhã desta quinta-feira (5). Ninguém ficou ferido. Imagens enviadas ao g1 mostram uma forte enxurrada às margens da estrada. A força da água provoca erosão no barranco e compromete a estrutura da via, deixando parte do terreno exposta. No vídeo, também é possível ver o grande volume de água que desce pelo trecho e avança pela área de vegetação. Assista acima. 📲 Participe do canal do g1 Itapetininga e…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/05/video-trecho-de-ponte-cede-apos-fortes-chuvas-entre-sarutaia-e-timburi.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-05T20:17:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gZTT1Kho5oMXtoQrpBGUYvMFe_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/D/iN03bWRkAF0O78tYun3A/whatsapp-image-2026-11-05-at-17.11.51.jpg"
+        },
+        {
+          "clusterId": "4ae97cebe0cd06d8",
           "slug": "5465887867972617",
           "titulo": "Democratas vencem eleições dos EUA em meio a aumento de votos antecipados e protesto contra Trump",
           "resumo": "Nas eleições de terça-feira (3) nos Estados Unidos, o Partido Democrata obteve vitória histórica nas midterms, impulsionada por protesto contra Donald Trump, aumento de votos antecipados e a entrada de democratas carismáticos. A combinação desses fatores gerou a chamada \"onda azul\" que favoreceu o partido de oposição.",
@@ -226,40 +257,8 @@
               "url": "https://g1.globo.com/mundo/noticia/2026/11/04/latinos-guerra-votacao-antecipada-o-que-explica-a-onda-azul-que-deu-ao-partido-democrata-uma-vitoria-historica-nos-eua.ghtml"
             }
           ],
-          "updatedAt": "2026-11-05T12:01:28.000Z",
+          "updatedAt": "2026-11-05T03:00:01.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/diFY7lm4qs2gQKcWx-a3N3Yaqzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/nSbkTgTtila83VASY0GA/2026-11-02t203404z-53214534-rc2vfoa5byp8-rtrmadp-3-usa-trump-lincolnmemorial.jpg"
-        },
-        {
-          "clusterId": "9734fa2c04740658",
-          "slug": "bdb076c98124f14e",
-          "titulo": "Tornados e tempestades: veja estragos causados por fenômenos no Sul do país",
-          "resumo": "Santa Catarina registrou dois tornados e ventos de mais de 130 km/h, além de uma morte na cidade de Rio Negrinho; no Rio Grande do Sul, chuva forte com queda de granizo deixou 25 feridos",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/tornados-e-tempestades-veja-estragos-causados-por-fenomenos-no-sul-do-pais/"
-            }
-          ],
-          "updatedAt": "2026-11-05T11:02:10.000Z"
-        },
-        {
-          "clusterId": "7a5980f956380e81",
-          "slug": "99c469034396f99f",
-          "titulo": "O que virada democrata nos EUA pode significar para Irã, Israel e Ucrânia",
-          "resumo": "Irã, Israel e Ucrânia observam como uma derrota eleitoral de Trump após \"tsunami azul\" pode moldar sua política externa",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/eleicoes-de-meio-de-mandato-dos-eua-impacto-ira-israel-ucrania/"
-            }
-          ],
-          "updatedAt": "2026-11-05T09:30:15.000Z"
         },
         {
           "clusterId": "5af7933abe097421",
@@ -294,97 +293,6 @@
           ],
           "updatedAt": "2026-11-04T13:34:31.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7a9/live/7173e670-d7cb-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "clusterId": "ad34ebd171229934",
-          "slug": "ac0329b8324ca8f4",
-          "titulo": "Jogador de futebol espanhol morre após colisão com goleiro",
-          "resumo": "Jesus de Miguel, atacante do Tenerife, de 30 anos, sofreu parada cardíaca depois de colidir com o goleiro durante partida da segunda divisão espanhola. O acidente ocorreu no campo e o jogador foi levado ao hospital, onde faleceu. O incidente foi confirmado pela equipe e pela liga. O caso destaca os riscos de lesões graves em esportes de contato.",
-          "porQueImporta": "O falecimento de um atleta em atividade evidencia a necessidade de protocolos de segurança e monitoramento de saúde em competições esportivas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cv1j3177ren3o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-11-03T14:39:04.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0671/live/df2634f0-d773-11f1-a956-ff083523ef77.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "7fbee6f8026ab324",
-          "slug": "db4fda9849b5c76e",
-          "titulo": "Colisão entre carro e caminhão deixa quatro feridos em Araçoiaba da Serra",
-          "resumo": "Quatro pessoas ficaram feridas após colisão entre automóvel e caminhão na Rodovia Raposo Tavares, quilômetro 113,5, em Araçoiaba da Serra. O socorro foi acionado às 5h54, na alça de saída da via. Entre os feridos, uma está em estado grave, outra com ferimentos moderados e duas com ferimentos leves.",
-          "porQueImporta": "O acidente demonstra risco de trânsito em rodovias estaduais, afetando a segurança dos usuários.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/05/batida-entre-carro-e-caminhao-deixa-quatro-pessoas-feridas-em-aracoiaba-da-serra.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-05T12:31:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/eU-jt3C1ly4HbQdZZ9zI5i0mKi8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/P/SnbAYSTgGMu1yOhugrkw/fundo-desfocado.png"
-        },
-        {
-          "clusterId": "eb3b1bd7d78376e3",
-          "slug": "693262bd044b06a1",
-          "titulo": "Caminhoneiro gravemente ferido em colisão entre três veículos na AMG-215",
-          "resumo": "Um caminhoneiro de 40 anos ficou gravemente ferido após colisão envolvendo uma caminhonete, uma carreta e um caminhão na AMG-215, em São Sebastião do Oeste, Minas. O motorista ficou preso às ferragens e foi socorrido pelo Corpo de Bombeiros. O Serviço de Atendimento Móvel de Urgência o transportou para a Sala Vermelha do Complexo de Saúde São João de Deus, em Divinópolis.",
-          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias de tráfego intenso.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/05/batida-entre-tres-veiculos-deixa-caminhoneiro-gravemente-ferido-na-amg-215.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-05T12:15:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/8gTsPVFS8N77L3svO4hCBt6FDsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/R/tqKszzQdChrPujsz5mYw/whatsapp-image-2026-11-05-at-09.01.17.jpeg"
-        },
-        {
-          "clusterId": "338efe70f5ff7201",
-          "slug": "ec89422a3081a2cf",
-          "titulo": "Fogo em transporte escolar deixa criança de 5 anos dentro do veículo",
-          "resumo": "Um veículo usado no transporte escolar em Laranjal, Paraná, pegou fogo enquanto estava com uma criança de 5 anos a bordo. O incêndio começou quando o veículo iniciava a rota para a escola, antes de pegar os demais alunos. O motorista retirou a criança a tempo, que não sofreu lesões, e ele também não se feriu. A polícia está investigando a situação.",
-          "porQueImporta": "O incidente destaca riscos de segurança em transportes escolares rurais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/05/fogo-toma-conta-de-transporte-escolar-com-crianca-de-5-anos-dentro-no-parana-policia-investiga-a-situacao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-05T12:11:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SmDM2z3wGGWVA83YsY9hg5RBask=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/P/wcST4RRNmgbInwnr2bGg/g1-2-.png"
-        },
-        {
-          "clusterId": "8795bc64a3db1b6f",
-          "slug": "ac8bf122b82cad15",
-          "titulo": "Quatro pessoas morrem em acidente na RS-569",
-          "resumo": "Quatro pessoas, incluindo dois adultos e duas crianças, morreram em colisão envolvendo três veículos na manhã de quinta-feira na RS-569, no Norte do Rio Grande do Sul. A batida ocorreu entre Barra Funda e Novo Barreiro, envolvendo dois carros e um caminhão. Todas as vítimas estavam no carro. As identidades das vítimas ainda não foram divulgadas.",
-          "porQueImporta": "O acidente resultou em múltiplas fatalidades, destacando a importância da segurança viária na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/05/acidente-mortos-norte-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-05T11:08:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/VlHtK41R_zzMd0YDNULzYWaIRf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Q/sipZXhSruewE2sElRqEg/g1-13-.jpg"
         }
       ]
     },
@@ -393,117 +301,177 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "e5d2bbd9f4b01aa3",
-          "slug": "4b11f01c79167b10",
-          "titulo": "Chuva forte e ventos derrubam árvores e causam interrupções no interior de São Paulo",
-          "resumo": "Na tarde e noite de quarta-feira, ventos fortes associados a chuvas provocaram a queda de nove árvores na Rodovia Assis Chateaubriand em Martinópolis e de outras em Rancharia. Em Ourinhos, a tempestade causou destelhamento e interrupção no fornecimento de energia elétrica. A Defesa Civil mantém alerta laranja para risco de temporais em grande parte do estado, com previsão de instabilidades até o fim de semana.",
-          "porQueImporta": "As quedas de árvores e a falta de energia podem representar risco à segurança pública e à infraestrutura local.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/05/chuva-forte-causa-queda-de-arvores-destelhamentos-e-falta-de-energia-no-interior-de-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-05T12:33:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4mwtXOyym8ylNjNb7u2xeat3A-k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/f/A4dB2HR8y81DBMSHkwqA/design-sem-nome-2026-11-05t075851.536.png"
-        },
-        {
-          "clusterId": "b68dae867ce4b9b0",
-          "slug": "8a6f664c7b5d58ea",
-          "titulo": "Agricultor tem moradia destruída por temporal no Rio Grande do Sul",
-          "resumo": "Entre os mais de 300 afetados pelos temporais no Rio Grande do Sul, o agricultor Jonas Zoia perdeu a casa em Tuparendi, no noroeste do estado. A residência, onde morava com a esposa, foi totalmente destruída. A família ficou sem abrigo, enquanto as autoridades continuam a atender os deslocados. O caso destaca a vulnerabilidade das comunidades rurais diante de eventos climáticos extremos.",
-          "porQueImporta": "Ilustra o impacto direto de eventos climáticos na segurança e bem‑estar de famílias rurais.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/05/temporal-rs-casas-destruidas-familias-fora-de-casa-sem-luz.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-05T12:17:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_zvrrkliLtd7oqT-GHXhJH-c7C8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/p/CVBrJXQGuqpobKrJ7ZRw/g1-15-.jpg"
-        },
-        {
-          "clusterId": "d8e377c8a443a7ec",
-          "slug": "9f4371665a68bade",
-          "titulo": "Chuvas e vendavais causam estragos no RS",
-          "resumo": "O estado do Rio Grande do Sul registrou 118 ocorrências em 108 municípios, com 47.096 pessoas afetadas e 24 feridos. A Defesa Civil contabilizou 15 feridos em Nova Prata. Polícias foram mobilizadas para atender às ocorrências relacionadas aos temporais.",
-          "porQueImporta": "O evento demonstra a extensão dos impactos das chuvas intensas na região, afetando milhares de pessoas e exigindo mobilização de recursos de emergência.",
+          "clusterId": "eba6582b2c0501bd",
+          "slug": "bd823bfb48f83527",
+          "titulo": "Temporal transforma ruas em \"piscinão\" e provoca transtornos em BH",
+          "resumo": "Um temporal intenso causou inundações nas ruas de Belo Horizonte, transformando-as em grandes poças de água. A região da Pampulha foi uma das mais afetadas, com ruas inundadas e mobilidade comprometida. As autoridades emitiram alerta para rajadas de vento de até 50 km/h, pedindo cautela aos moradores. O evento gerou transtornos significativos no tráfego e na rotina dos habitantes.",
+          "porQueImporta": "O fenômeno compromete a mobilidade urbana e pode representar risco à segurança pública.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/chuvas-e-vendavais-causam-estragos-no-rs-nova-prata-tem-15-feridos/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/video-temporal-transforma-ruas-em-piscinao-e-provoca-transtornos-em-bh/"
             }
           ],
-          "updatedAt": "2026-11-05T09:41:10.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "3374e2b1a2f51161",
-          "slug": "03f223cc6d8d7887",
-          "titulo": "Moradores do Jardim Maravilha enfrentam ruas alagadas após temporal",
-          "resumo": "Moradores do Jardim Maravilha, em Guaratiba, ficaram ilhados em alguns pontos após forte chuva que atingiu a cidade durante a madrugada. Parte da Avenida Campo Mourão ficou alagada, com água ultrapassando a altura dos tornozelos em trechos. A situação dificultou a passagem de pedestres e impediu a circulação de carros de passeio. Os moradores usam galochas para tentar atravessar as ruas alagadas.",
-          "porQueImporta": "A inundação bloqueia vias de acesso e impede o deslocamento normal da população.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/11/05/moradores-do-jardim-maravilha-voltam-a-enfrentar-ruas-alagadas-apos-temporal-da-madrugada.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-05T12:30:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Ciz8Nj9rUg3mtg9vVi7-Ogcxl9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/V/EkK9w5SSidxRU37RvFqw/imagem-cortada-2026-11-05t091611.194.jpg"
+          "updatedAt": "2026-11-05T22:00:28.000Z"
         },
         {
-          "clusterId": "6da5fa9034ba74a0",
-          "slug": "f9affc7e13256d07",
-          "titulo": "Ruas alagadas e famílias deslocadas em Santa Catarina após tempestades e tornados",
-          "resumo": "Cidades de Santa Catarina amanheceram com ruas alagadas após fortes chuvas e a passagem de dois tornados. Em Rio do Sul, 52 famílias foram deslocadas para abrigos públicos. O município, localizado no encontro dos rios Itajaí do Oeste e Itajaí do Sul, é historicamente vulnerável a enchentes. O impacto foi sentido em outras cidades do estado, como Lages.",
-          "porQueImporta": "O evento demonstra a vulnerabilidade de áreas urbanas a eventos climáticos extremos, exigindo atenção das autoridades e planejamento de contingência.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "589b5aeec89ff605",
+          "slug": "d773b8152dfefb55",
+          "titulo": "Temporal deixa quase 27 mil imóveis sem energia em BH",
+          "resumo": "Um forte temporal atingiu Belo Horizonte, causando quedas de árvores e objetos que danificaram a rede elétrica. A Companhia Energética de Minas Gerais relatou que 26.900 imóveis ficaram sem luz, cerca de 2,7% dos clientes na capital. As regiões Noroeste, Pampulha e Leste foram as mais afetadas. A Cemig prevê que a energia será restabelecida durante a noite.",
+          "porQueImporta": "A interrupção de energia afetou milhares de moradores e pode impactar serviços essenciais.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/05/cidades-sc-amanhecem-ruas-alagadas-prejuizos-chuva-tornados.ghtml"
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/05/temporal-deixa-quase-27-mil-imoveis-sem-energia-em-bh-diz-cemig.ghtml"
             }
           ],
-          "updatedAt": "2026-11-05T11:03:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/nQ79G5MxurLbwUExA-HIDmJ7JrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/k/6UZOtdTbG4JdQAcF578Q/1793877669485179-1-.jpg"
+          "updatedAt": "2026-11-05T21:36:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DrtqgtO7vLvtbw9AeDHWEojMRZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/n/gDBZz6T8AGmNBwz6BPlQ/gif-chuva.gif"
+        },
+        {
+          "clusterId": "3c16fd2d6a0cb481",
+          "slug": "93c369ad7e57ecf6",
+          "titulo": "Tornado destila Aeroporto de Chapecó",
+          "resumo": "Na última quarta-feira, um tornado atingiu o Aeroporto Serafim Enoss Bertaso, em Chapecó, Santa Catarina, causando danos que impediram a reabertura do aeroporto. As autoridades ainda não estabeleceram previsão de retorno das operações. O local permanece fechado enquanto as equipes avaliam os prejuízos e planejam as reparações.",
+          "porQueImporta": "O fechamento do aeroporto afeta a mobilidade regional e pode impactar o transporte de passageiros e cargas na região.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/aeroporto-de-chapeco-segue-sem-previsao-de-reabertura-apos-tornado/"
+            }
+          ],
+          "updatedAt": "2026-11-05T21:25:44.000Z"
+        },
+        {
+          "clusterId": "dcf113a0454dbfd8",
+          "slug": "134e448393e316e4",
+          "titulo": "Vendaval com ventos de até 110 km/h derruba seis torres e deixa cidades sem energia em MS",
+          "resumo": "Um vendaval com rajadas de até 110 km/h atingiu a região de Maracaju, a 160 km de Campo Grande, derrubando seis torres de transmissão de energia. O temporal ocorreu por volta das 13h40, segundo a Energisa, concessionária local. Sete municípios – Jardim, Porto Murtinho, Bela Vista, Caracol, Nioaque, Antônio João e Guia Lopes de … – ficaram sem luz.",
+          "porQueImporta": "A queda das torres interrompeu o fornecimento de energia para várias comunidades, afetando serviços essenciais.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/05/vendaval-com-ventos-de-ate-110-kmh-derruba-seis-torres-e-deixa-cidades-sem-energia-em-ms.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-05T21:11:53.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/D_X-ctYkrdL-PmUT73YiZCIgaMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/T/W1APVAS46A5Ho4UOPqOA/para-o-g1-2026-11-05t170922.893.jpg"
+        },
+        {
+          "clusterId": "c62d3ebbcfd3f13f",
+          "slug": "2f988288bd083f53",
+          "titulo": "Temporais causam quatro mortes e milhares de afetados no Sul do Brasil",
+          "resumo": "Vendavais, granizo e chuvas intensas atingiram municípios do Rio Grande do Sul, Santa Catarina e Paraná, resultando em quatro mortes e milhares de pessoas afetadas. As cidades foram colocadas em alerta devido às condições climáticas severas. Autoridades monitoram a situação e oferecem apoio às comunidades.",
+          "porQueImporta": "O evento demonstra a gravidade das condições meteorológicas no Sul, exigindo atenção e recursos das autoridades.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/temporais-deixam-quatro-mortes-milhares-de-afetados-e-cidades-em-alerta-no-sul-do-brasil/"
+            }
+          ],
+          "updatedAt": "2026-11-05T20:53:29.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Rio-do-Sul.jpg"
+        },
+        {
+          "clusterId": "7cbe054388385875",
+          "slug": "308bec6c6d11db49",
+          "titulo": "Mãe se protege de temporal no RS em canil com os filhos",
+          "resumo": "Uma dona de casa em Catuípe, RS, se refugiou dentro de um canil junto com seus dois filhos para escapar de um temporal que arrancou o telhado da casa e derrubou um poste de energia. A família buscou abrigo sob a casinha dos cachorros. O evento ocorreu em Catuípe, Região Noroeste do Rio Grande do Sul.",
+          "porQueImporta": "Mostra como famílias buscam alternativas de abrigo em situações de tempestade intensa.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/05/mae-se-protege-de-temporal-no-rs-em-canil-com-os-filhos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-05T20:45:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/05FDsDJhrf-DPWKr5kw1vEW__ns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/EEWVCNSjOhd3EwtJWTUA/g1-2026-11-05t165347.174.jpg"
         }
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "cd8267d62334a364",
-          "slug": "5cefaea643cb9cbd",
-          "titulo": "Moradores cobram obras de contenção após alerta para risco de deslizamentos em Itaperuna",
-          "resumo": "A Defesa Civil alertou para possibilidade de temporais e deslizamentos de terra em Itaperuna, no Noroeste Fluminense, devido aos efeitos do El Niño. O trecho do Morro do Cristo continua oferecendo riscos, levando à interrupção da circulação de ônibus. Moradores exigem a conclusão de obras de contenção e outras ações preventivas pelo poder público.",
-          "porQueImporta": "O risco de deslizamentos pode colocar em perigo a vida dos moradores e a mobilidade urbana da região.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "5fe6595fb1d5ec31",
+          "slug": "712b78b967448dda",
+          "titulo": "Carro invadiu loja em Manaus e deixou atendente ferida",
+          "resumo": "Um Jeep Renegade perdeu o controle e invadiu a loja de roupas Guta Store na Avenida João Valério, bairro Vieralves, em Manaus, por volta das 16h30. A condutora alegou ter dormido ao volante. A atendente do estabelecimento ficou ferida e o Serviço de Atendimento Móvel de Urgência foi acionado.",
+          "porQueImporta": "O incidente destaca a importância da segurança no trânsito e dos procedimentos de emergência em áreas urbanas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/05/moradores-cobram-obras-de-contencao-apos-alerta-para-risco-de-deslizamentos-em-itaperuna.ghtml"
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/05/video-carro-invade-loja-e-deixa-atendente-ferida-no-vieralves-em-manaus.ghtml"
             }
           ],
-          "updatedAt": "2026-11-05T12:21:28.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/EvXDA22a8KWV31queAk-SF3blaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/0/4xmuitRZSBiipNFk9eUg/itaperuna-morro-do-cristo.png"
+          "updatedAt": "2026-11-05T22:00:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/db5GyWQPOsfZU6FHAFMBKOaoev4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/78B06DSVOcWBkzpYVdsw/carro.png"
+        },
+        {
+          "clusterId": "712e2aa05aa40731",
+          "slug": "4ffc5380a53f77c2",
+          "titulo": "Motorista preso após atropelar duas jovens em Abaetetuba",
+          "resumo": "Um motorista em Abaetetuba, Pará, atropelou duas jovens que estavam em motocicleta e fugiu sem prestar socorro. O acidente ocorreu no domingo e foi registrado por câmeras de segurança. O condutor tentou fazer uma conversão irregular na contramão, avançando sobre a pista e colidindo com a motocicleta. A Polícia Civil prendeu o motorista na quarta-feira.",
+          "porQueImporta": "O caso destaca a gravidade de manobras perigosas e a falha em prestar socorro às vítimas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/para/noticia/2026/11/05/motorista-que-atropelou-duas-jovens-e-fugiu-sem-prestar-socorro-e-preso-em-abaetetuba-no-para.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-05T21:59:48.000Z"
+        },
+        {
+          "clusterId": "c4780823e4d40a59",
+          "slug": "5b9baff6894b22b4",
+          "titulo": "Mulher encontrada morta na linha férrea de Salto",
+          "resumo": "Uma mulher foi localizada morta na linha férrea do Jardim Marília, em Salto, SP, com lesões e sinais de atropelamento. O corpo ainda não foi identificado. Equipes de perícia científica foram acionadas para preservar o local. O caso será investigado pela Polícia Civil de Itu.",
+          "porQueImporta": "Revela a vulnerabilidade de pessoas em áreas de tráfego ferroviário.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/05/policia-investiga-morte-de-mulher-encontrada-em-linha-ferrea-em-salto.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-05T21:19:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/31gBeA8pJlZQXqL2k7NkEcziHTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/j/CXn86lQrqMoKvOGHaMnA/14589804-2026-11-05t170132.486.png"
+        },
+        {
+          "clusterId": "71e14729a1e0d513",
+          "slug": "2368e3db3454ed20",
+          "titulo": "Morte de Raquel Las-Casas em acidente de trânsito",
+          "resumo": "Raquel Las-Casas, irmã da ex-jogadora de vôlei Sheilla Castro, faleceu em acidente de trânsito em rodovia mineira. O incidente ocorreu quando o veículo em que ela estava colidiu com outro. As autoridades investigam as circunstâncias do acidente. A família lamenta a perda da artista.",
+          "porQueImporta": "O falecimento de uma figura pública próxima a uma atleta conhecida gera atenção e compaixão na comunidade.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/quem-era-raquel-las-casas-irma-da-ex-jogadora-de-volei-sheilla-castro"
+            }
+          ],
+          "updatedAt": "2026-11-05T21:18:22.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/capa-raquel.jpg"
         }
       ]
     },
@@ -512,21 +480,66 @@
       "label": "Acidente",
       "stories": [
         {
-          "clusterId": "fc09cce93379f83e",
-          "slug": "bd2acefc37da33fd",
-          "titulo": "Menino de 12 anos é resgatado após ter pé perfurado por vergalhão em córrego de Jacareí",
-          "resumo": "Um menino de 12 anos foi resgatado pelo Corpo de Bombeiros depois de ter o pé esquerdo perfurado por um vergalhão enquanto nadava em um córrego na Estrada do Campo Grande, em Jacareí, interior de São Paulo. O acidente ocorreu na quarta-feira (4) e a ocorrência foi comunicada na manhã da quinta (5). O vergalhão era uma barra de aço usada na construção civil.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança em corpos d'água e a importância de respostas rápidas de serviços de emergência.",
+          "clusterId": "11be8b223b91a1db",
+          "slug": "6db101407d8fa068",
+          "titulo": "Homem morre após ser atingido por raio enquanto trabalhava em telhado na zona rural de Ariquemes",
+          "resumo": "Um homem de 61 anos, Sirinei Aparecido de Oliveira, morreu ao ser atingido por um raio enquanto mantinha o telhado de um barracão em Ariquemes, Rondônia. O acidente ocorreu no Travessão B-40 Sul, sentido distrito de Joelândia, na tarde de quinta-feira. Nenhuma outra pessoa ficou ferida. A Polícia Civil realizou perícia para apurar as circunstâncias.",
+          "porQueImporta": "O incidente destaca os riscos de trabalho em áreas expostas a tempestades e a necessidade de precauções de segurança.",
           "categoria": "Acidente",
           "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/05/menino-de-12-anos-e-resgatado-apos-ter-pe-perfurado-por-vergalhao-em-corrego-de-jacarei-no-interior-de-sp.ghtml"
+              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/05/homem-morre-apos-ser-atingido-por-raio-enquanto-trabalhava-em-telhado-na-zona-rural-de-ariquemes-ro.ghtml"
             }
           ],
-          "updatedAt": "2026-11-05T12:06:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/c6O6IFew6TCY7Xj2s-u_cK1-qRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/t/0UPQUGThAhnxArcAoYpQ/foto-g1-49-.png"
+          "updatedAt": "2026-11-05T21:58:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SpLqUbUL09hxYtLQ9mvYK94F69c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/M/vnkaa2TrSXyzn3g6AXpw/design-sem-nome-15-.png"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "c8289b38659b511e",
+          "slug": "49257e0afb737ad1",
+          "titulo": "Mãe de Marília Mendonça relembra 5 anos da morte da cantora",
+          "resumo": "A mãe de Marília Mendonça, Ruth Moreira, postou foto da filha e expressou tristeza ao lembrar do falecimento da cantora em acidente aéreo. Maiara, amiga da artista, também homenageou a cantora nas redes sociais. O evento marcou o quinto aniversário da morte de Marília Mendonça.",
+          "porQueImporta": "Relembra a perda de uma das maiores vozes da música brasileira e destaca a memória da artista.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/pop/celebridades/mae-de-marilia-mendonca-lamenta-5-anos-da-morte-da-cantora-o-ceu-chora/"
+            }
+          ],
+          "updatedAt": "2026-11-05T21:07:41.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "8794f05dedae5c6b",
+          "slug": "234ab04bee2858a1",
+          "titulo": "Árvore cai e interdita a RJ-220 em Porciúncula",
+          "resumo": "Uma árvore caiu sobre a RJ-220, no trecho em direção a Tombos, em Porciúncula, no Noroeste Fluminense, bloqueando os dois sentidos da rodovia. A queda foi causada por fortes ventos. Não houve feridos. A Defesa Civil acionou equipes para desobstruir a pista e restabelecer o trânsito com segurança.",
+          "porQueImporta": "O bloqueio da rodovia pode causar atrasos e riscos de acidentes de trânsito.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/05/arvore-cai-durante-fortes-ventos-e-interdita-a-rj-220-em-porciuncula.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-05T20:54:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/qe8k6OgbwgiPEE36Lgmt5eb0S_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/y/8Y78nzQZir2WEp3OGDkA/arvore-vento-2.png"
         }
       ]
     },
@@ -550,29 +563,6 @@
           ],
           "updatedAt": "2026-11-04T14:09:03.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/799a/live/4864f4f0-d6d5-11f1-a701-fddedf244c16.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transporte",
-      "label": "Acidente de transporte",
-      "stories": [
-        {
-          "clusterId": "553a0257218603f5",
-          "slug": "abe645a6b29b866c",
-          "titulo": "Ministro dos Transportes da Espanha renuncia após acidente ferroviário",
-          "resumo": "O ministro Óscar Puente renunciou após acidente com dois trens que deixou 69 mortos. Foi o segundo desastre grave nas ferrovias espanholas em menos de um ano. Puente também afirmou que não concorrerá às eleições legislativas. A renúncia foi anunciada em audiência na Câmara dos Deputados.",
-          "porQueImporta": "A renúncia sinaliza responsabilidade política diante de falhas na segurança ferroviária.",
-          "categoria": "Acidente de transporte",
-          "categoriaSlug": "acidente-de-transporte",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/03/apos-dois-acidentes-ferroviarios-que-deixaram-115-mortos-ministro-dos-transportes-da-espanha-renuncia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-03T21:43:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/MceAtc71V2vo-MD7yU0ij5UPRrM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/Z/rvhBcxQBACJGsXkeCNdQ/globo-canal-4-20261029-2000-frame-110621.jpeg"
         }
       ]
     }
