@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-11-06T07:15:22.965Z",
+  "ranAt": "2026-11-06T16:09:48.134Z",
   "editionDate": "2026-11-06",
-  "hourUtc": 7,
-  "outcome": "skipped",
-  "reason": "fora da janela (7h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 16,
+  "outcome": "generated",
+  "reason": "\"Incidentes de trânsito e alertas meteorológicos dominam o panorama do dia\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
