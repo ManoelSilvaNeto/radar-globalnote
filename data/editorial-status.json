@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-11-07T06:28:01.710Z",
+  "ranAt": "2026-11-07T15:01:37.620Z",
   "editionDate": "2026-11-07",
-  "hourUtc": 6,
-  "outcome": "skipped",
-  "reason": "fora da janela (6h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 15,
+  "outcome": "generated",
+  "reason": "\"Acidentes e fenômenos extremos dominam o cenário nacional\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
