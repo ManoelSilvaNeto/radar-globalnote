@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-11-09T07:03:46.104Z",
+  "ranAt": "2026-11-09T19:03:00.948Z",
   "editionDate": "2026-11-09",
-  "hourUtc": 7,
-  "outcome": "skipped",
-  "reason": "fora da janela (7h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 19,
+  "outcome": "generated",
+  "reason": "\"Incêndios ilegais, tempestades e alagamentos marcam o dia\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
