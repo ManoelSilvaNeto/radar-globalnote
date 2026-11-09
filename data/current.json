@@ -1,9 +1,50 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T20:43:17.386Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T07:03:46.104Z",
   "home": [
     {
-      "clusterId": "d27b5fbf7e3ad020",
+      "clusterId": "5f4a897fde3632b2",
+      "slug": "a491cb8ad4347d54",
+      "titulo": "Helicóptero cai em fazenda em Passos, MG, deixando um morto",
+      "resumo": "Um helicóptero caiu em uma fazenda em Passos, Minas Gerais, na tarde de sábado. O acidente deixou um piloto, Rafael Grossi Teixeira, de 43 anos, morto. A aeronave transportava mais quatro pessoas que participavam de um casamento na propriedade. O helicóptero caiu de cerca de 20 metros.",
+      "porQueImporta": "O incidente destaca a necessidade de segurança em operações de helicópteros em áreas rurais.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/imagens-mostram-queda-de-helicoptero-em-zona-rural-de-mg-veja-video/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/09/quem-era-o-piloto-de-helicoptero-que-morreu-apos-queda-de-aeronave-em-mg.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-09T03:00:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/txqorJtTojI4FiutXhY2tNuKb64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/c/UE8kGiTcuuZtBzXTSyog/nota-de-pesar-rafael-grossi-teixeira745.jpg"
+    },
+    {
+      "clusterId": "f2b9c0d61c698aa2",
+      "slug": "c6def1ad1e2e95ec",
+      "titulo": "Incêndio em prédio de apartamentos em Taiyuan deixa 14 mortos",
+      "resumo": "Um incêndio em um prédio de apartamentos na cidade de Taiyuan, província de Shanxi, resultou em 14 mortes. A causa do fogo ainda não foi determinada. Até o momento, não há informações sobre feridos. As autoridades continuam investigando o incidente.",
+      "porQueImporta": "O evento destaca a vulnerabilidade de edifícios residenciais a incêndios e a necessidade de medidas de segurança e prevenção.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/incendio-atinge-predio-no-norte-da-china-e-deixa-mortos/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/09/incendio-em-predio-de-apartamentos-mata-na-china.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-09T04:38:46.000Z"
+    },
+    {
+      "clusterId": "52d9de351ba2eb63",
       "slug": "fc9182c697004c6b",
       "titulo": "Colisão entre trens deixa ao menos 4 mortos e 88 feridos no Egito",
       "resumo": "Um acidente envolvendo dois trens no distrito de Al-Ayyat, província de Gizé, resultou em quatro mortes e 88 feridos. Um trem que viajava de Gizé a Fayoum colidiu com a traseira de outro que partia do Cairo para Assuã, causando descarrilamento. Equipes de emergência trabalham na remoção de destroços e no atendimento às vítimas.",
@@ -18,170 +59,128 @@
         {
           "name": "Veja",
           "url": "https://veja.abril.com.br/mundo/colisao-de-trens-deixa-sete-mortos-e-mais-de-100-feridos-no-egito-veja-video/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/acidente-de-trem-no-egito-deixa-mortos-diz-o-ministerio-da-saude/"
         }
       ],
       "updatedAt": "2026-11-08T19:37:32.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/sfVwVZaQ6rHyEsBxSbAcaaxypGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/P/R23nnLTau1cWoXXE9x4A/trem.png"
     },
     {
-      "clusterId": "f4e7e3d26e3f420b",
-      "slug": "73444f4d56ca5566",
-      "titulo": "Piloto de helicóptero morre após queda em zona rural de Minas Gerais",
-      "resumo": "Um helicóptero caiu em uma fazenda na zona rural de Passos, Minas Gerais, matando o piloto de 43 anos. A aeronave transportava mais quatro pessoas, que foram internadas com quadro estável. O corpo do piloto será analisado pelo IML.",
-      "porQueImporta": "O acidente destaca a necessidade de segurança em voos de helicóptero em áreas rurais.",
-      "categoria": "Acidente aéreo",
-      "categoriaSlug": "acidente-aereo",
+      "clusterId": "fee13bc7940dfcf6",
+      "slug": "a3ec6fba340fd833",
+      "titulo": "Inmet emite alerta de tempestade para oito estados e o DF",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta de tempestade para oito estados e o Distrito Federal. A previsão indica volumes de chuva de até 50 mm por dia, ventos intensos e possibilidade de queda de granizo nas áreas afetadas. O alerta visa informar a população sobre condições climáticas adversas e prevenir danos.",
+      "porQueImporta": "O alerta permite que as autoridades e a população tomem precauções para evitar prejuízos e garantir a segurança.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/piloto-de-43-anos-morre-apos-queda-de-helicoptero-em-fazenda-em-minas-gerais/"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/morre-piloto-de-helicoptero-que-caiu-em-zona-rural-de-minas-gerais/"
+          "url": "https://www.cnnbrasil.com.br/nacional/inmet-emite-alerta-de-tempestade-para-oito-estados-e-o-df-nesta-segunda-9/"
         }
       ],
-      "updatedAt": "2026-11-08T17:28:48.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Helicoptero.jpg"
+      "updatedAt": "2026-11-09T06:03:10.000Z"
     },
     {
-      "clusterId": "ea9e6e06091c3755",
-      "slug": "a9f459d755cb6a7f",
-      "titulo": "Motorista morre em colisão entre carro e duas carretas na BR-365",
-      "resumo": "Um homem de 63 anos, natural de Guimarânia, morreu ao dirigir um veículo de passeio na BR-365, entre Patrocínio e Guimarânia, quando bateu lateralmente em uma carreta e depois colidiu frontalmente com outra carreta que transportava frangos congelados. A colisão ocorreu na noite de sábado. O acidente foi registrado pela Polícia Rodoviária Federal e confirmado pelo Corpo de Bombeiros.",
-      "porQueImporta": "O incidente destaca os riscos de colisões em rodovias de grande porte, especialmente quando veículos de carga e passeio se envolvem.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "3234133aac56ecd5",
+      "slug": "cc04fbeaae70df18",
+      "titulo": "Defesa Civil alerta sobre chuvas na Serra do Rio, ruas e hospital municipal atingidos em São José do Vale do Rio Preto",
+      "resumo": "A Defesa Civil da Região Serrana do Rio monitorou as condições climáticas e emitiu um aviso de chuva forte a moderada em São José do Vale do Rio Preto. O alerta permanece até 10h da segunda-feira. As chuvas causaram alagamento nas ruas e afetaram o hospital municipal da cidade.",
+      "porQueImporta": "O alagamento pode comprometer a saúde pública e a mobilidade urbana na região.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/08/motorista-morre-em-acidente-entre-carro-e-duas-carretas-na-br-365-no-interior-de-mg.ghtml"
+          "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/09/defesas-civis-monitoram-situacao-das-chuvas-na-serra-do-rio-sao-jose-do-vale-do-rio-preto-teve-ruas-alagadas.ghtml"
         }
       ],
-      "updatedAt": "2026-11-08T20:21:19.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/YfoNR8BPqEh2x2Z0LUt0jlFCMXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/3/u6xdKVTqCZhR49q1smeA/design-sem-nome-35-.jpg"
+      "updatedAt": "2026-11-09T06:02:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/i2-_XnXpbUGfjTX6U5AgyLDTil4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/6/DgvVBsSLChuWxFaDAU6w/chuva-causou-transtornos-em-sao-jose-do-vale-do-rio-preto.png"
     },
     {
-      "clusterId": "84e3aaf0170d511c",
-      "slug": "01f675717f5b5c40",
-      "titulo": "'Apaixonada por artes' e 'sonho de estudar na Itália': quem era a adolescente que morreu em capotamento na TO-080",
-      "resumo": "Magri Bianca Sales Magri, de 17 anos, morreu na manhã deste domingo (8) após o carro em que viajava capotar na rodovia TO-080, no trecho entre Paraíso do Tocantins e Monte Santo. Ela era muito próxima da família e tinha o sonho de morar no exterior, segundo a tia, Ítala Magri. O acidente foi registrado por volta das 5h30. Bianca e outros quatro jovens, sendo duas adolescentes de 16 anos, um jovem de 16 e outro de 18, viajavam para visitar familiares na região de Paraíso do Tocantins, segundo a família. No veículo, estavam três primas e dois amigos. 📱 Clique aqui para seguir o canal do g1 TO…",
+      "clusterId": "f5b20d7a01ce7d79",
+      "slug": "00c2b377e92e9063",
+      "titulo": "Defesa Civil já demoliu mais de 150 casas em Juiz de Fora",
+      "resumo": "A Defesa Civil demoliu 156 casas em áreas atingidas por chuvas em Juiz de Fora, das quais 38 foram derrubadas entre terça e sexta-feira. O bairro Jardim Natal recebeu a maior parte das intervenções, com 30 demolições. Outras demolições ocorreram nos bairros Costa Carvalho, Grajaú e Santa Helena. A expectativa é que os trabalhos continuem nos próximos dias.",
+      "porQueImporta": "Reduz o risco de acidentes e protege a população em áreas de risco.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/09/defesa-civil-ja-demoliu-mais-de-150-casas-condenadas-apos-chuvas-em-juiz-de-fora.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-09T06:01:23.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/uEMj4h8baKSBfAx501CatzRvFiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/j/nuCcZbTIuoyvaEeiY5bA/demolicao-parque-burnier.jpeg"
+    },
+    {
+      "clusterId": "b2fe6b6173c9a428",
+      "slug": "5c47d357309b129d",
+      "titulo": "Paraná terá queda de pelo menos 5°C nas temperaturas e cidades com mínimas abaixo de 10°C; veja a previsão do tempo",
+      "resumo": "Alertas da Defesa Civil do Paraná: o que significam e o que fazer quando recebê-los O Paraná começa a semana com temperaturas abaixo dos 10°C em algumas regiões, devido ao avanço de uma massa de ar frio. Segundo o Sistema de Tecnologia e Monitoramento Ambiental do Paraná (Simepar), os termômetros devem registrar temperaturas pelo menos 5°C mais baixas nesta segunda-feira (9), em comparação com a semana anterior. O frio será mais intenso no Sudoeste, Centro-Sul, Campos Gerais e Região Metropolitana de Curitiba. Em General Carneiro, a mínima pode chegar a 9°C. Colombo e Rio Negro têm previsão…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/08/apaixonada-por-artes-e-sonho-de-estudar-na-italia-quem-era-a-adolescente-que-morreu-em-capotamento-na-to-080.ghtml"
+          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/09/parana-tera-queda-nas-temperaturas.ghtml"
         }
       ],
-      "updatedAt": "2026-11-08T20:00:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/c6yGenvDQ9s0YuD6OG9iKlw_iMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/kh6I4vQsChWLsAUYEdSw/copia-de-modelo-foto-fundo-borrado-11-.png"
+      "updatedAt": "2026-11-09T05:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/LxK--kg9y7mf67Pn-VH1dCcYE8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/c/Eu0R9hTqAw6H2hYgb75Q/g1-pr-2026-11-08t131924.300.jpg"
     },
     {
-      "clusterId": "fe20851c0487ec4b",
-      "slug": "0969b5a4c8974936",
-      "titulo": "Adolescente de 14 anos sofre acidente com árvore durante temporal em Santa Bárbara d'Oeste",
-      "resumo": "Uma adolescente de 14 anos foi atingida por uma árvore durante um temporal em Santa Bárbara d'Oeste, sofrendo traumatismo craniano e lesões no pé. Ela passou por cirurgia de alto risco na cabeça e teve o pé reconstruído, evitando a amputação dos dedos. Os procedimentos foram concluídos com sucesso no sábado (7).",
-      "porQueImporta": "O caso destaca os riscos de acidentes com árvores em períodos de tempestade e a importância de intervenções médicas rápidas.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
+      "clusterId": "852706f295d356b7",
+      "slug": "a531c681fce35a3e",
+      "titulo": "Nova onda de frio deve durar até quarta-feira em SP e termômetros chegam à mínima 12°C",
+      "resumo": "A virada de tempo em São Paulo, com 9°C no domingo, deve persistir até quarta-feira. Os termômetros devem atingir 12°C na terça-feira, antes de subir novamente na quarta. O clima será nublado, úmido e com possibilidade de pancadas de chuva em todo o estado.",
+      "porQueImporta": "A previsão de temperaturas baixas pode afetar atividades externas e mobilidade urbana.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/08/adolescente-atingida-por-arvore-durante-temporal-sofreu-traumatismo-e-passou-por-reconstrucao-do-pe-diz-prima.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/09/nova-onda-de-frio-deve-durar-ate-quarta-feira-em-sp-e-termometros-chegam-a-minima-12c-veja-previsao-para-a-semana.ghtml"
         }
       ],
-      "updatedAt": "2026-11-08T20:00:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/o1l0rjFImTDPJgFKZs1qvuazduA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/Y/2mPAKRTgiubhYdBg7B6Q/eptv-cp-bdc-2409-flagra-faixa-exclusiva-1-.png"
+      "updatedAt": "2026-11-09T04:00:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/DnFfSkKuvwBNkL0352ox9cnFSlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/9/GuN42kRVKLjeoMH7CD5Q/frio-sao-paulo-1.jpg"
     },
     {
-      "clusterId": "b419e9bd0542f9df",
-      "slug": "bd147bcff74f1f05",
-      "titulo": "Incêndio em casa em Ceilândia deixa mulher e criança feridas",
-      "resumo": "Um incêndio atingiu uma residência em Ceilândia, no domingo (8/11). A mulher e a criança que estavam na casa ficaram feridas, mas permaneceram conscientes e orientadas pelos bombeiros. As vítimas apresentaram ferimentos leves e foram atendidas no local.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança contra incêndios em residências.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/mulher-e-crianca-ficam-feridas-apos-casa-pegar-fogo-em-ceilandia"
-        }
-      ],
-      "updatedAt": "2026-11-08T19:56:00.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/incendio-casa-ceilandia.jpeg"
-    },
-    {
-      "clusterId": "4d6a040a539235a8",
-      "slug": "249f7cf42b03f03c",
-      "titulo": "Corpo encontrado em rio durante buscas por menino de 12 anos desaparecido em Unaí",
-      "resumo": "O Corpo de Bombeiros encontrou um corpo às margens do Rio Preto em Unaí, Minas Gerais, na manhã de domingo. A descoberta ocorreu durante as buscas por um menino de 12 anos que desapareceu na sexta-feira, dia 6. Ainda não há confirmação de que o corpo seja do adolescente. As equipes foram acionadas após relatos de um possível afogamento na Cachoeira do Rio.",
-      "porQueImporta": "A ocorrência pode esclarecer o destino do menino desaparecido e indicar se houve afogamento.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
+      "clusterId": "192fdf827591de47",
+      "slug": "3cbb3191fb287de1",
+      "titulo": "El Niño histórico: Como o RS vive os efeitos do fenômeno que já deixou 9 mortos e tem 3 casos sob investigação",
+      "resumo": "Temporais, tornados e enchentes: como o RS vive os efeitos de um El Niño histórico Em quatro meses, o Rio Grande do Sul tem 12 mortes em situações relacionados às chuvas intensas, ventos fortes, granizo e elevação de rios. Segundo a Defesa Civil, nove dessas vítimas (3 em agosto e 6 em setembro) têm relação com temporais que atingiram o Estado. Neste mês, a combinação de mudanças climáticas e El Niño é motivo de investigação em outras três mortes. 📲 Acesse o canal do g1 RS no WhatsApp 🔥 O El Niño é um fenômeno climático natural que ocorre em intervalos irregulares, geralmente a cada 2 a 7…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/08/corpo-e-encontrado-em-rio-durante-buscas-por-menino-de-12-anos-desaparecido-em-unai.ghtml"
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/09/el-nino-historico-mortos-rs.ghtml"
         }
       ],
-      "updatedAt": "2026-11-08T19:52:47.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Vc_Pp0Jst2d0GFJDq8u8v4Lnmas=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/N/IBVwfAThW4ktMMEaoVQw/whatsapp-image-2026-11-08-at-16.43.35.jpeg"
+      "updatedAt": "2026-11-09T03:00:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/kk8DJi3NHtiuyDOB4kf7bvSIyzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/4/zsq3m1RJWTR3hmdPPDbw/g1-3-.jpg"
     },
     {
-      "clusterId": "cb67d3e55a081192",
-      "slug": "35f02628267536fe",
-      "titulo": "Carro cai em lago de Barra Mansa e deixa dez mortos",
-      "resumo": "Um veículo caiu em um lago na Estrada Fazenda Santa Catarina, em Barra Mansa, na madrugada deste domingo, resultando na morte de dez pessoas que estavam no mesmo carro. A Polícia Civil confirmou que as vítimas morreram por afogamento. A Prefeitura de Volta Redonda decretou luto oficial de três dias a partir de hoje. O velório será realizado no ginásio poliesportivo do bairro Santa Cruz, onde a família residia.",
-      "porQueImporta": "O acidente resultou em múltiplas fatalidades e mobilizou autoridades locais para luto e investigação.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/08/policia-civil-confirma-que-dez-vitimas-de-acidente-em-lago-de-barra-mansa-morreram-afogadas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-08T19:51:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/sSPrs8R62jPj_c-otNbRWEwWW2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/g/fglmtASNuIPdmbCB8GJA/whatsapp-image-2026-11-08-at-11.38.38.jpeg"
-    },
-    {
-      "clusterId": "a3a863d9da7816ec",
-      "slug": "09a3092878b13b01",
-      "titulo": "Empreendedores ensinam como enfrentar desastres após enchentes no RS",
-      "resumo": "Após as enchentes que atingiram o Rio Grande do Sul, empreendedores criaram uma trilha gratuita com 21 vídeos curtos para orientar pessoas sobre como lidar com os impactos. Os vídeos trazem orientações de quem vivenciou a situação e abordam estratégias de resiliência e recuperação. A iniciativa visa capacitar a comunidade a se preparar e responder a futuros eventos semelhantes.",
-      "porQueImporta": "A iniciativa oferece recursos práticos para comunidades afetadas por desastres, fortalecendo a resiliência local.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/apos-enchentes-no-rs-empreendedores-ensinam-negocios-a-enfrentar-desastres/"
-        }
-      ],
-      "updatedAt": "2026-11-08T18:58:34.000Z"
-    },
-    {
-      "clusterId": "a5f13cc959a89ba9",
-      "slug": "cc8d4cc4af017864",
-      "titulo": "Vendaval destrói estufas em Taiúva",
-      "resumo": "Um vendaval atingiu a tarde de sábado (7) em Taiúva, SP, destruindo estufas de uma propriedade rural da família Bedin e comprometendo a produção de verduras. O prejuízo estimado pode chegar a R$ 50 mil. Nenhum ferido foi registrado. A horta, localizada no bairro Estiva, produz alface, almeirão, rúcula, mostarda, chicória e cheiro‑verde para abastecer comércios locais.",
-      "porQueImporta": "O evento pode afetar a oferta de verduras na região e gerar perdas econômicas significativas para os produtores.",
+      "clusterId": "57be30949c609bf2",
+      "slug": "228d8a562f8bd675",
+      "titulo": "Temporal causa queda de energia em cidades da Região dos Lagos",
+      "resumo": "Um temporal com rajadas de vento e descargas atmosféricas derrubou árvores e inundou ruas em várias cidades da Região dos Lagos, gerando falta de energia elétrica. Motoristas e pedestres foram forçados a buscar abrigo. Em Cabo Frio, 4.859 famílias permaneciam sem energia até as 22h do domingo.",
+      "porQueImporta": "A interrupção de energia compromete a segurança e o funcionamento das comunidades locais.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/08/vendaval-destroi-estufas-e-causa-prejuizo-de-ate-r-50-mil-em-taiuva-sp.ghtml"
+          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/08/cidades-da-regiao-dos-lagos-estao-entre-as-mais-afetadas-pela-falta-de-energia-apos-temporal.ghtml"
         }
       ],
-      "updatedAt": "2026-11-08T18:49:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PTHWTg8s_bmrsLOTGdo1NU38Ruc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/9/EVlB0RSK63CplzgynrfA/molduras-g1-rp-1-.png"
+      "updatedAt": "2026-11-09T02:45:18.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/9pzYf7gVRTnVVx3StNLU0GOKDLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/CcHpJdSLW5e7HbwXVT4Q/whatsapp-image-2026-11-07-at-18.40.06.jpeg"
     }
   ],
   "categorias": [
@@ -190,178 +189,78 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "84e3aaf0170d511c",
-          "slug": "01f675717f5b5c40",
-          "titulo": "'Apaixonada por artes' e 'sonho de estudar na Itália': quem era a adolescente que morreu em capotamento na TO-080",
-          "resumo": "Magri Bianca Sales Magri, de 17 anos, morreu na manhã deste domingo (8) após o carro em que viajava capotar na rodovia TO-080, no trecho entre Paraíso do Tocantins e Monte Santo. Ela era muito próxima da família e tinha o sonho de morar no exterior, segundo a tia, Ítala Magri. O acidente foi registrado por volta das 5h30. Bianca e outros quatro jovens, sendo duas adolescentes de 16 anos, um jovem de 16 e outro de 18, viajavam para visitar familiares na região de Paraíso do Tocantins, segundo a família. No veículo, estavam três primas e dois amigos. 📱 Clique aqui para seguir o canal do g1 TO…",
+          "clusterId": "b2fe6b6173c9a428",
+          "slug": "5c47d357309b129d",
+          "titulo": "Paraná terá queda de pelo menos 5°C nas temperaturas e cidades com mínimas abaixo de 10°C; veja a previsão do tempo",
+          "resumo": "Alertas da Defesa Civil do Paraná: o que significam e o que fazer quando recebê-los O Paraná começa a semana com temperaturas abaixo dos 10°C em algumas regiões, devido ao avanço de uma massa de ar frio. Segundo o Sistema de Tecnologia e Monitoramento Ambiental do Paraná (Simepar), os termômetros devem registrar temperaturas pelo menos 5°C mais baixas nesta segunda-feira (9), em comparação com a semana anterior. O frio será mais intenso no Sudoeste, Centro-Sul, Campos Gerais e Região Metropolitana de Curitiba. Em General Carneiro, a mínima pode chegar a 9°C. Colombo e Rio Negro têm previsão…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/08/apaixonada-por-artes-e-sonho-de-estudar-na-italia-quem-era-a-adolescente-que-morreu-em-capotamento-na-to-080.ghtml"
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/09/parana-tera-queda-nas-temperaturas.ghtml"
             }
           ],
-          "updatedAt": "2026-11-08T20:00:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/c6yGenvDQ9s0YuD6OG9iKlw_iMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/kh6I4vQsChWLsAUYEdSw/copia-de-modelo-foto-fundo-borrado-11-.png"
+          "updatedAt": "2026-11-09T05:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/LxK--kg9y7mf67Pn-VH1dCcYE8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/c/Eu0R9hTqAw6H2hYgb75Q/g1-pr-2026-11-08t131924.300.jpg"
         },
         {
-          "clusterId": "b7d6f4fe9aaa547b",
-          "slug": "2e8dad5b619487db",
-          "titulo": "Moradores ilhados são resgatados em Araruama; cidade registrou 80 milímetros de chuva em uma hora",
-          "resumo": "Moradores ficaram ilhados e precisaram ser resgatados por equipes da Prefeitura de Araruama Prefeitura de Araruama Equipes da Defesa Civil e da Assistência Social de Araruama, na Região dos Lagos do Rio, fizeram uma força-tarefa para resgatar e acolher moradores que ficaram ilhados na noite deste sábado (7), após a cidade ser atingida por 80 milímetros de chuva em apenas uma hora, segundo a Prefeitura. Maquinário foi utilizado no resgate e na desobstrução de vias. Alagamentos foram registrados em diferentes pontos da cidade. \"Em apenas uma hora, foram registrados 80 milímetros de chuva, um…",
+          "clusterId": "852706f295d356b7",
+          "slug": "a531c681fce35a3e",
+          "titulo": "Nova onda de frio deve durar até quarta-feira em SP e termômetros chegam à mínima 12°C",
+          "resumo": "A virada de tempo em São Paulo, com 9°C no domingo, deve persistir até quarta-feira. Os termômetros devem atingir 12°C na terça-feira, antes de subir novamente na quarta. O clima será nublado, úmido e com possibilidade de pancadas de chuva em todo o estado.",
+          "porQueImporta": "A previsão de temperaturas baixas pode afetar atividades externas e mobilidade urbana.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/09/nova-onda-de-frio-deve-durar-ate-quarta-feira-em-sp-e-termometros-chegam-a-minima-12c-veja-previsao-para-a-semana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-09T04:00:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DnFfSkKuvwBNkL0352ox9cnFSlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/9/GuN42kRVKLjeoMH7CD5Q/frio-sao-paulo-1.jpg"
+        },
+        {
+          "clusterId": "192fdf827591de47",
+          "slug": "3cbb3191fb287de1",
+          "titulo": "El Niño histórico: Como o RS vive os efeitos do fenômeno que já deixou 9 mortos e tem 3 casos sob investigação",
+          "resumo": "Temporais, tornados e enchentes: como o RS vive os efeitos de um El Niño histórico Em quatro meses, o Rio Grande do Sul tem 12 mortes em situações relacionados às chuvas intensas, ventos fortes, granizo e elevação de rios. Segundo a Defesa Civil, nove dessas vítimas (3 em agosto e 6 em setembro) têm relação com temporais que atingiram o Estado. Neste mês, a combinação de mudanças climáticas e El Niño é motivo de investigação em outras três mortes. 📲 Acesse o canal do g1 RS no WhatsApp 🔥 O El Niño é um fenômeno climático natural que ocorre em intervalos irregulares, geralmente a cada 2 a 7…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/08/com-80-milimetros-de-chuva-em-uma-hora-araruama-tem-mobilizacao-para-ajudar-moradores.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/09/el-nino-historico-mortos-rs.ghtml"
             }
           ],
-          "updatedAt": "2026-11-08T18:07:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/KrUG82A01CL9LfwosK8xj3F0cyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/U/gXPOQoTuSDKNTBtmHfXQ/whatsapp-image-2026-11-07-at-23.13.05-1-.jpeg"
+          "updatedAt": "2026-11-09T03:00:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/kk8DJi3NHtiuyDOB4kf7bvSIyzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/4/zsq3m1RJWTR3hmdPPDbw/g1-3-.jpg"
         },
         {
-          "clusterId": "614ca04e5fc25076",
-          "slug": "ad857f5e87e8df86",
-          "titulo": "Rio tem rajadas de quase 60 km/h e chuva fraca em vários bairros; mulher morre após casa desabar",
-          "resumo": "Cristo Redentor visto do Flamengo encoberto pelas nuvens Rafael Nascimento/g1 A cidade do Rio de Janeiro registrou rajadas de vento de quase 60 km/h e chuva fraca em diversos pontos da cidade neste domingo (8). A maior velocidade do vento foi medida na Marambaia, na Zona Oeste, onde as rajadas chegaram a 59,4 km/h. No sábado (7), por conta do temporal, 1 mulher morreu na Zona Oeste do Rio (mais detalhes abaixo). Segundo o Alerta Rio, da prefeitura, Aeródromo de Campo dos Afonsos, também na Zona Oeste, os ventos chegaram a 55,5 km/h. Houve ainda registros de ventania de 47,5 km/h no Forte de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/08/previsao-do-tempo-domingo-no-rio.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T17:52:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/EB9lyc3eEHH3xsxuvqDJg7MZK7c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/D/gWe3YcSPOfoAPBX9deTQ/whatsapp-image-2026-11-08-at-15.26.49.jpeg"
-        },
-        {
-          "clusterId": "4607e11d1085a14f",
-          "slug": "a771788e25607233",
-          "titulo": "São Paulo registra 29 mortes em decorrência das chuvas em 2026",
-          "resumo": "Pescador de 50 anos é a vítima mais recente; homem foi encontrado morto neste domingo (8), após acidente com embarcações no Rio Dourado, em Lins, no interior do estado",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "clusterId": "506bf086c8ae8926",
+          "slug": "7f6722c38211b064",
+          "titulo": "Defesa Civil esclarece que kit de emergência é medida preventiva",
+          "resumo": "O órgão informou que o pedido de kits de emergência visa preparar as famílias para situações de risco e não pretende gerar pânico na população ou sobrecarregar os serviços. A Defesa Civil destacou que a iniciativa faz parte das ações permanentes de prevenção a desastres. O esclarecimento veio após polêmica sobre a distribuição dos kits.",
+          "porQueImporta": "A medida reforça a importância da preparação preventiva em situações de risco.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-registra-29-mortes-em-decorrencia-das-chuvas-em-2026/"
+              "url": "https://www.cnnbrasil.com.br/nacional/brasil/apos-polemica-defesa-civil-diz-que-kit-de-emergencia-e-medida-preventiva/"
             }
           ],
-          "updatedAt": "2026-11-08T17:46:51.000Z"
-        },
-        {
-          "clusterId": "b85a11a67f9a9ea6",
-          "slug": "ed8cc6df1bec31bd",
-          "titulo": "Cidades do Amazonas ficam com ar “péssimo” por conta de fumaça de queimadas",
-          "resumo": "Concentração de partículas finas supera 400 µg/m³ em municípios do interior; em Manaus, prefeitura alerta para piora nas condições atmosféricas",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/norte/am/cidades-do-amazonas-ficam-com-ar-pessimo-por-conta-de-fumaca-de-queimadas/"
-            }
-          ],
-          "updatedAt": "2026-11-08T17:43:24.000Z"
-        },
-        {
-          "clusterId": "e4317741320c53b9",
-          "slug": "5423b9741d681165",
-          "titulo": "Motociclista morre em acidente no Jardim Regina em Pindamonhangaba",
-          "resumo": "Um motociclista de 29 anos morreu após um acidente neste sábado (7), na Estrada Municipal Atanásio, próximo ao viaduto do Jardim Regina, em Pindamonhangaba (SP). ✅ Clique aqui para seguir o canal do g1 Vale do Paraíba e região no WhatsApp Agora no g1 De acordo com as informações apuradas, a irmã da vítima compareceu à delegacia dizendo que foi informada sobre o acidente e que, ao chegar no local, viu que a vítima havia sido levada no hospital. Na unidade de saúde, os familiares foram informados que o homem não resistiu aos ferimentos e morreu. Não há informações da dinâmica do acidente. A…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/08/motociclista-morre-em-acidente-no-jardim-regina-em-pindamonhangaba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T17:40:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Y_YF7rNjyI3yVslX7tYHAYSft90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/j/QRLHssRoO620VPbXpXHQ/whatsapp-image-2024-12-16-at-12.44.32.jpeg"
-        },
-        {
-          "clusterId": "e7e36bd41ea8eed9",
-          "slug": "9b6dcec1fa922f62",
-          "titulo": "Segunda vítima de acidente na PA-370 morre após ser socorrida em Uruará",
-          "resumo": "Encontro das Águas Morreu no hospital de Uruará o segundo homem envolvido no acidente de trânsito registrado na manhã deste domingo (8), na rodovia PA-370, conhecida como Transuruará, na região do Chapadão, no sudoeste do Pará. ✅ Clique aqui e siga o canal g1 Santarém e Região no WhatsApp A vítima foi identificada como Weberson. Ele estava no carro com o soldado da Polícia Militar Thiago André de Sousa, de 35 anos, que morreu ainda no local do acidente. Polícia Militar Thiago André de Sousa, de 35 anos, que morreu ainda no local do acidente Redes Sociais Uma mulher que também estava no…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/08/segunda-vitima-de-acidente-na-pa-370-morre-apos-ser-socorrida-em-uruara.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T17:29:51.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/NpsQvfCBnprF3uZyLFxMV6dsCe0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/Df558FRUq4NAyjBzZM5w/whatsapp-image-2026-11-08-at-14.31.38.jpeg"
-        },
-        {
-          "clusterId": "6ebc153c8ce8b156",
-          "slug": "cc2e136e7a400156",
-          "titulo": "Vídeos mostram queda de muro e ventos intensos durante temporal que deixou 424 mil imóveis sem energia elétrica no Paraná",
-          "resumo": "Vídeos mostram queda de muro e ventos intensos durante temporal no Paraná Vídeos registrados por câmeras de segurança e moradores mostram a força da tempestade que atingiu o Paraná no sábado (7). Assista acima. ✅ Siga o canal do g1 PR no WhatsApp Em Pinhais, na Região Metropolitana de Curitiba, uma câmera registrou o momento em que um muro inteiro de um condomínio desabou. Apesar dos estragos materiais, ninguém se feriu. Simone de Arazao, moradora do bairro Afonso Pena, em São José dos Pinhais, filmou a tempestade da sacada de casa. Nas imagens é possível observar a força do vento. Situação…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/parana/noticia/2026/11/08/videos-mostram-queda-de-muro-e-ventos-intensos-durante-temporal-no-parana.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T17:28:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zFAGomyACVTzMmpSciJaIAClmw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/J/9JAoJyRSODJKvsErTMQA/snapshot-20261108142501.jpg"
-        },
-        {
-          "clusterId": "bafc35c81aec68a7",
-          "slug": "e5e1fdb972d30f39",
-          "titulo": "Juiz de Fora registra alagamentos e quedas de árvores durante forte chuva com ventos de até 101 km/h",
-          "resumo": "Uma forte chuva com rajadas de vento de até 101,9 km/h foi registrada em Juiz de Fora na tarde e noite de sábado (7). A tempestade causou alagamentos e queda de árvores em alguns bairros da cidade. O bairro Rosário de Minas foi o que registrou o maior volume de chuva, com quase 79 mm, segundo a Defesa Civil. O registro das fortes rajadas de vento, feito pela Estação Meteorológica do São Pedro, representa um novo recorde. A marca anterior era de 99,3 km/h, registrada em fevereiro de 2025. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp No bairro Cerâmica, a rua Hélio Tomaz…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/08/juiz-de-fora-registra-alagamentos-e-quedas-de-arvores-durante-forte-chuva-com-ventos-de-ate-101-kmh.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T17:15:18.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YITPFj2Gq-7NaRfotvtRXm7Oel4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/L/Oi5ErUSWGmRfZdxuYwmQ/chuva-jf-07-11.jpg"
-        },
-        {
-          "clusterId": "d9c4cb52670a1a8a",
-          "slug": "068e3d79ccb4d1ed",
-          "titulo": "Homem desaparecido em naufrágio no interior de SP é encontrado morto",
-          "resumo": "Vítima era um pescador que desapareceu na noite deste sábado (7) por causa do mau tempo que atingiu a região e virou os dois barcos, segundo a Defesa Civil",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-desaparecido-em-naufragio-no-interior-de-sp-e-encontrado-morto/"
-            }
-          ],
-          "updatedAt": "2026-11-08T15:57:37.000Z"
+          "updatedAt": "2026-11-08T23:48:19.000Z"
         },
         {
           "clusterId": "959458d72c5e87e7",
           "slug": "3849e8d7cc8e103a",
-          "titulo": "Após fracasso eleitoral, Trump dobra a aposta na radicalização",
-          "resumo": "Se o terremoto eleitoral que devastou o Partido Republicano na última terça-feira expressou a contundente rejeição dos americanos ao governo Trump, o presidente preferiu tomar a direção oposta à da conciliação, ao nomear Stephen Miller para o cargo de chefe de gabinete da Casa Branca. Como mentor da política repressora da caça e da deportação de imigrantes, ele sinaliza a radicalização do governo nos próximos dois anos. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A promoção de Miller a um dos postos mais poderosos do círculo presidencial, no lugar de Susan Wiles, indica a…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "titulo": "Trump nomeia Stephen Miller como chefe de gabinete",
+          "resumo": "O presidente Trump nomeou Stephen Miller para o cargo de chefe de gabinete da Casa Branca, substituindo Susan Wiles. Miller, conhecido por sua postura rígida em políticas de imigração, sinaliza uma possível intensificação da agenda do governo. A nomeação ocorre após a derrota eleitoral do partido republicano. A mudança reflete a direção política de Trump para o próximo período.",
+          "porQueImporta": "A escolha de Miller pode indicar uma mudança na estratégia governamental de Trump.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -377,8 +276,8 @@
           "clusterId": "40d28a4af665bf67",
           "slug": "635af66bfb88c5c7",
           "titulo": "Exposição combate esquecimento e negação do Holocausto entre jovens alemães",
-          "resumo": "Curador diz que é preciso lutar contra o esquecimento dos crimes do nazismo diante dos ataques à cultura alemã da memória e do distanciamento temporal dos jovens em relação ao período nazista.",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "resumo": "Uma exposição foi inaugurada para combater o esquecimento e a negação do Holocausto entre os jovens alemães. O curador afirmou que é necessário lutar contra o distanciamento temporal e os ataques à cultura da memória nazista. A iniciativa visa reforçar a conscientização sobre os crimes do nazismo.",
+          "porQueImporta": "A obra busca preservar a memória histórica e prevenir a repetição de atrocidades.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -409,11 +308,53 @@
       ]
     },
     {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "f2b9c0d61c698aa2",
+          "slug": "c6def1ad1e2e95ec",
+          "titulo": "Incêndio em prédio de apartamentos em Taiyuan deixa 14 mortos",
+          "resumo": "Um incêndio em um prédio de apartamentos na cidade de Taiyuan, província de Shanxi, resultou em 14 mortes. A causa do fogo ainda não foi determinada. Até o momento, não há informações sobre feridos. As autoridades continuam investigando o incidente.",
+          "porQueImporta": "O evento destaca a vulnerabilidade de edifícios residenciais a incêndios e a necessidade de medidas de segurança e prevenção.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/incendio-atinge-predio-no-norte-da-china-e-deixa-mortos/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/09/incendio-em-predio-de-apartamentos-mata-na-china.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-09T04:38:46.000Z"
+        },
+        {
+          "clusterId": "c6ec51e9e79e0a7c",
+          "slug": "b608381790aea2ee",
+          "titulo": "Incêndio afeta três embarcações em Itapema",
+          "resumo": "Um fogo começou em uma embarcação em Itapema, litoral de Santa Catarina, e colidiu com duas outras ancoradas. Sete pessoas foram resgatadas sem ferimentos. As autoridades investigam as causas do incêndio.",
+          "porQueImporta": "O incidente pode representar risco à segurança marítima e à vida dos envolvidos.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/video-incendio-atinge-tres-embarcacoes-em-itapema-no-litoral-de-sc/"
+            }
+          ],
+          "updatedAt": "2026-11-09T00:30:15.000Z"
+        }
+      ]
+    },
+    {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "d27b5fbf7e3ad020",
+          "clusterId": "52d9de351ba2eb63",
           "slug": "fc9182c697004c6b",
           "titulo": "Colisão entre trens deixa ao menos 4 mortos e 88 feridos no Egito",
           "resumo": "Um acidente envolvendo dois trens no distrito de Al-Ayyat, província de Gizé, resultou em quatro mortes e 88 feridos. Um trem que viajava de Gizé a Fayoum colidiu com a traseira de outro que partia do Cairo para Assuã, causando descarrilamento. Equipes de emergência trabalham na remoção de destroços e no atendimento às vítimas.",
@@ -428,82 +369,26 @@
             {
               "name": "Veja",
               "url": "https://veja.abril.com.br/mundo/colisao-de-trens-deixa-sete-mortos-e-mais-de-100-feridos-no-egito-veja-video/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/acidente-de-trem-no-egito-deixa-mortos-diz-o-ministerio-da-saude/"
             }
           ],
           "updatedAt": "2026-11-08T19:37:32.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/sfVwVZaQ6rHyEsBxSbAcaaxypGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/P/R23nnLTau1cWoXXE9x4A/trem.png"
         },
         {
-          "clusterId": "ea9e6e06091c3755",
-          "slug": "a9f459d755cb6a7f",
-          "titulo": "Motorista morre em colisão entre carro e duas carretas na BR-365",
-          "resumo": "Um homem de 63 anos, natural de Guimarânia, morreu ao dirigir um veículo de passeio na BR-365, entre Patrocínio e Guimarânia, quando bateu lateralmente em uma carreta e depois colidiu frontalmente com outra carreta que transportava frangos congelados. A colisão ocorreu na noite de sábado. O acidente foi registrado pela Polícia Rodoviária Federal e confirmado pelo Corpo de Bombeiros.",
-          "porQueImporta": "O incidente destaca os riscos de colisões em rodovias de grande porte, especialmente quando veículos de carga e passeio se envolvem.",
+          "clusterId": "5943a071b0b6e019",
+          "slug": "8bf551dfbb72516e",
+          "titulo": "Acidente com 10 mortos em Barra Mansa",
+          "resumo": "Um veículo que transportava cinco crianças e cinco adultos capotou e caiu dentro de uma lagoa na região de Quatis, em Barra Mansa, no Rio de Janeiro. O acidente resultou em dez mortes. A prefeitura decretou luto pela comunidade.",
+          "porQueImporta": "O trágico acidente destaca a necessidade de atenção à segurança viária e à fiscalização de veículos que transportam crianças.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/08/motorista-morre-em-acidente-entre-carro-e-duas-carretas-na-br-365-no-interior-de-mg.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/prefeitura-de-barra-mansa-decreta-luto-apos-acidente-com-10-mortos-no-rj/"
             }
           ],
-          "updatedAt": "2026-11-08T20:21:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YfoNR8BPqEh2x2Z0LUt0jlFCMXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/3/u6xdKVTqCZhR49q1smeA/design-sem-nome-35-.jpg"
-        },
-        {
-          "clusterId": "cb67d3e55a081192",
-          "slug": "35f02628267536fe",
-          "titulo": "Carro cai em lago de Barra Mansa e deixa dez mortos",
-          "resumo": "Um veículo caiu em um lago na Estrada Fazenda Santa Catarina, em Barra Mansa, na madrugada deste domingo, resultando na morte de dez pessoas que estavam no mesmo carro. A Polícia Civil confirmou que as vítimas morreram por afogamento. A Prefeitura de Volta Redonda decretou luto oficial de três dias a partir de hoje. O velório será realizado no ginásio poliesportivo do bairro Santa Cruz, onde a família residia.",
-          "porQueImporta": "O acidente resultou em múltiplas fatalidades e mobilizou autoridades locais para luto e investigação.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/08/policia-civil-confirma-que-dez-vitimas-de-acidente-em-lago-de-barra-mansa-morreram-afogadas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T19:51:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sSPrs8R62jPj_c-otNbRWEwWW2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/g/fglmtASNuIPdmbCB8GJA/whatsapp-image-2026-11-08-at-11.38.38.jpeg"
-        },
-        {
-          "clusterId": "fcbfe5b49a33d8cc",
-          "slug": "30d2c0c311fee6cb",
-          "titulo": "Corpo de jovem encontrado após acidente com moto aquática em Lago do Manso",
-          "resumo": "O corpo de Matheus Gustavo França Prates, de 22 anos, foi localizado no Lago do Manso, em Chapada dos Guimarães, às 14h de domingo. O jovem desapareceu no sábado após um acidente com moto aquática no mesmo local. Equipes do Corpo de Bombeiros e da Marinha do Brasil procuraram por ele desde o desaparecimento.",
-          "porQueImporta": "Ilustra os riscos de atividades recreativas aquáticas e a necessidade de vigilância e resposta rápida em áreas remotas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/08/corpo-de-jovem-que-desapareceu-apos-acidente-com-moto-aquatica-e-encontrado-em-mt.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T18:37:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/y4ZfFXYNQkirp87IRVBcY8VsGcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/J/FvWsAUSPeLvxkjqsFtBQ/videos-g1-15-.png"
-        },
-        {
-          "clusterId": "587e3cfc4cb2d977",
-          "slug": "67d75715d1b7b1dd",
-          "titulo": "Motorista de caminhão morre após bater na traseira de carreta na Rodovia Raposo Tavares",
-          "resumo": "Um caminhoneiro morreu após bater na traseira de uma carreta na Rodovia Raposo Tavares (SP-270), em Palmital, na madrugada de domingo. A colisão ocorreu no km 419, deixando o caminhão imobilizado na segunda faixa enquanto a carreta conseguiu parar no acostamento.",
-          "porQueImporta": "O acidente resultou na perda de uma vida e destaca os riscos de colisões traseiras em rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/08/motorista-de-caminhao-morre-apos-bater-na-traseira-de-carreta-na-rodovia-raposo-tavares-em-palmital.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T18:09:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JBhUCyQjatOzpoNoevwdDyesWr0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/K/6YJodbQLqekytj0nProQ/design-sem-nome-2026-11-08t092833.105.png"
+          "updatedAt": "2026-11-08T20:44:05.000Z"
         }
       ]
     },
@@ -512,144 +397,37 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "a5f13cc959a89ba9",
-          "slug": "cc8d4cc4af017864",
-          "titulo": "Vendaval destrói estufas em Taiúva",
-          "resumo": "Um vendaval atingiu a tarde de sábado (7) em Taiúva, SP, destruindo estufas de uma propriedade rural da família Bedin e comprometendo a produção de verduras. O prejuízo estimado pode chegar a R$ 50 mil. Nenhum ferido foi registrado. A horta, localizada no bairro Estiva, produz alface, almeirão, rúcula, mostarda, chicória e cheiro‑verde para abastecer comércios locais.",
-          "porQueImporta": "O evento pode afetar a oferta de verduras na região e gerar perdas econômicas significativas para os produtores.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/08/vendaval-destroi-estufas-e-causa-prejuizo-de-ate-r-50-mil-em-taiuva-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T18:49:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PTHWTg8s_bmrsLOTGdo1NU38Ruc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/9/EVlB0RSK63CplzgynrfA/molduras-g1-rp-1-.png"
-        },
-        {
-          "clusterId": "9175e7b6f0972957",
-          "slug": "b3ce727d6518c985",
-          "titulo": "Mudanças climáticas favorecem formação de vendavais, tornados e microexplosões atmosféricas",
-          "resumo": "Meteorologista explica que variações bruscas de temperatura, associadas às mudanças climáticas, aumentam a ocorrência de vendavais, tornados e microexplosões atmosféricas. O fenômeno ocorre quando massas de ar quente e frio se encontram, gerando instabilidade e ventos fortes. A explicação destaca que o aquecimento global intensifica esses eventos extremos.",
-          "porQueImporta": "Entender o papel das mudanças climáticas na intensificação de eventos meteorológicos extremos ajuda na preparação e mitigação de riscos.",
+          "clusterId": "fee13bc7940dfcf6",
+          "slug": "a3ec6fba340fd833",
+          "titulo": "Inmet emite alerta de tempestade para oito estados e o DF",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu alerta de tempestade para oito estados e o Distrito Federal. A previsão indica volumes de chuva de até 50 mm por dia, ventos intensos e possibilidade de queda de granizo nas áreas afetadas. O alerta visa informar a população sobre condições climáticas adversas e prevenir danos.",
+          "porQueImporta": "O alerta permite que as autoridades e a população tomem precauções para evitar prejuízos e garantir a segurança.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/mudancas-climaticas-favorecem-fortes-tempestades-explica-meteorologista/"
+              "url": "https://www.cnnbrasil.com.br/nacional/inmet-emite-alerta-de-tempestade-para-oito-estados-e-o-df-nesta-segunda-9/"
             }
           ],
-          "updatedAt": "2026-11-08T18:16:57.000Z"
+          "updatedAt": "2026-11-09T06:03:10.000Z"
         },
         {
-          "clusterId": "275dba2fb52c3212",
-          "slug": "4825f12438c4b976",
-          "titulo": "Temporal assusta trabalhadores durante montagem de árvore de Natal em Guaxupé, MG",
-          "resumo": "Um temporal atingiu Guaxupé entre a tarde de sábado e a madrugada de domingo, provocando alagamentos, deslizamentos de terra, desabamentos de muros e quedas de árvores. A prefeitura registrou 73,6 milímetros de chuva. Dois trabalhadores ficaram assustados enquanto montavam a árvore de Natal na praça da Avenida Conde Ribeiro, um deles no alto da estrutura.",
-          "porQueImporta": "O evento demonstra os riscos de atividades ao ar livre durante condições meteorológicas adversas.",
+          "clusterId": "57be30949c609bf2",
+          "slug": "228d8a562f8bd675",
+          "titulo": "Temporal causa queda de energia em cidades da Região dos Lagos",
+          "resumo": "Um temporal com rajadas de vento e descargas atmosféricas derrubou árvores e inundou ruas em várias cidades da Região dos Lagos, gerando falta de energia elétrica. Motoristas e pedestres foram forçados a buscar abrigo. Em Cabo Frio, 4.859 famílias permaneciam sem energia até as 22h do domingo.",
+          "porQueImporta": "A interrupção de energia compromete a segurança e o funcionamento das comunidades locais.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/08/chuvas-sul-de-minas.ghtml"
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/08/cidades-da-regiao-dos-lagos-estao-entre-as-mais-afetadas-pela-falta-de-energia-apos-temporal.ghtml"
             }
           ],
-          "updatedAt": "2026-11-08T18:14:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gqj4tfRT2Kq0LSTSX-ue9_MEpxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Q/SCbGuXSYa0sBo3TdCGjA/gxp.png"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
-        {
-          "clusterId": "fe20851c0487ec4b",
-          "slug": "0969b5a4c8974936",
-          "titulo": "Adolescente de 14 anos sofre acidente com árvore durante temporal em Santa Bárbara d'Oeste",
-          "resumo": "Uma adolescente de 14 anos foi atingida por uma árvore durante um temporal em Santa Bárbara d'Oeste, sofrendo traumatismo craniano e lesões no pé. Ela passou por cirurgia de alto risco na cabeça e teve o pé reconstruído, evitando a amputação dos dedos. Os procedimentos foram concluídos com sucesso no sábado (7).",
-          "porQueImporta": "O caso destaca os riscos de acidentes com árvores em períodos de tempestade e a importância de intervenções médicas rápidas.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/08/adolescente-atingida-por-arvore-durante-temporal-sofreu-traumatismo-e-passou-por-reconstrucao-do-pe-diz-prima.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T20:00:17.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/o1l0rjFImTDPJgFKZs1qvuazduA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/Y/2mPAKRTgiubhYdBg7B6Q/eptv-cp-bdc-2409-flagra-faixa-exclusiva-1-.png"
-        },
-        {
-          "clusterId": "4d6a040a539235a8",
-          "slug": "249f7cf42b03f03c",
-          "titulo": "Corpo encontrado em rio durante buscas por menino de 12 anos desaparecido em Unaí",
-          "resumo": "O Corpo de Bombeiros encontrou um corpo às margens do Rio Preto em Unaí, Minas Gerais, na manhã de domingo. A descoberta ocorreu durante as buscas por um menino de 12 anos que desapareceu na sexta-feira, dia 6. Ainda não há confirmação de que o corpo seja do adolescente. As equipes foram acionadas após relatos de um possível afogamento na Cachoeira do Rio.",
-          "porQueImporta": "A ocorrência pode esclarecer o destino do menino desaparecido e indicar se houve afogamento.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/08/corpo-e-encontrado-em-rio-durante-buscas-por-menino-de-12-anos-desaparecido-em-unai.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-08T19:52:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Vc_Pp0Jst2d0GFJDq8u8v4Lnmas=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/N/IBVwfAThW4ktMMEaoVQw/whatsapp-image-2026-11-08-at-16.43.35.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "f4e7e3d26e3f420b",
-          "slug": "73444f4d56ca5566",
-          "titulo": "Piloto de helicóptero morre após queda em zona rural de Minas Gerais",
-          "resumo": "Um helicóptero caiu em uma fazenda na zona rural de Passos, Minas Gerais, matando o piloto de 43 anos. A aeronave transportava mais quatro pessoas, que foram internadas com quadro estável. O corpo do piloto será analisado pelo IML.",
-          "porQueImporta": "O acidente destaca a necessidade de segurança em voos de helicóptero em áreas rurais.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/piloto-de-43-anos-morre-apos-queda-de-helicoptero-em-fazenda-em-minas-gerais/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/morre-piloto-de-helicoptero-que-caiu-em-zona-rural-de-minas-gerais/"
-            }
-          ],
-          "updatedAt": "2026-11-08T17:28:48.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Helicoptero.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "b419e9bd0542f9df",
-          "slug": "bd147bcff74f1f05",
-          "titulo": "Incêndio em casa em Ceilândia deixa mulher e criança feridas",
-          "resumo": "Um incêndio atingiu uma residência em Ceilândia, no domingo (8/11). A mulher e a criança que estavam na casa ficaram feridas, mas permaneceram conscientes e orientadas pelos bombeiros. As vítimas apresentaram ferimentos leves e foram atendidas no local.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança contra incêndios em residências.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/distrito-federal/mulher-e-crianca-ficam-feridas-apos-casa-pegar-fogo-em-ceilandia"
-            }
-          ],
-          "updatedAt": "2026-11-08T19:56:00.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/11/incendio-casa-ceilandia.jpeg"
+          "updatedAt": "2026-11-09T02:45:18.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9pzYf7gVRTnVVx3StNLU0GOKDLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/CcHpJdSLW5e7HbwXVT4Q/whatsapp-image-2026-11-07-at-18.40.06.jpeg"
         }
       ]
     },
@@ -658,43 +436,65 @@
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "a3a863d9da7816ec",
-          "slug": "09a3092878b13b01",
-          "titulo": "Empreendedores ensinam como enfrentar desastres após enchentes no RS",
-          "resumo": "Após as enchentes que atingiram o Rio Grande do Sul, empreendedores criaram uma trilha gratuita com 21 vídeos curtos para orientar pessoas sobre como lidar com os impactos. Os vídeos trazem orientações de quem vivenciou a situação e abordam estratégias de resiliência e recuperação. A iniciativa visa capacitar a comunidade a se preparar e responder a futuros eventos semelhantes.",
-          "porQueImporta": "A iniciativa oferece recursos práticos para comunidades afetadas por desastres, fortalecendo a resiliência local.",
+          "clusterId": "3234133aac56ecd5",
+          "slug": "cc04fbeaae70df18",
+          "titulo": "Defesa Civil alerta sobre chuvas na Serra do Rio, ruas e hospital municipal atingidos em São José do Vale do Rio Preto",
+          "resumo": "A Defesa Civil da Região Serrana do Rio monitorou as condições climáticas e emitiu um aviso de chuva forte a moderada em São José do Vale do Rio Preto. O alerta permanece até 10h da segunda-feira. As chuvas causaram alagamento nas ruas e afetaram o hospital municipal da cidade.",
+          "porQueImporta": "O alagamento pode comprometer a saúde pública e a mobilidade urbana na região.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/economia/money/negocios/apos-enchentes-no-rs-empreendedores-ensinam-negocios-a-enfrentar-desastres/"
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/09/defesas-civis-monitoram-situacao-das-chuvas-na-serra-do-rio-sao-jose-do-vale-do-rio-preto-teve-ruas-alagadas.ghtml"
             }
           ],
-          "updatedAt": "2026-11-08T18:58:34.000Z"
+          "updatedAt": "2026-11-09T06:02:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/i2-_XnXpbUGfjTX6U5AgyLDTil4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/6/DgvVBsSLChuWxFaDAU6w/chuva-causou-transtornos-em-sao-jose-do-vale-do-rio-preto.png"
+        },
+        {
+          "clusterId": "f5b20d7a01ce7d79",
+          "slug": "00c2b377e92e9063",
+          "titulo": "Defesa Civil já demoliu mais de 150 casas em Juiz de Fora",
+          "resumo": "A Defesa Civil demoliu 156 casas em áreas atingidas por chuvas em Juiz de Fora, das quais 38 foram derrubadas entre terça e sexta-feira. O bairro Jardim Natal recebeu a maior parte das intervenções, com 30 demolições. Outras demolições ocorreram nos bairros Costa Carvalho, Grajaú e Santa Helena. A expectativa é que os trabalhos continuem nos próximos dias.",
+          "porQueImporta": "Reduz o risco de acidentes e protege a população em áreas de risco.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/09/defesa-civil-ja-demoliu-mais-de-150-casas-condenadas-apos-chuvas-em-juiz-de-fora.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-09T06:01:23.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/uEMj4h8baKSBfAx501CatzRvFiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/j/nuCcZbTIuoyvaEeiY5bA/demolicao-parque-burnier.jpeg"
         }
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "054d9a35e1f2ed66",
-          "slug": "97b1d2fe32210d7c",
-          "titulo": "Erosão avança em direção a casas em cidade de MG e coloca cinco imóveis em área de risco",
-          "resumo": "Uma erosão em propriedade rural de Santa Vitória, no Triângulo Mineiro, avançou em direção a casas do bairro Dom Alexandre. A cratera está a cerca de 20 metros dos imóveis e coloca cinco residências em área de risco. Moradores acompanham o avanço e temem danos à estrutura das casas. A Defesa Civil foi acionada para avaliar os riscos.",
-          "porQueImporta": "O avanço da erosão pode comprometer a segurança e a estabilidade das residências próximas.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "5f4a897fde3632b2",
+          "slug": "a491cb8ad4347d54",
+          "titulo": "Helicóptero cai em fazenda em Passos, MG, deixando um morto",
+          "resumo": "Um helicóptero caiu em uma fazenda em Passos, Minas Gerais, na tarde de sábado. O acidente deixou um piloto, Rafael Grossi Teixeira, de 43 anos, morto. A aeronave transportava mais quatro pessoas que participavam de um casamento na propriedade. O helicóptero caiu de cerca de 20 metros.",
+          "porQueImporta": "O incidente destaca a necessidade de segurança em operações de helicópteros em áreas rurais.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/imagens-mostram-queda-de-helicoptero-em-zona-rural-de-mg-veja-video/"
+            },
+            {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/08/erosao-avanca-em-direcao-a-casas-em-cidade-de-mg-e-coloca-cinco-imoveis-em-area-de-risco.ghtml"
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/09/quem-era-o-piloto-de-helicoptero-que-morreu-apos-queda-de-aeronave-em-mg.ghtml"
             }
           ],
-          "updatedAt": "2026-11-08T18:10:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JvzvRYEbcrCPd8k360tsXioJzAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/4/MBEG9RQqyZNdEMbPdVdA/design-sem-nome-3-.png"
+          "updatedAt": "2026-11-09T03:00:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/txqorJtTojI4FiutXhY2tNuKb64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/c/UE8kGiTcuuZtBzXTSyog/nota-de-pesar-rafael-grossi-teixeira745.jpg"
         }
       ]
     }
