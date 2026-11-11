@@ -1,307 +1,214 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T21:54:20.910Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T06:58:48.541Z",
   "home": [
     {
-      "clusterId": "0b98317ef9017871",
-      "slug": "faa73534f57df7f5",
-      "titulo": "Forte chuva causa alagamentos, queda de árvores e deixa bairros sem energia na Grande Belém",
-      "resumo": "Uma forte chuva acompanhada de ventania atingiu a Região Metropolitana de Belém, provocando alagamentos de vias e queda de árvores. Parte da estrutura metálica de uma passarela do BRT caiu sobre um ônibus, e o fornecimento de energia elétrica foi interrompido após incêndio na fiação. Os transtornos afetaram a capital paraense e municípios vizinhos.",
-      "porQueImporta": "O evento comprometeu a mobilidade urbana e a segurança pública na região.",
+      "clusterId": "cb1d62e897d72b2e",
+      "slug": "81a8d0e593fc916f",
+      "titulo": "SUV invade calçada em Los Angeles",
+      "resumo": "Um SUV avançou contra pedestres no bairro de North Hollywood, em Los Angeles, deixando três mortos e três feridos gravemente. O incidente ocorreu pouco antes das 18h local. Autoridades ainda não determinaram se foi acidental ou intencional.",
+      "porQueImporta": "O acidente resultou em mortes e feridos graves, destacando riscos de segurança viária em áreas urbanas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/11/carro-invade-calcada-em-los-angeles-mortos-e-feridos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-11T06:23:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/hq9zqtrNDu8Z9WWzZgU4FMpMrPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/b/9tlBssRjGLq3RhuDlpfw/captura-de-tela-2026-11-11-032046.png"
+    },
+    {
+      "clusterId": "a08705f9d2d0a51d",
+      "slug": "a820ae9aa258ce38",
+      "titulo": "Enchentes no Capão Redondo já vitimaram 4 pessoas em 2 anos",
+      "resumo": "Enchentes em um raio de 1,8 km no Capão Redondo já causaram a morte de quatro pessoas em dois anos. Um jovem de 20 anos, Klaiver Peixoto, desapareceu em 7 de novembro após ser arrastado por uma enxurrada.",
+      "porQueImporta": "O caso destaca a persistente ameaça de inundações na região e a necessidade de medidas de prevenção e resposta rápida.",
       "categoria": "Enchente",
       "categoriaSlug": "enchente",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/para/noticia/2026/11/10/forte-chuva-causa-alagamentos-queda-de-arvores-e-deixa-bairros-sem-energia-na-grande-belem.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/capao-redondo-enchentes-num-raio-de-18km-ja-vitimaram-4-pessoas-em-2-anos"
         }
       ],
-      "updatedAt": "2026-11-10T21:29:10.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/xuLL71r9m6pitfB_Wk-xmOo3wWA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/2/UxRXdwQBCzn1yYFpQBSQ/chuva-belem.jpg"
+      "updatedAt": "2026-11-11T05:15:33.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/capao-redondo.jpg"
     },
     {
-      "clusterId": "ee1871fe5dcb9ed1",
-      "slug": "82289c3eb73970d3",
-      "titulo": "Micro-ônibus escolar tomba em estrada rural de Taquarivaí",
-      "resumo": "Um micro-ônibus com 11 passageiros, incluindo crianças e adolescentes, tombou na Estrada Municipal Humberto Quicoli, na zona rural de Taquarivaí (SP), na tarde de terça-feira. O veículo caiu, mas ninguém ficou ferido. Todos os passageiros foram encaminhados ao Pronto Atendimento da cidade, receberam atendimento médico e foram liberados.",
-      "porQueImporta": "O acidente destaca a importância da segurança no transporte escolar em áreas rurais.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "546c13adc025c96b",
+      "slug": "6c1d6c824b44d986",
+      "titulo": "Fiemg denuncia \"tempestade perfeita\" contra o aço em MG e pede ação federal",
+      "resumo": "A Federação das Indústrias do Estado de Minas Gerais (Fiemg) apontou juros altos, importações e falta de defesa comercial como fatores que prejudicam o setor de aço no estado. A entidade apresentou 35 medidas ao governo estadual buscando apoio federal. A Fiemg considera que a combinação desses elementos cria uma situação de crise para a indústria do aço em Minas Gerais.",
+      "porQueImporta": "A situação pode afetar a produção e emprego no setor industrial do estado.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/10/micro-onibus-escolar-com-criancas-e-adolescentes-tomba-em-estrada-rural-de-taquarivai.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/fiemg-ve-tempestade-perfeita-contra-o-aco-em-mg-e-cobra-acao-federal"
         }
       ],
-      "updatedAt": "2026-11-10T20:59:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/pvaKUmvXehcPs8AELci3BHrNR8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/t/h1Ozr3RhiRBbHGdkaNsw/untitled.jpg"
+      "updatedAt": "2026-11-11T05:00:18.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/bronze-siderurgia-02-jpg-3x2-1.jpg"
     },
     {
-      "clusterId": "b8f584d0c47b123e",
-      "slug": "cc231c6af3102f2d",
-      "titulo": "Polícia Federal abre investigação sobre incêndios em Alter do Chão",
-      "resumo": "A Polícia Federal iniciou um inquérito para investigar os incêndios que atingiram a Área de Proteção Ambiental de Alter do Chão, em Santarém, Pará. O fogo já destruiu mais de 564 hectares da região protegida, de acordo com levantamento da Brigada de Alter. A investigação tramita sob sigilo e busca identificar possíveis responsáveis.",
-      "porQueImporta": "O incêndio ameaça a biodiversidade da região e pode ter impactos ambientais significativos.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/10/pf-abre-investigacao-para-apurar-incendios-em-alter-do-chao-onde-fogo-ja-destruiu-mais-de-564-hectares.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-10T20:55:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vVcd699ihJ1YZwY4e4lGA9-Dxvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/qweoANQESasC96iGws1A/jkldwbfkkc6hjy7tr26tlj3rob8oe8z4m7d93il3.webp"
-    },
-    {
-      "clusterId": "794b5bd295c8377f",
-      "slug": "faa9484476b9feb7",
-      "titulo": "Defesa Civil do Ceará esclarece que recomendação de kit de emergência não indica risco iminente",
-      "resumo": "A Defesa Civil do Ceará informou que a recomendação de preparar kits de emergência não indica risco iminente no estado. A orientação veio após circulação de avisos da Defesa Civil Nacional sobre a necessidade de suprimentos para até 72 horas. O comunicado destacou que os alertas sobre eventos climáticos severos se concentram principalmente na região Sul do Brasil, onde há chuvas intensas, vendavais e inundações.",
-      "porQueImporta": "A informação evita alarmes desnecessários na população do Ceará.",
+      "clusterId": "873dc19a9a49c593",
+      "slug": "3635d504b070eefa",
+      "titulo": "Influenciador demonstra calor intenso no Recife ao fritar ovo na calçada",
+      "resumo": "Um influenciador do Recife, conhecido como Atacante, usou uma frigideira no chão para fritar um ovo, mostrando a temperatura elevada da cidade. O vídeo mostra a manteiga chiando ao entrar em contato com a superfície quente e o ovo sendo mexido. A ação foi feita para ilustrar a intensidade do calor que acompanha o fenômeno Super El Niño. O conteúdo foi publicado nas redes sociais e ganhou atenção da mídia local.",
+      "porQueImporta": "Ilustra o impacto das altas temperaturas previstas para 2026 na região.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/10/defesa-civil-do-ceara-esclarece-que-recomendacao-de-kit-de-emergencia-nao-indica-risco-iminente.ghtml"
+          "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/11/influenciador-frita-ovo-na-calcada-e-prova-onda-de-calor-no-recife-video.ghtml"
         }
       ],
-      "updatedAt": "2026-11-10T20:51:40.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zFusYH5R1lfA3HzAySahoEy4Qpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/W/bALrWWQZGiL7A60IVBnA/befunky-collage-12-.jpg"
+      "updatedAt": "2026-11-11T05:00:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/sqdYDHq4zEkP0Kh1-8wFjoK5GMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/w/gmrJbDQbGDj3HYDnKkmg/g1-18-.jpg"
     },
     {
-      "clusterId": "62b43c184020f750",
-      "slug": "2a2a587b72009fc2",
-      "titulo": "Homem encontrado morto após incêndio destruir casa de madeira em MT",
-      "resumo": "Um homem de 53 anos foi encontrado morto no quarto de uma casa de madeira que foi destruída por um incêndio no garimpo Novo Astro, em Nova Bandeirantes, MT. A Polícia Civil foi acionada na madrugada de terça-feira e constatou que o fogo havia destruído toda a estrutura da residência. Moradores registraram o momento em que a casa foi atingida pelas chamas. O caso ainda está em investigação.",
-      "porQueImporta": "O incidente destaca os riscos de incêndios em áreas de garimpo e a necessidade de medidas de segurança e prevenção.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/10/homem-e-encontrado-morto-apos-incendio-destruir-casa-de-madeira-em-mt-video.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-10T20:46:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jEWsSrxsCzY8r0fIFlkJWEL2x4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/d/4wVyA1RlOQfck8BiUAHw/foto-g1-2026-11-10t162539.908.png"
-    },
-    {
-      "clusterId": "2b321b58346215c1",
-      "slug": "a2616cecee02c86f",
-      "titulo": "Acidente entre carretas deixa motorista ferido em Piracicaba",
-      "resumo": "Duas carretas colidiram na Rodovia Ernesto Paterniani, em Piracicaba, causando ferimentos moderados em um motorista. O acidente ocorreu por volta das 15h40, no km 5, no sentido Rio Claro. O condutor foi atendido pelo Corpo de Bombeiros e encaminhado à Santa Casa de Piracicaba. O outro motorista não sofreu ferimentos.",
-      "porQueImporta": "O acidente envolve veículos pesados e pode indicar risco de acidentes semelhantes na região.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/10/acidente-entre-carretas-deixa-motorista-ferido-em-piracicaba.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-10T20:36:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/j8uDRP91X25EW4lb8neYuslKNvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/A/1WTxW4TeKu9xM9StuWZg/whatsapp-image-2026-11-10-at-16.55.00.jpeg"
-    },
-    {
-      "clusterId": "7f8d4593b76f0b82",
-      "slug": "f996a06ff69282c9",
-      "titulo": "Polícia investiga homem de 57 anos por importunação sexual contra adolescente de 12 anos em Teodoro Sampaio",
-      "resumo": "A Polícia Civil registrou investigação contra um homem de 57 anos por suposta importunação sexual contra uma adolescente de 12 anos em Teodoro Sampaio, SP. A família relatou que a menina e sua irmã, também menores, teriam pegado carona com o homem, que é conhecido da mãe das vítimas. O caso foi registrado na terça-feira (10).",
-      "porQueImporta": "O caso envolve a proteção de menores e a atuação das autoridades policiais na prevenção de crimes sexuais.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/10/policia-investiga-homem-por-importunacao-sexual-contra-adolescente-de-12-anos-em-teodoro-sampaio.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-10T20:22:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1luDguOEzpy3axpNhEVmBVf9Fmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/n/e/TANKwORnmIWLLOytzaGQ/img-20210609-110523244-hdr.jpg"
-    },
-    {
-      "clusterId": "53decd4b55e8dfd6",
-      "slug": "31f53426964bf337",
-      "titulo": "Motociclista morre após colisão com caminhão em rodovia no interior do Piauí",
-      "resumo": "Um motociclista, identificado como José Roberto Machado dos Anjos, de 36 anos, morreu após bater na traseira de um caminhão na PI-354, em Jacarandá, Olho d'Água do Piauí. Os veículos seguiam no mesmo sentido da rodovia no momento do acidente. A Polícia Militar suspeita que a motocicleta tenha colidido na traseira do caminhão. As circunstâncias do acidente serão investigadas.",
-      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias do interior.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/10/motociclista-morre-colisao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-10T20:14:13.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Irs7BjdgCddrcgxJFROyWOzBrzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/6/1yWrJSSgeTJdH5XOz1tw/edicao-imagens-g1-1-.jpg"
-    },
-    {
-      "clusterId": "15e4770e942dcbe4",
-      "slug": "36438849c21485f2",
-      "titulo": "Queda de 500 árvores durante temporal em Santa Bárbara d'Oeste",
-      "resumo": "Durante o temporal que começou por volta das 15h do último sábado, mais de 500 árvores caíram em Santa Bárbara d'Oeste, SP, registrando o maior número de ocorrências em um único dia nos últimos 15 anos. A queda afetou mais de 150 pontos da cidade, exigindo a mobilização de equipes de vários municípios para limpeza e restauração.",
-      "porQueImporta": "O evento destaca a intensidade da tempestade e a necessidade de ações de recuperação urbana.",
+      "clusterId": "9572300c597c9813",
+      "slug": "a69fad4be232b4b8",
+      "titulo": "Previsão do tempo em Goiânia: sol e pancadas de chuva",
+      "resumo": "Para a quarta-feira (11), a previsão para Goiânia indica sol com algumas nuvens e pancadas de chuva e trovoadas durante a manhã, tarde e noite. As máximas previstas são de 29ºC e as mínimas de 20ºC. No dia seguinte, a previsão mantém sol e nuvens, com chuva na manhã e temporal à tarde e à noite.",
+      "porQueImporta": "Informa a população sobre condições climáticas que podem afetar atividades diárias.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/10/plantio-idade-e-mudancas-climaticas-o-que-pode-explicar-500-arvores-caidas-durante-temporal-em-cidade-no-interior-de-sp.ghtml"
+          "url": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/11/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml"
         }
       ],
-      "updatedAt": "2026-11-10T20:12:53.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CFWgggL7RBnZJmFSmrknHOF3AN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/t/U3C9BwQoOoBladLxwrJA/vlcsnap-2026-11-10-15h10m42s520.png"
+      "updatedAt": "2026-11-11T04:15:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/clyWM7wnzCZ3seNv0aTIY4aKDzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/nlyBaeTBiAJahEXcNJxQ/previsao-tempo-goi-nia-20261111-011538.jpeg"
     },
     {
-      "clusterId": "e1b098e1263d59ed",
-      "slug": "847eb26bf748bb1c",
-      "titulo": "Motorista passa mal provoca acidente e capota carro em cruzamento de São Sebastião do Paraíso",
-      "resumo": "Um motorista de Volkswagen Gol sofreu mal-estar enquanto trafegava pela Travessa da Bahia, no bairro Mocoquinha, e acabou capotando o veículo no cruzamento com a Rua Raul Soares. A colisão resultou em ferimentos em uma mulher de 62 anos. As equipes de Bombeiros, SAMU, Polícia Militar e Guarda Civil Municipal foram acionadas no local.",
-      "porQueImporta": "O incidente destaca a importância de atenção à saúde dos condutores para prevenir acidentes de trânsito.",
+      "clusterId": "e86cf4d1dd17ba78",
+      "slug": "1c034dd42b12c566",
+      "titulo": "Velejador americano resgatado a 1,6 mil km da costa do Rio",
+      "resumo": "O velejador americano Guy deBoer, de 70 anos, foi resgatado pela Marinha do Brasil a cerca de 1,600 km da costa fluminense, enquanto participava da regata Golden Globe Race 2026. Ele estava sozinho a bordo do veleiro Spirit quando sofreu um acidente na última segunda-feira. Após o resgate, deBoer desembarcou na Corveta Barroso e será encaminhado de ambulância para um hospital. A chegada prevista ao Rio de Janeiro é para a manhã desta quarta-feira.",
+      "porQueImporta": "O caso demonstra a capacidade de resposta da Marinha brasileira em situações de emergência marítima distante da costa.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/11/velejador-americano-resgatado-a-16-mil-km-da-costa-chega-ao-rio-nesta-quarta-feira.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-11T03:00:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/sVWpjoSEY1ZhsVFuQK760mmHo-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/C/PqQV27SHCxyrAcB6MIdQ/img-20261108-wa0012.jpg"
+    },
+    {
+      "clusterId": "cc01e9adf4b8e590",
+      "slug": "330826844874cc93",
+      "titulo": "Chuvas fortes retornam ao Centro-Sul e São Paulo",
+      "resumo": "A previsão indica que a chuva se intensificará no Centro-Sul e na Região Metropolitana de São Paulo a partir de quarta-feira, com risco de temporais, rajadas de vento e granizo em algumas áreas. O clima frio fora de época deu lugar a instabilidades que devem ganhar força na quinta-feira, atingindo também outras regiões.",
+      "porQueImporta": "A mudança climática pode afetar mobilidade, segurança e atividades cotidianas.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/11/apos-frio-fora-de-epoca-temporais-voltam-ao-centro-sul-veja-previsao.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-11T03:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/aiwUK3cZ7e7WD4c_VPcv0KSzV8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/M/R/diNGXJRIGxnRPR5ruiAA/drf20241205005.jpg"
+    },
+    {
+      "clusterId": "430aff8e176848fa",
+      "slug": "4a81b04d5b0f6071",
+      "titulo": "Acidente com 32 veículos deixa nove gravemente feridos na Coreia do Sul",
+      "resumo": "Um acidente envolvendo 32 veículos, incluindo quatro ônibus, um caminhão e 27 carros, resultou em nove pessoas gravemente feridas e 48 com ferimentos leves. A colisão ocorreu em uma via na Coreia do Sul, causando múltiplos impactos entre os veículos. As autoridades registraram o número de feridos e iniciaram procedimentos de socorro. O incidente destaca a gravidade de colisões em vias movimentadas.",
+      "porQueImporta": "O acidente demonstra o risco de colisões em vias com grande fluxo de veículos e a necessidade de medidas de segurança viária.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/10/ocorrencias-transito.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/acidente-com-32-veiculos-deixa-nove-gravemente-feridos-na-coreia-do-sul/"
         }
       ],
-      "updatedAt": "2026-11-10T20:04:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/XUrIdCwGcEw3HiKwK9ovcD0Wbn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/5/7hBUUZSAGeSDaBRMVsAw/whatsapp-image-2026-11-10-at-16.57.37.jpeg"
+      "updatedAt": "2026-11-11T02:48:25.000Z"
+    },
+    {
+      "clusterId": "15ec5e3587df11a7",
+      "slug": "8d5c64ed28d8a1fa",
+      "titulo": "Raio no mar: eletricidade pode atingir nadadores e a água não dispersa a energia",
+      "resumo": "Um raio pode atingir a água e a eletricidade pode percorrer até 30 metros de distância, colocando em risco quem está nadando. A corrente elétrica pode causar choques fatais, mesmo que a água pareça proteger. É fundamental sair da água durante tempestades para evitar esses perigos.",
+      "porQueImporta": "A informação alerta sobre riscos de saúde e segurança em ambientes aquáticos durante tempestades.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/curiosidades/raio-no-mar-entenda-ate-onde-a-eletricidade-alcanca-os-perigos-reais-para-quem-esta-nadando-e-por-que-sair-da-agua-durante-tempestades-e-vital/"
+        }
+      ],
+      "updatedAt": "2026-11-11T01:08:46.000Z"
+    },
+    {
+      "clusterId": "dbe8d9038d4977c3",
+      "slug": "2d3d10f06e7f3285",
+      "titulo": "Fim do mundo pode ser causado por choque ontológico",
+      "resumo": "O escritor Julio Rojas, criador do podcast Paciente 63, analisa os avanços científicos e tecnológicos que podem levar a um choque ontológico, um evento que altera a percepção da realidade. Ele destaca que, além de meteoros, vírus ou tsunamis, esse tipo de choque pode representar uma ameaça global. Rojas enfatiza a importância de compreender as implicações filosóficas e sociais de tais transformações. A discussão amplia o conceito tradicional de catástrofe ao incluir mudanças profundas na consciência coletiva.",
+      "porQueImporta": "Entender o choque ontológico ajuda a preparar respostas sociais e políticas a transformações tecnológicas que alteram a realidade humana.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cq5yny2krjpeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-11-10T19:24:36.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b485/live/a2ae1cc0-da04-11f1-84c1-dbcae60402d7.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "ee1871fe5dcb9ed1",
-          "slug": "82289c3eb73970d3",
-          "titulo": "Micro-ônibus escolar tomba em estrada rural de Taquarivaí",
-          "resumo": "Um micro-ônibus com 11 passageiros, incluindo crianças e adolescentes, tombou na Estrada Municipal Humberto Quicoli, na zona rural de Taquarivaí (SP), na tarde de terça-feira. O veículo caiu, mas ninguém ficou ferido. Todos os passageiros foram encaminhados ao Pronto Atendimento da cidade, receberam atendimento médico e foram liberados.",
-          "porQueImporta": "O acidente destaca a importância da segurança no transporte escolar em áreas rurais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/10/micro-onibus-escolar-com-criancas-e-adolescentes-tomba-em-estrada-rural-de-taquarivai.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-10T20:59:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pvaKUmvXehcPs8AELci3BHrNR8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/t/h1Ozr3RhiRBbHGdkaNsw/untitled.jpg"
-        },
-        {
-          "clusterId": "2b321b58346215c1",
-          "slug": "a2616cecee02c86f",
-          "titulo": "Acidente entre carretas deixa motorista ferido em Piracicaba",
-          "resumo": "Duas carretas colidiram na Rodovia Ernesto Paterniani, em Piracicaba, causando ferimentos moderados em um motorista. O acidente ocorreu por volta das 15h40, no km 5, no sentido Rio Claro. O condutor foi atendido pelo Corpo de Bombeiros e encaminhado à Santa Casa de Piracicaba. O outro motorista não sofreu ferimentos.",
-          "porQueImporta": "O acidente envolve veículos pesados e pode indicar risco de acidentes semelhantes na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/10/acidente-entre-carretas-deixa-motorista-ferido-em-piracicaba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-10T20:36:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/j8uDRP91X25EW4lb8neYuslKNvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/A/1WTxW4TeKu9xM9StuWZg/whatsapp-image-2026-11-10-at-16.55.00.jpeg"
-        },
-        {
-          "clusterId": "53decd4b55e8dfd6",
-          "slug": "31f53426964bf337",
-          "titulo": "Motociclista morre após colisão com caminhão em rodovia no interior do Piauí",
-          "resumo": "Um motociclista, identificado como José Roberto Machado dos Anjos, de 36 anos, morreu após bater na traseira de um caminhão na PI-354, em Jacarandá, Olho d'Água do Piauí. Os veículos seguiam no mesmo sentido da rodovia no momento do acidente. A Polícia Militar suspeita que a motocicleta tenha colidido na traseira do caminhão. As circunstâncias do acidente serão investigadas.",
-          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias do interior.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/10/motociclista-morre-colisao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-10T20:14:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Irs7BjdgCddrcgxJFROyWOzBrzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/6/1yWrJSSgeTJdH5XOz1tw/edicao-imagens-g1-1-.jpg"
-        },
-        {
-          "clusterId": "e1b098e1263d59ed",
-          "slug": "847eb26bf748bb1c",
-          "titulo": "Motorista passa mal provoca acidente e capota carro em cruzamento de São Sebastião do Paraíso",
-          "resumo": "Um motorista de Volkswagen Gol sofreu mal-estar enquanto trafegava pela Travessa da Bahia, no bairro Mocoquinha, e acabou capotando o veículo no cruzamento com a Rua Raul Soares. A colisão resultou em ferimentos em uma mulher de 62 anos. As equipes de Bombeiros, SAMU, Polícia Militar e Guarda Civil Municipal foram acionadas no local.",
-          "porQueImporta": "O incidente destaca a importância de atenção à saúde dos condutores para prevenir acidentes de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/10/ocorrencias-transito.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-10T20:04:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/XUrIdCwGcEw3HiKwK9ovcD0Wbn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/5/7hBUUZSAGeSDaBRMVsAw/whatsapp-image-2026-11-10-at-16.57.37.jpeg"
-        },
-        {
-          "clusterId": "81398c8373703433",
-          "slug": "63600a89e1c9631c",
-          "titulo": "Acidente em rodovia na Bulgária deixa 11 mortos e 50 feridos",
-          "resumo": "Um engavetamento envolvendo mais de 50 veículos na rodovia sudeste da Bulgária resultou em 11 mortes e 50 feridos. Carros e caminhões ficaram amontoados, alguns capotados e outros lançados para fora da pista, em meio a nevoeiro. Policial, bombeiros e equipes de ambulância atenderam o local rapidamente.",
-          "porQueImporta": "O acidente destaca a gravidade de colisões em rodovias sob condições climáticas adversas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/10/acidente-veiculos-bulgaria.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-10T10:37:10.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SoGGDnwzhOeltee-mHZhiOjUD78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/w/Kxof3gQtaqIQ9FAvAB4A/2026-11-10t092924z-1064181984-rc2xkoa03vuv-rtrmadp-3-bulgaria-crash.jpg"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "794b5bd295c8377f",
-          "slug": "faa9484476b9feb7",
-          "titulo": "Defesa Civil do Ceará esclarece que recomendação de kit de emergência não indica risco iminente",
-          "resumo": "A Defesa Civil do Ceará informou que a recomendação de preparar kits de emergência não indica risco iminente no estado. A orientação veio após circulação de avisos da Defesa Civil Nacional sobre a necessidade de suprimentos para até 72 horas. O comunicado destacou que os alertas sobre eventos climáticos severos se concentram principalmente na região Sul do Brasil, onde há chuvas intensas, vendavais e inundações.",
-          "porQueImporta": "A informação evita alarmes desnecessários na população do Ceará.",
+          "clusterId": "546c13adc025c96b",
+          "slug": "6c1d6c824b44d986",
+          "titulo": "Fiemg denuncia \"tempestade perfeita\" contra o aço em MG e pede ação federal",
+          "resumo": "A Federação das Indústrias do Estado de Minas Gerais (Fiemg) apontou juros altos, importações e falta de defesa comercial como fatores que prejudicam o setor de aço no estado. A entidade apresentou 35 medidas ao governo estadual buscando apoio federal. A Fiemg considera que a combinação desses elementos cria uma situação de crise para a indústria do aço em Minas Gerais.",
+          "porQueImporta": "A situação pode afetar a produção e emprego no setor industrial do estado.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/10/defesa-civil-do-ceara-esclarece-que-recomendacao-de-kit-de-emergencia-nao-indica-risco-iminente.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/minas-gerais/fiemg-ve-tempestade-perfeita-contra-o-aco-em-mg-e-cobra-acao-federal"
             }
           ],
-          "updatedAt": "2026-11-10T20:51:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zFusYH5R1lfA3HzAySahoEy4Qpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/W/bALrWWQZGiL7A60IVBnA/befunky-collage-12-.jpg"
+          "updatedAt": "2026-11-11T05:00:18.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/bronze-siderurgia-02-jpg-3x2-1.jpg"
         },
         {
-          "clusterId": "7f8d4593b76f0b82",
-          "slug": "f996a06ff69282c9",
-          "titulo": "Polícia investiga homem de 57 anos por importunação sexual contra adolescente de 12 anos em Teodoro Sampaio",
-          "resumo": "A Polícia Civil registrou investigação contra um homem de 57 anos por suposta importunação sexual contra uma adolescente de 12 anos em Teodoro Sampaio, SP. A família relatou que a menina e sua irmã, também menores, teriam pegado carona com o homem, que é conhecido da mãe das vítimas. O caso foi registrado na terça-feira (10).",
-          "porQueImporta": "O caso envolve a proteção de menores e a atuação das autoridades policiais na prevenção de crimes sexuais.",
+          "clusterId": "873dc19a9a49c593",
+          "slug": "3635d504b070eefa",
+          "titulo": "Influenciador demonstra calor intenso no Recife ao fritar ovo na calçada",
+          "resumo": "Um influenciador do Recife, conhecido como Atacante, usou uma frigideira no chão para fritar um ovo, mostrando a temperatura elevada da cidade. O vídeo mostra a manteiga chiando ao entrar em contato com a superfície quente e o ovo sendo mexido. A ação foi feita para ilustrar a intensidade do calor que acompanha o fenômeno Super El Niño. O conteúdo foi publicado nas redes sociais e ganhou atenção da mídia local.",
+          "porQueImporta": "Ilustra o impacto das altas temperaturas previstas para 2026 na região.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/10/policia-investiga-homem-por-importunacao-sexual-contra-adolescente-de-12-anos-em-teodoro-sampaio.ghtml"
+              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/11/influenciador-frita-ovo-na-calcada-e-prova-onda-de-calor-no-recife-video.ghtml"
             }
           ],
-          "updatedAt": "2026-11-10T20:22:56.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1luDguOEzpy3axpNhEVmBVf9Fmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/n/e/TANKwORnmIWLLOytzaGQ/img-20210609-110523244-hdr.jpg"
+          "updatedAt": "2026-11-11T05:00:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sqdYDHq4zEkP0Kh1-8wFjoK5GMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/w/gmrJbDQbGDj3HYDnKkmg/g1-18-.jpg"
         },
         {
           "clusterId": "dbe8d9038d4977c3",
@@ -335,91 +242,62 @@
             }
           ],
           "updatedAt": "2026-11-09T10:21:00.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "cb1d62e897d72b2e",
+          "slug": "81a8d0e593fc916f",
+          "titulo": "SUV invade calçada em Los Angeles",
+          "resumo": "Um SUV avançou contra pedestres no bairro de North Hollywood, em Los Angeles, deixando três mortos e três feridos gravemente. O incidente ocorreu pouco antes das 18h local. Autoridades ainda não determinaram se foi acidental ou intencional.",
+          "porQueImporta": "O acidente resultou em mortes e feridos graves, destacando riscos de segurança viária em áreas urbanas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/11/carro-invade-calcada-em-los-angeles-mortos-e-feridos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-11T06:23:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/hq9zqtrNDu8Z9WWzZgU4FMpMrPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/b/9tlBssRjGLq3RhuDlpfw/captura-de-tela-2026-11-11-032046.png"
         },
         {
-          "clusterId": "968e07f0c661d515",
-          "slug": "2d1c034723e72107",
-          "titulo": "Incêndio em prédio de apartamentos mata 14 pessoas na China",
-          "resumo": "Um incêndio em um prédio de apartamentos em Taiyuan, na província de Shanxi, no norte da China, deixou 14 mortos no domingo (8), segundo informações divulgadas nesta segunda-feira (9) pela agência estatal Xinhua. Até o momento, não foram divulgadas informações sobre as causas do incêndio nem sobre possíveis feridos. *A notícia está em atualização. *Com informações da Reuters. Agora no g1",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "430aff8e176848fa",
+          "slug": "4a81b04d5b0f6071",
+          "titulo": "Acidente com 32 veículos deixa nove gravemente feridos na Coreia do Sul",
+          "resumo": "Um acidente envolvendo 32 veículos, incluindo quatro ônibus, um caminhão e 27 carros, resultou em nove pessoas gravemente feridas e 48 com ferimentos leves. A colisão ocorreu em uma via na Coreia do Sul, causando múltiplos impactos entre os veículos. As autoridades registraram o número de feridos e iniciaram procedimentos de socorro. O incidente destaca a gravidade de colisões em vias movimentadas.",
+          "porQueImporta": "O acidente demonstra o risco de colisões em vias com grande fluxo de veículos e a necessidade de medidas de segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/09/incendio-em-predio-de-apartamentos-mata-na-china.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/acidente-com-32-veiculos-deixa-nove-gravemente-feridos-na-coreia-do-sul/"
             }
           ],
-          "updatedAt": "2026-11-09T04:38:46.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
+          "updatedAt": "2026-11-11T02:48:25.000Z"
+        },
         {
-          "clusterId": "0b98317ef9017871",
-          "slug": "faa73534f57df7f5",
-          "titulo": "Forte chuva causa alagamentos, queda de árvores e deixa bairros sem energia na Grande Belém",
-          "resumo": "Uma forte chuva acompanhada de ventania atingiu a Região Metropolitana de Belém, provocando alagamentos de vias e queda de árvores. Parte da estrutura metálica de uma passarela do BRT caiu sobre um ônibus, e o fornecimento de energia elétrica foi interrompido após incêndio na fiação. Os transtornos afetaram a capital paraense e municípios vizinhos.",
-          "porQueImporta": "O evento comprometeu a mobilidade urbana e a segurança pública na região.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
+          "clusterId": "81398c8373703433",
+          "slug": "63600a89e1c9631c",
+          "titulo": "Acidente em rodovia na Bulgária deixa 11 mortos e 50 feridos",
+          "resumo": "Um engavetamento envolvendo mais de 50 veículos na rodovia sudeste da Bulgária resultou em 11 mortes e 50 feridos. Carros e caminhões ficaram amontoados, alguns capotados e outros lançados para fora da pista, em meio a nevoeiro. Policial, bombeiros e equipes de ambulância atenderam o local rapidamente.",
+          "porQueImporta": "O acidente destaca a gravidade de colisões em rodovias sob condições climáticas adversas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pa/para/noticia/2026/11/10/forte-chuva-causa-alagamentos-queda-de-arvores-e-deixa-bairros-sem-energia-na-grande-belem.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/10/acidente-veiculos-bulgaria.ghtml"
             }
           ],
-          "updatedAt": "2026-11-10T21:29:10.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/xuLL71r9m6pitfB_Wk-xmOo3wWA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/2/UxRXdwQBCzn1yYFpQBSQ/chuva-belem.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "b8f584d0c47b123e",
-          "slug": "cc231c6af3102f2d",
-          "titulo": "Polícia Federal abre investigação sobre incêndios em Alter do Chão",
-          "resumo": "A Polícia Federal iniciou um inquérito para investigar os incêndios que atingiram a Área de Proteção Ambiental de Alter do Chão, em Santarém, Pará. O fogo já destruiu mais de 564 hectares da região protegida, de acordo com levantamento da Brigada de Alter. A investigação tramita sob sigilo e busca identificar possíveis responsáveis.",
-          "porQueImporta": "O incêndio ameaça a biodiversidade da região e pode ter impactos ambientais significativos.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/10/pf-abre-investigacao-para-apurar-incendios-em-alter-do-chao-onde-fogo-ja-destruiu-mais-de-564-hectares.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-10T20:55:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vVcd699ihJ1YZwY4e4lGA9-Dxvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/qweoANQESasC96iGws1A/jkldwbfkkc6hjy7tr26tlj3rob8oe8z4m7d93il3.webp"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "62b43c184020f750",
-          "slug": "2a2a587b72009fc2",
-          "titulo": "Homem encontrado morto após incêndio destruir casa de madeira em MT",
-          "resumo": "Um homem de 53 anos foi encontrado morto no quarto de uma casa de madeira que foi destruída por um incêndio no garimpo Novo Astro, em Nova Bandeirantes, MT. A Polícia Civil foi acionada na madrugada de terça-feira e constatou que o fogo havia destruído toda a estrutura da residência. Moradores registraram o momento em que a casa foi atingida pelas chamas. O caso ainda está em investigação.",
-          "porQueImporta": "O incidente destaca os riscos de incêndios em áreas de garimpo e a necessidade de medidas de segurança e prevenção.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/10/homem-e-encontrado-morto-apos-incendio-destruir-casa-de-madeira-em-mt-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-10T20:46:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jEWsSrxsCzY8r0fIFlkJWEL2x4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/d/4wVyA1RlOQfck8BiUAHw/foto-g1-2026-11-10t162539.908.png"
+          "updatedAt": "2026-11-10T10:37:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SoGGDnwzhOeltee-mHZhiOjUD78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/w/Kxof3gQtaqIQ9FAvAB4A/2026-11-10t092924z-1064181984-rc2xkoa03vuv-rtrmadp-3-bulgaria-crash.jpg"
         }
       ]
     },
@@ -428,21 +306,100 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "15e4770e942dcbe4",
-          "slug": "36438849c21485f2",
-          "titulo": "Queda de 500 árvores durante temporal em Santa Bárbara d'Oeste",
-          "resumo": "Durante o temporal que começou por volta das 15h do último sábado, mais de 500 árvores caíram em Santa Bárbara d'Oeste, SP, registrando o maior número de ocorrências em um único dia nos últimos 15 anos. A queda afetou mais de 150 pontos da cidade, exigindo a mobilização de equipes de vários municípios para limpeza e restauração.",
-          "porQueImporta": "O evento destaca a intensidade da tempestade e a necessidade de ações de recuperação urbana.",
+          "clusterId": "9572300c597c9813",
+          "slug": "a69fad4be232b4b8",
+          "titulo": "Previsão do tempo em Goiânia: sol e pancadas de chuva",
+          "resumo": "Para a quarta-feira (11), a previsão para Goiânia indica sol com algumas nuvens e pancadas de chuva e trovoadas durante a manhã, tarde e noite. As máximas previstas são de 29ºC e as mínimas de 20ºC. No dia seguinte, a previsão mantém sol e nuvens, com chuva na manhã e temporal à tarde e à noite.",
+          "porQueImporta": "Informa a população sobre condições climáticas que podem afetar atividades diárias.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/10/plantio-idade-e-mudancas-climaticas-o-que-pode-explicar-500-arvores-caidas-durante-temporal-em-cidade-no-interior-de-sp.ghtml"
+              "url": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/11/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml"
             }
           ],
-          "updatedAt": "2026-11-10T20:12:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CFWgggL7RBnZJmFSmrknHOF3AN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/t/U3C9BwQoOoBladLxwrJA/vlcsnap-2026-11-10-15h10m42s520.png"
+          "updatedAt": "2026-11-11T04:15:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/clyWM7wnzCZ3seNv0aTIY4aKDzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/nlyBaeTBiAJahEXcNJxQ/previsao-tempo-goi-nia-20261111-011538.jpeg"
+        },
+        {
+          "clusterId": "cc01e9adf4b8e590",
+          "slug": "330826844874cc93",
+          "titulo": "Chuvas fortes retornam ao Centro-Sul e São Paulo",
+          "resumo": "A previsão indica que a chuva se intensificará no Centro-Sul e na Região Metropolitana de São Paulo a partir de quarta-feira, com risco de temporais, rajadas de vento e granizo em algumas áreas. O clima frio fora de época deu lugar a instabilidades que devem ganhar força na quinta-feira, atingindo também outras regiões.",
+          "porQueImporta": "A mudança climática pode afetar mobilidade, segurança e atividades cotidianas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/11/apos-frio-fora-de-epoca-temporais-voltam-ao-centro-sul-veja-previsao.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-11T03:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aiwUK3cZ7e7WD4c_VPcv0KSzV8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/M/R/diNGXJRIGxnRPR5ruiAA/drf20241205005.jpg"
+        },
+        {
+          "clusterId": "15ec5e3587df11a7",
+          "slug": "8d5c64ed28d8a1fa",
+          "titulo": "Raio no mar: eletricidade pode atingir nadadores e a água não dispersa a energia",
+          "resumo": "Um raio pode atingir a água e a eletricidade pode percorrer até 30 metros de distância, colocando em risco quem está nadando. A corrente elétrica pode causar choques fatais, mesmo que a água pareça proteger. É fundamental sair da água durante tempestades para evitar esses perigos.",
+          "porQueImporta": "A informação alerta sobre riscos de saúde e segurança em ambientes aquáticos durante tempestades.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/curiosidades/raio-no-mar-entenda-ate-onde-a-eletricidade-alcanca-os-perigos-reais-para-quem-esta-nadando-e-por-que-sair-da-agua-durante-tempestades-e-vital/"
+            }
+          ],
+          "updatedAt": "2026-11-11T01:08:46.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "a08705f9d2d0a51d",
+          "slug": "a820ae9aa258ce38",
+          "titulo": "Enchentes no Capão Redondo já vitimaram 4 pessoas em 2 anos",
+          "resumo": "Enchentes em um raio de 1,8 km no Capão Redondo já causaram a morte de quatro pessoas em dois anos. Um jovem de 20 anos, Klaiver Peixoto, desapareceu em 7 de novembro após ser arrastado por uma enxurrada.",
+          "porQueImporta": "O caso destaca a persistente ameaça de inundações na região e a necessidade de medidas de prevenção e resposta rápida.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/capao-redondo-enchentes-num-raio-de-18km-ja-vitimaram-4-pessoas-em-2-anos"
+            }
+          ],
+          "updatedAt": "2026-11-11T05:15:33.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/capao-redondo.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "e86cf4d1dd17ba78",
+          "slug": "1c034dd42b12c566",
+          "titulo": "Velejador americano resgatado a 1,6 mil km da costa do Rio",
+          "resumo": "O velejador americano Guy deBoer, de 70 anos, foi resgatado pela Marinha do Brasil a cerca de 1,600 km da costa fluminense, enquanto participava da regata Golden Globe Race 2026. Ele estava sozinho a bordo do veleiro Spirit quando sofreu um acidente na última segunda-feira. Após o resgate, deBoer desembarcou na Corveta Barroso e será encaminhado de ambulância para um hospital. A chegada prevista ao Rio de Janeiro é para a manhã desta quarta-feira.",
+          "porQueImporta": "O caso demonstra a capacidade de resposta da Marinha brasileira em situações de emergência marítima distante da costa.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/11/velejador-americano-resgatado-a-16-mil-km-da-costa-chega-ao-rio-nesta-quarta-feira.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-11T03:00:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sVWpjoSEY1ZhsVFuQK760mmHo-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/C/PqQV27SHCxyrAcB6MIdQ/img-20261108-wa0012.jpg"
         }
       ]
     },
