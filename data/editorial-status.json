@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-11-13T12:31:57.571Z",
-  "editionDate": "2026-11-13",
-  "hourUtc": 12,
-  "outcome": "generated",
-  "reason": "\"Acidentes e incêndios dominam o panorama de hoje\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-11-14T06:55:29.947Z",
+  "editionDate": "2026-11-14",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
