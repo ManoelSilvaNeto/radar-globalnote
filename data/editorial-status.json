@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-11-14T15:17:17.463Z",
-  "editionDate": "2026-11-14",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Acidentes e desastres dominam a agenda de hoje\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-11-15T07:02:33.894Z",
+  "editionDate": "2026-11-15",
+  "hourUtc": 7,
+  "outcome": "skipped",
+  "reason": "fora da janela (7h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
