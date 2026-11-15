@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-11-15T07:02:33.894Z",
+  "ranAt": "2026-11-15T15:49:16.820Z",
   "editionDate": "2026-11-15",
-  "hourUtc": 7,
-  "outcome": "skipped",
-  "reason": "fora da janela (7h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 15,
+  "outcome": "generated",
+  "reason": "\"Acidentes e fenômenos meteorológicos marcam dia de alertas e riscos em todo país\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
