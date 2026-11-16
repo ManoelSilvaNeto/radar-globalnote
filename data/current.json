@@ -1,390 +1,235 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T21:10:33.742Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T07:09:23.605Z",
   "home": [
     {
-      "clusterId": "099262adf2937b1c",
-      "slug": "4e1b7db6439ee799",
-      "titulo": "Quatro mortes em acidentes de trânsito no Amazonas em menos de 14 horas",
-      "resumo": "Quatro pessoas morreram em acidentes de trânsito em Manaus e na Região Metropolitana entre 14h54 de sábado e 4h41 de domingo. A primeira vítima, Samuel Dias de Oliveira, de 20 anos, foi identificada na Avenida Autaz Mirim. As ocorrências foram registradas pelo Centro Integrado de Operações de Segurança (Ciops).",
-      "porQueImporta": "O número elevado de fatalidades em curto intervalo destaca a gravidade da segurança viária na região.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/15/quatro-pessoas-morrem-em-acidentes-de-transito-em-menos-de-14-horas-no-amazonas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-15T21:04:58.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1ACfYQYPgjTxwY4vWLz7oHNcPaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Q/vpe2UvSJyb5E9Kjif99Q/iml-de-manaus-foto-gato-junior-rede-amazonica.jpeg"
-    },
-    {
-      "clusterId": "7204f1ae9ea39da1",
-      "slug": "8ecafd2b07fe67d4",
-      "titulo": "Bombeiros combatem focos de incêndio em fábrica de produtos químicos em Salto pelo 3º dia",
-      "resumo": "O Corpo de Bombeiros permanece em Salto, SP, controlando focos de incêndio na fábrica de produtos químicos Pyrozzar Pirosol. O incêndio começou na manhã de sexta-feira, 13, às 10h30, gerando explosões e propagação rápida. Pelo menos 12 pessoas ficaram feridas e o fogo ainda não foi totalmente extinto.",
-      "porQueImporta": "O incidente envolve uma indústria química, representando risco de contaminação e impacto na comunidade local.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/15/combate-focos-incendio-fabrica-salto.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-15T20:56:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Z7BXNSSYAFNr_MBAlq1dY42BxbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/D/X5nf5ySBqpB3c87lu83w/14589804-2026-11-14t135435.490.png"
-    },
-    {
-      "clusterId": "5ef23b7ffbcb4223",
-      "slug": "9962490290f36fc0",
-      "titulo": "Inmet emite alerta de ventos fortes e possibilidade de granizo em 10 cidades de Alagoas",
-      "resumo": "O Instituto Nacional de Meteorologia emitiu alerta amarelo de perigo potencial para ventos intensos e possibilidade de queda de granizo em 10 municípios de Alagoas. A previsão de chuva varia de 20 a 30 milímetros por hora, podendo chegar a 50 milímetros por dia. Ventos podem atingir velocidades entre 40 e 60 km/h, com risco baixo de corte de energia elétrica e danos em plantações.",
-      "porQueImporta": "O alerta indica condições meteorológicas que podem afetar a segurança e a agricultura local.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/al/alagoas/noticia/2026/11/15/inmet-emite-alerta-de-ventos-fortes-e-possibilidade-de-granizo-para-10-cidades-de-alagoas-confira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-15T20:53:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Lh9byxHJCuyisgdPSASHeck0nC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/v/chtaFyR22sLsGtQZvlGQ/ventosalagoas.jpg"
-    },
-    {
-      "clusterId": "267543965f886bcc",
-      "slug": "202ce22724f0e3ef",
-      "titulo": "Motociclista morre ao sair da pista em alta velocidade e cair em barranco em rodovia",
-      "resumo": "Um motociclista morreu no domingo (15) após sair da pista e cair em um barranco na Rodovia BR-156, próximo à comunidade do Calafate, no Amapá. O Corpo de Bombeiros Militar do Amapá foi acionado por populares que presenciaram o acidente. Motoristas no local sinalizaram para que a viatura parasse. O condutor trafegava em alta velocidade e perdeu o controle.",
-      "porQueImporta": "O acidente destaca os riscos de alta velocidade em rodovias remotas e a necessidade de fiscalização e conscientização dos motoristas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/15/motociclista-morre-ao-sair-da-pista-em-alta-velocidade-e-cair-em-barranco-em-rodovia-no-amapa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-15T20:29:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ZrLJvyfFOpP8HdfinAci4maNPd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/N/conN65QA6s5GHX8pPLvw/aleixo-g1-2-.jpg"
-    },
-    {
-      "clusterId": "edf9d0cd8263eec7",
-      "slug": "0fefc625fe7d148d",
-      "titulo": "Motorista morre após acidente entre carro e caminhão na BR-153 no Tocantins",
-      "resumo": "Um homem morreu após colisão frontal entre um carro e um caminhão na BR-153, no quilômetro 560, em Fátima, região sul do Tocantins. A Polícia Rodoviária Federal registrou o acidente na noite de sábado. O Corpo de Bombeiros encontrou o motorista sem sinais vitais, preso às ferragens, e realizou a retirada do veículo. O corpo foi encaminhado ao local de atendimento.",
-      "porQueImporta": "O incidente destaca a importância da segurança viária em rodovias federais.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/15/motorista-morre-apos-acidente-entre-carro-e-caminhao-na-br-153-no-to.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-15T20:21:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Zf7OGZKT0Pn0iFPqJDx7tR7A8qQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Q/AVetWVRLeoAgoLwVcwow/foto-e-montagem-vertical-2026-11-15t171719.878.png"
-    },
-    {
-      "clusterId": "80dee85a85919e52",
-      "slug": "31e6cb6cc3c3e86f",
-      "titulo": "Corpo de vítima de afogamento encontrado no Rio Tietê em Barra Bonita",
-      "resumo": "O Corpo de Bombeiros localizou o corpo de uma vítima que se afogou no Rio Tietê, em Barra Bonita, na tarde de domingo. As buscas começaram pela manhã após o acionamento da corporação. Um vídeo mostra um piloto de moto aquática tentando salvar a vítima antes da chegada dos bombeiros.",
-      "porQueImporta": "O caso destaca a ocorrência de afogamento em rios urbanos e a importância da resposta rápida de serviços de emergência.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/15/bombeiros-localizam-corpo-de-vitima-que-se-afogou-no-rio-tiete-em-barra-bonita.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-15T20:09:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6BFKcGsTBivnumQa6viUIwplDgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/M/WT4SAsSBqQvFJfbJsnaw/design-sem-nome-2026-11-15t155616.227.jpg"
-    },
-    {
-      "clusterId": "c8e300ac750991da",
-      "slug": "e88510e72bbb170f",
-      "titulo": "Mulher morre atropelada enquanto esperava ônibus na BR-020",
-      "resumo": "Uma mulher de 58 anos morreu após ser atropelada na noite de sábado na BR-020, em Planaltina, Distrito Federal. Ela estava esperando o ônibus para ir trabalhar. O veículo que a atingiu invadiu a calçada e o motorista fugiu sem prestar socorro. Bombeiros levaram a vítima em estado crítico ao Hospital Regional de Planaltina.",
-      "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança nas rodovias, especialmente em áreas de espera de transporte público.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/15/mulher-morre-atropelada-enquanto-esperava-onibus-na-br-020-no-df-motorista-fugiu-sem-prestar-socorro.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-15T19:50:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bVmOs98c1UonRdufo5HuAOL3zos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/qua1tnSvWioT1zKuptDw/atropela-020.png"
-    },
-    {
-      "clusterId": "bd99707893eacd62",
-      "slug": "ebdbd32fbaef8439",
-      "titulo": "Instalação interativa alerta sobre violência sexual contra crianças no RS",
-      "resumo": "A exposição \"Loja de Inconveniência\" simula uma loja de conveniência para mostrar como criminosos atraem vítimas. Os visitantes usam cestas de compras e encontram prateleiras com dados e alertas em vez de produtos. A instalação faz parte do projeto Vozes pela Proteção e visa prevenir a violência sexual contra crianças e adolescentes.",
-      "porQueImporta": "Contribui para a conscientização e prevenção de abusos sexuais em crianças.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/porto-alegre-interativo-loja-de-inconveniencia-feira-livro.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-15T19:13:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/311R7LBP3LPir6m_4fqxLvlDwtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/Q9YLAHQnCoyYFgkFgMWw/img-6127.jpeg"
-    },
-    {
-      "clusterId": "19edcb51bfb55406",
-      "slug": "e465e48037df80ba",
-      "titulo": "Acidente de trânsito no Paraná deixa três mortos e dois gravemente feridos",
-      "resumo": "Um choque entre uma Kombi e um caminhão no Paraná resultou na morte de um casal e de um filho de 11 anos. Dois outros passageiros, um casal, ficaram gravemente feridos, e o filho de 9 anos também morreu. O acidente ocorreu quando a Kombi colidiu com o caminhão.",
-      "porQueImporta": "O incidente destaca a gravidade de acidentes de trânsito envolvendo veículos de transporte coletivo e veículos pesados.",
+      "clusterId": "39949d5dad2a812b",
+      "slug": "d512d8a18ba51cc5",
+      "titulo": "Justiça nega pedido para indenizar vítimas de acidentes após fim do DPVAT",
+      "resumo": "A Justiça rejeitou a ação da DPU que exigia que a União fosse responsabilizada e indenizasse vítimas de acidentes ocorridos enquanto o DPVAT estava sem regulamentação. O pedido foi negado, mantendo a posição de que não há obrigação de indenização nesse período. A decisão foi tomada pelo tribunal competente, sem alterar a situação legal das vítimas.",
+      "porQueImporta": "A decisão afeta a possibilidade de indenização de vítimas de acidentes que ocorreram durante o período sem cobertura do DPVAT.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/casal-e-duas-criancas-morrem-em-colisao-de-kombi-com-caminhao-no-parana"
+          "url": "https://www.metropoles.com/distrito-federal/justica-nega-pedido-para-indenizar-vitimas-de-acidentes-apos-o-fim-do-dvpat"
         }
       ],
-      "updatedAt": "2026-11-15T19:12:09.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/familia-parana.jpg"
+      "updatedAt": "2026-11-16T05:37:25.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/whatsapp-image-2026-11-13-at-22-24-33.jpeg"
     },
     {
-      "clusterId": "13ee9ba89f6b159d",
-      "slug": "f509b61e7d8d8051",
-      "titulo": "Justiça decreta prisão preventiva de servidor público embriagado que matou motoboy em Boa Vista",
-      "resumo": "Um servidor público de 43 anos, embriagado, atropelou e matou o motoboy José Lucas Alves Feitosa, de 22 anos, em Boa Vista. O acidente ocorreu no bairro Piscicultura, na zona Oeste da cidade. O motorista tentou fugir do local e foi preso no mesmo dia. A Justiça decretou sua prisão preventiva sob acusação de homicídio culposo na direção de veículo automotor sob influência de álcool.",
-      "porQueImporta": "O caso destaca a responsabilidade de condutores embriagados e a aplicação de medidas cautelares em acidentes de trânsito.",
+      "clusterId": "ba2e8953245e9e05",
+      "slug": "d749713465b8a6f0",
+      "titulo": "Incêndio em prédio comercial deixa 11 mortos e 16 feridos na Tailândia",
+      "resumo": "Um incêndio começou por volta das 3h17 em um imóvel que abrigava uma locadora de veículos na ilha de Phuket, na madrugada de segunda-feira. As chamas se espalharam para prédios vizinhos, resultando em 11 mortes e 16 feridos, a maioria cidadãos tailandeses. Os bombeiros levaram cerca de duas horas para controlar o fogo.",
+      "porQueImporta": "O incidente destaca a vulnerabilidade de áreas turísticas a incêndios e a necessidade de medidas de segurança eficazes.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/incendio-em-phuket-na-tailandia-deixa-mortos-e-feridos/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/16/incendio-deixa-mortos-e-feridos-na-tailandia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-16T04:08:00.000Z"
+    },
+    {
+      "clusterId": "a4c7455c7ca4bd2d",
+      "slug": "5e2c5ad127bfc9bf",
+      "titulo": "Calor e abafamento previstos no Rio Grande do Sul até fim de novembro",
+      "resumo": "A Climatempo prevê que a segunda quinzena de novembro será marcada por temperaturas acima de 30°C em praticamente todos os estados, inclusive no Sul. O calor será acompanhado de sensação de abafamento, mesmo com pancadas de chuva frequentes. A tendência de aquecimento não está ligada a uma onda de calor.",
+      "porQueImporta": "O aumento de temperatura pode afetar a saúde pública e a demanda por energia.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/16/rio-grande-do-sul-deve-ter-calor-e-abafamento-ate-o-fim-de-novembro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-16T05:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GtO4q4KRTaowJ0xxuWEuxYmz7Tw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/UxJYhNRNC2kmjzIce0Gw/6163337-cfe4167ab10a8e8.jpg"
+    },
+    {
+      "clusterId": "96da976e4a7e49ba",
+      "slug": "0a288e8211c090c3",
+      "titulo": "Previsão do tempo para Goiânia e Nova Iguaçu na segunda-feira",
+      "resumo": "Na segunda-feira, Goiânia terá sol e muitas nuvens, com chuva e trovoadas pela manhã e temporais no período da tarde e noite. As temperaturas máximas atingirão 28ºC e mínimas 20ºC. Em Nova Iguaçu, o dia começa com sol e chuva, seguido de temporais à tarde e pancadas de chuva à noite, com máximas de 25ºC e mínimas de 21ºC.",
+      "porQueImporta": "A previsão ajuda moradores a planejar atividades diárias e evitar transtornos causados por chuvas e temporais.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/16/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-com-temporal-e-noite-chuvosa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-16T04:14:33.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/wbWCAXX_2212QZmtrm_JzrnkSW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/v/eg4ub8SVizLmBmA7PaEw/previsao-tempo-nova-igua-u-20261116-010914.jpeg"
+    },
+    {
+      "clusterId": "1f24472031f4b5f2",
+      "slug": "ab25f2404fcea4c8",
+      "titulo": "Piloto de avião agrícola colide com carro em Goiás",
+      "resumo": "Um avião agrícola tentou arremeter para evitar colidir com um carro, mas atingiu a parte superior do veículo, arrancando o teto. O acidente ocorreu na divisa entre Aragarças e Montes Claros, no oeste de Goiás, e resultou na morte de um homem e ferimentos em duas pessoas, incluindo uma criança de 8 anos. A aeronave estava realizando serviços de pulverização para uma empresa.",
+      "porQueImporta": "O incidente destaca riscos de operações agrícolas aéreas em áreas próximas a estradas.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/go/goias/noticia/2026/11/16/piloto-de-aviao-tentou-arremeter-para-evitar-batida-e-arrancou-teto-de-carro-em-acidente-que-matou-homem-em-goias-diz-pm.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-16T03:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/HDDvswDz3xVKcBxs18NTCZ1pID8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/H/IBEcdYSReNVJifFfMOpg/png-5-.png"
+    },
+    {
+      "clusterId": "65f8ffbbb763e1b7",
+      "slug": "367aa01cf3a6637c",
+      "titulo": "Acidente entre Kombi e caminhão deixa quatro mortos no Paraná",
+      "resumo": "Um acidente na PR-280, no Paraná, resultou na morte de quatro pessoas: o casal Jacir José Alves, de 47 anos, e Janice Gesser Alves, de 44 anos, e seus filhos João Paulo, de 11 anos, e Gabriel Luiz Schropfer, de 9 anos. A Kombi que transportava o casal colidiu com um caminhão, causando fatalidade. As vítimas eram viajando para um seminário. O incidente ocorreu no último sábado.",
+      "porQueImporta": "O acidente destaca a necessidade de atenção às condições de tráfego e segurança nas rodovias do estado.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/15/justica-decreta-prisao-preventiva-de-servidor-publico-embriagado-que-matou-motoboy-em-boa-vista.ghtml"
+          "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/16/quem-eram-o-casal-e-as-duas-criancas-que-morreram-em-acidente-entre-kombi-e-caminhao-a-caminho-de-seminario-no-parana.ghtml"
         }
       ],
-      "updatedAt": "2026-11-15T18:48:27.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ImYXSeEjxPFEK9_3FIrjwKQva84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/p/ArLf6tQU6vjzFioDJj4A/jose-lucas.jpg"
+      "updatedAt": "2026-11-16T03:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/n0z2gqMAbjpR3ja4pjgKNOM8dyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/q/qOlvBqSAOpAJvVcNqQYg/g1-4-.png"
+    },
+    {
+      "clusterId": "4e2722ad0b12de16",
+      "slug": "4bc4e00ba21a32c2",
+      "titulo": "Nenhuma autoridade do Peru fez o que ele fez por nós: como Leão XIV ajudou a população durante enchentes e a pandemia",
+      "resumo": "O bispo Leão XIV, conhecido como Monsenhor Robert, atuou na cidade de Íllimo, no norte do Peru, durante as enchentes que devastaram a região. Ele entrou nas áreas inundadas com botas de borracha, ajudando a remover destroços e prestar assistência às famílias. Além das ações de socorro, o bispo também colaborou com a comunidade durante a pandemia, oferecendo apoio e orientação.",
+      "porQueImporta": "A atuação do bispo demonstra como líderes religiosos podem desempenhar papéis essenciais em situações de desastre, complementando as ações governamentais.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/nenhuma-autoridade-do-peru-fez-o-que-ele-fez-por-nos-como-leao-xiv-ajudou-a-populacao-durante-enchentes-e-a-pandemia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-16T00:49:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/h7xfJotdGrRDQhKRSPQvnNJ4aIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/f1L9nIQUagztidiS9Mpg/videoframe-2426464.png"
+    },
+    {
+      "clusterId": "833e18a14bb58e75",
+      "slug": "61f4c7acf2bb16ad",
+      "titulo": "Juiz federal aposentado Helder Girão Barreto morre em Boa Vista",
+      "resumo": "Juiz federal aposentado Helder Girão Barreto Reprodução/Instagram O juiz federal aposentado Helder Girão Barreto, de 63 anos, morreu na noite deste domingo (15), em Boa Vista. A causa da morte não foi oficialmente divulgada. Conhecido por ser o juiz que atuou no escândalo dos gafanhotos em 2003, por ter suspendido a entrada de venezuelanos no Brasil pela fronteira do estado e por ter se envolvido em um acidente de trânsito com um motoboy, ele estava aposentado desde fevereiro de 2022. Filiado ao PL, neste ano havia sido candidato a deputado federal por Roraima, mas não se elegeu. Ele teve…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/15/juiz-federal-aposentado-helder-girao-barreto-morre-em-boa-vista.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-16T00:46:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KSsCaAcaEAYm7vsXhxrZenU-RvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/ngETKlQpeneZHF9OMbtg/helder.jpg"
+    },
+    {
+      "clusterId": "51d4c94f52c62c0a",
+      "slug": "6cbc2fc3ab8ee210",
+      "titulo": "Chuva provoca alagamentos em São Paulo",
+      "resumo": "A chuva intensa atingiu São Paulo no domingo, feriado da Proclamação da República, causando alagamentos em várias regiões da capital. Vídeos mostraram um bueiro jorrando água na Bela Vista, no centro, e ruas inundadas em Santana, na Zona Norte. Às 19h40, o Centro de Gerenciamento de Emergências Climáticas colocou a Subprefeitura do Itaim Paulista, na Zona Leste, em estado de alerta após o transbordamento do Córrego Três.",
+      "porQueImporta": "O evento pode comprometer a mobilidade urbana e a segurança dos moradores.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/15/chuva-alaga-ruas-de-sp-e-provoca-transbordamento-de-corrego-na-zona-leste-videos-mostram-estragos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-16T00:24:52.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/2CyF4ce0yLSFbxemw0RAjNjMD9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/z/Y2tlc0RQKvg5iQBfNIpA/montagem-horizontal-1200px-19-.jpg"
+    },
+    {
+      "clusterId": "b3190e98a6200ecd",
+      "slug": "67d9869d35cbf9a4",
+      "titulo": "Defesa Civil emite alerta para chuvas intensas na Grande São Paulo",
+      "resumo": "A Defesa Civil divulgou alerta de chuvas fortes na Grande São Paulo, incluindo a capital e municípios vizinhos. O comunicado prevê descargas elétricas, rajadas de vento e queda de granizo. As autoridades recomendam precauções e monitoramento das condições climáticas. O alerta visa prevenir danos e garantir a segurança da população.",
+      "porQueImporta": "O alerta ajuda a prevenir acidentes e prejuízos causados por condições climáticas severas.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-para-chuvas-intensas-na-grande-sao-paulo/"
+        }
+      ],
+      "updatedAt": "2026-11-15T23:49:14.000Z"
     }
   ],
   "categorias": [
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "099262adf2937b1c",
-          "slug": "4e1b7db6439ee799",
-          "titulo": "Quatro mortes em acidentes de trânsito no Amazonas em menos de 14 horas",
-          "resumo": "Quatro pessoas morreram em acidentes de trânsito em Manaus e na Região Metropolitana entre 14h54 de sábado e 4h41 de domingo. A primeira vítima, Samuel Dias de Oliveira, de 20 anos, foi identificada na Avenida Autaz Mirim. As ocorrências foram registradas pelo Centro Integrado de Operações de Segurança (Ciops).",
-          "porQueImporta": "O número elevado de fatalidades em curto intervalo destaca a gravidade da segurança viária na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/15/quatro-pessoas-morrem-em-acidentes-de-transito-em-menos-de-14-horas-no-amazonas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-15T21:04:58.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1ACfYQYPgjTxwY4vWLz7oHNcPaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Q/vpe2UvSJyb5E9Kjif99Q/iml-de-manaus-foto-gato-junior-rede-amazonica.jpeg"
-        },
-        {
-          "clusterId": "267543965f886bcc",
-          "slug": "202ce22724f0e3ef",
-          "titulo": "Motociclista morre ao sair da pista em alta velocidade e cair em barranco em rodovia",
-          "resumo": "Um motociclista morreu no domingo (15) após sair da pista e cair em um barranco na Rodovia BR-156, próximo à comunidade do Calafate, no Amapá. O Corpo de Bombeiros Militar do Amapá foi acionado por populares que presenciaram o acidente. Motoristas no local sinalizaram para que a viatura parasse. O condutor trafegava em alta velocidade e perdeu o controle.",
-          "porQueImporta": "O acidente destaca os riscos de alta velocidade em rodovias remotas e a necessidade de fiscalização e conscientização dos motoristas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/15/motociclista-morre-ao-sair-da-pista-em-alta-velocidade-e-cair-em-barranco-em-rodovia-no-amapa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-15T20:29:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ZrLJvyfFOpP8HdfinAci4maNPd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/N/conN65QA6s5GHX8pPLvw/aleixo-g1-2-.jpg"
-        },
-        {
-          "clusterId": "edf9d0cd8263eec7",
-          "slug": "0fefc625fe7d148d",
-          "titulo": "Motorista morre após acidente entre carro e caminhão na BR-153 no Tocantins",
-          "resumo": "Um homem morreu após colisão frontal entre um carro e um caminhão na BR-153, no quilômetro 560, em Fátima, região sul do Tocantins. A Polícia Rodoviária Federal registrou o acidente na noite de sábado. O Corpo de Bombeiros encontrou o motorista sem sinais vitais, preso às ferragens, e realizou a retirada do veículo. O corpo foi encaminhado ao local de atendimento.",
-          "porQueImporta": "O incidente destaca a importância da segurança viária em rodovias federais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/15/motorista-morre-apos-acidente-entre-carro-e-caminhao-na-br-153-no-to.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-15T20:21:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Zf7OGZKT0Pn0iFPqJDx7tR7A8qQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Q/AVetWVRLeoAgoLwVcwow/foto-e-montagem-vertical-2026-11-15t171719.878.png"
-        },
-        {
-          "clusterId": "80dee85a85919e52",
-          "slug": "31e6cb6cc3c3e86f",
-          "titulo": "Corpo de vítima de afogamento encontrado no Rio Tietê em Barra Bonita",
-          "resumo": "O Corpo de Bombeiros localizou o corpo de uma vítima que se afogou no Rio Tietê, em Barra Bonita, na tarde de domingo. As buscas começaram pela manhã após o acionamento da corporação. Um vídeo mostra um piloto de moto aquática tentando salvar a vítima antes da chegada dos bombeiros.",
-          "porQueImporta": "O caso destaca a ocorrência de afogamento em rios urbanos e a importância da resposta rápida de serviços de emergência.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/15/bombeiros-localizam-corpo-de-vitima-que-se-afogou-no-rio-tiete-em-barra-bonita.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-15T20:09:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/6BFKcGsTBivnumQa6viUIwplDgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/M/WT4SAsSBqQvFJfbJsnaw/design-sem-nome-2026-11-15t155616.227.jpg"
-        },
-        {
-          "clusterId": "c8e300ac750991da",
-          "slug": "e88510e72bbb170f",
-          "titulo": "Mulher morre atropelada enquanto esperava ônibus na BR-020",
-          "resumo": "Uma mulher de 58 anos morreu após ser atropelada na noite de sábado na BR-020, em Planaltina, Distrito Federal. Ela estava esperando o ônibus para ir trabalhar. O veículo que a atingiu invadiu a calçada e o motorista fugiu sem prestar socorro. Bombeiros levaram a vítima em estado crítico ao Hospital Regional de Planaltina.",
-          "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança nas rodovias, especialmente em áreas de espera de transporte público.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/15/mulher-morre-atropelada-enquanto-esperava-onibus-na-br-020-no-df-motorista-fugiu-sem-prestar-socorro.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-15T19:50:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/bVmOs98c1UonRdufo5HuAOL3zos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/qua1tnSvWioT1zKuptDw/atropela-020.png"
-        },
-        {
-          "clusterId": "19edcb51bfb55406",
-          "slug": "e465e48037df80ba",
-          "titulo": "Acidente de trânsito no Paraná deixa três mortos e dois gravemente feridos",
-          "resumo": "Um choque entre uma Kombi e um caminhão no Paraná resultou na morte de um casal e de um filho de 11 anos. Dois outros passageiros, um casal, ficaram gravemente feridos, e o filho de 9 anos também morreu. O acidente ocorreu quando a Kombi colidiu com o caminhão.",
-          "porQueImporta": "O incidente destaca a gravidade de acidentes de trânsito envolvendo veículos de transporte coletivo e veículos pesados.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/casal-e-duas-criancas-morrem-em-colisao-de-kombi-com-caminhao-no-parana"
-            }
-          ],
-          "updatedAt": "2026-11-15T19:12:09.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/11/familia-parana.jpg"
-        },
-        {
-          "clusterId": "13ee9ba89f6b159d",
-          "slug": "f509b61e7d8d8051",
-          "titulo": "Justiça decreta prisão preventiva de servidor público embriagado que matou motoboy em Boa Vista",
-          "resumo": "Um servidor público de 43 anos, embriagado, atropelou e matou o motoboy José Lucas Alves Feitosa, de 22 anos, em Boa Vista. O acidente ocorreu no bairro Piscicultura, na zona Oeste da cidade. O motorista tentou fugir do local e foi preso no mesmo dia. A Justiça decretou sua prisão preventiva sob acusação de homicídio culposo na direção de veículo automotor sob influência de álcool.",
-          "porQueImporta": "O caso destaca a responsabilidade de condutores embriagados e a aplicação de medidas cautelares em acidentes de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/15/justica-decreta-prisao-preventiva-de-servidor-publico-embriagado-que-matou-motoboy-em-boa-vista.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-15T18:48:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ImYXSeEjxPFEK9_3FIrjwKQva84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/p/ArLf6tQU6vjzFioDJj4A/jose-lucas.jpg"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "bd99707893eacd62",
-          "slug": "ebdbd32fbaef8439",
-          "titulo": "Instalação interativa alerta sobre violência sexual contra crianças no RS",
-          "resumo": "A exposição \"Loja de Inconveniência\" simula uma loja de conveniência para mostrar como criminosos atraem vítimas. Os visitantes usam cestas de compras e encontram prateleiras com dados e alertas em vez de produtos. A instalação faz parte do projeto Vozes pela Proteção e visa prevenir a violência sexual contra crianças e adolescentes.",
-          "porQueImporta": "Contribui para a conscientização e prevenção de abusos sexuais em crianças.",
+          "clusterId": "a4c7455c7ca4bd2d",
+          "slug": "5e2c5ad127bfc9bf",
+          "titulo": "Calor e abafamento previstos no Rio Grande do Sul até fim de novembro",
+          "resumo": "A Climatempo prevê que a segunda quinzena de novembro será marcada por temperaturas acima de 30°C em praticamente todos os estados, inclusive no Sul. O calor será acompanhado de sensação de abafamento, mesmo com pancadas de chuva frequentes. A tendência de aquecimento não está ligada a uma onda de calor.",
+          "porQueImporta": "O aumento de temperatura pode afetar a saúde pública e a demanda por energia.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/porto-alegre-interativo-loja-de-inconveniencia-feira-livro.ghtml"
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/16/rio-grande-do-sul-deve-ter-calor-e-abafamento-ate-o-fim-de-novembro.ghtml"
             }
           ],
-          "updatedAt": "2026-11-15T19:13:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/311R7LBP3LPir6m_4fqxLvlDwtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/Q9YLAHQnCoyYFgkFgMWw/img-6127.jpeg"
+          "updatedAt": "2026-11-16T05:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GtO4q4KRTaowJ0xxuWEuxYmz7Tw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/UxJYhNRNC2kmjzIce0Gw/6163337-cfe4167ab10a8e8.jpg"
         },
         {
-          "clusterId": "4d1fbc31a0e6cc19",
-          "slug": "ead1ed6197e9f59c",
-          "titulo": "Como sobrevivi a uma explosão que deixou 650 mortos: 'As cortinas grudaram no teto'",
-          "resumo": "Virginia Martínez Tellez é uma das sobreviventes de um dos desastres industriais mais graves da história. Um vazamento de gás em um depósito da petroleira Pemex mudaria para sempre a sua vida, a de sua família e a de toda uma comunidade.",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "clusterId": "96da976e4a7e49ba",
+          "slug": "0a288e8211c090c3",
+          "titulo": "Previsão do tempo para Goiânia e Nova Iguaçu na segunda-feira",
+          "resumo": "Na segunda-feira, Goiânia terá sol e muitas nuvens, com chuva e trovoadas pela manhã e temporais no período da tarde e noite. As temperaturas máximas atingirão 28ºC e mínimas 20ºC. Em Nova Iguaçu, o dia começa com sol e chuva, seguido de temporais à tarde e pancadas de chuva à noite, com máximas de 25ºC e mínimas de 21ºC.",
+          "porQueImporta": "A previsão ajuda moradores a planejar atividades diárias e evitar transtornos causados por chuvas e temporais.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c3x29ldq242wo?at_medium=RSS&at_campaign=rss"
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/16/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-com-temporal-e-noite-chuvosa.ghtml"
             }
           ],
-          "updatedAt": "2026-11-15T17:29:54.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9d6/live/9b0f4940-5dda-11f1-a574-05510226f57f.jpg"
+          "updatedAt": "2026-11-16T04:14:33.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wbWCAXX_2212QZmtrm_JzrnkSW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/v/eg4ub8SVizLmBmA7PaEw/previsao-tempo-nova-igua-u-20261116-010914.jpeg"
         },
         {
-          "clusterId": "181976aa1958bf5d",
-          "slug": "3d565f9794985d40",
-          "titulo": "Defesa Civil emite alerta severo para chuvas intensas em Belo Horizonte",
-          "resumo": "Aviso aponta risco de enxurradas e alagamentos nas próximas duas horas; população deve adotar medidas de proteção",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/defesa-civil-emite-alerta-severo-para-chuvas-intensas-em-belo-horizonte/"
-            }
-          ],
-          "updatedAt": "2026-11-15T17:22:54.000Z"
-        },
-        {
-          "clusterId": "f3ca6407f0b18bc3",
-          "slug": "2344113f5b225025",
-          "titulo": "Motociclista morre após carro invadir contramão e provocar colisão na BR-304, no RN",
-          "resumo": "Motociclista morre após carro invadir contramão e provocar colisão na BR-304 Um motociclista de 39 anos morreu após bater de frente com um carro na manhã deste domingo (15), por volta das 6h, na BR-304, em Mossoró, na região Oeste do Rio Grande do Norte. A vítima foi identificada como Pedro da Silva, de 39 anos, natural de Touros, no RN. 📳 Clique aqui para seguir o canal do g1 RN no WhatsApp Motociclista morre após carro invadir contramão e provocar colisão na BR-304, no RN Cedida Segundo a Polícia Rodoviária Federal (PRF), o acidente ocorreu no trecho entre Mossoró e Assú. O carro, do tipo…",
+          "clusterId": "833e18a14bb58e75",
+          "slug": "61f4c7acf2bb16ad",
+          "titulo": "Juiz federal aposentado Helder Girão Barreto morre em Boa Vista",
+          "resumo": "Juiz federal aposentado Helder Girão Barreto Reprodução/Instagram O juiz federal aposentado Helder Girão Barreto, de 63 anos, morreu na noite deste domingo (15), em Boa Vista. A causa da morte não foi oficialmente divulgada. Conhecido por ser o juiz que atuou no escândalo dos gafanhotos em 2003, por ter suspendido a entrada de venezuelanos no Brasil pela fronteira do estado e por ter se envolvido em um acidente de trânsito com um motoboy, ele estava aposentado desde fevereiro de 2022. Filiado ao PL, neste ano havia sido candidato a deputado federal por Roraima, mas não se elegeu. Ele teve…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/15/motociclista-morre-apos-carro-invadir-contramao-e-provocar-colisao-na-br-304-no-rn.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/15/juiz-federal-aposentado-helder-girao-barreto-morre-em-boa-vista.ghtml"
             }
           ],
-          "updatedAt": "2026-11-15T17:14:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-R4nayqUjTGjs8UIDTnQ-inptqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/o/33xM8aRLmEYd0KSKz3Ww/captura-de-tela-2026-11-15-as-13.49.29.png"
-        },
-        {
-          "clusterId": "aab4164591ae1c98",
-          "slug": "f5c662cce42686a6",
-          "titulo": "Avião agrícola faz pouso de emergência, atinge carro e deixa um morto em GO",
-          "resumo": "Acidente aconteceu em Araguaças, nesta sexta-feira (14); outras duas pessoas ficaram feridas e foram socorridas pelo Samu",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/go/aviao-agricola-faz-pouso-de-emergencia-atinge-carro-e-deixa-um-morto-em-go/"
-            }
-          ],
-          "updatedAt": "2026-11-15T16:51:15.000Z"
+          "updatedAt": "2026-11-16T00:46:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KSsCaAcaEAYm7vsXhxrZenU-RvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/ngETKlQpeneZHF9OMbtg/helder.jpg"
         },
         {
           "clusterId": "c28c75411ac7fb90",
@@ -402,142 +247,62 @@
           ],
           "updatedAt": "2026-11-15T10:21:11.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/XnEUqwh_7yy5jCWeyntu3Hx_8Tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/r/F/4fo9a1SPqypWWS2U2eAQ/imagem-001.png"
-        },
-        {
-          "clusterId": "c4a4bc8cf7e04610",
-          "slug": "da4baa740d69513f",
-          "titulo": "VÍDEO: cruzeiro de luxo tomba após colisão com petroleiro nos EUA; 130 pessoas são resgatadas",
-          "resumo": "Petroleiro bate em cruzeiro no rio Mississippi, nos EUA Três vídeos publicados pela agência de notícias IRNA English na rede social X mostram o momento do resgate de passageiros de um barco de cruzeiro de luxo que tombou após colidir com um petroleiro no rio Mississippi, em Nova Orleans, nos Estados Unidos, na sexta-feira (13). ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Nas imagens, a embarcação aparece inclinada de lado, enquanto equipes de emergência atuam para retirar as pessoas que estavam a bordo. O acidente mobilizou equipes da polícia, dos bombeiros, da Guarda Costeira…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/14/video-cruzeiro-colide-com-petroleiro-eua.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-14T11:02:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zLHMHyLrxvhGolOTbGkrytrAgMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/d/HBINNOQS6OV0mzKSCNhQ/ap26317740760880.jpg"
         }
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "7204f1ae9ea39da1",
-          "slug": "8ecafd2b07fe67d4",
-          "titulo": "Bombeiros combatem focos de incêndio em fábrica de produtos químicos em Salto pelo 3º dia",
-          "resumo": "O Corpo de Bombeiros permanece em Salto, SP, controlando focos de incêndio na fábrica de produtos químicos Pyrozzar Pirosol. O incêndio começou na manhã de sexta-feira, 13, às 10h30, gerando explosões e propagação rápida. Pelo menos 12 pessoas ficaram feridas e o fogo ainda não foi totalmente extinto.",
-          "porQueImporta": "O incidente envolve uma indústria química, representando risco de contaminação e impacto na comunidade local.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "39949d5dad2a812b",
+          "slug": "d512d8a18ba51cc5",
+          "titulo": "Justiça nega pedido para indenizar vítimas de acidentes após fim do DPVAT",
+          "resumo": "A Justiça rejeitou a ação da DPU que exigia que a União fosse responsabilizada e indenizasse vítimas de acidentes ocorridos enquanto o DPVAT estava sem regulamentação. O pedido foi negado, mantendo a posição de que não há obrigação de indenização nesse período. A decisão foi tomada pelo tribunal competente, sem alterar a situação legal das vítimas.",
+          "porQueImporta": "A decisão afeta a possibilidade de indenização de vítimas de acidentes que ocorreram durante o período sem cobertura do DPVAT.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/15/combate-focos-incendio-fabrica-salto.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/justica-nega-pedido-para-indenizar-vitimas-de-acidentes-apos-o-fim-do-dvpat"
             }
           ],
-          "updatedAt": "2026-11-15T20:56:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Z7BXNSSYAFNr_MBAlq1dY42BxbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/D/X5nf5ySBqpB3c87lu83w/14589804-2026-11-14t135435.490.png"
+          "updatedAt": "2026-11-16T05:37:25.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/whatsapp-image-2026-11-13-at-22-24-33.jpeg"
         },
         {
-          "clusterId": "0e2ffe47117ed6a4",
-          "slug": "9f18ad42c2e0562b",
-          "titulo": "Incêndio destrói duas casas em Parobé, RS",
-          "resumo": "Um incêndio começou por volta das 2h50 na Rua João Bitencourt e consumiu duas casas no bairro Jardim, em Parobé. Cerca de 15 moradores saíram antes que as chamas se alastrassem, incluindo uma gestante, três crianças e um cachorro. O fogo atingiu casas nos fundos de terrenos vizinhos e derreteu a caixa d'água de um imóvel adjacente.",
-          "porQueImporta": "O incêndio resultou em perdas de moradia e risco à vida de residentes, destacando a necessidade de vigilância e prevenção em áreas residenciais.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "65f8ffbbb763e1b7",
+          "slug": "367aa01cf3a6637c",
+          "titulo": "Acidente entre Kombi e caminhão deixa quatro mortos no Paraná",
+          "resumo": "Um acidente na PR-280, no Paraná, resultou na morte de quatro pessoas: o casal Jacir José Alves, de 47 anos, e Janice Gesser Alves, de 44 anos, e seus filhos João Paulo, de 11 anos, e Gabriel Luiz Schropfer, de 9 anos. A Kombi que transportava o casal colidiu com um caminhão, causando fatalidade. As vítimas eram viajando para um seminário. O incidente ocorreu no último sábado.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção às condições de tráfego e segurança nas rodovias do estado.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/gestante-3-criancas-e-cao-saem-ilesos-de-incendio-que-destroi-2-casas-no-rs.ghtml"
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/16/quem-eram-o-casal-e-as-duas-criancas-que-morreram-em-acidente-entre-kombi-e-caminhao-a-caminho-de-seminario-no-parana.ghtml"
             }
           ],
-          "updatedAt": "2026-11-15T18:02:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/gAfzxPZctaTP5Ceiy2jKMar5Y2Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/r/avaxSPS9ORQ4V9N9mBJQ/g1-7-.jpg"
+          "updatedAt": "2026-11-16T03:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/n0z2gqMAbjpR3ja4pjgKNOM8dyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/q/qOlvBqSAOpAJvVcNqQYg/g1-4-.png"
         },
         {
-          "clusterId": "630d5ab1120ce0c0",
-          "slug": "a6f9358ec1f3c538",
-          "titulo": "Incêndio atinge depósito de materiais recicláveis em Montes Claros",
-          "resumo": "Um incêndio atingiu um depósito de materiais recicláveis na madrugada de domingo no bairro Delfino, em Montes Claros. Duas paredes da edificação desabaram durante a ocorrência. Não houve vítimas. O Corpo de Bombeiros iniciou o combate ao fogo após ser acionado por volta das 0h30.",
-          "porQueImporta": "O incidente destaca riscos de incêndio em depósitos de resíduos e a importância de medidas de prevenção e resposta rápida.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/15/incendio-atinge-deposito-de-materiais-reciclaveis-e-provoca-desabamento-de-paredes-em-montes-claros.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-15T17:44:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/tgoJ_RZpcdyNEdqiG_y4BnIaKQ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/L/fW6wtuTN66vWzJJOWMHQ/x62b80704-b08b-4721-8099-2d160bfe253a-866x1024.png.pagespeed.ic.j6c8fsep1t.png"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "5ef23b7ffbcb4223",
-          "slug": "9962490290f36fc0",
-          "titulo": "Inmet emite alerta de ventos fortes e possibilidade de granizo em 10 cidades de Alagoas",
-          "resumo": "O Instituto Nacional de Meteorologia emitiu alerta amarelo de perigo potencial para ventos intensos e possibilidade de queda de granizo em 10 municípios de Alagoas. A previsão de chuva varia de 20 a 30 milímetros por hora, podendo chegar a 50 milímetros por dia. Ventos podem atingir velocidades entre 40 e 60 km/h, com risco baixo de corte de energia elétrica e danos em plantações.",
-          "porQueImporta": "O alerta indica condições meteorológicas que podem afetar a segurança e a agricultura local.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/al/alagoas/noticia/2026/11/15/inmet-emite-alerta-de-ventos-fortes-e-possibilidade-de-granizo-para-10-cidades-de-alagoas-confira.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-15T20:53:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Lh9byxHJCuyisgdPSASHeck0nC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/v/chtaFyR22sLsGtQZvlGQ/ventosalagoas.jpg"
-        },
-        {
-          "clusterId": "8d46713375aa2935",
-          "slug": "3abd0ade10ee1552",
-          "titulo": "Belo Horizonte registra chuva forte e granizo nesta tarde de domingo",
-          "resumo": "Belo Horizonte e mais de 800 cidades do estado receberam aviso amarelo de tempestade do Inmet até o fim do dia. A Defesa Civil alerta para possibilidade de granizo nas próximas duas horas. Imagens mostram pedras de gelo nos bairros Santo André e Guitierrez.",
-          "porQueImporta": "A ocorrência pode causar transtornos urbanos e riscos de danos materiais.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/bh-registra-chuva-forte-e-granizo-nesta-tarde-de-domingo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-15T17:38:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DOEYJBHfH4m0gFFux5Q_sQDfmTc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/8/Sp76FuSiKDdAgcmUSY7A/whatsapp-image-2026-11-15-at-13.43.32-2-.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "126b03b10d017a06",
-          "slug": "f21b4d47c435f0ef",
-          "titulo": "Governo federal reconhece emergência em 61 cidades do Pará por incêndios",
-          "resumo": "O governo federal reconheceu situação de emergência em 61 municípios do Pará devido a incêndios florestais e estiagem. Os municípios poderão solicitar recursos federais para ações de defesa civil. Outros 50 municípios também enfrentam emergência por queimadas e seca.",
-          "porQueImporta": "A medida permite mobilização de recursos para enfrentar incêndios e falta de água.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
+          "clusterId": "555f8a5d8c3cbd7e",
+          "slug": "e13e073c63e30944",
+          "titulo": "Homem é atropelado pelas costas e arremessado longe em São Caetano do Sul",
+          "resumo": "Um homem foi atingido pelas costas por um veículo e arremessado longe em São Caetano do Sul, no ABC paulista. O impacto foi registrado em imagens que mostram o momento do acidente. A vítima permanece internada na Unidade de Pronto Atendimento da cidade.",
+          "porQueImporta": "O incidente destaca a gravidade de acidentes de trânsito que envolvem colisões traseiras.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/governo-federal-reconhece-emergencia-em-61-cidades-do-para-por-incendios/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-e-atropelado-pelas-costas-e-arremessado-longe-em-sao-caetano-do-sul/"
             }
           ],
-          "updatedAt": "2026-11-15T18:17:47.000Z"
+          "updatedAt": "2026-11-15T23:00:51.000Z"
         }
       ]
     },
@@ -545,6 +310,23 @@
       "slug": "acidente-aereo",
       "label": "Acidente aéreo",
       "stories": [
+        {
+          "clusterId": "1f24472031f4b5f2",
+          "slug": "ab25f2404fcea4c8",
+          "titulo": "Piloto de avião agrícola colide com carro em Goiás",
+          "resumo": "Um avião agrícola tentou arremeter para evitar colidir com um carro, mas atingiu a parte superior do veículo, arrancando o teto. O acidente ocorreu na divisa entre Aragarças e Montes Claros, no oeste de Goiás, e resultou na morte de um homem e ferimentos em duas pessoas, incluindo uma criança de 8 anos. A aeronave estava realizando serviços de pulverização para uma empresa.",
+          "porQueImporta": "O incidente destaca riscos de operações agrícolas aéreas em áreas próximas a estradas.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/11/16/piloto-de-aviao-tentou-arremeter-para-evitar-batida-e-arrancou-teto-de-carro-em-acidente-que-matou-homem-em-goias-diz-pm.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-16T03:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HDDvswDz3xVKcBxs18NTCZ1pID8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/H/IBEcdYSReNVJifFfMOpg/png-5-.png"
+        },
         {
           "clusterId": "0edd73b320bbe793",
           "slug": "d3cd281690dbe444",
@@ -560,6 +342,140 @@
             }
           ],
           "updatedAt": "2026-11-15T03:38:30.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "4e2722ad0b12de16",
+          "slug": "4bc4e00ba21a32c2",
+          "titulo": "Nenhuma autoridade do Peru fez o que ele fez por nós: como Leão XIV ajudou a população durante enchentes e a pandemia",
+          "resumo": "O bispo Leão XIV, conhecido como Monsenhor Robert, atuou na cidade de Íllimo, no norte do Peru, durante as enchentes que devastaram a região. Ele entrou nas áreas inundadas com botas de borracha, ajudando a remover destroços e prestar assistência às famílias. Além das ações de socorro, o bispo também colaborou com a comunidade durante a pandemia, oferecendo apoio e orientação.",
+          "porQueImporta": "A atuação do bispo demonstra como líderes religiosos podem desempenhar papéis essenciais em situações de desastre, complementando as ações governamentais.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/nenhuma-autoridade-do-peru-fez-o-que-ele-fez-por-nos-como-leao-xiv-ajudou-a-populacao-durante-enchentes-e-a-pandemia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-16T00:49:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/h7xfJotdGrRDQhKRSPQvnNJ4aIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/f1L9nIQUagztidiS9Mpg/videoframe-2426464.png"
+        },
+        {
+          "clusterId": "51d4c94f52c62c0a",
+          "slug": "6cbc2fc3ab8ee210",
+          "titulo": "Chuva provoca alagamentos em São Paulo",
+          "resumo": "A chuva intensa atingiu São Paulo no domingo, feriado da Proclamação da República, causando alagamentos em várias regiões da capital. Vídeos mostraram um bueiro jorrando água na Bela Vista, no centro, e ruas inundadas em Santana, na Zona Norte. Às 19h40, o Centro de Gerenciamento de Emergências Climáticas colocou a Subprefeitura do Itaim Paulista, na Zona Leste, em estado de alerta após o transbordamento do Córrego Três.",
+          "porQueImporta": "O evento pode comprometer a mobilidade urbana e a segurança dos moradores.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/15/chuva-alaga-ruas-de-sp-e-provoca-transbordamento-de-corrego-na-zona-leste-videos-mostram-estragos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-16T00:24:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2CyF4ce0yLSFbxemw0RAjNjMD9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/z/Y2tlc0RQKvg5iQBfNIpA/montagem-horizontal-1200px-19-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "ba2e8953245e9e05",
+          "slug": "d749713465b8a6f0",
+          "titulo": "Incêndio em prédio comercial deixa 11 mortos e 16 feridos na Tailândia",
+          "resumo": "Um incêndio começou por volta das 3h17 em um imóvel que abrigava uma locadora de veículos na ilha de Phuket, na madrugada de segunda-feira. As chamas se espalharam para prédios vizinhos, resultando em 11 mortes e 16 feridos, a maioria cidadãos tailandeses. Os bombeiros levaram cerca de duas horas para controlar o fogo.",
+          "porQueImporta": "O incidente destaca a vulnerabilidade de áreas turísticas a incêndios e a necessidade de medidas de segurança eficazes.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/incendio-em-phuket-na-tailandia-deixa-mortos-e-feridos/"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/16/incendio-deixa-mortos-e-feridos-na-tailandia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-16T04:08:00.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "b3190e98a6200ecd",
+          "slug": "67d9869d35cbf9a4",
+          "titulo": "Defesa Civil emite alerta para chuvas intensas na Grande São Paulo",
+          "resumo": "A Defesa Civil divulgou alerta de chuvas fortes na Grande São Paulo, incluindo a capital e municípios vizinhos. O comunicado prevê descargas elétricas, rajadas de vento e queda de granizo. As autoridades recomendam precauções e monitoramento das condições climáticas. O alerta visa prevenir danos e garantir a segurança da população.",
+          "porQueImporta": "O alerta ajuda a prevenir acidentes e prejuízos causados por condições climáticas severas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-para-chuvas-intensas-na-grande-sao-paulo/"
+            }
+          ],
+          "updatedAt": "2026-11-15T23:49:14.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "4d1fbc31a0e6cc19",
+          "slug": "ead1ed6197e9f59c",
+          "titulo": "Explosão em depósito de gás da Pemex deixa 650 mortos",
+          "resumo": "Um vazamento de gás em um depósito da petroleira Pemex provocou uma explosão que resultou em 650 mortes. Virginia Martínez Tellez sobreviveu ao acidente, relatando que as cortinas ficaram grudadas no teto. O incidente ocorreu em uma comunidade próxima ao local do depósito. A explosão foi considerada um dos desastres industriais mais graves da história.",
+          "porQueImporta": "O evento destaca a importância da segurança em instalações de armazenamento de gás.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c3x29ldq242wo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-11-15T17:29:54.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9d6/live/9b0f4940-5dda-11f1-a574-05510226f57f.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "c4a4bc8cf7e04610",
+          "slug": "da4baa740d69513f",
+          "titulo": "Cruzeiro de luxo tomba após colisão com petroleiro no rio Mississippi",
+          "resumo": "Um cruzeiro de luxo ficou inclinado depois de colidir com um petroleiro no rio Mississippi, em Nova Orleans. Equipes de emergência, incluindo polícia, bombeiros e a Guarda Costeira, atuaram para retirar os passageiros. Cerca de 130 pessoas foram resgatadas. O incidente ocorreu na sexta-feira (13).",
+          "porQueImporta": "O acidente destaca riscos de navegação em rios urbanos e a necessidade de protocolos de segurança para embarcações de passageiros.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/14/video-cruzeiro-colide-com-petroleiro-eua.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-14T11:02:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zLHMHyLrxvhGolOTbGkrytrAgMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/d/HBINNOQS6OV0mzKSCNhQ/ap26317740760880.jpg"
         }
       ]
     }
