@@ -1,443 +1,339 @@
 {
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T13:45:33.050Z",
+  "generatedAt": "2026-11-17T23:36:54.445Z",
   "home": [
     {
-      "clusterId": "1c842bb0fd54820c",
-      "slug": "66ccc949386a2b74",
-      "titulo": "Defesa Civil alerta para chuva intensa e rajadas de vento no Rio Grande do Sul",
-      "resumo": "A Defesa Civil informou que a região do Rio Grande do Sul pode registrar chuvas fortes e rajadas de vento superiores a 90 km/h. Há possibilidade de granizo nesta terça-feira. A previsão indica risco de queda de árvores e danos a estruturas. Autoridades recomendam cautela e preparação para possíveis interrupções.",
-      "porQueImporta": "O alerta visa prevenir danos à população e à infraestrutura local.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/agenda-verde/defesa-civil-alerta-para-chuva-intensa-e-rajadas-de-vento-no-rio-grande-do-sul/"
-        }
-      ],
-      "updatedAt": "2026-11-17T13:41:37.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/RS.jpg"
-    },
-    {
-      "clusterId": "32a8fdb8164cd211",
-      "slug": "c0e9e666c435b58a",
-      "titulo": "Incêndio atinge canteiro de obras em Uberlândia",
-      "resumo": "Um incêndio de grandes proporções atingiu um canteiro de obras no bairro Jardim Sul, em Uberlândia, na noite de segunda-feira. O local contava com um galpão que abrigava depósito de materiais e escritórios anexos. O fogo se espalhou pelo depósito, mas não houve feridos. Vídeos de moradores mostram a extensão da fumaça e das chamas.",
-      "porQueImporta": "O incidente destaca riscos de incêndio em canteiros de obras e a necessidade de medidas de segurança adequadas.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "1642b6fe65e2f4dc",
+      "slug": "1efd43a0d25aa805",
+      "titulo": "Petroleiro pega fogo no Estreito de Ormuz após atingir mina",
+      "resumo": "Um petroleiro sofreu danos graves e pegou fogo depois de atingir uma mina na parte leste do Estreito de Ormuz, segundo o Exército iraniano. O incidente ocorreu ao norte de Khasab, em Omã, e a tripulação permanece desaparecida. A UKMTO não confirmou mortes, mas registrou o desaparecimento de um tripulante. A embarcação já havia sido atacada anteriormente.",
+      "porQueImporta": "O evento destaca a crescente tensão marítima na região e os riscos para o comércio de petróleo.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/17/video-incendio-de-grandes-proporcoes-atinge-canteiro-de-obras-na-zona-sul-de-uberlandia.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/video-navio-atingido-por-projetil-no-estreito-de-ormuz-pega-fogo-e-explode/"
         }
       ],
-      "updatedAt": "2026-11-17T13:34:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/X4wB2LaRm6YDTfhC6WUHcqUuEbM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/v/80Oo3hSBWUT7tCQHQwrQ/incendio-mrv-udi.png"
+      "updatedAt": "2026-11-17T21:34:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg"
     },
     {
-      "clusterId": "cd8221bcd72af7e3",
-      "slug": "12009e20e294e6ea",
-      "titulo": "Temporal alaga ruas e bloqueia estradas no Noroeste Fluminense",
-      "resumo": "A chuva forte atingiu o Noroeste Fluminense na segunda-feira, 16, provocando alagamentos em vários municípios. Varre-Sai registrou 80 mm em menos de três horas, enquanto Bom Jesus do Itabapoana acumulou 70,4 mm em 24 h, causando danos em residências e estabelecimentos comerciais. Também houve alagamentos em Itaperuna e Italva.",
-      "porQueImporta": "O evento comprometeu a mobilidade e a segurança das comunidades locais.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
+      "clusterId": "0a6e321a7a663ca1",
+      "slug": "c0f88a8c4525472e",
+      "titulo": "Avião militar russo cai na Sibéria",
+      "resumo": "Um avião de transporte militar An‑12 caiu perto do vilarejo de Yagunovo, na região de Kemerovo, na Sibéria. O acidente resultou na morte de todas as pessoas a bordo, com relatos de 17 a 19 vítimas. O Ministério da Defesa da Rússia apontou uma falha técnica como causa preliminar, enquanto o governador local confirmou o incidente em seu canal oficial. Imagens de câmeras de segurança mostram o momento do impacto.",
+      "porQueImporta": "O acidente destaca riscos operacionais de aeronaves militares em operação na Rússia.",
+      "categoria": "Acidente aéreo",
+      "categoriaSlug": "acidente-aereo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/17/temporal-alaga-ruas-e-bloqueia-estradas-no-noroeste-fluminense.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/17/aviao-militar-russo-cai-na-siberia-e-deixa-mortos.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/queda-de-aviao-na-siberia-mata-todas-as-pessoas-a-bordo/"
         }
       ],
-      "updatedAt": "2026-11-17T13:31:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/e_rHDForPLWluYTP1Pi5y6A8f3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/kFiV7iSCCkFPd5AiDCvQ/rua-alagada.jpg"
+      "updatedAt": "2026-11-17T21:22:57.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_0enU53p32GhxznF0dXr0NID2ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/0/bNA8e3Q5OdfGxVXCOsJw/novo-projeto-3-.jpg"
     },
     {
-      "clusterId": "7e4cb77bf977be4b",
-      "slug": "fa4d8a2596dcabe1",
-      "titulo": "Acidente entre carro e moto deixa garupa gravemente ferido em Ribeirão Preto, SP",
-      "resumo": "Acidente entre carro e moto deixa feridos em Ribeirão Preto, SP Um motociclista e o garupa ficaram feridos em um acidente envolvendo a moto em que eles estavam e um carro na manhã desta terça-feira (17), em Ribeirão Preto (SP). A batida aconteceu no cruzamento da Avenida Treze de Maio com a Rua Cesário Mota, na Zona Leste da cidade, por volta das 7h45. O garupa foi socorrido em estado grave. Câmeras de segurança de um estabelecimento comercial flagraram o momento em que a moto, que seguia pela avenida, ultrapassou o sinal vermelho e foi atingida em cheio pelo carro, que seguia pela rua.…",
+      "clusterId": "9ce2ee51b8545a41",
+      "slug": "0d0512d9520f91ab",
+      "titulo": "Deslizamento de terra atinge cinco casas em Cruzeiro do Sul",
+      "resumo": "Um deslizamento de terra atingiu cinco casas no bairro Cohab, em Cruzeiro do Sul, no interior do Acre. Nenhum ferido foi registrado. Os moradores foram evacuados e orientados a não retornar até avaliação da Defesa Civil.",
+      "porQueImporta": "O evento demonstra risco de desastres naturais em áreas urbanas do Acre.",
+      "categoria": "Deslizamento",
+      "categoriaSlug": "deslizamento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ac/acre/noticia/2026/11/17/deslizamento-de-terra-atinge-cinco-casas-de-municipio-no-interior-do-acre.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-17T23:11:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Gfg80QkrB3vQYOrarFgLeEqxq9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/0/DdywujSuCSSShSGzbIag/midia-de-distribuicao-g1.png"
+    },
+    {
+      "clusterId": "74760e1cb6b9928c",
+      "slug": "a944d7dff1703138",
+      "titulo": "Caminhão bate na traseira de outro veículo parado e duas pessoas morrem na BR-262",
+      "resumo": "Um caminhão que trafegava na BR-262, em Campos Altos, colidiu na traseira de outro caminhão parado por obras, resultando na morte de um homem e de uma mulher. O acidente ocorreu por volta das 14h, no km 594, em trecho sinalizado com sistema de pare e siga. As vítimas estavam a bordo do caminhão que se deslocava no sentido Luz–Araxá.",
+      "porQueImporta": "O acidente destaca riscos de colisões em trechos de obras em rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/17/caminhao-bate-na-traseira-de-outro-veiculo-parado-e-dois-morrem-na-br-262-em-mg.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-17T22:49:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ojCgRBU2y5ZyFOCXA5tuadyY1nU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/C/RVWFCuRh2DekYmyiWiZw/design-sem-nome-13-.png"
+    },
+    {
+      "clusterId": "e3e1e1b435e5c4f4",
+      "slug": "85fd021fcc78bb17",
+      "titulo": "VÍDEO: Acidente envolvendo motos deixa quatro pessoas feridas no Centro de Divinópolis",
+      "resumo": "Acidente com motos deixa quatro feridos no Centro de Divinópolis, MG Quatro pessoas, dois homens e duas mulheres, ficaram feridas em um acidente envolvendo motocicletas no Centro de Divinópolis, no fim da tarde desta terça-feira (17). A batida aconteceu por volta das 17h15, no cruzamento da Avenida Primeiro de Junho com a Rua Goiás. ✅ Clique aqui para seguir o canal do g1 Centro-Oeste de Minas no WhatsApp O acidente mobilizou equipes do Serviço de Atendimento Móvel de Urgência (Samu) e do Corpo de Bombeiros, que foram acionadas para prestar socorro às vítimas. Segundo a Polícia Militar (PM),…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/17/acidente-entre-carro-e-moto-deixa-garupa-gravemente-ferido-em-ribeirao-preto-sp.ghtml"
+          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/17/video-acidente-envolvendo-motos-deixa-quatro-pessoas-feridas-no-centro-de-divinopolis.ghtml"
         }
       ],
-      "updatedAt": "2026-11-17T13:25:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/fBRWdb5_x2BYtlNTT0rIY8164aA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/FhahisQ1qFU2v5tmNHYA/design-sem-nome-5-.png"
+      "updatedAt": "2026-11-17T22:35:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/-gY8KeW5CEEmLt6sh-FmHiKNVkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/v/MPngyhRBawJLvwsEBfEA/batida03.jpg"
     },
     {
-      "clusterId": "58eee16775109b87",
-      "slug": "9d51fc68c064f806",
-      "titulo": "Acidente na PE-103 em Bonito causa duas mortes",
-      "resumo": "Um acidente na PE-103, em Bonito, Pernambuco, resultou na morte de uma adolescente de 17 anos e uma mulher de 29 anos que estavam em uma moto. O condutor, de 19 anos, ficou ferido e foi socorrido. O veículo colidiu com um automóvel, e as vítimas faleceram no local.",
+      "clusterId": "1ec23d65e393f6d5",
+      "slug": "fff513147db9d2f2",
+      "titulo": "Acidente na Rodovia Fernando Guilhon deixa uma pessoa morta e outra gravemente ferida em Santarém",
+      "resumo": "Na noite de terça-feira, 17, um acidente de trânsito na Rodovia Fernando Guilhon, em Santarém, resultou na morte de um jovem de 18 anos, identificado como Everaldo Miranda do Carmo, e deixou outra pessoa gravemente ferida. As vítimas estavam em uma motocicleta. A suspeita inicial aponta que o condutor perdeu o controle do veículo e bateu contra o meio-fio da rodovia.",
       "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária na região.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/17/duas-pessoas-morrem-apos-acidente-em-bonito.ghtml"
+          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/acidente-na-fernando-guilhon-deixa-uma-pessoa-morta-e-outra-gravemente-ferida-em-santarem.ghtml"
         }
       ],
-      "updatedAt": "2026-11-17T13:23:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/5V62JPVt-IfOs3dmOEcOtGycGjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/e/pi1vu3T8qgvOBOyghVUA/complexo-do-dinter-1.png"
+      "updatedAt": "2026-11-17T22:34:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ntQTYLFfQOxzkBtpEQxowfgJoa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/tGTtUfR8KiwcnORvp4mA/whatsapp-image-2026-11-17-at-19.21.01.jpeg"
     },
     {
-      "clusterId": "5fe85f7316119033",
-      "slug": "1c61e9b2eacf9a2f",
-      "titulo": "Rio Tapajós atinge menor nível de novembro em Santarém e acende alerta para impactos da seca",
-      "resumo": "O nível do Rio Tapajós em Santarém caiu para 1,15 metro, a menor marca registrada em novembro. A queda acende alerta sobre os impactos da estiagem no município. Santarém já está em estado de emergência devido à falta de chuvas.",
-      "porQueImporta": "O nível reduzido do rio pode agravar a crise hídrica e afetar a população local.",
-      "categoria": "Seca",
-      "categoriaSlug": "seca",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/rio-tapajos-atinge-menor-nivel-de-novembro-em-santarem-e-acende-alerta-para-impactos-da-seca.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T13:11:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mO6feZgr3hWYEks_YcHkgouDOvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/yIduGdSMen4ByHSafCrw/whatsapp-image-2026-10-18-at-12.14.15.jpeg"
-    },
-    {
-      "clusterId": "1e4f52f38f4cde59",
-      "slug": "3011bd67bc192bac",
-      "titulo": "Norte de Minas registra mais de 405 mil raios em oito meses; veja como se proteger durante tempestades",
-      "resumo": "Norte de Minas registrou mais de 405 mil raios entre janeiro e agosto deste ano Divulgação O Norte de Minas registrou mais de 405 mil descargas atmosféricas entre janeiro e agosto de 2026, segundo dados do Centro de Meteorologia da Companhia Energética de Minas Gerais (Cemig). Em todo o estado, na área de concessão da empresa, foram contabilizados mais de 1,5 milhão de raios no período. Com a chegada do período de tempestades, a companhia alerta para os riscos associados às descargas atmosféricas, aos ventos fortes e aos alagamentos, que podem provocar danos à rede elétrica e acidentes. A…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/17/norte-de-minas-registra-mais-de-405-mil-raios-em-oito-meses-veja-como-se-proteger-durante-tempestades.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T13:11:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/z9yZlio-F-YxIW2f4Lqn5aWT8-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/knBvrVTbSc7mnBh9RCXw/raios8-1-.jpeg"
-    },
-    {
-      "clusterId": "c46238d37566863c",
-      "slug": "6f72c4824a69310b",
-      "titulo": "Família resgatada de telhado após casa ficar submersa em Malhada",
-      "resumo": "Em Malhada, Bahia, uma família foi retirada do telhado de sua casa que ficou submersa após fortes chuvas. O resgate ocorreu na segunda-feira, 16, em uma comunidade rural. A Defesa Civil relatou 240 mm de chuva na cidade, que está em estado de emergência. O vídeo mostra o homem, a mulher e duas crianças aguardando o socorro no telhado.",
-      "porQueImporta": "Ilustra o impacto das chuvas intensas na região e a necessidade de ações de emergência.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/video-mostra-momento-em-que-familia-e-resgata-de-telhado-apos-casa-ficar-submersa-no-interior-da-bahia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T13:07:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mMKAP2PrU_Sba5GcSCZit_7Q7vI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/z/zwfRIuSOAzkE1NAkGVSg/foto-2-uruguai-1-.png"
-    },
-    {
-      "clusterId": "91476e34b8a65437",
-      "slug": "f04e760455efac87",
-      "titulo": "Enxurrada invade hospital, muro de escola desaba e tubulação de faculdade se rompe: vídeos mostram estragos no ES",
-      "resumo": "Temporal atinge Sul do Espírito Santo As regiões Noroeste e Sul do Espírito Santo foram atingidas por fortes chuvas entre segunda-feira (16) e a madrugada desta terça-feira (17). Em poucas horas, a água inundou casas, lojas, hospitais e rodovias. Além de desalojar duas famílias, derrubar muro de escola e suspender aulas. Não há registro de feridos. Entre os municípios afetados estão Colatina e Marilândia, no Noroeste, e Apiáca, Alegre, Anchieta, Cachoeiro de Itapemirim, Marilândia, Mimoso do Sul e Guaçuí, no Sul capixaba. 📲 Clique aqui para seguir o canal do g1 ES no WhatsApp Até a última…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/17/enxurrada-invade-hospital-muro-de-escola-desaba-e-tubulacao-de-faculdade-se-rompe-videos-mostram-estragos-no-es.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T13:02:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Rvk8HQ2aolxn-4ittj6XrGV35_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/F/yS3VfITdmMrKssasXL2g/thumb-fotos-6-.jpg"
-    },
-    {
-      "clusterId": "a7cd53eb28e3bb3b",
-      "slug": "7652caa78dfa34bf",
-      "titulo": "Jovem de 21 anos morre após bater moto na traseira de caminhonete em Buriti",
-      "resumo": "Um jovem de 21 anos, identificado como Antônio Ellison Lima da Silva, morreu ao bater a motocicleta que pilotava na traseira de uma caminhonete na Rua da Bandeira, no centro de Buriti, Maranhão. O acidente ocorreu por volta das 19h30, quando o motociclista, em alta velocidade, tentou desviar de um ônibus escolar. Testemunhas relataram que a manobra resultou no impacto fatal.",
-      "porQueImporta": "O caso destaca os riscos de condução em alta velocidade e a necessidade de atenção em vias urbanas.",
+      "clusterId": "0affd80e50df23f5",
+      "slug": "7c40e2ff2e034f0e",
+      "titulo": "Motorista permanece preso após acidente que matou criança de 10 anos na Paraíba",
+      "resumo": "A Justiça da Paraíba manteve a prisão temporária do motorista envolvido em acidente de trânsito que resultou na morte de uma criança de 10 anos, ocorrido em 12 de outubro, entre Massaranduba e Campina Grande. O homem foi preso na segunda-feira, 16 de outubro, e a decisão foi confirmada em audiência de custódia realizada em 17 de outubro.",
+      "porQueImporta": "O caso destaca a aplicação da lei penal em acidentes de trânsito que causam fatalidades infantis.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/11/17/jovem-morre-apos-bater-moto-na-traseira-de-caminhonete-em-buriti-no-ma.ghtml"
+          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/17/justica-mantem-prisao-de-motorista-de-carro-envolvido-em-acidente-que-matou-crianca-de-10-anos-no-agreste-da-pb.ghtml"
         }
       ],
-      "updatedAt": "2026-11-17T13:00:13.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jo1j4nKfTUCBCGu8ShrRc_h6Gyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/g/r0FXDGTKGuWF6fSeZPXA/montagens-1920-x-1080-px-32-.jpg"
+      "updatedAt": "2026-11-17T22:01:04.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/8KjzLX1Gpyl4lZ13USORb2nhQJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/d/bGxK1pQpG7TrbqGLhCMQ/bgs-g1-pb-e-jp.png"
+    },
+    {
+      "clusterId": "423ab0296f8b0e25",
+      "slug": "73029d6b730c069f",
+      "titulo": "Vendaval arranca telhado de imóvel e espalha cadeiras e guarda-sóis em praia de Morro de São Paulo",
+      "resumo": "Um vendaval atingiu a praia de Morro de São Paulo, no município de Cairu, Bahia, na tarde de terça-feira (17). A força do vento arrancou o telhado de um imóvel à beira-mar e espalhou cadeiras e guarda-sóis pela faixa de areia. A ventania causou correria entre banhistas e trabalhadores, mas não houve feridos. Imagens em vídeo mostram objetos sendo levantados pela força do vento.",
+      "porQueImporta": "O evento demonstra a intensidade dos ventos na região, alertando para a necessidade de precauções em áreas costeiras e de lazer.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/ventania-em-morro-de-sao-paulo.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-17T21:59:34.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_-UCpRMMIYTMjHoskYYBnLLMZY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/S/6jszAVQbu3cqKGABYWAQ/design-sem-nome-2026-11-17t184421.576.png"
+    },
+    {
+      "clusterId": "a9763dc825776abb",
+      "slug": "d791f133586fbf3e",
+      "titulo": "Carro invade calçada e atropela seis pessoas no Centro de Volta Redonda",
+      "resumo": "Um veículo invadiu a calçada da Avenida Amaral Peixoto, no Centro de Volta Redonda, e atropelou seis pessoas, incluindo uma criança. Os feridos foram atendidos pelo Corpo de Bombeiros e SAMU e encaminhados a duas unidades médicas da cidade. Uma mulher e a criança foram levadas a uma unidade particular. O acidente ocorreu na terça-feira (17).",
+      "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança viária em áreas urbanas densamente povoadas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/17/carro-invade-calcada-e-atropela-seis-pessoas-no-centro-de-volta-redonda.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-17T21:48:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/pwwvxBJwZ378w9n3vP4Mk5qWslM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/g/CSHgDBSyyiLN8BzMXq0Q/whatsapp-image-2026-11-17-at-18.19.13-1-1-.jpeg"
+    },
+    {
+      "clusterId": "d129c3884c972b4f",
+      "slug": "6c62d09f9fac92b3",
+      "titulo": "Acidente com carreta, ambulância e terceiro veículo causa congestionamento na Anhanguera",
+      "resumo": "Um acidente envolvendo uma carreta, uma ambulância do Samu e um terceiro veículo provocou 6 quilômetros de congestionamento na Rodovia Anhanguera, em Sumaré, por volta das 17h14, no Km 106, sentido capital. O terceiro veículo não foi identificado e deixou o local após a colisão. A concessionária Autoban informou que não houve vítimas.",
+      "porQueImporta": "O incidente bloqueou uma importante via de transporte, gerando transtornos de trânsito e atrasos para os usuários.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/17/acidente-com-carreta-e-ambulancia-provoca-congestionamento-na-anhanguera-em-sumare.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-17T21:47:34.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/sA4sDUYDtxjPMihYrX_TqZUnYvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/K/Yh8O5zS8qTmA2ueU7z6g/eptv-cp-bdc-2409-flagra-faixa-exclusiva-1-.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "74760e1cb6b9928c",
+          "slug": "a944d7dff1703138",
+          "titulo": "Caminhão bate na traseira de outro veículo parado e duas pessoas morrem na BR-262",
+          "resumo": "Um caminhão que trafegava na BR-262, em Campos Altos, colidiu na traseira de outro caminhão parado por obras, resultando na morte de um homem e de uma mulher. O acidente ocorreu por volta das 14h, no km 594, em trecho sinalizado com sistema de pare e siga. As vítimas estavam a bordo do caminhão que se deslocava no sentido Luz–Araxá.",
+          "porQueImporta": "O acidente destaca riscos de colisões em trechos de obras em rodovias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/17/caminhao-bate-na-traseira-de-outro-veiculo-parado-e-dois-morrem-na-br-262-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T22:49:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ojCgRBU2y5ZyFOCXA5tuadyY1nU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/C/RVWFCuRh2DekYmyiWiZw/design-sem-nome-13-.png"
+        },
+        {
+          "clusterId": "1ec23d65e393f6d5",
+          "slug": "fff513147db9d2f2",
+          "titulo": "Acidente na Rodovia Fernando Guilhon deixa uma pessoa morta e outra gravemente ferida em Santarém",
+          "resumo": "Na noite de terça-feira, 17, um acidente de trânsito na Rodovia Fernando Guilhon, em Santarém, resultou na morte de um jovem de 18 anos, identificado como Everaldo Miranda do Carmo, e deixou outra pessoa gravemente ferida. As vítimas estavam em uma motocicleta. A suspeita inicial aponta que o condutor perdeu o controle do veículo e bateu contra o meio-fio da rodovia.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária na região.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/acidente-na-fernando-guilhon-deixa-uma-pessoa-morta-e-outra-gravemente-ferida-em-santarem.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T22:34:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ntQTYLFfQOxzkBtpEQxowfgJoa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/tGTtUfR8KiwcnORvp4mA/whatsapp-image-2026-11-17-at-19.21.01.jpeg"
+        },
+        {
+          "clusterId": "0affd80e50df23f5",
+          "slug": "7c40e2ff2e034f0e",
+          "titulo": "Motorista permanece preso após acidente que matou criança de 10 anos na Paraíba",
+          "resumo": "A Justiça da Paraíba manteve a prisão temporária do motorista envolvido em acidente de trânsito que resultou na morte de uma criança de 10 anos, ocorrido em 12 de outubro, entre Massaranduba e Campina Grande. O homem foi preso na segunda-feira, 16 de outubro, e a decisão foi confirmada em audiência de custódia realizada em 17 de outubro.",
+          "porQueImporta": "O caso destaca a aplicação da lei penal em acidentes de trânsito que causam fatalidades infantis.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/17/justica-mantem-prisao-de-motorista-de-carro-envolvido-em-acidente-que-matou-crianca-de-10-anos-no-agreste-da-pb.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T22:01:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8KjzLX1Gpyl4lZ13USORb2nhQJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/d/bGxK1pQpG7TrbqGLhCMQ/bgs-g1-pb-e-jp.png"
+        },
+        {
+          "clusterId": "a9763dc825776abb",
+          "slug": "d791f133586fbf3e",
+          "titulo": "Carro invade calçada e atropela seis pessoas no Centro de Volta Redonda",
+          "resumo": "Um veículo invadiu a calçada da Avenida Amaral Peixoto, no Centro de Volta Redonda, e atropelou seis pessoas, incluindo uma criança. Os feridos foram atendidos pelo Corpo de Bombeiros e SAMU e encaminhados a duas unidades médicas da cidade. Uma mulher e a criança foram levadas a uma unidade particular. O acidente ocorreu na terça-feira (17).",
+          "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança viária em áreas urbanas densamente povoadas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/17/carro-invade-calcada-e-atropela-seis-pessoas-no-centro-de-volta-redonda.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T21:48:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/pwwvxBJwZ378w9n3vP4Mk5qWslM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/g/CSHgDBSyyiLN8BzMXq0Q/whatsapp-image-2026-11-17-at-18.19.13-1-1-.jpeg"
+        },
+        {
+          "clusterId": "d129c3884c972b4f",
+          "slug": "6c62d09f9fac92b3",
+          "titulo": "Acidente com carreta, ambulância e terceiro veículo causa congestionamento na Anhanguera",
+          "resumo": "Um acidente envolvendo uma carreta, uma ambulância do Samu e um terceiro veículo provocou 6 quilômetros de congestionamento na Rodovia Anhanguera, em Sumaré, por volta das 17h14, no Km 106, sentido capital. O terceiro veículo não foi identificado e deixou o local após a colisão. A concessionária Autoban informou que não houve vítimas.",
+          "porQueImporta": "O incidente bloqueou uma importante via de transporte, gerando transtornos de trânsito e atrasos para os usuários.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/17/acidente-com-carreta-e-ambulancia-provoca-congestionamento-na-anhanguera-em-sumare.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T21:47:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/sA4sDUYDtxjPMihYrX_TqZUnYvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/K/Yh8O5zS8qTmA2ueU7z6g/eptv-cp-bdc-2409-flagra-faixa-exclusiva-1-.jpg"
+        },
+        {
+          "clusterId": "772db5bd3582e53a",
+          "slug": "78179e09fcb2e69c",
+          "titulo": "Ônibus atinge idoso de bicicleta em Divinópolis",
+          "resumo": "Um ônibus de transporte coletivo atingiu um idoso de 71 anos que pedalava pela Rua Miguel Gontijo, no Bairro Paraíso, em Divinópolis. O acidente ocorreu na tarde de segunda-feira (16). A vítima permanece internada em estado grave no Centro de Terapia Intensiva do Complexo de Saúde São João de Deus.",
+          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança de ciclistas em vias urbanas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/17/video-mostra-momento-em-que-onibus-atinge-idoso-de-bicicleta-em-divinopolis.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T21:43:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_2udZmp4jM9ctPSL3iV6o87-yZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/K/A4BYN8RvSzaAzSqqSfvw/acidnete-paraiso.jpeg"
+        },
+        {
+          "clusterId": "c01792381f71fe3b",
+          "slug": "cd418fc634b2a11d",
+          "titulo": "Acidente de ônibus mata 13 trabalhadores em Abdanan, Irã",
+          "resumo": "Um ônibus que transportava funcionários de uma empresa petrolífera tombou em Abdanan, resultando na morte de 13 trabalhadores. Centenas de pessoas saíram às ruas para protestar contra o governo e apoiar a restauração da monarquia. Os manifestantes exigiram a renúncia de autoridades e repetiram slogans em favor da antiga família Pahlavi.",
+          "porQueImporta": "O incidente destaca a tensão política no Irã e a reação pública a acidentes de trabalho.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/protestos-ira-monarquia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T18:22:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YnFD2mcKMsKWFCc63B0XP9tkbb0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/j/KgxrvjSh6NjsVUGJdHSw/protesto-ira-monarquia-17-novembro.avif"
+        }
+      ]
+    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "7e4cb77bf977be4b",
-          "slug": "fa4d8a2596dcabe1",
-          "titulo": "Acidente entre carro e moto deixa garupa gravemente ferido em Ribeirão Preto, SP",
-          "resumo": "Acidente entre carro e moto deixa feridos em Ribeirão Preto, SP Um motociclista e o garupa ficaram feridos em um acidente envolvendo a moto em que eles estavam e um carro na manhã desta terça-feira (17), em Ribeirão Preto (SP). A batida aconteceu no cruzamento da Avenida Treze de Maio com a Rua Cesário Mota, na Zona Leste da cidade, por volta das 7h45. O garupa foi socorrido em estado grave. Câmeras de segurança de um estabelecimento comercial flagraram o momento em que a moto, que seguia pela avenida, ultrapassou o sinal vermelho e foi atingida em cheio pelo carro, que seguia pela rua.…",
+          "clusterId": "e3e1e1b435e5c4f4",
+          "slug": "85fd021fcc78bb17",
+          "titulo": "VÍDEO: Acidente envolvendo motos deixa quatro pessoas feridas no Centro de Divinópolis",
+          "resumo": "Acidente com motos deixa quatro feridos no Centro de Divinópolis, MG Quatro pessoas, dois homens e duas mulheres, ficaram feridas em um acidente envolvendo motocicletas no Centro de Divinópolis, no fim da tarde desta terça-feira (17). A batida aconteceu por volta das 17h15, no cruzamento da Avenida Primeiro de Junho com a Rua Goiás. ✅ Clique aqui para seguir o canal do g1 Centro-Oeste de Minas no WhatsApp O acidente mobilizou equipes do Serviço de Atendimento Móvel de Urgência (Samu) e do Corpo de Bombeiros, que foram acionadas para prestar socorro às vítimas. Segundo a Polícia Militar (PM),…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/17/acidente-entre-carro-e-moto-deixa-garupa-gravemente-ferido-em-ribeirao-preto-sp.ghtml"
+              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/17/video-acidente-envolvendo-motos-deixa-quatro-pessoas-feridas-no-centro-de-divinopolis.ghtml"
             }
           ],
-          "updatedAt": "2026-11-17T13:25:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fBRWdb5_x2BYtlNTT0rIY8164aA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/FhahisQ1qFU2v5tmNHYA/design-sem-nome-5-.png"
-        },
-        {
-          "clusterId": "1e4f52f38f4cde59",
-          "slug": "3011bd67bc192bac",
-          "titulo": "Norte de Minas registra mais de 405 mil raios em oito meses; veja como se proteger durante tempestades",
-          "resumo": "Norte de Minas registrou mais de 405 mil raios entre janeiro e agosto deste ano Divulgação O Norte de Minas registrou mais de 405 mil descargas atmosféricas entre janeiro e agosto de 2026, segundo dados do Centro de Meteorologia da Companhia Energética de Minas Gerais (Cemig). Em todo o estado, na área de concessão da empresa, foram contabilizados mais de 1,5 milhão de raios no período. Com a chegada do período de tempestades, a companhia alerta para os riscos associados às descargas atmosféricas, aos ventos fortes e aos alagamentos, que podem provocar danos à rede elétrica e acidentes. A…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/17/norte-de-minas-registra-mais-de-405-mil-raios-em-oito-meses-veja-como-se-proteger-durante-tempestades.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T13:11:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/z9yZlio-F-YxIW2f4Lqn5aWT8-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/knBvrVTbSc7mnBh9RCXw/raios8-1-.jpeg"
-        },
-        {
-          "clusterId": "91476e34b8a65437",
-          "slug": "f04e760455efac87",
-          "titulo": "Enxurrada invade hospital, muro de escola desaba e tubulação de faculdade se rompe: vídeos mostram estragos no ES",
-          "resumo": "Temporal atinge Sul do Espírito Santo As regiões Noroeste e Sul do Espírito Santo foram atingidas por fortes chuvas entre segunda-feira (16) e a madrugada desta terça-feira (17). Em poucas horas, a água inundou casas, lojas, hospitais e rodovias. Além de desalojar duas famílias, derrubar muro de escola e suspender aulas. Não há registro de feridos. Entre os municípios afetados estão Colatina e Marilândia, no Noroeste, e Apiáca, Alegre, Anchieta, Cachoeiro de Itapemirim, Marilândia, Mimoso do Sul e Guaçuí, no Sul capixaba. 📲 Clique aqui para seguir o canal do g1 ES no WhatsApp Até a última…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/17/enxurrada-invade-hospital-muro-de-escola-desaba-e-tubulacao-de-faculdade-se-rompe-videos-mostram-estragos-no-es.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T13:02:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Rvk8HQ2aolxn-4ittj6XrGV35_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/F/yS3VfITdmMrKssasXL2g/thumb-fotos-6-.jpg"
-        },
-        {
-          "clusterId": "5e310b4f60b75af8",
-          "slug": "a28fd5c931a62693",
-          "titulo": "Governo federal reconhece situação de emergência em Oiapoque por causa de incêndio florestal",
-          "resumo": "Brigadistas combatem as queimadas em Terras Indígenas de Oiapoque O Ministério da Integração e do Desenvolvimento Regional (MIDR), por meio da Defesa Civil Nacional, reconheceu a situação de emergência em mais de 15 cidades brasileiras afetadas por desastres. Entre eles, está Oiapoque, no extremo norte do Amapá. O reconhecimento federal ocorreu em razão dos incêndios florestais que atingem o município há cerca de um mês. A crise se agravou após o fogo alcançar o lixão da cidade e áreas de terras indígenas. ✅ Clique aqui para seguir o canal do g1 AP no WhatsApp A fumaça que encobre o município…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/17/governo-federal-reconhece-situacao-de-emergencia-em-oiapoque-por-causa-de-incendio-florestal.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T12:28:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vCB4YFdYWU_6Rp5v2NTWnQrAbjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/a/O6MXbsSamlHrPaBCDMeA/aleixo-g1-45-.jpg"
-        },
-        {
-          "clusterId": "cfd313680a6e6867",
-          "slug": "fea396da2f40351c",
-          "titulo": "VÍDEO: Homem nada em meio à enxurrada para resgatar criança de carro em MG",
-          "resumo": "Homem nada em meio à enxurrada para resgatar criança de carro em MG Uma criança foi resgatada de dentro de um carro durante a forte enxurrada que atingiu o bairro Veneza, em Ipatinga, no Vale do Aço, na tarde desta segunda-feira (16). O veículo estava parcialmente submerso em meio ao alagamento provocado pela chuva (veja o vídeo acima). O vídeo mostra uma rua completamente alagada por uma forte enxurrada de água barrenta, com vários carros parcialmente submersos. Na cena, um homem nada para resgatar uma criança, carregando-a em segurança até encontrar outras pessoas que ajudam na retirada e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/17/video-homem-nada-em-meio-a-enxurrada-para-resgatar-crianca-de-carro-em-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T12:22:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RTYf7TneXy0C2cL1yUEiU_7H38A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/H/E9UBWgRdKItBLWFnycmg/carol-44-.png"
-        },
-        {
-          "clusterId": "a98e8acaf99d80ce",
-          "slug": "75656a51d535bb99",
-          "titulo": "'Foi muito assustador', diz dono de carro atingido por cobertura de posto que caiu com chuva em Franca, SP",
-          "resumo": "‘Foi muito assustador’, diz dono de carro atingido por estrutura que caiu com chuva Uma família escapou sem ferimentos depois que a cobertura metálica de um posto de combustíveis caiu sobre o carro em que estava, durante o temporal de segunda-feira (16), em Franca (SP). Uma criança autista que estava no veículo ficou bastante assustada, segundo o pai, o motorista Carlos Alberto Sampaio. À EPTV, afiliada da TV Globo, ele disse que iria abastecer o veículo quando foi surpreendido pela queda da estrutura. \"Eu estava acabando de fazer umas entregas, tinha uns pacotinhos ainda e aí entrei no posto…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/17/foi-muito-assustador-diz-dono-de-carro-atingido-por-cobertura-de-posto-que-caiu-com-chuva-em-franca-sp.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T12:21:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_HaXfYnYg5k_QIgzKCHbCtzZ0AA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/A/P0AKDdQTCrluv2vLL8pQ/whatsapp-image-2026-11-16-at-20.52.10.jpeg"
-        },
-        {
-          "clusterId": "4fa32dc7b2c6b04d",
-          "slug": "87f5d66c7de4f12c",
-          "titulo": "Gato-maracajá é visto andando sobre muros de casas em Imperatriz no MA",
-          "resumo": "Gato-maracajá é visto andando sobre muros de casas em Imperatriz no MA A Defesa Civil realiza buscas por um gato-maracajá que tem sido avistado por moradores do bairro Jardim América, em Imperatriz, na Região Tocantina do Maranhão. O animal costuma aparecer por volta das 19h, andando sobre os muros das casas (Assista acima). 📲 Clique aqui e se inscreva no canal do g1 Maranhão no WhatsApp Segundo moradores, há relatos da presença de outros felinos na região, entre eles uma fêmea e um filhote. O bairro fica próximo à área onde uma onça-pintada foi avistada nas últimas semanas. As buscas foram…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/11/17/gato-maracaja-e-visto-andando-sobre-muros-de-casas-em-imperatriz-no-ma.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T12:19:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PK7hRqxj8HAmrcmKWaX7eqilP38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/1/PSgceARTSVMAgRWqmODA/montagens-1920-x-1080-px-31-.jpg"
-        },
-        {
-          "clusterId": "fad52c0feb35d379",
-          "slug": "274096262331d658",
-          "titulo": "Carreta pega fogo e interdita faixa de rodovia em Assis",
-          "resumo": "Uma carreta pegou fogo na manhã desta terça-feira (17), na Rodovia Dona Leonor Mendes de Barros (SP-333), em Assis (SP) Portal CCM — ARTESP (ccm.artesp.sp.gov.br) Uma carreta pegou fogo na manhã desta terça-feira (17), na Rodovia Miguel Jubran (SP-333), em Assis (SP). De acordo com a concessionária Eixo SP, que administra o trecho, o incêndio começou quando o veículo passava pelo km 414, por motivos ainda desconhecidos. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp O Corpo de Bombeiros foi acionado e controlou as chamas. O motorista não se feriu. Até a última atualização desta…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/17/carreta-pega-fogo-e-interdita-faixa-de-rodovia-em-assis.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T12:12:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fI1Hv9KgH94SuRNPvg8Q-zxsfu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/6/OtnMBlQjSrTBse2suDbg/novo-projeto-2026-11-17t073343.407.png"
-        },
-        {
-          "clusterId": "32641dc5d6c59a89",
-          "slug": "dad5a01db373300e",
-          "titulo": "Temporal alaga ruas, invade comércios e deixa carros submersos em Ipatinga",
-          "resumo": "Volta a chover forte no Vale do Aço A chuva que atingiu Ipatinga, no Vale do Aço, na tarde desta segunda-feira (16), provocou alagamentos em diferentes pontos da cidade. No bairro Veneza, ruas ficaram inundadas, carros foram parcialmente cobertos pela água e estabelecimentos comerciais também foram atingidos. A situação já estava normalizada na maior parte das vias, segundo a Defesa Civil. De acordo com medições dos pluviômetros da Usiminas, o volume acumulado chegou a 72 milímetros no bairro Veneza. Também foram registrados 59,5 mm no Cidade Nobre, 58 mm no Cariru e 46,2 mm no Bom Retiro. Os…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/17/temporal-alaga-ruas-invade-comercios-e-deixa-carros-submersos-em-ipatinga.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T12:02:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/qXDlsXtsQ1iaab2vcqdA1HyuZaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/p/bum6dFQZmbWdaDrVfG3A/carol-43-.png"
-        },
-        {
-          "clusterId": "6ab13d62b4991551",
-          "slug": "3f08acf8ed75ebdb",
-          "titulo": "Seca extrema desidrata a Amazônia e aumenta risco de incêndios florestais, alerta médico",
-          "resumo": "médico Erick Jennings alerta que a Floresta Amazônica está cada vez mais vulnerável A Floresta Amazônica está cada vez mais vulnerável a incêndios devido ao avanço da seca e das altas temperaturas. O alerta é do médico Erick Jennings, que aponta que a vegetação enfrenta um grave processo de desidratação em 2026, após a seca histórica de 2024. O cenário aumenta o risco de grandes queimadas mesmo em áreas de floresta densa e de conservação. ✅ Clique aqui e siga o canal g1 Santarém e Região no WhatsApp Em Santarém, no oeste do Pará, os efeitos da crise climática são visíveis. Um incêndio atingiu…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/seca-extrema-desidrata-a-amazonia-e-aumenta-risco-de-incendios-florestais-alerta-medico.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T12:00:07.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pmo-qf7Oaho2QP44UQm4c4tAWkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/4/APDfJtSgmf1onaDiw7AQ/whatsapp-image-2026-11-17-at-08.47.05.jpeg"
-        },
-        {
-          "clusterId": "26f0b6e4e7b076b9",
-          "slug": "cf9ce58a7baaef49",
-          "titulo": "Mulher é encontrada morta em olho d'água no Piauí; polícia suspeita de afogamento",
-          "resumo": "Riacho em Paquetá do Piauí TV Clube Uma mulher identificada pelas iniciais M. D. S. G. foi encontrada morta na tarde de segunda-feira (16) em um olho d'água no povoado Sucavão, na zona rural de Paquetá do Piauí, no Centro-Sul do estado. Segundo a Polícia Militar, a principal suspeita é de afogamento. Segundo o 4º Batalhão da Polícia Militar (4º BPM), a ocorrência foi registrada por volta das 17h40, após um familiar informar o desaparecimento da mulher. Conforme a corporação, ela havia sido vista seguindo em direção ao olho d'água. ✅ Siga o canal do g1 Piauí no WhatsApp Agora no g1 Ainda…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/17/mulher-morta-piaui.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T11:59:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/EyKiGEwJifl4ETBLnszezsmXMP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/m/Q1WqoBSOmcI5cdeNbmuQ/edicao-imagens-g1-3-.png"
-        },
-        {
-          "clusterId": "4310fb449f829424",
-          "slug": "33b7095136ba3372",
-          "titulo": "Dois acidentes na BR-163 deixam dois mortos em MS, entre eles servidor da Energisa",
-          "resumo": "Leandro era de Dourados e seguia para prestar apoio a equipes em Naviraí Redes sociais O funcionário da Energisa, Leandro Florencio, morreu após uma colisão frontal entre uma caminhonete utilitária e um carro de passeio na BR-163, em Naviraí, em Mato Grosso do Sul. O acidente aconteceu na altura do trevo no km 142 da rodovia, na manhã de segunda-feira (16). O trabalhador era de Dourados e estava a caminho de Naviraí para prestar apoio às equipes da empresa que atuavam no município. Ele foi socorrido em estado grave e levado ao hospital, mas não resistiu aos ferimentos. ✅ Clique aqui para…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/17/dois-acidentes-na-br-163-deixam-dois-mortos-em-ms-entre-eles-servidor-da-energisa.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T11:57:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/H5rxxKE6GKvbJo-LvCZFfUCP_aE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/J/rBAfOoSAaOfrcMGNReog/fdfghkm.png"
-        },
-        {
-          "clusterId": "27f421d495780213",
-          "slug": "0b0a0c3d307363a4",
-          "titulo": "Motorista de caminhão morre após colisão traseira com ônibus na SP-225 em Pederneiras",
-          "resumo": "Motorista de um caminhão morre após acidente com um ônibus na madrugada de terça-feira (17), na SP-225, em Pederneiras (SP) Portal CCM — ARTESP (ccm.artesp.sp.gov.br) O motorista de um caminhão morreu após se envolver em um acidente com um ônibus na madrugada desta terça-feira (17), na Rodovia Comandante João Ribeiro de Barros (SP-225), em Pederneiras (SP). De acordo com a concessionária Eixo SP, que administra o trecho, a colisão traseira entre os dois veículos foi registrada por volta das 2h, na altura do km 204. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp Os dois veículos…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/17/motorista-de-caminhao-morre-apos-colisao-traseira-com-onibus-na-sp-225-em-pederneiras.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T11:55:05.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/7rmMDJFMqQZ7L_ACF25188KcNHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/7/1xP0stRQaoQ7V1zuYCEg/novo-projeto-2026-11-17t083410.136.png"
-        },
-        {
-          "clusterId": "97e30647e447b099",
-          "slug": "7b1b12e346201487",
-          "titulo": "Acidente de trem na Tchéquia deixa ao menos 46 feridos",
-          "resumo": "Quatro vítimas estão em estado grave enquanto serviços de emergência atuam no local",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/acidente-de-trem-na-tchequia-deixa-feridos/"
-            }
-          ],
-          "updatedAt": "2026-11-17T11:14:20.000Z"
-        },
-        {
-          "clusterId": "d1308b69c6d94887",
-          "slug": "1efd43a0d25aa805",
-          "titulo": "Petroleiro pega fogo no Estreito de Ormuz e Irã faz novo ataque ao Bahrein após volta de tensões no Oriente Médio",
-          "resumo": "Petroleiro pega fogo no Estreito de Ormuz Um petroleiro sofreu graves danos e pegou fogo após atingir uma mina em uma \"zona restrita\" na parte leste do Estreito de Ormuz, informou o Exército iraniano em um comunicado divulgado pela mídia estatal nesta terça-feira (17). Segundo informações da agência de Operações de Comércio Marítimo do Reino Unido (UKMTO), o incidente ocorreu ao norte da cidade portuária de Khasab, em Omã, e a tripulação está desaparecida após um incêndio a bordo. A UKMTO também afirma, citando uma agência de segurança marítima, que a embarcação já havia sido atacada nesta…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T09:51:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg"
+          "updatedAt": "2026-11-17T22:35:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/-gY8KeW5CEEmLt6sh-FmHiKNVkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/v/MPngyhRBawJLvwsEBfEA/batida03.jpg"
         },
         {
           "clusterId": "eba4a9dd8faef64d",
           "slug": "34daf6c609387f81",
-          "titulo": "Papa Leão XIV é atingido por objeto no rosto a caminho de sua última missa no Peru; veja vídeo",
-          "resumo": "Papa Leão XIV é atingido no rosto por objeto a caminho de sua última missa no Peru Na reta final de sua passagem pela América do Sul, nesta segunda-feira (16), o papa Leão XIV foi atingido no rosto por um terço atirado por um fiel quando chegava para uma missa de despedida em Lima, no Peru. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia VEJA MAIS: 'Nenhuma autoridade do Peru fez o que ele fez por nós': como Leão XIV ajudou a população durante enchentes e a pandemia Fotos e vídeos mostram o papa levando a mão ao olho pouco depois de ser atingido, enquanto cumprimentava…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "titulo": "Papa Leão XIV é atingido por objeto no rosto a caminho de missa no Peru",
+          "resumo": "Durante a última missa em Lima, o Papa Leão XIV foi atingido no rosto por um terço lançado por um fiel. O incidente ocorreu enquanto ele se dirigia ao local da cerimônia. O Papa reagiu rapidamente, levantando a mão ao olho afetado. O evento foi registrado em vídeo e divulgado pelas autoridades locais.",
+          "porQueImporta": "O ataque a uma figura religiosa de destaque pode gerar preocupação sobre segurança em eventos públicos.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
@@ -452,59 +348,125 @@
       ]
     },
     {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "1642b6fe65e2f4dc",
+          "slug": "1efd43a0d25aa805",
+          "titulo": "Petroleiro pega fogo no Estreito de Ormuz após atingir mina",
+          "resumo": "Um petroleiro sofreu danos graves e pegou fogo depois de atingir uma mina na parte leste do Estreito de Ormuz, segundo o Exército iraniano. O incidente ocorreu ao norte de Khasab, em Omã, e a tripulação permanece desaparecida. A UKMTO não confirmou mortes, mas registrou o desaparecimento de um tripulante. A embarcação já havia sido atacada anteriormente.",
+          "porQueImporta": "O evento destaca a crescente tensão marítima na região e os riscos para o comércio de petróleo.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/video-navio-atingido-por-projetil-no-estreito-de-ormuz-pega-fogo-e-explode/"
+            }
+          ],
+          "updatedAt": "2026-11-17T21:34:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
+      "stories": [
+        {
+          "clusterId": "0a6e321a7a663ca1",
+          "slug": "c0f88a8c4525472e",
+          "titulo": "Avião militar russo cai na Sibéria",
+          "resumo": "Um avião de transporte militar An‑12 caiu perto do vilarejo de Yagunovo, na região de Kemerovo, na Sibéria. O acidente resultou na morte de todas as pessoas a bordo, com relatos de 17 a 19 vítimas. O Ministério da Defesa da Rússia apontou uma falha técnica como causa preliminar, enquanto o governador local confirmou o incidente em seu canal oficial. Imagens de câmeras de segurança mostram o momento do impacto.",
+          "porQueImporta": "O acidente destaca riscos operacionais de aeronaves militares em operação na Rússia.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/aviao-militar-russo-cai-na-siberia-e-deixa-mortos.ghtml"
+            },
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/queda-de-aviao-na-siberia-mata-todas-as-pessoas-a-bordo/"
+            }
+          ],
+          "updatedAt": "2026-11-17T21:22:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_0enU53p32GhxznF0dXr0NID2ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/0/bNA8e3Q5OdfGxVXCOsJw/novo-projeto-3-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "9ce2ee51b8545a41",
+          "slug": "0d0512d9520f91ab",
+          "titulo": "Deslizamento de terra atinge cinco casas em Cruzeiro do Sul",
+          "resumo": "Um deslizamento de terra atingiu cinco casas no bairro Cohab, em Cruzeiro do Sul, no interior do Acre. Nenhum ferido foi registrado. Os moradores foram evacuados e orientados a não retornar até avaliação da Defesa Civil.",
+          "porQueImporta": "O evento demonstra risco de desastres naturais em áreas urbanas do Acre.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ac/acre/noticia/2026/11/17/deslizamento-de-terra-atinge-cinco-casas-de-municipio-no-interior-do-acre.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T23:11:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Gfg80QkrB3vQYOrarFgLeEqxq9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/0/DdywujSuCSSShSGzbIag/midia-de-distribuicao-g1.png"
+        }
+      ]
+    },
+    {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "1c842bb0fd54820c",
-          "slug": "66ccc949386a2b74",
-          "titulo": "Defesa Civil alerta para chuva intensa e rajadas de vento no Rio Grande do Sul",
-          "resumo": "A Defesa Civil informou que a região do Rio Grande do Sul pode registrar chuvas fortes e rajadas de vento superiores a 90 km/h. Há possibilidade de granizo nesta terça-feira. A previsão indica risco de queda de árvores e danos a estruturas. Autoridades recomendam cautela e preparação para possíveis interrupções.",
-          "porQueImporta": "O alerta visa prevenir danos à população e à infraestrutura local.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/agenda-verde/defesa-civil-alerta-para-chuva-intensa-e-rajadas-de-vento-no-rio-grande-do-sul/"
-            }
-          ],
-          "updatedAt": "2026-11-17T13:41:37.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/RS.jpg"
-        },
-        {
-          "clusterId": "2b5cc2cbf180f4a5",
-          "slug": "d929b1007aa7e94e",
-          "titulo": "Defesa Civil distribui mais de dois mil kits de emergência no Oeste Paulista",
-          "resumo": "A Defesa Civil do Estado de São Paulo distribuiu mais de dois mil itens de equipamentos para reforçar a estrutura de atendimento a emergências em municípios do Oeste Paulista. A ação ocorre em antecipação à intensificação do El Niño, que pode atingir sua máxima entre novembro e janeiro de 2027. A distribuição inclui equipamentos para preparação em emergências, em resposta a temporais que já causaram danos na região.",
-          "porQueImporta": "A medida visa aumentar a capacidade de resposta a eventos climáticos extremos, protegendo comunidades e infraestrutura.",
+          "clusterId": "423ab0296f8b0e25",
+          "slug": "73029d6b730c069f",
+          "titulo": "Vendaval arranca telhado de imóvel e espalha cadeiras e guarda-sóis em praia de Morro de São Paulo",
+          "resumo": "Um vendaval atingiu a praia de Morro de São Paulo, no município de Cairu, Bahia, na tarde de terça-feira (17). A força do vento arrancou o telhado de um imóvel à beira-mar e espalhou cadeiras e guarda-sóis pela faixa de areia. A ventania causou correria entre banhistas e trabalhadores, mas não houve feridos. Imagens em vídeo mostram objetos sendo levantados pela força do vento.",
+          "porQueImporta": "O evento demonstra a intensidade dos ventos na região, alertando para a necessidade de precauções em áreas costeiras e de lazer.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/17/com-el-nino-forte-a-vista-defesa-civil-distribui-kits-e-reforca-estrutura-de-municipios-do-oeste-paulista.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/ventania-em-morro-de-sao-paulo.ghtml"
             }
           ],
-          "updatedAt": "2026-11-17T12:41:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lk8iFJwJrGdTZvl5UJrgQcD3Xj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/P/xUHJEtRWGA0hszDrY7EQ/taciba7.jpeg"
-        },
+          "updatedAt": "2026-11-17T21:59:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_-UCpRMMIYTMjHoskYYBnLLMZY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/S/6jszAVQbu3cqKGABYWAQ/design-sem-nome-2026-11-17t184421.576.png"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
         {
-          "clusterId": "29f1db56d0a4c0d5",
-          "slug": "45ed4bbfe618b653",
-          "titulo": "Chuva registrada em Aracaju e municípios de Sergipe durante racionamento de água",
-          "resumo": "Na madrugada e início da manhã desta terça-feira (17), a chuva atingiu Aracaju e outros municípios de Sergipe, com volumes acumulados superiores a 14 milímetros em bairros como Areia Branca, Porto Dantas e Santo Antônio. O fenômeno ocorreu enquanto a Grande Aracaju estava em racionamento de água, iniciado na segunda-feira (16).",
-          "porQueImporta": "A precipitação pode afetar a disponibilidade de água e a gestão de recursos hídricos na região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
+          "clusterId": "651cc25951215756",
+          "slug": "4e98b129a70f9cbb",
+          "titulo": "Chuvas inundam estação de tratamento e suspendem produção de água tratada em Poço Redondo",
+          "resumo": "As fortes chuvas no estado de Sergipe inundaram a casa de bombas da Estação de Tratamento de Água Curralinho, em Poço Redondo, interrompendo a produção de água tratada. A inundação ocorreu por volta das 3h30, submerso os conjuntos de bombeamento. A Companhia de Saneamento de Sergipe (Deso) está avaliando os danos e trabalhando na recuperação da unidade.",
+          "porQueImporta": "A interrupção da produção de água tratada pode afetar o abastecimento de água para a população local.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/se/sergipe/noticia/2026/11/17/em-meio-a-racionamento-de-agua-chuva-e-registrada-em-aracaju-e-varios-municipios-de-sergipe.ghtml"
+              "url": "https://g1.globo.com/se/sergipe/noticia/2026/11/17/chuvas-inundam-estacao-de-tratamento-e-suspendem-producao-de-agua-tratada-em-poco-redondo.ghtml"
             }
           ],
-          "updatedAt": "2026-11-17T12:28:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/HL8OAoN45o7g7jyLITnuB6IdW48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/a/WZJzFtSS6rlRte8Eh78A/crop-foto-2026-05-21t173415.208.jpg"
+          "updatedAt": "2026-11-17T21:33:32.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OBW787O7JjeCgSesN1fFgRrJSyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/J7MgFETMSFXwYUHnvj2A/bomba-agua.jpg"
         }
       ]
     },
@@ -512,40 +474,6 @@
       "slug": "incendio",
       "label": "Incêndio",
       "stories": [
-        {
-          "clusterId": "32a8fdb8164cd211",
-          "slug": "c0e9e666c435b58a",
-          "titulo": "Incêndio atinge canteiro de obras em Uberlândia",
-          "resumo": "Um incêndio de grandes proporções atingiu um canteiro de obras no bairro Jardim Sul, em Uberlândia, na noite de segunda-feira. O local contava com um galpão que abrigava depósito de materiais e escritórios anexos. O fogo se espalhou pelo depósito, mas não houve feridos. Vídeos de moradores mostram a extensão da fumaça e das chamas.",
-          "porQueImporta": "O incidente destaca riscos de incêndio em canteiros de obras e a necessidade de medidas de segurança adequadas.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/17/video-incendio-de-grandes-proporcoes-atinge-canteiro-de-obras-na-zona-sul-de-uberlandia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T13:34:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/X4wB2LaRm6YDTfhC6WUHcqUuEbM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/v/80Oo3hSBWUT7tCQHQwrQ/incendio-mrv-udi.png"
-        },
-        {
-          "clusterId": "4cb000451f694571",
-          "slug": "d59a6911806a6812",
-          "titulo": "Motorista escapa ileso após carro pegar fogo perto da UFJF",
-          "resumo": "Um carro pegou fogo próximo ao portão Sul da Universidade Federal de Juiz de Fora na manhã de terça-feira. O Corpo de Bombeiros chegou ao local e controlou as chamas, realizando rescaldo para apagar brasas ocultas. O motorista estava sozinho no veículo quando percebeu a fumaça, conseguiu parar o carro e saiu sem ferimentos.",
-          "porQueImporta": "O incidente demonstra risco de incêndio em veículos próximos a áreas universitárias e a eficácia da resposta rápida dos bombeiros.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/17/motorista-escapa-ileso-apos-carro-pegar-fogo-perto-da-ufjf.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T12:42:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/o9aVV-lf23WQuVf_Sr978tfsGrY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/f/jgmLZWRlGqsOsByldKaQ/whatsapp-image-2026-11-17-at-08.45.24-1-.jpeg"
-        },
         {
           "clusterId": "8c8f67f20fc3eace",
           "slug": "313aed9d521879fe",
@@ -562,149 +490,6 @@
           ],
           "updatedAt": "2026-11-16T04:08:00.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/UbbnY1UPrTYLGBSnfNzqCyDzxLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/9jOSuJRNi9luKD8sQTJw/afp-20261116-d7kd69e-v1-highres-thailandfire.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "58eee16775109b87",
-          "slug": "9d51fc68c064f806",
-          "titulo": "Acidente na PE-103 em Bonito causa duas mortes",
-          "resumo": "Um acidente na PE-103, em Bonito, Pernambuco, resultou na morte de uma adolescente de 17 anos e uma mulher de 29 anos que estavam em uma moto. O condutor, de 19 anos, ficou ferido e foi socorrido. O veículo colidiu com um automóvel, e as vítimas faleceram no local.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/17/duas-pessoas-morrem-apos-acidente-em-bonito.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T13:23:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/5V62JPVt-IfOs3dmOEcOtGycGjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/e/pi1vu3T8qgvOBOyghVUA/complexo-do-dinter-1.png"
-        },
-        {
-          "clusterId": "a7cd53eb28e3bb3b",
-          "slug": "7652caa78dfa34bf",
-          "titulo": "Jovem de 21 anos morre após bater moto na traseira de caminhonete em Buriti",
-          "resumo": "Um jovem de 21 anos, identificado como Antônio Ellison Lima da Silva, morreu ao bater a motocicleta que pilotava na traseira de uma caminhonete na Rua da Bandeira, no centro de Buriti, Maranhão. O acidente ocorreu por volta das 19h30, quando o motociclista, em alta velocidade, tentou desviar de um ônibus escolar. Testemunhas relataram que a manobra resultou no impacto fatal.",
-          "porQueImporta": "O caso destaca os riscos de condução em alta velocidade e a necessidade de atenção em vias urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/11/17/jovem-morre-apos-bater-moto-na-traseira-de-caminhonete-em-buriti-no-ma.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T13:00:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jo1j4nKfTUCBCGu8ShrRc_h6Gyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/g/r0FXDGTKGuWF6fSeZPXA/montagens-1920-x-1080-px-32-.jpg"
-        },
-        {
-          "clusterId": "cfbb6f552f7e5ebe",
-          "slug": "0d34bd26ffb53b61",
-          "titulo": "Carreta faz manobra em 'L' e atinge carro da prefeitura na BR-101",
-          "resumo": "Uma carreta invadiu a contramão na BR-101, em Fundão, e atingiu um carro da prefeitura de Rio Bananal, deixando quatro servidores feridos. O trecho foi interditado no quilômetro 234 e liberado por volta das 8h50. A Polícia Rodoviária Federal atestou que a manobra foi em 'L'.",
-          "porQueImporta": "O acidente causou ferimentos e interrupção do tráfego em trecho estratégico da rodovia.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/17/carreta-da-l-atinge-carro-da-prefeitura-de-rio-bananal-e-deixa-quatro-servidores-feridos-na-br-101-no-es.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T12:43:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/fwBKOXVgh0HdVXT8bCrRXlbLjL4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/R/bOBqXGQgAAWmDuBZxXlQ/thumb-fotos-2026-11-17t093303.170.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "cd8221bcd72af7e3",
-          "slug": "12009e20e294e6ea",
-          "titulo": "Temporal alaga ruas e bloqueia estradas no Noroeste Fluminense",
-          "resumo": "A chuva forte atingiu o Noroeste Fluminense na segunda-feira, 16, provocando alagamentos em vários municípios. Varre-Sai registrou 80 mm em menos de três horas, enquanto Bom Jesus do Itabapoana acumulou 70,4 mm em 24 h, causando danos em residências e estabelecimentos comerciais. Também houve alagamentos em Itaperuna e Italva.",
-          "porQueImporta": "O evento comprometeu a mobilidade e a segurança das comunidades locais.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/17/temporal-alaga-ruas-e-bloqueia-estradas-no-noroeste-fluminense.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T13:31:12.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/e_rHDForPLWluYTP1Pi5y6A8f3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/kFiV7iSCCkFPd5AiDCvQ/rua-alagada.jpg"
-        },
-        {
-          "clusterId": "c46238d37566863c",
-          "slug": "6f72c4824a69310b",
-          "titulo": "Família resgatada de telhado após casa ficar submersa em Malhada",
-          "resumo": "Em Malhada, Bahia, uma família foi retirada do telhado de sua casa que ficou submersa após fortes chuvas. O resgate ocorreu na segunda-feira, 16, em uma comunidade rural. A Defesa Civil relatou 240 mm de chuva na cidade, que está em estado de emergência. O vídeo mostra o homem, a mulher e duas crianças aguardando o socorro no telhado.",
-          "porQueImporta": "Ilustra o impacto das chuvas intensas na região e a necessidade de ações de emergência.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/video-mostra-momento-em-que-familia-e-resgata-de-telhado-apos-casa-ficar-submersa-no-interior-da-bahia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T13:07:59.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mMKAP2PrU_Sba5GcSCZit_7Q7vI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/z/zwfRIuSOAzkE1NAkGVSg/foto-2-uruguai-1-.png"
-        }
-      ]
-    },
-    {
-      "slug": "seca",
-      "label": "Seca",
-      "stories": [
-        {
-          "clusterId": "5fe85f7316119033",
-          "slug": "1c61e9b2eacf9a2f",
-          "titulo": "Rio Tapajós atinge menor nível de novembro em Santarém e acende alerta para impactos da seca",
-          "resumo": "O nível do Rio Tapajós em Santarém caiu para 1,15 metro, a menor marca registrada em novembro. A queda acende alerta sobre os impactos da estiagem no município. Santarém já está em estado de emergência devido à falta de chuvas.",
-          "porQueImporta": "O nível reduzido do rio pode agravar a crise hídrica e afetar a população local.",
-          "categoria": "Seca",
-          "categoriaSlug": "seca",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/rio-tapajos-atinge-menor-nivel-de-novembro-em-santarem-e-acende-alerta-para-impactos-da-seca.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T13:11:59.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mO6feZgr3hWYEks_YcHkgouDOvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/yIduGdSMen4ByHSafCrw/whatsapp-image-2026-10-18-at-12.14.15.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "4d1fbc31a0e6cc19",
-          "slug": "ead1ed6197e9f59c",
-          "titulo": "Explosão em depósito de gás da Pemex deixa 650 mortos",
-          "resumo": "Um vazamento de gás em um depósito da petroleira Pemex provocou uma explosão que resultou em 650 mortes. Virginia Martínez Tellez sobreviveu ao acidente, relatando que as cortinas ficaram grudadas no teto. O incidente ocorreu em uma comunidade próxima ao local do depósito. A explosão foi considerada um dos desastres industriais mais graves da história.",
-          "porQueImporta": "O evento destaca a importância da segurança em instalações de armazenamento de gás.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/c3x29ldq242wo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-11-15T17:29:54.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9d6/live/9b0f4940-5dda-11f1-a574-05510226f57f.jpg"
         }
       ]
     }
