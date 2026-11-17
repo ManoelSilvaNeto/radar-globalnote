@@ -1,340 +1,319 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T18:49:34.885Z",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T03:04:57.766Z",
   "home": [
     {
-      "clusterId": "255dfc2aa77d8ff0",
-      "slug": "64e9d227a8cb4a24",
-      "titulo": "INMET emite alerta de tempestade para 40 cidades do Leste de Minas",
-      "resumo": "O Instituto Nacional de Meteorologia (INMET) divulgou um alerta laranja de tempestade que cobre 40 cidades do Leste de Minas Gerais. O aviso, iniciado na manhã de segunda-feira, permanece válido até 23h59. As previsões incluem chuvas de 30 a 60 milímetros por hora ou de 50 a 100 milímetros ao longo do dia, ventos intensos de 60 a 100 km/h e possibilidade de granizo.",
-      "porQueImporta": "O alerta indica risco de danos à infraestrutura e à segurança pública na região.",
+      "clusterId": "57acecf51947584d",
+      "slug": "94a736bda2876e4e",
+      "titulo": "Racionamento de água na Região Metropolitana de Aracaju",
+      "resumo": "A falta de chuvas na capital de Sergipe e em duas cidades vizinhas leva ao racionamento de água. A redução no abastecimento começa nesta segunda-feira, das 22h até as 7h, em partes de Aracaju e São Cristóvão, e em toda Nossa Senhora do Socorro. Moradores, como Janine de Sousa, precisam se preparar com baldes e caixa d'água.",
+      "porQueImporta": "O racionamento pode afetar o cotidiano e a saúde da população local.",
+      "categoria": "Seca",
+      "categoriaSlug": "seca",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/16/estiagem-provoca-racionamento-de-agua-na-regiao-metropolitana-de-aracaju.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-17T02:14:14.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Lf--SvIH80yw4IPoyV28F5rxYHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/K/o18rhvQ4KBUH6w3D10Zw/globo-canal-4-20261116-2000-frame-124972.jpeg"
+    },
+    {
+      "clusterId": "21ec8ec6dc57454f",
+      "slug": "0e7a3b6eabe986ff",
+      "titulo": "Indígenas protestam contra queimadas na Amazônia",
+      "resumo": "Mais de 600 indígenas se reuniram no rio Tapajós, no oeste do Pará, denunciando incêndios florestais e exigindo proteção à Amazônia. O protesto ocorreu durante a COP31, em que organizações turcas também pediram avanços na demarcação de terras indígenas.",
+      "porQueImporta": "A mobilização destaca a urgência de medidas ambientais e de direitos indígenas na região.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/cop31-indigenas-denunciam-queimadas-e-cobram-protecao-da-amazonia/"
+        }
+      ],
+      "updatedAt": "2026-11-17T01:49:59.000Z"
+    },
+    {
+      "clusterId": "5d7edb1ab55d533c",
+      "slug": "7ecc460c123db682",
+      "titulo": "Carro capota e atinge seis veículos em Belém",
+      "resumo": "Um carro em alta velocidade capotou na Travessa Vileta, bairro da Pedreira, em Belém, e atingiu cinco carros e uma motocicleta. O acidente ocorreu por volta das 15h e deixou quatro pessoas feridas. Imagens de câmeras de segurança registraram a dinâmica do ocorrido.",
+      "porQueImporta": "O acidente resultou em feridos e colisões múltiplas, afetando a segurança viária local.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pa/para/noticia/2026/11/16/carro-em-alta-velocidade-capota-atinge-6-veiculos-e-deixa-4-pessoas-feridas-em-belem.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-17T01:34:13.000Z"
+    },
+    {
+      "clusterId": "0ac37e9b627dbbd9",
+      "slug": "3b396886fe16211a",
+      "titulo": "MP pede interdição de ponte com risco de desabamento no Pará",
+      "resumo": "O Ministério Público do Pará solicitou a interdição preventiva da ponte sobre o Rio Arraia, na PA-287, após laudos apontarem rachaduras e risco de desabamento. A ação judicial também exige a disponibilização de uma rota alternativa segura para os motoristas. A medida visa evitar acidentes e proteger a população que utiliza a via.",
+      "porQueImporta": "A interdição pode impedir um possível desabamento que colocaria em risco a vida de motoristas e pedestres.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/mp-pede-interdicao-de-ponte-com-risco-de-desabamento-no-para/"
+        }
+      ],
+      "updatedAt": "2026-11-17T00:26:22.000Z"
+    },
+    {
+      "clusterId": "5a4a815577b7cdc1",
+      "slug": "e488aacc235b1510",
+      "titulo": "Tempestade derruba cobertura de posto de combustíveis sobre carro em Franca",
+      "resumo": "Uma tempestade com ventos superiores a 50 km/h derrubou a estrutura metálica de um posto de combustíveis sobre um carro na Avenida Doutor Ismael Alonso y Alonso, em Franca, SP. O incidente causou alagamentos de córregos e falta de energia elétrica na região. O condutor e o passageiro do veículo não sofreram ferimentos. O desabamento ocorreu na noite de segunda-feira.",
+      "porQueImporta": "O evento demonstra a vulnerabilidade de estruturas de postos de combustíveis a condições meteorológicas severas.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/16/inmet-emite-alerta-de-tempestade-para-40-cidades-do-leste-de-minas.ghtml"
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/16/tempestade-com-ventos-de-50-kmh-derruba-cobertura-de-posto-sobre-carro-e-causa-estragos-em-franca-sp.ghtml"
         }
       ],
-      "updatedAt": "2026-11-16T18:34:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Pg_UDMDVqHdkw3iKC7GyJbjDa-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/A/nYcY7iTJWvVebqgpx4aA/temporal.png"
+      "updatedAt": "2026-11-17T00:25:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_HaXfYnYg5k_QIgzKCHbCtzZ0AA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/A/P0AKDdQTCrluv2vLL8pQ/whatsapp-image-2026-11-16-at-20.52.10.jpeg"
     },
     {
-      "clusterId": "9fad5c3b0ab4071a",
-      "slug": "881ec89890a9c7b5",
-      "titulo": "Alerta de tempestade enviado incorretamente para Belo Horizonte",
-      "resumo": "A Defesa Civil de Minas Gerais informou que o alerta severo de tempestade recebido em Belo Horizonte na manhã de segunda-feira era destinado apenas a Montes Claros, devido a falha no sistema. Apesar do erro, a capital registrou chuva forte e ventos intensos, levando a um alerta de risco de enxurradas e alagamentos. A Defesa Civil orientou a população a procurar abrigo seguro e evitar áreas de risco durante a tempestade.",
-      "porQueImporta": "O incidente destaca a importância de sistemas de alerta confiáveis para a segurança pública.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "f2d1e947cbf00ce4",
+      "slug": "e79e5ff7a2453cfc",
+      "titulo": "Motorista que atropelou e matou mulher na BR-020 se apresenta na delegacia",
+      "resumo": "Um motorista e seu passageiro fugiram a pé do local do acidente na BR-020. Cleonice Guimarães Bastos, 58 anos, foi atropelada e faleceu. O condutor foi preso e encaminhado à delegacia.",
+      "porQueImporta": "O caso destaca a necessidade de fiscalização e controle de condutores que se desviam da lei após acidentes graves.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/16/chuva-e-ventos-intensos-atingem-alguns-pontos-de-bh-neste-nesta-segunda-feira.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/motorista-que-atropelou-e-matou-mulher-na-br-020-se-apresenta-na-delegacia"
         }
       ],
-      "updatedAt": "2026-11-16T18:18:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vPZfQewunf_yqaImN_UMWu6uVpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/V/3EMWfrQoevmFg6kNVXlQ/whatsapp-image-2026-11-16-at-14.33.40-1-.jpeg"
+      "updatedAt": "2026-11-17T00:20:46.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/nice.jpg"
     },
     {
-      "clusterId": "0b29a8f7b7708349",
-      "slug": "c942c73231359052",
-      "titulo": "Mulher de 45 anos agredida e deixada nua na rua pelo namorado em São José do Rio Preto",
-      "resumo": "Uma mulher de 45 anos foi agredida e deixada nua na rua pelo namorado de 34 anos, após discussão na madrugada de domingo (15). O incidente ocorreu por volta das 4h30, logo depois da vítima ter retornado de uma viagem. O casal mantém relacionamento de cerca de oito anos, com histórico de agressões físicas e destruição de objetos.",
-      "porQueImporta": "O caso evidencia violência doméstica e a necessidade de atenção às vítimas em situações de conflito familiar.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/16/mulher-e-agredida-e-deixada-nua-na-rua-apos-discussao-com-namorado-no-interior-de-sp.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-16T18:15:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zTsyL1aBULtpJzxHNX2Ych4NzaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/A/BB4fdBRSCdTWqAhWQNfw/central-flagrantes.png"
-    },
-    {
-      "clusterId": "6d3550223bef76d6",
-      "slug": "978e73333ef54ba4",
-      "titulo": "Chuva causa queda de árvores e alagamentos em Três Rios",
-      "resumo": "Uma forte chuva atingiu Três Rios, RJ, no domingo, provocando alagamentos e queda de árvores nos bairros Cantagalo, Habitat e Centro. A água acumulada dificultou a passagem de veículos e pedestres em vários pontos da cidade. A prefeitura registrou precipitação acumulada de 7,2 mm.",
-      "porQueImporta": "O evento comprometeu a mobilidade urbana e pode gerar riscos à segurança dos moradores.",
+      "clusterId": "ba618ea230dc001e",
+      "slug": "5cde46f475e1f372",
+      "titulo": "Alagamentos e transbordamento de rio na Região Serrana do Rio",
+      "resumo": "A forte chuva na tarde de segunda-feira (16) provocou alagamentos e transbordamento de rio em Petrópolis e Teresópolis, além de queda de barreira e alterações no transporte público. Em Nova Friburgo, a Defesa Civil emitiu alerta preventivo para chuvas intensas. O Inmet emitiu alerta amarelo de perigo potencial para toda a região.",
+      "porQueImporta": "O evento pode causar danos à infraestrutura e risco à população local.",
       "categoria": "Enchente",
       "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/16/chuva-provoca-queda-de-arvores-e-alagamentos-em-tres-rios.ghtml"
+          "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/16/chuva-provoca-alagamentos-transbordamento-de-rio-e-alerta-da-defesa-civil-na-regiao-serrana.ghtml"
         }
       ],
-      "updatedAt": "2026-11-16T18:15:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/FnUtfZtqiiQsrKQ41pcMLe_1JqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/K/2MQnrgTFKs1IPoWABpwg/whatsapp-image-2026-11-16-at-15.03.47-1-.jpeg"
+      "updatedAt": "2026-11-17T00:05:15.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0ThxIaZTvXH9vQ9mGhaHzkdrcpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/j/V2DZ8eQrqXBtkxIK9BrQ/chuva-serra.png"
     },
     {
-      "clusterId": "8c967c91f95f2cec",
-      "slug": "1238c9acded65bfc",
-      "titulo": "Temporal com granizo e ventos fortes atingem Águas Mornas",
-      "resumo": "Um temporal com granizo e ventos fortes atingiu Águas Mornas, na Grande Florianópolis, na tarde de domingo. A tempestade causou alagamentos, quedas de árvores e postes, e deixou mais de 3,4 mil imóveis sem energia elétrica. O vídeo foi gravado por uma influenciadora de turismo que estava na cidade para produzir conteúdo sobre trilhas.",
-      "porQueImporta": "O evento evidenciou a vulnerabilidade de pequenas cidades a fenômenos meteorológicos extremos, afetando a infraestrutura e a vida cotidiana dos moradores.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "2bda7b5e3b352f21",
+      "slug": "a1043a90fafc6a83",
+      "titulo": "Cratera de 5 metros engole mulher com criança e homem em Sumaré",
+      "resumo": "Na manhã de segunda-feira, 16, uma cratera de cerca de 5 metros de profundidade se abriu na calçada da Avenida Rebouças, em Sumaré, engolindo uma mulher com a filha de 2 anos no colo e um homem. As vítimas foram resgatadas e encaminhadas à UPA Macarenko, onde receberam alta; a menina escapou ilesa. O incidente mobilizou moradores, comerciantes e equipes de resgate.",
+      "porQueImporta": "O evento demonstra risco de falhas estruturais em áreas urbanas, exigindo atenção à manutenção de calçadas.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/16/video-influenciadora-ponto-onibus-telhas-voando-temporal-granizo-aguas-mornas.ghtml"
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/16/cratera-que-engoliu-mulher-com-crianca-no-colo-e-homem-no-interior-de-sp-tinha-5-metros-de-profundidade.ghtml"
         }
       ],
-      "updatedAt": "2026-11-16T18:04:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/m9RpOPr7gnuj6l01D654F-LmrMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Z/XfujnZTPA55QIIsWMLYQ/video-mostra-aviao-caindo-em-sc-2-.png"
+      "updatedAt": "2026-11-16T23:28:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/dwi7X7M8b5YwNbxjpGn_EvX6lxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/K/17IqAkRNC0oNZYvfSKpg/eptv-cp-bdc-2409-flagra-faixa-exclusiva-3-.jpg"
     },
     {
-      "clusterId": "2505e963a5d1ed75",
-      "slug": "f7fc5e8070df2068",
-      "titulo": "Incêndio atinge escola em Morros após superaquecimento na rede elétrica",
-      "resumo": "Um princípio de incêndio foi registrado no Centro de Ensino Tancredo de Almeida Neves, em Morros, a 100 km de São Luís. O fogo teria iniciado em fiação elétrica que superouquecia e atingiu o medidor de energia externo. As chamas foram controladas pelos extintores disponíveis na escola. Não houve feridos.",
-      "porQueImporta": "O incidente destaca a importância da manutenção elétrica em estabelecimentos de ensino.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/11/16/principio-de-incendio-atinge-escola-apos-superaquecimento-na-rede-eletrica-em-morros.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-16T17:51:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/wn1_bs_2h_wNnvj2A0y1MKTSDxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/i/tlRU6vSUagNa1yUMVpRg/montagens-1920-x-1080-px-19-.png"
-    },
-    {
-      "clusterId": "e92511a37275d425",
-      "slug": "4e352de02c3fa8ae",
-      "titulo": "Inmet emite alerta de tempestade no Ceará",
-      "resumo": "O Instituto Nacional de Meteorologia (Inmet) alertou 45 municípios do Ceará sobre risco potencial de tempestade, com chuvas de 20 a 30 mm/h ou até 50 mm/dia, ventos de 40 a 60 km/h e possibilidade de granizo. Crato decretou situação de emergência após danos causados pela chuva e ventania. O alerta foi divulgado nesta segunda-feira (16).",
-      "porQueImporta": "A previsão de tempestade pode causar danos à infraestrutura e à população local.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/16/tempestade-e-chuva-de-granizo-no-ceara-inmet-emite-alerta-para-municipios-do-estado.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-16T17:47:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/cznoDu_RiE0iWb_brjkaESq6DEs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/I/VmiDTAS4GKhZkYB2BI4g/defesa-civil-aberta-para-chuva-e-ventos-fortes-na-segunda-e-terca.png"
-    },
-    {
-      "clusterId": "2c58b2c69313041a",
-      "slug": "62c3a52a653330bc",
-      "titulo": "Acidente entre carro e caminhão deixa um morto na MG-217 em Malacacheta",
-      "resumo": "Um carro de passeio colidiu com um caminhão na rodovia MG-217, em Malacacheta, na noite de domingo. O condutor do carro, Valduíce Tavares Mendes, de 49 anos, foi socorrido pelo SAMU e encaminhado ao hospital local, mas não resistiu aos ferimentos. O acidente resultou em uma fatalidade.",
-      "porQueImporta": "O incidente destaca os riscos de trânsito em rodovias estaduais e a necessidade de atenção à segurança viária.",
+      "clusterId": "161811a718901e21",
+      "slug": "826cd1e7e7fceb3d",
+      "titulo": "Motorista preso após acidente que matou criança de 10 anos na Paraíba",
+      "resumo": "Um motorista foi preso na segunda-feira (16) após um acidente na PB-095, que matou a criança de 10 anos Samuel Luccas Rodrigues Araújo. O acidente ocorreu em 12 de outubro, quando a vítima foi arremessada de uma motocicleta. O delegado informou que o motorista pode responder por homicídio doloso. A prisão ocorreu na rodovia que liga Massaranduba a Campina Grande.",
+      "porQueImporta": "O caso destaca a responsabilidade dos condutores em acidentes de trânsito que resultam em fatalidades infantis.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/16/acidente-entre-carro-e-caminhao-deixa-um-morto-na-mg-217-em-malacacheta.ghtml"
+          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/16/motorista-acidente-que-matou-crianca-de-10-anos-homicidio-doloso-paraiba.ghtml"
         }
       ],
-      "updatedAt": "2026-11-16T17:02:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/i_xQBhF4ei_4jbj6RVqRhYVjGn8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/D/jsZx8aS5e1chZ6ZVmFhQ/whatsapp-image-2026-11-16-at-07.21.10-1-.jpg"
+      "updatedAt": "2026-11-16T23:06:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/8KjzLX1Gpyl4lZ13USORb2nhQJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/d/bGxK1pQpG7TrbqGLhCMQ/bgs-g1-pb-e-jp.png"
     },
     {
-      "clusterId": "9d895261e1a2f7ab",
-      "slug": "dc17cb4e7ea0a5a8",
-      "titulo": "Acidente entre carro e carreta na Rodovia Eduardo Saigh mata três pessoas",
-      "resumo": "Um carro colidiu com uma carreta na Rodovia Eduardo Saigh, em Itaí, resultando na morte de três ocupantes, que eram pai, mãe e filho. O acidente ocorreu na tarde de domingo. A Funerária Bom Jesus confirmou o falecimento das vítimas. Os nomes dos falecidos são José Valter dos Santos, 47 anos; Matilde dos Santos Rolim, 40 anos; e Matheus Henrique dos Santos, 10 anos.",
-      "porQueImporta": "O incidente destaca a importância da segurança viária em rodovias estaduais.",
+      "clusterId": "a809724715aa5fb6",
+      "slug": "d411427fe9e31f34",
+      "titulo": "Motorista embriagado atinge ciclista e foge a pé em Cachoeiro de Itapemirim",
+      "resumo": "Na manhã de sábado, em Cachoeiro de Itapemirim, um motorista com sinais de embriaguez atingiu um ciclista parado no semáforo da Avenida Newton Braga. O ciclista, Washington Tadeu Vieira, estava em uma bicicleta elétrica a caminho do trabalho. Após o acidente, o motorista abandonou o veículo e fugiu a pé.",
+      "porQueImporta": "O incidente destaca a gravidade de dirigir sob influência de álcool e a necessidade de fiscalização para proteger pedestres e ciclistas.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/16/pai-mae-e-filho-estao-entre-os-mortos-de-acidente-entre-carro-e-carreta-em-rodovia-de-itai-veja-quem-sao.ghtml"
+          "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/11/16/motorista-com-sinais-de-embriaguez-atinge-ciclista-abandona-carro-e-foge-a-pe-em-cachoeiro-veja-video.ghtml"
         }
       ],
-      "updatedAt": "2026-11-16T17:01:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kLcKZE24asz6AaKWtTNUDDAW1dg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/G/vOvvY7ScCyV5Ds6xvzpA/untitled.jpg"
-    },
-    {
-      "clusterId": "4605188aba1d4d54",
-      "slug": "05bb7c3f0fe810f9",
-      "titulo": "Prefeitura de Santo Estevão cancela Festa Literária e programação de Natal",
-      "resumo": "A 3ª Festa Literária de Santo Estevão e a programação do Santo Natal foram cancelados após um forte vendaval que atingiu a cidade. O prefeito anunciou a decisão em coletiva de imprensa no domingo, 15. A medida visa concentrar recursos no atendimento às famílias afetadas e na recuperação das estruturas danificadas, incluindo residências, escolas e prédios públicos.",
-      "porQueImporta": "O cancelamento demonstra a prioridade da administração em responder a desastres naturais e proteger a comunidade.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/16/prefeitura-de-santo-estevao-cancela-festa-literaria-e-programacao-de-natal-apos-vendaval.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-16T16:58:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ajpa7tbGrKis7NFa1lbXCyRUUKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/y/5CuSVqSyGYBl1ptKXDfg/foto-1-golpista-11-.png"
+      "updatedAt": "2026-11-16T23:01:07.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/49QQj851dadx7BCDAlMe1IQaXmc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/r/RvA5EtRgAmzzMmEfAHrg/thumb-videos-g1-2026-11-16t195703.571.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "255dfc2aa77d8ff0",
-          "slug": "64e9d227a8cb4a24",
-          "titulo": "INMET emite alerta de tempestade para 40 cidades do Leste de Minas",
-          "resumo": "O Instituto Nacional de Meteorologia (INMET) divulgou um alerta laranja de tempestade que cobre 40 cidades do Leste de Minas Gerais. O aviso, iniciado na manhã de segunda-feira, permanece válido até 23h59. As previsões incluem chuvas de 30 a 60 milímetros por hora ou de 50 a 100 milímetros ao longo do dia, ventos intensos de 60 a 100 km/h e possibilidade de granizo.",
-          "porQueImporta": "O alerta indica risco de danos à infraestrutura e à segurança pública na região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/16/inmet-emite-alerta-de-tempestade-para-40-cidades-do-leste-de-minas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-16T18:34:01.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Pg_UDMDVqHdkw3iKC7GyJbjDa-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/A/nYcY7iTJWvVebqgpx4aA/temporal.png"
-        },
-        {
-          "clusterId": "9fad5c3b0ab4071a",
-          "slug": "881ec89890a9c7b5",
-          "titulo": "Alerta de tempestade enviado incorretamente para Belo Horizonte",
-          "resumo": "A Defesa Civil de Minas Gerais informou que o alerta severo de tempestade recebido em Belo Horizonte na manhã de segunda-feira era destinado apenas a Montes Claros, devido a falha no sistema. Apesar do erro, a capital registrou chuva forte e ventos intensos, levando a um alerta de risco de enxurradas e alagamentos. A Defesa Civil orientou a população a procurar abrigo seguro e evitar áreas de risco durante a tempestade.",
-          "porQueImporta": "O incidente destaca a importância de sistemas de alerta confiáveis para a segurança pública.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/16/chuva-e-ventos-intensos-atingem-alguns-pontos-de-bh-neste-nesta-segunda-feira.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-16T18:18:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/vPZfQewunf_yqaImN_UMWu6uVpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/V/3EMWfrQoevmFg6kNVXlQ/whatsapp-image-2026-11-16-at-14.33.40-1-.jpeg"
-        },
-        {
-          "clusterId": "8c967c91f95f2cec",
-          "slug": "1238c9acded65bfc",
-          "titulo": "Temporal com granizo e ventos fortes atingem Águas Mornas",
-          "resumo": "Um temporal com granizo e ventos fortes atingiu Águas Mornas, na Grande Florianópolis, na tarde de domingo. A tempestade causou alagamentos, quedas de árvores e postes, e deixou mais de 3,4 mil imóveis sem energia elétrica. O vídeo foi gravado por uma influenciadora de turismo que estava na cidade para produzir conteúdo sobre trilhas.",
-          "porQueImporta": "O evento evidenciou a vulnerabilidade de pequenas cidades a fenômenos meteorológicos extremos, afetando a infraestrutura e a vida cotidiana dos moradores.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/16/video-influenciadora-ponto-onibus-telhas-voando-temporal-granizo-aguas-mornas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-16T18:04:36.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/m9RpOPr7gnuj6l01D654F-LmrMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Z/XfujnZTPA55QIIsWMLYQ/video-mostra-aviao-caindo-em-sc-2-.png"
-        },
-        {
-          "clusterId": "e92511a37275d425",
-          "slug": "4e352de02c3fa8ae",
-          "titulo": "Inmet emite alerta de tempestade no Ceará",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) alertou 45 municípios do Ceará sobre risco potencial de tempestade, com chuvas de 20 a 30 mm/h ou até 50 mm/dia, ventos de 40 a 60 km/h e possibilidade de granizo. Crato decretou situação de emergência após danos causados pela chuva e ventania. O alerta foi divulgado nesta segunda-feira (16).",
-          "porQueImporta": "A previsão de tempestade pode causar danos à infraestrutura e à população local.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/16/tempestade-e-chuva-de-granizo-no-ceara-inmet-emite-alerta-para-municipios-do-estado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-16T17:47:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cznoDu_RiE0iWb_brjkaESq6DEs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/I/VmiDTAS4GKhZkYB2BI4g/defesa-civil-aberta-para-chuva-e-ventos-fortes-na-segunda-e-terca.png"
-        },
-        {
-          "clusterId": "4605188aba1d4d54",
-          "slug": "05bb7c3f0fe810f9",
-          "titulo": "Prefeitura de Santo Estevão cancela Festa Literária e programação de Natal",
-          "resumo": "A 3ª Festa Literária de Santo Estevão e a programação do Santo Natal foram cancelados após um forte vendaval que atingiu a cidade. O prefeito anunciou a decisão em coletiva de imprensa no domingo, 15. A medida visa concentrar recursos no atendimento às famílias afetadas e na recuperação das estruturas danificadas, incluindo residências, escolas e prédios públicos.",
-          "porQueImporta": "O cancelamento demonstra a prioridade da administração em responder a desastres naturais e proteger a comunidade.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/16/prefeitura-de-santo-estevao-cancela-festa-literaria-e-programacao-de-natal-apos-vendaval.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-16T16:58:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ajpa7tbGrKis7NFa1lbXCyRUUKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/y/5CuSVqSyGYBl1ptKXDfg/foto-1-golpista-11-.png"
-        },
-        {
-          "clusterId": "eb7d00ef7b597393",
-          "slug": "57540932a9567851",
-          "titulo": "Temporal derruba andaimes de obra e interdita trecho de avenida em Salvador",
-          "resumo": "Durante a madrugada desta segunda-feira, um temporal com fortes chuvas e ventos causou o colapso de andaimes de obra na cidade de Salvador. O desabamento interdiu um trecho da avenida, mas não houve registro de vítimas ou feridos. As autoridades ainda investigam as condições estruturais dos andaimes.",
-          "porQueImporta": "O incidente destaca a vulnerabilidade de obras urbanas a condições meteorológicas severas, exigindo revisão de normas de segurança.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/temporal-derruba-andaimes-de-obra-e-interdita-trecho-de-avenida-em-salvador/"
-            }
-          ],
-          "updatedAt": "2026-11-16T16:52:51.000Z"
-        }
-      ]
-    },
     {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "2c58b2c69313041a",
-          "slug": "62c3a52a653330bc",
-          "titulo": "Acidente entre carro e caminhão deixa um morto na MG-217 em Malacacheta",
-          "resumo": "Um carro de passeio colidiu com um caminhão na rodovia MG-217, em Malacacheta, na noite de domingo. O condutor do carro, Valduíce Tavares Mendes, de 49 anos, foi socorrido pelo SAMU e encaminhado ao hospital local, mas não resistiu aos ferimentos. O acidente resultou em uma fatalidade.",
-          "porQueImporta": "O incidente destaca os riscos de trânsito em rodovias estaduais e a necessidade de atenção à segurança viária.",
+          "clusterId": "5d7edb1ab55d533c",
+          "slug": "7ecc460c123db682",
+          "titulo": "Carro capota e atinge seis veículos em Belém",
+          "resumo": "Um carro em alta velocidade capotou na Travessa Vileta, bairro da Pedreira, em Belém, e atingiu cinco carros e uma motocicleta. O acidente ocorreu por volta das 15h e deixou quatro pessoas feridas. Imagens de câmeras de segurança registraram a dinâmica do ocorrido.",
+          "porQueImporta": "O acidente resultou em feridos e colisões múltiplas, afetando a segurança viária local.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/16/acidente-entre-carro-e-caminhao-deixa-um-morto-na-mg-217-em-malacacheta.ghtml"
+              "url": "https://g1.globo.com/pa/para/noticia/2026/11/16/carro-em-alta-velocidade-capota-atinge-6-veiculos-e-deixa-4-pessoas-feridas-em-belem.ghtml"
             }
           ],
-          "updatedAt": "2026-11-16T17:02:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/i_xQBhF4ei_4jbj6RVqRhYVjGn8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/D/jsZx8aS5e1chZ6ZVmFhQ/whatsapp-image-2026-11-16-at-07.21.10-1-.jpg"
+          "updatedAt": "2026-11-17T01:34:13.000Z"
         },
         {
-          "clusterId": "9d895261e1a2f7ab",
-          "slug": "dc17cb4e7ea0a5a8",
-          "titulo": "Acidente entre carro e carreta na Rodovia Eduardo Saigh mata três pessoas",
-          "resumo": "Um carro colidiu com uma carreta na Rodovia Eduardo Saigh, em Itaí, resultando na morte de três ocupantes, que eram pai, mãe e filho. O acidente ocorreu na tarde de domingo. A Funerária Bom Jesus confirmou o falecimento das vítimas. Os nomes dos falecidos são José Valter dos Santos, 47 anos; Matilde dos Santos Rolim, 40 anos; e Matheus Henrique dos Santos, 10 anos.",
-          "porQueImporta": "O incidente destaca a importância da segurança viária em rodovias estaduais.",
+          "clusterId": "0ac37e9b627dbbd9",
+          "slug": "3b396886fe16211a",
+          "titulo": "MP pede interdição de ponte com risco de desabamento no Pará",
+          "resumo": "O Ministério Público do Pará solicitou a interdição preventiva da ponte sobre o Rio Arraia, na PA-287, após laudos apontarem rachaduras e risco de desabamento. A ação judicial também exige a disponibilização de uma rota alternativa segura para os motoristas. A medida visa evitar acidentes e proteger a população que utiliza a via.",
+          "porQueImporta": "A interdição pode impedir um possível desabamento que colocaria em risco a vida de motoristas e pedestres.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/16/pai-mae-e-filho-estao-entre-os-mortos-de-acidente-entre-carro-e-carreta-em-rodovia-de-itai-veja-quem-sao.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/mp-pede-interdicao-de-ponte-com-risco-de-desabamento-no-para/"
             }
           ],
-          "updatedAt": "2026-11-16T17:01:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/kLcKZE24asz6AaKWtTNUDDAW1dg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/G/vOvvY7ScCyV5Ds6xvzpA/untitled.jpg"
+          "updatedAt": "2026-11-17T00:26:22.000Z"
         },
         {
-          "clusterId": "6c1f2e81281762c7",
-          "slug": "77cd0d03f24db3a3",
-          "titulo": "Menino de 11 anos morre após acidente de carro que matou a mãe",
-          "resumo": "Um menino de 11 anos, que estava internado em estado grave, morreu na segunda-feira (16) em São José do Rio Preto. O acidente ocorreu na manhã de sábado (14) no quilômetro 41 da BR-153, em Onda Verde, e também resultou na morte da mãe do garoto. O pai, Márcio Muniz, confirmou a morte nas redes sociais e agradeceu a apoio de igrejas e amigos. O hospital confirmou a informação ao G1.",
-          "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito que afetam famílias inteiras.",
+          "clusterId": "f2d1e947cbf00ce4",
+          "slug": "e79e5ff7a2453cfc",
+          "titulo": "Motorista que atropelou e matou mulher na BR-020 se apresenta na delegacia",
+          "resumo": "Um motorista e seu passageiro fugiram a pé do local do acidente na BR-020. Cleonice Guimarães Bastos, 58 anos, foi atropelada e faleceu. O condutor foi preso e encaminhado à delegacia.",
+          "porQueImporta": "O caso destaca a necessidade de fiscalização e controle de condutores que se desviam da lei após acidentes graves.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/distrito-federal/motorista-que-atropelou-e-matou-mulher-na-br-020-se-apresenta-na-delegacia"
+            }
+          ],
+          "updatedAt": "2026-11-17T00:20:46.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/nice.jpg"
+        },
+        {
+          "clusterId": "161811a718901e21",
+          "slug": "826cd1e7e7fceb3d",
+          "titulo": "Motorista preso após acidente que matou criança de 10 anos na Paraíba",
+          "resumo": "Um motorista foi preso na segunda-feira (16) após um acidente na PB-095, que matou a criança de 10 anos Samuel Luccas Rodrigues Araújo. O acidente ocorreu em 12 de outubro, quando a vítima foi arremessada de uma motocicleta. O delegado informou que o motorista pode responder por homicídio doloso. A prisão ocorreu na rodovia que liga Massaranduba a Campina Grande.",
+          "porQueImporta": "O caso destaca a responsabilidade dos condutores em acidentes de trânsito que resultam em fatalidades infantis.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/16/morte-menino-acidente.ghtml"
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/16/motorista-acidente-que-matou-crianca-de-10-anos-homicidio-doloso-paraiba.ghtml"
             }
           ],
-          "updatedAt": "2026-11-16T16:55:54.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/N3roDG3FYWWAdB7Knq9HPjuh_vE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/O/CZp5XURIG9BmKmTf5gZg/g1-66-.jpg"
+          "updatedAt": "2026-11-16T23:06:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/8KjzLX1Gpyl4lZ13USORb2nhQJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/d/bGxK1pQpG7TrbqGLhCMQ/bgs-g1-pb-e-jp.png"
+        },
+        {
+          "clusterId": "a809724715aa5fb6",
+          "slug": "d411427fe9e31f34",
+          "titulo": "Motorista embriagado atinge ciclista e foge a pé em Cachoeiro de Itapemirim",
+          "resumo": "Na manhã de sábado, em Cachoeiro de Itapemirim, um motorista com sinais de embriaguez atingiu um ciclista parado no semáforo da Avenida Newton Braga. O ciclista, Washington Tadeu Vieira, estava em uma bicicleta elétrica a caminho do trabalho. Após o acidente, o motorista abandonou o veículo e fugiu a pé.",
+          "porQueImporta": "O incidente destaca a gravidade de dirigir sob influência de álcool e a necessidade de fiscalização para proteger pedestres e ciclistas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/11/16/motorista-com-sinais-de-embriaguez-atinge-ciclista-abandona-carro-e-foge-a-pe-em-cachoeiro-veja-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-16T23:01:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/49QQj851dadx7BCDAlMe1IQaXmc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/r/RvA5EtRgAmzzMmEfAHrg/thumb-videos-g1-2026-11-16t195703.571.jpg"
+        },
+        {
+          "clusterId": "52220747ce52b030",
+          "slug": "c76ba0a5067143cb",
+          "titulo": "Engavetamento entre três carros deixa ferido em rodovia de Sorocaba",
+          "resumo": "Um engavetamento envolvendo três veículos ocorreu na Rodovia Raposo Tavares, em Sorocaba, às 18h07, no quilômetro 103, sentido interior. A colisão resultou em uma vítima ferida e exigiu a interdição de uma faixa da via. Equipes de resgate e operações foram acionadas pela concessionária Motiva Sorocabana.",
+          "porQueImporta": "O acidente interrompeu o tráfego e causou ferimento, impactando a mobilidade local.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/16/engavetamento-raposo-tavares-sorocaba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-16T22:59:43.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lz-izpF5bt4eGUzrKrcg3q5q1AM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/B/fmBAhrRBGkzVl9qfiBSw/thumb-fotos-7-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "5a4a815577b7cdc1",
+          "slug": "e488aacc235b1510",
+          "titulo": "Tempestade derruba cobertura de posto de combustíveis sobre carro em Franca",
+          "resumo": "Uma tempestade com ventos superiores a 50 km/h derrubou a estrutura metálica de um posto de combustíveis sobre um carro na Avenida Doutor Ismael Alonso y Alonso, em Franca, SP. O incidente causou alagamentos de córregos e falta de energia elétrica na região. O condutor e o passageiro do veículo não sofreram ferimentos. O desabamento ocorreu na noite de segunda-feira.",
+          "porQueImporta": "O evento demonstra a vulnerabilidade de estruturas de postos de combustíveis a condições meteorológicas severas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/16/tempestade-com-ventos-de-50-kmh-derruba-cobertura-de-posto-sobre-carro-e-causa-estragos-em-franca-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T00:25:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_HaXfYnYg5k_QIgzKCHbCtzZ0AA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/A/P0AKDdQTCrluv2vLL8pQ/whatsapp-image-2026-11-16-at-20.52.10.jpeg"
+        },
+        {
+          "clusterId": "11aa4e4c04ad239b",
+          "slug": "dd2ae3f01f2f98d8",
+          "titulo": "Tornado atinge Chapecó e permite saque de FGTS e suspensão de financiamentos",
+          "resumo": "Um tornado atingiu Chapecó, em Santa Catarina, no início do mês, causando destruição em residências e comércios. Moradores e empresários podem sacar até R$ 6,6 mil do FGTS e suspender financiamentos. A Caixa Econômica Federal disponibilizou uma unidade móvel na Praça Coronel Bertaso para facilitar o acesso aos recursos, funcionando de segunda a quinta-feira, das 9h às 17h.",
+          "porQueImporta": "O evento oferece recursos financeiros imediatos para os afetados, ajudando na recuperação pós-desastre.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/16/atingidos-tornado-chapeco-sacar-r-66-mil-fgts-veja-medidas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-16T22:47:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/MD4LrIcFgfEv6JY_SbCuJOEjWAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/k/MJ6zSEQBOpeBPIguRi1w/tornado-1-.png"
         }
       ]
     },
@@ -343,21 +322,21 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "0b29a8f7b7708349",
-          "slug": "c942c73231359052",
-          "titulo": "Mulher de 45 anos agredida e deixada nua na rua pelo namorado em São José do Rio Preto",
-          "resumo": "Uma mulher de 45 anos foi agredida e deixada nua na rua pelo namorado de 34 anos, após discussão na madrugada de domingo (15). O incidente ocorreu por volta das 4h30, logo depois da vítima ter retornado de uma viagem. O casal mantém relacionamento de cerca de oito anos, com histórico de agressões físicas e destruição de objetos.",
-          "porQueImporta": "O caso evidencia violência doméstica e a necessidade de atenção às vítimas em situações de conflito familiar.",
+          "clusterId": "eba4a9dd8faef64d",
+          "slug": "34daf6c609387f81",
+          "titulo": "Papa Leão XIV é atingido por objeto no rosto a caminho de sua última missa no Peru; veja vídeo",
+          "resumo": "Papa Leão XIV é atingido no rosto por objeto a caminho de sua última missa no Peru Na reta final de sua passagem pela América do Sul, nesta segunda-feira (16), o papa Leão XIV foi atingido no rosto por um terço atirado por um fiel quando chegava para uma missa de despedida em Lima, no Peru. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia VEJA MAIS: 'Nenhuma autoridade do Peru fez o que ele fez por nós': como Leão XIV ajudou a população durante enchentes e a pandemia Fotos e vídeos mostram o papa levando a mão ao olho pouco depois de ser atingido, enquanto cumprimentava…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/16/mulher-e-agredida-e-deixada-nua-na-rua-apos-discussao-com-namorado-no-interior-de-sp.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/16/papa-leao-xiv-e-atingido-por-objeto-no-rosto-a-caminho-de-sua-ultima-missa-no-peru-veja-video.ghtml"
             }
           ],
-          "updatedAt": "2026-11-16T18:15:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/zTsyL1aBULtpJzxHNX2Ych4NzaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/A/BB4fdBRSCdTWqAhWQNfw/central-flagrantes.png"
+          "updatedAt": "2026-11-16T22:03:34.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_1Awj4vxMwI9G_c6i51J1bfmKgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/XAVTRvTX6jG0vrxIU3JQ/2026-11-16t183528z-2096680738-rc21poainw61-rtrmadp-3-pope-latam-peru.jpg"
         },
         {
           "clusterId": "c28c75411ac7fb90",
@@ -379,26 +358,123 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
+      "slug": "seca",
+      "label": "Seca",
       "stories": [
         {
-          "clusterId": "2505e963a5d1ed75",
-          "slug": "f7fc5e8070df2068",
-          "titulo": "Incêndio atinge escola em Morros após superaquecimento na rede elétrica",
-          "resumo": "Um princípio de incêndio foi registrado no Centro de Ensino Tancredo de Almeida Neves, em Morros, a 100 km de São Luís. O fogo teria iniciado em fiação elétrica que superouquecia e atingiu o medidor de energia externo. As chamas foram controladas pelos extintores disponíveis na escola. Não houve feridos.",
-          "porQueImporta": "O incidente destaca a importância da manutenção elétrica em estabelecimentos de ensino.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
+          "clusterId": "57acecf51947584d",
+          "slug": "94a736bda2876e4e",
+          "titulo": "Racionamento de água na Região Metropolitana de Aracaju",
+          "resumo": "A falta de chuvas na capital de Sergipe e em duas cidades vizinhas leva ao racionamento de água. A redução no abastecimento começa nesta segunda-feira, das 22h até as 7h, em partes de Aracaju e São Cristóvão, e em toda Nossa Senhora do Socorro. Moradores, como Janine de Sousa, precisam se preparar com baldes e caixa d'água.",
+          "porQueImporta": "O racionamento pode afetar o cotidiano e a saúde da população local.",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ma/maranhao/noticia/2026/11/16/principio-de-incendio-atinge-escola-apos-superaquecimento-na-rede-eletrica-em-morros.ghtml"
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/16/estiagem-provoca-racionamento-de-agua-na-regiao-metropolitana-de-aracaju.ghtml"
             }
           ],
-          "updatedAt": "2026-11-16T17:51:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/wn1_bs_2h_wNnvj2A0y1MKTSDxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/i/tlRU6vSUagNa1yUMVpRg/montagens-1920-x-1080-px-19-.png"
-        },
+          "updatedAt": "2026-11-17T02:14:14.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Lf--SvIH80yw4IPoyV28F5rxYHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/K/o18rhvQ4KBUH6w3D10Zw/globo-canal-4-20261116-2000-frame-124972.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "21ec8ec6dc57454f",
+          "slug": "0e7a3b6eabe986ff",
+          "titulo": "Indígenas protestam contra queimadas na Amazônia",
+          "resumo": "Mais de 600 indígenas se reuniram no rio Tapajós, no oeste do Pará, denunciando incêndios florestais e exigindo proteção à Amazônia. O protesto ocorreu durante a COP31, em que organizações turcas também pediram avanços na demarcação de terras indígenas.",
+          "porQueImporta": "A mobilização destaca a urgência de medidas ambientais e de direitos indígenas na região.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/cop31-indigenas-denunciam-queimadas-e-cobram-protecao-da-amazonia/"
+            }
+          ],
+          "updatedAt": "2026-11-17T01:49:59.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "ba618ea230dc001e",
+          "slug": "5cde46f475e1f372",
+          "titulo": "Alagamentos e transbordamento de rio na Região Serrana do Rio",
+          "resumo": "A forte chuva na tarde de segunda-feira (16) provocou alagamentos e transbordamento de rio em Petrópolis e Teresópolis, além de queda de barreira e alterações no transporte público. Em Nova Friburgo, a Defesa Civil emitiu alerta preventivo para chuvas intensas. O Inmet emitiu alerta amarelo de perigo potencial para toda a região.",
+          "porQueImporta": "O evento pode causar danos à infraestrutura e risco à população local.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/16/chuva-provoca-alagamentos-transbordamento-de-rio-e-alerta-da-defesa-civil-na-regiao-serrana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T00:05:15.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0ThxIaZTvXH9vQ9mGhaHzkdrcpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/j/V2DZ8eQrqXBtkxIK9BrQ/chuva-serra.png"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "2bda7b5e3b352f21",
+          "slug": "a1043a90fafc6a83",
+          "titulo": "Cratera de 5 metros engole mulher com criança e homem em Sumaré",
+          "resumo": "Na manhã de segunda-feira, 16, uma cratera de cerca de 5 metros de profundidade se abriu na calçada da Avenida Rebouças, em Sumaré, engolindo uma mulher com a filha de 2 anos no colo e um homem. As vítimas foram resgatadas e encaminhadas à UPA Macarenko, onde receberam alta; a menina escapou ilesa. O incidente mobilizou moradores, comerciantes e equipes de resgate.",
+          "porQueImporta": "O evento demonstra risco de falhas estruturais em áreas urbanas, exigindo atenção à manutenção de calçadas.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/16/cratera-que-engoliu-mulher-com-crianca-no-colo-e-homem-no-interior-de-sp-tinha-5-metros-de-profundidade.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-16T23:28:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/dwi7X7M8b5YwNbxjpGn_EvX6lxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/K/17IqAkRNC0oNZYvfSKpg/eptv-cp-bdc-2409-flagra-faixa-exclusiva-3-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "deslizamento",
+      "label": "Deslizamento",
+      "stories": [
+        {
+          "clusterId": "faaa2e5b55322ef2",
+          "slug": "b48cfb8ae67c067f",
+          "titulo": "Carros e retroescavadeira ficam atolados na lama após deslizamento de terra em MG",
+          "resumo": "Dois carros e uma retroescavadeira ficaram presos na lama da MG-040, em Bonfim, após um deslizamento de terra causado por chuva forte. Os veículos estavam com pessoas a bordo, que foram retiradas em segurança. Nenhum ferido foi registrado.",
+          "porQueImporta": "O incidente demonstra o impacto imediato de chuvas fortes em vias de acesso, afetando mobilidade e segurança local.",
+          "categoria": "Deslizamento",
+          "categoriaSlug": "deslizamento",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/16/carros-e-retroescavadeira-ficam-atolados-na-lama-apos-deslizamento-de-terra-causado-por-chuva-forte-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-16T22:36:26.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PRhZpkhDUONBF6RsL68mn1_nL0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Y/pMVTOoTvW0ugeluRJJVw/whatsapp-image-2026-11-16-at-19.32.04-1-.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
         {
           "clusterId": "8c8f67f20fc3eace",
           "slug": "313aed9d521879fe",
@@ -415,52 +491,6 @@
           ],
           "updatedAt": "2026-11-16T04:08:00.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/UbbnY1UPrTYLGBSnfNzqCyDzxLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/9jOSuJRNi9luKD8sQTJw/afp-20261116-d7kd69e-v1-highres-thailandfire.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "6d3550223bef76d6",
-          "slug": "978e73333ef54ba4",
-          "titulo": "Chuva causa queda de árvores e alagamentos em Três Rios",
-          "resumo": "Uma forte chuva atingiu Três Rios, RJ, no domingo, provocando alagamentos e queda de árvores nos bairros Cantagalo, Habitat e Centro. A água acumulada dificultou a passagem de veículos e pedestres em vários pontos da cidade. A prefeitura registrou precipitação acumulada de 7,2 mm.",
-          "porQueImporta": "O evento comprometeu a mobilidade urbana e pode gerar riscos à segurança dos moradores.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/16/chuva-provoca-queda-de-arvores-e-alagamentos-em-tres-rios.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-16T18:15:14.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/FnUtfZtqiiQsrKQ41pcMLe_1JqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/K/2MQnrgTFKs1IPoWABpwg/whatsapp-image-2026-11-16-at-15.03.47-1-.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "tremor",
-      "label": "Tremor",
-      "stories": [
-        {
-          "clusterId": "cfeb3776106f64ad",
-          "slug": "4a2481c7e0f83ab5",
-          "titulo": "Caruaru registra quarto tremor de terra em menos de 24 horas",
-          "resumo": "Caruaru, no Agreste de Pernambuco, registrou um tremor de terra de magnitude 2,7 na escala Richter às 12h37 desta segunda-feira. Foi o quarto abalo em menos de 24 horas, após três outros de 2,8, 2,1 e 1,5. O Laboratório Sismológico da UFRN confirmou os registros.",
-          "porQueImporta": "A frequência de tremores pode indicar atividade sísmica local que merece monitoramento.",
-          "categoria": "Tremor",
-          "categoriaSlug": "tremor",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/16/caruaru-registra-quarto-tremor-de-terra-em-menos-de-24-horas-nesta-segunda-feira-16.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-16T16:55:15.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/JzuqoH3gxdI1uHPQ_EPqJD3gSIg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/w/Q/LUbD7TThqIkbvCyMAa9Q/captura-de-tela-2019-05-15-as-10.46.09-am.png"
         }
       ]
     },
