@@ -1,30 +1,92 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T23:36:54.445Z",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T07:52:32.267Z",
   "home": [
     {
-      "clusterId": "1642b6fe65e2f4dc",
-      "slug": "1efd43a0d25aa805",
-      "titulo": "Petroleiro pega fogo no Estreito de Ormuz após atingir mina",
-      "resumo": "Um petroleiro sofreu danos graves e pegou fogo depois de atingir uma mina na parte leste do Estreito de Ormuz, segundo o Exército iraniano. O incidente ocorreu ao norte de Khasab, em Omã, e a tripulação permanece desaparecida. A UKMTO não confirmou mortes, mas registrou o desaparecimento de um tripulante. A embarcação já havia sido atacada anteriormente.",
-      "porQueImporta": "O evento destaca a crescente tensão marítima na região e os riscos para o comércio de petróleo.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
+      "clusterId": "fac0714c08f70b5f",
+      "slug": "f0dae4bec5817a00",
+      "titulo": "Paraná recebe dois alertas de tempestade do Inmet",
+      "resumo": "O Instituto Nacional de Meteorologia emitiu dois alertas de tempestade para o estado do Paraná, ambos válidos para o dia 18. O alerta laranja indica perigo e cobre 118 cidades, prevendo precipitação de até 60 mm por hora, 100 mm no dia, ventos de 60 a 100 km/h e possibilidade de granizo, com risco de estragos em plantações, queda de árvores e alagamentos. O segundo alerta abrange outras áreas do estado.",
+      "porQueImporta": "A informação alerta a população sobre condições meteorológicas severas que podem causar danos e riscos à segurança.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/video-navio-atingido-por-projetil-no-estreito-de-ormuz-pega-fogo-e-explode/"
+          "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/18/previsao-do-tempo-chuva-parana.ghtml"
         }
       ],
-      "updatedAt": "2026-11-17T21:34:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg"
+      "updatedAt": "2026-11-18T06:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/fhgOJmg1adYAk7iFT5ATSczpTlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/Z/I8JQkjQay9GdN2SyVkTw/inmet5-1-.png"
     },
     {
-      "clusterId": "0a6e321a7a663ca1",
+      "clusterId": "c05a0051664641a6",
+      "slug": "ae6ac12962df2752",
+      "titulo": "Terremoto de magnitude 5,9 atinge costa do Peru",
+      "resumo": "Um terremoto de magnitude 5,9 foi registrado na costa do Peru. A sismologia indica que o abalo ocorreu a uma profundidade de quase 22 quilômetros. O evento foi detectado pelas agências de monitoramento sísmico, incluindo o USGS. Não há relatos de danos significativos ou vítimas.",
+      "porQueImporta": "O terremoto pode representar risco de sismos mais fortes na região e requer monitoramento contínuo.",
+      "categoria": "Desastre",
+      "categoriaSlug": "desastre",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-59-atinge-costa-do-peru-dizem-agencias/"
+        }
+      ],
+      "updatedAt": "2026-11-18T07:12:13.000Z"
+    },
+    {
+      "clusterId": "445743b17fc5014c",
+      "slug": "a23dbf9503162f8f",
+      "titulo": "Inmet emite alerta laranja para tempestade no Sul",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta laranja para a região sul do Brasil, abrangendo Santa Catarina, Paraná e Rio Grande do Sul. A previsão indica chuvas intensas, com acumulados de até 100 milímetros ao longo do dia, ventos de até 100 km/h e possibilidade de granizo. O alerta visa informar a população sobre condições climáticas severas e a necessidade de precauções.",
+      "porQueImporta": "A tempestade pode causar inundações, danos a propriedades e interrupções no tráfego.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/inmet-emite-alerta-laranja-para-tempestade-no-sul-nesta-quarta-feira-18/"
+        }
+      ],
+      "updatedAt": "2026-11-18T06:33:03.000Z"
+    },
+    {
+      "clusterId": "f25ba3306a20914e",
+      "slug": "7386e75efff4bc41",
+      "titulo": "Servidor municipal morre em acidente de trabalho em Estação",
+      "resumo": "Vanderlei Pedro Perin, 65 anos, servidor público de Estação, faleceu na manhã de terça-feira (17) após operar um rolo compressor que tombou e caiu sobre ele. Ele atuava há 35 anos na prefeitura e estava a cerca de um mês de se aposentar. O acidente ocorreu durante a realização de manutenção na máquina.",
+      "porQueImporta": "O falecimento de um servidor próximo à aposentadoria destaca riscos de segurança no trabalho público.",
+      "categoria": "Acidente de trabalho",
+      "categoriaSlug": "acidente-de-trabalho",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/18/aposentadoria-servidor-prefeitura-rs-morre-acidente-de-trabalho.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-18T04:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/bYbc3TMGXYvzwOQ2GUrjYPpi9rw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/w/q19XisQcSBPMnAOQVsAw/g1-2-.jpg"
+    },
+    {
+      "clusterId": "c01792381f71fe3b",
+      "slug": "cd418fc634b2a11d",
+      "titulo": "Acidente de ônibus mata 13 trabalhadores em Abdanan, Irã",
+      "resumo": "Um ônibus que transportava funcionários de uma empresa petrolífera tombou em Abdanan, resultando na morte de 13 trabalhadores. Centenas de pessoas saíram às ruas para protestar contra o governo e apoiar a restauração da monarquia. Os manifestantes exigiram a renúncia de autoridades e repetiram slogans em favor da antiga família Pahlavi.",
+      "porQueImporta": "O incidente destaca a tensão política no Irã e a reação pública a acidentes de trabalho.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/17/protestos-ira-monarquia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-17T18:22:40.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YnFD2mcKMsKWFCc63B0XP9tkbb0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/j/KgxrvjSh6NjsVUGJdHSw/protesto-ira-monarquia-17-novembro.avif"
+    },
+    {
+      "clusterId": "3d6678f5756798be",
       "slug": "c0f88a8c4525472e",
       "titulo": "Avião militar russo cai na Sibéria",
       "resumo": "Um avião de transporte militar An‑12 caiu perto do vilarejo de Yagunovo, na região de Kemerovo, na Sibéria. O acidente resultou na morte de todas as pessoas a bordo, com relatos de 17 a 19 vítimas. O Ministério da Defesa da Rússia apontou uma falha técnica como causa preliminar, enquanto o governador local confirmou o incidente em seu canal oficial. Imagens de câmeras de segurança mostram o momento do impacto.",
@@ -35,259 +97,135 @@
         {
           "name": "G1",
           "url": "https://g1.globo.com/mundo/noticia/2026/11/17/aviao-militar-russo-cai-na-siberia-e-deixa-mortos.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/queda-de-aviao-na-siberia-mata-todas-as-pessoas-a-bordo/"
         }
       ],
-      "updatedAt": "2026-11-17T21:22:57.000Z",
+      "updatedAt": "2026-11-17T15:25:38.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/_0enU53p32GhxznF0dXr0NID2ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/0/bNA8e3Q5OdfGxVXCOsJw/novo-projeto-3-.jpg"
     },
     {
-      "clusterId": "9ce2ee51b8545a41",
-      "slug": "0d0512d9520f91ab",
-      "titulo": "Deslizamento de terra atinge cinco casas em Cruzeiro do Sul",
-      "resumo": "Um deslizamento de terra atingiu cinco casas no bairro Cohab, em Cruzeiro do Sul, no interior do Acre. Nenhum ferido foi registrado. Os moradores foram evacuados e orientados a não retornar até avaliação da Defesa Civil.",
-      "porQueImporta": "O evento demonstra risco de desastres naturais em áreas urbanas do Acre.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
+      "clusterId": "d1308b69c6d94887",
+      "slug": "1efd43a0d25aa805",
+      "titulo": "Petroleiro pega fogo no Estreito de Ormuz após atingir mina",
+      "resumo": "Um petroleiro sofreu danos graves e pegou fogo depois de atingir uma mina na parte leste do Estreito de Ormuz, segundo o Exército iraniano. O incidente ocorreu ao norte de Khasab, em Omã, e a tripulação permanece desaparecida. A UKMTO não confirmou mortes, mas registrou o desaparecimento de um tripulante. A embarcação já havia sido atacada anteriormente.",
+      "porQueImporta": "O evento destaca a crescente tensão marítima na região e os riscos para o comércio de petróleo.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/11/17/deslizamento-de-terra-atinge-cinco-casas-de-municipio-no-interior-do-acre.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml"
         }
       ],
-      "updatedAt": "2026-11-17T23:11:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Gfg80QkrB3vQYOrarFgLeEqxq9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/0/DdywujSuCSSShSGzbIag/midia-de-distribuicao-g1.png"
+      "updatedAt": "2026-11-17T09:51:46.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg"
     },
     {
-      "clusterId": "74760e1cb6b9928c",
-      "slug": "a944d7dff1703138",
-      "titulo": "Caminhão bate na traseira de outro veículo parado e duas pessoas morrem na BR-262",
-      "resumo": "Um caminhão que trafegava na BR-262, em Campos Altos, colidiu na traseira de outro caminhão parado por obras, resultando na morte de um homem e de uma mulher. O acidente ocorreu por volta das 14h, no km 594, em trecho sinalizado com sistema de pare e siga. As vítimas estavam a bordo do caminhão que se deslocava no sentido Luz–Araxá.",
-      "porQueImporta": "O acidente destaca riscos de colisões em trechos de obras em rodovias.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/17/caminhao-bate-na-traseira-de-outro-veiculo-parado-e-dois-morrem-na-br-262-em-mg.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T22:49:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ojCgRBU2y5ZyFOCXA5tuadyY1nU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/C/RVWFCuRh2DekYmyiWiZw/design-sem-nome-13-.png"
-    },
-    {
-      "clusterId": "e3e1e1b435e5c4f4",
-      "slug": "85fd021fcc78bb17",
-      "titulo": "VÍDEO: Acidente envolvendo motos deixa quatro pessoas feridas no Centro de Divinópolis",
-      "resumo": "Acidente com motos deixa quatro feridos no Centro de Divinópolis, MG Quatro pessoas, dois homens e duas mulheres, ficaram feridas em um acidente envolvendo motocicletas no Centro de Divinópolis, no fim da tarde desta terça-feira (17). A batida aconteceu por volta das 17h15, no cruzamento da Avenida Primeiro de Junho com a Rua Goiás. ✅ Clique aqui para seguir o canal do g1 Centro-Oeste de Minas no WhatsApp O acidente mobilizou equipes do Serviço de Atendimento Móvel de Urgência (Samu) e do Corpo de Bombeiros, que foram acionadas para prestar socorro às vítimas. Segundo a Polícia Militar (PM),…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "clusterId": "eba4a9dd8faef64d",
+      "slug": "34daf6c609387f81",
+      "titulo": "Papa Leão XIV é atingido por objeto no rosto a caminho de missa no Peru",
+      "resumo": "Durante a última missa em Lima, o Papa Leão XIV foi atingido no rosto por um terço lançado por um fiel. O incidente ocorreu enquanto ele se dirigia ao local da cerimônia. O Papa reagiu rapidamente, levantando a mão ao olho afetado. O evento foi registrado em vídeo e divulgado pelas autoridades locais.",
+      "porQueImporta": "O ataque a uma figura religiosa de destaque pode gerar preocupação sobre segurança em eventos públicos.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/17/video-acidente-envolvendo-motos-deixa-quatro-pessoas-feridas-no-centro-de-divinopolis.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/16/papa-leao-xiv-e-atingido-por-objeto-no-rosto-a-caminho-de-sua-ultima-missa-no-peru-veja-video.ghtml"
         }
       ],
-      "updatedAt": "2026-11-17T22:35:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/-gY8KeW5CEEmLt6sh-FmHiKNVkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/v/MPngyhRBawJLvwsEBfEA/batida03.jpg"
-    },
-    {
-      "clusterId": "1ec23d65e393f6d5",
-      "slug": "fff513147db9d2f2",
-      "titulo": "Acidente na Rodovia Fernando Guilhon deixa uma pessoa morta e outra gravemente ferida em Santarém",
-      "resumo": "Na noite de terça-feira, 17, um acidente de trânsito na Rodovia Fernando Guilhon, em Santarém, resultou na morte de um jovem de 18 anos, identificado como Everaldo Miranda do Carmo, e deixou outra pessoa gravemente ferida. As vítimas estavam em uma motocicleta. A suspeita inicial aponta que o condutor perdeu o controle do veículo e bateu contra o meio-fio da rodovia.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária na região.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/acidente-na-fernando-guilhon-deixa-uma-pessoa-morta-e-outra-gravemente-ferida-em-santarem.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T22:34:38.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ntQTYLFfQOxzkBtpEQxowfgJoa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/tGTtUfR8KiwcnORvp4mA/whatsapp-image-2026-11-17-at-19.21.01.jpeg"
-    },
-    {
-      "clusterId": "0affd80e50df23f5",
-      "slug": "7c40e2ff2e034f0e",
-      "titulo": "Motorista permanece preso após acidente que matou criança de 10 anos na Paraíba",
-      "resumo": "A Justiça da Paraíba manteve a prisão temporária do motorista envolvido em acidente de trânsito que resultou na morte de uma criança de 10 anos, ocorrido em 12 de outubro, entre Massaranduba e Campina Grande. O homem foi preso na segunda-feira, 16 de outubro, e a decisão foi confirmada em audiência de custódia realizada em 17 de outubro.",
-      "porQueImporta": "O caso destaca a aplicação da lei penal em acidentes de trânsito que causam fatalidades infantis.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/17/justica-mantem-prisao-de-motorista-de-carro-envolvido-em-acidente-que-matou-crianca-de-10-anos-no-agreste-da-pb.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T22:01:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/8KjzLX1Gpyl4lZ13USORb2nhQJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/d/bGxK1pQpG7TrbqGLhCMQ/bgs-g1-pb-e-jp.png"
-    },
-    {
-      "clusterId": "423ab0296f8b0e25",
-      "slug": "73029d6b730c069f",
-      "titulo": "Vendaval arranca telhado de imóvel e espalha cadeiras e guarda-sóis em praia de Morro de São Paulo",
-      "resumo": "Um vendaval atingiu a praia de Morro de São Paulo, no município de Cairu, Bahia, na tarde de terça-feira (17). A força do vento arrancou o telhado de um imóvel à beira-mar e espalhou cadeiras e guarda-sóis pela faixa de areia. A ventania causou correria entre banhistas e trabalhadores, mas não houve feridos. Imagens em vídeo mostram objetos sendo levantados pela força do vento.",
-      "porQueImporta": "O evento demonstra a intensidade dos ventos na região, alertando para a necessidade de precauções em áreas costeiras e de lazer.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/ventania-em-morro-de-sao-paulo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T21:59:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/_-UCpRMMIYTMjHoskYYBnLLMZY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/S/6jszAVQbu3cqKGABYWAQ/design-sem-nome-2026-11-17t184421.576.png"
-    },
-    {
-      "clusterId": "a9763dc825776abb",
-      "slug": "d791f133586fbf3e",
-      "titulo": "Carro invade calçada e atropela seis pessoas no Centro de Volta Redonda",
-      "resumo": "Um veículo invadiu a calçada da Avenida Amaral Peixoto, no Centro de Volta Redonda, e atropelou seis pessoas, incluindo uma criança. Os feridos foram atendidos pelo Corpo de Bombeiros e SAMU e encaminhados a duas unidades médicas da cidade. Uma mulher e a criança foram levadas a uma unidade particular. O acidente ocorreu na terça-feira (17).",
-      "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança viária em áreas urbanas densamente povoadas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/17/carro-invade-calcada-e-atropela-seis-pessoas-no-centro-de-volta-redonda.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T21:48:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/pwwvxBJwZ378w9n3vP4Mk5qWslM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/g/CSHgDBSyyiLN8BzMXq0Q/whatsapp-image-2026-11-17-at-18.19.13-1-1-.jpeg"
-    },
-    {
-      "clusterId": "d129c3884c972b4f",
-      "slug": "6c62d09f9fac92b3",
-      "titulo": "Acidente com carreta, ambulância e terceiro veículo causa congestionamento na Anhanguera",
-      "resumo": "Um acidente envolvendo uma carreta, uma ambulância do Samu e um terceiro veículo provocou 6 quilômetros de congestionamento na Rodovia Anhanguera, em Sumaré, por volta das 17h14, no Km 106, sentido capital. O terceiro veículo não foi identificado e deixou o local após a colisão. A concessionária Autoban informou que não houve vítimas.",
-      "porQueImporta": "O incidente bloqueou uma importante via de transporte, gerando transtornos de trânsito e atrasos para os usuários.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/17/acidente-com-carreta-e-ambulancia-provoca-congestionamento-na-anhanguera-em-sumare.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-17T21:47:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/sA4sDUYDtxjPMihYrX_TqZUnYvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/K/Yh8O5zS8qTmA2ueU7z6g/eptv-cp-bdc-2409-flagra-faixa-exclusiva-1-.jpg"
+      "updatedAt": "2026-11-16T22:03:34.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_1Awj4vxMwI9G_c6i51J1bfmKgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/XAVTRvTX6jG0vrxIU3JQ/2026-11-16t183528z-2096680738-rc21poainw61-rtrmadp-3-pope-latam-peru.jpg"
     }
   ],
   "categorias": [
     {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "445743b17fc5014c",
+          "slug": "a23dbf9503162f8f",
+          "titulo": "Inmet emite alerta laranja para tempestade no Sul",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta laranja para a região sul do Brasil, abrangendo Santa Catarina, Paraná e Rio Grande do Sul. A previsão indica chuvas intensas, com acumulados de até 100 milímetros ao longo do dia, ventos de até 100 km/h e possibilidade de granizo. O alerta visa informar a população sobre condições climáticas severas e a necessidade de precauções.",
+          "porQueImporta": "A tempestade pode causar inundações, danos a propriedades e interrupções no tráfego.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/inmet-emite-alerta-laranja-para-tempestade-no-sul-nesta-quarta-feira-18/"
+            }
+          ],
+          "updatedAt": "2026-11-18T06:33:03.000Z"
+        },
+        {
+          "clusterId": "fac0714c08f70b5f",
+          "slug": "f0dae4bec5817a00",
+          "titulo": "Paraná recebe dois alertas de tempestade do Inmet",
+          "resumo": "O Instituto Nacional de Meteorologia emitiu dois alertas de tempestade para o estado do Paraná, ambos válidos para o dia 18. O alerta laranja indica perigo e cobre 118 cidades, prevendo precipitação de até 60 mm por hora, 100 mm no dia, ventos de 60 a 100 km/h e possibilidade de granizo, com risco de estragos em plantações, queda de árvores e alagamentos. O segundo alerta abrange outras áreas do estado.",
+          "porQueImporta": "A informação alerta a população sobre condições meteorológicas severas que podem causar danos e riscos à segurança.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/18/previsao-do-tempo-chuva-parana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-18T06:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fhgOJmg1adYAk7iFT5ATSczpTlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/Z/I8JQkjQay9GdN2SyVkTw/inmet5-1-.png"
+        }
+      ]
+    },
+    {
+      "slug": "desastre",
+      "label": "Desastre",
+      "stories": [
+        {
+          "clusterId": "c05a0051664641a6",
+          "slug": "ae6ac12962df2752",
+          "titulo": "Terremoto de magnitude 5,9 atinge costa do Peru",
+          "resumo": "Um terremoto de magnitude 5,9 foi registrado na costa do Peru. A sismologia indica que o abalo ocorreu a uma profundidade de quase 22 quilômetros. O evento foi detectado pelas agências de monitoramento sísmico, incluindo o USGS. Não há relatos de danos significativos ou vítimas.",
+          "porQueImporta": "O terremoto pode representar risco de sismos mais fortes na região e requer monitoramento contínuo.",
+          "categoria": "Desastre",
+          "categoriaSlug": "desastre",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-59-atinge-costa-do-peru-dizem-agencias/"
+            }
+          ],
+          "updatedAt": "2026-11-18T07:12:13.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-trabalho",
+      "label": "Acidente de trabalho",
+      "stories": [
+        {
+          "clusterId": "f25ba3306a20914e",
+          "slug": "7386e75efff4bc41",
+          "titulo": "Servidor municipal morre em acidente de trabalho em Estação",
+          "resumo": "Vanderlei Pedro Perin, 65 anos, servidor público de Estação, faleceu na manhã de terça-feira (17) após operar um rolo compressor que tombou e caiu sobre ele. Ele atuava há 35 anos na prefeitura e estava a cerca de um mês de se aposentar. O acidente ocorreu durante a realização de manutenção na máquina.",
+          "porQueImporta": "O falecimento de um servidor próximo à aposentadoria destaca riscos de segurança no trabalho público.",
+          "categoria": "Acidente de trabalho",
+          "categoriaSlug": "acidente-de-trabalho",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/18/aposentadoria-servidor-prefeitura-rs-morre-acidente-de-trabalho.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-18T04:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/bYbc3TMGXYvzwOQ2GUrjYPpi9rw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/w/q19XisQcSBPMnAOQVsAw/g1-2-.jpg"
+        }
+      ]
+    },
+    {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
-        {
-          "clusterId": "74760e1cb6b9928c",
-          "slug": "a944d7dff1703138",
-          "titulo": "Caminhão bate na traseira de outro veículo parado e duas pessoas morrem na BR-262",
-          "resumo": "Um caminhão que trafegava na BR-262, em Campos Altos, colidiu na traseira de outro caminhão parado por obras, resultando na morte de um homem e de uma mulher. O acidente ocorreu por volta das 14h, no km 594, em trecho sinalizado com sistema de pare e siga. As vítimas estavam a bordo do caminhão que se deslocava no sentido Luz–Araxá.",
-          "porQueImporta": "O acidente destaca riscos de colisões em trechos de obras em rodovias.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/17/caminhao-bate-na-traseira-de-outro-veiculo-parado-e-dois-morrem-na-br-262-em-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T22:49:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ojCgRBU2y5ZyFOCXA5tuadyY1nU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/C/RVWFCuRh2DekYmyiWiZw/design-sem-nome-13-.png"
-        },
-        {
-          "clusterId": "1ec23d65e393f6d5",
-          "slug": "fff513147db9d2f2",
-          "titulo": "Acidente na Rodovia Fernando Guilhon deixa uma pessoa morta e outra gravemente ferida em Santarém",
-          "resumo": "Na noite de terça-feira, 17, um acidente de trânsito na Rodovia Fernando Guilhon, em Santarém, resultou na morte de um jovem de 18 anos, identificado como Everaldo Miranda do Carmo, e deixou outra pessoa gravemente ferida. As vítimas estavam em uma motocicleta. A suspeita inicial aponta que o condutor perdeu o controle do veículo e bateu contra o meio-fio da rodovia.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança viária na região.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/acidente-na-fernando-guilhon-deixa-uma-pessoa-morta-e-outra-gravemente-ferida-em-santarem.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T22:34:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ntQTYLFfQOxzkBtpEQxowfgJoa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/tGTtUfR8KiwcnORvp4mA/whatsapp-image-2026-11-17-at-19.21.01.jpeg"
-        },
-        {
-          "clusterId": "0affd80e50df23f5",
-          "slug": "7c40e2ff2e034f0e",
-          "titulo": "Motorista permanece preso após acidente que matou criança de 10 anos na Paraíba",
-          "resumo": "A Justiça da Paraíba manteve a prisão temporária do motorista envolvido em acidente de trânsito que resultou na morte de uma criança de 10 anos, ocorrido em 12 de outubro, entre Massaranduba e Campina Grande. O homem foi preso na segunda-feira, 16 de outubro, e a decisão foi confirmada em audiência de custódia realizada em 17 de outubro.",
-          "porQueImporta": "O caso destaca a aplicação da lei penal em acidentes de trânsito que causam fatalidades infantis.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/17/justica-mantem-prisao-de-motorista-de-carro-envolvido-em-acidente-que-matou-crianca-de-10-anos-no-agreste-da-pb.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T22:01:04.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/8KjzLX1Gpyl4lZ13USORb2nhQJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/d/bGxK1pQpG7TrbqGLhCMQ/bgs-g1-pb-e-jp.png"
-        },
-        {
-          "clusterId": "a9763dc825776abb",
-          "slug": "d791f133586fbf3e",
-          "titulo": "Carro invade calçada e atropela seis pessoas no Centro de Volta Redonda",
-          "resumo": "Um veículo invadiu a calçada da Avenida Amaral Peixoto, no Centro de Volta Redonda, e atropelou seis pessoas, incluindo uma criança. Os feridos foram atendidos pelo Corpo de Bombeiros e SAMU e encaminhados a duas unidades médicas da cidade. Uma mulher e a criança foram levadas a uma unidade particular. O acidente ocorreu na terça-feira (17).",
-          "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança viária em áreas urbanas densamente povoadas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/17/carro-invade-calcada-e-atropela-seis-pessoas-no-centro-de-volta-redonda.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T21:48:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/pwwvxBJwZ378w9n3vP4Mk5qWslM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/g/CSHgDBSyyiLN8BzMXq0Q/whatsapp-image-2026-11-17-at-18.19.13-1-1-.jpeg"
-        },
-        {
-          "clusterId": "d129c3884c972b4f",
-          "slug": "6c62d09f9fac92b3",
-          "titulo": "Acidente com carreta, ambulância e terceiro veículo causa congestionamento na Anhanguera",
-          "resumo": "Um acidente envolvendo uma carreta, uma ambulância do Samu e um terceiro veículo provocou 6 quilômetros de congestionamento na Rodovia Anhanguera, em Sumaré, por volta das 17h14, no Km 106, sentido capital. O terceiro veículo não foi identificado e deixou o local após a colisão. A concessionária Autoban informou que não houve vítimas.",
-          "porQueImporta": "O incidente bloqueou uma importante via de transporte, gerando transtornos de trânsito e atrasos para os usuários.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/17/acidente-com-carreta-e-ambulancia-provoca-congestionamento-na-anhanguera-em-sumare.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T21:47:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/sA4sDUYDtxjPMihYrX_TqZUnYvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/K/Yh8O5zS8qTmA2ueU7z6g/eptv-cp-bdc-2409-flagra-faixa-exclusiva-1-.jpg"
-        },
-        {
-          "clusterId": "772db5bd3582e53a",
-          "slug": "78179e09fcb2e69c",
-          "titulo": "Ônibus atinge idoso de bicicleta em Divinópolis",
-          "resumo": "Um ônibus de transporte coletivo atingiu um idoso de 71 anos que pedalava pela Rua Miguel Gontijo, no Bairro Paraíso, em Divinópolis. O acidente ocorreu na tarde de segunda-feira (16). A vítima permanece internada em estado grave no Centro de Terapia Intensiva do Complexo de Saúde São João de Deus.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança de ciclistas em vias urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/17/video-mostra-momento-em-que-onibus-atinge-idoso-de-bicicleta-em-divinopolis.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T21:43:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_2udZmp4jM9ctPSL3iV6o87-yZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/K/A4BYN8RvSzaAzSqqSfvw/acidnete-paraiso.jpeg"
-        },
         {
           "clusterId": "c01792381f71fe3b",
           "slug": "cd418fc634b2a11d",
@@ -308,26 +246,55 @@
       ]
     },
     {
-      "slug": "geral",
-      "label": "Geral",
+      "slug": "acidente-aereo",
+      "label": "Acidente aéreo",
       "stories": [
         {
-          "clusterId": "e3e1e1b435e5c4f4",
-          "slug": "85fd021fcc78bb17",
-          "titulo": "VÍDEO: Acidente envolvendo motos deixa quatro pessoas feridas no Centro de Divinópolis",
-          "resumo": "Acidente com motos deixa quatro feridos no Centro de Divinópolis, MG Quatro pessoas, dois homens e duas mulheres, ficaram feridas em um acidente envolvendo motocicletas no Centro de Divinópolis, no fim da tarde desta terça-feira (17). A batida aconteceu por volta das 17h15, no cruzamento da Avenida Primeiro de Junho com a Rua Goiás. ✅ Clique aqui para seguir o canal do g1 Centro-Oeste de Minas no WhatsApp O acidente mobilizou equipes do Serviço de Atendimento Móvel de Urgência (Samu) e do Corpo de Bombeiros, que foram acionadas para prestar socorro às vítimas. Segundo a Polícia Militar (PM),…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "3d6678f5756798be",
+          "slug": "c0f88a8c4525472e",
+          "titulo": "Avião militar russo cai na Sibéria",
+          "resumo": "Um avião de transporte militar An‑12 caiu perto do vilarejo de Yagunovo, na região de Kemerovo, na Sibéria. O acidente resultou na morte de todas as pessoas a bordo, com relatos de 17 a 19 vítimas. O Ministério da Defesa da Rússia apontou uma falha técnica como causa preliminar, enquanto o governador local confirmou o incidente em seu canal oficial. Imagens de câmeras de segurança mostram o momento do impacto.",
+          "porQueImporta": "O acidente destaca riscos operacionais de aeronaves militares em operação na Rússia.",
+          "categoria": "Acidente aéreo",
+          "categoriaSlug": "acidente-aereo",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/17/video-acidente-envolvendo-motos-deixa-quatro-pessoas-feridas-no-centro-de-divinopolis.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/aviao-militar-russo-cai-na-siberia-e-deixa-mortos.ghtml"
             }
           ],
-          "updatedAt": "2026-11-17T22:35:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-gY8KeW5CEEmLt6sh-FmHiKNVkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/v/MPngyhRBawJLvwsEBfEA/batida03.jpg"
-        },
+          "updatedAt": "2026-11-17T15:25:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/_0enU53p32GhxznF0dXr0NID2ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/0/bNA8e3Q5OdfGxVXCOsJw/novo-projeto-3-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "d1308b69c6d94887",
+          "slug": "1efd43a0d25aa805",
+          "titulo": "Petroleiro pega fogo no Estreito de Ormuz após atingir mina",
+          "resumo": "Um petroleiro sofreu danos graves e pegou fogo depois de atingir uma mina na parte leste do Estreito de Ormuz, segundo o Exército iraniano. O incidente ocorreu ao norte de Khasab, em Omã, e a tripulação permanece desaparecida. A UKMTO não confirmou mortes, mas registrou o desaparecimento de um tripulante. A embarcação já havia sido atacada anteriormente.",
+          "porQueImporta": "O evento destaca a crescente tensão marítima na região e os riscos para o comércio de petróleo.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T09:51:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
         {
           "clusterId": "eba4a9dd8faef64d",
           "slug": "34daf6c609387f81",
@@ -344,152 +311,6 @@
           ],
           "updatedAt": "2026-11-16T22:03:34.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/_1Awj4vxMwI9G_c6i51J1bfmKgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/XAVTRvTX6jG0vrxIU3JQ/2026-11-16t183528z-2096680738-rc21poainw61-rtrmadp-3-pope-latam-peru.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "1642b6fe65e2f4dc",
-          "slug": "1efd43a0d25aa805",
-          "titulo": "Petroleiro pega fogo no Estreito de Ormuz após atingir mina",
-          "resumo": "Um petroleiro sofreu danos graves e pegou fogo depois de atingir uma mina na parte leste do Estreito de Ormuz, segundo o Exército iraniano. O incidente ocorreu ao norte de Khasab, em Omã, e a tripulação permanece desaparecida. A UKMTO não confirmou mortes, mas registrou o desaparecimento de um tripulante. A embarcação já havia sido atacada anteriormente.",
-          "porQueImporta": "O evento destaca a crescente tensão marítima na região e os riscos para o comércio de petróleo.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/video-navio-atingido-por-projetil-no-estreito-de-ormuz-pega-fogo-e-explode/"
-            }
-          ],
-          "updatedAt": "2026-11-17T21:34:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-aereo",
-      "label": "Acidente aéreo",
-      "stories": [
-        {
-          "clusterId": "0a6e321a7a663ca1",
-          "slug": "c0f88a8c4525472e",
-          "titulo": "Avião militar russo cai na Sibéria",
-          "resumo": "Um avião de transporte militar An‑12 caiu perto do vilarejo de Yagunovo, na região de Kemerovo, na Sibéria. O acidente resultou na morte de todas as pessoas a bordo, com relatos de 17 a 19 vítimas. O Ministério da Defesa da Rússia apontou uma falha técnica como causa preliminar, enquanto o governador local confirmou o incidente em seu canal oficial. Imagens de câmeras de segurança mostram o momento do impacto.",
-          "porQueImporta": "O acidente destaca riscos operacionais de aeronaves militares em operação na Rússia.",
-          "categoria": "Acidente aéreo",
-          "categoriaSlug": "acidente-aereo",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/aviao-militar-russo-cai-na-siberia-e-deixa-mortos.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/queda-de-aviao-na-siberia-mata-todas-as-pessoas-a-bordo/"
-            }
-          ],
-          "updatedAt": "2026-11-17T21:22:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_0enU53p32GhxznF0dXr0NID2ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/0/bNA8e3Q5OdfGxVXCOsJw/novo-projeto-3-.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
-      "stories": [
-        {
-          "clusterId": "9ce2ee51b8545a41",
-          "slug": "0d0512d9520f91ab",
-          "titulo": "Deslizamento de terra atinge cinco casas em Cruzeiro do Sul",
-          "resumo": "Um deslizamento de terra atingiu cinco casas no bairro Cohab, em Cruzeiro do Sul, no interior do Acre. Nenhum ferido foi registrado. Os moradores foram evacuados e orientados a não retornar até avaliação da Defesa Civil.",
-          "porQueImporta": "O evento demonstra risco de desastres naturais em áreas urbanas do Acre.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/11/17/deslizamento-de-terra-atinge-cinco-casas-de-municipio-no-interior-do-acre.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T23:11:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Gfg80QkrB3vQYOrarFgLeEqxq9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/0/DdywujSuCSSShSGzbIag/midia-de-distribuicao-g1.png"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "423ab0296f8b0e25",
-          "slug": "73029d6b730c069f",
-          "titulo": "Vendaval arranca telhado de imóvel e espalha cadeiras e guarda-sóis em praia de Morro de São Paulo",
-          "resumo": "Um vendaval atingiu a praia de Morro de São Paulo, no município de Cairu, Bahia, na tarde de terça-feira (17). A força do vento arrancou o telhado de um imóvel à beira-mar e espalhou cadeiras e guarda-sóis pela faixa de areia. A ventania causou correria entre banhistas e trabalhadores, mas não houve feridos. Imagens em vídeo mostram objetos sendo levantados pela força do vento.",
-          "porQueImporta": "O evento demonstra a intensidade dos ventos na região, alertando para a necessidade de precauções em áreas costeiras e de lazer.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/ventania-em-morro-de-sao-paulo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T21:59:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_-UCpRMMIYTMjHoskYYBnLLMZY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/S/6jszAVQbu3cqKGABYWAQ/design-sem-nome-2026-11-17t184421.576.png"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "651cc25951215756",
-          "slug": "4e98b129a70f9cbb",
-          "titulo": "Chuvas inundam estação de tratamento e suspendem produção de água tratada em Poço Redondo",
-          "resumo": "As fortes chuvas no estado de Sergipe inundaram a casa de bombas da Estação de Tratamento de Água Curralinho, em Poço Redondo, interrompendo a produção de água tratada. A inundação ocorreu por volta das 3h30, submerso os conjuntos de bombeamento. A Companhia de Saneamento de Sergipe (Deso) está avaliando os danos e trabalhando na recuperação da unidade.",
-          "porQueImporta": "A interrupção da produção de água tratada pode afetar o abastecimento de água para a população local.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/se/sergipe/noticia/2026/11/17/chuvas-inundam-estacao-de-tratamento-e-suspendem-producao-de-agua-tratada-em-poco-redondo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-17T21:33:32.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/OBW787O7JjeCgSesN1fFgRrJSyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/J7MgFETMSFXwYUHnvj2A/bomba-agua.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "8c8f67f20fc3eace",
-          "slug": "313aed9d521879fe",
-          "titulo": "Incêndio em prédio comercial em Phuket causa 11 mortes e 16 feridos",
-          "resumo": "Um incêndio começou por volta das 3h17 na madrugada de 16 de novembro em um prédio comercial de quatro andares na ilha de Phuket, onde operava uma empresa de aluguel de veículos. As chamas levaram à morte de 11 pessoas e feriram 16. A polícia investigou o incidente.",
-          "porQueImporta": "O acidente ocorreu em um destino turístico importante, afetando a segurança e a economia local.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/16/incendio-deixa-mortos-e-feridos-na-tailandia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-16T04:08:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UbbnY1UPrTYLGBSnfNzqCyDzxLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/9jOSuJRNi9luKD8sQTJw/afp-20261116-d7kd69e-v1-highres-thailandfire.jpg"
         }
       ]
     }
