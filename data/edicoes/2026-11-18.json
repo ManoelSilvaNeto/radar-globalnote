@@ -1,401 +1,237 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T17:28:48.932Z",
+  "generatedAt": "2026-11-19T01:57:54.616Z",
   "home": [
     {
-      "clusterId": "7d4942d3de5064a4",
-      "slug": "9f8255c177e603c5",
-      "titulo": "Alagamentos e quedas de árvores e muros em Várzea Grande e Betim",
-      "resumo": "Na manhã de quarta-feira, chuvas intensas causaram alagamentos e derrubada de árvores em bairros de Várzea Grande, na região metropolitana de Cuiabá, levando a Defesa Civil estadual a emitir alerta severo. Em Betim, na Grande BH, fortes chuvas provocaram cinco quedas de muros e diversos imóveis alagados, com a Defesa Civil recebendo 21 ocorrências até 10h16.",
-      "porQueImporta": "As inundações e danos estruturais representam risco à segurança e à infraestrutura das comunidades afetadas.",
+      "clusterId": "de7e24d439913b41",
+      "slug": "d9342238693c12cc",
+      "titulo": "Motorista avança sinal vermelho e atinge idoso de bicicleta e casal de motociclista em Boa Vista",
+      "resumo": "Um motorista de caminhonete avançou sinal vermelho no cruzamento da avenida Venezuela com a avenida Mário Homem de Melo, em Boa Vista, e atropelou um idoso de bicicleta e um casal em motocicleta. Antes de avançar, o motorista já havia batido em pelo menos dois carros. O casal sofreu ferimentos leves e foi atendido no local.",
+      "porQueImporta": "O acidente destaca a gravidade de infrações de trânsito e a necessidade de fiscalização e conscientização sobre o uso de semáforos.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/motorista-avanca-sinal-vermelho-e-atinge-idoso-de-bicicleta-e-casal-de-motociclista-em-boa-vista.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-19T00:36:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1pDjeWi1LMEqifb-5EJukyv2gWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/M/NR1V87QjSh5o8VJWJjSw/acidente-mecejana.jpg"
+    },
+    {
+      "clusterId": "35af2a69bd1ed16d",
+      "slug": "e2e960b2a42969bc",
+      "titulo": "Chuva causa transtornos em São Paulo",
+      "resumo": "A cidade recebeu 80% do volume de chuva previsto, gerando alagamentos na Marginal Tietê e alterando voos no aeroporto de Congonhas. Os transtornos afetaram o tráfego e a mobilidade urbana.",
+      "porQueImporta": "O evento impacta a infraestrutura e a rotina dos moradores da capital.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuva-causa-transtornos-em-sao-paulo-cidade-recebeu-80-do-volume-esperado/"
+        }
+      ],
+      "updatedAt": "2026-11-19T01:47:23.000Z"
+    },
+    {
+      "clusterId": "89350ea152f8f557",
+      "slug": "de6f67eae77fb23b",
+      "titulo": "Flamengo bate Athletico-PR de virada e encaminha título do Brasileirão 2026",
+      "resumo": "O Flamengo venceu o Athletico-PR no Maracanã, com gols no primeiro tempo, garantindo a liderança do Brasileirão 2026. A derrota do Palmeiras para o Cruzeiro na mesma rodada aproximou ainda mais o título. O resultado consolidou a posição do Rubro-Negro na tabela.",
+      "porQueImporta": "A vitória coloca o Flamengo em posição de título, alterando o cenário competitivo do campeonato.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-vence-athletico-pr-e-encaminha-titulo-do-brasileirao-2026/"
+        }
+      ],
+      "updatedAt": "2026-11-19T01:32:56.000Z"
+    },
+    {
+      "clusterId": "514e86384143ac63",
+      "slug": "6a43cbd1485dd1e8",
+      "titulo": "Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
+      "resumo": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (18) que conversou com o presidente chinês, Xi Jinping, sobre inteligência artificial, mas que o ex-CEO da Nvidia, Jensen Huang, foi mencionado apenas \"brevemente\" durante a conversa. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp “Não discutimos isso. Talvez eu tenha me referido a isso apenas brevemente, porque é uma tragédia. É uma tragédia. Ele é um homem tão brilhante\", disse Trump em uma…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/18/trump-diz-que-nao-discutiu-situacao-do-ceo-da-nvidia-com-xi-jinping.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-19T00:34:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/9H7RFCdRmC2MglCVzzqTyAGIAIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/L/6jYQxiRZK7HTyor8v0kg/2026-11-18t090745z-1186125737-rc29qoadt42e-rtrmadp-3-apec-summit-trump-arrival.jpg"
+    },
+    {
+      "clusterId": "bdaac2c4cca826ed",
+      "slug": "ea601496570033a2",
+      "titulo": "Homem fica ferido após queda de elevador",
+      "resumo": "Um homem de 45 anos ficou ferido quando caiu de um elevador durante manutenção em Jandira, na Região Metropolitana de São Paulo. O acidente ocorreu na quarta-feira (18). O resgate foi realizado por helicóptero.",
+      "porQueImporta": "O caso destaca a necessidade de segurança em obras de manutenção de elevadores.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-fica-ferido-apos-queda-de-elevador-resgate-e-feito-por-helicoptero/"
+        }
+      ],
+      "updatedAt": "2026-11-18T23:56:36.000Z"
+    },
+    {
+      "clusterId": "35fa8a6cdb819bb4",
+      "slug": "bd556b55d53f94e0",
+      "titulo": "Carro destruído após acidente na BR-153 e ocupantes resgatados das ferragens",
+      "resumo": "Na BR-153, região norte do Tocantins, uma picape colidiu com um caminhão, deixando o veículo completamente destruído. O Corpo de Bombeiros registrou o acidente no trevo de Bandeirantes e encontrou a picape caída em uma ribanceira. Dois ocupantes ficaram presos às ferragens, mas estavam conscientes e conversando. Os bombeiros realizaram o resgate e encaminharam os feridos.",
+      "porQueImporta": "O acidente resultou em danos graves ao veículo e ferimentos, destacando a importância da segurança nas rodovias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/18/carro-fica-destruido-apos-acidente-na-br-153-e-ocupantes-sao-resgatados-das-ferragens-dizem-bombeiros.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-18T23:24:17.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/FctgA1KtkXihmQ-5gOdHCqXiR1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/6/uUVbiVTBu2K8wgZcGG9w/foto-e-montagem-vertical-2026-11-18t202031.098.jpg"
+    },
+    {
+      "clusterId": "c310b5eee1abfdb3",
+      "slug": "94e8bef4ec09110b",
+      "titulo": "Alagamentos deixam 45 famílias ilhadas em Cuiabá",
+      "resumo": "Alagamentos no distrito do Aguaçu, em Cuiabá, deixaram cerca de 45 famílias ilhadas. Equipes de bombeiros e da prefeitura tentam resgatar moradores que permanecem na comunidade, enquanto 15 recebem apoio em ponto de acolhimento e o restante foi encaminhado a casas de familiares. Aproximadamente 40 famílias ficaram desalojadas e continuam em busca de ajuda.",
+      "porQueImporta": "O evento destaca a vulnerabilidade de comunidades urbanas a inundações e a necessidade de resposta rápida das autoridades.",
       "categoria": "Enchente",
       "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/defesa-civil-de-betim-se-mobiliza-apos-chuva-forte-causar-alagamentos-e-quedas-de-muros.ghtml"
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/18/cerca-de-45-familias-ja-foram-resgatadas-apos-chuva-deixar-pessoas-ilhadas-em-distrito-de-cuiaba.ghtml"
         }
       ],
-      "updatedAt": "2026-11-18T17:04:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/D-64xe4xsZpplC0cqvc0EhDoQ14=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/P/zycpRcQwSulYXLhgnH9w/queda-muro-betim-2.png"
+      "updatedAt": "2026-11-18T23:19:36.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ygj8GMGy0MoQl-V9ymIENAYlCdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/X/f490NKRrA49DLXmTtuBQ/enem-12-.jpg"
     },
     {
-      "clusterId": "5cf390a1036f3e5a",
-      "slug": "a9ff68c2373fdf04",
-      "titulo": "Explosão em caldeira de fábrica da Klabin deixa feridos em SC",
-      "resumo": "Uma caldeira explodiu em uma fábrica de papéis em Otacílio Costa, na Serra de Santa Catarina, deixando ao menos três feridos. O Corpo de Bombeiros confirmou o incidente e o local foi evacuado e isolado. A Klabin é uma das maiores produtoras e exportadoras de papéis para embalagens do país.",
-      "porQueImporta": "O acidente pode afetar a produção e a segurança no setor de papel em Santa Catarina.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
+      "clusterId": "65ab24e63b52d401",
+      "slug": "63fc143a3091fad9",
+      "titulo": "São Paulo registra maior número de mortes no trânsito em 10 anos",
+      "resumo": "Entre janeiro e outubro de 2026, a capital registrou 867 mortes no trânsito, o maior total em uma década. Motociclistas foram responsáveis por 410 dessas fatalidades, enquanto pedestres representaram 332. O número de pedestres mortos é o segundo maior da série histórica. A tendência indica aumento dos acidentes fatais na cidade.",
+      "porQueImporta": "Os dados destacam a crescente vulnerabilidade de pedestres e motociclistas nas vias paulistanas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/18/explosao-em-caldeira-de-fabrica-da-klabin-deixa-feridos-em-sc.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/sao-paulo-tem-o-maior-numero-de-mortes-no-transito-em-10-anos-pedestres-e-motociclistas-sao-as-principais-vitimas.ghtml"
         }
       ],
-      "updatedAt": "2026-11-18T17:23:37.000Z"
+      "updatedAt": "2026-11-18T22:52:04.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/a0wRdqV8w-6XJh_k3NFdz6QpDPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/H/MVByrFR6GPpiBHx4Myvw/infosiga.jpg"
     },
     {
-      "clusterId": "1d8a28f5632511df",
-      "slug": "91ff879e59fecce2",
-      "titulo": "MP-SP solicita plano de recuperação após incêndio subterrâneo em Presidente Prudente",
-      "resumo": "O Ministério Público de São Paulo exigiu um plano de recuperação para a área afetada por um incêndio subterrâneo na Vila Furquim, em Presidente Prudente. O fogo iniciou em 12 de outubro de 2025 e só foi considerado extinto em 23 de janeiro de 2026, após mais de três meses de combate. Vistorias apontam novos descartes irregulares de resíduos na região, agravando o problema ambiental. A situação ainda permanece em avaliação pelas autoridades.",
-      "porQueImporta": "O incêndio e os descartes irregulares representam risco ambiental e de saúde pública na comunidade local.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/18/mp-cobra-plano-de-recuperacao-de-area-atingida-por-incendio-subterraneo-em-presidente-prudente.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-18T17:03:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Vm61J_LUzXZYv3O-Xccj7SuJamA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/C/yhoyI4RliBXIJzAqfsZA/whatsapp-image-2026-07-16-at-08.54.21.jpeg"
-    },
-    {
-      "clusterId": "e1b78fcfe737b1d9",
-      "slug": "61891d4d8916d684",
-      "titulo": "Cubatão registra 9 meses sem mortes em acidentes de trânsito, aponta levantamento",
-      "resumo": "Agentes de trânsito de Cubatão orientam motoristas Prefeitura de Cubatão Cubatão (SP) não registrou mortes em acidentes de trânsito nas vias urbanas entre janeiro e setembro de 2026. O balanço não inclui as ocorrências registradas em rodovias do Sistema Anchieta-Imigrantes (SAI), que cortam a cidade. Os dados foram compilados pela Companhia Municipal de Trânsito (CMT), com base nos dados repassados pela Polícia Militar (PM). De acordo com a prefeitura, na comparação com o mesmo período nos dois anos anteriores, 2026 é o primeiro onde não há acidentes com vítimas fatais nas vias urbanas da…",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/18/cubatao-registra-9-meses-sem-mortes-em-acidentes-de-transito-aponta-levantamento.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-18T17:02:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/P0oXA42k5ABVpfFJtVeKMnwdV74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/M/NoqIgNQqAA5npX7Fc4eQ/neymar-2012-2026-11-18t101409.150.jpg"
-    },
-    {
-      "clusterId": "4d01bdbae5579e07",
-      "slug": "7cad5b9fb6574a4c",
-      "titulo": "PF faz operação após queda de avião revelar rede internacional de tráfico",
-      "resumo": "A queda de uma aeronave carregada com cocaína, em setembro do ano passado, levou a PF a descobrir esquema internacional de tráfico de drogas",
-      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-faz-operacao-apos-queda-de-aviao-revelar-rede-internacional-de-trafico"
-        }
-      ],
-      "updatedAt": "2026-11-18T17:01:52.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/ab6bc8db-4926-477d-a904-da572b41c114-3x2-1.jpg"
-    },
-    {
-      "clusterId": "fa8d198e44391366",
-      "slug": "ebc36be97ad501b8",
-      "titulo": "Paraná registra mais de 20 mil raios em um dia",
-      "resumo": "Na terça-feira (17), o Paraná registrou 20.062 raios nuvem-solo, segundo o Simepar. Rolândia, no norte do estado, liderou o ranking com 1.426 descargas elétricas. Os municípios com maior número de raios ficaram nas regiões norte e noroeste do Paraná.",
-      "porQueImporta": "O alto número de descargas elétricas indica um período de intensa atividade atmosférica, com risco aumentado de incêndios e interrupções de energia.",
+      "clusterId": "cf9b82efeae15707",
+      "slug": "e14b8a34ecb9555a",
+      "titulo": "Chuva intensa forma cachoeiras em paredões de Chapada dos Guimarães",
+      "resumo": "Chuvas fortes em Chapada dos Guimarães, Mato Grosso, transformaram paredões em cachoeiras temporárias. O evento ocorreu após o estado registrar mais de 97 mil raios em 24 horas e entrar em alerta amarelo de tempestade. A confeiteira e empresária Tatiane Martins documentou o fenômeno em vídeo. As quedas d'água alteraram a paisagem local.",
+      "porQueImporta": "Ilustra a intensidade das chuvas recentes e seu impacto visual e ambiental na região.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/18/parana-registra-raios-veja-ranking.ghtml"
+          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/18/video-paredoes-ganham-cachoeiras-apos-chuvas-fortes-em-chapada-dos-guimaraes-mt.ghtml"
         }
       ],
-      "updatedAt": "2026-11-18T16:50:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CwGfSOZ-kPynlFAk4lxpEyl0nSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/WvQnxRQ26EQQs9C2k9NQ/raio1.png"
+      "updatedAt": "2026-11-18T22:44:04.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/gupYaEfz7_gFIkp344w1TU_LI18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/c/eJIwUFTByERdtLNad83A/design-sem-nome-4-.png"
     },
     {
-      "clusterId": "00f8b2e5bc164aed",
-      "slug": "da714a41fd04f9ea",
-      "titulo": "Homem considerado morto após acidente de motocicleta acorda no necrotério",
-      "resumo": "Um homem na Nigéria foi declarado morto depois de um acidente de motocicleta. Ele acabou acordando no necrotério, onde estava coberto de pó de cadáver. Durante o estado de consciência, fez um pedido. O caso chamou atenção pela situação incomum.",
-      "porQueImporta": "Ilustra a possibilidade de erro na avaliação de morte em acidentes graves.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/homem-dado-como-morto-acorda-em-necroterio-coberto-de-po-de-cadaver"
-        }
-      ],
-      "updatedAt": "2026-11-18T16:36:58.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/homemnecroteio.jpg"
-    },
-    {
-      "clusterId": "08ea0efda01ddce6",
-      "slug": "604ad89009e97bd8",
-      "titulo": "Desabamento de laje deixa feridos em BH",
-      "resumo": "Um desabamento de laje ocorreu no bairro Vera Cruz, em Belo Horizonte, na tarde de quarta-feira. O Corpo de Bombeiros enviou seis veículos ao local e resgatou três operários soterrados por volta das 12h50. Os feridos apresentaram fraturas e outros ferimentos, mas seu estado foi considerado estável. O incidente envolveu a queda de uma laje sobre trabalhadores.",
-      "porQueImporta": "O evento destaca riscos de segurança no trabalho em obras urbanas.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/desabamento-deixa-feridos-em-bh-diz-corpo-de-bombeiros.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-18T16:03:37.000Z"
-    },
-    {
-      "clusterId": "9bf4d95bac04531f",
-      "slug": "26f653490720a9af",
-      "titulo": "Após bacia transbordar em Betim, entenda como funcionam estruturas que controlam a água da chuva",
-      "resumo": "Após bacia transbordar em Betim, entenda como funcionam estruturas que controlam a água A água que invadiu a Avenida Juiz Marco Túlio Isaac e provocou transtornos no trânsito de Betim, na Grande BH, nesta quarta-feira (18), veio de uma bacia de detenção, estrutura projetada justamente para receber temporariamente a água da chuva e reduzir o risco de alagamentos. O g1 conversou com dois especialistas: o geógrafo, doutor em Geografia da Pontifícia Universidade Católica (PUC-MG), Antoniel Fernandes e a engenheira civil, graduada pelo Instituto Federal de MInas Gerais (IFMG) e especialista em…",
+      "clusterId": "b76c17cedb362d8a",
+      "slug": "2c7275e5529b42df",
+      "titulo": "Dois corpos são encontrados carbonizados após incêndio em casa na Mooca, em SP",
+      "resumo": "Um incêndio atingiu uma casa na tarde desta quarta-feira (18), na Rua Borges de Figueiredo, no bairro da Mooca, na Zona Leste de São Paulo. Dois corpos foram encontrados carbonizados em um cômodo do imóvel, no pavimento superior. Segundo a Secretaria da Segurança Pública (SSP), policiais militares foram acionados para atender à ocorrência e, ao chegarem ao endereço, constataram que as vítimas estavam no cômodo dos fundos da casa. A proprietária do imóvel relatou aos policiais que ouviu uma explosão pouco antes do início do incêndio. Ela informou que o cômodo era alugado desde setembro de 2025…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/apos-bacia-transbordar-em-betim-entenda-como-funcionam-estruturas-que-controlam-a-agua-da-chuva.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/dois-corpos-sao-encontrados-carbonizados-apos-incendio-em-casa-na-mooca-em-sp.ghtml"
         }
       ],
-      "updatedAt": "2026-11-18T15:57:37.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/443LzB3QzDu2tri5QU9Mo8pEGPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/f/5tU3NeQZqSJvNZxUIWBQ/whatsapp-image-2026-11-18-at-12.18.43.jpeg"
-    },
-    {
-      "clusterId": "7499d83fb35a7d76",
-      "slug": "00e96b2feb4f9069",
-      "titulo": "Semirreboque pega fogo na BR-174 em Caracaraí",
-      "resumo": "Um semirreboque incendiou na madrugada de quarta-feira (18) na BR-174, km 329, em Caracaraí, Sul de Roraima. O Corpo de Bombeiros controlou as chamas e não houve feridos. A Polícia Rodoviária Federal suspeita que o fogo tenha surgido em um rolamento do segundo eixo do veículo. O motorista conseguiu desatrelar o caminhão, evitando que ele fosse atingido pelas chamas.",
-      "porQueImporta": "O incidente destaca riscos de incêndios em veículos de carga em rodovias remotas.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/semirreboque-pega-fogo-na-br-174-em-caracarai-no-sul-de-roraima.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-18T15:50:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4cHfT5zO5avxvGYZmZtSVa6Srq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/c/52tUYBSUiGpKeRJoAibA/semirreboque-pega-fogo.jpg"
+      "updatedAt": "2026-11-18T22:36:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/SpCLMC9baz-0m-LjOzhJcrbN6NQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/clLPeZSAAZ6E9pcNNnDw/captura-de-tela-2026-11-18-192720.png"
     }
   ],
   "categorias": [
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "1d8a28f5632511df",
-          "slug": "91ff879e59fecce2",
-          "titulo": "MP-SP solicita plano de recuperação após incêndio subterrâneo em Presidente Prudente",
-          "resumo": "O Ministério Público de São Paulo exigiu um plano de recuperação para a área afetada por um incêndio subterrâneo na Vila Furquim, em Presidente Prudente. O fogo iniciou em 12 de outubro de 2025 e só foi considerado extinto em 23 de janeiro de 2026, após mais de três meses de combate. Vistorias apontam novos descartes irregulares de resíduos na região, agravando o problema ambiental. A situação ainda permanece em avaliação pelas autoridades.",
-          "porQueImporta": "O incêndio e os descartes irregulares representam risco ambiental e de saúde pública na comunidade local.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/18/mp-cobra-plano-de-recuperacao-de-area-atingida-por-incendio-subterraneo-em-presidente-prudente.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-18T17:03:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Vm61J_LUzXZYv3O-Xccj7SuJamA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/C/yhoyI4RliBXIJzAqfsZA/whatsapp-image-2026-07-16-at-08.54.21.jpeg"
-        },
-        {
-          "clusterId": "e1b78fcfe737b1d9",
-          "slug": "61891d4d8916d684",
-          "titulo": "Cubatão registra 9 meses sem mortes em acidentes de trânsito, aponta levantamento",
-          "resumo": "Agentes de trânsito de Cubatão orientam motoristas Prefeitura de Cubatão Cubatão (SP) não registrou mortes em acidentes de trânsito nas vias urbanas entre janeiro e setembro de 2026. O balanço não inclui as ocorrências registradas em rodovias do Sistema Anchieta-Imigrantes (SAI), que cortam a cidade. Os dados foram compilados pela Companhia Municipal de Trânsito (CMT), com base nos dados repassados pela Polícia Militar (PM). De acordo com a prefeitura, na comparação com o mesmo período nos dois anos anteriores, 2026 é o primeiro onde não há acidentes com vítimas fatais nas vias urbanas da…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/18/cubatao-registra-9-meses-sem-mortes-em-acidentes-de-transito-aponta-levantamento.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-18T17:02:26.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/P0oXA42k5ABVpfFJtVeKMnwdV74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/M/NoqIgNQqAA5npX7Fc4eQ/neymar-2012-2026-11-18t101409.150.jpg"
-        },
-        {
-          "clusterId": "4d01bdbae5579e07",
-          "slug": "7cad5b9fb6574a4c",
-          "titulo": "PF faz operação após queda de avião revelar rede internacional de tráfico",
-          "resumo": "A queda de uma aeronave carregada com cocaína, em setembro do ano passado, levou a PF a descobrir esquema internacional de tráfico de drogas",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-faz-operacao-apos-queda-de-aviao-revelar-rede-internacional-de-trafico"
-            }
-          ],
-          "updatedAt": "2026-11-18T17:01:52.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/11/ab6bc8db-4926-477d-a904-da572b41c114-3x2-1.jpg"
-        },
-        {
-          "clusterId": "08ea0efda01ddce6",
-          "slug": "604ad89009e97bd8",
-          "titulo": "Desabamento de laje deixa feridos em BH",
-          "resumo": "Um desabamento de laje ocorreu no bairro Vera Cruz, em Belo Horizonte, na tarde de quarta-feira. O Corpo de Bombeiros enviou seis veículos ao local e resgatou três operários soterrados por volta das 12h50. Os feridos apresentaram fraturas e outros ferimentos, mas seu estado foi considerado estável. O incidente envolveu a queda de uma laje sobre trabalhadores.",
-          "porQueImporta": "O evento destaca riscos de segurança no trabalho em obras urbanas.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/desabamento-deixa-feridos-em-bh-diz-corpo-de-bombeiros.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-18T16:03:37.000Z"
-        },
-        {
-          "clusterId": "9bf4d95bac04531f",
-          "slug": "26f653490720a9af",
-          "titulo": "Após bacia transbordar em Betim, entenda como funcionam estruturas que controlam a água da chuva",
-          "resumo": "Após bacia transbordar em Betim, entenda como funcionam estruturas que controlam a água A água que invadiu a Avenida Juiz Marco Túlio Isaac e provocou transtornos no trânsito de Betim, na Grande BH, nesta quarta-feira (18), veio de uma bacia de detenção, estrutura projetada justamente para receber temporariamente a água da chuva e reduzir o risco de alagamentos. O g1 conversou com dois especialistas: o geógrafo, doutor em Geografia da Pontifícia Universidade Católica (PUC-MG), Antoniel Fernandes e a engenheira civil, graduada pelo Instituto Federal de MInas Gerais (IFMG) e especialista em…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/apos-bacia-transbordar-em-betim-entenda-como-funcionam-estruturas-que-controlam-a-agua-da-chuva.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-18T15:57:37.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/443LzB3QzDu2tri5QU9Mo8pEGPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/f/5tU3NeQZqSJvNZxUIWBQ/whatsapp-image-2026-11-18-at-12.18.43.jpeg"
-        },
-        {
-          "clusterId": "10e05e43c78b7826",
-          "slug": "444027faeba887c6",
-          "titulo": "Estudante de medicina morre após caminhonete capotar em rodovia no Ceará",
-          "resumo": "De acordo com a PRF (Polícia Rodoviária Federal), chovia forte no momento do acidente, caminhonete saiu da pista e capotou",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ce/estudante-de-medicina-morre-apos-caminhonete-capotar-em-rodovia-no-ceara/"
-            }
-          ],
-          "updatedAt": "2026-11-18T15:00:52.000Z"
-        },
-        {
-          "clusterId": "eba4a9dd8faef64d",
-          "slug": "34daf6c609387f81",
-          "titulo": "Papa Leão XIV é atingido por objeto no rosto a caminho de missa no Peru",
-          "resumo": "Durante a última missa em Lima, o Papa Leão XIV foi atingido no rosto por um terço lançado por um fiel. O incidente ocorreu enquanto ele se dirigia ao local da cerimônia. O Papa reagiu rapidamente, levantando a mão ao olho afetado. O evento foi registrado em vídeo e divulgado pelas autoridades locais.",
-          "porQueImporta": "O ataque a uma figura religiosa de destaque pode gerar preocupação sobre segurança em eventos públicos.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/16/papa-leao-xiv-e-atingido-por-objeto-no-rosto-a-caminho-de-sua-ultima-missa-no-peru-veja-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-16T22:03:34.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/_1Awj4vxMwI9G_c6i51J1bfmKgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/XAVTRvTX6jG0vrxIU3JQ/2026-11-16t183528z-2096680738-rc21poainw61-rtrmadp-3-pope-latam-peru.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "7d4942d3de5064a4",
-          "slug": "9f8255c177e603c5",
-          "titulo": "Alagamentos e quedas de árvores e muros em Várzea Grande e Betim",
-          "resumo": "Na manhã de quarta-feira, chuvas intensas causaram alagamentos e derrubada de árvores em bairros de Várzea Grande, na região metropolitana de Cuiabá, levando a Defesa Civil estadual a emitir alerta severo. Em Betim, na Grande BH, fortes chuvas provocaram cinco quedas de muros e diversos imóveis alagados, com a Defesa Civil recebendo 21 ocorrências até 10h16.",
-          "porQueImporta": "As inundações e danos estruturais representam risco à segurança e à infraestrutura das comunidades afetadas.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/defesa-civil-de-betim-se-mobiliza-apos-chuva-forte-causar-alagamentos-e-quedas-de-muros.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-18T17:04:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/D-64xe4xsZpplC0cqvc0EhDoQ14=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/P/zycpRcQwSulYXLhgnH9w/queda-muro-betim-2.png"
-        },
-        {
-          "clusterId": "94136d010aa3996c",
-          "slug": "0b94e620229ec1ae",
-          "titulo": "Bom Jesus do Itabapoana registra 69 atendimentos após temporal",
-          "resumo": "O município de Bom Jesus do Itabapoana, no Norte Fluminense, registrou 69 atendimentos nesta quarta-feira (18) devido aos estragos provocados pelo temporal de segunda-feira (16). A Defesa Civil enviou caminhões-pipa para reforçar o abastecimento de água e auxiliar na limpeza. O bairro Asa Branca concentrou o maior número de ocorrências, com 50 atendimentos, enquanto Santa Rosa registrou 14.",
-          "porQueImporta": "O número elevado de atendimentos indica a gravidade dos impactos do temporal na comunidade local.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/18/bom-jesus-do-itabapoana-registra-69-atendimentos-apos-temporal-que-causou-alagamentos-e-destelhamentos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-18T15:46:47.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Dn7OsXybOFy44LBMfGoEsELf2NQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/9/hvDgB0RmGqB5cXJDxHaw/whatsapp-image-2026-11-18-at-10.30.05-1-.jpeg"
-        },
-        {
-          "clusterId": "1409fcf621321f4a",
-          "slug": "d916cfdfe4c84866",
-          "titulo": "Bombeiros descartam rompimento de barragem e atribuem alagamento à cheia de rio em Cuiabá",
-          "resumo": "Em Cuiabá, moradores do Distrito do Aguaçu ficaram ilhados após alagamentos. O Corpo de Bombeiros descartou a hipótese de rompimento de barragem, atribuindo o alagamento ao aumento do nível do Rio Coxipó-açu, que subiu 1,62 metros em duas horas. A elevação foi causada por fortes chuvas na região.",
-          "porQueImporta": "O evento destaca a vulnerabilidade de áreas urbanas a enchentes causadas por chuvas intensas.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/18/bombeiros-descartam-rompimento-de-barragem-e-atribuem-alagamento-a-cheia-de-rio-em-cuiaba.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-18T15:21:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jC1se_koqMGrHqwfY3M5t-qqo8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/s/Xz1BoRThe98n2AsOG6BA/whatsapp-image-2026-11-18-at-11.19.23.jpeg"
-        }
-      ]
-    },
     {
       "slug": "acidente-de-transito",
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "00f8b2e5bc164aed",
-          "slug": "da714a41fd04f9ea",
-          "titulo": "Homem considerado morto após acidente de motocicleta acorda no necrotério",
-          "resumo": "Um homem na Nigéria foi declarado morto depois de um acidente de motocicleta. Ele acabou acordando no necrotério, onde estava coberto de pó de cadáver. Durante o estado de consciência, fez um pedido. O caso chamou atenção pela situação incomum.",
-          "porQueImporta": "Ilustra a possibilidade de erro na avaliação de morte em acidentes graves.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "Metrópoles",
-              "url": "https://www.metropoles.com/mundo/homem-dado-como-morto-acorda-em-necroterio-coberto-de-po-de-cadaver"
-            }
-          ],
-          "updatedAt": "2026-11-18T16:36:58.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/11/homemnecroteio.jpg"
-        },
-        {
-          "clusterId": "e5fb79295e7f574e",
-          "slug": "2ce4a8aeb718100e",
-          "titulo": "Professora de 31 anos morre após colisão com búfalo na BR-364",
-          "resumo": "A professora Ciliane Silva, de 31 anos, morreu na noite de terça-feira (17) após colidir a motocicleta que pilotava contra um búfalo na BR-364, perto da entrada do Ramal 7, em Cruzeiro do Sul, Acre. Ela foi socorrida pelo SAMU e encaminhada ao hospital da Vila Santa Luzia, onde sofreu parada cardiorrespiratória. As equipes médicas tentaram reanimação, mas não conseguiram salvar a vítima.",
-          "porQueImporta": "O incidente destaca os riscos de animais soltos em rodovias e a necessidade de medidas de segurança para motoristas.",
+          "clusterId": "de7e24d439913b41",
+          "slug": "d9342238693c12cc",
+          "titulo": "Motorista avança sinal vermelho e atinge idoso de bicicleta e casal de motociclista em Boa Vista",
+          "resumo": "Um motorista de caminhonete avançou sinal vermelho no cruzamento da avenida Venezuela com a avenida Mário Homem de Melo, em Boa Vista, e atropelou um idoso de bicicleta e um casal em motocicleta. Antes de avançar, o motorista já havia batido em pelo menos dois carros. O casal sofreu ferimentos leves e foi atendido no local.",
+          "porQueImporta": "O acidente destaca a gravidade de infrações de trânsito e a necessidade de fiscalização e conscientização sobre o uso de semáforos.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/11/18/professora-de-31-anos-morre-apos-colidir-moto-contra-bufalo-em-rodovia-no-acre.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/motorista-avanca-sinal-vermelho-e-atinge-idoso-de-bicicleta-e-casal-de-motociclista-em-boa-vista.ghtml"
             }
           ],
-          "updatedAt": "2026-11-18T15:42:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/RfwyKS0LnOM0--mQgdDkIbA-00o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/0/fOrbG5Q92KP9NVbRSSZw/midia-de-distribuicao-g1-1-.png"
+          "updatedAt": "2026-11-19T00:36:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1pDjeWi1LMEqifb-5EJukyv2gWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/M/NR1V87QjSh5o8VJWJjSw/acidente-mecejana.jpg"
+        },
+        {
+          "clusterId": "35fa8a6cdb819bb4",
+          "slug": "bd556b55d53f94e0",
+          "titulo": "Carro destruído após acidente na BR-153 e ocupantes resgatados das ferragens",
+          "resumo": "Na BR-153, região norte do Tocantins, uma picape colidiu com um caminhão, deixando o veículo completamente destruído. O Corpo de Bombeiros registrou o acidente no trevo de Bandeirantes e encontrou a picape caída em uma ribanceira. Dois ocupantes ficaram presos às ferragens, mas estavam conscientes e conversando. Os bombeiros realizaram o resgate e encaminharam os feridos.",
+          "porQueImporta": "O acidente resultou em danos graves ao veículo e ferimentos, destacando a importância da segurança nas rodovias.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/18/carro-fica-destruido-apos-acidente-na-br-153-e-ocupantes-sao-resgatados-das-ferragens-dizem-bombeiros.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-18T23:24:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/FctgA1KtkXihmQ-5gOdHCqXiR1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/6/uUVbiVTBu2K8wgZcGG9w/foto-e-montagem-vertical-2026-11-18t202031.098.jpg"
+        },
+        {
+          "clusterId": "65ab24e63b52d401",
+          "slug": "63fc143a3091fad9",
+          "titulo": "São Paulo registra maior número de mortes no trânsito em 10 anos",
+          "resumo": "Entre janeiro e outubro de 2026, a capital registrou 867 mortes no trânsito, o maior total em uma década. Motociclistas foram responsáveis por 410 dessas fatalidades, enquanto pedestres representaram 332. O número de pedestres mortos é o segundo maior da série histórica. A tendência indica aumento dos acidentes fatais na cidade.",
+          "porQueImporta": "Os dados destacam a crescente vulnerabilidade de pedestres e motociclistas nas vias paulistanas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/sao-paulo-tem-o-maior-numero-de-mortes-no-transito-em-10-anos-pedestres-e-motociclistas-sao-as-principais-vitimas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-18T22:52:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/a0wRdqV8w-6XJh_k3NFdz6QpDPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/H/MVByrFR6GPpiBHx4Myvw/infosiga.jpg"
         },
         {
           "clusterId": "c01792381f71fe3b",
           "slug": "cd418fc634b2a11d",
-          "titulo": "Acidente de ônibus mata 13 trabalhadores em Abdanan, Irã",
-          "resumo": "Um ônibus que transportava funcionários de uma empresa petrolífera tombou em Abdanan, resultando na morte de 13 trabalhadores. Centenas de pessoas saíram às ruas para protestar contra o governo e apoiar a restauração da monarquia. Os manifestantes exigiram a renúncia de autoridades e repetiram slogans em favor da antiga família Pahlavi.",
-          "porQueImporta": "O incidente destaca a tensão política no Irã e a reação pública a acidentes de trabalho.",
+          "titulo": "Acidente de ônibus causa morte de 13 trabalhadores em Abdanan",
+          "resumo": "Um ônibus que transportava funcionários de uma empresa petrolífera tombou em Abdanan, resultando na morte de 13 trabalhadores. Centenas de pessoas saíram às ruas para protestar, exigindo a renúncia das autoridades e expressando apoio à antiga monarquia iraniana. Os manifestantes gritaram frases como \"Autoridades incompetentes, renunciem\" e \"Esta é a batalha final, Pahlavi vai voltar\".",
+          "porQueImporta": "O incidente destaca a tensão política e social no Irã, refletindo descontentamento com o governo atual.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
@@ -410,41 +246,119 @@
       ]
     },
     {
-      "slug": "explosao",
-      "label": "Explosão",
+      "slug": "geral",
+      "label": "Geral",
       "stories": [
         {
-          "clusterId": "5cf390a1036f3e5a",
-          "slug": "a9ff68c2373fdf04",
-          "titulo": "Explosão em caldeira de fábrica da Klabin deixa feridos em SC",
-          "resumo": "Uma caldeira explodiu em uma fábrica de papéis em Otacílio Costa, na Serra de Santa Catarina, deixando ao menos três feridos. O Corpo de Bombeiros confirmou o incidente e o local foi evacuado e isolado. A Klabin é uma das maiores produtoras e exportadoras de papéis para embalagens do país.",
-          "porQueImporta": "O acidente pode afetar a produção e a segurança no setor de papel em Santa Catarina.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "89350ea152f8f557",
+          "slug": "de6f67eae77fb23b",
+          "titulo": "Flamengo bate Athletico-PR de virada e encaminha título do Brasileirão 2026",
+          "resumo": "O Flamengo venceu o Athletico-PR no Maracanã, com gols no primeiro tempo, garantindo a liderança do Brasileirão 2026. A derrota do Palmeiras para o Cruzeiro na mesma rodada aproximou ainda mais o título. O resultado consolidou a posição do Rubro-Negro na tabela.",
+          "porQueImporta": "A vitória coloca o Flamengo em posição de título, alterando o cenário competitivo do campeonato.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/18/explosao-em-caldeira-de-fabrica-da-klabin-deixa-feridos-em-sc.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-vence-athletico-pr-e-encaminha-titulo-do-brasileirao-2026/"
             }
           ],
-          "updatedAt": "2026-11-18T17:23:37.000Z"
+          "updatedAt": "2026-11-19T01:32:56.000Z"
         },
         {
-          "clusterId": "d1308b69c6d94887",
-          "slug": "1efd43a0d25aa805",
-          "titulo": "Petroleiro pega fogo no Estreito de Ormuz após atingir mina",
-          "resumo": "Um petroleiro sofreu danos graves e pegou fogo depois de atingir uma mina na parte leste do Estreito de Ormuz, segundo o Exército iraniano. O incidente ocorreu ao norte de Khasab, em Omã, e a tripulação permanece desaparecida. A UKMTO não confirmou mortes, mas registrou o desaparecimento de um tripulante. A embarcação já havia sido atacada anteriormente.",
-          "porQueImporta": "O evento destaca a crescente tensão marítima na região e os riscos para o comércio de petróleo.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "514e86384143ac63",
+          "slug": "6a43cbd1485dd1e8",
+          "titulo": "Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
+          "resumo": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (18) que conversou com o presidente chinês, Xi Jinping, sobre inteligência artificial, mas que o ex-CEO da Nvidia, Jensen Huang, foi mencionado apenas \"brevemente\" durante a conversa. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp “Não discutimos isso. Talvez eu tenha me referido a isso apenas brevemente, porque é uma tragédia. É uma tragédia. Ele é um homem tão brilhante\", disse Trump em uma…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/18/trump-diz-que-nao-discutiu-situacao-do-ceo-da-nvidia-com-xi-jinping.ghtml"
             }
           ],
-          "updatedAt": "2026-11-17T09:51:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg"
+          "updatedAt": "2026-11-19T00:34:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9H7RFCdRmC2MglCVzzqTyAGIAIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/L/6jYQxiRZK7HTyor8v0kg/2026-11-18t090745z-1186125737-rc29qoadt42e-rtrmadp-3-apec-summit-trump-arrival.jpg"
+        },
+        {
+          "clusterId": "b76c17cedb362d8a",
+          "slug": "2c7275e5529b42df",
+          "titulo": "Dois corpos são encontrados carbonizados após incêndio em casa na Mooca, em SP",
+          "resumo": "Um incêndio atingiu uma casa na tarde desta quarta-feira (18), na Rua Borges de Figueiredo, no bairro da Mooca, na Zona Leste de São Paulo. Dois corpos foram encontrados carbonizados em um cômodo do imóvel, no pavimento superior. Segundo a Secretaria da Segurança Pública (SSP), policiais militares foram acionados para atender à ocorrência e, ao chegarem ao endereço, constataram que as vítimas estavam no cômodo dos fundos da casa. A proprietária do imóvel relatou aos policiais que ouviu uma explosão pouco antes do início do incêndio. Ela informou que o cômodo era alugado desde setembro de 2025…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/dois-corpos-sao-encontrados-carbonizados-apos-incendio-em-casa-na-mooca-em-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-18T22:36:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SpCLMC9baz-0m-LjOzhJcrbN6NQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/clLPeZSAAZ6E9pcNNnDw/captura-de-tela-2026-11-18-192720.png"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "35af2a69bd1ed16d",
+          "slug": "e2e960b2a42969bc",
+          "titulo": "Chuva causa transtornos em São Paulo",
+          "resumo": "A cidade recebeu 80% do volume de chuva previsto, gerando alagamentos na Marginal Tietê e alterando voos no aeroporto de Congonhas. Os transtornos afetaram o tráfego e a mobilidade urbana.",
+          "porQueImporta": "O evento impacta a infraestrutura e a rotina dos moradores da capital.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuva-causa-transtornos-em-sao-paulo-cidade-recebeu-80-do-volume-esperado/"
+            }
+          ],
+          "updatedAt": "2026-11-19T01:47:23.000Z"
+        },
+        {
+          "clusterId": "c310b5eee1abfdb3",
+          "slug": "94e8bef4ec09110b",
+          "titulo": "Alagamentos deixam 45 famílias ilhadas em Cuiabá",
+          "resumo": "Alagamentos no distrito do Aguaçu, em Cuiabá, deixaram cerca de 45 famílias ilhadas. Equipes de bombeiros e da prefeitura tentam resgatar moradores que permanecem na comunidade, enquanto 15 recebem apoio em ponto de acolhimento e o restante foi encaminhado a casas de familiares. Aproximadamente 40 famílias ficaram desalojadas e continuam em busca de ajuda.",
+          "porQueImporta": "O evento destaca a vulnerabilidade de comunidades urbanas a inundações e a necessidade de resposta rápida das autoridades.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/18/cerca-de-45-familias-ja-foram-resgatadas-apos-chuva-deixar-pessoas-ilhadas-em-distrito-de-cuiaba.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-18T23:19:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ygj8GMGy0MoQl-V9ymIENAYlCdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/X/f490NKRrA49DLXmTtuBQ/enem-12-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "bdaac2c4cca826ed",
+          "slug": "ea601496570033a2",
+          "titulo": "Homem fica ferido após queda de elevador",
+          "resumo": "Um homem de 45 anos ficou ferido quando caiu de um elevador durante manutenção em Jandira, na Região Metropolitana de São Paulo. O acidente ocorreu na quarta-feira (18). O resgate foi realizado por helicóptero.",
+          "porQueImporta": "O caso destaca a necessidade de segurança em obras de manutenção de elevadores.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-fica-ferido-apos-queda-de-elevador-resgate-e-feito-por-helicoptero/"
+            }
+          ],
+          "updatedAt": "2026-11-18T23:56:36.000Z"
         }
       ]
     },
@@ -453,61 +367,21 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "fa8d198e44391366",
-          "slug": "ebc36be97ad501b8",
-          "titulo": "Paraná registra mais de 20 mil raios em um dia",
-          "resumo": "Na terça-feira (17), o Paraná registrou 20.062 raios nuvem-solo, segundo o Simepar. Rolândia, no norte do estado, liderou o ranking com 1.426 descargas elétricas. Os municípios com maior número de raios ficaram nas regiões norte e noroeste do Paraná.",
-          "porQueImporta": "O alto número de descargas elétricas indica um período de intensa atividade atmosférica, com risco aumentado de incêndios e interrupções de energia.",
+          "clusterId": "cf9b82efeae15707",
+          "slug": "e14b8a34ecb9555a",
+          "titulo": "Chuva intensa forma cachoeiras em paredões de Chapada dos Guimarães",
+          "resumo": "Chuvas fortes em Chapada dos Guimarães, Mato Grosso, transformaram paredões em cachoeiras temporárias. O evento ocorreu após o estado registrar mais de 97 mil raios em 24 horas e entrar em alerta amarelo de tempestade. A confeiteira e empresária Tatiane Martins documentou o fenômeno em vídeo. As quedas d'água alteraram a paisagem local.",
+          "porQueImporta": "Ilustra a intensidade das chuvas recentes e seu impacto visual e ambiental na região.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/18/parana-registra-raios-veja-ranking.ghtml"
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/18/video-paredoes-ganham-cachoeiras-apos-chuvas-fortes-em-chapada-dos-guimaraes-mt.ghtml"
             }
           ],
-          "updatedAt": "2026-11-18T16:50:35.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CwGfSOZ-kPynlFAk4lxpEyl0nSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/WvQnxRQ26EQQs9C2k9NQ/raio1.png"
-        },
-        {
-          "clusterId": "a40e9dad822fa927",
-          "slug": "472da40d42ab5b7d",
-          "titulo": "Inmet emite alerta de tempestade para cidades do Sul do Rio e Costa Verde",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou, nesta quarta-feira, um alerta de tempestade para diversas cidades do Sul do Rio de Janeiro e da Costa Verde. O aviso, de nível amarelo, entrou em vigor às 0h e permanecerá válido até às 23h59. Entre os municípios em alerta estão Barra do Piraí, Barra Mansa, Comendador Levy Gasparian, Itatiaia, Paraíba do Sul, Porto Real, Quatis, Resende, Rio das Flores, Sapucaia, Três Rios, Valença e Vassouras.",
-          "porQueImporta": "O alerta indica risco de chuvas intensas que podem causar alagamentos e transtornos nas áreas afetadas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/18/inmet-emite-alerta-de-tempestade-para-cidades-do-sul-do-rio-e-costa-verde.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-18T15:35:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WGNTu-3Z_0ih4rLq86nYO2Xu4w0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/5/bcjftuQZerg55y3eaC6w/image-2026-06-16t112742.495-1-.png"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "7499d83fb35a7d76",
-          "slug": "00e96b2feb4f9069",
-          "titulo": "Semirreboque pega fogo na BR-174 em Caracaraí",
-          "resumo": "Um semirreboque incendiou na madrugada de quarta-feira (18) na BR-174, km 329, em Caracaraí, Sul de Roraima. O Corpo de Bombeiros controlou as chamas e não houve feridos. A Polícia Rodoviária Federal suspeita que o fogo tenha surgido em um rolamento do segundo eixo do veículo. O motorista conseguiu desatrelar o caminhão, evitando que ele fosse atingido pelas chamas.",
-          "porQueImporta": "O incidente destaca riscos de incêndios em veículos de carga em rodovias remotas.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/semirreboque-pega-fogo-na-br-174-em-caracarai-no-sul-de-roraima.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-18T15:50:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4cHfT5zO5avxvGYZmZtSVa6Srq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/c/52tUYBSUiGpKeRJoAibA/semirreboque-pega-fogo.jpg"
+          "updatedAt": "2026-11-18T22:44:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/gupYaEfz7_gFIkp344w1TU_LI18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/c/eJIwUFTByERdtLNad83A/design-sem-nome-4-.png"
         }
       ]
     },
@@ -519,8 +393,8 @@
           "clusterId": "3d6678f5756798be",
           "slug": "c0f88a8c4525472e",
           "titulo": "Avião militar russo cai na Sibéria",
-          "resumo": "Um avião de transporte militar An‑12 caiu perto do vilarejo de Yagunovo, na região de Kemerovo, na Sibéria. O acidente resultou na morte de todas as pessoas a bordo, com relatos de 17 a 19 vítimas. O Ministério da Defesa da Rússia apontou uma falha técnica como causa preliminar, enquanto o governador local confirmou o incidente em seu canal oficial. Imagens de câmeras de segurança mostram o momento do impacto.",
-          "porQueImporta": "O acidente destaca riscos operacionais de aeronaves militares em operação na Rússia.",
+          "resumo": "Um avião de transporte militar russo do modelo An-12 caiu perto do vilarejo de Yagunovo, na região de Kemerovo, na Sibéria, matando as 17 pessoas a bordo. O acidente foi confirmado pelo governador local, Ilya Seredyuk, e imagens de uma câmera de segurança mostram o momento da queda. O jornal russo Izvestia reportou o incidente na terça-feira.",
+          "porQueImporta": "O acidente resultou em todas as vidas a bordo e destaca a segurança de aeronaves militares na região.",
           "categoria": "Acidente aéreo",
           "categoriaSlug": "acidente-aereo",
           "sources": [
@@ -531,6 +405,29 @@
           ],
           "updatedAt": "2026-11-17T15:25:38.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/_0enU53p32GhxznF0dXr0NID2ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/0/bNA8e3Q5OdfGxVXCOsJw/novo-projeto-3-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "d1308b69c6d94887",
+          "slug": "1efd43a0d25aa805",
+          "titulo": "Petroleiro pega fogo no Estreito de Ormuz",
+          "resumo": "Um petroleiro sofreu graves danos e pegou fogo depois de atingir uma mina na parte leste do Estreito de Ormuz, segundo comunicado do Exército iraniano. A embarcação estava a norte de Khasab, em Omã, e a tripulação desapareceu após o incêndio. A UKMTO relatou que o navio já havia sido atacado anteriormente.",
+          "porQueImporta": "O incidente pode afetar a segurança marítima e o fluxo de petróleo na região.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-17T09:51:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg"
         }
       ]
     }
