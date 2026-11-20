@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-11-20T07:40:11.167Z",
+  "ranAt": "2026-11-20T17:09:42.673Z",
   "editionDate": "2026-11-20",
-  "hourUtc": 7,
-  "outcome": "skipped",
-  "reason": "fora da janela (7h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 17,
+  "outcome": "generated",
+  "reason": "\"Tempestades e acidentes marcam dia de 20 de novembro\" (4 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
