@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-11-19T13:46:20.451Z",
-  "editionDate": "2026-11-19",
-  "hourUtc": 13,
-  "outcome": "generated",
-  "reason": "\"Incêndios domésticos, violência armada e riscos de seca dominam o panorama de desastres\" (4 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-11-20T07:40:11.167Z",
+  "editionDate": "2026-11-20",
+  "hourUtc": 7,
+  "outcome": "skipped",
+  "reason": "fora da janela (7h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }

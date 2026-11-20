@@ -1,178 +1,123 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T23:10:23.256Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T07:40:11.167Z",
   "home": [
     {
-      "clusterId": "39d9cfe84d49cbe5",
-      "slug": "8a23ad06383c2b3b",
-      "titulo": "Tremor de terra sentido em Martinho Campos, Minas Gerais",
-      "resumo": "Um tremor de terra foi registrado em Martinho Campos, no Centro-Oeste de Minas Gerais, por volta das 12h45. A magnitude foi de 3,3, segundo a Brazil Earthquakes. O abalo foi sentido por moradores em diferentes locais do município, incluindo a servidora pública Cleide Carvalho, que estava na Câmara Municipal. O tremor causou susto entre os residentes.",
-      "porQueImporta": "O evento demonstra atividade sísmica na região, relevante para a avaliação de risco e monitoramento geológico.",
+      "clusterId": "b53c7543c1115473",
+      "slug": "8d98b125229fff70",
+      "titulo": "Senadores propõem prorrogar suspensão da dívida do RS por até 12 meses",
+      "resumo": "Senadores apresentaram projeto que estende a suspensão da dívida do Rio Grande do Sul por até doze meses. O alívio financeiro visa reduzir a pressão sobre o estado após as enchentes. O projeto prevê impacto de R$ 2,1 bilhões nas receitas da União.",
+      "porQueImporta": "A medida pode aliviar a carga fiscal do estado e reduzir a pressão sobre o orçamento federal.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/grande-angular/senadores-propoem-prorrogar-suspensao-da-divida-do-rs-por-ate-12-meses"
+        }
+      ],
+      "updatedAt": "2026-11-20T07:00:24.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/senado-federal-tenta-concluir-a-votacao-dos-destaques-do-projeto-de-ajuste-fiscal-metropoles-16-scaled.jpg"
+    },
+    {
+      "clusterId": "ff3e1cc30d3ad2fb",
+      "slug": "e1e576cd2021f135",
+      "titulo": "Feriado da Consciência Negra terá chuva e tempestades em todo o Brasil",
+      "resumo": "No feriado da Consciência Negra, o Brasil terá pancadas fortes e trovoadas em todo o território. Um alerta de perigo potencial foi emitido pelas autoridades meteorológicas. As temperaturas podem chegar a 38 °C no Nordeste. A previsão indica que a chuva será intensa em diversas regiões.",
+      "porQueImporta": "A previsão de tempestades pode afetar a mobilidade e a segurança das pessoas que celebram o feriado.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/feriado-da-consciencia-negra-tera-chuva-e-tempestades-em-todo-o-brasil"
+        }
+      ],
+      "updatedAt": "2026-11-20T07:00:21.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/chuva-feriado-jpg.jpeg"
+    },
+    {
+      "clusterId": "b2fc54cb172fd0fb",
+      "slug": "fc3480c2d1116b1f",
+      "titulo": "Inmet emite alertas de temporal para estados do Centro-Sul neste feriado",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alertas de temporal para vários estados do Centro-Sul do Brasil, incluindo Santa Catarina, Rio Grande do Sul, Paraná, São Paulo, Minas Gerais, Espírito Santo, Mato Grosso do Sul e Bahia. A previsão indica chuvas com acumulados de até 100 milímetros ao longo do dia, ventos de até 100 km/h e possibilidade de queda de granizo. Os alertas foram emitidos para o período do feriado, alertando a população sobre condições climáticas severas.",
+      "porQueImporta": "As condições climáticas previstas podem causar inundações, danos a propriedades e riscos à segurança pública durante o feriado.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/inmet-emite-alertas-de-temporal-para-estados-no-centro-sul-neste-feriado/"
+        }
+      ],
+      "updatedAt": "2026-11-20T06:33:37.000Z"
+    },
+    {
+      "clusterId": "36d6cbb9f2904a32",
+      "slug": "4236df9b6e4212e4",
+      "titulo": "Loja de calçados em Campinas é destruída por enxurrada",
+      "resumo": "Uma loja de calçados em Campinas, SP, foi destruída por uma enxurrada intensa que ocorreu na quarta-feira. O vídeo do evento viralizou nas redes sociais, gerando centenas de mensagens de apoio aos proprietários. A dona, Fernanda Demonte, agradeceu a solidariedade no Instagram. O temporal causou danos em vários pontos da cidade.",
+      "porQueImporta": "Ilustra o impacto de eventos climáticos extremos nas atividades comerciais locais.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/20/video-loja-calcados-destruida-enxurrada-viraliza-dona-agradece-rede-solidariedade.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-20T06:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Xx5bJSoboVfvBo1JK_SPiR15DbQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/w/maioU1S0yq6f746tCraw/copia-de-area-1-2026-11-19t220418.647.png"
+    },
+    {
+      "clusterId": "0595581d5c36b1af",
+      "slug": "2f536bed3d080195",
+      "titulo": "Previsão do tempo para sexta-feira em Joinville e Rio Branco",
+      "resumo": "Em Joinville, a sexta-feira apresenta sol e chuva pela manhã, trovoadas no período da tarde e pancadas de chuva à noite, com temperaturas entre 23ºC e 26ºC. Em Rio Branco, o dia começa com sol e muitas nuvens, seguido de pancadas de chuva à tarde e temporal à noite, com máximas de 37ºC e mínimas de 25ºC.",
+      "porQueImporta": "Informação útil para planejamento de atividades ao ar livre e mobilidade urbana.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/19/video-tremor-de-magnitude-33-e-sentido-no-interior-de-mg.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/tremor-de-terra-de-magnitude-27-atinge-martinho-campos-em-mg/"
+          "url": "https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-e-pancadas-de-chuva-a-tarde-a-noite-ocorre-temporal.ghtml"
         }
       ],
-      "updatedAt": "2026-11-19T21:59:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/U59qSdqFh1EcooUhAoQlraLXC0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/0/cywX8vQjir8XgDcNFEjQ/martinho-campos.jpeg"
+      "updatedAt": "2026-11-20T04:13:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/2ipCsaIKZiV5auP_eqYR2i6TOec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/G/BCIuWLSlSBUqOGWABDFA/previsao-tempo-rio-branco-20261120-010113.jpeg"
     },
     {
-      "clusterId": "adcfdb0a9a0d08ea",
-      "slug": "d60f6f07895801d8",
-      "titulo": "Fumaça encobre Santarém e qualidade do ar chega a nível ruim no Pará",
-      "resumo": "Fumaça das queimadas na região do Pará, agravada por estiagem prolongada, cobre a cidade de Santarém, reduzindo a qualidade do ar a nível ruim. Situações semelhantes foram registradas no Marajó e no Amazonas. A poluição atmosférica tem impacto na saúde da população e na visibilidade.",
-      "porQueImporta": "A deterioração da qualidade do ar pode causar problemas respiratórios e limitar a mobilidade urbana.",
-      "categoria": "Incêndio florestal",
-      "categoriaSlug": "incendio-florestal",
+      "clusterId": "4f91f4a4d56e3837",
+      "slug": "62119454f3adbdfd",
+      "titulo": "Igreja medieval monumental descoberta no deserto do Sudão",
+      "resumo": "Arqueólogos encontraram uma escadaria monumental que revelou o piso original de uma igreja que pode ter sido a maior da Núbia medieval. A estrutura, localizada no deserto do Sudão, teria dimensões superiores às da Casa Branca. A descoberta foi possível graças à escadaria que permitiu acesso ao interior da igreja. O achado destaca a importância da região para a história religiosa e arquitetônica da África.",
+      "porQueImporta": "A descoberta oferece novas informações sobre a arquitetura e a história religiosa da Núbia medieval.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/fumaca-encobre-santarem-e-qualidade-do-ar-chega-a-nivel-ruim-no-para/"
+          "name": "DW Brasil",
+          "url": "https://www.dw.com/pt-br/igreja-medieval-monumental-emerge-no-deserto-do-sudão-após-séculos-soterrada/a-79994716?maca=bra-rss-br-all-1030-rdf"
         }
       ],
-      "updatedAt": "2026-11-19T22:31:19.000Z"
+      "updatedAt": "2026-11-19T16:51:00.000Z"
     },
     {
-      "clusterId": "4362c29026ab5fea",
-      "slug": "8265ad96b5d8c578",
-      "titulo": "Prefeitura de Laranjal do Jari decreta situação de emergência após avanço de incêndios florestais",
-      "resumo": "Queimadas nas florestas do Amapá Polícia Civil/Divulgação A Prefeitura de Laranjal do Jari, no sul do Amapá, decretou situação de emergência em todo o território municipal em razão dos incêndios florestais que atingem a região e dos impactos provocados pela fumaça na saúde da população. O Decreto nº 293/2026-GAB/PMLJ foi publicado nesta quarta-feira (18) e terá validade de 180 dias. Segundo o documento, os incêndios florestais avançaram sobre áreas protegidas e não protegidas do município, atingindo comunidades rurais, reservas ambientais e bairros urbanos. O decreto aponta que a situação foi…",
+      "clusterId": "514e86384143ac63",
+      "slug": "6a43cbd1485dd1e8",
+      "titulo": "Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
+      "resumo": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (18) que conversou com o presidente chinês, Xi Jinping, sobre inteligência artificial, mas que o ex-CEO da Nvidia, Jensen Huang, foi mencionado apenas \"brevemente\" durante a conversa. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp “Não discutimos isso. Talvez eu tenha me referido a isso apenas brevemente, porque é uma tragédia. É uma tragédia. Ele é um homem tão brilhante\", disse Trump em uma…",
       "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
       "categoria": "Geral",
       "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/19/prefeitura-de-laranjal-do-jari-decreta-situacao-de-emergencia-apos-avanco-de-incendios-florestais.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/18/trump-diz-que-nao-discutiu-situacao-do-ceo-da-nvidia-com-xi-jinping.ghtml"
         }
       ],
-      "updatedAt": "2026-11-19T22:19:19.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/j85BaM_6xa0UPlbcr8ltnD2zDBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/U/ws2IilRHqXqWYAPVpWjw/whatsapp-image-2024-09-28-at-11.12.18-2-.jpeg"
-    },
-    {
-      "clusterId": "c1a27a0107ab3880",
-      "slug": "03dbcc38e9013ca0",
-      "titulo": "Chuva causa transtornos, queda de árvores e alagamentos em cidades do interior de São Paulo",
-      "resumo": "A chuva registrada na tarde de quinta-feira (19) provocou alagamentos e quedas de árvores em Votuporanga, Fernandópolis e Valentim Gentil. Moradores enviaram imagens mostrando a extensão dos transtornos. A rotatória de entrada de Valentim Gentil foi afetada. As autoridades locais ainda não divulgaram medidas de mitigação.",
-      "porQueImporta": "O evento pode comprometer a mobilidade e a segurança dos moradores dessas cidades.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/19/chuva-causa-transtornos-queda-de-arvores-e-alagamentos-em-cidades-no-interior-de-sp-video.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-19T22:00:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lJTI4IuLpccNFjvX1EV26EzN1lc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/R/XeVZuaQCiDKGASPl7CLA/design-sem-nome-2026-11-19t184550.947.jpg"
-    },
-    {
-      "clusterId": "346ed412da9e3962",
-      "slug": "621c9614e7cafdf3",
-      "titulo": "Agro deve perder R$ 40 bilhões em faturamento neste ano",
-      "resumo": "O governo estima que o setor agrícola perderá 40 bilhões de reais em faturamento no ano corrente. Condições climáticas adversas, com excesso de chuvas em algumas regiões e períodos de estiagem em outras, afetaram a produtividade de diferentes culturas. O impacto varia conforme a região e o tipo de cultivo. A queda no faturamento reflete a vulnerabilidade do agronegócio às mudanças climáticas.",
-      "porQueImporta": "A perda de faturamento pode afetar a renda dos produtores e a estabilidade econômica do país.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/agro/agro-deve-perder-r-40-bilhoes-em-faturamento-neste-ano-estima-governo/"
-        }
-      ],
-      "updatedAt": "2026-11-19T21:51:39.000Z"
-    },
-    {
-      "clusterId": "5dc53a5521d3ea3e",
-      "slug": "958ffec455fc8eb2",
-      "titulo": "Defesa Civil alerta para previsão de até 400 milímetros de chuva em MG nos próximos 15 dias",
-      "resumo": "O órgão estadual de Defesa Civil (Cedec) alertou que, até 3 de dezembro, algumas regiões de Minas Gerais podem acumular até 400 milímetros de chuva nos próximos 15 dias. A Grande Belo Horizonte, Central, Oeste e Campo das Vertentes são as áreas mais afetadas. O alerta destaca o risco de alagamentos, transbordamento de rios, enxurradas e deslizamentos de terra, especialmente em áreas vulneráveis.",
-      "porQueImporta": "O volume elevado de chuva pode causar danos significativos à infraestrutura e colocar em risco a vida de moradores.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/19/defesa-civil-alerta-para-previsao-de-ate-400-milimetros-de-chuva-em-mg-nos-proximos-15-dias.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-19T21:48:10.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9E_53hGbbvGAlC8FEhN7z4flO5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/J/GNUc9MSNqz3VUJavDu8Q/56-30-globocop-mg1-16-oct-2026188.mxf.png"
-    },
-    {
-      "clusterId": "a6ba9c8a0ce17bf1",
-      "slug": "2f57d911f5c8eb30",
-      "titulo": "Mulher de 34 anos é presa após ameaçar e incendiar carro de idoso em Marília",
-      "resumo": "Uma mulher de 34 anos foi detida em flagrante depois de ameaçar de morte e incendiar o carro de um homem de 72 anos no bairro Primavera, em Marília. A suspeita alegou que o idoso teria abusado sexualmente de sua filha de 9 anos. Ela chegou à residência do homem armada com faca, o ameaçou e incendiou o veículo. Ao ser atendida pela polícia, voltou ao local e confessou os atos.",
-      "porQueImporta": "O caso destaca a violência doméstica e a reação extrema de uma vítima que resultou em um crime contra a propriedade.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/19/mulher-incedeia-carro-de-idoso-suspeito-de-abusar-da-filha-dela-em-marilia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-19T21:48:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/B0oDpII7hrCOI-TfGwO873jvvMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/h/CFwmeLTIOJDUnQANSEiw/novo-projeto-2-.png"
-    },
-    {
-      "clusterId": "e97285cd73d1900d",
-      "slug": "aa50cda873734d15",
-      "titulo": "Acidente com caminhão causa morte e feridos graves em Teodoro Sampaio",
-      "resumo": "Um caminhão tombou na Rodovia Arlindo Bettio, próximo ao km 004,500, em Teodoro Sampaio, causando a morte de uma pessoa e deixando duas outras gravemente feridas. A carga de madeira espalhada pela pista interdiu a via até o início da noite. As autoridades encontraram o veículo e a carga no local do acidente.",
-      "porQueImporta": "O acidente interrompeu o tráfego na rodovia e resultou em fatalidade e lesões graves.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/19/uma-pessoa-morre-e-outras-duas-ficam-gravemente-feridas-apos-acidente-com-caminhao-em-teodoro-sampaio.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-19T21:47:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/rZZvuvyK1HNsehk1nLVDpFqIV_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/Q/qBzajuTxmW5kzopP4Dmw/1200x800-3-2026-11-19t185719.025.jpg"
-    },
-    {
-      "clusterId": "958cbd5cfbba17f2",
-      "slug": "ea43918870a8c40a",
-      "titulo": "Alerta de tempestade com granizo e vento de até 100 km/h em SC",
-      "resumo": "O Instituto Nacional de Meteorologia emitiu alerta laranja de tempestade para sexta-feira, 19, em Santa Catarina. A previsão indica chuvas de 50 a 100 milímetros, granizo e ventos de até 100 km/h. O alerta cobre todo o estado, com risco de alagamentos, queda de árvores, danos em plantações e cortes de energia elétrica.",
-      "porQueImporta": "O alerta pode causar interrupções no abastecimento de energia e riscos à segurança pública.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/19/feriadao-alerta-tempestade-granizo-ventania-em-sc-veja-previsao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-19T21:31:53.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/a-t0IL63nWlWRwHMFfiept0u2Sg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/K/fTbDuqQWS28MGWlidBww/chuva-em-sc.jpg"
-    },
-    {
-      "clusterId": "5c625ee487a47e47",
-      "slug": "fde62fe4d99704d8",
-      "titulo": "Kombi é destruída por incêndio em frente a posto de combustíveis no Acre",
-      "resumo": "Uma Kombi em frente a um posto de combustíveis em Rio Branco, Acre, pegou fogo na tarde de quinta-feira (19). O incêndio causou perda total ao veículo, mas não atingiu o estabelecimento e não houve feridos. Imagens do morador Paulo Ricardo Braga mostraram o veículo em chamas. A equipe do Corpo de Bombeiros Militar do Acre foi acionada.",
-      "porQueImporta": "O incidente destaca a ocorrência de incêndios urbanos que podem representar risco à segurança pública.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/11/19/video-kombi-e-destruida-por-incendio-em-frente-a-posto-de-combustiveis-no-acre.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-19T21:15:29.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Io7jqoTDZwqFN5fL-Ao6EKLHNmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/P/J7mG6STyiONZ3tSikJTQ/midia-de-distribuicao-g1-2026-11-19t154024.341.jpg"
+      "updatedAt": "2026-11-19T00:34:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/9H7RFCdRmC2MglCVzzqTyAGIAIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/L/6jYQxiRZK7HTyor8v0kg/2026-11-18t090745z-1186125737-rc29qoadt42e-rtrmadp-3-apec-summit-trump-arrival.jpg"
     }
   ],
   "categorias": [
@@ -181,75 +126,38 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "39d9cfe84d49cbe5",
-          "slug": "8a23ad06383c2b3b",
-          "titulo": "Tremor de terra sentido em Martinho Campos, Minas Gerais",
-          "resumo": "Um tremor de terra foi registrado em Martinho Campos, no Centro-Oeste de Minas Gerais, por volta das 12h45. A magnitude foi de 3,3, segundo a Brazil Earthquakes. O abalo foi sentido por moradores em diferentes locais do município, incluindo a servidora pública Cleide Carvalho, que estava na Câmara Municipal. O tremor causou susto entre os residentes.",
-          "porQueImporta": "O evento demonstra atividade sísmica na região, relevante para a avaliação de risco e monitoramento geológico.",
+          "clusterId": "b53c7543c1115473",
+          "slug": "8d98b125229fff70",
+          "titulo": "Senadores propõem prorrogar suspensão da dívida do RS por até 12 meses",
+          "resumo": "Senadores apresentaram projeto que estende a suspensão da dívida do Rio Grande do Sul por até doze meses. O alívio financeiro visa reduzir a pressão sobre o estado após as enchentes. O projeto prevê impacto de R$ 2,1 bilhões nas receitas da União.",
+          "porQueImporta": "A medida pode aliviar a carga fiscal do estado e reduzir a pressão sobre o orçamento federal.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/colunas/grande-angular/senadores-propoem-prorrogar-suspensao-da-divida-do-rs-por-ate-12-meses"
+            }
+          ],
+          "updatedAt": "2026-11-20T07:00:24.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/senado-federal-tenta-concluir-a-votacao-dos-destaques-do-projeto-de-ajuste-fiscal-metropoles-16-scaled.jpg"
+        },
+        {
+          "clusterId": "0595581d5c36b1af",
+          "slug": "2f536bed3d080195",
+          "titulo": "Previsão do tempo para sexta-feira em Joinville e Rio Branco",
+          "resumo": "Em Joinville, a sexta-feira apresenta sol e chuva pela manhã, trovoadas no período da tarde e pancadas de chuva à noite, com temperaturas entre 23ºC e 26ºC. Em Rio Branco, o dia começa com sol e muitas nuvens, seguido de pancadas de chuva à tarde e temporal à noite, com máximas de 37ºC e mínimas de 25ºC.",
+          "porQueImporta": "Informação útil para planejamento de atividades ao ar livre e mobilidade urbana.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/19/video-tremor-de-magnitude-33-e-sentido-no-interior-de-mg.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/tremor-de-terra-de-magnitude-27-atinge-martinho-campos-em-mg/"
+              "url": "https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-e-pancadas-de-chuva-a-tarde-a-noite-ocorre-temporal.ghtml"
             }
           ],
-          "updatedAt": "2026-11-19T21:59:25.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/U59qSdqFh1EcooUhAoQlraLXC0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/0/cywX8vQjir8XgDcNFEjQ/martinho-campos.jpeg"
-        },
-        {
-          "clusterId": "4362c29026ab5fea",
-          "slug": "8265ad96b5d8c578",
-          "titulo": "Prefeitura de Laranjal do Jari decreta situação de emergência após avanço de incêndios florestais",
-          "resumo": "Queimadas nas florestas do Amapá Polícia Civil/Divulgação A Prefeitura de Laranjal do Jari, no sul do Amapá, decretou situação de emergência em todo o território municipal em razão dos incêndios florestais que atingem a região e dos impactos provocados pela fumaça na saúde da população. O Decreto nº 293/2026-GAB/PMLJ foi publicado nesta quarta-feira (18) e terá validade de 180 dias. Segundo o documento, os incêndios florestais avançaram sobre áreas protegidas e não protegidas do município, atingindo comunidades rurais, reservas ambientais e bairros urbanos. O decreto aponta que a situação foi…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/19/prefeitura-de-laranjal-do-jari-decreta-situacao-de-emergencia-apos-avanco-de-incendios-florestais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-19T22:19:19.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/j85BaM_6xa0UPlbcr8ltnD2zDBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/U/ws2IilRHqXqWYAPVpWjw/whatsapp-image-2024-09-28-at-11.12.18-2-.jpeg"
-        },
-        {
-          "clusterId": "346ed412da9e3962",
-          "slug": "621c9614e7cafdf3",
-          "titulo": "Agro deve perder R$ 40 bilhões em faturamento neste ano",
-          "resumo": "O governo estima que o setor agrícola perderá 40 bilhões de reais em faturamento no ano corrente. Condições climáticas adversas, com excesso de chuvas em algumas regiões e períodos de estiagem em outras, afetaram a produtividade de diferentes culturas. O impacto varia conforme a região e o tipo de cultivo. A queda no faturamento reflete a vulnerabilidade do agronegócio às mudanças climáticas.",
-          "porQueImporta": "A perda de faturamento pode afetar a renda dos produtores e a estabilidade econômica do país.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/agro/agro-deve-perder-r-40-bilhoes-em-faturamento-neste-ano-estima-governo/"
-            }
-          ],
-          "updatedAt": "2026-11-19T21:51:39.000Z"
-        },
-        {
-          "clusterId": "a6ba9c8a0ce17bf1",
-          "slug": "2f57d911f5c8eb30",
-          "titulo": "Mulher de 34 anos é presa após ameaçar e incendiar carro de idoso em Marília",
-          "resumo": "Uma mulher de 34 anos foi detida em flagrante depois de ameaçar de morte e incendiar o carro de um homem de 72 anos no bairro Primavera, em Marília. A suspeita alegou que o idoso teria abusado sexualmente de sua filha de 9 anos. Ela chegou à residência do homem armada com faca, o ameaçou e incendiou o veículo. Ao ser atendida pela polícia, voltou ao local e confessou os atos.",
-          "porQueImporta": "O caso destaca a violência doméstica e a reação extrema de uma vítima que resultou em um crime contra a propriedade.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/19/mulher-incedeia-carro-de-idoso-suspeito-de-abusar-da-filha-dela-em-marilia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-19T21:48:06.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/B0oDpII7hrCOI-TfGwO873jvvMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/h/CFwmeLTIOJDUnQANSEiw/novo-projeto-2-.png"
+          "updatedAt": "2026-11-20T04:13:42.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2ipCsaIKZiV5auP_eqYR2i6TOec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/G/BCIuWLSlSBUqOGWABDFA/previsao-tempo-rio-branco-20261120-010113.jpeg"
         },
         {
           "clusterId": "4f91f4a4d56e3837",
@@ -291,76 +199,37 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "5dc53a5521d3ea3e",
-          "slug": "958ffec455fc8eb2",
-          "titulo": "Defesa Civil alerta para previsão de até 400 milímetros de chuva em MG nos próximos 15 dias",
-          "resumo": "O órgão estadual de Defesa Civil (Cedec) alertou que, até 3 de dezembro, algumas regiões de Minas Gerais podem acumular até 400 milímetros de chuva nos próximos 15 dias. A Grande Belo Horizonte, Central, Oeste e Campo das Vertentes são as áreas mais afetadas. O alerta destaca o risco de alagamentos, transbordamento de rios, enxurradas e deslizamentos de terra, especialmente em áreas vulneráveis.",
-          "porQueImporta": "O volume elevado de chuva pode causar danos significativos à infraestrutura e colocar em risco a vida de moradores.",
+          "clusterId": "ff3e1cc30d3ad2fb",
+          "slug": "e1e576cd2021f135",
+          "titulo": "Feriado da Consciência Negra terá chuva e tempestades em todo o Brasil",
+          "resumo": "No feriado da Consciência Negra, o Brasil terá pancadas fortes e trovoadas em todo o território. Um alerta de perigo potencial foi emitido pelas autoridades meteorológicas. As temperaturas podem chegar a 38 °C no Nordeste. A previsão indica que a chuva será intensa em diversas regiões.",
+          "porQueImporta": "A previsão de tempestades pode afetar a mobilidade e a segurança das pessoas que celebram o feriado.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/19/defesa-civil-alerta-para-previsao-de-ate-400-milimetros-de-chuva-em-mg-nos-proximos-15-dias.ghtml"
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/feriado-da-consciencia-negra-tera-chuva-e-tempestades-em-todo-o-brasil"
             }
           ],
-          "updatedAt": "2026-11-19T21:48:10.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9E_53hGbbvGAlC8FEhN7z4flO5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/J/GNUc9MSNqz3VUJavDu8Q/56-30-globocop-mg1-16-oct-2026188.mxf.png"
+          "updatedAt": "2026-11-20T07:00:21.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/chuva-feriado-jpg.jpeg"
         },
         {
-          "clusterId": "958cbd5cfbba17f2",
-          "slug": "ea43918870a8c40a",
-          "titulo": "Alerta de tempestade com granizo e vento de até 100 km/h em SC",
-          "resumo": "O Instituto Nacional de Meteorologia emitiu alerta laranja de tempestade para sexta-feira, 19, em Santa Catarina. A previsão indica chuvas de 50 a 100 milímetros, granizo e ventos de até 100 km/h. O alerta cobre todo o estado, com risco de alagamentos, queda de árvores, danos em plantações e cortes de energia elétrica.",
-          "porQueImporta": "O alerta pode causar interrupções no abastecimento de energia e riscos à segurança pública.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/19/feriadao-alerta-tempestade-granizo-ventania-em-sc-veja-previsao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-19T21:31:53.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/a-t0IL63nWlWRwHMFfiept0u2Sg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/K/fTbDuqQWS28MGWlidBww/chuva-em-sc.jpg"
-        },
-        {
-          "clusterId": "d26b9d7409d0794a",
-          "slug": "4af3adc1137f30f0",
-          "titulo": "Super El Niño pode desaparecer na próxima temporada de furacões",
-          "resumo": "O fenômeno Super El Niño está se enfraquecendo e pode desaparecer na próxima temporada de furacões, o que pode abrir caminho para o fenômeno La Niña. A mudança pode aumentar a frequência e intensidade das tempestades no Atlântico. As autoridades alertam para o risco de eventos mais severos nos Estados Unidos.",
-          "porQueImporta": "Um aumento nas tempestades pode causar danos significativos e colocar vidas em risco nos EUA.",
+          "clusterId": "b2fc54cb172fd0fb",
+          "slug": "fc3480c2d1116b1f",
+          "titulo": "Inmet emite alertas de temporal para estados do Centro-Sul neste feriado",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alertas de temporal para vários estados do Centro-Sul do Brasil, incluindo Santa Catarina, Rio Grande do Sul, Paraná, São Paulo, Minas Gerais, Espírito Santo, Mato Grosso do Sul e Bahia. A previsão indica chuvas com acumulados de até 100 milímetros ao longo do dia, ventos de até 100 km/h e possibilidade de queda de granizo. Os alertas foram emitidos para o período do feriado, alertando a população sobre condições climáticas severas.",
+          "porQueImporta": "As condições climáticas previstas podem causar inundações, danos a propriedades e riscos à segurança pública durante o feriado.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/ciencia/o-super-el-nino-desaparecera-na-proxima-temporada-de-furacoes-o-que-pode-representar-um-perigo-mortal-aos-eua/"
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/inmet-emite-alertas-de-temporal-para-estados-no-centro-sul-neste-feriado/"
             }
           ],
-          "updatedAt": "2026-11-19T20:08:20.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "incendio-florestal",
-      "label": "Incêndio florestal",
-      "stories": [
-        {
-          "clusterId": "adcfdb0a9a0d08ea",
-          "slug": "d60f6f07895801d8",
-          "titulo": "Fumaça encobre Santarém e qualidade do ar chega a nível ruim no Pará",
-          "resumo": "Fumaça das queimadas na região do Pará, agravada por estiagem prolongada, cobre a cidade de Santarém, reduzindo a qualidade do ar a nível ruim. Situações semelhantes foram registradas no Marajó e no Amazonas. A poluição atmosférica tem impacto na saúde da população e na visibilidade.",
-          "porQueImporta": "A deterioração da qualidade do ar pode causar problemas respiratórios e limitar a mobilidade urbana.",
-          "categoria": "Incêndio florestal",
-          "categoriaSlug": "incendio-florestal",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/fumaca-encobre-santarem-e-qualidade-do-ar-chega-a-nivel-ruim-no-para/"
-            }
-          ],
-          "updatedAt": "2026-11-19T22:31:19.000Z"
+          "updatedAt": "2026-11-20T06:33:37.000Z"
         }
       ]
     },
@@ -369,67 +238,21 @@
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "c1a27a0107ab3880",
-          "slug": "03dbcc38e9013ca0",
-          "titulo": "Chuva causa transtornos, queda de árvores e alagamentos em cidades do interior de São Paulo",
-          "resumo": "A chuva registrada na tarde de quinta-feira (19) provocou alagamentos e quedas de árvores em Votuporanga, Fernandópolis e Valentim Gentil. Moradores enviaram imagens mostrando a extensão dos transtornos. A rotatória de entrada de Valentim Gentil foi afetada. As autoridades locais ainda não divulgaram medidas de mitigação.",
-          "porQueImporta": "O evento pode comprometer a mobilidade e a segurança dos moradores dessas cidades.",
+          "clusterId": "36d6cbb9f2904a32",
+          "slug": "4236df9b6e4212e4",
+          "titulo": "Loja de calçados em Campinas é destruída por enxurrada",
+          "resumo": "Uma loja de calçados em Campinas, SP, foi destruída por uma enxurrada intensa que ocorreu na quarta-feira. O vídeo do evento viralizou nas redes sociais, gerando centenas de mensagens de apoio aos proprietários. A dona, Fernanda Demonte, agradeceu a solidariedade no Instagram. O temporal causou danos em vários pontos da cidade.",
+          "porQueImporta": "Ilustra o impacto de eventos climáticos extremos nas atividades comerciais locais.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/19/chuva-causa-transtornos-queda-de-arvores-e-alagamentos-em-cidades-no-interior-de-sp-video.ghtml"
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/20/video-loja-calcados-destruida-enxurrada-viraliza-dona-agradece-rede-solidariedade.ghtml"
             }
           ],
-          "updatedAt": "2026-11-19T22:00:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/lJTI4IuLpccNFjvX1EV26EzN1lc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/R/XeVZuaQCiDKGASPl7CLA/design-sem-nome-2026-11-19t184550.947.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "e97285cd73d1900d",
-          "slug": "aa50cda873734d15",
-          "titulo": "Acidente com caminhão causa morte e feridos graves em Teodoro Sampaio",
-          "resumo": "Um caminhão tombou na Rodovia Arlindo Bettio, próximo ao km 004,500, em Teodoro Sampaio, causando a morte de uma pessoa e deixando duas outras gravemente feridas. A carga de madeira espalhada pela pista interdiu a via até o início da noite. As autoridades encontraram o veículo e a carga no local do acidente.",
-          "porQueImporta": "O acidente interrompeu o tráfego na rodovia e resultou em fatalidade e lesões graves.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/19/uma-pessoa-morre-e-outras-duas-ficam-gravemente-feridas-apos-acidente-com-caminhao-em-teodoro-sampaio.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-19T21:47:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rZZvuvyK1HNsehk1nLVDpFqIV_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/Q/qBzajuTxmW5kzopP4Dmw/1200x800-3-2026-11-19t185719.025.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "5c625ee487a47e47",
-          "slug": "fde62fe4d99704d8",
-          "titulo": "Kombi é destruída por incêndio em frente a posto de combustíveis no Acre",
-          "resumo": "Uma Kombi em frente a um posto de combustíveis em Rio Branco, Acre, pegou fogo na tarde de quinta-feira (19). O incêndio causou perda total ao veículo, mas não atingiu o estabelecimento e não houve feridos. Imagens do morador Paulo Ricardo Braga mostraram o veículo em chamas. A equipe do Corpo de Bombeiros Militar do Acre foi acionada.",
-          "porQueImporta": "O incidente destaca a ocorrência de incêndios urbanos que podem representar risco à segurança pública.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/11/19/video-kombi-e-destruida-por-incendio-em-frente-a-posto-de-combustiveis-no-acre.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-19T21:15:29.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Io7jqoTDZwqFN5fL-Ao6EKLHNmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/P/J7mG6STyiONZ3tSikJTQ/midia-de-distribuicao-g1-2026-11-19t154024.341.jpg"
+          "updatedAt": "2026-11-20T06:00:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Xx5bJSoboVfvBo1JK_SPiR15DbQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/w/maioU1S0yq6f746tCraw/copia-de-area-1-2026-11-19t220418.647.png"
         }
       ]
     }
