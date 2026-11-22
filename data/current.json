@@ -1,406 +1,368 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T07:19:50.136Z",
+  "generatedAt": "2026-11-22T16:33:56.593Z",
   "home": [
     {
-      "clusterId": "f02e4f527c378583",
-      "slug": "fed8410f9eed2f4e",
-      "titulo": "Tornados deixam mais de 50 mil casas sem energia no Paraná",
-      "resumo": "Dois tornados passaram pelo estado, causando queda de árvores e danos moderados em cidades como Manoel Ribas e Foz do Iguaçu. Mais de 50 mil residências ficaram sem energia elétrica após o evento. As autoridades continuam avaliando os impactos e trabalhando na restauração do fornecimento.",
-      "porQueImporta": "A interrupção de energia afeta a vida cotidiana e a segurança das comunidades afetadas.",
+      "clusterId": "a0f89291ef24bab6",
+      "slug": "4849f4e08866d4e5",
+      "titulo": "Incêndio atinge centro comunitário de igreja em São Paulo",
+      "resumo": "Um incêndio atingiu cerca de 180 m² do Centro Comunitário Candelária, na Vila Maria, Zona Norte de São Paulo, na madrugada de domingo. O fogo foi controlado pelo Corpo de Bombeiros, mas voltou a atingir o local na manhã seguinte. Não houve vítimas e 12 viaturas foram mobilizadas, com apoio da Enel, Sabesp, Defesa Civil e policiamento.",
+      "porQueImporta": "O incidente demonstra a necessidade de vigilância e manutenção de segurança em espaços comunitários.",
+      "categoria": "Incêndio",
+      "categoriaSlug": "incendio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/incendio-atinge-centro-comunitario-de-igreja-na-zona-norte-de-sp-e-fogo-volta-na-manha-deste-domingo.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/incendio-atinge-centro-comunitario-de-igreja-em-sao-paulo/"
+        }
+      ],
+      "updatedAt": "2026-11-22T15:45:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/o8tJ4WsglJFl_tqqQZrYcsLqWK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/9/A6TgsDS3ujBDEqJNuf6w/montagem-horizontal-1200px-59-.jpg"
+    },
+    {
+      "clusterId": "e2ad6e99c0c0a6df",
+      "slug": "314dc1f9e96507b7",
+      "titulo": "Tragédia no RS: 5 mortos em tempestade em Tupanciretã",
+      "resumo": "Ventos superiores a 110 km/h causaram uma tempestade na Região Central do Rio Grande do Sul, resultando em cinco mortes, 265 feridos e quase 20 mil pessoas desalojadas. A ocorrência afetou principalmente a cidade de Tupanciretã, onde os danos foram mais intensos. As autoridades continuam investigando as causas e providenciando assistência às vítimas.",
+      "porQueImporta": "A tempestade demonstra a gravidade dos eventos climáticos extremos no estado, exigindo atenção das autoridades e apoio às comunidades afetadas.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/dois-tornados-atingem-cidades-do-parana-no-mesmo-dia/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/passagens-de-tornados-no-parana-deixam-mais-de-50-mil-casas-sem-energia.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/tragedia-no-rs-quem-sao-as-5-vitimas-da-tempestade-em-tupancireta"
         }
       ],
-      "updatedAt": "2026-11-22T01:10:38.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Tornado-atinge-o-Parana-Reproducao.jpg"
+      "updatedAt": "2026-11-22T16:21:37.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/foto-vitimas.jpg"
     },
     {
-      "clusterId": "1aed3d1ea06e682c",
-      "slug": "e97afb094486660d",
-      "titulo": "Sul do Brasil é a região mais propícia à formação de supercélulas e tornados",
-      "resumo": "O sul do país apresenta condições favoráveis para a formação de supercélulas, fenômenos que geram granizo, ventos fortes e tornados. Em 2024, 23 de 28 episódios de tornados ocorreram nessa região. A América do Sul ocupa o segundo lugar mundial em propensão a esses eventos. As mudanças climáticas podem aumentar a frequência desses fenômenos.",
-      "porQueImporta": "A alta incidência de tornados no sul aumenta o risco de danos e requer atenção das autoridades e população.",
+      "clusterId": "e5eb9cee4beee17d",
+      "slug": "a50769aeafeb605f",
+      "titulo": "Acidente entre moto e caminhão deixa motociclista ferido em Campinas",
+      "resumo": "Um motociclista foi ferido em colisão com caminhão na Rodovia Santos Dumont, em frente ao Aeroporto Internacional de Viracopos, em Campinas. O helicóptero Águia foi acionado para o resgate e a vítima foi encaminhada ao Hospital de Clínicas da Unicamp. Até o momento não há informações sobre o estado de saúde do motociclista.",
+      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias de grande tráfego.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/22/acidente-com-moto-deixa-homem-ferido-na-santos-dumont-em-campinas-aguia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-22T16:19:08.000Z"
+    },
+    {
+      "clusterId": "b0ede309b8b1e389",
+      "slug": "ba66d831d150262a",
+      "titulo": "SUS avalia instalar posto médico avançado em Tupanciretã (RS) após temporal",
+      "resumo": "Após o temporal que atingiu Tupanciretã, o SUS mobilizou 13 profissionais para avaliar a rede de saúde e reforçar a assistência aos moradores. O desastre deixou cinco mortos e 265 feridos. A avaliação tem como objetivo instalar um posto médico avançado na região.",
+      "porQueImporta": "Garantir atendimento médico adequado em áreas afetadas por desastres naturais.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sus-avalia-instalar-posto-medico-avancado-em-tupancireta-rs-apos-temporal/"
+        }
+      ],
+      "updatedAt": "2026-11-22T16:18:11.000Z"
+    },
+    {
+      "clusterId": "b324af599a4b35c6",
+      "slug": "eb245ea605a18d8d",
+      "titulo": "Supercélula no Rio Grande do Sul causa mortes e deslocamentos",
+      "resumo": "Uma supercélula gerou ventos de até 114 km/h, atingindo 36 municípios do Rio Grande do Sul. O fenômeno deixou cinco mortos e quase 9 mil residências afetadas. Vários moradores foram deslocados para abrigos temporários. As autoridades continuam avaliando os danos e coordenando ações de socorro.",
+      "porQueImporta": "O evento demonstra a intensidade dos fenômenos meteorológicos na região e a necessidade de preparação e resposta rápida a desastres naturais.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/por-que-o-sul-é-a-região-mais-propensa-a-tornados-no-brasil/a-74701998?maca=bra-rss-br-all-1030-rdf"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-brasil/veja-imagens-dos-estragos-causados-por-vendavais-no-sul-do-brasil/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/tornados-e-supercelulas-entenda-como-esta-a-situacao-do-sul-do-brasil/"
+          "url": "https://www.dw.com/pt-br/tempestades-no-rs-deixam-mortos-e-milhares-de-deslocados/a-80011201?maca=bra-rss-br-all-1030-rdf"
         }
       ],
-      "updatedAt": "2026-11-22T01:30:28.000Z"
+      "updatedAt": "2026-11-22T16:13:00.000Z"
     },
     {
-      "clusterId": "86ba42855de48175",
-      "slug": "24c3580e8b725b8f",
-      "titulo": "Ciclone pode provocar granizo e ventos acima de 80 km/h neste domingo",
-      "resumo": "Um ciclone está previsto para afetar a região, podendo gerar granizo e ventos superiores a 80 km/h. A previsão ocorre em meio a tempestades que já causaram cinco mortes e 265 feridos na cidade de Tupanciretã, interior do Rio Grande do Sul.",
-      "porQueImporta": "O evento pode agravar a situação de risco já existente na região.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/rs-ciclone-pode-provocar-granizo-e-ventos-acima-de-80-km-h-neste-domingo/"
-        }
-      ],
-      "updatedAt": "2026-11-22T07:00:23.000Z"
-    },
-    {
-      "clusterId": "9b1b55a4747a5317",
-      "slug": "e5838eb3a3d9220e",
-      "titulo": "Belo Horizonte permanece sob alerta de risco geológico por fortes chuvas",
-      "resumo": "Belo Horizonte continua sob alerta de risco geológico até a próxima terça-feira, 21, devido a fortes chuvas que atingiram a cidade nos últimos dias. A Defesa Civil indica risco forte nas regionais Barreiro, Oeste, Centro Sul, Leste, Noroeste, Pampulha, Venda Nova e Norte, e risco moderado na regional Nordeste. O alerta alerta para possibilidade de deslizamentos e desabamentos.",
-      "porQueImporta": "O alerta indica potencial de desastres que podem afetar a população e a infraestrutura da cidade.",
+      "clusterId": "94e1e3f74a467023",
+      "slug": "b49a617282edd9b4",
+      "titulo": "Deslizamento de terra deixa cinco famílias desalojadas em Salvador",
+      "resumo": "Um deslizamento de terra ocorreu na manhã de domingo no bairro do IAPI, em Salvador, deixando cinco famílias desalojadas. O Corpo de Bombeiros realizou o resgate, retirando moradores, incluindo uma bebê de 11 meses, de um corredor de concreto que se abriu. Ninguém ficou ferido. Imagens de moradores mostram a cratera formada no terreno.",
+      "porQueImporta": "O evento destaca a vulnerabilidade de áreas urbanas a deslizamentos, exigindo atenção das autoridades para prevenção e resiliência.",
       "categoria": "Deslizamento",
       "categoriaSlug": "deslizamento",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/22/em-meio-a-fortes-chuvas-bh-segue-ate-a-proxima-terca-feira-sob-alerta-de-risco-geologico.ghtml"
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/22/deslizamento-de-terra-deixa-familias-desalojadas-em-salvador.ghtml"
         }
       ],
-      "updatedAt": "2026-11-22T07:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Ufw8HP2xpfOyNSVGNkU1xxzbtd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/y/ar6MN0QVuqEgrwgampFQ/risco-geologico-novembro.jpg"
+      "updatedAt": "2026-11-22T16:07:55.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/9ELZAcYM6gV2zEh-lldo0QQygMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/5zzohrQ4Cmku0yARozxQ/deslizamento.png"
     },
     {
-      "clusterId": "5bfc52200952cea0",
-      "slug": "d03daa730c0a9195",
-      "titulo": "Roraima enfrenta seca severa devido ao El Niño",
-      "resumo": "Roraima está passando por uma seca intensa, com rios e igarapés secando fora do normal. Moradores dependem de abastecimento emergencial e enfrentam racionamento de água, redução de aulas escolares e perda de produção agrícola. A seca aumenta fatores que favorecem incêndios florestais. A principal causa apontada é o fenômeno El Niño.",
-      "porQueImporta": "A seca compromete recursos hídricos, a agricultura e aumenta o risco de incêndios, afetando a população local.",
-      "categoria": "Seca",
-      "categoriaSlug": "seca",
+      "clusterId": "ed3ca8fff2c6dc78",
+      "slug": "b032c91322046a9f",
+      "titulo": "Acidente com carreta na ViaLagos, RJ-124, causa interdição",
+      "resumo": "No km 30 da ViaLagos, em Araruama, uma carreta tombou no final da manhã de domingo, bloqueando totalmente a rodovia no sentido Região dos Lagos. A Polícia Rodoviária Estadual informou que ainda não há dados sobre vítimas. Bombeiros atuaram no local no início da tarde. A concessionária ainda não respondeu ao pedido de informações.",
+      "porQueImporta": "A interdição pode afetar o tráfego e a segurança dos usuários da via.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/22/falta-de-chuva-e-queda-no-nivel-do-principal-rio-por-que-roraima-enfrenta-seca-severa.ghtml"
+          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/22/acidente-com-carreta-interdita-rj-124-a-vialagos-no-sentido-regiao-dos-lagos.ghtml"
         }
       ],
-      "updatedAt": "2026-11-22T07:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/h5gpm5iarcus5K7d7rck7PAXmgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/A/zJaFUhSSSWAlLJB531MA/fotos-rio-2-.jpg.jpeg"
+      "updatedAt": "2026-11-22T15:55:49.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/WB6mOJjAKBm6Vo2F83qpF3zaPRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/7/l0cACWT8eoycYC8PKihg/bombeiros-atuam-no-resgate-a-vitima-no-acidente-com-carreta-na-vialagos.png"
     },
     {
-      "clusterId": "e46cdbdf6d6eb9b9",
-      "slug": "17ca67b11f5136bd",
-      "titulo": "Previsão do tempo para Santo André e Belo Horizonte",
-      "resumo": "Em Santo André, o dia começa com sol e muitas nuvens, seguida de pancadas de chuva e trovoadas à tarde, e temporal à noite. Em Belo Horizonte, sol com algumas nuvens e chuvas rápidas durante o dia e à noite, com trovoadas no período da tarde e temporal à noite.",
-      "porQueImporta": "Informação útil para planejamento de atividades ao ar livre e mobilidade urbana.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
+      "clusterId": "3f0d643205005dde",
+      "slug": "a81c299af44e8bd8",
+      "titulo": "Jovem morre e adolescente fica gravemente ferida após moto bater contra poste em São José dos Campos",
+      "resumo": "Um motociclista de 19 anos perdeu o controle e bateu em um poste na Avenida Pedro Friggi, em São José dos Campos, no início da madrugada. O jovem morreu no local e a passageira, de 17 anos, ficou gravemente ferida. O acidente ocorreu por volta das 3h55, em frente ao Spani Atacadista, no Jardim Pararangaba. O boletim de ocorrência indica que o motociclista seguia no sentido Centro.",
+      "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito noturnos em áreas urbanas.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-belo-horizonte-mg-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml"
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/22/jovem-morre-e-adolescente-fica-gravemente-ferida-apos-moto-bater-contra-poste-em-sao-jose-dos-campos.ghtml"
         }
       ],
-      "updatedAt": "2026-11-22T04:12:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Nl8fybhXzFUwjvLw9AAnJhHVUkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/A/7fHEGXTbS85es1CQFsUw/previsao-tempo-belo-horizonte-20261122-010758.jpeg"
+      "updatedAt": "2026-11-22T15:42:21.000Z"
     },
     {
-      "clusterId": "eb6f0886bbeaa9c1",
-      "slug": "111b519780e03f6f",
-      "titulo": "Mulher que perdeu casa em enchente de 2024 é atingida por tempestade em Tupanciretã",
-      "resumo": "Dalva de Oliveira, que perdeu a casa em Estrela durante a enchente do Vale do Taquari em 2024, foi atingida por uma tempestade na madrugada de sexta-feira (20) em Tupanciretã. A moradora relatou ter quase morrido e estar emocionalmente abalada, citando depressão e o trauma vivido em Estrela. A tempestade deixou rastros de destruição no município de 20 mil habitantes.",
-      "porQueImporta": "O caso destaca a vulnerabilidade de comunidades afetadas por desastres naturais e a recorrência de eventos climáticos extremos na região.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "7788b05ee58cb4f4",
+      "slug": "f04d94ce9d4c498c",
+      "titulo": "Jovem de 16 anos morre afogado em açude em Itapeva",
+      "resumo": "Um jovem de 16 anos, Rian Gabriel Oliveira Cardoso, morreu após se afogar em um açude no bairro Morada do Bosque, em Itapeva (SP). Ele foi socorrido e levado à Santa Casa de Itapeva, mas não resistiu. O corpo foi encaminhado ao Instituto Médico Legal, onde exames confirmaram a causa da morte como afogamento. O velório e sepultamento ocorreram na mesma tarde.",
+      "porQueImporta": "O caso destaca a necessidade de atenção à segurança em corpos d’água em áreas residenciais.",
+      "categoria": "Acidente",
+      "categoriaSlug": "acidente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/mulher-que-perdeu-casa-em-enchente-de-2024-e-atingida-por-tempestade-em-tupancireta-quase-morri-chorando.ghtml"
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/22/jovem-de-16-anos-morre-afogado-em-acude-em-itapeva.ghtml"
         }
       ],
-      "updatedAt": "2026-11-22T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/mp0cXEcx0ReMcEwCkRajAjeNk7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/w/AmT8AiSEeEm9Jyuzepkg/tarde-tupancireta-globo-2111-3-0001.mov-frame-5340.jpg"
+      "updatedAt": "2026-11-22T15:32:16.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/CY1qtzK58NrBvO2Nv2-0YC9w0Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/b/PvYf5kStKuIf6nh61sMg/img-0825.new.01-frame-55.jpeg"
     },
     {
-      "clusterId": "b82b8b8134179607",
-      "slug": "66222d2304974198",
-      "titulo": "Temporais no Rio Grande do Sul causam mortes e desabrigam milhares",
-      "resumo": "Uma frente fria atingiu o sul do Brasil, provocando temporais com rajadas de vento superiores a 80 km/h e chuvas que podem chegar a 120 mm. O evento resultou em cinco mortes, 265 feridos e quase 20.000 pessoas desalojadas, principalmente em Tupanciretã. A Defesa Civil confirmou a nova fatalidade e registrou o número elevado de vítimas e deslocados.",
-      "porQueImporta": "O aumento do risco de vendavais e granizo coloca em perigo a vida e a infraestrutura das comunidades afetadas.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-brasil/sobe-para-5-numero-de-mortos-em-temporais-no-rio-grande-do-sul/"
-        }
-      ],
-      "updatedAt": "2026-11-22T02:04:02.000Z"
-    },
-    {
-      "clusterId": "b905a2cb1b0b8356",
-      "slug": "fcb6b2f458e6efa7",
-      "titulo": "Cidade nos EUA se prepara para marés gigantescas",
-      "resumo": "Autoridades na Califórnia se preparam para marés altas que podem causar dilúvio, enquanto a Flórida continua sofrendo com inundações históricas. O alerta é parte de um fenômeno de El Niño que altera padrões climáticos. O prefeito pede que moradores armazenem comida e reconsiderem viagens.",
-      "porQueImporta": "O evento pode provocar danos significativos e risco à população.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "afa0e4fe25b77b33",
+      "slug": "59b1fcde14db698f",
+      "titulo": "Casal morre e filho de 3 anos fica gravemente ferido em acidente na GO-523",
+      "resumo": "Um casal morreu e seu filho de 3 anos ficou gravemente ferido em colisão entre motocicleta e carro na GO-523, em Caturaí, Região Metropolitana de Goiânia. O acidente ocorreu por volta das 21h de sábado, no km 03. O motorista do carro abandonou o local antes da chegada da Polícia Militar. As vítimas foram socorridas pelo Corpo de Bombeiros e equipes de saúde.",
+      "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança viária nas estradas regionais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/21/cidade-nos-eua-se-prepara-para-mares-gigantescas-prefeito-pede-que-moradores-estoquem-comida-e-reconsiderem-viagens.ghtml"
+          "url": "https://g1.globo.com/go/goias/noticia/2026/11/22/casal-morre-e-filho-de-3-anos-fica-gravemente-ferido-em-acidente-na-go-523.ghtml"
         }
       ],
-      "updatedAt": "2026-11-22T01:24:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/DDh5tXPeEr3qmHG7u4CvgZtiukU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/f/gEAiJgTaixTjVsNAzjhQ/ap26324695777074.jpg"
-    },
-    {
-      "clusterId": "cbf93575ba72c4ff",
-      "slug": "574adeb216308271",
-      "titulo": "Tempestade chega a Foz do Iguaçu, dois tornados confirmados",
-      "resumo": "Imagens de moradores mostram a aproximação de uma tempestade em Foz do Iguaçu, no Paraná. O Simepar confirmou a ocorrência de dois tornados na sexta-feira. A tempestade trouxe ventos fortes e precipitação intensa à região.",
-      "porQueImporta": "O evento pode causar danos estruturais e riscos à população local.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/imagens-mostram-chegada-de-tempestade-em-foz-do-iguacu-pr-veja/"
-        }
-      ],
-      "updatedAt": "2026-11-22T00:03:53.000Z"
+      "updatedAt": "2026-11-22T15:27:03.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/XwkEhe82yqJhu2q9s5ZA384MgpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/Xq2gB0Q8qA5AUuMs45mA/familia-acidente-go-523.jpg"
     }
   ],
   "categorias": [
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
-        {
-          "clusterId": "1aed3d1ea06e682c",
-          "slug": "e97afb094486660d",
-          "titulo": "Sul do Brasil é a região mais propícia à formação de supercélulas e tornados",
-          "resumo": "O sul do país apresenta condições favoráveis para a formação de supercélulas, fenômenos que geram granizo, ventos fortes e tornados. Em 2024, 23 de 28 episódios de tornados ocorreram nessa região. A América do Sul ocupa o segundo lugar mundial em propensão a esses eventos. As mudanças climáticas podem aumentar a frequência desses fenômenos.",
-          "porQueImporta": "A alta incidência de tornados no sul aumenta o risco de danos e requer atenção das autoridades e população.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "DW Brasil",
-              "url": "https://www.dw.com/pt-br/por-que-o-sul-é-a-região-mais-propensa-a-tornados-no-brasil/a-74701998?maca=bra-rss-br-all-1030-rdf"
-            },
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-brasil/veja-imagens-dos-estragos-causados-por-vendavais-no-sul-do-brasil/"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/tornados-e-supercelulas-entenda-como-esta-a-situacao-do-sul-do-brasil/"
-            }
-          ],
-          "updatedAt": "2026-11-22T01:30:28.000Z"
-        },
-        {
-          "clusterId": "f02e4f527c378583",
-          "slug": "fed8410f9eed2f4e",
-          "titulo": "Tornados deixam mais de 50 mil casas sem energia no Paraná",
-          "resumo": "Dois tornados passaram pelo estado, causando queda de árvores e danos moderados em cidades como Manoel Ribas e Foz do Iguaçu. Mais de 50 mil residências ficaram sem energia elétrica após o evento. As autoridades continuam avaliando os impactos e trabalhando na restauração do fornecimento.",
-          "porQueImporta": "A interrupção de energia afeta a vida cotidiana e a segurança das comunidades afetadas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/brasil/dois-tornados-atingem-cidades-do-parana-no-mesmo-dia/"
-            },
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/passagens-de-tornados-no-parana-deixam-mais-de-50-mil-casas-sem-energia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T01:10:38.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Tornado-atinge-o-Parana-Reproducao.jpg"
-        },
-        {
-          "clusterId": "86ba42855de48175",
-          "slug": "24c3580e8b725b8f",
-          "titulo": "Ciclone pode provocar granizo e ventos acima de 80 km/h neste domingo",
-          "resumo": "Um ciclone está previsto para afetar a região, podendo gerar granizo e ventos superiores a 80 km/h. A previsão ocorre em meio a tempestades que já causaram cinco mortes e 265 feridos na cidade de Tupanciretã, interior do Rio Grande do Sul.",
-          "porQueImporta": "O evento pode agravar a situação de risco já existente na região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/rs-ciclone-pode-provocar-granizo-e-ventos-acima-de-80-km-h-neste-domingo/"
-            }
-          ],
-          "updatedAt": "2026-11-22T07:00:23.000Z"
-        },
-        {
-          "clusterId": "eb6f0886bbeaa9c1",
-          "slug": "111b519780e03f6f",
-          "titulo": "Mulher que perdeu casa em enchente de 2024 é atingida por tempestade em Tupanciretã",
-          "resumo": "Dalva de Oliveira, que perdeu a casa em Estrela durante a enchente do Vale do Taquari em 2024, foi atingida por uma tempestade na madrugada de sexta-feira (20) em Tupanciretã. A moradora relatou ter quase morrido e estar emocionalmente abalada, citando depressão e o trauma vivido em Estrela. A tempestade deixou rastros de destruição no município de 20 mil habitantes.",
-          "porQueImporta": "O caso destaca a vulnerabilidade de comunidades afetadas por desastres naturais e a recorrência de eventos climáticos extremos na região.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/mulher-que-perdeu-casa-em-enchente-de-2024-e-atingida-por-tempestade-em-tupancireta-quase-morri-chorando.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T03:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mp0cXEcx0ReMcEwCkRajAjeNk7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/w/AmT8AiSEeEm9Jyuzepkg/tarde-tupancireta-globo-2111-3-0001.mov-frame-5340.jpg"
-        },
-        {
-          "clusterId": "b82b8b8134179607",
-          "slug": "66222d2304974198",
-          "titulo": "Temporais no Rio Grande do Sul causam mortes e desabrigam milhares",
-          "resumo": "Uma frente fria atingiu o sul do Brasil, provocando temporais com rajadas de vento superiores a 80 km/h e chuvas que podem chegar a 120 mm. O evento resultou em cinco mortes, 265 feridos e quase 20.000 pessoas desalojadas, principalmente em Tupanciretã. A Defesa Civil confirmou a nova fatalidade e registrou o número elevado de vítimas e deslocados.",
-          "porQueImporta": "O aumento do risco de vendavais e granizo coloca em perigo a vida e a infraestrutura das comunidades afetadas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-brasil/sobe-para-5-numero-de-mortos-em-temporais-no-rio-grande-do-sul/"
-            }
-          ],
-          "updatedAt": "2026-11-22T02:04:02.000Z"
-        },
-        {
-          "clusterId": "b905a2cb1b0b8356",
-          "slug": "fcb6b2f458e6efa7",
-          "titulo": "Cidade nos EUA se prepara para marés gigantescas",
-          "resumo": "Autoridades na Califórnia se preparam para marés altas que podem causar dilúvio, enquanto a Flórida continua sofrendo com inundações históricas. O alerta é parte de um fenômeno de El Niño que altera padrões climáticos. O prefeito pede que moradores armazenem comida e reconsiderem viagens.",
-          "porQueImporta": "O evento pode provocar danos significativos e risco à população.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/21/cidade-nos-eua-se-prepara-para-mares-gigantescas-prefeito-pede-que-moradores-estoquem-comida-e-reconsiderem-viagens.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T01:24:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/DDh5tXPeEr3qmHG7u4CvgZtiukU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/f/gEAiJgTaixTjVsNAzjhQ/ap26324695777074.jpg"
-        },
-        {
-          "clusterId": "cbf93575ba72c4ff",
-          "slug": "574adeb216308271",
-          "titulo": "Tempestade chega a Foz do Iguaçu, dois tornados confirmados",
-          "resumo": "Imagens de moradores mostram a aproximação de uma tempestade em Foz do Iguaçu, no Paraná. O Simepar confirmou a ocorrência de dois tornados na sexta-feira. A tempestade trouxe ventos fortes e precipitação intensa à região.",
-          "porQueImporta": "O evento pode causar danos estruturais e riscos à população local.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/imagens-mostram-chegada-de-tempestade-em-foz-do-iguacu-pr-veja/"
-            }
-          ],
-          "updatedAt": "2026-11-22T00:03:53.000Z"
-        },
-        {
-          "clusterId": "ac70becf9ca46210",
-          "slug": "047794b9cdba8980",
-          "titulo": "Tempestade deixa cinco mortos em Tupanciretã",
-          "resumo": "Uma tempestade que durou menos de uma hora na madrugada de sexta-feira (20) causou cinco mortes em Tupanciretã, Rio Grande do Sul. Moradores e voluntários iniciaram a reconstrução da cidade no sábado (21). A tragédia deixou escombros e afetou a comunidade local, que já havia sofrido com enchentes anteriores.",
-          "porQueImporta": "O evento demonstra a vulnerabilidade de comunidades rurais a fenômenos meteorológicos extremos e a necessidade de apoio emergencial e reconstrução.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/temporal-deixa-5-mortos-e-mais-de-8-mil-imoveis-atingidos-em-tupancireta-rs-cidade-comeca-reconstrucao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-21T23:58:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/hqnuXXMwligsyDIoz9twH_6OUXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/c/FULUd4QcqOo75eoAETbA/globo-canal-5-20261121-2000-frame-63312.jpeg"
-        },
-        {
-          "clusterId": "2fc4abc5c9d58f77",
-          "slug": "b0a0be639820410d",
-          "titulo": "Governo reconhece calamidade pública em Tupanciretã após temporal",
-          "resumo": "O ministro da Integração e do Desenvolvimento Regional, Waldez Góes, anunciou a declaração de calamidade pública no município de Tupanciretã, RS, após fortes tempestades. O local registrou cinco mortes, 265 feridos e mais de 20 mil pessoas atingidas. A medida visa facilitar recursos e apoio às vítimas e à infraestrutura afetada.",
-          "porQueImporta": "A declaração de calamidade pública permite mobilização de recursos estaduais e federais para recuperação e assistência às comunidades impactadas.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/governo-reconhece-calamidade-publica-em-tupancireta-rs-apos-temporal/"
-            }
-          ],
-          "updatedAt": "2026-11-21T23:13:08.000Z"
-        },
-        {
-          "clusterId": "8b000fdf70af8387",
-          "slug": "59a450249ae0d0fa",
-          "titulo": "Temporal no RS afeta 24 mil pessoas e deixa quatro mortos",
-          "resumo": "Uma supercélula gerou ventos de até 114 km/h no Rio Grande do Sul, atingindo 36 municípios e quase 9 mil residências. O fenômeno deixou 24 mil pessoas afetadas e causou quatro mortes. O impacto foi sentido em diversas regiões do estado, com danos significativos às habitações.",
-          "porQueImporta": "O evento demonstra a gravidade de tempestades intensas no RS, destacando a necessidade de preparação e resposta rápida a desastres naturais.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "DW Brasil",
-              "url": "https://www.dw.com/pt-br/temporal-no-rs-afeta-24-mil-pessoas-e-deixa-quatro-mortos/a-80011201?maca=bra-rss-br-all-1030-rdf"
-            }
-          ],
-          "updatedAt": "2026-11-21T22:30:00.000Z"
-        }
-      ]
-    },
     {
       "slug": "geral",
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "e46cdbdf6d6eb9b9",
-          "slug": "17ca67b11f5136bd",
-          "titulo": "Previsão do tempo para Santo André e Belo Horizonte",
-          "resumo": "Em Santo André, o dia começa com sol e muitas nuvens, seguida de pancadas de chuva e trovoadas à tarde, e temporal à noite. Em Belo Horizonte, sol com algumas nuvens e chuvas rápidas durante o dia e à noite, com trovoadas no período da tarde e temporal à noite.",
-          "porQueImporta": "Informação útil para planejamento de atividades ao ar livre e mobilidade urbana.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-belo-horizonte-mg-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T04:12:46.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Nl8fybhXzFUwjvLw9AAnJhHVUkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/A/7fHEGXTbS85es1CQFsUw/previsao-tempo-belo-horizonte-20261122-010758.jpeg"
-        },
-        {
-          "clusterId": "96192fd56ebc4f46",
-          "slug": "72caefb6f1b40ba7",
-          "titulo": "Incêndios florestais crescem 25% na PB e atingem mais de 3 mil hectares de vegetação em menos de um ano",
-          "resumo": "Queimadas na Paraíba aumentam com o tempo seco A Paraíba registrou 3.268 ocorrências de incêndios florestais entre janeiro e outubro de 2026, segundo dados do Corpo de Bombeiros enviados para a TV Paraíba. O número representa um aumento de aproximadamente 25% em relação ao mesmo período de 2025. Mais de 3 mil hectares de vegetação foram atingidos pelas chamas no estado. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp O levantamento aponta que os meses de setembro e outubro concentraram a maior parte das ocorrências, com 2.018 registros. Outubro foi o mês mais crítico, com 1.330…",
+          "clusterId": "baa0d4b0fa46f87e",
+          "slug": "b15347ef0408f605",
+          "titulo": "Batida frontal entre carros deixa duas mulheres feridas na BR-153 em Rio Preto",
+          "resumo": "Duas mulheres ficaram feridas após uma batida frontal entre dois carros na manhã deste domingo (22), no km 49 da Rodovia Transbrasiliana (BR-153), em São José do Rio Preto (SP). Segundo a Polícia Rodoviária Federal (PRF), o acidente ocorreu por volta das 5h. A motorista de um dos veículos, de 25 anos, sofreu ferimentos moderados, enquanto a passageira, de 30 anos, ficou em estado grave. As duas foram socorridas e levadas ao Hospital de Base (HB). 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Ainda de acordo com a PRF, o motorista do outro carro envolvido na colisão deixou o…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/incendios-florestais-crescem-25percent-na-pb-e-atingem-mais-de-3-mil-hectares-de-vegetacao-em-menos-de-um-ano.ghtml"
+              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/22/batida-frontal-entre-carros-deixa-duas-mulheres-feridas-na-br-153-em-rio-preto.ghtml"
             }
           ],
-          "updatedAt": "2026-11-21T23:53:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Co7OXwlPQb3RcNcmRVydrAQn5io=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/o/rdvlEqQfyPyeMihCjrJQ/incendio-ok.png"
+          "updatedAt": "2026-11-22T14:32:22.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/a2akFXwtQwGZtDQTw5VlXRc6YbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/9/0Wuh6gQLG99DkZauzMJA/novo-projeto-1-.png"
+        },
+        {
+          "clusterId": "c8923a3cc4c6642b",
+          "slug": "3950fc20cf5c59f5",
+          "titulo": "Empresa de ônibus terá que pagar R$ 160 mil à família de idoso morto após atropelamento em MG",
+          "resumo": "Fachada da sede do TJMG em Belo Horizonte Juarez Rodrigues / TJMG A empresa Auto Onibus Floramar terá que pagar R$ 160 mil em indenização ao filho e à companheira de um idoso de 76 anos que morreu após ser atropelado por um ônibus em Poços de Caldas, no Sul de Minas. A Justiça aumentou o valor da reparação por danos morais, que passou de R$ 30 mil para R$ 80 mil a cada familiar. A decisão foi divulgada na quinta-feira (19). 📲 Siga a página do g1 Sul de Minas no Instagram O acidente aconteceu em agosto de 2023. Segundo o processo, o idoso conversava no meio da rua quando o ônibus fez uma…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/22/empresa-de-onibus-tera-que-pagar-r-160-mil-a-familia-de-idoso-morto-apos-atropelamento-em-mg.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T14:11:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/wzDam8XyF2T47z0tVzDoKy4OU2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/X/5VYmD6REGBqK6DSB6smw/tjmg.jpg"
+        },
+        {
+          "clusterId": "4d9214101c26e075",
+          "slug": "dbb92f193aad1792",
+          "titulo": "Quatro pessoas morrem e uma fica ferida em acidente de carro em Ipojuca",
+          "resumo": "Quatro pessoas morrem e uma fica ferida em acidente de carro em Ipojuca Quatro pessoas morreram e outra ficou ferido em um acidente de carro na rodovia PE-09, em Ipojuca, no Grande Recife (veja vídeo acima). O Corpo de Bombeiros foi acionado na madrugada deste domingo (22) e atuou para remover quatro vítimas das ferragens. Em nota, os bombeiros afirmaram que três mulheres e um homem já estavam mortos quando a equipe chegou. Uma quarta mulher foi socorrida pelo Serviço de Atendimento Móvel de Urgência (Samu). ✅ Receba no WhatsApp as notícias do g1 PE O acidente ocorreu próximo de Porto de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/22/quatro-pessoas-morrem-e-uma-fica-ferida-em-acidente-de-carro-em-ipojuca.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T14:10:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/imII7S0-2jyzVQ6o17Ne41F2ng0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/V/B35epFTF6uEldhToA04Q/artes-g1-79-.jpg"
+        },
+        {
+          "clusterId": "dce24bd43bc8723d",
+          "slug": "12c2d2670bfd1705",
+          "titulo": "Vigilante penitenciário que matou motociclista por app na T-63: PM diz que irá investigar condutas de policiais que atenderam ocorrência",
+          "resumo": "Motociclista atropelado por vigilante penitenciário temporario morre em hospital A Polícia Militar de Goiás vai investigar as condutas dos policiais que atenderam à ocorrência do acidente no qual um vigilante penitenciário temporário matou um motociclista por aplicativo, em Goiânia. Rubens Batista Teles entrou com o seu carro na contramão na Avenida T-63 e atingiu a moto de Uelton dos Santos Nogueira, na qual também estava um passageiro. O g1 entrou em contato com Rubens por celular e por e-mail, mas não obteve retorno até a última atualização desta reportagem. A sua defesa não foi…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/11/22/vigilante-penitenciario-que-matou-motociclista-por-app-na-t-63-pm-diz-que-ira-investigar-condutas-de-policiais-que-atenderam-ocorrencia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T14:08:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2zLcGGI4YqmOr_7ah8D8L_hnOG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/gPI6DDQEeryMb6yCfADQ/uelton-dos-santos-nogueira-motociclista-acidente-na-t-63.jpg"
+        },
+        {
+          "clusterId": "d75f76c4a9412937",
+          "slug": "e7dcb70540274d92",
+          "titulo": "Temporal causa estragos em Aparecida, deixa cinco feridos e dois soterrados",
+          "resumo": "Temporal registrado no município do Vale do Paraíba, no interior paulista, acumulou cerca de 103 milímetros de chuva em poucas horas, provocando alagamentos, danos a imóveis e estragos em escolas",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/temporal-causa-estragos-em-aparecida-deixa-cinco-feridos-e-dois-soterrados/"
+            }
+          ],
+          "updatedAt": "2026-11-22T14:08:29.000Z"
+        },
+        {
+          "clusterId": "336db5299edb8dd6",
+          "slug": "fab975aacd8fc99f",
+          "titulo": "VÍDEO: incêndio em veículo provoca fumaça escura em avenida de Várzea Grande (MT)",
+          "resumo": "Incêndio em veículo provoca fumaça escura em avenida de Várzea Grande (MT) Um veículo pegou fogo na manhã deste domingo (22), na Avenida Leôncio Lopes de Miranda, ao lado de um mercado, em Várzea Grande, região metropolitana de Cuiabá. O Corpo de Bombeiros foi acionado, mas não informou, nas informações preliminares, se houve feridos. Imagens registradas no local mostram os bombeiros tentando controlar as chamas, que provocaram uma grande quantidade de fumaça escura (assista acima). Durante o atendimento, também é possível ouvir um estrondo semelhante a uma explosão. Em seguida, as equipes…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/22/video-incendio-em-veiculo-provoca-fumaca-escura-em-avenida-de-varzea-grande-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T13:44:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/aYytQDf0z-F3lDlu5nwd9XL3KGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/z/FL1YplRFKoNbPcxQNkiA/enem-2-.png"
+        },
+        {
+          "clusterId": "8301a803efab63d8",
+          "slug": "6b6be595759fc4c6",
+          "titulo": "Pessoa morre em acidente de moto em Porto Real",
+          "resumo": "Uma pessoa morreu em um acidente de moto no sábado (21) em Porto Real (RJ). O caso aconteceu no bairro Novo Horizonte. Segundo o Serviço de Atendimento Móvel de Urgência (Samu), os agentes foram acionados para uma colisão entre moto e árvore. No local, a vítima não resistiu aos ferimentos e morreu. O óbito foi constatado pela equipe. Uma equipe de perícia esteve na cena do acidente para levantar informações que possam ajudar nas investigações. Em seguida, o corpo foi removido para o Instituto Médico Legal (IML). Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1 no WhatsApp O caso foi…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/22/pessoa-morre-em-acidente-de-moto-em-porto-real.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T13:34:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/c96c-r5twZLWe0zZ0rltTPG_R0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/5/L/TJUiYbRzugEKiHpzTlrg/1200-x-800-px-40-.png"
+        },
+        {
+          "clusterId": "b3ddf0c1afc2bc79",
+          "slug": "78872afd86b165da",
+          "titulo": "El Niño: fortes chuvas causam inundações e afetam mais de 7 mil em Galápagos",
+          "resumo": "Vista aérea das inundações no bairro de La Cascada, em Puerto Ayora, na ilha de Santa Cruz, no arquipélago de Galápagos, Equador, em 21 de novembro de 2026, após fortes chuvas. Carlos Espinosa / AFP Em botes, a nado ou com água na altura da cintura, moradores das ilhas Galápagos tentam salvar o que podem em meio às chuvas torrenciais e inundações provocadas pelo fenômeno El Niño, que já afetaram 7.425 pessoas no arquipélago equatoriano desde o início da emergência, em agosto. As inundações se tornaram recorrentes durante o atual episódio do fenômeno meteorológico, que eleva a temperatura das…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/22/el-nino-galapagos-chuvas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T13:34:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/J2wHv_U4j7Xa0DUtJw9SCGYD39Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/F/VUQTCBSrCY4PMmElN5nA/afp-20261121-d89h3qq-v1-midres-ecuadorweatherfloodelnino.jpg"
+        },
+        {
+          "clusterId": "a62e52159424254a",
+          "slug": "e9bdb604fcdbbbe9",
+          "titulo": "Fumaça de queimadas deixa qualidade do ar péssima em Parintins e outros cinco municípios neste domingo (22)",
+          "resumo": "Qualidade do ar chegou a níveis até dez vezes maiores que o considerado \"péssimo\" em Parintins, na noite deste sábado (21). Reprodução/Redes Sociais A qualidade do ar é considerada péssima em Parintins e em outros seis municípios do Amazonas na manhã deste domingo (22). Às 8h, a concentração de partículas poluidoras no ar chegou a 254,7 microgramas por metro cúbico (µg/m³) na Vila Amazônia, distrito de Parintins. Na região central da cidade, o índice era de 229,8 µg/m³. Os dados são do Sistema Eletrônico de Vigilância Ambiental (Selva), da Universidade do Estado do Amazonas (UEA). O nível de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/22/fumaca-de-queimadas-deixa-qualidade-do-ar-pessima-em-parintins-e-outros-seis-municipios-neste-domingo-22.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T13:31:09.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WtXMBG0xkuENflgOPkeAezEazWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/f/DJ5HAjRBGAmJA6KmLWmw/fumaca-pin.png"
+        },
+        {
+          "clusterId": "51917ddccfe35ffb",
+          "slug": "2a68f96868bb3ccc",
+          "titulo": "Secretário de Cultura sofre cortes profundos na cabeça ao tentar proteger pessoas de vendaval em Londrina: 'Não deu tempo de nada'",
+          "resumo": "Secretário de Cultura fica ferido ao tentar proteger pessoas de vendaval em Londrina O secretário municipal de Cultura de Londrina, no norte do Paraná, conhecido como Marcão Kareca, sofreu cortes profundos na cabeça durante o vendaval que atingiu a cidade na sexta-feira (20). Ele participava de um evento no Museu Histórico da cidade quando caiu e bateu o rosto em um degrau. Assista o relato acima. Em vídeo gravado no hospital, no sábado (21), Marcão contou que tentava levar pessoas para dentro do museu para protegê-las da força do vento quando sofreu a queda. \"Nós estávamos em cima do palco e…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/22/secretario-cultura-ferido-cabeca-vendaval-londrina.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T13:29:13.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/AebTyxERqwLeaa7VEYLb2ob4H6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/x/JZ7WEzRui8zHAnvECY2w/fundo-vermelho-g1-1-.png"
+        },
+        {
+          "clusterId": "9cedd4ad76f2ad81",
+          "slug": "112a5af01e8c1720",
+          "titulo": "Jovem morre e passageira fica ferida em acidente de moto em avenida de Marília",
+          "resumo": "Um jovem de 26 anos morreu e uma jovem de 20 anos ficou ferida em um acidente de moto na madrugada deste sábado (21), na via expressa da Avenida Sampaio Vidal, na zona sul de Marília (SP). Segundo o boletim de ocorrência, Igor Nakazawa Carpino conduzia a motocicleta com a passageira na garupa quando, por motivos ainda desconhecidos, perdeu o controle da direção e os dois caíram na pista. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp O Serviço de Atendimento Móvel de Urgência (Samu) foi acionado, mas o motociclista morreu ainda no local. A jovem foi socorrida e levada ao Hospital das…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/11/22/jovem-morre-apos-acidente-de-moto-em-trindade.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T13:12:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/tAaCT1IGkgcirw4DFlNsb373Y2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/X/N3SX08R5WNTVcx9vm4eA/padrao-foto-texto-g1-2026-11-22t095904.014.jpg"
         },
         {
           "clusterId": "85271d292913d374",
@@ -418,23 +380,6 @@
           ],
           "updatedAt": "2026-11-21T18:26:21.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/rlQchaRDTDghpcA6tqueeyq2MOM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/psTBuXThKXyTFjIGfymA/afp-20261121-d8826zd-v1-highres-peruearthquake.jpg"
-        },
-        {
-          "clusterId": "dbb6890b909e4fd4",
-          "slug": "99b94e4df2d2aa83",
-          "titulo": "Empresários e políticos se unem para socorrer população atingida por temporal no RS",
-          "resumo": "Carretas com geradores, água e comida seguem para a cidade",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/politica/empresarios-e-politicos-se-unem-para-socorrer-populacao-atingida-por-temporal-no-rs/"
-            }
-          ],
-          "updatedAt": "2026-11-21T17:47:52.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Tupancireta-Foto-de-Cristiano-Gasparin.jpg"
         },
         {
           "clusterId": "80ac3aa19f312e96",
@@ -520,23 +465,216 @@
           ],
           "updatedAt": "2026-11-20T19:18:39.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/0SX_Qf8jDq6Xsrpdbmn1b58yje4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/tE5JoYQwqVMwmNm33WjQ/2026-08-24t203204z-1892034612-rc2q4nadcrz5-rtrmadp-3-haiti-violence.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
         {
-          "clusterId": "f281ec440d8054d7",
-          "slug": "90364238795c3375",
-          "titulo": "'Robôs assassinos' já são usados em guerras, mas países não chegam a acordo sobre limites na ONU",
-          "resumo": "Um homem está em meio aos escombros de um prédio de escritórios que pegou fogo após ser atingido durante ataques russos com mísseis e drones, em meio à ofensiva da Rússia contra a Ucrânia, em Kiev. REUTERS/Thomas Peter A conferência da ONU sobre os chamados \"robôs assassinos\" entra na reta final nesta sexta-feira (20), mas os países não entraram em consenso sobre a abertura de negociações para regulamentar esse tipo de armamento, sobretudo devido à oposição da Rússia. Os sistemas de armas autônomas, conhecidos como \"robôs assassinos\", selecionam e atacam alvos sem intervenção humana nessas…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
+          "clusterId": "e5eb9cee4beee17d",
+          "slug": "a50769aeafeb605f",
+          "titulo": "Acidente entre moto e caminhão deixa motociclista ferido em Campinas",
+          "resumo": "Um motociclista foi ferido em colisão com caminhão na Rodovia Santos Dumont, em frente ao Aeroporto Internacional de Viracopos, em Campinas. O helicóptero Águia foi acionado para o resgate e a vítima foi encaminhada ao Hospital de Clínicas da Unicamp. Até o momento não há informações sobre o estado de saúde do motociclista.",
+          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias de grande tráfego.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/inovacao/noticia/2026/11/20/robos-assassinos-ja-sao-usados-em-guerras-mas-paises-nao-chegam-a-acordo-sobre-limites-na-onu.ghtml"
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/22/acidente-com-moto-deixa-homem-ferido-na-santos-dumont-em-campinas-aguia.ghtml"
             }
           ],
-          "updatedAt": "2026-11-20T14:00:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/mhhwSTKug2q_7CS0Yh9EGuGzkxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/B/7HYhOjTJOuMhC5yWjqmA/2026-11-20t105448z-149963271-rc2lroaso7nj-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+          "updatedAt": "2026-11-22T16:19:08.000Z"
+        },
+        {
+          "clusterId": "ed3ca8fff2c6dc78",
+          "slug": "b032c91322046a9f",
+          "titulo": "Acidente com carreta na ViaLagos, RJ-124, causa interdição",
+          "resumo": "No km 30 da ViaLagos, em Araruama, uma carreta tombou no final da manhã de domingo, bloqueando totalmente a rodovia no sentido Região dos Lagos. A Polícia Rodoviária Estadual informou que ainda não há dados sobre vítimas. Bombeiros atuaram no local no início da tarde. A concessionária ainda não respondeu ao pedido de informações.",
+          "porQueImporta": "A interdição pode afetar o tráfego e a segurança dos usuários da via.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/22/acidente-com-carreta-interdita-rj-124-a-vialagos-no-sentido-regiao-dos-lagos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T15:55:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WB6mOJjAKBm6Vo2F83qpF3zaPRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/7/l0cACWT8eoycYC8PKihg/bombeiros-atuam-no-resgate-a-vitima-no-acidente-com-carreta-na-vialagos.png"
+        },
+        {
+          "clusterId": "3f0d643205005dde",
+          "slug": "a81c299af44e8bd8",
+          "titulo": "Jovem morre e adolescente fica gravemente ferida após moto bater contra poste em São José dos Campos",
+          "resumo": "Um motociclista de 19 anos perdeu o controle e bateu em um poste na Avenida Pedro Friggi, em São José dos Campos, no início da madrugada. O jovem morreu no local e a passageira, de 17 anos, ficou gravemente ferida. O acidente ocorreu por volta das 3h55, em frente ao Spani Atacadista, no Jardim Pararangaba. O boletim de ocorrência indica que o motociclista seguia no sentido Centro.",
+          "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito noturnos em áreas urbanas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/22/jovem-morre-e-adolescente-fica-gravemente-ferida-apos-moto-bater-contra-poste-em-sao-jose-dos-campos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T15:42:21.000Z"
+        },
+        {
+          "clusterId": "afa0e4fe25b77b33",
+          "slug": "59b1fcde14db698f",
+          "titulo": "Casal morre e filho de 3 anos fica gravemente ferido em acidente na GO-523",
+          "resumo": "Um casal morreu e seu filho de 3 anos ficou gravemente ferido em colisão entre motocicleta e carro na GO-523, em Caturaí, Região Metropolitana de Goiânia. O acidente ocorreu por volta das 21h de sábado, no km 03. O motorista do carro abandonou o local antes da chegada da Polícia Militar. As vítimas foram socorridas pelo Corpo de Bombeiros e equipes de saúde.",
+          "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança viária nas estradas regionais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/11/22/casal-morre-e-filho-de-3-anos-fica-gravemente-ferido-em-acidente-na-go-523.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T15:27:03.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/XwkEhe82yqJhu2q9s5ZA384MgpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/Xq2gB0Q8qA5AUuMs45mA/familia-acidente-go-523.jpg"
+        },
+        {
+          "clusterId": "aaa9c38a853126f2",
+          "slug": "466e28f20010ea73",
+          "titulo": "Jogador da NFL é arremessado de carro e fica gravemente ferido",
+          "resumo": "Um jogador do Tennessee Titans foi arremessado de seu veículo e sofreu ferimentos graves após colidir com um motorista de aplicativo na Flórida. Segundo relatório policial, o atleta teria agredido o motorista antes da colisão. O acidente resultou em danos ao veículo e lesões no jogador.",
+          "porQueImporta": "O incidente envolve um atleta de alto perfil e destaca riscos de violência e acidentes de trânsito.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/futebol-americano/jogador-da-nfl-e-arremessado-de-carro-e-fica-gravemente-ferido/"
+            }
+          ],
+          "updatedAt": "2026-11-22T15:01:35.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "e2ad6e99c0c0a6df",
+          "slug": "314dc1f9e96507b7",
+          "titulo": "Tragédia no RS: 5 mortos em tempestade em Tupanciretã",
+          "resumo": "Ventos superiores a 110 km/h causaram uma tempestade na Região Central do Rio Grande do Sul, resultando em cinco mortes, 265 feridos e quase 20 mil pessoas desalojadas. A ocorrência afetou principalmente a cidade de Tupanciretã, onde os danos foram mais intensos. As autoridades continuam investigando as causas e providenciando assistência às vítimas.",
+          "porQueImporta": "A tempestade demonstra a gravidade dos eventos climáticos extremos no estado, exigindo atenção das autoridades e apoio às comunidades afetadas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/tragedia-no-rs-quem-sao-as-5-vitimas-da-tempestade-em-tupancireta"
+            }
+          ],
+          "updatedAt": "2026-11-22T16:21:37.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/foto-vitimas.jpg"
+        },
+        {
+          "clusterId": "b324af599a4b35c6",
+          "slug": "eb245ea605a18d8d",
+          "titulo": "Supercélula no Rio Grande do Sul causa mortes e deslocamentos",
+          "resumo": "Uma supercélula gerou ventos de até 114 km/h, atingindo 36 municípios do Rio Grande do Sul. O fenômeno deixou cinco mortos e quase 9 mil residências afetadas. Vários moradores foram deslocados para abrigos temporários. As autoridades continuam avaliando os danos e coordenando ações de socorro.",
+          "porQueImporta": "O evento demonstra a intensidade dos fenômenos meteorológicos na região e a necessidade de preparação e resposta rápida a desastres naturais.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "DW Brasil",
+              "url": "https://www.dw.com/pt-br/tempestades-no-rs-deixam-mortos-e-milhares-de-deslocados/a-80011201?maca=bra-rss-br-all-1030-rdf"
+            }
+          ],
+          "updatedAt": "2026-11-22T16:13:00.000Z"
+        },
+        {
+          "clusterId": "c44c7aa3a1c145cd",
+          "slug": "105d5068cfe4a240",
+          "titulo": "Tornados de intensidade F1 atingem Foz do Iguaçu e Manoel Ribas no Paraná",
+          "resumo": "Dois tornados de intensidade F1 ocorreram na sexta-feira (20) no Paraná, causando queda de árvores, destelhamento de imóveis e interrupção de energia em 50 mil casas. Em Foz do Iguaçu, equipes continuam realizando limpeza e reparos, enquanto em Manoel Ribas as principais ações de reconstrução já foram concluídas, segundo a Defesa Civil. Os fenômenos foram registrados pelo Sistema de Tecnologia e Monitoramento Ambiental do Paraná (Simepar).",
+          "porQueImporta": "O evento demonstra a vulnerabilidade de áreas urbanas a fenômenos meteorológicos extremos e a necessidade de ações rápidas de recuperação.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/22/veja-como-ficaram-cidades-atingidas-por-tornados.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T15:17:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/j38wdhXsKvWY8bthoe_LEfb2jDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/3/9lCs5TToeEfNEBcjwOAA/0cc2f7e8-3b1e-43c1-85c5-7599ab403c12.jpg"
+        },
+        {
+          "clusterId": "b905a2cb1b0b8356",
+          "slug": "fcb6b2f458e6efa7",
+          "titulo": "Cidade nos EUA se prepara para marés gigantescas",
+          "resumo": "Autoridades na Califórnia se preparam para marés altas que podem causar dilúvio, enquanto a Flórida continua sofrendo com inundações históricas. O alerta é parte de um fenômeno de El Niño que altera padrões climáticos. O prefeito pede que moradores armazenem comida e reconsiderem viagens.",
+          "porQueImporta": "O evento pode provocar danos significativos e risco à população.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/21/cidade-nos-eua-se-prepara-para-mares-gigantescas-prefeito-pede-que-moradores-estoquem-comida-e-reconsiderem-viagens.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T01:24:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/DDh5tXPeEr3qmHG7u4CvgZtiukU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/f/gEAiJgTaixTjVsNAzjhQ/ap26324695777074.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "a0f89291ef24bab6",
+          "slug": "4849f4e08866d4e5",
+          "titulo": "Incêndio atinge centro comunitário de igreja em São Paulo",
+          "resumo": "Um incêndio atingiu cerca de 180 m² do Centro Comunitário Candelária, na Vila Maria, Zona Norte de São Paulo, na madrugada de domingo. O fogo foi controlado pelo Corpo de Bombeiros, mas voltou a atingir o local na manhã seguinte. Não houve vítimas e 12 viaturas foram mobilizadas, com apoio da Enel, Sabesp, Defesa Civil e policiamento.",
+          "porQueImporta": "O incidente demonstra a necessidade de vigilância e manutenção de segurança em espaços comunitários.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/incendio-atinge-centro-comunitario-de-igreja-na-zona-norte-de-sp-e-fogo-volta-na-manha-deste-domingo.ghtml"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/incendio-atinge-centro-comunitario-de-igreja-em-sao-paulo/"
+            }
+          ],
+          "updatedAt": "2026-11-22T15:45:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/o8tJ4WsglJFl_tqqQZrYcsLqWK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/9/A6TgsDS3ujBDEqJNuf6w/montagem-horizontal-1200px-59-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "enchente",
+      "label": "Enchente",
+      "stories": [
+        {
+          "clusterId": "b0ede309b8b1e389",
+          "slug": "ba66d831d150262a",
+          "titulo": "SUS avalia instalar posto médico avançado em Tupanciretã (RS) após temporal",
+          "resumo": "Após o temporal que atingiu Tupanciretã, o SUS mobilizou 13 profissionais para avaliar a rede de saúde e reforçar a assistência aos moradores. O desastre deixou cinco mortos e 265 feridos. A avaliação tem como objetivo instalar um posto médico avançado na região.",
+          "porQueImporta": "Garantir atendimento médico adequado em áreas afetadas por desastres naturais.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sus-avalia-instalar-posto-medico-avancado-em-tupancireta-rs-apos-temporal/"
+            }
+          ],
+          "updatedAt": "2026-11-22T16:18:11.000Z"
         }
       ]
     },
@@ -545,44 +683,90 @@
       "label": "Deslizamento",
       "stories": [
         {
-          "clusterId": "9b1b55a4747a5317",
-          "slug": "e5838eb3a3d9220e",
-          "titulo": "Belo Horizonte permanece sob alerta de risco geológico por fortes chuvas",
-          "resumo": "Belo Horizonte continua sob alerta de risco geológico até a próxima terça-feira, 21, devido a fortes chuvas que atingiram a cidade nos últimos dias. A Defesa Civil indica risco forte nas regionais Barreiro, Oeste, Centro Sul, Leste, Noroeste, Pampulha, Venda Nova e Norte, e risco moderado na regional Nordeste. O alerta alerta para possibilidade de deslizamentos e desabamentos.",
-          "porQueImporta": "O alerta indica potencial de desastres que podem afetar a população e a infraestrutura da cidade.",
+          "clusterId": "94e1e3f74a467023",
+          "slug": "b49a617282edd9b4",
+          "titulo": "Deslizamento de terra deixa cinco famílias desalojadas em Salvador",
+          "resumo": "Um deslizamento de terra ocorreu na manhã de domingo no bairro do IAPI, em Salvador, deixando cinco famílias desalojadas. O Corpo de Bombeiros realizou o resgate, retirando moradores, incluindo uma bebê de 11 meses, de um corredor de concreto que se abriu. Ninguém ficou ferido. Imagens de moradores mostram a cratera formada no terreno.",
+          "porQueImporta": "O evento destaca a vulnerabilidade de áreas urbanas a deslizamentos, exigindo atenção das autoridades para prevenção e resiliência.",
           "categoria": "Deslizamento",
           "categoriaSlug": "deslizamento",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/22/em-meio-a-fortes-chuvas-bh-segue-ate-a-proxima-terca-feira-sob-alerta-de-risco-geologico.ghtml"
+              "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/22/deslizamento-de-terra-deixa-familias-desalojadas-em-salvador.ghtml"
             }
           ],
-          "updatedAt": "2026-11-22T07:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Ufw8HP2xpfOyNSVGNkU1xxzbtd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/y/ar6MN0QVuqEgrwgampFQ/risco-geologico-novembro.jpg"
+          "updatedAt": "2026-11-22T16:07:55.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/9ELZAcYM6gV2zEh-lldo0QQygMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/5zzohrQ4Cmku0yARozxQ/deslizamento.png"
         }
       ]
     },
     {
-      "slug": "seca",
-      "label": "Seca",
+      "slug": "acidente",
+      "label": "Acidente",
       "stories": [
         {
-          "clusterId": "5bfc52200952cea0",
-          "slug": "d03daa730c0a9195",
-          "titulo": "Roraima enfrenta seca severa devido ao El Niño",
-          "resumo": "Roraima está passando por uma seca intensa, com rios e igarapés secando fora do normal. Moradores dependem de abastecimento emergencial e enfrentam racionamento de água, redução de aulas escolares e perda de produção agrícola. A seca aumenta fatores que favorecem incêndios florestais. A principal causa apontada é o fenômeno El Niño.",
-          "porQueImporta": "A seca compromete recursos hídricos, a agricultura e aumenta o risco de incêndios, afetando a população local.",
-          "categoria": "Seca",
-          "categoriaSlug": "seca",
+          "clusterId": "7788b05ee58cb4f4",
+          "slug": "f04d94ce9d4c498c",
+          "titulo": "Jovem de 16 anos morre afogado em açude em Itapeva",
+          "resumo": "Um jovem de 16 anos, Rian Gabriel Oliveira Cardoso, morreu após se afogar em um açude no bairro Morada do Bosque, em Itapeva (SP). Ele foi socorrido e levado à Santa Casa de Itapeva, mas não resistiu. O corpo foi encaminhado ao Instituto Médico Legal, onde exames confirmaram a causa da morte como afogamento. O velório e sepultamento ocorreram na mesma tarde.",
+          "porQueImporta": "O caso destaca a necessidade de atenção à segurança em corpos d’água em áreas residenciais.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/22/falta-de-chuva-e-queda-no-nivel-do-principal-rio-por-que-roraima-enfrenta-seca-severa.ghtml"
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/22/jovem-de-16-anos-morre-afogado-em-acude-em-itapeva.ghtml"
             }
           ],
-          "updatedAt": "2026-11-22T07:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/h5gpm5iarcus5K7d7rck7PAXmgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/A/zJaFUhSSSWAlLJB531MA/fotos-rio-2-.jpg.jpeg"
+          "updatedAt": "2026-11-22T15:32:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CY1qtzK58NrBvO2Nv2-0YC9w0Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/b/PvYf5kStKuIf6nh61sMg/img-0825.new.01-frame-55.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "explosao",
+      "label": "Explosão",
+      "stories": [
+        {
+          "clusterId": "ced33295b37c7f60",
+          "slug": "947ece8009412266",
+          "titulo": "Ataque russo atinge prédio de apartamentos em Dymer, perto de Kiev",
+          "resumo": "Um ataque russo atingiu um prédio de cinco andares em Dymer, norte de Kiev, causando incêndio e destruição total. Pelo menos duas pessoas morreram e quatro ficaram feridas, segundo autoridades. Nove pessoas foram retiradas do local, incluindo uma criança, e outra foi hospitalizada. Bombeiros e equipes de resgate trabalharam no local.",
+          "porQueImporta": "O incidente demonstra a continuidade dos conflitos na região e a vulnerabilidade de áreas civis próximas à fronteira.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/22/ataque-russo-kiev-ucrania.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T15:10:57.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/cy94MgGrHgxmU8BqG3hdVOd_Rq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/6/zMajklTWa5gsMX7UDCkw/ap26326269093758.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "e37bd6c55756fd0e",
+          "slug": "cb89837e676f581d",
+          "titulo": "Jovem de 18 anos que se afogou na Praia do Recreio continua no IML",
+          "resumo": "Ágatha Silva Santos de Souza, de 18 anos, morreu após se afogar na Praia do Recreio dos Bandeirantes, na sexta-feira (20). O corpo permanece no Instituto Médico Legal de São Cristóvão. A mãe, Tatiane Silva, pediu ajuda para custear o funeral, tendo reunido cerca de R$ 900 e recebido um orçamento de R$ 3 mil.",
+          "porQueImporta": "A morte de uma jovem em situação de afogamento destaca a necessidade de atenção à segurança em praias e apoio às famílias em luto.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/22/corpo-de-jovem-que-morreu-apos-se-afogar-no-recreio-segue-no-iml.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T15:02:05.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/2xya_KL1cs8CrWCPMymj1bsas6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/z/qA3DejQ0KYj35xVI0aKw/rj1-limpo-20261120-1115-frame-72627.jpeg"
         }
       ]
     },
@@ -606,29 +790,6 @@
           ],
           "updatedAt": "2026-11-21T00:32:20.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/rx3wkui_rfhQ6tdBxE_Pnefa1Ok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/B4obhBQlmB1pzmA2095Q/terremoto-peru.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "explosao",
-      "label": "Explosão",
-      "stories": [
-        {
-          "clusterId": "27b50100cd448785",
-          "slug": "39e6263fdcf5ddd8",
-          "titulo": "Prédio mais alto da Arábia Saudita é atingido em ataque dos houthis à sede de fundo soberano do país",
-          "resumo": "O arranha-céu mais alto da Arábia Saudita, que abriga a sede do fundo soberano do país, foi atingido em um ataque dos houthis nesta quinta-feira (19). A Defesa Civil informou que o ataque causou danos materiais a vários andares do edifício e a construções próximas, mas não deixou feridos. As janelas de sete a oito andares da PIF Tower foram estilhaçadas.",
-          "porQueImporta": "O ataque demonstra a capacidade de projeção de força dos houthis e pode afetar a estabilidade financeira do país.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/20/predio-mais-alto-da-arabia-saudita-e-atingido-em-ataque-dos-houthis-a-sede-de-fundo-soberano-do-pais.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-20T14:42:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UBEyBAkMp8ZuiHsOIrePq9GJqcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/O/1vG8S2QD2w4J96CT7TLw/pit-tower.jpg"
         }
       ]
     }
