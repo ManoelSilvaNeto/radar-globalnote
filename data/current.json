@@ -1,176 +1,187 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T16:33:56.593Z",
+  "generatedAt": "2026-11-23T01:04:06.651Z",
   "home": [
     {
-      "clusterId": "a0f89291ef24bab6",
-      "slug": "4849f4e08866d4e5",
-      "titulo": "Incêndio atinge centro comunitário de igreja em São Paulo",
-      "resumo": "Um incêndio atingiu cerca de 180 m² do Centro Comunitário Candelária, na Vila Maria, Zona Norte de São Paulo, na madrugada de domingo. O fogo foi controlado pelo Corpo de Bombeiros, mas voltou a atingir o local na manhã seguinte. Não houve vítimas e 12 viaturas foram mobilizadas, com apoio da Enel, Sabesp, Defesa Civil e policiamento.",
-      "porQueImporta": "O incidente demonstra a necessidade de vigilância e manutenção de segurança em espaços comunitários.",
-      "categoria": "Incêndio",
-      "categoriaSlug": "incendio",
+      "clusterId": "71030a03efb9ed79",
+      "slug": "927671f78e8f4a28",
+      "titulo": "Defesa Civil emite alertas severos por chuvas na Grande São Paulo",
+      "resumo": "A Defesa Civil monitorou ocorrências de chuvas nas últimas 72 horas, emitindo mais de 40 alertas em municípios de São Paulo, incluindo o Vale do Paraíba, Vale do Ribeira e a faixa leste paulista. Na capital, 25 alertas foram emitidos, prevendo raios, vento forte e possibilidade de granizo. As chuvas intensas causaram alagamentos em bairros como M'Boi Morim e derrubaram forro de shopping em São Paulo. O Centro de Gerenciamento de Emergências Climáticas registrou pancadas de chuva moderada a forte nos municípios de Cotia e Itapevi.",
+      "porQueImporta": "As chuvas intensas aumentam risco de alagamentos e danos urbanos, exigindo atenção das autoridades e população.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/incendio-atinge-centro-comunitario-de-igreja-na-zona-norte-de-sp-e-fogo-volta-na-manha-deste-domingo.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos-defesa-civil-emite-alerta-severo.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/defesa-civil-monitora-ocorrencias-por-chuvas-em-municipios-de-sp-e-emite-mais-de-40-alertas/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/defesa-civil-emite-alerta-severo-para-chuvas-na-grande-sao-paulo/"
+        }
+      ],
+      "updatedAt": "2026-11-23T00:04:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/fsg5PIYyA-yFqPBXq4zSJeVkBYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/P/YBrnaHR3O08psOKzARfg/fotojet-137-.jpg"
+    },
+    {
+      "clusterId": "ae0b252b9ac236fa",
+      "slug": "3827ce2306a71e9d",
+      "titulo": "Governo reconhece calamidade em Tupanciretã após temporal",
+      "resumo": "A tempestade que atingiu Tupanciretã, no Rio Grande do Sul, causou cinco mortes e 265 feridos. Cerca de 20.000 pessoas foram desalojadas. O governo reconheceu a situação como calamidade pública e planeja concentrar esforços na ajuda humanitária.",
+      "porQueImporta": "O reconhecimento oficial facilita a mobilização de recursos e assistência às vítimas.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/apos-tempestade-que-matou-5-em-tupancireta-governo-reconhece-calamidade-publica/"
         },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-brasil/incendio-atinge-centro-comunitario-de-igreja-em-sao-paulo/"
+          "url": "https://www.poder360.com.br/poder-brasil/governo-reconhece-calamidade-em-tupancireta-apos-temporal-no-rs/"
         }
       ],
-      "updatedAt": "2026-11-22T15:45:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/o8tJ4WsglJFl_tqqQZrYcsLqWK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/9/A6TgsDS3ujBDEqJNuf6w/montagem-horizontal-1200px-59-.jpg"
+      "updatedAt": "2026-11-22T23:54:49.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Tupancireta.jpeg"
     },
     {
-      "clusterId": "e2ad6e99c0c0a6df",
-      "slug": "314dc1f9e96507b7",
-      "titulo": "Tragédia no RS: 5 mortos em tempestade em Tupanciretã",
-      "resumo": "Ventos superiores a 110 km/h causaram uma tempestade na Região Central do Rio Grande do Sul, resultando em cinco mortes, 265 feridos e quase 20 mil pessoas desalojadas. A ocorrência afetou principalmente a cidade de Tupanciretã, onde os danos foram mais intensos. As autoridades continuam investigando as causas e providenciando assistência às vítimas.",
-      "porQueImporta": "A tempestade demonstra a gravidade dos eventos climáticos extremos no estado, exigindo atenção das autoridades e apoio às comunidades afetadas.",
+      "clusterId": "231cd72cefa1652d",
+      "slug": "76d6e734e1fb9f44",
+      "titulo": "Chuva em SP deixa 3 pessoas afogadas e provoca queda de teto em shopping",
+      "resumo": "A chuva intensa em São Paulo resultou em três afogamentos e causou a queda de um teto em um shopping. A Defesa Civil emitiu alerta severo, destacando risco de raios, vento forte e granizo. O incidente ocorreu em área urbana, com impacto direto em pessoas e estrutura comercial.",
+      "porQueImporta": "O evento demonstra a gravidade das condições climáticas extremas na região, afetando a segurança pública e infraestrutura urbana.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/tragedia-no-rs-quem-sao-as-5-vitimas-da-tempestade-em-tupancireta"
+          "url": "https://www.metropoles.com/sao-paulo/chuva-em-sp-deixa-3-pessoas-afogadas-e-provoca-queda-de-teto-em-shopping"
         }
       ],
-      "updatedAt": "2026-11-22T16:21:37.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/foto-vitimas.jpg"
+      "updatedAt": "2026-11-23T00:05:50.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/whatsapp-image-2026-11-22-at-21-06-18.jpeg"
     },
     {
-      "clusterId": "e5eb9cee4beee17d",
-      "slug": "a50769aeafeb605f",
-      "titulo": "Acidente entre moto e caminhão deixa motociclista ferido em Campinas",
-      "resumo": "Um motociclista foi ferido em colisão com caminhão na Rodovia Santos Dumont, em frente ao Aeroporto Internacional de Viracopos, em Campinas. O helicóptero Águia foi acionado para o resgate e a vítima foi encaminhada ao Hospital de Clínicas da Unicamp. Até o momento não há informações sobre o estado de saúde do motociclista.",
-      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias de grande tráfego.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/22/acidente-com-moto-deixa-homem-ferido-na-santos-dumont-em-campinas-aguia.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-22T16:19:08.000Z"
-    },
-    {
-      "clusterId": "b0ede309b8b1e389",
-      "slug": "ba66d831d150262a",
-      "titulo": "SUS avalia instalar posto médico avançado em Tupanciretã (RS) após temporal",
-      "resumo": "Após o temporal que atingiu Tupanciretã, o SUS mobilizou 13 profissionais para avaliar a rede de saúde e reforçar a assistência aos moradores. O desastre deixou cinco mortos e 265 feridos. A avaliação tem como objetivo instalar um posto médico avançado na região.",
-      "porQueImporta": "Garantir atendimento médico adequado em áreas afetadas por desastres naturais.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sus-avalia-instalar-posto-medico-avancado-em-tupancireta-rs-apos-temporal/"
-        }
-      ],
-      "updatedAt": "2026-11-22T16:18:11.000Z"
-    },
-    {
-      "clusterId": "b324af599a4b35c6",
-      "slug": "eb245ea605a18d8d",
-      "titulo": "Supercélula no Rio Grande do Sul causa mortes e deslocamentos",
-      "resumo": "Uma supercélula gerou ventos de até 114 km/h, atingindo 36 municípios do Rio Grande do Sul. O fenômeno deixou cinco mortos e quase 9 mil residências afetadas. Vários moradores foram deslocados para abrigos temporários. As autoridades continuam avaliando os danos e coordenando ações de socorro.",
-      "porQueImporta": "O evento demonstra a intensidade dos fenômenos meteorológicos na região e a necessidade de preparação e resposta rápida a desastres naturais.",
+      "clusterId": "b171e360b278b40d",
+      "slug": "2d7ef636c464aef8",
+      "titulo": "Supercélula com microexplosões causa destruição em Tupanciretã",
+      "resumo": "Uma supercélula atingiu Tupanciretã, no Rio Grande do Sul, na madrugada de sexta-feira (20), com ventos de até 200 km/h e microexplosões. O temporal deixou cinco mortos, 265 feridos e 48 desabrigados, além de danificar quase toda a cidade, retorcendo vigas metálicas e expondo estruturas de concreto. A Defesa Civil relatou que cerca de 5 mil casas foram atingidas e que todos os comércios do centro foram afetados. A destruição foi documentada por vídeos aéreos e fotos captadas por drones.",
+      "porQueImporta": "O evento demonstra a intensidade de tempestades severas no interior do Rio Grande do Sul e destaca a necessidade de preparação e resposta rápida a desastres naturais.",
       "categoria": "Tempestade",
       "categoriaSlug": "tempestade",
       "sources": [
         {
+          "name": "G1",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/novas-imagens-tupancireta.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-23T00:02:08.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YjyOF4r2eiSk5VRKUOdUBxcBC3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/1/GvivBXSEegCaeZnXXuGA/dji-fly-20261122-143500-339-1795368913257-photo-optimized.jpg"
+    },
+    {
+      "clusterId": "bfc4a182c28e02b5",
+      "slug": "f8a0ff94ac8d455b",
+      "titulo": "Corpo de homem desaparecido após embarcação virar no Rio Araguaia é encontrado",
+      "resumo": "O corpo de Renato Sandrin, de 60 anos, foi localizado na manhã de domingo (22) no Rio Araguaia, na região de Santa Fé do Araguaia, Tocantins. Ele estava desaparecido desde a noite de sexta-feira (20), quando a embarcação em que estava virou nas proximidades de uma fazenda. Outro homem estava no barco e foi resgatado com vida no mesmo dia do acidente, com a ajuda de moradores.",
+      "porQueImporta": "O caso destaca os riscos de navegação em rios e a necessidade de atenção à segurança em embarcações.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/22/corpo-de-homem-desaparecido-apos-embarcacao-virar-no-rio-araguaia-e-encontrado.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-22T23:41:49.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/GhYNvpnjgMQoKn6ReC8rHS3KgZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/deeugwQYWwLin4Acooeg/copia-de-modelo-foto-fundo-borrado-2-.png"
+    },
+    {
+      "clusterId": "891b7a3a017f3489",
+      "slug": "926caa91b224740f",
+      "titulo": "Inmet emite alerta de tempestade e granizo para regiões Norte, Noroeste, Serrana e dos Lagos do RJ",
+      "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta de perigo potencial para tempestades e granizo válido de meia-noite a 23h59 de terça-feira (24). O aviso cobre municípios das regiões Norte e Noroeste Fluminense, além das regiões Serrana e dos Lagos, incluindo Campos dos Goytacazes, Itaperuna, Santo Antônio de Pádua, Cabo Frio, Arraial do Cabo, Araruama, Petrópolis, Teresópolis e Nova Friburgo.",
+      "porQueImporta": "O alerta informa a população sobre risco de tempestades e granizo, permitindo medidas preventivas.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/22/inmet-emite-alerta-de-tempestade-e-granizo-para-regioes-norte-noroeste-serrana-e-dos-lagos-do-rj.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-22T23:32:35.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/W7hdgrXXkLSBf34lhsy6HziP3Xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/O/zW5VF9ThKBGSaAKeZ7eA/whatsapp-image-2023-04-08-at-14.46.42.jpeg"
+    },
+    {
+      "clusterId": "d16c5b70106c4ea5",
+      "slug": "e14d9f9d33b6ff87",
+      "titulo": "Buggy com quatro turistas capota em rodovia de Fernando de Noronha",
+      "resumo": "Um buggy com quatro turistas, dois homens e duas mulheres, capotou e caiu em uma vala na BR-363, perto do bairro da Basinha, na noite de domingo. O motorista perdeu o controle do veículo. O Corpo de Bombeiros e o SAMU atenderam a ocorrência e três ambulâncias levaram as vítimas ao Hospital São Lucas.",
+      "porQueImporta": "O acidente destaca a necessidade de segurança no tráfego em áreas turísticas de Fernando de Noronha.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/22/buggy-com-quatro-turistas-capota-em-rodovia-de-fernando-de-noronha.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-22T22:55:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/eREMLcX6qWMyhmQnVNOAA9M_ry0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/MF5PtzQi61qNb2ZKGNWQ/buggy-na-vala-1.jpg"
+    },
+    {
+      "clusterId": "b65a49f8cba5009e",
+      "slug": "be7dc5878eaa8600",
+      "titulo": "Defesa Civil de Niterói emite alerta de risco de alagamentos e inundações",
+      "resumo": "A Defesa Civil de Niterói emitiu alerta severo de risco de alagamentos e inundações no domingo, 22 de dezembro, que foi recebido pelos moradores em seus celulares. O alerta se deve a uma formação de nuvens de chuva e raios na região da Ilha do Governador, em direção à Niterói. Em razão das condições climáticas, o show gratuito de Gilberto Gil em comemoração ao aniversário da cidade foi adiado para 20 de dezembro, conforme comunicado da prefeitura e do artista.",
+      "porQueImporta": "O alerta informa risco de alagamentos que pode afetar a população e a programação cultural da cidade.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/22/defesa-civil-de-niteroi-emite-alerta-severo-de-risco-de-alagamentos-e-inundacoes-e-show-de-gil-e-adiado.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-22T22:36:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/h6bhrwA-f9js4Df4Fs2ykDhxpdg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/c/P2BGBvRTqHAQ1pyzcMwg/imagem-cortada-67-.jpg"
+    },
+    {
+      "clusterId": "178c751f9bc01ac3",
+      "slug": "99bc41ffc124ac7b",
+      "titulo": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
+      "resumo": "Um navio russo ancorado em Benghazi explodiu, ferindo alguns tripulantes. A explosão ocorreu em meio a tensões entre Rússia e Ucrânia. Autoridades investigam se o incidente foi causado por um drone. A ocorrência aumenta a preocupação de que o conflito se expanda para outras regiões.",
+      "porQueImporta": "O evento pode indicar a extensão do conflito russo-ucraniano para a Líbia, afetando a segurança regional.",
+      "categoria": "Explosão",
+      "categoriaSlug": "explosao",
+      "sources": [
+        {
           "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/tempestades-no-rs-deixam-mortos-e-milhares-de-deslocados/a-80011201?maca=bra-rss-br-all-1030-rdf"
+          "url": "https://www.dw.com/pt-br/explosão-em-navio-russo-na-líbia-levanta-suspeita-de-ataque-de-drone/a-80014687?maca=bra-rss-br-all-1030-rdf"
         }
       ],
-      "updatedAt": "2026-11-22T16:13:00.000Z"
+      "updatedAt": "2026-11-22T22:34:00.000Z"
     },
     {
-      "clusterId": "94e1e3f74a467023",
-      "slug": "b49a617282edd9b4",
-      "titulo": "Deslizamento de terra deixa cinco famílias desalojadas em Salvador",
-      "resumo": "Um deslizamento de terra ocorreu na manhã de domingo no bairro do IAPI, em Salvador, deixando cinco famílias desalojadas. O Corpo de Bombeiros realizou o resgate, retirando moradores, incluindo uma bebê de 11 meses, de um corredor de concreto que se abriu. Ninguém ficou ferido. Imagens de moradores mostram a cratera formada no terreno.",
-      "porQueImporta": "O evento destaca a vulnerabilidade de áreas urbanas a deslizamentos, exigindo atenção das autoridades para prevenção e resiliência.",
-      "categoria": "Deslizamento",
-      "categoriaSlug": "deslizamento",
+      "clusterId": "23e7caf5e7dd3a01",
+      "slug": "11742aaed472b1e1",
+      "titulo": "Defesa Civil de Macaé alerta para chuvas intensas e ventos fortes",
+      "resumo": "A Defesa Civil de Macaé emitiu alerta para chuvas intensas e ventos fortes entre a tarde de domingo e a noite de segunda. A previsão indica acumulados de 20 a 50 milímetros por dia e rajadas de vento acima de 40 km/h. O aviso, iniciado às 15h de domingo, permanece válido até 23h59 de segunda.",
+      "porQueImporta": "O alerta visa prevenir danos e garantir a segurança da população diante das condições meteorológicas adversas.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/22/deslizamento-de-terra-deixa-familias-desalojadas-em-salvador.ghtml"
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/22/defesa-civil-de-macae-alerta-para-chuvas-intensas-e-ventos-fortes-ate-a-noite-desta-segunda.ghtml"
         }
       ],
-      "updatedAt": "2026-11-22T16:07:55.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9ELZAcYM6gV2zEh-lldo0QQygMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/5zzohrQ4Cmku0yARozxQ/deslizamento.png"
-    },
-    {
-      "clusterId": "ed3ca8fff2c6dc78",
-      "slug": "b032c91322046a9f",
-      "titulo": "Acidente com carreta na ViaLagos, RJ-124, causa interdição",
-      "resumo": "No km 30 da ViaLagos, em Araruama, uma carreta tombou no final da manhã de domingo, bloqueando totalmente a rodovia no sentido Região dos Lagos. A Polícia Rodoviária Estadual informou que ainda não há dados sobre vítimas. Bombeiros atuaram no local no início da tarde. A concessionária ainda não respondeu ao pedido de informações.",
-      "porQueImporta": "A interdição pode afetar o tráfego e a segurança dos usuários da via.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/22/acidente-com-carreta-interdita-rj-124-a-vialagos-no-sentido-regiao-dos-lagos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-22T15:55:49.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/WB6mOJjAKBm6Vo2F83qpF3zaPRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/7/l0cACWT8eoycYC8PKihg/bombeiros-atuam-no-resgate-a-vitima-no-acidente-com-carreta-na-vialagos.png"
-    },
-    {
-      "clusterId": "3f0d643205005dde",
-      "slug": "a81c299af44e8bd8",
-      "titulo": "Jovem morre e adolescente fica gravemente ferida após moto bater contra poste em São José dos Campos",
-      "resumo": "Um motociclista de 19 anos perdeu o controle e bateu em um poste na Avenida Pedro Friggi, em São José dos Campos, no início da madrugada. O jovem morreu no local e a passageira, de 17 anos, ficou gravemente ferida. O acidente ocorreu por volta das 3h55, em frente ao Spani Atacadista, no Jardim Pararangaba. O boletim de ocorrência indica que o motociclista seguia no sentido Centro.",
-      "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito noturnos em áreas urbanas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/22/jovem-morre-e-adolescente-fica-gravemente-ferida-apos-moto-bater-contra-poste-em-sao-jose-dos-campos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-22T15:42:21.000Z"
-    },
-    {
-      "clusterId": "7788b05ee58cb4f4",
-      "slug": "f04d94ce9d4c498c",
-      "titulo": "Jovem de 16 anos morre afogado em açude em Itapeva",
-      "resumo": "Um jovem de 16 anos, Rian Gabriel Oliveira Cardoso, morreu após se afogar em um açude no bairro Morada do Bosque, em Itapeva (SP). Ele foi socorrido e levado à Santa Casa de Itapeva, mas não resistiu. O corpo foi encaminhado ao Instituto Médico Legal, onde exames confirmaram a causa da morte como afogamento. O velório e sepultamento ocorreram na mesma tarde.",
-      "porQueImporta": "O caso destaca a necessidade de atenção à segurança em corpos d’água em áreas residenciais.",
-      "categoria": "Acidente",
-      "categoriaSlug": "acidente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/22/jovem-de-16-anos-morre-afogado-em-acude-em-itapeva.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-22T15:32:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CY1qtzK58NrBvO2Nv2-0YC9w0Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/b/PvYf5kStKuIf6nh61sMg/img-0825.new.01-frame-55.jpeg"
-    },
-    {
-      "clusterId": "afa0e4fe25b77b33",
-      "slug": "59b1fcde14db698f",
-      "titulo": "Casal morre e filho de 3 anos fica gravemente ferido em acidente na GO-523",
-      "resumo": "Um casal morreu e seu filho de 3 anos ficou gravemente ferido em colisão entre motocicleta e carro na GO-523, em Caturaí, Região Metropolitana de Goiânia. O acidente ocorreu por volta das 21h de sábado, no km 03. O motorista do carro abandonou o local antes da chegada da Polícia Militar. As vítimas foram socorridas pelo Corpo de Bombeiros e equipes de saúde.",
-      "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança viária nas estradas regionais.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/go/goias/noticia/2026/11/22/casal-morre-e-filho-de-3-anos-fica-gravemente-ferido-em-acidente-na-go-523.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-22T15:27:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/XwkEhe82yqJhu2q9s5ZA384MgpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/Xq2gB0Q8qA5AUuMs45mA/familia-acidente-go-523.jpg"
+      "updatedAt": "2026-11-22T22:33:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/81rZfn0fmCfqOq4pE1MhrtKiFiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/D/IznoUdSOK2qHdla5k7xQ/defesa-civil-foto-rui-porto-filho-3.jpg"
     }
   ],
   "categorias": [
@@ -179,122 +190,306 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "baa0d4b0fa46f87e",
-          "slug": "b15347ef0408f605",
-          "titulo": "Batida frontal entre carros deixa duas mulheres feridas na BR-153 em Rio Preto",
-          "resumo": "Duas mulheres ficaram feridas após uma batida frontal entre dois carros na manhã deste domingo (22), no km 49 da Rodovia Transbrasiliana (BR-153), em São José do Rio Preto (SP). Segundo a Polícia Rodoviária Federal (PRF), o acidente ocorreu por volta das 5h. A motorista de um dos veículos, de 25 anos, sofreu ferimentos moderados, enquanto a passageira, de 30 anos, ficou em estado grave. As duas foram socorridas e levadas ao Hospital de Base (HB). 📲 Participe do canal do g1 Rio Preto e Araçatuba no WhatsApp Ainda de acordo com a PRF, o motorista do outro carro envolvido na colisão deixou o…",
+          "clusterId": "9955fa5b5847c553",
+          "slug": "f28b19a7cea909f5",
+          "titulo": "Filha de Bruce Willis pede desculpas após publicar foto com o pai",
+          "resumo": "A filha de Bruce Willis, Talullah Willis, postou nas redes sociais uma foto ao lado do ator, que vive com demência frontotemporal desde 2023. Em seguida, ela se desculpou pelo compartilhamento, reconhecendo a sensibilidade da situação. O ator continua a lidar com o diagnóstico, enquanto a família tenta manter a privacidade.",
+          "porQueImporta": "A ação destaca a atenção à saúde mental de celebridades e a responsabilidade nas redes sociais.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/pop/celebridades/filha-de-bruce-willis-se-desculpa-apos-publicar-foto-com-o-pai-entenda/"
+            }
+          ],
+          "updatedAt": "2026-11-22T22:08:16.000Z"
+        },
+        {
+          "clusterId": "90bbdbb43fa56811",
+          "slug": "53ec826089ae2d11",
+          "titulo": "Motociclista fica em estado grave após acidente na Avenida John Boyd Dunlop, em Campinas",
+          "resumo": "Motociclista fica em estado grave após acidente na Avenida John Boyd Dunlop, em Campinas Um motociclista ficou gravemente ferido após um acidente na Avenida John Boyd Dunlop, no Jardim Ipaussurama, em Campinas, na tarde deste domingo (22). O caso ocorreu próximo ao Shopping Parque das Bandeiras. Familiares informaram que o homem foi levado para o Hospital de Clínicas (HC) da Unicamp, onde foi sedado e entubado para passar por exames. Segundo o Corpo de Bombeiros, a vítima foi encontrada inconsciente e com sangramento intenso. A corporação foi acionada às 15h36 e enviou duas viaturas ao local.…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/22/batida-frontal-entre-carros-deixa-duas-mulheres-feridas-na-br-153-em-rio-preto.ghtml"
+              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/22/motociclista-fica-em-estado-grave-apos-acidente-na-avenida-john-boyd-dunlop-em-campinas.ghtml"
             }
           ],
-          "updatedAt": "2026-11-22T14:32:22.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/a2akFXwtQwGZtDQTw5VlXRc6YbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/9/0Wuh6gQLG99DkZauzMJA/novo-projeto-1-.png"
+          "updatedAt": "2026-11-22T22:07:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/NTsHvdhQjB_RujxoxcJlqmYjb5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/u/fPaDbFQAO2uH0C0xhAUQ/design-sem-nome-2-.png"
         },
         {
-          "clusterId": "c8923a3cc4c6642b",
-          "slug": "3950fc20cf5c59f5",
-          "titulo": "Empresa de ônibus terá que pagar R$ 160 mil à família de idoso morto após atropelamento em MG",
-          "resumo": "Fachada da sede do TJMG em Belo Horizonte Juarez Rodrigues / TJMG A empresa Auto Onibus Floramar terá que pagar R$ 160 mil em indenização ao filho e à companheira de um idoso de 76 anos que morreu após ser atropelado por um ônibus em Poços de Caldas, no Sul de Minas. A Justiça aumentou o valor da reparação por danos morais, que passou de R$ 30 mil para R$ 80 mil a cada familiar. A decisão foi divulgada na quinta-feira (19). 📲 Siga a página do g1 Sul de Minas no Instagram O acidente aconteceu em agosto de 2023. Segundo o processo, o idoso conversava no meio da rua quando o ônibus fez uma…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/22/empresa-de-onibus-tera-que-pagar-r-160-mil-a-familia-de-idoso-morto-apos-atropelamento-em-mg.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T14:11:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/wzDam8XyF2T47z0tVzDoKy4OU2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/X/5VYmD6REGBqK6DSB6smw/tjmg.jpg"
-        },
-        {
-          "clusterId": "4d9214101c26e075",
-          "slug": "dbb92f193aad1792",
-          "titulo": "Quatro pessoas morrem e uma fica ferida em acidente de carro em Ipojuca",
-          "resumo": "Quatro pessoas morrem e uma fica ferida em acidente de carro em Ipojuca Quatro pessoas morreram e outra ficou ferido em um acidente de carro na rodovia PE-09, em Ipojuca, no Grande Recife (veja vídeo acima). O Corpo de Bombeiros foi acionado na madrugada deste domingo (22) e atuou para remover quatro vítimas das ferragens. Em nota, os bombeiros afirmaram que três mulheres e um homem já estavam mortos quando a equipe chegou. Uma quarta mulher foi socorrida pelo Serviço de Atendimento Móvel de Urgência (Samu). ✅ Receba no WhatsApp as notícias do g1 PE O acidente ocorreu próximo de Porto de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/22/quatro-pessoas-morrem-e-uma-fica-ferida-em-acidente-de-carro-em-ipojuca.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T14:10:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/imII7S0-2jyzVQ6o17Ne41F2ng0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/V/B35epFTF6uEldhToA04Q/artes-g1-79-.jpg"
-        },
-        {
-          "clusterId": "dce24bd43bc8723d",
-          "slug": "12c2d2670bfd1705",
-          "titulo": "Vigilante penitenciário que matou motociclista por app na T-63: PM diz que irá investigar condutas de policiais que atenderam ocorrência",
-          "resumo": "Motociclista atropelado por vigilante penitenciário temporario morre em hospital A Polícia Militar de Goiás vai investigar as condutas dos policiais que atenderam à ocorrência do acidente no qual um vigilante penitenciário temporário matou um motociclista por aplicativo, em Goiânia. Rubens Batista Teles entrou com o seu carro na contramão na Avenida T-63 e atingiu a moto de Uelton dos Santos Nogueira, na qual também estava um passageiro. O g1 entrou em contato com Rubens por celular e por e-mail, mas não obteve retorno até a última atualização desta reportagem. A sua defesa não foi…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/11/22/vigilante-penitenciario-que-matou-motociclista-por-app-na-t-63-pm-diz-que-ira-investigar-condutas-de-policiais-que-atenderam-ocorrencia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T14:08:45.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/2zLcGGI4YqmOr_7ah8D8L_hnOG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/gPI6DDQEeryMb6yCfADQ/uelton-dos-santos-nogueira-motociclista-acidente-na-t-63.jpg"
-        },
-        {
-          "clusterId": "d75f76c4a9412937",
-          "slug": "e7dcb70540274d92",
-          "titulo": "Temporal causa estragos em Aparecida, deixa cinco feridos e dois soterrados",
-          "resumo": "Temporal registrado no município do Vale do Paraíba, no interior paulista, acumulou cerca de 103 milímetros de chuva em poucas horas, provocando alagamentos, danos a imóveis e estragos em escolas",
+          "clusterId": "1bc340c32f9642ba",
+          "slug": "330dbd8881f47163",
+          "titulo": "Athletico-PR 4 x 2 Remo: veja os melhores momentos pelo Brasileirão",
+          "resumo": "Furacão levou a melhor diante de sua torcida e rebaixou o rival paraense para a Série B",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/temporal-causa-estragos-em-aparecida-deixa-cinco-feridos-e-dois-soterrados/"
+              "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-pr-4-x-2-remo-veja-os-melhores-momentos-pelo-brasileirao/"
             }
           ],
-          "updatedAt": "2026-11-22T14:08:29.000Z"
+          "updatedAt": "2026-11-22T21:56:41.000Z"
         },
         {
-          "clusterId": "336db5299edb8dd6",
-          "slug": "fab975aacd8fc99f",
-          "titulo": "VÍDEO: incêndio em veículo provoca fumaça escura em avenida de Várzea Grande (MT)",
-          "resumo": "Incêndio em veículo provoca fumaça escura em avenida de Várzea Grande (MT) Um veículo pegou fogo na manhã deste domingo (22), na Avenida Leôncio Lopes de Miranda, ao lado de um mercado, em Várzea Grande, região metropolitana de Cuiabá. O Corpo de Bombeiros foi acionado, mas não informou, nas informações preliminares, se houve feridos. Imagens registradas no local mostram os bombeiros tentando controlar as chamas, que provocaram uma grande quantidade de fumaça escura (assista acima). Durante o atendimento, também é possível ouvir um estrondo semelhante a uma explosão. Em seguida, as equipes…",
+          "clusterId": "b887e1dbd920ed9c",
+          "slug": "580e5a050fc36b2d",
+          "titulo": "Alerta severo: Cidade de SP entra em estado de atenção para alagamentos",
+          "resumo": "Celulares de várias áreas da capital receberam um \"alerta severo\" da Defesa Civil neste domingo (22/11) para chuvas com raios e granizo",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/sao-paulo/alerta-severo-cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos"
+            }
+          ],
+          "updatedAt": "2026-11-22T21:45:55.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/chuvasp04.jpg"
+        },
+        {
+          "clusterId": "a168ff46b139925c",
+          "slug": "03507713fc4a264e",
+          "titulo": "Vídeo mostra cobertura de barracão sendo arrancada pelo vento, em cidade atingida por tornado no Paraná: 'Nunca tinha visto uma coisa assim'",
+          "resumo": "Cobertura de barracão é levada por vento em Manoel Ribas O agricultor Eliseu Domingues Moreira e o filho, Cleiton Oliveira Moreira, conseguiram captar em vídeo o momento em que a cobertura de um barracão em uma propriedade vizinha foi levado pelo vento, na comunidade de Santa Mariana do Sul, em Manoel Ribas, na região Central do Paraná. A cidade foi atingida por um tornado por volta das 18h desta sexta-feira (20). Entenda abaixo. 🔎 De acordo com o Sistema de Tecnologia e Monitoramento Ambiental do Paraná (Simepar), apenas pelas imagens não é possível confirmar se o vídeo captou, ou não, a…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/22/video-incendio-em-veiculo-provoca-fumaca-escura-em-avenida-de-varzea-grande-mt.ghtml"
+              "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/22/video-registra-cobertura-de-barracao-sendo-levada-pelo-vento-em-cidade-atingida-por-tornado-no-parana-nunca-tinha-visto-uma-coisa-assim.ghtml"
             }
           ],
-          "updatedAt": "2026-11-22T13:44:21.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/aYytQDf0z-F3lDlu5nwd9XL3KGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/z/FL1YplRFKoNbPcxQNkiA/enem-2-.png"
+          "updatedAt": "2026-11-22T21:13:04.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Z2xuZUXiuma_7ONDLqKZEXQi8rc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/B/d7vwBVRtyzM4kH2XH87Q/tornado-manoel-ribas-parana-3.jpeg"
         },
         {
-          "clusterId": "8301a803efab63d8",
-          "slug": "6b6be595759fc4c6",
-          "titulo": "Pessoa morre em acidente de moto em Porto Real",
-          "resumo": "Uma pessoa morreu em um acidente de moto no sábado (21) em Porto Real (RJ). O caso aconteceu no bairro Novo Horizonte. Segundo o Serviço de Atendimento Móvel de Urgência (Samu), os agentes foram acionados para uma colisão entre moto e árvore. No local, a vítima não resistiu aos ferimentos e morreu. O óbito foi constatado pela equipe. Uma equipe de perícia esteve na cena do acidente para levantar informações que possam ajudar nas investigações. Em seguida, o corpo foi removido para o Instituto Médico Legal (IML). Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1 no WhatsApp O caso foi…",
+          "clusterId": "69b4c1dc5b2706f4",
+          "slug": "0332c354cf8394e5",
+          "titulo": "Athletico-PR vence, rebaixa o Remo e encaminha vaga na Libertadores",
+          "resumo": "Furacão se mantém na quinta colocação e ainda sonha com vaga direta na fase de grupos da competição continental; time paraense, que sofreu para chegar até Curitiba, vai jogar a Série B em 2027",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-pr-vence-rebaixa-o-remo-e-encaminha-vaga-na-libertadores/"
+            }
+          ],
+          "updatedAt": "2026-11-22T21:00:02.000Z"
+        },
+        {
+          "clusterId": "95d2ee7fadb58dac",
+          "slug": "6d039fe9c719ebbe",
+          "titulo": "Incêndio destrói Santuário Cova da Tia no PI; espaço fica no terceiro território quilombola mais populoso do país",
+          "resumo": "Santuário Cova da Tia, localizado em Bonfim do Piauí, foi destruído por um incêndio Jessica Viana // Andreia Viana O Santuário Cova da Tia, localizado em Bonfim do Piauí, foi destruído por um incêndio de grandes proporções entre a madrugada de sábado (21) e a manhã de domingo (22). Segundo a administração do local, as causas do incêndio ainda são desconhecidas. Apesar dos danos, ninguém ficou ferido. O santuário está situado no Território Quilombola Lagoas, que, segundo dados do Censo Demográfico 2022 do Instituto Brasileiro de Geografia e Estatística (IBGE), divulgados entre 2023 e 2024, é o…",
           "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/22/pessoa-morre-em-acidente-de-moto-em-porto-real.ghtml"
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/22/incendio-destroi-santuario.ghtml"
             }
           ],
-          "updatedAt": "2026-11-22T13:34:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/c96c-r5twZLWe0zZ0rltTPG_R0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/5/L/TJUiYbRzugEKiHpzTlrg/1200-x-800-px-40-.png"
+          "updatedAt": "2026-11-22T20:52:17.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/SXQ7-ZyXxIWitqWrNPe3RD3XCas=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/E/E96lyyQNeEEpPc0kiyzg/edicao-imagens-g1-46-.jpg"
+        },
+        {
+          "clusterId": "2f25c04ea5463e92",
+          "slug": "4139fa4d47a0b817",
+          "titulo": "'Em questão de 20 minutos devastou tudo', diz homem resgatado de escombros após temporal em Tupanciretã, no RS",
+          "resumo": "'Em questão de 20 minutos devastou tudo', diz homem resgatado de escombros no RS Um homem e sua mãe foram resgatados por vizinhos debaixo de escombros da própria casa após o temporal que deixou um rastro de destruição em Tupanciretã, na Região Central do Rio Grande do Sul, atingir a casa deles. Eles ficaram feridos e foram transferidos para um hospital em Cruz Alta. O município de Tupanciretã foi atingido por uma supercélula com indícios microexplosão e ventos de 114 km/h na madrugada desta sexta-feira (20). Houve cinco mortes confirmadas. 📲 Acesse o canal do g1 RS no WhatsApp \"Foi um…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/resgatado-escombros-tupancireta-rs.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T20:21:11.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fIuY3AA97JWsqfysUYPR3xCF8Pk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/B/9FvPZCRZSbZYm5brNOOw/g1-2026-11-22t171153.021.jpg"
+        },
+        {
+          "clusterId": "db8d67995478ea4e",
+          "slug": "5e511286d58a0afc",
+          "titulo": "Motociclista sem CNH morre após bater de frente com carro no litoral de SP; VÍDEO",
+          "resumo": "Motociclista sem CNH morre após bater de frente com carro em Guarujá, SP Um motociclista morreu após bater de frente com um carro em Guarujá, no litoral de São Paulo, na madrugada deste domingo (22). Segundo apurado pelo g1 junto à Polícia Militar (PM), o condutor da motocicleta não tinha Carteira Nacional de Habilitação (CNH). Policiais militares foram acionados para atender o acidente de trânsito na Avenida Santos Dumont, por volta das 4h30. As imagens gravadas pela câmera do carro envolvido no acidente mostram o momento da colisão frontal (assista acima). ✅Clique aqui para seguir o canal…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/22/motociclista-sem-cnh-morre-apos-bater-de-frente-com-carro-no-litoral-de-sp-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T20:20:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/C0pjSUHP1AKIHrxp8-1VDtBbhrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/M/Glaa7GSreMlWdwsLDhFg/acidente-guaruja-.jpg"
+        },
+        {
+          "clusterId": "92fee008b5065e4c",
+          "slug": "f987edd2190d69b8",
+          "titulo": "Quati morre atropelada e filhotes se deitam sobre o corpo da mãe em rodovia; vídeo emociona",
+          "resumo": "Quati morre atropelada e filhotes se deitam sobre o corpo da mãe em rodovia Uma quati morreu atropelada na GO-080, entre Jaraguá e a comunidade de Artulândia, em Goiás, e os filhotes deitaram sobre o corpo da mãe. O momento comovente foi registrado por uma ciclista que passava pelo local (veja acima). Em entrevista ao g1, Rosemeire Rocha contou que o acidente aconteceu no sábado (21), por volta das 12h30, quando ela e outras ciclistas estavam pedalando pela rodovia. Havia outro quati morto também, um pouco à frente da mãe. Os filhotes que escaparam estavam mamando na mãe, já morta. \"Quando eu…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/go/goias/noticia/2026/11/22/quati-morre-atropelada-e-filhotes-se-deitam-sobre-o-corpo-da-mae-em-rodovia-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T20:15:36.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/7UvYsQmrkXHt6zC-oztUdmvpo5I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/k/LzUWznTsWRCVOFZ7HDVA/quati-morre-atropelada.jpg"
+        },
+        {
+          "clusterId": "e3c79b2feefecdc3",
+          "slug": "1d5504fad7499e55",
+          "titulo": "Motociclista morre após perder controle da moto e cair às margens de rodovia em MT",
+          "resumo": "Uma equipe médica foi chamada para prestar atendimento, mas o profissional de plantão constatou que o motociclista já estava morto Reprodução O motociclista Odair Alberto Comerlato morreu após sofrer um acidente neste sábado (21), na MT-488, entre os municípios de Nova Maringá e Tapurah, a 433 km de Cuiabá. Ele perdeu o controle da motocicleta e caiu às margens da rodovia. De acordo com informações da Polícia Militar, a equipe foi acionada por volta das 9h30, após populares comunicarem o acidente. Quando os policiais chegaram, encontraram a vítima caída fora da pista. Conforme os primeiros…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/22/motociclista-morre-apos-perder-controle-da-moto-e-cair-as-margens-de-rodovia-em-mt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T20:09:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/tQFbfo0FQzlKPsub0AGdWifMsnM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/h/vyIKi4TB2SEFuyR7I7qw/enem-50-.jpg"
+        },
+        {
+          "clusterId": "b8faf734d28c4919",
+          "slug": "21d9fbf94ed315fc",
+          "titulo": "Homem desaparece após canoa naufragar no rio Mucajaí",
+          "resumo": "Um homem desapareceu após uma canoa naufragar no rio Mucajaí, na região da Vila São Silvestre, em Alto Alegre, ao Norte de Roraima. O Corpo de Bombeiros foi acionado neste domingo (22). A identidade do homem e as circunstâncias do naufrágio não foram divulgadas. ✅ Clique aqui para seguir o canal do g1 RR no WhatsApp Os bombeiros informaram que uma equipe de mergulhadores aguardou informações detalhadas e a localização exata do naufrágio para planejar a operação. As buscas subaquáticas devem começar ainda neste domingo. Agora no g1 LEIA TAMBÉM: Caminhão cegonha com carros pega fogo na BR-174,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/22/homem-desaparece-apos-canoa-naufragar-no-rio-mucajai.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T19:46:24.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KGxl_Lb7K0kwd80P9Jp2zySkwZk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/9/HCjdg1QEiXUnAQqfZNyw/buscas-ocorrem-em-alto-alegre.jpg"
+        },
+        {
+          "clusterId": "5e4e82ea49e6e15e",
+          "slug": "faa598227709dc8f",
+          "titulo": "Motorista de 20 anos fica gravemente ferido após carro capotar na BR-367, em Itinga",
+          "resumo": "Motorista de 20 anos fica gravemente ferido após carro capotar na BR-367, em Itinga Redes sociais Um homem de 20 anos ficou gravemente ferido após o carro que dirigia sair da pista e capotar na BR-367, na altura do km 257, em Itinga, no Vale do Jequitinhonha. O acidente aconteceu na manhã deste domingo (22), próximo ao distrito de Taquaral de Minas. De acordo com a Polícia Militar, o motorista seguia no sentido Itinga-Araçuaí quando, ao passar por uma curva, perdeu o controle da direção. O veículo atravessou a pista, atingiu o lado contrário da rodovia e capotou. 📲 Clique aqui para seguir o…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/22/motorista-de-20-anos-fica-gravemente-ferido-apos-carro-capotar-na-br-367-em-itinga.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T19:46:16.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/TIYzuxziZoilMXRoA4TYi8ZsQl0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/HXIA3kSyqlH05IrJcLZA/design-sem-nome-2-.jpg"
+        },
+        {
+          "clusterId": "6c1583c9d44aa91d",
+          "slug": "16a363f2c603aad1",
+          "titulo": "Motociclista é arremessado a mais de 30 metros após batida com carro no Paraná",
+          "resumo": "Motociclista é arremessado a mais de 30 metros após batida com carro no Paraná Um motociclista foi arremessado a mais de 30 metros após uma batida com um carro em Foz do Iguaçu, no oeste do Paraná, no sábado (21). Apesar do impacto, o homem conseguiu caminhar até a ambulância, mas exames posteriores identificaram duas fraturas no pé esquerdo. Ele precisou ser internado, mas não corre risco de vida. O acidente aconteceu por volta das 17h30, no cruzamento da Avenida Mário Filho com a Rua Maguari, no bairro Morumbi. ✅ Siga o g1 Foz do Iguaçu e região no WhatsApp Segundo informações iniciais, o…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/22/motociclista-e-arremessado-a-mais-de-30-metros-apos-batida-com-carro-no-parana.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T19:32:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fGhNex73ehRVoOFvjn7mPZSUS9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/G/9qkBOpRBWRA7kQIfHF0g/g1-pr-2026-11-22t162330.316.jpg"
+        },
+        {
+          "clusterId": "d291f32a0a0d7ee2",
+          "slug": "c4c5630cfd305023",
+          "titulo": "Idoso levado por enxurrada após rompimento de barragem é encontrado morto em Afonso Cláudio, no ES",
+          "resumo": "José da Silva Mariano foi encontrado morto após ter sido arrastado por uma enxurrada em Afonso Cláudio, na Região Serrana do Espírito Santo Reprodução/Rede social O corpo de um idoso de 76 anos que estava desaparecido foi encontrado neste domingo (22), no distrito Ibicaba, em Afonso Cláudio, na Região Serrana do Espírito Santo. José da Silva Mariano foi levado pela enxurrada provocada pelo rompimento de uma barragem, durante as fortes chuvas que atingiram o município na madrugada de sábado (21). O idoso morava com a esposa em uma casa na zona rural, próximo à divisa com Aimorés, em Minas…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/11/22/idoso-levado-por-enxurrada-apos-rompimento-de-barragem-e-encontrado-morto-no-es.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T19:20:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/mnsXYGQJof7Pt_2bbOPffUL5q08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/m/RiSfhHTPW45KmvXtvxyw/thumb-fotos-2026-11-22t160408.275.jpg"
+        },
+        {
+          "clusterId": "52e669685010cfb7",
+          "slug": "c38480be195aeac6",
+          "titulo": "VÍDEO: paredão de pedra na Serra do Rio do Rastro vira 'cachoeira' durante chuva forte em SC",
+          "resumo": "Chuva forte faz água escorrer por rochas na Serra do Rio do Rastro, em SC Um vídeo gravado neste domingo (22) mostra uma grande quantidade de água escorrendo pelas rochas na Serra do Rio do Rastro, na SC-390 (assista acima). O trecho, que liga Bom Jardim da Serra a Lauro Müller, é um dos principais cartões-postais de Santa Catarina, famoso por suas curvas sinuosas e íngremes e pelos paredões de pedras. A Polícia Militar Rodoviária (PMRv) publicou as imagens no início da tarde e alertou para a visibilidade limitada no trecho. Ao longo do dia, a Defesa Civil emitiu avisos sobre a possibilidade…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/22/video-paredao-serra-do-rio-do-rastro-agua-chuva-forte-em-sc.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T19:09:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rHzAgR_vqdu7S1VjGdtOyQ5Fa2Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/D/3zRBqDRCiABrAYKrTvXQ/fotojet.jpg"
+        },
+        {
+          "clusterId": "9411bdaa97bab2e4",
+          "slug": "e00ee6b715bbe125",
+          "titulo": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia",
+          "resumo": "Vista aérea feita por drone mostra fumaça saindo da fábrica PT Fonusa Agung Mulia, atingida por um incêndio em Cikande, na regência de Serang, província de Banten, na Indonésia, em novembro. Reuters Um incêndio atingiu uma fábrica de doces em Cikande, na ilha de Java, na Indonésia, na noite de sábado (21). Segundo a Reuters, várias pessoas morreram e pelo menos 50 estão desaparecidas. O fogo atingiu a fábrica PT Fonusa Agung Mulia, que pertence à empresa indonésia United Family Food. Imagens divulgadas pelo Corpo de Bombeiros mostram equipes tentando controlar as chamas durante a noite,…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T17:08:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/4zSznfSc7uIbVzsA529F38DJ_3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Y/sAAvYPTCar0GPShaOWZA/2026-11-22t105412z-317322532-rc2tsoa36gr2-rtrmadp-3-indonesia-fire.jpg"
+        },
+        {
+          "clusterId": "341ced19679300d7",
+          "slug": "ced4ab83a248cb4a",
+          "titulo": "Fiéis são hospitalizados após vazamento de gás em igreja na Alemanha",
+          "resumo": "Mais de 50 pessoas que acompanhavam missa de domingo no sul da Alemanha foram intoxicadas com monóxido de carbono. Dispositivo de segurança do aquecimento teria falhado.",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "DW Brasil",
+              "url": "https://www.dw.com/pt-br/fiéis-são-hospitalizados-após-vazamento-de-gás-em-igreja-na-alemanha/a-80014673?maca=bra-rss-br-all-1030-rdf"
+            }
+          ],
+          "updatedAt": "2026-11-22T17:05:00.000Z"
         },
         {
           "clusterId": "b3ddf0c1afc2bc79",
@@ -312,57 +507,6 @@
           ],
           "updatedAt": "2026-11-22T13:34:11.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/J2wHv_U4j7Xa0DUtJw9SCGYD39Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/F/VUQTCBSrCY4PMmElN5nA/afp-20261121-d89h3qq-v1-midres-ecuadorweatherfloodelnino.jpg"
-        },
-        {
-          "clusterId": "a62e52159424254a",
-          "slug": "e9bdb604fcdbbbe9",
-          "titulo": "Fumaça de queimadas deixa qualidade do ar péssima em Parintins e outros cinco municípios neste domingo (22)",
-          "resumo": "Qualidade do ar chegou a níveis até dez vezes maiores que o considerado \"péssimo\" em Parintins, na noite deste sábado (21). Reprodução/Redes Sociais A qualidade do ar é considerada péssima em Parintins e em outros seis municípios do Amazonas na manhã deste domingo (22). Às 8h, a concentração de partículas poluidoras no ar chegou a 254,7 microgramas por metro cúbico (µg/m³) na Vila Amazônia, distrito de Parintins. Na região central da cidade, o índice era de 229,8 µg/m³. Os dados são do Sistema Eletrônico de Vigilância Ambiental (Selva), da Universidade do Estado do Amazonas (UEA). O nível de…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/22/fumaca-de-queimadas-deixa-qualidade-do-ar-pessima-em-parintins-e-outros-seis-municipios-neste-domingo-22.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T13:31:09.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WtXMBG0xkuENflgOPkeAezEazWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/f/DJ5HAjRBGAmJA6KmLWmw/fumaca-pin.png"
-        },
-        {
-          "clusterId": "51917ddccfe35ffb",
-          "slug": "2a68f96868bb3ccc",
-          "titulo": "Secretário de Cultura sofre cortes profundos na cabeça ao tentar proteger pessoas de vendaval em Londrina: 'Não deu tempo de nada'",
-          "resumo": "Secretário de Cultura fica ferido ao tentar proteger pessoas de vendaval em Londrina O secretário municipal de Cultura de Londrina, no norte do Paraná, conhecido como Marcão Kareca, sofreu cortes profundos na cabeça durante o vendaval que atingiu a cidade na sexta-feira (20). Ele participava de um evento no Museu Histórico da cidade quando caiu e bateu o rosto em um degrau. Assista o relato acima. Em vídeo gravado no hospital, no sábado (21), Marcão contou que tentava levar pessoas para dentro do museu para protegê-las da força do vento quando sofreu a queda. \"Nós estávamos em cima do palco e…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/22/secretario-cultura-ferido-cabeca-vendaval-londrina.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T13:29:13.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/AebTyxERqwLeaa7VEYLb2ob4H6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/x/JZ7WEzRui8zHAnvECY2w/fundo-vermelho-g1-1-.png"
-        },
-        {
-          "clusterId": "9cedd4ad76f2ad81",
-          "slug": "112a5af01e8c1720",
-          "titulo": "Jovem morre e passageira fica ferida em acidente de moto em avenida de Marília",
-          "resumo": "Um jovem de 26 anos morreu e uma jovem de 20 anos ficou ferida em um acidente de moto na madrugada deste sábado (21), na via expressa da Avenida Sampaio Vidal, na zona sul de Marília (SP). Segundo o boletim de ocorrência, Igor Nakazawa Carpino conduzia a motocicleta com a passageira na garupa quando, por motivos ainda desconhecidos, perdeu o controle da direção e os dois caíram na pista. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp O Serviço de Atendimento Móvel de Urgência (Samu) foi acionado, mas o motociclista morreu ainda no local. A jovem foi socorrida e levada ao Hospital das…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/transito/noticia/2026/11/22/jovem-morre-apos-acidente-de-moto-em-trindade.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T13:12:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/tAaCT1IGkgcirw4DFlNsb373Y2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/X/N3SX08R5WNTVcx9vm4eA/padrao-foto-texto-g1-2026-11-22t095904.014.jpg"
         },
         {
           "clusterId": "85271d292913d374",
@@ -414,145 +558,6 @@
           ],
           "updatedAt": "2026-11-21T01:34:30.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/Lper7NP8qP4w-7nlactmObtIONQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/u/UvoJymQAmwizy9hgV4Gg/2025-01-08t065241z-650665384-rc275ca502hb-rtrmadp-3-california-wildfires-1-.jpg"
-        },
-        {
-          "clusterId": "beebc896406d0546",
-          "slug": "c50099023547b39b",
-          "titulo": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
-          "resumo": "Trinta e oito cidades no Rio Grande do Sul tiveram danos humanos ou materiais, segundo a Defesa Civil. Tupanciretã, na região central do Estado, teve cinco óbitos e 265 pessoas feridas.",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-11-21T01:16:58.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0843/live/70eea900-e541-11f1-86db-6b65e6759b43.jpg"
-        },
-        {
-          "clusterId": "d7a9943f21927d11",
-          "slug": "097da855b31aedcd",
-          "titulo": "Míssil russo atinge a Polônia, e primeiro-ministro fala em 'provocação'",
-          "resumo": "Explosões são registradas na Polônia; primeiro-ministro fala em 'provocação' Em meio a um dos ataques aéreos mais violentos da Rússia na Ucrânia desde 2022, o governo da Polônia informou que pelo menos três artefatos russos — dois mísseis e um drone — violaram seu espaço aéreo durante a madrugada desta sexta-feira (20/11). O primeiro-ministro do país, Donald Tusk, afirmou que não acredita que tenha se tratado de um acidente, porque exercícios militares tinham sido registrados na região. Embora ninguém tenha ficado ferido, e nenhum dano relatado, Varsóvia classificou o episódio como uma…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/20/missil-russo-atinge-a-polonia-e-primeiro-ministro-fala-em-provocacao.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-20T20:18:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YSpAopu5gtDKeFdcBzOpBcDi1ZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/4/ncIcYCTHSL5L7aqugJmw/missil.jpg"
-        },
-        {
-          "clusterId": "373273b71e726e8b",
-          "slug": "785d726c143dfa98",
-          "titulo": "Dois salvadorenhos morrem no Haiti enquanto manuseavam explosivos, diz Exército",
-          "resumo": "Dois soldados salvadorenhos morreram e outros dois ficaram feridos em uma explosão enquanto trabalhavam com material explosivo durante uma missão no Haiti, informou o Exército de El Salvador nesta sexta-feira (20). Leia também: Tropas de Bukele no Haiti: população manifesta apoio, mas analistas alertam para escalada Os militares não informaram onde ocorreu a explosão nem que tipo de explosivos estavam manuseando. Um porta-voz do governo salvadorenho afirmou que não poderia fornecer mais informações naquele momento. No mês passado, o presidente Nayib Bukele enviou mais de 2 mil soldados ao…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/20/salvadorenhos-morte-haiti.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-20T19:18:39.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/0SX_Qf8jDq6Xsrpdbmn1b58yje4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/tE5JoYQwqVMwmNm33WjQ/2026-08-24t203204z-1892034612-rc2q4nadcrz5-rtrmadp-3-haiti-violence.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "e5eb9cee4beee17d",
-          "slug": "a50769aeafeb605f",
-          "titulo": "Acidente entre moto e caminhão deixa motociclista ferido em Campinas",
-          "resumo": "Um motociclista foi ferido em colisão com caminhão na Rodovia Santos Dumont, em frente ao Aeroporto Internacional de Viracopos, em Campinas. O helicóptero Águia foi acionado para o resgate e a vítima foi encaminhada ao Hospital de Clínicas da Unicamp. Até o momento não há informações sobre o estado de saúde do motociclista.",
-          "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária em rodovias de grande tráfego.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/22/acidente-com-moto-deixa-homem-ferido-na-santos-dumont-em-campinas-aguia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T16:19:08.000Z"
-        },
-        {
-          "clusterId": "ed3ca8fff2c6dc78",
-          "slug": "b032c91322046a9f",
-          "titulo": "Acidente com carreta na ViaLagos, RJ-124, causa interdição",
-          "resumo": "No km 30 da ViaLagos, em Araruama, uma carreta tombou no final da manhã de domingo, bloqueando totalmente a rodovia no sentido Região dos Lagos. A Polícia Rodoviária Estadual informou que ainda não há dados sobre vítimas. Bombeiros atuaram no local no início da tarde. A concessionária ainda não respondeu ao pedido de informações.",
-          "porQueImporta": "A interdição pode afetar o tráfego e a segurança dos usuários da via.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/22/acidente-com-carreta-interdita-rj-124-a-vialagos-no-sentido-regiao-dos-lagos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T15:55:49.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WB6mOJjAKBm6Vo2F83qpF3zaPRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/7/l0cACWT8eoycYC8PKihg/bombeiros-atuam-no-resgate-a-vitima-no-acidente-com-carreta-na-vialagos.png"
-        },
-        {
-          "clusterId": "3f0d643205005dde",
-          "slug": "a81c299af44e8bd8",
-          "titulo": "Jovem morre e adolescente fica gravemente ferida após moto bater contra poste em São José dos Campos",
-          "resumo": "Um motociclista de 19 anos perdeu o controle e bateu em um poste na Avenida Pedro Friggi, em São José dos Campos, no início da madrugada. O jovem morreu no local e a passageira, de 17 anos, ficou gravemente ferida. O acidente ocorreu por volta das 3h55, em frente ao Spani Atacadista, no Jardim Pararangaba. O boletim de ocorrência indica que o motociclista seguia no sentido Centro.",
-          "porQueImporta": "O incidente destaca os riscos de acidentes de trânsito noturnos em áreas urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/22/jovem-morre-e-adolescente-fica-gravemente-ferida-apos-moto-bater-contra-poste-em-sao-jose-dos-campos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T15:42:21.000Z"
-        },
-        {
-          "clusterId": "afa0e4fe25b77b33",
-          "slug": "59b1fcde14db698f",
-          "titulo": "Casal morre e filho de 3 anos fica gravemente ferido em acidente na GO-523",
-          "resumo": "Um casal morreu e seu filho de 3 anos ficou gravemente ferido em colisão entre motocicleta e carro na GO-523, em Caturaí, Região Metropolitana de Goiânia. O acidente ocorreu por volta das 21h de sábado, no km 03. O motorista do carro abandonou o local antes da chegada da Polícia Militar. As vítimas foram socorridas pelo Corpo de Bombeiros e equipes de saúde.",
-          "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança viária nas estradas regionais.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/go/goias/noticia/2026/11/22/casal-morre-e-filho-de-3-anos-fica-gravemente-ferido-em-acidente-na-go-523.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T15:27:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/XwkEhe82yqJhu2q9s5ZA384MgpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/Xq2gB0Q8qA5AUuMs45mA/familia-acidente-go-523.jpg"
-        },
-        {
-          "clusterId": "aaa9c38a853126f2",
-          "slug": "466e28f20010ea73",
-          "titulo": "Jogador da NFL é arremessado de carro e fica gravemente ferido",
-          "resumo": "Um jogador do Tennessee Titans foi arremessado de seu veículo e sofreu ferimentos graves após colidir com um motorista de aplicativo na Flórida. Segundo relatório policial, o atleta teria agredido o motorista antes da colisão. O acidente resultou em danos ao veículo e lesões no jogador.",
-          "porQueImporta": "O incidente envolve um atleta de alto perfil e destaca riscos de violência e acidentes de trânsito.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/esportes/futebol-americano/jogador-da-nfl-e-arremessado-de-carro-e-fica-gravemente-ferido/"
-            }
-          ],
-          "updatedAt": "2026-11-22T15:01:35.000Z"
         }
       ]
     },
@@ -561,21 +566,127 @@
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "e2ad6e99c0c0a6df",
-          "slug": "314dc1f9e96507b7",
-          "titulo": "Tragédia no RS: 5 mortos em tempestade em Tupanciretã",
-          "resumo": "Ventos superiores a 110 km/h causaram uma tempestade na Região Central do Rio Grande do Sul, resultando em cinco mortes, 265 feridos e quase 20 mil pessoas desalojadas. A ocorrência afetou principalmente a cidade de Tupanciretã, onde os danos foram mais intensos. As autoridades continuam investigando as causas e providenciando assistência às vítimas.",
-          "porQueImporta": "A tempestade demonstra a gravidade dos eventos climáticos extremos no estado, exigindo atenção das autoridades e apoio às comunidades afetadas.",
+          "clusterId": "ae0b252b9ac236fa",
+          "slug": "3827ce2306a71e9d",
+          "titulo": "Governo reconhece calamidade em Tupanciretã após temporal",
+          "resumo": "A tempestade que atingiu Tupanciretã, no Rio Grande do Sul, causou cinco mortes e 265 feridos. Cerca de 20.000 pessoas foram desalojadas. O governo reconheceu a situação como calamidade pública e planeja concentrar esforços na ajuda humanitária.",
+          "porQueImporta": "O reconhecimento oficial facilita a mobilização de recursos e assistência às vítimas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/apos-tempestade-que-matou-5-em-tupancireta-governo-reconhece-calamidade-publica/"
+            },
+            {
+              "name": "Poder360",
+              "url": "https://www.poder360.com.br/poder-brasil/governo-reconhece-calamidade-em-tupancireta-apos-temporal-no-rs/"
+            }
+          ],
+          "updatedAt": "2026-11-22T23:54:49.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Tupancireta.jpeg"
+        },
+        {
+          "clusterId": "231cd72cefa1652d",
+          "slug": "76d6e734e1fb9f44",
+          "titulo": "Chuva em SP deixa 3 pessoas afogadas e provoca queda de teto em shopping",
+          "resumo": "A chuva intensa em São Paulo resultou em três afogamentos e causou a queda de um teto em um shopping. A Defesa Civil emitiu alerta severo, destacando risco de raios, vento forte e granizo. O incidente ocorreu em área urbana, com impacto direto em pessoas e estrutura comercial.",
+          "porQueImporta": "O evento demonstra a gravidade das condições climáticas extremas na região, afetando a segurança pública e infraestrutura urbana.",
           "categoria": "Tempestade",
           "categoriaSlug": "tempestade",
           "sources": [
             {
               "name": "Metrópoles",
-              "url": "https://www.metropoles.com/brasil/tragedia-no-rs-quem-sao-as-5-vitimas-da-tempestade-em-tupancireta"
+              "url": "https://www.metropoles.com/sao-paulo/chuva-em-sp-deixa-3-pessoas-afogadas-e-provoca-queda-de-teto-em-shopping"
             }
           ],
-          "updatedAt": "2026-11-22T16:21:37.000Z",
-          "imageUrl": "https://images.metroimg.com/2026/11/foto-vitimas.jpg"
+          "updatedAt": "2026-11-23T00:05:50.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/whatsapp-image-2026-11-22-at-21-06-18.jpeg"
+        },
+        {
+          "clusterId": "b171e360b278b40d",
+          "slug": "2d7ef636c464aef8",
+          "titulo": "Supercélula com microexplosões causa destruição em Tupanciretã",
+          "resumo": "Uma supercélula atingiu Tupanciretã, no Rio Grande do Sul, na madrugada de sexta-feira (20), com ventos de até 200 km/h e microexplosões. O temporal deixou cinco mortos, 265 feridos e 48 desabrigados, além de danificar quase toda a cidade, retorcendo vigas metálicas e expondo estruturas de concreto. A Defesa Civil relatou que cerca de 5 mil casas foram atingidas e que todos os comércios do centro foram afetados. A destruição foi documentada por vídeos aéreos e fotos captadas por drones.",
+          "porQueImporta": "O evento demonstra a intensidade de tempestades severas no interior do Rio Grande do Sul e destaca a necessidade de preparação e resposta rápida a desastres naturais.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/novas-imagens-tupancireta.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-23T00:02:08.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/YjyOF4r2eiSk5VRKUOdUBxcBC3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/1/GvivBXSEegCaeZnXXuGA/dji-fly-20261122-143500-339-1795368913257-photo-optimized.jpg"
+        },
+        {
+          "clusterId": "891b7a3a017f3489",
+          "slug": "926caa91b224740f",
+          "titulo": "Inmet emite alerta de tempestade e granizo para regiões Norte, Noroeste, Serrana e dos Lagos do RJ",
+          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou alerta de perigo potencial para tempestades e granizo válido de meia-noite a 23h59 de terça-feira (24). O aviso cobre municípios das regiões Norte e Noroeste Fluminense, além das regiões Serrana e dos Lagos, incluindo Campos dos Goytacazes, Itaperuna, Santo Antônio de Pádua, Cabo Frio, Arraial do Cabo, Araruama, Petrópolis, Teresópolis e Nova Friburgo.",
+          "porQueImporta": "O alerta informa a população sobre risco de tempestades e granizo, permitindo medidas preventivas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/22/inmet-emite-alerta-de-tempestade-e-granizo-para-regioes-norte-noroeste-serrana-e-dos-lagos-do-rj.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T23:32:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/W7hdgrXXkLSBf34lhsy6HziP3Xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/O/zW5VF9ThKBGSaAKeZ7eA/whatsapp-image-2023-04-08-at-14.46.42.jpeg"
+        },
+        {
+          "clusterId": "23e7caf5e7dd3a01",
+          "slug": "11742aaed472b1e1",
+          "titulo": "Defesa Civil de Macaé alerta para chuvas intensas e ventos fortes",
+          "resumo": "A Defesa Civil de Macaé emitiu alerta para chuvas intensas e ventos fortes entre a tarde de domingo e a noite de segunda. A previsão indica acumulados de 20 a 50 milímetros por dia e rajadas de vento acima de 40 km/h. O aviso, iniciado às 15h de domingo, permanece válido até 23h59 de segunda.",
+          "porQueImporta": "O alerta visa prevenir danos e garantir a segurança da população diante das condições meteorológicas adversas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/22/defesa-civil-de-macae-alerta-para-chuvas-intensas-e-ventos-fortes-ate-a-noite-desta-segunda.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T22:33:25.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/81rZfn0fmCfqOq4pE1MhrtKiFiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/D/IznoUdSOK2qHdla5k7xQ/defesa-civil-foto-rui-porto-filho-3.jpg"
+        },
+        {
+          "clusterId": "beebc896406d0546",
+          "slug": "c50099023547b39b",
+          "titulo": "Temporal causa mortes e feridos no Rio Grande do Sul",
+          "resumo": "Um forte temporal atingiu 38 cidades no Rio Grande do Sul, provocando destruição e transtornos. Na cidade de Tupanciretã, registrou-se cinco óbitos e 265 pessoas feridas. A ocorrência evidenciou a vulnerabilidade de comunidades diante de eventos climáticos extremos.",
+          "porQueImporta": "O episódio destaca a necessidade de medidas de prevenção e resposta a desastres naturais no estado.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "BBC Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "updatedAt": "2026-11-22T22:21:37.000Z",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0843/live/70eea900-e541-11f1-86db-6b65e6759b43.jpg"
+        },
+        {
+          "clusterId": "c38f3969d943d871",
+          "slug": "704714755a1994df",
+          "titulo": "MetSul classifica evento em Tupanciretã como tornado",
+          "resumo": "Um forte aguaceiro atingiu Tupanciretã, resultando em cinco mortes e 265 feridos. O Meteorológico Nacional classificou o fenômeno como tornado. O evento causou destruição significativa nas áreas afetadas.",
+          "porQueImporta": "Tornado é ocorrência rara na região, destacando a gravidade do evento.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/metsul-classifica-como-tornado-evento-que-causou-mortes-e-destruicao-em-tupancireta/"
+            }
+          ],
+          "updatedAt": "2026-11-22T22:20:25.000Z",
+          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Tupancireta.jpeg"
         },
         {
           "clusterId": "b324af599a4b35c6",
@@ -592,23 +703,6 @@
             }
           ],
           "updatedAt": "2026-11-22T16:13:00.000Z"
-        },
-        {
-          "clusterId": "c44c7aa3a1c145cd",
-          "slug": "105d5068cfe4a240",
-          "titulo": "Tornados de intensidade F1 atingem Foz do Iguaçu e Manoel Ribas no Paraná",
-          "resumo": "Dois tornados de intensidade F1 ocorreram na sexta-feira (20) no Paraná, causando queda de árvores, destelhamento de imóveis e interrupção de energia em 50 mil casas. Em Foz do Iguaçu, equipes continuam realizando limpeza e reparos, enquanto em Manoel Ribas as principais ações de reconstrução já foram concluídas, segundo a Defesa Civil. Os fenômenos foram registrados pelo Sistema de Tecnologia e Monitoramento Ambiental do Paraná (Simepar).",
-          "porQueImporta": "O evento demonstra a vulnerabilidade de áreas urbanas a fenômenos meteorológicos extremos e a necessidade de ações rápidas de recuperação.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/22/veja-como-ficaram-cidades-atingidas-por-tornados.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T15:17:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/j38wdhXsKvWY8bthoe_LEfb2jDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/3/9lCs5TToeEfNEBcjwOAA/0cc2f7e8-3b1e-43c1-85c5-7599ab403c12.jpg"
         },
         {
           "clusterId": "b905a2cb1b0b8356",
@@ -630,97 +724,90 @@
       ]
     },
     {
-      "slug": "incendio",
-      "label": "Incêndio",
-      "stories": [
-        {
-          "clusterId": "a0f89291ef24bab6",
-          "slug": "4849f4e08866d4e5",
-          "titulo": "Incêndio atinge centro comunitário de igreja em São Paulo",
-          "resumo": "Um incêndio atingiu cerca de 180 m² do Centro Comunitário Candelária, na Vila Maria, Zona Norte de São Paulo, na madrugada de domingo. O fogo foi controlado pelo Corpo de Bombeiros, mas voltou a atingir o local na manhã seguinte. Não houve vítimas e 12 viaturas foram mobilizadas, com apoio da Enel, Sabesp, Defesa Civil e policiamento.",
-          "porQueImporta": "O incidente demonstra a necessidade de vigilância e manutenção de segurança em espaços comunitários.",
-          "categoria": "Incêndio",
-          "categoriaSlug": "incendio",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/incendio-atinge-centro-comunitario-de-igreja-na-zona-norte-de-sp-e-fogo-volta-na-manha-deste-domingo.ghtml"
-            },
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-brasil/incendio-atinge-centro-comunitario-de-igreja-em-sao-paulo/"
-            }
-          ],
-          "updatedAt": "2026-11-22T15:45:30.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/o8tJ4WsglJFl_tqqQZrYcsLqWK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/9/A6TgsDS3ujBDEqJNuf6w/montagem-horizontal-1200px-59-.jpg"
-        }
-      ]
-    },
-    {
       "slug": "enchente",
       "label": "Enchente",
       "stories": [
         {
-          "clusterId": "b0ede309b8b1e389",
-          "slug": "ba66d831d150262a",
-          "titulo": "SUS avalia instalar posto médico avançado em Tupanciretã (RS) após temporal",
-          "resumo": "Após o temporal que atingiu Tupanciretã, o SUS mobilizou 13 profissionais para avaliar a rede de saúde e reforçar a assistência aos moradores. O desastre deixou cinco mortos e 265 feridos. A avaliação tem como objetivo instalar um posto médico avançado na região.",
-          "porQueImporta": "Garantir atendimento médico adequado em áreas afetadas por desastres naturais.",
+          "clusterId": "71030a03efb9ed79",
+          "slug": "927671f78e8f4a28",
+          "titulo": "Defesa Civil emite alertas severos por chuvas na Grande São Paulo",
+          "resumo": "A Defesa Civil monitorou ocorrências de chuvas nas últimas 72 horas, emitindo mais de 40 alertas em municípios de São Paulo, incluindo o Vale do Paraíba, Vale do Ribeira e a faixa leste paulista. Na capital, 25 alertas foram emitidos, prevendo raios, vento forte e possibilidade de granizo. As chuvas intensas causaram alagamentos em bairros como M'Boi Morim e derrubaram forro de shopping em São Paulo. O Centro de Gerenciamento de Emergências Climáticas registrou pancadas de chuva moderada a forte nos municípios de Cotia e Itapevi.",
+          "porQueImporta": "As chuvas intensas aumentam risco de alagamentos e danos urbanos, exigindo atenção das autoridades e população.",
           "categoria": "Enchente",
           "categoriaSlug": "enchente",
           "sources": [
             {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos-defesa-civil-emite-alerta-severo.ghtml"
+            },
+            {
+              "name": "Veja",
+              "url": "https://veja.abril.com.br/brasil/defesa-civil-monitora-ocorrencias-por-chuvas-em-municipios-de-sp-e-emite-mais-de-40-alertas/"
+            },
+            {
               "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sus-avalia-instalar-posto-medico-avancado-em-tupancireta-rs-apos-temporal/"
+              "url": "https://www.cnnbrasil.com.br/nacional/brasil/defesa-civil-emite-alerta-severo-para-chuvas-na-grande-sao-paulo/"
             }
           ],
-          "updatedAt": "2026-11-22T16:18:11.000Z"
+          "updatedAt": "2026-11-23T00:04:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/fsg5PIYyA-yFqPBXq4zSJeVkBYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/P/YBrnaHR3O08psOKzARfg/fotojet-137-.jpg"
+        },
+        {
+          "clusterId": "b65a49f8cba5009e",
+          "slug": "be7dc5878eaa8600",
+          "titulo": "Defesa Civil de Niterói emite alerta de risco de alagamentos e inundações",
+          "resumo": "A Defesa Civil de Niterói emitiu alerta severo de risco de alagamentos e inundações no domingo, 22 de dezembro, que foi recebido pelos moradores em seus celulares. O alerta se deve a uma formação de nuvens de chuva e raios na região da Ilha do Governador, em direção à Niterói. Em razão das condições climáticas, o show gratuito de Gilberto Gil em comemoração ao aniversário da cidade foi adiado para 20 de dezembro, conforme comunicado da prefeitura e do artista.",
+          "porQueImporta": "O alerta informa risco de alagamentos que pode afetar a população e a programação cultural da cidade.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/22/defesa-civil-de-niteroi-emite-alerta-severo-de-risco-de-alagamentos-e-inundacoes-e-show-de-gil-e-adiado.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-22T22:36:30.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/h6bhrwA-f9js4Df4Fs2ykDhxpdg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/c/P2BGBvRTqHAQ1pyzcMwg/imagem-cortada-67-.jpg"
         }
       ]
     },
     {
-      "slug": "deslizamento",
-      "label": "Deslizamento",
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "94e1e3f74a467023",
-          "slug": "b49a617282edd9b4",
-          "titulo": "Deslizamento de terra deixa cinco famílias desalojadas em Salvador",
-          "resumo": "Um deslizamento de terra ocorreu na manhã de domingo no bairro do IAPI, em Salvador, deixando cinco famílias desalojadas. O Corpo de Bombeiros realizou o resgate, retirando moradores, incluindo uma bebê de 11 meses, de um corredor de concreto que se abriu. Ninguém ficou ferido. Imagens de moradores mostram a cratera formada no terreno.",
-          "porQueImporta": "O evento destaca a vulnerabilidade de áreas urbanas a deslizamentos, exigindo atenção das autoridades para prevenção e resiliência.",
-          "categoria": "Deslizamento",
-          "categoriaSlug": "deslizamento",
+          "clusterId": "d16c5b70106c4ea5",
+          "slug": "e14d9f9d33b6ff87",
+          "titulo": "Buggy com quatro turistas capota em rodovia de Fernando de Noronha",
+          "resumo": "Um buggy com quatro turistas, dois homens e duas mulheres, capotou e caiu em uma vala na BR-363, perto do bairro da Basinha, na noite de domingo. O motorista perdeu o controle do veículo. O Corpo de Bombeiros e o SAMU atenderam a ocorrência e três ambulâncias levaram as vítimas ao Hospital São Lucas.",
+          "porQueImporta": "O acidente destaca a necessidade de segurança no tráfego em áreas turísticas de Fernando de Noronha.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/22/deslizamento-de-terra-deixa-familias-desalojadas-em-salvador.ghtml"
+              "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/22/buggy-com-quatro-turistas-capota-em-rodovia-de-fernando-de-noronha.ghtml"
             }
           ],
-          "updatedAt": "2026-11-22T16:07:55.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9ELZAcYM6gV2zEh-lldo0QQygMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/5zzohrQ4Cmku0yARozxQ/deslizamento.png"
-        }
-      ]
-    },
-    {
-      "slug": "acidente",
-      "label": "Acidente",
-      "stories": [
+          "updatedAt": "2026-11-22T22:55:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/eREMLcX6qWMyhmQnVNOAA9M_ry0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/MF5PtzQi61qNb2ZKGNWQ/buggy-na-vala-1.jpg"
+        },
         {
-          "clusterId": "7788b05ee58cb4f4",
-          "slug": "f04d94ce9d4c498c",
-          "titulo": "Jovem de 16 anos morre afogado em açude em Itapeva",
-          "resumo": "Um jovem de 16 anos, Rian Gabriel Oliveira Cardoso, morreu após se afogar em um açude no bairro Morada do Bosque, em Itapeva (SP). Ele foi socorrido e levado à Santa Casa de Itapeva, mas não resistiu. O corpo foi encaminhado ao Instituto Médico Legal, onde exames confirmaram a causa da morte como afogamento. O velório e sepultamento ocorreram na mesma tarde.",
-          "porQueImporta": "O caso destaca a necessidade de atenção à segurança em corpos d’água em áreas residenciais.",
-          "categoria": "Acidente",
-          "categoriaSlug": "acidente",
+          "clusterId": "6e682742320986b3",
+          "slug": "185c90ce0c49e4f5",
+          "titulo": "Sargento da PM de Roraima morre e soldado fica ferido em acidente na BR-174",
+          "resumo": "Um sargento da Polícia Militar de Roraima, Antônio Jeferson, morreu em acidente de trânsito na BR-174, no trecho que atravessa o Amazonas. Um soldado envolvido no acidente ficou ferido e foi levado de ambulância para atendimento médico em Presidente Figueiredo, AM. A Polícia Militar do estado divulgou a informação em nota.",
+          "porQueImporta": "O incidente evidencia os riscos de transporte em rodovias de difícil acesso e a necessidade de medidas de segurança para militares em deslocamento.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/22/jovem-de-16-anos-morre-afogado-em-acude-em-itapeva.ghtml"
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/22/policial-militar-de-roraima-morre-e-outro-fica-ferido-em-acidente-na-br-174.ghtml"
             }
           ],
-          "updatedAt": "2026-11-22T15:32:16.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/CY1qtzK58NrBvO2Nv2-0YC9w0Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/b/PvYf5kStKuIf6nh61sMg/img-0825.new.01-frame-55.jpeg"
+          "updatedAt": "2026-11-22T22:31:00.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/4SL-wbvVps6UQn0SiyB4yEmo85U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/eGHFJPTWWnQNwTHkj1Bg/acidente.jpg"
         }
       ]
     },
@@ -728,6 +815,22 @@
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
+        {
+          "clusterId": "178c751f9bc01ac3",
+          "slug": "99bc41ffc124ac7b",
+          "titulo": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
+          "resumo": "Um navio russo ancorado em Benghazi explodiu, ferindo alguns tripulantes. A explosão ocorreu em meio a tensões entre Rússia e Ucrânia. Autoridades investigam se o incidente foi causado por um drone. A ocorrência aumenta a preocupação de que o conflito se expanda para outras regiões.",
+          "porQueImporta": "O evento pode indicar a extensão do conflito russo-ucraniano para a Líbia, afetando a segurança regional.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "DW Brasil",
+              "url": "https://www.dw.com/pt-br/explosão-em-navio-russo-na-líbia-levanta-suspeita-de-ataque-de-drone/a-80014687?maca=bra-rss-br-all-1030-rdf"
+            }
+          ],
+          "updatedAt": "2026-11-22T22:34:00.000Z"
+        },
         {
           "clusterId": "ced33295b37c7f60",
           "slug": "947ece8009412266",
@@ -752,44 +855,21 @@
       "label": "Naufrágio",
       "stories": [
         {
-          "clusterId": "e37bd6c55756fd0e",
-          "slug": "cb89837e676f581d",
-          "titulo": "Jovem de 18 anos que se afogou na Praia do Recreio continua no IML",
-          "resumo": "Ágatha Silva Santos de Souza, de 18 anos, morreu após se afogar na Praia do Recreio dos Bandeirantes, na sexta-feira (20). O corpo permanece no Instituto Médico Legal de São Cristóvão. A mãe, Tatiane Silva, pediu ajuda para custear o funeral, tendo reunido cerca de R$ 900 e recebido um orçamento de R$ 3 mil.",
-          "porQueImporta": "A morte de uma jovem em situação de afogamento destaca a necessidade de atenção à segurança em praias e apoio às famílias em luto.",
+          "clusterId": "bfc4a182c28e02b5",
+          "slug": "f8a0ff94ac8d455b",
+          "titulo": "Corpo de homem desaparecido após embarcação virar no Rio Araguaia é encontrado",
+          "resumo": "O corpo de Renato Sandrin, de 60 anos, foi localizado na manhã de domingo (22) no Rio Araguaia, na região de Santa Fé do Araguaia, Tocantins. Ele estava desaparecido desde a noite de sexta-feira (20), quando a embarcação em que estava virou nas proximidades de uma fazenda. Outro homem estava no barco e foi resgatado com vida no mesmo dia do acidente, com a ajuda de moradores.",
+          "porQueImporta": "O caso destaca os riscos de navegação em rios e a necessidade de atenção à segurança em embarcações.",
           "categoria": "Naufrágio",
           "categoriaSlug": "naufragio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/22/corpo-de-jovem-que-morreu-apos-se-afogar-no-recreio-segue-no-iml.ghtml"
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/22/corpo-de-homem-desaparecido-apos-embarcacao-virar-no-rio-araguaia-e-encontrado.ghtml"
             }
           ],
-          "updatedAt": "2026-11-22T15:02:05.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/2xya_KL1cs8CrWCPMymj1bsas6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/z/qA3DejQ0KYj35xVI0aKw/rj1-limpo-20261120-1115-frame-72627.jpeg"
-        }
-      ]
-    },
-    {
-      "slug": "terremoto",
-      "label": "Terremoto",
-      "stories": [
-        {
-          "clusterId": "4ec8d928004a8be7",
-          "slug": "22ab50155a67e922",
-          "titulo": "Terremoto de magnitude 6,7 deixa 15 feridos e danos em casas no Peru",
-          "resumo": "Um terremoto de magnitude 6,7 foi registrado na região central do Peru, a cerca de 9 km a noroeste do distrito de Carhuamayo, nesta sexta-feira (20). O abalo, com profundidade de 108 km, deixou 15 feridos, 11 na cidade de Junín e os demais em Huánuco, Lima, Callao e Pasco. Quatro casas ficaram inabitáveis e 127 foram afetadas, principalmente em Junín e Pasco. O tremor foi sentido na capital, Lima, e alguns moradores deixaram suas casas.",
-          "porQueImporta": "O evento causou ferimentos e danos estruturais, afetando a segurança e a habitação de comunidades locais.",
-          "categoria": "Terremoto",
-          "categoriaSlug": "terremoto",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/20/peru-registra-terremoto-de-magnitude-67-tremor-foi-sentido-em-lima.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-21T00:32:20.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/rx3wkui_rfhQ6tdBxE_Pnefa1Ok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/B4obhBQlmB1pzmA2095Q/terremoto-peru.jpg"
+          "updatedAt": "2026-11-22T23:41:49.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/GhYNvpnjgMQoKn6ReC8rHS3KgZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/deeugwQYWwLin4Acooeg/copia-de-modelo-foto-fundo-borrado-2-.png"
         }
       ]
     }
