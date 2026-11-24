@@ -53,6 +53,12 @@ export const GENERIC = new Set([
   'audio', 'audios', 'exclusivo', 'urgente', 'ultima',
   // Serviços de emergência (sem especificador — "PRF" sozinho seria útil; "bombeiros" sozinho é genérico)
   'bombeiros', 'samu',
+  // Numerais por extenso (abrem muita manchete: "Dois carros…", "Três pessoas…")
+  'um', 'uma', 'dois', 'duas', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito',
+  'nove', 'dez', 'cem', 'mil', 'dezenas', 'centenas', 'milhares',
+  // Substantivos comuns do nicho que abrem manchete
+  'casal', 'corpo', 'corpos', 'adolescente', 'adolescentes', 'bebe', 'menino', 'menina',
+  'alerta', 'alertas', 'aviso', 'chuva', 'chuvas', 'fogo', 'calor', 'frio', 'seca',
   // Outros genéricos amplos demais pra virar hub útil
   'onda', // "Onda" sozinho — multi-word "Onda de calor" passa por phenomena detection
   'europa', 'asia', 'africa', 'oceania', 'america', 'mundo', 'globo',
