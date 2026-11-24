@@ -1,189 +1,381 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T15:10:13.415Z",
+  "generatedAt": "2026-11-24T18:01:06.404Z",
   "home": [
     {
-      "clusterId": "bfbf55eb582c4e28",
-      "slug": "cb39772824cc742e",
-      "titulo": "El Niño provoca tempestades e inundações nos Estados Unidos",
-      "resumo": "O fenômeno climático El Niño, com intensidade excepcional, está gerando tempestades e inundações em várias regiões dos Estados Unidos. A elevação do nível da água, causada pelas marés, levou o prefeito a recomendar que os moradores evitem viagens não essenciais. Em áreas como San Francisco, há risco aumentado de alagamentos. O evento também está gerando preocupações econômicas globais.",
-      "porQueImporta": "O aumento de tempestades e inundações pode causar danos materiais, interrupções de serviços e riscos à segurança pública.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
+      "clusterId": "813e0ca5e4726a22",
+      "slug": "f97f6cdaa1a12df4",
+      "titulo": "Morte de dois policiais em viatura na BR-101, São Gonçalo",
+      "resumo": "Rômulo Medeiros Vinagre e Patrick Trindade Silva foram encontrados mortos dentro de uma viatura na BR-101, em Itaúna, São Gonçalo (RJ). A causa provável apontada pelas autoridades é um vazamento de gás dentro do veículo. A ocorrência foi registrada nas primeiras horas da manhã, quando a viatura estava em deslocamento. As autoridades ainda investigam as circunstâncias do acidente.",
+      "porQueImporta": "O incidente destaca a necessidade de inspeção e manutenção adequadas de veículos de patrulha para prevenir riscos de vazamento de gás.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/vazamento-de-gas-pode-ter-causado-a-morte-de-pms-achados-em-viatura-no-rj"
+        }
+      ],
+      "updatedAt": "2026-11-24T17:28:42.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/metadinha-2x-1795537847356.jpg"
+    },
+    {
+      "clusterId": "22104bd379dbdd59",
+      "slug": "23a272ad4776d390",
+      "titulo": "Peixe-leão capturado em navio naufragado em Guarapari",
+      "resumo": "Um peixe-leão foi capturado por mergulhadores em Guarapari, no Espírito Santo, na manhã de segunda-feira. O animal estava na área do Victory 8B, um navio naufragado que funciona como ponto turístico e recife artificial. O peixe-leão, conhecido pelos espinhos venenosos, pode consumir até 20 peixes em meia hora, representando ameaça à biodiversidade local.",
+      "porQueImporta": "O predador pode desequilibrar a fauna marinha do recife artificial.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/24/el-nino-provoca-secas-severas-no-pacifico-ameaca-causar-inundacoes-nos-eua-e-preocupa-economistas.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/efeitos-do-el-nino-causam-tempestades-e-inundacoes-nos-estados-unidos/"
+          "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/24/peixe-leao-e-capturado-em-navio-do-maior-naufragio-planejado-da-america-latina-em-guarapari.ghtml"
         }
       ],
-      "updatedAt": "2026-11-24T13:21:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/GjBsv9DkM9La_bat1aPD4flR2Q4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/g/gSWcTzRJKtCrdN3a9DVg/afp-20261121-d89h3rd-v5-midres-topshotecuadorweatherfloodelnino.jpg"
+      "updatedAt": "2026-11-24T17:23:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/W7fCI3hkyHR_FdPjechTrxoBDYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/l/zfxdH7TdqDkDVNVgcm3Q/thumb-videos-g1-2026-11-23t191503.305.jpg"
     },
     {
-      "clusterId": "e05a9404c8777e97",
-      "slug": "5d5975a1a4bd6d50",
-      "titulo": "Inmet emite alerta de perigo para tempestades em São Paulo",
-      "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou um alerta de perigo para tempestades em todo o estado de São Paulo. O aviso laranja prevê chuvas de até 100 mm e ventos de até 100 km/h. A Defesa Civil permanece em alerta e mantém atenção em todas as regiões do estado.",
-      "porQueImporta": "O alerta indica risco de eventos meteorológicos severos que podem afetar a população e a infraestrutura.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/agenda-verde/inmet-emite-alerta-de-perigo-para-tempestades-em-sao-paulo-nesta-terca-24/"
-        }
-      ],
-      "updatedAt": "2026-11-24T15:06:13.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/GettyImages-2274062979.jpg"
-    },
-    {
-      "clusterId": "bc2c247241fbe3e6",
-      "slug": "02a6461c1b03af04",
-      "titulo": "Bióloga morre em colisão de moto com carro em Rio Branco",
-      "resumo": "A bióloga Sandia de Souza Ricardo, de 27 anos, morreu após a moto em que estava ser atingida por um carro que fez conversão proibida no bairro Comara, na noite de domingo. Familiares e amigos se reuniram para velar e enterrar o corpo na segunda-feira. Eles exigiram esclarecimentos sobre as circunstâncias do acidente e questionaram a conduta do motorista.",
-      "porQueImporta": "O caso destaca a necessidade de fiscalização e segurança viária em áreas urbanas.",
+      "clusterId": "da146d71445e5167",
+      "slug": "1da4d0462fe2dd56",
+      "titulo": "Motociclista morre após bater em carro em Bauru",
+      "resumo": "Um motociclista de 30 anos, identificado como Gabriel Sales dos Santos, morreu após bater contra um carro na Rua Professor Ayrton Busch, no Parque Jaraguá, em Bauru. O acidente ocorreu no domingo e foi registrado por câmeras de segurança. O motociclista foi socorrido e internado no Hospital de Base, mas não resistiu aos ferimentos e faleceu no dia seguinte.",
+      "porQueImporta": "O caso destaca a importância de respeitar a sinalização de pare e alerta sobre os riscos de acidentes de trânsito envolvendo motociclistas.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/noticia/2026/11/24/familia-se-despede-de-biologa-morta-em-acidente-no-ac-e-cobra-esclarecimentos-descaso.ghtml"
+          "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/24/motociclista-morre-apos-nao-respeitar-a-sinalizacao-de-pare-e-bater-em-carro-camera-flagrou-acidente-em-bauru.ghtml"
         }
       ],
-      "updatedAt": "2026-11-24T15:05:31.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/L1h8yAbfH8rtKIN5tAQa4ThynE4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/P/K4CN8WSqWJCuUp9Tkl2w/befunky-collage-2026-11-24t100431.039.jpg"
+      "updatedAt": "2026-11-24T17:11:40.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ZIBJhp6l1aTAmt2jGWEtKbGmliA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/L/rE3z0hSEOyEpyNcUB7mA/design-sem-nome-2026-11-24t132643.658.png"
     },
     {
-      "clusterId": "4d1b25faf39f8f91",
-      "slug": "28ccdabacf2efb49",
-      "titulo": "Dois carros batem e um capota em cruzamento movimentado de Manaus",
-      "resumo": "Dois veículos colidiram no cruzamento das avenidas Leonardo Malcher e Visconde de Porto Alegre, na Zona Sul de Manaus, na manhã de terça-feira. Um dos carros avançou a sinalização, atingindo o outro e capotando. O acidente não registrou feridos graves, mas causou lentidão no trânsito local.",
-      "porQueImporta": "O incidente demonstra risco de acidentes em cruzamentos movimentados, afetando a mobilidade urbana.",
+      "clusterId": "207e4758f9f5b564",
+      "slug": "2a09284fc2b9de05",
+      "titulo": "ANTT registra 1.328 acidentes e 37 mortes em rodovias privatizadas no fim de semana prolongado",
+      "resumo": "Durante o fim de semana prolongado, entre sexta e domingo, as rodovias federais concedidas ao setor privado registraram 1.328 acidentes e 37 mortes, segundo a ANTT. Os incidentes incluíram batidas frontais, atropelamentos de pedestres e colisões transversais. Em total, 12.071 ocorrências foram atendidas, com 10,1 mil problemas mecânicos e 1.912 acionamentos médicos.",
+      "porQueImporta": "Os dados destacam a alta frequência de acidentes e fatalidades em rodovias privatizadas, indicando necessidade de revisão de segurança e fiscalização.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/24/dois-carros-batem-e-um-capota-em-cruzamento-movimentado-de-manaus-video.ghtml"
+          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/24/fim-de-semana-prolongado-teve-1328-acidentes-e-37-mortes-em-rodovias-privatizadas-diz-antt.ghtml"
         }
       ],
-      "updatedAt": "2026-11-24T14:45:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/VKGj-AiEgR4etwdg6G0ccjPf5ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/V/2yTe3OS5i4MWu6O3Jo0w/dois-carros-batem-e-um-capota-em-cruzamento-movimentado-de-manaus-foto-reproducao-redes-sociais.jpg"
+      "updatedAt": "2026-11-24T16:54:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/miDdY5K1GtvzQy1bhVMlFJ17-7k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/sr9ATVQDKYdIbvTAGheQ/eptv-cp-bdc-2409-flagra-faixa-exclusiva-2-.png"
     },
     {
-      "clusterId": "bec8101e9dec674f",
-      "slug": "480beefa1019e666",
-      "titulo": "Chuva intensa causa alagamentos e deslizamentos em Piraí e Paraty",
-      "resumo": "Uma forte chuva na noite de segunda-feira (23) provocou deslizamentos de terra, queda de árvores, alagamentos e obstrução de ruas em Piraí, no Rio de Janeiro, especialmente no bairro Vale Verde. Em Paraty, a mesma tempestade gerou alagamentos nas ruas dos bairros Pantanal e Ponte Branca, com veículos circulando sobre a água. As equipes municipais iniciaram ações de limpeza e desobstrução ainda durante a noite.",
-      "porQueImporta": "O evento compromete a mobilidade urbana e pode representar risco à segurança pública.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
+      "clusterId": "3ad102d1f5e94d8f",
+      "slug": "ad758c1859dd5a5a",
+      "titulo": "Triplo feminicídio em Campos Lindos, Tocantins",
+      "resumo": "Três mulheres foram assassinadas em Campos Lindos, Tocantins: duas irmãs e uma sobrinha de Dinéia Vieira. O suspeito, José Pedro Soares Cruz, permanece foragido e a polícia continua a busca. A família da vítima descreve a situação como devastadora e pede justiça.",
+      "porQueImporta": "O caso destaca a violência de gênero e a necessidade de investigação eficaz.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/24/video-chuva-intensa-provoca-alagamentos-nas-ruas-de-paraty.ghtml"
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/24/familia-esta-destruida-diz-mulher-que-perdeu-duas-irmas-e-sobrinha-em-triplo-feminicidio-no-to.ghtml"
         }
       ],
-      "updatedAt": "2026-11-24T14:44:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/-aOiaRuhKb4fopDW67NSCwK5aPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/G/AV7gQsQAaY3pYtTXGrZw/image-31-3-.png"
+      "updatedAt": "2026-11-24T16:47:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/RJqifv-EojJtvMRKypTrpOfV0ag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/c/uW5v70TUGzjni4g3rIgw/copia-de-modelo-foto-fundo-borrado-24-.png"
     },
     {
-      "clusterId": "b6c1bf4a6a1128f6",
-      "slug": "3680e2f798eec4bd",
-      "titulo": "Incêndio em lixão de Oiapoque é controlado após quase um mês",
-      "resumo": "O fogo na lixeira pública de Oiapoque, no Amapá, foi contido pelo Corpo de Bombeiros depois de quase um mês de incêndio intenso. A fumaça de outras queimadas continua a encobrir a cidade e afeta os moradores. Em 26 de outubro a Defesa Civil municipal emitiu alerta sobre a densa nuvem de fumaça que atingiu bairros próximos, com preocupação principal pelos impactos à saúde da população.",
-      "porQueImporta": "O controle do incêndio evita maiores danos ambientais e protege a saúde dos habitantes da região.",
+      "clusterId": "9b45838061a75dbb",
+      "slug": "27bed18ad279af80",
+      "titulo": "Acidente na BR-316 em Picos deixa dois feridos",
+      "resumo": "Na noite de segunda-feira, na BR-316, em Picos, no Sul do Piauí, ocorreu um acidente envolvendo três carros e uma motocicleta. O motociclista e o passageiro de um dos carros ficaram feridos, com lesões leves. A Polícia Rodoviária Federal suspeita que a falta de reação de um dos condutores tenha provocado o acidente.",
+      "porQueImporta": "O incidente destaca a importância da atenção e da segurança nas rodovias estaduais.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/24/feridas-acidente-veiculos-piaui.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-24T16:35:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/lnff-wZje5XgTjExFZ-qpR-9GFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/E/JBnHoORVSDFAHKjjwqWQ/edicao-imagens-g1-2026-11-09t112545.863.png"
+    },
+    {
+      "clusterId": "7d636bd1e4f6d191",
+      "slug": "36d938f2afe74a17",
+      "titulo": "Incêndio em casa de veraneio na região da represa Jurumirim",
+      "resumo": "Um incêndio atingiu uma casa de veraneio em Avaré, SP, na tarde de segunda-feira (23). Acredita-se que as chamas foram provocadas por raios durante a chuva. O caseiro, que mora nas proximidades, percebeu a fumaça após ouvir um forte estrondo. Nenhuma pessoa ficou ferida.",
+      "porQueImporta": "O evento destaca a possibilidade de incêndios em áreas de lazer durante tempestades, exigindo atenção das autoridades locais.",
       "categoria": "Incêndio",
       "categoriaSlug": "incendio",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/24/incendio-em-lixao-de-oiapoque-e-controlado-apos-quase-um-mes-mas-fumaca-ainda-afeta-a-cidade.ghtml"
+          "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/24/casa-de-veraneio-e-atingida-por-incendio-durante-chuva-na-regiao-da-represa-jurumirim.ghtml"
         }
       ],
-      "updatedAt": "2026-11-24T14:36:27.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Z7ZOJdIbqyp15Mt6P4qI4mkYVss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/3/I28iqASpOg2Y0PRJcuCw/aleixo-g1-1-.jpg"
+      "updatedAt": "2026-11-24T16:17:07.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/w0hb4TvauoguRhS68zHXfIUMBZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/s/rjrmOHTvKikvifzq4CcA/whatsapp-image-2026-11-24-at-07.23.34.jpeg"
     },
     {
-      "clusterId": "132dc749dd41698a",
-      "slug": "1078b9876c41a18a",
-      "titulo": "Motociclista de 37 anos morre após acidente entre duas motos em Campina Grande",
-      "resumo": "Um motociclista de 37 anos morreu na manhã de terça-feira (24) em Campina Grande, no Agreste da Paraíba, após um acidente entre duas motos na Avenida João Wallig, no Distrito Industrial. O motociclista, identificado como Kleiton Olímpio Amorim dos Santos, tentou ultrapassar outra moto, perdeu o controle e colidiu frontalmente com a outra motocicleta. O acidente ocorreu por volta das 6h10.",
-      "porQueImporta": "O incidente destaca a necessidade de atenção à segurança no trânsito nas vias urbanas.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
+      "clusterId": "c76afde515e61b6e",
+      "slug": "ca512f39d6762672",
+      "titulo": "Peixes morrem no Baixo Rio Branco devido à seca agravada pelo El Niño",
+      "resumo": "A seca no Baixo Rio Branco, principal rio de Roraima, provocou a morte de peixes e reduziu o nível de rios e igarapés. Em pelo menos sete comunidades ribeirinhas, moradores precisam percorrer até 2 quilômetros para buscar água. Profissionais de saúde registram aumento de casos de diarreia, vômito, febre e viroses. O nível do Rio Branco caiu 35 centímetros em um mês.",
+      "porQueImporta": "A escassez de água e a mortalidade de peixes afetam a subsistência local e a saúde pública.",
+      "categoria": "Seca",
+      "categoriaSlug": "seca",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/24/motociclista-de-37-anos-morre-apos-acidente-entre-duas-motos-em-campina-grande.ghtml"
+          "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/24/video-peixes-morrem-em-meio-a-seca-agravada-pelo-el-nino-no-maior-rio-de-roraima.ghtml"
         }
       ],
-      "updatedAt": "2026-11-24T14:13:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Ia-sD7WiDdLTDdWBGB23po3OOr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/q/lkKuNzS2yJG4zzS6B3hA/whatsapp-image-2026-11-24-at-10.49.17.jpeg"
+      "updatedAt": "2026-11-24T16:13:44.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/587Bdashkek5jL7q_ocuFaGPW78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/o/2fKmAuRYC64cSb0clBiA/mortos3.jpg"
     },
     {
-      "clusterId": "91e5b8fbe0b9629e",
-      "slug": "2d373df17bf955cd",
-      "titulo": "Tupanciretã enfrenta nova chuva após supercélula",
-      "resumo": "Moradores de Tupanciretã, RS, enfrentam nova chuva na manhã de terça-feira, 24, enquanto o município ainda se recupera dos temporais da semana anterior. A tempestade anterior deixou cinco mortos e 265 feridos, e mais de 19 mil pessoas foram deslocadas. A Defesa Civil mantém alerta de perigo extremo e prevê mais chuvas ao longo do dia.",
-      "porQueImporta": "A continuidade das chuvas aumenta risco de novas vítimas e agrava a situação de deslocamento da população.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/24/chuva-volta-tupancireta-desalojados-rs.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-24T14:11:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/YjyOF4r2eiSk5VRKUOdUBxcBC3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/1/GvivBXSEegCaeZnXXuGA/dji-fly-20261122-143500-339-1795368913257-photo-optimized.jpg"
-    },
-    {
-      "clusterId": "9327f4be72d04ba8",
-      "slug": "bb88572fae939805",
-      "titulo": "Carro-bomba explodiu em Villavicencio, na Colômbia",
-      "resumo": "Um carro-bomba detonou na segunda-feira (23) em Villavicencio, causando grandes danos à sede do governo regional. A explosão gerou caos e deixou cerca de 20 feridos, segundo a imprensa local. Imagens capturadas por moradores e câmeras de segurança registraram o momento do ataque.",
-      "porQueImporta": "O incidente ocorreu às vésperas do décimo aniversário do acordo de paz com a guerrilha, aumentando a tensão na região.",
+      "clusterId": "bd99e72a924e65ff",
+      "slug": "52d34eacc4489b6f",
+      "titulo": "Bombeiros feridos em explosão na indústria química de Salto",
+      "resumo": "Dois bombeiros ficaram feridos ao atender incêndio na fábrica Pyrozzar, em Salto, SP. Eles estão internados no Hospital das Clínicas, em São Paulo, e passarão por cirurgias nas datas 26 e 27 para remoção de tecidos queimados.",
+      "porQueImporta": "O incidente destaca os riscos enfrentados pelos profissionais de emergência em instalações químicas.",
       "categoria": "Explosão",
       "categoriaSlug": "explosao",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/24/carro-bomba-deixa-20-feridos-na-colombia-as-vesperas-dos-dez-anos-do-acordo-de-paz.ghtml"
+          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/24/bombeiros-feridos-no-incendio-em-salto-passarao-por-cirurgias.ghtml"
         }
       ],
-      "updatedAt": "2026-11-24T13:59:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/AqolH8ZpaXD5x1JVJcXilLPvPfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/v/AMUMGGRcqjkpxYH56ZAg/captura-de-tela-2026-11-24-070902-1-.jpg"
+      "updatedAt": "2026-11-24T16:11:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zynRCK8_u1ac5qorFCivKZjF3k4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/G/Zgjl39QqAPBzazQ1oAoQ/ezgif.com-optimize-19-.gif"
     },
     {
-      "clusterId": "5df51cf957ff42cb",
-      "slug": "cfa7d847c225a864",
-      "titulo": "Chuva forte provoca enxurradas e bloqueia estradas em Garruchos e Cruz Alta",
-      "resumo": "Uma enxurrada atingiu Garruchos, bloqueando a entrada do município e alagando terrenos. Em Cruz Alta, a chuva acumulou cerca de 65 milímetros, atingindo a RS-342 e causando danos em estradas. A Defesa Civil relata que a chuva forte em Garruchos ocorreu entre 6h40 e 8h20. Moradores ficaram sem energia elétrica.",
-      "porQueImporta": "O evento comprometeu a mobilidade e a infraestrutura local, afetando a segurança e o acesso dos habitantes.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
+      "clusterId": "a477a3ea2d3f5480",
+      "slug": "7315abe3a2adc74e",
+      "titulo": "Ufam e UEA suspendem aulas presenciais em Manaus por piora na qualidade do ar; escolas do interior também param",
+      "resumo": "Município do interior do AM amanhece coberto por fumaça; qualidade do ar é \"péssima\" A Universidade Federal do Amazonas (Ufam) e a Universidade do Estado do Amazonas (UEA) suspenderam as atividades presenciais nesta terça-feira (24) por causa da piora na qualidade do ar em Manaus. A medida foi anunciada pelas instituições após a capital registrar o ar mais poluído do Brasil nas primeiras horas do dia, em meio à fumaça de queimadas. Por volta das 6h, o Índice de Qualidade do Ar (AQI⁺) de Manaus chegou a 167, nível classificado como \"insalubre\", segundo a plataforma internacional IQAir. O…",
+      "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+      "categoria": "Geral",
+      "categoriaSlug": "geral",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/24/chuva-estragos-rs-defesa-civil.ghtml"
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/24/ufam-e-uea-suspendem-aulas-presenciais-em-manaus-por-piora-na-qualidade-do-ar-escolas-do-interior-tambem-param.ghtml"
         }
       ],
-      "updatedAt": "2026-11-24T13:52:40.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9nk4Rpqags0KEEMyRr7V4cqGAjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/7/hHeJFCQgiwdsqoFjs71A/documento.png"
+      "updatedAt": "2026-11-24T16:10:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/u8gUvMK0e8ULS8Nx5i7Nd_IXvW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/Q/N8AIb6RvGIBFtQY16DSw/ar-em-manaus-atinge-nivel-insalubre-e-e-o-mais-poluido-do-brasil-24-de-novembro-de-2026-foto-willian-duarte-rede-amazonica.jpg"
     }
   ],
   "categorias": [
+    {
+      "slug": "acidente-de-transito",
+      "label": "Acidente de trânsito",
+      "stories": [
+        {
+          "clusterId": "813e0ca5e4726a22",
+          "slug": "f97f6cdaa1a12df4",
+          "titulo": "Morte de dois policiais em viatura na BR-101, São Gonçalo",
+          "resumo": "Rômulo Medeiros Vinagre e Patrick Trindade Silva foram encontrados mortos dentro de uma viatura na BR-101, em Itaúna, São Gonçalo (RJ). A causa provável apontada pelas autoridades é um vazamento de gás dentro do veículo. A ocorrência foi registrada nas primeiras horas da manhã, quando a viatura estava em deslocamento. As autoridades ainda investigam as circunstâncias do acidente.",
+          "porQueImporta": "O incidente destaca a necessidade de inspeção e manutenção adequadas de veículos de patrulha para prevenir riscos de vazamento de gás.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "Metrópoles",
+              "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/vazamento-de-gas-pode-ter-causado-a-morte-de-pms-achados-em-viatura-no-rj"
+            }
+          ],
+          "updatedAt": "2026-11-24T17:28:42.000Z",
+          "imageUrl": "https://images.metroimg.com/2026/11/metadinha-2x-1795537847356.jpg"
+        },
+        {
+          "clusterId": "da146d71445e5167",
+          "slug": "1da4d0462fe2dd56",
+          "titulo": "Motociclista morre após bater em carro em Bauru",
+          "resumo": "Um motociclista de 30 anos, identificado como Gabriel Sales dos Santos, morreu após bater contra um carro na Rua Professor Ayrton Busch, no Parque Jaraguá, em Bauru. O acidente ocorreu no domingo e foi registrado por câmeras de segurança. O motociclista foi socorrido e internado no Hospital de Base, mas não resistiu aos ferimentos e faleceu no dia seguinte.",
+          "porQueImporta": "O caso destaca a importância de respeitar a sinalização de pare e alerta sobre os riscos de acidentes de trânsito envolvendo motociclistas.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/24/motociclista-morre-apos-nao-respeitar-a-sinalizacao-de-pare-e-bater-em-carro-camera-flagrou-acidente-em-bauru.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-24T17:11:40.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ZIBJhp6l1aTAmt2jGWEtKbGmliA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/L/rE3z0hSEOyEpyNcUB7mA/design-sem-nome-2026-11-24t132643.658.png"
+        },
+        {
+          "clusterId": "207e4758f9f5b564",
+          "slug": "2a09284fc2b9de05",
+          "titulo": "ANTT registra 1.328 acidentes e 37 mortes em rodovias privatizadas no fim de semana prolongado",
+          "resumo": "Durante o fim de semana prolongado, entre sexta e domingo, as rodovias federais concedidas ao setor privado registraram 1.328 acidentes e 37 mortes, segundo a ANTT. Os incidentes incluíram batidas frontais, atropelamentos de pedestres e colisões transversais. Em total, 12.071 ocorrências foram atendidas, com 10,1 mil problemas mecânicos e 1.912 acionamentos médicos.",
+          "porQueImporta": "Os dados destacam a alta frequência de acidentes e fatalidades em rodovias privatizadas, indicando necessidade de revisão de segurança e fiscalização.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/24/fim-de-semana-prolongado-teve-1328-acidentes-e-37-mortes-em-rodovias-privatizadas-diz-antt.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-24T16:54:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/miDdY5K1GtvzQy1bhVMlFJ17-7k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/sr9ATVQDKYdIbvTAGheQ/eptv-cp-bdc-2409-flagra-faixa-exclusiva-2-.png"
+        },
+        {
+          "clusterId": "9b45838061a75dbb",
+          "slug": "27bed18ad279af80",
+          "titulo": "Acidente na BR-316 em Picos deixa dois feridos",
+          "resumo": "Na noite de segunda-feira, na BR-316, em Picos, no Sul do Piauí, ocorreu um acidente envolvendo três carros e uma motocicleta. O motociclista e o passageiro de um dos carros ficaram feridos, com lesões leves. A Polícia Rodoviária Federal suspeita que a falta de reação de um dos condutores tenha provocado o acidente.",
+          "porQueImporta": "O incidente destaca a importância da atenção e da segurança nas rodovias estaduais.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/24/feridas-acidente-veiculos-piaui.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-24T16:35:28.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/lnff-wZje5XgTjExFZ-qpR-9GFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/E/JBnHoORVSDFAHKjjwqWQ/edicao-imagens-g1-2026-11-09t112545.863.png"
+        },
+        {
+          "clusterId": "ff56bd4cf81e597d",
+          "slug": "1ab59d2596b03c4b",
+          "titulo": "Estrutura desaba em acidente com caminhão em Niterói",
+          "resumo": "Um caminhão colidiu com uma estrutura em Niterói por volta das 8h15, fazendo a estrutura desabar. O acidente deixou nove pessoas feridas, segundo o Corpo de Bombeiros Militar do Estado do Rio de Janeiro. As vítimas foram atendidas no local e encaminhadas ao hospital.",
+          "porQueImporta": "O incidente destaca a necessidade de fiscalização e segurança em áreas de tráfego intenso.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/video-estrutura-desaba-em-acidente-com-caminhao-e-deixa-9-feridos-no-rj/"
+            }
+          ],
+          "updatedAt": "2026-11-24T14:38:41.000Z"
+        },
+        {
+          "clusterId": "972addd52358572c",
+          "slug": "306594cd763a94f8",
+          "titulo": "Acidente entre ônibus e caminhão deixa 11 mortos em Ras Al Khaimah",
+          "resumo": "Onze pessoas morreram quando um ônibus de passageiros colidiu com um caminhão na estrada Al Watan, em Ras Al Khaimah, Emirados Árabes Unidos. O Ministério do Interior informou a ocorrência e as equipes de ambulância e defesa civil realizaram os resgates. A área foi isolada e o trânsito controlado. Não foram divulgados nomes das vítimas nem número de feridos.",
+          "porQueImporta": "O acidente resultou em múltiplas fatalidades, destacando a necessidade de segurança viária no país.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/24/acidente-entre-onibus-e-caminhao-deixa-mortos-nos-emirados-arabes-unidos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-24T07:12:14.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "geral",
+      "label": "Geral",
+      "stories": [
+        {
+          "clusterId": "22104bd379dbdd59",
+          "slug": "23a272ad4776d390",
+          "titulo": "Peixe-leão capturado em navio naufragado em Guarapari",
+          "resumo": "Um peixe-leão foi capturado por mergulhadores em Guarapari, no Espírito Santo, na manhã de segunda-feira. O animal estava na área do Victory 8B, um navio naufragado que funciona como ponto turístico e recife artificial. O peixe-leão, conhecido pelos espinhos venenosos, pode consumir até 20 peixes em meia hora, representando ameaça à biodiversidade local.",
+          "porQueImporta": "O predador pode desequilibrar a fauna marinha do recife artificial.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/24/peixe-leao-e-capturado-em-navio-do-maior-naufragio-planejado-da-america-latina-em-guarapari.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-24T17:23:01.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/W7fCI3hkyHR_FdPjechTrxoBDYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/l/zfxdH7TdqDkDVNVgcm3Q/thumb-videos-g1-2026-11-23t191503.305.jpg"
+        },
+        {
+          "clusterId": "3ad102d1f5e94d8f",
+          "slug": "ad758c1859dd5a5a",
+          "titulo": "Triplo feminicídio em Campos Lindos, Tocantins",
+          "resumo": "Três mulheres foram assassinadas em Campos Lindos, Tocantins: duas irmãs e uma sobrinha de Dinéia Vieira. O suspeito, José Pedro Soares Cruz, permanece foragido e a polícia continua a busca. A família da vítima descreve a situação como devastadora e pede justiça.",
+          "porQueImporta": "O caso destaca a violência de gênero e a necessidade de investigação eficaz.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/24/familia-esta-destruida-diz-mulher-que-perdeu-duas-irmas-e-sobrinha-em-triplo-feminicidio-no-to.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-24T16:47:38.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/RJqifv-EojJtvMRKypTrpOfV0ag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/c/uW5v70TUGzjni4g3rIgw/copia-de-modelo-foto-fundo-borrado-24-.png"
+        },
+        {
+          "clusterId": "a477a3ea2d3f5480",
+          "slug": "7315abe3a2adc74e",
+          "titulo": "Ufam e UEA suspendem aulas presenciais em Manaus por piora na qualidade do ar; escolas do interior também param",
+          "resumo": "Município do interior do AM amanhece coberto por fumaça; qualidade do ar é \"péssima\" A Universidade Federal do Amazonas (Ufam) e a Universidade do Estado do Amazonas (UEA) suspenderam as atividades presenciais nesta terça-feira (24) por causa da piora na qualidade do ar em Manaus. A medida foi anunciada pelas instituições após a capital registrar o ar mais poluído do Brasil nas primeiras horas do dia, em meio à fumaça de queimadas. Por volta das 6h, o Índice de Qualidade do Ar (AQI⁺) de Manaus chegou a 167, nível classificado como \"insalubre\", segundo a plataforma internacional IQAir. O…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/24/ufam-e-uea-suspendem-aulas-presenciais-em-manaus-por-piora-na-qualidade-do-ar-escolas-do-interior-tambem-param.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-24T16:10:48.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/u8gUvMK0e8ULS8Nx5i7Nd_IXvW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/Q/N8AIb6RvGIBFtQY16DSw/ar-em-manaus-atinge-nivel-insalubre-e-e-o-mais-poluido-do-brasil-24-de-novembro-de-2026-foto-willian-duarte-rede-amazonica.jpg"
+        },
+        {
+          "clusterId": "d0e646ef5181591e",
+          "slug": "311260255aa04bea",
+          "titulo": "Funcionário chinês condenado à morte por espionagem",
+          "resumo": "Um funcionário do governo chinês, identificado apenas pelo sobrenome Ma, foi condenado à morte por espionar para um país estrangeiro. O caso foi divulgado por uma editora ligada ao governo, a Gold Wall Press, que informou que Ma foi recrutado enquanto trabalhava no exterior. Os tribunais chineses normalmente não divulgam detalhes de casos de segurança do Estado.",
+          "porQueImporta": "A sentença demonstra a severidade com que a China trata casos de espionagem e vazamento de segredos de Estado.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/23/china-condena-funcionario-a-morte-por-espionagem-e-vazamento-de-segredos-de-estado.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-23T22:56:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Khfmnjcj77gLY65RhFsw5JFwe3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/J/UtJAZvRmydGdxsNIHZCQ/ap26327805329934.jpg"
+        }
+      ]
+    },
     {
       "slug": "tempestade",
       "label": "Tempestade",
       "stories": [
         {
-          "clusterId": "bfbf55eb582c4e28",
+          "clusterId": "9eff6533b90bd94e",
+          "slug": "f8b5f89d35e153aa",
+          "titulo": "Governo aprova R$ 3,8 milhões para recuperação de Tupanciretã",
+          "resumo": "O Governo Federal destinou R$ 3,8 milhões para a limpeza urbana e a compra de telhas destinadas a duas mil famílias da cidade de Tupanciretã. A medida visa atender às necessidades de reconstrução após a tempestade que causou cinco mortes e 265 feridos. Os recursos serão aplicados em obras de infraestrutura e reparo de habitações. A iniciativa faz parte do esforço de recuperação de áreas afetadas pelo desastre.",
+          "porQueImporta": "A alocação de recursos demonstra o compromisso do governo em apoiar a recuperação de comunidades devastadas por desastres naturais.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/governo-federal-aprova-mais-r-38-milhoes-para-recuperacao-de-tupancireta/"
+            }
+          ],
+          "updatedAt": "2026-11-24T15:49:39.000Z"
+        },
+        {
+          "clusterId": "0f49ab56646f8508",
           "slug": "cb39772824cc742e",
           "titulo": "El Niño provoca tempestades e inundações nos Estados Unidos",
           "resumo": "O fenômeno climático El Niño, com intensidade excepcional, está gerando tempestades e inundações em várias regiões dos Estados Unidos. A elevação do nível da água, causada pelas marés, levou o prefeito a recomendar que os moradores evitem viagens não essenciais. Em áreas como San Francisco, há risco aumentado de alagamentos. O evento também está gerando preocupações econômicas globais.",
@@ -194,64 +386,10 @@
             {
               "name": "G1",
               "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/24/el-nino-provoca-secas-severas-no-pacifico-ameaca-causar-inundacoes-nos-eua-e-preocupa-economistas.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/efeitos-do-el-nino-causam-tempestades-e-inundacoes-nos-estados-unidos/"
             }
           ],
-          "updatedAt": "2026-11-24T13:21:26.000Z",
+          "updatedAt": "2026-11-24T12:37:43.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/GjBsv9DkM9La_bat1aPD4flR2Q4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/g/gSWcTzRJKtCrdN3a9DVg/afp-20261121-d89h3rd-v5-midres-topshotecuadorweatherfloodelnino.jpg"
-        },
-        {
-          "clusterId": "e05a9404c8777e97",
-          "slug": "5d5975a1a4bd6d50",
-          "titulo": "Inmet emite alerta de perigo para tempestades em São Paulo",
-          "resumo": "O Instituto Nacional de Meteorologia (Inmet) divulgou um alerta de perigo para tempestades em todo o estado de São Paulo. O aviso laranja prevê chuvas de até 100 mm e ventos de até 100 km/h. A Defesa Civil permanece em alerta e mantém atenção em todas as regiões do estado.",
-          "porQueImporta": "O alerta indica risco de eventos meteorológicos severos que podem afetar a população e a infraestrutura.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/agenda-verde/inmet-emite-alerta-de-perigo-para-tempestades-em-sao-paulo-nesta-terca-24/"
-            }
-          ],
-          "updatedAt": "2026-11-24T15:06:13.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/GettyImages-2274062979.jpg"
-        },
-        {
-          "clusterId": "91e5b8fbe0b9629e",
-          "slug": "2d373df17bf955cd",
-          "titulo": "Tupanciretã enfrenta nova chuva após supercélula",
-          "resumo": "Moradores de Tupanciretã, RS, enfrentam nova chuva na manhã de terça-feira, 24, enquanto o município ainda se recupera dos temporais da semana anterior. A tempestade anterior deixou cinco mortos e 265 feridos, e mais de 19 mil pessoas foram deslocadas. A Defesa Civil mantém alerta de perigo extremo e prevê mais chuvas ao longo do dia.",
-          "porQueImporta": "A continuidade das chuvas aumenta risco de novas vítimas e agrava a situação de deslocamento da população.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/24/chuva-volta-tupancireta-desalojados-rs.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-24T14:11:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/YjyOF4r2eiSk5VRKUOdUBxcBC3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/1/GvivBXSEegCaeZnXXuGA/dji-fly-20261122-143500-339-1795368913257-photo-optimized.jpg"
-        },
-        {
-          "clusterId": "acddc7531d9389a2",
-          "slug": "fde257ccd6359790",
-          "titulo": "Ciclone extratropical deve levar frio e chuva a áreas do Sul e Sudeste",
-          "resumo": "Um ciclone extratropical se aproxima do Sul e Sudeste do Brasil, trazendo chuvas e tempestades. As autoridades alertam para a possibilidade de queda de temperatura, com mínimas abaixo de 10°C em áreas serranas do Sul. O sistema pode causar inundações e riscos de deslizamentos em regiões de relevo acentuado.",
-          "porQueImporta": "O fenômeno pode gerar condições climáticas adversas que afetam a segurança e a mobilidade das populações.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-extratropical-deve-levar-frio-e-chuva-a-areas-do-sul-e-sudeste/"
-            }
-          ],
-          "updatedAt": "2026-11-24T13:49:14.000Z"
         },
         {
           "clusterId": "a707ad24bcb7463e",
@@ -286,207 +424,6 @@
           ],
           "updatedAt": "2026-11-22T22:21:37.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0843/live/70eea900-e541-11f1-86db-6b65e6759b43.jpg"
-        },
-        {
-          "clusterId": "b324af599a4b35c6",
-          "slug": "eb245ea605a18d8d",
-          "titulo": "Supercélula no Rio Grande do Sul causa mortes e deslocamentos",
-          "resumo": "Uma supercélula gerou ventos de até 114 km/h, atingindo 36 municípios do Rio Grande do Sul. O fenômeno deixou cinco mortos e quase 9 mil residências afetadas. Vários moradores foram deslocados para abrigos temporários. As autoridades continuam avaliando os danos e coordenando ações de socorro.",
-          "porQueImporta": "O evento demonstra a intensidade dos fenômenos meteorológicos na região e a necessidade de preparação e resposta rápida a desastres naturais.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "DW Brasil",
-              "url": "https://www.dw.com/pt-br/tempestades-no-rs-deixam-mortos-e-milhares-de-deslocados/a-80011201?maca=bra-rss-br-all-1030-rdf"
-            }
-          ],
-          "updatedAt": "2026-11-22T16:13:00.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "acidente-de-transito",
-      "label": "Acidente de trânsito",
-      "stories": [
-        {
-          "clusterId": "bc2c247241fbe3e6",
-          "slug": "02a6461c1b03af04",
-          "titulo": "Bióloga morre em colisão de moto com carro em Rio Branco",
-          "resumo": "A bióloga Sandia de Souza Ricardo, de 27 anos, morreu após a moto em que estava ser atingida por um carro que fez conversão proibida no bairro Comara, na noite de domingo. Familiares e amigos se reuniram para velar e enterrar o corpo na segunda-feira. Eles exigiram esclarecimentos sobre as circunstâncias do acidente e questionaram a conduta do motorista.",
-          "porQueImporta": "O caso destaca a necessidade de fiscalização e segurança viária em áreas urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/ac/acre/noticia/2026/11/24/familia-se-despede-de-biologa-morta-em-acidente-no-ac-e-cobra-esclarecimentos-descaso.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-24T15:05:31.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/L1h8yAbfH8rtKIN5tAQa4ThynE4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/P/K4CN8WSqWJCuUp9Tkl2w/befunky-collage-2026-11-24t100431.039.jpg"
-        },
-        {
-          "clusterId": "4d1b25faf39f8f91",
-          "slug": "28ccdabacf2efb49",
-          "titulo": "Dois carros batem e um capota em cruzamento movimentado de Manaus",
-          "resumo": "Dois veículos colidiram no cruzamento das avenidas Leonardo Malcher e Visconde de Porto Alegre, na Zona Sul de Manaus, na manhã de terça-feira. Um dos carros avançou a sinalização, atingindo o outro e capotando. O acidente não registrou feridos graves, mas causou lentidão no trânsito local.",
-          "porQueImporta": "O incidente demonstra risco de acidentes em cruzamentos movimentados, afetando a mobilidade urbana.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/24/dois-carros-batem-e-um-capota-em-cruzamento-movimentado-de-manaus-video.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-24T14:45:03.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/VKGj-AiEgR4etwdg6G0ccjPf5ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/V/2yTe3OS5i4MWu6O3Jo0w/dois-carros-batem-e-um-capota-em-cruzamento-movimentado-de-manaus-foto-reproducao-redes-sociais.jpg"
-        },
-        {
-          "clusterId": "132dc749dd41698a",
-          "slug": "1078b9876c41a18a",
-          "titulo": "Motociclista de 37 anos morre após acidente entre duas motos em Campina Grande",
-          "resumo": "Um motociclista de 37 anos morreu na manhã de terça-feira (24) em Campina Grande, no Agreste da Paraíba, após um acidente entre duas motos na Avenida João Wallig, no Distrito Industrial. O motociclista, identificado como Kleiton Olímpio Amorim dos Santos, tentou ultrapassar outra moto, perdeu o controle e colidiu frontalmente com a outra motocicleta. O acidente ocorreu por volta das 6h10.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção à segurança no trânsito nas vias urbanas.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/24/motociclista-de-37-anos-morre-apos-acidente-entre-duas-motos-em-campina-grande.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-24T14:13:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Ia-sD7WiDdLTDdWBGB23po3OOr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/q/lkKuNzS2yJG4zzS6B3hA/whatsapp-image-2026-11-24-at-10.49.17.jpeg"
-        },
-        {
-          "clusterId": "972addd52358572c",
-          "slug": "306594cd763a94f8",
-          "titulo": "Acidente entre ônibus e caminhão deixa 11 mortos em Ras Al Khaimah",
-          "resumo": "Onze pessoas morreram quando um ônibus de passageiros colidiu com um caminhão na estrada Al Watan, em Ras Al Khaimah, Emirados Árabes Unidos. O Ministério do Interior informou a ocorrência e as equipes de ambulância e defesa civil realizaram os resgates. A área foi isolada e o trânsito controlado. Não foram divulgados nomes das vítimas nem número de feridos.",
-          "porQueImporta": "O acidente resultou em múltiplas fatalidades, destacando a necessidade de segurança viária no país.",
-          "categoria": "Acidente de trânsito",
-          "categoriaSlug": "acidente-de-transito",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/24/acidente-entre-onibus-e-caminhao-deixa-mortos-nos-emirados-arabes-unidos.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-24T07:12:14.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "geral",
-      "label": "Geral",
-      "stories": [
-        {
-          "clusterId": "d0e646ef5181591e",
-          "slug": "311260255aa04bea",
-          "titulo": "Funcionário chinês condenado à morte por espionagem",
-          "resumo": "Um funcionário do governo chinês, identificado apenas pelo sobrenome Ma, foi condenado à morte por espionar para um país estrangeiro. O caso foi divulgado por uma editora ligada ao governo, a Gold Wall Press, que informou que Ma foi recrutado enquanto trabalhava no exterior. Os tribunais chineses normalmente não divulgam detalhes de casos de segurança do Estado.",
-          "porQueImporta": "A sentença demonstra a severidade com que a China trata casos de espionagem e vazamento de segredos de Estado.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/23/china-condena-funcionario-a-morte-por-espionagem-e-vazamento-de-segredos-de-estado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-23T22:56:02.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Khfmnjcj77gLY65RhFsw5JFwe3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/J/UtJAZvRmydGdxsNIHZCQ/ap26327805329934.jpg"
-        },
-        {
-          "clusterId": "63b6b70027b64965",
-          "slug": "95f55485a902496a",
-          "titulo": "Ainda é possível evitar a catástrofe climática?",
-          "resumo": "O artigo destaca recordes de calor, inundações devastadoras e incêndios florestais como sinais de alerta do aumento das temperaturas. Aponta que ainda há possibilidade de controlar o aquecimento global, mas requer ações imediatas e eficazes. Discute os impactos dessas mudanças climáticas na sociedade e no meio ambiente.",
-          "porQueImporta": "A situação climática atual ameaça a segurança e a saúde de populações em todo o mundo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "DW Brasil",
-              "url": "https://www.dw.com/pt-br/ainda-é-possível-evitar-a-catástrofe-climática/a-80021541?maca=bra-rss-br-all-1030-rdf"
-            }
-          ],
-          "updatedAt": "2026-11-23T18:37:00.000Z"
-        },
-        {
-          "clusterId": "9411bdaa97bab2e4",
-          "slug": "e00ee6b715bbe125",
-          "titulo": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia",
-          "resumo": "Vista aérea feita por drone mostra fumaça saindo da fábrica PT Fonusa Agung Mulia, atingida por um incêndio em Cikande, na regência de Serang, província de Banten, na Indonésia, em novembro. Reuters Um incêndio atingiu uma fábrica de doces em Cikande, na ilha de Java, na Indonésia, na noite de sábado (21). Segundo a Reuters, várias pessoas morreram e pelo menos 50 estão desaparecidas. O fogo atingiu a fábrica PT Fonusa Agung Mulia, que pertence à empresa indonésia United Family Food. Imagens divulgadas pelo Corpo de Bombeiros mostram equipes tentando controlar as chamas durante a noite,…",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T17:08:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4zSznfSc7uIbVzsA529F38DJ_3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Y/sAAvYPTCar0GPShaOWZA/2026-11-22t105412z-317322532-rc2tsoa36gr2-rtrmadp-3-indonesia-fire.jpg"
-        },
-        {
-          "clusterId": "341ced19679300d7",
-          "slug": "ced4ab83a248cb4a",
-          "titulo": "Fiéis são hospitalizados após vazamento de gás em igreja na Alemanha",
-          "resumo": "Mais de 50 pessoas que acompanhavam missa de domingo no sul da Alemanha foram intoxicadas com monóxido de carbono. Dispositivo de segurança do aquecimento teria falhado.",
-          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
-          "categoria": "Geral",
-          "categoriaSlug": "geral",
-          "sources": [
-            {
-              "name": "DW Brasil",
-              "url": "https://www.dw.com/pt-br/fiéis-são-hospitalizados-após-vazamento-de-gás-em-igreja-na-alemanha/a-80014673?maca=bra-rss-br-all-1030-rdf"
-            }
-          ],
-          "updatedAt": "2026-11-22T17:05:00.000Z"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "bec8101e9dec674f",
-          "slug": "480beefa1019e666",
-          "titulo": "Chuva intensa causa alagamentos e deslizamentos em Piraí e Paraty",
-          "resumo": "Uma forte chuva na noite de segunda-feira (23) provocou deslizamentos de terra, queda de árvores, alagamentos e obstrução de ruas em Piraí, no Rio de Janeiro, especialmente no bairro Vale Verde. Em Paraty, a mesma tempestade gerou alagamentos nas ruas dos bairros Pantanal e Ponte Branca, com veículos circulando sobre a água. As equipes municipais iniciaram ações de limpeza e desobstrução ainda durante a noite.",
-          "porQueImporta": "O evento compromete a mobilidade urbana e pode representar risco à segurança pública.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/24/video-chuva-intensa-provoca-alagamentos-nas-ruas-de-paraty.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-24T14:44:11.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-aOiaRuhKb4fopDW67NSCwK5aPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/G/AV7gQsQAaY3pYtTXGrZw/image-31-3-.png"
-        },
-        {
-          "clusterId": "5df51cf957ff42cb",
-          "slug": "cfa7d847c225a864",
-          "titulo": "Chuva forte provoca enxurradas e bloqueia estradas em Garruchos e Cruz Alta",
-          "resumo": "Uma enxurrada atingiu Garruchos, bloqueando a entrada do município e alagando terrenos. Em Cruz Alta, a chuva acumulou cerca de 65 milímetros, atingindo a RS-342 e causando danos em estradas. A Defesa Civil relata que a chuva forte em Garruchos ocorreu entre 6h40 e 8h20. Moradores ficaram sem energia elétrica.",
-          "porQueImporta": "O evento comprometeu a mobilidade e a infraestrutura local, afetando a segurança e o acesso dos habitantes.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/24/chuva-estragos-rs-defesa-civil.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-24T13:52:40.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/9nk4Rpqags0KEEMyRr7V4cqGAjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/7/hHeJFCQgiwdsqoFjs71A/documento.png"
         }
       ]
     },
@@ -494,6 +431,23 @@
       "slug": "explosao",
       "label": "Explosão",
       "stories": [
+        {
+          "clusterId": "bd99e72a924e65ff",
+          "slug": "52d34eacc4489b6f",
+          "titulo": "Bombeiros feridos em explosão na indústria química de Salto",
+          "resumo": "Dois bombeiros ficaram feridos ao atender incêndio na fábrica Pyrozzar, em Salto, SP. Eles estão internados no Hospital das Clínicas, em São Paulo, e passarão por cirurgias nas datas 26 e 27 para remoção de tecidos queimados.",
+          "porQueImporta": "O incidente destaca os riscos enfrentados pelos profissionais de emergência em instalações químicas.",
+          "categoria": "Explosão",
+          "categoriaSlug": "explosao",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/24/bombeiros-feridos-no-incendio-em-salto-passarao-por-cirurgias.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-24T16:11:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zynRCK8_u1ac5qorFCivKZjF3k4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/G/Zgjl39QqAPBzazQ1oAoQ/ezgif.com-optimize-19-.gif"
+        },
         {
           "clusterId": "9327f4be72d04ba8",
           "slug": "bb88572fae939805",
@@ -510,23 +464,6 @@
           ],
           "updatedAt": "2026-11-24T13:59:39.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/AqolH8ZpaXD5x1JVJcXilLPvPfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/v/AMUMGGRcqjkpxYH56ZAg/captura-de-tela-2026-11-24-070902-1-.jpg"
-        },
-        {
-          "clusterId": "ced33295b37c7f60",
-          "slug": "947ece8009412266",
-          "titulo": "Ataque russo atinge prédio de apartamentos em Dymer, perto de Kiev",
-          "resumo": "Um ataque russo atingiu um prédio de cinco andares em Dymer, norte de Kiev, causando incêndio e destruição total. Pelo menos duas pessoas morreram e quatro ficaram feridas, segundo autoridades. Nove pessoas foram retiradas do local, incluindo uma criança, e outra foi hospitalizada. Bombeiros e equipes de resgate trabalharam no local.",
-          "porQueImporta": "O incidente demonstra a continuidade dos conflitos na região e a vulnerabilidade de áreas civis próximas à fronteira.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/22/ataque-russo-kiev-ucrania.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-22T15:10:57.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/cy94MgGrHgxmU8BqG3hdVOd_Rq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/6/zMajklTWa5gsMX7UDCkw/ap26326269093758.jpg"
         }
       ]
     },
@@ -535,21 +472,44 @@
       "label": "Incêndio",
       "stories": [
         {
-          "clusterId": "b6c1bf4a6a1128f6",
-          "slug": "3680e2f798eec4bd",
-          "titulo": "Incêndio em lixão de Oiapoque é controlado após quase um mês",
-          "resumo": "O fogo na lixeira pública de Oiapoque, no Amapá, foi contido pelo Corpo de Bombeiros depois de quase um mês de incêndio intenso. A fumaça de outras queimadas continua a encobrir a cidade e afeta os moradores. Em 26 de outubro a Defesa Civil municipal emitiu alerta sobre a densa nuvem de fumaça que atingiu bairros próximos, com preocupação principal pelos impactos à saúde da população.",
-          "porQueImporta": "O controle do incêndio evita maiores danos ambientais e protege a saúde dos habitantes da região.",
+          "clusterId": "7d636bd1e4f6d191",
+          "slug": "36d938f2afe74a17",
+          "titulo": "Incêndio em casa de veraneio na região da represa Jurumirim",
+          "resumo": "Um incêndio atingiu uma casa de veraneio em Avaré, SP, na tarde de segunda-feira (23). Acredita-se que as chamas foram provocadas por raios durante a chuva. O caseiro, que mora nas proximidades, percebeu a fumaça após ouvir um forte estrondo. Nenhuma pessoa ficou ferida.",
+          "porQueImporta": "O evento destaca a possibilidade de incêndios em áreas de lazer durante tempestades, exigindo atenção das autoridades locais.",
           "categoria": "Incêndio",
           "categoriaSlug": "incendio",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/24/incendio-em-lixao-de-oiapoque-e-controlado-apos-quase-um-mes-mas-fumaca-ainda-afeta-a-cidade.ghtml"
+              "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/24/casa-de-veraneio-e-atingida-por-incendio-durante-chuva-na-regiao-da-represa-jurumirim.ghtml"
             }
           ],
-          "updatedAt": "2026-11-24T14:36:27.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/Z7ZOJdIbqyp15Mt6P4qI4mkYVss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/3/I28iqASpOg2Y0PRJcuCw/aleixo-g1-1-.jpg"
+          "updatedAt": "2026-11-24T16:17:07.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/w0hb4TvauoguRhS68zHXfIUMBZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/s/rjrmOHTvKikvifzq4CcA/whatsapp-image-2026-11-24-at-07.23.34.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "seca",
+      "label": "Seca",
+      "stories": [
+        {
+          "clusterId": "c76afde515e61b6e",
+          "slug": "ca512f39d6762672",
+          "titulo": "Peixes morrem no Baixo Rio Branco devido à seca agravada pelo El Niño",
+          "resumo": "A seca no Baixo Rio Branco, principal rio de Roraima, provocou a morte de peixes e reduziu o nível de rios e igarapés. Em pelo menos sete comunidades ribeirinhas, moradores precisam percorrer até 2 quilômetros para buscar água. Profissionais de saúde registram aumento de casos de diarreia, vômito, febre e viroses. O nível do Rio Branco caiu 35 centímetros em um mês.",
+          "porQueImporta": "A escassez de água e a mortalidade de peixes afetam a subsistência local e a saúde pública.",
+          "categoria": "Seca",
+          "categoriaSlug": "seca",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/24/video-peixes-morrem-em-meio-a-seca-agravada-pelo-el-nino-no-maior-rio-de-roraima.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-24T16:13:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/587Bdashkek5jL7q_ocuFaGPW78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/o/2fKmAuRYC64cSb0clBiA/mortos3.jpg"
         }
       ]
     }
