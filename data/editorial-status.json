@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-11-25T03:07:53.432Z",
+  "ranAt": "2026-11-25T13:21:43.789Z",
   "editionDate": "2026-11-25",
-  "hourUtc": 3,
-  "outcome": "skipped",
-  "reason": "fora da janela (3h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Alertas meteorológicos e eventos de inundação dominam o cenário nacional\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
