@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-11-24T15:10:13.415Z",
-  "editionDate": "2026-11-24",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Clima extremo e mobilidade urbana dominam panorama de hoje\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-11-25T03:07:53.432Z",
+  "editionDate": "2026-11-25",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
