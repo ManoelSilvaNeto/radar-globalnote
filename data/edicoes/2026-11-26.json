@@ -1,184 +1,174 @@
 {
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T05:19:52.516Z",
+  "generatedAt": "2026-11-26T15:37:23.475Z",
   "home": [
     {
-      "clusterId": "afbe7c96946b0e45",
-      "slug": "db3844bb6db39fb4",
-      "titulo": "Caminhão-tanque explodiu e incendiou na via expressa do Cairo",
-      "resumo": "Um caminhão-tanque que transportava derivados de petróleo tombou e pegou fogo em uma importante via expressa do Cairo, no Egito. O acidente provocou incêndio que destruiu 27 veículos nas proximidades e deixou 31 pessoas mortas, incluindo nove com queimaduras graves. Além dos mortos, 21 pessoas ficaram feridas e foram levadas a hospitais.",
-      "porQueImporta": "O incidente resultou em alta mortalidade e danos significativos à infraestrutura viária.",
-      "categoria": "Explosão",
-      "categoriaSlug": "explosao",
+      "clusterId": "59e6b0b282c5e19b",
+      "slug": "5487e6d4deb6532f",
+      "titulo": "Acidente entre carro e moto deixa jovem ferido em Volta Redonda",
+      "resumo": "Na noite de quarta-feira, 25, em Volta Redonda, um carro invadiu a contramão e colidiu com uma motocicleta no bairro Santo Agostinho, por volta das 20h05. O acidente deixou um jovem de 22 anos ferido. As imagens de câmeras de monitoramento da Semop foram usadas para registrar o incidente.",
+      "porQueImporta": "O acidente destaca a importância da fiscalização de trânsito e do uso de câmeras de segurança para prevenir colisões e proteger a vida dos usuários das vias.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/25/caminhao-tanque-pega-fogo-e-deixa-ao-emnos-21-mortos-no-egito.ghtml"
-        },
+          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/26/cameras-de-monitoramento-flagram-acidente-entre-carro-e-moto-em-volta-redonda.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-26T15:29:06.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0Pn26v4pqxYEe9P4yHw_iyp7BgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/b/2OJZAeT3WAHJOOZEhJZg/image-39-1-.png"
+    },
+    {
+      "clusterId": "c9506170a79da842",
+      "slug": "e0be861c38d4ba44",
+      "titulo": "Temporal causa alagamentos, queda de árvores e abre cratera em Morro do Coco",
+      "resumo": "Um temporal atingiu Morro do Coco, distrito de Campos dos Goytacazes, na noite de quarta-feira, 25, provocando alagamentos e queda de árvores. Em outro ponto do distrito, uma cratera se abriu ao lado de um estabelecimento comercial. Fotos de moradores mostram os estragos.",
+      "porQueImporta": "O evento pode representar risco à infraestrutura e à segurança dos moradores.",
+      "categoria": "Tempestade",
+      "categoriaSlug": "tempestade",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/26/temporal-causa-alagamentos-queda-de-arvores-e-abre-cratera-em-morro-do-coco-em-campos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-26T15:28:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zwLJyBljmFmZw2bziVmTPsCjbq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/Q/t10J7kSQ6Xr15zEz0QpQ/morro-do-coco-chuva-1.png"
+    },
+    {
+      "clusterId": "9db5832d46ad04a0",
+      "slug": "4db727a2f62c7b19",
+      "titulo": "Temporal causa desabastecimento em Porto Murtinho",
+      "resumo": "Chuvas fortes danificaram estradas e alagaram trechos da rodovia MS-267, dificultando a chegada de caminhões de grande porte à cidade de Porto Murtinho. O transporte de alimentos foi prejudicado, deixando gôndolas vazias em supermercados locais. Apesar da dificuldade, um caminhão conseguiu chegar usando a rodovia como desvio. A prefeitura afirmou que não há risco de desabastecimento geral no município.",
+      "porQueImporta": "O bloqueio das estradas pode comprometer o abastecimento de alimentos e outros bens essenciais na região.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/26/mercados-comecam-a-ficar-desabastecidos-apos-temporal-destruir-rodovia-e-isolar-cidade-de-ms.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-26T15:20:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Whbg_4vvpmUqE9wONVb5RigD8l8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/N/nr6IF9Qx670cDKhGH3Tw/hortifruti-vazio-porto-murtinho.jpg"
+    },
+    {
+      "clusterId": "7290bdd2e821cf47",
+      "slug": "8016e36f598679ff",
+      "titulo": "Bar em Itaperuna permanece fechado após temporal",
+      "resumo": "Um temporal de 46,6 mm em cerca de 40 minutos alagou vários pontos de Itaperuna, incluindo um bar no bairro Vinhosa. Os clientes que já estavam no local permaneceram e continuaram bebendo enquanto a água subia, aguardando que o nível diminuísse. As ruas ficaram alagadas e a limpeza começou depois que a água escoou. A Defesa Civil relatou que o período mais intenso da chuva durou entre 30 e 40 minutos.",
+      "porQueImporta": "Ilustra como eventos climáticos extremos podem afetar estabelecimentos comerciais e a reação das pessoas em situações de alagamento.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/26/clientes-tomam-cerveja-enquanto-esperam-agua-baixar-apos-temporal-alagar-bar-em-itaperuna.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-26T15:17:44.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/CeZSpFLTMJyFCQ-mHP-ejNnHFPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/x/zm5x7jRlCv61ymXBxsrQ/chuva.jpg"
+    },
+    {
+      "clusterId": "bd62384a664019c4",
+      "slug": "ef49af99a0160700",
+      "titulo": "Homem carrega botijão de gás na cabeça para fugir de fumaça tóxica e fogo no Sul do Amapá",
+      "resumo": "Um morador de Laranjal do Jari, no Sul do Amapá, carregou um botijão de gás sobre a cabeça para escapar de uma casa de madeira em chamas e de fumaça tóxica. A ação ocorreu na quarta-feira, 25, em meio a um agravamento da crise de queimadas no município. Profissionais de saúde classificaram áreas como inabitáveis na quinta-feira, 26. O vídeo mostra o homem retirando rapidamente o botijão para evitar uma explosão.",
+      "porQueImporta": "O episódio destaca a gravidade dos incêndios e a exposição de moradores a riscos extremos.",
+      "categoria": "Incêndio florestal",
+      "categoriaSlug": "incendio-florestal",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/26/homem-carrega-botijao-de-gas-na-cabeca-para-fugir-de-fumaca-toxica-e-fogo-no-sul-do-ap-video.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-26T15:16:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KYG-WP8iBVwTACUHGM1ZbK6Wy1I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/G/hBLEFJRRAUdJP9kAfiyg/aleixo-g1-8-.jpg"
+    },
+    {
+      "clusterId": "f094088d0cd3b03e",
+      "slug": "b06858bddd832e7a",
+      "titulo": "Motociclista é atropelado por caminhão ao tentar atravessar rodovia em Ribeirão Preto",
+      "resumo": "Um motociclista foi atropelado por um caminhão na Rodovia Anhanguera, km 323, em Ribeirão Preto, SP, ao tentar atravessar a via. O acidente ocorreu na manhã de quinta-feira, 26. O motociclista ficou em estado grave e foi socorrido pelas autoridades. O caminhoneiro tentou desviar, mas não conseguiu evitar o impacto.",
+      "porQueImporta": "O incidente destaca os riscos de atravessar rodovias e a necessidade de atenção dos motoristas e pedestres.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/26/motociclista-e-atropelado-por-caminhao-ao-tentar-atravessar-rodovia-em-ribeirao-preto-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-26T15:11:20.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rMxI_eqdOIoJeRfdO68OPYWj-mo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/tg0zLHSO20iHliM3jV7w/molduras-g1-rp.png"
+    },
+    {
+      "clusterId": "631b63d890bdc63d",
+      "slug": "c7dfa4953ff8aa9f",
+      "titulo": "Teatro Guarany interditado após problemas estruturais causados por chuvas",
+      "resumo": "A Prefeitura de Santos interditou o Teatro Guarany depois que a Defesa Civil identificou problemas no telhado, atribuídos ao grande volume de chuva e ventos fortes. O laudo técnico apontou risco de comprometimento das instalações elétricas. O espaço foi fechado temporariamente para reparos emergenciais.",
+      "porQueImporta": "A interdição impede o uso do teatro, afetando eventos culturais e a comunidade local.",
+      "categoria": "Enchente",
+      "categoriaSlug": "enchente",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/26/teatro-guarany-e-interditado-por-problemas-estruturais-apos-fortes-chuvas-em-santos-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-26T15:09:20.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/q6WCGwVE0u0oNt1_M5IBsVXmBjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/U/BFAEYUToy8pSExA8Fc5Q/copia-de-materia-10-.jpg"
+    },
+    {
+      "clusterId": "d5aa4f91654aa7e7",
+      "slug": "9b0d6fbc6f25a366",
+      "titulo": "Aubameyang sofre acidente na manhã de treino na Espanha",
+      "resumo": "O ex-jogador Pierre-Emerick Aubameyang, que atualmente joga pelo Deportivo La Coruña, sofreu um acidente na manhã de quinta-feira (26) enquanto se dirigia a um treino na Espanha. O acidente não resultou em ferimentos para o atleta. As autoridades não divulgaram detalhes adicionais sobre a natureza do acidente.",
+      "porQueImporta": "O incidente envolve um atleta de alto perfil internacional, o que pode afetar sua disponibilidade para jogos futuros.",
+      "categoria": "Acidente de trânsito",
+      "categoriaSlug": "acidente-de-transito",
+      "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/explosao-de-caminhao-tanque-provoca-incendio-e-deixa-mortos-no-egito/"
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/ex-arsenal-e-barcelona-bate-ferrari-a-caminho-de-treino-na-espanha/"
         }
       ],
-      "updatedAt": "2026-11-26T03:53:24.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/WLOgmhLj358VYDxN3wdpm-mjows=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/E/TJQC30S1KGqotS5i83Gw/ap26329710858344.jpg"
+      "updatedAt": "2026-11-26T15:00:13.000Z"
     },
     {
-      "clusterId": "824d35df12de690e",
-      "slug": "f246f36cc4b0022f",
-      "titulo": "IBGE revela que apenas 34% dos municípios brasileiros possuem plano contra enchentes",
-      "resumo": "O Instituto Brasileiro de Geografia e Estatística divulgou na PNSB 2024 que apenas 34 municípios têm sistema contra enchentes, sendo São Paulo o estado com mais cidades equipadas, com 10. A pesquisa mostra que quase todos os municípios têm algum serviço de drenagem, mas apenas uma em cada quatro possui plano de ação específico para enchentes. O levantamento destaca a necessidade de ampliar a cobertura de planos de desastres naturais.",
-      "porQueImporta": "A falta de planos adequados aumenta a vulnerabilidade das cidades a eventos de inundação.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/apenas-uma-em-cada-4-cidades-brasileiras-tem-plano-de-acao-para-desastres-naturais-diz-ibge.ghtml"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-infra/so-34-municipios-tem-sistema-contra-enchentes-no-pais-diz-ibge/"
-        }
-      ],
-      "updatedAt": "2026-11-26T02:59:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jdxoFG_KLD09Yr7vhhPVMG9skws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/x/ToMaKFTdaVBFuQAj4tHA/globo-canal-4-20261125-2000-frame-149266.jpeg"
-    },
-    {
-      "clusterId": "ad4b78dfd8339d8d",
-      "slug": "31c71daa94e896e8",
-      "titulo": "Rio Paraíba do Sul sobe 66 centímetros em 24 horas em Campos",
-      "resumo": "O nível do Rio Paraíba do Sul aumentou 66 centímetros em 24 horas, passando de 7,54 metros para 8,20 metros, segundo a Defesa Civil. A água avançou até o Cais da Lapa, na região central de Campos dos Goytacazes. O aumento está relacionado às chuvas provocadas por uma frente fria que afetou a bacia do rio.",
-      "porQueImporta": "O avanço da água pode causar inundações e fechamento de áreas públicas, afetando a mobilidade e a segurança dos moradores.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/26/rio-paraiba-do-sul-sobe-66-centimetros-em-24-horas-em-campos-estacionamento-do-cais-da-lapa-sera-fechado.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-26T05:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/-iBMybMhpGnEmjd2UiFkTH5u9vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/b/cfF7XuSeAxnNa1C2k99Q/rio-paraiba-2.png"
-    },
-    {
-      "clusterId": "82cec5fadefa74a8",
-      "slug": "725faee99a44ede7",
-      "titulo": "Previsão de tempo com pancadas de chuva e temporal em várias cidades",
-      "resumo": "Na quinta-feira, as cidades de Cuiabá, Maringá, Ribeirão das Neves, Contagem, Betim e Belo Horizonte registrarão sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde, seguida de temporal à noite. As máximas variam de 27ºC a 34ºC e as mínimas de 20ºC a 25ºC. O dia de sexta-feira prevê sol com muitas nuvens e pancadas de chuva em alguns locais, mantendo a possibilidade de temporal. As condições climáticas podem afetar deslocamentos e atividades ao ar livre.",
-      "porQueImporta": "As variações de temperatura e a ocorrência de temporais podem impactar a mobilidade urbana e a segurança dos moradores.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-belo-horizonte-mg-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-e-noite-com-temporal.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-26T04:15:23.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/qZPl1ZeHcXh7BtEpKbM8ibCrGjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/P0WYDdRueqS2OghcRrtw/previsao-tempo-belo-horizonte-20261126-010754.jpeg"
-    },
-    {
-      "clusterId": "fd2d93cd23f315da",
-      "slug": "d2900675e073b87c",
-      "titulo": "Abin publica levantamento sobre facções criminosas no Brasil",
-      "resumo": "A Agência Brasileira de Inteligência divulgou o documento Cenários do Crime Organizado no Brasil, em parceria com o Fórum Brasileiro de Segurança Pública. O estudo analisa as 31 maiores facções do país nas últimas duas décadas, destacando a expansão de suas atividades além do tráfico de drogas. O levantamento coincide com 20 anos do \"salve geral\" do PCC em São Paulo e de ataques coordenados do Comando Vermelho no Rio de Janeiro.",
-      "porQueImporta": "O documento oferece dados inéditos sobre a evolução e alcance das facções, informando políticas de segurança pública.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/26/o-mapa-das-faccoes-e-a-nova-dinamica-do-crime-no-brasil-o-assunto-1853.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-26T03:30:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/85wnt3SeG6IGFIfRBofGti53iok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/E/QSOt4dTSar8ryktWLIkw/imagem-1200x800-17-.jpg"
-    },
-    {
-      "clusterId": "15443a95671b4651",
-      "slug": "b3609e2f8063f256",
-      "titulo": "Chuva de até 110 mm pode provocar alagamentos e inundações em SP, RJ, ES e MG",
-      "resumo": "A previsão indica que áreas do Sudeste podem registrar até 110 milímetros de chuva nesta quinta-feira, com risco de alagamentos e inundações. Os maiores volumes são esperados no litoral norte de São Paulo, no Rio de Janeiro, incluindo a capital e o norte fluminense, no sul do Espírito Santo e em parte do Vale do Rio Doce, em Minas Gerais. A combinação de instabilidade atmosférica e relevo favorece a formação de nuvens carregadas, aumentando o potencial de eventos extremos.",
-      "porQueImporta": "A intensidade da chuva pode causar transtornos urbanos e riscos à segurança pública.",
-      "categoria": "Tempestade",
-      "categoriaSlug": "tempestade",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/26/chuva-de-ate-110-mm-pode-provocar-alagamentos-e-inundacoes-em-sp-rj-es-e-mg-nesta-quinta-feira-veja-a-previsao-do-tempo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-26T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1BRZJ1RQcqk8NIFCPrxeWxYqWbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/d/eQhkb3RU6xKrNvxURBbg/chuva-ponte-cortada.jpg"
-    },
-    {
-      "clusterId": "4b6044fa860a9ea3",
-      "slug": "0b27cf06116f80b6",
-      "titulo": "Motociclista preso após morte de jovem na Barra da Tijuca",
-      "resumo": "O motociclista Mateus Araújo do Vale, preso em flagrante, causou a morte de Larissa Martins de Andrade, de 25 anos, na Avenida das Américas, na Barra da Tijuca. Ele não possuía habilitação e utilizava o cadastro de outra pessoa no aplicativo de transporte. Em depoimento à polícia, afirmou ter obtido os dados de terceiros em bancos de informações vendidos em grupos de WhatsApp. O homem foi autuado por homicídio doloso.",
-      "porQueImporta": "O caso destaca a prática de uso fraudulento de aplicativos de transporte e a falta de habilitação como fatores de risco no trânsito.",
+      "clusterId": "5aad214fed3be521",
+      "slug": "03be9b9c1c6dbea6",
+      "titulo": "Carro capota e cai de barranco de 70 metros em Muriaé",
+      "resumo": "Três homens ficaram feridos quando um carro capotou várias vezes e caiu de aproximadamente 70 metros em Muriaé, Minas Gerais. O motorista perdeu o controle enquanto descia a ladeira. As vítimas já estavam fora do veículo e conscientes quando os bombeiros chegaram. Um dos homens sofreu traumatismo cranioencefálico.",
+      "porQueImporta": "O acidente destaca a importância da segurança viária em ladeiras de risco.",
       "categoria": "Acidente de trânsito",
       "categoriaSlug": "acidente-de-transito",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/26/motociclista-preso-apos-morte-de-jovem-na-barra-nao-tinha-habilitacao-e-usava-perfil-falso-em-aplicativo.ghtml"
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/26/carro-capota-varias-vezes-apos-despencar-de-barranco-de-70-metros-e-deixa-tres-homens-feridos-em-mg.ghtml"
         }
       ],
-      "updatedAt": "2026-11-26T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/FqwRvhKbEy1cTyQx_LnlZUy1FA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Z/UcoYaaTyaTF9DtzGxbag/montagem-horizontal-1200px-25-.jpg"
+      "updatedAt": "2026-11-26T14:57:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/EfhMMLtLrIKLTSjel7_VzNafC5s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/1/LWjrRrQSAbUMgqvyUyPw/radio-muriae.jpg"
     },
     {
-      "clusterId": "80506e1262073a7b",
-      "slug": "79cfdd747dc4b65c",
-      "titulo": "Pós-temporal em Tupanciretã gera filas por telhas e prejuízos no campo",
-      "resumo": "Após o temporal em Tupanciretã, moradores enfrentam filas para receber telhas e lidam com danos nas plantações. O trânsito de telhas e colchões se tornou caótico, enquanto a espera por doações permanece longa. Muitos abandonam suas casas para ficar na fila, com móveis molhados e telhados destelhados.",
-      "porQueImporta": "O evento demonstra a vulnerabilidade das comunidades rurais a eventos climáticos extremos e a necessidade de apoio rápido.",
-      "categoria": "Enchente",
-      "categoriaSlug": "enchente",
+      "clusterId": "4a3d615eed1d8b4e",
+      "slug": "28955c3ddfb7cfe4",
+      "titulo": "Navio-tanque com 8,2 milhões de litros de diesel quase afundou perto de Ibiza",
+      "resumo": "Um navio-tanque carregado com cerca de 8,2 milhões de litros de diesel quase afundou próximo à ilha de Ibiza, no Mediterrâneo. O incidente resultou em um fatalidade. As autoridades marítimas estão investigando as causas e as medidas de contenção.",
+      "porQueImporta": "O acidente pode representar risco ambiental significativo e ameaça à vida humana.",
+      "categoria": "Naufrágio",
+      "categoriaSlug": "naufragio",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/pos-temporal-em-tupancireta-rs-e-marcado-por-filas-em-busca-de-telhas-e-prejuizos-no-campo.ghtml"
+          "name": "DW Brasil",
+          "url": "https://www.dw.com/pt-br/espanha-tenta-evitar-desastre-ambiental-após-acidente-com-navio-tanque-no-mediterrâneo/a-80063833?maca=bra-rss-br-all-1030-rdf"
         }
       ],
-      "updatedAt": "2026-11-26T02:08:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/x31DO5SouHXqi8M-iWIkMFz20q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/FHpIdiQYamRvK3C3qs0Q/globo-canal-4-20261125-2000-frame-140505.jpeg"
-    },
-    {
-      "clusterId": "0107add7d4804fa3",
-      "slug": "0d9e97174bb1fcc2",
-      "titulo": "Auxílio emergencial a atingidos pelo rompimento de barragem em Brumadinho volta a ser pago nesta sexta-feira",
-      "resumo": "A parcela de novembro do Novo Auxílio Emergencial será creditada nesta sexta-feira (27) às pessoas afetadas pelo rompimento da barragem da Mina Córrego do Feijão, em Brumadinho, na Grande Belo Horizonte. A Fundação Getulio Vargas recebeu os recursos e confirmou que os repasses serão efetuados após a suspensão da decisão do STF em 19. O pagamento marca a retomada dos repasses que foram interrompidos. O benefício visa apoiar os sobreviventes e familiares das vítimas do desastre.",
-      "porQueImporta": "O repasse garante suporte financeiro imediato aos afetados pelo desastre de Brumadinho.",
-      "categoria": "Geral",
-      "categoriaSlug": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/25/auxilio-emergencial-a-atingidos-pelo-rompimento-de-barragem-em-brumadinho-volta-a-ser-pago-nesta-sexta-feira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-26T01:52:48.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/SiEPlmoX6_uYKUC0e7ufBh0ZbII=/s.glbimg.com/jo/g1/f/original/2019/01/27/2019-01-27t162258z_901560204_rc1abb34df70_rtrmadp_3_vale-sa-disaster_jk7jUmF.jpg"
-    },
-    {
-      "clusterId": "ae1abc171ecd7136",
-      "slug": "08b83f05830867f2",
-      "titulo": "Homem desaparecido encontrado morto após acidente de moto na RO-135",
-      "resumo": "Igor Marques Gonçalves, desaparecido desde domingo, foi localizado morto após bater sua moto contra um bueiro na zona rural de Castanheiras, RO. Moradores encontraram o corpo e acionaram a Polícia Militar. O boletim indica que o homem pode ter adormecido ao dirigir, perdendo o controle da motocicleta. O acidente ocorreu na RO-135, fora da pista.",
-      "porQueImporta": "O caso destaca a importância da atenção ao dirigir e a necessidade de fiscalização em áreas rurais.",
-      "categoria": "Acidente de trânsito",
-      "categoriaSlug": "acidente-de-transito",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/25/homem-que-estava-desaparecido-e-encontrado-morto-apos-bater-moto-contra-bueiro-em-ro.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-26T01:13:41.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/qZjUA2O-DDQt-hTFxl02H8pvFto=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/o/qAT8EJTBCatmA6B4RUOQ/design-sem-nome-14-.png"
+      "updatedAt": "2026-11-26T14:56:00.000Z"
     }
   ],
   "categorias": [
@@ -187,72 +177,89 @@
       "label": "Geral",
       "stories": [
         {
-          "clusterId": "fd2d93cd23f315da",
-          "slug": "d2900675e073b87c",
-          "titulo": "Abin publica levantamento sobre facções criminosas no Brasil",
-          "resumo": "A Agência Brasileira de Inteligência divulgou o documento Cenários do Crime Organizado no Brasil, em parceria com o Fórum Brasileiro de Segurança Pública. O estudo analisa as 31 maiores facções do país nas últimas duas décadas, destacando a expansão de suas atividades além do tráfico de drogas. O levantamento coincide com 20 anos do \"salve geral\" do PCC em São Paulo e de ataques coordenados do Comando Vermelho no Rio de Janeiro.",
-          "porQueImporta": "O documento oferece dados inéditos sobre a evolução e alcance das facções, informando políticas de segurança pública.",
+          "clusterId": "22ee008be6bb4720",
+          "slug": "d10fe787dcbbda05",
+          "titulo": "Goiânia 2 lidera ranking de bairros para investimentos imobiliários na capital",
+          "resumo": "Sunrise Park Residence, empreendimento da Tropical Urbanismo em parceria com a Taquary Engenharia. Acervo Tropical Urbanismo Com vantagens como qualidade de vida, áreas verdes, praticidade no dia a dia e potencial de valorização imobiliária, os bairros planejados têm se tornado verdadeiros refúgios em meio às capitais. Em Goiânia, o setor Goiânia 2, criado em 1980 na Região Norte da capital, reúne esses atributos e vem se consolidando como um endereço atrativo tanto para morar quanto para investir. A qualidade de vida é um dos destaques: pesquisa realizada pela Brain Inteligência Estratégica…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/26/o-mapa-das-faccoes-e-a-nova-dinamica-do-crime-no-brasil-o-assunto-1853.ghtml"
+              "url": "https://g1.globo.com/go/goias/especial-publicitario/tropical-urbanismo/noticia/2026/11/26/goiania-2-lidera-ranking-de-bairros-para-investimentos-imobiliarios-na-capital.ghtml"
             }
           ],
-          "updatedAt": "2026-11-26T03:30:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/85wnt3SeG6IGFIfRBofGti53iok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/E/QSOt4dTSar8ryktWLIkw/imagem-1200x800-17-.jpg"
+          "updatedAt": "2026-11-26T14:21:56.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/tPwBIpd80dW-sm09KVxe8AEqSmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/W/RjPBD8QvKVJXZerLzCow/09-festas-03.jpg"
         },
         {
-          "clusterId": "0107add7d4804fa3",
-          "slug": "0d9e97174bb1fcc2",
-          "titulo": "Auxílio emergencial a atingidos pelo rompimento de barragem em Brumadinho volta a ser pago nesta sexta-feira",
-          "resumo": "A parcela de novembro do Novo Auxílio Emergencial será creditada nesta sexta-feira (27) às pessoas afetadas pelo rompimento da barragem da Mina Córrego do Feijão, em Brumadinho, na Grande Belo Horizonte. A Fundação Getulio Vargas recebeu os recursos e confirmou que os repasses serão efetuados após a suspensão da decisão do STF em 19. O pagamento marca a retomada dos repasses que foram interrompidos. O benefício visa apoiar os sobreviventes e familiares das vítimas do desastre.",
-          "porQueImporta": "O repasse garante suporte financeiro imediato aos afetados pelo desastre de Brumadinho.",
+          "clusterId": "6d55e6a9ceff22e5",
+          "slug": "860f49bd70097ac3",
+          "titulo": "Ambulância bate em caminhão e deixa feridos na BR-230, na PB",
+          "resumo": "Três pessoas ficaram feridas após uma ambulância se envolver em uma colisão com um caminhão na manhã desta quinta-feira (26), em Santa Luzia, no Sertão da Paraíba. A ocorrência foi registrada por volta das 5h20, no km 269 da BR-230. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp De acordo com a Polícia Rodoviária Federal (PRF), o veículo de emergência atingiu a parte traseira do caminhão. Os feridos foram socorridos e encaminhados para o Hospital Regional de Patos. Na ambulância estavam o motorista João Bosco e os pacientes Josefa Suely de Almeida Feitosa e Francisco Barros, marido de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/25/auxilio-emergencial-a-atingidos-pelo-rompimento-de-barragem-em-brumadinho-volta-a-ser-pago-nesta-sexta-feira.ghtml"
+              "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/26/ambulancia-bate-em-caminhao-e-deixa-feridos-na-br-230-na-pb.ghtml"
             }
           ],
-          "updatedAt": "2026-11-26T01:52:48.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/SiEPlmoX6_uYKUC0e7ufBh0ZbII=/s.glbimg.com/jo/g1/f/original/2019/01/27/2019-01-27t162258z_901560204_rc1abb34df70_rtrmadp_3_vale-sa-disaster_jk7jUmF.jpg"
+          "updatedAt": "2026-11-26T14:17:21.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KCRuZtJpFS3AuHNFn4SL27PfdDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/U/bTyELkRUi4AdoFIvFDBw/design-sem-nome-23-.png"
         },
         {
-          "clusterId": "ae49e54191c17acb",
-          "slug": "785f92dbcd74cbab",
-          "titulo": "Trabalhador morre após choque elétrico em serviço para Energisa",
-          "resumo": "Um trabalhador que prestava serviço para uma empresa terceirizada da Energisa morreu após sofrer choque elétrico enquanto estava em uma estrutura elevada em Buriti do Tocantins. O acidente ocorreu na quarta-feira (25). O trabalhador foi retirado rapidamente, mas não resistiu e faleceu. O Instituto Médico Legal de Araguatins investigou o caso.",
-          "porQueImporta": "O incidente destaca os riscos de segurança no trabalho com energia elétrica.",
+          "clusterId": "ab6c89dcf78a3cfc",
+          "slug": "8f5b7fc70040e685",
+          "titulo": "Com focos de fogo perto de aldeias indígenas e ar 'péssimo', cidade do AM recebe cobrança do MP por medidas urgentes",
+          "resumo": "Nhamundá é alvo de recomendação do MP para combate a estiagem Divulgação O Ministério Público do Amazonas (MPAM) recomendou que a Prefeitura de Nhamundá adote medidas urgentes para proteger a população dos efeitos das queimadas e da estiagem. A recomendação foi expedida na quarta-feira (25), após o município registrar a pior classificação de qualidade do ar no estado e concentrar focos de fogo próximos a aldeias indígenas e áreas de proteção ambiental. Dados divulgados na terça-feira (24) pelas plataformas Monitor do Fogo (MP Maps) e Sistema Eletrônico de Vigilância Ambiental (Selva)…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/25/trabalhador-que-prestava-servico-para-companhia-de-energia-morre-apos-sofrer-choque-eletrico.ghtml"
+              "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/26/com-focos-de-fogo-perto-de-aldeias-indigenas-e-ar-pessimo-cidade-do-am-recebe-cobranca-do-mp-por-medidas-urgentes.ghtml"
             }
           ],
-          "updatedAt": "2026-11-26T01:01:38.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/ExXtYKQV_93lYsrFEGtVAI7E7kI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/H/zPsB1pSkqBwsUBbCAjdg/copia-de-modelo-foto-fundo-borrado-11-.png"
+          "updatedAt": "2026-11-26T14:10:41.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zu61LUOYUnyg82Tn4QKMlHJ6WAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/V/sAbeLbRSGZb2HPLMDBxQ/design-sem-nome-2026-11-26t093227.597.png"
         },
         {
-          "clusterId": "738ca7af5c9a9a78",
-          "slug": "72dd08109e27764b",
-          "titulo": "Andy Taylor, guitarrista do Duran Duran, morre aos 65 anos",
-          "resumo": "Andy Taylor, guitarrista britânico da banda pop Duran Duran, faleceu aos 65 anos. O músico era reconhecido por riffs que marcaram o pop dos anos 1980. Ele estava enfrentando um diagnóstico de câncer de próstata.",
-          "porQueImporta": "A morte de um artista influente no cenário musical dos anos 80 é de interesse cultural.",
+          "clusterId": "3401a4582c8508c6",
+          "slug": "cfe2a46d14bf4165",
+          "titulo": "Motorista de aplicativo bate em poste, foge e deixa passageira ferida dentro de carro em Curitiba",
+          "resumo": "Motorista de aplicativo bate em poste e foge sem prestar socorro à passageira Um motorista de aplicativo bateu contra um poste na noite de quarta-feira (25), no bairro Novo Mundo, em Curitiba, e fugiu do local sem prestar socorro à passageira que estava no carro. A mulher, de 54 anos, ficou ferida e foi deixada dentro do veículo. O acidente aconteceu na via rápida. Segundo apurou a RPC, afiliada da TV Globo no Paraná, a passageira estava no banco de trás e usava cinto de segurança no momento da colisão. Ela sofreu ferimentos e apresentava suspeita de fratura na região do tórax. A passageira…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
           "categoria": "Geral",
           "categoriaSlug": "geral",
           "sources": [
             {
-              "name": "Veja",
-              "url": "https://veja.abril.com.br/cultura/morre-andy-taylor-guitarrista-da-banda-pop-duran-duran-e-icone-dos-anos-80-aos-65-anos/"
+              "name": "G1",
+              "url": "https://g1.globo.com/pr/parana/noticia/2026/11/26/motorista-de-aplicativo-bate-em-poste-foge-e-deixa-passageira-ferida-em-curitiba.ghtml"
             }
           ],
-          "updatedAt": "2026-11-25T22:12:43.000Z",
-          "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-656794697.jpg"
+          "updatedAt": "2026-11-26T14:04:51.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/ZDsiDPlYaXW7f28Cywo5eKefvKE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/q/7JH99QSKay0EBzSeCmNQ/fundo-vermelho-g1-4-.png"
+        },
+        {
+          "clusterId": "fd4784ca307b3aec",
+          "slug": "43242ce1788d9db8",
+          "titulo": "Navio com 7 mil toneladas de óleo afunda em Ibiza e deixa 1 morto; Espanha tenta evitar 'maré negra'",
+          "resumo": "Casco de navio transportando 7 mil toneladas de óleo diesel que afundou perto de Ibiza, na Espanha, é visto no horizonte, em 26 de novembro de 2026. GGT Mar y Puertos via Reuters Um navio transportando 7 mil toneladas de óleo diesel naufragou nesta quinta-feira (26) na costa de Ibiza, ilha da Espanha no Mar Mediterrâneo. Um membro da tripulação morreu, segundo autoridades locais. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Após o naufrágio, autoridades espanholas começaram a adotar medidas preventivas que evitem danos ao Mediterrâneo caso o óleo vaze do navio. O governo…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/26/navio-com-oleo-afunda-perto-de-ibiza-na-espanha-e-deixa-morto-equipes-tenta-evitar-mare-negra.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-26T12:53:02.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/10nZJ2jSrmkHhAhUEwPeyEZWB1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/n/LjahjKRsueHP3sj9Q8QQ/2026-11-26t124752z-946294675-rc2ovoaq6wpj-rtrmadp-3-spain-accident.jpg"
         },
         {
           "clusterId": "830083e30c6db93d",
@@ -270,6 +277,23 @@
           ],
           "updatedAt": "2026-11-25T19:43:08.000Z",
           "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "clusterId": "e4cd3da8383b5edc",
+          "slug": "db3844bb6db39fb4",
+          "titulo": "Caminhão-tanque pega fogo e deixa ao menos 30 mortos no Egito; veja VÍDEO",
+          "resumo": "Caminhão-tanque pega fogo e deixa ao menos 30 mortos no Egito Pelo menos 30 pessoas morreram depois que um veículo que transportava derivados de petróleo tombou e pegou fogo em uma importante via expressa do Egito, informou o Ministério da Saúde do país nesta quarta-feira (25). Segundo o Ministério da Saúde egípcio, nove pessoas sofreram queimaduras severas e uma teve intoxicação por inalação de fumaça. Ao menos 15 pessoas se feriram no total. Todos foram levados para hospitais. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp 🗺️ A rodovia atravessa a região metropolitana do…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/25/caminhao-tanque-pega-fogo-e-deixa-ao-emnos-21-mortos-no-egito.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-25T18:34:39.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/WLOgmhLj358VYDxN3wdpm-mjows=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/E/TJQC30S1KGqotS5i83Gw/ap26329710858344.jpg"
         },
         {
           "clusterId": "221c02bceb00706d",
@@ -304,174 +328,23 @@
           ],
           "updatedAt": "2026-11-24T19:56:23.000Z",
           "imageUrl": "https://s2-g1.glbimg.com/rif6ln9BT2F_D5b7n8SKmc2tzmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/g/B/ldIBjLSkq7kLzxXjCy6g/2024-02-04t191305z-815104602-rc2nv5a84h18-rtrmadp-3-chile-wildfires.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "tempestade",
-      "label": "Tempestade",
-      "stories": [
+        },
         {
-          "clusterId": "82cec5fadefa74a8",
-          "slug": "725faee99a44ede7",
-          "titulo": "Previsão de tempo com pancadas de chuva e temporal em várias cidades",
-          "resumo": "Na quinta-feira, as cidades de Cuiabá, Maringá, Ribeirão das Neves, Contagem, Betim e Belo Horizonte registrarão sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde, seguida de temporal à noite. As máximas variam de 27ºC a 34ºC e as mínimas de 20ºC a 25ºC. O dia de sexta-feira prevê sol com muitas nuvens e pancadas de chuva em alguns locais, mantendo a possibilidade de temporal. As condições climáticas podem afetar deslocamentos e atividades ao ar livre.",
-          "porQueImporta": "As variações de temperatura e a ocorrência de temporais podem impactar a mobilidade urbana e a segurança dos moradores.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
+          "clusterId": "eb9900bd17f7d1a7",
+          "slug": "1dcae709ac5199fd",
+          "titulo": "Presidente da Colômbia acusa dissidentes das Farc de atentado com carro-bomba que devastou cidade",
+          "resumo": "Vídeo mostra destruição em cidade na Colômbia após explosão de carro-bomba O presidente da Colômbia, Abelardo de la Espriella, atribuiu a dissidentes das Farc o atentado que causou devastação em uma cidade no centro do país. A declaração foi feita nesta terça-feira (24), data que marca 10 anos do histórico acordo de paz com a extinta guerrilha. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp \"O bandido Antonio Medina, das dissidências, é o culpado, e vamos atrás dele\", disse o presidente a jornalistas ao chegar a Villavicencio, capital do departamento de Meta, na região central de…",
+          "porQueImporta": "Apuração em andamento — confira as fontes citadas para o panorama completo.",
+          "categoria": "Geral",
+          "categoriaSlug": "geral",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-belo-horizonte-mg-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-e-noite-com-temporal.ghtml"
+              "url": "https://g1.globo.com/mundo/noticia/2026/11/24/presidente-da-colombia-acusa-dissidentes-das-farc-de-atentado-que-devastou-cidade.ghtml"
             }
           ],
-          "updatedAt": "2026-11-26T04:15:23.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/qZPl1ZeHcXh7BtEpKbM8ibCrGjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/P0WYDdRueqS2OghcRrtw/previsao-tempo-belo-horizonte-20261126-010754.jpeg"
-        },
-        {
-          "clusterId": "15443a95671b4651",
-          "slug": "b3609e2f8063f256",
-          "titulo": "Chuva de até 110 mm pode provocar alagamentos e inundações em SP, RJ, ES e MG",
-          "resumo": "A previsão indica que áreas do Sudeste podem registrar até 110 milímetros de chuva nesta quinta-feira, com risco de alagamentos e inundações. Os maiores volumes são esperados no litoral norte de São Paulo, no Rio de Janeiro, incluindo a capital e o norte fluminense, no sul do Espírito Santo e em parte do Vale do Rio Doce, em Minas Gerais. A combinação de instabilidade atmosférica e relevo favorece a formação de nuvens carregadas, aumentando o potencial de eventos extremos.",
-          "porQueImporta": "A intensidade da chuva pode causar transtornos urbanos e riscos à segurança pública.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/26/chuva-de-ate-110-mm-pode-provocar-alagamentos-e-inundacoes-em-sp-rj-es-e-mg-nesta-quinta-feira-veja-a-previsao-do-tempo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-26T03:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/1BRZJ1RQcqk8NIFCPrxeWxYqWbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/d/eQhkb3RU6xKrNvxURBbg/chuva-ponte-cortada.jpg"
-        },
-        {
-          "clusterId": "2cfc296202e1f5d4",
-          "slug": "b5de18b853431bc9",
-          "titulo": "Defesa Civil explica como identificar passagem de tornados no sul do Brasil",
-          "resumo": "A Defesa Civil descreveu que a identificação de tornados no sul do país depende da análise de radares e da observação de árvores tombadas. Esses elementos ajudam a diferenciar tornados de microexplosões. A região é propícia ao fenômeno por causa do encontro de massas de ar quentes e frias.",
-          "porQueImporta": "O conhecimento dos critérios de identificação permite respostas mais rápidas e seguras às ameaças de tornados.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/defesa-civil-explica-como-identifica-a-passagem-de-tornados-no-sul-do-br/"
-            }
-          ],
-          "updatedAt": "2026-11-26T00:06:32.000Z"
-        },
-        {
-          "clusterId": "0f49ab56646f8508",
-          "slug": "cb39772824cc742e",
-          "titulo": "El Niño provoca tempestades e inundações nos Estados Unidos",
-          "resumo": "O fenômeno climático El Niño, com intensidade excepcional, está gerando tempestades e inundações em várias regiões dos Estados Unidos. A elevação do nível da água, causada pelas marés, levou o prefeito a recomendar que os moradores evitem viagens não essenciais. Em áreas como San Francisco, há risco aumentado de alagamentos. O evento também está gerando preocupações econômicas globais.",
-          "porQueImporta": "O aumento de tempestades e inundações pode causar danos materiais, interrupções de serviços e riscos à segurança pública.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/24/el-nino-provoca-secas-severas-no-pacifico-ameaca-causar-inundacoes-nos-eua-e-preocupa-economistas.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-24T12:37:43.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/GjBsv9DkM9La_bat1aPD4flR2Q4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/g/gSWcTzRJKtCrdN3a9DVg/afp-20261121-d89h3rd-v5-midres-topshotecuadorweatherfloodelnino.jpg"
-        },
-        {
-          "clusterId": "a707ad24bcb7463e",
-          "slug": "72e85cb3425a3369",
-          "titulo": "Tempestade perfeita faz preço do dólar chegar a R$6",
-          "resumo": "A combinação de força da moeda americana no exterior e pressão sobre o ajuste fiscal no Brasil impulsionou a desvalorização do real, elevando o câmbio para R$6. A situação reflete a vulnerabilidade do real frente às principais moedas emergentes. O aumento do dólar afeta custos de importação e inflação no país.",
-          "porQueImporta": "O fortalecimento do dólar pode elevar a inflação e pressionar o poder de compra dos brasileiros.",
-          "categoria": "Tempestade",
-          "categoriaSlug": "tempestade",
-          "sources": [
-            {
-              "name": "BBC Brasil",
-              "url": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "updatedAt": "2026-11-24T09:20:45.000Z",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/79dc/live/ed3d37e0-e778-11f1-8f1d-19326d289ceb.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "enchente",
-      "label": "Enchente",
-      "stories": [
-        {
-          "clusterId": "824d35df12de690e",
-          "slug": "f246f36cc4b0022f",
-          "titulo": "IBGE revela que apenas 34% dos municípios brasileiros possuem plano contra enchentes",
-          "resumo": "O Instituto Brasileiro de Geografia e Estatística divulgou na PNSB 2024 que apenas 34 municípios têm sistema contra enchentes, sendo São Paulo o estado com mais cidades equipadas, com 10. A pesquisa mostra que quase todos os municípios têm algum serviço de drenagem, mas apenas uma em cada quatro possui plano de ação específico para enchentes. O levantamento destaca a necessidade de ampliar a cobertura de planos de desastres naturais.",
-          "porQueImporta": "A falta de planos adequados aumenta a vulnerabilidade das cidades a eventos de inundação.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/apenas-uma-em-cada-4-cidades-brasileiras-tem-plano-de-acao-para-desastres-naturais-diz-ibge.ghtml"
-            },
-            {
-              "name": "Poder360",
-              "url": "https://www.poder360.com.br/poder-infra/so-34-municipios-tem-sistema-contra-enchentes-no-pais-diz-ibge/"
-            }
-          ],
-          "updatedAt": "2026-11-26T02:59:42.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/jdxoFG_KLD09Yr7vhhPVMG9skws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/x/ToMaKFTdaVBFuQAj4tHA/globo-canal-4-20261125-2000-frame-149266.jpeg"
-        },
-        {
-          "clusterId": "ad4b78dfd8339d8d",
-          "slug": "31c71daa94e896e8",
-          "titulo": "Rio Paraíba do Sul sobe 66 centímetros em 24 horas em Campos",
-          "resumo": "O nível do Rio Paraíba do Sul aumentou 66 centímetros em 24 horas, passando de 7,54 metros para 8,20 metros, segundo a Defesa Civil. A água avançou até o Cais da Lapa, na região central de Campos dos Goytacazes. O aumento está relacionado às chuvas provocadas por uma frente fria que afetou a bacia do rio.",
-          "porQueImporta": "O avanço da água pode causar inundações e fechamento de áreas públicas, afetando a mobilidade e a segurança dos moradores.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/26/rio-paraiba-do-sul-sobe-66-centimetros-em-24-horas-em-campos-estacionamento-do-cais-da-lapa-sera-fechado.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-26T05:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/-iBMybMhpGnEmjd2UiFkTH5u9vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/b/cfF7XuSeAxnNa1C2k99Q/rio-paraiba-2.png"
-        },
-        {
-          "clusterId": "80506e1262073a7b",
-          "slug": "79cfdd747dc4b65c",
-          "titulo": "Pós-temporal em Tupanciretã gera filas por telhas e prejuízos no campo",
-          "resumo": "Após o temporal em Tupanciretã, moradores enfrentam filas para receber telhas e lidam com danos nas plantações. O trânsito de telhas e colchões se tornou caótico, enquanto a espera por doações permanece longa. Muitos abandonam suas casas para ficar na fila, com móveis molhados e telhados destelhados.",
-          "porQueImporta": "O evento demonstra a vulnerabilidade das comunidades rurais a eventos climáticos extremos e a necessidade de apoio rápido.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/pos-temporal-em-tupancireta-rs-e-marcado-por-filas-em-busca-de-telhas-e-prejuizos-no-campo.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-26T02:08:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/x31DO5SouHXqi8M-iWIkMFz20q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/FHpIdiQYamRvK3C3qs0Q/globo-canal-4-20261125-2000-frame-140505.jpeg"
-        },
-        {
-          "clusterId": "18c4d429ceb08c20",
-          "slug": "dc82ff7f2bb773dd",
-          "titulo": "Temporal provoca alagamentos e interdita ruas e avenidas em Americana",
-          "resumo": "Uma forte chuva atingiu Americana, SP, na noite de quarta-feira, 25. O evento causou alagamentos em pelo menos sete locais e levou à interdição preventiva de ruas e avenidas para evitar circulação de veículos em áreas de risco. Não há registros de feridos ou desalojados.",
-          "porQueImporta": "O alagamento pode comprometer a mobilidade urbana e a segurança dos moradores.",
-          "categoria": "Enchente",
-          "categoriaSlug": "enchente",
-          "sources": [
-            {
-              "name": "G1",
-              "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/25/temporal-provoca-alagamentos-e-interdita-ruas-e-avenidas-em-americana.ghtml"
-            }
-          ],
-          "updatedAt": "2026-11-26T00:53:33.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/4_lVizr3WrceFVTX7a0dlo6c_bg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/G/oxVmTsQSqGFjYBMC4GtA/e2-integra-capa.jpg"
+          "updatedAt": "2026-11-24T16:01:52.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Ti-l11nxGVuWqEfYZ5a73sbZGso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/hTXeD6RYySwjWwUAH4AA/afp-20261124-d8g9764-v3-highres-topshotcolombiaconflictunrest.jpg"
         }
       ]
     },
@@ -480,115 +353,276 @@
       "label": "Acidente de trânsito",
       "stories": [
         {
-          "clusterId": "4b6044fa860a9ea3",
-          "slug": "0b27cf06116f80b6",
-          "titulo": "Motociclista preso após morte de jovem na Barra da Tijuca",
-          "resumo": "O motociclista Mateus Araújo do Vale, preso em flagrante, causou a morte de Larissa Martins de Andrade, de 25 anos, na Avenida das Américas, na Barra da Tijuca. Ele não possuía habilitação e utilizava o cadastro de outra pessoa no aplicativo de transporte. Em depoimento à polícia, afirmou ter obtido os dados de terceiros em bancos de informações vendidos em grupos de WhatsApp. O homem foi autuado por homicídio doloso.",
-          "porQueImporta": "O caso destaca a prática de uso fraudulento de aplicativos de transporte e a falta de habilitação como fatores de risco no trânsito.",
+          "clusterId": "59e6b0b282c5e19b",
+          "slug": "5487e6d4deb6532f",
+          "titulo": "Acidente entre carro e moto deixa jovem ferido em Volta Redonda",
+          "resumo": "Na noite de quarta-feira, 25, em Volta Redonda, um carro invadiu a contramão e colidiu com uma motocicleta no bairro Santo Agostinho, por volta das 20h05. O acidente deixou um jovem de 22 anos ferido. As imagens de câmeras de monitoramento da Semop foram usadas para registrar o incidente.",
+          "porQueImporta": "O acidente destaca a importância da fiscalização de trânsito e do uso de câmeras de segurança para prevenir colisões e proteger a vida dos usuários das vias.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/26/motociclista-preso-apos-morte-de-jovem-na-barra-nao-tinha-habilitacao-e-usava-perfil-falso-em-aplicativo.ghtml"
+              "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/26/cameras-de-monitoramento-flagram-acidente-entre-carro-e-moto-em-volta-redonda.ghtml"
             }
           ],
-          "updatedAt": "2026-11-26T03:00:00.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/FqwRvhKbEy1cTyQx_LnlZUy1FA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Z/UcoYaaTyaTF9DtzGxbag/montagem-horizontal-1200px-25-.jpg"
+          "updatedAt": "2026-11-26T15:29:06.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/0Pn26v4pqxYEe9P4yHw_iyp7BgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/b/2OJZAeT3WAHJOOZEhJZg/image-39-1-.png"
         },
         {
-          "clusterId": "ae1abc171ecd7136",
-          "slug": "08b83f05830867f2",
-          "titulo": "Homem desaparecido encontrado morto após acidente de moto na RO-135",
-          "resumo": "Igor Marques Gonçalves, desaparecido desde domingo, foi localizado morto após bater sua moto contra um bueiro na zona rural de Castanheiras, RO. Moradores encontraram o corpo e acionaram a Polícia Militar. O boletim indica que o homem pode ter adormecido ao dirigir, perdendo o controle da motocicleta. O acidente ocorreu na RO-135, fora da pista.",
-          "porQueImporta": "O caso destaca a importância da atenção ao dirigir e a necessidade de fiscalização em áreas rurais.",
+          "clusterId": "f094088d0cd3b03e",
+          "slug": "b06858bddd832e7a",
+          "titulo": "Motociclista é atropelado por caminhão ao tentar atravessar rodovia em Ribeirão Preto",
+          "resumo": "Um motociclista foi atropelado por um caminhão na Rodovia Anhanguera, km 323, em Ribeirão Preto, SP, ao tentar atravessar a via. O acidente ocorreu na manhã de quinta-feira, 26. O motociclista ficou em estado grave e foi socorrido pelas autoridades. O caminhoneiro tentou desviar, mas não conseguiu evitar o impacto.",
+          "porQueImporta": "O incidente destaca os riscos de atravessar rodovias e a necessidade de atenção dos motoristas e pedestres.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/25/homem-que-estava-desaparecido-e-encontrado-morto-apos-bater-moto-contra-bueiro-em-ro.ghtml"
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/26/motociclista-e-atropelado-por-caminhao-ao-tentar-atravessar-rodovia-em-ribeirao-preto-sp.ghtml"
             }
           ],
-          "updatedAt": "2026-11-26T01:13:41.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/qZjUA2O-DDQt-hTFxl02H8pvFto=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/o/qAT8EJTBCatmA6B4RUOQ/design-sem-nome-14-.png"
+          "updatedAt": "2026-11-26T15:11:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/rMxI_eqdOIoJeRfdO68OPYWj-mo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/tg0zLHSO20iHliM3jV7w/molduras-g1-rp.png"
         },
         {
-          "clusterId": "5af74e5c6d6f6cd1",
-          "slug": "13327ec889bb91bd",
-          "titulo": "Acidente entre carro e moto deixa duas mulheres feridas em Cabo Frio",
-          "resumo": "Um carro colidiu com uma moto na Avenida Wilson Mendes, em Cabo Frio, perto da entrada para o bairro Jardim Esperança. O acidente ocorreu por volta das 19h30 de quarta-feira. As duas mulheres envolvidas ficaram feridas. A motorista do carro não se identificou e relatou ter visto a pista parcialmente bloqueada por outro veículo.",
-          "porQueImporta": "O incidente destaca a necessidade de atenção ao tráfego em vias urbanas movimentadas.",
+          "clusterId": "d5aa4f91654aa7e7",
+          "slug": "9b0d6fbc6f25a366",
+          "titulo": "Aubameyang sofre acidente na manhã de treino na Espanha",
+          "resumo": "O ex-jogador Pierre-Emerick Aubameyang, que atualmente joga pelo Deportivo La Coruña, sofreu um acidente na manhã de quinta-feira (26) enquanto se dirigia a um treino na Espanha. O acidente não resultou em ferimentos para o atleta. As autoridades não divulgaram detalhes adicionais sobre a natureza do acidente.",
+          "porQueImporta": "O incidente envolve um atleta de alto perfil internacional, o que pode afetar sua disponibilidade para jogos futuros.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
-              "name": "G1",
-              "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/25/duas-mulheres-ficam-feridas-em-acidente-entre-carro-e-moto-na-avenida-wilson-mendes-em-cabo-frio-no-rj.ghtml"
+              "name": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/ex-arsenal-e-barcelona-bate-ferrari-a-caminho-de-treino-na-espanha/"
             }
           ],
-          "updatedAt": "2026-11-26T01:00:08.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/UBgy7gWssSdjRVqF32ujU3TtMMw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/G/NhgokESkSPfBZucsXyoQ/whatsapp-image-2026-11-25-at-20.40.41.jpeg"
+          "updatedAt": "2026-11-26T15:00:13.000Z"
         },
         {
-          "clusterId": "972addd52358572c",
-          "slug": "306594cd763a94f8",
-          "titulo": "Acidente entre ônibus e caminhão deixa 11 mortos em Ras Al Khaimah",
-          "resumo": "Onze pessoas morreram quando um ônibus de passageiros colidiu com um caminhão na estrada Al Watan, em Ras Al Khaimah, Emirados Árabes Unidos. O Ministério do Interior informou a ocorrência e as equipes de ambulância e defesa civil realizaram os resgates. A área foi isolada e o trânsito controlado. Não foram divulgados nomes das vítimas nem número de feridos.",
-          "porQueImporta": "O acidente resultou em múltiplas fatalidades, destacando a necessidade de segurança viária no país.",
+          "clusterId": "5aad214fed3be521",
+          "slug": "03be9b9c1c6dbea6",
+          "titulo": "Carro capota e cai de barranco de 70 metros em Muriaé",
+          "resumo": "Três homens ficaram feridos quando um carro capotou várias vezes e caiu de aproximadamente 70 metros em Muriaé, Minas Gerais. O motorista perdeu o controle enquanto descia a ladeira. As vítimas já estavam fora do veículo e conscientes quando os bombeiros chegaram. Um dos homens sofreu traumatismo cranioencefálico.",
+          "porQueImporta": "O acidente destaca a importância da segurança viária em ladeiras de risco.",
           "categoria": "Acidente de trânsito",
           "categoriaSlug": "acidente-de-transito",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/24/acidente-entre-onibus-e-caminhao-deixa-mortos-nos-emirados-arabes-unidos.ghtml"
+              "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/26/carro-capota-varias-vezes-apos-despencar-de-barranco-de-70-metros-e-deixa-tres-homens-feridos-em-mg.ghtml"
             }
           ],
-          "updatedAt": "2026-11-24T07:12:14.000Z"
+          "updatedAt": "2026-11-26T14:57:50.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/EfhMMLtLrIKLTSjel7_VzNafC5s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/1/LWjrRrQSAbUMgqvyUyPw/radio-muriae.jpg"
+        },
+        {
+          "clusterId": "c281331399c62850",
+          "slug": "8b32b39d35869232",
+          "titulo": "Acidente na MGC-369 deixa mãe e pai mortos, filho de 2 anos recebe alta",
+          "resumo": "Um acidente de trânsito na MGC-369, entre Boa Esperança e Campos Gerais, resultou na morte da jornalista Polyana Novais, de 42 anos, e de seu companheiro Aleksander Brandão Santana, de 33 anos. O filho de 2 anos, que estava hospitalizado desde o dia 15 de novembro, recebeu alta após 11 dias de internação. O menino foi internado com contusão pulmonar bilateral. O hospital Alzira Velano em Alfenas relatou a alta na manhã de 26 de novembro.",
+          "porQueImporta": "O caso destaca a gravidade de acidentes de trânsito e a necessidade de medidas de segurança viária.",
+          "categoria": "Acidente de trânsito",
+          "categoriaSlug": "acidente-de-transito",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/26/filho-de-2-anos-de-jornalista-morta-em-acidente-na-mgc-369-tem-alta-do-hospital.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-26T14:47:10.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/HdsOLfhNuXeXXEY6-VIluXoFbrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/c/x0SU2mT6qnJAiJwX9kaA/alzira-velano.png"
         }
       ]
     },
     {
-      "slug": "explosao",
-      "label": "Explosão",
+      "slug": "enchente",
+      "label": "Enchente",
       "stories": [
         {
-          "clusterId": "afbe7c96946b0e45",
-          "slug": "db3844bb6db39fb4",
-          "titulo": "Caminhão-tanque explodiu e incendiou na via expressa do Cairo",
-          "resumo": "Um caminhão-tanque que transportava derivados de petróleo tombou e pegou fogo em uma importante via expressa do Cairo, no Egito. O acidente provocou incêndio que destruiu 27 veículos nas proximidades e deixou 31 pessoas mortas, incluindo nove com queimaduras graves. Além dos mortos, 21 pessoas ficaram feridas e foram levadas a hospitais.",
-          "porQueImporta": "O incidente resultou em alta mortalidade e danos significativos à infraestrutura viária.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "9db5832d46ad04a0",
+          "slug": "4db727a2f62c7b19",
+          "titulo": "Temporal causa desabastecimento em Porto Murtinho",
+          "resumo": "Chuvas fortes danificaram estradas e alagaram trechos da rodovia MS-267, dificultando a chegada de caminhões de grande porte à cidade de Porto Murtinho. O transporte de alimentos foi prejudicado, deixando gôndolas vazias em supermercados locais. Apesar da dificuldade, um caminhão conseguiu chegar usando a rodovia como desvio. A prefeitura afirmou que não há risco de desabastecimento geral no município.",
+          "porQueImporta": "O bloqueio das estradas pode comprometer o abastecimento de alimentos e outros bens essenciais na região.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/25/caminhao-tanque-pega-fogo-e-deixa-ao-emnos-21-mortos-no-egito.ghtml"
-            },
-            {
-              "name": "CNN Brasil",
-              "url": "https://www.cnnbrasil.com.br/internacional/explosao-de-caminhao-tanque-provoca-incendio-e-deixa-mortos-no-egito/"
+              "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/26/mercados-comecam-a-ficar-desabastecidos-apos-temporal-destruir-rodovia-e-isolar-cidade-de-ms.ghtml"
             }
           ],
-          "updatedAt": "2026-11-26T03:53:24.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/WLOgmhLj358VYDxN3wdpm-mjows=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/E/TJQC30S1KGqotS5i83Gw/ap26329710858344.jpg"
+          "updatedAt": "2026-11-26T15:20:19.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/Whbg_4vvpmUqE9wONVb5RigD8l8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/N/nr6IF9Qx670cDKhGH3Tw/hortifruti-vazio-porto-murtinho.jpg"
         },
         {
-          "clusterId": "6a0afa0cadc5c1e1",
-          "slug": "bb88572fae939805",
-          "titulo": "Carro-bomba explodiu em Villavicencio, na Colômbia",
-          "resumo": "Um carro-bomba detonou na segunda-feira (23) em Villavicencio, causando grandes danos à sede do governo regional. A explosão gerou caos e deixou cerca de 20 feridos, segundo a imprensa local. Imagens capturadas por moradores e câmeras de segurança registraram o momento do ataque.",
-          "porQueImporta": "O incidente ocorreu às vésperas do décimo aniversário do acordo de paz com a guerrilha, aumentando a tensão na região.",
-          "categoria": "Explosão",
-          "categoriaSlug": "explosao",
+          "clusterId": "7290bdd2e821cf47",
+          "slug": "8016e36f598679ff",
+          "titulo": "Bar em Itaperuna permanece fechado após temporal",
+          "resumo": "Um temporal de 46,6 mm em cerca de 40 minutos alagou vários pontos de Itaperuna, incluindo um bar no bairro Vinhosa. Os clientes que já estavam no local permaneceram e continuaram bebendo enquanto a água subia, aguardando que o nível diminuísse. As ruas ficaram alagadas e a limpeza começou depois que a água escoou. A Defesa Civil relatou que o período mais intenso da chuva durou entre 30 e 40 minutos.",
+          "porQueImporta": "Ilustra como eventos climáticos extremos podem afetar estabelecimentos comerciais e a reação das pessoas em situações de alagamento.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
           "sources": [
             {
               "name": "G1",
-              "url": "https://g1.globo.com/mundo/noticia/2026/11/24/carro-bomba-deixa-20-feridos-na-colombia-as-vesperas-dos-dez-anos-do-acordo-de-paz.ghtml"
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/26/clientes-tomam-cerveja-enquanto-esperam-agua-baixar-apos-temporal-alagar-bar-em-itaperuna.ghtml"
             }
           ],
-          "updatedAt": "2026-11-24T16:01:52.000Z",
-          "imageUrl": "https://s2-g1.glbimg.com/AqolH8ZpaXD5x1JVJcXilLPvPfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/v/AMUMGGRcqjkpxYH56ZAg/captura-de-tela-2026-11-24-070902-1-.jpg"
+          "updatedAt": "2026-11-26T15:17:44.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/CeZSpFLTMJyFCQ-mHP-ejNnHFPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/x/zm5x7jRlCv61ymXBxsrQ/chuva.jpg"
+        },
+        {
+          "clusterId": "631b63d890bdc63d",
+          "slug": "c7dfa4953ff8aa9f",
+          "titulo": "Teatro Guarany interditado após problemas estruturais causados por chuvas",
+          "resumo": "A Prefeitura de Santos interditou o Teatro Guarany depois que a Defesa Civil identificou problemas no telhado, atribuídos ao grande volume de chuva e ventos fortes. O laudo técnico apontou risco de comprometimento das instalações elétricas. O espaço foi fechado temporariamente para reparos emergenciais.",
+          "porQueImporta": "A interdição impede o uso do teatro, afetando eventos culturais e a comunidade local.",
+          "categoria": "Enchente",
+          "categoriaSlug": "enchente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/26/teatro-guarany-e-interditado-por-problemas-estruturais-apos-fortes-chuvas-em-santos-sp.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-26T15:09:20.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/q6WCGwVE0u0oNt1_M5IBsVXmBjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/U/BFAEYUToy8pSExA8Fc5Q/copia-de-materia-10-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "tempestade",
+      "label": "Tempestade",
+      "stories": [
+        {
+          "clusterId": "c9506170a79da842",
+          "slug": "e0be861c38d4ba44",
+          "titulo": "Temporal causa alagamentos, queda de árvores e abre cratera em Morro do Coco",
+          "resumo": "Um temporal atingiu Morro do Coco, distrito de Campos dos Goytacazes, na noite de quarta-feira, 25, provocando alagamentos e queda de árvores. Em outro ponto do distrito, uma cratera se abriu ao lado de um estabelecimento comercial. Fotos de moradores mostram os estragos.",
+          "porQueImporta": "O evento pode representar risco à infraestrutura e à segurança dos moradores.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/26/temporal-causa-alagamentos-queda-de-arvores-e-abre-cratera-em-morro-do-coco-em-campos.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-26T15:28:45.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/zwLJyBljmFmZw2bziVmTPsCjbq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/Q/t10J7kSQ6Xr15zEz0QpQ/morro-do-coco-chuva-1.png"
+        },
+        {
+          "clusterId": "6bcded31e9096862",
+          "slug": "4929fff26a122d11",
+          "titulo": "INMET emite alerta de perigo de chuvas intensas para 66 cidades do Leste de Minas",
+          "resumo": "O Instituto Nacional de Meteorologia emitiu alerta laranja de \"chuvas intensas\" para 66 cidades da região Leste de Minas Gerais. O aviso, classificado como \"Perigo\", prevê chuva entre 30 e 60 mm por hora ou 50 a 100 mm por dia, ventos fortes, queda de árvores, alagamentos e descargas elétricas. O alerta entrou em vigor às 9h e permanece até 23h59 do mesmo dia.",
+          "porQueImporta": "O alerta indica risco de eventos extremos que podem causar danos e interrupções nas cidades afetadas.",
+          "categoria": "Tempestade",
+          "categoriaSlug": "tempestade",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/26/inmet-emite-alerta-de-perigo-de-chuvas-intensas-para-66-cidades-do-leste-de-minas.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-26T14:54:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/yz7fGNn5TB_V_GVBt0qzPeMzGgE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/I/zM1INgTv6Ew084WQLl4g/carol-2026-11-26t115006.516.png"
+        }
+      ]
+    },
+    {
+      "slug": "incendio-florestal",
+      "label": "Incêndio florestal",
+      "stories": [
+        {
+          "clusterId": "bd62384a664019c4",
+          "slug": "ef49af99a0160700",
+          "titulo": "Homem carrega botijão de gás na cabeça para fugir de fumaça tóxica e fogo no Sul do Amapá",
+          "resumo": "Um morador de Laranjal do Jari, no Sul do Amapá, carregou um botijão de gás sobre a cabeça para escapar de uma casa de madeira em chamas e de fumaça tóxica. A ação ocorreu na quarta-feira, 25, em meio a um agravamento da crise de queimadas no município. Profissionais de saúde classificaram áreas como inabitáveis na quinta-feira, 26. O vídeo mostra o homem retirando rapidamente o botijão para evitar uma explosão.",
+          "porQueImporta": "O episódio destaca a gravidade dos incêndios e a exposição de moradores a riscos extremos.",
+          "categoria": "Incêndio florestal",
+          "categoriaSlug": "incendio-florestal",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/26/homem-carrega-botijao-de-gas-na-cabeca-para-fugir-de-fumaca-toxica-e-fogo-no-sul-do-ap-video.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-26T15:16:37.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/KYG-WP8iBVwTACUHGM1ZbK6Wy1I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/G/hBLEFJRRAUdJP9kAfiyg/aleixo-g1-8-.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "naufragio",
+      "label": "Naufrágio",
+      "stories": [
+        {
+          "clusterId": "4a3d615eed1d8b4e",
+          "slug": "28955c3ddfb7cfe4",
+          "titulo": "Navio-tanque com 8,2 milhões de litros de diesel quase afundou perto de Ibiza",
+          "resumo": "Um navio-tanque carregado com cerca de 8,2 milhões de litros de diesel quase afundou próximo à ilha de Ibiza, no Mediterrâneo. O incidente resultou em um fatalidade. As autoridades marítimas estão investigando as causas e as medidas de contenção.",
+          "porQueImporta": "O acidente pode representar risco ambiental significativo e ameaça à vida humana.",
+          "categoria": "Naufrágio",
+          "categoriaSlug": "naufragio",
+          "sources": [
+            {
+              "name": "DW Brasil",
+              "url": "https://www.dw.com/pt-br/espanha-tenta-evitar-desastre-ambiental-após-acidente-com-navio-tanque-no-mediterrâneo/a-80063833?maca=bra-rss-br-all-1030-rdf"
+            }
+          ],
+          "updatedAt": "2026-11-26T14:56:00.000Z"
+        }
+      ]
+    },
+    {
+      "slug": "acidente",
+      "label": "Acidente",
+      "stories": [
+        {
+          "clusterId": "5bc82b588a310e51",
+          "slug": "b5167ab03339914e",
+          "titulo": "Vítimas de tempestade no RS ingerem água sanitária por engano",
+          "resumo": "Moradores de Tupanciretã, no Rio Grande do Sul, foram atendidos em hospitais depois de beberem água sanitária que havia sido entregue em garrafas PET com rótulos originais de desinfetante. O erro ocorreu quando as garrafas foram confundidas com água mineral durante a distribuição de ajuda após a supercélula que atingiu a cidade. As vítimas estão bem e não há relatos de complicações graves.",
+          "porQueImporta": "Ilustra risco de confusão de embalagens em situações de emergência, podendo levar a ingestões perigosas.",
+          "categoria": "Acidente",
+          "categoriaSlug": "acidente",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/26/garrafas-doadas-vitimas-tempestade-agua-sanitaria-no-rs.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-26T14:33:46.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/OAw6ajzlfz0UFoFyGqnqBQLDhTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/K/kLBTBpQKaHxB64B9XRug/g1-2026-11-26t105259.136.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "incendio",
+      "label": "Incêndio",
+      "stories": [
+        {
+          "clusterId": "44f237ae0a1d6cb2",
+          "slug": "d4f11c9dc689df9f",
+          "titulo": "Incêndio destrói quarto de casa em Ribeirão Preto",
+          "resumo": "Um incêndio atingiu a manhã de quinta-feira (26) em Ribeirão Preto, SP, destruindo um quarto de uma residência. A moradora, pensionista Edna Maria Brito de Sousa, de 62 anos, varria a porta de um imóvel vizinho quando o fogo começou e não sofreu ferimentos, mas perdeu todos os pertences do cômodo. Outros cômodos da casa também foram danificados. A origem do fogo ainda não foi confirmada.",
+          "porQueImporta": "O incidente destaca a necessidade de vigilância e prevenção contra incêndios em residências, especialmente em áreas urbanas.",
+          "categoria": "Incêndio",
+          "categoriaSlug": "incendio",
+          "sources": [
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/26/incendio-destroi-quarto-de-casa-em-ribeirao-preto-sp-moradora-nao-se-feriu.ghtml"
+            }
+          ],
+          "updatedAt": "2026-11-26T14:33:35.000Z",
+          "imageUrl": "https://s2-g1.glbimg.com/1GDrLQPy_aHe9aRIPabnh8HJ0k0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/h/7bqekfTcm7n1kxsPHqPA/design-sem-nome-3-.png"
         }
       ]
     }
