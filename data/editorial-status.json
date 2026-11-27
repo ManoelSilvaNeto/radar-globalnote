@@ -1,14 +1,9 @@
 {
-  "ranAt": "2026-11-26T15:37:23.475Z",
-  "editionDate": "2026-11-26",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Incidências de trânsito, chuvas e incêndio marcam o dia\" (3 parágrafos)",
-  "providers": [
-    "groq",
-    "cerebras"
-  ],
-  "attempts": [
-    "groq: ok"
-  ]
+  "ranAt": "2026-11-27T09:58:35.007Z",
+  "editionDate": "2026-11-27",
+  "hourUtc": 9,
+  "outcome": "skipped",
+  "reason": "fora da janela (9h < 11h UTC)",
+  "providers": [],
+  "attempts": []
 }
