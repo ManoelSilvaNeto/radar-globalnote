@@ -1,9 +1,14 @@
 {
-  "ranAt": "2026-11-27T09:58:35.007Z",
+  "ranAt": "2026-11-27T19:36:00.571Z",
   "editionDate": "2026-11-27",
-  "hourUtc": 9,
-  "outcome": "skipped",
-  "reason": "fora da janela (9h < 11h UTC)",
-  "providers": [],
-  "attempts": []
+  "hourUtc": 19,
+  "outcome": "generated",
+  "reason": "\"Enchentes e acidentes dominam o cenário nacional\" (3 parágrafos)",
+  "providers": [
+    "groq",
+    "cerebras"
+  ],
+  "attempts": [
+    "groq: ok"
+  ]
 }
